@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
+         "pubDate" : "Fri, 21 Apr 2023 13:00:00 +0100",
+         "title" : "Satty Zhuldyz Rapid - Live!"
+      },
+      {
+         "description" : " These days I keep running into surprise chess fans. Today's encounter was a book shop in Sydney, after I had inadvertently stole $117 worth of books. I had purchased them the day before, but the credit card transaction had not been completed before I left the store. Realising my crime, I returned today to settle accounts. I described my purchases to a different manager than yesterday's, as \"chess and gardening books\". She immediately asked me if I had watched the previous nights game, referring to the current World Championship match. I said that I not, but was aware that Ding had failed to convert a promising position. \"Yes, he missed a few chances\" was her considered reply.<br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/another-surprise-encounter.html",
+         "pubDate" : "Fri, 21 Apr 2023 11:16:00 +0000",
+         "title" : "Another surprise encounter"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2352",
+         "pubDate" : "Fri, 21 Apr 2023 10:52:32 +0000",
+         "title" : "Polish Championship: Bartosz So&#263ko and Michalina Rudzińska win titles"
+      },
+      {
+         "description" : "The Satty Zhuldyz Chess Festival is one of the many side events of the World Championship match between Ian Nepomniachtchi and Ding Liren in Astana. Twelve players, among them former World Champion Vladimir Kramnik, were invited to play a rapid and blitz tournament. With a score of 3.5/4 Arjun Erigaisi had the best start in the strong and attractive field. | Photo: Vincent Keymer during the drawing of lots | Photos: Maria Emelianova and Damir Kuzhumov for Satty Shuldyz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/erigaisi-has-the-best-start-at-the-satty-zhuldyz-festival",
+         "pubDate" : "Fri, 21 Apr 2023 11:40:20 +0100",
+         "title" : "Erigaisi has the best start at the Satty Zhuldyz Festival"
+      },
+      {
+         "description" : "Drama continues to unfold at the World Championship match in Astana. Following four decisive games, Ding Liren played enterprisingly with the white pieces and gained a decisive advantage. Amid a sharp tactical middlegame, Ian Nepomniachtchi was resourceful in defence, as he also garnered a big lead on the clock. Nepo managed to escape with a draw and continues to have a 1-point lead on the scoreboard. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Fri, 21 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 9 - Live!"
+      },
+      {
+         "description" : "In Chess, making a mistake in the opening can instantly cost you the game or lead to a long-term disadvantage. Learning from mistakes and avoiding common pitfalls is crucial to improving your game. In his first Fritztrainer, former FIDE World Champion Ruslan Ponomariov shares basic patterns and universal themes to help beginners, amateurs, coaches, and professionals navigate the complexities of Chess openings and strengthen their skills.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ruslan-ponomariov-typical-opening-mistakes",
+         "pubDate" : "Fri, 21 Apr 2023 10:36:48 +0100",
+         "title" : "Ruslan Ponomariov: Typical opening mistakes"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris had an in-depth look at the \"incredible\" 8th game of the World Championship match. Ding opted for the Saemisch Variation (4.e3 & 5.a3) against the Nimzo-Indian and came well-prepared with the amazing concept of 9.Ra2!?, which only had been seen a few times before. This led to an exciting game, in which Ding, however, missed several chances to win. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening-2",
+         "pubDate" : "Fri, 21 Apr 2023 09:30:21 +0100",
+         "title" : "Robert Ris' Fast and Furious: Ding vs Nepomniachtchi: Attacking the Nimzo!"
+      },
+      {
          "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 4.5-3.5 with six games left Russia's Ian Nepomniaachtchi, 32, has a fortunate 4.5-3.5 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -882,14 +938,6 @@ news_feed (
          "title" : "2023 Saint Louis Super Swiss Recap "
       },
       {
-         "description" : "In his \"Game of the Week\" show #563, Merijn van Delft does what most chess fans do these days: He takes a look at the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn analyses Nepomniachtchi's win in game 2 and discusses what makes Nepomniachtchi the favourite, and how Ding should continue the match. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello-3",
-         "pubDate" : "Thu, 13 Apr 2023 17:22:27 +0100",
-         "title" : "Game of the Week #563: Ding Liren vs Ian Nepomniachtchi"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -952,14 +1000,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-erode-1st-2nd-april-2023/",
          "pubDate" : "Thu, 13 Apr 2023 08:12:32 +0000",
          "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
-      },
-      {
-         "description" : "The Danish Championships 2023 took place on April 1-10, 2023, in Svendborg, a small town that hosted the last five editions. The top event was a 10-player single round-robin. GM Boris Chatalbashev earned his maiden title after scoring 7&frac12; points. GM Jesper S&oslash;nderg&aring;rd Thybo finished in sole second place, a full point behind. | Photos: Thomas Vesterg&aring;rd and Ellen Fredericia Nilssen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/boris-chatalbashev-wins-danish-championship-2023",
-         "pubDate" : "Thu, 13 Apr 2023 06:40:00 +0100",
-         "title" : "Boris Chatalbashev wins Danish Championship"
       },
       {
          "description" : " Dominica The Dominica Chess Federation was on a live stream on Wednesday hosted by Anthony Drigo's &#8220;This Week in Interview&#8221; segment. He was joined by three board members and spent approximately 90 minutes discussing chess, its beginnings, its benefits, Chess-in-Schools, and many details about titles and skill levels. There was even a beginning segment on The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/\">Dominica Chess on TDN Network!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1050,22 +1090,6 @@ news_feed (
          "title" : "Ding Liren passes acid test in World Championship Game 3 "
       },
       {
-         "description" : "In this week's show, Karsten M&uuml;ller and his guest, 20-year old Indian GM Iniyan P., look at endgame highlights from the European Individual Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-3",
-         "pubDate" : "Wed, 12 Apr 2023 13:59:16 +0100",
-         "title" : "Endgame Magic #235: Highlights from the European Individual Championship - with Iniyan!"
-      },
-      {
-         "description" : "Game 3 of the World Championship match saw Ding Liren comfortably holding a draw with the black pieces. The game lasted 30 moves and a bit over 3 hours. Ian Nepomniachtchi thus kept his 1-point lead on the scoreboard, a lead he gained thanks to a remarkable win in Monday's second game. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g3",
-         "pubDate" : "Wed, 12 Apr 2023 13:55:00 +0100",
-         "title" : "World Championship Game 3: Ding comfortably draws with black"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi shook up the third round of the 2023 FIDE World Championship by beginning his game against GM Ding Liren with a new first move, setting the stage for a fresh opening battle with 1.d4. Ding chose the Queen&#39;s Gambit Declined in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1088,14 +1112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-holds-a-comfortable-draw-with-black-in-world-championship-game-3",
          "pubDate" : "Wed, 12 Apr 2023 15:12:00 +0400",
          "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
-      },
-      {
-         "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/menorca-open-2023-preview",
-         "pubDate" : "Wed, 12 Apr 2023 01:40:00 +0100",
-         "title" : "Gukesh, Niemann and Van Foreest head strong field in Menorca"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 2: Nepomniachtchi pulls ahead with convincing win Match Score: 1&frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 2Monday, 10 April 2023 Ding gives lackluster performance, loses badly Game 2 of the World Chess Championship raised questions about the tone of the match. Ding The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/\">2023 World Chess Championship: Game 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-oceania-junior-and-youth-update.html",
          "pubDate" : "Fri, 31 Mar 2023 12:43:00 +0000",
          "title" : "2023 Oceania Junior and Youth Update"
-      },
-      {
-         "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-eight/",
-         "pubDate" : "Fri, 31 Mar 2023 08:24:38 +0000",
-         "title" : "A Foundation for Beginners Eighty Eight"
       }
    ]
 }
