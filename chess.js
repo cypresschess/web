@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 5-4 with five games left Russia's Ian Nepomniaachtchi, 32, has a fortunate 5-4 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, aided b",
+         "description" : "In his new Power Play Show, GM Daniel King examines the London System, inspired by Ding Liren's masterful strategic win in game 6 of the World Championship match in Astana. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-masterful-strategy-london-system",
+         "pubDate" : "Fri, 21 Apr 2023 20:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Masterful strategy in the London"
+      },
+      {
+         "description" : "Going for a mainstream system in elite-GM practice, Ding Liren managed to hold a draw with the black pieces in game 9 of the World Championship match. Ian Nepomniachtchi did get an edge, but could not break through Ding's defences. The Russian GM thus kept his 1-point lead, as five games remain to be played in Astana. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g9",
+         "pubDate" : "Fri, 21 Apr 2023 19:40:00 +0100",
+         "title" : "World Championship Game 9: Six hours and 82 moves"
+      },
+      {
+         "description" : " We'll end our examination of the pin this week by looking at Black's best ideas regarding White's treatment of the pin. Black's seeming good pin has one major problem, it can be completely ignored. White's Knight on f3 can ignore the Black Bishop on g4, as we saw last week. Black's biggest problem was his <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\">A Foundation for Beginners Ninety</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety/",
+         "pubDate" : "Fri, 21 Apr 2023 17:31:21 +0000",
+         "title" : "A Foundation for Beginners Ninety"
+      },
+      {
+         "description" : "Grandmaster Dorian Rogozenco, is a renowned chess trainer and expert on opening theory. In this interview, GM Rogozenco shares his thoughts on the latest opening trends in ChessBase's Opening Encyclopaedia 2023. Prepare to improve your opening repertoire and stay ahead of your competition with the valuable insights.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-trends-in-2023",
+         "pubDate" : "Fri, 21 Apr 2023 18:00:00 +0100",
+         "title" : "Opening Trends in 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2353",
+         "pubDate" : "Fri, 21 Apr 2023 16:45:10 +0000",
+         "title" : "Nepomniachtchi maintains the lead following a draw in the longest game of the match"
+      },
+      {
+         "description" : " Ian Nepomniachtchi showed clear disappointment at the conclusion of the drawn game 9 of the World Chess Championship in Astana, Kazakhstan. The players have changed opening variations every day and today Ding Liren played the Berlin Defence to the Ruy Lopez. This option has been one of the most common choices in high level chance for a long time now, it's solid and black can research deeply. Nepomniachtchi chose 4.d3 and Ding's preparation seemed to run quite deep. 15....Qc7 was a very interesting idea but Ding did not follow it up correctly, 17...Rb8?! whilst not horrible is the move that started to cause difficulties, the pawn sacrifice 17...Bf8 was best (it's so sound it's even doubtful ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-frustrated-by-game-9-draw-but-still-leads-the-world-championship-by-a-point",
+         "pubDate" : "Fri, 21 Apr 2023 19:36:00 +0400",
+         "title" : "Nepomniachtchi frustrated by game 9 draw but still leads the World Championship by a point - 9"
+      },
+      {
+         "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 5-4 with five games left Russia's Ian Nepomniachtchi, 32, has a fortunate 5-4 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, aided by",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/apr/21/chess-ding-misses-wins-and-his-prep-leaks-as-nepomniachtchi-keeps-the-lead",
@@ -23,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-9",
          "pubDate" : "Fri, 21 Apr 2023 07:57:00 -0700",
-         "title" : "Flash Report: Nepomniachtchi Inches Closer To World Championship Title After 82-Move Draw"
+         "title" : "Nepomniachtchi Inches Closer To World Championship Title After 82-Move Draw"
       },
       {
          "description" : "Grandmaster Alexey Sarana has become one of the most prolific Russian grandmasters to switch federations as FIDE on Friday confirmed that he can play under the Serbian flag. The 23-year-old who became the European champion in March is ranked wor...",
@@ -42,14 +90,6 @@ news_feed (
          "title" : "Online entry open for 2023 Northumbria Masters"
       },
       {
-         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
-         "pubDate" : "Fri, 21 Apr 2023 13:00:00 +0100",
-         "title" : "Satty Zhuldyz Rapid - Live!"
-      },
-      {
          "description" : " These days I keep running into surprise chess fans. Today's encounter was a book shop in Sydney, after I had inadvertently stole $117 worth of books. I had purchased them the day before, but the credit card transaction had not been completed before I left the store. Realising my crime, I returned today to settle accounts. I described my purchases to a different manager than yesterday's, as \"chess and gardening books\". She immediately asked me if I had watched the previous nights game, referring to the current World Championship match. I said that I not, but was aware that Ding had failed to convert a promising position. \"Yes, he missed a few chances\" was her considered reply.<br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -66,6 +106,14 @@ news_feed (
          "title" : "Polish Championship: Bartosz So&#263ko and Michalina Rudzińska win titles"
       },
       {
+         "description" : "In Chess, making a mistake in the opening can instantly cost you the game or lead to a long-term disadvantage. Learning from mistakes and avoiding common pitfalls is crucial to improving your game. In his first Fritztrainer, former FIDE World Champion Ruslan Ponomariov shares basic patterns and universal themes to help beginners, amateurs, coaches, and professionals navigate the complexities of Chess openings and strengthen their skills.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ruslan-ponomariov-typical-opening-mistakes",
+         "pubDate" : "Fri, 21 Apr 2023 11:45:00 +0100",
+         "title" : "Ruslan Ponomariov: Typical opening mistakes"
+      },
+      {
          "description" : "The Satty Zhuldyz Chess Festival is one of the many side events of the World Championship match between Ian Nepomniachtchi and Ding Liren in Astana. Twelve players, among them former World Champion Vladimir Kramnik, were invited to play a rapid and blitz tournament. With a score of 3.5/4 Arjun Erigaisi had the best start in the strong and attractive field. | Photo: Vincent Keymer during the drawing of lots | Photos: Maria Emelianova and Damir Kuzhumov for Satty Shuldyz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,20 +122,12 @@ news_feed (
          "title" : "Erigaisi has the best start at the Satty Zhuldyz Festival"
       },
       {
-         "description" : "Going for a more mainstream system in elite-GM practice, Ding Liren managed to hold a draw with the black pieces in game 9 of the World Championship match. Ian Nepomniachtchi did get an edge, but could not break through Ding's defences. The Russian GM thus kept his 1-point lead, as five games remain to be played in Astana. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
+         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Fri, 21 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 9 - Ding holds a draw with black"
-      },
-      {
-         "description" : "In Chess, making a mistake in the opening can instantly cost you the game or lead to a long-term disadvantage. Learning from mistakes and avoiding common pitfalls is crucial to improving your game. In his first Fritztrainer, former FIDE World Champion Ruslan Ponomariov shares basic patterns and universal themes to help beginners, amateurs, coaches, and professionals navigate the complexities of Chess openings and strengthen their skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ruslan-ponomariov-typical-opening-mistakes",
-         "pubDate" : "Fri, 21 Apr 2023 10:36:48 +0100",
-         "title" : "Ruslan Ponomariov: Typical opening mistakes"
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
+         "pubDate" : "Fri, 21 Apr 2023 10:00:00 +0100",
+         "title" : "Satty Zhuldyz Rapid - Live!"
       },
       {
          "description" : "In his Fast & Furious show, Robert Ris had an in-depth look at the \"incredible\" 8th game of the World Championship match. Ding opted for the Saemisch Variation (4.e3 & 5.a3) against the Nimzo-Indian and came well-prepared with the amazing concept of 9.Ra2!?, which only had been seen a few times before. This led to an exciting game, in which Ding, however, missed several chances to win. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -954,22 +994,6 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
       },
       {
-         "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-garry-kasparov-celebrates-60th-birthday",
-         "pubDate" : "Thu, 13 Apr 2023 20:00:00 +0100",
-         "title" : "Congratulations! Garry Kasparov celebrates 60th birthday!"
-      },
-      {
-         "description" : "The score is now tied at the World Championship match in Astana, as Ding Liren defeated Ian Nepomniachtchi with white in Thursday's game 4. Ding had a favourable pawn structure in the centre when Nepo blundered on move 28, allowing the Chinese to play a powerful exchange sacrifice. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g4",
-         "pubDate" : "Thu, 13 Apr 2023 19:05:00 +0100",
-         "title" : "World Championship Game 4: Ding strikes back, levels the score"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Last month I participated in the first ever Saint Louis Super Swiss, an incredibly strong open tournament hosted at Saint Louis University from March 12-16th featuring both local and national talent. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/52746164501_9d0934f219_k.jpg?itok=qoTJya2d\" alt=\"\" /></div><div class=\"field field-name-field-category field-type-entityreference fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1832,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2314",
          "pubDate" : "Fri, 31 Mar 2023 22:15:16 +0000",
          "title" : "Aravindh Chithambaram wins 20th edition of New Delhi Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2313",
-         "pubDate" : "Fri, 31 Mar 2023 18:46:00 +0000",
-         "title" : "WGP New Dehli Round 6 recap: The halfway point"
       }
    ]
 }
