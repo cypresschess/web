@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 4.5-3.5 with six games left Russia's Ian Nepomniaachtchi, 32, has a fortunate 4.5-3.5 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/apr/21/chess-ding-misses-wins-and-his-prep-leaks-as-nepomniachtchi-keeps-the-lead",
+         "pubDate" : "Fri, 21 Apr 2023 07:00:06 +0000",
+         "title" : "Chess: Ding misses wins and his prep leaks as Nepomniachtchi keeps the lead"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-9-live/",
+         "pubDate" : "Fri, 21 Apr 2023 06:44:04 +0000",
+         "title" : "Nepo - Ding 2023, game 9 LIVE"
+      },
+      {
+         "description" : "300 children and youth of Kazakhstan began playing the Bibisara Assaubayeva Cup this morning, part of the Satty Zhuldyz Chess Festival 2023. Clocks were started at 11:00 local time with a ceremonial first move made by the Minister for Culture and Sport of Kazakhstan. The Minister awarded local star IM Bibisara Assaubayeva with the Honor []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-leads-satty-zhuldyz-chess-festival-2023/",
+         "pubDate" : "Fri, 21 Apr 2023 06:17:37 +0000",
+         "title" : "Arjun Erigaisi leads Satty Zhuldyz Chess Festival 2023"
+      },
+      {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,22 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/1000gm-april-scheveningen-challengers-participants/",
          "pubDate" : "Thu, 20 Apr 2023 05:38:00 +0000",
          "title" : "1000GM April Scheveningen Challengers - Participants"
-      },
-      {
-         "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ii-torneo-ajedrez-jovenes-promesas-diagonal-participants/",
-         "pubDate" : "Thu, 20 Apr 2023 05:25:00 +0000",
-         "title" : "II Torneo Ajedrez - Jovenes Promesas Diagonal - Participants"
-      },
-      {
-         "description" : "The Kyiv Championship Blitz Marathon 2023 will be held from the 22nd to the 23rd of April in Kyiv, Ukraine. Up to 32 players will play a round-robin tournament in a nightly marathon. The time control is 5 minutes for the entire game with no increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kyiv-championship-blitz-marathon-2023-participants/",
-         "pubDate" : "Thu, 20 Apr 2023 05:09:00 +0000",
-         "title" : "Kyiv Championship Blitz Marathon 2023 - Participants"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 7: 4th decisive game in a row as Ding collapses Match Score: 4-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 7Tuesday, 18 April 2023 Ding Liren dropped Game 7 after playing a masterpiece that was the talk of the chess world. It is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/20/2023-world-chess-championship-game-7/\">2023 World Chess Championship: Game 7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-eight/",
          "pubDate" : "Fri, 31 Mar 2023 08:24:38 +0000",
          "title" : "A Foundation for Beginners Eighty Eight"
-      },
-      {
-         "description" : " The five-time US champion, whose main career is as a streamer with more than a million followers, defeated fellow world top-10 player Wesley So in a bruising final Hikaru Nakamura, who combines streaming to over a million followers with a comeback to classical chess in his mid-30s, has won the American Cup, a $200,000 knockout including $60,000 for the winner. The defeated finalist, Wesley So, snatched a poisoned pawn and lost his queen in <a href=\"https://www.chessgames.com/perl/chessgame?gid=2466280\" title=\"\">a 19-move decider</a>. The 35-year-old five-time US champion won through a bruising trilogy of matches at St Louis to defeat his fellow world top-10 GM. Nakamura had hoped that the c",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/mar/31/chess-hikaru-nakamura-traps-a-queen-and-wins-60000-in-st-louis",
-         "pubDate" : "Fri, 31 Mar 2023 07:00:16 +0000",
-         "title" : "Chess: Hikaru Nakamura traps a queen and wins $60,000 in St Louis"
       }
    ]
 }
