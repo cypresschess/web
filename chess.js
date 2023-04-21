@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 5-4 with five games left Russia's Ian Nepomniaachtchi, 32, has a fortunate 5-4 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, aided b",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/apr/21/chess-ding-misses-wins-and-his-prep-leaks-as-nepomniachtchi-keeps-the-lead",
+         "pubDate" : "Fri, 21 Apr 2023 15:11:02 +0000",
+         "title" : "Chess: Ding misses wins and his prep leaks as Nepomniachtchi keeps the lead"
+      },
+      {
+         "description" : "Ian Nepomniachtchi suddenly whipped up a powerful attack midway through Game 9 of the FIDE World Championship match, but Ding Liren took some brave decisions and held on to make a draw. Ian now leads 5:4 going into the final five games of the match, but Ding still has three games with the white pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-after-caruana-gambit-in-game-9",
+         "pubDate" : "Fri, 21 Apr 2023 15:02:32 +0000",
+         "title" : "Ding Liren survives scare after \"Caruana gambit\""
+      },
+      {
+         "description" : "A draw in the ninth round of the&#38;nbsp;2023 FIDE World Championship was welcomed by both challengers on Friday, who both had incentives to take half a point from the round. GM Ian Nepomniachtchi moved to two and a half points of the world champions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-9",
+         "pubDate" : "Fri, 21 Apr 2023 07:57:00 -0700",
+         "title" : "Flash Report: Nepomniachtchi Inches Closer To World Championship Title After 82-Move Draw"
+      },
+      {
+         "description" : "Grandmaster Alexey Sarana has become one of the most prolific Russian grandmasters to switch federations as FIDE on Friday confirmed that he can play under the Serbian flag. The 23-year-old who became the European champion in March is ranked wor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russian-grandmaster-alexey-sarana-transfers-to-serbia",
+         "pubDate" : "Fri, 21 Apr 2023 07:32:00 -0700",
+         "title" : "European Champion Alexey Sarana Transfers To Serbia"
+      },
+      {
+         "description" : "Entries are now being accepted online for the 2023 Northumbria Masters in Newcastle upon Tyne from 24-28 August at https://www.northumbriamasters.com. The congress includes various nine-round...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/online-entry-open-for-2023-northumbria-masters/",
+         "pubDate" : "Fri, 21 Apr 2023 12:35:41 +0000",
+         "title" : "Online entry open for 2023 Northumbria Masters"
+      },
+      {
          "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +74,12 @@ news_feed (
          "title" : "Erigaisi has the best start at the Satty Zhuldyz Festival"
       },
       {
-         "description" : "Drama continues to unfold at the World Championship match in Astana. Following four decisive games, Ding Liren played enterprisingly with the white pieces and gained a decisive advantage. Amid a sharp tactical middlegame, Ian Nepomniachtchi was resourceful in defence, as he also garnered a big lead on the clock. Nepo managed to escape with a draw and continues to have a 1-point lead on the scoreboard. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
+         "description" : "Going for a more mainstream system in elite-GM practice, Ding Liren managed to hold a draw with the black pieces in game 9 of the World Championship match. Ian Nepomniachtchi did get an edge, but could not break through Ding's defences. The Russian GM thus kept his 1-point lead, as five games remain to be played in Astana. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Fri, 21 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 9 - Live!"
+         "title" : "World Championship, Game 9 - Ding holds a draw with black"
       },
       {
          "description" : "In Chess, making a mistake in the opening can instantly cost you the game or lead to a long-term disadvantage. Learning from mistakes and avoiding common pitfalls is crucial to improving your game. In his first Fritztrainer, former FIDE World Champion Ruslan Ponomariov shares basic patterns and universal themes to help beginners, amateurs, coaches, and professionals navigate the complexities of Chess openings and strengthen their skills.",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening-2",
          "pubDate" : "Fri, 21 Apr 2023 09:30:21 +0100",
          "title" : "Robert Ris' Fast and Furious: Ding vs Nepomniachtchi: Attacking the Nimzo!"
-      },
-      {
-         "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 4.5-3.5 with six games left Russia's Ian Nepomniaachtchi, 32, has a fortunate 4.5-3.5 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/apr/21/chess-ding-misses-wins-and-his-prep-leaks-as-nepomniachtchi-keeps-the-lead",
-         "pubDate" : "Fri, 21 Apr 2023 07:00:06 +0000",
-         "title" : "Chess: Ding misses wins and his prep leaks as Nepomniachtchi keeps the lead"
       },
       {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
@@ -152,6 +184,14 @@ news_feed (
          "link" : "https://www.chessdom.com/sorry-magnus-your-chess-was-too-perfect-tweetoftheday/",
          "pubDate" : "Thu, 20 Apr 2023 12:17:02 +0000",
          "title" : "Sorry, Magnus, your chess was too perfect! #TweetOftheDay"
+      },
+      {
+         "description" : "The ECF is pleased to announce that Student Silver membership is available FREE for the first year to student players who have not previously been...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/free-ecf-student-silver-membership/",
+         "pubDate" : "Thu, 20 Apr 2023 11:34:27 +0000",
+         "title" : "Free ECF Student Silver membership"
       },
       {
          "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
@@ -1183,7 +1223,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cheating-kenya-open-women-championship-impostor",
          "pubDate" : "Mon, 10 Apr 2023 07:17:00 -0700",
-         "title" : "Kenyan Player Expelled After Pretending To Be A Woman To Win Lucrative Prize"
+         "title" : "3-Year Ban For Kenyan Player Who Pretended To Be A Woman To Win Lucrative Prize"
       },
       {
          "description" : " GM Hrant Melkumyan has won his third O2C Doeberl Cup with a dominant display in this years event. Having previously finished 1st in 2019 and 2022, his 8/9 in this years event saw him finish half a point ahead of GM Temur Kuybokarov. He secured first place with a win over IM Ari Dale, finishing with 7 wins and 2 draws (against Kuybokarov and IM Rishi Sardana). Kuybokarov defeated FM Matthew Clarke to finish outright 2nd on 7.5. Tied for 3rd place were IM James Morris, IM Rishi Sardana, GM Daniel Fernandez and FM Fred Litchfield, on 6.5. Three of the top 6 (Melkumyan, Sardana and Litchfield) are Canberra residents, which capped a fantastic event for the ACT chess community. The Major saw a 4 ",
@@ -1682,22 +1722,6 @@ news_feed (
          "title" : "European Open & Women's Club Cup 2023 - Official invitation"
       },
       {
-         "description" : "The Champions Chess Tour Chessable Masters 2023 Knockout kicked off on Monday, and Division I saw four players advance to the Winners Semifinals: GMs Vladislav Artemiev, Fabiano Caruana, Hikaru Nakamura, and Wesley So. They respectively knocked GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-1",
-         "pubDate" : "Mon, 03 Apr 2023 15:43:00 -0700",
-         "title" : "Artemiev Upsets World Champion; Caruana, Nakamura, So Advance To Winners"
-      },
-      {
-         "description" : "With a second win in a row, GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi on Monday to clinch victory in the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 with a round to spare. She will challenge GM Ju Wenjun later this year for the wom...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-5",
-         "pubDate" : "Mon, 03 Apr 2023 13:42:00 -0700",
-         "title" : "Lei Clinches Final With Round To Spare, Becomes Ju's Challenger"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2023",
          "pubDate" : "Mon, 3 Apr 2023 16:56:00 +0400",
          "title" : "Chessable Masters 2023 - Games and Results"
-      },
-      {
-         "description" : "Lei Tingjie has beaten Tan Zhongyi with a game to spare to earn a Women's World Championship match against her Chinese compatriot Ju Wenjun this July. 26-year-old Lei Tingjie lost the first game of the FIDE Women's Candidates Final, but then stormed back to win three of the next four and clinch a 3.5:1.5 victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/lei-tingjie-wins-the-fide-women-s-candidates",
-         "pubDate" : "Mon, 03 Apr 2023 12:41:18 +0000",
-         "title" : "Lei Tingjie wins the FIDE Women's Candidates"
       },
       {
          "description" : "",
@@ -1824,46 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2313",
          "pubDate" : "Fri, 31 Mar 2023 18:46:00 +0000",
          "title" : "WGP New Dehli Round 6 recap: The halfway point"
-      },
-      {
-         "description" : "The last two posts in this short series on Ding Liren summarized his career up to his last participation in a World Youth Championship (2004) and after his first participation in a World Championship event (2011). For specifics see:- <UL> <LI> 2023-03-24: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html\">Ding Liren's TWIC Debut</A> &#149; World Youth Championship, 'TWIC 523; 2004-11-15 : U12 1-2' <LI> 2023-03-17: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> &#149; 2011 World Cup </UL> <P> What happened during the intervening years? The following chart is a combination of:-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-rise-to-gm-title.html",
-         "pubDate" : "Fri, 31 Mar 2023 15:09:00 +0000",
-         "title" : "Ding Liren's Rise to the GM title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2312",
-         "pubDate" : "Fri, 31 Mar 2023 14:01:09 +0000",
-         "title" : "WCF Game Recap 3: 98% precision in Chongqing! "
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Development Fund</strong> has <a href=\"https://pdc.fide.com/2023/03/24/2023-fide-development-fund-cycle-is-open/\">amended the application process</a> and therefore opened it later than usual for 2023 with submissions open until 31 October. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/development-fund-invites-applicants/",
-         "pubDate" : "Fri, 31 Mar 2023 14:47:01 +0100",
-         "title" : "Development Fund invites applicants"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nicosia, the capital of Cyprus, <a href=\"https://fide.com/news/2309\">will host</a> the fourth and final <strong>Women Grand Prix</strong> thanks to another sponsorship of <strong>Timur Turlov</strong>'s <strong>Freedom Finance</strong> that has a subsidiary on Cyprus. With all four Russians among its participants the Ukrainians <strong>Anna and Mariya Muzychuk</strong> will likely drop out and be replaced by <strong>FIDE</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/turlov-sponsors-final-women-gp/",
-         "pubDate" : "Fri, 31 Mar 2023 14:35:04 +0100",
-         "title" : "Turlov sponsors final Women GP"
-      },
-      {
-         "description" : " Just a quick update on the 2023 Oceania Junior and Youth Championships. Current entries are getting up to 140 players, and there is a hard limit of 200 players for the tournament (due to the venue size). The good news is that while some age groups will have to be merged, this will make the awarding of direct titles easier. Under the relevant FIDE regulations, if an age section has less than 8 players or has less than 3 federations involved, the section will be merged with the next section (almost always moving up). In the merged section, the lower group only requires 6 players and two federations to be present for titles to be awarded for that age group. As it now stands, this means all of ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/2023-oceania-junior-and-youth-update.html",
-         "pubDate" : "Fri, 31 Mar 2023 12:43:00 +0000",
-         "title" : "2023 Oceania Junior and Youth Update"
       }
    ]
 }
