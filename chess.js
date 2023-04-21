@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kazakhstan Chess Cup 2023 will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players in the tournament are Hans Moke Niemann, Tamir Nabaty, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023-live/",
+         "pubDate" : "Fri, 21 Apr 2023 20:28:28 +0000",
+         "title" : "Kazakhstan Chess Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 Excelsior April Open Championship is a 5-round Swiss tournament held from the 21 to the 23 of April in Toronto, Ontario, Canada. The time control for this event is 90 minutes + 30 seconds a move. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-excelsior-april-open-championship-live/",
+         "pubDate" : "Fri, 21 Apr 2023 20:18:14 +0000",
+         "title" : "2023 Excelsior April Open Championship - LIVE"
+      },
+      {
+         "description" : "The 2023 US National Middle School Championship is a 7-round Swiss tournament held from the 21 to the 23 of April in Round Rock, Texas. The time control is 90 minutes with a 10 seconds after each move. The tournament will be broadcast on a 13 minute delay. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-us-national-middle-school-championship-live/",
+         "pubDate" : "Fri, 21 Apr 2023 20:12:22 +0000",
+         "title" : "2023 US National Middle School Championship - LIVE"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King examines the London System, inspired by Ding Liren's masterful strategic win in game 6 of the World Championship match in Astana. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Chess: Ding misses wins and his prep leaks as Nepomniachtchi keeps the lead"
       },
       {
-         "description" : "Ian Nepomniachtchi suddenly whipped up a powerful attack midway through Game 9 of the FIDE World Championship match, but Ding Liren took some brave decisions and held on to make a draw. Ian now leads 5:4 going into the final five games of the match, but Ding still has three games with the white pieces.",
+         "description" : "Ian Nepomniachtchi suddenly whipped up a powerful attack midway through Game 9 of the FIDE World Championship match, but Ding Liren took some brave decisions and held on to make a draw after an endgame that stretched to six hours and 82 moves. Ian now leads 5:4 going into the final five games of the match, but Ding still has three games with the white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-after-caruana-gambit-in-game-9",
@@ -146,12 +170,28 @@ news_feed (
          "title" : "Nepo - Ding 2023, game 9 LIVE"
       },
       {
+         "description" : "The Kazakhstan Chess Cup will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players in the tournament are Hans Moke Niemann, Tamir Nabaty, S.P. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023/",
+         "pubDate" : "Fri, 21 Apr 2023 06:36:00 +0000",
+         "title" : "Kazakhstan Chess Cup 2023 - Participants"
+      },
+      {
          "description" : "300 children and youth of Kazakhstan began playing the Bibisara Assaubayeva Cup this morning, part of the Satty Zhuldyz Chess Festival 2023. Clocks were started at 11:00 local time with a ceremonial first move made by the Minister for Culture and Sport of Kazakhstan. The Minister awarded local star IM Bibisara Assaubayeva with the Honor []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/arjun-erigaisi-leads-satty-zhuldyz-chess-festival-2023/",
          "pubDate" : "Fri, 21 Apr 2023 06:17:37 +0000",
          "title" : "Arjun Erigaisi leads Satty Zhuldyz Chess Festival 2023"
+      },
+      {
+         "description" : "The 2023 Excelsior April Open Championship is a 5-round Swiss tournament held from the 21 to the 23 of April in Toronto, Ontario, Canada. The time control for this event is 90 minutes + 30 seconds a move. Replay:&#160;Nepo &#x2013; Ding game 1&#160;/&#160;Ding &#x2013; Nepo game 2&#160;/&#160;Nepo &#x2013; Ding game 3&#160;/&#160;Nepo &#x2013; Ding game 4&#160;/&#160;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-excelsior-april-open-championship-participants/",
+         "pubDate" : "Fri, 21 Apr 2023 06:16:00 +0000",
+         "title" : "2023 Excelsior April Open Championship - Participants"
       },
       {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
@@ -250,52 +290,12 @@ news_feed (
          "title" : "Kyiv Championship Blitz Marathon 2023 - LIVE"
       },
       {
-         "description" : "The SonFlow Cup 2023 will be held from the 21st to the 23rd of April in Kolding, Denmark. Participants will be divided into groups, and each group will play a 6-player round-robin. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sonflow-cup-2023-live/",
-         "pubDate" : "Thu, 20 Apr 2023 08:09:04 +0000",
-         "title" : "SonFlow Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 1000GM April Scheveningen Challengers will be held from the 21st to the 23rd of April in Sunnyvale, California, United States as a 5-round semi-Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-april-scheveningen-challengers-live/",
-         "pubDate" : "Thu, 20 Apr 2023 08:04:54 +0000",
-         "title" : "1000GM April Scheveningen Challengers - LIVE"
-      },
-      {
          "description" : "Chess is part of the Olympic Esports Series, with the finals taking place in Singapore between 22-25 June. The tournament has now reached the second...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/important-olympic-esports-series-information/",
          "pubDate" : "Thu, 20 Apr 2023 07:56:55 +0000",
          "title" : "Important Olympic Esports Series information"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-8-live/",
-         "pubDate" : "Thu, 20 Apr 2023 06:37:04 +0000",
-         "title" : "Nepo - Ding 2023, game 8 LIVE"
-      },
-      {
-         "description" : "The Satty Zhuldyz Rapid is taking place from 20&#x2013;22 April 2023 in Astana, Kazakhstan. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one.&#xA0;It is a 12-player round-robin tournament with participation of some of the best players in the world Vladimir Kramnik, Levon Aronian, Alexander Grischuk, Erigaisi Arjun, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/satty-zhuldyz-rapid-2023-live/",
-         "pubDate" : "Thu, 20 Apr 2023 06:34:52 +0000",
-         "title" : "Satty Zhuldyz Rapid 2023 - LIVE"
-      },
-      {
-         "description" : "The 1000GM April Scheveningen Challengers will be held from the 21st to the 23rd of April in Sunnyvale, California, United States as a 5-round semi-Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Replay:&#160;Nepo &#x2013; Ding game 1&#160;/&#160;Ding &#x2013; Nepo game 2&#160;/&#160;Nepo &#x2013; Ding game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-april-scheveningen-challengers-participants/",
-         "pubDate" : "Thu, 20 Apr 2023 05:38:00 +0000",
-         "title" : "1000GM April Scheveningen Challengers - Participants"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 7: 4th decisive game in a row as Ding collapses Match Score: 4-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 7Tuesday, 18 April 2023 Ding Liren dropped Game 7 after playing a masterpiece that was the talk of the chess world. It is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/20/2023-world-chess-championship-game-7/\">2023 World Chess Championship: Game 7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1848,14 +1848,6 @@ news_feed (
          "link" : "https://www.thearticle.com/miltons-cosmic-game-of-chess/",
          "pubDate" : "Sat, 01 Apr 2023 12:38:40 +0000",
          "title" : "Milton's cosmic game of chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2314",
-         "pubDate" : "Fri, 31 Mar 2023 22:15:16 +0000",
-         "title" : "Aravindh Chithambaram wins 20th edition of New Delhi Open"
       }
    ]
 }
