@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, All Orissa Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at Hotel Apsara, Sambalpur Odisha from 21-22",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-sambalpur-odisha/",
+         "pubDate" : "Sat, 22 Apr 2023 16:59:54 +0000",
+         "title" : "Senior National Arbiter Seminar & Examination at Sambalpur ,Odisha"
+      },
+      {
          "description" : "Ding Liren crossed the 2700-rating barrier back in 2012, and was soon regarded as one of the potential challengers for the world title. A week from now, the soft-spoken grandmaster from Wenzhou might become the new world chess champion. Thus, this is a good time to reminisce on his most spectacular victory. In November 2017, at the Chinese League, Ding played a stunning tactical combination and crowned it with a brilliant king hunt. Robert Ris examines the game in a 23-minute video. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,28 +234,52 @@ news_feed (
          "title" : "Nepo - Ding 2023, game 9 LIVE"
       },
       {
+         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Masters []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-masters-section-participants/",
+         "pubDate" : "Fri, 21 Apr 2023 06:43:00 +0000",
+         "title" : "6th Sharjah Masters 2023- Masters Section Participants"
+      },
+      {
+         "description" : "Romanian Grand Prix 2023&#xA0;is back with an increased budget. Starting with 2023 Bucharest Grand Prix will take place in 6 of the most beautiful cities in Romania: Bucharest, Bra&#x219;ov, Timi&#x219;oara, Arad, Cluj, and Alba Iulia.&#xA0;The first event is Bucharest Grand Prix, which is rapid chess tournament with time control of 15 minutes plus 5 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bucharest-grand-prix-the-international-rapid-chess-championship-of-romania-participants/",
+         "pubDate" : "Fri, 21 Apr 2023 06:40:00 +0000",
+         "title" : "Bucharest Grand Prix - The International Rapid Chess Championship of Romania - Participants"
+      },
+      {
+         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Challengers []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-challengers-section-participants/",
+         "pubDate" : "Fri, 21 Apr 2023 06:40:00 +0000",
+         "title" : "6th Sharjah Masters 2023- Challengers Section Participants"
+      },
+      {
+         "description" : "he 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Future []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-futures-section-participants/",
+         "pubDate" : "Fri, 21 Apr 2023 06:39:00 +0000",
+         "title" : "6th Sharjah Masters 2023- Futures Section Participants"
+      },
+      {
+         "description" : "The 33. Individual national championship in standard chess Radenci 2023 will take place from 25 April to 02 May 2023 in Radenci, Slovenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/33-individual-national-championship-in-standard-chess-radenci-2023-participants/",
+         "pubDate" : "Fri, 21 Apr 2023 06:37:00 +0000",
+         "title" : "33. Individual national championship in standard chess Radenci 2023 - Participants"
+      },
+      {
          "description" : "The Kazakhstan Chess Cup will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players in the tournament are Hans Moke Niemann, Tamir Nabaty, S.P. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023/",
          "pubDate" : "Fri, 21 Apr 2023 06:36:00 +0000",
          "title" : "Kazakhstan Chess Cup 2023 - Participants"
-      },
-      {
-         "description" : "300 children and youth of Kazakhstan began playing the Bibisara Assaubayeva Cup this morning, part of the Satty Zhuldyz Chess Festival 2023. Clocks were started at 11:00 local time with a ceremonial first move made by the Minister for Culture and Sport of Kazakhstan. The Minister awarded local star IM Bibisara Assaubayeva with the Honor []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-leads-satty-zhuldyz-chess-festival-2023/",
-         "pubDate" : "Fri, 21 Apr 2023 06:17:37 +0000",
-         "title" : "Arjun Erigaisi leads Satty Zhuldyz Chess Festival 2023"
-      },
-      {
-         "description" : "The 2023 Excelsior April Open Championship is a 5-round Swiss tournament held from the 21 to the 23 of April in Toronto, Ontario, Canada. The time control for this event is 90 minutes + 30 seconds a move. Replay:&#160;Nepo &#x2013; Ding game 1&#160;/&#160;Ding &#x2013; Nepo game 2&#160;/&#160;Nepo &#x2013; Ding game 3&#160;/&#160;Nepo &#x2013; Ding game 4&#160;/&#160;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-excelsior-april-open-championship-participants/",
-         "pubDate" : "Fri, 21 Apr 2023 06:16:00 +0000",
-         "title" : "2023 Excelsior April Open Championship - Participants"
       },
       {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
@@ -314,36 +346,12 @@ news_feed (
          "title" : "Ding misses a huge chance to level things up again in World Championship game 8 - 8"
       },
       {
-         "description" : "Andreea Navrotescu sums up the chess fans feelings for the ongoing Nepo &#x2013; Ding final of the World Chess Championship 2023 in one sentence and two hashtags. &#8220;Sorry, Magnus Carlsen, but your chess was too perfect to be this entertaining #NepoDing #weloveblunders&#8221; Andreea Navrotescu makes it for the second time this month in our #TweetOftheDay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sorry-magnus-your-chess-was-too-perfect-tweetoftheday/",
-         "pubDate" : "Thu, 20 Apr 2023 12:17:02 +0000",
-         "title" : "Sorry, Magnus, your chess was too perfect! #TweetOftheDay"
-      },
-      {
          "description" : "The ECF is pleased to announce that Student Silver membership is available FREE for the first year to student players who have not previously been...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/free-ecf-student-silver-membership/",
          "pubDate" : "Thu, 20 Apr 2023 11:34:27 +0000",
          "title" : "Free ECF Student Silver membership"
-      },
-      {
-         "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ii-torneo-ajedrez-jovenes-promesas-diagonal-live/",
-         "pubDate" : "Thu, 20 Apr 2023 08:30:00 +0000",
-         "title" : "II Torneo Ajedrez - Jovenes Promesas Diagonal - LIVE"
-      },
-      {
-         "description" : "The Kyiv Championship Blitz Marathon 2023 will be held from the 22nd to the 23rd of April in Kyiv, Ukraine. Up to 32 players will play a round-robin tournament in a nightly marathon. The time control is 5 minutes for the entire game with no increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kyiv-championship-blitz-marathon-2023-live/",
-         "pubDate" : "Thu, 20 Apr 2023 08:15:47 +0000",
-         "title" : "Kyiv Championship Blitz Marathon 2023 - LIVE"
       },
       {
          "description" : "Chess is part of the Olympic Esports Series, with the finals taking place in Singapore between 22-25 June. The tournament has now reached the second...",
@@ -1586,14 +1594,6 @@ news_feed (
          "title" : "Nakamura blunders mate-in-1 | Chessable Masters 3"
       },
       {
-         "description" : "The FIDE Women's Grand Prix 2022-23 in New Delhi came to a dramatic conclusion with the top three players finishing on the same points. However,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aleksandra-goryachkina-seals-top-spot-after-nail-biting-end-to-third-leg-of-fide-womens-grand-prix-2022-23-in-new-delhi/",
-         "pubDate" : "Thu, 06 Apr 2023 06:59:30 +0000",
-         "title" : "Aleksandra Goryachkina seals top spot after nail-biting end to third leg of FIDE Women's Grand Prix 2022-23 in New Delhi"
-      },
-      {
          "description" : "World no.1 Magnus Carlsen opted out of competing to be world champion, with no.2 Ian Nepomniachtchi and no.3 Ding Liren facing off instead.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1856,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2316",
          "pubDate" : "Sat, 01 Apr 2023 21:48:46 +0000",
          "title" : "Autism Awareness Day: FIDE Infinite Chess project outlook"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2315",
-         "pubDate" : "Sat, 01 Apr 2023 19:22:02 +0000",
-         "title" : "WGP New Dehli: Round 7 Recap"
       }
    ]
 }
