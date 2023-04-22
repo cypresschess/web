@@ -146,14 +146,6 @@ news_feed (
          "title" : "Erigaisi has the best start at the Satty Zhuldyz Festival"
       },
       {
-         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
-         "pubDate" : "Fri, 21 Apr 2023 10:00:00 +0100",
-         "title" : "Satty Zhuldyz Rapid - Live!"
-      },
-      {
          "description" : "In his Fast & Furious show, Robert Ris had an in-depth look at the \"incredible\" 8th game of the World Championship match. Ding opted for the Saemisch Variation (4.e3 & 5.a3) against the Nimzo-Indian and came well-prepared with the amazing concept of 9.Ra2!?, which only had been seen a few times before. This led to an exciting game, in which Ding, however, missed several chances to win. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,6 +984,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed-lichessorg",
          "pubDate" : "Thu, 13 Apr 2023 21:26:22 +0000",
          "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
+      },
+      {
+         "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-garry-kasparov-celebrates-60th-birthday",
+         "pubDate" : "Thu, 13 Apr 2023 20:00:00 +0100",
+         "title" : "Congratulations! Garry Kasparov celebrates 60th birthday!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Last month I participated in the first ever Saint Louis Super Swiss, an incredibly strong open tournament hosted at Saint Louis University from March 12-16th featuring both local and national talent. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/52746164501_9d0934f219_k.jpg?itok=qoTJya2d\" alt=\"\" /></div><div class=\"field field-name-field-category field-type-entityreference fiel",
