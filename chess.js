@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
+         "pubDate" : "Sat, 22 Apr 2023 13:00:00 +0100",
+         "title" : "Satty Zhuldyz Rapid - Live!"
+      },
+      {
+         "description" : "Readers of my columns in TheArticle will have observed my hitherto thinly disguised disdain for the so-called Chess , currently in progress in Astana, Kazakhstan. Without the reigning world champion, Magnus Carlsen, this contest is a striking example of Hamlet without the Prince syndrome. Early games confirmed my scepticism, with Ding's loss in Game 2 falling []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-vs-poker/",
+         "pubDate" : "Sat, 22 Apr 2023 09:53:41 +0000",
+         "title" : "Chess vs. poker"
+      },
+      {
          "description" : "In the diagram position Black must decide what to do with the attacked knight d5: 16...Nf4! is okay, the game move, however, was 16...Nb4??. The refutation - entirely up to you!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-reflections-on-ionchev-s-pattern",
          "pubDate" : "Fri, 14 Apr 2023 17:05:00 +0100",
          "title" : "Study of the Month - Reflections on Ionchev's pattern"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris looks at game 4 of the World Championship match in Astana. Ding Liren's opening choice was excellent, as his decision to enter a relatively unknown line from the English Opening worked wonders. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening",
-         "pubDate" : "Fri, 14 Apr 2023 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Ding's English Opening in Astana"
       },
       {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
