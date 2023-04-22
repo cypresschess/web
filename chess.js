@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black must decide what to do with the attacked knight d5: 16...Nf4! is okay, the game move, however, was 16...Nb4??. The refutation - entirely up to you!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wrong-direction",
+         "pubDate" : "Sat, 22 Apr 2023 09:00:00 +0100",
+         "title" : "Wrong direction"
+      },
+      {
+         "description" : "A free day at the Astana World Championship - a good time to take another look at the last three games. Once again we have deep, instructive analyses for you to study, kindly provided to us by grandmaster Efstratios Grivas, trainer and FIDE international organizer. Our replay app makes it very easy to follow the annotations. You can even start an engine to work out the most subtle questions you might have. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-7-9",
+         "pubDate" : "Sat, 22 Apr 2023 08:00:00 +0100",
+         "title" : "Grivas on Nepo-Ding 7-9"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 8: Ding missed golden opportunity Match Score: 4&frac12;-3&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 8Thursday, 20 April 2023 Game 8 of the World Chess Championship in Astana, Kazakhstan ended in a draw, the first in five games. Both players have been trading The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/\">2023 World Chess Championship: Game 8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/",
+         "pubDate" : "Sat, 22 Apr 2023 04:28:13 +0000",
+         "title" : "2023 World Chess Championship: Game 8"
+      },
+      {
          "description" : "The Kazakhstan Chess Cup 2023 will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players in the tournament are Hans Moke Niemann, Tamir Nabaty, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -962,14 +986,6 @@ news_feed (
          "title" : "Ding Liren strikes back hard after poor start against Ian Nepomniachtchi"
       },
       {
-         "description" : "The La Roda Open took place on April 5-9 in La Roda, a small town located in the province of Albacete. The 9-round Swiss open saw two players scoring 7&frac12; points, Alexandr Fier and Aravindh Chithambaram. Fier was declared champion thanks to his better tiebreaker score. A number of Indian players had strong performances, as Pranav, Iniyan and top seed Narayanan all collected 7 points in the tournament. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/la-roda-open-2023-final-report",
-         "pubDate" : "Fri, 14 Apr 2023 06:30:00 +0100",
-         "title" : "Alexadr Fier edges Aravindh to win 49th La Roda Open"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed-lichessorg",
          "pubDate" : "Thu, 13 Apr 2023 21:26:22 +0000",
          "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
-      },
-      {
-         "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-garry-kasparov-celebrates-60th-birthday",
-         "pubDate" : "Thu, 13 Apr 2023 20:00:00 +0100",
-         "title" : "Congratulations! Garry Kasparov celebrates 60th birthday!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Last month I participated in the first ever Saint Louis Super Swiss, an incredibly strong open tournament hosted at Saint Louis University from March 12-16th featuring both local and national talent. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/52746164501_9d0934f219_k.jpg?itok=qoTJya2d\" alt=\"\" /></div><div class=\"field field-name-field-category field-type-entityreference fiel",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-holds-a-comfortable-draw-with-black-in-world-championship-game-3",
          "pubDate" : "Wed, 12 Apr 2023 15:12:00 +0400",
          "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 2: Nepomniachtchi pulls ahead with convincing win Match Score: 1&frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 2Monday, 10 April 2023 Ding gives lackluster performance, loses badly Game 2 of the World Chess Championship raised questions about the tone of the match. Ding The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/\">2023 World Chess Championship: Game 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/",
-         "pubDate" : "Tue, 11 Apr 2023 22:43:17 +0000",
-         "title" : "2023 World Chess Championship: Game 2"
       },
       {
          "description" : " The <a href=\"https://actjcl.org.au/oycc2023/index.html\">2023 Oceania Junior and Youth Championship</a> began today at Campbell High School in Canberra. 204 players entered, although a couple of late withdrawals forced a change to some of the events. To allow everyone to be eligible for titles, the tournament is now being run in 5 sections. The Under 20 and Under 18 sections are now one event, as are the Under 16 Open and the Under 14 Open. The Under 12 Open Tournament has been joined by the Under 10's and Under 8's. The Girls event is also now one section. While medals will be awarded in all age groups (20 down to 8 for both Open and Girls), the number of direct titles on offer has been red",
