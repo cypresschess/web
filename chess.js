@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
+         "description" : "Ding Liren crossed the 2700-rating barrier back in 2012, and was soon regarded as one of the potential challengers for the world title. A week from now, the soft-spoken grandmaster from Wenzhou might become the new world chess champion. Thus, this is a good time to reminisce on his most spectacular victory. In November 2017, at the Chinese League, Ding played a stunning tactical combination and crowned it with a brilliant king hunt. Robert Ris examines the game in a 23-minute video. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
-         "pubDate" : "Sat, 22 Apr 2023 13:00:00 +0100",
-         "title" : "Satty Zhuldyz Rapid - Live!"
+         "link" : "https://en.chessbase.com/post/ris-ding-liren-immortal-game",
+         "pubDate" : "Sat, 22 Apr 2023 17:00:00 +0100",
+         "title" : "Robert Ris: Ding's immortal game"
+      },
+      {
+         "description" : " I've spent the last 3 days in Sydney, attending a CCLA meeting, buying and collecting books, and generally having a small break from Canberra. One book I picked up (courtesy of GM Ian Rogers) was the Australian Chess Championship Yearbook 1971-72. I have a few of these books (although not this one), and they are more than just a games collection. They often contain lots of extra information about chess clubs of the time, short biographies of players, and current rules and regulations. In this edition, there were the Swiss Pairing Rules for the 1971 Australian Championship. The most interesting feature was the ordering of players. This was as follows 1. Score, highest first 2. Colour differe",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/an-old-manual-pairing-system.html",
+         "pubDate" : "Sat, 22 Apr 2023 14:08:00 +0000",
+         "title" : "An old manual pairing system"
+      },
+      {
+         "description" : " Lichess is a gift to the Chess community. This free website, beloved by millions of chess fans, has so much to offer. No matter if you hear of Lichess for the first time or use it daily, this guide will help you get the most out of this amazing free platform. I will explain in [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/lichess-101-a-comprehensive-grandmaster-guide/\">Lichess 101: A Comprehensive Grandmaster Guide</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/lichess-101-a-comprehensive-grandmaster-guide/",
+         "pubDate" : "Sat, 22 Apr 2023 12:00:00 +0000",
+         "title" : "Lichess 101: A Comprehensive Grandmaster Guide"
       },
       {
          "description" : "Readers of my columns in TheArticle will have observed my hitherto thinly disguised disdain for the so-called Chess , currently in progress in Astana, Kazakhstan. Without the reigning world champion, Magnus Carlsen, this contest is a striking example of Hamlet without the Prince syndrome. Early games confirmed my scepticism, with Ding's loss in Game 2 falling []",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-7-9",
          "pubDate" : "Sat, 22 Apr 2023 08:00:00 +0100",
          "title" : "Grivas on Nepo-Ding 7-9"
+      },
+      {
+         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
+         "pubDate" : "Sat, 22 Apr 2023 07:55:00 +0100",
+         "title" : "Satty Zhuldyz Rapid - Live!"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 8: Ding missed golden opportunity Match Score: 4&frac12;-3&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 8Thursday, 20 April 2023 Game 8 of the World Chess Championship in Astana, Kazakhstan ended in a draw, the first in five games. Both players have been trading The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/\">2023 World Chess Championship: Game 8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Jan Markos: What you need to know about the Rook (2)"
       },
       {
-         "description" : "Tim Krabb&eacute;'s 1985 book \"Chess Curiosities\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-reflections-on-ionchev-s-pattern",
-         "pubDate" : "Fri, 14 Apr 2023 17:05:00 +0100",
-         "title" : "Study of the Month - Reflections on Ionchev's pattern"
-      },
-      {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2315",
          "pubDate" : "Sat, 01 Apr 2023 19:22:02 +0000",
          "title" : "WGP New Dehli: Round 7 Recap"
-      },
-      {
-         "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/miltons-cosmic-game-of-chess/",
-         "pubDate" : "Sat, 01 Apr 2023 12:38:40 +0000",
-         "title" : "Milton's cosmic game of chess"
       }
    ]
 }
