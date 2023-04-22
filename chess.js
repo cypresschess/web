@@ -1848,14 +1848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/a-brutal-attack.html",
          "pubDate" : "Sun, 02 Apr 2023 12:53:00 +0000",
          "title" : "A brutal attack"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2316",
-         "pubDate" : "Sat, 01 Apr 2023 21:48:46 +0000",
-         "title" : "Autism Awareness Day: FIDE Infinite Chess project outlook"
       }
    ]
 }
