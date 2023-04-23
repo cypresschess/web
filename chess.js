@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With four games to go, Ian Nepomniachtchi continues to have a 1-point lead at the World Championship match in Astana. Nepo, playing black, surprised Ding Liren out of an English Opening, and had little trouble defending the slightly inferior position that ensued. The Russian GM will get the white pieces in Monday's game 11. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g10",
+         "pubDate" : "Sun, 23 Apr 2023 20:15:00 +0100",
+         "title" : "World Championship Game 10: Nepo safely draws, keeps the lead"
+      },
+      {
+         "description" : " Last week I took you half way through Chess Heroes: Openings. By this point the reader has learnt the basic opening principles along with some tactical ideas that appear over and over again across different openings. It's now time to look at specific openings. We start with openings beginning with 1. e4 e5 it's <a href=\"https://chessimprover.com/chess-heroes-openings-part-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Openings (Part 2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-openings-part-2/\">Chess Heroes: Openings (Part 2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-heroes-openings-part-2/",
+         "pubDate" : "Sun, 23 Apr 2023 17:14:05 +0000",
+         "title" : "Chess Heroes: Openings (Part 2)"
+      },
+      {
+         "description" : "Pia Cramling, the Grande Dame of Chess is celebrating her 60th Anniversary today. Heartfelt congratulations! Looking back and forward, our author, who was a spectator at the tournament where she made her final GM norm to obtain the Grandmaster title as fifth woman on earth, presents fantastic facts and funny figures from an unparalleled biography. | Photo: Carolina Byrmo via hemtrevligt.se",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ten-highlights-in-the-life-and-career-of-chess-grandmaster-pia-cramling",
+         "pubDate" : "Sun, 23 Apr 2023 18:00:00 +0100",
+         "title" : "Ten Highlights in the Life and Career of Chess Grandmaster Pia Cramling"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-10",
          "pubDate" : "Sun, 23 Apr 2023 05:26:00 -0700",
-         "title" : "Flash Report: Nepomniachtchi Holds Ding To Draw, Closes In On World Championship Title"
+         "title" : "Nepomniachtchi Holds Ding To Draw, Closes In On World Championship Title"
       },
       {
          "description" : " Ding Liren was surprised by Ian Nepomniachtchi in game 10 of the World Chess Championships and the game finished in a draw after three and a half hours play with bare kings on the board. This means Nepomniachtchi retains a one point lead going into the final four games of the match. The game saw a return to the English Opening by Ding, today he chose a Sicilian Four Knights with 4.e4. 4...Bc5 allowed a fork trick with 5.Nxe5 Nxe5 6.d4 recovering the piece but it turns out this might not be at all bad for black. 9....Bc5 seemed to catch Ding out and they then followed a Titled Tuesday blitz game Nepomniachtchi played in 2020 until 14.0-0 which was new from Ding. The variation is a sharp atte",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-preparation-earns-a-relatively-comfortable-draw-with-black-in-world-championship-game-10",
          "pubDate" : "Sun, 23 Apr 2023 14:52:00 +0400",
          "title" : "Nepomniachtchi preparation earns a relatively comfortable draw with black in World Championship game 10 - 10"
-      },
-      {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sun, 23 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 10 - Nepo holds draw from slightly inferior position"
       },
       {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
@@ -1018,14 +1034,6 @@ news_feed (
          "title" : "All beginnings are easy"
       },
       {
-         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is set to take place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian will be joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-preview",
-         "pubDate" : "Sat, 15 Apr 2023 08:00:00 +0100",
-         "title" : "Next week: Satty Zhuldyz rapid and blitz event with Kramnik and Hou"
-      },
-      {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1848,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2318",
          "pubDate" : "Sun, 02 Apr 2023 20:06:52 +0000",
          "title" : "FIDE April 2023 rating list published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2317",
-         "pubDate" : "Sun, 02 Apr 2023 16:59:05 +0000",
-         "title" : "WCF Game 4: Lei Tingjie strikes hard and fast"
-      },
-      {
-         "description" : "This blog's long running series, <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), is a teenager now. In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html\">Poster Perfect Chess Art</A> (March 2023), I wrote, <BLOCKQUOTE> This month's initial list was top heavy with chess sets. I had to scroll way down the list to find an example of chess art, so scroll I did. </BLOCKQUOTE> <P> Copy that and scroll again. The item pictured below was titled, 'George Hall Neale 1863-1940 Antique British Oil Painting \"A GAME OF CHESS\" c1900'. It sold for '<STRIKE>GBP 285.00",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/baffling-ebay.html",
-         "pubDate" : "Sun, 02 Apr 2023 15:56:00 +0000",
-         "title" : "Baffling eBay"
       }
    ]
 }
