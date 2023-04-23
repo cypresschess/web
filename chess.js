@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2355",
+         "pubDate" : "Sun, 23 Apr 2023 14:34:09 +0000",
+         "title" : "World Chess Championship enters final phase as Nepomniachtchi retains lead after game ten"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2354",
+         "pubDate" : "Sun, 23 Apr 2023 14:13:31 +0000",
+         "title" : "World Open Team Championship: Registration is open"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 122nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-122-chess-history-in-a-nutshell-4",
+         "pubDate" : "Sun, 23 Apr 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 122: Chess history in a nutshell (4)"
+      },
+      {
+         "description" : "Arjun Erigaisi won the rapid section of the Satty Zhuldyz tournament in Astana with a 9&frac12;/11 score. The youngster kicked off the day with a win over Vladimir Kramnik. He then he drew Levon Aronian, before finishing the rapid event with a victory over Kateryna Lagno. Aronian finished the rapid in second place with 8/11, while Alexander Grischuk was third with 7/11. The tournament is not over, as the final standings will be decided based on the cumulative score of the rapid and blitz events. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-rapid",
+         "pubDate" : "Sun, 23 Apr 2023 14:00:00 +0100",
+         "title" : "Satty Zhuldyz 2023: Arjun Erigaisi roars in rapid"
+      },
+      {
+         "description" : "Ian Nepomniachtchi headed for an endgame a pawn down and ultimately made a confident draw to retain his one-point lead over Ding Liren with just four games of the 2023 FIDE World Championship to go. Ding confessed to being \"totally surprised\" on move 9, but he navigated towards a position where he was the only one with winning chances.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nepomniachtchi-holds-game-9-draw-to-close-on-title",
+         "pubDate" : "Sun, 23 Apr 2023 12:35:41 +0000",
+         "title" : "Nepomniachtchi holds Game 9 draw to close on title"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi moved one step closer to the world championship title on Sunday after equalizing with Black and drawing in 45 moves in the 10th game of the 2023 FIDE World Championship. GM Ding Liren reverted to the English Opening and val...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-10",
+         "pubDate" : "Sun, 23 Apr 2023 05:26:00 -0700",
+         "title" : "Flash Report: Nepomniachtchi Holds Ding To Draw, Closes In On World Championship Title"
+      },
+      {
+         "description" : " Ding Liren was surprised by Ian Nepomniachtchi in game 10 of the World Chess Championships and the game finished in a draw after three and a half hours play with bare kings on the board. This means Nepomniachtchi retains a one point lead going into the final four games of the match. The game saw a return to the English Opening by Ding, today he chose a Sicilian Four Knights with 4.e4. 4...Bc5 allowed a fork trick with 5.Nxe5 Nxe5 6.d4 recovering the piece but it turns out this might not be at all bad for black. 9....Bc5 seemed to catch Ding out and they then followed a Titled Tuesday blitz game Nepomniachtchi played in 2020 until 14.0-0 which was new from Ding. The variation is a sharp atte",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-preparation-earns-a-relatively-comfortable-draw-with-black-in-world-championship-game-10",
+         "pubDate" : "Sun, 23 Apr 2023 14:52:00 +0400",
+         "title" : "Nepomniachtchi preparation earns a relatively comfortable draw with black in World Championship game 10 - 10"
+      },
+      {
          "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Sun, 23 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 10 - Live!"
+         "title" : "World Championship, Game 10 - Nepo holds draw from slightly inferior position"
       },
       {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
@@ -970,22 +1026,6 @@ news_feed (
          "title" : "Next week: Satty Zhuldyz rapid and blitz event with Kramnik and Hou"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King uses game 2 of the World Championship match in Astana as a starting point, and compares it with two games from a previous match for the title, the 2008 confrontation between Vishy Anand and Vladimir Kramnik. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-g-file-attack-nepo-anand",
-         "pubDate" : "Fri, 14 Apr 2023 21:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: G-file attacks, with Nepo and Anand"
-      },
-      {
-         "description" : "WFM Honorata Kucharska is a talented and accomplished Woman FIDE Master (WFM) in the world of chess. Born in Poland, she has made a name for herself through her impressive strategic thinking and passion for the game. ChessBase is the tool, which Honorata enjoys most, for preparing against her opponents. In our very first episode of \"Honorata's Harmony\" the Polish WFM introduces herself, and shows us her analysis of one of her best games she has played against the Sicilian setup.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/honorata-s-harmony-who-is-honorata-kucharska",
-         "pubDate" : "Fri, 14 Apr 2023 20:00:00 +0100",
-         "title" : "Honorata's Harmony - Who is Honorata Kucharska?"
-      },
-      {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1746,22 +1786,6 @@ news_feed (
          "title" : "The 1000 puzzle challenge"
       },
       {
-         "description" : "Your favorite chess personalities&#38;mdash;the Botez sisters, Levy, Fabiano, and of course Hikaru &#38;mdash;fell down a green warp tube! Now, they&#39;re trapped in the Chess Kingdom as classic video game characters. But don&#39;t worry! They still love to play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-super-plumber-bots",
-         "pubDate" : "Tue, 04 Apr 2023 07:01:00 -0700",
-         "title" : "Play Chess Against The Super Plumber Bots"
-      },
-      {
-         "description" : "Vladislav Artemiev was the first player to win a match against Magnus Carlsen in the 2023 Champions Chess Tour as he won in Armageddon to leave Magnus needing to plot a way to win the tournament via the Losers bracket. Hikaru Nakamura was an amazing escape away from also losing, but held on to defeat Vladimir Fedoseev and set up yet another double elimination showdown with Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-falls-to-artemiev-chessable-masters-day-1",
-         "pubDate" : "Tue, 04 Apr 2023 09:41:53 +0000",
-         "title" : "Carlsen falls to Artemiev | Chessable Masters Day 1"
-      },
-      {
          "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest of the game&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1840,14 +1864,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/baffling-ebay.html",
          "pubDate" : "Sun, 02 Apr 2023 15:56:00 +0000",
          "title" : "Baffling eBay"
-      },
-      {
-         "description" : " The Reykjavik Open is one of the bigger chess events held around the world. It is organised as one big swiss, and with 400 players entered, accelerating the pairings for the 9 round event makes some sense. This also means that the 1st round games are a little more interesting than non accelerated events. Board 2 saw just such a game in round 1 where GM Nils Grandellius launched a brutal sacrificial attack against IM Peter Large. If you are taking notes at home, the sacrifice on h6 was based on having 3 attackers versus 1 defender on the kingside. <br /> <b>Grandelius,Nils (2658) - Large,Peter G (2227) [E16]</b><br /> Reykjavik Open 2023 Reykjavik (1.2), 29.03.2023 <script> new PgnViewer( { ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/a-brutal-attack.html",
-         "pubDate" : "Sun, 02 Apr 2023 12:53:00 +0000",
-         "title" : "A brutal attack"
       }
    ]
 }
