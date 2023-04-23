@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-10-live/",
+         "pubDate" : "Sun, 23 Apr 2023 07:19:49 +0000",
+         "title" : "Nepo - Ding 2023, game 10 LIVE"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, All Orissa Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at Hotel Apsara, Sambalpur Odisha from 21-22",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 8"
       },
       {
-         "description" : "The Kazakhstan Chess Cup 2023 will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players in the tournament are Hans Moke Niemann, Tamir Nabaty, []",
+         "description" : "The Kazakhstan Chess Cup 2023 will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Top seeded in the tournament is Hans Moke Niemann (who recently played in Menorca) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023-live/",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/33-individual-national-championship-in-standard-chess-radenci-2023-participants/",
          "pubDate" : "Fri, 21 Apr 2023 06:37:00 +0000",
          "title" : "33. Individual national championship in standard chess Radenci 2023 - Participants"
-      },
-      {
-         "description" : "The Kazakhstan Chess Cup will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players in the tournament are Hans Moke Niemann, Tamir Nabaty, S.P. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023/",
-         "pubDate" : "Fri, 21 Apr 2023 06:36:00 +0000",
-         "title" : "Kazakhstan Chess Cup 2023 - Participants"
       },
       {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
