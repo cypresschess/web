@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Orjan Lindroth Memorial Chess Tournament 2023 is taking place from 29 May to 03 June 2023 in Nassau, Bahamas. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;It is 9-round Swiss system tournament with participation of Miguel Santos Ruiz, Johan-Sebastian Christiansen, Jose Fernando Cuenca Jimenez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/orjan-lindroth-memorial-chess-tournament-2023-participants/",
+         "pubDate" : "Sun, 23 Apr 2023 20:14:23 +0000",
+         "title" : "Orjan Lindroth Memorial Chess Tournament 2023 - Participants"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2356",
+         "pubDate" : "Sun, 23 Apr 2023 20:11:08 +0000",
+         "title" : "Winners crowned at 2023 FIDE World School Championship"
+      },
+      {
+         "description" : "The Vrindavana Chess Festival MMT International Open is taking place from 23rd to the 27th of April in Vrindavan, India as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are Chatterjee Utsab, V A V Rajesh, M []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vrindavana-chess-festival-mmt-international-open-live/",
+         "pubDate" : "Sun, 23 Apr 2023 20:07:41 +0000",
+         "title" : "Vrindavana Chess Festival MMT International Open - LIVE"
+      },
+      {
+         "description" : "The 2nd &#8220;MIKIS THEODORAKIS&#8221; INTERNATIONAL CHESS TOURNAMENT CHANIA 2023 finished today. Johan-Sebastian Christiansen, Dimitris Alexakis and Elina Danielian shared the top 3 spots with 7.5 points from 9 rounds. Johan-Sebastian Christiansen is the big winner, the silver gone to Dimitris Alexakis and Elina Danielian won the bronze. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-mikis-theodorakis-international-chess-tournament-chania-2023/",
+         "pubDate" : "Sun, 23 Apr 2023 19:55:12 +0000",
+         "title" : "2nd \"MIKIS THEODORAKIS\" INTERNATIONAL CHESS TOURNAMENT CHANIA 2023"
+      },
+      {
          "description" : "With four games to go, Ian Nepomniachtchi continues to have a 1-point lead at the World Championship match in Astana. Nepo, playing black, surprised Ding Liren out of an English Opening, and had little trouble defending the slightly inferior position that ensued. The Russian GM will get the white pieces in Monday's game 11. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +90,12 @@ news_feed (
          "title" : "Satty Zhuldyz 2023: Arjun Erigaisi roars in rapid"
       },
       {
-         "description" : "Ian Nepomniachtchi headed for an endgame a pawn down and ultimately made a confident draw to retain his one-point lead over Ding Liren with just four games of the 2023 FIDE World Championship to go. Ding confessed to being \"totally surprised\" on move 9, but he navigated towards a position where he was the only one with winning chances.",
+         "description" : "Ian Nepomniachtchi leads 5.5:4.5 with just four games of the 2023 FIDE World Championship match to go after Ding Liren was unable to convert an extra pawn into a win in Game 10. Ding in fact did well to reach that superior endgame, since he confessed that Ian's 9th move had come as a \"total surprise\". In the end the players played on until bare kings on move 45.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-holds-game-9-draw-to-close-on-title",
+         "link" : "https://chess24.com/en/read/news/nepomniachtchi-holds-game-10-draw-to-close-on-title",
          "pubDate" : "Sun, 23 Apr 2023 12:35:41 +0000",
-         "title" : "Nepomniachtchi holds Game 9 draw to close on title"
+         "title" : "Nepomniachtchi holds Game 10 draw to close on title"
       },
       {
          "description" : "GM Ian Nepomniachtchi moved one step closer to the world championship title on Sunday after equalizing with Black and drawing in 45 moves in the 10th game of the 2023 FIDE World Championship. GM Ding Liren reverted to the English Opening and val...",
@@ -336,30 +368,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bucharest-grand-prix-the-international-rapid-chess-championship-of-romania-participants/",
          "pubDate" : "Fri, 21 Apr 2023 06:40:00 +0000",
          "title" : "Bucharest Grand Prix - The International Rapid Chess Championship of Romania - Participants"
-      },
-      {
-         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Challengers []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-challengers-section-participants/",
-         "pubDate" : "Fri, 21 Apr 2023 06:40:00 +0000",
-         "title" : "6th Sharjah Masters 2023- Challengers Section Participants"
-      },
-      {
-         "description" : "he 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Future []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-futures-section-participants/",
-         "pubDate" : "Fri, 21 Apr 2023 06:39:00 +0000",
-         "title" : "6th Sharjah Masters 2023- Futures Section Participants"
-      },
-      {
-         "description" : "The 33. Individual national championship in standard chess Radenci 2023 will take place from 25 April to 02 May 2023 in Radenci, Slovenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/33-individual-national-championship-in-standard-chess-radenci-2023-participants/",
-         "pubDate" : "Fri, 21 Apr 2023 06:37:00 +0000",
-         "title" : "33. Individual national championship in standard chess Radenci 2023 - Participants"
       },
       {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
@@ -1378,6 +1386,14 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 4"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2357",
+         "pubDate" : "Sun, 09 Apr 2023 21:52:45 +0000",
+         "title" : "Bernardo Roselli wins 94th Uruguayan Championship"
+      },
+      {
          "description" : "Chess fans didn&#39;t have to wait long for a decisive result in the 2023 FIDE World Championship, as GM Ian Nepomniachtchi convincingly took down GM Ding Liren in game two. Despite a successful-looking novelty by Ding on move 4, things quickly turned...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1840,22 +1856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2023",
          "pubDate" : "Mon, 3 Apr 2023 16:56:00 +0400",
          "title" : "Chessable Masters 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2319",
-         "pubDate" : "Sun, 02 Apr 2023 20:18:25 +0000",
-         "title" : "WGP New Delhi: Round 8 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2318",
-         "pubDate" : "Sun, 02 Apr 2023 20:06:52 +0000",
-         "title" : "FIDE April 2023 rating list published"
       }
    ]
 }
