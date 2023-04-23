@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sun, 23 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 10 - Live!"
+      },
+      {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/honorata-s-harmony-who-is-honorata-kucharska",
          "pubDate" : "Fri, 14 Apr 2023 20:00:00 +0100",
          "title" : "Honorata's Harmony - Who is Honorata Kucharska?"
-      },
-      {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. Next we'll discuss the Rook, exploring things like the impact of the 7th rank or the difference between rooks and minor pieces! If you wish to know more, we recommend the full course by Jan Markos, Middlegame Secrets Vol.2: The Potential of the Rook. | Photo: Benjamin Smith/Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-rook-2",
-         "pubDate" : "Fri, 14 Apr 2023 18:00:00 +0100",
-         "title" : "Jan Markos: What you need to know about the Rook (2)"
       },
       {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
