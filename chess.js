@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi had a chance to play on against risky play by Ding Liren in Game 11 of the FIDE World Championship match in Astana, but instead he decided to liquidate everything for a draw. That leaves him still leading by a point with just three games of the match to go, though Ding Liren will still have White in two of them.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nepomniachtchi-closes-down-sharp-clash-in-game-11",
+         "pubDate" : "Mon, 24 Apr 2023 11:02:00 +0000",
+         "title" : "Nepomniachtchi closes down sharp clash in Game 11"
+      },
+      {
+         "description" : "GM Ding Liren was able to hold GM Ian Nepomniachtchi to a draw in game 11, the tamest encounter of the 2023 FIDE World Championship so far. All eyes are now turning to the Chinese GM&#39;s second-to-last game with the white pieces on Wednesday. The ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-11",
+         "pubDate" : "Mon, 24 Apr 2023 03:53:11 -0700",
+         "title" : "Flash Report: Pressure On Ding Mounts After Third Straight Draw"
+      },
+      {
+         "description" : "CSIT - the International Workers and Amateurs in Sports Confederation has the great honor to invite all amateur chess players throughout the world to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/7th-csit-world-sport-games-wsg-rapid-and-blitz/",
+         "pubDate" : "Mon, 24 Apr 2023 10:45:09 +0000",
+         "title" : "7th CSIT World Sport Games (WSG) Rapid and Blitz"
+      },
+      {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Mon, 24 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 11 - Live!"
+      },
+      {
+         "description" : "Outpostchess is an awardee of 3 prestigious accelerator programs: Raising Starts, SmartStart, and Katapult accelerator. Feel the story inside, and learn chess from one more angle &#x2013; the business one. Get inspired on how to start your business from the CEO Lena Miladinovic and visit Outpostchess app here A word from CEO Hello, my name []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/how-to-start-your-chess-business-meet-ceo-of-outpostchess-com-a-successful-start-up-story/",
+         "pubDate" : "Mon, 24 Apr 2023 08:05:46 +0000",
+         "title" : "How to start your chess business - meet CEO of Outpostchess.com, a successful start-up story"
+      },
+      {
          "description" : "Magnus Carlsen was one of the stars of the Breakthrough Prize. There he presents a prize for theoretical computer science and math, together with Lily Collins, to Daniel Spielman. Daniel Spielman&#x2019;s algorithms are used for computing, signal processing, design of clinical trials and many more applications. Carlsen appears after min 33 in the video. This []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -88,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ten-highlights-in-the-life-and-career-of-chess-grandmaster-pia-cramling",
          "pubDate" : "Sun, 23 Apr 2023 18:00:00 +0100",
          "title" : "Ten Highlights in the Life and Career of Chess Grandmaster Pia Cramling"
+      },
+      {
+         "description" : "The last time this blog's long running series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) coincided with a World Championship match was <A HREF=\"https://chessforallages.blogspot.com/2021/11/world-championship-social-media-2021.html\">World Championship Social Media 2021</A> (November 2021). In that post I documented six social media accounts operated by FIDE. Nearly 18 months later, the official site <A HREF=\"https://worldchampionship.fide.com/\">FIDE World Championship 2023, Astana</A> (worldchampionship.fide.com), lists four accounts in the following order:- <UL> <LI><A HREF=\"https://www.youtube.com/fidechan",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/world-championship-social-media-2023.html",
+         "pubDate" : "Sun, 23 Apr 2023 15:40:00 +0000",
+         "title" : "World Championship Social Media 2023"
       },
       {
          "description" : "",
@@ -376,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening-2",
          "pubDate" : "Fri, 21 Apr 2023 09:30:21 +0100",
          "title" : "Robert Ris' Fast and Furious: Ding vs Nepomniachtchi: Attacking the Nimzo!"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-9-live/",
-         "pubDate" : "Fri, 21 Apr 2023 06:44:04 +0000",
-         "title" : "Nepo - Ding 2023, game 9 LIVE"
       },
       {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
@@ -960,14 +1000,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-wins-game-6-of-world-championship-rollercoaster",
          "pubDate" : "Sun, 16 Apr 2023 13:44:49 +0000",
          "title" : "Ding wins Game 6 of World Championship rollercoaster"
-      },
-      {
-         "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win to retake the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g5",
-         "pubDate" : "Sat, 15 Apr 2023 22:50:00 +0100",
-         "title" : "World Championship Game 5: Nepo wins model game, leads again"
       },
       {
          "description" : "Ian Nepomniachtchi has regained the lead in the 2023 FIDE World Championship match after bouncing back to beat Ding Liren in Game 5. \"This loss hurt more than the previous one, because I thought I was totally fine,\" said Ding, who despite falling far behind on the clock had come tantalisingly close to equalising before allowing a brilliant finish by his opponent. Nepo now leads 3:2 with nine games to go.",
@@ -1738,14 +1770,6 @@ news_feed (
          "title" : "Inspiring Facts about Scholastic Chess"
       },
       {
-         "description" : "Magnus Carlsen survived his first brush with elimination on the 2023 Champions Chess Tour to beat Liem Le in Armageddon and set up a battle on Wednesday against Wesley So which will leave the loser having to qualify for the next event. Wesley lost another intense match against Hikaru Nakamura, who will play Fabiano Caruana in the Winners bracket final, after Fabi made a comeback to beat Vladislav Artemiev.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-beats-so-carlsen-survives-chessable-masters-2",
-         "pubDate" : "Wed, 05 Apr 2023 10:10:33 +0000",
-         "title" : "Nakamura beats So, Carlsen survives | Chessable Masters 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1768,14 +1792,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#FCMAprilPapers#new_tab",
          "pubDate" : "Wed, 05 Apr 2023 08:21:08 +0000",
          "title" : "ECF Finance Council - papers available"
-      },
-      {
-         "description" : "GMs Hikaru Nakamura and Fabiano Caruana advance to the Winners Final of the Champions Chess Tour Chessable Masters 2023 after respectively defeating GMs Wesley So and Vladislav Artemiev in Division I on Tuesday. In the Losers Bracket, GM Magnus Ca...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-2",
-         "pubDate" : "Tue, 04 Apr 2023 15:36:00 -0700",
-         "title" : "Nakamura, Caruana To Play In All-American Winners Final"
       },
       {
          "description" : "",
