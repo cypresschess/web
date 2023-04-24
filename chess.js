@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Finding brilliancies by Rashid Nezhmetdinov isn't a particularly hard task, as he played a vast number of them. However some stand out for other reasons, including the one below. After 15 moves White has most of his attacking force lined up across the third rank, which is normally not that threatening. But the jump of the knight to d5 sets the attack in motion, and it finishes with a nice set of scrifices. <br /> <b>Nezhmetdinov,Rashid - Kotkov,Yuri M [C67]</b><br /> RSFSR-ch 17th Krasnodar, 1957 <script> new PgnViewer( { boardName: \"game1393\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bd3 O-O 8.Nc3 Nxe5 9.Rxe5 Bf6 10.Re3 g6 11.Qf3 Bg7 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/forming-ranks.html",
+         "pubDate" : "Mon, 24 Apr 2023 14:08:00 +0000",
+         "title" : "Forming ranks"
+      },
+      {
+         "description" : " Chess is an ultimate battle of the mind. Chicago's own Derrick Rose is now hosting a &#8220;Chesstival&#8221; event in Las Vegas. As a product of the hard-scrabble courts of Englewood, Rose knows a thing or two about battling. In the 2010-2011 season, he became the youngest MVP in history while helping to rejuvenate the Chicago The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/24/derrick-rose-hosts-chesstival-in-las-vegas/\">Derrick Rose hosting &#8220;Chesstival&#8221; in Las Vegas</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/24/derrick-rose-hosts-chesstival-in-las-vegas/",
+         "pubDate" : "Mon, 24 Apr 2023 13:27:52 +0000",
+         "title" : "Derrick Rose hosting \"Chesstival\" in Las Vegas"
+      },
+      {
+         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
+         "pubDate" : "Mon, 24 Apr 2023 12:37:18 +0000",
+         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2358",
+         "pubDate" : "Mon, 24 Apr 2023 12:30:20 +0000",
+         "title" : "Nepomniachtchi remains one point ahead of Ding after Game 11 draw"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/team-chess-challenge-22-23/#new_tab",
+         "pubDate" : "Mon, 24 Apr 2023 11:47:07 +0000",
+         "title" : "National Schools Team Chess Challenge final"
+      },
+      {
          "description" : "Ian Nepomniachtchi had a chance to play on against risky play by Ding Liren in Game 11 of the FIDE World Championship match in Astana, but instead he decided to liquidate everything for a draw. That leaves him still leading by a point with just three games of the match to go, though Ding Liren will still have White in two of them.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -14,8 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-11",
-         "pubDate" : "Mon, 24 Apr 2023 03:53:11 -0700",
-         "title" : "Flash Report: Pressure On Ding Mounts After Third Straight Draw"
+         "pubDate" : "Mon, 24 Apr 2023 03:53:00 -0700",
+         "title" : "Pressure Mounts On Ding After 3rd Straight Draw"
       },
       {
          "description" : "CSIT - the International Workers and Amateurs in Sports Confederation has the great honor to invite all amateur chess players throughout the world to...",
@@ -26,12 +66,20 @@ news_feed (
          "title" : "7th CSIT World Sport Games (WSG) Rapid and Blitz"
       },
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "Instead of looking for winning chances with white, Ian Nepomniachtchi simplified the position when he got a chance in game 11 of the World Championship match. Nepo still has a 1-point lead over Ding Liren, who will get three more chances to even the score. Tuesday is a rest day in Astana. | Replay the game with expert analysis by IM Robert Ris. A full report will follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Mon, 24 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 11 - Live!"
+         "title" : "World Championship, Game 11 - A quick draw"
+      },
+      {
+         "description" : " Ian Nepomniachtchi and Ding Liren drew the eleventh game of their World Championships match by repetition in 39 moves and less than two hours of play. Nepomniachtchi again played 1.e4 and the Ruy Lopez followed, no Berlin and with 6.d3. The line of the Closed Ruy Lopez that was played is fairly topical. 14.Qd2 was rare and 14...Bg7 was new. Commentators wondered if black might at least be under pressure, 15...c4!? seemed like a bold way of going about things, 18...Rb8 was the best computer continuation. 19.dxc4 *19.Qe2 the way to keep the pressure) quickly led to liquidation of most of the pieces and a drawn Rook and Pawn endgame, Nepomniachtchi thought he might get a symbolic advantage, as",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/quiet-draw-in-game-11-of-the-world-chess-championship",
+         "pubDate" : "Mon, 24 Apr 2023 13:20:00 +0400",
+         "title" : "Quiet draw in game 11 of the World Chess Championship - 11"
       },
       {
          "description" : "Outpostchess is an awardee of 3 prestigious accelerator programs: Raising Starts, SmartStart, and Katapult accelerator. Feel the story inside, and learn chess from one more angle &#x2013; the business one. Get inspired on how to start your business from the CEO Lena Miladinovic and visit Outpostchess app here A word from CEO Hello, my name []",
@@ -496,6 +544,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-ecf-student-silver-membership/",
          "pubDate" : "Thu, 20 Apr 2023 11:34:27 +0000",
          "title" : "Free ECF Student Silver membership"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2022/#new_tab",
+         "pubDate" : "Thu, 20 Apr 2023 08:00:14 +0000",
+         "title" : "National Schools Girls Championships finals"
       },
       {
          "description" : "Chess is part of the Olympic Esports Series, with the finals taking place in Singapore between 22-25 June. The tournament has now reached the second...",
@@ -1202,14 +1258,6 @@ news_feed (
          "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
       },
       {
-         "description" : " Dominica The Dominica Chess Federation was on a live stream on Wednesday hosted by Anthony Drigo's &#8220;This Week in Interview&#8221; segment. He was joined by three board members and spent approximately 90 minutes discussing chess, its beginnings, its benefits, Chess-in-Schools, and many details about titles and skill levels. There was even a beginning segment on The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/\">Dominica Chess on TDN Network!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/",
-         "pubDate" : "Thu, 13 Apr 2023 04:29:12 +0000",
-         "title" : "Dominica Chess on TDN Network!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1848,30 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2320",
          "pubDate" : "Mon, 03 Apr 2023 16:33:43 +0000",
          "title" : "Lei Tingjie wins the Women's Candidates Final "
-      },
-      {
-         "description" : "In the previous fortnightly post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html\">TCEC S24 DivP, CCC20 Blitz Final : Both Underway</A> (March 2023), the intrepid sponsors of the chess world's leading engine vs. engine competitions, the TCEC and the CCC, were both conducting important contests. Here's a summary of that post:- <BLOCKQUOTE> TCEC: With two rounds completed in the eight round Premier Division (DivP), KomodoDragon, LCZero, and Stockfish are significantly ahead of the other five engines. &#149; CCC: Lc0 beat Dragon by 32 points in the 500-game 'Challenger Match', and is currently trailing Stockfish by 16 points after a sixth of th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html",
-         "pubDate" : "Mon, 03 Apr 2023 15:28:00 +0000",
-         "title" : "TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final"
-      },
-      {
-         "description" : " With the Interschool chess season starting, my collection of strange rules continues to grow. In a recent competition there was a disputed finish because one player informed their opponent that \"kings were not allowed to capture\". I assume that the reasoning was that in other games the player was told \"the king can't capture that piece\", but wasn't given a reason (it would put the king in check). Unfortunately the game was completed (and the board reset) before I was told of this. In a related event, I then made an announcement about checking 'strange rules' that an opponent insists are real, and gave as an example of a fake rule 'pawns must wait a turn on the back rank before being promote",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/one-more-weird-rule.html",
-         "pubDate" : "Mon, 03 Apr 2023 13:30:00 +0000",
-         "title" : "One more weird rule"
-      },
-      {
-         "description" : " The Chessable Masters take place 3rd to 7th April 2023. The format is double-elimination KO. There are three sections. The 8 players in division 1 are: Magnus Carlsen, Vladislav Artemiev, Fabiano Caruana, Le Quang Liem, Hikaru Nakamura, Vladimir Fedoseev, Wesley So and Levon Aronian. There are two other sections with Division 2 having Anish Giri, Vladimir Kramnik, Nodirbek Abdusattorov, Daniil Dubov, Vincent Keymer, MVL, R Praggnanandhaa etc... ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2023",
-         "pubDate" : "Mon, 3 Apr 2023 16:56:00 +0400",
-         "title" : "Chessable Masters 2023 - Games and Results"
       }
    ]
 }
