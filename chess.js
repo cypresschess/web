@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Satty Zhuldyz rapid and blitz tournament is taking place in Astana as a side event of the World Championship match. A number of international chess stars are participating. Karsten M&uuml;ller has been following the games, looking for endgame highlights. Find here seven instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Hou Yifan | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-1",
+         "pubDate" : "Mon, 24 Apr 2023 04:30:00 +0100",
+         "title" : "Endgames from Kazakhstan"
+      },
+      {
          "description" : "The Orjan Lindroth Memorial Chess Tournament 2023 is taking place from 29 May to 03 June 2023 in Nassau, Bahamas. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;It is 9-round Swiss system tournament with participation of Miguel Santos Ruiz, Johan-Sebastian Christiansen, Jose Fernando Cuenca Jimenez, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://aicf.in/national-arbiter-seminar-erode-certificates/",
          "pubDate" : "Sat, 15 Apr 2023 10:28:56 +0000",
          "title" : "National Arbiter Seminar Erode Certificates"
-      },
-      {
-         "description" : "In the diagram position, White's opening move may be obvious with the black king in the centre, but after that ... Enjoy heavy piece handling &agrave; la Fritz S&auml;misch!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-beginnings-are-easy",
-         "pubDate" : "Sat, 15 Apr 2023 09:00:00 +0100",
-         "title" : "All beginnings are easy"
       },
       {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
