@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Playing white, Ian Nepomniachtchi simplified the position on move 19 in game 11 of the World Championship match - a decision which led to a quick draw. Nepo still has a 1-point lead over Ding Liren, who will get three more chances to even the score. Tuesday is a rest day in Astana. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g11",
+         "pubDate" : "Mon, 24 Apr 2023 22:55:00 +0100",
+         "title" : "World Championship Game 11: Nepo keeps it safe"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Benjamin Gledura talks to Tatev Abrahamyan after defeating Dariusz Swiercz in the eighth round of the 2023 Spring Chess Classic. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gledura-beats-swiercz-c4-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4If2w5U4EE.jpg?itok=jbS5WEf8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gledura-beats-swiercz-c4-round-8",
+         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
+         "title" : "Gledura Beats Swiercz with c4! | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser Quesada talks to Tatev Abrahamyan after defeating Nodirbek Yakubboev in the eighth round of the 2023 Spring Chess Classic. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-quesada-im-happy-my-chess-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/seCzl8qS1IE.jpg?itok=rpK_hb-6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-quesada-im-happy-my-chess-round-8",
+         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
+         "title" : "Yasser Quesada: I'm Happy with My Chess | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Felix Blohberger talks to Tatev Abrahamyan after his draw with Dambasuren Batsuren in the ninth round of the 2023 Spring Chess Classic. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/felix-blohberger-wins-group-b-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lDnfr1mU-Vs.jpg?itok=QEqRJFIY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/felix-blohberger-wins-group-b-round-9",
+         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
+         "title" : "Felix Blohberger Wins Group B! | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Benjamin Bok talks to Tatev Abrahamyan after defeating Yasser Quesada and Sam Sevian in the playoff of the 2023 Spring Chess Classic. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bok-wins-5-way-armageddon-knockout-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YBOVd1zKhpU.jpg?itok=N_BAXPCt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bok-wins-5-way-armageddon-knockout-playoff",
+         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
+         "title" : "Bok Wins 5-Way Armageddon Knockout! | Playoff"
+      },
+      {
+         "description" : "The Trials Phase of the Olympic Esports Series 2023 concluded with the following players qualifying for the next stage: GMs Shant Sargsyan, Christopher Yoo, Oleksandr Bortnyk, Aleksandr Rakhmanov, Maksim Chigaev, and 17-year-old IM Yahli Sokolovsk...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-trials-9-14",
+         "pubDate" : "Mon, 24 Apr 2023 13:24:00 -0700",
+         "title" : "Tale Of 2 Comebacks: 6 Winners Top Trials 9-14 Of Olympic Esports Series"
+      },
+      {
          "description" : "An international Go tournament, the Chunlan Cup, with a $200,000 prize fund, has been wrapped in controversy. In the semifinal round, newcomer Li Xuanhao (China) managed to defeat the reigning world champion Shin Jin-seo (South Korea). Li's own teammate accused him of receiving AI support during the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/7th-csit-world-sport-games-wsg-rapid-and-blitz/",
          "pubDate" : "Mon, 24 Apr 2023 10:45:09 +0000",
          "title" : "7th CSIT World Sport Games (WSG) Rapid and Blitz"
-      },
-      {
-         "description" : "Instead of looking for winning chances with white, Ian Nepomniachtchi simplified the position when he got a chance in game 11 of the World Championship match. Nepo still has a 1-point lead over Ding Liren, who will get three more chances to even the score. Tuesday is a rest day in Astana. | Replay the game with expert analysis by IM Robert Ris. A full report will follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Mon, 24 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 11 - A quick draw"
       },
       {
          "description" : " Ian Nepomniachtchi and Ding Liren drew the eleventh game of their World Championships match by repetition in 39 moves and less than two hours of play. Nepomniachtchi again played 1.e4 and the Ruy Lopez followed, no Berlin and with 6.d3. The line of the Closed Ruy Lopez that was played is fairly topical. 14.Qd2 was rare and 14...Bg7 was new. Commentators wondered if black might at least be under pressure, 15...c4!? seemed like a bold way of going about things, 18...Rb8 was the best computer continuation. 19.dxc4 *19.Qe2 the way to keep the pressure) quickly led to liquidation of most of the pieces and a drawn Rook and Pawn endgame, Nepomniachtchi thought he might get a symbolic advantage, as",
@@ -1210,14 +1250,6 @@ news_feed (
          "title" : "2023 Saint Louis Super Swiss Recap "
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed",
-         "pubDate" : "Thu, 13 Apr 2023 15:26:18 +0000",
-         "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1274,14 +1306,6 @@ news_feed (
          "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-8-lichessorg",
-         "pubDate" : "Wed, 12 Apr 2023 21:26:06 +0000",
-         "title" : "2023 Spring Chess Classic: Round 8 | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1296,22 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2336",
          "pubDate" : "Wed, 12 Apr 2023 19:00:31 +0000",
          "title" : "Mitropacup 2023 starts in Mali Losinj, Croatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Daniel Dardha talks to Tatev Abrahamyan after defeating Benjamin Bok in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/belgiums-1-daniel-dardha-takes-down-bok-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/belgiums-1-daniel-dardha-takes-down-bok-round-1",
-         "pubDate" : "Wed, 12 Apr 2023 18:25:52 +0000",
-         "title" : "Belgium's #1 Daniel Dardha Takes Down Bok | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Courtesy of the World Chess Hall of Fame, this simulcast is a preview. Midway, the stream will end and redirect viewers to the World Chess Hall of Fame channel to see the conclusion (with warning). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pre-show-1972-fischerspassky-beautiful-games-lecture-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e2zGG5UEkYk.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pre-show-1972-fischerspassky-beautiful-games-lecture-gm-var-akobian",
-         "pubDate" : "Wed, 12 Apr 2023 18:25:52 +0000",
-         "title" : "PRE-SHOW: 1972 Fischer/Spassky: Beautiful Games Lecture - GM Var Akobian"
       },
       {
          "description" : "",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2324",
          "pubDate" : "Wed, 05 Apr 2023 16:58:37 +0000",
          "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
-      },
-      {
-         "description" : "GMs Aleksandra Goryachkina, Bibisara Assaubayeva, and Zhu Jiner tied for first in the recently concluded third leg of the 2022-2023 FIDE Women&#39;s Grand Prix with scores of 6/9 in New Delhi, with Goryachkina edging out the trio on tiebreaks. Follo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-2023-fide-womens-grand-prix-leg-3",
-         "pubDate" : "Wed, 05 Apr 2023 08:32:00 -0700",
-         "title" : "Goryachkina Tops 3rd Leg Of Women's Grand Prix; Zhu Claims GM Title"
       },
       {
          "description" : " Today I have a &#8216;bad day'. I woke up at 4 AM after 3 hours of sleep, unable to sleep longer. After yesterday's dry needling session, my whole upper body is in pain and my mind was racing. Certainly what qualifies as a bad day for me. But not the end of the world either. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/bad-day/\">How to Train Chess on Bad Days: Tips From a Grandmaster</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
