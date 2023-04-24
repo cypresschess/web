@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen was one of the stars of the Breakthrough Prize. There he presents a prize for theoretical computer science and math, together with Lily Collins, to Daniel Spielman. Daniel Spielman&#x2019;s algorithms are used for computing, signal processing, design of clinical trials and many more applications. Carlsen appears after min 33 in the video. This []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-last-appearance-of-magnus-carlsen-as-world-champion/",
+         "pubDate" : "Mon, 24 Apr 2023 06:17:36 +0000",
+         "title" : "The last appearance of Magnus Carlsen as World Champion"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-11-live/",
+         "pubDate" : "Mon, 24 Apr 2023 05:07:56 +0000",
+         "title" : "Nepo - Ding 2023, game 11 LIVE"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 9: 82-move draw after intense drama Match Score: 5-4 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 9Friday, 21 April 2023 After a fierce battle in round eight, both players appeared to have dialled down the intensity. Game nine was the calm after the storm, despite The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/\">2023 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/",
+         "pubDate" : "Mon, 24 Apr 2023 03:52:14 +0000",
+         "title" : "2023 World Chess Championship: Game 9"
+      },
+      {
          "description" : "The Satty Zhuldyz rapid and blitz tournament is taking place in Astana as a side event of the World Championship match. A number of international chess stars are participating. Karsten M&uuml;ller has been following the games, looking for endgame highlights. Find here seven instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Hou Yifan | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +103,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2354",
          "pubDate" : "Sun, 23 Apr 2023 14:13:31 +0000",
-         "title" : "World Open Team Championship: Registration is open"
+         "title" : "World Rapid Team Championship: Registration is open"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 122nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
@@ -360,22 +384,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nepo-ding-2023-game-9-live/",
          "pubDate" : "Fri, 21 Apr 2023 06:44:04 +0000",
          "title" : "Nepo - Ding 2023, game 9 LIVE"
-      },
-      {
-         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Masters []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-masters-section-participants/",
-         "pubDate" : "Fri, 21 Apr 2023 06:43:00 +0000",
-         "title" : "6th Sharjah Masters 2023- Masters Section Participants"
-      },
-      {
-         "description" : "Romanian Grand Prix 2023&#xA0;is back with an increased budget. Starting with 2023 Bucharest Grand Prix will take place in 6 of the most beautiful cities in Romania: Bucharest, Bra&#x219;ov, Timi&#x219;oara, Arad, Cluj, and Alba Iulia.&#xA0;The first event is Bucharest Grand Prix, which is rapid chess tournament with time control of 15 minutes plus 5 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bucharest-grand-prix-the-international-rapid-chess-championship-of-romania-participants/",
-         "pubDate" : "Fri, 21 Apr 2023 06:40:00 +0000",
-         "title" : "Bucharest Grand Prix - The International Rapid Chess Championship of Romania - Participants"
       },
       {
          "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/",
          "pubDate" : "Thu, 13 Apr 2023 04:29:12 +0000",
          "title" : "Dominica Chess on TDN Network!"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 3: Ding regain composure with comfortable draw Match Score: 2-1 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 3Wednesday, 12 April 2023 Ding appears more comfortable, seems upbeat after draw Ding Liren at the Press Conference after Game 3Photo by Anna Shtourman/FIDE While Game The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/12/2023-world-chess-championship-game-3/\">2023 World Chess Championship: Game 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/12/2023-world-chess-championship-game-3/",
-         "pubDate" : "Thu, 13 Apr 2023 02:09:31 +0000",
-         "title" : "2023 World Chess Championship: Game 3"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
