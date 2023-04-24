@@ -66,7 +66,7 @@ news_feed (
          "title" : "National Schools Team Chess Challenge final"
       },
       {
-         "description" : "Ian Nepomniachtchi had a chance to play on against risky play by Ding Liren in Game 11 of the FIDE World Championship match in Astana, but instead he decided to liquidate everything for a draw. That leaves him still leading by a point with just three games of the match to go, though Ding Liren will still have White in two of them.",
+         "description" : "Ian Nepomniachtchi had a chance to play on against risky play by Ding Liren in Game 11 of the FIDE World Championship match in Astana, but instead he decided to liquidate everything for a draw. That leaves him leading by a point with just three games of the match to go, though Ding Liren will still have White in two of them.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/nepomniachtchi-closes-down-sharp-clash-in-game-11",
@@ -79,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-11",
          "pubDate" : "Mon, 24 Apr 2023 03:53:00 -0700",
-         "title" : "Pressure Mounts On Ding After 3rd Straight Draw"
+         "title" : "Pressure Mounts On Ding After 4th Straight Draw"
       },
       {
          "description" : "CSIT - the International Workers and Amateurs in Sports Confederation has the great honor to invite all amateur chess players throughout the world to...",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/",
          "pubDate" : "Tue, 04 Apr 2023 06:21:19 +0000",
          "title" : "European Open & Women's Club Cup 2023 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2321",
-         "pubDate" : "Mon, 03 Apr 2023 19:19:07 +0000",
-         "title" : "WGP New Delhi: Round 9 Recap"
       }
    ]
 }
