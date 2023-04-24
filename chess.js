@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An international Go tournament, the Chunlan Cup, with a $200,000 prize fund, has been wrapped in controversy. In the semifinal round, newcomer Li Xuanhao (China) managed to defeat the reigning world champion Shin Jin-seo (South Korea). Li's own teammate accused him of receiving AI support during the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cheating-problem-in-go",
+         "pubDate" : "Mon, 24 Apr 2023 18:00:00 +0100",
+         "title" : "Cheating problem in Go"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at some recent endgame highlights from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-237-highlights-from-the-german-bundesliga",
+         "pubDate" : "Mon, 24 Apr 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #237: Highlights from the German Bundesliga"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2359",
+         "pubDate" : "Mon, 24 Apr 2023 16:40:36 +0000",
+         "title" : "1st FIDE Council Meeting 2023: List of decisions"
+      },
+      {
          "description" : " Finding brilliancies by Rashid Nezhmetdinov isn't a particularly hard task, as he played a vast number of them. However some stand out for other reasons, including the one below. After 15 moves White has most of his attacking force lined up across the third rank, which is normally not that threatening. But the jump of the knight to d5 sets the attack in motion, and it finishes with a nice set of scrifices. <br /> <b>Nezhmetdinov,Rashid - Kotkov,Yuri M [C67]</b><br /> RSFSR-ch 17th Krasnodar, 1957 <script> new PgnViewer( { boardName: \"game1393\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bd3 O-O 8.Nc3 Nxe5 9.Rxe5 Bf6 10.Re3 g6 11.Qf3 Bg7 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1042,14 +1066,6 @@ news_feed (
          "title" : "Only on Sunday"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 121st instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-121-chess-history-in-a-nutshell-3",
-         "pubDate" : "Sun, 16 Apr 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 121: Chess history in a nutshell (3)"
-      },
-      {
          "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3 going into Monday's rest day. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding's London System, a chess opening that starred on its first ever outing in a World Championship match.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2321",
          "pubDate" : "Mon, 03 Apr 2023 19:19:07 +0000",
          "title" : "WGP New Delhi: Round 9 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2320",
-         "pubDate" : "Mon, 03 Apr 2023 16:33:43 +0000",
-         "title" : "Lei Tingjie wins the Women's Candidates Final "
       }
    ]
 }
