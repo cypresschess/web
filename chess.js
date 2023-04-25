@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Malaysian Chess Championship 2023 will take place from 03-07 May 2023 in Perak, Malaysia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;It is 9-round Swiss system tournament with participation of Zhuo Ren Lim, Eng Chiam Yeap, Ern Jie Anderson Ang, Xin Hao Looi, Nik []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/malaysian-chess-championship-2023/",
+         "pubDate" : "Tue, 25 Apr 2023 19:22:12 +0000",
+         "title" : "Malaysian Chess Championship 2023"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen A quick historical recap should include the Meran variation being played for the first time in 1906 in the game Schlechter-Perlis. It got its name after the town of Merano <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/\">Nee",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/",
+         "pubDate" : "Tue, 25 Apr 2023 19:15:51 +0000",
+         "title" : "Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows brilliant moves and games from Magnus Carlsen. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X-yG_3RsrR0.jpg?itok=HAEwPoqy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Tue, 25 Apr 2023 15:36:54 +0000",
+         "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "Our \"Iniyan Challenge\" saw a lot of readers getting interested, and we received some excellent analysis from them. Today we want to give you a Computer Challenge. It is a position in which your chess engines will not give you the solution if you ask them - even if you run them for a very long time. You have to come up with the logic and strategy of the solution yourself, and then confirm everything with the help of the computer. Can you do that?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-preparation-earns-a-relatively-comfortable-draw-with-black-in-world-championship-game-10",
          "pubDate" : "Sun, 23 Apr 2023 14:52:00 +0400",
          "title" : "Nepomniachtchi preparation earns a relatively comfortable draw with black in World Championship game 10 - 10"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-10-live/",
-         "pubDate" : "Sun, 23 Apr 2023 07:19:49 +0000",
-         "title" : "Nepo - Ding 2023, game 10 LIVE"
       },
       {
          "description" : "On behalf of All India Chess Federation, All Orissa Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at Hotel Apsara, Sambalpur Odisha from 21-22",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Last month I participated in the first ever Saint Louis Super Swiss, an incredibly strong open tournament hosted at Saint Louis University from March 12-16th featuring both local and national talent. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/52746164501_9d0934f219_k.jpg?itok=qoTJya2d\" alt=\"\" /></div><div class=\"field field-name-field-category field-type-entityreference fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-recap",
-         "pubDate" : "Thu, 13 Apr 2023 17:12:03 +0000",
-         "title" : "2023 Saint Louis Super Swiss Recap "
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,22 +1880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#FCMAprilPapers#new_tab",
          "pubDate" : "Wed, 05 Apr 2023 08:21:08 +0000",
          "title" : "ECF Finance Council - papers available"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2322",
-         "pubDate" : "Tue, 04 Apr 2023 18:56:28 +0000",
-         "title" : "WGP New Delhi: Round 10 Recap"
-      },
-      {
-         "description" : " Here are the first few moves of an online blitz game I played the other day, in which I fell for a very plausible trap. 1. e4 c6 The Caro-Kann is an opening I hardly ever play, but, on the principle that you should try everything once except incest and folk dancing, I decided to <a href=\"https://chessimprover.com/a-plausible-trap/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Plausible Trap\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-plausible-trap/\">A Plausible Trap</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-plausible-trap/",
-         "pubDate" : "Tue, 04 Apr 2023 18:16:40 +0000",
-         "title" : "A Plausible Trap"
       }
    ]
 }
