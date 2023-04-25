@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Four teams took part in a Hybrid Friendly organised today by the Hobson Bay Chess Club. The teams consisted of 6 junior players representing Invercargill (NZ), ACTJCL (ACT), Kingsley Chess Club (WA), and Hobson Bay Chess Club (VIC). Each team played a central venue, and were supervised by an onsite arbiter. Hosted on the Tornelo website, the event was a teams round robin, played with a time limit of 30m+15s. After the 3 rounds were completed, the ACTJCL team finished in 1st place, winning all their matches (4-2,4-2, and 5-1). Invercargill finished 2nd with 2 match wins, Kingsley CC third with one win, and HBCC finished 4th. All matches were hard fought, and often the final margin of victory",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/junior-hybrid-friendly.html",
+         "pubDate" : "Tue, 25 Apr 2023 11:24:00 +0000",
+         "title" : "Junior Hybrid Friendly"
+      },
+      {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-4",
+         "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
+         "title" : "Jan Markos: What you need to know about the Queen (3)"
+      },
+      {
+         "description" : "The sixth edition of the Salamanca Chess Festival is taking place on April 25-29. The Masters Tournament, including Veselin Topalov, Sara Khadem and Vasyl Ivanchuk, kicks off on Wednesday at 17.30. An eight-player field (four men and four women) will fight over the board in rapid chess (40 minutes plus 5-second increments). The festival includes a number of educational and cultural side events. | Pictured: The playing hall during the fifth edition (2021)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2023-preview",
+         "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
+         "title" : "Sixth edition of the Salamanca Festival with Topalov, Khadem and Ivanchuk"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2360",
+         "pubDate" : "Tue, 25 Apr 2023 09:24:33 +0000",
+         "title" : "Scholastic chess x FIDE: the goal is 50 million kids"
+      },
+      {
+         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
+         "pubDate" : "Tue, 25 Apr 2023 09:50:00 +0100",
+         "title" : "Satty Zhuldyz Blitz - Live!"
+      },
+      {
          "description" : "This is an important technique in rook endings and can be used by attacker and defender. How does White win in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-cut-off",
          "pubDate" : "Tue, 25 Apr 2023 09:00:00 +0100",
          "title" : "The cut off"
+      },
+      {
+         "description" : "France&#x2019;s teams won gold medals in both the open and women&#x2019;s sections at Mitropa Chess Cup 2023, organized by the Croatian Chess Federation in Mali Lo&#x161;inj. Replay open section / Replay women section The closing ceremony featured the presence of some honorable guests: the Mayor of Mali Lo&#x161;inj, Mrs Anna Ku&#x10D;i&#x107;, and the President of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-cup-2023-france-wins-double-gold/",
+         "pubDate" : "Tue, 25 Apr 2023 07:31:54 +0000",
+         "title" : "Mitropa Cup 2023 - France wins double gold"
       },
       {
          "description" : "The FIDE World School Chess Championship 2023, a part of the 4th Rhodes Chess Festival, is in the books. The event took place from April 13 &#x2013; 23, 2023, at the Rodos Palace Resort Hotel.&#xA0; A very demanding and highly competitive event came to an end, with the winners crowned in each category. Round 9 []",
@@ -416,14 +464,6 @@ news_feed (
          "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023-live/",
          "pubDate" : "Fri, 21 Apr 2023 20:28:28 +0000",
          "title" : "Kazakhstan Chess Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 Excelsior April Open Championship is a 5-round Swiss tournament held from the 21 to the 23 of April in Toronto, Ontario, Canada. The time control for this event is 90 minutes + 30 seconds a move. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-excelsior-april-open-championship-live/",
-         "pubDate" : "Fri, 21 Apr 2023 20:18:14 +0000",
-         "title" : "2023 Excelsior April Open Championship - LIVE"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King examines the London System, inspired by Ding Liren's masterful strategic win in game 6 of the World Championship match in Astana. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1010,14 +1050,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 6"
       },
       {
-         "description" : "This is a deep conversation with GM Jonathan Rowson. The Scottish GM is not only a strong players (peak rating of 2599), but also a deep thinker, a spiritual person, a philosopher and much more. In this conversation with IM Sagar Shah, Jonathan speaks about how he wrote books like Seven Deadly Chess Sins and Chess for Zebras as well as his latest book - Moves that Matter. Jonathan is currently in India and he speaks about his affiliation to the country and how it has grown on him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-chess-spirituality-and-philosophy",
-         "pubDate" : "Mon, 17 Apr 2023 09:18:23 +0100",
-         "title" : "On Chess, Spirituality, and Philosophy"
-      },
-      {
          "description" : "National Arbiter Seminar Sivakasi Tamil Nadu Certificates are out to download Link : https://aicf.online/Arbiter-Sivakasi.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1056,22 +1088,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-openings-part-1/",
          "pubDate" : "Sun, 16 Apr 2023 18:21:24 +0000",
          "title" : "Chess Heroes: Openings (Part 1)"
-      },
-      {
-         "description" : "Amid the riveting World Championship match in Astana, Jon Speelman looks back on the 1963 match for the world title between Mikhail Botvinnik and Tigran Petrosian. \"The reason I'm returning to it is not just nostalgia, but because of the parallels between how the World Championship debutants Tigran Petrosian and Ding Liren performed at the start. Both were rather terrified\". | Photo: TASS Agency (1963)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-192",
-         "pubDate" : "Sun, 16 Apr 2023 19:00:00 +0100",
-         "title" : "Sixty years on"
-      },
-      {
-         "description" : "In this week's show, Karsten M&uuml;ller and his guest, 17-year old Indian Grandmaster Praggnanandhaa look at endgame highlights from Pragg's career. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-236-with-indian-star-praggnanandhaa",
-         "pubDate" : "Sun, 16 Apr 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #236: With Indian star Praggnanandhaa!"
       },
       {
          "description" : " Ding Liren won the sixth game of the FIDE World Chess Championship match Astana, Kazakhstan to level the score against his opponent Ian Nepomniachtchi. Ding chose the London System which appeared for the very first time in a title match. Nepomniachtchi replied with one of the very main lines but after 14...Nd7 he slipped into an uncomfortable position. 20.Qg3 offered black an endgame, it was possible to take this and hope to hang on. 23.Rb3 was a good way of playing, 23.b4 was preferred by the engines. After this both sides seemed to find the best moves. 32.Rc5 was certainly a natural continuation but 32.Qe1 holding everything for a few moves seems to be better. Black's last chance seemed t",
