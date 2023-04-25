@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is an important technique in rook endings and can be used by attacker and defender. How does White win in the diagram position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-cut-off",
+         "pubDate" : "Tue, 25 Apr 2023 09:00:00 +0100",
+         "title" : "The cut off"
+      },
+      {
+         "description" : "The FIDE World School Chess Championship 2023, a part of the 4th Rhodes Chess Festival, is in the books. The event took place from April 13 &#x2013; 23, 2023, at the Rodos Palace Resort Hotel.&#xA0; A very demanding and highly competitive event came to an end, with the winners crowned in each category. Round 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-chess-champions-2023-crowned-in-wscc/",
+         "pubDate" : "Tue, 25 Apr 2023 07:24:25 +0000",
+         "title" : "World Chess Champions 2023 crowned in WSCC"
+      },
+      {
+         "description" : "Three games left, and Ding Liren is trailing Ian Nepomniachtchi 5:6. Will the top Chinese be able to catch his Russian opponent? The second-last free day of the Astana World Championship is a good time to take another look at the last two games. Once again we have deep, instructive analyses for you to study, kindly provided to us by grandmaster Efstratios Grivas, trainer and FIDE international organizer. Our replay app makes it very easy to follow the annotations. You can even start an engine to work out the most subtle questions you might have. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-10-11",
+         "pubDate" : "Tue, 25 Apr 2023 08:00:00 +0100",
+         "title" : "Grivas on Nepo-Ding 10-11"
+      },
+      {
          "description" : "Congratulations to Saint Louis University (SLU) for winning the fifth season of the Collegiate Chess League (CCL). SLU fielded a strong roster of talented chess players, including GM Benjamin Bok, GM Nikolas Theodorou, GM Robby Kevlishvili, IM Sta...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://www.chessdom.com/2023-excelsior-april-open-championship-live/",
          "pubDate" : "Fri, 21 Apr 2023 20:18:14 +0000",
          "title" : "2023 Excelsior April Open Championship - LIVE"
-      },
-      {
-         "description" : "The 2023 US National Middle School Championship is a 7-round Swiss tournament held from the 21 to the 23 of April in Round Rock, Texas. The time control is 90 minutes with a 10 seconds after each move. The tournament will be broadcast on a 13 minute delay. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-us-national-middle-school-championship-live/",
-         "pubDate" : "Fri, 21 Apr 2023 20:12:22 +0000",
-         "title" : "2023 US National Middle School Championship - LIVE"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King examines the London System, inspired by Ding Liren's masterful strategic win in game 6 of the World Championship match in Astana. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "Endgame Magic #236: With Indian star Praggnanandhaa!"
       },
       {
-         "description" : "In the third consecutive decisive game of the World Championship match, Ding Liren played the London System and beat Ian Nepomniachtchi to once again even the score in Astana. Nepo described the game as one of his worst ever, while Ding confessed that he had not prepared the line that appeared on the board. Game 7 will take place on Tuesday. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g6",
-         "pubDate" : "Sun, 16 Apr 2023 17:25:00 +0100",
-         "title" : "World Championship Game 6: Ding plays the London, bounces right back"
-      },
-      {
          "description" : " Ding Liren won the sixth game of the FIDE World Chess Championship match Astana, Kazakhstan to level the score against his opponent Ian Nepomniachtchi. Ding chose the London System which appeared for the very first time in a title match. Nepomniachtchi replied with one of the very main lines but after 14...Nd7 he slipped into an uncomfortable position. 20.Qg3 offered black an endgame, it was possible to take this and hope to hang on. 23.Rb3 was a good way of playing, 23.b4 was preferred by the engines. After this both sides seemed to find the best moves. 32.Rc5 was certainly a natural continuation but 32.Qe1 holding everything for a few moves seems to be better. Black's last chance seemed t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/only-on-sunday.html",
          "pubDate" : "Sun, 16 Apr 2023 15:08:00 +0000",
          "title" : "Only on Sunday"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 121st instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-121-chess-history-in-a-nutshell-3",
-         "pubDate" : "Sun, 16 Apr 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 121: Chess history in a nutshell (3)"
       },
       {
          "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3 going into Monday's rest day. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding's London System, a chess opening that starred on its first ever outing in a World Championship match.",
@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/the-1000-puzzle-challenge.html",
          "pubDate" : "Tue, 04 Apr 2023 14:35:00 +0000",
          "title" : "The 1000 puzzle challenge"
-      },
-      {
-         "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest of the game&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/",
-         "pubDate" : "Tue, 04 Apr 2023 06:21:19 +0000",
-         "title" : "European Open & Women's Club Cup 2023 - Official invitation"
       }
    ]
 }
