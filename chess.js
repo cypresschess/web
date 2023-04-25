@@ -2,12 +2,108 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Malaysian Chess Championship 2023 will take place from 03-07 May 2023 in Perak, Malaysia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;It is 9-round Swiss system tournament with participation of Zhuo Ren Lim, Eng Chiam Yeap, Ern Jie Anderson Ang, Xin Hao Looi, Nik []",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about promoting pawns into queens (and more) in this beginner chess lecture. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-get-promotion-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-get-promotion-beginner-breakdown",
+         "pubDate" : "Tue, 25 Apr 2023 21:37:18 +0000",
+         "title" : "How to Get a Promotion! | Beginner Breakdown"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U12 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/malaysian-chess-championship-2023/",
-         "pubDate" : "Tue, 25 Apr 2023 19:22:12 +0000",
-         "title" : "Malaysian Chess Championship 2023"
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u12-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:27:38 +0000",
+         "title" : "Bulgarian Individual Chess Championship Girls U12 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U14 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u14-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:24:52 +0000",
+         "title" : "Bulgarian Individual Chess Championship Girls U14 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U16 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u16-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:22:24 +0000",
+         "title" : "Bulgarian Individual Chess Championship Girls U16 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U18 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u18-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:19:57 +0000",
+         "title" : "Bulgarian Individual Chess Championship Girls U18 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U12 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / U16 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u12-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:17:22 +0000",
+         "title" : "Bulgarian Individual Chess Championship U12 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U14 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / U16 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u14-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:14:35 +0000",
+         "title" : "Bulgarian Individual Chess Championship U14 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U16 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / U14 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u16-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:12:04 +0000",
+         "title" : "Bulgarian Individual Chess Championship U16 - Participants"
+      },
+      {
+         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U18 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss. The others sections : U16 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u18-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 21:08:50 +0000",
+         "title" : "Bulgarian Individual Chess Championship U18 - Participants"
+      },
+      {
+         "description" : "The 2. Laimer Pfingst-Open A 2023 will take place from 26-30 May 2023 in M&#xFC;nchen, Germany. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system is 9-round Swiss. More than 70 players are registered, among them are Bharath Subramaniyam H, Gupta Sankalp, Jung []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2-laimer-pfingst-open-a-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 20:57:26 +0000",
+         "title" : "2. Laimer Pfingst-Open A - Participants"
+      },
+      {
+         "description" : "The 1. M&#xFC;nchner Pfingst-Open A 2023 will take place from 31 May to 06 June 2023 in Gymnasium M&#xFC;nchen/Moosach, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;More than 100 players are registered, among them are Pavel Eljanov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1-munchner-pfingst-open-a-participants/",
+         "pubDate" : "Tue, 25 Apr 2023 20:51:13 +0000",
+         "title" : "1. M&uuml;nchner Pfingst-Open A - Participants"
+      },
+      {
+         "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-wins-2023-satty-zhuldyz-rapid-blitz",
+         "pubDate" : "Tue, 25 Apr 2023 13:28:00 -0700",
+         "title" : "Aronian Surpasses World Champions, Wins Elite Rapid & Blitz Tournament In Astana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2361",
+         "pubDate" : "Tue, 25 Apr 2023 20:20:41 +0000",
+         "title" : "FIDE Circuit: Levon Aronian emerges as the new leader"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen A quick historical recap should include the Meran variation being played for the first time in 1906 in the game Schlechter-Perlis. It got its name after the town of Merano <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/\">Nee",
@@ -32,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/computer-challenge-01",
          "pubDate" : "Tue, 25 Apr 2023 16:00:00 +0100",
          "title" : "Computer Challenge 01"
-      },
-      {
-         "description" : "Chess will make its first step in the European Games &#x2013; European Olympic Committees as an accompanying event under the aegis of the Organising Committee of Krakow-Maloposka 2023. This is yet one more expansion for European chess, as it recently set participation record in the EICC (European Individual Chess Championship 2023 &#x2013; breaking the titled []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-is-part-of-the-european-games-in-krakow-2023/",
-         "pubDate" : "Tue, 25 Apr 2023 11:30:50 +0000",
-         "title" : "Chess is part of the European Games in Krakow 2023"
       },
       {
          "description" : " Four teams took part in a Hybrid Friendly organised today by the Hobson Bay Chess Club. The teams consisted of 6 junior players representing Invercargill (NZ), ACTJCL (ACT), Kingsley Chess Club (WA), and Hobson Bay Chess Club (VIC). Each team played a central venue, and were supervised by an onsite arbiter. Hosted on the Tornelo website, the event was a teams round robin, played with a time limit of 30m+15s. After the 3 rounds were completed, the ACTJCL team finished in 1st place, winning all their matches (4-2,4-2, and 5-1). Invercargill finished 2nd with 2 match wins, Kingsley CC third with one win, and HBCC finished 4th. All matches were hard fought, and often the final margin of victory",
@@ -88,22 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-cut-off",
          "pubDate" : "Tue, 25 Apr 2023 09:00:00 +0100",
          "title" : "The cut off"
-      },
-      {
-         "description" : "France&#x2019;s teams won gold medals in both the open and women&#x2019;s sections at Mitropa Chess Cup 2023, organized by the Croatian Chess Federation in Mali Lo&#x161;inj. Replay open section / Replay women section The closing ceremony featured the presence of some honorable guests: the Mayor of Mali Lo&#x161;inj, Mrs Anna Ku&#x10D;i&#x107;, and the President of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-cup-2023-france-wins-double-gold/",
-         "pubDate" : "Tue, 25 Apr 2023 07:31:54 +0000",
-         "title" : "Mitropa Cup 2023 - France wins double gold"
-      },
-      {
-         "description" : "The FIDE World School Chess Championship 2023, a part of the 4th Rhodes Chess Festival, is in the books. The event took place from April 13 &#x2013; 23, 2023, at the Rodos Palace Resort Hotel.&#xA0; A very demanding and highly competitive event came to an end, with the winners crowned in each category. Round 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-chess-champions-2023-crowned-in-wscc/",
-         "pubDate" : "Tue, 25 Apr 2023 07:24:25 +0000",
-         "title" : "World Chess Champions 2023 crowned in WSCC"
       },
       {
          "description" : "Three games left, and Ding Liren is trailing Ian Nepomniachtchi 5:6. Will the top Chinese be able to catch his Russian opponent? The second-last free day of the Astana World Championship is a good time to take another look at the last two games. Once again we have deep, instructive analyses for you to study, kindly provided to us by grandmaster Efstratios Grivas, trainer and FIDE international organizer. Our replay app makes it very easy to follow the annotations. You can even start an engine to work out the most subtle questions you might have. | Photo: FIDE / Stev Bonhage",
@@ -266,30 +338,6 @@ news_feed (
          "title" : "Quiet draw in game 11 of the World Chess Championship - 11"
       },
       {
-         "description" : "Outpostchess is an awardee of 3 prestigious accelerator programs: Raising Starts, SmartStart, and Katapult accelerator. Feel the story inside, and learn chess from one more angle &#x2013; the business one. Get inspired on how to start your business from the CEO Lena Miladinovic and visit Outpostchess app here A word from CEO Hello, my name []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/how-to-start-your-chess-business-meet-ceo-of-outpostchess-com-a-successful-start-up-story/",
-         "pubDate" : "Mon, 24 Apr 2023 08:05:46 +0000",
-         "title" : "How to start your chess business - meet CEO of Outpostchess.com, a successful start-up story"
-      },
-      {
-         "description" : "Magnus Carlsen was one of the stars of the Breakthrough Prize. There he presents a prize for theoretical computer science and math, together with Lily Collins, to Daniel Spielman. Daniel Spielman&#x2019;s algorithms are used for computing, signal processing, design of clinical trials and many more applications. Carlsen appears after min 33 in the video. This []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-last-appearance-of-magnus-carlsen-as-world-champion/",
-         "pubDate" : "Mon, 24 Apr 2023 06:17:36 +0000",
-         "title" : "The last appearance of Magnus Carlsen as World Champion"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-11-live/",
-         "pubDate" : "Mon, 24 Apr 2023 05:07:56 +0000",
-         "title" : "Nepo - Ding 2023, game 11 LIVE"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 9: 82-move draw after intense drama Match Score: 5-4 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 9Friday, 21 April 2023 After a fierce battle in round eight, both players appeared to have dialled down the intensity. Game nine was the calm after the storm, despite The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/\">2023 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -306,36 +354,12 @@ news_feed (
          "title" : "Endgames from Kazakhstan"
       },
       {
-         "description" : "The Orjan Lindroth Memorial Chess Tournament 2023 is taking place from 29 May to 03 June 2023 in Nassau, Bahamas. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;It is 9-round Swiss system tournament with participation of Miguel Santos Ruiz, Johan-Sebastian Christiansen, Jose Fernando Cuenca Jimenez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/orjan-lindroth-memorial-chess-tournament-2023-participants/",
-         "pubDate" : "Sun, 23 Apr 2023 20:14:23 +0000",
-         "title" : "Orjan Lindroth Memorial Chess Tournament 2023 - Participants"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2356",
          "pubDate" : "Sun, 23 Apr 2023 20:11:08 +0000",
          "title" : "Winners crowned at 2023 FIDE World School Championship"
-      },
-      {
-         "description" : "The Vrindavana Chess Festival MMT International Open is taking place from 23rd to the 27th of April in Vrindavan, India as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are Chatterjee Utsab, V A V Rajesh, M []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vrindavana-chess-festival-mmt-international-open-live/",
-         "pubDate" : "Sun, 23 Apr 2023 20:07:41 +0000",
-         "title" : "Vrindavana Chess Festival MMT International Open - LIVE"
-      },
-      {
-         "description" : "The 2nd &#8220;MIKIS THEODORAKIS&#8221; INTERNATIONAL CHESS TOURNAMENT CHANIA 2023 finished today. Johan-Sebastian Christiansen, Dimitris Alexakis and Elina Danielian shared the top 3 spots with 7.5 points from 9 rounds. Johan-Sebastian Christiansen is the big winner, the silver gone to Dimitris Alexakis and Elina Danielian won the bronze. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-mikis-theodorakis-international-chess-tournament-chania-2023/",
-         "pubDate" : "Sun, 23 Apr 2023 19:55:12 +0000",
-         "title" : "2nd \"MIKIS THEODORAKIS\" INTERNATIONAL CHESS TOURNAMENT CHANIA 2023"
       },
       {
          "description" : "With four games to go, Ian Nepomniachtchi continues to have a 1-point lead at the World Championship match in Astana. Nepo, playing black, surprised Ding Liren out of an English Opening, and had little trouble defending the slightly inferior position that ensued. The Russian GM will get the white pieces in Monday's game 11. | Photo: FIDE / David Llada",
@@ -1274,14 +1298,6 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Round 9 & Playoffs"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed-lichessorg",
-         "pubDate" : "Thu, 13 Apr 2023 21:26:22 +0000",
-         "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2325",
          "pubDate" : "Wed, 05 Apr 2023 21:17:51 +0000",
          "title" : "Nils Grandelius wins Reykjavik Open 2023"
-      },
-      {
-         "description" : "GM&#38;nbsp;Fabiano Caruana defeated GM Hikaru Nakamura in the Division I Winners Final of the Champions Chess Tour Chessable Masters 2023 to punch his ticket to the Grand Final. In the Losers Quarterfinals, GM Magnus Carlsen eliminated GM Wesley So, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-3",
-         "pubDate" : "Wed, 05 Apr 2023 14:05:00 -0700",
-         "title" : "Caruana Beats Nakamura Without Needing 4th Game, Advances To Grand Final"
       },
       {
          "description" : "",
