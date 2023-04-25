@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Congratulations to Saint Louis University (SLU) for winning the fifth season of the Collegiate Chess League (CCL). SLU fielded a strong roster of talented chess players, including GM Benjamin Bok, GM Nikolas Theodorou, GM Robby Kevlishvili, IM Sta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-wins-ccl-title",
+         "pubDate" : "Mon, 24 Apr 2023 18:43:43 -0700",
+         "title" : "Saint Louis University Wins Collegiate Chess League Title"
+      },
+      {
          "description" : "Playing white, Ian Nepomniachtchi simplified the position on move 19 in game 11 of the World Championship match - a decision which led to a quick draw. Nepo still has a 1-point lead over Ding Liren, who will get three more chances to even the score. Tuesday is a rest day in Astana. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-7-9",
          "pubDate" : "Sat, 22 Apr 2023 08:00:00 +0100",
          "title" : "Grivas on Nepo-Ding 7-9"
-      },
-      {
-         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
-         "pubDate" : "Sat, 22 Apr 2023 07:55:00 +0100",
-         "title" : "Satty Zhuldyz Rapid - Live!"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 8: Ding missed golden opportunity Match Score: 4&frac12;-3&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 8Thursday, 20 April 2023 Game 8 of the World Chess Championship in Astana, Kazakhstan ended in a draw, the first in five games. Both players have been trading The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/\">2023 World Chess Championship: Game 8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1106,6 +1106,14 @@ news_feed (
          "title" : "Only on Sunday"
       },
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 121st instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-121-chess-history-in-a-nutshell-3",
+         "pubDate" : "Sun, 16 Apr 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 121: Chess history in a nutshell (3)"
+      },
+      {
          "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3 going into Monday's rest day. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding's London System, a chess opening that starred on its first ever outing in a World Championship match.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-3",
          "pubDate" : "Wed, 05 Apr 2023 14:05:00 -0700",
          "title" : "Caruana Beats Nakamura Without Needing 4th Game, Advances To Grand Final"
-      },
-      {
-         "description" : "GM Dmitry Andreikin and GM Parham Maghsoodloo emerged victorious at Titled Tuesday on April 4. Both scored 9.5 points out of a possible 11, but Andrekin needed a tiebreak advantage over two rivals while Maghsoodloo won outright.&#38;nbsp; This was A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrekin-maghsoodloo-win-titled-tuesday-april-4-2023",
-         "pubDate" : "Wed, 05 Apr 2023 10:08:10 -0700",
-         "title" : "Andreikin Wins His 12th Titled Tuesday"
       },
       {
          "description" : "",
