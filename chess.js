@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our \"Iniyan Challenge\" saw a lot of readers getting interested, and we received some excellent analysis from them. Today we want to give you a Computer Challenge. It is a position in which your chess engines will not give you the solution if you ask them - even if you run them for a very long time. You have to come up with the logic and strategy of the solution yourself, and then confirm everything with the help of the computer. Can you do that?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/computer-challenge-01",
+         "pubDate" : "Tue, 25 Apr 2023 16:00:00 +0100",
+         "title" : "Computer Challenge 01"
+      },
+      {
+         "description" : "Chess will make its first step in the European Games &#x2013; European Olympic Committees as an accompanying event under the aegis of the Organising Committee of Krakow-Maloposka 2023. This is yet one more expansion for European chess, as it recently set participation record in the EICC (European Individual Chess Championship 2023 &#x2013; breaking the titled []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-is-part-of-the-european-games-in-krakow-2023/",
+         "pubDate" : "Tue, 25 Apr 2023 11:30:50 +0000",
+         "title" : "Chess is part of the European Games in Krakow 2023"
+      },
+      {
          "description" : " Four teams took part in a Hybrid Friendly organised today by the Hobson Bay Chess Club. The teams consisted of 6 junior players representing Invercargill (NZ), ACTJCL (ACT), Kingsley Chess Club (WA), and Hobson Bay Chess Club (VIC). Each team played a central venue, and were supervised by an onsite arbiter. Hosted on the Tornelo website, the event was a teams round robin, played with a time limit of 30m+15s. After the 3 rounds were completed, the ACTJCL team finished in 1st place, winning all their matches (4-2,4-2, and 5-1). Invercargill finished 2nd with 2 match wins, Kingsley CC third with one win, and HBCC finished 4th. All matches were hard fought, and often the final margin of victory",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -456,14 +472,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/",
          "pubDate" : "Sat, 22 Apr 2023 04:28:13 +0000",
          "title" : "2023 World Chess Championship: Game 8"
-      },
-      {
-         "description" : "The Kazakhstan Chess Cup 2023 will be held from the 23rd to the 30th of April in Astana, Kazakhstan as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Top seeded in the tournament is Hans Moke Niemann (who recently played in Menorca) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-chess-cup-2023-live/",
-         "pubDate" : "Fri, 21 Apr 2023 20:28:28 +0000",
-         "title" : "Kazakhstan Chess Cup 2023 - LIVE"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King examines the London System, inspired by Ding Liren's masterful strategic win in game 6 of the World Championship match in Astana. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://aicf.in/important-decisions-taken-on-special-general-body-and-executive-committee-of-all-india-chess-federation-held-on-26-march-2023/",
          "pubDate" : "Mon, 17 Apr 2023 14:46:24 +0000",
          "title" : "Important decisions taken on Special General Body and Executive Committee of All India Chess Federation held on 26 March 2023"
-      },
-      {
-         "description" : "Hard to believe - Sebastian Siebrecht from Germany, the world's tallest Grandmaster, who always seems to be so dynamic and youthful, just turned 50. Yesterday, the Grandmaster from Essen, who is also a successful organiser and chess ambassador, celebrated his jubilee. Congratulations!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sebastian-siebrecht-really-50-already",
-         "pubDate" : "Mon, 17 Apr 2023 14:36:32 +0100",
-         "title" : "Sebastian Siebrecht: Really? 50 already?"
       },
       {
          "description" : " For an event that many people had written off before it had started, the 2023 World Championship Match is attracting a lot of attention. This is mainly due to the fact that the first 6 games have already seen 4 wins, 2 to each player. And while this may be a sign of nerves for both players, it does make a change from the previous few matches, where a drawn game was the most likely outcome. So far in this match Nepo has taken the lead, only to see Ding equal the score with a subsequent victory. Such was the case last night, with Ding turning the London System into an attacking weapon. <br /> <b>Liren,Ding (2788) - Nepomniachtchi,Ian (2795) [D02]</b><br /> FIDE World Championship 2023 Astana,",
@@ -1888,22 +1888,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-plausible-trap/",
          "pubDate" : "Tue, 04 Apr 2023 18:16:40 +0000",
          "title" : "A Plausible Trap"
-      },
-      {
-         "description" : "The post from a couple of days ago, <A HREF=\"https://chessforallages.blogspot.com/2023/04/baffling-ebay.html\">Baffling eBay</A> (April 2023), was post no.3600 on this blog. That means it's time for another 'Breaking the Barrier' post, last seen in <A HREF=\"https://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html\">Breaking the 3500 Barrier</A> (October 2022). In that '3500' post I wrote <BLOCKQUOTE> If I ever do a 'Breaking 3600' post, I now have two CCRL rating lists to consult, but I'll cross that bridge when I come to it. </BLOCKQUOTE> <P> I am now standing in front of that bridge -- OK, sitting in front of it -- and I see that there are four CCRL rating lists. Shown below a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/breaking-3600-barrier.html",
-         "pubDate" : "Tue, 04 Apr 2023 15:29:00 +0000",
-         "title" : "Breaking the 3600 Barrier"
-      },
-      {
-         "description" : " To try and motivate some of my chess students I have set them quite a big challenge over the next 3 weeks. I've asked them to do 1000 puzzles at lichess.org before then end of the school holidays. This is approximately 50 puzzles a day, although they can do more/less in a day if they choose. The rules are simple 1. The puzzle category is up to you (I am mainly working on endings, but have choses general tactics and some openings) 2. It doesn't matter if you get 100% (or even 20%). Just trying to solve them is the goal 3. But ... you should retry the ones you got wrong before you start the next days set 4. Your final score/rating does not matter to anyone but yourself <br /> To see how hard ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/the-1000-puzzle-challenge.html",
-         "pubDate" : "Tue, 04 Apr 2023 14:35:00 +0000",
-         "title" : "The 1000 puzzle challenge"
       }
    ]
 }
