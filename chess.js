@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ASEAN Chess Confederation and the European Chess Union announce the chess symposium which will include separate workshops for trainers, arbiters and organisers. The Symposium will take place from 19-24 June in Bangkok, Thailand. The Symposium will start with the Trainers workshop which will be held from 19-21 June with GM Artur Yusupov as the lecturer. The workshop&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/acc-ecu-chess-symposium/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/acc-ecu-chess-symposium/",
+         "pubDate" : "Wed, 26 Apr 2023 07:19:28 +0000",
+         "title" : "ACC - ECU Chess Symposium"
+      },
+      {
+         "description" : "Hulu's Impact X Nightline is a weekly news magazine offering hard-hitting investigative reports, deep dives on stories in the news cycle, profiles of newsmakers, and celebrity interviews. Unfiltered, straight to the source reporting on the stories you're talking about and the ones you soon will be. This week, episode 24 is all about chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-greatest-chess-scandal",
+         "pubDate" : "Wed, 26 Apr 2023 08:00:00 +0100",
+         "title" : "The Greatest Chess Scandal"
+      },
+      {
+         "description" : "The French Youth Championship will be held from the 23rd to the 30th of April in Agen, France as a 9-round Swiss. The tournament will be divided into age groups. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament is separated in 10 categories []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-youth-championship-2023/",
+         "pubDate" : "Wed, 26 Apr 2023 06:54:07 +0000",
+         "title" : "French Youth Championship 2023"
+      },
+      {
+         "description" : "The Asia Zone 3.3 Chess Championships 2023, both Open and Women sections, will take place from 06-12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The Open section will be 9-round Swiss system tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-women/",
+         "pubDate" : "Wed, 26 Apr 2023 06:43:24 +0000",
+         "title" : "Asia Zone 3.3 Chess Championships 2023 - Women"
+      },
+      {
+         "description" : "The Asia Zone 3.3 Chess Championships 2023, both Open and Women sections, will take place from 06-12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The Open section will be 9-round Swiss system tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-open/",
+         "pubDate" : "Wed, 26 Apr 2023 06:38:50 +0000",
+         "title" : "Asia Zone 3.3 Chess Championships 2023 - Open"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 10: Ding couldn't break through in Game 10. Match Score: 5&frac12;-4&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 10Friday, 23 April 2023 With Ding playing white in Game 10, this match has officially entered the final phase and seems to be settling down The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/\">2023 World Chess Championship: Game 10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/",
+         "pubDate" : "Wed, 26 Apr 2023 04:22:59 +0000",
+         "title" : "2023 World Chess Championship: Game 10"
+      },
+      {
+         "description" : "Congratulations Rayna Ajay Patel for securing bronze medal in World School Under-7 Girls Chess Championship-2023",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-rayna-ajay-patel/",
+         "pubDate" : "Wed, 26 Apr 2023 03:58:41 +0000",
+         "title" : "Congratulations Rayna Ajay Patel"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows brilliant moves and games from Magnus Carlsen. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X-yG_3RsrR0.jpg?itok=HAEwPoqy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg",
          "pubDate" : "Wed, 26 Apr 2023 00:37:31 +0000",
          "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-12-live/",
+         "pubDate" : "Tue, 25 Apr 2023 21:45:00 +0000",
+         "title" : "Nepo - Ding 2023, game 12 LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about promoting pawns into queens (and more) in this beginner chess lecture. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-get-promotion-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
@@ -66,38 +130,6 @@ news_feed (
          "title" : "Bulgarian Individual Chess Championship U14 - Participants"
       },
       {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U16 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / U14 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u16-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:12:04 +0000",
-         "title" : "Bulgarian Individual Chess Championship U16 - Participants"
-      },
-      {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U18 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss. The others sections : U16 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u18-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:08:50 +0000",
-         "title" : "Bulgarian Individual Chess Championship U18 - Participants"
-      },
-      {
-         "description" : "The 2. Laimer Pfingst-Open A 2023 will take place from 26-30 May 2023 in M&#xFC;nchen, Germany. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system is 9-round Swiss. More than 70 players are registered, among them are Bharath Subramaniyam H, Gupta Sankalp, Jung []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2-laimer-pfingst-open-a-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 20:57:26 +0000",
-         "title" : "2. Laimer Pfingst-Open A - Participants"
-      },
-      {
-         "description" : "The 1. M&#xFC;nchner Pfingst-Open A 2023 will take place from 31 May to 06 June 2023 in Gymnasium M&#xFC;nchen/Moosach, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;More than 100 players are registered, among them are Pavel Eljanov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1-munchner-pfingst-open-a-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 20:51:13 +0000",
-         "title" : "1. M&uuml;nchner Pfingst-Open A - Participants"
-      },
-      {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows brilliant moves and games from Magnus Carlsen. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X-yG_3RsrR0.jpg?itok=HAEwPoqy\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows brilliant moves and games from Magnus Carlsen. 2023.04.25<br /> Viswanathan Anand vs Luke McShane, London Chess Classic (Group A) (2013): A07 Reti, King&#039;s Indian attack (Barcza system)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1740933\">https://www.chessgames.com/perl/chessgame?gid=1740933</a><br /> Magnus Carlsen vs Le Quang Liem, Oslo Esports Cup (2022): E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2268814\">https://www.chessgames.com/perl/chessgame?gid=2268814</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapp",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros",
@@ -1050,14 +1082,6 @@ news_feed (
          "title" : "Lesotho Championship: Bokang Motsamai and Reitumetse Taioe win titles"
       },
       {
-         "description" : "Today is a free day at the Astana World Championship. Nothing to see, no move coming over in real time. But: we have a special treat for you! Grandmaster Efstratios Grivas, trainer and FIDE international organizer, has sent us some deeply annotated games, actually the last three decisive encounters. Go through them on our replay app, learn and enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-notes-on-nepo-ding",
-         "pubDate" : "Mon, 17 Apr 2023 18:00:00 +0100",
-         "title" : "My notes on Nepo-Ding"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/ding-lirens-2022-candidates.html",
          "pubDate" : "Fri, 14 Apr 2023 15:35:00 +0000",
          "title" : "Ding Liren's 2022 Candidates"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 4: Match tied as Ding gets the win Match Score: 2-2 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 4Thursday, 13 April 2023 Nepo gets crushed after Ding's thematic exchange sac The pendulum has swung toward Ding Liren after he capitalized off of a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/14/2023-world-chess-championship-game-4/\">2023 World Chess Championship: Game 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/14/2023-world-chess-championship-game-4/",
-         "pubDate" : "Fri, 14 Apr 2023 13:32:55 +0000",
-         "title" : "2023 World Chess Championship: Game 4"
       },
       {
          "description" : " Last weekend I had the opportunity to use one of the lines from my White 1.d4 Repertoire course. Actually I got it by transposition, as in the course I give 1.d4 Nf6 2.Nf3 e6 3.e3, whereas in the game I played 3.c4 b6 and then 4.e3, the so-called Spassky System. There are some differences between <a href=\"https://chessimprover.com/a-deceptively-quiet-line/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Deceptively Quiet Line\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-deceptively-quiet-line/\">A Deceptively Quiet Line</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1728,14 +1744,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
          "pubDate" : "Fri, 7 Apr 2023 18:38:00 +0400",
          "title" : "World Chess Championship 2023 - "
-      },
-      {
-         "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/ongc-ward-sports-scholarship-scheme-2023-24/",
-         "pubDate" : "Fri, 07 Apr 2023 11:06:02 +0000",
-         "title" : "ONGC Ward Sports Scholarship Scheme 2023-24"
       },
       {
          "description" : "",
