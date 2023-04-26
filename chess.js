@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former sole leader Arjun Erigaisi faltered on the second day of blitz at the Satty Zhuldyz Rapid and Blitz tournament in Kazakhstan. The only two-time FIDE World Cup winner in history, Levon Aronian, took his chance and won the event with a round to spare. Arjun finished second with 21&frac12;/33 points and Haik Martirosyan finished third with 21/33. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-blitz",
+         "pubDate" : "Wed, 26 Apr 2023 21:00:00 +0100",
+         "title" : "Levon Aronian wins Satty Zhuldyz Rapid and Blitz 2023"
+      },
+      {
+         "description" : "The wild ride continues. Ding Liren defeated Ian Nepomniachtchi in a game full of ups and downs to level the score in the World Championship match. Ding had a good position out of the opening, but soon lost the thread, leaving Nepo with a real chance to all but secure overall match victory with a win. And then came Nepo's collapse. The Russian first gave up his advantage and then blundered into a lost position. Two more classical games will be played in Astana. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g12",
+         "pubDate" : "Wed, 26 Apr 2023 18:50:00 +0100",
+         "title" : "World Championship Game 12: Nepo falls apart, Ding evens the score"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2362",
+         "pubDate" : "Wed, 26 Apr 2023 16:32:02 +0000",
+         "title" : "Race for the title of World Champion wide open as Nepomniachtchi suffers shocking defeat"
+      },
+      {
+         "description" : "GM Hikaru Nakamura returned to the winner&#39;s column in the early Titled Tuesday on April 25, and GM Nihal Sarin followed with his first win of the year in the late tournament. Both scored 9.5 points out of a possible 11 and won on the tiebreak scor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-nihal-win-titled-tuesday-april-25-2023",
+         "pubDate" : "Wed, 26 Apr 2023 08:48:33 -0700",
+         "title" : "Nakamura, Nihal Take Tied Tuesday Tournaments"
+      },
+      {
          "description" : "The next event in Chess.com&#38;rsquo;s blockbuster $2 million Champions Chess Tour has been revealed as the inaugural ChessKid Cup. Qualifying for the event will kick off with a Play-In on Monday, May 1, to decide the final lineup. The five-day Kno...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/check-this-out.html",
          "pubDate" : "Wed, 26 Apr 2023 11:21:00 +0000",
          "title" : "Check this out"
-      },
-      {
-         "description" : "The wild ride continues. Ding Liren defeated Ian Nepomniachtchi in a game full of ups and downs to level the score in the World Championship match. Ding had a good position out of the opening, but soon lost the thread, leaving Nepo with a real chance to all but secure overall match victory with a win. And then came Nepo's collapse. The Russian first gave up his advantage and then blundered into a lost position. Two more classical games will be played in Astana. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Wed, 26 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 12 - Match tied as brave Ding obtains unlikely win"
       },
       {
          "description" : "The ASEAN Chess Confederation and the European Chess Union announce the chess symposium which will include separate workshops for trainers, arbiters and organisers. The Symposium will take place from 19-24 June in Bangkok, Thailand. The Symposium will start with the Trainers workshop which will be held from 19-21 June with GM Artur Yusupov as the lecturer. The workshop&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/acc-ecu-chess-symposium/\">Read More &#187;</a></span>",
@@ -1114,14 +1138,6 @@ news_feed (
          "title" : "The new Opening Encyclopaedia 2023 - More content. More ideas."
       },
       {
-         "description" : "In the diagram position Black is two pawns down and in trouble. But Black has an active king and an active rook - enough to save the game. What should Black do to hold the draw?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/when-the-king-is-cut-off",
-         "pubDate" : "Tue, 18 Apr 2023 09:00:00 +0100",
-         "title" : "When the king is cut off"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1842,14 +1858,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 1"
       },
       {
-         "description" : "The 2023 FIDE World Championship is starting soon, with the first move happening this Sunday, April 9. While you wait to see who becomes the next world champion, why not play chess against our FIDE World Championship bots?&#38;nbsp; Go to our Play C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-fide-world-championship-bots",
-         "pubDate" : "Thu, 06 Apr 2023 13:29:00 -0700",
-         "title" : "Play Chess Against The Next FIDE World Champion"
-      },
-      {
          "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2325",
          "pubDate" : "Wed, 05 Apr 2023 21:17:51 +0000",
          "title" : "Nils Grandelius wins Reykjavik Open 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2324",
-         "pubDate" : "Wed, 05 Apr 2023 16:58:37 +0000",
-         "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
       }
    ]
 }
