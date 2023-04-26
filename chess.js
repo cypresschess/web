@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The next event in Chess.com&#38;rsquo;s blockbuster $2 million Champions Chess Tour has been revealed as the inaugural ChessKid Cup. Qualifying for the event will kick off with a Play-In on Monday, May 1, to decide the final lineup. The five-day Kno...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-cup-up-next-as-champions-chess-tour-reaches-midway-point",
+         "pubDate" : "Wed, 26 Apr 2023 06:57:59 -0700",
+         "title" : "ChessKid Cup Up Next As Champions Chess Tour Reaches Midway Point"
+      },
+      {
+         "description" : "Ding Liren scored a rollercoaster win in Game 12 to level the World Championship match scores at 6:6 with two games to go. Ian Nepomniachtchi played a dubious opening but won the middlegame battle and was suddenly playing fast and well in a dominant position. A win would mean almost certainly becoming the 17th World Champion, but Ian played too fast, lost control and ultimately crumbled under pressure. Match on!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-wins-wild-game-12-to-level-the-scores-again",
+         "pubDate" : "Wed, 26 Apr 2023 13:17:06 +0000",
+         "title" : "Ding Liren wins wild Game 12 to level the scores again"
+      },
+      {
          "description" : "From the jaws of defeat, GM Ding Liren clutched a win over GM Ian Nepomniachtchi in the 12th game of the&#38;nbsp;2023 FIDE World Championship to bring the match right back into contention with two rounds to go. In his second-to-last game with the w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-12",
-         "pubDate" : "Wed, 26 Apr 2023 05:54:40 -0700",
-         "title" : "Flash Report: Ding Swindles Nepomniachtchi In Chaotic, Spectacular Game 12"
+         "pubDate" : "Wed, 26 Apr 2023 05:54:00 -0700",
+         "title" : "Ding Swindles Nepomniachtchi In Chaotic Game 12, Evens Score With 2 Games Left"
       },
       {
          "description" : "Today's tweet of the day comes from no other but the official Olympic games Twitter account. With over 6,4 million followers, it features Hikaru Nakamura. &#8220;At just 15, he became a Chess Grandmaster and is now a 5x US champion, ranked sixth in the world and number one in the US. Now, Chess Grandmaster Hikaru []",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Save Time and Energy with a Simple Approach to Sidelines"
       },
       {
+         "description" : " Ian Nepomniachtchi suffered a devastating loss to Ding Liren in the 12th game of the World Chess Championship in Astana, Kazakhstan. Not only did that mean that the match was tied at 6-6 with two games to go but it also represented a huge emotional blow, earlier it seemed that he was actually going to win the game and virtually assure being the new World Champion. Nepomniachtchi looked very distressed during the 16 minutes of thought at move 35 as he tried to find any move to continue his completely wrecked position. Ding returned to 1.d4, Nepomniachtchi offered the Queen's Gambit, Ding chose the Colle system, and almost immediately Nepomniachtchi took the game into fresh pastures. 5...Qc7 ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-loses-game-12-after-almost-having-the-title-within-his-grasp",
+         "pubDate" : "Wed, 26 Apr 2023 15:46:00 +0400",
+         "title" : "Nepomniachtchi loses game 12 after almost having the title within his grasp - 12"
+      },
+      {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/v9uRj8qT8h8\" width=\"320\" youtube-src-id=\"v9uRj8qT8h8\"></iframe></div><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Check this out"
       },
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "The wild ride continues. Ding Liren defeated Ian Nepomniachtchi in a game full of ups and downs to level the score in the World Championship match. Ding had a good position out of the opening, but soon lost the thread, leaving Nepo with a real chance to all but secure overall match victory with a win. And then came Nepo's collapse. The Russian first gave up his advantage and then blundered into a lost position. Two more classical games will be played in Astana. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Wed, 26 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 12 - Live!"
+         "title" : "World Championship, Game 12 - Match tied as brave Ding obtains unlikely win"
       },
       {
          "description" : "The ASEAN Chess Confederation and the European Chess Union announce the chess symposium which will include separate workshops for trainers, arbiters and organisers. The Symposium will take place from 19-24 June in Bangkok, Thailand. The Symposium will start with the Trainers workshop which will be held from 19-21 June with GM Artur Yusupov as the lecturer. The workshop&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/acc-ecu-chess-symposium/\">Read More &#187;</a></span>",
@@ -1826,28 +1850,12 @@ news_feed (
          "title" : "Play Chess Against The Next FIDE World Champion"
       },
       {
-         "description" : "Fan-favorite GMs Hikaru Nakamura and Magnus Carlsen produced yet another epic match, this time in the Losers Final of the Champions Chess Tour Chessable Masters 2023. Following two draws, Nakamura won the armageddon game after tenaciously defendin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-4",
-         "pubDate" : "Thu, 06 Apr 2023 12:58:00 -0700",
-         "title" : "Nakamura Eliminates Carlsen After Dramatic Mouse Slip, Advances To Grand Final"
-      },
-      {
          "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/",
          "pubDate" : "Thu, 06 Apr 2023 15:02:32 +0000",
          "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
-      },
-      {
-         "description" : "Hikaru Nakamura blundered mate-in-1 as he lost 2.5:0.5 to Fabiano Caruana in the final of the Winners Bracket of the Chessable Masters. That's not the end of the road for Hikaru, however, since he'll get a second chance against either Magnus Carlsen, who defeated Wesley So in two games, or Levon Aronian, who took down Vladislav Artemiev in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-blunders-mate-in-1-chessable-masters-3",
-         "pubDate" : "Thu, 06 Apr 2023 08:52:58 +0000",
-         "title" : "Nakamura blunders mate-in-1 | Chessable Masters 3"
       },
       {
          "description" : "World no.1 Magnus Carlsen opted out of competing to be world champion, with no.2 Ian Nepomniachtchi and no.3 Ding Liren facing off instead.",
