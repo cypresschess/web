@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From the jaws of defeat, GM Ding Liren clutched a win over GM Ian Nepomniachtchi in the 12th game of the&#38;nbsp;2023 FIDE World Championship to bring the match right back into contention with two rounds to go. In his second-to-last game with the w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-12",
+         "pubDate" : "Wed, 26 Apr 2023 05:54:40 -0700",
+         "title" : "Flash Report: Ding Swindles Nepomniachtchi In Chaotic, Spectacular Game 12"
+      },
+      {
+         "description" : "Today's tweet of the day comes from no other but the official Olympic games Twitter account. With over 6,4 million followers, it features Hikaru Nakamura. &#8220;At just 15, he became a Chess Grandmaster and is now a 5x US champion, ranked sixth in the world and number one in the US. Now, Chess Grandmaster Hikaru []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-featured-on-olympics-tweetoftheday/",
+         "pubDate" : "Wed, 26 Apr 2023 12:25:14 +0000",
+         "title" : "Hikaru Nakamura featured on Olympics #TweetOftheDay"
+      },
+      {
+         "description" : " Throughout my career, I was always happy when my opponents opted for sidelines in the Opening. I interpreted this as respect for my preparation. And there usually is a reason why a sideline isn't played that often. So why shouldn't I be happy? I only recently realized that some players are actually afraid of sidelines. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/simple-sidelines/\">Save Time and Energy with a Simple Approach to Sidelines</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/simple-sidelines/",
+         "pubDate" : "Wed, 26 Apr 2023 12:00:00 +0000",
+         "title" : "Save Time and Energy with a Simple Approach to Sidelines"
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/v9uRj8qT8h8\" width=\"320\" youtube-src-id=\"v9uRj8qT8h8\"></iframe></div><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/check-this-out.html",
+         "pubDate" : "Wed, 26 Apr 2023 11:21:00 +0000",
+         "title" : "Check this out"
+      },
+      {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Wed, 26 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 12 - Live!"
+      },
+      {
          "description" : "The ASEAN Chess Confederation and the European Chess Union announce the chess symposium which will include separate workshops for trainers, arbiters and organisers. The Symposium will take place from 19-24 June in Bangkok, Thailand. The Symposium will start with the Trainers workshop which will be held from 19-21 June with GM Artur Yusupov as the lecturer. The workshop&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/acc-ecu-chess-symposium/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -122,14 +162,6 @@ news_feed (
          "title" : "Bulgarian Individual Chess Championship U12 - Participants"
       },
       {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U14 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / U16 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u14-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:14:35 +0000",
-         "title" : "Bulgarian Individual Chess Championship U14 - Participants"
-      },
-      {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,6 +192,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros",
          "pubDate" : "Tue, 25 Apr 2023 15:36:54 +0000",
          "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
+         "description" : "In a recent post for the long running series 'Top eBay Chess Items', the one titled <A HREF=\"https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html\">Poster Perfect Chess Art</A> (March 2023), I gave myself a couple of follow-up actions:- <BLOCKQUOTE> Vasarely produced other chess related works. Cataloging them would make a good rainy day project. Add to that catalog the 1976 series of Olympiad posters. </BLOCKQUOTE> <P> I searched my database of chess images, most of them taken from eBay, and discovered that there were ten different posters for the 1976 Olympiad. All ten are shown below in alphabetical order by artist. The thumbnails aren't particularly good, but they sho",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/1976-haifa-olympiad-artwork.html",
+         "pubDate" : "Tue, 25 Apr 2023 15:34:00 +0000",
+         "title" : "1976 Haifa Olympiad Artwork"
       },
       {
          "description" : "Our \"Iniyan Challenge\" saw a lot of readers getting interested, and we received some excellent analysis from them. Today we want to give you a Computer Challenge. It is a position in which your chess engines will not give you the solution if you ask them - even if you run them for a very long time. You have to come up with the logic and strategy of the solution yourself, and then confirm everything with the help of the computer. Can you do that?",
@@ -1058,14 +1098,6 @@ news_feed (
          "title" : "When the king is cut off"
       },
       {
-         "description" : "When tension is at its highest, even the very best players in the world can blunder games in one move. Now that four out of six games have finished decisively at the World Championship match in Astana - with no lack of strategic and tactical errors - let us take a look at the top 10 blunders from World Championship history.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ris-ten-blunders-world-championships",
-         "pubDate" : "Tue, 18 Apr 2023 06:00:00 +0100",
-         "title" : "Robert Ris: Top 10 blunders in World Championship matches"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1826,14 +1858,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
       },
       {
-         "description" : "IM Levy Rozman, a.k.a &#34;GothamChess&#34; the world&#39;s biggest chess Youtuber, talked about his incredible growth over the last six months, reactions from other top players, an amusing one-line response from Magnus Carlsen, and his thoughts about the upc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-perpetual-chess-podcast",
-         "pubDate" : "Wed, 05 Apr 2023 16:31:00 -0700",
-         "title" : "GothamChess On Success, Carlsen Message, World Championship Match"
-      },
-      {
          "description" : " The <a href=\"http://doeberlcup.com.au\">2023 O2C Doeberl Cup</a> is starting today. I've just packed the car with a metric tonne of chess equipment and am about to head to the venue. The Doeberl runs until the 10th and then it is straight into the 2023 Oceania Junior Chess Championship. That event finishes on the 15th of April, so I should surface sometime around the 16th of December. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1856,46 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2324",
          "pubDate" : "Wed, 05 Apr 2023 16:58:37 +0000",
          "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
-      },
-      {
-         "description" : " Today I have a &#8216;bad day'. I woke up at 4 AM after 3 hours of sleep, unable to sleep longer. After yesterday's dry needling session, my whole upper body is in pain and my mind was racing. Certainly what qualifies as a bad day for me. But not the end of the world either. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/bad-day/\">How to Train Chess on Bad Days: Tips From a Grandmaster</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/bad-day/",
-         "pubDate" : "Wed, 05 Apr 2023 12:00:00 +0000",
-         "title" : "How to Train Chess on Bad Days: Tips From a Grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2323",
-         "pubDate" : "Wed, 05 Apr 2023 10:11:56 +0000",
-         "title" : "Inspiring Facts about Scholastic Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/junior-team-chess-challenge-22-23/#new_tab",
-         "pubDate" : "Wed, 05 Apr 2023 10:06:26 +0000",
-         "title" : "National Schools Junior Team Chess Challenge - report and results"
-      },
-      {
-         "description" : "The 37th edition of the Reykjavik Open took place from March 29 to April 4 in Harpa Conference Center, Iceland. GM Nils Grandelius (SWE, 2658) emerged as the Winner of the event with the score of 7.5 points. Grandelius scored a victory in the last round against IM Quentin Loiseau (FRA, 2449) to be half a point ahead&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/nils-grandelius-wins-reykjavik-open-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/nils-grandelius-wins-reykjavik-open-2023/",
-         "pubDate" : "Wed, 05 Apr 2023 09:18:04 +0000",
-         "title" : "Nils Grandelius wins Reykjavik Open 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#FCMAprilPapers#new_tab",
-         "pubDate" : "Wed, 05 Apr 2023 08:21:08 +0000",
-         "title" : "ECF Finance Council - papers available"
       }
    ]
 }
