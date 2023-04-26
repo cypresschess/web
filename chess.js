@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Salamanca, Cradle of Modern Chess is taking place from 26&#x2013;29 April 2023 in Salamanca, Spain. Players receive 40 minutes for the entire game, plus a 5-second increment starting from move one. It is an 8-player round-robin tournament with participation of Jaime Santos Latasa, Veselin Topalov, Kirill Alekseenko, Anna Ushenina, Gunay Mammadzada, Sabrina Vega Gutierrez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/salamanca-cradle-of-modern-chess-2023-live/",
+         "pubDate" : "Wed, 26 Apr 2023 23:23:32 +0000",
+         "title" : "Salamanca Cradle of Modern Chess 2023 - LIVE"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 11: Not much happening Nepo holds lead Match Score: 6-5 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 11Monday, 24 April 2023 The World Chess Championship just moved to the final phase after yet another drawn game in Game 11. This one was without The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-11/\">2023 World Chess Championship: Game 11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-11/",
+         "pubDate" : "Wed, 26 Apr 2023 21:48:34 +0000",
+         "title" : "2023 World Chess Championship: Game 11"
+      },
+      {
          "description" : "Former sole leader Arjun Erigaisi faltered on the second day of blitz at the Satty Zhuldyz Rapid and Blitz tournament in Kazakhstan. The only two-time FIDE World Cup winner in history, Levon Aronian, took his chance and won the event with a round to spare. Arjun finished second with 21&frac12;/33 points and Haik Martirosyan finished third with 21/33. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "ChessKid Cup Up Next As Champions Chess Tour Reaches Midway Point"
       },
       {
-         "description" : "Ding Liren scored a rollercoaster win in Game 12 to level the World Championship match scores at 6:6 with two games to go. Ian Nepomniachtchi played a dubious opening but won the middlegame battle and was suddenly playing fast and well in a dominant position. A win would mean almost certainly becoming the 17th World Champion, but Ian played too fast, lost control and ultimately crumbled under pressure. Match on!",
+         "description" : "Ding Liren has levelled the World Championship match at 6:6 with two games to go after an incredible Game 12. Ian Nepomniachtchi played a dubious opening but won the middlegame battle and was suddenly playing fast and well in a dominant position. A win would mean almost certainly becoming the 17th World Chess Champion, but Ian played too fast, lost control and ultimately crumbled under pressure. Match on!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-wins-wild-game-12-to-level-the-scores-again",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Asia Zone 3.3 Chess Championships 2023 - Open"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 10: Ding couldn't break through in Game 10. Match Score: 5&frac12;-4&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 10Friday, 23 April 2023 With Ding playing white in Game 10, this match has officially entered the final phase and seems to be settling down The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/\">2023 World Chess Championship: Game 10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 10: Ding couldn't break through in Game 10. Match Score: 5&frac12;-4&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 10Sunday, 23 April 2023 With Ding playing white in Game 10, this match has officially entered the final phase and seems to be settling down The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/\">2023 World Chess Championship: Game 10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u18-participants/",
          "pubDate" : "Tue, 25 Apr 2023 21:19:57 +0000",
          "title" : "Bulgarian Individual Chess Championship Girls U18 - Participants"
-      },
-      {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. U12 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / U16 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-u12-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:17:22 +0000",
-         "title" : "Bulgarian Individual Chess Championship U12 - Participants"
       },
       {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
@@ -1306,14 +1314,6 @@ news_feed (
          "title" : "FIDE World Championship: Nepomniachtchi takes the lead again"
       },
       {
-         "description" : " The Kenya Chess Open was one of the strongest local tournaments attracting seven Grandmasters. Timur Gareyev (USA) won the tournament with a stunning 8.5/9 in a tournament that attracted 445 players but went viral for a different reason. More on that later. GM Timur Gareyev vs. Zambian IM Gillian Bwalya at 2023 Kenya OpenPhoto by The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/15/2023-kenyan-chess-open-is-historic/\">2023 Kenya Chess Open is historic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/15/2023-kenyan-chess-open-is-historic/",
-         "pubDate" : "Sat, 15 Apr 2023 13:58:41 +0000",
-         "title" : "2023 Kenya Chess Open is historic!"
-      },
-      {
          "description" : "Players and officials were surprised by snowfall, freezing temperatures, and heavy winds in Astana on Saturday, but the 2023 FIDE World Championship is heating up. In game five, GM Ian Nepomniachtchi broke away once again as he exploited his openi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1872,22 +1872,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/36080409/2023-world-chess-championship-ian-nepomniachtchi-ding-liren-battle-crown-carlsen-missing-king?device=featurephone",
          "pubDate" : "Thu, 6 Apr 2023 01:03:29 -0500",
          "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
-      },
-      {
-         "description" : " The <a href=\"http://doeberlcup.com.au\">2023 O2C Doeberl Cup</a> is starting today. I've just packed the car with a metric tonne of chess equipment and am about to head to the venue. The Doeberl runs until the 10th and then it is straight into the 2023 Oceania Junior Chess Championship. That event finishes on the 15th of April, so I should surface sometime around the 16th of December. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/see-you-all-in-10-days.html",
-         "pubDate" : "Wed, 05 Apr 2023 22:11:00 +0000",
-         "title" : "See you all in 10 days :)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2325",
-         "pubDate" : "Wed, 05 Apr 2023 21:17:51 +0000",
-         "title" : "Nils Grandelius wins Reykjavik Open 2023"
       }
    ]
 }
