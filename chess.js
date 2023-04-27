@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-modern-variation-revisiting-the-old-main-line",
+         "pubDate" : "Thu, 27 Apr 2023 16:00:00 +0100",
+         "title" : "The Monthly Dragon - Revisiting the old main line in the Modern Variation!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2363",
+         "pubDate" : "Thu, 27 Apr 2023 13:54:52 +0000",
+         "title" : "Ding gives respite to Nepomniachtchi as game 13 ends in a draw"
+      },
+      {
+         "description" : " After the catastrophe that was Game 12 of the 2023 World Championship, Nepo seems to have followed the old Russian advice of drawing the game following a loss. Even then he was a little fortunate, as Ding looked to have a promising position around move 20, before the game reached a kind of dynamic equality. So it may come down to a single game, or failing a decisive result, a playoff. Based on the nervous play of both players, I do not think I can predict a result here. It may come to nerves rather than skill, something both players seem to have troubled controlling. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/stay-calm-draw-next-game.html",
+         "pubDate" : "Thu, 27 Apr 2023 13:13:00 +0000",
+         "title" : "Stay calm, draw the next game"
+      },
+      {
+         "description" : "Ding Liren got a dream position with Black after the opening of Game 13, but one over-aggressive move and one real inaccuracy allowed Ian Nepomniachtchi right back into the game. In fact it was Ian who had the chances after Ding sacrificed the exchange, but ultimately the game ended in a quick draw by repetition. The scores are level going into Saturday's final classical game, when Ding has the white pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-and-nepomniachtchi-all-square-before-final-showdown",
+         "pubDate" : "Thu, 27 Apr 2023 12:45:54 +0000",
+         "title" : "Ding and Nepomniachtchi all-square before final showdown"
+      },
+      {
+         "description" : "Following a devastating 12th-game loss, GM Ian Nepomniachtchi was able to stabilize and achieve a 38-move draw against GM Ding Liren in the 13th game of the 2023 FIDE World Championship on Thursday. Despite Nepomniachtchi playing with White, Carua...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-13",
+         "pubDate" : "Thu, 27 Apr 2023 05:21:00 -0700",
+         "title" : "Nepomniachtchi Stabilizes With Draw, Ding To Play White In Final Classical Game"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess Plc, a company that reinvents chess for 21st-century users, is listed on London Stock Exchange's main market under the ticker symbol 'CHSS'. 'That was the closest to CHESS as we could get given that ticker symbols have only four letters,' - said Ilya Merenzon, World Chess CEO. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-04-08_12-18-55.jpg\" width=\"1280\" height=\"839\" alt=\"\" /> </div> 'We are very excited to join LSE and become a new chapter as a public company,' added Merenzon: \"It means a new level of responsibility to the users, investors, and partners, and also a new level of transparency. We are keen to work with the ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-lists-on-the-main-market-of-the-london-stock-exchang/",
+         "pubDate" : "Thu, 27 Apr 2023 11:50:14 +0000",
+         "title" : "World Chess Lists on the Main Market of the London Stock Exchange"
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris uses game 10 of the World Championship match as a starting point to explore the status of theory in the English Opening. Unmissable. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +66,12 @@ news_feed (
          "title" : "Nepo - Ding 2023, game 13 LIVE"
       },
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Replay the game with computer analysis. Full report will follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Thu, 27 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 13 - Live!"
+         "title" : "World Championship, Game 13 - A tense draw"
       },
       {
          "description" : "GM Bartosz So&#263ko and WFM Michalina Rudzińska are the 2023 Polish chess champions. Michalina successfully defended her title from last year, while Bartosz won his third national chess crown. The open event was a 16-player knockout tournament, which attracted the best Polish players, except for Jan-Krzysztof Duda. The women's event was a 10-player single round-robin. | Photos: Polush Chess Federation",
@@ -1082,14 +1130,6 @@ news_feed (
          "title" : "Survive Pawn Endgames | Beginner Breakdown"
       },
       {
-         "description" : "A dramatic seventh game saw Ian Nepomniachtchi taking the lead for a third time at the World Championship match in Astana. Ding Liren shocked Nepo and the audience by playing the French Defence, which led to a double-edged position. While Ding managed to solve his problems and gain the initiative, he also got in deep time trouble. With only seconds on his clock and no increment, he blundered the game away. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g7",
-         "pubDate" : "Tue, 18 Apr 2023 19:00:00 +0100",
-         "title" : "World Championship Game 7: Ding crashes and burns in time trouble"
-      },
-      {
          "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Last week's article posted here ended with below challenging puzzle. It should have given you the chance to practice the method of promoting the side pawn in the wrong corner. How did it go? Was it hard <a href=\"https://chessimprover.com/the-wrong-corner-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner-2/\">The Wrong Corner (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1762,14 +1802,6 @@ news_feed (
          "title" : "Mitropa Cup 2023 starts in Mali Losinj, Croatia"
       },
       {
-         "description" : "GM Hikaru Nakamura defeated GM Fabiano Caruana in the&#38;nbsp;Champions Chess Tour Chessable Masters 2023 Grand Final to win Division I on Friday. The &#34;half man, half zombie,&#34; as GM Robert Hess called Nakamura on the broadcast, came back from the dea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-5",
-         "pubDate" : "Fri, 07 Apr 2023 15:10:00 -0700",
-         "title" : "'Half Man, Half Zombie' Nakamura Wins Chessable Masters, Beats Caruana Twice"
-      },
-      {
          "description" : " After 2 days of play in the 2023 O2C Doeberl Cup Premier, two Australian IM's share the lead. Former winner James Morris, and Queensland IM Brodie McClymont are the only players on 4/4. Morris had a good win of local FM Fred Litchfield, while McClymont defeated GM Samy Shoker in the evening round. All 4 GM's in the event have dropped at least half a point, with GM Melkumyan and GM Kuybokarov on 3.5, Shoker on 3 and GM Daniel Fernandez on 2.5. Dqy 2 saw the start of all the other events, with a record field of 403 players entering over the 5 sections. As only 2 rounds have been played in these tournaments (3 in the Under 1200), leaders in the 80+ player fields are many and varied. Tonight al",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1850,28 +1882,12 @@ news_feed (
          "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
       },
       {
-         "description" : "Magnus Carlsen's last move in a major tournament as the classical World Chess Champion may have been to mouse-slip and blunder away his queen, as Hikaru Nakamura won an Armageddon thriller to set up a Grand Final rematch against Fabiano Caruana. Earlier in the day Magnus had been in top form as he beat Levon Aronian 2:0 to snatch an automatic spot in Division I of the next tour event in May.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-faces-caruana-after-mouse-slip-thwarts-magnus",
-         "pubDate" : "Fri, 07 Apr 2023 01:02:23 +0000",
-         "title" : "Nakamura faces Caruana after mouse-slip thwarts Magnus"
-      },
-      {
          "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 06 Apr 2023 22:39:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/",
-         "pubDate" : "Thu, 06 Apr 2023 15:02:32 +0000",
-         "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
       }
    ]
 }
