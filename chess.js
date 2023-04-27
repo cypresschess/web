@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g13",
+         "pubDate" : "Fri, 28 Apr 2023 00:10:00 +0100",
+         "title" : "World Championship Game 13: Tense draw keeps match tied, one game to go"
+      },
+      {
+         "description" : "The team of Serbia leads 2023 IBCA European Team Championship for the Blind and Visually Impaired after 7 rounds. Immediately after them are the teams of Poland, Ukraine and Bulgaria. The championship is taking place from 20-29 April 2023 in Genoa, Italy. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-leads-2023-ibca-european-team-championship-for-the-blind-and-visually-impaired-after-7-rounds/",
+         "pubDate" : "Thu, 27 Apr 2023 22:20:14 +0000",
+         "title" : "Serbia leads 2023 IBCA European Team Championship for the Blind and Visually Impaired after 7 rounds"
+      },
+      {
+         "description" : "The 2023 Asian U18 Mixed Doubles Chess Championship is taking place online from April 28th to April 30th. It is organized by the Asian chess federation. The tournament system is 9-round Swiss system for teams. The time control is 15 minutes for the entire game with a 10-second increment per move. Replay:&#xA0;Nepo &#x2013; Ding game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-asian-u18-mixed-doubles-chess-championship-live/",
+         "pubDate" : "Thu, 27 Apr 2023 20:19:06 +0000",
+         "title" : "2023 Asian U18 Mixed Doubles Chess Championship - LIVE"
+      },
+      {
+         "description" : "The 2023 Asian U18 Mixed Doubles Chess Championship is taking place online from April 28th to April 30th. It is organized by the Asian chess federation. The tournament system is 9-round Swiss system for teams. The time control is 15 minutes for the entire game with a 10-second increment per move.Chessdom.com will follow live games. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-asian-u18-mixed-doubles-chess-championship-participants/",
+         "pubDate" : "Thu, 27 Apr 2023 20:00:00 +0000",
+         "title" : "2023 Asian U18 Mixed Doubles Chess Championship - Participants"
+      },
+      {
+         "description" : "GM Magnus Carlsen won&#39;t be the world champion starting next week, but he&#39;s still looking for new ways to grow the game of chess. On Thursday, Norway Chess announced their new joint venture called Pawn, together with Iterate, Norway&#39;s premier ventu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-creates-new-company-launches-fantasy-chess",
+         "pubDate" : "Thu, 27 Apr 2023 12:45:51 -0700",
+         "title" : "Magnus Carlsen Spearheads New Company, Launches Fantasy Chess App"
+      },
+      {
+         "description" : "The Pieniny is taking place from 28 April to 1 May 2023 in Lesnica, Slovakia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Lukas Bango, Marek Ihnat, Martin Zvarik, Juraj Lecky, Denis Nemsak, Matej Nemergut, Peter Ambrozi, Radoslav []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pieniny-2023-live/",
+         "pubDate" : "Thu, 27 Apr 2023 19:44:09 +0000",
+         "title" : "Pieniny 2023 - LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros analyzes Ian Nepomniachtchi&#039;s apparent preparation for his ongoing 2023 World Chess Championship match against Ding Liren. 2023.04.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pniT0plAGN0.jpg?itok=dZ-515FQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
          "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
+         "description" : "Recently the brillant Grandmaster and former FIDE World Chess Champion Ruslan Ponomariov visited Hamburg to record his first FritzTrainer, and Arne K&auml;hler used the chance to interview him. Throughout the conversation Ponomariov offered invaluable insights into his chess journey and the key moments that have shaped his career, but he also talked about his personal life, the books he reads and how he spends his time in the Basque sun. As an added treat, the Grandmaster also presented a thrilling game where he emerged victorious against the formidable Vassily Ivanchuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
+         "pubDate" : "Thu, 27 Apr 2023 18:00:00 +0100",
+         "title" : "Interview with Ruslan Ponomariov"
       },
       {
          "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
@@ -42,7 +98,7 @@ news_feed (
          "title" : "Stay calm, draw the next game"
       },
       {
-         "description" : "Ding Liren got a dream position with Black after the opening of Game 13, but one over-aggressive move and one real inaccuracy allowed Ian Nepomniachtchi right back into the game. In fact it was Ian who had the chances after Ding sacrificed the exchange, but ultimately the game ended in a quick draw by repetition. The scores are level going into Saturday's final classical game, when Ding has the white pieces.",
+         "description" : "Ding Liren got a dream position with the black pieces after the opening of Game 13, but one puzzling move and one real inaccuracy allowed Ian Nepomniachtchi right back into the game. In fact it was Ian who had the chances after Ding sacrificed the exchange, but in the end the game ended in a relatively quick draw by repetition. The scores are level going into Saturday's final classical game, when Ding has the white pieces.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-and-nepomniachtchi-all-square-before-final-showdown",
@@ -66,6 +122,14 @@ news_feed (
          "title" : "World Chess Lists on the Main Market of the London Stock Exchange"
       },
       {
+         "description" : "GM Bartosz So&#263ko and WFM Michalina Rudzińska are the 2023 Polish chess champions. Michalina successfully defended her title from last year, while Bartosz won his third national chess crown. The open event was a 16-player knockout tournament, which attracted the best Polish players, except for Jan-Krzysztof Duda. The women's event was a 10-player single round-robin. | Photos: Polush Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-championships-2023-final-report",
+         "pubDate" : "Thu, 27 Apr 2023 11:05:00 +0100",
+         "title" : "Bartosz Socko and Michalina Rudzinska are the 2023 Polish chess champions"
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris uses game 10 of the World Championship match as a starting point to explore the status of theory in the English Opening. Unmissable. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,22 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nepo-ding-2023-game-13-live/",
          "pubDate" : "Thu, 27 Apr 2023 09:59:36 +0000",
          "title" : "Nepo - Ding 2023, game 13 LIVE"
-      },
-      {
-         "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Replay the game with computer analysis. Full report will follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Thu, 27 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 13 - A tense draw"
-      },
-      {
-         "description" : "GM Bartosz So&#263ko and WFM Michalina Rudzińska are the 2023 Polish chess champions. Michalina successfully defended her title from last year, while Bartosz won his third national chess crown. The open event was a 16-player knockout tournament, which attracted the best Polish players, except for Jan-Krzysztof Duda. The women's event was a 10-player single round-robin. | Photos: Polush Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-championships-2023-final-report",
-         "pubDate" : "Thu, 27 Apr 2023 08:00:00 +0100",
-         "title" : "Bartosz Socko and Michalina Rudzinska are the 2023 Polish chess champions"
       },
       {
          "description" : "The second quarterly meeting of the ECU Board was held in Rhodes, Greece, on April 21 and 22. The Municipality of Rhodes hosted the event under excellent conditions. ECU expresses its thanks and appreciation to the Mayor of Rhodes, Mr. Andonis Cambourakis. The opening of the meeting was attended by the FIDE and Greek Chess Federation Vice President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/\">Read More &#187;</a></span>",
@@ -250,14 +298,6 @@ news_feed (
          "title" : "Asia Zone 3.3 Chess Championships 2023 - Women"
       },
       {
-         "description" : "The Asia Zone 3.3 Chess Championships 2023, both Open and Women sections, will take place from 06-12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The Open section will be 9-round Swiss system tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-open/",
-         "pubDate" : "Wed, 26 Apr 2023 06:38:50 +0000",
-         "title" : "Asia Zone 3.3 Chess Championships 2023 - Open"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 10: Ding couldn't break through in Game 10. Match Score: 5&frac12;-4&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 10Sunday, 23 April 2023 With Ding playing white in Game 10, this match has officially entered the final phase and seems to be settling down The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/\">2023 World Chess Championship: Game 10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -282,36 +322,12 @@ news_feed (
          "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-12-live/",
-         "pubDate" : "Tue, 25 Apr 2023 21:45:00 +0000",
-         "title" : "Nepo - Ding 2023, game 12 LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about promoting pawns into queens (and more) in this beginner chess lecture. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-get-promotion-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-get-promotion-beginner-breakdown",
          "pubDate" : "Tue, 25 Apr 2023 21:37:18 +0000",
          "title" : "How to Get a Promotion! | Beginner Breakdown"
-      },
-      {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U12 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u12-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:27:38 +0000",
-         "title" : "Bulgarian Individual Chess Championship Girls U12 - Participants"
-      },
-      {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U14 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u14-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:24:52 +0000",
-         "title" : "Bulgarian Individual Chess Championship Girls U14 - Participants"
       },
       {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "Global Chess League unveils its official logo"
       },
       {
-         "description" : "impersonating a woman! At the Kenya Open, something unique happened when a man was caught playing in the women's section. Registered as an unrated player, he was wearing a hijab (head and shoulder covering) typical of a Muslim woman, with a niqaab (face covering).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-player-disqualified-for",
-         "pubDate" : "Wed, 19 Apr 2023 09:16:31 +0100",
-         "title" : "Chess player disqualified for..."
-      },
-      {
          "description" : " Adisa Banjoko launched the Hip-Hop Chess Federation back in 2007 and had the desire to bridge his passion for hip-hop, martial arts, and chess. He held tournaments, taught classes, and arranged a hip-hop exhibit at the World Chess Hall of Fame. Adisa Banjoko's Hip-Hop Chess Federationwas the cover story of February 2012U.S. Chess Life magazine. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/\">GZA &#038; Sabrina Chevannes on Hip-Hop/Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1746,14 +1754,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 3"
       },
       {
-         "description" : "The first FIDE World Championship without GM Magnus Carlsen in more than 10 years began with a dramatic game on Sunday in Astana, Kazakhstan. While there is no defending world champion, there is a returning challenger, and GM Ian Nepomniachtchi le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-1",
-         "pubDate" : "Sat, 08 Apr 2023 12:00:00 -0700",
-         "title" : "Nepomniachtchi Presses Big Advantage In Game 1, Ding Escapes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/apr/07/chess-world-title-match-gets-under-way-in-astana-without-magnus-carlsen",
          "pubDate" : "Fri, 07 Apr 2023 07:00:47 +0000",
          "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
-      },
-      {
-         "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-1.html",
-         "pubDate" : "Thu, 06 Apr 2023 22:39:00 +0000",
-         "title" : "2023 O2C Doeberl Cup - Day 1"
       }
    ]
 }
