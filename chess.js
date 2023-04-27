@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros analyzes Ian Nepomniachtchi&#039;s apparent preparation for his ongoing 2023 World Chess Championship match against Ding Liren. 2023.04.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pniT0plAGN0.jpg?itok=dZ-515FQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
+         "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
+         "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
          "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2363",
          "pubDate" : "Thu, 27 Apr 2023 13:54:52 +0000",
          "title" : "Ding gives respite to Nepomniachtchi as game 13 ends in a draw"
+      },
+      {
+         "description" : " The thirteenth game of the FIDE World Chess Championship in Astana, Kazakhstan finished in a draw by repetition on move 40. Both Nepomniachtchi and Ding Liren had chances for advantages during the game before equality was reached at first time control. This result leaves the match tied at 6.5 each with Ding having the white pieces in the final game on Saturday. There will be rapid and blitz tie-breaks in Monday if that game is drawn. Nepomniachtchi played 1.e4, a Closed Ruy Lopez was chosen by Ding, 10.Be3 was not quite new but no-one has played it at an elite level. Ding played some fairly standard ideas quite quickly and after 14.d4 (Caruana suggests opening the a-file first with 14.axb4 ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-and-ding-draw-game-13-and-are-tied-going-into-the-final-world-championship-game",
+         "pubDate" : "Thu, 27 Apr 2023 17:39:00 +0400",
+         "title" : "Nepomniachtchi and Ding draw game 13 and are tied going into the final World Championship game - 13"
       },
       {
          "description" : " After the catastrophe that was Game 12 of the 2023 World Championship, Nepo seems to have followed the old Russian advice of drawing the game following a loss. Even then he was a little fortunate, as Ding looked to have a promising position around move 20, before the game reached a kind of dynamic equality. So it may come down to a single game, or failing a decisive result, a playoff. Based on the nervous play of both players, I do not think I can predict a result here. It may come to nerves rather than skill, something both players seem to have troubled controlling. ",
@@ -322,7 +338,7 @@ news_feed (
          "title" : "Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows brilliant moves and games from Magnus Carlsen. 2023.04.25<br /> Viswanathan Anand vs Luke McShane, London Chess Classic (Group A) (2013): A07 Reti, King&#039;s Indian attack (Barcza system)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1740933\">https://www.chessgames.com/perl/chessgame?gid=1740933</a><br /> Magnus Carlsen vs Le Quang Liem, Oslo Esports Cup (2022): E10 Queen&#039;s pawn game<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2268814\">https://www.chessgames.com/perl/chessgame?gid=2268814</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapp",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros talks about the Magnus Carlsen world championship era (2013-2023) and shows brilliant moves and games from Magnus Carlsen and Vishy Anand. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X-yG_3RsrR0.jpg?itok=HAEwPoqy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/opposite-colored-bishops-attack-grandmasters-choice-im-vlad-georgiev",
          "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
          "title" : "Opposite-Colored Bishops Attack! | Grandmaster's Choice - IM Vlad Georgiev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about surviving pawn endgames in chess. While treacherous for beginners, learn the basics you should know. 2023.04.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-pawn-endgames-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/survive-pawn-endgames-beginner-breakdown",
-         "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
-         "title" : "Survive Pawn Endgames | Beginner Breakdown"
       },
       {
          "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Last week's article posted here ended with below challenging puzzle. It should have given you the chance to practice the method of promoting the side pawn in the wrong corner. How did it go? Was it hard <a href=\"https://chessimprover.com/the-wrong-corner-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner-2/\">The Wrong Corner (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
