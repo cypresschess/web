@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Romanian Grand Prix 2023&#xA0;is back with an increased budget. Starting with 2023 Bucharest Grand Prix will take place in 6 of the most beautiful cities in Romania: Bucharest, Bra&#x219;ov, Timi&#x219;oara, Arad, Cluj, and Alba Iulia.&#xA0;The first event is Bucharest Grand Prix, which is rapid chess tournament with time control of 15 minutes plus 5 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-prix-romania-first-stage-live/",
+         "pubDate" : "Wed, 26 Apr 2023 23:43:13 +0000",
+         "title" : "Grand Prix Romania - First Stage - LIVE"
+      },
+      {
          "description" : "The Salamanca, Cradle of Modern Chess is taking place from 26&#x2013;29 April 2023 in Salamanca, Spain. Players receive 40 minutes for the entire game, plus a 5-second increment starting from move one. It is an 8-player round-robin tournament with participation of Jaime Santos Latasa, Veselin Topalov, Kirill Alekseenko, Anna Ushenina, Gunay Mammadzada, Sabrina Vega Gutierrez, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u16-participants/",
          "pubDate" : "Tue, 25 Apr 2023 21:22:24 +0000",
          "title" : "Bulgarian Individual Chess Championship Girls U16 - Participants"
-      },
-      {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U18 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u18-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:19:57 +0000",
-         "title" : "Bulgarian Individual Chess Championship Girls U18 - Participants"
       },
       {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
