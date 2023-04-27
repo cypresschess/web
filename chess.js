@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Bartosz So&#263ko and WFM Michalina Rudzińska are the 2023 Polish chess champions. Michalina successfully defended her title from last year, while Bartosz won his third national chess crown. The open event was a 16-player knockout tournament, which attracted the best Polish players, except for Jan-Krzysztof Duda. The women's event was a 10-player single round-robin. | Photos: Polush Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-championships-2023-final-report",
+         "pubDate" : "Thu, 27 Apr 2023 08:00:00 +0100",
+         "title" : "Bartosz Socko and Michalina Rudzinska are the 2023 Polish chess champions"
+      },
+      {
+         "description" : "The second quarterly meeting of the ECU Board was held in Rhodes, Greece, on April 21 and 22. The Municipality of Rhodes hosted the event under excellent conditions. ECU expresses its thanks and appreciation to the Mayor of Rhodes, Mr. Andonis Cambourakis. The opening of the meeting was attended by the FIDE and Greek Chess Federation Vice President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/",
+         "pubDate" : "Thu, 27 Apr 2023 06:04:56 +0000",
+         "title" : "Communique of the ECU Board Meeting - CL No.1/2023"
+      },
+      {
          "description" : "Romanian Grand Prix 2023&#xA0;is back with an increased budget. Starting with 2023 Bucharest Grand Prix will take place in 6 of the most beautiful cities in Romania: Bucharest, Bra&#x219;ov, Timi&#x219;oara, Arad, Cluj, and Alba Iulia.&#xA0;The first event is Bucharest Grand Prix, which is rapid chess tournament with time control of 15 minutes plus 5 seconds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "April 1973 & 1998 'On the Cover'"
       },
       {
-         "description" : "Korumdu, Issyk-Kul, Kyrgyzstan from 30th June to 10th July, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asia-youth-chess-championship-2023/",
-         "pubDate" : "Tue, 18 Apr 2023 15:41:57 +0000",
-         "title" : "Western Asia Youth Chess Championship - 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-7",
          "pubDate" : "Tue, 18 Apr 2023 06:02:00 -0700",
          "title" : "Nepomniachtchi Wins After Ding's Time Pressure Collapse, Takes Lead Again"
-      },
-      {
-         "description" : "Anyone who seriously deals with openings cannot avoid the opening encyclopaedia. Whether beginner or grandmaster. The Opening Encyclopaedia is by far the most comprehensive chess theory work: over 1,396 (!) theory articles offer a huge fund of ideas and high-quality analyses! In the 2023 edition, 66 new major articles and 384 new or updated opening overviews have been added. In addition: 70 top-class videos with 29 hours of playing time! For beginners, there is a tutorial for each opening area in which the most important ideas and goals are presented. The icing on the cake: Grandmaster Dorian Rogozenco presents the current opening trends in world-class chess. Secure the decisive advantage fo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-product-opening-encyclopaedia-2023",
-         "pubDate" : "Tue, 18 Apr 2023 09:00:00 +0100",
-         "title" : "The new Opening Encyclopaedia 2023 - More content. More ideas."
       },
       {
          "description" : "",
@@ -1818,6 +1818,14 @@ news_feed (
          "title" : "World Chess Championship 2023 - "
       },
       {
+         "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/ongc-ward-sports-scholarship-scheme-2023-24/",
+         "pubDate" : "Fri, 07 Apr 2023 11:06:02 +0000",
+         "title" : "ONGC Ward Sports Scholarship Scheme 2023-24"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/",
          "pubDate" : "Thu, 06 Apr 2023 15:02:32 +0000",
          "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
-      },
-      {
-         "description" : "World no.1 Magnus Carlsen opted out of competing to be world champion, with no.2 Ian Nepomniachtchi and no.3 Ding Liren facing off instead.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/36080409/2023-world-chess-championship-ian-nepomniachtchi-ding-liren-battle-crown-carlsen-missing-king?device=featurephone",
-         "pubDate" : "Thu, 6 Apr 2023 01:03:29 -0500",
-         "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
       }
    ]
 }
