@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show, Robert Ris uses game 10 of the World Championship match as a starting point to explore the status of theory in the English Opening. Unmissable. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-nepo-play-the-english",
+         "pubDate" : "Thu, 27 Apr 2023 11:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Ding and Nepo play the English"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-13-live/",
+         "pubDate" : "Thu, 27 Apr 2023 09:59:36 +0000",
+         "title" : "Nepo - Ding 2023, game 13 LIVE"
+      },
+      {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Thu, 27 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 13 - Live!"
+      },
+      {
          "description" : "GM Bartosz So&#263ko and WFM Michalina Rudzińska are the 2023 Polish chess champions. Michalina successfully defended her title from last year, while Bartosz won his third national chess crown. The open event was a 16-player knockout tournament, which attracted the best Polish players, except for Jan-Krzysztof Duda. The women's event was a 10-player single round-robin. | Photos: Polush Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,12 +114,12 @@ news_feed (
          "title" : "Ding Liren wins wild Game 12 to level the scores again"
       },
       {
-         "description" : "From the jaws of defeat, GM Ding Liren clutched a win over GM Ian Nepomniachtchi in the 12th game of the&#38;nbsp;2023 FIDE World Championship to bring the match right back into contention with two rounds to go. In his second-to-last game with the w...",
+         "description" : "From the jaws of defeat, GM Ding Liren clutched a win over GM Ian Nepomniachtchi in the 12th game of the&#38;nbsp;2023 FIDE World Championship to bring the match right back into contention with two games to go. In his second-to-last game with the wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-12",
          "pubDate" : "Wed, 26 Apr 2023 05:54:00 -0700",
-         "title" : "Ding Swindles Nepomniachtchi In Chaotic Game 12, Evens Score With 2 Games Left"
+         "title" : "Ding Topples Nepomniachtchi In Chaotic Game 12, Evens Score With 2 Games Left"
       },
       {
          "description" : "Today's tweet of the day comes from no other but the official Olympic games Twitter account. With over 6,4 million followers, it features Hikaru Nakamura. &#8220;At just 15, he became a Chess Grandmaster and is now a 5x US champion, ranked sixth in the world and number one in the US. Now, Chess Grandmaster Hikaru []",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u14-participants/",
          "pubDate" : "Tue, 25 Apr 2023 21:24:52 +0000",
          "title" : "Bulgarian Individual Chess Championship Girls U14 - Participants"
-      },
-      {
-         "description" : "The Bulgarian Individual Chess Championship is separated in 8 categories. Girls U16 section will take place from 29 April to 05 May in Krumovgrad, Bulgaria. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament system will be 9-round Swiss.The others sections : U18 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bulgarian-individual-chess-championship-girls-u16-participants/",
-         "pubDate" : "Tue, 25 Apr 2023 21:22:24 +0000",
-         "title" : "Bulgarian Individual Chess Championship Girls U16 - Participants"
       },
       {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
@@ -1106,28 +1122,12 @@ news_feed (
          "title" : "French Chess Federation and Île-de-France Region sign an agreement on chess for people with ASD"
       },
       {
-         "description" : "Nearly 300 chess enthusiasts visited the island of Menorca last week to take part in the 2nd International Chess Festival, including several grandmasters. After nine rounds ten players with 7.0/9 each shared the lead in the strong open tournament. But the young Indian Gukesh had the best tiebreak and was declared tournament winner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/menorca-open-ten-players-share-first-place",
-         "pubDate" : "Tue, 18 Apr 2023 15:28:35 +0100",
-         "title" : "Menorca Open: Ten players share first place"
-      },
-      {
          "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heartbreaking loss in the 2nd half of the match. The good news is he's done it twice before.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-freezes-and-loses-heartbreaking-game-7",
          "pubDate" : "Tue, 18 Apr 2023 13:34:39 +0000",
          "title" : "Ding Liren freezes and loses heartbreaking Game 7"
-      },
-      {
-         "description" : "A women's match between a Kazakh selection and a world selection began yesterday in Kazakhstan. The match will be played over two days of rapid chess and one day of blitz. On the first day, the World Team (photo), led by Hou Yifan, took a clear lead. | Photos: David Llada /FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazakhstan-vs-the-world-the-world-takes-the-lead",
-         "pubDate" : "Tue, 18 Apr 2023 14:21:38 +0100",
-         "title" : "\"Kazakhstan vs The World\": \"The World\" takes the lead"
       },
       {
          "description" : " There was a fourth decisive white win in a row in the FIDE World Chess Championship match between Ian Nepomniachtchi and Ding Liren in Astana Kazakhstan. Ding Liren melted down in time trouble taking a slightly better position to a loss in only a few moves. Ding surprised Nepomniachtchi again, this time by choosing the French Defence as black. Nepomniachtchi chose the Tarrasch Variation 3.Nd2 which is what he has been playing recently online and both players seemed to be on their own around move 10. Ding was probably fine but he had to be careful as Nepomniachtchi developed a dangerous looking attack. After 16.Rad8 Ding had just 43 minutes to reach move 40, already dangerous territory. Nepo",
