@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/",
+         "pubDate" : "Fri, 28 Apr 2023 14:34:03 +0000",
+         "title" : "2023 World Chess Championship: Game 13"
+      },
+      {
+         "description" : "The 131st Internet Based FIDE Arbiters' Seminar (English Chess Federation) was held from 15th to 22nd April 2023. It was organized by the English Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/131st-internet-based-fide-arbiters-seminar/",
+         "pubDate" : "Fri, 28 Apr 2023 14:26:13 +0000",
+         "title" : "131st Internet-based FIDE Arbiters' Seminar"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "TEDx Talk on Checkmating Bias: Increasing Women's Participation in Chess"
       },
       {
-         "description" : " The HBCU Chess Classic will kick off on April 22nd featuring several schools including Morehouse, Spelman, Clark Atlanta, Howard, Hampton, North Carolina A&#38;T, Florida A&#38;M, and host Morris Brown. This tournament will be a five-round, rated, Swiss tournament with both individual and team prizes. This initiative is designed to build a chess community within one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/all-roads-to-atlanta-for-hbcu-chess-classic/\">All Roads to Atlanta for HBCU Chess Classic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/16/all-roads-to-atlanta-for-hbcu-chess-classic/",
-         "pubDate" : "Sun, 16 Apr 2023 19:43:46 +0000",
-         "title" : "All Roads to Atlanta for HBCU Chess Classic!"
-      },
-      {
          "description" : "There can be no complaints of &#34;boring draws&#34; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This time it was D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1864,22 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2327",
          "pubDate" : "Fri, 07 Apr 2023 17:57:56 +0000",
          "title" : "2023 FIDE World Championship Match officially opened"
-      },
-      {
-         "description" : "This is the fourth post in a short series to learn more about GM Ding Liren's chess career. In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-rise-to-gm-title.html\">Ding Liren's Rise to the GM title</A> (March 2023), I wrote, <BLOCKQUOTE> The year 2009 was the Chinese GM's breakthrough year. What about 2010 and after? I'll look at that in the next post. </BLOCKQUOTE> <P> The following chart starts where the chart from 'Rise to the GM title' ended: 'October 2009, he became China's 30th grandmaster'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd07.gif\" WIDTH=400 HEIGHT=380><BR> <A HREF=\"https://en.wikipedia.org/wiki/Ding_Liren\">Ding Lir",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html",
-         "pubDate" : "Fri, 07 Apr 2023 15:28:00 +0000",
-         "title" : "Ding Liren's 2010-11 TWIC-ipedia"
-      },
-      {
-         "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
-         "pubDate" : "Fri, 7 Apr 2023 18:38:00 +0400",
-         "title" : "World Chess Championship 2023 - "
       }
    ]
 }
