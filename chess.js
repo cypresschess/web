@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Given the name and intent of this site, the reader might be forgiven for wondering why this post did not appear earlier. The reason is that I've only just released my video with this title on Vimeo, previously it was only available to Tiger Chess members. Here's the trailer, which explains what it's about: I'm <a href=\"https://chessimprover.com/how-to-improve-your-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"How to Improve Your Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/how-to-improve-your-chess/\">How to Improve Your Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/how-to-improve-your-chess/",
+         "pubDate" : "Fri, 28 Apr 2023 18:29:23 +0000",
+         "title" : "How to Improve Your Chess"
+      },
+      {
+         "description" : "Recently the brillant Grandmaster and former FIDE World Chess Champion Ruslan Ponomariov visited Hamburg to record his first FritzTrainer, and Arne K&auml;hler used the chance to interview him. Throughout the conversation Ponomariov offered invaluable insights into his chess journey and the key moments that have shaped his career, but he also talked about his personal life, the books he reads and how he spends his time in the Basque sun. As an added treat, the Grandmaster also presented a thrilling game where he emerged victorious against the formidable Vassily Ivanchuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
+         "pubDate" : "Fri, 28 Apr 2023 18:00:00 +0100",
+         "title" : "Interview with Ruslan Ponomariov"
+      },
+      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -136,6 +152,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
          "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
+         "description" : "Days before he officially abdicates his title, GM Magnus Carlsen shared some fascinating thoughts about the 2023 FIDE World Championship. While GM Ian Nepomniachtchi and GM Ding Liren have been battling it out in Astana to decide who succeeds hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-on-nepo-vs-ding",
+         "pubDate" : "Thu, 27 Apr 2023 10:30:00 -0700",
+         "title" : "World Champion Carlsen On 'Shocking' Ding Choice, Risky Play, WC Format, & More"
       },
       {
          "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "No More Excuses: Improve Your Chess Today!"
       },
       {
-         "description" : "Today: Matthias Wuellenweber shows us who Buddy is, and how he can improve your chess analysis. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-who-is-buddy",
-         "pubDate" : "Wed, 19 Apr 2023 12:00:00 +0100",
-         "title" : "Explained by the engineers! - Who is Buddy?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99613566.cms\" />Global Chess League (GCL), a joint venture by world body FIDE and Tech Mahindra, on Wednesday unveiled its official logo, which resembles a chess board with 64 squares.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1722,14 +1738,6 @@ news_feed (
          "title" : "Bernardo Roselli wins 94th Uruguayan Championship"
       },
       {
-         "description" : "Chess fans didn&#39;t have to wait long for a decisive result in the 2023 FIDE World Championship, as GM Ian Nepomniachtchi convincingly took down GM Ding Liren in game two. Despite a successful-looking novelty by Ding on move 4, things quickly turned...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-2",
-         "pubDate" : "Sun, 09 Apr 2023 12:00:00 -0700",
-         "title" : "Nepomniachtchi Wins Game 2 With Black After Navigating Ding's Novelty"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1856,22 +1864,6 @@ news_feed (
          "link" : "https://aicf.in/national-arbiter-seminar-indore-certificates/",
          "pubDate" : "Fri, 07 Apr 2023 19:30:55 +0000",
          "title" : "National Arbiter Seminar Indore, Certificates"
-      },
-      {
-         "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-for-left-over-arbiters/",
-         "pubDate" : "Fri, 07 Apr 2023 18:12:47 +0000",
-         "title" : "ARBITER REFRESHER COURSE FOR LEFT OVER ARBITERS"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2327",
-         "pubDate" : "Fri, 07 Apr 2023 17:57:56 +0000",
-         "title" : "2023 FIDE World Championship Match officially opened"
       }
    ]
 }
