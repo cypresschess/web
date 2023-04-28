@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2354",
+         "pubDate" : "Fri, 28 Apr 2023 14:13:31 +0000",
+         "title" : "World Rapid Team Championship: Registration is open"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 12: Explosive game ends in crushing defeat for Nepo Match Score: 6-6 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 12Wednesday, 26 April 2023 Game 12 will go down in world championship history as one of the most back-and-forth battles. However, the chess world The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/\">2023 World Chess Championship: Game 12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/",
+         "pubDate" : "Fri, 28 Apr 2023 03:29:06 +0000",
+         "title" : "2023 World Chess Championship: Game 12"
+      },
+      {
+         "description" : "The 10th Cherry Blossom Classic will take place from 24-29 May 2023 in Dulles, Virginia, USA. The tournament has prize fund of 12 000 USD 4000 for the winner. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/10th-cherry-blossom-classic-open-participants/",
+         "pubDate" : "Fri, 28 Apr 2023 02:23:14 +0000",
+         "title" : "10th Cherry Blossom Classic Open - Participants"
+      },
+      {
+         "description" : "The 5. Bamberg Open A will take place from 26-30 July 2023 in Bamberg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It will be 9-round Swiss system tournament with participation of Felix Levin, Tobias Kolb, Christian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/5-bamberg-open-a-participants/",
+         "pubDate" : "Fri, 28 Apr 2023 01:13:31 +0000",
+         "title" : "5. Bamberg Open A - Participants"
+      },
+      {
          "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
          "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
-      },
-      {
-         "description" : "Recently the brillant Grandmaster and former FIDE World Chess Champion Ruslan Ponomariov visited Hamburg to record his first FritzTrainer, and Arne K&auml;hler used the chance to interview him. Throughout the conversation Ponomariov offered invaluable insights into his chess journey and the key moments that have shaped his career, but he also talked about his personal life, the books he reads and how he spends his time in the Basque sun. As an added treat, the Grandmaster also presented a thrilling game where he emerged victorious against the formidable Vassily Ivanchuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
-         "pubDate" : "Thu, 27 Apr 2023 18:00:00 +0100",
-         "title" : "Interview with Ruslan Ponomariov"
       },
       {
          "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
@@ -280,22 +304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-greatest-chess-scandal",
          "pubDate" : "Wed, 26 Apr 2023 08:00:00 +0100",
          "title" : "The Greatest Chess Scandal"
-      },
-      {
-         "description" : "The French Youth Championship will be held from the 23rd to the 30th of April in Agen, France as a 9-round Swiss. The tournament will be divided into age groups. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The tournament is separated in 10 categories []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-youth-championship-2023/",
-         "pubDate" : "Wed, 26 Apr 2023 06:54:07 +0000",
-         "title" : "French Youth Championship 2023"
-      },
-      {
-         "description" : "The Asia Zone 3.3 Chess Championships 2023, both Open and Women sections, will take place from 06-12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The Open section will be 9-round Swiss system tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-women/",
-         "pubDate" : "Wed, 26 Apr 2023 06:43:24 +0000",
-         "title" : "Asia Zone 3.3 Chess Championships 2023 - Women"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 10: Ding couldn't break through in Game 10. Match Score: 5&frac12;-4&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 10Sunday, 23 April 2023 With Ding playing white in Game 10, this match has officially entered the final phase and seems to be settling down The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/\">2023 World Chess Championship: Game 10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2355",
          "pubDate" : "Sun, 23 Apr 2023 14:34:09 +0000",
          "title" : "World Chess Championship enters final phase as Nepomniachtchi retains lead after game ten"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2354",
-         "pubDate" : "Sun, 23 Apr 2023 14:13:31 +0000",
-         "title" : "World Rapid Team Championship: Registration is open"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 122nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
@@ -1122,6 +1122,14 @@ news_feed (
          "title" : "Global Chess League unveils its official logo"
       },
       {
+         "description" : "impersonating a woman! At the Kenya Open, something unique happened when a man was caught playing in the women's section. Registered as an unrated player, he was wearing a hijab (head and shoulder covering) typical of a Muslim woman, with a niqaab (face covering).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-player-disqualified-for",
+         "pubDate" : "Wed, 19 Apr 2023 09:16:31 +0100",
+         "title" : "Chess player disqualified for..."
+      },
+      {
          "description" : " Adisa Banjoko launched the Hip-Hop Chess Federation back in 2007 and had the desire to bridge his passion for hip-hop, martial arts, and chess. He held tournaments, taught classes, and arranged a hip-hop exhibit at the World Chess Hall of Fame. Adisa Banjoko's Hip-Hop Chess Federationwas the cover story of February 2012U.S. Chess Life magazine. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/\">GZA &#038; Sabrina Chevannes on Hip-Hop/Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1312,14 +1320,6 @@ news_feed (
          "link" : "https://aicf.in/fide-national-arbiter-license/",
          "pubDate" : "Sun, 16 Apr 2023 15:55:00 +0000",
          "title" : "FIDE NATIONAL ARBITER LICENSE"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 5: Nepomniachtchi back on top Match Score: 3-2 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 5Saturday, 15 April 2023 Nepomniachtchi responds with an impressive win! Just when we thought we'd have to wait to see how Ian Nepomniachtchi would respond to his first The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/2023-world-chess-championship-game-5/\">2023 World Chess Championship: Game 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/16/2023-world-chess-championship-game-5/",
-         "pubDate" : "Sun, 16 Apr 2023 15:17:10 +0000",
-         "title" : "2023 World Chess Championship: Game 5"
       },
       {
          "description" : "",
