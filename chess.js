@@ -10,6 +10,22 @@ news_feed (
          "title" : "World Rapid Team Championship: Registration is open"
       },
       {
+         "description" : " The pair are tied at 6.5-6.5 before Saturday's 14th and final classical game, and if this is drawn then rapid and blitz on Sunday will decide who becomes world champion Ding Liren and Ian Nepomniachtchi drew the 13th and penultimate round of their world championship match in Astana, Kazakhstan, on Thursday as the prospect of another draw on Saturday and a speed shootout for the crown on Sunday loomed closer. Nepomniachtchi, 32, again opened with the Ruy Lopez but stood worse in the middle game until Ding, 30, spoiled his advantage and opted to halve by threefold repetition of position, saying later: \"It was still some kind of dark ocean position, so I didn't go further into it.\" The final o",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/apr/28/chess-ding-and-nepomniachtchi-go-to-the-wire-as-speed-shootout-looms",
+         "pubDate" : "Fri, 28 Apr 2023 07:00:15 +0000",
+         "title" : "Chess: Ding and Nepomniachtchi go to the wire as speed shootout looms"
+      },
+      {
+         "description" : "The last free day of the Astana World Championship: time to take another look at the two previous games. Once again we have deep, instructive commentary for you to study, kindly provided to us by grandmaster Efstratios Grivas, trainer and FIDE international organizer. Our replay app makes it very easy to follow the annotations. You can even start an engine to work out the most subtle questions you might have.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-12-13",
+         "pubDate" : "Fri, 28 Apr 2023 08:00:00 +0100",
+         "title" : "Grivas on Nepo-Ding 12-13"
+      },
+      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 12: Explosive game ends in crushing defeat for Nepo Match Score: 6-6 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 12Wednesday, 26 April 2023 Game 12 will go down in world championship history as one of the most back-and-forth battles. However, the chess world The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/\">2023 World Chess Championship: Game 12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Pieniny 2023 - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros analyzes Ian Nepomniachtchi&#039;s apparent preparation for his ongoing 2023 World Chess Championship match against Ding Liren. 2023.04.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pniT0plAGN0.jpg?itok=dZ-515FQ\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros gives his take on Ian Nepomniachtchi's probable preparation for his ongoing 2023 World Chess Championship match against Ding Liren. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pniT0plAGN0.jpg?itok=dZ-515FQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Global Chess League unveils its official logo"
       },
       {
-         "description" : "impersonating a woman! At the Kenya Open, something unique happened when a man was caught playing in the women's section. Registered as an unrated player, he was wearing a hijab (head and shoulder covering) typical of a Muslim woman, with a niqaab (face covering).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-player-disqualified-for",
-         "pubDate" : "Wed, 19 Apr 2023 09:16:31 +0100",
-         "title" : "Chess player disqualified for..."
-      },
-      {
          "description" : " Adisa Banjoko launched the Hip-Hop Chess Federation back in 2007 and had the desire to bridge his passion for hip-hop, martial arts, and chess. He held tournaments, taught classes, and arranged a hip-hop exhibit at the World Chess Hall of Fame. Adisa Banjoko's Hip-Hop Chess Federationwas the cover story of February 2012U.S. Chess Life magazine. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/\">GZA &#038; Sabrina Chevannes on Hip-Hop/Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1176,6 +1184,14 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/april-1973-1998-on-cover.html",
          "pubDate" : "Tue, 18 Apr 2023 15:48:00 +0000",
          "title" : "April 1973 & 1998 'On the Cover'"
+      },
+      {
+         "description" : "Korumdu, Issyk-Kul, Kyrgyzstan from 30th June to 10th July, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asia-youth-chess-championship-2023/",
+         "pubDate" : "Tue, 18 Apr 2023 15:41:57 +0000",
+         "title" : "Western Asia Youth Chess Championship - 2023"
       },
       {
          "description" : "",
@@ -1858,14 +1874,6 @@ news_feed (
          "title" : "World Chess Championship 2023 - "
       },
       {
-         "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/ongc-ward-sports-scholarship-scheme-2023-24/",
-         "pubDate" : "Fri, 07 Apr 2023 11:06:02 +0000",
-         "title" : "ONGC Ward Sports Scholarship Scheme 2023-24"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-nine/",
          "pubDate" : "Fri, 07 Apr 2023 09:00:37 +0000",
          "title" : "A Foundation for Beginners Eighty Nine"
-      },
-      {
-         "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren will compete for the crown in 14-game series Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" title=\"\">Chessable Masters</a>. <a href=\"https://www.theguar",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/apr/07/chess-world-title-match-gets-under-way-in-astana-without-magnus-carlsen",
-         "pubDate" : "Fri, 07 Apr 2023 07:00:47 +0000",
-         "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
       }
    ]
 }
