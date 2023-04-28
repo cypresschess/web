@@ -10,6 +10,22 @@ news_feed (
          "title" : "World Rapid Team Championship: Registration is open"
       },
       {
+         "description" : "WR Masters 2023: The tournament winner, Levon Aronian, comments on two of his games. Plus analyses by Keymer, Duda and others. Gukesh and Praggnanandhaa each present one of their games in video! - European Individual Championship 2023: The winner Sarana comments on his groundbreaking game against Korobov, plus analyses by Shevchenko, Esipenko, Ponomariov and many others - \"Special\" on Vishy Anand: exclusive collection of 26 annotated games + contributions on strategy and endgame - French Gambit &aacute; la Carlsen: Sergey Grigoriants examines 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6!? - 0-0-0 against Bogo-Indian: Spyridon Kapnisis shows how White gets good play after 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-213",
+         "pubDate" : "Fri, 28 Apr 2023 10:00:00 +0100",
+         "title" : "NEW: ChessBase Magazine #213"
+      },
+      {
+         "description" : "After 13 played games at the World Chess Championship Match 2023 between Ian Nepomniachtchi and Ding Liren, the result is tied 6.5-6.5. New World Chess Champion will be determined in the last classical game of the match or in the playoffs. Ian Nepomniachtchi had a full-point lead before the last two-game portions. Ding Liren once again bounced back&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/world-chess-championship-match-tied-after-13-games/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/world-chess-championship-match-tied-after-13-games/",
+         "pubDate" : "Fri, 28 Apr 2023 08:41:05 +0000",
+         "title" : "World Chess Championship Match tied after 13 games"
+      },
+      {
          "description" : " The pair are tied at 6.5-6.5 before Saturday's 14th and final classical game, and if this is drawn then rapid and blitz on Sunday will decide who becomes world champion Ding Liren and Ian Nepomniachtchi drew the 13th and penultimate round of their world championship match in Astana, Kazakhstan, on Thursday as the prospect of another draw on Saturday and a speed shootout for the crown on Sunday loomed closer. Nepomniachtchi, 32, again opened with the Ruy Lopez but stood worse in the middle game until Ding, 30, spoiled his advantage and opted to halve by threefold repetition of position, saying later: \"It was still some kind of dark ocean position, so I didn't go further into it.\" The final o",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1114,14 +1130,6 @@ news_feed (
          "title" : "World Solving Cup 2022/2023: Female touch in Riga"
       },
       {
-         "description" : "The second day of the match between the Kazakh women's team and the World Women's Team, which is taking place in Astana in parallel with the World Championship match between Ding Liren and Ian Nepomniachtchi, ended in a 16-16 draw. The World Team is still in the lead: after two days of rapid chess, the score is 34.5 to 29.5 for the World Team. But the best player so far has been 16-year-old Kazakh Alua Nurmanova (pictured) with 7.0/8. | Photo: Alua Nurmanova at the FIDE World and Rapid Blitz Championships 2023 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazakhstan-vs-the-world-the-world-keeps-its-lead",
-         "pubDate" : "Wed, 19 Apr 2023 11:27:29 +0100",
-         "title" : "Kazakhstan vs \"The World\": \"The World\" keeps its lead"
-      },
-      {
          "description" : "After the eighth round of the event, Italy and France teams in the Open section are sharing the first place, and France in the Women's Section is solo leading in the Mitropa Cup 2023. Yesterday's eighth round was opened by the ceremonial first move made in the match France - Germany in the Open section by the President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/italy-and-france-are-leading-in-the-mitropa-cup-2023-before-the-last-round/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1872,22 +1880,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
          "pubDate" : "Fri, 7 Apr 2023 18:38:00 +0400",
          "title" : "World Chess Championship 2023 - "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2326",
-         "pubDate" : "Fri, 07 Apr 2023 09:45:46 +0000",
-         "title" : "The Match to determine the next World Chess Champion set to begin in Astana"
-      },
-      {
-         "description" : " Last week, we looked at the pin. We've seen, in previous articles, that tactics can easily fall apart if not carefully thought out. This week, we'll see what happens when a seemingly good, but different type of pin is completely ignored. To refresh your memory, a pin is a tactic that slows down a piece's <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-nine/\">A Foundation for Beginners Eighty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-nine/",
-         "pubDate" : "Fri, 07 Apr 2023 09:00:37 +0000",
-         "title" : "A Foundation for Beginners Eighty Nine"
       }
    ]
 }
