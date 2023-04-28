@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new world chess champion is about to be crowned. Game 14 of the match facing Ian Nepomniachtchi and Ding Liren will be played on Saturday. The score is tied, so a draw will lead to a rapid playoff on Sunday. As a preview to what is likely to become a memorable weekend for chess fans, Robert Ris recaps similar deciding encounters, focusing on the 2010 match in Sofia - the score was also tied, and defending champion Vishy Anand beat Veselin Topalov with the black pieces to keep the title!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-anand-beats-topalov-2010",
+         "pubDate" : "Fri, 28 Apr 2023 22:30:00 +0100",
+         "title" : "Robert Ris: Anand beats Topalov in the final game of their 2010 match"
+      },
+      {
          "description" : " Given the name and intent of this site, the reader might be forgiven for wondering why this post did not appear earlier. The reason is that I've only just released my video with this title on Vimeo, previously it was only available to Tiger Chess members. Here's the trailer, which explains what it's about: I'm <a href=\"https://chessimprover.com/how-to-improve-your-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"How to Improve Your Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/how-to-improve-your-chess/\">How to Improve Your Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
          "pubDate" : "Fri, 28 Apr 2023 18:00:00 +0100",
          "title" : "Interview with Ruslan Ponomariov"
+      },
+      {
+         "description" : "Days before he officially abdicates his title, GM Magnus Carlsen shared some fascinating thoughts about the 2023 FIDE World Championship. While GM Ian Nepomniachtchi and GM Ding Liren have been battling it out in Astana to decide who succeeds hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-on-nepo-vs-ding",
+         "pubDate" : "Fri, 28 Apr 2023 09:05:00 -0700",
+         "title" : "World Champion Carlsen On 'Shocking' Ding Choice, Risky Play, WC Format, & More"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
          "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
-      },
-      {
-         "description" : "Days before he officially abdicates his title, GM Magnus Carlsen shared some fascinating thoughts about the 2023 FIDE World Championship. While GM Ian Nepomniachtchi and GM Ding Liren have been battling it out in Astana to decide who succeeds hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-on-nepo-vs-ding",
-         "pubDate" : "Thu, 27 Apr 2023 10:30:00 -0700",
-         "title" : "World Champion Carlsen On 'Shocking' Ding Choice, Risky Play, WC Format, & More"
       },
       {
          "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
@@ -674,7 +682,7 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 9"
       },
       {
-         "description" : "The Satty Zhuldyz rapid and blitz tournament is taking place in Astana as a side event of the World Championship match. A number of international chess stars are participating. Karsten M&uuml;ller has been following the games, looking for endgame highlights. Find here seven instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Hou Yifan | Photo: Anna Shtourman",
+         "description" : "The Satty Zhuldyz rapid and blitz tournament is taking place in Astana as a side event of the World Championship match. A number of international chess stars are participating. Karsten M&uuml;ller has been following the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Hou Yifan | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-1",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/minh-le-vachier-lagrave-win-titled-tuesday-april-18-2023",
          "pubDate" : "Wed, 19 Apr 2023 08:06:00 -0700",
          "title" : "Ukrainian Surprise In Early Titled Tuesday, Eight-Way Tie In Late"
-      },
-      {
-         "description" : "Włodzimierz Schmidt was the first Polish grandmaster to acquire the title not on an honorary basis, but by fulfilling the norms. For a long time, the native of Poznan was the best Polish player, later a sought-after coach. He died on 1 April, shortly before his 80th birthday. An obituary by Paul Werner Wagner. | Photo: www.piit.org.pl/",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-wlodomiersz-schmidt-10-april-1943-1-april-2023",
-         "pubDate" : "Wed, 19 Apr 2023 15:00:00 +0100",
-         "title" : "Remembering Włodzimierz Schmidt (10 April 1943 - 1 April 2023)"
       },
       {
          "description" : " When I was 8 years old I moved back to PNG (where I was born) from Melbourne. The big junior sport at my school was Soccer, although Rugby League was also played. As the season was about to start I was listening to some of my classmates saying how good they were. Deciding to join in the conversation I mentioned how I had scored some massive number of goals when I lived in Melbourne. So they invited me to join the team, with the first trial match being that upcoming weekend. The only problem with my claim is that I had never played a game of soccer in my life. And as the day approached I knew I was about to get found out. In fact it was quite soon after the game began that the coach realised",
@@ -1848,22 +1848,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/",
          "pubDate" : "Sat, 08 Apr 2023 06:09:59 +0000",
          "title" : "Mitropa Cup 2023 starts in Mali Losinj, Croatia"
-      },
-      {
-         "description" : " After 2 days of play in the 2023 O2C Doeberl Cup Premier, two Australian IM's share the lead. Former winner James Morris, and Queensland IM Brodie McClymont are the only players on 4/4. Morris had a good win of local FM Fred Litchfield, while McClymont defeated GM Samy Shoker in the evening round. All 4 GM's in the event have dropped at least half a point, with GM Melkumyan and GM Kuybokarov on 3.5, Shoker on 3 and GM Daniel Fernandez on 2.5. Dqy 2 saw the start of all the other events, with a record field of 403 players entering over the 5 sections. As only 2 rounds have been played in these tournaments (3 in the Under 1200), leaders in the 80+ player fields are many and varied. Tonight al",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-2.html",
-         "pubDate" : "Fri, 07 Apr 2023 22:04:00 +0000",
-         "title" : "2023 O2C Doeberl Cup - Day 2"
-      },
-      {
-         "description" : "National Arbiter Seminar Indore Certificates are out to download Link : https://aicf.online/Arbiter-S-Indore.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiter-seminar-indore-certificates/",
-         "pubDate" : "Fri, 07 Apr 2023 19:30:55 +0000",
-         "title" : "National Arbiter Seminar Indore, Certificates"
       }
    ]
 }
