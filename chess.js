@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-tiebreaks-live/",
+         "pubDate" : "Sat, 29 Apr 2023 22:48:36 +0000",
+         "title" : "Nepo - Ding 2023, tiebreaks LIVE"
+      },
+      {
+         "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs on Sunday will decide the winner. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g14",
+         "pubDate" : "Sat, 29 Apr 2023 23:05:00 +0100",
+         "title" : "World Championship Game 14: On to the rapid playoff as Ding escapes"
+      },
+      {
+         "description" : "More: How to start your chess business &#x2013; meet CEO of Outpostchess.com, a successful start-up story To monetize your chess career, it's crucial to be visible and engaged in the chess community, and this platform provides the perfect opportunity for you to achieve that. Where is the opportunity going to come from that changes your []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/create-a-profile-on-outpost-chess/",
+         "pubDate" : "Sat, 29 Apr 2023 21:32:35 +0000",
+         "title" : "Create a Profile on Outpost Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2364",
          "pubDate" : "Sat, 29 Apr 2023 16:37:35 +0000",
          "title" : "Ding Liren and Ian Nepomniachtchi head for final tie-breaker"
+      },
+      {
+         "description" : " The 14 game match for the World Chess Championship between Ian Nepomniachtchi and Ding Liren finished in a 7-7 draw after a final 14th game of near unbearable tension. There will be a rapid and possibly blitz tie-breaks on Sunday to decide the title. Ding Liren had the white pieces and chose the 5.Bd2 Nimzo-Indian. Pretty soon the players were on their own but also it was clear that after 9...dxc4 black had no problems. Well perhaps it wasn't clear to Ding because he went for the super aggressive 12.Ng5 h6 13.h4. Ding was soon disappointed though as 13...Qc7 effectively refuted the attacking ideas and 14.Be2 acknowledged that. There were some computer lines that promised black an advantage ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/the-world-chess-championship-will-be-decided-by-rapid-and-possibly-blitz-tie-breaks-on-sunday",
+         "pubDate" : "Sat, 29 Apr 2023 20:33:00 +0400",
+         "title" : "The World Chess Championship will be decided by rapid and possibly blitz tie-breaks on Sunday - 14"
       },
       {
          "description" : "\"This match is totally nuts!\" said Anish Giri as Ding Liren went all-in with the white pieces in the final classical game of the match. It backfired spectacularly, with Ian Nepomniachtchi getting a series of chances until in the endgame he once more looked on the verge of becoming World Champion. One rushed move, however, and Ding Liren snatched his chance to force a drawn rook endgame and take the match to a playoff on Sunday.",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.thearticle.com/stranger-than-fiction-chess-the-musical/",
          "pubDate" : "Sat, 29 Apr 2023 10:53:10 +0000",
          "title" : "Stranger than fiction: 'Chess: the musical'"
-      },
-      {
-         "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs on Sunday will decide the winner. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sat, 29 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 14 - The match will be decided in playoffs"
       },
       {
          "description" : "By playing the powerful 22.Rxe4! dxe4 23.Nxe4 in the diagram position, White gained a decisive attack, with magnificent checkmate patterns on the horizon. You can really let off steam here - enjoy!",
@@ -248,22 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/serbia-leads-2023-ibca-european-team-championship-for-the-blind-and-visually-impaired-after-7-rounds/",
          "pubDate" : "Thu, 27 Apr 2023 22:20:14 +0000",
          "title" : "Serbia leads 2023 IBCA European Team Championship for the Blind and Visually Impaired after 7 rounds"
-      },
-      {
-         "description" : "The 2023 Asian U18 Mixed Doubles Chess Championship is taking place online from April 28th to April 30th. It is organized by the Asian chess federation. The tournament system is 9-round Swiss system for teams. The time control is 15 minutes for the entire game with a 10-second increment per move. Replay:&#xA0;Nepo &#x2013; Ding game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-asian-u18-mixed-doubles-chess-championship-live/",
-         "pubDate" : "Thu, 27 Apr 2023 20:19:06 +0000",
-         "title" : "2023 Asian U18 Mixed Doubles Chess Championship - LIVE"
-      },
-      {
-         "description" : "The 2023 Asian U18 Mixed Doubles Chess Championship is taking place online from April 28th to April 30th. It is organized by the Asian chess federation. The tournament system is 9-round Swiss system for teams. The time control is 15 minutes for the entire game with a 10-second increment per move.Chessdom.com will follow live games. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-asian-u18-mixed-doubles-chess-championship-participants/",
-         "pubDate" : "Thu, 27 Apr 2023 20:00:00 +0000",
-         "title" : "2023 Asian U18 Mixed Doubles Chess Championship - Participants"
       },
       {
          "description" : "GM Magnus Carlsen won&#39;t be the world champion starting next week, but he&#39;s still looking for new ways to grow the game of chess. On Thursday, Norway Chess announced their new joint venture called Pawn, together with Iterate, Norway&#39;s premier ventu...",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
          "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
          "title" : "Chess champions I have played"
-      },
-      {
-         "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-3.html",
-         "pubDate" : "Sat, 08 Apr 2023 22:22:00 +0000",
-         "title" : "2023 O2C Doeberl Cup - Day 3"
       }
    ]
 }
