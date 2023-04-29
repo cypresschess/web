@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This was originally going to be a post about a 'proof game', then a post about sharp practice, but it is now something even more interesting. A brief report from one of the club events in Canberra mentioned a game that ended in mate after 4 moves, and involved a queen sacrifice. As the moves weren't given I tried to work out what had happened. Unable to do this, I then searched for 4 move games ending in mate in Hugebase, and came up empty. Finally I spoke to one of the players involved or explained what had happened . The game began with <b>1.e3?! f5 2.Qh5+ g6</b>. At this point White then picked up the bishop on f1, but quickly put it back. Looking across to his opponent, he sheepishly pi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/shortest-unique-game.html",
+         "pubDate" : "Sat, 29 Apr 2023 13:25:00 +0000",
+         "title" : "Shortest unique game?"
+      },
+      {
+         "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here five instructive positions, with on-point analysis by our in-house endgame expert. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-2",
+         "pubDate" : "Sat, 29 Apr 2023 14:00:00 +0100",
+         "title" : "Endgames from Kazakhstan (2)"
+      },
+      {
+         "description" : " Winning 752 points in 6 months. What sounds like a ridiculous marketing pitch is the real success story of my student Tatjana. She managed to raise her chess.com rapid rating from 269 to 1021 points in only half a year. In this article, I want to go through three key factors in this success story. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/success-story-1/\">Unlocking Chess Success: +752 Points in 6 Months</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/success-story-1/",
+         "pubDate" : "Sat, 29 Apr 2023 12:00:00 +0000",
+         "title" : "Unlocking Chess Success: +752 Points in 6 Months"
+      },
+      {
          "description" : "CHESS: the musical, with lyrics by Sir Tim Rice and music by the male half of ABBA, is blessed with some of the most ingenious text by our most celebrated musical logodaedalus, while also featuring some of Bj&ouml;rn and Benny's most inspired music. I am delighted to say that after a most successful pre-Covid run at London's Coliseum, this []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "New: CBM Extra #212"
       },
       {
-         "description" : "Drama continues to unfold at the World Championship match in Astana. Following four decisive games, Ding Liren played enterprisingly with the white pieces and gained a decisive advantage. Amid a tactical middlegame, Ian Nepomniachtchi was resourceful in defence, as he also garnered a big lead on the clock. Nepo managed to escape with a draw and continues to have a 1-point lead on the scoreboard. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g8",
-         "pubDate" : "Thu, 20 Apr 2023 19:30:00 +0100",
-         "title" : "World Championship Game 8: More drama, Ding misses big chance"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1800,30 +1816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-3.html",
          "pubDate" : "Sat, 08 Apr 2023 22:22:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Day 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2328",
-         "pubDate" : "Sat, 08 Apr 2023 12:43:41 +0000",
-         "title" : "2023 World Chess Championship Match: Opening press conference "
-      },
-      {
-         "description" : " Last week I realized three things: Basic Advice Applies to Everyone Discussing how to improve in Poker &#38; Chess with a professional Chess player, I said \"but this doesn't apply to my situation, because&#8221; He just smirked and said, \"Learning to play better helps everyone\". Boom! How right he was. Some basic improvement advice applies [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/but-im-unique/\">Overcoming the &#8216;But I'm Unique' Mentality in Chess Improvement</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/but-im-unique/",
-         "pubDate" : "Sat, 08 Apr 2023 12:00:00 +0000",
-         "title" : "Overcoming the 'But I'm Unique' Mentality in Chess Improvement"
-      },
-      {
-         "description" : "Ian Nepomniachtchi will have the white pieces against Ding Liren when the 2023 World Chess Championship match starts in Astana, Kazakhstan on Sunday. Before the 14-game battle to decide the 17th World Chess Champion, the players faced the gauntlet of the first press conference. We've transcribed all their answers below.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-nepomniachtchi-opening-press-conference",
-         "pubDate" : "Sat, 08 Apr 2023 11:32:35 +0000",
-         "title" : "The Ding-Nepomniachtchi Opening Press Conference"
       }
    ]
 }
