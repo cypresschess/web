@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "CHESS: the musical, with lyrics by Sir Tim Rice and music by the male half of ABBA, is blessed with some of the most ingenious text by our most celebrated musical logodaedalus, while also featuring some of Bj&ouml;rn and Benny's most inspired music. I am delighted to say that after a most successful pre-Covid run at London's Coliseum, this []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/stranger-than-fiction-chess-the-musical/",
+         "pubDate" : "Sat, 29 Apr 2023 10:53:10 +0000",
+         "title" : "Stranger than fiction: 'Chess: the musical'"
+      },
+      {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sat, 29 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 14 - Live!"
+      },
+      {
          "description" : "By playing the powerful 22.Rxe4! dxe4 23.Nxe4 in the diagram position, White gained a decisive attack, with magnificent checkmate patterns on the horizon. You can really let off steam here - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1026,14 +1042,6 @@ news_feed (
          "title" : "Ding Liren blows huge chance as prep leaks online"
       },
       {
-         "description" : "In Astana, in parallel to the World Championship match, a team of the best Kazakh women players played a blitz and rapid match against a team from \"The World\". \"The World\" team won both events, the rapid and the blitz match. \"The World\" team was led by former Women's World Champion Hou Yifan, who is still the world's number on the women's ranking list. In an interview she revealed her thoughts about the development of women's chess. | Photos: FIDE/Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-wins-against-kazakhstan-in-astana",
-         "pubDate" : "Thu, 20 Apr 2023 14:39:19 +0100",
-         "title" : "\"The World\" wins against Kazakhstan in Astana"
-      },
-      {
          "description" : "GM Ding Liren almost bounced back in sensational fashion following a gutwrenching round-seven loss, falling just short after a herculean effort from GM Ian Nepomniachtchi, resulting in a draw in the eighth round of the 2023 FIDE World Championship...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1816,22 +1824,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-nepomniachtchi-opening-press-conference",
          "pubDate" : "Sat, 08 Apr 2023 11:32:35 +0000",
          "title" : "The Ding-Nepomniachtchi Opening Press Conference"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99339439.cms\" />Chess will crown a new world champion when Ian Nepomniachtchi and Ding Liren begin their battle on Sunday in the shadow of incumbent Magnus Carlsen, who voluntarily relinquished the title he held since 2013.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-carlsens-shadow-chess-awaits-a-new-world-champion/articleshow/99339439.cms",
-         "pubDate" : "Sat, 08 Apr 2023 10:32:32 +0000",
-         "title" : "In Carlsen's shadow, chess awaits a new world champion"
-      },
-      {
-         "description" : " During the last couple of weeks I've released two more Tiger Chess openings courses as Vimeo titles. Last week it was the White 1.d4 Repertoire course and this week a brought out my French Defence course. Here are the Youtube descriptions of these courses: What is different about my material? I think that the main <a href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Openings Courses Now on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\">Tiger Chess Openings Courses Now on Vimeo</a> appeared first on <a rel=\"nofoll",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/",
-         "pubDate" : "Sat, 08 Apr 2023 09:00:29 +0000",
-         "title" : "Tiger Chess Openings Courses Now on Vimeo"
       }
    ]
 }
