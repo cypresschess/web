@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2364",
+         "pubDate" : "Sat, 29 Apr 2023 16:37:35 +0000",
+         "title" : "Ding Liren and Ian Nepomniachtchi head for final tie-breaker"
+      },
+      {
+         "description" : "\"This match is totally nuts!\" said Anish Giri as Ding Liren went all-in with the white pieces in the final classical game of the match. It backfired spectacularly, with Ian Nepomniachtchi getting a series of chances until in the endgame he once more looked on the verge of becoming World Champion. One rushed move, however, and Ding Liren snatched his chance to force a drawn rook endgame and take the match to a playoff on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/a-ding-nepo-playoff-it-is-after-heart-stopping-game-14",
+         "pubDate" : "Sat, 29 Apr 2023 15:45:39 +0000",
+         "title" : "A Ding-Nepo playoff it is, after heart-stopping Game 14"
+      },
+      {
+         "description" : "GM Ding Liren pulled off a clutch 90-move escape to stop GM Ian Nepomniachtchi from winning the 2023 FIDE World Championship after his opening with White unraveled in the 14th game. With the scores locked at 7-7, the contenders will face off in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-14",
+         "pubDate" : "Sat, 29 Apr 2023 08:35:00 -0700",
+         "title" : "Ding Saves Game 14; Tiebreaks Will Decide World Championship"
+      },
+      {
          "description" : " This was originally going to be a post about a 'proof game', then a post about sharp practice, but it is now something even more interesting. A brief report from one of the club events in Canberra mentioned a game that ended in mate after 4 moves, and involved a queen sacrifice. As the moves weren't given I tried to work out what had happened. Unable to do this, I then searched for 4 move games ending in mate in Hugebase, and came up empty. Finally I spoke to one of the players involved or explained what had happened . The game began with <b>1.e3?! f5 2.Qh5+ g6</b>. At this point White then picked up the bishop on f1, but quickly put it back. Looking across to his opponent, he sheepishly pi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Stranger than fiction: 'Chess: the musical'"
       },
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs on Sunday will decide the winner. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Sat, 29 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 14 - Live!"
+         "title" : "World Championship, Game 14 - The match will be decided in playoffs"
       },
       {
          "description" : "By playing the powerful 22.Rxe4! dxe4 23.Nxe4 in the diagram position, White gained a decisive attack, with magnificent checkmate patterns on the horizon. You can really let off steam here - enjoy!",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
          "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
          "title" : "D Gukesh wins title at World Chess Armageddon event"
-      },
-      {
-         "description" : "While GMs Ian Nepomniachtchi and Ding Liren were in their final preparations for the battle of the crown, soon-to-be former World Champion Magnus Carlsen and his club Offerspill invited some of the hopes of the next generation to a training camp i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-on-trysil",
-         "pubDate" : "Sun, 09 Apr 2023 20:21:00 -0700",
-         "title" : "Carlsen Coaching Young Talents As World Championship Begins"
       },
       {
          "description" : " The 2023 O2C Doeberl Cup has reached its final stages, with GM Hrant Melkumyan holding a half point lead over GM Temur Kuybakarov. Melkumyan and Kuybakorov drew their round 7 game, before Melkumyan defeated IM Brodie McClymont in the days second game. Kuybakrov only drew with IM James Morris in round 8, to fall half a point behind Melkumyan. On 6 points are Morris, IM Rishi Sardana, FM Matthew Clarke, and IM Ari Dale. Melkumyan plays Dale, while Kuybokarov is up against Clarke, Rounding out the top pairings are Sardana against Morris on board 3, with GM Daniel Fernandez playing McClymont of board 4. In the Major (Under 2100), Khimaer Baneshi and Randheer Thogata are tied on 5/6, and play fo",
