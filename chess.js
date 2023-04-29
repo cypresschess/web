@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Fizmat open is taking place from April 29th to April 30th at Almaty, Bukhar Zhyrau boulevard, organzied by the Kazakhstan chess federation. The time-control is 10 minutes for the entire game with a 2-second increment beginning from move 1. It a 10-Round-Swiss tournament with participation of Edgar Mamedov, Zarina Nurgaliyeva, Imangali Akhilbay, Dinmukhammed Tulendinov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fizmat-chess-open-2023-live/",
+         "pubDate" : "Sat, 29 Apr 2023 02:34:11 +0000",
+         "title" : "Fizmat Chess Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Fizmat open is taking place from April 29th to April 30th at Almaty, Bukhar Zhyrau boulevard, organzied by the Kazakhstan chess federation. The time-control is 10 minutes for the entire game with a 2-second increment beginning from move 1. It a 10-Round-Swiss tournament with participation of Edgar Mamedov, Zarina Nurgaliyeva, Imangali Akhilbay, Dinmukhammed Tulendinov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fizmat-chess-open-2023-participants/",
+         "pubDate" : "Sat, 29 Apr 2023 02:32:30 +0000",
+         "title" : "Fizmat Chess Open 2023 - Participants"
+      },
+      {
+         "description" : "The XVII Torneig Internacional Actiu Vila de Canovelles 2023 will take place on 28 April 2023 in Barcelona, Spain. The time control is 15 minutes plus 5 seconds increment, starting from move one. It is a 9-round Swiss system tournament with participation of Tomas Sosa, Fernando Valenzuela Gomez, Jonathan Cruz, Olexiy Bilych,Gerard Ayats Llobera, Luis []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xvii-torneig-internacional-actiu-vila-de-canovelles-2023/",
+         "pubDate" : "Sat, 29 Apr 2023 02:17:46 +0000",
+         "title" : "XVII Torneig Internacional Actiu Vila de Canovelles 2023"
+      },
+      {
          "description" : "A new world chess champion is about to be crowned. Game 14 of the match facing Ian Nepomniachtchi and Ding Liren will be played on Saturday. The score is tied, so a draw will lead to a rapid playoff on Sunday. As a preview to what is likely to become a memorable weekend for chess fans, Robert Ris recaps similar deciding encounters, focusing on the 2010 match in Sofia - the score was also tied, and defending champion Vishy Anand beat Veselin Topalov with the black pieces to keep the title!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,22 +282,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting - CL No.1/2023"
       },
       {
-         "description" : "Romanian Grand Prix 2023&#xA0;is back with an increased budget. Starting with 2023 Bucharest Grand Prix will take place in 6 of the most beautiful cities in Romania: Bucharest, Bra&#x219;ov, Timi&#x219;oara, Arad, Cluj, and Alba Iulia.&#xA0;The first event is Bucharest Grand Prix, which is rapid chess tournament with time control of 15 minutes plus 5 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-prix-romania-first-stage-live/",
-         "pubDate" : "Wed, 26 Apr 2023 23:43:13 +0000",
-         "title" : "Grand Prix Romania - First Stage - LIVE"
-      },
-      {
-         "description" : "The Salamanca, Cradle of Modern Chess is taking place from 26&#x2013;29 April 2023 in Salamanca, Spain. Players receive 40 minutes for the entire game, plus a 5-second increment starting from move one. It is an 8-player round-robin tournament with participation of Jaime Santos Latasa, Veselin Topalov, Kirill Alekseenko, Anna Ushenina, Gunay Mammadzada, Sabrina Vega Gutierrez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/salamanca-cradle-of-modern-chess-2023-live/",
-         "pubDate" : "Wed, 26 Apr 2023 23:23:32 +0000",
-         "title" : "Salamanca Cradle of Modern Chess 2023 - LIVE"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 11: Not much happening Nepo holds lead Match Score: 6-5 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 11Monday, 24 April 2023 The World Chess Championship just moved to the final phase after yet another drawn game in Game 11. This one was without The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-11/\">2023 World Chess Championship: Game 11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-12",
          "pubDate" : "Wed, 26 Apr 2023 05:54:00 -0700",
          "title" : "Ding Topples Nepomniachtchi In Chaotic Game 12, Evens Score With 2 Games Left"
-      },
-      {
-         "description" : "Today's tweet of the day comes from no other but the official Olympic games Twitter account. With over 6,4 million followers, it features Hikaru Nakamura. &#8220;At just 15, he became a Chess Grandmaster and is now a 5x US champion, ranked sixth in the world and number one in the US. Now, Chess Grandmaster Hikaru []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-featured-on-olympics-tweetoftheday/",
-         "pubDate" : "Wed, 26 Apr 2023 12:25:14 +0000",
-         "title" : "Hikaru Nakamura featured on Olympics #TweetOftheDay"
       },
       {
          "description" : " Throughout my career, I was always happy when my opponents opted for sidelines in the Opening. I interpreted this as respect for my preparation. And there usually is a reason why a sideline isn't played that often. So why shouldn't I be happy? I only recently realized that some players are actually afraid of sidelines. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/simple-sidelines/\">Save Time and Energy with a Simple Approach to Sidelines</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
