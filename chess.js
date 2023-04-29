@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By playing the powerful 22.Rxe4! dxe4 23.Nxe4 in the diagram position, White gained a decisive attack, with magnificent checkmate patterns on the horizon. You can really let off steam here - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mating-parade",
+         "pubDate" : "Sat, 29 Apr 2023 09:00:00 +0100",
+         "title" : "Mating parade"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-14-live/",
+         "pubDate" : "Sat, 29 Apr 2023 07:10:18 +0000",
+         "title" : "Nepo - Ding 2023, game 14 LIVE"
+      },
+      {
+         "description" : "Svitlana is finally back, and brought us one of her games of the Canadian Women's Closed, which she won! In the example, she played against the Giuoco Piano with Black, and presents us plenty of opening ideas, plans, and strategies, on how to win against this opening with the Black pieces. You need to watch to the end because the last tactic which decided the game is brilliant!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-win-against-the-italian-game",
+         "pubDate" : "Sat, 29 Apr 2023 08:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to win against the Italian Game"
+      },
+      {
          "description" : "The Fizmat open is taking place from April 29th to April 30th at Almaty, Bukhar Zhyrau boulevard, organzied by the Kazakhstan chess federation. The time-control is 10 minutes for the entire game with a 2-second increment beginning from move 1. It a 10-Round-Swiss tournament with participation of Edgar Mamedov, Zarina Nurgaliyeva, Imangali Akhilbay, Dinmukhammed Tulendinov, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2354",
          "pubDate" : "Fri, 28 Apr 2023 14:13:31 +0000",
          "title" : "World Rapid Team Championship: Registration is open"
+      },
+      {
+         "description" : "The Salamanca, Cradle of Modern Chess is taking place from 26&#x2013;29 April 2023 in Salamanca, Spain. Players receive 40 minutes for the entire game, plus a 5-second increment starting from move one. It is an 8-player round-robin tournament with participation of Jaime Santos Latasa, Veselin Topalov, Kirill Alekseenko, Anna Ushenina, Gunay Mammadzada, Sabrina Vega Gutierrez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/salamanca-cradle-of-modern-chess-2023-live/",
+         "pubDate" : "Fri, 28 Apr 2023 11:23:00 +0000",
+         "title" : "Salamanca Cradle of Modern Chess 2023 - LIVE"
       },
       {
          "description" : "WR Masters 2023: The tournament winner, Levon Aronian, comments on two of his games. Plus analyses by Keymer, Duda and others. Gukesh and Praggnanandhaa each present one of their games in video! - European Individual Championship 2023: The winner Sarana comments on his groundbreaking game against Korobov, plus analyses by Shevchenko, Esipenko, Ponomariov and many others - \"Special\" on Vishy Anand: exclusive collection of 26 annotated games + contributions on strategy and endgame - French Gambit &aacute; la Carlsen: Sergey Grigoriants examines 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6!? - 0-0-0 against Bogo-Indian: Spyridon Kapnisis shows how White gets good play after 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.",
@@ -178,14 +210,6 @@ news_feed (
          "title" : "Magnus Carlsen Spearheads New Company, Launches Fantasy Chess App"
       },
       {
-         "description" : "The Pieniny is taking place from 28 April to 1 May 2023 in Lesnica, Slovakia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Lukas Bango, Marek Ihnat, Martin Zvarik, Juraj Lecky, Denis Nemsak, Matej Nemergut, Peter Ambrozi, Radoslav []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pieniny-2023-live/",
-         "pubDate" : "Thu, 27 Apr 2023 19:44:09 +0000",
-         "title" : "Pieniny 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros gives his take on Ian Nepomniachtchi's probable preparation for his ongoing 2023 World Chess Championship match against Ding Liren. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pniT0plAGN0.jpg?itok=dZ-515FQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -264,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-nepo-play-the-english",
          "pubDate" : "Thu, 27 Apr 2023 11:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Ding and Nepo play the English"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-13-live/",
-         "pubDate" : "Thu, 27 Apr 2023 09:59:36 +0000",
-         "title" : "Nepo - Ding 2023, game 13 LIVE"
       },
       {
          "description" : "The second quarterly meeting of the ECU Board was held in Rhodes, Greece, on April 21 and 22. The Municipality of Rhodes hosted the event under excellent conditions. ECU expresses its thanks and appreciation to the Mayor of Rhodes, Mr. Andonis Cambourakis. The opening of the meeting was attended by the FIDE and Greek Chess Federation Vice President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/\">Read More &#187;</a></span>",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 7"
       },
       {
-         "description" : "Vladimir Kramnik recently participated at the Armageddon Series organized by World Chess in Berlin. In a 35-minute interview conducted in the German capital, the former world champion talked about his new projects, his work with Indian talents and Alireza Firouzja, and his assessment of Magnus Carlsen's place in the history of the sport. His conclusion: \"He just changed chess. Chess is Magnus Carlsen.\" | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-interview-world-chess-2023",
-         "pubDate" : "Thu, 20 Apr 2023 03:20:00 +0100",
-         "title" : "Kramnik on life after chess, young talents and Magnus Carlsen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2349",
          "pubDate" : "Wed, 19 Apr 2023 21:56:43 +0000",
          "title" : "Double crown for France at the Mitropa Cup 2023"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #564, Merijn van Delft continues to follow the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn takes a close look at game 6, which Ding won. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-564-ding-liren-vs-ian-nepomniachtchi-game-6",
-         "pubDate" : "Wed, 19 Apr 2023 19:49:35 +0100",
-         "title" : "Game of the Week #564: Ding Liren vs Ian Nepomniachtchi, Game 6"
       },
       {
          "description" : "France's teams won gold medals in both the open and women's sections at Mitropa Chess Cup 2023, organised by the Croatian Chess Federation in Mali Lošinj. The closing ceremony featured the presence of some honourable guests: the Mayor of Mali Lošinj, Mrs Anna Kuči&#263, and the President of the European Chess Union, Mr Zurab Azmaiparashvili. The President of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-double-gold-at-the-2023-mitropa-cup/\">Read More &#187;</a></span>",
@@ -1832,22 +1832,6 @@ news_feed (
          "link" : "https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/",
          "pubDate" : "Sat, 08 Apr 2023 09:00:29 +0000",
          "title" : "Tiger Chess Openings Courses Now on Vimeo"
-      },
-      {
-         "description" : "Hikaru Nakamura has won the 2023 Chessable Masters after beating Fabiano Caruana in two matches on a wild final day that saw six black wins in seven games. Nakamura prevailed in Armageddon to take the title, $30,000, and a place in the Champions Chess Tour Playoffs in December. Meanwhile 18-year-old Nodirbek Abdusattorov beat Maxime Vachier-Lagrave to win Division II and book a Division I spot for the next Tour event.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-completes-comeback-to-win-chessable-masters",
-         "pubDate" : "Sat, 08 Apr 2023 07:11:13 +0000",
-         "title" : "Nakamura completes comeback to win Chessable Masters"
-      },
-      {
-         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th 20th April at Hotel Aurora in the well-known tourist destination in Croatia. The event is played in Open and Women's sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/",
-         "pubDate" : "Sat, 08 Apr 2023 06:09:59 +0000",
-         "title" : "Mitropa Cup 2023 starts in Mali Losinj, Croatia"
       }
    ]
 }
