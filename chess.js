@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs (and blitz if necessary) will decide the winner. | Follow the games live with expert commentary (including 2730 GM Gukesh on the ChessBase India stream), starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99891133.cms\" />Ding Liren became China's first world chess champion on Sunday after a rapid-play tie-break victory over Russia's Ian Nepomniachtchi in Kazakhstan. Ding, 30, takes over as winner of the World Chess Championship from Norway's Magnus Carlsen, who chose not to defend his title after a 10-year reign.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ding-liren-becomes-chinas-first-world-chess-champion/articleshow/99891133.cms",
+         "pubDate" : "Sun, 30 Apr 2023 14:51:55 +0000",
+         "title" : "Ding Liren becomes China's first world chess champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2365",
+         "pubDate" : "Sun, 30 Apr 2023 14:49:06 +0000",
+         "title" : "Ding Liren makes history, becoming World Champion"
+      },
+      {
+         "description" : "\"Self-pinning for immortality - congrats, Ding!!\" said Magnus Carlsen as Ding Liren took over his World Championship title. Ding found one last chance to play for a win in the final rapid tiebreak game, just when everyone was sure we were heading to blitz. It was the end of an incredible story for Ding, who never led until Ian Nepomniachtchi resigned in the final moment of the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-becomes-the-17th-world-chess-champion",
+         "pubDate" : "Sun, 30 Apr 2023 14:02:38 +0000",
+         "title" : "Ding Liren becomes the 17th World Chess Champion"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 123rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-122-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 30 Apr 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 123: Chess history in a nutshell (5)"
+      },
+      {
+         "description" : "Ding Liren is the 2023 World Chess Champion. Ding Liren ends a 10 years reign by Magnus Carlsen, after an exciting World Chess Championship match with Ian Nepomniachtchi that concluded with a tiebreak. Congratulations Ding Liren!Developing story , stay tuned for updates Replay: Nepo &#x2013; Ding game 1 / Ding &#x2013; Nepo game 2 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-is-world-chess-champion-2023/",
+         "pubDate" : "Sun, 30 Apr 2023 13:22:07 +0000",
+         "title" : "Ding Liren is World Chess Champion 2023!"
+      },
+      {
+         "description" : "GM Ding Liren is the new world champion after beating GM Ian Nepomniachtchi in the final rapid tiebreak game of the 2023 FIDE World Championship. Following a 7-7 tie in a&#38;nbsp; thrilling 14-game classical match, it all came down to the final rapid...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-tiebreak-ding-liren",
+         "pubDate" : "Sun, 30 Apr 2023 06:20:00 -0700",
+         "title" : "Flash Report: Ding Liren Wins 2023 FIDE World Championship In Rapid Tiebreak"
+      },
+      {
+         "description" : " The headline says it all. More thoughts to come later ... ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/that-was-all-very-silly.html",
+         "pubDate" : "Sun, 30 Apr 2023 13:15:00 +0000",
+         "title" : "That was all very silly"
+      },
+      {
+         "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Sun, 30 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Playoff - Live!"
+         "title" : "World Championship, Playoff - Ding Liren takes the crown!"
       },
       {
          "description" : "The Calculation Training series continues with two volumes explaining the main tactical motifs of our game. Mastering these tactical motifs is essential to deepen your understanding of the game and become a better player.",
@@ -288,14 +344,6 @@ news_feed (
          "link" : "https://www.chessdom.com/10th-cherry-blossom-classic-open-participants/",
          "pubDate" : "Fri, 28 Apr 2023 02:23:14 +0000",
          "title" : "10th Cherry Blossom Classic Open - Participants"
-      },
-      {
-         "description" : "The 5. Bamberg Open A will take place from 26-30 July 2023 in Bamberg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It will be 9-round Swiss system tournament with participation of Felix Levin, Tobias Kolb, Christian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/5-bamberg-open-a-participants/",
-         "pubDate" : "Fri, 28 Apr 2023 01:13:31 +0000",
-         "title" : "5. Bamberg Open A - Participants"
       },
       {
          "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Photo: FIDE / Anna Shtourman",
@@ -1066,14 +1114,6 @@ news_feed (
          "title" : "Polish Championship: Bartosz So&#263ko and Michalina Rudzińska win titles"
       },
       {
-         "description" : "In Chess, making a mistake in the opening can instantly cost you the game or lead to a long-term disadvantage. Learning from mistakes and avoiding common pitfalls is crucial to improving your game. In his first Fritztrainer, former FIDE World Champion Ruslan Ponomariov shares basic patterns and universal themes to help beginners, amateurs, coaches, and professionals navigate the complexities of Chess openings and strengthen their skills.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ruslan-ponomariov-typical-opening-mistakes",
-         "pubDate" : "Fri, 21 Apr 2023 11:45:00 +0100",
-         "title" : "Ruslan Ponomariov: Typical opening mistakes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1738,14 +1778,6 @@ news_feed (
          "title" : "Nepomniachtchi defeats Ding in the second game of the World Championship match"
       },
       {
-         "description" : "A mysterious participant in the women&#39;s section of the Kenya Open Chess Championship in Nairobi, Kenya was exposed as a male impostor and removed from the tournament. The player, whose identity was not made public, admitted to the cheating and sai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cheating-kenya-open-women-championship-impostor",
-         "pubDate" : "Mon, 10 Apr 2023 07:17:00 -0700",
-         "title" : "3-Year Ban For Kenyan Player Who Pretended To Be A Woman To Win Lucrative Prize"
-      },
-      {
          "description" : " GM Hrant Melkumyan has won his third O2C Doeberl Cup with a dominant display in this years event. Having previously finished 1st in 2019 and 2022, his 8/9 in this years event saw him finish half a point ahead of GM Temur Kuybokarov. He secured first place with a win over IM Ari Dale, finishing with 7 wins and 2 draws (against Kuybokarov and IM Rishi Sardana). Kuybokarov defeated FM Matthew Clarke to finish outright 2nd on 7.5. Tied for 3rd place were IM James Morris, IM Rishi Sardana, GM Daniel Fernandez and FM Fred Litchfield, on 6.5. Three of the top 6 (Melkumyan, Sardana and Litchfield) are Canberra residents, which capped a fantastic event for the ACT chess community. The Major saw a 4 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1808,22 +1840,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/2023-nepo-ding-opening-press-conference.html",
          "pubDate" : "Sun, 09 Apr 2023 15:44:00 +0000",
          "title" : "2023 Nepo - Ding, Opening Press Conference"
-      },
-      {
-         "description" : " One of my new pupils is a very bright but inexperienced 11 year old, who's been playing his father, a novice himself, at home for a couple of years, but now wants to take the game more seriously. Once I gave him some idea of what was really happening in a game of chess he <a href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\">Knight Against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/knight-against-rooks-pawn-2/",
-         "pubDate" : "Sun, 09 Apr 2023 15:00:45 +0000",
-         "title" : "Knight Against Rook's Pawn"
-      },
-      {
-         "description" : "Ding Liren confessed he wondered if \"there was something wrong with my mind\" as he came under heavy pressure from Ian Nepomniachtchi in Game 1 of the FIDE World Championship match in Astana, Kazakhstan. Ian sprung an opening surprise, and though Ding reacted well at first, he drifted into trouble. Nepo looked on the brink of a possibly decisive advantage, but then stumbled, with Ding finding all the correct moves in time trouble to make a 49-move draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-in-game-1",
-         "pubDate" : "Sun, 09 Apr 2023 13:57:41 +0000",
-         "title" : "Ding Liren survives scare in Game 1"
       }
    ]
 }
