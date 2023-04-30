@@ -298,7 +298,7 @@ news_feed (
          "title" : "World Champion Carlsen On 'Shocking' Ding Choice, Risky Play, WC Format, & More"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level Match Score: 6&frac12;-6&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 13Thursday, 27 April 2023 After a titanic struggle in Game 12, this game had tremendous tension, but the penultimate Game 13 ended rather peacefully. It was The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/",
