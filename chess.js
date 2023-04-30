@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XXX Russian Chess Championship among men's teams &#8220;Premier League&#8221; will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league/",
+         "pubDate" : "Sun, 30 Apr 2023 01:55:48 +0000",
+         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\""
+      },
+      {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2023-g13",
          "pubDate" : "Fri, 28 Apr 2023 00:10:00 +0100",
          "title" : "World Championship Game 13: Tense draw keeps match tied, one game to go"
-      },
-      {
-         "description" : "The team of Serbia leads 2023 IBCA European Team Championship for the Blind and Visually Impaired after 7 rounds. Immediately after them are the teams of Poland, Ukraine and Bulgaria. The championship is taking place from 20-29 April 2023 in Genoa, Italy. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbia-leads-2023-ibca-european-team-championship-for-the-blind-and-visually-impaired-after-7-rounds/",
-         "pubDate" : "Thu, 27 Apr 2023 22:20:14 +0000",
-         "title" : "Serbia leads 2023 IBCA European Team Championship for the Blind and Visually Impaired after 7 rounds"
       },
       {
          "description" : "GM Magnus Carlsen won&#39;t be the world champion starting next week, but he&#39;s still looking for new ways to grow the game of chess. On Thursday, Norway Chess announced their new joint venture called Pawn, together with Iterate, Norway&#39;s premier ventu...",
