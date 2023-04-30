@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-playoff",
+         "pubDate" : "Sun, 30 Apr 2023 19:00:00 +0100",
+         "title" : "Ding Liren is the new world chess champion!"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 14: Nepo misses chance, game fizzles tiebreaks ahead Match Score: Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 14Saturday, 29 April 2023 The match between Ian Nepomniachtchi and Ding Liren came down to Game 14 of the classical portion. Would the champion be The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/30/2023-world-chess-championship-game-14/\">2023 World Chess Championship: Game 14</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/30/2023-world-chess-championship-game-14/",
+         "pubDate" : "Sun, 30 Apr 2023 17:26:55 +0000",
+         "title" : "2023 World Chess Championship: Game 14"
+      },
+      {
+         "description" : " This is another post in my occasional series on pawn endings: here I was black against a lower rated opponent in an online rapid game. It was my move in this position. I should have played 35.. g5! 36. fxg5 Bxd2! 37. Kxd2 hxg5 38. f4 gxf4 39. gxf4 Ke4 here, with an obvious win, <a href=\"https://chessimprover.com/could-do-better/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Could Do Better\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/could-do-better/\">Could Do Better</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/could-do-better/",
+         "pubDate" : "Sun, 30 Apr 2023 15:53:25 +0000",
+         "title" : "Could Do Better"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99891133.cms\" />Ding Liren became China's first world chess champion on Sunday after a rapid-play tie-break victory over Russia's Ian Nepomniachtchi in Kazakhstan. Ding, 30, takes over as winner of the World Chess Championship from Norway's Magnus Carlsen, who chose not to defend his title after a 10-year reign.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,12 +66,12 @@ news_feed (
          "title" : "Ding Liren is World Chess Champion 2023!"
       },
       {
-         "description" : "GM Ding Liren is the new world champion after beating GM Ian Nepomniachtchi in the final rapid tiebreak game of the 2023 FIDE World Championship. Following a 7-7 tie in a&#38;nbsp; thrilling 14-game classical match, it all came down to the final rapid...",
+         "description" : "GM Ding Liren is the new world champion after beating GM Ian Nepomniachtchi in the final rapid tiebreak game of the 2023 FIDE World Championship. Following a 7-7 tie in a thrilling 14-game classical match, it all came down to the final rapid game,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-tiebreak-ding-liren",
          "pubDate" : "Sun, 30 Apr 2023 06:20:00 -0700",
-         "title" : "Flash Report: Ding Liren Wins 2023 FIDE World Championship In Rapid Tiebreak"
+         "title" : "Ding Liren Wins 2023 FIDE World Championship In Rapid Tiebreaks"
       },
       {
          "description" : " The headline says it all. More thoughts to come later ... ",
@@ -58,20 +82,28 @@ news_feed (
          "title" : "That was all very silly"
       },
       {
-         "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sun, 30 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Playoff - Ding Liren takes the crown!"
+         "description" : " Ding Liren won the fourth and final rapid tie-break game against Ian Nepomniachtchi to become the new World Chess Champion. It's been an astonishing run of circumstance that's led to Ding becoming Champion including today's hard fought rapid tie-break games. Game one today was a strange d-pawn opening where white grabbed the c5 pawn, Nepomniachtchi went for a counter attack on the king with 22...Rh5 setting a nasty trap, 23.Qc2 was better for white, 23.Rb1 Ne5! left white needing to be accurate to hold which he did. Game two was a Ruy Lopez where Nepomniachtchi stood better. 21.exd6 (21.Bg3!) allowed Ding back in the game and equality. Nepomniachtchi did continue to set problems until near ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-liren-is-the-new-world-chess-champion",
+         "pubDate" : "Sun, 30 Apr 2023 16:36:00 +0400",
+         "title" : "Ding Liren is the new World Chess Champion - TB"
       },
       {
          "description" : "The Calculation Training series continues with two volumes explaining the main tactical motifs of our game. Mastering these tactical motifs is essential to deepen your understanding of the game and become a better player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-for-1000-1400-1400-1600-players",
-         "pubDate" : "Sun, 30 Apr 2023 09:00:00 +0100",
+         "pubDate" : "Sun, 30 Apr 2023 11:05:00 +0100",
          "title" : "Robert Ris: Calculation Training for 1000-1400 & 1400-1600 players"
+      },
+      {
+         "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sun, 30 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Playoff - Ding Liren takes the crown!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99882937.cms\" />The World Chess Championship will be decided in a rapid-play tiebreak on Sunday, after Russia's Ian Nepomniachtchi and China's Ding Liren remained deadlocked following 14 games played under classical rules.",
@@ -1034,14 +1066,6 @@ news_feed (
          "title" : "A Foundation for Beginners Ninety"
       },
       {
-         "description" : "Grandmaster Dorian Rogozenco, is a renowned chess trainer and expert on opening theory. In this interview, GM Rogozenco shares his thoughts on the latest opening trends in ChessBase's Opening Encyclopaedia 2023. Prepare to improve your opening repertoire and stay ahead of your competition with the valuable insights.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-trends-in-2023",
-         "pubDate" : "Fri, 21 Apr 2023 18:00:00 +0100",
-         "title" : "Opening Trends in 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1416,14 +1440,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-world-championship-match.html",
          "pubDate" : "Mon, 17 Apr 2023 13:32:00 +0000",
          "title" : "2023 World Championship Match"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 6: Ding equalizes! Another decisive result 4/6 so far Match Score: 3-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 6Sunday, 16 April 2023 Ding powers back to equalize the match In a completely masterful game rich with ideas, Ding Liren trotted out the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/\">2023 World Chess Championship: Game 6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/",
-         "pubDate" : "Mon, 17 Apr 2023 13:05:51 +0000",
-         "title" : "2023 World Chess Championship: Game 6"
       },
       {
          "description" : "National Arbiter Seminar Sivakasi Tamil Nadu Certificates are out to download Link : https://aicf.online/Arbiter-Sivakasi.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -1824,22 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2357",
          "pubDate" : "Sun, 09 Apr 2023 21:52:45 +0000",
          "title" : "Bernardo Roselli wins 94th Uruguayan Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2329",
-         "pubDate" : "Sun, 09 Apr 2023 15:56:34 +0000",
-         "title" : "World Chess Championship match: The first game ends in a draw"
-      },
-      {
-         "description" : "Today is the first game of the <A HREF=\"https://www.mark-weeks.com/chess/c1c2$wix.htm\">2023 Nepomniachtchi - Ding Liren; Astana (Kazakhstan)</A>. This video is from the earlier press conference. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/4C9tL1XijM0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe> <BR> <B>FIDE World Championship Match - Press Conference</B> (44:26) &#149; '[Published on] Apr 8, 2023' <P> There is almost no description for the video, so I'll have to fall back on the comments. A comment translated from the Russian langu",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/2023-nepo-ding-opening-press-conference.html",
-         "pubDate" : "Sun, 09 Apr 2023 15:44:00 +0000",
-         "title" : "2023 Nepo - Ding, Opening Press Conference"
       }
    ]
 }
