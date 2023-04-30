@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Calculation Training series continues with two volumes explaining the main tactical motifs of our game. Mastering these tactical motifs is essential to deepen your understanding of the game and become a better player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-for-1000-1400-1400-1600-players",
+         "pubDate" : "Sun, 30 Apr 2023 09:00:00 +0100",
+         "title" : "Robert Ris: Calculation Training for 1000-1400 & 1400-1600 players"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99882937.cms\" />The World Chess Championship will be decided in a rapid-play tiebreak on Sunday, after Russia's Ian Nepomniachtchi and China's Ding Liren remained deadlocked following 14 games played under classical rules.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-title-heads-into-rapid-play-tiebreak/articleshow/99882937.cms",
+         "pubDate" : "Sun, 30 Apr 2023 05:55:50 +0000",
+         "title" : "World Chess title heads into rapid-play tiebreak"
+      },
+      {
+         "description" : "The second edition of the Chessable Sunway Formentera Open took place on 18-28 April 2023 in Spain. Vladimir Fedoseev was one of four players who finished on a 7/10 score, leading the standings. The Russian GM won the rapid playoff to claim the tournament's title. Karthik Venkataraman and Leon Luke Mendonca finished in second and third place, respectively. | Photo: Sunway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vladimir-fedoseev-wins-formentera-open-2023",
+         "pubDate" : "Sun, 30 Apr 2023 06:40:00 +0100",
+         "title" : "Vladimir Fedoseev first at Chessable Sunway Formentera Open"
+      },
+      {
          "description" : "The XXX Russian Chess Championship among men's teams &#8220;Premier League&#8221; will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1048,22 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/erigaisi-has-the-best-start-at-the-satty-zhuldyz-festival",
          "pubDate" : "Fri, 21 Apr 2023 11:40:20 +0100",
          "title" : "Erigaisi has the best start at the Satty Zhuldyz Festival"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris had an in-depth look at the \"incredible\" 8th game of the World Championship match. Ding opted for the Saemisch Variation (4.e3 & 5.a3) against the Nimzo-Indian and came well-prepared with the amazing concept of 9.Ra2!?, which only had been seen a few times before. This led to an exciting game, in which Ding, however, missed several chances to win. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening-2",
-         "pubDate" : "Fri, 21 Apr 2023 09:30:21 +0100",
-         "title" : "Robert Ris' Fast and Furious: Ding vs Nepomniachtchi: Attacking the Nimzo!"
-      },
-      {
-         "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-212",
-         "pubDate" : "Thu, 20 Apr 2023 20:26:35 +0100",
-         "title" : "New: CBM Extra #212"
       },
       {
          "description" : "",
