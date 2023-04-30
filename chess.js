@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tournament will take place May 4-10 this year, at the Elite Plaza Hotel in central Malmo. Eight players will play seven rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The home team is represented by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2023/",
+         "pubDate" : "Sun, 30 Apr 2023 21:49:39 +0000",
+         "title" : "TePe Sigeman & Co Chess Tournament 2023"
+      },
+      {
+         "description" : "The 2023 IBCA European Team Championship for the Blind and Visually Impaired took place in Genova, Italy, on April 19-30, 2023. The competition was organized by the IBCA and the Italian Amateur Blind Chess Association (A.S.C.I.d.). The 14 national teams represented Braille federations from all parts of Europe. Players used specialised Braille chess boards, talking []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/team-serbia-won-ibca-european-team-championship-for-the-blind-and-visually-impaired/",
+         "pubDate" : "Sun, 30 Apr 2023 21:41:06 +0000",
+         "title" : "Team Serbia won IBCA European Team Championship for the Blind and Visually Impaired"
+      },
+      {
+         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-dutch-youth-championship-live/",
+         "pubDate" : "Sun, 30 Apr 2023 21:31:05 +0000",
+         "title" : "Girls U14 Dutch Youth Championship - LIVE"
+      },
+      {
+         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-dutch-youth-championship-live/",
+         "pubDate" : "Sun, 30 Apr 2023 21:25:17 +0000",
+         "title" : "Girls U16 Dutch Youth Championship - LIVE"
+      },
+      {
+         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u18-dutch-youth-championship-live/",
+         "pubDate" : "Sun, 30 Apr 2023 21:21:22 +0000",
+         "title" : "Girls U18 Dutch Youth Championship - LIVE"
+      },
+      {
+         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-dutch-youth-championship-live/",
+         "pubDate" : "Sun, 30 Apr 2023 21:16:40 +0000",
+         "title" : "U14 Dutch Youth Championship - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2367",
+         "pubDate" : "Sun, 30 Apr 2023 21:12:13 +0000",
+         "title" : "Serbia wins 2023 IBCA European Team Championship"
+      },
+      {
+         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-dutch-youth-championship-live/",
+         "pubDate" : "Sun, 30 Apr 2023 21:11:13 +0000",
+         "title" : "U16 Dutch Youth Championship - LIVE"
+      },
+      {
+         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u18-dutch-youth-championship-live/",
+         "pubDate" : "Sun, 30 Apr 2023 21:05:53 +0000",
+         "title" : "U18 Dutch Youth Championship - LIVE"
+      },
+      {
+         "description" : "The Festival Baku Open 2023 dedicated to the 100th anniversary of the National Leader Heydar Aliyev is consist of 3 tournaments (A, B and C). The 9-round Swiss open is taking place in the Crystal Place from May 3 to 13. The time control is 90 minutes for 40 moves, then 30 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/baku-open-2023-live/",
+         "pubDate" : "Sun, 30 Apr 2023 20:45:11 +0000",
+         "title" : "Baku Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Festival Baku Open 2023 dedicated to the 100th anniversary of the National Leader Heydar Aliyev is consist of 3 tournaments (A, B and C). The 9-round Swiss open is taking place in the Crystal Place from May 3 to 13. The time control is 90 minutes for 40 moves, then 30 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/baku-open-2023-participants/",
+         "pubDate" : "Sun, 30 Apr 2023 20:42:52 +0000",
+         "title" : "Hans Moke Niemann is the top rated players in Baku Open 2023"
+      },
+      {
+         "description" : "Ding Liren became the new World Chess Champion after defeating Ian Nepomniachtchi in the tiebreak match. It was Ian Nepomniachtchi who was having the lead during the part of the 14-game match with a classical time control, but Ding Liren was managing to equalize the score. Fighting for a victory in the last round Ding Liren gave it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chinas-ding-liren-claims-the-world-chess-championship-title/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/chinas-ding-liren-claims-the-world-chess-championship-title/",
+         "pubDate" : "Sun, 30 Apr 2023 20:07:43 +0000",
+         "title" : "China's Ding Liren claims the World Chess Championship title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2366",
+         "pubDate" : "Sun, 30 Apr 2023 20:01:54 +0000",
+         "title" : "Qualification Tournament for the FIDE - ISF U15 World School Teams cancelled"
+      },
+      {
          "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-122-chess-history-in-a-nutshell-2",
          "pubDate" : "Sun, 30 Apr 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 123: Chess history in a nutshell (5)"
-      },
-      {
-         "description" : "Ding Liren is the 2023 World Chess Champion. Ding Liren ends a 10 years reign by Magnus Carlsen, after an exciting World Chess Championship match with Ian Nepomniachtchi that concluded with a tiebreak. Congratulations Ding Liren!Developing story , stay tuned for updates Replay: Nepo &#x2013; Ding game 1 / Ding &#x2013; Nepo game 2 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-is-world-chess-champion-2023/",
-         "pubDate" : "Sun, 30 Apr 2023 13:22:07 +0000",
-         "title" : "Ding Liren is World Chess Champion 2023!"
       },
       {
          "description" : "GM Ding Liren is the new world champion after beating GM Ian Nepomniachtchi in the final rapid tiebreak game of the 2023 FIDE World Championship. Following a 7-7 tie in a thrilling 14-game classical match, it all came down to the final rapid game,...",
@@ -122,36 +218,12 @@ news_feed (
          "title" : "Vladimir Fedoseev first at Chessable Sunway Formentera Open"
       },
       {
-         "description" : "The XXX Russian Chess Championship among men's teams &#8220;Premier League&#8221; will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league/",
-         "pubDate" : "Sun, 30 Apr 2023 01:55:48 +0000",
-         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\""
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-tiebreaks-live/",
-         "pubDate" : "Sat, 29 Apr 2023 22:48:36 +0000",
-         "title" : "Nepo - Ding 2023, tiebreaks LIVE"
-      },
-      {
          "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs on Sunday will decide the winner. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-g14",
          "pubDate" : "Sat, 29 Apr 2023 23:05:00 +0100",
          "title" : "World Championship Game 14: On to the rapid playoff as Ding escapes"
-      },
-      {
-         "description" : "More: How to start your chess business &#x2013; meet CEO of Outpostchess.com, a successful start-up story To monetize your chess career, it's crucial to be visible and engaged in the chess community, and this platform provides the perfect opportunity for you to achieve that. Where is the opportunity going to come from that changes your []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/create-a-profile-on-outpost-chess/",
-         "pubDate" : "Sat, 29 Apr 2023 21:32:35 +0000",
-         "title" : "Create a Profile on Outpost Chess"
       },
       {
          "description" : "",
@@ -226,44 +298,12 @@ news_feed (
          "title" : "Mating parade"
       },
       {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-14-live/",
-         "pubDate" : "Sat, 29 Apr 2023 07:10:18 +0000",
-         "title" : "Nepo - Ding 2023, game 14 LIVE"
-      },
-      {
          "description" : "Svitlana is finally back, and brought us one of her games of the Canadian Women's Closed, which she won! In the example, she played against the Giuoco Piano with Black, and presents us plenty of opening ideas, plans, and strategies, on how to win against this opening with the Black pieces. You need to watch to the end because the last tactic which decided the game is brilliant!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-win-against-the-italian-game",
          "pubDate" : "Sat, 29 Apr 2023 08:00:00 +0100",
          "title" : "Svitlana's Smart Moves - How to win against the Italian Game"
-      },
-      {
-         "description" : "The Fizmat open is taking place from April 29th to April 30th at Almaty, Bukhar Zhyrau boulevard, organzied by the Kazakhstan chess federation. The time-control is 10 minutes for the entire game with a 2-second increment beginning from move 1. It a 10-Round-Swiss tournament with participation of Edgar Mamedov, Zarina Nurgaliyeva, Imangali Akhilbay, Dinmukhammed Tulendinov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fizmat-chess-open-2023-live/",
-         "pubDate" : "Sat, 29 Apr 2023 02:34:11 +0000",
-         "title" : "Fizmat Chess Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Fizmat open is taking place from April 29th to April 30th at Almaty, Bukhar Zhyrau boulevard, organzied by the Kazakhstan chess federation. The time-control is 10 minutes for the entire game with a 2-second increment beginning from move 1. It a 10-Round-Swiss tournament with participation of Edgar Mamedov, Zarina Nurgaliyeva, Imangali Akhilbay, Dinmukhammed Tulendinov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fizmat-chess-open-2023-participants/",
-         "pubDate" : "Sat, 29 Apr 2023 02:32:30 +0000",
-         "title" : "Fizmat Chess Open 2023 - Participants"
-      },
-      {
-         "description" : "The XVII Torneig Internacional Actiu Vila de Canovelles 2023 will take place on 28 April 2023 in Barcelona, Spain. The time control is 15 minutes plus 5 seconds increment, starting from move one. It is a 9-round Swiss system tournament with participation of Tomas Sosa, Fernando Valenzuela Gomez, Jonathan Cruz, Olexiy Bilych,Gerard Ayats Llobera, Luis []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xvii-torneig-internacional-actiu-vila-de-canovelles-2023/",
-         "pubDate" : "Sat, 29 Apr 2023 02:17:46 +0000",
-         "title" : "XVII Torneig Internacional Actiu Vila de Canovelles 2023"
       },
       {
          "description" : "A new world chess champion is about to be crowned. Game 14 of the match facing Ian Nepomniachtchi and Ding Liren will be played on Saturday. The score is tied, so a draw will lead to a rapid playoff on Sunday. As a preview to what is likely to become a memorable weekend for chess fans, Robert Ris recaps similar deciding encounters, focusing on the 2010 match in Sofia - the score was also tied, and defending champion Vishy Anand beat Veselin Topalov with the black pieces to keep the title!",
@@ -322,14 +362,6 @@ news_feed (
          "title" : "World Rapid Team Championship: Registration is open"
       },
       {
-         "description" : "The Salamanca, Cradle of Modern Chess is taking place from 26&#x2013;29 April 2023 in Salamanca, Spain. Players receive 40 minutes for the entire game, plus a 5-second increment starting from move one. It is an 8-player round-robin tournament with participation of Jaime Santos Latasa, Veselin Topalov, Kirill Alekseenko, Anna Ushenina, Gunay Mammadzada, Sabrina Vega Gutierrez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/salamanca-cradle-of-modern-chess-2023-live/",
-         "pubDate" : "Fri, 28 Apr 2023 11:23:00 +0000",
-         "title" : "Salamanca Cradle of Modern Chess 2023 - LIVE"
-      },
-      {
          "description" : "WR Masters 2023: The tournament winner, Levon Aronian, comments on two of his games. Plus analyses by Keymer, Duda and others. Gukesh and Praggnanandhaa each present one of their games in video! - European Individual Championship 2023: The winner Sarana comments on his groundbreaking game against Korobov, plus analyses by Shevchenko, Esipenko, Ponomariov and many others - \"Special\" on Vishy Anand: exclusive collection of 26 annotated games + contributions on strategy and endgame - French Gambit &aacute; la Carlsen: Sergey Grigoriants examines 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6!? - 0-0-0 against Bogo-Indian: Spyridon Kapnisis shows how White gets good play after 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +400,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/",
          "pubDate" : "Fri, 28 Apr 2023 03:29:06 +0000",
          "title" : "2023 World Chess Championship: Game 12"
-      },
-      {
-         "description" : "The 10th Cherry Blossom Classic will take place from 24-29 May 2023 in Dulles, Virginia, USA. The tournament has prize fund of 12 000 USD 4000 for the winner. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/10th-cherry-blossom-classic-open-participants/",
-         "pubDate" : "Fri, 28 Apr 2023 02:23:14 +0000",
-         "title" : "10th Cherry Blossom Classic Open - Participants"
       },
       {
          "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Photo: FIDE / Anna Shtourman",
@@ -1824,22 +1848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
          "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
          "title" : "D Gukesh wins title at World Chess Armageddon event"
-      },
-      {
-         "description" : " The 2023 O2C Doeberl Cup has reached its final stages, with GM Hrant Melkumyan holding a half point lead over GM Temur Kuybakarov. Melkumyan and Kuybakorov drew their round 7 game, before Melkumyan defeated IM Brodie McClymont in the days second game. Kuybakrov only drew with IM James Morris in round 8, to fall half a point behind Melkumyan. On 6 points are Morris, IM Rishi Sardana, FM Matthew Clarke, and IM Ari Dale. Melkumyan plays Dale, while Kuybokarov is up against Clarke, Rounding out the top pairings are Sardana against Morris on board 3, with GM Daniel Fernandez playing McClymont of board 4. In the Major (Under 2100), Khimaer Baneshi and Randheer Thogata are tied on 5/6, and play fo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-4.html",
-         "pubDate" : "Sun, 09 Apr 2023 22:01:00 +0000",
-         "title" : "2023 O2C Doeberl Cup - Day 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2357",
-         "pubDate" : "Sun, 09 Apr 2023 21:52:45 +0000",
-         "title" : "Bernardo Roselli wins 94th Uruguayan Championship"
       }
    ]
 }
