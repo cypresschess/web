@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs (and blitz if necessary) will decide the winner. | Follow the games live with expert commentary (including 2730 GM Gukesh on the ChessBase India stream), starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sun, 30 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Playoff - Live!"
+      },
+      {
          "description" : "The Calculation Training series continues with two volumes explaining the main tactical motifs of our game. Mastering these tactical motifs is essential to deepen your understanding of the game and become a better player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1066,14 +1074,6 @@ news_feed (
          "title" : "Ruslan Ponomariov: Typical opening mistakes"
       },
       {
-         "description" : "The Satty Zhuldyz Chess Festival is one of the many side events of the World Championship match between Ian Nepomniachtchi and Ding Liren in Astana. Twelve players, among them former World Champion Vladimir Kramnik, were invited to play a rapid and blitz tournament. With a score of 3.5/4 Arjun Erigaisi had the best start in the strong and attractive field. | Photo: Vincent Keymer during the drawing of lots | Photos: Maria Emelianova and Damir Kuzhumov for Satty Shuldyz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/erigaisi-has-the-best-start-at-the-satty-zhuldyz-festival",
-         "pubDate" : "Fri, 21 Apr 2023 11:40:20 +0100",
-         "title" : "Erigaisi has the best start at the Satty Zhuldyz Festival"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,22 +1824,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-in-game-1",
          "pubDate" : "Sun, 09 Apr 2023 13:57:41 +0000",
          "title" : "Ding Liren survives scare in Game 1"
-      },
-      {
-         "description" : " The FIDE World Chess Championship between Ian Nepomniachtchi and Ding Liren got underway in Astana, Kazakhstan on Easter Sunday. Nepomniachtchi with white played the rare DERLD which is the Delayed Exchange of the Ruy Lopez Deferred. The variation isn't that dangerous theoretically but has its points against the unprepared. 7...Bg4 is a known equaliser but it involves a piece sacrifice, not something you want to do against a well prepared opponent, 7....Nd7 was also fine but Ding was clearly pretty much on his own. 11...Bg4 instead of the known 11...Ne6 was not liked by Anand as it introduced problems for black. The computers continued to say black was fine but there were complicated variat",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-gets-chances-in-the-drawn-first-game-of-the-world-chess-championship-2023",
-         "pubDate" : "Sun, 9 Apr 2023 14:35:00 +0400",
-         "title" : "Nepomniachtchi gets chances in the drawn first game of the World Chess Championship 2023 - 1"
-      },
-      {
-         "description" : "Recently a photograph re-emerged on Twitter, capturing all of the world champions and grandmasters who competed in the celebrated 1970 Match of the Century, which pitted the mighty USSR team against the Rest of the World. The USSR won the contest by a single point margin, largely due to the excellent score of Paul Keres, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
-         "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
-         "title" : "Chess champions I have played"
       }
    ]
 }
