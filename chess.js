@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The following survey lists all chess players who have reached a top five or top ten status at least once in their career, ranked by their highest position, then in chronological order. Of course, the start of the FIDE Elo list and the current date are arbitrary, but the chess world has now had an established rating and ranking publication for more than fifty consecutive years. How many different TOP FIVE players would you expect? Well, there are only 55 luminaries in the last 55 years or so! Check it out. | Photo: Magnus Carlsen and Garry Kasparov | Photo: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-glorious-55-top-five-players-since-the-introduction-of-the-elo-list",
+         "pubDate" : "Mon, 01 May 2023 13:00:00 +0100",
+         "title" : "The Glorious 55 - Top five players since the introduction of the Elo list"
+      },
+      {
+         "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/36333835/ding-liren-world-chess-championship-improbable-challenger-world-champion-ian-nepomniachtchi?device=featurephone",
+         "pubDate" : "Mon, 1 May 2023 06:20:37 -0500",
+         "title" : "Ding Liren: From improbable challenger to world champion"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess team joins the chess world in congratulating Ding Liren on becoming the 17th World Chess Champion. It was a pleasure to be a part of your chess journey! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-05-01_12-21-29.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2023-05-01_12-21-26.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/ding-liren-is-world-champion/",
+         "pubDate" : "Mon, 01 May 2023 09:24:47 +0000",
+         "title" : "Ding Liren Is World Champion"
+      },
+      {
+         "description" : "In endgames, it is usually a good idea to activate the king. However, the king also needs to be safe. In the diagram position it is Black to move. What should he do to make his king safe and to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finding-a-safe-place",
+         "pubDate" : "Mon, 01 May 2023 09:00:00 +0100",
+         "title" : "Finding a safe place"
+      },
+      {
          "description" : "33rd National Under-17 Open &#38; Girls Live Game Link Open : https://view.livechesscloud.com/#4708d594-4463-456d-a2e2-b89675c50d3c Girls : https://view.livechesscloud.com/#68a69455-3252-4032-8bf8-e14c0f77e007",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -119,7 +151,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2366",
          "pubDate" : "Sun, 30 Apr 2023 20:01:54 +0000",
-         "title" : "Qualification Tournament for the FIDE - ISF U15 World School Teams cancelled"
+         "title" : "U15 and U18 Qualification Tournaments for the FIDE - ISF World School Teams cancelled"
       },
       {
          "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Photo: FIDE / Stev Bonhage",
@@ -714,20 +746,20 @@ news_feed (
          "title" : "Junior Hybrid Friendly"
       },
       {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-4",
-         "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
-         "title" : "Jan Markos: What you need to know about the Queen (3)"
-      },
-      {
          "description" : "The sixth edition of the Salamanca Chess Festival is taking place on April 25-29. The Masters Tournament, including Veselin Topalov, Sara Khadem and Vasyl Ivanchuk, kicks off on Wednesday at 17.30. An eight-player field (four men and four women) will fight over the board in rapid chess (40 minutes plus 5-second increments). The festival includes a number of educational and cultural side events. | Pictured: The playing hall during the fifth edition (2021)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/salamanca-festival-2023-preview",
          "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
          "title" : "Sixth edition of the Salamanca Festival with Topalov, Khadem and Ivanchuk"
+      },
+      {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-4",
+         "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
+         "title" : "Jan Markos: What you need to know about the Queen (3)"
       },
       {
          "description" : "",
@@ -1080,22 +1112,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/",
          "pubDate" : "Sat, 22 Apr 2023 04:28:13 +0000",
          "title" : "2023 World Chess Championship: Game 8"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King examines the London System, inspired by Ding Liren's masterful strategic win in game 6 of the World Championship match in Astana. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-masterful-strategy-london-system",
-         "pubDate" : "Fri, 21 Apr 2023 20:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Masterful strategy in the London"
-      },
-      {
-         "description" : "Going for a mainstream system in elite-GM practice, Ding Liren managed to hold a draw with the black pieces in game 9 of the World Championship match. Ian Nepomniachtchi did get an edge, but could not break through Ding's defences. The Russian GM thus kept his 1-point lead, as five games remain to be played in Astana. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g9",
-         "pubDate" : "Fri, 21 Apr 2023 19:40:00 +0100",
-         "title" : "World Championship Game 9: Six hours and 82 moves"
       },
       {
          "description" : " We'll end our examination of the pin this week by looking at Black's best ideas regarding White's treatment of the pin. Black's seeming good pin has one major problem, it can be completely ignored. White's Knight on f3 can ignore the Black Bishop on g4, as we saw last week. Black's biggest problem was his <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\">A Foundation for Beginners Ninety</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nepomniachtchi-wins-world-championship-game-at-13th-attempt",
          "pubDate" : "Mon, 10 Apr 2023 12:58:45 +0000",
          "title" : "Nepo wins World Championship game at 13th attempt"
-      },
-      {
-         "description" : " Ian Nepomniachtchi won game two of the FIDE World Chess Championship to take an early 1.5-0.5 lead against his Chinese rival Ding Liren. Ding managed to surprise his opponent early on but once on his own played very poorly to go down to a loss in just 29 moves. \"I missed nearly everything today\" Ding Liren. Nepomniachtchi in contrast was not phased by the surprise, played quickly, accurately and confidently. Ding's demeanor so far suggests he his struggling with the pressure of the match and if he doesn't settle in soon it could be very bad for him indeed. Ding did start very slowly in last year's Candidates tournament too but does need to pull himself together quickly during the first rest",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-takes-the-world-championship-lead-after-a-disaster-in-game-two-for-ding",
-         "pubDate" : "Mon, 10 Apr 2023 14:41:00 +0400",
-         "title" : "Nepomniachtchi takes the World Championship lead after a disaster in game two for Ding - 2"
       }
    ]
 }
