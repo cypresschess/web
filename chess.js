@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2368",
+         "pubDate" : "Mon, 01 May 2023 15:15:33 +0000",
+         "title" : "Ding Liren crowned World Champion"
+      },
+      {
+         "description" : "Today: Matthias Wuellenweber shows us how to use Buddy for analyzing tablebase endgames. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-analyzing-endgames-with-buddy",
+         "pubDate" : "Mon, 01 May 2023 16:00:00 +0100",
+         "title" : "Explained by the engineers! - Analyzing endgames with Buddy!"
+      },
+      {
+         "description" : "Are you ready to take down an old elementary school chess&#38;nbsp;champion? Think you can go head-to-head with a notorious chess hustler? These local legends with classic chess player personality tendencies are eager to accept your challenge! Meet ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-the-chess-club-regulars",
+         "pubDate" : "Mon, 01 May 2023 06:00:00 -0700",
+         "title" : "Play Chess Against The Chess Club Regulars"
+      },
+      {
+         "description" : "Closing ceremony of the World Chess Championship 2023 where Ding Liren receives the trophy of the 17th World Champion The 17 undisputed World Champions 1. Wilhelm Steinitz2. Emanuael Lasker3. Jose Raul Capablanca4. Alexander Alekhine5. Max Euwe6. Mikhail Botvinnik7. Vasily Smislov8. Mikhail Tal9. Tigran Petrosian10. Boris Spassky11. Bobby Fischer12. Anatoly Karpov13. Gary Kasparov14. Vladimir Kramnik15. Viswanathan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-receives-the-world-chess-champion-trophy-closing-ceremony/",
+         "pubDate" : "Mon, 01 May 2023 12:24:28 +0000",
+         "title" : "Ding Liren receives the World Chess Champion trophy (closing ceremony)"
+      },
+      {
+         "description" : " While the 2023 World Championship was very exciting, I was not happy with how it was ultimately decided. I've long been opposed to what is a titled awarded awarded to the best 'long time control' player being determined by who is better at a completely different format. Lost in the excitement of Ding finding 46. ... Rg6 was the issue that Nepo would probably not have played 48.h4?? if the game was played until the normal time control. To me 46. ... Rg6 was a time scramble bluff, designed to induce 48. .. h4, a blunder even I saw coming while watching the match. FIDE for a long time has wanted shorter and shorter World Championship Matches, in part to encourage more bids from host cities/cou",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/more-thoughts.html",
+         "pubDate" : "Mon, 01 May 2023 12:20:00 +0000",
+         "title" : "More thoughts"
+      },
+      {
          "description" : "The following survey lists all chess players who have reached a top five or top ten status at least once in their career, ranked by their highest position, then in chronological order. Of course, the start of the FIDE Elo list and the current date are arbitrary, but the chess world has now had an established rating and ranking publication for more than fifty consecutive years. How many different TOP FIVE players would you expect? Well, there are only 55 luminaries in the last 55 years or so! Check it out. | Photo: Magnus Carlsen and Garry Kasparov | Photo: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/baku-open-2023-live/",
          "pubDate" : "Sun, 30 Apr 2023 20:45:11 +0000",
          "title" : "Baku Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Festival Baku Open 2023 dedicated to the 100th anniversary of the National Leader Heydar Aliyev is consist of 3 tournaments (A, B and C). The 9-round Swiss open is taking place in the Crystal Place from May 3 to 13. The time control is 90 minutes for 40 moves, then 30 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/baku-open-2023-participants/",
-         "pubDate" : "Sun, 30 Apr 2023 20:42:52 +0000",
-         "title" : "Hans Moke Niemann is the top rated players in Baku Open 2023"
       },
       {
          "description" : "Ding Liren became the new World Chess Champion after defeating Ian Nepomniachtchi in the tiebreak match. It was Ian Nepomniachtchi who was having the lead during the part of the 14-game match with a classical time control, but Ding Liren was managing to equalize the score. Fighting for a victory in the last round Ding Liren gave it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chinas-ding-liren-claims-the-world-chess-championship-title/\">Read More &#187;</a></span>",
@@ -1098,14 +1130,6 @@ news_feed (
          "title" : "Wrong direction"
       },
       {
-         "description" : "A free day at the Astana World Championship - a good time to take another look at the last three games. Once again we have deep, instructive analyses for you to study, kindly provided to us by grandmaster Efstratios Grivas, trainer and FIDE international organizer. Our replay app makes it very easy to follow the annotations. You can even start an engine to work out the most subtle questions you might have. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-7-9",
-         "pubDate" : "Sat, 22 Apr 2023 08:00:00 +0100",
-         "title" : "Grivas on Nepo-Ding 7-9"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 8: Ding missed golden opportunity Match Score: 4&frac12;-3&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 8Thursday, 20 April 2023 Game 8 of the World Chess Championship in Astana, Kazakhstan ended in a draw, the first in five games. Both players have been trading The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/\">2023 World Chess Championship: Game 8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "Ding Liren passes acid test in World Championship Game 3 "
       },
       {
-         "description" : "GM Ian Nepomniachtchi shook up the third round of the 2023 FIDE World Championship by beginning his game against GM Ding Liren with a new first move, setting the stage for a fresh opening battle with 1.d4. Ding chose the Queen&#39;s Gambit Declined in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-3",
-         "pubDate" : "Wed, 12 Apr 2023 05:09:00 -0700",
-         "title" : "Ding Holds Nepomniachtchi To Draw In Game 3"
-      },
-      {
          "description" : " If Chess improvement was easy, everyone would be a Grandmaster. What makes improvement difficult is that you usually only see results after a painful period. I recently realized this with my health when my therapist told me: \"To get to the Next Level, you will need to increase your effort in Gym, then suffer for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/effort-pain-improvement-cycle/\">The Effort-Pain-Improvement Cycle in Chess: Why It's Worth It</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1832,38 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2331",
          "pubDate" : "Mon, 10 Apr 2023 19:12:06 +0000",
          "title" : "Vahap Sanal wins Fagernes International"
-      },
-      {
-         "description" : "In last week's TCEC/CCC post, <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html\">TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final</A> (April 2023), I ended saying, <BLOCKQUOTE> In previous posts, I've mentioned OpenBench several times in passing. It's high time I devoted an off-week post to the concept. Maybe next week... </BLOCKQUOTE> <P> This being next week and if not today, maybe never, let's first look at those passing references:- <UL> <LI> 2022-09-05: <A HREF=\"https://chessforallages.blogspot.com/2022/09/chess324-is-thing.html\">Chess324 Is a Thing</A> &#149; 'OpenBench was featured in an August CCC event called, 'OpenBench Inter",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/openbench-interlude.html",
-         "pubDate" : "Mon, 10 Apr 2023 15:20:00 +0000",
-         "title" : "OpenBench Interlude"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2330",
-         "pubDate" : "Mon, 10 Apr 2023 14:36:53 +0000",
-         "title" : "Nepomniachtchi defeats Ding in the second game of the World Championship match"
-      },
-      {
-         "description" : " GM Hrant Melkumyan has won his third O2C Doeberl Cup with a dominant display in this years event. Having previously finished 1st in 2019 and 2022, his 8/9 in this years event saw him finish half a point ahead of GM Temur Kuybokarov. He secured first place with a win over IM Ari Dale, finishing with 7 wins and 2 draws (against Kuybokarov and IM Rishi Sardana). Kuybokarov defeated FM Matthew Clarke to finish outright 2nd on 7.5. Tied for 3rd place were IM James Morris, IM Rishi Sardana, GM Daniel Fernandez and FM Fred Litchfield, on 6.5. Three of the top 6 (Melkumyan, Sardana and Litchfield) are Canberra residents, which capped a fantastic event for the ACT chess community. The Major saw a 4 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-three-times-charm.html",
-         "pubDate" : "Mon, 10 Apr 2023 13:56:00 +0000",
-         "title" : "2023 O2C Doeberl Cup - Three times the charm for Melkumyan"
-      },
-      {
-         "description" : "Ian Nepomniachtchi has won a World Championship game at his 13th attempt to take a 1.5:0.5 lead over Ding Liren. Ding sprung a Richard Rapport-inspired near-novelty on move 4, but his first long think of the game on move 12 gave Nepomniachtchi the chance to launch a powerful kingside attack. Ding was soon lost on the board and on the clock and resigned on move 29.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-wins-world-championship-game-at-13th-attempt",
-         "pubDate" : "Mon, 10 Apr 2023 12:58:45 +0000",
-         "title" : "Nepo wins World Championship game at 13th attempt"
       }
    ]
 }
