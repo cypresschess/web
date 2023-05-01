@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/all-russian-chess-competition-among-mens-teams-major-league-round-1-results/",
+         "pubDate" : "Mon, 01 May 2023 21:46:12 +0000",
+         "title" : "All-Russian chess competition among men's teams \"Major League\" - Round 1 results"
+      },
+      {
+         "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/all-russian-chess-competition-among-mens-teams-major-league-participants/",
+         "pubDate" : "Mon, 01 May 2023 21:38:17 +0000",
+         "title" : "All-Russian chess competition among men's teams \"Major League\" - Participants"
+      },
+      {
+         "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxiv-russian-chess-championship-among-womens-teams-round-1-results/",
+         "pubDate" : "Mon, 01 May 2023 21:05:54 +0000",
+         "title" : "XXIV Russian Chess Championship among women's teams - Round 1 results"
+      },
+      {
          "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,30 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2023/",
          "pubDate" : "Sun, 30 Apr 2023 21:49:39 +0000",
          "title" : "TePe Sigeman & Co Chess Tournament 2023"
-      },
-      {
-         "description" : "The 2023 IBCA European Team Championship for the Blind and Visually Impaired took place in Genova, Italy, on April 19-30, 2023. The competition was organized by the IBCA and the Italian Amateur Blind Chess Association (A.S.C.I.d.). The 14 national teams represented Braille federations from all parts of Europe. Players used specialised Braille chess boards, talking []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/team-serbia-won-ibca-european-team-championship-for-the-blind-and-visually-impaired/",
-         "pubDate" : "Sun, 30 Apr 2023 21:41:06 +0000",
-         "title" : "Team Serbia won IBCA European Team Championship for the Blind and Visually Impaired"
-      },
-      {
-         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u14-dutch-youth-championship-live/",
-         "pubDate" : "Sun, 30 Apr 2023 21:31:05 +0000",
-         "title" : "Girls U14 Dutch Youth Championship - LIVE"
-      },
-      {
-         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-dutch-youth-championship-live/",
-         "pubDate" : "Sun, 30 Apr 2023 21:25:17 +0000",
-         "title" : "Girls U16 Dutch Youth Championship - LIVE"
       },
       {
          "description" : "",
@@ -1840,14 +1840,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-march-2023/",
          "pubDate" : "Tue, 11 Apr 2023 08:38:14 +0000",
          "title" : "ECU E-Magazine March 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2332",
-         "pubDate" : "Mon, 10 Apr 2023 22:04:12 +0000",
-         "title" : "Danish Championship: Boris Chatalbashev clinches maiden title"
       }
    ]
 }
