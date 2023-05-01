@@ -1,6 +1,8 @@
 jtable([
+"HOUSTON","2023-04-29","556","<a href=http://www.uschess.org/msa/XtblMain.php?202304294212 target='_blank'>TH ROGERS SCHOLASTIC MAY 2023</a>",
 "CYPRESS","2023-04-28","31","<a href=http://www.uschess.org/msa/XtblMain.php?202304283222 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-04-28","25","<a href=http://www.uschess.org/msa/XtblMain.php?202304283082 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2023-04-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304283062 target='_blank'>FBCC 2023 NATIONAL SUPERHERO DAY OP</a>",
 "HOUSTON","2023-04-04  - 04-25","22","<a href=http://www.uschess.org/msa/XtblMain.php?202304252262 target='_blank'>APRIL 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-04-03  - 04-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202304240552 target='_blank'>CLCC APRIL MONDAYS</a>",
 "HOUSTON","2023-04-23","4","<a href=http://www.uschess.org/msa/XtblMain.php?202304230242 target='_blank'>APRIL 23RD 2023 SUNDAY SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2022-09-09","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209097092 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-09-09","12","<a href=http://www.uschess.org/msa/XtblMain.php?202209097062 target='_blank'>FBCC LABOR DAY CHAMPIONSHIP</a>",
 "HOUSTON","2022-09-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202209044942 target='_blank'>SEPT 4 SUNDAY SWISS</a>",
-"HOUSTON","2022-09-03","19","<a href=http://www.uschess.org/msa/XtblMain.php?202209035102 target='_blank'>SEPT 3 SATURDAY CHESS SATURNIGHT BL</a>",
-"HOUSTON","2022-09-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202209034722 target='_blank'>SATURNIGHT BLITZ</a>",
 ]);
