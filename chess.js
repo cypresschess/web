@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "33rd National Under-17 Open &#38; Girls Live Game Link Open : https://view.livechesscloud.com/#4708d594-4463-456d-a2e2-b89675c50d3c Girls : https://view.livechesscloud.com/#68a69455-3252-4032-8bf8-e14c0f77e007",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-17-chess-championship-2023-live-game-link/",
+         "pubDate" : "Mon, 01 May 2023 05:57:00 +0000",
+         "title" : "National Under-17 Chess Championship 2023 Live Game Link"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99901655.cms\" />Ding Liren showed the ambition in his heart with a matching display on the board to become the 17th World chess champion. The 30-year-old is the first king of 64 squares from China. He defeated Ian Nepomniachtchi in a rapid tiebreak in Astana, Kazakhstan, on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ding-liren-the-new-chess-world-champion-is-destinys-player/articleshow/99901655.cms",
+         "pubDate" : "Mon, 01 May 2023 05:39:34 +0000",
+         "title" : "Ding Liren: The new world champion is destiny's player"
+      },
+      {
          "description" : "The tournament will take place May 4-10 this year, at the Elite Plaza Hotel in central Malmo. Eight players will play seven rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The home team is represented by []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-takes-the-world-championship-lead-after-a-disaster-in-game-two-for-ding",
          "pubDate" : "Mon, 10 Apr 2023 14:41:00 +0400",
          "title" : "Nepomniachtchi takes the World Championship lead after a disaster in game two for Ding - 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99371609.cms\" />Teenaged Indian Grandmaster D Gukesh stunned former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the final to win the World Chess Armageddon Asia & Oceania event here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
-         "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
-         "title" : "D Gukesh wins title at World Chess Armageddon event"
       }
    ]
 }
