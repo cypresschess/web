@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxiv-russian-chess-championship-among-womens-teams-participants/",
+         "pubDate" : "Mon, 01 May 2023 18:52:53 +0000",
+         "title" : "XXIV Russian Chess Championship among women's teams -Participants"
+      },
+      {
+         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#160;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-1-results/",
+         "pubDate" : "Mon, 01 May 2023 18:32:33 +0000",
+         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 1 results"
+      },
+      {
+         "description" : "The Ramat Gan Masters Spring 2023 will take place from May 1st to June 26th 2023 in Ramat Gan, Israel. The time control is 90 minutes plus 30 seconds increment per move from move 1. The tournament is organized and monitored by International Organzier &#38; International Arbiter Paz Avineri. The 2023's edition of Ramat Gan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ramat-gan-masters-spring-a-2023-live/",
+         "pubDate" : "Mon, 01 May 2023 18:26:21 +0000",
+         "title" : "Ramat Gan Masters Spring A 2023 - LIVE"
+      },
+      {
+         "description" : "The Ramat Gan Masters Spring 2023 will take place from May 1st to June 26th 2023 in Ramat Gan, Israel. The time control is 90 minutes plus 30 seconds increment per move from move 1. The tournament is organized and monitored by International Organzier &#38; International Arbiter Paz Avineri. The 2023's edition of Ramat Gan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ramat-gan-masters-spring-a-2023-participants/",
+         "pubDate" : "Mon, 01 May 2023 18:24:03 +0000",
+         "title" : "Ramat Gan Masters Spring A 2023 - Participants"
+      },
+      {
+         "description" : "The tournament will take place May 4-10 this year, at the Elite Plaza Hotel in central Malmo. Eight players will play seven rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The home team is represented by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2023-live/",
+         "pubDate" : "Mon, 01 May 2023 18:14:59 +0000",
+         "title" : "TePe Sigeman & Co Chess Tournament 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2369",
+         "pubDate" : "Mon, 01 May 2023 17:40:50 +0000",
+         "title" : "FIDE May 2023 rating list is out"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Chessable Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-238-highlights-from-the-chessable-masters-i",
+         "pubDate" : "Mon, 01 May 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #238: Highlights from the Chessable Masters (I)"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 1 0 &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 7 Nepomniachtchi &frac12; 1 &frac12; 0 1 0 1 &frac12; &frac12; &frac12; &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/\">Ding Liren is the new World Chess Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/",
+         "pubDate" : "Mon, 01 May 2023 16:31:47 +0000",
+         "title" : "Ding Liren is the new World Chess Champion"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -122,52 +186,12 @@ news_feed (
          "title" : "Girls U16 Dutch Youth Championship - LIVE"
       },
       {
-         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u18-dutch-youth-championship-live/",
-         "pubDate" : "Sun, 30 Apr 2023 21:21:22 +0000",
-         "title" : "Girls U18 Dutch Youth Championship - LIVE"
-      },
-      {
-         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-dutch-youth-championship-live/",
-         "pubDate" : "Sun, 30 Apr 2023 21:16:40 +0000",
-         "title" : "U14 Dutch Youth Championship - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2367",
          "pubDate" : "Sun, 30 Apr 2023 21:12:13 +0000",
          "title" : "Serbia wins 2023 IBCA European Team Championship"
-      },
-      {
-         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-dutch-youth-championship-live/",
-         "pubDate" : "Sun, 30 Apr 2023 21:11:13 +0000",
-         "title" : "U16 Dutch Youth Championship - LIVE"
-      },
-      {
-         "description" : "The Dutch Youth Championship is taking place from April 30 6 May 2023 in Almelo, Netherlands. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament is separated in 6 categories U18 / U16 / U14 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-dutch-youth-championship-live/",
-         "pubDate" : "Sun, 30 Apr 2023 21:05:53 +0000",
-         "title" : "U18 Dutch Youth Championship - LIVE"
-      },
-      {
-         "description" : "The Festival Baku Open 2023 dedicated to the 100th anniversary of the National Leader Heydar Aliyev is consist of 3 tournaments (A, B and C). The 9-round Swiss open is taking place in the Crystal Place from May 3 to 13. The time control is 90 minutes for 40 moves, then 30 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/baku-open-2023-live/",
-         "pubDate" : "Sun, 30 Apr 2023 20:45:11 +0000",
-         "title" : "Baku Open 2023 - LIVE"
       },
       {
          "description" : "Ding Liren became the new World Chess Champion after defeating Ian Nepomniachtchi in the tiebreak match. It was Ian Nepomniachtchi who was having the lead during the part of the 14-game match with a classical time control, but Ding Liren was managing to equalize the score. Fighting for a victory in the last round Ding Liren gave it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chinas-ding-liren-claims-the-world-chess-championship-title/\">Read More &#187;</a></span>",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "Chess vs. poker"
       },
       {
-         "description" : "In the diagram position Black must decide what to do with the attacked knight d5: 16...Nf4! is okay, the game move, however, was 16...Nb4??. The refutation - entirely up to you!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wrong-direction",
-         "pubDate" : "Sat, 22 Apr 2023 09:00:00 +0100",
-         "title" : "Wrong direction"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 8: Ding missed golden opportunity Match Score: 4&frac12;-3&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 8Thursday, 20 April 2023 Game 8 of the World Chess Championship in Astana, Kazakhstan ended in a draw, the first in five games. Both players have been trading The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/\">2023 World Chess Championship: Game 8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2346",
          "pubDate" : "Wed, 19 Apr 2023 08:29:42 +0000",
          "title" : "Global Chess League unveils its official logo"
-      },
-      {
-         "description" : " Adisa Banjoko launched the Hip-Hop Chess Federation back in 2007 and had the desire to bridge his passion for hip-hop, martial arts, and chess. He held tournaments, taught classes, and arranged a hip-hop exhibit at the World Chess Hall of Fame. Adisa Banjoko's Hip-Hop Chess Federationwas the cover story of February 2012U.S. Chess Life magazine. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/\">GZA &#038; Sabrina Chevannes on Hip-Hop/Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/",
-         "pubDate" : "Tue, 18 Apr 2023 22:37:36 +0000",
-         "title" : "GZA & Sabrina Chevannes on Hip-Hop/Chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> It's your move. The Muny premiere of \"Chess\" plays The Muny July 5 through July 11. Sponsored by Saint Louis Chess Club &amp; World Chess Hall of Fame. For tickets, Muny.org. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/muny-presents-chess-july-5-%E2%80%93-11-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wCaw7w4H3TA.jpg?itok=mbTLq8X1\" alt=\"\" /></a></div>",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2332",
          "pubDate" : "Mon, 10 Apr 2023 22:04:12 +0000",
          "title" : "Danish Championship: Boris Chatalbashev clinches maiden title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2331",
-         "pubDate" : "Mon, 10 Apr 2023 19:12:06 +0000",
-         "title" : "Vahap Sanal wins Fagernes International"
       }
    ]
 }
