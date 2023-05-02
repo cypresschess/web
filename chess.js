@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final phase of the Astana World Championship brought us unparalleled drama. You saw Ding pull it off with tenacious defence in game 14, and then continue with extraordinary defensive skills in the first three playoff game. In the fourth game the Chinese GM took a very brave decision in the ending, to reject a draw and play for a win - a decision that paid off handsomely. Once again we have deep, instructive commentary for you to study, kindly provided to us by grandmaster Efstratios Grivas. We include pictures and the closing ceremony video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-world-championship-wrap-up",
+         "pubDate" : "Tue, 02 May 2023 08:45:18 +0100",
+         "title" : "Grivas World Championship wrap-up"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at world chess champion Ding Liren&#039;s rise as a player. Examine Ding&#039;s style through key games. 2023.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-king-ding-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2PqmgjBGaQk.jpg?itok=rHGTQpy3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rise-king-ding-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Tue, 02 May 2023 03:44:11 +0000",
+         "title" : "Rise of the King Ding | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "GMs Alireza Firouzja, Kirill Shevchenko, Dmitrij Kollars, Anish Giri, and Levon Aronian fought their way through a field of 144 players, mostly grandmasters, and qualified through match play for Division I of the Champions Chess Tour ChessKid Cup ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-play-in",
-         "pubDate" : "Mon, 01 May 2023 17:16:23 -0700",
+         "pubDate" : "Mon, 01 May 2023 17:16:00 -0700",
          "title" : "Firouzja, Shevchenko, Kollars, Giri, Aronian Qualify For ChessKid Cup Division I"
       },
       {
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination at Sambalpur ,Odisha"
       },
       {
-         "description" : "Ding Liren crossed the 2700-rating barrier back in 2012, and was soon regarded as one of the potential challengers for the world title. A week from now, the soft-spoken grandmaster from Wenzhou might become the new world chess champion. Thus, this is a good time to reminisce on his most spectacular victory. In November 2017, at the Chinese League, Ding played a stunning tactical combination and crowned it with a brilliant king hunt. Robert Ris examines the game in a 23-minute video. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ris-ding-liren-immortal-game",
-         "pubDate" : "Sat, 22 Apr 2023 17:00:00 +0100",
-         "title" : "Robert Ris: Ding's immortal game"
-      },
-      {
          "description" : " I've spent the last 3 days in Sydney, attending a CCLA meeting, buying and collecting books, and generally having a small break from Canberra. One book I picked up (courtesy of GM Ian Rogers) was the Australian Chess Championship Yearbook 1971-72. I have a few of these books (although not this one), and they are more than just a games collection. They often contain lots of extra information about chess clubs of the time, short biographies of players, and current rules and regulations. In this edition, there were the Swiss Pairing Rules for the 1971 Australian Championship. The most interesting feature was the ordering of players. This was as follows 1. Score, highest first 2. Colour differe",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/muny-presents-chess-july-5-%E2%80%93-11-promo",
          "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
          "title" : "The Muny presents \"Chess\" July 5 - 11 | PROMO"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev looks at the chess endgame in which each side has a single bishop and the bishops reside on opposite-colored squares. 2023.04.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-colored-bishops-attack-grandmasters-choice-im-vlad-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nH9E6nhFwJ4.jpg?itok=smesUgfx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opposite-colored-bishops-attack-grandmasters-choice-im-vlad-georgiev",
-         "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
-         "title" : "Opposite-Colored Bishops Attack! | Grandmaster's Choice - IM Vlad Georgiev"
       },
       {
          "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Last week's article posted here ended with below challenging puzzle. It should have given you the chance to practice the method of promoting the side pawn in the wrong corner. How did it go? Was it hard <a href=\"https://chessimprover.com/the-wrong-corner-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner-2/\">The Wrong Corner (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
