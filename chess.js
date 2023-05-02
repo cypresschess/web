@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The sixth edition of the Salamanca Chess Festival took place on April 25-29. The Masters Tournament was the main event, with eight players (four men and four women) fighting in a single round-robin event. The time control was 40 minutes plus 5-second increments. Kirill Alekseenko and Jaime Santos were the top scorers with 5&frac12; points. Alekseenko was declared champion based on tiebreak criteria. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2023-report",
+         "pubDate" : "Tue, 02 May 2023 16:25:00 +0100",
+         "title" : "Alekseenko and Santos top scorers in Salamanca"
+      },
+      {
+         "description" : "Last week we presented a Computer Challenge. It's a position in which even the best chess engines will not find the solution - even if you run them for a very long time. Our readers were asked to come up with the logic and strategy of the solution themselves, and then confirm everything with the help of the computer. The result: success? Here is the full truth on the historical endgame puzzle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/computer-challenge-01-anaslysis",
+         "pubDate" : "Tue, 02 May 2023 16:22:02 +0100",
+         "title" : "Computer Challenge 01 - analysis"
+      },
+      {
+         "description" : "Sunday marked the end of the era of GM Magnus Carlsen&#39;s reign as world champion after nine years, five months, and eight days. GM Ding Liren wrote history as the first-ever FIDE world champion from China (there have been several FIDE women&#39;s world...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-on-his-future-personal-life-motivation-and-more",
+         "pubDate" : "Tue, 02 May 2023 08:21:48 -0700",
+         "title" : "Carlsen On Lack Of Motivation, Classical Chess, New WC Formats, & Family Life"
+      },
+      {
+         "description" : "GM Hikaru Nakamura picked up first place and $1,000 in the April edition of Bullet Brawl on Saturday after leapfrogging March&#39;s winner, GM Jose Martinez, with 10 seconds remaining on the arena clock. With 69 wins to his name in the two-hour arena,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-april",
+         "pubDate" : "Tue, 02 May 2023 07:55:36 -0700",
+         "title" : "Nakamura Wins Bullet Brawl In Final 10 Seconds"
+      },
+      {
+         "description" : "Let me begin by heartily congratulating the 4NCL, in this case supported by the ECF and endorsed by the British Isles Coordinating Committee, on their...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2023-british-rapidplay-championship-by-keith-arkell/",
+         "pubDate" : "Tue, 02 May 2023 13:50:19 +0000",
+         "title" : "2023 British Rapidplay Championship by Keith Arkell"
+      },
+      {
+         "description" : "Alireza Firouzja, Anish Giri, Levon Aronian, Anton Shevchenko and Dmitrij Kollars were the star performers in the ChessKid Cup Play-In and will now join Hikaru Nakamura, Fabiano Caruana and Nodirbek Abdusattorov in the top division of the main event that runs May 22-26. The ChessKid Cup is the 3rd tournament on the $2 million 2023 Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/firouzja-giri-aronian-in-chesskid-cup",
+         "pubDate" : "Tue, 02 May 2023 13:44:09 +0000",
+         "title" : "Firouzja, Giri & Aronian in ChessKid Cup"
+      },
+      {
+         "description" : "The world's chess elite did not play too many classical games in April, so there were no major changes at the top of the world rankings. However, the FIDE World Championship match, which ended on the last day of April, affected the list: Ding Liren gained one point (new: 2789, 3rd place), Ian Nepomniachtchi lost one point (new: 2794, 2nd place). But with a rating of 2853, Magnus Carlsen - though no longer World Champion - is still the clear number one.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-may-2023",
+         "pubDate" : "Tue, 02 May 2023 14:00:00 +0100",
+         "title" : "FIDE ratings May 2023"
+      },
+      {
+         "description" : "The new ChessBase Magazine #213 once again delivers a big swing of ideas for your repertoire in eleven opening articles - from Caro-Kann to the King's Indian! Sergey Grigoriants examines a new idea on move four that has become the latest fashion thanks to Magnus Carlsen, among others: 4...h6 in the French Defence! Black offers a pawn sacrifice - after the exchange on f6 the pawn on d5 is simply hanging. Can this be any good? The new engines and Sergey Griogoriants show that Black gets \"compensation and great piece activity in all lines\". Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-french--la-carlsen",
+         "pubDate" : "Tue, 02 May 2023 14:00:00 +0100",
+         "title" : "The French &aacute; la Carlsen"
+      },
+      {
          "description" : "The 2023 IBCA European Team Chess Championship for the Blind and Visually Impaired took place from 19-30 April in Genova, Italy. With the participation of 14 federations, the event was played in 9 rounds, swiss system, with players using specialized Braille chess boards, talking chess clocks and voice recording equipment. Team Serbia (FM Pavle Dimic, CM Damjan Jandric,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -138,7 +202,7 @@ news_feed (
          "title" : "Explained by the engineers! - Analyzing endgames with Buddy!"
       },
       {
-         "description" : "Are you ready to take down an old elementary school chess&#38;nbsp;champion? Think you can go head-to-head with a notorious chess hustler? These local legends with classic chess player personality tendencies are eager to accept your challenge! Meet ...",
+         "description" : "Are you ready to take down an old elementary school chess champion? Think you can go head-to-head with a notorious chess hustler? These local legends with classic chess player personality tendencies are eager to accept your challenge! Meet the C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-the-chess-club-regulars",
@@ -184,6 +248,22 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ding-liren-is-world-champion/",
          "pubDate" : "Mon, 01 May 2023 09:24:47 +0000",
          "title" : "Ding Liren Is World Champion"
+      },
+      {
+         "description" : "The English Seniors Championships will take place between Thursday 4th May and Bank Holiday Monday 8th May 2023 at the Woodland Grange, Old Milverton Lane,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-chess-championships-2023/",
+         "pubDate" : "Mon, 01 May 2023 08:00:11 +0000",
+         "title" : "English Seniors Chess Championships 2023"
+      },
+      {
+         "description" : "The English and English Women's Championships will take place between Friday 26th May and Bank Holiday Monday 29th May 2023 at the Holiday Inn Kenilworth-Warwick,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2023/",
+         "pubDate" : "Mon, 01 May 2023 08:00:07 +0000",
+         "title" : "English and English Women's Chess Championships 2023"
       },
       {
          "description" : "In endgames, it is usually a good idea to activate the king. However, the king also needs to be safe. In the diagram position it is Black to move. What should he do to make his king safe and to win the game?",
@@ -1058,28 +1138,12 @@ news_feed (
          "title" : "Winners crowned at 2023 FIDE World School Championship"
       },
       {
-         "description" : "With four games to go, Ian Nepomniachtchi continues to have a 1-point lead at the World Championship match in Astana. Nepo, playing black, surprised Ding Liren out of an English Opening, and had little trouble defending the slightly inferior position that ensued. The Russian GM will get the white pieces in Monday's game 11. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g10",
-         "pubDate" : "Sun, 23 Apr 2023 20:15:00 +0100",
-         "title" : "World Championship Game 10: Nepo safely draws, keeps the lead"
-      },
-      {
          "description" : " Last week I took you half way through Chess Heroes: Openings. By this point the reader has learnt the basic opening principles along with some tactical ideas that appear over and over again across different openings. It's now time to look at specific openings. We start with openings beginning with 1. e4 e5 it's <a href=\"https://chessimprover.com/chess-heroes-openings-part-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Openings (Part 2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-openings-part-2/\">Chess Heroes: Openings (Part 2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/chess-heroes-openings-part-2/",
          "pubDate" : "Sun, 23 Apr 2023 17:14:05 +0000",
          "title" : "Chess Heroes: Openings (Part 2)"
-      },
-      {
-         "description" : "Pia Cramling, the Grande Dame of Chess is celebrating her 60th Anniversary today. Heartfelt congratulations! Looking back and forward, our author, who was a spectator at the tournament where she made her final GM norm to obtain the Grandmaster title as fifth woman on earth, presents fantastic facts and funny figures from an unparalleled biography. | Photo: Carolina Byrmo via hemtrevligt.se",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ten-highlights-in-the-life-and-career-of-chess-grandmaster-pia-cramling",
-         "pubDate" : "Sun, 23 Apr 2023 18:00:00 +0100",
-         "title" : "Ten Highlights in the Life and Career of Chess Grandmaster Pia Cramling"
       },
       {
          "description" : "The last time this blog's long running series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) coincided with a World Championship match was <A HREF=\"https://chessforallages.blogspot.com/2021/11/world-championship-social-media-2021.html\">World Championship Social Media 2021</A> (November 2021). In that post I documented six social media accounts operated by FIDE. Nearly 18 months later, the official site <A HREF=\"https://worldchampionship.fide.com/\">FIDE World Championship 2023, Astana</A> (worldchampionship.fide.com), lists four accounts in the following order:- <UL> <LI><A HREF=\"https://www.youtube.com/fidechan",
@@ -1096,22 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2355",
          "pubDate" : "Sun, 23 Apr 2023 14:34:09 +0000",
          "title" : "World Chess Championship enters final phase as Nepomniachtchi retains lead after game ten"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 122nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-122-chess-history-in-a-nutshell-4",
-         "pubDate" : "Sun, 23 Apr 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 122: Chess history in a nutshell (4)"
-      },
-      {
-         "description" : "Arjun Erigaisi won the rapid section of the Satty Zhuldyz tournament in Astana with a 9&frac12;/11 score. The youngster kicked off the day with a win over Vladimir Kramnik. He then he drew Levon Aronian, before finishing the rapid event with a victory over Kateryna Lagno. Aronian finished the rapid in second place with 8/11, while Alexander Grischuk was third with 7/11. The tournament is not over, as the final standings will be decided based on the cumulative score of the rapid and blitz events. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-rapid",
-         "pubDate" : "Sun, 23 Apr 2023 14:00:00 +0100",
-         "title" : "Satty Zhuldyz 2023: Arjun Erigaisi roars in rapid"
       },
       {
          "description" : "Ian Nepomniachtchi leads 5.5:4.5 with just four games of the 2023 FIDE World Championship match to go after Ding Liren was unable to convert an extra pawn into a win in Game 10. Ding in fact did well to reach that superior endgame, since he confessed that Ian's 9th move had come as a \"total surprise\". In the end the players played on until bare kings on move 45.",
@@ -1314,14 +1362,6 @@ news_feed (
          "title" : "National Schools Girls Championships finals"
       },
       {
-         "description" : "Chess is part of the Olympic Esports Series, with the finals taking place in Singapore between 22-25 June. The tournament has now reached the second...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/important-olympic-esports-series-information/",
-         "pubDate" : "Thu, 20 Apr 2023 07:56:55 +0000",
-         "title" : "Important Olympic Esports Series information"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 7: 4th decisive game in a row as Ding collapses Match Score: 4-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 7Tuesday, 18 April 2023 Ding Liren dropped Game 7 after playing a masterpiece that was the talk of the chess world. It is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/20/2023-world-chess-championship-game-7/\">2023 World Chess Championship: Game 7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1360,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2348",
          "pubDate" : "Wed, 19 Apr 2023 16:36:25 +0000",
          "title" : "FIDE World School Championship crosses halfway mark"
-      },
-      {
-         "description" : "There will be a seminar on Swiss-Manager held via Zoom at 7.00pm-9.00pm on Tuesday 2nd May. People who attended the Zoom seminar between 28th March...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/swiss-manager-seminar/",
-         "pubDate" : "Wed, 19 Apr 2023 15:31:35 +0000",
-         "title" : "Swiss-Manager seminar"
       },
       {
          "description" : "Titled Tuesday on April 18 featured several storylines beyond GM Tuan Minh Le winning the early event and GM Maxime Vachier-Lagrave winning the late event. GM Igor Kovalenko, who has been on the front lines in Ukraine&#39;s attempt to fight off Russia...",
@@ -1746,22 +1778,6 @@ news_feed (
          "title" : "Ding back level after a serious blunder from Nepomniachtchi cost him game 4 of the World Chess Championship - 4"
       },
       {
-         "description" : "The 2023 FIDE World Championship continues to deliver exciting chess as a confident GM Ding Liren won game four on Thursday to level the score against GM Ian Nepomniachtchi. Ding exerted pressure from the opening, and just as the position appeared...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-4",
-         "pubDate" : "Thu, 13 Apr 2023 05:57:00 -0700",
-         "title" : "Confident Ding Wins Game 4, Levels Match Score"
-      },
-      {
-         "description" : "Romanian GM Liviu-Dieter Nisipeanu has returned to his native country after nine years playing for Germany. The 46-year-old becomes the third top grandmaster to switch to Romania in less than a year. &#34;Welcome back, Dieter! We&#39;re happy to have yo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nisipeanu-returns-to-romania-after-nine-years",
-         "pubDate" : "Thu, 13 Apr 2023 05:47:00 -0700",
-         "title" : "Nisipeanu Returns To Native Romania After 9 Years"
-      },
-      {
          "description" : "A Senior National Arbiter seminar and examination was organized by Erode District Chess Circle on behalf of Tamil Nadu State Chess Association and All India",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-holds-a-comfortable-draw-with-black-in-world-championship-game-3",
          "pubDate" : "Wed, 12 Apr 2023 15:12:00 +0400",
          "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
-      },
-      {
-         "description" : " The <a href=\"https://actjcl.org.au/oycc2023/index.html\">2023 Oceania Junior and Youth Championship</a> began today at Campbell High School in Canberra. 204 players entered, although a couple of late withdrawals forced a change to some of the events. To allow everyone to be eligible for titles, the tournament is now being run in 5 sections. The Under 20 and Under 18 sections are now one event, as are the Under 16 Open and the Under 14 Open. The Under 12 Open Tournament has been joined by the Under 10's and Under 8's. The Girls event is also now one section. While medals will be awarded in all age groups (20 down to 8 for both Open and Girls), the number of direct titles on offer has been red",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/the-unicyclists-did-not-show-up.html",
-         "pubDate" : "Tue, 11 Apr 2023 13:14:00 +0000",
-         "title" : "The Unicyclists did not show up"
       }
    ]
 }
