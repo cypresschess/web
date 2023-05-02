@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Alireza Firouzja, Kirill Shevchenko, Dmitrij Kollars, Anish Giri, and Levon Aronian fought their way through a field of 144 players, mostly grandmasters, and qualified through match play for Division I of the Champions Chess Tour ChessKid Cup ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-play-in",
+         "pubDate" : "Mon, 01 May 2023 17:16:23 -0700",
+         "title" : "Firouzja, Shevchenko, Kollars, Giri, Aronian Qualify For ChessKid Cup Division I"
+      },
+      {
          "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2334",
          "pubDate" : "Wed, 12 Apr 2023 16:51:35 +0000",
          "title" : "Prizes of the FIDE - ISF World School Teams Online Chess Cup 2023"
-      },
-      {
-         "description" : "GM Alexey Sarana and GM Fabiano Caruana won Titled Tuesday on April 11. Caruana stole the show, scoring 10.5 points out of 11 and winning the late event by a nearly unprecedented 1.5 points. Just a draw with Chess.com&#39;s own GM Rafael Leitao stood ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-caruana-win-titled-tuesday-april-11-2023",
-         "pubDate" : "Wed, 12 Apr 2023 08:52:00 -0700",
-         "title" : "Caruana Goes Nearly Perfect In Titled Tuesday"
       },
       {
          "description" : "",
