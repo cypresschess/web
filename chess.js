@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 IBCA European Team Chess Championship for the Blind and Visually Impaired took place from 19-30 April in Genova, Italy. With the participation of 14 federations, the event was played in 9 rounds, swiss system, with players using specialized Braille chess boards, talking chess clocks and voice recording equipment. Team Serbia (FM Pavle Dimic, CM Damjan Jandric,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/",
+         "pubDate" : "Tue, 02 May 2023 10:50:04 +0000",
+         "title" : "Serbia wins IBCA European Team Chess Championship 2023"
+      },
+      {
          "description" : "The final phase of the Astana World Championship brought us unparalleled drama. You saw Ding pull it off with tenacious defence in game 14, and then continue with extraordinary defensive skills in the first three playoff game. In the fourth game the Chinese GM took a very brave decision in the ending, to reject a draw and play for a win - a decision that paid off handsomely. Once again we have deep, instructive commentary for you to study, kindly provided to us by grandmaster Efstratios Grivas. We include pictures and the closing ceremony video.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -678,7 +686,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesskid-cup-up-next-as-champions-chess-tour-reaches-midway-point",
-         "pubDate" : "Wed, 26 Apr 2023 06:57:59 -0700",
+         "pubDate" : "Wed, 26 Apr 2023 06:57:00 -0700",
          "title" : "ChessKid Cup Up Next As Champions Chess Tour Reaches Midway Point"
       },
       {
@@ -1824,22 +1832,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/the-unicyclists-did-not-show-up.html",
          "pubDate" : "Tue, 11 Apr 2023 13:14:00 +0000",
          "title" : "The Unicyclists did not show up"
-      },
-      {
-         "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Anyone can start learning chess. There is an ocean of information available online, as well as countless books. The main challenge each one of us encounters is how to learn. I remember being afraid to reach a <a href=\"https://chessimprover.com/the-wrong-corner/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner/\">The Wrong Corner</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-wrong-corner/",
-         "pubDate" : "Tue, 11 Apr 2023 10:10:45 +0000",
-         "title" : "The Wrong Corner"
-      },
-      {
-         "description" : "ECU E-Magazine March 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Individual Chess Championship 2023 European Women's Chess Championship 2023 European Youth Team Chess Championship 2023 Official invitation European Open and Women's Chess Club Cup 2023 Official invitation Mitropa Cup 2023 in Mali&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-march-2023/",
-         "pubDate" : "Tue, 11 Apr 2023 08:38:14 +0000",
-         "title" : "ECU E-Magazine March 2023"
       }
    ]
 }
