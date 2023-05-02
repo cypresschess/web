@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship 2023 and the victory of Ding Liren dominated the main page of Chessdom for the past week. Better late than never comes an interview for Chessdom.com with the winner of the 2023 Reykjavik Open GM Nils Grandelius Follow GM Grandelius on Twitter here Chessdom: Congratulations on winning the strong Reykjavik Open! []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-nils-grandelius/",
+         "pubDate" : "Tue, 02 May 2023 22:05:48 +0000",
+         "title" : "Interview with Nils Grandelius"
+      },
+      {
+         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#160;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-2-results/",
+         "pubDate" : "Tue, 02 May 2023 21:27:16 +0000",
+         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 2 results"
+      },
+      {
+         "description" : "The Open section of 33rd National Under-17 Open Chess Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Suresh Harsh, S Harshad, S Aswath, Arjun Adireddy, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/33rd-national-under-17-open-chess-championship-live/",
+         "pubDate" : "Tue, 02 May 2023 21:22:50 +0000",
+         "title" : "33rd National Under-17 Open Chess Championship - LIVE"
+      },
+      {
+         "description" : "The Open section of 33rd National Under-17 Open Chess Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Suresh Harsh, S Harshad, S Aswath, Arjun Adireddy, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/33rd-national-under-17-open-chess-championship-participants/",
+         "pubDate" : "Tue, 02 May 2023 21:20:01 +0000",
+         "title" : "33rd National Under-17 Open Chess Championship - Participants"
+      },
+      {
+         "description" : "The Girls section of the 33rd Indian National Under-17 Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Mallick Mrittika, Sarayu Velpula, Kumawat Dakshita, Tanisha S []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/33rd-national-under-17-girls-chess-championship-live/",
+         "pubDate" : "Tue, 02 May 2023 21:15:05 +0000",
+         "title" : "33rd National Under-17 Girls Chess Championship - LIVE"
+      },
+      {
+         "description" : "The Girls section of the 33rd Indian National Under-17 Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Mallick Mrittika, Sarayu Velpula, Kumawat Dakshita, Tanisha S []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/33rd-national-under-17-girls-chess-championship-participants/",
+         "pubDate" : "Tue, 02 May 2023 21:12:09 +0000",
+         "title" : "33rd National Under-17 Girls Chess Championship - Participants"
+      },
+      {
+         "description" : "The Womem's section of Bangabandhu Asain Zone-3.2 Chess Championship-2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangabandhu-asian-zone-3-2-chess-championship-2023-women-live/",
+         "pubDate" : "Tue, 02 May 2023 21:05:19 +0000",
+         "title" : "Bangabandhu Asian Zone-3.2 Chess Championship-2023 Women - LIVE"
+      },
+      {
+         "description" : "The Womem's section of Bangabandhu Asain Zone-3.2 Chess Championship-2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangabandhu-asian-zone-3-2-chess-championship-2023-women-participants/",
+         "pubDate" : "Tue, 02 May 2023 21:02:54 +0000",
+         "title" : "Bangabandhu Asian Zone-3.2 Chess Championship-2023 Women - Participants"
+      },
+      {
+         "description" : "The Open section of Bangabandhu Zone 3.2 Chess Championships 2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangabandhu-asain-zone-3-2-chess-championship-2023-open-live/",
+         "pubDate" : "Tue, 02 May 2023 20:57:37 +0000",
+         "title" : "Bangabandhu Asain Zone-3.2 Chess Championship-2023 Open - LIVE"
+      },
+      {
+         "description" : "The Open section of Bangabandhu Zone 3.2 Chess Championships 2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangabandhu-asain-zone-3-2-chess-championship-2023-open-participants/",
+         "pubDate" : "Tue, 02 May 2023 20:55:21 +0000",
+         "title" : "Bangabandhu Asain Zone-3.2 Chess Championship-2023 Open - Participants"
+      },
+      {
+         "description" : " &#8220;Self-pinning for immortality. Congrats Ding!!&#8221; GM Magnus Carlsen Congratulations GM Ding Liren for becoming the 17th World Chess Champion! This was a match for the ages. It had all sorts of drama in it, with the margin between agony and ecstasy being razor thin. Both players crossed that margin in both directions, sometimes in the <a href=\"https://chessimprover.com/self-pinning/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self-Pinning\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-pinning/\">Self-Pinning</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/self-pinning/",
+         "pubDate" : "Tue, 02 May 2023 20:01:41 +0000",
+         "title" : "Self-Pinning"
+      },
+      {
          "description" : "The sixth edition of the Salamanca Chess Festival took place on April 25-29. The Masters Tournament was the main event, with eight players (four men and four women) fighting in a single round-robin event. The time control was 40 minutes plus 5-second increments. Kirill Alekseenko and Jaime Santos were the top scorers with 5&frac12; points. Alekseenko was declared champion based on tiebreak criteria. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,8 +110,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-on-his-future-personal-life-motivation-and-more",
-         "pubDate" : "Tue, 02 May 2023 08:21:48 -0700",
-         "title" : "Carlsen On Lack Of Motivation, Classical Chess, New WC Formats, & Family Life"
+         "pubDate" : "Tue, 02 May 2023 08:21:00 -0700",
+         "title" : "Carlsen On Lack Of Motivation, Classical Chess, New WC Formats & Family Life"
       },
       {
          "description" : "GM Hikaru Nakamura picked up first place and $1,000 in the April edition of Bullet Brawl on Saturday after leapfrogging March&#39;s winner, GM Jose Martinez, with 10 seconds remaining on the arena clock. With 69 wins to his name in the two-hour arena,...",
@@ -98,70 +186,6 @@ news_feed (
          "title" : "Firouzja, Shevchenko, Kollars, Giri, Aronian Qualify For ChessKid Cup Division I"
       },
       {
-         "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/all-russian-chess-competition-among-mens-teams-major-league-round-1-results/",
-         "pubDate" : "Mon, 01 May 2023 21:46:12 +0000",
-         "title" : "All-Russian chess competition among men's teams \"Major League\" - Round 1 results"
-      },
-      {
-         "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/all-russian-chess-competition-among-mens-teams-major-league-participants/",
-         "pubDate" : "Mon, 01 May 2023 21:38:17 +0000",
-         "title" : "All-Russian chess competition among men's teams \"Major League\" - Participants"
-      },
-      {
-         "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxiv-russian-chess-championship-among-womens-teams-round-1-results/",
-         "pubDate" : "Mon, 01 May 2023 21:05:54 +0000",
-         "title" : "XXIV Russian Chess Championship among women's teams - Round 1 results"
-      },
-      {
-         "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxiv-russian-chess-championship-among-womens-teams-participants/",
-         "pubDate" : "Mon, 01 May 2023 18:52:53 +0000",
-         "title" : "XXIV Russian Chess Championship among women's teams -Participants"
-      },
-      {
-         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#160;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-1-results/",
-         "pubDate" : "Mon, 01 May 2023 18:32:33 +0000",
-         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 1 results"
-      },
-      {
-         "description" : "The Ramat Gan Masters Spring 2023 will take place from May 1st to June 26th 2023 in Ramat Gan, Israel. The time control is 90 minutes plus 30 seconds increment per move from move 1. The tournament is organized and monitored by International Organzier &#38; International Arbiter Paz Avineri. The 2023's edition of Ramat Gan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ramat-gan-masters-spring-a-2023-live/",
-         "pubDate" : "Mon, 01 May 2023 18:26:21 +0000",
-         "title" : "Ramat Gan Masters Spring A 2023 - LIVE"
-      },
-      {
-         "description" : "The Ramat Gan Masters Spring 2023 will take place from May 1st to June 26th 2023 in Ramat Gan, Israel. The time control is 90 minutes plus 30 seconds increment per move from move 1. The tournament is organized and monitored by International Organzier &#38; International Arbiter Paz Avineri. The 2023's edition of Ramat Gan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ramat-gan-masters-spring-a-2023-participants/",
-         "pubDate" : "Mon, 01 May 2023 18:24:03 +0000",
-         "title" : "Ramat Gan Masters Spring A 2023 - Participants"
-      },
-      {
-         "description" : "The tournament will take place May 4-10 this year, at the Elite Plaza Hotel in central Malmo. Eight players will play seven rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The home team is represented by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2023-live/",
-         "pubDate" : "Mon, 01 May 2023 18:14:59 +0000",
-         "title" : "TePe Sigeman & Co Chess Tournament 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-against-the-chess-club-regulars",
          "pubDate" : "Mon, 01 May 2023 06:00:00 -0700",
          "title" : "Play Chess Against The Chess Club Regulars"
-      },
-      {
-         "description" : "Closing ceremony of the World Chess Championship 2023 where Ding Liren receives the trophy of the 17th World Champion The 17 undisputed World Champions 1. Wilhelm Steinitz2. Emanuael Lasker3. Jose Raul Capablanca4. Alexander Alekhine5. Max Euwe6. Mikhail Botvinnik7. Vasily Smislov8. Mikhail Tal9. Tigran Petrosian10. Boris Spassky11. Bobby Fischer12. Anatoly Karpov13. Gary Kasparov14. Vladimir Kramnik15. Viswanathan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-receives-the-world-chess-champion-trophy-closing-ceremony/",
-         "pubDate" : "Mon, 01 May 2023 12:24:28 +0000",
-         "title" : "Ding Liren receives the World Chess Champion trophy (closing ceremony)"
       },
       {
          "description" : " While the 2023 World Championship was very exciting, I was not happy with how it was ultimately decided. I've long been opposed to what is a titled awarded awarded to the best 'long time control' player being determined by who is better at a completely different format. Lost in the excitement of Ding finding 46. ... Rg6 was the issue that Nepo would probably not have played 48.h4?? if the game was played until the normal time control. To me 46. ... Rg6 was a time scramble bluff, designed to induce 48. .. h4, a blunder even I saw coming while watching the match. FIDE for a long time has wanted shorter and shorter World Championship Matches, in part to encourage more bids from host cities/cou",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ding-liren-the-new-chess-world-champion-is-destinys-player/articleshow/99901655.cms",
          "pubDate" : "Mon, 01 May 2023 05:39:34 +0000",
          "title" : "Ding Liren: The new world champion is destiny's player"
-      },
-      {
-         "description" : "The tournament will take place May 4-10 this year, at the Elite Plaza Hotel in central Malmo. Eight players will play seven rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The home team is represented by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tepe-sigeman-co-chess-tournament-2023/",
-         "pubDate" : "Sun, 30 Apr 2023 21:49:39 +0000",
-         "title" : "TePe Sigeman & Co Chess Tournament 2023"
       },
       {
          "description" : "",
