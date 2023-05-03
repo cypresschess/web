@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2370",
+         "pubDate" : "Wed, 03 May 2023 00:47:44 +0000",
+         "title" : "Slovenian Championship: Jure Skoberne and Barbara Skuhala win titles"
+      },
+      {
          "description" : "The World Chess Championship 2023 and the victory of Ding Liren dominated the main page of Chessdom for the past week. Better late than never comes an interview for Chessdom.com with the winner of the 2023 Reykjavik Open GM Nils Grandelius Follow GM Grandelius on Twitter here Chessdom: Congratulations on winning the strong Reykjavik Open! []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -858,7 +866,7 @@ news_feed (
          "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about promoting pawns into queens (and more) in this beginner chess lecture. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-get-promotion-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about promoting pawns into queens (using concepts like opposition) in this beginner chess lecture. 2023.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-get-promotion-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-get-promotion-beginner-breakdown",
