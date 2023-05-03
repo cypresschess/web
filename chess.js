@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">World Chess (LSE: CHSS) continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Image-Armageddon.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The tournament will feature top-ranked players <b>Alexandra Kosteniuk</b> (Switzerland, blitz rating 2453, <b>Humpy Koneru</b> (India, blitz rating 2448), <b>Bibisara Assaubayeva</b> (Kazakhstan, blitz rating 2461),",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-armageddon-series-womens-week-to-launch-in-berlin-beginning/",
+         "pubDate" : "Wed, 03 May 2023 07:08:25 +0000",
+         "title" : "The Armageddon Series: Women's Week to launch in Berlin beginning May 8"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -178,7 +186,7 @@ news_feed (
          "title" : "Grivas World Championship wrap-up"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at world chess champion Ding Liren&#039;s rise as a player. Examine Ding&#039;s style through key games. 2023.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rise-king-ding-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2PqmgjBGaQk.jpg?itok=rHGTQpy3\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at world chess champion Ding Liren&#039;s rise as a player. Examine Ding&#039;s style through key games. 2023.05.02<br /> Ding Liren vs Alexander Grischuk, World Cup (2019): A20 English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972590\">https://www.chessgames.com/perl/chessgame?gid=1972590</a><br /> Jinshi Bai vs Ding Liren, Chinese Chess League (2017): E21 Nimzo-Indian, three knights variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1891363\">https://www.chessgames.com/perl/chessgame?gid=1891363</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/rise-king-ding-grandmasters-choice-gm-denes-boros",
