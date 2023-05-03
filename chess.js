@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Jan-Krzysztof Duda and Aram Hakobyan took home the victories in Titled Tuesday on May 2, both of them scoring 9.5 points out of the possible 11. Duda won on tiebreaks over higher-rated GMs Hikaru Nakamura and&#38;nbsp;Fabiano Caruana in the first ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-hakobyan-win-titled-tuesday-may-2-2023",
+         "pubDate" : "Wed, 03 May 2023 08:00:20 -0700",
+         "title" : "Duda Outlasts Nakamura, Caruana"
+      },
+      {
+         "description" : "The most exciting world championship match in recent history has come to an end and has produced the first Chinese World Chess Champion in Ding Liren. Ding is the 17th World Chess Champion and the new figurehead of world chess. We are sure to hear many more background stories about the course of the match soon. A few themes are already emerging. | Photo: Stev Bonhage (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-championship-there-is-still-a-lot-to-tell",
+         "pubDate" : "Wed, 03 May 2023 16:00:00 +0100",
+         "title" : "World Chess Championship: There is still a lot to tell..."
+      },
+      {
+         "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxiv-russian-chess-championship-among-womens-teams-live/",
+         "pubDate" : "Wed, 03 May 2023 14:39:53 +0000",
+         "title" : "XXIV Russian Chess Championship among women's teams - LIVE"
+      },
+      {
+         "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/all-russian-chess-competition-among-mens-teams-major-league-live/",
+         "pubDate" : "Wed, 03 May 2023 14:37:31 +0000",
+         "title" : "All-Russian chess competition among men's teams \"Major League\" - LIVE"
+      },
+      {
+         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-live/",
+         "pubDate" : "Wed, 03 May 2023 14:34:58 +0000",
+         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - LIVE"
+      },
+      {
+         "description" : " A few weeks ago I posted about the 1000 puzzle challenge. This was challenging my students to do1000 puzzles on lichess during the school holidays. It turns out that one of my students completed the challenge, which is an awesome effort. To put that into perspective, I could only manage 400 puzzles in the same time period, while other students hit the wall (so to speak) at around 250. So well done to Daniel Z! ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/update-on-1000-puzzle-challenge.html",
+         "pubDate" : "Wed, 03 May 2023 13:34:00 +0000",
+         "title" : "Update on the 1000 puzzle challenge"
+      },
+      {
+         "description" : "Have you ever dreamed of playing one-on-one with an NBA All-Star? It&#39;s game time! We&#39;ve added Charlotte Hornets forward Gordon Hayward to our starting line-up of chess bots for you to challenge today! Gordon is a huge chess fan and Chess.com reg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-with-nba-all-star-gordon-hayward",
+         "pubDate" : "Wed, 03 May 2023 06:00:00 -0700",
+         "title" : "Play Chess With NBA All-Star Gordon Hayward"
+      },
+      {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-8",
+         "pubDate" : "Wed, 03 May 2023 14:00:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week to launch in Berlin beginning May 8"
+      },
+      {
+         "description" : " Giving Checkmate. What an amazing feeling! And the goal of each and every game. But especially when starting out, easier said than done! In this article, I will explain how to checkmate a lone King in the Endgame with different piece configurations. After reading this article you will be able to finish off your opponents [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/checkmate/\">Checkmate: A Simple Guide To Checkmating The Lone King</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/checkmate/",
+         "pubDate" : "Wed, 03 May 2023 12:00:00 +0000",
+         "title" : "Checkmate: A Simple Guide To Checkmating The Lone King"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2371",
+         "pubDate" : "Wed, 03 May 2023 11:18:14 +0000",
+         "title" : "Dubai becomes the host for the inaugural edition of Global Chess League"
+      },
+      {
          "description" : "After his surprise win of the 2023 World Championship in Astana, Chinese GM Ding Liren spoke to 15 different Chinese media outlets, and \"did not sleep a minute all night.\" He also spoke to the British newspaper The Guardian and the Spanish El Pa&iacute;s. As did Ian Nepomniachtchi. Here are some revealing excerpts from those stories.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,30 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/33rd-national-under-17-girls-chess-championship-participants/",
          "pubDate" : "Tue, 02 May 2023 21:12:09 +0000",
          "title" : "33rd National Under-17 Girls Chess Championship - Participants"
-      },
-      {
-         "description" : "The Womem's section of Bangabandhu Asain Zone-3.2 Chess Championship-2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bangabandhu-asian-zone-3-2-chess-championship-2023-women-live/",
-         "pubDate" : "Tue, 02 May 2023 21:05:19 +0000",
-         "title" : "Bangabandhu Asian Zone-3.2 Chess Championship-2023 Women - LIVE"
-      },
-      {
-         "description" : "The Womem's section of Bangabandhu Asain Zone-3.2 Chess Championship-2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bangabandhu-asian-zone-3-2-chess-championship-2023-women-participants/",
-         "pubDate" : "Tue, 02 May 2023 21:02:54 +0000",
-         "title" : "Bangabandhu Asian Zone-3.2 Chess Championship-2023 Women - Participants"
-      },
-      {
-         "description" : "The Open section of Bangabandhu Zone 3.2 Chess Championships 2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bangabandhu-asain-zone-3-2-chess-championship-2023-open-live/",
-         "pubDate" : "Tue, 02 May 2023 20:57:37 +0000",
-         "title" : "Bangabandhu Asain Zone-3.2 Chess Championship-2023 Open - LIVE"
       },
       {
          "description" : " &#8220;Self-pinning for immortality. Congrats Ding!!&#8221; GM Magnus Carlsen Congratulations GM Ding Liren for becoming the 17th World Chess Champion! This was a match for the ages. It had all sorts of drama in it, with the margin between agony and ecstasy being razor thin. Both players crossed that margin in both directions, sometimes in the <a href=\"https://chessimprover.com/self-pinning/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self-Pinning\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-pinning/\">Self-Pinning</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1002,22 +1058,6 @@ news_feed (
          "title" : "Satty Zhuldyz Blitz - Live!"
       },
       {
-         "description" : "This is an important technique in rook endings and can be used by attacker and defender. How does White win in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-cut-off",
-         "pubDate" : "Tue, 25 Apr 2023 09:00:00 +0100",
-         "title" : "The cut off"
-      },
-      {
-         "description" : "Three games left, and Ding Liren is trailing Ian Nepomniachtchi 5:6. Will the top Chinese be able to catch his Russian opponent? The second-last free day of the Astana World Championship is a good time to take another look at the last two games. Once again we have deep, instructive analyses for you to study, kindly provided to us by grandmaster Efstratios Grivas, trainer and FIDE international organizer. Our replay app makes it very easy to follow the annotations. You can even start an engine to work out the most subtle questions you might have. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-nepo-ding-10-11",
-         "pubDate" : "Tue, 25 Apr 2023 08:00:00 +0100",
-         "title" : "Grivas on Nepo-Ding 10-11"
-      },
-      {
          "description" : "Congratulations to Saint Louis University (SLU) for winning the fifth season of the Collegiate Chess League (CCL). SLU fielded a strong roster of talented chess players, including GM Benjamin Bok, GM Nikolas Theodorou, GM Robby Kevlishvili, IM Sta...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1626,14 +1666,6 @@ news_feed (
          "title" : "TEDx Talk on Checkmating Bias: Increasing Women's Participation in Chess"
       },
       {
-         "description" : "There can be no complaints of &#34;boring draws&#34; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This time it was D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-6",
-         "pubDate" : "Sun, 16 Apr 2023 12:39:00 -0700",
-         "title" : "Ding Finds Mating Net In Game 6, Ties Match Score Again"
-      },
-      {
          "description" : " Chess Heroes: Openings is now available on Amazon here. Just to remind you: this is part of a series of books (other titles cover Checkmates, Tactics and Endings) designed for players rated 500+ who would like to progress towards competitive chess, and for those who teach at that level. It's a book of novice, rather <a href=\"https://chessimprover.com/chess-heroes-openings-part-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Openings (Part 1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-openings-part-1/\">Chess Heroes: Openings (Part 1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1704,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2338",
          "pubDate" : "Sat, 15 Apr 2023 16:38:51 +0000",
          "title" : "FIDE World Championship: Nepomniachtchi takes the lead again"
-      },
-      {
-         "description" : "Players and officials were surprised by snowfall, freezing temperatures, and heavy winds in Astana on Saturday, but the 2023 FIDE World Championship is heating up. In game five, GM Ian Nepomniachtchi broke away once again as he exploited his openi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-5",
-         "pubDate" : "Sat, 15 Apr 2023 06:25:00 -0700",
-         "title" : "Nepomniachtchi Breaks Away Again, Outplays Ding In Game 5"
       },
       {
          "description" : " FM Cameron McGowan is a new International Master after winning the 2023 Oceania Junior Championship. We scored a very impressive 8.5/9, leaving him 2 points ahead of FM Daniel Gong from new Zealand and CM Hamish Bassig from Australia. New Zealand FM Sravan Renjith has earned a provisional IM title for finishing top of the Under 18 sub group, but will need to get his rating over 2200 to be awarded the title. Lillian Lu won the Under 20 Girls event with 7.5/9, earning a provisional WIM title. WFM Alaina Vincent finished 2nd on tie-break ahead of CM Nadia Braganza and Ekaterina Gratchev. ",
@@ -1840,30 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2334",
          "pubDate" : "Wed, 12 Apr 2023 16:51:35 +0000",
          "title" : "Prizes of the FIDE - ISF World School Teams Online Chess Cup 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2333",
-         "pubDate" : "Wed, 12 Apr 2023 14:52:14 +0000",
-         "title" : "FIDE World Championship: Ding secures an important draw in game three"
-      },
-      {
-         "description" : "Ding Liren looked and sounded like a man transformed as he pressed Ian Nepomniachtchi before making a draw with the black pieces in Game 3 of the World Championship match in Astana. Ian still leads 2:1, but Ding credited his friends with helping him regain his confidence and understand that he'd simply been weighed down by the pressure of the match in the first two games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-passes-acid-test-in-world-championship-game-3",
-         "pubDate" : "Wed, 12 Apr 2023 13:13:11 +0000",
-         "title" : "Ding Liren passes acid test in World Championship Game 3 "
-      },
-      {
-         "description" : " If Chess improvement was easy, everyone would be a Grandmaster. What makes improvement difficult is that you usually only see results after a painful period. I recently realized this with my health when my therapist told me: \"To get to the Next Level, you will need to increase your effort in Gym, then suffer for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/effort-pain-improvement-cycle/\">The Effort-Pain-Improvement Cycle in Chess: Why It's Worth It</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/effort-pain-improvement-cycle/",
-         "pubDate" : "Wed, 12 Apr 2023 12:00:00 +0000",
-         "title" : "The Effort-Pain-Improvement Cycle in Chess: Why It's Worth It"
       }
    ]
 }
