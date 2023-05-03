@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 28th edition of the TePe Sigeman & Co Chess Tournament will take place on May 4-10 at the Elite Plaza Hotel in central Malm&ouml;. An exciting 8-player lineup mixing veterans and rising stars will compete in a single round-robin event. The likes of Peter Svidler and Boris Gelfand will battle it out against 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and Nils Grandelius, plus 14-year-old Abhimanyu Mishra, complete the field. | Pictured: Peter Svidler and Boris Gelfand at the 2013 Candidates Tournament. | Photo: Ray Morris-Hill",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-preview",
+         "pubDate" : "Wed, 03 May 2023 20:00:00 +0100",
+         "title" : "Gukesh, Svidler and Gelfand included in compelling TePe Sigeman lineup"
+      },
+      {
+         "description" : "The 4th Stepan Avagyan Memorial is a 10-player round-robin tournament taking place from 3&#x2013;11 May 2023 in Jermuk, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will follow live games. More :&#xA0;All-Russian chess competition among men&#x2019;s teams []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/4th-stepan-avagyan-memorial-participants/",
+         "pubDate" : "Wed, 03 May 2023 18:18:02 +0000",
+         "title" : "4th Stepan Avagyan Memorial - Participants"
+      },
+      {
+         "description" : "The 4th Stepan Avagyan Memorial is taking place from 3&#x2013;11 May 2023 in Jermuk, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Andrey Esipenko, Samuel Sevian, S.L.Narayanan, Nodirbek Yakubboev, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/4th-stepan-avagyan-memorial-live/",
+         "pubDate" : "Wed, 03 May 2023 18:14:36 +0000",
+         "title" : "4th Stepan Avagyan Memorial - LIVE"
+      },
+      {
          "description" : "GMs Jan-Krzysztof Duda and Aram Hakobyan took home the victories in Titled Tuesday on May 2, both of them scoring 9.5 points out of the possible 11. Duda won on tiebreaks over higher-rated GMs Hikaru Nakamura and&#38;nbsp;Fabiano Caruana in the first ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duda-hakobyan-win-titled-tuesday-may-2-2023",
-         "pubDate" : "Wed, 03 May 2023 08:00:20 -0700",
+         "pubDate" : "Wed, 03 May 2023 08:00:00 -0700",
          "title" : "Duda Outlasts Nakamura, Caruana"
       },
       {
@@ -168,22 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/33rd-national-under-17-open-chess-championship-participants/",
          "pubDate" : "Tue, 02 May 2023 21:20:01 +0000",
          "title" : "33rd National Under-17 Open Chess Championship - Participants"
-      },
-      {
-         "description" : "The Girls section of the 33rd Indian National Under-17 Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Mallick Mrittika, Sarayu Velpula, Kumawat Dakshita, Tanisha S []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/33rd-national-under-17-girls-chess-championship-live/",
-         "pubDate" : "Tue, 02 May 2023 21:15:05 +0000",
-         "title" : "33rd National Under-17 Girls Chess Championship - LIVE"
-      },
-      {
-         "description" : "The Girls section of the 33rd Indian National Under-17 Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Mallick Mrittika, Sarayu Velpula, Kumawat Dakshita, Tanisha S []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/33rd-national-under-17-girls-chess-championship-participants/",
-         "pubDate" : "Tue, 02 May 2023 21:12:09 +0000",
-         "title" : "33rd National Under-17 Girls Chess Championship - Participants"
       },
       {
          "description" : " &#8220;Self-pinning for immortality. Congrats Ding!!&#8221; GM Magnus Carlsen Congratulations GM Ding Liren for becoming the 17th World Chess Champion! This was a match for the ages. It had all sorts of drama in it, with the margin between agony and ecstasy being razor thin. Both players crossed that margin in both directions, sometimes in the <a href=\"https://chessimprover.com/self-pinning/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self-Pinning\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-pinning/\">Self-Pinning</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1050,14 +1058,6 @@ news_feed (
          "title" : "Scholastic chess x FIDE: the goal is 50 million kids"
       },
       {
-         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is taking place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian are joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-live",
-         "pubDate" : "Tue, 25 Apr 2023 09:50:00 +0100",
-         "title" : "Satty Zhuldyz Blitz - Live!"
-      },
-      {
          "description" : "Congratulations to Saint Louis University (SLU) for winning the fifth season of the Collegiate Chess League (CCL). SLU fielded a strong roster of talented chess players, including GM Benjamin Bok, GM Nikolas Theodorou, GM Robby Kevlishvili, IM Sta...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1848,22 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2335",
          "pubDate" : "Wed, 12 Apr 2023 21:15:56 +0000",
          "title" : "Timur Gareyev and Josefine Heinemann win Kenya Open Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2336",
-         "pubDate" : "Wed, 12 Apr 2023 19:00:31 +0000",
-         "title" : "Mitropacup 2023 starts in Mali Losinj, Croatia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2334",
-         "pubDate" : "Wed, 12 Apr 2023 16:51:35 +0000",
-         "title" : "Prizes of the FIDE - ISF World School Teams Online Chess Cup 2023"
       }
    ]
 }
