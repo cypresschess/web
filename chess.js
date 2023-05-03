@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After his surprise win of the 2023 World Championship in Astana, Chinese GM Ding Liren spoke to 15 different Chinese media outlets, and \"did not sleep a minute all night.\" He also spoke to the British newspaper The Guardian and the Spanish El Pa&iacute;s. As did Ian Nepomniachtchi. Here are some revealing excerpts from those stories.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-and-nepo-in-the-press",
+         "pubDate" : "Wed, 03 May 2023 12:17:24 +0100",
+         "title" : "Ding and Nepo in the press"
+      },
+      {
+         "description" : "During the World Championship match against Ian Nepomniachtchi the new World Champion Ding Liren had a number of helpers in Astana. But as Ding revealed in an interview with Leontxo Garcia in the Spanish newspaper \"El Pa&iacute;s\", in critical moments of the match Ding also received help by thoughts and words of Louise Gl&uuml;ck, American poet and winner of the 2020 Nobel Prize of Literature, and by the \"Concept of Resistance\" by the French philosopher and author Albert Camus, winner of the 1957 Nobel Prize of Literature. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-literature-and-philosophy-helped-ding-liren-to-become-world-champion-an-interview-in-el-pas",
+         "pubDate" : "Wed, 03 May 2023 11:36:31 +0100",
+         "title" : "How literature and philosophy helped Ding Liren to become World Champion - an interview in \"El Pa&iacute;s\""
+      },
+      {
+         "description" : "Ian Nepomniachtchi is back from Astana and back in Twitter. He concluded the Nepo &#x2013; Ding final of the World Chess Championship 2023 with a dramatic tiebreak, and despite the loss he seems ready to return to normal activity. His first chance will be the Grand Chess Tour 2023 where he will meet again with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-first-tweet-after-the-world-championship-tweetoftheday/",
+         "pubDate" : "Wed, 03 May 2023 09:55:31 +0000",
+         "title" : "Ian Nepomniachtchi - first tweet after the World Championship #TweetOftheDay"
+      },
+      {
+         "description" : "The 2nd Edition of Inter College Women's Chess Tournament-2023, organized by the Department of Physical Education and Sports, Govt. College for Women, MA Road Srinagar,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2nd-edition-of-inter-college-womens-chess-tournament-2023-at-srinagar/",
+         "pubDate" : "Wed, 03 May 2023 09:13:49 +0000",
+         "title" : "2nd Edition of Inter College Women's Chess Tournament-2023 at Srinagar"
+      },
+      {
+         "description" : "One of Robert Ris long-time students is Eline Roebers, who advanced from a chess beginner to an International Master. Ris has a clear message - if you are new to chess, and want to get better - learning how to calculate is key! This is why his calculation Fritztrainers are so popular. Two new ones were published very recently - time to ask the Dutch IM about the \"making of\" these courses. Robert shared interesting insights and also showed a number of nice examples!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-calculation-is-key-for-beginners",
+         "pubDate" : "Wed, 03 May 2023 10:00:00 +0100",
+         "title" : "Robert Ris - Calculation is key for beginners"
+      },
+      {
          "description" : " <p class=\"lead\">World Chess (LSE: CHSS) continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Image-Armageddon.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The tournament will feature top-ranked players <b>Alexandra Kosteniuk</b> (Switzerland, blitz rating 2453, <b>Humpy Koneru</b> (India, blitz rating 2448), <b>Bibisara Assaubayeva</b> (Kazakhstan, blitz rating 2461),",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bangabandhu-asain-zone-3-2-chess-championship-2023-open-live/",
          "pubDate" : "Tue, 02 May 2023 20:57:37 +0000",
          "title" : "Bangabandhu Asain Zone-3.2 Chess Championship-2023 Open - LIVE"
-      },
-      {
-         "description" : "The Open section of Bangabandhu Zone 3.2 Chess Championships 2023 is taking place in Dhaka, Bangladesh, between May 2nd and 10th. Time control is 90 minutes for 40 moves, then an additional 30 minutes for the rest of game, with a 30-second increment from move one. It is a 9-round Swiss tournament held with participation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bangabandhu-asain-zone-3-2-chess-championship-2023-open-participants/",
-         "pubDate" : "Tue, 02 May 2023 20:55:21 +0000",
-         "title" : "Bangabandhu Asain Zone-3.2 Chess Championship-2023 Open - Participants"
       },
       {
          "description" : " &#8220;Self-pinning for immortality. Congrats Ding!!&#8221; GM Magnus Carlsen Congratulations GM Ding Liren for becoming the 17th World Chess Champion! This was a match for the ages. It had all sorts of drama in it, with the margin between agony and ecstasy being razor thin. Both players crossed that margin in both directions, sometimes in the <a href=\"https://chessimprover.com/self-pinning/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self-Pinning\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-pinning/\">Self-Pinning</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -994,14 +1026,6 @@ news_feed (
          "title" : "Saint Louis University Wins Collegiate Chess League Title"
       },
       {
-         "description" : "Playing white, Ian Nepomniachtchi simplified the position on move 19 in game 11 of the World Championship match - a decision which led to a quick draw. Nepo still has a 1-point lead over Ding Liren, who will get three more chances to even the score. Tuesday is a rest day in Astana. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g11",
-         "pubDate" : "Mon, 24 Apr 2023 22:55:00 +0100",
-         "title" : "World Championship Game 11: Nepo keeps it safe"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Benjamin Gledura talks to Tatev Abrahamyan after defeating Dariusz Swiercz in the eighth round of the 2023 Spring Chess Classic. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gledura-beats-swiercz-c4-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4If2w5U4EE.jpg?itok=jbS5WEf8\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cheating-problem-in-go",
          "pubDate" : "Mon, 24 Apr 2023 18:00:00 +0100",
          "title" : "Cheating problem in Go"
-      },
-      {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at some recent endgame highlights from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-237-highlights-from-the-german-bundesliga",
-         "pubDate" : "Mon, 24 Apr 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #237: Highlights from the German Bundesliga"
       },
       {
          "description" : "",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/",
          "pubDate" : "Mon, 24 Apr 2023 03:52:14 +0000",
          "title" : "2023 World Chess Championship: Game 9"
-      },
-      {
-         "description" : "The Satty Zhuldyz rapid and blitz tournament is taking place in Astana as a side event of the World Championship match. A number of international chess stars are participating. Karsten M&uuml;ller has been following the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Hou Yifan | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-1",
-         "pubDate" : "Mon, 24 Apr 2023 04:30:00 +0100",
-         "title" : "Endgames from Kazakhstan"
       },
       {
          "description" : "",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/effort-pain-improvement-cycle/",
          "pubDate" : "Wed, 12 Apr 2023 12:00:00 +0000",
          "title" : "The Effort-Pain-Improvement Cycle in Chess: Why It's Worth It"
-      },
-      {
-         "description" : " The third game of the FIDE World Championship match between Ian Nepomniachtchi and Ding Liren in Astana, Kazakhstan finished in a draw by repetition in just 30 moves. Nepomniachtchi with whtie switched from the 1.e4 of game one to 1.d4 and said he wasn't surprised by the solid Queen's Gambit, that said he didn't seem to have any improvement in mind over the game Anish Giri against Ding from the online Chessable Masters in 2022. Giri got nowhere in that game and Nepomniachtchi got nothing today and when the players repeated the position was dynamically balanced. After worryingly nervy behaviour in the first two games Ding Liren looked much more like his old self today. Friend's had rallied r",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-holds-a-comfortable-draw-with-black-in-world-championship-game-3",
-         "pubDate" : "Wed, 12 Apr 2023 15:12:00 +0400",
-         "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
       }
    ]
 }
