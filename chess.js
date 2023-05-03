@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-3-results/",
+         "pubDate" : "Wed, 03 May 2023 20:27:29 +0000",
+         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 3 results"
+      },
+      {
+         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 65 section will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-65/",
+         "pubDate" : "Wed, 03 May 2023 20:22:22 +0000",
+         "title" : "English Seniors Championships 2023 - Over 65"
+      },
+      {
+         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 50 section will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-50-years/",
+         "pubDate" : "Wed, 03 May 2023 20:18:53 +0000",
+         "title" : "English Seniors Championships 2023 - Over 50"
+      },
+      {
+         "description" : "The Japan Chess Championship 2023 will take place from 3-7 May 2023 in Tokyo, Japan. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 9-round Swiss system tournament with participation of Tu Tran Thanh, Mirai Aoshima, Ryosuke Nanjo, Shinya Kojima, Kohei Yamada, Atsuhiko Kobayashi, Alex []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/japan-chess-championship-2023-participants/",
+         "pubDate" : "Wed, 03 May 2023 20:08:47 +0000",
+         "title" : "Japan Chess Championship 2023 - Participants"
+      },
+      {
          "description" : "The 28th edition of the TePe Sigeman & Co Chess Tournament will take place on May 4-10 at the Elite Plaza Hotel in central Malm&ouml;. An exciting 8-player lineup mixing veterans and rising stars will compete in a single round-robin event. The likes of Peter Svidler and Boris Gelfand will battle it out against 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and Nils Grandelius, plus 14-year-old Abhimanyu Mishra, complete the field. | Pictured: Peter Svidler and Boris Gelfand at the 2013 Candidates Tournament. | Photo: Ray Morris-Hill",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,38 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2370",
          "pubDate" : "Wed, 03 May 2023 00:47:44 +0000",
          "title" : "Slovenian Championship: Jure Skoberne and Barbara Skuhala win titles"
-      },
-      {
-         "description" : "The World Chess Championship 2023 and the victory of Ding Liren dominated the main page of Chessdom for the past week. Better late than never comes an interview for Chessdom.com with the winner of the 2023 Reykjavik Open GM Nils Grandelius Follow GM Grandelius on Twitter here Chessdom: Congratulations on winning the strong Reykjavik Open! []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-nils-grandelius/",
-         "pubDate" : "Tue, 02 May 2023 22:05:48 +0000",
-         "title" : "Interview with Nils Grandelius"
-      },
-      {
-         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#160;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-2-results/",
-         "pubDate" : "Tue, 02 May 2023 21:27:16 +0000",
-         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 2 results"
-      },
-      {
-         "description" : "The Open section of 33rd National Under-17 Open Chess Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Suresh Harsh, S Harshad, S Aswath, Arjun Adireddy, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/33rd-national-under-17-open-chess-championship-live/",
-         "pubDate" : "Tue, 02 May 2023 21:22:50 +0000",
-         "title" : "33rd National Under-17 Open Chess Championship - LIVE"
-      },
-      {
-         "description" : "The Open section of 33rd National Under-17 Open Chess Championship is taking place in Punjab, India, between May 1st and 9th. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is a 11-round Swiss tournament with participation of Suresh Harsh, S Harshad, S Aswath, Arjun Adireddy, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/33rd-national-under-17-open-chess-championship-participants/",
-         "pubDate" : "Tue, 02 May 2023 21:20:01 +0000",
-         "title" : "33rd National Under-17 Open Chess Championship - Participants"
       },
       {
          "description" : " &#8220;Self-pinning for immortality. Congrats Ding!!&#8221; GM Magnus Carlsen Congratulations GM Ding Liren for becoming the 17th World Chess Champion! This was a match for the ages. It had all sorts of drama in it, with the margin between agony and ecstasy being razor thin. Both players crossed that margin in both directions, sometimes in the <a href=\"https://chessimprover.com/self-pinning/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self-Pinning\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-pinning/\">Self-Pinning</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1840,14 +1840,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-examination-erode-1st-2nd-april-2023/",
          "pubDate" : "Thu, 13 Apr 2023 08:12:32 +0000",
          "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2335",
-         "pubDate" : "Wed, 12 Apr 2023 21:15:56 +0000",
-         "title" : "Timur Gareyev and Josefine Heinemann win Kenya Open Championship"
       }
    ]
 }
