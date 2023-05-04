@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Participants of the 2023 HBCU Chess Classic at Morris Brown CollegePhoto by Daaim Shabazz Dear Chess Community,The HBCU Chess Classic took place on April 22nd and many noted figures in the African-American chess community were in attendance. US Chess was also represented by Melinda Matthews who did a number of interviews including this writer. This The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/\">US Chess on HBCU Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/",
+         "pubDate" : "Thu, 04 May 2023 03:29:16 +0000",
+         "title" : "US Chess on HBCU Chess"
+      },
+      {
+         "description" : "The second edition of ChessKid Stars vs. Streamers is set for Sunday, May 14 at 1 p.m. Pacific/ 4 p.m. Eastern. Some of the world&#38;rsquo;s top young chess talents will take on some of the most famous faces in the world of chess content creation, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-stars-vs-streamers-rematch-announced",
+         "pubDate" : "Wed, 03 May 2023 15:27:00 -0700",
+         "title" : "ChessKid Stars vs Streamers: Rematch Set For May 14"
+      },
+      {
          "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "National Schools Girls Championships finals"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 7: 4th decisive game in a row as Ding collapses Match Score: 4-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 7Tuesday, 18 April 2023 Ding Liren dropped Game 7 after playing a masterpiece that was the talk of the chess world. It is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/20/2023-world-chess-championship-game-7/\">2023 World Chess Championship: Game 7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/20/2023-world-chess-championship-game-7/",
-         "pubDate" : "Thu, 20 Apr 2023 04:56:32 +0000",
-         "title" : "2023 World Chess Championship: Game 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-melts-down-in-time-trouble-as-nepomniachtchi-regains-the-lead-after-7-games",
          "pubDate" : "Tue, 18 Apr 2023 17:10:00 +0400",
          "title" : "Ding melts down in time trouble as Nepomniachtchi regains the lead after 7 games - 7"
-      },
-      {
-         "description" : "GM Ding Liren produced the latest surprise in the seventh game of the 2023 FIDE World Championship. He opted for a French Defense to combat GM Ian Nepomniachtchi&#39;s 1.e4 but fell at the crucial moment after blundering under severe time pressure. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-7",
-         "pubDate" : "Tue, 18 Apr 2023 06:02:00 -0700",
-         "title" : "Nepomniachtchi Wins After Ding's Time Pressure Collapse, Takes Lead Again"
       },
       {
          "description" : "",
