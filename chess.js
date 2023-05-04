@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The first leg of the 2023 Grand Chess Tour series opens tomorrow and will be held from 5-16 May in Bucharest, Romania. The event is played as a 10-player round-robin tournament, with world top players in the field and the prize fund of $350.000. The participants are: GM Ian Nepomniachtchi, GM Ding Liren, GM Richard Rapport, GM Alireza&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/\">Read More &#187;</a></span>",
+         "description" : "Chess.com&#38;rsquo;s premier online event showcasing the world&#38;rsquo;s top young talent, the Junior Speed Chess Championship, is back for 2023&#38;mdash;and now with a record $50,000 prize fund.&#38;nbsp; The fourth edition of this fast and furious tournam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-announcement",
+         "pubDate" : "Thu, 04 May 2023 12:07:00 -0700",
+         "title" : "Gukesh D Heads Record $50,000 Junior Speed Chess Championship Line-up"
+      },
+      {
+         "description" : "Chess is not only a sport. Richard Rapport and Wei Yi are two of the most creative players in the circuit, and about six years ago they were also the two highest-rated junior players in the world. In a 4-game match organized in December 2016, Rapport defeated Wei in the Armageddon decider. The games, which took place in Yancheng, were predictably entertaining.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-rapport-wei-2016",
+         "pubDate" : "Thu, 04 May 2023 20:00:00 +0100",
+         "title" : "Throwback Thursday: Rapport beats Wei in creativity-filled match"
+      },
+      {
+         "description" : "NASA literally took chess out of this world in April as the International Space Station (ISS), situated in space, played against the National Aeronautics and Space Administration&#39;s (NASA) Mission Control, on Earth. The first game occurred concurre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nasa-chess-outer-space-iss-mission-control",
+         "pubDate" : "Thu, 04 May 2023 10:33:00 -0700",
+         "title" : "NASA Takes Chess To Outer Space; ISS Defeats Mission Control In 1st Game"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2372",
+         "pubDate" : "Thu, 04 May 2023 15:45:47 +0000",
+         "title" : "Chicago to host three-day Chess for Freedom conference"
+      },
+      {
+         "description" : "The first leg of the 2023 Grand Chess Tour series opens tomorrow and will be held from 5-16 May in Bucharest, Romania. The event is played as a 10-player round-robin tournament, with world top players in the field including the World Chess Champion Ding Liren and the Challenger Ian Nepomniachtchi. The total prize fund is $350.000 and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/",
@@ -42,36 +74,12 @@ news_feed (
          "title" : "Ding, Nepo and Rapport to face off in Romania"
       },
       {
-         "description" : " The 28th Sigeman & Co tournament takes place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/28th-sigeman-co-2023",
-         "pubDate" : "Thu, 4 May 2023 14:02:00 +0400",
-         "title" : "28th Sigeman & Co 2023 - Games and Results"
-      },
-      {
          "description" : "Maksim Chigaev, Bogdan-Daniel Deac and Pentala Harikrishna, all with 8.5/10 points, competed for the first place in Grand Prix Romania First Stage. Maksim Chigaev is the big winner, while Bogdan-Daniel Deac finished second and took the silver medal. Pentala Harikrishna succeed to take the third place. TePe Sigeman 2023: Participants and information / Live []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/maksim-chigaev-won-grand-prix-romania-first-stage/",
          "pubDate" : "Thu, 04 May 2023 10:00:35 +0000",
          "title" : "Maksim Chigaev won Grand Prix Romania - First Stage"
-      },
-      {
-         "description" : " The 4th Stepan Avagyan Memorial takes place in Jermuk, Armenia 3rd-11th May 2023, Category 16. Players: Samuel Sevian, Andrey Esipenko, M. Amin Tabatabaei, Haik M. Martirosyan, Narayanan.S.L, Thai Dai Van Nguyen, Nodirbek Yakubboev, Frederik Svane, Robert Hovhannisyan and Artur Davtyan.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4th-stepan-avagyan-memorial-2023",
-         "pubDate" : "Thu, 4 May 2023 13:57:00 +0400",
-         "title" : "4th Stepan Avagyan Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : " The 56th Capablanca Memorial takes place in Havana Wed 3rd May 2023\tFri 12th May 2023. The Category 14 Elite event has these players: Eduardo Iturrizaga Bonelli, Raunak Sadhwani, Rasmus Svane, Jonas Buhl Bjerre, Alexandr Fier, Carlos Daniel Albornoz Cabrera, Luis Ernesto Quesada Perez, Omar Almeida Quintana, Lelys Stanley Martinez Duany and Elier Miranda Mesa. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/56th-capablanca-memorial-2023",
-         "pubDate" : "Thu, 4 May 2023 13:54:00 +0400",
-         "title" : "56th Capablanca Memorial 2023 - Games and Results"
       },
       {
          "description" : "The Capablanca Memorial Elite 2023 is taking place from 3&#x2013;11 May 2023 in Havana, Cuba. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Eduardo Iturrizaga Bonelli, Alexandr Fier, Raunak []",
@@ -170,7 +178,7 @@ news_feed (
          "title" : "US Chess on HBCU Chess"
       },
       {
-         "description" : "The second edition of ChessKid Stars vs. Streamers is set for Sunday, May 14 at 1 p.m. Pacific/ 4 p.m. Eastern. Some of the world&#38;rsquo;s top young chess talents will take on some of the most famous faces in the world of chess content creation, ...",
+         "description" : "The second edition of ChessKid Stars vs. Streamers is set for Sunday, May 14 at 1 p.m. Pacific / 4 p.m. Eastern. Some of the world&#38;rsquo;s top young chess talents will take on some of the most famous faces in the world of chess content creation,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesskid-stars-vs-streamers-rematch-announced",
@@ -626,14 +634,6 @@ news_feed (
          "title" : "That was all very silly"
       },
       {
-         "description" : " Ding Liren won the fourth and final rapid tie-break game against Ian Nepomniachtchi to become the new World Chess Champion. It's been an astonishing run of circumstance that's led to Ding becoming Champion including today's hard fought rapid tie-break games. Game one today was a strange d-pawn opening where white grabbed the c5 pawn, Nepomniachtchi went for a counter attack on the king with 22...Rh5 setting a nasty trap, 23.Qc2 was better for white, 23.Rb1 Ne5! left white needing to be accurate to hold which he did. Game two was a Ruy Lopez where Nepomniachtchi stood better. 21.exd6 (21.Bg3!) allowed Ding back in the game and equality. Nepomniachtchi did continue to set problems until near ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-liren-is-the-new-world-chess-champion",
-         "pubDate" : "Sun, 30 Apr 2023 16:36:00 +0400",
-         "title" : "Ding Liren is the new World Chess Champion - TB"
-      },
-      {
          "description" : "The Calculation Training series continues with two volumes explaining the main tactical motifs of our game. Mastering these tactical motifs is essential to deepen your understanding of the game and become a better player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2364",
          "pubDate" : "Sat, 29 Apr 2023 16:37:35 +0000",
          "title" : "Ding Liren and Ian Nepomniachtchi head for final tie-breaker"
-      },
-      {
-         "description" : " The 14 game match for the World Chess Championship between Ian Nepomniachtchi and Ding Liren finished in a 7-7 draw after a final 14th game of near unbearable tension. There will be a rapid and possibly blitz tie-breaks on Sunday to decide the title. Ding Liren had the white pieces and chose the 5.Bd2 Nimzo-Indian. Pretty soon the players were on their own but also it was clear that after 9...dxc4 black had no problems. Well perhaps it wasn't clear to Ding because he went for the super aggressive 12.Ng5 h6 13.h4. Ding was soon disappointed though as 13...Qc7 effectively refuted the attacking ideas and 14.Be2 acknowledged that. There were some computer lines that promised black an advantage ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/the-world-chess-championship-will-be-decided-by-rapid-and-possibly-blitz-tie-breaks-on-sunday",
-         "pubDate" : "Sat, 29 Apr 2023 20:33:00 +0400",
-         "title" : "The World Chess Championship will be decided by rapid and possibly blitz tie-breaks on Sunday - 14"
       },
       {
          "description" : "\"This match is totally nuts!\" said Anish Giri as Ding Liren went all-in with the white pieces in the final classical game of the match. It backfired spectacularly, with Ian Nepomniachtchi getting a series of chances until in the endgame he once more looked on the verge of becoming World Champion. One rushed move, however, and Ding Liren snatched his chance to force a drawn rook endgame and take the match to a playoff on Sunday.",
@@ -890,14 +882,6 @@ news_feed (
          "title" : "Ding gives respite to Nepomniachtchi as game 13 ends in a draw"
       },
       {
-         "description" : " The thirteenth game of the FIDE World Chess Championship in Astana, Kazakhstan finished in a draw by repetition on move 40. Both Nepomniachtchi and Ding Liren had chances for advantages during the game before equality was reached at first time control. This result leaves the match tied at 6.5 each with Ding having the white pieces in the final game on Saturday. There will be rapid and blitz tie-breaks in Monday if that game is drawn. Nepomniachtchi played 1.e4, a Closed Ruy Lopez was chosen by Ding, 10.Be3 was not quite new but no-one has played it at an elite level. Ding played some fairly standard ideas quite quickly and after 14.d4 (Caruana suggests opening the a-file first with 14.axb4 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-and-ding-draw-game-13-and-are-tied-going-into-the-final-world-championship-game",
-         "pubDate" : "Thu, 27 Apr 2023 17:39:00 +0400",
-         "title" : "Nepomniachtchi and Ding draw game 13 and are tied going into the final World Championship game - 13"
-      },
-      {
          "description" : " After the catastrophe that was Game 12 of the 2023 World Championship, Nepo seems to have followed the old Russian advice of drawing the game following a loss. Even then he was a little fortunate, as Ding looked to have a promising position around move 20, before the game reached a kind of dynamic equality. So it may come down to a single game, or failing a decisive result, a playoff. Based on the nervous play of both players, I do not think I can predict a result here. It may come to nerves rather than skill, something both players seem to have troubled controlling. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -962,14 +946,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 11"
       },
       {
-         "description" : "Former sole leader Arjun Erigaisi faltered on the second day of blitz at the Satty Zhuldyz Rapid and Blitz tournament in Kazakhstan. The only two-time FIDE World Cup winner in history, Levon Aronian, took his chance and won the event with a round to spare. Arjun finished second with 21&frac12;/33 points and Haik Martirosyan finished third with 21/33. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-blitz",
-         "pubDate" : "Wed, 26 Apr 2023 21:00:00 +0100",
-         "title" : "Levon Aronian wins Satty Zhuldyz Rapid and Blitz 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,14 +992,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/simple-sidelines/",
          "pubDate" : "Wed, 26 Apr 2023 12:00:00 +0000",
          "title" : "Save Time and Energy with a Simple Approach to Sidelines"
-      },
-      {
-         "description" : " Ian Nepomniachtchi suffered a devastating loss to Ding Liren in the 12th game of the World Chess Championship in Astana, Kazakhstan. Not only did that mean that the match was tied at 6-6 with two games to go but it also represented a huge emotional blow, earlier it seemed that he was actually going to win the game and virtually assure being the new World Champion. Nepomniachtchi looked very distressed during the 16 minutes of thought at move 35 as he tried to find any move to continue his completely wrecked position. Ding returned to 1.d4, Nepomniachtchi offered the Queen's Gambit, Ding chose the Colle system, and almost immediately Nepomniachtchi took the game into fresh pastures. 5...Qc7 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-loses-game-12-after-almost-having-the-title-within-his-grasp",
-         "pubDate" : "Wed, 26 Apr 2023 15:46:00 +0400",
-         "title" : "Nepomniachtchi loses game 12 after almost having the title within his grasp - 12"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/v9uRj8qT8h8\" width=\"320\" youtube-src-id=\"v9uRj8qT8h8\"></iframe></div><br /> ",
@@ -1258,14 +1226,6 @@ news_feed (
          "title" : "7th CSIT World Sport Games (WSG) Rapid and Blitz"
       },
       {
-         "description" : " Ian Nepomniachtchi and Ding Liren drew the eleventh game of their World Championships match by repetition in 39 moves and less than two hours of play. Nepomniachtchi again played 1.e4 and the Ruy Lopez followed, no Berlin and with 6.d3. The line of the Closed Ruy Lopez that was played is fairly topical. 14.Qd2 was rare and 14...Bg7 was new. Commentators wondered if black might at least be under pressure, 15...c4!? seemed like a bold way of going about things, 18...Rb8 was the best computer continuation. 19.dxc4 *19.Qe2 the way to keep the pressure) quickly led to liquidation of most of the pieces and a drawn Rook and Pawn endgame, Nepomniachtchi thought he might get a symbolic advantage, as",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/quiet-draw-in-game-11-of-the-world-chess-championship",
-         "pubDate" : "Mon, 24 Apr 2023 13:20:00 +0400",
-         "title" : "Quiet draw in game 11 of the World Chess Championship - 11"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 9: 82-move draw after intense drama Match Score: 5-4 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 9Friday, 21 April 2023 After a fierce battle in round eight, both players appeared to have dialled down the intensity. Game nine was the calm after the storm, despite The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/\">2023 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1322,14 +1282,6 @@ news_feed (
          "title" : "Nepomniachtchi Holds Ding To Draw, Closes In On World Championship Title"
       },
       {
-         "description" : " Ding Liren was surprised by Ian Nepomniachtchi in game 10 of the World Chess Championships and the game finished in a draw after three and a half hours play with bare kings on the board. This means Nepomniachtchi retains a one point lead going into the final four games of the match. The game saw a return to the English Opening by Ding, today he chose a Sicilian Four Knights with 4.e4. 4...Bc5 allowed a fork trick with 5.Nxe5 Nxe5 6.d4 recovering the piece but it turns out this might not be at all bad for black. 9....Bc5 seemed to catch Ding out and they then followed a Titled Tuesday blitz game Nepomniachtchi played in 2020 until 14.0-0 which was new from Ding. The variation is a sharp atte",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-preparation-earns-a-relatively-comfortable-draw-with-black-in-world-championship-game-10",
-         "pubDate" : "Sun, 23 Apr 2023 14:52:00 +0400",
-         "title" : "Nepomniachtchi preparation earns a relatively comfortable draw with black in World Championship game 10 - 10"
-      },
-      {
          "description" : "On behalf of All India Chess Federation, All Orissa Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at Hotel Apsara, Sambalpur Odisha from 21-22",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1384,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2353",
          "pubDate" : "Fri, 21 Apr 2023 16:45:10 +0000",
          "title" : "Nepomniachtchi maintains the lead following a draw in the longest game of the match"
-      },
-      {
-         "description" : " Ian Nepomniachtchi showed clear disappointment at the conclusion of the drawn game 9 of the World Chess Championship in Astana, Kazakhstan. The players have changed opening variations every day and today Ding Liren played the Berlin Defence to the Ruy Lopez. This option has been one of the most common choices in high level chance for a long time now, it's solid and black can research deeply. Nepomniachtchi chose 4.d3 and Ding's preparation seemed to run quite deep. 15....Qc7 was a very interesting idea but Ding did not follow it up correctly, 17...Rb8?! whilst not horrible is the move that started to cause difficulties, the pawn sacrifice 17...Bf8 was best (it's so sound it's even doubtful ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-frustrated-by-game-9-draw-but-still-leads-the-world-championship-by-a-point",
-         "pubDate" : "Fri, 21 Apr 2023 19:36:00 +0400",
-         "title" : "Nepomniachtchi frustrated by game 9 draw but still leads the World Championship by a point - 9"
       },
       {
          "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 5-4 with five games left Russia's Ian Nepomniachtchi, 32, has a fortunate 5-4 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, aided by",
@@ -1474,22 +1418,6 @@ news_feed (
          "title" : "Ding Liren blows huge chance as prep leaks online"
       },
       {
-         "description" : "GM Ding Liren almost bounced back in sensational fashion following a gutwrenching round-seven loss, falling just short after a herculean effort from GM Ian Nepomniachtchi, resulting in a draw in the eighth round of the 2023 FIDE World Championship...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-8",
-         "pubDate" : "Thu, 20 Apr 2023 06:32:00 -0700",
-         "title" : "Nepomniachtchi Miraculously Holds After Beatdown By Ding"
-      },
-      {
-         "description" : " The eighth game of the World Chess Championship in Astana, Kazakhstan finished in a draw but only after Ding Liren missed very good chances to win. Off the board it seems that people have found some of Ding's training games on Lichess where these unusual lines, and presumably other things he intends to use were practiced. Ding played 4.e3 against the Nimzo-Indian but only on the way to a Saemisch pawn structure with 5.a3, he then played 9.Ra2 which he believed would be a powerful surprise. Nepomniachtchi didn't take long over choosing 9...b6 which would be most people's first idea in this structure. Ding followed up with a very temporary piece sacrifice and then a break in the centre. 17.d6",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-misses-a-huge-chance-to-level-things-up-again-in-world-championship-game-8",
-         "pubDate" : "Thu, 20 Apr 2023 16:55:00 +0400",
-         "title" : "Ding misses a huge chance to level things up again in World Championship game 8 - 8"
-      },
-      {
          "description" : "The ECF is pleased to announce that Student Silver membership is available FREE for the first year to student players who have not previously been...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1536,14 +1464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2348",
          "pubDate" : "Wed, 19 Apr 2023 16:36:25 +0000",
          "title" : "FIDE World School Championship crosses halfway mark"
-      },
-      {
-         "description" : "Titled Tuesday on April 18 featured several storylines beyond GM Tuan Minh Le winning the early event and GM Maxime Vachier-Lagrave winning the late event. GM Igor Kovalenko, who has been on the front lines in Ukraine&#39;s attempt to fight off Russia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-vachier-lagrave-win-titled-tuesday-april-18-2023",
-         "pubDate" : "Wed, 19 Apr 2023 08:06:00 -0700",
-         "title" : "Ukrainian Surprise In Early Titled Tuesday, Eight-Way Tie In Late"
       },
       {
          "description" : " When I was 8 years old I moved back to PNG (where I was born) from Melbourne. The big junior sport at my school was Soccer, although Rugby League was also played. As the season was about to start I was listening to some of my classmates saying how good they were. Deciding to join in the conversation I mentioned how I had scored some massive number of goals when I lived in Melbourne. So they invited me to join the team, with the first trial match being that upcoming weekend. The only problem with my claim is that I had never played a game of soccer in my life. And as the day approached I knew I was about to get found out. In fact it was quite soon after the game began that the coach realised",
@@ -1650,14 +1570,6 @@ news_feed (
          "title" : "Ding Liren freezes and loses heartbreaking Game 7"
       },
       {
-         "description" : " There was a fourth decisive white win in a row in the FIDE World Chess Championship match between Ian Nepomniachtchi and Ding Liren in Astana Kazakhstan. Ding Liren melted down in time trouble taking a slightly better position to a loss in only a few moves. Ding surprised Nepomniachtchi again, this time by choosing the French Defence as black. Nepomniachtchi chose the Tarrasch Variation 3.Nd2 which is what he has been playing recently online and both players seemed to be on their own around move 10. Ding was probably fine but he had to be careful as Nepomniachtchi developed a dangerous looking attack. After 16.Rad8 Ding had just 43 minutes to reach move 40, already dangerous territory. Nepo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-melts-down-in-time-trouble-as-nepomniachtchi-regains-the-lead-after-7-games",
-         "pubDate" : "Tue, 18 Apr 2023 17:10:00 +0400",
-         "title" : "Ding melts down in time trouble as Nepomniachtchi regains the lead after 7 games - 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1730,14 +1642,6 @@ news_feed (
          "title" : "Chess Heroes: Openings (Part 1)"
       },
       {
-         "description" : " Ding Liren won the sixth game of the FIDE World Chess Championship match Astana, Kazakhstan to level the score against his opponent Ian Nepomniachtchi. Ding chose the London System which appeared for the very first time in a title match. Nepomniachtchi replied with one of the very main lines but after 14...Nd7 he slipped into an uncomfortable position. 20.Qg3 offered black an endgame, it was possible to take this and hope to hang on. 23.Rb3 was a good way of playing, 23.b4 was preferred by the engines. After this both sides seemed to find the best moves. 32.Rc5 was certainly a natural continuation but 32.Qe1 holding everything for a few moves seems to be better. Black's last chance seemed t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-back-level-after-finishing-game-6-of-the-world-chess-championship-with-a-flourish",
-         "pubDate" : "Sun, 16 Apr 2023 20:01:00 +0400",
-         "title" : "Ding back level after finishing game 6 of the World Chess Championship with a flourish - 6"
-      },
-      {
          "description" : "It is come to light that many participants awarded with Senior National Arbiter title in the year 2021-22 &#38; 2022-23 are not applied for FIDE",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1808,14 +1712,6 @@ news_feed (
          "link" : "https://www.thearticle.com/was-bobby-fischer-robbed-in-havana/",
          "pubDate" : "Sat, 15 Apr 2023 12:30:54 +0000",
          "title" : "Was Bobby Fischer robbed in Havana?"
-      },
-      {
-         "description" : " Ian Nepomniachtchi struck back with a powerfully conducted win against Ding Liren in game five of their World Championship match in Astana, Kazakhstan. After getting nothing against the Queen's Gambit in Game 3 Nepomniachtchi switched back to the 1.e4 he used in game 1. The closed Ruy Lopez has long been Ding's weapon, this gives black and white a lot of choices and is a high skill opening. Both players will have definitely been familiar with the game Firouzja-Giri from Miami last year which was also won by white in the end. 12.Bg5 was Nepomniachtchi's new move he said later \"The position was part of my prep. But I should credit my opponent that for almost all the game he played quite sensi",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-retakes-the-lead-in-the-world-championship-3-2-after-a-smooth-win",
-         "pubDate" : "Sat, 15 Apr 2023 16:26:00 +0400",
-         "title" : "Nepomniachtchi retakes the lead in the World Championship 3-2 after a smooth win - 5"
       },
       {
          "description" : " There isn't a single best opening for Beginners. But there are three key traits you need to look out for in an opening, especially if you just started playing chess. If you can answer the following three questions with yes, then the opening you are looking at is probably good for you: 1) Can I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/beginner-openings-traits/\">The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
