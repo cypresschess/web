@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first leg of the 2023 Grand Chess Tour series opens tomorrow and will be held from 5-16 May in Bucharest, Romania. The event is played as a 10-player round-robin tournament, with world top players in the field and the prize fund of $350.000. The participants are: GM Ian Nepomniachtchi, GM Ding Liren, GM Richard Rapport, GM Alireza&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/",
+         "pubDate" : "Thu, 04 May 2023 15:03:44 +0000",
+         "title" : "Grand Chess Tour Romania 2023 opens in Bucharest"
+      },
+      {
+         "description" : "The new ChessBase Magazine #213 offers, among many other things, 48 extensively annotated games, from the WR Masters 2023 as well as the EICC 2023, and in the \"Special\" our authors present their favourite games of Vishy Anand. From the WR Masters tournament winner Levon Aronian as well as Vincent Keymer and Jan-Krzysztof Duda annotate their best games. In addition, Gukesh and Praggnanandhaa each present one of their games in the video! You can watch Aronian's analysis of his first round game with Praggnanandhaa in abbreviated form here - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-213-the-analysis",
+         "pubDate" : "Thu, 04 May 2023 16:00:00 +0100",
+         "title" : "ChessBase Magazine #213: \"The Analysis\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99992056.cms\" />India's long wait for a world champion may not be very far as chess wizard Viswanathan Anand hopes that \"some Indians\" will qualify for the Candidates Tournament next year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/if-were-lucky-we-may-have-an-indian-challenger-to-ding-liren-next-year-viswanathan-anand/articleshow/99992056.cms",
+         "pubDate" : "Thu, 04 May 2023 13:56:52 +0000",
+         "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
+      },
+      {
+         "description" : "Today, 15.00 local time, the TePe Sigeman & Co Chess Tournament begins in Malm&ouml;, Sweden. An exciting 8-player line-up mixing veterans and rising stars compete in a round-robin event. Peter Svidler and Boris Gelfand face 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and local hero Nils Grandelius (pictured), plus 14-year-old Abhimanyu Mishra, complete the field. Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Thu, 04 May 2023 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co: Live"
+      },
+      {
          "description" : "Almost immediately after playing a gruelling three-week match, world champion Ding Liren and Ian Nepomniachtchi will play a 9-round single round-robin in Bucharest, the Superbet Chess Classic. The first event of this year's Grand Chess Tour, it will also see Richard Rapport, Ding's second in Astana, among the participants. A star-studded field includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,36 @@ news_feed (
          "title" : "Ding, Nepo and Rapport to face off in Romania"
       },
       {
+         "description" : " The 28th Sigeman & Co tournament takes place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/28th-sigeman-co-2023",
+         "pubDate" : "Thu, 4 May 2023 14:02:00 +0400",
+         "title" : "28th Sigeman & Co 2023 - Games and Results"
+      },
+      {
          "description" : "Maksim Chigaev, Bogdan-Daniel Deac and Pentala Harikrishna, all with 8.5/10 points, competed for the first place in Grand Prix Romania First Stage. Maksim Chigaev is the big winner, while Bogdan-Daniel Deac finished second and took the silver medal. Pentala Harikrishna succeed to take the third place. TePe Sigeman 2023: Participants and information / Live []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/maksim-chigaev-won-grand-prix-romania-first-stage/",
          "pubDate" : "Thu, 04 May 2023 10:00:35 +0000",
          "title" : "Maksim Chigaev won Grand Prix Romania - First Stage"
+      },
+      {
+         "description" : " The 4th Stepan Avagyan Memorial takes place in Jermuk, Armenia 3rd-11th May 2023, Category 16. Players: Samuel Sevian, Andrey Esipenko, M. Amin Tabatabaei, Haik M. Martirosyan, Narayanan.S.L, Thai Dai Van Nguyen, Nodirbek Yakubboev, Frederik Svane, Robert Hovhannisyan and Artur Davtyan.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/4th-stepan-avagyan-memorial-2023",
+         "pubDate" : "Thu, 4 May 2023 13:57:00 +0400",
+         "title" : "4th Stepan Avagyan Memorial 2023 - Games and Results"
+      },
+      {
+         "description" : " The 56th Capablanca Memorial takes place in Havana Wed 3rd May 2023\tFri 12th May 2023. The Category 14 Elite event has these players: Eduardo Iturrizaga Bonelli, Raunak Sadhwani, Rasmus Svane, Jonas Buhl Bjerre, Alexandr Fier, Carlos Daniel Albornoz Cabrera, Luis Ernesto Quesada Perez, Omar Almeida Quintana, Lelys Stanley Martinez Duany and Elier Miranda Mesa. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/56th-capablanca-memorial-2023",
+         "pubDate" : "Thu, 4 May 2023 13:54:00 +0400",
+         "title" : "56th Capablanca Memorial 2023 - Games and Results"
       },
       {
          "description" : "The Capablanca Memorial Elite 2023 is taking place from 3&#x2013;11 May 2023 in Havana, Cuba. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Eduardo Iturrizaga Bonelli, Alexandr Fier, Raunak []",
@@ -122,20 +178,20 @@ news_feed (
          "title" : "ChessKid Stars vs Streamers: Rematch Set For May 14"
       },
       {
-         "description" : "The Capablanca Memorial Elite 2023 is taking place from 3&#x2013;11 May 2023 in Havana, Cuba. It is a 10-player round-robin tournament with participation of Eduardo Iturrizaga Bonelli, Alexandr Fier, Raunak Sadhwani, Rasmus Svane, Jonas Buhl Bjerre, Carlos Daniel Albornoz Cabrera, Luis Ernesto Quesada Perez, Omar Almeida Quintana, Lelys Stanley Martinez Duany and Elier Miranda Mesa. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-elite-2023/",
-         "pubDate" : "Wed, 03 May 2023 21:27:00 +0000",
-         "title" : "Capablanca Memorial Elite 2023"
-      },
-      {
          "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-3-results/",
          "pubDate" : "Wed, 03 May 2023 20:27:29 +0000",
          "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 3 results"
+      },
+      {
+         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 65 section will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-65/",
+         "pubDate" : "Wed, 03 May 2023 20:22:22 +0000",
+         "title" : "English Seniors Championships 2023 - Over 65"
       },
       {
          "description" : "The 28th edition of the TePe Sigeman & Co Chess Tournament will take place on May 4-10 at the Elite Plaza Hotel in central Malm&ouml;. An exciting 8-player lineup mixing veterans and rising stars will compete in a single round-robin event. The likes of Peter Svidler and Boris Gelfand will battle it out against 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and Nils Grandelius, plus 14-year-old Abhimanyu Mishra, complete the field. | Pictured: Peter Svidler and Boris Gelfand at the 2013 Candidates Tournament. | Photo: Ray Morris-Hill",
@@ -914,14 +970,6 @@ news_feed (
          "title" : "Levon Aronian wins Satty Zhuldyz Rapid and Blitz 2023"
       },
       {
-         "description" : "The wild ride continues. Ding Liren defeated Ian Nepomniachtchi in a game full of ups and downs to level the score in the World Championship match. Ding had a good position out of the opening, but soon lost the thread, leaving Nepo with a real chance to all but secure overall match victory with a win. And then came Nepo's collapse. The Russian first gave up his advantage and then blundered into a lost position. Two more classical games will be played in Astana. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g12",
-         "pubDate" : "Wed, 26 Apr 2023 18:50:00 +0100",
-         "title" : "World Championship Game 12: Nepo falls apart, Ding evens the score"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -992,14 +1040,6 @@ news_feed (
          "link" : "https://www.europechess.org/acc-ecu-chess-symposium/",
          "pubDate" : "Wed, 26 Apr 2023 07:19:28 +0000",
          "title" : "ACC - ECU Chess Symposium"
-      },
-      {
-         "description" : "Hulu's Impact X Nightline is a weekly news magazine offering hard-hitting investigative reports, deep dives on stories in the news cycle, profiles of newsmakers, and celebrity interviews. Unfiltered, straight to the source reporting on the stories you're talking about and the ones you soon will be. This week, episode 24 is all about chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-greatest-chess-scandal",
-         "pubDate" : "Wed, 26 Apr 2023 08:00:00 +0100",
-         "title" : "The Greatest Chess Scandal"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 10: Ding couldn't break through in Game 10. Match Score: 5&frac12;-4&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 10Sunday, 23 April 2023 With Ding playing white in Game 10, this match has officially entered the final phase and seems to be settling down The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-10/\">2023 World Chess Championship: Game 10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1816,38 +1856,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/apr/14/ding-liren-strikes-back-hard-after-poor-start-against-ian-nepomniachtchi",
          "pubDate" : "Fri, 14 Apr 2023 07:00:07 +0000",
          "title" : "Ding Liren strikes back hard after poor start against Ian Nepomniachtchi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2337",
-         "pubDate" : "Thu, 13 Apr 2023 15:15:10 +0000",
-         "title" : "FIDE World Championship: Ding Liren strikes back with a victory"
-      },
-      {
-         "description" : " The 2023 Oceania Junior and Youth Championship has played 6 rounds, and the tension is quite noticeable. FM Cameron McGowan leads the main event (Under 20 Open) with 5.5/6, beating 2nd seed FM Albert Winkelman in round 6. CM Hamish Bassig is in 2nd on 5/6, with FM Daniel Gong in 3rd. As this event is awarding titles on both Under 20 and Under 18 categories, top 2 (or possibly 3) is the goal for potential IM's, while top 6 is the target for potential FM's. The Under 20 Girls is even closer with a 4 way tie at the top of the table. Lillian Lu, Alaina Vincent, Ekaterina Gratchev and Om O'Carroll are on 5/6, and are battling it out for the top 3 places. For other players across the tournament, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-oceania-youth-past-halfway.html",
-         "pubDate" : "Thu, 13 Apr 2023 13:54:00 +0000",
-         "title" : "2023 Oceania Youth - Past halfway"
-      },
-      {
-         "description" : "Ding Liren is truly back after a pawn sacrifice and sustained pressure saw Ian Nepomniachtchi crack in Game 4 of the FIDE World Championship in Astana. \"A little hard to believe!\" is how Ding Liren described his realisation that his opponent had blundered, though Ding demonstrated his new-found confidence by taking only a minute to play the winning move. It's now 2:2 going into the second rest day, with 10 games to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-pounces-on-blunder-to-win-game-4",
-         "pubDate" : "Thu, 13 Apr 2023 13:13:59 +0000",
-         "title" : "Ding Liren pounces on blunder to win Game 4"
-      },
-      {
-         "description" : " Ding Liren won the fourth game of his FIDE World Chess Championship match in Almaty, Kazakhstan, against Ian Nepomniachtchi to bring the match back level at 2-2 with 10 games remaining of this 14 game match. After appearing anxious in the first two games Ding just visibly looked much better during games three and four. Often seconds are behind the scenes but Richard Rapport was known to be working for Ding and is accompanying him to the games. There seems to be now a pretty happy Ding camp. After a comfortable draw in game three with black Ding managed to set some problems for Nepomniachtchi with white today. The variation chosen of the English Sicilian Four Knights is pretty topical and in",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-back-level-after-a-serious-blunder-from-nepomniachtchi-cost-him-game-4-of-the-world-chess-championship",
-         "pubDate" : "Thu, 13 Apr 2023 17:00:00 +0400",
-         "title" : "Ding back level after a serious blunder from Nepomniachtchi cost him game 4 of the World Chess Championship - 4"
       }
    ]
 }
