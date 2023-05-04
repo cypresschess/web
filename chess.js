@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you like to play elephant takes horse in the Ruy Lopez? Or promote your farmer to a virgin in the endgame? Did you know there are players who do this all the time? In an interesting article Frank Jacobs has vividly traced the diversification of piece names from the original Sanskrit to modern day chess. You'll be surprised how the bishop is seen in different countries all over the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-names-of-chess-pieces",
+         "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
+         "title" : "The names of chess pieces"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #566, Merijn van Delft looks at the game that made Ding Liren the 17th World Champion in the history of chess: the fourth game of the World Championship match tiebreaker. A historically important, tense and instructive encounter! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-566-ian-nepomniachtchi-vs-ding-liren-the-decisive-game",
+         "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
+         "title" : "Game of the Week #566: Ian Nepomniachtchi vs Ding Liren - The decisive game"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Vincent Keymer Nils Grandelius from round 1 of TePe Sigeman 2023. The other pairings of the round include: Boris Gelfand Arjun ErigaisiPeter Svidler Abhi MishraJorden Van Forest Gukesh DVincent Keyment Nils Grandelius TePe Sigeman []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vincent-keymer-nils-grandelius-tepe-sigeman-2023/",
+         "pubDate" : "Thu, 04 May 2023 06:46:46 +0000",
+         "title" : "Vincent Keymer - Nils Grandelius, TePe Sigeman 2023"
+      },
+      {
+         "description" : "Please find the complete list of Arbiters attended online refresher seminar from Feb 2023-Apr 2024 . List of Arbiters",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/list-of-arbiters-attended-refresher-seminar-2023-24/",
+         "pubDate" : "Thu, 04 May 2023 06:18:02 +0000",
+         "title" : "List of Arbiters attended refresher seminar 2023-24"
+      },
+      {
          "description" : " Participants of the 2023 HBCU Chess Classic at Morris Brown CollegePhoto by Daaim Shabazz Dear Chess Community,The HBCU Chess Classic took place on April 22nd and many noted figures in the African-American chess community were in attendance. US Chess was also represented by Melinda Matthews who did a number of interviews including this writer. This The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/\">US Chess on HBCU Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "Gukesh, Svidler and Gelfand included in compelling TePe Sigeman lineup"
       },
       {
-         "description" : "The 4th Stepan Avagyan Memorial is a 10-player round-robin tournament taking place from 3&#x2013;11 May 2023 in Jermuk, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will follow live games. More :&#xA0;All-Russian chess competition among men&#x2019;s teams []",
+         "description" : "The 4th Stepan Avagyan Memorial is a 10-player round-robin tournament taking place from 3&#x2013;11 May 2023 in Jermuk, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Follow the live games here. More events live today : TePe Sigeman []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/4th-stepan-avagyan-memorial-participants/",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-literature-and-philosophy-helped-ding-liren-to-become-world-champion-an-interview-in-el-pas",
          "pubDate" : "Wed, 03 May 2023 11:36:31 +0100",
          "title" : "How literature and philosophy helped Ding Liren to become World Champion - an interview in \"El Pa&iacute;s\""
-      },
-      {
-         "description" : "Ian Nepomniachtchi is back from Astana and back in Twitter. He concluded the Nepo &#x2013; Ding final of the World Chess Championship 2023 with a dramatic tiebreak, and despite the loss he seems ready to return to normal activity. His first chance will be the Grand Chess Tour 2023 where he will meet again with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-first-tweet-after-the-world-championship-tweetoftheday/",
-         "pubDate" : "Wed, 03 May 2023 09:55:31 +0000",
-         "title" : "Ian Nepomniachtchi - first tweet after the World Championship #TweetOftheDay"
       },
       {
          "description" : "The 2nd Edition of Inter College Women's Chess Tournament-2023, organized by the Department of Physical Education and Sports, Govt. College for Women, MA Road Srinagar,",
@@ -1050,22 +1074,6 @@ news_feed (
          "title" : "Junior Hybrid Friendly"
       },
       {
-         "description" : "The sixth edition of the Salamanca Chess Festival is taking place on April 25-29. The Masters Tournament, including Veselin Topalov, Sara Khadem and Vasyl Ivanchuk, kicks off on Wednesday at 17.30. An eight-player field (four men and four women) will fight over the board in rapid chess (40 minutes plus 5-second increments). The festival includes a number of educational and cultural side events. | Pictured: The playing hall during the fifth edition (2021)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2023-preview",
-         "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
-         "title" : "Sixth edition of the Salamanca Festival with Topalov, Khadem and Ivanchuk"
-      },
-      {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-4",
-         "pubDate" : "Tue, 25 Apr 2023 12:00:00 +0100",
-         "title" : "Jan Markos: What you need to know about the Queen (3)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-back-level-after-a-serious-blunder-from-nepomniachtchi-cost-him-game-4-of-the-world-chess-championship",
          "pubDate" : "Thu, 13 Apr 2023 17:00:00 +0400",
          "title" : "Ding back level after a serious blunder from Nepomniachtchi cost him game 4 of the World Chess Championship - 4"
-      },
-      {
-         "description" : "A Senior National Arbiter seminar and examination was organized by Erode District Chess Circle on behalf of Tamil Nadu State Chess Association and All India",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-examination-erode-1st-2nd-april-2023/",
-         "pubDate" : "Thu, 13 Apr 2023 08:12:32 +0000",
-         "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
       }
    ]
 }
