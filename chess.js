@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Almost immediately after playing a gruelling three-week match, world champion Ding Liren and Ian Nepomniachtchi will play a 9-round single round-robin in Bucharest, the Superbet Chess Classic. The first event of this year's Grand Chess Tour, it will also see Richard Rapport, Ding's second in Astana, among the participants. A star-studded field includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-preview",
+         "pubDate" : "Thu, 04 May 2023 11:30:00 +0100",
+         "title" : "Ding, Nepo and Rapport to face off in Romania"
+      },
+      {
+         "description" : "Maksim Chigaev, Bogdan-Daniel Deac and Pentala Harikrishna, all with 8.5/10 points, competed for the first place in Grand Prix Romania First Stage. Maksim Chigaev is the big winner, while Bogdan-Daniel Deac finished second and took the silver medal. Pentala Harikrishna succeed to take the third place. TePe Sigeman 2023: Participants and information / Live []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maksim-chigaev-won-grand-prix-romania-first-stage/",
+         "pubDate" : "Thu, 04 May 2023 10:00:35 +0000",
+         "title" : "Maksim Chigaev won Grand Prix Romania - First Stage"
+      },
+      {
+         "description" : "The Capablanca Memorial Elite 2023 is taking place from 3&#x2013;11 May 2023 in Havana, Cuba. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Eduardo Iturrizaga Bonelli, Alexandr Fier, Raunak []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-elite-2023-live/",
+         "pubDate" : "Thu, 04 May 2023 09:43:53 +0000",
+         "title" : "Capablanca Memorial Elite 2023 - LIVE"
+      },
+      {
+         "description" : "The Capablanca Memorial Open 2023 is taking place from 3&#x2013;12 May 1923 in Havana, Cuba. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Jose Fernando Cuenca Jimenez, Luis Galego, Ermes Espinosa Veloz, Rider Diaz Murgada, Michel Alejandro Diaz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-open-2023-live/",
+         "pubDate" : "Thu, 04 May 2023 09:37:32 +0000",
+         "title" : "Capablanca Memorial Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Capablanca Memorial Open 2023 is taking place from 3&#x2013;12 May 1923 in Havana, Cuba. Capablanca Memorial is a 10-round Swiss tournament with participation of Jose Fernando Cuenca Jimenez, Luis Galego, Ermes Espinosa Veloz, Rider Diaz Murgada, Michel Alejandro Diaz Perez, Luis Daniel Rodriguez Hernandez, Renier Vazquez Igarza, Santiago Avila Pavas, Dylan Isidro Berdayes Ason, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-open-2023/",
+         "pubDate" : "Thu, 04 May 2023 09:34:04 +0000",
+         "title" : "Capablanca Memorial Open 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Peter Svidler Abhi Mishra from round 1 of TePe Sigeman 2023. The other pairings of the round include: Boris Gelfand Arjun ErigaisiVincent Keymer Nils GrandeliusJorden Van Forest Gukesh D TePe Sigeman 2023: Participants and information []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-svidler-abhi-mishra-tepe-sigeman-2023/",
+         "pubDate" : "Thu, 04 May 2023 09:19:14 +0000",
+         "title" : "Peter Svidler - Abhi Mishra, TePe Sigeman 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Jorden Van Forest Gukesh Dfrom round 1 of TePe Sigeman 2023. The other pairings of the round include: Peter Svidler Abhi MishraBoris Gelfand Arjun ErigaisiVincent Keyment Nils Grandelius TePe Sigeman 2023: Participants and information / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jorden-van-forest-gukesh-d-tepe-sigeman-2023/",
+         "pubDate" : "Thu, 04 May 2023 09:15:19 +0000",
+         "title" : "Jorden Van Forest - Gukesh D, TePe Sigeman 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Boris Gelfand Arjun Erigaisi from round 1 of TePe Sigeman 2023. The other pairings of the round include: Peter Svidler Abhi MishraJorden Van Forest Gukesh DVincent Keyment Nils Grandelius TePe Sigeman 2023: Participants and information []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/boris-gelfand-arjun-erigaisi-tepe-sigeman-2023/",
+         "pubDate" : "Thu, 04 May 2023 09:11:32 +0000",
+         "title" : "Boris Gelfand - Arjun Erigaisi, TePe Sigeman 2023"
+      },
+      {
+         "description" : " One thing that surprised me in the World Championship match was Ding Lirin's use of simple openings which shifted the emphasis of the struggle to the middle game. This is an approach I've long recommended to Tiger Chess students because it gives them time to study other important aspects of the game. Two out of <a href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ding Lirin's Use Of Tiger Chess Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\">Ding Lirin's Use Of Tiger Chess Openings</a> appeared first on <a rel=\"nofollow\" href=",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/",
+         "pubDate" : "Thu, 04 May 2023 08:39:29 +0000",
+         "title" : "Ding Lirin's Use Of Tiger Chess Openings"
+      },
+      {
          "description" : "Do you like to play elephant takes horse in the Ruy Lopez? Or promote your farmer to a virgin in the endgame? Did you know there are players who do this all the time? In an interesting article Frank Jacobs has vividly traced the diversification of piece names from the original Sanskrit to modern day chess. You'll be surprised how the bishop is seen in different countries all over the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +90,7 @@ news_feed (
          "title" : "Game of the Week #566: Ian Nepomniachtchi vs Ding Liren - The decisive game"
       },
       {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Vincent Keymer Nils Grandelius from round 1 of TePe Sigeman 2023. The other pairings of the round include: Boris Gelfand Arjun ErigaisiPeter Svidler Abhi MishraJorden Van Forest Gukesh DVincent Keyment Nils Grandelius TePe Sigeman []",
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Vincent Keymer Nils Grandelius from round 1 of TePe Sigeman 2023. The other pairings of the round include: Boris Gelfand Arjun ErigaisiPeter Svidler Abhi MishraJorden Van Forest Gukesh D TePe Sigeman 2023: Participants and information []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/vincent-keymer-nils-grandelius-tepe-sigeman-2023/",
@@ -50,6 +122,14 @@ news_feed (
          "title" : "ChessKid Stars vs Streamers: Rematch Set For May 14"
       },
       {
+         "description" : "The Capablanca Memorial Elite 2023 is taking place from 3&#x2013;11 May 2023 in Havana, Cuba. It is a 10-player round-robin tournament with participation of Eduardo Iturrizaga Bonelli, Alexandr Fier, Raunak Sadhwani, Rasmus Svane, Jonas Buhl Bjerre, Carlos Daniel Albornoz Cabrera, Luis Ernesto Quesada Perez, Omar Almeida Quintana, Lelys Stanley Martinez Duany and Elier Miranda Mesa. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/capablanca-memorial-elite-2023/",
+         "pubDate" : "Wed, 03 May 2023 21:27:00 +0000",
+         "title" : "Capablanca Memorial Elite 2023"
+      },
+      {
          "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -58,52 +138,12 @@ news_feed (
          "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 3 results"
       },
       {
-         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 65 section will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-65/",
-         "pubDate" : "Wed, 03 May 2023 20:22:22 +0000",
-         "title" : "English Seniors Championships 2023 - Over 65"
-      },
-      {
-         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 50 section will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-50-years/",
-         "pubDate" : "Wed, 03 May 2023 20:18:53 +0000",
-         "title" : "English Seniors Championships 2023 - Over 50"
-      },
-      {
-         "description" : "The Japan Chess Championship 2023 will take place from 3-7 May 2023 in Tokyo, Japan. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 9-round Swiss system tournament with participation of Tu Tran Thanh, Mirai Aoshima, Ryosuke Nanjo, Shinya Kojima, Kohei Yamada, Atsuhiko Kobayashi, Alex []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/japan-chess-championship-2023-participants/",
-         "pubDate" : "Wed, 03 May 2023 20:08:47 +0000",
-         "title" : "Japan Chess Championship 2023 - Participants"
-      },
-      {
          "description" : "The 28th edition of the TePe Sigeman & Co Chess Tournament will take place on May 4-10 at the Elite Plaza Hotel in central Malm&ouml;. An exciting 8-player lineup mixing veterans and rising stars will compete in a single round-robin event. The likes of Peter Svidler and Boris Gelfand will battle it out against 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and Nils Grandelius, plus 14-year-old Abhimanyu Mishra, complete the field. | Pictured: Peter Svidler and Boris Gelfand at the 2013 Candidates Tournament. | Photo: Ray Morris-Hill",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-preview",
          "pubDate" : "Wed, 03 May 2023 20:00:00 +0100",
          "title" : "Gukesh, Svidler and Gelfand included in compelling TePe Sigeman lineup"
-      },
-      {
-         "description" : "The 4th Stepan Avagyan Memorial is a 10-player round-robin tournament taking place from 3&#x2013;11 May 2023 in Jermuk, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Follow the live games here. More events live today : TePe Sigeman []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4th-stepan-avagyan-memorial-participants/",
-         "pubDate" : "Wed, 03 May 2023 18:18:02 +0000",
-         "title" : "4th Stepan Avagyan Memorial - Participants"
-      },
-      {
-         "description" : "The 4th Stepan Avagyan Memorial is taking place from 3&#x2013;11 May 2023 in Jermuk, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Andrey Esipenko, Samuel Sevian, S.L.Narayanan, Nodirbek Yakubboev, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4th-stepan-avagyan-memorial-live/",
-         "pubDate" : "Wed, 03 May 2023 18:14:36 +0000",
-         "title" : "4th Stepan Avagyan Memorial - LIVE"
       },
       {
          "description" : "GMs Jan-Krzysztof Duda and Aram Hakobyan took home the victories in Titled Tuesday on May 2, both of them scoring 9.5 points out of the possible 11. Duda won on tiebreaks over higher-rated GMs Hikaru Nakamura and&#38;nbsp;Fabiano Caruana in the first ...",
@@ -120,30 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-chess-championship-there-is-still-a-lot-to-tell",
          "pubDate" : "Wed, 03 May 2023 16:00:00 +0100",
          "title" : "World Chess Championship: There is still a lot to tell..."
-      },
-      {
-         "description" : "The XXIV Russian Chess Championship among women's teams will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top ten []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxiv-russian-chess-championship-among-womens-teams-live/",
-         "pubDate" : "Wed, 03 May 2023 14:39:53 +0000",
-         "title" : "XXIV Russian Chess Championship among women's teams - LIVE"
-      },
-      {
-         "description" : "The All-Russian chess competition among men's teams &#8220;Major League&#8221; &#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/all-russian-chess-competition-among-mens-teams-major-league-live/",
-         "pubDate" : "Wed, 03 May 2023 14:37:31 +0000",
-         "title" : "All-Russian chess competition among men's teams \"Major League\" - LIVE"
-      },
-      {
-         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-live/",
-         "pubDate" : "Wed, 03 May 2023 14:34:58 +0000",
-         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - LIVE"
       },
       {
          "description" : " A few weeks ago I posted about the 1000 puzzle challenge. This was challenging my students to do1000 puzzles on lichess during the school holidays. It turns out that one of my students completed the challenge, which is an awesome effort. To put that into perspective, I could only manage 400 puzzles in the same time period, while other students hit the wall (so to speak) at around 250. So well done to Daniel Z! ",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/1976-haifa-olympiad-artwork.html",
          "pubDate" : "Tue, 25 Apr 2023 15:34:00 +0000",
          "title" : "1976 Haifa Olympiad Artwork"
-      },
-      {
-         "description" : "Our \"Iniyan Challenge\" saw a lot of readers getting interested, and we received some excellent analysis from them. Today we want to give you a Computer Challenge. It is a position in which your chess engines will not give you the solution if you ask them - even if you run them for a very long time. You have to come up with the logic and strategy of the solution yourself, and then confirm everything with the help of the computer. Can you do that?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/computer-challenge-01",
-         "pubDate" : "Tue, 25 Apr 2023 16:00:00 +0100",
-         "title" : "Computer Challenge 01"
       },
       {
          "description" : " Four teams took part in a Hybrid Friendly organised today by the Hobson Bay Chess Club. The teams consisted of 6 junior players representing Invercargill (NZ), ACTJCL (ACT), Kingsley Chess Club (WA), and Hobson Bay Chess Club (VIC). Each team played a central venue, and were supervised by an onsite arbiter. Hosted on the Tornelo website, the event was a teams round robin, played with a time limit of 30m+15s. After the 3 rounds were completed, the ACTJCL team finished in 1st place, winning all their matches (4-2,4-2, and 5-1). Invercargill finished 2nd with 2 match wins, Kingsley CC third with one win, and HBCC finished 4th. All matches were hard fought, and often the final margin of victory",
