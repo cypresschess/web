@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard for a classical round robin (listed below). Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclas",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstour",
+         "pubDate" : "Fri, 05 May 2023 18:47:59 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 1 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King celebrates the victory of Ding Liren by looking at a particular aspect of his style: his ability to whip up an unexpected attack and spot a checkmating pattern. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ding-the-merciless",
+         "pubDate" : "Fri, 05 May 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Ding the merciless"
+      },
+      {
          "description" : " Today I ran my first ever \"Rapid Transit\" event, which basically occurred by accident. For those unfamiliar, 'Rapid Transit' is a form of Blitz chess, where clocks are not used. Instead the referee calls out to the players to move every 10 seconds, which they must do so, or lose on time. It was popular before the widespread of chess clocks, although it was difficult to police, due to dispute about players being slow to move. In my case, it was for a training event where players had to simply check mate with K+RvK. As setting up clocks was taking too long, I simply had the players choose an opponent, and then every 5 seconds I would shout 'MOVE'. The round went on until I decided enough game",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -962,14 +978,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 12"
       },
       {
-         "description" : "The penultimate classical game of the World Championship match finished in a 39-move draw. Ding Liren got good chances to go for the win with the black pieces, failed to handle them well, and ended up needing to play accurately to hold the draw. This was Ian Nepomniachtchi's last game with white in the classical portion of the match. Game 14 will be played on Saturday. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g13",
-         "pubDate" : "Fri, 28 Apr 2023 00:10:00 +0100",
-         "title" : "World Championship Game 13: Tense draw keeps match tied, one game to go"
-      },
-      {
          "description" : "GM Magnus Carlsen won&#39;t be the world champion starting next week, but he&#39;s still looking for new ways to grow the game of chess. On Thursday, Norway Chess announced their new joint venture called Pawn, together with Iterate, Norway&#39;s premier ventu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/saint-louis-wins-ccl-title",
          "pubDate" : "Mon, 24 Apr 2023 18:43:43 -0700",
          "title" : "Saint Louis University Wins Collegiate Chess League Title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Benjamin Gledura talks to Tatev Abrahamyan after defeating Dariusz Swiercz in the eighth round of the 2023 Spring Chess Classic. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gledura-beats-swiercz-c4-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4If2w5U4EE.jpg?itok=jbS5WEf8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gledura-beats-swiercz-c4-round-8",
-         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
-         "title" : "Gledura Beats Swiercz with c4! | Round 8"
       },
       {
          "description" : "The Trials Phase of the Olympic Esports Series 2023 concluded with the following players qualifying for the next stage: GMs Shant Sargsyan, Christopher Yoo, Oleksandr Bortnyk, Aleksandr Rakhmanov, Maksim Chigaev, and 17-year-old IM Yahli Sokolovsk...",
@@ -1856,14 +1856,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/beginner-openings-traits/",
          "pubDate" : "Sat, 15 Apr 2023 12:00:00 +0000",
          "title" : "The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)"
-      },
-      {
-         "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/ding-lirens-2022-candidates.html",
-         "pubDate" : "Fri, 14 Apr 2023 15:35:00 +0000",
-         "title" : "Ding Liren's 2022 Candidates"
       }
    ]
 }
