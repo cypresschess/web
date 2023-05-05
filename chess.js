@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today I ran my first ever \"Rapid Transit\" event, which basically occurred by accident. For those unfamiliar, 'Rapid Transit' is a form of Blitz chess, where clocks are not used. Instead the referee calls out to the players to move every 10 seconds, which they must do so, or lose on time. It was popular before the widespread of chess clocks, although it was difficult to police, due to dispute about players being slow to move. In my case, it was for a training event where players had to simply check mate with K+RvK. As setting up clocks was taking too long, I simply had the players choose an opponent, and then every 5 seconds I would shout 'MOVE'. The round went on until I decided enough game",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/rapid-transit.html",
+         "pubDate" : "Fri, 05 May 2023 14:34:00 +0000",
+         "title" : "Rapid Transit"
+      },
+      {
+         "description" : "The LOSHF May Cup will take place from 05-07 May 2023 in Lviv, Ukraine. The time control is 35 minutes plus 30 seconds per turn for each participant until the end of the game.&#xA0;The tournament system is 9-round Swiss and will participate Lubomir Michalec, Daniil Mosesov, Bogdan Lozinsky, Oleksiy Karvatsky, Yury Lisenko, Oleksiy Filippsky, Vitaliy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/loshf-may-cup-participants/",
+         "pubDate" : "Fri, 05 May 2023 14:00:00 +0000",
+         "title" : "LOSHF May Cup - Participants"
+      },
+      {
+         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. In round 2 Gukesh plays against V. Keymer and B. Gelfand faces P. Svidler. A. Erigaisi has White against N. Grandelius (pictured) and A. Mishra plays with White against J. Van Foreest. Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Fri, 05 May 2023 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 2: Live"
+      },
+      {
+         "description" : "The Individual Championship of North Macedonia will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and will participate Filip Pancevski, Emil Risteski, Zvonko Stanojoski, Toni Lazov, Nikola Nikolovski, Andrej Veljanoski, Filip []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/individual-championship-of-north-macedonia-2023-live/",
+         "pubDate" : "Fri, 05 May 2023 12:45:00 +0000",
+         "title" : "Individual Championship of North Macedonia 2023 - LIVE"
+      },
+      {
+         "description" : "The Women's Championship of North Macedonia 2023 will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Robin. More : Individual Championship of North Macedonia 2023Replay : 2022 Open and Women&#x2019;s Championships of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-championship-of-north-macedonia-2023/",
+         "pubDate" : "Fri, 05 May 2023 12:25:00 +0000",
+         "title" : "Women's Championship of North Macedonia 2023"
+      },
+      {
+         "description" : "The Individual Championship of North Macedonia will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and will participate Filip Pancevski, Emil Risteski, Zvonko Stanojoski, Toni Lazov, Nikola Nikolovski, Andrej Veljanoski, Filip []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/individual-championship-of-north-macedonia-2023/",
+         "pubDate" : "Fri, 05 May 2023 12:05:00 +0000",
+         "title" : "Individual Championship of North Macedonia 2023"
+      },
+      {
+         "description" : "The Malaysian Women Chess Championship 2023&#160;is taking place from 03-07 May 2023 in Perak, Malaysia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#160;It is 9-round Swiss system tournament with participation of&#160;Kai Ni Agnes Chong, Divyadarrshini Loganathan, Xia Sean Lee, Farihah Nur Aisyah Mohd Azman, Zhiwei []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/malaysian-women-chess-championship-2023/",
+         "pubDate" : "Fri, 05 May 2023 11:45:00 +0000",
+         "title" : "Malaysian Women Chess Championship 2023"
+      },
+      {
          "description" : "Volodar Murzin Sanan Sjugirov is a game from 5th round of The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0; The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0; More :&#xA0;All-Russian chess competition among men&#x2019;s teams &#x201C;Major League&#x201D;&#xA0;/&#xA0;The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0; /&#xA0;The XXIV Russian Chess Championship []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,22 +122,6 @@ news_feed (
          "title" : "The Superbet Chess Classic starts: A Chess History of Bucharest"
       },
       {
-         "description" : "Arjun Erigaisi and Gukesh D started with wins TePe Sigeman &#38; Co Chess Tournament 2023 that is taking place May 4-10. Here is a report by GM Stellan Brynell for the official site of the competition, where photographer is David Llada and special guest the one and only Mr Dodgy Replay round 1: Vincent Keymer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/erigaisi-and-gukesh-win-in-round-1-of-tepe-sigeman/",
-         "pubDate" : "Fri, 05 May 2023 08:46:19 +0000",
-         "title" : "Erigaisi and Gukesh win in round 1 of TePe Sigeman"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Nils Grandelius Arjun Erigaisi from round 2 of TePe Sigeman 2023. The other live games of the round include: Live: Boris Gelfand Peter Svidler / Abhi Mishra Jorden Van Foorest / Gukesh D Vincent Keymer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nils-grandelius-arjun-erigaisi-tepe-sigeman-2023/",
-         "pubDate" : "Fri, 05 May 2023 08:22:04 +0000",
-         "title" : "Nils Grandelius - Arjun Erigaisi, TePe Sigeman 2023"
-      },
-      {
          "description" : " China's new world champion became the first since 1886 to lead the title match only in the final game, while the Norwegian implied he will play fewer classical tournaments Ding Liren began his reign as the 17th world chess champion by setting a new record for the 49 title matches in the historic competition dating back to 1886. The modest 30-year-old was the first player ever to win the crown leading only in the final game, defeating Ian Nepomniachtchi in their fourth rapid tie-breaker following their 7-7 score in the regular classical series. Ding also did it with a defining move. His 46&hellip;Rg6!, boldly playing for the win by self-pinning his rook, his second most powerful piece, again",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-in-space-2023-match",
          "pubDate" : "Thu, 04 May 2023 22:30:00 +0100",
          "title" : "Chess in space during the 2023 World Championship match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/keti-tsatsalashvili-interview-with-the-2023-world-champion-ding-liren/",
-         "pubDate" : "Thu, 04 May 2023 20:44:25 +0000",
-         "title" : "Keti Tsatsalashvili - interview with the 2023 World Champion Ding Liren"
       },
       {
          "description" : "Chess.com&#38;rsquo;s premier online event showcasing the world&#38;rsquo;s top young talent, the Junior Speed Chess Championship, is back for 2023&#38;mdash;and now with a record $50,000 prize fund.&#38;nbsp; The fourth edition of this fast and furious tournam...",
@@ -210,14 +242,6 @@ news_feed (
          "title" : "28th Sigeman & Co 2023 - Games and Results"
       },
       {
-         "description" : "Maksim Chigaev, Bogdan-Daniel Deac and Pentala Harikrishna, all with 8.5/10 points, competed for the first place in Grand Prix Romania First Stage. Maksim Chigaev is the big winner, while Bogdan-Daniel Deac finished second and took the silver medal. Pentala Harikrishna succeed to take the third place. TePe Sigeman 2023: Participants and information / Live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maksim-chigaev-won-grand-prix-romania-first-stage/",
-         "pubDate" : "Thu, 04 May 2023 10:00:35 +0000",
-         "title" : "Maksim Chigaev won Grand Prix Romania - First Stage"
-      },
-      {
          "description" : " The 4th Stepan Avagyan Memorial takes place in Jermuk, Armenia 3rd-11th May 2023, Category 16. Players: Samuel Sevian, Andrey Esipenko, M. Amin Tabatabaei, Haik M. Martirosyan, Narayanan.S.L, Thai Dai Van Nguyen, Nodirbek Yakubboev, Frederik Svane, Robert Hovhannisyan and Artur Davtyan.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -232,14 +256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/56th-capablanca-memorial-2023",
          "pubDate" : "Thu, 4 May 2023 13:54:00 +0400",
          "title" : "56th Capablanca Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : "The Capablanca Memorial Elite 2023 is taking place from 3&#x2013;11 May 2023 in Havana, Cuba. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Eduardo Iturrizaga Bonelli, Alexandr Fier, Raunak []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-elite-2023-live/",
-         "pubDate" : "Thu, 04 May 2023 09:43:53 +0000",
-         "title" : "Capablanca Memorial Elite 2023 - LIVE"
       },
       {
          "description" : " One thing that surprised me in the World Championship match was Ding Lirin's use of simple openings which shifted the emphasis of the struggle to the middle game. This is an approach I've long recommended to Tiger Chess students because it gives them time to study other important aspects of the game. Two out of <a href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ding Lirin's Use Of Tiger Chess Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\">Ding Lirin's Use Of Tiger Chess Openings</a> appeared first on <a rel=\"nofollow\" href=",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
          "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
-      },
-      {
-         "description" : "Grandmaster Chris Ward found an interesting Sicilian Dragon game, in which the recent strategy of castling queenside early on is used. This variation is actually old, but due to recent popularity, it is considered a modern line. How to defeat the white pieces now? Chris shows us how, and gives us plenty of helpful tips!| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-modern-variation-revisiting-the-old-main-line",
-         "pubDate" : "Thu, 27 Apr 2023 16:00:00 +0100",
-         "title" : "The Monthly Dragon - Revisiting the old main line in the Modern Variation!"
       },
       {
          "description" : "",
