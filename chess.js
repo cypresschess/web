@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard for a classical round robin (listed below). Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclas",
+         "description" : "With back-to-back wins over Jorden van Foreest and Vincent Keymer, Dommaraju Gukesh grabbed the sole lead at the TePe Sigeman & Co tournament in Malm&ouml;. Three players stand a half point back: local hero Nils Grandelius, 8-time Russian champion Peter Svidler and 14-year-old Abhimanyu Mishra. Gukesh will play black in the next two rounds, first against Grandelius and then against Arjun Erigaisi. | Photos: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r2",
+         "pubDate" : "Fri, 05 May 2023 23:10:00 +0100",
+         "title" : "TePe Sigeman: Gukesh off to a fiery start"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-2-superbetchessclas",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-2-superbetchessclassic-grandchesstour",
+         "pubDate" : "Fri, 05 May 2023 21:48:01 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 2 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "Eight players qualified for the Olympic Esports Series 2023 Finals after accumulating three match wins in the Preliminaries on Thursday and Friday: GMs Shant Sargsyan, Samvel Ter-Sahakyan, Oleksandr Bortnyk, Alexey Sarana, Bassem Amin, Maksim Chig...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-preliminaries",
+         "pubDate" : "Fri, 05 May 2023 13:48:10 -0700",
+         "title" : "8 Grandmasters Qualify For Olympic Esports Finals In Singapore"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclas",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstour",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ding-the-merciless",
          "pubDate" : "Fri, 05 May 2023 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Ding the merciless"
+      },
+      {
+         "description" : " The Superbet Chess Classic Romania takes place in Bucharest 6th to 16th May 2023. This is the first leg of the Grand Chess tour. World Champion Ding Liren and Ian Nepomniachtchi are back in action almost straight after their match, Alireza Firouzja, Anish Giri, Fabiano Caruana, Wesley So, Richard Rapport, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Bogdan-Daniel Deac also play. Games at 1pm UK time except for the final round which is an hour earlier.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-romania-2023s",
+         "pubDate" : "Fri, 5 May 2023 20:41:00 +0400",
+         "title" : "Superbet Chess Classic Romania 2023 - Games and Results"
       },
       {
          "description" : " Today I ran my first ever \"Rapid Transit\" event, which basically occurred by accident. For those unfamiliar, 'Rapid Transit' is a form of Blitz chess, where clocks are not used. Instead the referee calls out to the players to move every 10 seconds, which they must do so, or lose on time. It was popular before the widespread of chess clocks, although it was difficult to police, due to dispute about players being slow to move. In my case, it was for a training event where players had to simply check mate with K+RvK. As setting up clocks was taking too long, I simply had the players choose an opponent, and then every 5 seconds I would shout 'MOVE'. The round went on until I decided enough game",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://www.chessdom.com/loshf-may-cup-participants/",
          "pubDate" : "Fri, 05 May 2023 14:00:00 +0000",
          "title" : "LOSHF May Cup - Participants"
-      },
-      {
-         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. In round 2 Gukesh plays against V. Keymer and B. Gelfand faces P. Svidler. A. Erigaisi has White against N. Grandelius (pictured) and A. Mishra plays with White against J. Van Foreest. Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Fri, 05 May 2023 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 2: Live"
       },
       {
          "description" : "The Individual Championship of North Macedonia will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and will participate Filip Pancevski, Emil Risteski, Zvonko Stanojoski, Toni Lazov, Nikola Nikolovski, Andrej Veljanoski, Filip []",
@@ -282,20 +306,20 @@ news_feed (
          "title" : "Ding Lirin's Use Of Tiger Chess Openings"
       },
       {
-         "description" : "Do you like to play elephant takes horse in the Ruy Lopez? Or promote your farmer to a virgin in the endgame? Did you know there are players who do this all the time? In an interesting article Frank Jacobs has vividly traced the diversification of piece names from the original Sanskrit to modern day chess. You'll be surprised how the bishop is seen in different countries all over the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-names-of-chess-pieces",
-         "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
-         "title" : "The names of chess pieces"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #566, Merijn van Delft looks at the game that made Ding Liren the 17th World Champion in the history of chess: the fourth game of the World Championship match tiebreaker. A historically important, tense and instructive encounter! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-566-ian-nepomniachtchi-vs-ding-liren-the-decisive-game",
          "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
          "title" : "Game of the Week #566: Ian Nepomniachtchi vs Ding Liren - The decisive game"
+      },
+      {
+         "description" : "Do you like to play elephant takes horse in the Ruy Lopez? Or promote your farmer to a virgin in the endgame? Did you know there are players who do this all the time? In an interesting article Frank Jacobs has vividly traced the diversification of piece names from the original Sanskrit to modern day chess. You'll be surprised how the bishop is seen in different countries all over the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-names-of-chess-pieces",
+         "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
+         "title" : "The names of chess pieces"
       },
       {
          "description" : "Please find the complete list of Arbiters attended online refresher seminar from Feb 2023-Apr 2024 . List of Arbiters",
@@ -1186,14 +1210,6 @@ news_feed (
          "title" : "Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros talks about the Magnus Carlsen world championship era (2013-2023) and shows brilliant moves and games from Magnus Carlsen and Vishy Anand. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X-yG_3RsrR0.jpg?itok=HAEwPoqy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Tue, 25 Apr 2023 15:36:54 +0000",
-         "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros"
-      },
-      {
          "description" : "In a recent post for the long running series 'Top eBay Chess Items', the one titled <A HREF=\"https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html\">Poster Perfect Chess Art</A> (March 2023), I gave myself a couple of follow-up actions:- <BLOCKQUOTE> Vasarely produced other chess related works. Cataloging them would make a good rainy day project. Add to that catalog the 1976 series of Olympiad posters. </BLOCKQUOTE> <P> I searched my database of chess images, most of them taken from eBay, and discovered that there were ten different posters for the 1976 Olympiad. All ten are shown below in alphabetical order by artist. The thumbnails aren't particularly good, but they sho",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1512,14 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2351",
          "pubDate" : "Thu, 20 Apr 2023 16:12:05 +0000",
          "title" : "Ding drops crucial victory as Nepomniachtchi maintains lead in the FIDE World Chess Championship match"
-      },
-      {
-         "description" : "Trials 1 through 8 of the Olympic Esports Series 2023 saw eight winners: GMs Ngoc Truong Son Nguyen, Frederik Svane, Hikaru Nakamura, Yu Yangyi, Jaime Santos Latasa, Alexey Sarana, and IMs M Pranesh and Emin Ohanyan.&#38;nbsp; While many of the &#34;usu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-trials-1-8",
-         "pubDate" : "Thu, 20 Apr 2023 07:30:41 -0700",
-         "title" : "Queen Sacs Galore: 8 Players Qualify For Olympic Esports Series Preliminaries"
       },
       {
          "description" : "Ding Liren was set to make it a staggering five wins for White in a row, but a combination of missed chances, a semi-bluff, and brilliant defence from Ian Nepomniachtchi saw Game 8 of the World Championship match end in a draw. Ian now leads 4.5:3.5, while Ding has to deal with the fallout of his \"anonymous\" pre-match training games being discovered online.",
