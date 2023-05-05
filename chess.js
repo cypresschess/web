@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros profiles Alexei Shirov. What could Shirov&#039;s secret weapon be? 2023.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tROEu6ic8MI.jpg?itok=I6eLIs44\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros-lichessorg",
+         "pubDate" : "Fri, 05 May 2023 00:46:47 +0000",
+         "title" : "Shirov's Secret Weapon | Prepare Like a Pro - GM Denes Boros | lichess.org"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Denes Boros Hosts an arena tournament on lichess.org! <a href=\"https://lichess.org/tournament/IaaH4HZZ\">https://lichess.org/tournament/IaaH4HZZ</a> 2023.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-denes-boros-arena-tournament-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xY8wN-A1vqk.jpg?itok=2NcfEImT\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/yasser-quesada-im-happy-my-chess-round-8",
          "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
          "title" : "Yasser Quesada: I'm Happy with My Chess | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Felix Blohberger talks to Tatev Abrahamyan after his draw with Dambasuren Batsuren in the ninth round of the 2023 Spring Chess Classic. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/felix-blohberger-wins-group-b-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lDnfr1mU-Vs.jpg?itok=QEqRJFIY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/felix-blohberger-wins-group-b-round-9",
-         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
-         "title" : "Felix Blohberger Wins Group B! | Round 9"
       },
       {
          "description" : "The Trials Phase of the Olympic Esports Series 2023 concluded with the following players qualifying for the next stage: GMs Shant Sargsyan, Christopher Yoo, Oleksandr Bortnyk, Aleksandr Rakhmanov, Maksim Chigaev, and 17-year-old IM Yahli Sokolovsk...",
