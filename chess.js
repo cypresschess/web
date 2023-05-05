@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Volodar Murzin Sanan Sjugirov is a game from 5th round of The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0; The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0; More :&#xA0;All-Russian chess competition among men&#x2019;s teams &#x201C;Major League&#x201D;&#xA0;/&#xA0;The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0; /&#xA0;The XXIV Russian Chess Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/volodar-murzin-sanan-sjugirov-game-of-the-day-in-russian-team-championship-2023/",
+         "pubDate" : "Fri, 05 May 2023 11:25:00 +0000",
+         "title" : "Volodar Murzin - Sanan Sjugirov, game of the day in Russian Team Championship 2023"
+      },
+      {
+         "description" : "All India Chess Federation received numerous requests from Indians staying abroad to organize an online Senior National Arbiter Seminar. Considering their requests, it is decided",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-for-indian-diaspora/",
+         "pubDate" : "Fri, 05 May 2023 11:21:13 +0000",
+         "title" : "Online Senior National Arbiter Seminar & Examination for Indian Diaspora"
+      },
+      {
+         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-4-results/",
+         "pubDate" : "Fri, 05 May 2023 11:05:00 +0000",
+         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 4 results"
+      },
+      {
+         "description" : "Kazakhstan had a blast with chess events throughout the whole of April. Not only the World Match (7 - 30 April) was and still is shaking the chess community, but many high-level international and national side events took place in Astana, the country's capital. A great number of chess events and personalities have come and gone, but Kazakhstan has a hidden treasure at home: a 9-year-old girl, Delilah Sadvakassova, a celebrated chess influencer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/delightful-delilah-the-chess-influencer",
+         "pubDate" : "Fri, 05 May 2023 12:00:00 +0100",
+         "title" : "Delightful Delilah, Chess Influencer"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Boris Gelfand Peter Svidler from round 2 of TePe Sigeman 2023. The other live games of the round include: Live: Boris Gelfand Peter Svidler / Abhi Mishra Jorden Van Foorest / Gukesh D Vincent Keymer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-d-vincent-keymer-tepe-sigeman-2023/",
+         "pubDate" : "Fri, 05 May 2023 10:45:00 +0000",
+         "title" : "Gukesh D - Vincent Keymer, TePe Sigeman 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Boris Gelfand Peter Svidler from round 2 of TePe Sigeman 2023. The other live games of the round include: Live : Boris Gelfand Peter Svidler / Abhi Mishra Jorden Van Foorest / Gukesh D Vincent []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abhi-mishra-jorden-van-foorest-tepe-sigeman-2023/",
+         "pubDate" : "Fri, 05 May 2023 10:25:00 +0000",
+         "title" : "Abhi Mishra - Jorden Van Foorest, TePe Sigeman 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Boris Gelfand Peter Svidler from round 2 of TePe Sigeman 2023. The other live games of the round include: Live : Boris Gelfand Peter Svidler / Abhi Mishra Jorden Van Foorest / Gukesh D Vincent []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/boris-gelfand-peter-svidler-tepe-sigeman-2023/",
+         "pubDate" : "Fri, 05 May 2023 10:05:00 +0000",
+         "title" : "Boris Gelfand - Peter Svidler, TePe Sigeman 2023"
+      },
+      {
+         "description" : "This weekend the Grand Chess Tour starts with the Superbet Chess Classic in Bucharest. Eduard Frey takes a look at the great chess history of the Romanian capital. | Photo: Panoramic view of the city centre of Bucharest - University Square with the University of Bucharest building on the right, the National Theatre on the left and the Palace of Parliament on the far right in the background. | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-superbet-chess-classic-starts-a-chess-history-of-bucharest",
+         "pubDate" : "Fri, 05 May 2023 10:00:00 +0100",
+         "title" : "The Superbet Chess Classic starts: A Chess History of Bucharest"
+      },
+      {
+         "description" : "Arjun Erigaisi and Gukesh D started with wins TePe Sigeman &#38; Co Chess Tournament 2023 that is taking place May 4-10. Here is a report by GM Stellan Brynell for the official site of the competition, where photographer is David Llada and special guest the one and only Mr Dodgy Replay round 1: Vincent Keymer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/erigaisi-and-gukesh-win-in-round-1-of-tepe-sigeman/",
+         "pubDate" : "Fri, 05 May 2023 08:46:19 +0000",
+         "title" : "Erigaisi and Gukesh win in round 1 of TePe Sigeman"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Nils Grandelius Arjun Erigaisi from round 2 of TePe Sigeman 2023. The other live games of the round include: Live: Boris Gelfand Peter Svidler / Abhi Mishra Jorden Van Foorest / Gukesh D Vincent Keymer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nils-grandelius-arjun-erigaisi-tepe-sigeman-2023/",
+         "pubDate" : "Fri, 05 May 2023 08:22:04 +0000",
+         "title" : "Nils Grandelius - Arjun Erigaisi, TePe Sigeman 2023"
+      },
+      {
          "description" : " China's new world champion became the first since 1886 to lead the title match only in the final game, while the Norwegian implied he will play fewer classical tournaments Ding Liren began his reign as the 17th world chess champion by setting a new record for the 49 title matches in the historic competition dating back to 1886. The modest 30-year-old was the first player ever to win the crown leading only in the final game, defeating Ian Nepomniachtchi in their fourth rapid tie-breaker following their 7-7 score in the regular classical series. Ding also did it with a defining move. His 46&hellip;Rg6!, boldly playing for the win by self-pinning his rook, his second most powerful piece, again",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -162,46 +242,6 @@ news_feed (
          "title" : "Capablanca Memorial Elite 2023 - LIVE"
       },
       {
-         "description" : "The Capablanca Memorial Open 2023 is taking place from 3&#x2013;12 May 1923 in Havana, Cuba. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Jose Fernando Cuenca Jimenez, Luis Galego, Ermes Espinosa Veloz, Rider Diaz Murgada, Michel Alejandro Diaz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-open-2023-live/",
-         "pubDate" : "Thu, 04 May 2023 09:37:32 +0000",
-         "title" : "Capablanca Memorial Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Capablanca Memorial Open 2023 is taking place from 3&#x2013;12 May 1923 in Havana, Cuba. Capablanca Memorial is a 10-round Swiss tournament with participation of Jose Fernando Cuenca Jimenez, Luis Galego, Ermes Espinosa Veloz, Rider Diaz Murgada, Michel Alejandro Diaz Perez, Luis Daniel Rodriguez Hernandez, Renier Vazquez Igarza, Santiago Avila Pavas, Dylan Isidro Berdayes Ason, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/capablanca-memorial-open-2023/",
-         "pubDate" : "Thu, 04 May 2023 09:34:04 +0000",
-         "title" : "Capablanca Memorial Open 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Peter Svidler Abhi Mishra from round 1 of TePe Sigeman 2023. The other pairings of the round include: Boris Gelfand Arjun ErigaisiVincent Keymer Nils GrandeliusJorden Van Forest Gukesh D TePe Sigeman 2023: Participants and information []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-svidler-abhi-mishra-tepe-sigeman-2023/",
-         "pubDate" : "Thu, 04 May 2023 09:19:14 +0000",
-         "title" : "Peter Svidler - Abhi Mishra, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Jorden Van Forest Gukesh Dfrom round 1 of TePe Sigeman 2023. The other pairings of the round include: Peter Svidler Abhi MishraBoris Gelfand Arjun ErigaisiVincent Keyment Nils Grandelius TePe Sigeman 2023: Participants and information / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jorden-van-forest-gukesh-d-tepe-sigeman-2023/",
-         "pubDate" : "Thu, 04 May 2023 09:15:19 +0000",
-         "title" : "Jorden Van Forest - Gukesh D, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Boris Gelfand Arjun Erigaisi from round 1 of TePe Sigeman 2023. The other pairings of the round include: Peter Svidler Abhi MishraJorden Van Forest Gukesh DVincent Keyment Nils Grandelius TePe Sigeman 2023: Participants and information []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-gelfand-arjun-erigaisi-tepe-sigeman-2023/",
-         "pubDate" : "Thu, 04 May 2023 09:11:32 +0000",
-         "title" : "Boris Gelfand - Arjun Erigaisi, TePe Sigeman 2023"
-      },
-      {
          "description" : " One thing that surprised me in the World Championship match was Ding Lirin's use of simple openings which shifted the emphasis of the struggle to the middle game. This is an approach I've long recommended to Tiger Chess students because it gives them time to study other important aspects of the game. Two out of <a href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ding Lirin's Use Of Tiger Chess Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\">Ding Lirin's Use Of Tiger Chess Openings</a> appeared first on <a rel=\"nofollow\" href=",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -226,14 +266,6 @@ news_feed (
          "title" : "Game of the Week #566: Ian Nepomniachtchi vs Ding Liren - The decisive game"
       },
       {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 will take place May 4-10. This is the game Vincent Keymer Nils Grandelius from round 1 of TePe Sigeman 2023. The other pairings of the round include: Boris Gelfand Arjun ErigaisiPeter Svidler Abhi MishraJorden Van Forest Gukesh D TePe Sigeman 2023: Participants and information []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vincent-keymer-nils-grandelius-tepe-sigeman-2023/",
-         "pubDate" : "Thu, 04 May 2023 06:46:46 +0000",
-         "title" : "Vincent Keymer - Nils Grandelius, TePe Sigeman 2023"
-      },
-      {
          "description" : "Please find the complete list of Arbiters attended online refresher seminar from Feb 2023-Apr 2024 . List of Arbiters",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-stars-vs-streamers-rematch-announced",
          "pubDate" : "Wed, 03 May 2023 15:27:00 -0700",
          "title" : "ChessKid Stars vs Streamers: Rematch Set For May 14"
-      },
-      {
-         "description" : "The XXX Russian Chess Championship among men&#x2019;s teams &#x201C;Premier League&#x201D;&#xA0;will take place from 01-10 May 2023 in Sochi, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament system will be 9-Round robin for teams. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xxx-russian-chess-championship-among-mens-teams-premier-league-round-3-results/",
-         "pubDate" : "Wed, 03 May 2023 20:27:29 +0000",
-         "title" : "XXX Russian Chess Championship among men's teams \"Premier League\" - Round 3 results"
       },
       {
          "description" : "The 28th edition of the TePe Sigeman & Co Chess Tournament will take place on May 4-10 at the Elite Plaza Hotel in central Malm&ouml;. An exciting 8-player lineup mixing veterans and rising stars will compete in a single round-robin event. The likes of Peter Svidler and Boris Gelfand will battle it out against 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and Nils Grandelius, plus 14-year-old Abhimanyu Mishra, complete the field. | Pictured: Peter Svidler and Boris Gelfand at the 2013 Candidates Tournament. | Photo: Ray Morris-Hill",
@@ -1000,22 +1024,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-lists-on-the-main-market-of-the-london-stock-exchang/",
          "pubDate" : "Thu, 27 Apr 2023 11:50:14 +0000",
          "title" : "World Chess Lists on the Main Market of the London Stock Exchange"
-      },
-      {
-         "description" : "GM Bartosz So&#263ko and WFM Michalina Rudzińska are the 2023 Polish chess champions. Michalina successfully defended her title from last year, while Bartosz won his third national chess crown. The open event was a 16-player knockout tournament, which attracted the best Polish players, except for Jan-Krzysztof Duda. The women's event was a 10-player single round-robin. | Photos: Polush Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-championships-2023-final-report",
-         "pubDate" : "Thu, 27 Apr 2023 11:05:00 +0100",
-         "title" : "Bartosz Socko and Michalina Rudzinska are the 2023 Polish chess champions"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris uses game 10 of the World Championship match as a starting point to explore the status of theory in the English Opening. Unmissable. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-nepo-play-the-english",
-         "pubDate" : "Thu, 27 Apr 2023 11:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Ding and Nepo play the English"
       },
       {
          "description" : "The second quarterly meeting of the ECU Board was held in Rhodes, Greece, on April 21 and 22. The Municipality of Rhodes hosted the event under excellent conditions. ECU expresses its thanks and appreciation to the Mayor of Rhodes, Mr. Andonis Cambourakis. The opening of the meeting was attended by the FIDE and Greek Chess Federation Vice President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/\">Read More &#187;</a></span>",
@@ -1842,28 +1850,12 @@ news_feed (
          "title" : "The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)"
       },
       {
-         "description" : "National Arbiter Seminar Erode, Tamil Nadu, Certificates are out to download Link : https://aicf.online/Arbiter-SNA-Erode.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiter-seminar-erode-certificates/",
-         "pubDate" : "Sat, 15 Apr 2023 10:28:56 +0000",
-         "title" : "National Arbiter Seminar Erode Certificates"
-      },
-      {
          "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/04/ding-lirens-2022-candidates.html",
          "pubDate" : "Fri, 14 Apr 2023 15:35:00 +0000",
          "title" : "Ding Liren's 2022 Candidates"
-      },
-      {
-         "description" : " Last weekend I had the opportunity to use one of the lines from my White 1.d4 Repertoire course. Actually I got it by transposition, as in the course I give 1.d4 Nf6 2.Nf3 e6 3.e3, whereas in the game I played 3.c4 b6 and then 4.e3, the so-called Spassky System. There are some differences between <a href=\"https://chessimprover.com/a-deceptively-quiet-line/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Deceptively Quiet Line\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-deceptively-quiet-line/\">A Deceptively Quiet Line</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-deceptively-quiet-line/",
-         "pubDate" : "Fri, 14 Apr 2023 10:01:59 +0000",
-         "title" : "A Deceptively Quiet Line"
       }
    ]
 }
