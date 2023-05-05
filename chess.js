@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " China's new world champion became the first since 1886 to lead the title match only in the final game, while the Norwegian implied he will play fewer classical tournaments Ding Liren began his reign as the 17th world chess champion by setting a new record for the 49 title matches in the historic competition dating back to 1886. The modest 30-year-old was the first player ever to win the crown leading only in the final game, defeating Ian Nepomniachtchi in their fourth rapid tie-breaker following their 7-7 score in the regular classical series. Ding also did it with a defining move. His 46&hellip;Rg6!, boldly playing for the win by self-pinning his rook, his second most powerful piece, again",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/may/05/chess-ding-sets-world-title-landmark-and-is-ready-to-take-on-carlsen",
+         "pubDate" : "Fri, 05 May 2023 07:00:18 +0000",
+         "title" : "Chess: Ding sets world title landmark and is 'ready to take on Carlsen'"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros profiles the legendary Alexei Shirov. What could Shirov's secret weapon be? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shirovs-secret-weapon-advance-french-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tROEu6ic8MI.jpg?itok=I6eLIs44\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shirovs-secret-weapon-advance-french-prepare-pro-gm-denes-boros",
+         "pubDate" : "Fri, 05 May 2023 03:47:10 +0000",
+         "title" : "Shirov's Secret Weapon: The Advance French | Prepare Like a Pro - GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros profiles Alexei Shirov. What could Shirov&#039;s secret weapon be? 2023.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tROEu6ic8MI.jpg?itok=I6eLIs44\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/if-were-lucky-we-may-have-an-indian-challenger-to-ding-liren-next-year-viswanathan-anand/articleshow/99992056.cms",
          "pubDate" : "Thu, 04 May 2023 13:56:52 +0000",
          "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
-      },
-      {
-         "description" : "Today, 15.00 local time, the TePe Sigeman & Co Chess Tournament begins in Malm&ouml;, Sweden. An exciting 8-player line-up mixing veterans and rising stars compete in a round-robin event. Peter Svidler and Boris Gelfand face 2700+ rated youngsters Dammaraju Gukesh, Arjun Erigaisi and Vincent Keymer. Former tournament champions Jorden van Foreest and local hero Nils Grandelius (pictured), plus 14-year-old Abhimanyu Mishra, complete the field. Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Thu, 04 May 2023 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co: Live"
       },
       {
          "description" : "Almost immediately after playing a gruelling three-week match, world champion Ding Liren and Ian Nepomniachtchi will play a 9-round single round-robin in Bucharest, the Superbet Chess Classic. The first event of this year's Grand Chess Tour, it will also see Richard Rapport, Ding's second in Astana, among the participants. A star-studded field includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Photo: FIDE / Stev Bonhage",
@@ -1002,6 +1010,14 @@ news_feed (
          "title" : "Bartosz Socko and Michalina Rudzinska are the 2023 Polish chess champions"
       },
       {
+         "description" : "In his Fast & Furious show, Robert Ris uses game 10 of the World Championship match as a starting point to explore the status of theory in the English Opening. Unmissable. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-nepo-play-the-english",
+         "pubDate" : "Thu, 27 Apr 2023 11:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Ding and Nepo play the English"
+      },
+      {
          "description" : "The second quarterly meeting of the ECU Board was held in Rhodes, Greece, on April 21 and 22. The Municipality of Rhodes hosted the event under excellent conditions. ECU expresses its thanks and appreciation to the Mayor of Rhodes, Mr. Andonis Cambourakis. The opening of the meeting was attended by the FIDE and Greek Chess Federation Vice President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gledura-beats-swiercz-c4-round-8",
          "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
          "title" : "Gledura Beats Swiercz with c4! | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser Quesada talks to Tatev Abrahamyan after defeating Nodirbek Yakubboev in the eighth round of the 2023 Spring Chess Classic. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-quesada-im-happy-my-chess-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/seCzl8qS1IE.jpg?itok=rpK_hb-6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-quesada-im-happy-my-chess-round-8",
-         "pubDate" : "Mon, 24 Apr 2023 21:36:16 +0000",
-         "title" : "Yasser Quesada: I'm Happy with My Chess | Round 8"
       },
       {
          "description" : "The Trials Phase of the Olympic Esports Series 2023 concluded with the following players qualifying for the next stage: GMs Shant Sargsyan, Christopher Yoo, Oleksandr Bortnyk, Aleksandr Rakhmanov, Maksim Chigaev, and 17-year-old IM Yahli Sokolovsk...",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-deceptively-quiet-line/",
          "pubDate" : "Fri, 14 Apr 2023 10:01:59 +0000",
          "title" : "A Deceptively Quiet Line"
-      },
-      {
-         "description" : " Ding Liren's rook-for-knight sacrifice won game four in 47 moves to level at 2-2 in the 14-game World Chess Championship China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the €2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four. The score was Ding 2 Nepomniachtchi 2 before Friday's rest day. Ding",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/apr/14/ding-liren-strikes-back-hard-after-poor-start-against-ian-nepomniachtchi",
-         "pubDate" : "Fri, 14 Apr 2023 07:00:07 +0000",
-         "title" : "Ding Liren strikes back hard after poor start against Ian Nepomniachtchi"
       }
    ]
 }
