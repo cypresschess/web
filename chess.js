@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2373",
+         "pubDate" : "Sat, 06 May 2023 22:51:57 +0000",
+         "title" : "2023 Superbet Chess Classic - Day 1 Recap"
+      },
+      {
+         "description" : "GM Wesley So scored the first victory at the Superbet Classic Romania 2023, defeating the 2022 Grand Chess Tour champion, GM Alireza Firouzja, in round one on Saturday. The kickoff event of the 2023 Grand Chess Tour promises an array of explosiv...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-1",
+         "pubDate" : "Sat, 06 May 2023 15:17:16 -0700",
+         "title" : "So Gets His Revenge Vs. Firouzja, Takes Clear Lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after his draw with Duda in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-excited-play-classical-chess-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p-x2iGuqyWc.jpg?itok=cmNwu5-m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-excited-play-classical-chess-r1-superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
+         "title" : "Giri: Excited to Play Classical Chess! | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Cristian Chirila after his draw with Nepomniachtchi in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-nepo-acted-%E2%80%98peculiar%E2%80%99-game-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ApXUkPfTrsY.jpg?itok=GbKdfuHi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rapport-nepo-acted-%E2%80%98peculiar%E2%80%99-game-r1-superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
+         "title" : "Rapport: Nepo Acted 'Peculiar' Before the Game | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Firouzja in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-firouzja-little-rusty-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oGqv-bWZ1og.jpg?itok=zqMbgUlb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-firouzja-little-rusty-r1-superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
+         "title" : "Wesley So: Firouzja a Little Rusty? | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.08<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40/90, SD/30, +30s from move 1<br /> Alireza Firouzja vs. Richard Rapport </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-3-superbetchessclassic-grandchesstour",
+         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 3 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
          "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Alexander Grischuk | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,30 +330,6 @@ news_feed (
          "title" : "Chess: Ding sets world title landmark and is 'ready to take on Carlsen'"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros profiles the legendary Alexei Shirov. What could Shirov's secret weapon be? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shirovs-secret-weapon-advance-french-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tROEu6ic8MI.jpg?itok=I6eLIs44\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shirovs-secret-weapon-advance-french-prepare-pro-gm-denes-boros",
-         "pubDate" : "Fri, 05 May 2023 03:47:10 +0000",
-         "title" : "Shirov's Secret Weapon: The Advance French | Prepare Like a Pro - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros profiles Alexei Shirov. What could Shirov&#039;s secret weapon be? 2023.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tROEu6ic8MI.jpg?itok=I6eLIs44\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros-lichessorg",
-         "pubDate" : "Fri, 05 May 2023 00:46:47 +0000",
-         "title" : "Shirov's Secret Weapon | Prepare Like a Pro - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Denes Boros Hosts an arena tournament on lichess.org! <a href=\"https://lichess.org/tournament/IaaH4HZZ\">https://lichess.org/tournament/IaaH4HZZ</a> 2023.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-denes-boros-arena-tournament-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xY8wN-A1vqk.jpg?itok=2NcfEImT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-denes-boros-arena-tournament-lichessorg",
-         "pubDate" : "Thu, 04 May 2023 21:46:45 +0000",
-         "title" : "GM Denes Boros Arena Tournament! | lichess.org"
-      },
-      {
          "description" : "During the FIDE World Chess Championship, a number of side events took place to capitalize on the increased interest in chess. One of these events was a unique encounter between the ISS (International Space Station) and Mission Control. The first game ended on April 16. NASA shared the game with the public on social media. They also mentioned that a second game is underway. | Photo: NASA / Woody Hoburg",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/throwback-thursday-rapport-wei-2016",
          "pubDate" : "Thu, 04 May 2023 20:00:00 +0100",
          "title" : "Throwback Thursday: Rapport beats Wei in creativity-filled match"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros profiles Alexei Shirov. What could Shirov&#039;s secret weapon be? 2023.05.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tROEu6ic8MI.jpg?itok=I6eLIs44\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shirovs-secret-weapon-prepare-pro-gm-denes-boros",
-         "pubDate" : "Thu, 04 May 2023 18:46:40 +0000",
-         "title" : "Shirov's Secret Weapon | Prepare Like a Pro - GM Denes Boros"
       },
       {
          "description" : "NASA literally took chess out of this world in April as the International Space Station (ISS), situated in space, played against the National Aeronautics and Space Administration&#39;s (NASA) Mission Control, on Earth. The first game occurred concurre...",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "Nepomniachtchi Inches Closer To World Championship Title After 82-Move Draw"
       },
       {
-         "description" : "Grandmaster Alexey Sarana has become one of the most prolific Russian grandmasters to switch federations as FIDE on Friday confirmed that he can play under the Serbian flag. The 23-year-old who became the European champion in March is ranked wor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russian-grandmaster-alexey-sarana-transfers-to-serbia",
-         "pubDate" : "Fri, 21 Apr 2023 07:32:00 -0700",
-         "title" : "European Champion Alexey Sarana Transfers To Serbia"
-      },
-      {
          "description" : "Entries are now being accepted online for the 2023 Northumbria Masters in Newcastle upon Tyne from 24-28 August at https://www.northumbriamasters.com. The congress includes various nine-round...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-wins-game-6-of-world-championship-rollercoaster",
          "pubDate" : "Sun, 16 Apr 2023 13:44:49 +0000",
          "title" : "Ding wins Game 6 of World Championship rollercoaster"
-      },
-      {
-         "description" : "Ian Nepomniachtchi has regained the lead in the 2023 FIDE World Championship match after bouncing back to beat Ding Liren in Game 5. \"This loss hurt more than the previous one, because I thought I was totally fine,\" said Ding, who despite falling far behind on the clock had come tantalisingly close to equalising before allowing a brilliant finish by his opponent. Nepo now leads 3:2 with nine games to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-retakes-the-lead-with-game-5-win",
-         "pubDate" : "Sat, 15 Apr 2023 20:22:13 +0000",
-         "title" : "Nepomniachtchi retakes the lead with Game 5 win"
       }
    ]
 }
