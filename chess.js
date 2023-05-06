@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Czech Amateur Championship is taking place from 6&#x2013;11 May 2023 in Hluk. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Pavel Karnik, Jakub Rabatin, Jakub Vojta, Marian Sabol, Patrik Stevik, Josef Mudrak, Marek Mica, Jan Lajbl, Rudolf []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-amateur-championship-2023/",
+         "pubDate" : "Sat, 06 May 2023 11:20:00 +0000",
+         "title" : "Czech Amateur Championship 2023"
+      },
+      {
+         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 50 section will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-50-live/",
+         "pubDate" : "Sat, 06 May 2023 10:40:00 +0000",
+         "title" : "English Seniors Championships 2023 Over 50 - LIVE"
+      },
+      {
+         "description" : "The English Seniors Championships 2023 will take place from 04-08 May 2023 in Woodland Grange Hotel, Leamington Spa, England. The time control is 90 minutes for the whole game with a 30-second increment from move one. The tournament is separated int two different categories Over 50 and Over 65. The Over 65 section will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-seniors-championships-2023-over-65-live/",
+         "pubDate" : "Sat, 06 May 2023 10:00:00 +0000",
+         "title" : "English Seniors Championships 2023 Over 65 - LIVE"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Wesley So from round 1 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include: Live : Ding Liren Maxime Vachier-Lagrave / Fabiano Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-wesley-so-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 06 May 2023 09:20:00 +0000",
+         "title" : "Alireza Firouzja - Wesley So, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Anish Giri from round 1 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include: Live : Ding Liren Maxime Vachier-Lagrave / Fabiano Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-anish-giri-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 06 May 2023 09:00:00 +0000",
+         "title" : "Jan-Krzysztof Duda - Anish Giri, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Richard Rapport from round 1 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include: Live : Ding Liren Maxime Vachier-Lagrave / Fabiano Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-richard-rapport-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 06 May 2023 08:40:00 +0000",
+         "title" : "Ian Nepomniachtchi - Richard Rapport, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Fabiano Caruana Bogdan-Daniel Deac from round 1 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include: Live : Ding Liren Maxime Vachier-Lagrave / Fabiano Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-bogdan-daniel-deac-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 06 May 2023 08:20:00 +0000",
+         "title" : "Fabiano Caruana - Bogdan-Daniel Deac, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ding Liren Maxime Vachier-Lagrave from round 1 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include: Live : Ding Liren Maxime Vachier-Lagrave / Fabiano Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-maxime-vachier-lagrave-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 06 May 2023 08:00:00 +0000",
+         "title" : "Ding Liren - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
+      },
+      {
          "description" : "In the Polugaevsky Variation Black's king remains in the centre for a long time, making any misstep on his part absolutely fatal. Thus after 13...Ra7? (diagram) White makes three powerful preparatory moves and then sets off for the checkmate finale - have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,52 +74,28 @@ news_feed (
          "title" : "A very special Najdorf"
       },
       {
+         "description" : "Less than a week after Ding Liren became the 17th World Champion he's back in action today in Bucharest, Romania as he takes on Maxime Vachier-Lagrave in the first round of the Superbet Chess Classic. It's not just Ding making the trip from Astana, as Ian Nepomniachtchi faces Ding's second Richard Rapport. The line-up features 2022 Grand Chess Tour champion Alireza Firouzja as well as Fabiano Caruana, Anish Giri, Wesley So, Jan-Krzysztof Duda and local wildcard Bogdan-Daniel Deac.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-and-nepomniachtchi-back-in-action",
+         "pubDate" : "Sat, 06 May 2023 07:41:17 +0000",
+         "title" : "Ding Liren and Nepomniachtchi back in action"
+      },
+      {
+         "description" : "The Superbet Chess Classic is taking place in the Grand Hotel in Bucharest, Romania from 6-15 May 2023. It's the first stage on the 2023 Grand Chess Tour, with a $350,000 total prize fund and a $100,000 top prize. The players receive 90 minutes for 40 moves, followed by 30 minutes to the end of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/superbet-chess-classic-2023-live/",
+         "pubDate" : "Sat, 06 May 2023 07:40:00 +0000",
+         "title" : "Superbet Chess Classic 2023 - LIVE"
+      },
+      {
          "description" : "The Superbet Chess Classic is a 10-player classical round-robin taking place in the Grand Hotel in Bucharest, Romania from 6-15 May 2023. It's the first stage on the 2023 Grand Chess Tour, with a $350,000 total prize fund and a $100,000 top prize. The players receive 90 minutes for 40 moves, followed by 30 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/superbet-chess-classic/",
          "pubDate" : "Sat, 06 May 2023 07:20:00 +0000",
          "title" : "Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Grand Chess Tour (GCT), a circuit of international events, each demonstrating the highest level of organization for the world&#x2019;s best players, will return again in 2023. Tour participants will compete for a total prize fund of $1.4 million over the course of the 2023 season. The prize money for each of the two classical []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-2023-live/",
-         "pubDate" : "Sat, 06 May 2023 07:00:00 +0000",
-         "title" : "Grand Chess Tour 2023 LIVE"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Nils Grandelius D Gukesh from round 3 of TePe Sigeman 2023. The other live games of the round include: Live : Peter Svidler Arjun Erigaisi / Jorden Van Foreest Boris Gelfand / Vincent Keymer Abhimanyu []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nils-grandelius-d-gukesh-tepe-sigeman-2023/",
-         "pubDate" : "Sat, 06 May 2023 06:40:00 +0000",
-         "title" : "Nils Grandelius - D Gukesh, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Vincent Keymer Abhimanyu Mishra from round 3 of TePe Sigeman 2023. The other live games of the round include: Live : Peter Svidler Arjun Erigaisi / Jorden Van Foreest Boris Gelfand / Vincent Keymer Abhimanyu []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vincent-keymer-abhimanyu-mishra-tepe-sigeman-2023/",
-         "pubDate" : "Sat, 06 May 2023 06:20:00 +0000",
-         "title" : "Vincent Keymer - Abhimanyu Mishra, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Jorden Van Foreest Boris Gelfand from round 3 of TePe Sigeman 2023. The other live games of the round include: Live : Peter Svidler Arjun Erigaisi / Jorden Van Foreest Boris Gelfand / Vincent Keymer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jorden-van-foreest-boris-gelfand-tepe-sigeman-2023/",
-         "pubDate" : "Sat, 06 May 2023 06:00:00 +0000",
-         "title" : "Jorden Van Foreest - Boris Gelfand, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Peter Svidler Arjun Erigaisi from round 3 of TePe Sigeman 2023. The other live games of the round include: Live : Peter Svidler Arjun Erigaisi / Jorden Van Foreest Boris Gelfand / Vincent Keymer Abhimanyu []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-svidler-arjun-erigaisi-tepe-sigeman-2023/",
-         "pubDate" : "Sat, 06 May 2023 05:43:01 +0000",
-         "title" : "Peter Svidler - Arjun Erigaisi, TePe Sigeman 2023"
       },
       {
          "description" : "With back-to-back wins over Jorden van Foreest and Vincent Keymer, Dommaraju Gukesh grabbed the sole lead at the TePe Sigeman & Co tournament in Malm&ouml;. Three players stand a half point back: local hero Nils Grandelius, 8-time Russian champion Peter Svidler and 14-year-old Abhimanyu Mishra. Gukesh will play black in the next two rounds, first against Grandelius and then against Arjun Erigaisi. | Photos: David Llada",
@@ -112,38 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/rapid-transit.html",
          "pubDate" : "Fri, 05 May 2023 14:34:00 +0000",
          "title" : "Rapid Transit"
-      },
-      {
-         "description" : "The LOSHF May Cup will take place from 05-07 May 2023 in Lviv, Ukraine. The time control is 35 minutes plus 30 seconds per turn for each participant until the end of the game.&#xA0;The tournament system is 9-round Swiss and will participate Lubomir Michalec, Daniil Mosesov, Bogdan Lozinsky, Oleksiy Karvatsky, Yury Lisenko, Oleksiy Filippsky, Vitaliy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/loshf-may-cup-participants/",
-         "pubDate" : "Fri, 05 May 2023 14:00:00 +0000",
-         "title" : "LOSHF May Cup - Participants"
-      },
-      {
-         "description" : "The Individual Championship of North Macedonia will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and will participate Filip Pancevski, Emil Risteski, Zvonko Stanojoski, Toni Lazov, Nikola Nikolovski, Andrej Veljanoski, Filip []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/individual-championship-of-north-macedonia-2023-live/",
-         "pubDate" : "Fri, 05 May 2023 12:45:00 +0000",
-         "title" : "Individual Championship of North Macedonia 2023 - LIVE"
-      },
-      {
-         "description" : "The Women's Championship of North Macedonia 2023 will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Robin. More : Individual Championship of North Macedonia 2023Replay : 2022 Open and Women&#x2019;s Championships of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-championship-of-north-macedonia-2023/",
-         "pubDate" : "Fri, 05 May 2023 12:25:00 +0000",
-         "title" : "Women's Championship of North Macedonia 2023"
-      },
-      {
-         "description" : "The Individual Championship of North Macedonia will take place from 04-11 May 2023 in Skopje,North Macedonia. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and will participate Filip Pancevski, Emil Risteski, Zvonko Stanojoski, Toni Lazov, Nikola Nikolovski, Andrej Veljanoski, Filip []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/individual-championship-of-north-macedonia-2023/",
-         "pubDate" : "Fri, 05 May 2023 12:05:00 +0000",
-         "title" : "Individual Championship of North Macedonia 2023"
       },
       {
          "description" : "All India Chess Federation received numerous requests from Indians staying abroad to organize an online Senior National Arbiter Seminar. Considering their requests, it is decided",
