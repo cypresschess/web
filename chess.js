@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. Dommaraju Gukesh is leading the standings with a perfect score after two rounds. Peter Svidler, Nils Grandelius and Abhimanyu Mishra stand a half point behind. | Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Sat, 06 May 2023 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 3: Live"
+      },
+      {
+         "description" : " \"Can you kill the king?\" is a question I often get asked at school competitions. I give a firm no, followed by a somewhat longer explanation involving the practice of holding kings for ransom in medieval times. But for today, and today only, I was tempted to suspend this rule for Street Chess. What stopped me wasn't the fear of being hauled off to Belmarsh, but the fact that it was a FIDE rated event, and to be valid, the FIDE rules needed to be followed correctly. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/regicide.html",
+         "pubDate" : "Sat, 06 May 2023 13:34:00 +0000",
+         "title" : "Regicide"
+      },
+      {
+         "description" : "In ChessBase Magazine #213 you can find three video analyses of current opening variations: Christian Bauer recommends the trendy 5...Nh5 against the London System. Leon Mendonca uses one of his games from the current Bundesliga season to show how one should play against the King's Indian sideline 6...Bg4. And Mihail Marin takes the game Esipenko-Aronian from the WR Masters 2023 as an opportunity to take a closer look at a Catalan variation that was popular in the 80s and 90s. You can watch an excerpt from Christian Bauer's video here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/videos-on-the-london-system-king-s-indian-and-catalan",
+         "pubDate" : "Sat, 06 May 2023 14:00:00 +0100",
+         "title" : "Videos on the London System, King's Indian and Catalan"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Sat, 06 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "D Gukesh made a fantastic start at 28th TePe Sigeman & Co Chess Tournament 2023 in Denmark. He destroyed Germany's No. 1 Vincent Keymer with a spectacular bishop sacrifice. This win takes the 16-year-old's live rating to his career highest at 2741, and elevates him to the World's No. 15. Listen to Sagar Shah of ChessBase India explain and enthuse over the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-did-this-vishy-anand",
+         "pubDate" : "Sat, 06 May 2023 13:35:05 +0100",
+         "title" : "Gukesh did this! - Vishy Anand"
+      },
+      {
+         "description" : " The Step Chess Method is one of the most famous step-by-step methods for teaching and learning chess. In this article, I will explain what the Step Method is, tell you if it is worth it, and how you can get the most out of it. From Beginner To GM Thanks To Chess Step Method The [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/steps-method-explained/\">The Chess Step Method Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/steps-method-explained/",
+         "pubDate" : "Sat, 06 May 2023 12:00:00 +0000",
+         "title" : "The Chess Step Method Explained"
+      },
+      {
+         "description" : "I can find no record of King Charles III playing chess, though there is evidence that his antecedent and namesake, King Charles I, owned an amber chess board. There is, however, a chess connection with our new monarch, crowned today in Westminster Abbey. It is, though, of a more personal nature. Not only did I cross []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/coronation-chess-charles-iii-edward-i-and-alfonso-the-wise/",
+         "pubDate" : "Sat, 06 May 2023 11:46:29 +0000",
+         "title" : "Coronation chess: Charles III, Edward I and Alfonso the Wise"
+      },
+      {
+         "description" : "The Czech Amateur Championship is taking place from 6&#x2013;11 May 2023 in Hluk. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Pavel Karnik, Jakub Rabatin, Jakub Vojta, Marian Sabol, Patrik Stevik, Josef Mudrak, Marek Mica, Jan Lajbl, Rudolf []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-amateur-championship-2023-live/",
+         "pubDate" : "Sat, 06 May 2023 11:40:00 +0000",
+         "title" : "Czech Amateur Championship 2023 - LIVE"
+      },
+      {
          "description" : "The Czech Amateur Championship is taking place from 6&#x2013;11 May 2023 in Hluk. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Pavel Karnik, Jakub Rabatin, Jakub Vojta, Marian Sabol, Patrik Stevik, Josef Mudrak, Marek Mica, Jan Lajbl, Rudolf []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,14 +154,6 @@ news_feed (
          "title" : "Superbet Chess Classic 2023 - LIVE"
       },
       {
-         "description" : "The Superbet Chess Classic is a 10-player classical round-robin taking place in the Grand Hotel in Bucharest, Romania from 6-15 May 2023. It's the first stage on the 2023 Grand Chess Tour, with a $350,000 total prize fund and a $100,000 top prize. The players receive 90 minutes for 40 moves, followed by 30 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/superbet-chess-classic/",
-         "pubDate" : "Sat, 06 May 2023 07:20:00 +0000",
-         "title" : "Superbet Chess Classic 2023"
-      },
-      {
          "description" : "With back-to-back wins over Jorden van Foreest and Vincent Keymer, Dommaraju Gukesh grabbed the sole lead at the TePe Sigeman & Co tournament in Malm&ouml;. Three players stand a half point back: local hero Nils Grandelius, 8-time Russian champion Peter Svidler and 14-year-old Abhimanyu Mishra. Gukesh will play black in the next two rounds, first against Grandelius and then against Arjun Erigaisi. | Photos: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +162,7 @@ news_feed (
          "title" : "TePe Sigeman: Gukesh off to a fiery start"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-2-superbetchessclas",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-2-superbetchessclassic-grandchesstour\"><img s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-2-superbetchessclassic-grandchesstour",
@@ -122,7 +178,7 @@ news_feed (
          "title" : "8 Grandmasters Qualify For Olympic Esports Finals In Singapore"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclas",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstour\"><img s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstour",
@@ -906,30 +962,6 @@ news_feed (
          "title" : "Stranger than fiction: 'Chess: the musical'"
       },
       {
-         "description" : "By playing the powerful 22.Rxe4! dxe4 23.Nxe4 in the diagram position, White gained a decisive attack, with magnificent checkmate patterns on the horizon. You can really let off steam here - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mating-parade",
-         "pubDate" : "Sat, 29 Apr 2023 09:00:00 +0100",
-         "title" : "Mating parade"
-      },
-      {
-         "description" : "Svitlana is finally back, and brought us one of her games of the Canadian Women's Closed, which she won! In the example, she played against the Giuoco Piano with Black, and presents us plenty of opening ideas, plans, and strategies, on how to win against this opening with the Black pieces. You need to watch to the end because the last tactic which decided the game is brilliant!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-win-against-the-italian-game",
-         "pubDate" : "Sat, 29 Apr 2023 08:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to win against the Italian Game"
-      },
-      {
-         "description" : "A new world chess champion is about to be crowned. Game 14 of the match facing Ian Nepomniachtchi and Ding Liren will be played on Saturday. The score is tied, so a draw will lead to a rapid playoff on Sunday. As a preview to what is likely to become a memorable weekend for chess fans, Robert Ris recaps similar deciding encounters, focusing on the 2010 match in Sofia - the score was also tied, and defending champion Vishy Anand beat Veselin Topalov with the black pieces to keep the title!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-anand-beats-topalov-2010",
-         "pubDate" : "Fri, 28 Apr 2023 22:30:00 +0100",
-         "title" : "Robert Ris: Anand beats Topalov in the final game of their 2010 match"
-      },
-      {
          "description" : " Given the name and intent of this site, the reader might be forgiven for wondering why this post did not appear earlier. The reason is that I've only just released my video with this title on Vimeo, previously it was only available to Tiger Chess members. Here's the trailer, which explains what it's about: I'm <a href=\"https://chessimprover.com/how-to-improve-your-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"How to Improve Your Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/how-to-improve-your-chess/\">How to Improve Your Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -976,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2354",
          "pubDate" : "Fri, 28 Apr 2023 14:13:31 +0000",
          "title" : "World Rapid Team Championship: Registration is open"
-      },
-      {
-         "description" : "WR Masters 2023: The tournament winner, Levon Aronian, comments on two of his games. Plus analyses by Keymer, Duda and others. Gukesh and Praggnanandhaa each present one of their games in video! - European Individual Championship 2023: The winner Sarana comments on his groundbreaking game against Korobov, plus analyses by Shevchenko, Esipenko, Ponomariov and many others - \"Special\" on Vishy Anand: exclusive collection of 26 annotated games + contributions on strategy and endgame - French Gambit &aacute; la Carlsen: Sergey Grigoriants examines 1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 h6!? - 0-0-0 against Bogo-Indian: Spyridon Kapnisis shows how White gets good play after 1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-213",
-         "pubDate" : "Fri, 28 Apr 2023 10:00:00 +0100",
-         "title" : "NEW: ChessBase Magazine #213"
       },
       {
          "description" : "After 13 played games at the World Chess Championship Match 2023 between Ian Nepomniachtchi and Ding Liren, the result is tied 6.5-6.5. New World Chess Champion will be determined in the last classical game of the match or in the playoffs. Ian Nepomniachtchi had a full-point lead before the last two-game portions. Ding Liren once again bounced back&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/world-chess-championship-match-tied-after-13-games/\">Read More &#187;</a></span>",
@@ -1840,38 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2338",
          "pubDate" : "Sat, 15 Apr 2023 16:38:51 +0000",
          "title" : "FIDE World Championship: Nepomniachtchi takes the lead again"
-      },
-      {
-         "description" : " FM Cameron McGowan is a new International Master after winning the 2023 Oceania Junior Championship. We scored a very impressive 8.5/9, leaving him 2 points ahead of FM Daniel Gong from new Zealand and CM Hamish Bassig from Australia. New Zealand FM Sravan Renjith has earned a provisional IM title for finishing top of the Under 18 sub group, but will need to get his rating over 2200 to be awarded the title. Lillian Lu won the Under 20 Girls event with 7.5/9, earning a provisional WIM title. WFM Alaina Vincent finished 2nd on tie-break ahead of CM Nadia Braganza and Ekaterina Gratchev. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-oceania-youth-championship-final.html",
-         "pubDate" : "Sat, 15 Apr 2023 12:54:00 +0000",
-         "title" : "2023 Oceania Youth Championship - Final Day"
-      },
-      {
-         "description" : "Somehow, I cannot work up any excitement at all about the so called world championship match, currently in progress in Kazakhstan. With the reigning champion, Magnus Carlsen, sulking like Homer's Achilles in his tent, refusing to compete, yet declining to retire, the once proud title of world chess champion has forfeited its accustomed lustre. Indeed, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/was-bobby-fischer-robbed-in-havana/",
-         "pubDate" : "Sat, 15 Apr 2023 12:30:54 +0000",
-         "title" : "Was Bobby Fischer robbed in Havana?"
-      },
-      {
-         "description" : " Ian Nepomniachtchi struck back with a powerfully conducted win against Ding Liren in game five of their World Championship match in Astana, Kazakhstan. After getting nothing against the Queen's Gambit in Game 3 Nepomniachtchi switched back to the 1.e4 he used in game 1. The closed Ruy Lopez has long been Ding's weapon, this gives black and white a lot of choices and is a high skill opening. Both players will have definitely been familiar with the game Firouzja-Giri from Miami last year which was also won by white in the end. 12.Bg5 was Nepomniachtchi's new move he said later \"The position was part of my prep. But I should credit my opponent that for almost all the game he played quite sensi",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-retakes-the-lead-in-the-world-championship-3-2-after-a-smooth-win",
-         "pubDate" : "Sat, 15 Apr 2023 16:26:00 +0400",
-         "title" : "Nepomniachtchi retakes the lead in the World Championship 3-2 after a smooth win - 5"
-      },
-      {
-         "description" : " There isn't a single best opening for Beginners. But there are three key traits you need to look out for in an opening, especially if you just started playing chess. If you can answer the following three questions with yes, then the opening you are looking at is probably good for you: 1) Can I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/beginner-openings-traits/\">The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/beginner-openings-traits/",
-         "pubDate" : "Sat, 15 Apr 2023 12:00:00 +0000",
-         "title" : "The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)"
       }
    ]
 }
