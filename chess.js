@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Alexander Grischuk | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-3",
+         "pubDate" : "Sat, 06 May 2023 19:00:00 +0100",
+         "title" : "Endgames from Kazakhstan (3)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-ding-still-has-digest-world-title-r1superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_jnePjM1-Zk.jpg?itok=K0vXx8Oz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-ding-still-has-digest-world-title-r1superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 15:48:17 +0000",
+         "title" : "Kasparov: Ding still has to Digest the World Title | R1#SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Romanian Chess Federation President Vlad Ardeleanu talks to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vlad-ardeleanu-grand-chess-tour-welcomed-romania-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EVC96tzSv2s.jpg?itok=oM2bZuwm\" alt=\"\" /></a></div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vlad-ardeleanu-grand-chess-tour-welcomed-romania-r1-superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 15:48:17 +0000",
+         "title" : "Vlad Ardeleanu: Grand Chess Tour is Welcomed in Romania | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after his draw with MVL in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-after-match-i-was-exhausted-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7R2P21tLtiE.jpg?itok=3xSPcjpu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ding-after-match-i-was-exhausted-r1-superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 15:48:17 +0000",
+         "title" : "Ding: After the Match, I Was Exhausted | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila highlights the sights and sounds at the Grand Hotel Bucharest from the Opening Ceremony of the Superbet Chess Classic. This aired during Round 1. 2023.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-opening-ceremony-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x_jl5yuvj",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-opening-ceremony-superbetchessclassic",
+         "pubDate" : "Sat, 06 May 2023 15:48:17 +0000",
+         "title" : "2023 Superbet Chess Classic: Opening Ceremony #SuperbetChessClassic"
+      },
+      {
          "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. Dommaraju Gukesh is leading the standings with a perfect score after two rounds. Peter Svidler, Nils Grandelius and Abhimanyu Mishra stand a half point behind. | Follow the games live, with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +58,14 @@ news_feed (
          "title" : "Regicide"
       },
       {
+         "description" : "D Gukesh made a fantastic start at 28th TePe Sigeman & Co Chess Tournament 2023 in Sweden. He destroyed Germany's No. 1 Vincent Keymer with a spectacular bishop sacrifice. This win takes the 16-year-old's live rating to his career highest at 2741, and elevates him to the World's No. 15. Listen to Sagar Shah of ChessBase India explain and enthuse over the game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-did-this-vishy-anand",
+         "pubDate" : "Sat, 06 May 2023 14:00:00 +0100",
+         "title" : "Gukesh did this! - Vishy Anand"
+      },
+      {
          "description" : "In ChessBase Magazine #213 you can find three video analyses of current opening variations: Christian Bauer recommends the trendy 5...Nh5 against the London System. Leon Mendonca uses one of his games from the current Bundesliga season to show how one should play against the King's Indian sideline 6...Bg4. And Mihail Marin takes the game Esipenko-Aronian from the WR Masters 2023 as an opportunity to take a closer look at a Catalan variation that was popular in the 80s and 90s. You can watch an excerpt from Christian Bauer's video here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
          "pubDate" : "Sat, 06 May 2023 13:50:00 +0100",
          "title" : "Superbet Chess Classic - Live!"
-      },
-      {
-         "description" : "D Gukesh made a fantastic start at 28th TePe Sigeman & Co Chess Tournament 2023 in Denmark. He destroyed Germany's No. 1 Vincent Keymer with a spectacular bishop sacrifice. This win takes the 16-year-old's live rating to his career highest at 2741, and elevates him to the World's No. 15. Listen to Sagar Shah of ChessBase India explain and enthuse over the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-did-this-vishy-anand",
-         "pubDate" : "Sat, 06 May 2023 13:35:05 +0100",
-         "title" : "Gukesh did this! - Vishy Anand"
       },
       {
          "description" : " The Step Chess Method is one of the most famous step-by-step methods for teaching and learning chess. In this article, I will explain what the Step Method is, tell you if it is worth it, and how you can get the most out of it. From Beginner To GM Thanks To Chess Step Method The [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/steps-method-explained/\">The Chess Step Method Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -162,7 +202,7 @@ news_feed (
          "title" : "TePe Sigeman: Gukesh off to a fiery start"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-2-superbetchessclassic-grandchesstour\"><img s",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-2-superbetchessclassic-grandchesstou",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-2-superbetchessclassic-grandchesstour",
@@ -178,7 +218,7 @@ news_feed (
          "title" : "8 Grandmasters Qualify For Olympic Esports Finals In Singapore"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstour\"><img s",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstou",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-1-superbetchessclassic-grandchesstour",
@@ -618,14 +658,6 @@ news_feed (
          "title" : "Grivas World Championship wrap-up"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at world chess champion Ding Liren&#039;s rise as a player. Examine Ding&#039;s style through key games. 2023.05.02<br /> Ding Liren vs Alexander Grischuk, World Cup (2019): A20 English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1972590\">https://www.chessgames.com/perl/chessgame?gid=1972590</a><br /> Jinshi Bai vs Ding Liren, Chinese Chess League (2017): E21 Nimzo-Indian, three knights variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1891363\">https://www.chessgames.com/perl/chessgame?gid=1891363</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rise-king-ding-grandmasters-choice-gm-denes-boros",
-         "pubDate" : "Tue, 02 May 2023 03:44:11 +0000",
-         "title" : "Rise of the King Ding | Grandmaster's Choice - GM Denes Boros"
-      },
-      {
          "description" : "GMs Alireza Firouzja, Kirill Shevchenko, Dmitrij Kollars, Anish Giri, and Levon Aronian fought their way through a field of 144 players, mostly grandmasters, and qualified through match play for Division I of the Champions Chess Tour ChessKid Cup ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -938,14 +970,6 @@ news_feed (
          "title" : "Shortest unique game?"
       },
       {
-         "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here five instructive positions, with on-point analysis by our in-house endgame expert. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-2",
-         "pubDate" : "Sat, 29 Apr 2023 14:00:00 +0100",
-         "title" : "Endgames from Kazakhstan (2)"
-      },
-      {
          "description" : " Winning 752 points in 6 months. What sounds like a ridiculous marketing pitch is the real success story of my student Tatjana. She managed to raise her chess.com rapid rating from 269 to 1021 points in only half a year. In this article, I want to go through three key factors in this success story. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/success-story-1/\">Unlocking Chess Success: +752 Points in 6 Months</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1040,14 +1064,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-creates-new-company-launches-fantasy-chess",
          "pubDate" : "Thu, 27 Apr 2023 12:45:51 -0700",
          "title" : "Magnus Carlsen Spearheads New Company, Launches Fantasy Chess App"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros gives his take on Ian Nepomniachtchi's probable preparation for his ongoing 2023 World Chess Championship match against Ding Liren. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pniT0plAGN0.jpg?itok=dZ-515FQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/world-championship-prep-how-nepo-does-it-prepare-pro-gm-denes-boros",
-         "pubDate" : "Thu, 27 Apr 2023 18:39:49 +0000",
-         "title" : "World Championship Prep: How Nepo Does It | Prepare Like A Pro - GM Denes Boros"
       },
       {
          "description" : "",
@@ -1200,22 +1216,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-rayna-ajay-patel/",
          "pubDate" : "Wed, 26 Apr 2023 03:58:41 +0000",
          "title" : "Congratulations Rayna Ajay Patel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows brilliant moves and games from Magnus Carlsen. 2023.04.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X-yG_3RsrR0.jpg?itok=HAEwPoqy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-era-brilliancies-grandmasters-choice-gm-denes-boros-lichessorg",
-         "pubDate" : "Wed, 26 Apr 2023 00:37:31 +0000",
-         "title" : "Carlsen-Era Brilliancies | Grandmaster's Choice - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about promoting pawns into queens (using concepts like opposition) in this beginner chess lecture. 2023.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-get-promotion-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-get-promotion-beginner-breakdown",
-         "pubDate" : "Tue, 25 Apr 2023 21:37:18 +0000",
-         "title" : "How to Get a Promotion! | Beginner Breakdown"
       },
       {
          "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
@@ -1848,22 +1848,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nepomniachtchi-retakes-the-lead-with-game-5-win",
          "pubDate" : "Sat, 15 Apr 2023 20:22:13 +0000",
          "title" : "Nepomniachtchi retakes the lead with Game 5 win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2339",
-         "pubDate" : "Sat, 15 Apr 2023 18:34:41 +0000",
-         "title" : "2023 FIDE World School Chess Championship kicks off in the Rodos Palace Hotel"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2338",
-         "pubDate" : "Sat, 15 Apr 2023 16:38:51 +0000",
-         "title" : "FIDE World Championship: Nepomniachtchi takes the lead again"
       }
    ]
 }
