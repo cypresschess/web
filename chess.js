@@ -322,7 +322,7 @@ news_feed (
          "title" : "The names of chess pieces"
       },
       {
-         "description" : "Please find the complete list of Arbiters attended online refresher seminar from Feb 2023-Apr 2024 . List of Arbiters",
+         "description" : "Please find the complete list of Arbiters attended online refresher seminar&#160;from Feb 2023-Apr 2024 . List of Arbiters",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/list-of-arbiters-attended-refresher-seminar-2023-24/",
