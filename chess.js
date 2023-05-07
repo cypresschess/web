@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After three rounds, Dommaraju Gukesh, Peter Svidler and Abhimanyu Mishra are sharing the lead in the standings. | Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Sun, 07 May 2023 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 4: Live"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Sun, 07 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Wesley So talked of \"revenge\" as he beat Alireza Firouzja with the black pieces to score the only win on Day 1 of the Superbet Chess Classic, the first event on the 2023 Grand Chess Tour. Ding Liren was ultimately happy to open with a solid draw against Maxime Vachier-Lagrave, while the world champion's second Richard Rapport felt Ian Nepomniachtchi was vulnerable in the French Defence, though he couldn't prove it.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-classic-1-so-gets-firouzja-revenge",
+         "pubDate" : "Sun, 07 May 2023 11:31:36 +0000",
+         "title" : "Superbet Chess Classic 1: So gets Firouzja revenge"
+      },
+      {
          "description" : "The 4.Porzer Schnellschach-Open will take place in K&#xF6;ln-Porz, Stadtgymnasium, Germany on 7th May 2023. The time control is 10 minutes for the whole game with a 5-second increment from move one. It is a 9-round Swiss tournament with participation Daniel Fridman, Vitaly Kunin, Christian Braun, Alexander Bagrationi, Felix Levin, Vadym Petrovskyi, Arkadij Rotstein, Dieter Morawietz, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "Wesley So: Firouzja a Little Rusty? | R1 #SuperbetChessClassic"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.08<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40/90, SD/30, +30s from move 1<br /> Alireza Firouzja vs. Richard Rapport </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.08<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Alireza Firouzja vs. Richard Rapport </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-3-superbetchessclassic-grandchesstour",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-opening-ceremony-superbetchessclassic",
          "pubDate" : "Sat, 06 May 2023 15:48:17 +0000",
          "title" : "2023 Superbet Chess Classic: Opening Ceremony #SuperbetChessClassic"
-      },
-      {
-         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. Dommaraju Gukesh is leading the standings with a perfect score after two rounds. Peter Svidler, Nils Grandelius and Abhimanyu Mishra stand a half point behind. | Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Sat, 06 May 2023 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 3: Live"
       },
       {
          "description" : " \"Can you kill the king?\" is a question I often get asked at school competitions. I give a firm no, followed by a somewhat longer explanation involving the practice of holding kings for ransom in medieval times. But for today, and today only, I was tempted to suspend this rule for Street Chess. What stopped me wasn't the fear of being hauled off to Belmarsh, but the fact that it was a FIDE rated event, and to be valid, the FIDE rules needed to be followed correctly. <br /> ",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vladimir-fedoseev-wins-formentera-open-2023",
          "pubDate" : "Sun, 30 Apr 2023 06:40:00 +0100",
          "title" : "Vladimir Fedoseev first at Chessable Sunway Formentera Open"
-      },
-      {
-         "description" : "Ding Liren boldly tried to create winning chances with white in game 14 of the World Championship match, the last classical encounter of the confrontation. The strategy backfired, as the Chinese GM misplayed the position and needed accurate defence to hold a draw in a game that ended up lasting over six and a half hours. Rapid playoffs on Sunday will decide the winner. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g14",
-         "pubDate" : "Sat, 29 Apr 2023 23:05:00 +0100",
-         "title" : "World Championship Game 14: On to the rapid playoff as Ding escapes"
       },
       {
          "description" : "",
@@ -1832,30 +1840,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-back-level-after-finishing-game-6-of-the-world-chess-championship-with-a-flourish",
          "pubDate" : "Sun, 16 Apr 2023 20:01:00 +0400",
          "title" : "Ding back level after finishing game 6 of the World Chess Championship with a flourish - 6"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2340",
-         "pubDate" : "Sun, 16 Apr 2023 15:11:26 +0000",
-         "title" : "The pendulum swings: Ding Liren equalises again"
-      },
-      {
-         "description" : "What have we here? Strictly speaking, it's not really a chess photo, but we use what we are given. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd16.jpg\" WIDTH=400 HEIGHT=300><BR> <B>Left:</B> <A HREF=\"https://www.flickr.com/photos/rob_react/52794719572/\">Chess Club Inside! Ring Da Bell!</A> &#169; Flickr user <I>Rob Larsen</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>.<BR> <B>Right:</B> Sign on the door, enlarged. <P> The sign underneath say, 'Only Sundays 1430-1730!'. Where? The tags said, 'Amsterdam graffiti'. Where else... <P> If you were expecting more 'AI generated chess images', last seen in <A HREF=\"https://chessforallages.blo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/only-on-sunday.html",
-         "pubDate" : "Sun, 16 Apr 2023 15:08:00 +0000",
-         "title" : "Only on Sunday"
-      },
-      {
-         "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3 going into Monday's rest day. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding's London System, a chess opening that starred on its first ever outing in a World Championship match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-wins-game-6-of-world-championship-rollercoaster",
-         "pubDate" : "Sun, 16 Apr 2023 13:44:49 +0000",
-         "title" : "Ding wins Game 6 of World Championship rollercoaster"
       }
    ]
 }
