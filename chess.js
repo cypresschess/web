@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2375",
+         "pubDate" : "Mon, 08 May 2023 19:23:11 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad 2023: Registration is open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his draw with Rapport in Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-take-more-risks-lose-more-points-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FytXpz4tyME.jpg?itok=If7IbzIC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-take-more-risks-lose-more-points-r3-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
+         "title" : "Firouzja: Take More Risks, Lose More Points! | R3 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his win over MVL in Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-did-what-i-had-do-mvl-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VsFwi1w_HuE.jpg?itok=dQ6lrwFd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-did-what-i-had-do-mvl-r3-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
+         "title" : "Caruana: Did What I Had to Do to MVL | R3 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-analyzes-nepo-ding-more-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5fUl75Utp-A.jpg?itok=oQ_H_qBi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-nepo-ding-more-r3-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
+         "title" : "Kasparov Analyzes Nepo-Ding & More! | R3 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tournament volunteer Andrei Jitea talks to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. This aired during Round 3. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/volunteer-andrei-i%E2%80%99ve-admired-firouzja-long-time-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q3v5kxYSHbc.jpg?itok=oB-8Jrc0\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/volunteer-andrei-i%E2%80%99ve-admired-firouzja-long-time-r1-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
+         "title" : "Volunteer Andrei: I've Admired Firouzja for a Long Time | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after his draw with Nepomniachtchi in Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-so-tired-after-world-championship-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4EM30JEGNE.jpg?itok=TIjiwT4O\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ding-so-tired-after-world-championship-r3-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
+         "title" : "Ding: 'So Tired' After World Championship | R3 #SuperbetChessClassic"
+      },
+      {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
+         "pubDate" : "Mon, 08 May 2023 18:45:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week live"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the Chessable Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-238-highlights-from-the-chessable-masters-i-2",
+         "pubDate" : "Mon, 08 May 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #239: Highlights from the Chessable Masters (II)"
+      },
+      {
+         "description" : "Think you&#38;rsquo;ve got what it takes to go toe-to-toe with one of the smartest executives in professional sports? It&#38;rsquo;s time for you to make some blockbuster trades over the board. We&#39;ve added Philadelphia 76ers President Daryl Morey to our s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-with-basketball-mastermind-daryl-morey",
+         "pubDate" : "Mon, 08 May 2023 09:00:00 -0700",
+         "title" : "Play Chess With Basketball Mastermind Daryl Morey"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> One United Properties Official Mihai Păduroiu talks to Cristian Chirila during Round 3 of the 2023 Superbet Chess Classic. One United is Romania's leading sustainable real estate developer and a sponsor of this event. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/one-united%E2%80%99s-p%C4%83duroiu-chess-develops-vision-balance-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/one-united%E2%80%99s-p%C4%83duroiu-chess-develops-vision-balance-r3-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 15:50:27 +0000",
+         "title" : "One United's Păduroiu: Chess Develops Vision & Balance | R3 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players what makes the Grand Chess Tour special to them. This aired during Round 3. 2023.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-what-makes-grand-chess-tour-special-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pP86OKjSVq4.jpg?itok=5lsDVhKi\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-what-makes-grand-chess-tour-special-superbetchessclassic",
+         "pubDate" : "Mon, 08 May 2023 15:50:27 +0000",
+         "title" : "2023 Superbet Chess Classic: What Makes the Grand Chess Tour Special? #SuperbetChessClassic"
+      },
+      {
          "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,6 +290,14 @@ news_feed (
          "title" : "Rapport: I Don't Deserve to be +1 | R2 #SuperbetChessClassic"
       },
       {
+         "description" : "Looking for a fun and competitive chess tournament? Whether you're a pro or just love the game, there are plenty of exciting options at Outpost Chess.&#160; You might be the one to play with GMs, IMs or any other titled players, and to fight for the prize in your own category (can be even Unrated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/make-money-online-by-playing-outpost-chess-tournaments-with-anti-cheating-checks/",
+         "pubDate" : "Sun, 07 May 2023 18:43:00 +0000",
+         "title" : "Make money Online by playing Outpost Chess tournaments - with anti-cheating checks"
+      },
+      {
          "description" : " I wonder what you're scared of. Ghosts or monsters? Zombies or vampires? You know what I'm scared of? Queen endings! All those checks! How am I supposed to calculate them all? I have to calculate all possible pawn endings as well. I also have to be careful not to move my king into a mating <a href=\"https://chessimprover.com/scary-movies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Scary Mov(i)es\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/scary-movies/\">Scary Mov(i)es</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -226,46 +322,6 @@ news_feed (
          "title" : "A Quick Public Service Message"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> First Bank (Romania) CEO Henk Paardekooper talks to Cristian Chirila during Round 2 of the 2023 Superbet Chess Classic. First Bank is a sponsor of this year's Grand Chess Tour. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/first-bank-ceo-have-strategy-business-chess-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zMAVO",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/first-bank-ceo-have-strategy-business-chess-r2-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 15:49:36 +0000",
-         "title" : "First Bank CEO: Have a Strategy in Business & Chess | R2 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> J.C. Flowers &amp; Co. CEO &amp; Chairman Chris Flowers talks to Cristian Chirila during Round 2 of the 2023 Superbet Chess Classic. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jc-flowers-co-ceo-discipline-foresight-time-management-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6G6GJVCDQQ0.jpg?itok=uE4ocBTa\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jc-flowers-co-ceo-discipline-foresight-time-management-r2-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 15:49:36 +0000",
-         "title" : "J.C. Flowers & Co. CEO: Discipline, Foresight, Time Management | R2 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players how they enjoy being back in Bucharest, Romania for the first leg of the Grand Chess Tour. This aired during Round 2. 2023.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-back-bucharest-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7xgK0Qjq7no.jpg?itok=2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-back-bucharest-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 15:49:36 +0000",
-         "title" : "2023 Superbet Chess Classic: Back in Bucharest #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Ding in Round 2 of the 2023 Superbet Chess Classic. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-ding-isn%E2%80%99t-trying-very-hard-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/we76M8T7nEM.jpg?itok=hrhksMkH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-ding-isn%E2%80%99t-trying-very-hard-r2-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 15:49:36 +0000",
-         "title" : "Caruana: Ding Isn't Trying Very Hard | R2 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after his draw with Wesley So in Round 2 of the 2023 Superbet Chess Classic. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-draw-so-%E2%80%98not-satisfying%E2%80%99-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-OccaMl4YFU.jpg?itok=Y7HfPJwa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-draw-so-%E2%80%98not-satisfying%E2%80%99-r2-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 15:49:36 +0000",
-         "title" : "MVL: Draw with So 'Not Satisfying' | R2 #SuperbetChessClassic"
-      },
-      {
          "description" : "In ChessBase Magazine #213 you can find three video analyses of current opening variations: Christian Bauer recommends the trendy 5...Nh5 against the London System. Leon Mendonca uses one of his games from the current Bundesliga season to show how one should play against the King's Indian sideline 6...Bg4. And Mihail Marin takes the game Esipenko-Aronian from the WR Masters 2023 as an opportunity to take a closer look at a Catalan variation that was popular in the 80s and 90s. You can watch an excerpt from Christian Bauer's video here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-classic-1-so-gets-firouzja-revenge",
          "pubDate" : "Sun, 07 May 2023 11:31:36 +0000",
          "title" : "Superbet Chess Classic 1: So gets Firouzja revenge"
-      },
-      {
-         "description" : "The 4.Porzer Schnellschach-Open will take place in K&#xF6;ln-Porz, Stadtgymnasium, Germany on 7th May 2023. The time control is 10 minutes for the whole game with a 5-second increment from move one. It is a 9-round Swiss tournament with participation Daniel Fridman, Vitaly Kunin, Christian Braun, Alexander Bagrationi, Felix Levin, Vadym Petrovskyi, Arkadij Rotstein, Dieter Morawietz, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4-porzer-schnellschach-open/",
-         "pubDate" : "Sun, 07 May 2023 10:00:00 +0000",
-         "title" : "4.Porzer Schnellschach-Open"
       },
       {
          "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -328,22 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-1",
          "pubDate" : "Sat, 06 May 2023 15:17:00 -0700",
          "title" : "So Gets His Revenge Vs. Firouzja, Takes Clear Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after his draw with Duda in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-excited-play-classical-chess-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p-x2iGuqyWc.jpg?itok=cmNwu5-m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-excited-play-classical-chess-r1-superbetchessclassic",
-         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
-         "title" : "Giri: Excited to Play Classical Chess! | R1 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Cristian Chirila after his draw with Nepomniachtchi in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-nepo-acted-%E2%80%98peculiar%E2%80%99-game-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ApXUkPfTrsY.jpg?itok=GbKdfuHi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-nepo-acted-%E2%80%98peculiar%E2%80%99-game-r1-superbetchessclassic",
-         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
-         "title" : "Rapport: Nepo Acted 'Peculiar' Before the Game | R1 #SuperbetChessClassic"
       },
       {
          "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Alexander Grischuk | Photo: Aditya Sur Roy",
@@ -415,7 +447,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-preliminaries",
          "pubDate" : "Fri, 05 May 2023 13:48:10 -0700",
-         "title" : "8 Grandmasters Qualify For Olympic Esports Finals In Singapore"
+         "title" : "8 Grandmasters Qualify For Olympic Esports Finals"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King celebrates the victory of Ding Liren by looking at a particular aspect of his style: his ability to whip up an unexpected attack and spot a checkmating pattern. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -794,28 +826,12 @@ news_feed (
          "title" : "FIDE ratings May 2023"
       },
       {
-         "description" : "The new ChessBase Magazine #213 once again delivers a big swing of ideas for your repertoire in eleven opening articles - from Caro-Kann to the King's Indian! Sergey Grigoriants examines a new idea on move four that has become the latest fashion thanks to Magnus Carlsen, among others: 4...h6 in the French Defence! Black offers a pawn sacrifice - after the exchange on f6 the pawn on d5 is simply hanging. Can this be any good? The new engines and Sergey Griogoriants show that Black gets \"compensation and great piece activity in all lines\". Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-french--la-carlsen",
-         "pubDate" : "Tue, 02 May 2023 14:00:00 +0100",
-         "title" : "The French &aacute; la Carlsen"
-      },
-      {
          "description" : "The 2023 IBCA European Team Chess Championship for the Blind and Visually Impaired took place from 19-30 April in Genova, Italy. With the participation of 14 federations, the event was played in 9 rounds, swiss system, with players using specialized Braille chess boards, talking chess clocks and voice recording equipment. Team Serbia (FM Pavle Dimic, CM Damjan Jandric,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/",
          "pubDate" : "Tue, 02 May 2023 10:50:04 +0000",
          "title" : "Serbia wins IBCA European Team Chess Championship 2023"
-      },
-      {
-         "description" : "The final phase of the Astana World Championship brought us unparalleled drama. You saw Ding pull it off with tenacious defence in game 14, and then continue with extraordinary defensive skills in the first three playoff game. In the fourth game the Chinese GM took a very brave decision in the ending, to reject a draw and play for a win - a decision that paid off handsomely. Once again we have deep, instructive commentary for you to study, kindly provided to us by grandmaster Efstratios Grivas. We include pictures and the closing ceremony video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-world-championship-wrap-up",
-         "pubDate" : "Tue, 02 May 2023 08:45:18 +0100",
-         "title" : "Grivas World Championship wrap-up"
       },
       {
          "description" : "GMs Alireza Firouzja, Kirill Shevchenko, Dmitrij Kollars, Anish Giri, and Levon Aronian fought their way through a field of 144 players, mostly grandmasters, and qualified through match play for Division I of the Champions Chess Tour ChessKid Cup ...",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Nepomniachtchi holds Game 10 draw to close on title"
       },
       {
-         "description" : "GM Ian Nepomniachtchi moved one step closer to the world championship title on Sunday after equalizing with Black and drawing in 45 moves in the 10th game of the 2023 FIDE World Championship. GM Ding Liren reverted to the English Opening and val...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-10",
-         "pubDate" : "Sun, 23 Apr 2023 05:26:00 -0700",
-         "title" : "Nepomniachtchi Holds Ding To Draw, Closes In On World Championship Title"
-      },
-      {
          "description" : " Ding Liren was surprised by Ian Nepomniachtchi in game 10 of the World Chess Championships and the game finished in a draw after three and a half hours play with bare kings on the board. This means Nepomniachtchi retains a one point lead going into the final four games of the match. The game saw a return to the English Opening by Ding, today he chose a Sicilian Four Knights with 4.e4. 4...Bc5 allowed a fork trick with 5.Nxe5 Nxe5 6.d4 recovering the piece but it turns out this might not be at all bad for black. 9....Bc5 seemed to catch Ding out and they then followed a Titled Tuesday blitz game Nepomniachtchi played in 2020 until 14.0-0 which was new from Ding. The variation is a sharp atte",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1808,30 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2343",
          "pubDate" : "Mon, 17 Apr 2023 22:04:51 +0000",
          "title" : "FIDE Circuit: Gukesh D leapfrogs So to grab the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2342",
-         "pubDate" : "Mon, 17 Apr 2023 19:15:58 +0000",
-         "title" : "Lesotho Championship: Bokang Motsamai and Reitumetse Taioe win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2341",
-         "pubDate" : "Mon, 17 Apr 2023 16:57:25 +0000",
-         "title" : "Team World takes the lead against Kazakhstan's top women"
-      },
-      {
-         "description" : "The previous post in our fortnightly look at the two most important engine vs. engine competitions was <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html\">TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final</A> (April 2023). Here's a summary of that post:- <BLOCKQUOTE> TCEC: DivP is a few games away from its finish. Stockfish is a point ahead of LCZero, which has a big lead over KomodoDragon. For this season the organizers have organized the new 'DivP Playoff': 'The top four of DivP face each other to determine who goes to SuFi 24.' &#149; CCC: Stockfish beat Lc0 by 293.0-207.0, making Stockfish the winner of the 'CCC20 Blitz Final'. The s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/tcec-s24-sufi-ccc20-rapid-both-underway.html",
-         "pubDate" : "Mon, 17 Apr 2023 15:55:00 +0000",
-         "title" : "TCEC S24 Sufi, CCC20 Rapid - Both Underway"
       }
    ]
 }
