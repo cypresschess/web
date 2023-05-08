@@ -5,6 +5,38 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2376",
+         "pubDate" : "Mon, 08 May 2023 22:28:07 +0000",
+         "title" : "2023 Superbet Chess Classic: Day 3 Recap"
+      },
+      {
+         "description" : "GM Fabiano Caruana was the sole winner of round three at the Superbet Classic Romania 2023, demolishing GM Maxime Vachier-Lagrave&#39;s King&#39;s Indian Defense with the radical 3.h4―tossing classical opening principles to the wind. He joins GM Ian Nepom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-3",
+         "pubDate" : "Mon, 08 May 2023 15:15:00 -0700",
+         "title" : "Caruana Rattles Vachier-Lagrave with 3.h4!?, Joins Leaders"
+      },
+      {
+         "description" : "Four players are sharing the lead on 2/3 points at the Superbet Chess Classic in Bucharest. The latest addition to the leading pack is Fabiano Caruana, who defeated Maxime Vachier-Lagrave in the only decisive game of round 3. In the marquee encounter of the round, Ian Nepomniachtchi could not make the most of his advantage in his game with white against Ding Liren. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r3",
+         "pubDate" : "Mon, 08 May 2023 23:00:00 +0100",
+         "title" : "Superbet Classic: Caruana bamboozles Vachier-Lagrave"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.10<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-5-superbetchessclassic-grandchesstour",
+         "pubDate" : "Mon, 08 May 2023 21:50:34 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 5 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2375",
          "pubDate" : "Mon, 08 May 2023 19:23:11 +0000",
          "title" : "FIDE World Youth U16 Chess Olympiad 2023: Registration is open"
@@ -58,6 +90,14 @@ news_feed (
          "title" : "The Armageddon Championship Series: Women's Week live"
       },
       {
+         "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dommaraju-gukesh-attack-like-a-super-grandmaster",
+         "pubDate" : "Mon, 08 May 2023 18:05:00 +0100",
+         "title" : "Dommaraju Gukesh - Attack like a Super Grandmaster"
+      },
+      {
          "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the Chessable Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,14 +130,6 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: What Makes the Grand Chess Tour Special? #SuperbetChessClassic"
       },
       {
-         "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dommaraju-gukesh-attack-like-a-super-grandmaster",
-         "pubDate" : "Mon, 08 May 2023 16:48:13 +0100",
-         "title" : "Dommaraju Gukesh - Attack like a Super Grandmaster"
-      },
-      {
          "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, training DVDs, services, the ChessBase Account. There are some very interesting new products: like the brand new Opening Encyclopaedia 2023, which is a huge fund of ideas and high-quality analysis! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/mishra.html",
          "pubDate" : "Mon, 08 May 2023 13:28:00 +0000",
          "title" : "Mishra"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Mon, 08 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The play of the 15th World Champion is appreciated from different perspectives in the current ChessBase Magazine: In Mihail Marin's article \"Anand as a positional ace\" you will find selected strategic masterpieces (and two interactive training videos). Karsten Mueller presents Anand's best endgames (including a detailed video introduction). And last but not least, our CBM authors Adhiban Baskaran, Imre Hera, David Navara, Igor Stohl, Yago Santiago and others present their favourite games of the \"Tiger of Madras\" - an exclusive collection of 26 victories from the period 1985 to 2022. You can watch Adhiban's analysis of the game Anand-Baron (2019) here! | Photo: Thomas Schloemann",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo-not-full-energy-motivation-ideas-r2-superbetchessclassic",
          "pubDate" : "Sun, 07 May 2023 18:49:37 +0000",
          "title" : "Nepo: Not Full of Energy, Motivation, Ideas | R2 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Cristian Chirila after he defeated Duda in Round 2 of the 2023 Superbet Chess Classic. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-i-don%E2%80%99t-deserve-be-1-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aSKVZevJAZk.jpg?itok=kLdrBlqS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-i-don%E2%80%99t-deserve-be-1-r2-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 18:49:37 +0000",
-         "title" : "Rapport: I Don't Deserve to be +1 | R2 #SuperbetChessClassic"
       },
       {
          "description" : "Looking for a fun and competitive chess tournament? Whether you're a pro or just love the game, there are plenty of exciting options at Outpost Chess.&#160; You might be the one to play with GMs, IMs or any other titled players, and to fight for the prize in your own category (can be even Unrated []",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "Nepomniachtchi closes down sharp clash in Game 11"
       },
       {
-         "description" : "GM Ding Liren was able to hold GM Ian Nepomniachtchi to a draw in game 11, the tamest encounter of the 2023 FIDE World Championship so far. All eyes are now turning to the Chinese GM&#39;s second-to-last game with the white pieces on Wednesday. The ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-11",
-         "pubDate" : "Mon, 24 Apr 2023 03:53:00 -0700",
-         "title" : "Pressure Mounts On Ding After 4th Straight Draw"
-      },
-      {
          "description" : "CSIT - the International Workers and Amateurs in Sports Confederation has the great honor to invite all amateur chess players throughout the world to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-melts-down-in-time-trouble-as-nepomniachtchi-regains-the-lead-after-7-games",
          "pubDate" : "Tue, 18 Apr 2023 17:10:00 +0400",
          "title" : "Ding melts down in time trouble as Nepomniachtchi regains the lead after 7 games - 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2343",
-         "pubDate" : "Mon, 17 Apr 2023 22:04:51 +0000",
-         "title" : "FIDE Circuit: Gukesh D leapfrogs So to grab the lead"
       }
    ]
 }
