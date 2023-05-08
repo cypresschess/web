@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic in Bucharest has three players sharing the lead after two rounds. Ian Nepomniachtchi and Richard Rapport joined Wesley So atop the standings after scoring wins over Bogdan-Daniel Deac and Jan-Krzysztof Duda respectively. World champion Ding Liren and Fabiano Caruana signed a 21-move draw. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r2",
+         "pubDate" : "Mon, 08 May 2023 01:45:00 +0100",
+         "title" : "Superbet Classic: Nepo and Rapport score, catch So in the lead"
+      },
+      {
          "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Wesley So Anish Giri from round 3 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Fabiano Caruana Maxime Vachier-Lagrave / Ian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -170,20 +178,20 @@ news_feed (
          "title" : "MVL: Draw with So 'Not Satisfying' | R2 #SuperbetChessClassic"
       },
       {
+         "description" : "In ChessBase Magazine #213 you can find three video analyses of current opening variations: Christian Bauer recommends the trendy 5...Nh5 against the London System. Leon Mendonca uses one of his games from the current Bundesliga season to show how one should play against the King's Indian sideline 6...Bg4. And Mihail Marin takes the game Esipenko-Aronian from the WR Masters 2023 as an opportunity to take a closer look at a Catalan variation that was popular in the 80s and 90s. You can watch an excerpt from Christian Bauer's video here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/videos-on-the-london-system-king-s-indian-and-catalan",
+         "pubDate" : "Sun, 07 May 2023 14:50:00 +0100",
+         "title" : "Videos on the London System, King's Indian and Catalan"
+      },
+      {
          "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After three rounds, Dommaraju Gukesh, Peter Svidler and Abhimanyu Mishra are sharing the lead in the standings. | Follow the games live, with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
          "pubDate" : "Sun, 07 May 2023 14:45:00 +0100",
          "title" : "TePe Sigeman & Co, Round 4: Live"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Sun, 07 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "Wesley So talked of \"revenge\" as he beat Alireza Firouzja with the black pieces to score the only win on Day 1 of the Superbet Chess Classic, the first event on the 2023 Grand Chess Tour. Ding Liren was ultimately happy to open with a solid draw against Maxime Vachier-Lagrave, while the world champion's second Richard Rapport felt Ian Nepomniachtchi was vulnerable in the French Defence, though he couldn't prove it.",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-did-this-vishy-anand",
          "pubDate" : "Sat, 06 May 2023 14:00:00 +0100",
          "title" : "Gukesh did this! - Vishy Anand"
-      },
-      {
-         "description" : "In ChessBase Magazine #213 you can find three video analyses of current opening variations: Christian Bauer recommends the trendy 5...Nh5 against the London System. Leon Mendonca uses one of his games from the current Bundesliga season to show how one should play against the King's Indian sideline 6...Bg4. And Mihail Marin takes the game Esipenko-Aronian from the WR Masters 2023 as an opportunity to take a closer look at a Catalan variation that was popular in the 80s and 90s. You can watch an excerpt from Christian Bauer's video here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/videos-on-the-london-system-king-s-indian-and-catalan",
-         "pubDate" : "Sat, 06 May 2023 14:00:00 +0100",
-         "title" : "Videos on the London System, King's Indian and Catalan"
       },
       {
          "description" : " The Step Chess Method is one of the most famous step-by-step methods for teaching and learning chess. In this article, I will explain what the Step Method is, tell you if it is worth it, and how you can get the most out of it. From Beginner To GM Thanks To Chess Step Method The [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/steps-method-explained/\">The Chess Step Method Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1840,14 +1840,6 @@ news_feed (
          "link" : "https://aicf.in/national-arbiter-seminar-sivakasi-certificates/",
          "pubDate" : "Mon, 17 Apr 2023 07:15:45 +0000",
          "title" : "National Arbiter Seminar Sivakasi Certificates"
-      },
-      {
-         "description" : "Carina D&rsquo;Souza gave a TEDx talk at Havergal College on &ldquo;Checkmating Bias: Increasing Women&rsquo;s Particiation in Chess&rdquo;. Watch the talk on YouTube: www.youtube.com/watch?v=C-WQQm69-jU",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2023/04/17/tedx-talk-checkmating-bias-increasing-womens-participation-in-chess/",
-         "pubDate" : "Mon, 17 Apr 2023 00:00:00 +0000",
-         "title" : "TEDx Talk on Checkmating Bias: Increasing Women's Participation in Chess"
       }
    ]
 }
