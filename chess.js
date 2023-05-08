@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dommaraju-gukesh-attack-like-a-super-grandmaster",
+         "pubDate" : "Mon, 08 May 2023 16:48:13 +0100",
+         "title" : "Dommaraju Gukesh - Attack like a Super Grandmaster"
+      },
+      {
+         "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, training DVDs, services, the ChessBase Account. There are some very interesting new products: like the brand new Opening Encyclopaedia 2023, which is a huge fund of ideas and high-quality analysis! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/your-chance-big-discount-day-2",
+         "pubDate" : "Mon, 08 May 2023 15:00:00 +0100",
+         "title" : "Your chance: big Discount Day 2023"
+      },
+      {
+         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After four rounds, Peter Svidler and Abhimanyu Mishra are sharing the lead with 3 points each. Dommaraju Gukesh and Nils Grandelius stand a half point back. | Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Mon, 08 May 2023 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 5: Live"
+      },
+      {
+         "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/mishra.html",
+         "pubDate" : "Mon, 08 May 2023 13:28:00 +0000",
+         "title" : "Mishra"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Mon, 08 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "The play of the 15th World Champion is appreciated from different perspectives in the current ChessBase Magazine: In Mihail Marin's article \"Anand as a positional ace\" you will find selected strategic masterpieces (and two interactive training videos). Karsten Mueller presents Anand's best endgames (including a detailed video introduction). And last but not least, our CBM authors Adhiban Baskaran, Imre Hera, David Navara, Igor Stohl, Yago Santiago and others present their favourite games of the \"Tiger of Madras\" - an exclusive collection of 26 victories from the period 1985 to 2022. You can watch Adhiban's analysis of the game Anand-Baron (2019) here! | Photo: Thomas Schloemann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -794,14 +834,6 @@ news_feed (
          "title" : "FIDE May 2023 rating list is out"
       },
       {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Chessable Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-238-highlights-from-the-chessable-masters-i",
-         "pubDate" : "Mon, 01 May 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #238: Highlights from the Chessable Masters (I)"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 1 0 &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 7 Nepomniachtchi &frac12; 1 &frac12; 0 1 0 1 &frac12; &frac12; &frac12; &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/\">Ding Liren is the new World Chess Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -816,14 +848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2368",
          "pubDate" : "Mon, 01 May 2023 15:15:33 +0000",
          "title" : "Ding Liren crowned World Champion"
-      },
-      {
-         "description" : "Today: Matthias Wuellenweber shows us how to use Buddy for analyzing tablebase endgames. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-analyzing-endgames-with-buddy",
-         "pubDate" : "Mon, 01 May 2023 16:00:00 +0100",
-         "title" : "Explained by the engineers! - Analyzing endgames with Buddy!"
       },
       {
          "description" : "Are you ready to take down an old elementary school chess champion? Think you can go head-to-head with a notorious chess hustler? These local legends with classic chess player personality tendencies are eager to accept your challenge! Meet the C...",
@@ -882,14 +906,6 @@ news_feed (
          "title" : "English and English Women's Chess Championships 2023"
       },
       {
-         "description" : "In endgames, it is usually a good idea to activate the king. However, the king also needs to be safe. In the diagram position it is Black to move. What should he do to make his king safe and to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finding-a-safe-place",
-         "pubDate" : "Mon, 01 May 2023 09:00:00 +0100",
-         "title" : "Finding a safe place"
-      },
-      {
          "description" : "33rd National Under-17 Open &#38; Girls Live Game Link Open : https://view.livechesscloud.com/#4708d594-4463-456d-a2e2-b89675c50d3c Girls : https://view.livechesscloud.com/#68a69455-3252-4032-8bf8-e14c0f77e007",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2366",
          "pubDate" : "Sun, 30 Apr 2023 20:01:54 +0000",
          "title" : "U15 and U18 Qualification Tournaments for the FIDE - ISF World School Teams cancelled"
-      },
-      {
-         "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-playoff",
-         "pubDate" : "Sun, 30 Apr 2023 19:00:00 +0100",
-         "title" : "Ding Liren is the new world chess champion!"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 14: Nepo misses chance, game fizzles tiebreaks ahead Match Score: Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 14Saturday, 29 April 2023 The match between Ian Nepomniachtchi and Ding Liren came down to Game 14 of the classical portion. Would the champion be The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/30/2023-world-chess-championship-game-14/\">2023 World Chess Championship: Game 14</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1824,22 +1832,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/tcec-s24-sufi-ccc20-rapid-both-underway.html",
          "pubDate" : "Mon, 17 Apr 2023 15:55:00 +0000",
          "title" : "TCEC S24 Sufi, CCC20 Rapid - Both Underway"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/important-decisions-taken-on-special-general-body-and-executive-committee-of-all-india-chess-federation-held-on-26-march-2023/",
-         "pubDate" : "Mon, 17 Apr 2023 14:46:24 +0000",
-         "title" : "Important decisions taken on Special General Body and Executive Committee of All India Chess Federation held on 26 March 2023"
-      },
-      {
-         "description" : " For an event that many people had written off before it had started, the 2023 World Championship Match is attracting a lot of attention. This is mainly due to the fact that the first 6 games have already seen 4 wins, 2 to each player. And while this may be a sign of nerves for both players, it does make a change from the previous few matches, where a drawn game was the most likely outcome. So far in this match Nepo has taken the lead, only to see Ding equal the score with a subsequent victory. Such was the case last night, with Ding turning the London System into an attacking weapon. <br /> <b>Liren,Ding (2788) - Nepomniachtchi,Ian (2795) [D02]</b><br /> FIDE World Championship 2023 Astana,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/2023-world-championship-match.html",
-         "pubDate" : "Mon, 17 Apr 2023 13:32:00 +0000",
-         "title" : "2023 World Championship Match"
       }
    ]
 }
