@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-4-superbetchessclassic-grandchesstou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-4-superbetchessclassic-grandchesstour",
+         "pubDate" : "Mon, 08 May 2023 06:49:45 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 4 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "Dommaraju Gukesh kicked off the TePe Sigeman & Co tournament with back-to-back wins, but is now sharing second place with Nils Grandelius a half point behind co-leaders Peter Svidler and Abhimanyu Mishra (pictured). Gukesh drew Grandelius in round 3 and was defeated by Arjun Erigaisi in round 4. Svidler and Abhimanyu both collected wins on Saturday, over Arjun and Vincent Keymer respectively. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r4",
+         "pubDate" : "Mon, 08 May 2023 07:15:00 +0100",
+         "title" : "TePe Sigeman: Arjun beats Gukesh, Abhimanyu and Svidler co-leaders"
+      },
+      {
          "description" : "The Superbet Chess Classic in Bucharest has three players sharing the lead after two rounds. Ian Nepomniachtchi and Richard Rapport joined Wesley So atop the standings after scoring wins over Bogdan-Daniel Deac and Jan-Krzysztof Duda respectively. World champion Ding Liren and Fabiano Caruana signed a 21-move draw. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-2",
-         "pubDate" : "Sun, 07 May 2023 15:29:28 -0700",
+         "pubDate" : "Sun, 07 May 2023 15:29:00 -0700",
          "title" : "Nepomniachtchi Defeats Deac; Rapport Grinds Bishop Ending Against Duda"
       },
       {
@@ -186,14 +202,6 @@ news_feed (
          "title" : "Videos on the London System, King's Indian and Catalan"
       },
       {
-         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After three rounds, Dommaraju Gukesh, Peter Svidler and Abhimanyu Mishra are sharing the lead in the standings. | Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Sun, 07 May 2023 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 4: Live"
-      },
-      {
          "description" : "Wesley So talked of \"revenge\" as he beat Alireza Firouzja with the black pieces to score the only win on Day 1 of the Superbet Chess Classic, the first event on the 2023 Grand Chess Tour. Ding Liren was ultimately happy to open with a solid draw against Maxime Vachier-Lagrave, while the world champion's second Richard Rapport felt Ian Nepomniachtchi was vulnerable in the French Defence, though he couldn't prove it.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rapport-nepo-acted-%E2%80%98peculiar%E2%80%99-game-r1-superbetchessclassic",
          "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
          "title" : "Rapport: Nepo Acted 'Peculiar' Before the Game | R1 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Firouzja in Round 1 of the 2023 Superbet Chess Classic. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-firouzja-little-rusty-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oGqv-bWZ1og.jpg?itok=zqMbgUlb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-firouzja-little-rusty-r1-superbetchessclassic",
-         "pubDate" : "Sat, 06 May 2023 18:48:20 +0000",
-         "title" : "Wesley So: Firouzja a Little Rusty? | R1 #SuperbetChessClassic"
       },
       {
          "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Alexander Grischuk | Photo: Aditya Sur Roy",
@@ -1832,14 +1832,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-world-championship-match.html",
          "pubDate" : "Mon, 17 Apr 2023 13:32:00 +0000",
          "title" : "2023 World Championship Match"
-      },
-      {
-         "description" : "National Arbiter Seminar Sivakasi Tamil Nadu Certificates are out to download Link : https://aicf.online/Arbiter-Sivakasi.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiter-seminar-sivakasi-certificates/",
-         "pubDate" : "Mon, 17 Apr 2023 07:15:45 +0000",
-         "title" : "National Arbiter Seminar Sivakasi Certificates"
       }
    ]
 }
