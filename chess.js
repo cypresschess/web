@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The play of the 15th World Champion is appreciated from different perspectives in the current ChessBase Magazine: In Mihail Marin's article \"Anand as a positional ace\" you will find selected strategic masterpieces (and two interactive training videos). Karsten Mueller presents Anand's best endgames (including a detailed video introduction). And last but not least, our CBM authors Adhiban Baskaran, Imre Hera, David Navara, Igor Stohl, Yago Santiago and others present their favourite games of the \"Tiger of Madras\" - an exclusive collection of 26 victories from the period 1985 to 2022. You can watch Adhiban's analysis of the game Anand-Baron (2019) here! | Photo: Thomas Schloemann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-213-special-vishy-anand",
+         "pubDate" : "Mon, 08 May 2023 13:00:00 +0100",
+         "title" : "CBM #213 \"Special\": Vishy Anand"
+      },
+      {
+         "description" : "When Vishy Anand talks about World Championship matches, he knows what he's talking about. He was World Champion from 2007 to 2013, played six World Championship matches and one World Championship tournament, and reached the final of the World Knockout Championships twice. In an interview with Sagar Shah, Anand takes a look at the World Championship match between Ding Liren and Ian Nepomniachtchi and talks about the critical moments of the games, opening preparation, match psychology, Magnus Carlsen and the future of the World Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-s-insights-about-ding-liren-vs-ian-nepomniachtchi",
+         "pubDate" : "Mon, 08 May 2023 12:48:15 +0100",
+         "title" : "Anand's insights about Ding Liren vs Ian Nepomniachtchi"
+      },
+      {
+         "description" : "Ian Nepomniachtchi and Richard Rapport picked up wins in Round 2 of the Superbet Chess Classic to join Wesley So in the lead. Nepomniachtchi took down Bogdan-Daniel Deac and will go into the Round 3 clash against Ding Liren with a chance to cross 2800 for the first time with a win. Rapport ground down Jan-Krzysztof Duda in what had at first looked sure to be a drawn ending.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-nepo-and-rapport-strike",
+         "pubDate" : "Mon, 08 May 2023 07:43:43 +0000",
+         "title" : "Superbet Chess Classic 2: Nepo and Rapport strike"
+      },
+      {
+         "description" : "Follow this link to British Chess News for a full article remembering FM Michael Franklin.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/michael-franklin-rip/",
+         "pubDate" : "Mon, 08 May 2023 07:22:50 +0000",
+         "title" : "Michael Franklin RIP"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-4-superbetchessclassic-grandchesstou",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -946,14 +978,6 @@ news_feed (
          "title" : "Ding Liren becomes the 17th World Chess Champion"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 123rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-122-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 30 Apr 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 123: Chess history in a nutshell (5)"
-      },
-      {
          "description" : "GM Ding Liren is the new world champion after beating GM Ian Nepomniachtchi in the final rapid tiebreak game of the 2023 FIDE World Championship. Following a 7-7 tie in a thrilling 14-game classical match, it all came down to the final rapid game,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-liren-is-the-new-world-chess-champion",
          "pubDate" : "Sun, 30 Apr 2023 16:36:00 +0400",
          "title" : "Ding Liren is the new World Chess Champion - TB"
-      },
-      {
-         "description" : "The Calculation Training series continues with two volumes explaining the main tactical motifs of our game. Mastering these tactical motifs is essential to deepen your understanding of the game and become a better player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-for-1000-1400-1400-1600-players",
-         "pubDate" : "Sun, 30 Apr 2023 11:05:00 +0100",
-         "title" : "Robert Ris: Calculation Training for 1000-1400 & 1400-1600 players"
       },
       {
          "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-ecf-student-silver-membership/",
          "pubDate" : "Thu, 20 Apr 2023 11:34:27 +0000",
          "title" : "Free ECF Student Silver membership"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/girls-championships-2022/#new_tab",
-         "pubDate" : "Thu, 20 Apr 2023 08:00:14 +0000",
-         "title" : "National Schools Girls Championships finals"
       },
       {
          "description" : "",
