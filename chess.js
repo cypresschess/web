@@ -10,7 +10,7 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Day 3 Recap"
       },
       {
-         "description" : "GM Fabiano Caruana was the sole winner of round three at the Superbet Classic Romania 2023, demolishing GM Maxime Vachier-Lagrave&#39;s King&#39;s Indian Defense with the radical 3.h4―tossing classical opening principles to the wind. He joins GM Ian Nepom...",
+         "description" : "GM Fabiano Caruana was the sole winner of round three at the Superbet Classic Romania 2023, demolishing GM Maxime Vachier-Lagrave&#39;s Kings Indian Defense with the radical 3.h4―tossing classical opening principles to the wind. He joins GM Ian Nepomn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-3",
@@ -458,12 +458,12 @@ news_feed (
          "title" : "TePe Sigeman: Gukesh off to a fiery start"
       },
       {
-         "description" : "Eight players qualified for the Olympic Esports Series 2023 Finals after accumulating three match wins in the Preliminaries on Thursday and Friday: GMs Shant Sargsyan, Samvel Ter-Sahakyan, Oleksandr Bortnyk, Alexey Sarana, Bassem Amin, Maksim Chig...",
+         "description" : "Eight players won the Olympic Esports Series 2023 Preliminaries after accumulating three match wins on Thursday and Friday: GMs Shant Sargsyan, Samvel Ter-Sahakyan, Oleksandr Bortnyk, Alexey Sarana, Bassem Amin, Maksim Chigaev, Ngoc Truong Son Ngu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-preliminaries",
          "pubDate" : "Fri, 05 May 2023 13:48:10 -0700",
-         "title" : "8 Grandmasters Qualify For Olympic Esports Finals"
+         "title" : "8 Grandmasters Win Olympic Esports Series Preliminaries"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King celebrates the victory of Ding Liren by looking at a particular aspect of his style: his ability to whip up an unexpected attack and spot a checkmating pattern. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
