@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2378",
+         "pubDate" : "Tue, 09 May 2023 22:28:41 +0000",
+         "title" : "2023 Superbet Chess Classic: Day 4 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talk to Cristian Chirila after defeating Nepomniachtchi in Round 4 of the 2023 Superbet Chess Classic. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-victory-over-nepo-%E2%80%98very-satisfying%E2%80%99-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YjaoEhoZJr4.jpg?itok=J2mDiMnU\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-victory-over-nepo-%E2%80%98very-satisfying%E2%80%99-r4-superbetchessclassic",
+         "pubDate" : "Tue, 09 May 2023 21:51:08 +0000",
+         "title" : "Caruana: Victory over Nepo 'Very Satisfying' | R4 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-6-superbetchessclassic-grandchesstou",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-6-superbetchessclassic-grandchesstour",
+         "pubDate" : "Tue, 09 May 2023 21:51:08 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 6 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "Winning a second game in a row, GM Fabiano Caruana gained his first classical victory vs. GM Ian Nepomniachtchi&#38;nbsp;in round four of the Superbet Classic Romania 2023. This win propels the American grandmaster into clear first.&#38;nbsp; GM Alireza...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-4",
+         "pubDate" : "Tue, 09 May 2023 14:11:00 -0700",
+         "title" : "Caruana Scores 1st Ever Classical Win vs. Nepomniachtchi"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during Round 4 of the 2023 Superbet Chess Classic. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-ding-tired-trying-recover-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fl3PZqRJJ08.jpg?itok=MA231a7r\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -296,22 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-did-what-i-had-do-mvl-r3-superbetchessclassic",
          "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
          "title" : "Caruana: Did What I Had to Do to MVL | R3 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-analyzes-nepo-ding-more-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5fUl75Utp-A.jpg?itok=oQ_H_qBi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-nepo-ding-more-r3-superbetchessclassic",
-         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
-         "title" : "Kasparov Analyzes Nepo-Ding & More! | R3 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tournament volunteer Andrei Jitea talks to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. This aired during Round 3. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/volunteer-andrei-i%E2%80%99ve-admired-firouzja-long-time-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q3v5kxYSHbc.jpg?itok=oB-8Jrc0\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/volunteer-andrei-i%E2%80%99ve-admired-firouzja-long-time-r1-superbetchessclassic",
-         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
-         "title" : "Volunteer Andrei: I've Admired Firouzja for a Long Time | R1 #SuperbetChessClassic"
       },
       {
          "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/saint-louis-wins-ccl-title",
          "pubDate" : "Mon, 24 Apr 2023 18:43:43 -0700",
          "title" : "Saint Louis University Wins Collegiate Chess League Title"
-      },
-      {
-         "description" : "The Trials Phase of the Olympic Esports Series 2023 concluded with the following players qualifying for the next stage: GMs Shant Sargsyan, Christopher Yoo, Oleksandr Bortnyk, Aleksandr Rakhmanov, Maksim Chigaev, and 17-year-old IM Yahli Sokolovsk...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-trials-9-14",
-         "pubDate" : "Mon, 24 Apr 2023 13:24:00 -0700",
-         "title" : "Tale Of 2 Comebacks: 6 Winners Top Trials 9-14 Of Olympic Esports Series"
       },
       {
          "description" : "An international Go tournament, the Chunlan Cup, with a $200,000 prize fund, has been wrapped in controversy. In the semifinal round, newcomer Li Xuanhao (China) managed to defeat the reigning world champion Shin Jin-seo (South Korea). Li's own teammate accused him of receiving AI support during the game.",
