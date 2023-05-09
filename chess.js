@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is the main guideline in endgames with rook and knight against rook and knight. In the diagram position Black wins thanks to the strong passed e-pawn. But how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-light-initiative-weighs-heavily",
+         "pubDate" : "Tue, 09 May 2023 09:00:00 +0100",
+         "title" : "A light initiative weighs heavily"
+      },
+      {
+         "description" : "Abhimanyu Mishra and Peter Svidler continue to share the lead at the TePe Sigeman & Co tournament in Malm&ouml;. With two rounds to go, Dommaraju Gukesh and Nils Grandelius are still trailing the leaders by a half point. In round 5, Jorden van Foreest's stubbornness paid off, as he scored a win over Arjun Erigaisi after the latter blundered in a long-winded, drawn rook endgame. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r5",
+         "pubDate" : "Tue, 09 May 2023 08:35:00 +0100",
+         "title" : "TePe Sigeman: Van Foreest scores unlikely win"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the gameRichard Rapport Wesley So from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard Rapport []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-wesley-so-superbet-chess-classic-2023/",
+         "pubDate" : "Tue, 09 May 2023 06:55:57 +0000",
+         "title" : "Richard Rapport - Wesley So, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 124th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-6",
+         "pubDate" : "Tue, 09 May 2023 07:20:58 +0100",
+         "title" : "Understanding before Moving 124: Chess history in a nutshell (6)"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Maxime Vachier-Lagrave Anish Giri from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-anish-giri-superbet-chess-classic-2023/",
+         "pubDate" : "Tue, 09 May 2023 05:51:47 +0000",
+         "title" : "Maxime Vachier-Lagrave - Anish Giri, Superbet Chess Classic 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/your-chance-big-discount-day-2",
          "pubDate" : "Mon, 08 May 2023 15:00:00 +0100",
          "title" : "Your chance: big Discount Day 2023"
-      },
-      {
-         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After four rounds, Peter Svidler and Abhimanyu Mishra are sharing the lead with 3 points each. Dommaraju Gukesh and Nils Grandelius stand a half point back. | Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Mon, 08 May 2023 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 5: Live"
       },
       {
          "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
@@ -290,28 +322,12 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Day 2 Recap"
       },
       {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Jorden Van Foreest Arjun Erigaisi from round 5 of TePe Sigeman 2023. The other live games of the round include: Live : Jorden Van Foreest Arjun Erigaisi / Vincent Keymer Peter Svidler / Nils Grandelius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jorden-van-foreest-arjun-erigaisi-tepe-sigeman-2023/",
-         "pubDate" : "Sun, 07 May 2023 20:38:22 +0000",
-         "title" : "Jorden Van Foreest - Arjun Erigaisi, TePe Sigeman 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after he defeated Deac in Round 2 of the 2023 Superbet Chess Classic. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-not-full-energy-motivation-ideas-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/50k4fzlciL8.jpg?itok=0QUVtBnt\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/nepo-not-full-energy-motivation-ideas-r2-superbetchessclassic",
          "pubDate" : "Sun, 07 May 2023 18:49:37 +0000",
          "title" : "Nepo: Not Full of Energy, Motivation, Ideas | R2 #SuperbetChessClassic"
-      },
-      {
-         "description" : "Looking for a fun and competitive chess tournament? Whether you're a pro or just love the game, there are plenty of exciting options at Outpost Chess.&#160; You might be the one to play with GMs, IMs or any other titled players, and to fight for the prize in your own category (can be even Unrated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/make-money-online-by-playing-outpost-chess-tournaments-with-anti-cheating-checks/",
-         "pubDate" : "Sun, 07 May 2023 18:43:00 +0000",
-         "title" : "Make money Online by playing Outpost Chess tournaments - with anti-cheating checks"
       },
       {
          "description" : " I wonder what you're scared of. Ghosts or monsters? Zombies or vampires? You know what I'm scared of? Queen endings! All those checks! How am I supposed to calculate them all? I have to calculate all possible pawn endings as well. I also have to be careful not to move my king into a mating <a href=\"https://chessimprover.com/scary-movies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Scary Mov(i)es\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/scary-movies/\">Scary Mov(i)es</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -794,14 +810,6 @@ news_feed (
          "title" : "Alekseenko and Santos top scorers in Salamanca"
       },
       {
-         "description" : "Last week we presented a Computer Challenge. It's a position in which even the best chess engines will not find the solution - even if you run them for a very long time. Our readers were asked to come up with the logic and strategy of the solution themselves, and then confirm everything with the help of the computer. The result: success? Here is the full truth on the historical endgame puzzle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/computer-challenge-01-anaslysis",
-         "pubDate" : "Tue, 02 May 2023 16:22:02 +0100",
-         "title" : "Computer Challenge 01 - analysis"
-      },
-      {
          "description" : "Sunday marked the end of the era of GM Magnus Carlsen&#39;s reign as world champion after nine years, five months, and eight days. GM Ding Liren wrote history as the first-ever FIDE world champion from China (there have been several FIDE women&#39;s world...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/firouzja-giri-aronian-in-chesskid-cup",
          "pubDate" : "Tue, 02 May 2023 13:44:09 +0000",
          "title" : "Firouzja, Giri & Aronian in ChessKid Cup"
-      },
-      {
-         "description" : "The world's chess elite did not play too many classical games in April, so there were no major changes at the top of the world rankings. However, the FIDE World Championship match, which ended on the last day of April, affected the list: Ding Liren gained one point (new: 2789, 3rd place), Ian Nepomniachtchi lost one point (new: 2794, 2nd place). But with a rating of 2853, Magnus Carlsen - though no longer World Champion - is still the clear number one.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-may-2023",
-         "pubDate" : "Tue, 02 May 2023 14:00:00 +0100",
-         "title" : "FIDE ratings May 2023"
       },
       {
          "description" : "The 2023 IBCA European Team Chess Championship for the Blind and Visually Impaired took place from 19-30 April in Genova, Italy. With the participation of 14 federations, the event was played in 9 rounds, swiss system, with players using specialized Braille chess boards, talking chess clocks and voice recording equipment. Team Serbia (FM Pavle Dimic, CM Damjan Jandric,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/\">Read More &#187;</a></span>",
