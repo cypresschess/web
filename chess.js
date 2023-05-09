@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, training DVDs, services, the ChessBase Account. There are some very interesting new products: like the brand new Opening Encyclopaedia 2023, which is a huge fund of ideas and high-quality analysis! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/your-chance-big-discount-day-2",
+         "pubDate" : "Tue, 09 May 2023 15:30:00 +0100",
+         "title" : "Your chance: big Discount Day 2023"
+      },
+      {
+         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After five rounds, Peter Svidler and Abhimanyu Mishra are sharing the lead with 3&frac12; points each. Dommaraju Gukesh and Nils Grandelius stand a half point back. | Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Tue, 09 May 2023 14:45:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 6: Live"
+      },
+      {
+         "description" : "Congratulations to Keith Arkell (right) and Mark Hebden, joint 50+ winners; and Chris Baker the 65+ winner, with Paul Littlewood second. Also to Natasha Regan,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-results/",
+         "pubDate" : "Tue, 09 May 2023 13:16:47 +0000",
+         "title" : "English Seniors - results"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Jorden Van Foreest Vincent Keymer from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jorden-van-foreest-vincent-keymer-tepe-sigeman-2023/",
+         "pubDate" : "Tue, 09 May 2023 13:15:00 +0000",
+         "title" : "Jorden Van Foreest - Vincent Keymer, TePe Sigeman 2023"
+      },
+      {
+         "description" : " The 2023 African Individual Chess Championships (AICC) are currently taking place in Egypt at Hor Moheb Hotel in the historic town of Giza. There are 17 African federations along with five South African players playing under the African Chess Confederation banner. Seven Grandmasters lead the field of 71 players in the Open (44 Egyptian) and The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/\">2023 African Individual Championships</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/",
+         "pubDate" : "Tue, 09 May 2023 13:07:49 +0000",
+         "title" : "2023 African Individual Championships"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Peter Svidler Nils Grandelius from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils Grandelius []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-svidler-nils-grandelius-tepe-sigeman-2023/",
+         "pubDate" : "Tue, 09 May 2023 12:55:00 +0000",
+         "title" : "Peter Svidler - Nils Grandelius, TePe Sigeman 2023"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Tue, 09 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "This Livestream is mind-blowing because some of the greatest master coaches in the world were interviewed for their best chess advice, what coaching methods they use, and how tactics, blitz games, and engine usage are dealt with. Ivan Sokolov, Ramesh, Karsten Mueller, Jan Markos, Robert Ris, Daniel King, Harald Schneider-Zinner, Rustam Kasimdzhanov, and Dorian Rogozenco all gave instructive, and fascinating answers to Arne Kaehler's questions. Discover the secrets behind the world's top chess coaches!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-coaches-offer-their-best-chess-advice-for-you",
+         "pubDate" : "Tue, 09 May 2023 13:42:39 +0100",
+         "title" : "Master coaches offer best Discount Day chess advice for you!"
+      },
+      {
+         "description" : "Chess journalist Harald Fietz, who experienced Viktor Kortschnoi in person, treated himself to the Fritztrainers \"Viktor Kortschnoi: My life for chess\" and \"Masterclass: Viktor Kortschnoi\". In one the master speaks himself, in the other, they talk about him. Both Fritztrainers offer plenty of chess thrills, says Fietz in his review.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/by-and-about-viktor-kortschnoi-a-review",
+         "pubDate" : "Tue, 09 May 2023 13:41:33 +0100",
+         "title" : "By and about Viktor Kortschnoi - a review"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Boris Gelfand D Gukesh from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils Grandelius []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/boris-gelfand-d-gukesh-tepe-sigeman-2023/",
+         "pubDate" : "Tue, 09 May 2023 12:38:22 +0000",
+         "title" : "Boris Gelfand - D Gukesh, TePe Sigeman 2023"
+      },
+      {
          "description" : "Ding Liren confessed \"I forgot the moves\" as he stumbled into a close to lost position against Ian Nepomniachtchi in Round 3 of the Superbet Chess Classic. Just as in the second half of the match, however, Ding managed to survive, thus denying his opponent a 2800 rating. Elsewhere the one decisive game saw Fabiano Caruana beat Maxime Vachier-Lagrave in only 23 moves to join Richard Rapport, Wesley So and Nepo in the lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -106,12 +186,12 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Day 3 Recap"
       },
       {
-         "description" : "GM Fabiano Caruana was the sole winner of round three at the Superbet Classic Romania 2023, demolishing GM Maxime Vachier-Lagrave&#39;s Kings Indian Defense with the radical 3.h4―tossing classical opening principles to the wind. He joins GM Ian Nepomn...",
+         "description" : "GM Fabiano Caruana was the sole winner of round three at the Superbet Classic Romania 2023, demolishing GM Maxime Vachier-Lagrave&#39;s King&#39;s Indian Defense with the radical 3.h4―tossing classical opening principles to the wind. He joins GM Ian Nepom...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-3",
          "pubDate" : "Mon, 08 May 2023 15:15:00 -0700",
-         "title" : "Caruana Rattles Vachier-Lagrave with 3.h4!?, Joins Leaders"
+         "title" : "Caruana Rattles Vachier-Lagrave With 3.h4!?, Joins Leaders"
       },
       {
          "description" : "Four players are sharing the lead on 2/3 points at the Superbet Chess Classic in Bucharest. The latest addition to the leading pack is Fabiano Caruana, who defeated Maxime Vachier-Lagrave in the only decisive game of round 3. In the marquee encounter of the round, Ian Nepomniachtchi could not make the most of his advantage in his game with white against Ding Liren. | Photo: Lennart Ootes",
@@ -178,14 +258,6 @@ news_feed (
          "title" : "Ding: 'So Tired' After World Championship | R3 #SuperbetChessClassic"
       },
       {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Mon, 08 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live"
-      },
-      {
          "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-what-makes-grand-chess-tour-special-superbetchessclassic",
          "pubDate" : "Mon, 08 May 2023 15:50:27 +0000",
          "title" : "2023 Superbet Chess Classic: What Makes the Grand Chess Tour Special? #SuperbetChessClassic"
-      },
-      {
-         "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, training DVDs, services, the ChessBase Account. There are some very interesting new products: like the brand new Opening Encyclopaedia 2023, which is a huge fund of ideas and high-quality analysis! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/your-chance-big-discount-day-2",
-         "pubDate" : "Mon, 08 May 2023 15:00:00 +0100",
-         "title" : "Your chance: big Discount Day 2023"
       },
       {
          "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
@@ -306,36 +370,12 @@ news_feed (
          "title" : "Wesley So - Anish Giri, Superbet Chess Classic 2023"
       },
       {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Richard Rapport from round 3 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Fabiano Caruana Maxime Vachier-Lagrave / Ian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-richard-rapport-superbet-chess-classic-2023/",
-         "pubDate" : "Sun, 07 May 2023 23:00:00 +0000",
-         "title" : "Alireza Firouzja - Richard Rapport, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Bogdan-Daniel Deac from round 3 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Fabiano Caruana Maxime Vachier-Lagrave / Ian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-bogdan-daniel-deac-superbet-chess-classic-2023/",
-         "pubDate" : "Sun, 07 May 2023 22:40:00 +0000",
-         "title" : "Jan-Krzysztof Duda - Bogdan-Daniel Deac, Superbet Chess Classic 2023"
-      },
-      {
          "description" : "GMs Ian Nepomniachtchi and Richard Rapport were the two winners in the second round of the Superbet Classic Romania 2023&#38;nbsp;in Bucharest on Sunday. The round featured two contrasting decisive results as well as three draws that were all decided ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-2",
          "pubDate" : "Sun, 07 May 2023 15:29:00 -0700",
          "title" : "Nepomniachtchi Defeats Deac; Rapport Grinds Bishop Ending Against Duda"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Ding Liren from round 3 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Fabiano Caruana Maxime Vachier-Lagrave / Ian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-ding-liren-superbet-chess-classic-2023/",
-         "pubDate" : "Sun, 07 May 2023 22:20:00 +0000",
-         "title" : "Ian Nepomniachtchi - Ding Liren, Superbet Chess Classic 2023"
       },
       {
          "description" : "",
@@ -778,28 +818,12 @@ news_feed (
          "title" : "Ding and Nepo in the press"
       },
       {
-         "description" : "During the World Championship match against Ian Nepomniachtchi the new World Champion Ding Liren had a number of helpers in Astana. But as Ding revealed in an interview with Leontxo Garcia in the Spanish newspaper \"El Pa&iacute;s\", in critical moments of the match Ding also received help by thoughts and words of Louise Gl&uuml;ck, American poet and winner of the 2020 Nobel Prize of Literature, and by the \"Concept of Resistance\" by the French philosopher and author Albert Camus, winner of the 1957 Nobel Prize of Literature. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-literature-and-philosophy-helped-ding-liren-to-become-world-champion-an-interview-in-el-pas",
-         "pubDate" : "Wed, 03 May 2023 11:36:31 +0100",
-         "title" : "How literature and philosophy helped Ding Liren to become World Champion - an interview in \"El Pa&iacute;s\""
-      },
-      {
          "description" : "The 2nd Edition of Inter College Women's Chess Tournament-2023, organized by the Department of Physical Education and Sports, Govt. College for Women, MA Road Srinagar,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/2nd-edition-of-inter-college-womens-chess-tournament-2023-at-srinagar/",
          "pubDate" : "Wed, 03 May 2023 09:13:49 +0000",
          "title" : "2nd Edition of Inter College Women's Chess Tournament-2023 at Srinagar"
-      },
-      {
-         "description" : "One of Robert Ris long-time students is Eline Roebers, who advanced from a chess beginner to an International Master. Ris has a clear message - if you are new to chess, and want to get better - learning how to calculate is key! This is why his calculation Fritztrainers are so popular. Two new ones were published very recently - time to ask the Dutch IM about the \"making of\" these courses. Robert shared interesting insights and also showed a number of nice examples!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-calculation-is-key-for-beginners",
-         "pubDate" : "Wed, 03 May 2023 10:00:00 +0100",
-         "title" : "Robert Ris - Calculation is key for beginners"
       },
       {
          "description" : " <p class=\"lead\">World Chess (LSE: CHSS) continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Image-Armageddon.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The tournament will feature top-ranked players <b>Alexandra Kosteniuk</b> (Switzerland, blitz rating 2453, <b>Humpy Koneru</b> (India, blitz rating 2448), <b>Bibisara Assaubayeva</b> (Kazakhstan, blitz rating 2461),",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://chessimprover.com/self-pinning/",
          "pubDate" : "Tue, 02 May 2023 20:01:41 +0000",
          "title" : "Self-Pinning"
-      },
-      {
-         "description" : "The sixth edition of the Salamanca Chess Festival took place on April 25-29. The Masters Tournament was the main event, with eight players (four men and four women) fighting in a single round-robin event. The time control was 40 minutes plus 5-second increments. Kirill Alekseenko and Jaime Santos were the top scorers with 5&frac12; points. Alekseenko was declared champion based on tiebreak criteria. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2023-report",
-         "pubDate" : "Tue, 02 May 2023 16:25:00 +0100",
-         "title" : "Alekseenko and Santos top scorers in Salamanca"
       },
       {
          "description" : "Sunday marked the end of the era of GM Magnus Carlsen&#39;s reign as world champion after nine years, five months, and eight days. GM Ding Liren wrote history as the first-ever FIDE world champion from China (there have been several FIDE women&#39;s world...",
@@ -896,6 +912,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/",
          "pubDate" : "Mon, 01 May 2023 16:31:47 +0000",
          "title" : "Ding Liren is the new World Chess Champion"
+      },
+      {
+         "description" : "Our new shop page allows you to purchase copies of the ECF Yearbook 2023, as well as a limited number of copies of the Yearbook...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-shop-page/",
+         "pubDate" : "Mon, 01 May 2023 16:00:28 +0000",
+         "title" : "ECF shop page/ECF Yearbook 2023"
       },
       {
          "description" : "",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "Chess vs. poker"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 8: Ding missed golden opportunity Match Score: 4&frac12;-3&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 8Thursday, 20 April 2023 Game 8 of the World Chess Championship in Astana, Kazakhstan ended in a draw, the first in five games. Both players have been trading The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/\">2023 World Chess Championship: Game 8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/22/2023-world-chess-championship-game-8/",
-         "pubDate" : "Sat, 22 Apr 2023 04:28:13 +0000",
-         "title" : "2023 World Chess Championship: Game 8"
-      },
-      {
          "description" : " We'll end our examination of the pin this week by looking at Black's best ideas regarding White's treatment of the pin. Black's seeming good pin has one major problem, it can be completely ignored. White's Knight on f3 can ignore the Black Bishop on g4, as we saw last week. Black's biggest problem was his <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\">A Foundation for Beginners Ninety</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1650,14 +1666,6 @@ news_feed (
          "title" : "Ding Liren survives scare after \"Caruana gambit\""
       },
       {
-         "description" : "Entries are now being accepted online for the 2023 Northumbria Masters in Newcastle upon Tyne from 24-28 August at https://www.northumbriamasters.com. The congress includes various nine-round...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/online-entry-open-for-2023-northumbria-masters/",
-         "pubDate" : "Fri, 21 Apr 2023 12:35:41 +0000",
-         "title" : "Online entry open for 2023 Northumbria Masters"
-      },
-      {
          "description" : " These days I keep running into surprise chess fans. Today's encounter was a book shop in Sydney, after I had inadvertently stole $117 worth of books. I had purchased them the day before, but the credit card transaction had not been completed before I left the store. Realising my crime, I returned today to settle accounts. I described my purchases to a different manager than yesterday's, as \"chess and gardening books\". She immediately asked me if I had watched the previous nights game, referring to the current World Championship match. I said that I not, but was aware that Ding had failed to convert a promising position. \"Yes, he missed a few chances\" was her considered reply.<br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-misses-a-huge-chance-to-level-things-up-again-in-world-championship-game-8",
          "pubDate" : "Thu, 20 Apr 2023 16:55:00 +0400",
          "title" : "Ding misses a huge chance to level things up again in World Championship game 8 - 8"
-      },
-      {
-         "description" : "The ECF is pleased to announce that Student Silver membership is available FREE for the first year to student players who have not previously been...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/free-ecf-student-silver-membership/",
-         "pubDate" : "Thu, 20 Apr 2023 11:34:27 +0000",
-         "title" : "Free ECF Student Silver membership"
       },
       {
          "description" : "",
@@ -1816,30 +1816,6 @@ news_feed (
          "link" : "https://aicf.in/western-asia-youth-chess-championship-2023/",
          "pubDate" : "Tue, 18 Apr 2023 15:41:57 +0000",
          "title" : "Western Asia Youth Chess Championship - 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2345",
-         "pubDate" : "Tue, 18 Apr 2023 15:24:56 +0000",
-         "title" : "French Chess Federation and Île-de-France Region sign an agreement on chess for people with ASD"
-      },
-      {
-         "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heartbreaking loss in the 2nd half of the match. The good news is he's done it twice before.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-freezes-and-loses-heartbreaking-game-7",
-         "pubDate" : "Tue, 18 Apr 2023 13:34:39 +0000",
-         "title" : "Ding Liren freezes and loses heartbreaking Game 7"
-      },
-      {
-         "description" : " There was a fourth decisive white win in a row in the FIDE World Chess Championship match between Ian Nepomniachtchi and Ding Liren in Astana Kazakhstan. Ding Liren melted down in time trouble taking a slightly better position to a loss in only a few moves. Ding surprised Nepomniachtchi again, this time by choosing the French Defence as black. Nepomniachtchi chose the Tarrasch Variation 3.Nd2 which is what he has been playing recently online and both players seemed to be on their own around move 10. Ding was probably fine but he had to be careful as Nepomniachtchi developed a dangerous looking attack. After 16.Rad8 Ding had just 43 minutes to reach move 40, already dangerous territory. Nepo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-melts-down-in-time-trouble-as-nepomniachtchi-regains-the-lead-after-7-games",
-         "pubDate" : "Tue, 18 Apr 2023 17:10:00 +0400",
-         "title" : "Ding melts down in time trouble as Nepomniachtchi regains the lead after 7 games - 7"
       }
    ]
 }
