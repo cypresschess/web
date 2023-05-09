@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during Round 4 of the 2023 Superbet Chess Classic. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-ding-tired-trying-recover-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fl3PZqRJJ08.jpg?itok=MA231a7r\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-ding-tired-trying-recover-r4-superbetchessclassic",
+         "pubDate" : "Tue, 09 May 2023 18:51:00 +0000",
+         "title" : "Kasparov: Ding is Tired, Trying to Recover | R4 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> One United Properties Co-Founder Andrei Diaconescu talks to Cristian Chirila during Round 4 of the 2023 Superbet Chess Classic. One United is Romania's leading sustainable real estate developer and a sponsor of this event. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/one-united%E2%80%99s-diaconescu-hope-next-romanian-talent-already-born-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/one-united%E2%80%99s-diaconescu-hope-next-romanian-talent-already-born-r4-superbetchessclassic",
+         "pubDate" : "Tue, 09 May 2023 18:51:00 +0000",
+         "title" : "One United's Diaconescu: Hope Next Romanian Talent is Already Born | R4 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Deac in Round 4 of the 2023 Superbet Chess Classic. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-happy-win-over-deac-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/meLhAqC7OSA.jpg?itok=8VX3xzg0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-happy-win-over-deac-r4-superbetchessclassic",
+         "pubDate" : "Tue, 09 May 2023 18:51:00 +0000",
+         "title" : "Firouzja: Happy with Win over Deac | R4 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess fans Ana Sovarel &amp; Eliza Ilie talk to Cristian Chirila during Round 4 of the 2023 Superbet Chess Classic. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fans-eliza-ana-ian-nepo-will-win-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1do7fsuu9w.jpg?itok=SxGrEwNs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-fans-eliza-ana-ian-nepo-will-win-r4-superbetchessclassic",
+         "pubDate" : "Tue, 09 May 2023 18:51:00 +0000",
+         "title" : "Chess Fans Eliza & Ana: Ian Nepo will win! | R4 #SuperbetChessClassic"
+      },
+      {
+         "description" : " \"The only thing better than winning at chess is making your opponent think they're winning, and then checkmating them.\" The above quote brought to mind the back-rank checkmate. I have seen it happen time and again in OTB chess at all levels. The definition of it in Wikipedia is misleading in my opinion: &#8220;Back-rank mates <a href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Weekly Tactics: Back-Rank Checkmate\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\">Weekly Tactics: Back-Rank Checkmate</a> appeared first on <a rel=\"nofollow\" href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/weekly-tactics-back-rank-checkmate/",
+         "pubDate" : "Tue, 09 May 2023 17:46:55 +0000",
+         "title" : "Weekly Tactics: Back-Rank Checkmate"
+      },
+      {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show od day 2 live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
+         "pubDate" : "Tue, 09 May 2023 18:45:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week live - Day 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tentative-calendar-for-the-period-2023-24/",
+         "pubDate" : "Tue, 09 May 2023 16:35:11 +0000",
+         "title" : "TENTATIVE CALENDAR FOR THE PERIOD 2023-24"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players about the importance of relaxation and regeneration after each long, taxing game. This aired during Round 4. 2023.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-relaxation-after-game-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ANTx4D6BVBE.jpg?itok=R3n",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-relaxation-after-game-superbetchessclassic",
+         "pubDate" : "Tue, 09 May 2023 15:51:05 +0000",
+         "title" : "2023 Superbet Chess Classic: Relaxation After a Game #SuperbetChessClassic"
+      },
+      {
          "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, training DVDs, services, the ChessBase Account. There are some very interesting new products: like the brand new Opening Encyclopaedia 2023, which is a huge fund of ideas and high-quality analysis! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,14 +314,6 @@ news_feed (
          "title" : "Volunteer Andrei: I've Admired Firouzja for a Long Time | R1 #SuperbetChessClassic"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after his draw with Nepomniachtchi in Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-so-tired-after-world-championship-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4EM30JEGNE.jpg?itok=TIjiwT4O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ding-so-tired-after-world-championship-r3-superbetchessclassic",
-         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
-         "title" : "Ding: 'So Tired' After World Championship | R3 #SuperbetChessClassic"
-      },
-      {
          "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,22 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-with-basketball-mastermind-daryl-morey",
          "pubDate" : "Mon, 08 May 2023 09:00:00 -0700",
          "title" : "Play Chess With Basketball Mastermind Daryl Morey"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> One United Properties Official Mihai Păduroiu talks to Cristian Chirila during Round 3 of the 2023 Superbet Chess Classic. One United is Romania's leading sustainable real estate developer and a sponsor of this event. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/one-united%E2%80%99s-p%C4%83duroiu-chess-develops-vision-balance-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_th",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/one-united%E2%80%99s-p%C4%83duroiu-chess-develops-vision-balance-r3-superbetchessclassic",
-         "pubDate" : "Mon, 08 May 2023 15:50:27 +0000",
-         "title" : "One United's Păduroiu: Chess Develops Vision & Balance | R3 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players what makes the Grand Chess Tour special to them. This aired during Round 3. 2023.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-what-makes-grand-chess-tour-special-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pP86OKjSVq4.jpg?itok=5lsDVhKi\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-what-makes-grand-chess-tour-special-superbetchessclassic",
-         "pubDate" : "Mon, 08 May 2023 15:50:27 +0000",
-         "title" : "2023 Superbet Chess Classic: What Makes the Grand Chess Tour Special? #SuperbetChessClassic"
       },
       {
          "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
@@ -338,14 +378,6 @@ news_feed (
          "title" : "Michael Franklin RIP"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-4-superbetchessclassic-grandchesstou",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-4-superbetchessclassic-grandchesstour",
-         "pubDate" : "Mon, 08 May 2023 06:49:45 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 4 | #SuperbetChessClassic #GrandChessTour"
-      },
-      {
          "description" : "Dommaraju Gukesh kicked off the TePe Sigeman & Co tournament with back-to-back wins, but is now sharing second place with Nils Grandelius a half point behind co-leaders Peter Svidler and Abhimanyu Mishra (pictured). Gukesh drew Grandelius in round 3 and was defeated by Arjun Erigaisi in round 4. Svidler and Abhimanyu both collected wins on Saturday, over Arjun and Vincent Keymer respectively. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -384,14 +416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2374",
          "pubDate" : "Sun, 07 May 2023 20:49:42 +0000",
          "title" : "2023 Superbet Chess Classic: Day 2 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after he defeated Deac in Round 2 of the 2023 Superbet Chess Classic. 2023.05.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-not-full-energy-motivation-ideas-r2-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/50k4fzlciL8.jpg?itok=0QUVtBnt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-not-full-energy-motivation-ideas-r2-superbetchessclassic",
-         "pubDate" : "Sun, 07 May 2023 18:49:37 +0000",
-         "title" : "Nepo: Not Full of Energy, Motivation, Ideas | R2 #SuperbetChessClassic"
       },
       {
          "description" : " I wonder what you're scared of. Ghosts or monsters? Zombies or vampires? You know what I'm scared of? Queen endings! All those checks! How am I supposed to calculate them all? I have to calculate all possible pawn endings as well. I also have to be careful not to move my king into a mating <a href=\"https://chessimprover.com/scary-movies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Scary Mov(i)es\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/scary-movies/\">Scary Mov(i)es</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2371",
          "pubDate" : "Wed, 03 May 2023 11:18:14 +0000",
          "title" : "Dubai becomes the host for the inaugural edition of Global Chess League"
-      },
-      {
-         "description" : "After his surprise win of the 2023 World Championship in Astana, Chinese GM Ding Liren spoke to 15 different Chinese media outlets, and \"did not sleep a minute all night.\" He also spoke to the British newspaper The Guardian and the Spanish El Pa&iacute;s. As did Ian Nepomniachtchi. Here are some revealing excerpts from those stories.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-and-nepo-in-the-press",
-         "pubDate" : "Wed, 03 May 2023 12:17:24 +0100",
-         "title" : "Ding and Nepo in the press"
       },
       {
          "description" : "The 2nd Edition of Inter College Women's Chess Tournament-2023, organized by the Department of Physical Education and Sports, Govt. College for Women, MA Road Srinagar,",
@@ -1784,38 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2346",
          "pubDate" : "Wed, 19 Apr 2023 08:29:42 +0000",
          "title" : "Global Chess League unveils its official logo"
-      },
-      {
-         "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Last week's article posted here ended with below challenging puzzle. It should have given you the chance to practice the method of promoting the side pawn in the wrong corner. How did it go? Was it hard <a href=\"https://chessimprover.com/the-wrong-corner-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner-2/\">The Wrong Corner (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-wrong-corner-2/",
-         "pubDate" : "Tue, 18 Apr 2023 16:38:34 +0000",
-         "title" : "The Wrong Corner (2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2344",
-         "pubDate" : "Tue, 18 Apr 2023 15:54:14 +0000",
-         "title" : "Nepomniachtchi takes the lead for the third time as Ding misplays in time trouble"
-      },
-      {
-         "description" : "Continuing last month's 'On the Cover', <A HREF=\"https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html\">March 1973 & 1998</A> (March 2023), let's again follow the wheel of chess history as it was recorded in U.S. chess mazines 50 and 25 years ago. This month we find 'USA all the way'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd18.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Imagine! ... Inside: 1998 USCF Yearbook' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Robert Byrne, who won the 1972 U.S. Championship by out-scoring Reshevsky and Kavalek in a playoff this February. This is the first time By",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/april-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 18 Apr 2023 15:48:00 +0000",
-         "title" : "April 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "Korumdu, Issyk-Kul, Kyrgyzstan from 30th June to 10th July, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asia-youth-chess-championship-2023/",
-         "pubDate" : "Tue, 18 Apr 2023 15:41:57 +0000",
-         "title" : "Western Asia Youth Chess Championship - 2023"
       }
    ]
 }
