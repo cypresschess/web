@@ -1,7 +1,7 @@
 jtable([
 "HOUSTON","2023-05-07","24","<a href=http://www.uschess.org/msa/XtblMain.php?202305078802 target='_blank'>MAY 7TH 2023 SUNDAY SWISS</a>",
 "CYPRESS","2023-05-06","32","<a href=http://www.uschess.org/msa/XtblMain.php?202305067632 target='_blank'>EVENT NAME MISSING</a>",
-"HOUSTON","2023-05-06","22","<a href=http://www.uschess.org/msa/XtblMain.php?202305067252 target='_blank'>REBECCA CHESS CLUB QUADS MAY 6, 2023</a>",
+"HOUSTON","2023-05-05","22","<a href=http://www.uschess.org/msa/XtblMain.php?202305059232 target='_blank'>REBECCA CHESS CLUB QUADS MAY 5, 2023</a>",
 "SUGAR LAND","2023-05-05","9","<a href=http://www.uschess.org/msa/XtblMain.php?202305056882 target='_blank'>FBCC 2023 CINCO DE MAYO OPEN/FBCC 2</a>",
 "SPRING","2023-05-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202305056852 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-04-29","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304295522 target='_blank'>SATURDAY ADULT QUADS - APRIL 29</a>",
