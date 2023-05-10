@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/learning-and-improving/",
+         "pubDate" : "Wed, 10 May 2023 15:00:00 +0000",
+         "title" : "Unlocking Chess Success: Knowledge Meets Skill"
+      },
+      {
+         "description" : "GM Robert Hess says he is concerned with what he describes as an &#34;ongoing and worsening problem in hybrid chess events&#34; and asks FIDE to address the problem. The US Grandmaster and Chess.com commentator published a long post on Twitter regarding...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hess-asks-fide-to-address-events",
+         "pubDate" : "Wed, 10 May 2023 07:29:50 -0700",
+         "title" : "Hess Asks FIDE To Address Suspicious Rating Gains In Hybrid Events"
+      },
+      {
+         "description" : "GM Magnus Carlsen rejoined the Titled Tuesday winners column on May 9, his first time since November of last year. He scored 10 points to clear the rest of the early tournament field by a full point. GM Alexey Sarana&#38;nbsp;won the late tournament, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-sarana-win-titled-tuesday-may-9-2023",
+         "pubDate" : "Wed, 10 May 2023 07:28:31 -0700",
+         "title" : "Carlsen Returns To Crush Titled Tuesday"
+      },
+      {
+         "description" : "With more than 87,000 members and 2,400 clubs nationwide, the German Chess Federation (DSB) is one of the biggest and most powerful chess associations in the world. But after years of infighting, alleged mismanagement, and controversy, this gran...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/german-chess-federation-faces-ruin",
+         "pubDate" : "Wed, 10 May 2023 07:02:54 -0700",
+         "title" : "German Chess Federation Faces Crisis As $550,000 Goes Missing"
+      },
+      {
+         "description" : " The 2023 ACT Chess Championship is being held across the long weekend of the 26th - 29th May. This year sees a new venue, at the Eastlake Football Club in Griffith (NB NOT where the Gungahlin Chess Club meets ). I had a look at the venue today and it has plenty of space, as well as club facilities for meals and refreshments. It is a definite improvement over Campbell High School Hall (no offence Campbell High!), making this years event a must play for local players. Although this is a championship event, interstate players are welcome to take part, and are eligible for all prizes. However the title of ACT Champion for 2023 is awarded to the best scoring local player. <br /> Full details are",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-26-29th-may.html",
+         "pubDate" : "Wed, 10 May 2023 13:16:00 +0000",
+         "title" : "2023 ACT Chess Championship 26-29th May"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess fans Ana Sovarel &amp; Eliza Ilie talk to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. This aired during Round 4. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fans-eliza-ana-ian-nepo-will-win-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1do7fsuu9w.jpg?itok=SxGrEwNs\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-fans-eliza-ana-ian-nepo-will-win-r1-superbetchessclassic",
+         "pubDate" : "Wed, 10 May 2023 12:52:00 +0000",
+         "title" : "Chess Fans Eliza & Ana: Ian Nepo will win! | R1 #SuperbetChessClassic"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Wed, 10 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2379",
+         "pubDate" : "Wed, 10 May 2023 12:15:16 +0000",
+         "title" : "2023 FIDE World Youth Championships U14, U16, U18: Registration is open"
+      },
+      {
          "description" : "What happens when you find yourself in a lost position? Many chess players - as Jan Markos states in his video for ChessBase Magazine #213 - react to this realisation with a loss of energy or even inner resignation. They make a few more normal moves, and a little later the game is over. In the sixth part of his training series for ChessBase Magazine, Jan Markos explains what it takes to get the maximum out of a lost position in a practical game. Take a look at an excerpt from his video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +130,14 @@ news_feed (
          "title" : "Alireza Firouzja - Ding Liren, Superbet Chess Classic 2023"
       },
       {
+         "description" : "At OutpostChess you can create a tournament, register players, pay entry fees, collect your money prize, and much more all 100% at one place. More about Outpost: Create a Profile on Outpost Chess / Make money Online by playing Outpost Chess tournaments &#x2013; with anti-cheating checks / How to start your chess business &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/outpostchess-an-important-tool-for-tournament-organizers-and-players/",
+         "pubDate" : "Wed, 10 May 2023 09:21:00 +0000",
+         "title" : "OutpostChess - an important tool for Tournament Organizers and Players"
+      },
+      {
          "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Fabiano Caruana from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -96,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/d-gukesh-peter-svidler-tepe-sigeman-2023/",
          "pubDate" : "Wed, 10 May 2023 08:20:00 +0000",
          "title" : "D Gukesh - Peter Svidler, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Nils Grandelius Jorden Van Foreest from round 7 of TePe Sigeman 2023. The other live games of the round include: Live : Vincent Keymer Arjun Erigaisi / Nils Grandelius Jorden Van Foreest / D Gukesh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nils-grandelius-jorden-van-foreest-tepe-sigeman-2023/",
-         "pubDate" : "Wed, 10 May 2023 08:00:00 +0000",
-         "title" : "Nils Grandelius - Jorden Van Foreest, TePe Sigeman 2023"
       },
       {
          "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
@@ -192,14 +256,6 @@ news_feed (
          "link" : "https://chessimprover.com/weekly-tactics-back-rank-checkmate/",
          "pubDate" : "Tue, 09 May 2023 17:46:55 +0000",
          "title" : "Weekly Tactics: Back-Rank Checkmate"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show od day 3 live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Tue, 09 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 3"
       },
       {
          "description" : "",
@@ -322,7 +378,7 @@ news_feed (
          "title" : "Superbet Classic: Caruana bamboozles Vachier-Lagrave"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.10<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.10<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-5-superbetchessclassic-grandchesstour",
@@ -344,14 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-take-more-risks-lose-more-points-r3-superbetchessclassic",
          "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
          "title" : "Firouzja: Take More Risks, Lose More Points! | R3 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his win over MVL in Round 3 of the 2023 Superbet Chess Classic. 2023.05.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-did-what-i-had-do-mvl-r3-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VsFwi1w_HuE.jpg?itok=dQ6lrwFd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-did-what-i-had-do-mvl-r3-superbetchessclassic",
-         "pubDate" : "Mon, 08 May 2023 18:50:28 +0000",
-         "title" : "Caruana: Did What I Had to Do to MVL | R3 #SuperbetChessClassic"
       },
       {
          "description" : "Dommaraju Gukesh is currently world no.19 with an Elo of 2730 (April 2023). But the most amazing thing is that he is just 16 years old! How did the youngster manage to achieve so much at such a tender age? While Gukesh is a universal player, there are three qualities of his play that stand out - Attack, Calculation, and Imagination.",
@@ -1378,14 +1426,6 @@ news_feed (
          "title" : "Ding Liren wins wild Game 12 to level the scores again"
       },
       {
-         "description" : "From the jaws of defeat, GM Ding Liren clutched a win over GM Ian Nepomniachtchi in the 12th game of the&#38;nbsp;2023 FIDE World Championship to bring the match right back into contention with two games to go. In his second-to-last game with the wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-12",
-         "pubDate" : "Wed, 26 Apr 2023 05:54:00 -0700",
-         "title" : "Ding Topples Nepomniachtchi In Chaotic Game 12, Evens Score With 2 Games Left"
-      },
-      {
          "description" : " Throughout my career, I was always happy when my opponents opted for sidelines in the Opening. I interpreted this as respect for my preparation. And there usually is a reason why a sideline isn't played that often. So why shouldn't I be happy? I only recently realized that some players are actually afraid of sidelines. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/simple-sidelines/\">Save Time and Energy with a Simple Approach to Sidelines</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1434,14 +1474,6 @@ news_feed (
          "title" : "Congratulations Rayna Ajay Patel"
       },
       {
-         "description" : "GM Levon Aronian won the Satty Zhuldyz Rapid 2023 and Satty Zhuldyz Blitz 2023, which concluded on Tuesday. Finishing second in both events, he was the most consistent player in the field of 12 world-class players including several former world ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-wins-2023-satty-zhuldyz-rapid-blitz",
-         "pubDate" : "Tue, 25 Apr 2023 13:28:00 -0700",
-         "title" : "Aronian Surpasses World Champions, Wins Elite Rapid & Blitz Tournament In Astana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1480,14 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2360",
          "pubDate" : "Tue, 25 Apr 2023 09:24:33 +0000",
          "title" : "Scholastic chess x FIDE: the goal is 50 million kids"
-      },
-      {
-         "description" : "Congratulations to Saint Louis University (SLU) for winning the fifth season of the Collegiate Chess League (CCL). SLU fielded a strong roster of talented chess players, including GM Benjamin Bok, GM Nikolas Theodorou, GM Robby Kevlishvili, IM Sta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-wins-ccl-title",
-         "pubDate" : "Mon, 24 Apr 2023 18:43:43 -0700",
-         "title" : "Saint Louis University Wins Collegiate Chess League Title"
       },
       {
          "description" : "An international Go tournament, the Chunlan Cup, with a $200,000 prize fund, has been wrapped in controversy. In the semifinal round, newcomer Li Xuanhao (China) managed to defeat the reigning world champion Shin Jin-seo (South Korea). Li's own teammate accused him of receiving AI support during the game.",
@@ -1768,22 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2348",
          "pubDate" : "Wed, 19 Apr 2023 16:36:25 +0000",
          "title" : "FIDE World School Championship crosses halfway mark"
-      },
-      {
-         "description" : " When I was 8 years old I moved back to PNG (where I was born) from Melbourne. The big junior sport at my school was Soccer, although Rugby League was also played. As the season was about to start I was listening to some of my classmates saying how good they were. Deciding to join in the conversation I mentioned how I had scored some massive number of goals when I lived in Melbourne. So they invited me to join the team, with the first trial match being that upcoming weekend. The only problem with my claim is that I had never played a game of soccer in my life. And as the day approached I knew I was about to get found out. In fact it was quite soon after the game began that the coach realised",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/once-upon-time.html",
-         "pubDate" : "Wed, 19 Apr 2023 13:43:00 +0000",
-         "title" : "Once upon a time "
-      },
-      {
-         "description" : " Not enough time, no money, too old, bad memory. Those are just some of the most frequent excuses I hear for Chess improvement. \"It is true, that's not an excuse\" you might say. Nope. Only excuses. Just give me 5 Minutes and I hope I'll convince you. In this article, I will show you why [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/excuses/\">No More Excuses: Improve Your Chess Today!</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/excuses/",
-         "pubDate" : "Wed, 19 Apr 2023 12:00:00 +0000",
-         "title" : "No More Excuses: Improve Your Chess Today!"
       }
    ]
 }
