@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r6",
+         "pubDate" : "Wed, 10 May 2023 04:00:00 +0100",
+         "title" : "TePe Sigeman: Two leaders, one round to go"
+      },
+      {
+         "description" : "Fabiano Caruana became the sole leader at the Superbet Chess Classic after beating Ian Nepomniachtchi in Tuesday's fourth round. Caruana outplayed Nepo from a mostly balanced position and thus grabbed his second consecutive win with the white pieces. In the other decisive game of the day, Alireza Firouzja got the better of Bogdan-Daniel Deac. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r4",
+         "pubDate" : "Wed, 10 May 2023 01:35:00 +0100",
+         "title" : "Superbet Classic: Caruana outplays Nepo, takes the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/peter-svidler-nils-grandelius-tepe-sigeman-2023/",
          "pubDate" : "Tue, 09 May 2023 12:55:00 +0000",
          "title" : "Peter Svidler - Nils Grandelius, TePe Sigeman 2023"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Tue, 09 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "This Livestream is mind-blowing because some of the greatest master coaches in the world were interviewed for their best chess advice, what coaching methods they use, and how tactics, blitz games, and engine usage are dealt with. Ivan Sokolov, Ramesh, Karsten Mueller, Jan Markos, Robert Ris, Daniel King, Harald Schneider-Zinner, Rustam Kasimdzhanov, and Dorian Rogozenco all gave instructive, and fascinating answers to Arne Kaehler's questions. Discover the secrets behind the world's top chess coaches!",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-with-nba-all-star-gordon-hayward",
          "pubDate" : "Wed, 03 May 2023 06:00:00 -0700",
          "title" : "Play Chess With NBA All-Star Gordon Hayward"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-8",
-         "pubDate" : "Wed, 03 May 2023 14:00:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week to launch in Berlin beginning May 8"
       },
       {
          "description" : " Giving Checkmate. What an amazing feeling! And the goal of each and every game. But especially when starting out, easier said than done! In this article, I will explain how to checkmate a lone King in the Endgame with different piece configurations. After reading this article you will be able to finish off your opponents [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/checkmate/\">Checkmate: A Simple Guide To Checkmating The Lone King</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
