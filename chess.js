@@ -2,28 +2,108 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Peter Svidler and Abhimanyu Mishra lead TePe Sigeman 2023 before last round with 4/6, while D Gukesh and Nils Grandelius are a half point behind them with 3&#xBD;/6 . The last round is very promising and here are the games : Round 7 on 2023/05/10 at 12 p.m CEST Bo. No. Rtg Name Result Name []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-svidler-and-abhimanyu-mishra-lead-tepe-sigeman-2023-before-last-round/",
-         "pubDate" : "Wed, 10 May 2023 07:20:00 +0000",
-         "title" : "Peter Svidler and Abhimanyu Mishra lead TePe Sigeman 2023 before last round."
+         "description" : "What happens when you find yourself in a lost position? Many chess players - as Jan Markos states in his video for ChessBase Magazine #213 - react to this realisation with a loss of energy or even inner resignation. They make a few more normal moves, and a little later the game is over. In the sixth part of his training series for ChessBase Magazine, Jan Markos explains what it takes to get the maximum out of a lost position in a practical game. Take a look at an excerpt from his video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/practical-tips-for-the-tournament-player",
+         "pubDate" : "Wed, 10 May 2023 13:00:00 +0100",
+         "title" : "Practical Tips for the Tournament Player"
       },
       {
-         "description" : "The Women's Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-winners-live/",
-         "pubDate" : "Wed, 10 May 2023 07:00:00 +0000",
-         "title" : "Armageddon Championship Series -Women's Week Winners - LIVE"
+         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After six rounds, Peter Svidler and Abhimanyu Mishra are sharing the lead with 3&frac12; points each. Dommaraju Gukesh and Nils Grandelius stand a half point back. | Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
+         "pubDate" : "Wed, 10 May 2023 11:55:00 +0100",
+         "title" : "TePe Sigeman & Co, Round 7: Live"
       },
       {
-         "description" : "The Women's Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
+         "description" : "Fabiano Caruana won his first ever classical game against Ian Nepomniachtchi to take the sole lead after Round 4 of the Superbet Chess Classic in Bucharest. Fabiano described it as \"really satisfying\" to outplay his opponent from a position where a draw looked inevitable. The day's other winner was Alireza Firouzja, who scored his first classical win in 8 months after bamboozling Bogdan-Daniel Deac in a complicated clash.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-caruana-beats-nepomniachtchi",
+         "pubDate" : "Wed, 10 May 2023 10:48:46 +0000",
+         "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
+      },
+      {
+         "description" : "The Asia Zone 3.3 Chess Championships 2023 is taking place from 06 -12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in two categories Open and Women. The []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-winners/",
-         "pubDate" : "Wed, 10 May 2023 06:41:05 +0000",
-         "title" : "Armageddon Championship Series -Women's Week Winners"
+         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-women-2/",
+         "pubDate" : "Wed, 10 May 2023 10:40:00 +0000",
+         "title" : "Asia Zone 3.3 Chess Championships 2023 - Women"
+      },
+      {
+         "description" : "The Asia Zone 3.3 Chess Championships 2023 is taking place from 06 -12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in two categories Open and Women. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-open-2/",
+         "pubDate" : "Wed, 10 May 2023 10:20:00 +0000",
+         "title" : "Asia Zone 3.3 Chess Championships 2023 - Open"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Anish Giri Richard Rapport from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-richard-rapport-superbet-chess-classic-2023/",
+         "pubDate" : "Wed, 10 May 2023 10:20:00 +0000",
+         "title" : "Anish Giri - Richard Rapport, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Wesley So Bogdan-Daniel Deac from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-bogdan-daniel-deac-superbet-chess-classic-2023/",
+         "pubDate" : "Wed, 10 May 2023 10:00:00 +0000",
+         "title" : "Wesley So - Bogdan-Daniel Deac, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Ding Liren from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-ding-liren-superbet-chess-classic-2023/",
+         "pubDate" : "Wed, 10 May 2023 09:40:00 +0000",
+         "title" : "Alireza Firouzja - Ding Liren, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Fabiano Caruana from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-fabiano-caruana-superbet-chess-classic-2023/",
+         "pubDate" : "Wed, 10 May 2023 09:20:00 +0000",
+         "title" : "Jan-Krzysztof Duda - Fabiano Caruana, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Maxime Vachier-Lagrave from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-maxime-vachier-lagrave-superbet-chess-classic-2023/",
+         "pubDate" : "Wed, 10 May 2023 09:00:00 +0000",
+         "title" : "Ian Nepomniachtchi - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Abhimanyu Mishra Boris Gelfand from round 7 of TePe Sigeman 2023. The other live games of the round include: Live : Vincent Keymer Arjun Erigaisi / Nils Grandelius Jorden Van Foreest / D Gukesh Peter []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abhimanyu-mishra-boris-gelfand-tepe-sigeman-2023/",
+         "pubDate" : "Wed, 10 May 2023 08:40:00 +0000",
+         "title" : "Abhimanyu Mishra - Boris Gelfand, TePe Sigeman 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game D Gukesh Peter Svidler from round 7 of TePe Sigeman 2023. The other live games of the round include: Live : Vincent Keymer Arjun Erigaisi / Nils Grandelius Jorden Van Foreest / D Gukesh Peter []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/d-gukesh-peter-svidler-tepe-sigeman-2023/",
+         "pubDate" : "Wed, 10 May 2023 08:20:00 +0000",
+         "title" : "D Gukesh - Peter Svidler, TePe Sigeman 2023"
+      },
+      {
+         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Nils Grandelius Jorden Van Foreest from round 7 of TePe Sigeman 2023. The other live games of the round include: Live : Vincent Keymer Arjun Erigaisi / Nils Grandelius Jorden Van Foreest / D Gukesh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nils-grandelius-jorden-van-foreest-tepe-sigeman-2023/",
+         "pubDate" : "Wed, 10 May 2023 08:00:00 +0000",
+         "title" : "Nils Grandelius - Jorden Van Foreest, TePe Sigeman 2023"
       },
       {
          "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
@@ -114,12 +194,12 @@ news_feed (
          "title" : "Weekly Tactics: Back-Rank Checkmate"
       },
       {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show od day 2 live!",
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show od day 3 live!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
          "pubDate" : "Tue, 09 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 2"
+         "title" : "The Armageddon Championship Series: Women's Week live - Day 3"
       },
       {
          "description" : "",
@@ -138,28 +218,12 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Relaxation After a Game #SuperbetChessClassic"
       },
       {
-         "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, training DVDs, services, the ChessBase Account. There are some very interesting new products: like the brand new Opening Encyclopaedia 2023, which is a huge fund of ideas and high-quality analysis! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/your-chance-big-discount-day-2",
-         "pubDate" : "Tue, 09 May 2023 15:30:00 +0100",
-         "title" : "Your chance: big Discount Day 2023"
-      },
-      {
          "description" : "Congratulations to Keith Arkell (right) and Mark Hebden, joint 50+ winners; and Chris Baker the 65+ winner, with Paul Littlewood second. Also to Natasha Regan,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-seniors-results/",
          "pubDate" : "Tue, 09 May 2023 13:16:47 +0000",
          "title" : "English Seniors - results"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Jorden Van Foreest Vincent Keymer from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jorden-van-foreest-vincent-keymer-tepe-sigeman-2023/",
-         "pubDate" : "Tue, 09 May 2023 13:15:00 +0000",
-         "title" : "Jorden Van Foreest - Vincent Keymer, TePe Sigeman 2023"
       },
       {
          "description" : " The 2023 African Individual Chess Championships (AICC) are currently taking place in Egypt at Hor Moheb Hotel in the historic town of Giza. There are 17 African federations along with five South African players playing under the African Chess Confederation banner. Seven Grandmasters lead the field of 71 players in the Open (44 Egyptian) and The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/\">2023 African Individual Championships</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -170,20 +234,12 @@ news_feed (
          "title" : "2023 African Individual Championships"
       },
       {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Peter Svidler Nils Grandelius from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils Grandelius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-svidler-nils-grandelius-tepe-sigeman-2023/",
-         "pubDate" : "Tue, 09 May 2023 12:55:00 +0000",
-         "title" : "Peter Svidler - Nils Grandelius, TePe Sigeman 2023"
-      },
-      {
          "description" : "This Livestream is mind-blowing because some of the greatest master coaches in the world were interviewed for their best chess advice, what coaching methods they use, and how tactics, blitz games, and engine usage are dealt with. Ivan Sokolov, Ramesh, Karsten Mueller, Jan Markos, Robert Ris, Daniel King, Harald Schneider-Zinner, Rustam Kasimdzhanov, and Dorian Rogozenco all gave instructive, and fascinating answers to Arne Kaehler's questions. Discover the secrets behind the world's top chess coaches!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/master-coaches-offer-their-best-chess-advice-for-you",
          "pubDate" : "Tue, 09 May 2023 13:42:39 +0100",
-         "title" : "Master coaches offer best Discount Day chess advice for you!"
+         "title" : "Best chess advice from master coaches!"
       },
       {
          "description" : "Chess journalist Harald Fietz, who experienced Viktor Kortschnoi in person, treated himself to the Fritztrainers \"Viktor Kortschnoi: My life for chess\" and \"Masterclass: Viktor Kortschnoi\". In one the master speaks himself, in the other, they talk about him. Both Fritztrainers offer plenty of chess thrills, says Fietz in his review.",
@@ -192,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/by-and-about-viktor-kortschnoi-a-review",
          "pubDate" : "Tue, 09 May 2023 13:41:33 +0100",
          "title" : "By and about Viktor Kortschnoi - a review"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Boris Gelfand D Gukesh from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils Grandelius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-gelfand-d-gukesh-tepe-sigeman-2023/",
-         "pubDate" : "Tue, 09 May 2023 12:38:22 +0000",
-         "title" : "Boris Gelfand - D Gukesh, TePe Sigeman 2023"
       },
       {
          "description" : "Ding Liren confessed \"I forgot the moves\" as he stumbled into a close to lost position against Ian Nepomniachtchi in Round 3 of the Superbet Chess Classic. Just as in the second half of the match, however, Ding managed to survive, thus denying his opponent a 2800 rating. Elsewhere the one decisive game saw Fabiano Caruana beat Maxime Vachier-Lagrave in only 23 moves to join Richard Rapport, Wesley So and Nepo in the lead.",
@@ -216,38 +264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2377",
          "pubDate" : "Tue, 09 May 2023 10:26:27 +0000",
          "title" : "\"Chess in Schools\" seminar held in Doha, Qatar"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Arjun Erigaisi Abhimanyu Mishra from round 6 of TePe Sigeman 2023. The other live games of the round include: Live : Arjun Erigaisi Abhimanyu Mishra / Boris Gelfand D Gukesh / Peter Svidler Nils Grandelius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-abhimanyu-mishra-tepe-sigeman-2023/",
-         "pubDate" : "Tue, 09 May 2023 09:55:00 +0000",
-         "title" : "Arjun Erigaisi - Abhimanyu Mishra, TePe Sigeman 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Fabiano Caruana Ian Nepomniachtchi from round 4 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-ian-nepomniachtchi-superbet-chess-classic-2023/",
-         "pubDate" : "Tue, 09 May 2023 09:35:00 +0000",
-         "title" : "Fabiano Caruana - Ian Nepomniachtchi, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ding Liren Jan-Krzysztof Duda from round 4 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-jan-krzysztof-duda-superbet-chess-classic-2023/",
-         "pubDate" : "Tue, 09 May 2023 09:10:00 +0000",
-         "title" : "Ding Liren - Jan-Krzysztof Duda, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Bogdan-Daniel Deac Alireza Firouzja from round 4 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bogdan-daniel-deac-alireza-firouzja-superbet-chess-classic-2023/",
-         "pubDate" : "Tue, 09 May 2023 08:44:29 +0000",
-         "title" : "Bogdan-Daniel Deac - Alireza Firouzja, Superbet Chess Classic 2023"
       },
       {
          "description" : "ECU E-Magazine April 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Pairs Chess Championship at the European Games 2023 Mitropa Chess Cup 2023 IBCA European Team Chess Championship 2023 Grand Chess Tour Romania 2023 Communique of the second quarterly ECU Board Meeting Upcoming ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-april-2023/\">Read More &#187;</a></span>",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-with-nba-all-star-gordon-hayward",
          "pubDate" : "Wed, 03 May 2023 06:00:00 -0700",
          "title" : "Play Chess With NBA All-Star Gordon Hayward"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-8",
-         "pubDate" : "Wed, 03 May 2023 14:00:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week to launch in Berlin beginning May 8"
       },
       {
          "description" : " Giving Checkmate. What an amazing feeling! And the goal of each and every game. But especially when starting out, easier said than done! In this article, I will explain how to checkmate a lone King in the Endgame with different piece configurations. After reading this article you will be able to finish off your opponents [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/checkmate/\">Checkmate: A Simple Guide To Checkmating The Lone King</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1776,38 +1784,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/excuses/",
          "pubDate" : "Wed, 19 Apr 2023 12:00:00 +0000",
          "title" : "No More Excuses: Improve Your Chess Today!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99613566.cms\" />Global Chess League (GCL), a joint venture by world body FIDE and Tech Mahindra, on Wednesday unveiled its official logo, which resembles a chess board with 64 squares.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-its-official-logo/articleshow/99613566.cms",
-         "pubDate" : "Wed, 19 Apr 2023 10:57:50 +0000",
-         "title" : "Global Chess League unveils its official logo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2347",
-         "pubDate" : "Wed, 19 Apr 2023 10:49:57 +0000",
-         "title" : "World Solving Cup 2022/2023: Female touch in Riga"
-      },
-      {
-         "description" : "After the eighth round of the event, Italy and France teams in the Open section are sharing the first place, and France in the Women's Section is solo leading in the Mitropa Cup 2023. Yesterday's eighth round was opened by the ceremonial first move made in the match France - Germany in the Open section by the President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/italy-and-france-are-leading-in-the-mitropa-cup-2023-before-the-last-round/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/italy-and-france-are-leading-in-the-mitropa-cup-2023-before-the-last-round/",
-         "pubDate" : "Wed, 19 Apr 2023 08:51:00 +0000",
-         "title" : "Italy and France are leading in the Mitropa Cup 2023 before the last round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2346",
-         "pubDate" : "Wed, 19 Apr 2023 08:29:42 +0000",
-         "title" : "Global Chess League unveils its official logo"
       }
    ]
 }
