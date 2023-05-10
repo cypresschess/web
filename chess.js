@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Peter Svidler and Abhimanyu Mishra lead TePe Sigeman 2023 before last round with 4/6, while D Gukesh and Nils Grandelius are a half point behind them with 3&#xBD;/6 . The last round is very promising and here are the games : Round 7 on 2023/05/10 at 12 p.m CEST Bo. No. Rtg Name Result Name []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-svidler-and-abhimanyu-mishra-lead-tepe-sigeman-2023-before-last-round/",
+         "pubDate" : "Wed, 10 May 2023 07:20:00 +0000",
+         "title" : "Peter Svidler and Abhimanyu Mishra lead TePe Sigeman 2023 before last round."
+      },
+      {
+         "description" : "The Women's Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-winners-live/",
+         "pubDate" : "Wed, 10 May 2023 07:00:00 +0000",
+         "title" : "Armageddon Championship Series -Women's Week Winners - LIVE"
+      },
+      {
+         "description" : "The Women's Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-winners/",
+         "pubDate" : "Wed, 10 May 2023 06:41:05 +0000",
+         "title" : "Armageddon Championship Series -Women's Week Winners"
+      },
+      {
          "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/your-chance-big-discount-day-2",
          "pubDate" : "Tue, 09 May 2023 15:30:00 +0100",
          "title" : "Your chance: big Discount Day 2023"
-      },
-      {
-         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After five rounds, Peter Svidler and Abhimanyu Mishra are sharing the lead with 3&frac12; points each. Dommaraju Gukesh and Nils Grandelius stand a half point back. | Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Tue, 09 May 2023 14:45:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 6: Live"
       },
       {
          "description" : "Congratulations to Keith Arkell (right) and Mark Hebden, joint 50+ winners; and Chris Baker the 65+ winner, with Paul Littlewood second. Also to Natasha Regan,...",
@@ -258,28 +274,12 @@ news_feed (
          "title" : "TePe Sigeman: Van Foreest scores unlikely win"
       },
       {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the gameRichard Rapport Wesley So from round 4 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard Rapport []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-wesley-so-superbet-chess-classic-2023/",
-         "pubDate" : "Tue, 09 May 2023 06:55:57 +0000",
-         "title" : "Richard Rapport - Wesley So, Superbet Chess Classic 2023"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 124th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-6",
          "pubDate" : "Tue, 09 May 2023 07:20:58 +0100",
          "title" : "Understanding before Moving 124: Chess history in a nutshell (6)"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Maxime Vachier-Lagrave Anish Giri from round 4 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Anish Giri / Richard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-anish-giri-superbet-chess-classic-2023/",
-         "pubDate" : "Tue, 09 May 2023 05:51:47 +0000",
-         "title" : "Maxime Vachier-Lagrave - Anish Giri, Superbet Chess Classic 2023"
       },
       {
          "description" : "",
@@ -416,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r2",
          "pubDate" : "Mon, 08 May 2023 01:45:00 +0100",
          "title" : "Superbet Classic: Nepo and Rapport score, catch So in the lead"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Wesley So Anish Giri from round 3 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Fabiano Caruana Maxime Vachier-Lagrave / Ian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-anish-giri-superbet-chess-classic-2023/",
-         "pubDate" : "Sun, 07 May 2023 23:20:00 +0000",
-         "title" : "Wesley So - Anish Giri, Superbet Chess Classic 2023"
       },
       {
          "description" : "GMs Ian Nepomniachtchi and Richard Rapport were the two winners in the second round of the Superbet Classic Romania 2023&#38;nbsp;in Bucharest on Sunday. The round featured two contrasting decisive results as well as three draws that were all decided ...",
@@ -832,6 +824,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-with-nba-all-star-gordon-hayward",
          "pubDate" : "Wed, 03 May 2023 06:00:00 -0700",
          "title" : "Play Chess With NBA All-Star Gordon Hayward"
+      },
+      {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-8",
+         "pubDate" : "Wed, 03 May 2023 14:00:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week to launch in Berlin beginning May 8"
       },
       {
          "description" : " Giving Checkmate. What an amazing feeling! And the goal of each and every game. But especially when starting out, easier said than done! In this article, I will explain how to checkmate a lone King in the Endgame with different piece configurations. After reading this article you will be able to finish off your opponents [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/checkmate/\">Checkmate: A Simple Guide To Checkmating The Lone King</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
