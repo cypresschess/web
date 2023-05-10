@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2380",
+         "pubDate" : "Wed, 10 May 2023 22:32:13 +0000",
+         "title" : "FIDE Circuit: Gukesh D regains the lead"
+      },
+      {
+         "description" : "GM Alireza Firouzja gained his very first classical victory vs. a world champion in round five of the Superbet Classic Romania 2023. The youngest player to break 2800 defeated GM Ding Liren in a back-and-forth duel for the initiative, scoring his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-5",
+         "pubDate" : "Wed, 10 May 2023 14:49:00 -0700",
+         "title" : "Firouzja Defeats A World Champion For The 1st Time"
+      },
+      {
          "description" : "After Sagar Shah, founder and driving force behind Chessbase India, spoke to former World Champion Vishy Anand about the dramatic World Championship match between Ian Nepomniachtchi and Ding Liren, Sagar also interviewed former World Champion Vladimir Kramnik on the same subject. As a supporter of \"Team Nepo\" Kramnik was directly involved in the World Championship match. In the interview, Kramnik talked about his work with Nepomniachtchi, the critical moments of the match, opening preparation, nervousness in World Championship matches and much more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1410,14 +1426,6 @@ news_feed (
          "title" : "Nakamura, Nihal Take Tied Tuesday Tournaments"
       },
       {
-         "description" : "The next event in Chess.com&#38;rsquo;s blockbuster $2 million Champions Chess Tour has been revealed as the inaugural ChessKid Cup. Qualifying for the event will kick off with a Play-In on Monday, May 1, to decide the final lineup. The five-day Kno...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-cup-up-next-as-champions-chess-tour-reaches-midway-point",
-         "pubDate" : "Wed, 26 Apr 2023 06:57:00 -0700",
-         "title" : "ChessKid Cup Up Next As Champions Chess Tour Reaches Midway Point"
-      },
-      {
          "description" : "Ding Liren has levelled the World Championship match at 6:6 with two games to go after an incredible Game 12. Ian Nepomniachtchi played a dubious opening but won the middlegame battle and was suddenly playing fast and well in a dominant position. A win would mean almost certainly becoming the 17th World Chess Champion, but Ian played too fast, lost control and ultimately crumbled under pressure. Match on!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1760,22 +1768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-misses-a-huge-chance-to-level-things-up-again-in-world-championship-game-8",
          "pubDate" : "Thu, 20 Apr 2023 16:55:00 +0400",
          "title" : "Ding misses a huge chance to level things up again in World Championship game 8 - 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2350",
-         "pubDate" : "Wed, 19 Apr 2023 22:03:14 +0000",
-         "title" : "The World defeats Kazakhstan in a unique match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2349",
-         "pubDate" : "Wed, 19 Apr 2023 21:56:43 +0000",
-         "title" : "Double crown for France at the Mitropa Cup 2023"
       }
    ]
 }
