@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja grabbed his second consecutive win at the Superbet Chess Classic in Bucharest - and what a win it was! The youngster beat Ding Liren with white, thus inflicting the Chinese grandmaster's first defeat during his reign as world champion. In another remarkable development, Maxime Vachier-Lagrave got the better of Ian Nepomniachtchi after the latter misplayed an advantageous position out of a Sicilian Alapin. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r5",
+         "pubDate" : "Thu, 11 May 2023 03:50:00 +0100",
+         "title" : "Superbet Classic: Firouzja inflicts Ding's first defeat"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-fans-eliza-ana-ian-nepo-will-win-r1-superbetchessclassic",
          "pubDate" : "Wed, 10 May 2023 12:52:00 +0000",
          "title" : "Chess Fans Eliza & Ana: Ian Nepo will win! | R1 #SuperbetChessClassic"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Wed, 10 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "",
