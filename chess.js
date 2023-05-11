@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Delilah Sadvakassova is a 9-year-old girl from Kazakhstan who is not only a strong and talented player, but also a \"chess influencer\". Under the guidance of her parents, Delilah regularly posts videos about chess history and chess personalities on Facebook. In the second part of her portrait of Delilah, Diana Mihajlova tells how Delilah met Magnus Carlsen and talks about Delilah's family and how they make the young influencer's videos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/delightful-delilah-the-chess-influencer-part-2",
+         "pubDate" : "Thu, 11 May 2023 09:00:00 +0100",
+         "title" : "Delightful Delilah, the Chess Influencer (part 2)"
+      },
+      {
+         "description" : "19-year-old Alireza Firouzja has regained the world no. 2 spot after beating World Champion Ding Liren in Round 5 of the Superbet Chess Classic in Bucharest. Ding had winning chances of his own, as did Ian Nepomniachtchi, who for most of the round was putting pressure on Maxime Vachier-Lagrave. A few careless moves, however, and MVL took over to make it a red-letter day for French chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-classic-5-firouzja-world-no-2-after-beating-ding",
+         "pubDate" : "Thu, 11 May 2023 05:21:08 +0000",
+         "title" : "Superbet Classic 5: Firouzja world no. 2 after beating Ding"
+      },
+      {
          "description" : "Alireza Firouzja grabbed his second consecutive win at the Superbet Chess Classic in Bucharest - and what a win it was! The youngster beat Ding Liren with white, thus inflicting the Chinese grandmaster's first defeat during his reign as world champion. In another remarkable development, Maxime Vachier-Lagrave got the better of Ian Nepomniachtchi after the latter misplayed an advantageous position out of a Sicilian Alapin. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-566-ian-nepomniachtchi-vs-ding-liren-the-decisive-game",
          "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
          "title" : "Game of the Week #566: Ian Nepomniachtchi vs Ding Liren - The decisive game"
-      },
-      {
-         "description" : "Do you like to play elephant takes horse in the Ruy Lopez? Or promote your farmer to a virgin in the endgame? Did you know there are players who do this all the time? In an interesting article Frank Jacobs has vividly traced the diversification of piece names from the original Sanskrit to modern day chess. You'll be surprised how the bishop is seen in different countries all over the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-names-of-chess-pieces",
-         "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
-         "title" : "The names of chess pieces"
       },
       {
          "description" : "Please find the complete list of Arbiters attended online refresher seminar&#160;from Feb 2023-Apr 2024 . Updated List of Arbiters",
