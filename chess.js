@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2382",
+         "pubDate" : "Thu, 11 May 2023 13:35:39 +0000",
+         "title" : "Kazakhstan to host inaugural FIDE World Schools Team Championship"
+      },
+      {
+         "description" : "The XIV Women's Continental Chess Championship of the Americas 2023 is taking place from 07-12 May 2023 in Havana, Cuba. The time control is 90 minutes with a 30-second increment starting from move one. It is is a 9-round Swiss tournament with particiaption of Deysi Cori T., Lisandra Teresa Ordaz Valdes, Yaniela Forgas Moreno, Candela []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xiv-womens-continental-chess-championship-of-the-americas-2023-live/",
+         "pubDate" : "Thu, 11 May 2023 13:10:00 +0000",
+         "title" : "XIV Women's Continental Chess Championship of the Americas 2023 - LIVE"
+      },
+      {
+         "description" : "The XIV Women's Continental Chess Championship of the Americas 2023 is taking place from 07-12 May 2023 in Havana, Cuba. The time control is 90 minutes with a 30-second increment starting from move one. It is is a 9-round Swiss tournament with particiaption of Deysi Cori T., Lisandra Teresa Ordaz Valdes, Yaniela Forgas Moreno, Candela []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xiv-womens-continental-chess-championship-of-the-americas-2023/",
+         "pubDate" : "Thu, 11 May 2023 12:50:00 +0000",
+         "title" : "XIV Women's Continental Chess Championship of the Americas 2023"
+      },
+      {
+         "description" : "The Czech Championship is taking place from 9&#x2013;17 May 2023 in Byst&#x159;ice nad Pern&#x161;tejnem, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of David Navara, Vlastimil Babula, Jiri Stocek, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-championship-2023-live/",
+         "pubDate" : "Thu, 11 May 2023 12:30:00 +0000",
+         "title" : "Czech Championship 2023 - LIVE"
+      },
+      {
          "description" : "In the World Chess Championship, which still was running while this article was written but will be over when you read it, Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that kind of checkmate was used in endgame studies. | Photo: Midjourney AI",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-ding-s-wcc-game-6-checkmate-pattern-in-endgame-studies",
          "pubDate" : "Thu, 11 May 2023 13:23:30 +0100",
          "title" : "Study of the month - Ding's WCC game 6 checkmate pattern in endgame studies"
+      },
+      {
+         "description" : "The Czech Championship is an 10-player round-robin tournament taking place from 9&#x2013;17 May 2023 in Byst&#x159;ice nad Pern&#x161;tejnem, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the live games. More : Czech Amateur Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-championship-2023/",
+         "pubDate" : "Thu, 11 May 2023 12:10:00 +0000",
+         "title" : "Czech Championship 2023"
+      },
+      {
+         "description" : "The 2023 Pro Chess League is a $150,000 team tournament taking place on chess.com. The event features 16 teams with participation of&#160;Magnus Carlsen, Hikaru Nakamura,&#160;Fabiano Caruana,&#160;Anish Giri&#160;and other world top players. The teams will compete in an elimination Swiss played over five weeks, followed by an eight-team single-elimination playoff. At the end of the third []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pro-chess-league-2023-live/",
+         "pubDate" : "Thu, 11 May 2023 11:40:00 +0000",
+         "title" : "Pro Chess League 2023 - LIVE"
       },
       {
          "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Jan-Krzysztof Duda from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
@@ -119,7 +167,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-5",
          "pubDate" : "Wed, 10 May 2023 14:49:00 -0700",
-         "title" : "Firouzja Defeats A World Champion For The 1st Time"
+         "title" : "Firouzja Defeats A World Champion For 1st Time"
       },
       {
          "description" : "After Sagar Shah, founder and driving force behind Chessbase India, spoke to former World Champion Vishy Anand about the dramatic World Championship match between Ian Nepomniachtchi and Ding Liren, Sagar also interviewed former World Champion Vladimir Kramnik on the same subject. As a supporter of \"Team Nepo\" Kramnik was directly involved in the World Championship match. In the interview, Kramnik talked about his work with Nepomniachtchi, the critical moments of the match, opening preparation, nervousness in World Championship matches and much more.",
@@ -168,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-7-superbetchessclassic-grandchesstour",
          "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
          "title" : "2023 Superbet Chess Classic: Round 7 | #SuperbetChessClassic #GrandChessTour"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show od day 3 live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Wed, 10 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 3"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Superbet Chairman Hans-Holger Albrecht talks to Cristian Chirila during Round 5 of the 2023 Superbet Chess Classic. 2023.05.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chair-fair-game-outsmart-your-competitor-r5-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UD-nUDqp6qY.jpg?itok=6ioW6vfk\" alt=\"\" /></a></div>",
@@ -280,46 +320,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-caruana-beats-nepomniachtchi",
          "pubDate" : "Wed, 10 May 2023 10:48:46 +0000",
          "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
-      },
-      {
-         "description" : "The Asia Zone 3.3 Chess Championships 2023 is taking place from 06 -12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in two categories Open and Women. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-women-2/",
-         "pubDate" : "Wed, 10 May 2023 10:40:00 +0000",
-         "title" : "Asia Zone 3.3 Chess Championships 2023 - Women"
-      },
-      {
-         "description" : "The Asia Zone 3.3 Chess Championships 2023 is taking place from 06 -12 May 2023 in Jakarta, Indonesia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in two categories Open and Women. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asia-zone-3-3-chess-championships-2023-open-2/",
-         "pubDate" : "Wed, 10 May 2023 10:20:00 +0000",
-         "title" : "Asia Zone 3.3 Chess Championships 2023 - Open"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Anish Giri Richard Rapport from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-richard-rapport-superbet-chess-classic-2023/",
-         "pubDate" : "Wed, 10 May 2023 10:20:00 +0000",
-         "title" : "Anish Giri - Richard Rapport, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Wesley So Bogdan-Daniel Deac from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-bogdan-daniel-deac-superbet-chess-classic-2023/",
-         "pubDate" : "Wed, 10 May 2023 10:00:00 +0000",
-         "title" : "Wesley So - Bogdan-Daniel Deac, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Ding Liren from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-ding-liren-superbet-chess-classic-2023/",
-         "pubDate" : "Wed, 10 May 2023 09:40:00 +0000",
-         "title" : "Alireza Firouzja - Ding Liren, Superbet Chess Classic 2023"
       },
       {
          "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
@@ -856,6 +856,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/if-were-lucky-we-may-have-an-indian-challenger-to-ding-liren-next-year-viswanathan-anand/articleshow/99992056.cms",
          "pubDate" : "Thu, 04 May 2023 13:56:52 +0000",
          "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
+      },
+      {
+         "description" : "Almost immediately after playing a gruelling three-week match, world champion Ding Liren and Ian Nepomniachtchi will play a 9-round single round-robin in Bucharest, the Superbet Chess Classic. The first event of this year's Grand Chess Tour, it will also see Richard Rapport, Ding's second in Astana, among the participants. A star-studded field includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-preview",
+         "pubDate" : "Thu, 04 May 2023 11:30:00 +0100",
+         "title" : "Ding, Nepo and Rapport to face off in Romania"
       },
       {
          "description" : " The 28th Sigeman & Co tournament takes place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra.",
@@ -1776,22 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2351",
          "pubDate" : "Thu, 20 Apr 2023 16:12:05 +0000",
          "title" : "Ding drops crucial victory as Nepomniachtchi maintains lead in the FIDE World Chess Championship match"
-      },
-      {
-         "description" : "Ding Liren was set to make it a staggering five wins for White in a row, but a combination of missed chances, a semi-bluff, and brilliant defence from Ian Nepomniachtchi saw Game 8 of the World Championship match end in a draw. Ian now leads 4.5:3.5, while Ding has to deal with the fallout of his \"anonymous\" pre-match training games being discovered online.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-blows-huge-chance-as-world-championship-prep-leaks-online",
-         "pubDate" : "Thu, 20 Apr 2023 13:45:27 +0000",
-         "title" : "Ding Liren blows huge chance as prep leaks online"
-      },
-      {
-         "description" : " The eighth game of the World Chess Championship in Astana, Kazakhstan finished in a draw but only after Ding Liren missed very good chances to win. Off the board it seems that people have found some of Ding's training games on Lichess where these unusual lines, and presumably other things he intends to use were practiced. Ding played 4.e3 against the Nimzo-Indian but only on the way to a Saemisch pawn structure with 5.a3, he then played 9.Ra2 which he believed would be a powerful surprise. Nepomniachtchi didn't take long over choosing 9...b6 which would be most people's first idea in this structure. Ding followed up with a very temporary piece sacrifice and then a break in the centre. 17.d6",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-misses-a-huge-chance-to-level-things-up-again-in-world-championship-game-8",
-         "pubDate" : "Thu, 20 Apr 2023 16:55:00 +0400",
-         "title" : "Ding misses a huge chance to level things up again in World Championship game 8 - 8"
       }
    ]
 }
