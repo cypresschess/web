@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the World Chess Championship, which still was running while this article was written but will be over when you read it, Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that kind of checkmate was used in endgame studies. | Photo: Midjourney AI",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-ding-s-wcc-game-6-checkmate-pattern-in-endgame-studies",
+         "pubDate" : "Thu, 11 May 2023 13:23:30 +0100",
+         "title" : "Study of the month - Ding's WCC game 6 checkmate pattern in endgame studies"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Jan-Krzysztof Duda from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-jan-krzysztof-duda-superbet-chess-classic-2023/",
+         "pubDate" : "Thu, 11 May 2023 11:00:00 +0000",
+         "title" : "Ian Nepomniachtchi - Jan-Krzysztof Duda, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Fabiano Caruana Alireza Firouzja from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-alireza-firouzja-superbet-chess-classic-2023/",
+         "pubDate" : "Thu, 11 May 2023 10:45:00 +0000",
+         "title" : "Fabiano Caruana - Alireza Firouzja, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ding Liren Wesley So from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-wesley-so-superbet-chess-classic-2023/",
+         "pubDate" : "Thu, 11 May 2023 10:25:00 +0000",
+         "title" : "Ding Liren - Wesley So, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "On Wednesday, 18 months after playing his last classical chess tournament, GM Peter Svidler won the 28th edition of the TePe Sigeman &#38;amp; Co Chess Tournament in Malmo, Sweden. The 46-year-old Russian GM drew his final round game and no tiebreak w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/peter-svidler-wins-2023-tepe-sigeman-chess-tournament",
+         "pubDate" : "Thu, 11 May 2023 03:16:00 -0700",
+         "title" : "After 18 Months Without Classical Chess Peter Svidler Wins TePe Sigeman"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Bogdan-Daniel Deac Anish Giri from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bogdan-daniel-deac-anish-giri-superbet-chess-classic-2023/",
+         "pubDate" : "Thu, 11 May 2023 10:10:00 +0000",
+         "title" : "Bogdan-Daniel Deac - Anish Giri, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/",
+         "pubDate" : "Thu, 11 May 2023 09:56:52 +0000",
+         "title" : "European School Chess Championship 2023 starts in Durres, Albania"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Maxime Vachier-Lagrave Richard Rapport from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-richard-rapport-superbet-chess-classic-2023/",
+         "pubDate" : "Thu, 11 May 2023 09:53:09 +0000",
+         "title" : "Maxime Vachier-Lagrave - Richard Rapport, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2381",
+         "pubDate" : "Thu, 11 May 2023 08:46:14 +0000",
+         "title" : "2023 Superbet Chess Classic: Day 5 Recap"
+      },
+      {
+         "description" : "With a current rating of 2732, 16-year-old Indian grandmaster Gukesh D is ranked 18th in the world. He is an all-round player with impressive attacking skills, which he again showed in a recent game against Vincent Keymer. In his Game of the Week show #567, Merijn van Delft takes a closer look at this fine example of attacking play. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-567-gukesh-vs-keymer",
+         "pubDate" : "Thu, 11 May 2023 09:38:17 +0100",
+         "title" : "Game of the Week #567: Gukesh vs Keymer"
+      },
+      {
          "description" : "Delilah Sadvakassova is a 9-year-old girl from Kazakhstan who is not only a strong and talented player, but also a \"chess influencer\". Under the guidance of her parents, Delilah regularly posts videos about chess history and chess personalities on Facebook. In the second part of her portrait of Delilah, Diana Mihajlova tells how Delilah met Magnus Carlsen and talks about Delilah's family and how they make the young influencer's videos.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,46 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/alireza-firouzja-ding-liren-superbet-chess-classic-2023/",
          "pubDate" : "Wed, 10 May 2023 09:40:00 +0000",
          "title" : "Alireza Firouzja - Ding Liren, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "At OutpostChess you can create a tournament, register players, pay entry fees, collect your money prize, and much more all 100% at one place. More about Outpost: Create a Profile on Outpost Chess / Make money Online by playing Outpost Chess tournaments &#x2013; with anti-cheating checks / How to start your chess business &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/outpostchess-an-important-tool-for-tournament-organizers-and-players/",
-         "pubDate" : "Wed, 10 May 2023 09:21:00 +0000",
-         "title" : "OutpostChess - an important tool for Tournament Organizers and Players"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Fabiano Caruana from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-fabiano-caruana-superbet-chess-classic-2023/",
-         "pubDate" : "Wed, 10 May 2023 09:20:00 +0000",
-         "title" : "Jan-Krzysztof Duda - Fabiano Caruana, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Maxime Vachier-Lagrave from round 5 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Ian Nepomniachtchi Maxime Vachier-Lagrave / Jan-Krzysztof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-maxime-vachier-lagrave-superbet-chess-classic-2023/",
-         "pubDate" : "Wed, 10 May 2023 09:00:00 +0000",
-         "title" : "Ian Nepomniachtchi - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game Abhimanyu Mishra Boris Gelfand from round 7 of TePe Sigeman 2023. The other live games of the round include: Live : Vincent Keymer Arjun Erigaisi / Nils Grandelius Jorden Van Foreest / D Gukesh Peter []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abhimanyu-mishra-boris-gelfand-tepe-sigeman-2023/",
-         "pubDate" : "Wed, 10 May 2023 08:40:00 +0000",
-         "title" : "Abhimanyu Mishra - Boris Gelfand, TePe Sigeman 2023"
-      },
-      {
-         "description" : "TePe Sigeman &#38; Co Chess Tournament 2023 is taking place May 4-10. This is the game D Gukesh Peter Svidler from round 7 of TePe Sigeman 2023. The other live games of the round include: Live : Vincent Keymer Arjun Erigaisi / Nils Grandelius Jorden Van Foreest / D Gukesh Peter []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/d-gukesh-peter-svidler-tepe-sigeman-2023/",
-         "pubDate" : "Wed, 10 May 2023 08:20:00 +0000",
-         "title" : "D Gukesh - Peter Svidler, TePe Sigeman 2023"
       },
       {
          "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
@@ -818,14 +858,6 @@ news_feed (
          "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
       },
       {
-         "description" : "Almost immediately after playing a gruelling three-week match, world champion Ding Liren and Ian Nepomniachtchi will play a 9-round single round-robin in Bucharest, the Superbet Chess Classic. The first event of this year's Grand Chess Tour, it will also see Richard Rapport, Ding's second in Astana, among the participants. A star-studded field includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-preview",
-         "pubDate" : "Thu, 04 May 2023 11:30:00 +0100",
-         "title" : "Ding, Nepo and Rapport to face off in Romania"
-      },
-      {
          "description" : " The 28th Sigeman & Co tournament takes place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -856,14 +888,6 @@ news_feed (
          "link" : "https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/",
          "pubDate" : "Thu, 04 May 2023 08:39:29 +0000",
          "title" : "Ding Lirin's Use Of Tiger Chess Openings"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #566, Merijn van Delft looks at the game that made Ding Liren the 17th World Champion in the history of chess: the fourth game of the World Championship match tiebreaker. A historically important, tense and instructive encounter! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-566-ian-nepomniachtchi-vs-ding-liren-the-decisive-game",
-         "pubDate" : "Thu, 04 May 2023 08:00:00 +0100",
-         "title" : "Game of the Week #566: Ian Nepomniachtchi vs Ding Liren - The decisive game"
       },
       {
          "description" : "Please find the complete list of Arbiters attended online refresher seminar&#160;from Feb 2023-Apr 2024 . Updated List of Arbiters",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2362",
          "pubDate" : "Wed, 26 Apr 2023 16:32:02 +0000",
          "title" : "Race for the title of World Champion wide open as Nepomniachtchi suffers shocking defeat"
-      },
-      {
-         "description" : "GM Hikaru Nakamura returned to the winner&#39;s column in the early Titled Tuesday on April 25, and GM Nihal Sarin followed with his first win of the year in the late tournament. Both scored 9.5 points out of a possible 11 and won on the tiebreak scor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-nihal-win-titled-tuesday-april-25-2023",
-         "pubDate" : "Wed, 26 Apr 2023 08:48:33 -0700",
-         "title" : "Nakamura, Nihal Take Tied Tuesday Tournaments"
       },
       {
          "description" : "Ding Liren has levelled the World Championship match at 6:6 with two games to go after an incredible Game 12. Ian Nepomniachtchi played a dubious opening but won the middlegame battle and was suddenly playing fast and well in a dominant position. A win would mean almost certainly becoming the 17th World Chess Champion, but Ian played too fast, lost control and ultimately crumbled under pressure. Match on!",
