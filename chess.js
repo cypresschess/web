@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " On April 22nd, the 1st HBCU Classic took place at Morris Brown College in Atlanta, Georgia. Students from nine different Historically-Black Colleges and Universities (&#8220;HBCUs&#8221;) came to participate in a historic event highlighting the importance of targeting overlooked segments of the global chess community. It was a beautiful event from so many perspectives. Most everyone The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/11/reflections-on-the-1st-hbcu-chess-classic/\">Reflections on the 1st HBCU Chess Classic</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/11/reflections-on-the-1st-hbcu-chess-classic/",
+         "pubDate" : "Thu, 11 May 2023 22:52:00 +0000",
+         "title" : "Reflections on the 1st HBCU Chess Classic"
+      },
+      {
+         "description" : "The Shanghai Tigers defeated the Norway Gnomes with a score of 9-7 while the Gotham Knights overcame the Saint Louis Arch Bishops with an 8.5-7.5 margin in the first two Quarterfinals of the 2023 Pro Chess League. Even though both the teams look...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-1",
+         "pubDate" : "Thu, 11 May 2023 15:03:41 -0700",
+         "title" : "Shanghai Tigers, Gotham Knights Win Quarterfinals 1 & 2"
+      },
+      {
+         "description" : "Peter Svidler became the outright winner of the TePe Sigeman & Co tournament after collecting 4&frac12;/7 points. Svidler entered the final round sharing the lead with Abhimanyu Mishra. The 8-time Russian champion had black against top seed Gukesh, while Abhimanyu had white against an out-of-form Boris Gelfand. Svidler managed to hold a draw, while Gelfand won a tricky queen endgame - in a game lasting 125 moves! | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r7",
+         "pubDate" : "Thu, 11 May 2023 22:05:00 +0100",
+         "title" : "Svidler wins TePe Sigeman & Co, as Gelfand beats Abhimanyu"
+      },
+      {
          "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 4 live!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -850,14 +874,6 @@ news_feed (
          "title" : "Grand Chess Tour Romania 2023 opens in Bucharest"
       },
       {
-         "description" : "The new ChessBase Magazine #213 offers, among many other things, 48 extensively annotated games, from the WR Masters 2023 as well as the EICC 2023, and in the \"Special\" our authors present their favourite games of Vishy Anand. From the WR Masters tournament winner Levon Aronian as well as Vincent Keymer and Jan-Krzysztof Duda annotate their best games. In addition, Gukesh and Praggnanandhaa each present one of their games in the video! You can watch Aronian's analysis of his first round game with Praggnanandhaa in abbreviated form here - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-213-the-analysis",
-         "pubDate" : "Thu, 04 May 2023 16:00:00 +0100",
-         "title" : "ChessBase Magazine #213: \"The Analysis\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99992056.cms\" />India's long wait for a world champion may not be very far as chess wizard Viswanathan Anand hopes that \"some Indians\" will qualify for the Candidates Tournament next year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -874,7 +890,7 @@ news_feed (
          "title" : "28th Sigeman & Co 2023 - Games and Results"
       },
       {
-         "description" : " The 4th Stepan Avagyan Memorial takes place in Jermuk, Armenia 3rd-11th May 2023, Category 16. Players: Samuel Sevian, Andrey Esipenko, M. Amin Tabatabaei, Haik M. Martirosyan, Narayanan.S.L, Thai Dai Van Nguyen, Nodirbek Yakubboev, Frederik Svane, Robert Hovhannisyan and Artur Davtyan.",
+         "description" : " The 4th Stepan Avagyan Memorial tookplace in Jermuk, Armenia 3rd-11th May 2023, Category 16. Players: Samuel Sevian, Andrey Esipenko, M. Amin Tabatabaei, Haik M. Martirosyan, Narayanan.S.L, Thai Dai Van Nguyen, Nodirbek Yakubboev, Frederik Svane, Robert Hovhannisyan and Artur Davtyan. Sam Sevian won with 6/9. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/4th-stepan-avagyan-memorial-2023",
@@ -1418,14 +1434,6 @@ news_feed (
          "title" : "Ding and Nepomniachtchi all-square before final showdown"
       },
       {
-         "description" : "Following a devastating 12th-game loss, GM Ian Nepomniachtchi was able to stabilize and achieve a 38-move draw against GM Ding Liren in the 13th game of the 2023 FIDE World Championship on Thursday. Despite Nepomniachtchi playing with White, Carua...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-13",
-         "pubDate" : "Thu, 27 Apr 2023 05:21:00 -0700",
-         "title" : "Nepomniachtchi Stabilizes With Draw, Ding To Play White In Final Classical Game"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess Plc, a company that reinvents chess for 21st-century users, is listed on London Stock Exchange's main market under the ticker symbol 'CHSS'. 'That was the closest to CHESS as we could get given that ticker symbols have only four letters,' - said Ilya Merenzon, World Chess CEO. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-04-08_12-18-55.jpg\" width=\"1280\" height=\"839\" alt=\"\" /> </div> 'We are very excited to join LSE and become a new chapter as a public company,' added Merenzon: \"It means a new level of responsibility to the users, investors, and partners, and also a new level of transparency. We are keen to work with the ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1632,14 +1640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/quiet-draw-in-game-11-of-the-world-chess-championship",
          "pubDate" : "Mon, 24 Apr 2023 13:20:00 +0400",
          "title" : "Quiet draw in game 11 of the World Chess Championship - 11"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 9: 82-move draw after intense drama Match Score: 5-4 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 9Friday, 21 April 2023 After a fierce battle in round eight, both players appeared to have dialled down the intensity. Game nine was the calm after the storm, despite The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/\">2023 World Chess Championship: Game 9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/23/2023-world-chess-championship-game-9/",
-         "pubDate" : "Mon, 24 Apr 2023 03:52:14 +0000",
-         "title" : "2023 World Chess Championship: Game 9"
       },
       {
          "description" : "",
