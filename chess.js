@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 4 live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
+         "pubDate" : "Thu, 11 May 2023 18:45:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week live - Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><h2 dir=\"ltr\" style=\"text-align: center;\">Top Female Chess Players to Compete in Elite Cairns Cup</h2> <p dir=\"ltr\" style=\"text-align: center;\"><em>Saint Louis Chess Club to host International players to vie for one of the largest chess prize funds for women</em> <p dir=\"ltr\"> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Club%20Slideshow%20Banner-1025x475-01.png?itok=Z6Pkm_b9\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/top-female-chess-players-compete-elite-cairns-cup",
+         "pubDate" : "Thu, 11 May 2023 16:04:08 +0000",
+         "title" : "Top Female Chess Players to Compete in Elite Cairns Cup"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2378",
          "pubDate" : "Tue, 09 May 2023 22:28:41 +0000",
          "title" : "2023 Superbet Chess Classic: Day 4 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talk to Cristian Chirila after defeating Nepomniachtchi in Round 4 of the 2023 Superbet Chess Classic. 2023.05.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-victory-over-nepo-%E2%80%98very-satisfying%E2%80%99-r4-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YjaoEhoZJr4.jpg?itok=J2mDiMnU\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-victory-over-nepo-%E2%80%98very-satisfying%E2%80%99-r4-superbetchessclassic",
-         "pubDate" : "Tue, 09 May 2023 21:51:08 +0000",
-         "title" : "Caruana: Victory over Nepo 'Very Satisfying' | R4 #SuperbetChessClassic"
       },
       {
          "description" : "Winning a second game in a row, GM Fabiano Caruana gained his first classical victory vs. GM Ian Nepomniachtchi&#38;nbsp;in round four of the Superbet Classic Romania 2023. This win propels the American grandmaster into clear first.&#38;nbsp; GM Alireza...",
@@ -858,15 +866,7 @@ news_feed (
          "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
       },
       {
-         "description" : "Almost immediately after playing a gruelling three-week match, world champion Ding Liren and Ian Nepomniachtchi will play a 9-round single round-robin in Bucharest, the Superbet Chess Classic. The first event of this year's Grand Chess Tour, it will also see Richard Rapport, Ding's second in Astana, among the participants. A star-studded field includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-preview",
-         "pubDate" : "Thu, 04 May 2023 11:30:00 +0100",
-         "title" : "Ding, Nepo and Rapport to face off in Romania"
-      },
-      {
-         "description" : " The 28th Sigeman & Co tournament takes place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra.",
+         "description" : " The 28th Sigeman & Co tournament took place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra. Peter Svidler won the event with a score of 4.5/7. This is his first tournament victory since his 2017 Russian Championship win.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/28th-sigeman-co-2023",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2352",
          "pubDate" : "Fri, 21 Apr 2023 10:52:32 +0000",
          "title" : "Polish Championship: Bartosz So&#263ko and Michalina Rudzińska win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2351",
-         "pubDate" : "Thu, 20 Apr 2023 16:12:05 +0000",
-         "title" : "Ding drops crucial victory as Nepomniachtchi maintains lead in the FIDE World Chess Championship match"
       }
    ]
 }
