@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 17 is the leading software in the world of chess, and a huge number of professional players and club enthusiasts use it. It is our digital notebook, where we can organize all our chess-related work: openings, games databases, analyses, master games, training positions and much more. A review by FM Jorge Ram&iacute;rez for the \"Pe&oacute;n de Rey\" magazine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-review-jorge-ramirez",
+         "pubDate" : "Fri, 12 May 2023 11:55:52 +0100",
+         "title" : "ChessBase 17 review: \"A wide range of opportunities\""
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris presents a nice miniature which was played at the Baku Open. In the game White tried the Alapin (1.e4 c5 2.c3) against the Sicilian and won surprisingly quickly. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-nice-miniature",
+         "pubDate" : "Fri, 12 May 2023 11:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A nice miniature!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2354",
+         "pubDate" : "Fri, 12 May 2023 09:13:31 +0000",
+         "title" : "World Rapid Team Championship: Registration is open"
+      },
+      {
+         "description" : "National Under 17 Open Chess Championship - 2023, Organised by : District Chess Association, Jalandhar, Punjab at DAV Institute of Engineering and Technology, Kabir Nagar,Jalandhar,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-17-girls-chess-championship-2023-final-report/",
+         "pubDate" : "Fri, 12 May 2023 09:11:24 +0000",
+         "title" : "National Under 17 Chess Championship - 2023 :Final Report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2383",
+         "pubDate" : "Fri, 12 May 2023 08:35:28 +0000",
+         "title" : "FIDE Education Commission announces its 5th and 6th \"Preparation of Teachers\" courses"
+      },
+      {
          "description" : " The Russian and Chinese stars competed again just a week after their world title match, but at halfway in Romania they both trailed the in-form US champion Just eight days after their fateful title decider in Astana, China's victorious Ding Liren and his vanquished Russian opponent, Ian Nepomniachtchi, are trailing in Bucharest. The Superbet Classic, which finishes in the Romanian capital on Monday, is the first leg of the St Louis-organised <a href=\"https://grandchesstour.org/\" title=\"\">Grand Chess Tour</a> with seven of the current world top 10 taking part. Ding had considered withdrawal due to fatigue from the marathon series in Kazakhstan, and his first four games were halved before he ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r7",
          "pubDate" : "Thu, 11 May 2023 22:05:00 +0100",
          "title" : "Svidler wins TePe Sigeman & Co, as Gelfand beats Abhimanyu"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 4 live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Thu, 11 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 4"
       },
       {
          "description" : "<div class=\"body text-secondary\"><h2 dir=\"ltr\" style=\"text-align: center;\">Top Female Chess Players to Compete in Elite Cairns Cup</h2> <p dir=\"ltr\" style=\"text-align: center;\"><em>Saint Louis Chess Club to host International players to vie for one of the largest chess prize funds for women</em> <p dir=\"ltr\"> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Club%20Slideshow%20Banner-1025x475-01.png?itok=Z6Pkm_b9\" ",
@@ -114,6 +146,14 @@ news_feed (
          "title" : "Pro Chess League 2023 - LIVE"
       },
       {
+         "description" : "Now: It has been 26 years since Deep Blue defeated Kasparov. It is a long path for computer chess, which is in its best shape ever. Deep Blue versus Garry Kasparov&#xA0;was a pair of six-game&#xA0;chess&#xA0;matches between the&#xA0;13th World Chess Champion&#xA0;Garry Kasparov&#xA0;and an IBM&#xA0;supercomputer&#xA0;called&#xA0;Deep Blue. The first match was played in 1996, from 10-17 February in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/throwback-to-1997-deep-blue-defeats-kasparov-tweetoftheday/",
+         "pubDate" : "Thu, 11 May 2023 11:31:00 +0000",
+         "title" : "Throwback to 1997 - Deep Blue defeats Kasparov #TweetOftheDay"
+      },
+      {
          "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Jan-Krzysztof Duda from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/",
          "pubDate" : "Thu, 11 May 2023 09:56:52 +0000",
          "title" : "European School Chess Championship 2023 starts in Durres, Albania"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Maxime Vachier-Lagrave Richard Rapport from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-richard-rapport-superbet-chess-classic-2023/",
-         "pubDate" : "Thu, 11 May 2023 09:53:09 +0000",
-         "title" : "Maxime Vachier-Lagrave - Richard Rapport, Superbet Chess Classic 2023"
       },
       {
          "description" : "",
@@ -326,7 +358,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/german-chess-federation-faces-ruin",
-         "pubDate" : "Wed, 10 May 2023 07:02:54 -0700",
+         "pubDate" : "Wed, 10 May 2023 07:02:00 -0700",
          "title" : "German Chess Federation Faces Crisis As $550,000 Goes Missing"
       },
       {
@@ -858,14 +890,6 @@ news_feed (
          "title" : "Gukesh Heads Record $50,000 Junior Speed Chess Championship Line-up"
       },
       {
-         "description" : "Chess is not only a sport. Richard Rapport and Wei Yi are two of the most creative players in the circuit, and about six years ago they were also the two highest-rated junior players in the world. In a 4-game match organized in December 2016, Rapport defeated Wei in the Armageddon decider. The games, which took place in Yancheng, were predictably entertaining.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-rapport-wei-2016",
-         "pubDate" : "Thu, 04 May 2023 20:00:00 +0100",
-         "title" : "Throwback Thursday: Rapport beats Wei in creativity-filled match"
-      },
-      {
          "description" : "NASA literally took chess out of this world in April as the International Space Station (ISS), situated in space, played against the National Aeronautics and Space Administration&#39;s (NASA) Mission Control, on Earth. The first game occurred concurre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1378,14 +1402,6 @@ news_feed (
          "title" : "131st Internet-based FIDE Arbiters' Seminar"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2354",
-         "pubDate" : "Fri, 28 Apr 2023 14:13:31 +0000",
-         "title" : "World Rapid Team Championship: Registration is open"
-      },
-      {
          "description" : "After 13 played games at the World Chess Championship Match 2023 between Ian Nepomniachtchi and Ding Liren, the result is tied 6.5-6.5. New World Chess Champion will be determined in the last classical game of the match or in the playoffs. Ian Nepomniachtchi had a full-point lead before the last two-game portions. Ding Liren once again bounced back&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/world-chess-championship-match-tied-after-13-games/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1768,22 +1784,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-after-caruana-gambit-in-game-9",
          "pubDate" : "Fri, 21 Apr 2023 15:02:32 +0000",
          "title" : "Ding Liren survives scare after \"Caruana gambit\""
-      },
-      {
-         "description" : " These days I keep running into surprise chess fans. Today's encounter was a book shop in Sydney, after I had inadvertently stole $117 worth of books. I had purchased them the day before, but the credit card transaction had not been completed before I left the store. Realising my crime, I returned today to settle accounts. I described my purchases to a different manager than yesterday's, as \"chess and gardening books\". She immediately asked me if I had watched the previous nights game, referring to the current World Championship match. I said that I not, but was aware that Ding had failed to convert a promising position. \"Yes, he missed a few chances\" was her considered reply.<br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/another-surprise-encounter.html",
-         "pubDate" : "Fri, 21 Apr 2023 11:16:00 +0000",
-         "title" : "Another surprise encounter"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2352",
-         "pubDate" : "Fri, 21 Apr 2023 10:52:32 +0000",
-         "title" : "Polish Championship: Bartosz So&#263ko and Michalina Rudzińska win titles"
       }
    ]
 }
