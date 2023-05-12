@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/three-hours-of-catalan.html",
+         "pubDate" : "Fri, 12 May 2023 13:00:00 +0000",
+         "title" : "Three hours of Catalan"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Fri, 12 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "ChessBase 17 is the leading software in the world of chess, and a huge number of professional players and club enthusiasts use it. It is our digital notebook, where we can organize all our chess-related work: openings, games databases, analyses, master games, training positions and much more. A review by FM Jorge Ram&iacute;rez for the \"Pe&oacute;n de Rey\" magazine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-nice-miniature",
          "pubDate" : "Fri, 12 May 2023 11:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A nice miniature!"
+      },
+      {
+         "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/",
+         "pubDate" : "Fri, 12 May 2023 09:34:04 +0000",
+         "title" : "European Youth Chess Championship 2023 - Official invitation"
       },
       {
          "description" : "",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "Superbet Chess Classic 1: So gets Firouzja revenge"
       },
       {
-         "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/",
-         "pubDate" : "Sun, 07 May 2023 09:34:04 +0000",
-         "title" : "European Youth Chess Championship 2023 - Official invitation"
-      },
-      {
          "description" : "The inaugural event of the 2023 Grand Chess Tour, the Superbet Chess Classic, saw US grandmaster Wesley So grabbing the only win in Saturday's first round. So defeated Alireza Firouzja with the black pieces. Ian Nepomniachtchi could not get much with white against Ding Liren's second in the World Championship match, Richard Rapport, while Ding himself drew his game with white against Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/may/05/chess-ding-sets-world-title-landmark-and-is-ready-to-take-on-carlsen",
          "pubDate" : "Fri, 05 May 2023 07:00:18 +0000",
          "title" : "Chess: Ding sets world title landmark and is 'ready to take on Carlsen'"
-      },
-      {
-         "description" : "During the FIDE World Chess Championship, a number of side events took place to capitalize on the increased interest in chess. One of these events was a unique encounter between the ISS (International Space Station) and Mission Control. The first game ended on April 16. NASA shared the game with the public on social media. They also mentioned that a second game is underway. | Photo: NASA / Woody Hoburg",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-space-2023-match",
-         "pubDate" : "Thu, 04 May 2023 22:30:00 +0100",
-         "title" : "Chess in space during the 2023 World Championship match"
       },
       {
          "description" : "Chess.com&#38;rsquo;s premier online event showcasing the world&#38;rsquo;s top young talent, the Junior Speed Chess Championship, is back for 2023&#38;mdash;and now with a record $50,000 prize fund.&#38;nbsp; The fourth edition of this fast and furious tournam...",
@@ -1768,22 +1776,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-frustrated-by-game-9-draw-but-still-leads-the-world-championship-by-a-point",
          "pubDate" : "Fri, 21 Apr 2023 19:36:00 +0400",
          "title" : "Nepomniachtchi frustrated by game 9 draw but still leads the World Championship by a point - 9"
-      },
-      {
-         "description" : " China's world No 3 had a dominant position in game eight but missed several good chances before he drew in 45 moves with the Russian, who leads 5-4 with five games left Russia's Ian Nepomniachtchi, 32, has a fortunate 5-4 lead over China's Ding Liren, 30, as their €2mn world championship match in Astana, Kazakhstan, moves into the second half of its scheduled 14 games. Ding stood better in game seven before he collapsed under time pressure, with eight moves to make in 45 seconds, and had a dominating advantage <a href=\"https://www.chessgames.com/perl/chessgame?gid=2481459\" title=\"\">in game eight</a>, where Nepomniachtchi escaped defeat by a mixture of bluff and brilliant defence, aided by",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/apr/21/chess-ding-misses-wins-and-his-prep-leaks-as-nepomniachtchi-keeps-the-lead",
-         "pubDate" : "Fri, 21 Apr 2023 15:11:02 +0000",
-         "title" : "Chess: Ding misses wins and his prep leaks as Nepomniachtchi keeps the lead"
-      },
-      {
-         "description" : "Ian Nepomniachtchi suddenly whipped up a powerful attack midway through Game 9 of the FIDE World Championship match, but Ding Liren took some brave decisions and held on to make a draw after an endgame that stretched to six hours and 82 moves. Ian now leads 5:4 going into the final five games of the match, but Ding still has three games with the white pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-after-caruana-gambit-in-game-9",
-         "pubDate" : "Fri, 21 Apr 2023 15:02:32 +0000",
-         "title" : "Ding Liren survives scare after \"Caruana gambit\""
       }
    ]
 }
