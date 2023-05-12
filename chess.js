@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2385",
+         "pubDate" : "Fri, 12 May 2023 22:32:07 +0000",
+         "title" : "2023 Superbet Chess Classic: Day 6 Recap"
+      },
+      {
+         "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-2",
+         "pubDate" : "Fri, 12 May 2023 15:21:32 -0700",
+         "title" : "Tiebreak Win For Team MGD1 Vs. Chess Wizards; Yogis Prevail Over Blitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> You're invited to show off your bold chess moves in the inaugural Chesstival, an innovative chess tournament. Brought to you by NBA star Derrick Rose during NBA Summer League at Resorts World in Las Vegas. Competitors will include top athletes, musicians and other notable chess aficionados. <a href=\"https://twitter.com/ChesstivalDRose\">https://twitter.com/ChesstivalDRose</a><br /> <a href=\"https://chesstival.com/\">https://chesstival.com/</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/derrick-rose-presents-chesstival-promo",
+         "pubDate" : "Fri, 12 May 2023 21:53:43 +0000",
+         "title" : "Derrick Rose Presents: Chesstival | PROMO"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is a 12-player round-robin taking place in Nicosia, Cyprus on May 16-27, 2023. It forms the fourth and final stage of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nicosia-fide-womens-grand-prix-participants/",
+         "pubDate" : "Fri, 12 May 2023 20:20:00 +0000",
+         "title" : "Nicosia FIDE Women's Grand Prix - Participants"
+      },
+      {
          "description" : "Grandmaster Andr&aacute;s Adorj&aacute;n died yesterday after a long illness. He was the runner-up at the 1969 World Junior Championship behind Anatoly Karpov, and reached the quarterfinals of the Candidates Matches in the 1979-1981 World Championship cycle. As a coach, he worked with Garry Kasparov and Peter Leko, among others. Andr&aacute;s Adorj&aacute;n was 73 years old. | Photo: Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/andras-adorjan-1950-2023",
          "pubDate" : "Fri, 12 May 2023 21:15:00 +0100",
          "title" : "Andr&aacute;s Adorj&aacute;n (1950-2023)"
+      },
+      {
+         "description" : "The Danish Blitz Championship 2023 will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Filip Boe Olsen, Jesper S&#xF8;nderg&#xE5;rd Thybo, Rasmus Skytte and Steen Fedder. More []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danish-blitz-championship-2023-live/",
+         "pubDate" : "Fri, 12 May 2023 19:40:00 +0000",
+         "title" : "Danish Blitz Championship 2023 - LIVE"
       },
       {
          "description" : "The Danish Blitz Championship 2023 will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Filip Boe Olsen, Jesper S&#xF8;nderg&#xE5;rd Thybo, Rasmus Skytte and Steen Fedder.Chessdom.com will []",
@@ -258,22 +298,6 @@ news_feed (
          "title" : "Kazakhstan to host inaugural FIDE World Schools Team Championship"
       },
       {
-         "description" : "The XIV Women's Continental Chess Championship of the Americas 2023 is taking place from 07-12 May 2023 in Havana, Cuba. The time control is 90 minutes with a 30-second increment starting from move one. It is is a 9-round Swiss tournament with particiaption of Deysi Cori T., Lisandra Teresa Ordaz Valdes, Yaniela Forgas Moreno, Candela []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xiv-womens-continental-chess-championship-of-the-americas-2023-live/",
-         "pubDate" : "Thu, 11 May 2023 13:10:00 +0000",
-         "title" : "XIV Women's Continental Chess Championship of the Americas 2023 - LIVE"
-      },
-      {
-         "description" : "The XIV Women's Continental Chess Championship of the Americas 2023 is taking place from 07-12 May 2023 in Havana, Cuba. The time control is 90 minutes with a 30-second increment starting from move one. It is is a 9-round Swiss tournament with particiaption of Deysi Cori T., Lisandra Teresa Ordaz Valdes, Yaniela Forgas Moreno, Candela []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xiv-womens-continental-chess-championship-of-the-americas-2023/",
-         "pubDate" : "Thu, 11 May 2023 12:50:00 +0000",
-         "title" : "XIV Women's Continental Chess Championship of the Americas 2023"
-      },
-      {
          "description" : "In the World Chess Championship, which still was running while this article was written but will be over when you read it, Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that kind of checkmate was used in endgame studies. | Photo: Midjourney AI",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-fan-vlad-coach-%E2%80%98adult-improvers%E2%80%99-r1-superbetchessclassic",
          "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
          "title" : "Chess Fan Vlad: Coach of 'Adult Improvers' | R1 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Ding in Round 5 of the 2023 Superbet Chess Classic. 2023.05.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-beats-%E2%80%98easier%E2%80%99-world-champion-ding-r5-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mawf1SUpZ7c.jpg?itok=7SB0mRmE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-beats-%E2%80%98easier%E2%80%99-world-champion-ding-r5-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
-         "title" : "Firouzja Beats 'Easier' World Champion Ding! | R5 #SuperbetChessClassic"
       },
       {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1440,14 +1456,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/",
          "pubDate" : "Fri, 28 Apr 2023 03:29:06 +0000",
          "title" : "2023 World Chess Championship: Game 12"
-      },
-      {
-         "description" : "GM Magnus Carlsen won&#39;t be the world champion starting next week, but he&#39;s still looking for new ways to grow the game of chess. On Thursday, Norway Chess announced their new joint venture called Pawn, together with Iterate, Norway&#39;s premier ventu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-creates-new-company-launches-fantasy-chess",
-         "pubDate" : "Thu, 27 Apr 2023 12:45:51 -0700",
-         "title" : "Magnus Carlsen Spearheads New Company, Launches Fantasy Chess App"
       },
       {
          "description" : "",
