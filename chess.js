@@ -2,6 +2,142 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Andr&aacute;s Adorj&aacute;n died yesterday after a long illness. He was the runner-up at the 1969 World Junior Championship behind Anatoly Karpov, and reached the quarterfinals of the Candidates Matches in the 1979-1981 World Championship cycle. As a coach, he worked with Garry Kasparov and Peter Leko, among others. Andr&aacute;s Adorj&aacute;n was 73 years old. | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andras-adorjan-1950-2023",
+         "pubDate" : "Fri, 12 May 2023 21:15:00 +0100",
+         "title" : "Andr&aacute;s Adorj&aacute;n (1950-2023)"
+      },
+      {
+         "description" : "The Danish Blitz Championship 2023 will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Filip Boe Olsen, Jesper S&#xF8;nderg&#xE5;rd Thybo, Rasmus Skytte and Steen Fedder.Chessdom.com will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danish-blitz-championship-2023/",
+         "pubDate" : "Fri, 12 May 2023 19:20:00 +0000",
+         "title" : "Danish Blitz Championship 2023"
+      },
+      {
+         "description" : "The Danish Rapid Championship will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Jonny Hector, Jesper S&#xF8;nderg&#xE5;rd Thybo, Andreas Skytte Hagen and Steen Fedder. More : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danish-rapid-championship-2023-live/",
+         "pubDate" : "Fri, 12 May 2023 19:20:00 +0000",
+         "title" : "Danish Rapid Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Danish Rapid Championship will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Jonny Hector, Jesper S&#xF8;nderg&#xE5;rd Thybo, Andreas Skytte Hagen and Steen Fedder.Chessdom.com will follow []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danish-rapid-championship-live/",
+         "pubDate" : "Fri, 12 May 2023 19:00:00 +0000",
+         "title" : "Danish Rapid Championship 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Bogdan Deac talks to Cristian Chirila after his draw with Giri in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/deac-just-try-play-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jkQFodo1jBs.jpg?itok=wqBdy3YK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/deac-just-try-play-r6-superbetchessclassic",
+         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
+         "title" : "Deac: Just Try to Play! | R6 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his draw with Ding in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-2-winning-eval-inhuman-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-3nF4JbJvXA.jpg?itok=qgN3QnDO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-2-winning-eval-inhuman-r6-superbetchessclassic",
+         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
+         "title" : "Wesley So: -2 Winning Eval! Inhuman! | R6 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his draw with Caruana in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-nc4-cold-shower-fabi-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sAcLA5v2kiA.jpg?itok=OYatH7u9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-nc4-cold-shower-fabi-r6-superbetchessclassic",
+         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
+         "title" : "Firouzja: Nc4? a Cold Shower for Fabi | R6 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-8-superbetchessclassic-grandchesst",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-8-superbetchessclassic-grandchesstour",
+         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 8 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-9-superbetchessclassic-grandchesst",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-9-superbetchessclassic-grandchesstour",
+         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 9 | #SuperbetChessClassic #GrandChessTour"
+      },
+      {
+         "description" : "The 2023 National Elementary (K-6) Championship is a 7-round Swiss system tournament to decide the American Elementary School champions. There K-1, K-3, K-5 and K-6 sections. The event will take place at the Baltimore convention center from 12-14 May 2023. and will be with participation of Alexander Soll, Nathan Yan, Aditeya Das, Jesse Han, Gabe []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-national-elementary-k-6-championship-live/",
+         "pubDate" : "Fri, 12 May 2023 18:40:00 +0000",
+         "title" : "2023 National Elementary (K-6) Championship - LIVE"
+      },
+      {
+         "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Hjorvar Steinn Gretarsson, Hannes Stefansson, Henrik Danielsen, Vignir []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/icelandic-championship-2023-live/",
+         "pubDate" : "Fri, 12 May 2023 18:20:00 +0000",
+         "title" : "Icelandic Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament . Chessdom.com will follow daily the live games. More : Superbet []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/icelandic-championship-2023/",
+         "pubDate" : "Fri, 12 May 2023 18:00:00 +0000",
+         "title" : "Icelandic Championship 2023"
+      },
+      {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 5 live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
+         "pubDate" : "Fri, 12 May 2023 18:45:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week live - Day 5"
+      },
+      {
+         "description" : "The Women&#x2019;s Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-winners-group/",
+         "pubDate" : "Fri, 12 May 2023 17:40:00 +0000",
+         "title" : "Armageddon Championship Series Women's Week -Winners Group"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2384",
+         "pubDate" : "Fri, 12 May 2023 17:39:09 +0000",
+         "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
+      },
+      {
+         "description" : "The Women&#x2019;s Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-losers-group/",
+         "pubDate" : "Fri, 12 May 2023 17:23:18 +0000",
+         "title" : "Armageddon Championship Series Women's Week - Losers Group"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Superbet Foundation Vice President Gabriel Petrescu talks to Cristian Chirila during Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet%E2%80%99s-petrescu-kids-asked-kasparov-about-his-emotions-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9nDxH5t-7vM.jpg?itok=1T0GlTSM\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet%E2%80%99s-petrescu-kids-asked-kasparov-about-his-emotions-r6-superbetchessclassic",
+         "pubDate" : "Fri, 12 May 2023 15:53:26 +0000",
+         "title" : "Superbet's Petrescu: Kids Asked Kasparov about his Emotions | R6 #SuperbetChessClassic"
+      },
+      {
          "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -138,14 +274,6 @@ news_feed (
          "title" : "XIV Women's Continental Chess Championship of the Americas 2023"
       },
       {
-         "description" : "The Czech Championship is taking place from 9&#x2013;17 May 2023 in Byst&#x159;ice nad Pern&#x161;tejnem, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of David Navara, Vlastimil Babula, Jiri Stocek, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-championship-2023-live/",
-         "pubDate" : "Thu, 11 May 2023 12:30:00 +0000",
-         "title" : "Czech Championship 2023 - LIVE"
-      },
-      {
          "description" : "In the World Chess Championship, which still was running while this article was written but will be over when you read it, Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that kind of checkmate was used in endgame studies. | Photo: Midjourney AI",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,68 +282,12 @@ news_feed (
          "title" : "Study of the month - Ding's WCC game 6 checkmate pattern in endgame studies"
       },
       {
-         "description" : "The Czech Championship is an 10-player round-robin tournament taking place from 9&#x2013;17 May 2023 in Byst&#x159;ice nad Pern&#x161;tejnem, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the live games. More : Czech Amateur Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-championship-2023/",
-         "pubDate" : "Thu, 11 May 2023 12:10:00 +0000",
-         "title" : "Czech Championship 2023"
-      },
-      {
-         "description" : "The 2023 Pro Chess League is a $150,000 team tournament taking place on chess.com. The event features 16 teams with participation of&#160;Magnus Carlsen, Hikaru Nakamura,&#160;Fabiano Caruana,&#160;Anish Giri&#160;and other world top players. The teams will compete in an elimination Swiss played over five weeks, followed by an eight-team single-elimination playoff. At the end of the third []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pro-chess-league-2023-live/",
-         "pubDate" : "Thu, 11 May 2023 11:40:00 +0000",
-         "title" : "Pro Chess League 2023 - LIVE"
-      },
-      {
-         "description" : "Now: It has been 26 years since Deep Blue defeated Kasparov. It is a long path for computer chess, which is in its best shape ever. Deep Blue versus Garry Kasparov&#xA0;was a pair of six-game&#xA0;chess&#xA0;matches between the&#xA0;13th World Chess Champion&#xA0;Garry Kasparov&#xA0;and an IBM&#xA0;supercomputer&#xA0;called&#xA0;Deep Blue. The first match was played in 1996, from 10-17 February in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/throwback-to-1997-deep-blue-defeats-kasparov-tweetoftheday/",
-         "pubDate" : "Thu, 11 May 2023 11:31:00 +0000",
-         "title" : "Throwback to 1997 - Deep Blue defeats Kasparov #TweetOftheDay"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ian Nepomniachtchi Jan-Krzysztof Duda from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-jan-krzysztof-duda-superbet-chess-classic-2023/",
-         "pubDate" : "Thu, 11 May 2023 11:00:00 +0000",
-         "title" : "Ian Nepomniachtchi - Jan-Krzysztof Duda, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Fabiano Caruana Alireza Firouzja from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-alireza-firouzja-superbet-chess-classic-2023/",
-         "pubDate" : "Thu, 11 May 2023 10:45:00 +0000",
-         "title" : "Fabiano Caruana - Alireza Firouzja, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Ding Liren Wesley So from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-wesley-so-superbet-chess-classic-2023/",
-         "pubDate" : "Thu, 11 May 2023 10:25:00 +0000",
-         "title" : "Ding Liren - Wesley So, Superbet Chess Classic 2023"
-      },
-      {
          "description" : "On Wednesday, 18 months after playing his last classical chess tournament, GM Peter Svidler won the 28th edition of the TePe Sigeman &#38;amp; Co Chess Tournament in Malmo, Sweden. The 46-year-old Russian GM drew his final round game and no tiebreak w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/peter-svidler-wins-2023-tepe-sigeman-chess-tournament",
          "pubDate" : "Thu, 11 May 2023 03:16:00 -0700",
          "title" : "After 18 Months Without Classical Chess Peter Svidler Wins TePe Sigeman"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Bogdan-Daniel Deac Anish Giri from round 6 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Maxime Vachier-Lagrave Richard Rapport / Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bogdan-daniel-deac-anish-giri-superbet-chess-classic-2023/",
-         "pubDate" : "Thu, 11 May 2023 10:10:00 +0000",
-         "title" : "Bogdan-Daniel Deac - Anish Giri, Superbet Chess Classic 2023"
       },
       {
          "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/\">Read More &#187;</a></span>",
@@ -314,46 +386,6 @@ news_feed (
          "title" : "Firouzja Beats 'Easier' World Champion Ding! | R5 #SuperbetChessClassic"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after defeating Nepomniachtchi in Round 5 of the 2023 Superbet Chess Classic. 2023.05.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-comeback-beat-nepo-r5-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i-mfFRs051c.jpg?itok=E9AaPiWS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-comeback-beat-nepo-r5-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
-         "title" : "MVL Comeback to Beat Nepo! | R5 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.13<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-7-superbetchessclassic-grandchesstour",
-         "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 7 | #SuperbetChessClassic #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Superbet Chairman Hans-Holger Albrecht talks to Cristian Chirila during Round 5 of the 2023 Superbet Chess Classic. 2023.05.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chair-fair-game-outsmart-your-competitor-r5-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UD-nUDqp6qY.jpg?itok=6ioW6vfk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chair-fair-game-outsmart-your-competitor-r5-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 15:52:09 +0000",
-         "title" : "Superbet Chair: In a Fair Game, Outsmart Your Competitor | R5 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players about their relationship with AI, like ChatGPT. This aired during Round 5. 2023.05.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-do-you-use-artificial-intelligence-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7z5Toao_2Bo.jpg?itok=CLFY92yv\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-do-you-use-artificial-intelligence-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 15:52:09 +0000",
-         "title" : "2023 Superbet Chess Classic: Do You Use Artificial Intelligence? #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Cristian Chirila after his draw with Caruana in Round 5 of the 2023 Superbet Chess Classic. 2023.05.10<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-experience-so-far-%E2%80%98-bit-annoying%E2%80%99-r5-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_SPh7Utt7Lw.jpg?itok=xJUeEvSs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-experience-so-far-%E2%80%98-bit-annoying%E2%80%99-r5-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 15:52:09 +0000",
-         "title" : "Duda: Experience So Far 'A Bit Annoying' | R5 #SuperbetChessClassic"
-      },
-      {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -392,14 +424,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-26-29th-may.html",
          "pubDate" : "Wed, 10 May 2023 13:16:00 +0000",
          "title" : "2023 ACT Chess Championship 26-29th May"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess fans Ana Sovarel &amp; Eliza Ilie talk to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. This aired during Round 4. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fans-eliza-ana-ian-nepo-will-win-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H1do7fsuu9w.jpg?itok=SxGrEwNs\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-fans-eliza-ana-ian-nepo-will-win-r1-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 12:52:00 +0000",
-         "title" : "Chess Fans Eliza & Ana: Ian Nepo will win! | R1 #SuperbetChessClassic"
       },
       {
          "description" : "",
@@ -864,22 +888,6 @@ news_feed (
          "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-for-indian-diaspora/",
          "pubDate" : "Fri, 05 May 2023 11:21:13 +0000",
          "title" : "Online Senior National Arbiter Seminar & Examination for Indian Diaspora"
-      },
-      {
-         "description" : "Kazakhstan had a blast with chess events throughout the whole of April. Not only the World Match (7 - 30 April) was and still is shaking the chess community, but many high-level international and national side events took place in Astana, the country's capital. A great number of chess events and personalities have come and gone, but Kazakhstan has a hidden treasure at home: a 9-year-old girl, Delilah Sadvakassova, a celebrated chess influencer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/delightful-delilah-the-chess-influencer",
-         "pubDate" : "Fri, 05 May 2023 12:00:00 +0100",
-         "title" : "Delightful Delilah, Chess Influencer"
-      },
-      {
-         "description" : "This weekend the Grand Chess Tour starts with the Superbet Chess Classic in Bucharest. Eduard Frey takes a look at the great chess history of the Romanian capital. | Photo: Panoramic view of the city centre of Bucharest - University Square with the University of Bucharest building on the right, the National Theatre on the left and the Palace of Parliament on the far right in the background. | Photo: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-superbet-chess-classic-starts-a-chess-history-of-bucharest",
-         "pubDate" : "Fri, 05 May 2023 10:00:00 +0100",
-         "title" : "The Superbet Chess Classic starts: A Chess History of Bucharest"
       },
       {
          "description" : " China's new world champion became the first since 1886 to lead the title match only in the final game, while the Norwegian implied he will play fewer classical tournaments Ding Liren began his reign as the 17th world chess champion by setting a new record for the 49 title matches in the historic competition dating back to 1886. The modest 30-year-old was the first player ever to win the crown leading only in the final game, defeating Ian Nepomniachtchi in their fourth rapid tie-breaker following their 7-7 score in the regular classical series. Ding also did it with a defining move. His 46&hellip;Rg6!, boldly playing for the win by self-pinning his rook, his second most powerful piece, again",
@@ -1752,30 +1760,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-vs-poker/",
          "pubDate" : "Sat, 22 Apr 2023 09:53:41 +0000",
          "title" : "Chess vs. poker"
-      },
-      {
-         "description" : " We'll end our examination of the pin this week by looking at Black's best ideas regarding White's treatment of the pin. Black's seeming good pin has one major problem, it can be completely ignored. White's Knight on f3 can ignore the Black Bishop on g4, as we saw last week. Black's biggest problem was his <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety/\">A Foundation for Beginners Ninety</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety/",
-         "pubDate" : "Fri, 21 Apr 2023 17:31:21 +0000",
-         "title" : "A Foundation for Beginners Ninety"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2353",
-         "pubDate" : "Fri, 21 Apr 2023 16:45:10 +0000",
-         "title" : "Nepomniachtchi maintains the lead following a draw in the longest game of the match"
-      },
-      {
-         "description" : " Ian Nepomniachtchi showed clear disappointment at the conclusion of the drawn game 9 of the World Chess Championship in Astana, Kazakhstan. The players have changed opening variations every day and today Ding Liren played the Berlin Defence to the Ruy Lopez. This option has been one of the most common choices in high level chance for a long time now, it's solid and black can research deeply. Nepomniachtchi chose 4.d3 and Ding's preparation seemed to run quite deep. 15....Qc7 was a very interesting idea but Ding did not follow it up correctly, 17...Rb8?! whilst not horrible is the move that started to cause difficulties, the pawn sacrifice 17...Bf8 was best (it's so sound it's even doubtful ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-frustrated-by-game-9-draw-but-still-leads-the-world-championship-by-a-point",
-         "pubDate" : "Fri, 21 Apr 2023 19:36:00 +0400",
-         "title" : "Nepomniachtchi frustrated by game 9 draw but still leads the World Championship by a point - 9"
       }
    ]
 }
