@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-1",
-         "pubDate" : "Thu, 11 May 2023 15:03:41 -0700",
+         "pubDate" : "Thu, 11 May 2023 15:03:00 -0700",
          "title" : "Shanghai Tigers, Gotham Knights Win Quarterfinals 1 & 2"
       },
       {
