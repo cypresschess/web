@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Russian and Chinese stars competed again just a week after their world title match, but at halfway in Romania they both trailed the in-form US champion Just eight days after their fateful title decider in Astana, China's victorious Ding Liren and his vanquished Russian opponent, Ian Nepomniachtchi, are trailing in Bucharest. The Superbet Classic, which finishes in the Romanian capital on Monday, is the first leg of the St Louis-organised <a href=\"https://grandchesstour.org/\" title=\"\">Grand Chess Tour</a> with seven of the current world top 10 taking part. Ding had considered withdrawal due to fatigue from the marathon series in Kazakhstan, and his first four games were halved before he ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/may/12/chess-caruana-leads-in-bucharest-while-ding-and-nepomniachtchi-falter",
+         "pubDate" : "Fri, 12 May 2023 07:00:48 +0000",
+         "title" : "Chess: Caruana leads in Bucharest while Ding and Nepomniachtchi falter"
+      },
+      {
+         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
+         "pubDate" : "Fri, 12 May 2023 07:00:18 +0000",
+         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
+      },
+      {
          "description" : " On April 22nd, the 1st HBCU Classic took place at Morris Brown College in Atlanta, Georgia. Students from nine different Historically-Black Colleges and Universities (&#8220;HBCUs&#8221;) came to participate in a historic event highlighting the importance of targeting overlooked segments of the global chess community. It was a beautiful event from so many perspectives. Most everyone The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/11/reflections-on-the-1st-hbcu-chess-classic/\">Reflections on the 1st HBCU Chess Classic</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1592,14 +1608,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/24/derrick-rose-hosts-chesstival-in-las-vegas/",
          "pubDate" : "Mon, 24 Apr 2023 13:27:52 +0000",
          "title" : "Derrick Rose hosting \"Chesstival\" in Las Vegas"
-      },
-      {
-         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
-         "pubDate" : "Mon, 24 Apr 2023 12:37:18 +0000",
-         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
       {
          "description" : "",
