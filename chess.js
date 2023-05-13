@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There was no lack of entertaiment in round 6 of the Superbet Chess Classic, despite all five games finishing drawn. Fabiano Caruana could have extended his lead, but failed to take down Alireza Firouzja from an advantageous position. Similarly, Wesley So got a clear edge against Ding Liren, but first missed a few tactical chances and then decided to force a threefold repetition from a still superior position. Thus, Caruana remains as the sole leader in Bucharest with three rounds to go. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r6",
+         "pubDate" : "Sat, 13 May 2023 03:15:00 +0100",
+         "title" : "Superbet Classic: Hard-fought draws, Caruana and So miss chances"
+      },
+      {
+         "description" : "As the Superbet Classic Romania 2023 nears the home stretch, GM Fabiano Caruana continues to lead despite blundering away his winning chances at a critical moment vs. GM Alireza Firouzja in round six. With this stroke of luck, Firouzja remains in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-6",
+         "pubDate" : "Fri, 12 May 2023 19:04:00 -0700",
+         "title" : "A Day Of Missed Opportunities: Caruana, So Spoil Nearly Winning Positions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-2",
-         "pubDate" : "Fri, 12 May 2023 15:21:32 -0700",
+         "pubDate" : "Fri, 12 May 2023 15:21:00 -0700",
          "title" : "Tiebreak Win For Team MGD1 Vs. Chess Wizards; Yogis Prevail Over Blitz"
       },
       {
@@ -184,14 +200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/three-hours-of-catalan.html",
          "pubDate" : "Fri, 12 May 2023 13:00:00 +0000",
          "title" : "Three hours of Catalan"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Fri, 12 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "ChessBase 17 is the leading software in the world of chess, and a huge number of professional players and club enthusiasts use it. It is our digital notebook, where we can organize all our chess-related work: openings, games databases, analyses, master games, training positions and much more. A review by FM Jorge Ram&iacute;rez for the \"Pe&oacute;n de Rey\" magazine.",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
          "pubDate" : "Fri, 28 Apr 2023 18:00:00 +0100",
          "title" : "Interview with Ruslan Ponomariov"
-      },
-      {
-         "description" : "Days before he officially abdicates his title, GM Magnus Carlsen shared some fascinating thoughts about the 2023 FIDE World Championship. While GM Ian Nepomniachtchi and GM Ding Liren have been battling it out in Astana to decide who succeeds hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-on-nepo-vs-ding",
-         "pubDate" : "Fri, 28 Apr 2023 09:05:00 -0700",
-         "title" : "World Champion Carlsen On 'Shocking' Ding Choice, Risky Play, WC Format, & More"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level Match Score: 6&frac12;-6&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 13Thursday, 27 April 2023 After a titanic struggle in Game 12, this game had tremendous tension, but the penultimate Game 13 ended rather peacefully. It was The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
