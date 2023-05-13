@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Andrzej Filipowicz is one of the most interesting chess personalities in the world. He has been a chess player, arbiter, organizer, editor and writer, as well as a civil engineer specializing in steel structures. Endowed with a strong personality, clear intelligence, well-defined convictions and a curious sense of humour, he is turning 85 today, on 13 May 2023. Uvencio Blanco conducted a lengthy interview with the Polish chess polymath.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrzej-filipowicz-interview-uvencio-blanco",
+         "pubDate" : "Sat, 13 May 2023 13:00:00 +0100",
+         "title" : "An interview with Andrzej Filipowicz, a Polish chess polymath"
+      },
+      {
+         "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-2",
+         "pubDate" : "Sat, 13 May 2023 02:57:00 -0700",
+         "title" : "Tiebreak Win For Team MGD1 Vs. Chess Wizards; Yogis Prevail Over Blitz"
+      },
+      {
+         "description" : "And Lo! Did we journey unto the City of Prague in the land of the Checks and thence to the Synagogue of the Spanish Hebrews, in their ancient ghetto of that habitation? Our purpose was to harken unto the songs of the Jewish troubadours&hellip;va pensiero, Shalom Alechem &hellip;but amongst the time honoured strains of the inhabitants of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/shalom-alekhine-ding-joins-the-chess-greats/",
+         "pubDate" : "Sat, 13 May 2023 09:40:26 +0000",
+         "title" : "Shalom Alekhine: Ding joins the chess greats"
+      },
+      {
+         "description" : "In this video, Svitlana puts you to the test by dissecting three splendid game examples. So, sharpen your strategic thinking and prepare to dive into the world of clever tactics and mind-bending manoeuvres because it is all about creativity! Let the games begin!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-test-your-creativity",
+         "pubDate" : "Sat, 13 May 2023 10:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Test your creativity"
+      },
+      {
          "description" : "Black's king on h7, heavy pieces in the open g-file - White had deliberately gone for the diagram position after 21...Bh8. But now it's time to take the bull by the horns - your move!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ol",
          "pubDate" : "Sat, 13 May 2023 09:00:00 +0100",
          "title" : "Ol&eacute;!"
+      },
+      {
+         "description" : " We'll continue our examination of beginner's tactics. This week we're going to look at a tactic called the skewer. Is this an easy tactic to learn? Well, yes and no! If you have read my previous articles on the pin, you already know the underlying dynamics of this tactic. While similar to a pin, there's <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-one/\">A Foundation for Beginners Ninety One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-one/",
+         "pubDate" : "Sat, 13 May 2023 07:45:07 +0000",
+         "title" : "A Foundation for Beginners Ninety One"
+      },
+      {
+         "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Hjorvar Steinn Gretarsson, Hannes Stefansson, Henrik Danielsen, Vignir []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/icelandic-championship-2023-live/",
+         "pubDate" : "Sat, 13 May 2023 06:20:00 +0000",
+         "title" : "Icelandic Championship 2023 - LIVE"
       },
       {
          "description" : "Grandmaster Leon Luke Mendonca beat compatriot International Master Prraneeth Vuppala in the final round to become champion in the strongest Baku Open at Azerbaijan. With",
@@ -40,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2385",
          "pubDate" : "Fri, 12 May 2023 22:32:07 +0000",
          "title" : "2023 Superbet Chess Classic: Day 6 Recap"
-      },
-      {
-         "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-2",
-         "pubDate" : "Fri, 12 May 2023 15:21:00 -0700",
-         "title" : "Tiebreak Win For Team MGD1 Vs. Chess Wizards; Yogis Prevail Over Blitz"
       },
       {
          "description" : "<div class=\"body text-secondary\"> You're invited to show off your bold chess moves in the inaugural Chesstival, an innovative chess tournament. Brought to you by NBA star Derrick Rose during NBA Summer League at Resorts World in Las Vegas. Competitors will include top athletes, musicians and other notable chess aficionados. <a href=\"https://twitter.com/ChesstivalDRose\">https://twitter.com/ChesstivalDRose</a><br /> <a href=\"https://chesstival.com/\">https://chesstival.com/</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
@@ -154,28 +194,12 @@ news_feed (
          "title" : "2023 National Elementary (K-6) Championship - LIVE"
       },
       {
-         "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Hjorvar Steinn Gretarsson, Hannes Stefansson, Henrik Danielsen, Vignir []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/icelandic-championship-2023-live/",
-         "pubDate" : "Fri, 12 May 2023 18:20:00 +0000",
-         "title" : "Icelandic Championship 2023 - LIVE"
-      },
-      {
          "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament . Chessdom.com will follow daily the live games. More : Superbet []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/icelandic-championship-2023/",
          "pubDate" : "Fri, 12 May 2023 18:00:00 +0000",
          "title" : "Icelandic Championship 2023"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 5 live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Fri, 12 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 5"
       },
       {
          "description" : "The Women&#x2019;s Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-liren-and-nepomniachtchi-back-in-action",
          "pubDate" : "Sat, 06 May 2023 07:41:17 +0000",
          "title" : "Ding Liren and Nepomniachtchi back in action"
-      },
-      {
-         "description" : "With back-to-back wins over Jorden van Foreest and Vincent Keymer, Dommaraju Gukesh grabbed the sole lead at the TePe Sigeman & Co tournament in Malm&ouml;. Three players stand a half point back: local hero Nils Grandelius, 8-time Russian champion Peter Svidler and 14-year-old Abhimanyu Mishra. Gukesh will play black in the next two rounds, first against Grandelius and then against Arjun Erigaisi. | Photos: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r2",
-         "pubDate" : "Fri, 05 May 2023 23:10:00 +0100",
-         "title" : "TePe Sigeman: Gukesh off to a fiery start"
       },
       {
          "description" : "Eight players won the Olympic Esports Series 2023 Preliminaries after accumulating three match wins on Thursday and Friday: GMs Shant Sargsyan, Samvel Ter-Sahakyan, Oleksandr Bortnyk, Alexey Sarana, Bassem Amin, Maksim Chigaev, Ngoc Truong Son Ngu...",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/lichess-101-a-comprehensive-grandmaster-guide/",
          "pubDate" : "Sat, 22 Apr 2023 12:00:00 +0000",
          "title" : "Lichess 101: A Comprehensive Grandmaster Guide"
-      },
-      {
-         "description" : "Readers of my columns in TheArticle will have observed my hitherto thinly disguised disdain for the so-called Chess , currently in progress in Astana, Kazakhstan. Without the reigning world champion, Magnus Carlsen, this contest is a striking example of Hamlet without the Prince syndrome. Early games confirmed my scepticism, with Ding's loss in Game 2 falling []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-vs-poker/",
-         "pubDate" : "Sat, 22 Apr 2023 09:53:41 +0000",
-         "title" : "Chess vs. poker"
       }
    ]
 }
