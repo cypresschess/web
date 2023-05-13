@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Black's king on h7, heavy pieces in the open g-file - White had deliberately gone for the diagram position after 21...Bh8. But now it's time to take the bull by the horns - your move!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ol",
+         "pubDate" : "Sat, 13 May 2023 09:00:00 +0100",
+         "title" : "Ol&eacute;!"
+      },
+      {
+         "description" : "Grandmaster Leon Luke Mendonca beat compatriot International Master Prraneeth Vuppala in the final round to become champion in the strongest Baku Open at Azerbaijan. With",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-leon-luke-mendonca-for-winning-baku-open-2023/",
+         "pubDate" : "Sat, 13 May 2023 06:02:08 +0000",
+         "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
+      },
+      {
          "description" : "There was no lack of entertaiment in round 6 of the Superbet Chess Classic, despite all five games finishing drawn. Fabiano Caruana could have extended his lead, but failed to take down Alireza Firouzja from an advantageous position. Similarly, Wesley So got a clear edge against Ding Liren, but first missed a few tactical chances and then decided to force a threefold repetition from a still superior position. Thus, Caruana remains as the sole leader in Bucharest with three rounds to go. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-preliminaries",
          "pubDate" : "Fri, 05 May 2023 13:48:10 -0700",
          "title" : "8 Grandmasters Win Olympic Esports Series Preliminaries"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King celebrates the victory of Ding Liren by looking at a particular aspect of his style: his ability to whip up an unexpected attack and spot a checkmating pattern. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ding-the-merciless",
-         "pubDate" : "Fri, 05 May 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Ding the merciless"
       },
       {
          "description" : " The Superbet Chess Classic Romania takes place in Bucharest 6th to 16th May 2023. This is the first leg of the Grand Chess tour. World Champion Ding Liren and Ian Nepomniachtchi are back in action almost straight after their match, Alireza Firouzja, Anish Giri, Fabiano Caruana, Wesley So, Richard Rapport, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Bogdan-Daniel Deac also play. Games at 1pm UK time except for the final round which is an hour earlier.",
