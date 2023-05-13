@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 6 live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
+         "pubDate" : "Sat, 13 May 2023 18:45:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week live - Day 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Wesley So in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-draws-quickly-vs-wesley%E2%80%99s-solid-catalan-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bVwxc2FjxBE.jpg?itok=huU8_PBE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-draws-quickly-vs-wesley%E2%80%99s-solid-catalan-r7-superbetchessclassic",
+         "pubDate" : "Sat, 13 May 2023 15:53:48 +0000",
+         "title" : "Caruana Draws Quickly vs. Wesley's Solid Catalan | R7 #SuperbetChessClassic"
+      },
+      {
+         "description" : " Adisa Banjoko has been busy even though the hip-hop chess icon retired the Hip-Hop Chess Federation in 2019. He has launched a new company called 64 Blocks, LLC. Many in The Chess Drum community may remember the Hip-Hop Chess Federation's beginnings in 2006. There was the historic Kings Invitational, the events featuring hip-hop and martial The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/\">Hip-Hop Chess icon Banjoko launches &#8220;64 Blocks&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/",
+         "pubDate" : "Sat, 13 May 2023 15:33:39 +0000",
+         "title" : "Hip-Hop Chess icon Banjoko launches \"64 Blocks\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -474,14 +498,6 @@ news_feed (
          "title" : "Chess Fan Berta: 'Almost Cried' When Nepo Lost WC match | R1 #SuperbetChessClassic"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Chess fan Vlad Ghita talks to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. This aired during Round 5. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fan-vlad-coach-%E2%80%98adult-improvers%E2%80%99-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jm8-sNqHmiE.jpg?itok=eY-RQVl2\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-fan-vlad-coach-%E2%80%98adult-improvers%E2%80%99-r1-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
-         "title" : "Chess Fan Vlad: Coach of 'Adult Improvers' | R1 #SuperbetChessClassic"
-      },
-      {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/regicide.html",
          "pubDate" : "Sat, 06 May 2023 13:34:00 +0000",
          "title" : "Regicide"
-      },
-      {
-         "description" : "D Gukesh made a fantastic start at 28th TePe Sigeman & Co Chess Tournament 2023 in Sweden. He destroyed Germany's No. 1 Vincent Keymer with a spectacular bishop sacrifice. This win takes the 16-year-old's live rating to his career highest at 2741, and elevates him to the World's No. 15. Listen to Sagar Shah of ChessBase India explain and enthuse over the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-did-this-vishy-anand",
-         "pubDate" : "Sat, 06 May 2023 14:00:00 +0100",
-         "title" : "Gukesh did this! - Vishy Anand"
       },
       {
          "description" : " The Step Chess Method is one of the most famous step-by-step methods for teaching and learning chess. In this article, I will explain what the Step Method is, tell you if it is worth it, and how you can get the most out of it. From Beginner To GM Thanks To Chess Step Method The [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/steps-method-explained/\">The Chess Step Method Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1690,14 +1698,6 @@ news_feed (
          "title" : "Forming ranks"
       },
       {
-         "description" : " Chess is an ultimate battle of the mind. Chicago's own Derrick Rose is now hosting a &#8220;Chesstival&#8221; event in Las Vegas. As a product of the hard-scrabble courts of Englewood, Rose knows a thing or two about battling. In the 2010-2011 season, he became the youngest MVP in history while helping to rejuvenate the Chicago The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/24/derrick-rose-hosts-chesstival-in-las-vegas/\">Derrick Rose hosting &#8220;Chesstival&#8221; in Las Vegas</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/24/derrick-rose-hosts-chesstival-in-las-vegas/",
-         "pubDate" : "Mon, 24 Apr 2023 13:27:52 +0000",
-         "title" : "Derrick Rose hosting \"Chesstival\" in Las Vegas"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1784,14 +1784,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-preparation-earns-a-relatively-comfortable-draw-with-black-in-world-championship-game-10",
          "pubDate" : "Sun, 23 Apr 2023 14:52:00 +0400",
          "title" : "Nepomniachtchi preparation earns a relatively comfortable draw with black in World Championship game 10 - 10"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, All Orissa Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at Hotel Apsara, Sambalpur Odisha from 21-22",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-sambalpur-odisha/",
-         "pubDate" : "Sat, 22 Apr 2023 16:59:54 +0000",
-         "title" : "Senior National Arbiter Seminar & Examination at Sambalpur ,Odisha"
       }
    ]
 }
