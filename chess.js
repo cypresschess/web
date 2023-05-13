@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2386",
+         "pubDate" : "Sat, 13 May 2023 15:07:14 +0000",
+         "title" : "Andras Adorjan (1950-2023)"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Richard Rapport Bogdan-Daniel Deac from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-bogdan-daniel-deac-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 13 May 2023 13:30:00 +0000",
+         "title" : "Richard Rapport - Bogdan-Daniel Deac, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Anish Giri Ding Liren from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-ding-liren-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 13 May 2023 13:10:00 +0000",
+         "title" : "Anish Giri - Ding Liren, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Wesley So Fabiano Caruana from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-fabiano-caruana-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 13 May 2023 12:50:00 +0000",
+         "title" : "Wesley So - Fabiano Caruana, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Sat, 13 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Ian Nepomniachtchi from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-ian-nepomniachtchi-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 13 May 2023 12:30:00 +0000",
+         "title" : "Alireza Firouzja - Ian Nepomniachtchi, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Maxime Vachier-Lagrave from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-maxime-vachier-lagrave-superbet-chess-classic-2023/",
+         "pubDate" : "Sat, 13 May 2023 12:11:07 +0000",
+         "title" : "Jan-Krzysztof Duda - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : " Every single time I thought I found an extremely sophisticated, &#8220;genius&#8221; solution to a simple problem, I was mistaken. I can recall dozens of games where I made silly mistakes simply because I wanted to be too smart. I quickly spotted the logical, obvious move, but then continued to calculate and found an &#8216;even smarter' [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-genius/\">Don't Be A Genius</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-genius/",
+         "pubDate" : "Sat, 13 May 2023 12:00:00 +0000",
+         "title" : "Don't Be A Genius"
+      },
+      {
          "description" : "Andrzej Filipowicz is one of the most interesting chess personalities in the world. He has been a chess player, arbiter, organizer, editor and writer, as well as a civil engineer specializing in steel structures. Endowed with a strong personality, clear intelligence, well-defined convictions and a curious sense of humour, he is turning 85 today, on 13 May 2023. Uvencio Blanco conducted a lengthy interview with the Polish chess polymath.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/andrzej-filipowicz-interview-uvencio-blanco",
          "pubDate" : "Sat, 13 May 2023 13:00:00 +0100",
          "title" : "An interview with Andrzej Filipowicz, a Polish chess polymath"
+      },
+      {
+         "description" : "‌Fabiano Caruana and Wesley So missed gilt-edged chances as all games were drawn in Round 6 of the Superbet Chess Classic in Bucharest. World Champion Ding Liren was fighting hard but might still have suffered a 2nd loss in a row if not for Wesley taking a draw by repetition. Caruana leads but would be much closer to overall victory if he'd beaten Alireza Firouzja. Instead a careless 41st move spoilt all his efforts.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-so-caruana-miss-wins",
+         "pubDate" : "Sat, 13 May 2023 11:47:30 +0000",
+         "title" : "Superbet Chess Classic 6: So & Caruana miss wins"
       },
       {
          "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
@@ -138,14 +210,6 @@ news_feed (
          "title" : "Danish Rapid Championship 2023 - LIVE"
       },
       {
-         "description" : "The Danish Rapid Championship will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Jonny Hector, Jesper S&#xF8;nderg&#xE5;rd Thybo, Andreas Skytte Hagen and Steen Fedder.Chessdom.com will follow []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danish-rapid-championship-live/",
-         "pubDate" : "Fri, 12 May 2023 19:00:00 +0000",
-         "title" : "Danish Rapid Championship 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Bogdan Deac talks to Cristian Chirila after his draw with Giri in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/deac-just-try-play-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jkQFodo1jBs.jpg?itok=wqBdy3YK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -186,44 +250,12 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Round 9 | #SuperbetChessClassic #GrandChessTour"
       },
       {
-         "description" : "The 2023 National Elementary (K-6) Championship is a 7-round Swiss system tournament to decide the American Elementary School champions. There K-1, K-3, K-5 and K-6 sections. The event will take place at the Baltimore convention center from 12-14 May 2023. and will be with participation of Alexander Soll, Nathan Yan, Aditeya Das, Jesse Han, Gabe []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-national-elementary-k-6-championship-live/",
-         "pubDate" : "Fri, 12 May 2023 18:40:00 +0000",
-         "title" : "2023 National Elementary (K-6) Championship - LIVE"
-      },
-      {
-         "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament . Chessdom.com will follow daily the live games. More : Superbet []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/icelandic-championship-2023/",
-         "pubDate" : "Fri, 12 May 2023 18:00:00 +0000",
-         "title" : "Icelandic Championship 2023"
-      },
-      {
-         "description" : "The Women&#x2019;s Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-winners-group/",
-         "pubDate" : "Fri, 12 May 2023 17:40:00 +0000",
-         "title" : "Armageddon Championship Series Women's Week -Winners Group"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2384",
          "pubDate" : "Fri, 12 May 2023 17:39:09 +0000",
          "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
-      },
-      {
-         "description" : "The Women&#x2019;s Week edition of the Armageddon Championship is taking place from 08-12 may 2023 in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. It is an 8-player double-elimination tournament with participation of Elisabeth Paehtz, Gunay Mammadzada, Alina Kashlinskaya, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Humpy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-championship-series-womens-week-losers-group/",
-         "pubDate" : "Fri, 12 May 2023 17:23:18 +0000",
-         "title" : "Armageddon Championship Series Women's Week - Losers Group"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Superbet Foundation Vice President Gabriel Petrescu talks to Cristian Chirila during Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet%E2%80%99s-petrescu-kids-asked-kasparov-about-his-emotions-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9nDxH5t-7vM.jpg?itok=1T0GlTSM\"",
@@ -888,14 +920,6 @@ news_feed (
          "link" : "https://www.thearticle.com/coronation-chess-charles-iii-edward-i-and-alfonso-the-wise/",
          "pubDate" : "Sat, 06 May 2023 11:46:29 +0000",
          "title" : "Coronation chess: Charles III, Edward I and Alfonso the Wise"
-      },
-      {
-         "description" : "In the Polugaevsky Variation Black's king remains in the centre for a long time, making any misstep on his part absolutely fatal. Thus after 13...Ra7? (diagram) White makes three powerful preparatory moves and then sets off for the checkmate finale - have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-very-special-najdorf-2",
-         "pubDate" : "Sat, 06 May 2023 09:00:00 +0100",
-         "title" : "A very special Najdorf"
       },
       {
          "description" : "Less than a week after Ding Liren became the 17th World Champion he's back in action today in Bucharest, Romania as he takes on Maxime Vachier-Lagrave in the first round of the Superbet Chess Classic. It's not just Ding making the trip from Astana, as Ian Nepomniachtchi faces Ding's second Richard Rapport. The line-up features 2022 Grand Chess Tour champion Alireza Firouzja as well as Fabiano Caruana, Anish Giri, Wesley So, Jan-Krzysztof Duda and local wildcard Bogdan-Daniel Deac.",
@@ -1768,22 +1792,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-sambalpur-odisha/",
          "pubDate" : "Sat, 22 Apr 2023 16:59:54 +0000",
          "title" : "Senior National Arbiter Seminar & Examination at Sambalpur ,Odisha"
-      },
-      {
-         "description" : " I've spent the last 3 days in Sydney, attending a CCLA meeting, buying and collecting books, and generally having a small break from Canberra. One book I picked up (courtesy of GM Ian Rogers) was the Australian Chess Championship Yearbook 1971-72. I have a few of these books (although not this one), and they are more than just a games collection. They often contain lots of extra information about chess clubs of the time, short biographies of players, and current rules and regulations. In this edition, there were the Swiss Pairing Rules for the 1971 Australian Championship. The most interesting feature was the ordering of players. This was as follows 1. Score, highest first 2. Colour differe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/an-old-manual-pairing-system.html",
-         "pubDate" : "Sat, 22 Apr 2023 14:08:00 +0000",
-         "title" : "An old manual pairing system"
-      },
-      {
-         "description" : " Lichess is a gift to the Chess community. This free website, beloved by millions of chess fans, has so much to offer. No matter if you hear of Lichess for the first time or use it daily, this guide will help you get the most out of this amazing free platform. I will explain in [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/lichess-101-a-comprehensive-grandmaster-guide/\">Lichess 101: A Comprehensive Grandmaster Guide</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/lichess-101-a-comprehensive-grandmaster-guide/",
-         "pubDate" : "Sat, 22 Apr 2023 12:00:00 +0000",
-         "title" : "Lichess 101: A Comprehensive Grandmaster Guide"
       }
    ]
 }
