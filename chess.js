@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U15 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hasan Huseyin&#xA0;Celik, Luka&#xA0;Kiladze, Tunar&#xA0;Davudov, Pehar, Melih Topuz Mirac, Ergit&#xA0;Ramaj, Alex&#xA0; Marjanovic, etc More : European School []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u15-european-school-championship-2023/",
+         "pubDate" : "Sat, 13 May 2023 22:50:00 +0000",
+         "title" : "U15 European School Championship 2023"
+      },
+      {
+         "description" : "The U17 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Huseyn&#xA0;Seyid, Metehan&#xA0;Ozen, Agil&#xA0;Israilov, Kelvin Kosta, Dmytro&#xA0;Biletskyy, Yurii&#xA0;Khrinovskyi, Ahmet&#xA0;Jusufi, etc. More : The tournament is separated in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u17-european-school-championship-2023/",
+         "pubDate" : "Sat, 13 May 2023 22:30:00 +0000",
+         "title" : "U17 European School Championship 2023"
+      },
+      {
+         "description" : "European School Chess Championship 2023 kicked off today in Durres, Albania with more than 200 players from 25 European federations.The Opening ceremony of the event was held shortly before the start of the first round with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Albanian Chess Federation and ECU Chief []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-chess-championship-2023-2/",
+         "pubDate" : "Sat, 13 May 2023 22:15:59 +0000",
+         "title" : "European School Chess Championship 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Giri discusses his game against recently crowned World Champion Ding Liren, taking advantage of fatigue players, and the many ways on NOT to win a tournament. 2023.05.13<br /> GrandChessTour.org TODAY&#039;S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. Wesley So<br /> (3.5) vs. Fabiano Caruana (4)<br /> Alireza Firouzja (3.5) vs. Ian Nepomniachtchi (2.5)<br /> Anish Giri (3) vs. Ding Liren (2.5)<br /> Jan-Krzysztof Duda (2.5) vs. Maxime Vachier-Lagrave (3)<br /> Richard Rapport (3.5) vs. Bogdan-Daniel Deac (2) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/girimany-ways-not-win",
+         "pubDate" : "Sat, 13 May 2023 21:53:45 +0000",
+         "title" : "GIRI...Many ways on NOT to win"
+      },
+      {
+         "description" : "In round seven of the Superbet Classic Romania 2023, GM Alireza Firouzja caught GM Fabiano Caruana, the tournament leader for most of the event, by defeating GM Ian Nepomniachtchi and breaking down his attempt at a fortress. The two are now tied f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-7",
+         "pubDate" : "Sat, 13 May 2023 14:53:00 -0700",
+         "title" : "Firouzja Catches Caruana"
+      },
+      {
+         "description" : "The Shanghai Tigers convincingly routed the Indian Yogis with a strong 9-7 score in spite of off-the-board inconveniences, while the Gotham Knights crushed Team MGD1 in just three rounds to move into the Finals of the 2023 Pro Chess League. It w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-semifinals",
+         "pubDate" : "Sat, 13 May 2023 14:39:00 -0700",
+         "title" : "Tigers Rout Yogis; Gotham Knights Crush Team MGD1, Set Up Finals Clash"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2387",
+         "pubDate" : "Sat, 13 May 2023 19:26:17 +0000",
+         "title" : "FIDE World Senior Team Championships 2023: Registration is open"
+      },
+      {
          "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 6 live!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,6 +162,14 @@ news_feed (
          "title" : "Superbet Chess Classic 6: So & Caruana miss wins"
       },
       {
+         "description" : "The U13 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hayri Beyhun&#xA0;Senel, Mateo Boci, Mert Can&#xA0;Sevig, Yunis&#xA0;Mahmudzade, Olexander&#xA0;Bezeyko, Mirsaleh&#xA0;Seyidli, Dikran&#xA0;Ozbulbul, etc.Chessdom.com will follow daily the live []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u13-european-school-championship-2023/",
+         "pubDate" : "Sat, 13 May 2023 11:10:00 +0000",
+         "title" : "U13 European School Championship 2023"
+      },
+      {
          "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -194,44 +258,12 @@ news_feed (
          "title" : "Derrick Rose Presents: Chesstival | PROMO"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is a 12-player round-robin taking place in Nicosia, Cyprus on May 16-27, 2023. It forms the fourth and final stage of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nicosia-fide-womens-grand-prix-participants/",
-         "pubDate" : "Fri, 12 May 2023 20:20:00 +0000",
-         "title" : "Nicosia FIDE Women's Grand Prix - Participants"
-      },
-      {
          "description" : "Grandmaster Andr&aacute;s Adorj&aacute;n died yesterday after a long illness. He was the runner-up at the 1969 World Junior Championship behind Anatoly Karpov, and reached the quarterfinals of the Candidates Matches in the 1979-1981 World Championship cycle. As a coach, he worked with Garry Kasparov and Peter Leko, among others. Andr&aacute;s Adorj&aacute;n was 73 years old. | Photo: Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/andras-adorjan-1950-2023",
          "pubDate" : "Fri, 12 May 2023 21:15:00 +0100",
          "title" : "Andr&aacute;s Adorj&aacute;n (1950-2023)"
-      },
-      {
-         "description" : "The Danish Blitz Championship 2023 will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Filip Boe Olsen, Jesper S&#xF8;nderg&#xE5;rd Thybo, Rasmus Skytte and Steen Fedder. More []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danish-blitz-championship-2023-live/",
-         "pubDate" : "Fri, 12 May 2023 19:40:00 +0000",
-         "title" : "Danish Blitz Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Danish Blitz Championship 2023 will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Filip Boe Olsen, Jesper S&#xF8;nderg&#xE5;rd Thybo, Rasmus Skytte and Steen Fedder.Chessdom.com will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danish-blitz-championship-2023/",
-         "pubDate" : "Fri, 12 May 2023 19:20:00 +0000",
-         "title" : "Danish Blitz Championship 2023"
-      },
-      {
-         "description" : "The Danish Rapid Championship will take place on April 13th in Aved&#xF8;re, Denmark as a 7-round Swiss. The time control is 15 minutes for the entire game with a 10-second increment beginning from move 1. The top five seeds are Mads Andersen, Jonny Hector, Jesper S&#xF8;nderg&#xE5;rd Thybo, Andreas Skytte Hagen and Steen Fedder. More : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danish-rapid-championship-2023-live/",
-         "pubDate" : "Fri, 12 May 2023 19:20:00 +0000",
-         "title" : "Danish Rapid Championship 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Bogdan Deac talks to Cristian Chirila after his draw with Giri in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/deac-just-try-play-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jkQFodo1jBs.jpg?itok=wqBdy3YK\" alt=\"\" /></a></div>",
@@ -488,14 +520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kramnik-analyses-the-world-championship-match-between-nepomniachtchi-and-ding-liren",
          "pubDate" : "Wed, 10 May 2023 20:00:00 +0100",
          "title" : "Kramnik analyses the World Championship match between Nepomniachtchi and Ding Liren"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess fan Berta Nedea talks to Cristian Chirila during Round 1 of the 2023 Superbet Chess Classic. This aired during Round 5. 2023.05.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fan-berta-%E2%80%98almost-cried%E2%80%99-when-nepo-lost-wc-match-r1-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZdE3VJV4Ckw.jpg?itok=l8GaUNqh",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-fan-berta-%E2%80%98almost-cried%E2%80%99-when-nepo-lost-wc-match-r1-superbetchessclassic",
-         "pubDate" : "Wed, 10 May 2023 18:52:08 +0000",
-         "title" : "Chess Fan Berta: 'Almost Cried' When Nepo Lost WC match | R1 #SuperbetChessClassic"
       },
       {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1362,14 +1386,6 @@ news_feed (
          "title" : "Ding Liren becomes the 17th World Chess Champion"
       },
       {
-         "description" : "GM Ding Liren is the new world champion after beating GM Ian Nepomniachtchi in the final rapid tiebreak game of the 2023 FIDE World Championship. Following a 7-7 tie in a thrilling 14-game classical match, it all came down to the final rapid game,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-tiebreak-ding-liren",
-         "pubDate" : "Sun, 30 Apr 2023 06:20:00 -0700",
-         "title" : "Ding Liren Wins 2023 FIDE World Championship In Rapid Tiebreaks"
-      },
-      {
          "description" : " The headline says it all. More thoughts to come later ... ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/a-ding-nepo-playoff-it-is-after-heart-stopping-game-14",
          "pubDate" : "Sat, 29 Apr 2023 15:45:39 +0000",
          "title" : "A Ding-Nepo playoff it is, after heart-stopping Game 14"
-      },
-      {
-         "description" : "GM Ding Liren pulled off a clutch 90-move escape to stop GM Ian Nepomniachtchi from winning the 2023 FIDE World Championship after his opening with White unraveled in the 14th game. With the scores locked at 7-7, the contenders will face off in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-14",
-         "pubDate" : "Sat, 29 Apr 2023 08:35:00 -0700",
-         "title" : "Ding Saves Game 14; Tiebreaks Will Decide World Championship"
       },
       {
          "description" : " This was originally going to be a post about a 'proof game', then a post about sharp practice, but it is now something even more interesting. A brief report from one of the club events in Canberra mentioned a game that ended in mate after 4 moves, and involved a queen sacrifice. As the moves weren't given I tried to work out what had happened. Unable to do this, I then searched for 4 move games ending in mate in Hugebase, and came up empty. Finally I spoke to one of the players involved or explained what had happened . The game began with <b>1.e3?! f5 2.Qh5+ g6</b>. At this point White then picked up the bishop on f1, but quickly put it back. Looking across to his opponent, he sheepishly pi",
