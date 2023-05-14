@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 125th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\": This tiem, he talks about Paul Morphy and Bobby Fischer. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 14 May 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 125: Chess history in a nutshell (7)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after his win over Ding in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-many-ways-not-win-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ARUfNgkT9SE.jpg?itok=b5pELIpW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-many-ways-not-win-r7-superbetchessclassic",
+         "pubDate" : "Sun, 14 May 2023 12:54:11 +0000",
+         "title" : "Giri: Many Ways on NOT to Win | R7 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his win over Nepomniachtchi in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-its-not-anything-specialbut-interesting-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NYY_-CLQLM8.jpg?itok=m_-REAPm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-its-not-anything-specialbut-interesting-r7-superbetchessclassic",
+         "pubDate" : "Sun, 14 May 2023 12:54:11 +0000",
+         "title" : "Firouzja: It's Not Anything Special...But Interesting | R7 #SuperbetChessClassic"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Sun, 14 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -344,22 +376,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-8-superbetchessclassic-grandchesstour",
          "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
          "title" : "2023 Superbet Chess Classic: Round 8 | #SuperbetChessClassic #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-9-superbetchessclassic-grandchesst",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-9-superbetchessclassic-grandchesstour",
-         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 9 | #SuperbetChessClassic #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Superbet Foundation Vice President Gabriel Petrescu talks to Cristian Chirila during Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet%E2%80%99s-petrescu-kids-asked-kasparov-about-his-emotions-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9nDxH5t-7vM.jpg?itok=1T0GlTSM\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet%E2%80%99s-petrescu-kids-asked-kasparov-about-his-emotions-r6-superbetchessclassic",
-         "pubDate" : "Fri, 12 May 2023 15:53:26 +0000",
-         "title" : "Superbet's Petrescu: Kids Asked Kasparov about his Emotions | R6 #SuperbetChessClassic"
       },
       {
          "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
@@ -906,28 +922,12 @@ news_feed (
          "title" : "A Quick Public Service Message"
       },
       {
-         "description" : "In ChessBase Magazine #213 you can find three video analyses of current opening variations: Christian Bauer recommends the trendy 5...Nh5 against the London System. Leon Mendonca uses one of his games from the current Bundesliga season to show how one should play against the King's Indian sideline 6...Bg4. And Mihail Marin takes the game Esipenko-Aronian from the WR Masters 2023 as an opportunity to take a closer look at a Catalan variation that was popular in the 80s and 90s. You can watch an excerpt from Christian Bauer's video here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/videos-on-the-london-system-king-s-indian-and-catalan",
-         "pubDate" : "Sun, 07 May 2023 14:50:00 +0100",
-         "title" : "Videos on the London System, King's Indian and Catalan"
-      },
-      {
          "description" : "Wesley So talked of \"revenge\" as he beat Alireza Firouzja with the black pieces to score the only win on Day 1 of the Superbet Chess Classic, the first event on the 2023 Grand Chess Tour. Ding Liren was ultimately happy to open with a solid draw against Maxime Vachier-Lagrave, while the world champion's second Richard Rapport felt Ian Nepomniachtchi was vulnerable in the French Defence, though he couldn't prove it.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/superbet-classic-1-so-gets-firouzja-revenge",
          "pubDate" : "Sun, 07 May 2023 11:31:36 +0000",
          "title" : "Superbet Chess Classic 1: So gets Firouzja revenge"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour, the Superbet Chess Classic, saw US grandmaster Wesley So grabbing the only win in Saturday's first round. So defeated Alireza Firouzja with the black pieces. Ian Nepomniachtchi could not get much with white against Ding Liren's second in the World Championship match, Richard Rapport, while Ding himself drew his game with white against Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r1",
-         "pubDate" : "Sun, 07 May 2023 10:10:00 +0100",
-         "title" : "Superbet Classic: So beats Firouzja with black"
       },
       {
          "description" : "Holiday in Express Hotel (&#8220;1.3 km 13 min by walk&#8221;) Double Tree by Hilton Hotel (&#8220;600 m 6 min by walk&#8221;) The above amount includes",
@@ -1792,22 +1792,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/world-championship-social-media-2023.html",
          "pubDate" : "Sun, 23 Apr 2023 15:40:00 +0000",
          "title" : "World Championship Social Media 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2355",
-         "pubDate" : "Sun, 23 Apr 2023 14:34:09 +0000",
-         "title" : "World Chess Championship enters final phase as Nepomniachtchi retains lead after game ten"
-      },
-      {
-         "description" : "Ian Nepomniachtchi leads 5.5:4.5 with just four games of the 2023 FIDE World Championship match to go after Ding Liren was unable to convert an extra pawn into a win in Game 10. Ding in fact did well to reach that superior endgame, since he confessed that Ian's 9th move had come as a \"total surprise\". In the end the players played on until bare kings on move 45.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-holds-game-10-draw-to-close-on-title",
-         "pubDate" : "Sun, 23 Apr 2023 12:35:41 +0000",
-         "title" : "Nepomniachtchi holds Game 10 draw to close on title"
       }
    ]
 }
