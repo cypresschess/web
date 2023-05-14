@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja joined Fabiano Caruana in the lead of the Superbet Chess Classic after beating Ian Nepomniachtchi in the tournament's seventh round. The other decisive game of the day saw Anish Giri claiming his first win in Bucharest by beating Ding Liren with white. Thus, much like in round 5, the two recent World Championship contenders lost on the same day. Ding and Nepo stand now in shared last place with 2&frac12;/7 points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r7",
+         "pubDate" : "Sun, 14 May 2023 02:30:00 +0100",
+         "title" : "Superbet Classic: Firouzja beats Nepo, Giri beats Ding"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Firouzja discusses the opening idea that took his opponent Nepomniachtchi out of his prep in round 7 of 2023 Superbet Chess Classic 2023.05.13<br /> GrandChessTour.org TODAY&#039;S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. Wesley So<br /> (3.5) vs. Fabiano Caruana (4)<br /> Alireza Firouzja (3.5) vs. Ian Nepomniachtchi (2.5)<br /> Anish Giri (3) vs. Ding Liren (2.5)<br /> Jan-Krzysztof Duda (2.5) vs. Maxime Vachier-Lagrave (3)<br /> Richard Rapport (3.5) vs. Bogdan-Daniel Deac (2) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-nam",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-its-not-anything-specialbut-interesting",
+         "pubDate" : "Sun, 14 May 2023 00:53:52 +0000",
+         "title" : "FIROUZJA: It's Not Anything Special...But Interesting"
+      },
+      {
          "description" : "The U15 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hasan Huseyin&#xA0;Celik, Luka&#xA0;Kiladze, Tunar&#xA0;Davudov, Pehar, Melih Topuz Mirac, Ergit&#xA0;Ramaj, Alex&#xA0; Marjanovic, etc More : European School []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/wesley-so-fabiano-caruana-superbet-chess-classic-2023/",
          "pubDate" : "Sat, 13 May 2023 12:50:00 +0000",
          "title" : "Wesley So - Fabiano Caruana, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Sat, 13 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Ian Nepomniachtchi from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r7",
          "pubDate" : "Thu, 11 May 2023 22:05:00 +0100",
          "title" : "Svidler wins TePe Sigeman & Co, as Gelfand beats Abhimanyu"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"><h2 dir=\"ltr\" style=\"text-align: center;\">Top Female Chess Players to Compete in Elite Cairns Cup</h2> <p dir=\"ltr\" style=\"text-align: center;\"><em>Saint Louis Chess Club to host International players to vie for one of the largest chess prize funds for women</em> <p dir=\"ltr\"> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Club%20Slideshow%20Banner-1025x475-01.png?itok=Z6Pkm_b9\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/top-female-chess-players-compete-elite-cairns-cup",
-         "pubDate" : "Thu, 11 May 2023 16:04:08 +0000",
-         "title" : "Top Female Chess Players to Compete in Elite Cairns Cup"
       },
       {
          "description" : "",
