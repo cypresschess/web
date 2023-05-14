@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2388",
+         "pubDate" : "Sun, 14 May 2023 11:35:15 +0000",
+         "title" : "Harker School (USA) and Ekpedeftiria Vassiliadi School (Greece) win World School Teams Online Cup 2023"
+      },
+      {
+         "description" : "Anish Giri has become the latest player to beat Ding Liren after the World Champion allowed a powerful piece sacrifice on move 11 in Round 7 of the Superbet Chess Classic. Ding has dropped to last place, but he has the company of his World Championship challenger Ian Nepomniachtchi, who was put to the sword by Alireza Firouzja. The young star now co-leads with Fabiano Caruana going into the final two rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-7-firouzja-catches-caruana",
+         "pubDate" : "Sun, 14 May 2023 11:07:40 +0000",
+         "title" : "Superbet Chess Classic 7: Firouzja catches Caruana"
+      },
+      {
+         "description" : "The 2023 European School Chess Championship kicked off yesterday in Durres, Albania. More than 200 children from 25 federations compete in the event which is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. The Opening ceremony of the event took place shortly before the start of the first round&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
+         "pubDate" : "Sun, 14 May 2023 09:35:59 +0000",
+         "title" : "European School Chess Championship 2023 kicked off in Durres"
+      },
+      {
+         "description" : "On 14 May 1937 Grigory Levenfish won the 10th Soviet Championship, defending the title he had won two years earlier at the 9th Soviet Championship in 1935. In 1937 Levenfish also drew a match against Botvinnik and hoped to play in the 1938 AVRO tournament. At that time Levenfish was probably one of the best players in the world, but the Soviet authorities stifled his career. To mark the 86th anniversary of Levenfish's victory that made him a two-time Soviet Champion Eugene Manlapao looks at the tragic life and career of this fascinating player. | Photo source: Douglas Griffin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grigory-levenfish-27-march-1889-9-february-1961-the-outsider-of-the-soviet-chess-champions",
+         "pubDate" : "Sun, 14 May 2023 10:00:00 +0100",
+         "title" : "Grigory Levenfish (27 March 1889 - 9 February 1961): The Outsider of the Soviet Chess Champions"
+      },
+      {
          "description" : "Alireza Firouzja joined Fabiano Caruana in the lead of the Superbet Chess Classic after beating Ian Nepomniachtchi in the tournament's seventh round. The other decisive game of the day saw Anish Giri claiming his first win in Bucharest by beating Ding Liren with white. Thus, much like in round 5, the two recent World Championship contenders lost on the same day. Ding and Nepo stand now in shared last place with 2&frac12;/7 points. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,6 +160,14 @@ news_feed (
          "link" : "https://www.chessdom.com/wesley-so-fabiano-caruana-superbet-chess-classic-2023/",
          "pubDate" : "Sat, 13 May 2023 12:50:00 +0000",
          "title" : "Wesley So - Fabiano Caruana, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2384",
+         "pubDate" : "Sat, 13 May 2023 12:39:09 +0000",
+         "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
       },
       {
          "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Ian Nepomniachtchi from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
@@ -312,14 +352,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-9-superbetchessclassic-grandchesstour",
          "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
          "title" : "2023 Superbet Chess Classic: Round 9 | #SuperbetChessClassic #GrandChessTour"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2384",
-         "pubDate" : "Fri, 12 May 2023 17:39:09 +0000",
-         "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Superbet Foundation Vice President Gabriel Petrescu talks to Cristian Chirila during Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet%E2%80%99s-petrescu-kids-asked-kasparov-about-his-emotions-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9nDxH5t-7vM.jpg?itok=1T0GlTSM\"",
@@ -920,14 +952,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-1",
          "pubDate" : "Sat, 06 May 2023 15:17:00 -0700",
          "title" : "So Gets His Revenge Vs. Firouzja, Takes Clear Lead"
-      },
-      {
-         "description" : "The Satty Zhuldyz rapid and blitz tournament took place in Astana as a side event of the World Championship match. A number of international chess stars participated. Karsten M&uuml;ller followed the games, looking for endgame highlights. Find here four instructive positions, with on-point analysis by our in-house endgame expert. | Pictured: Alexander Grischuk | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-endgames-3",
-         "pubDate" : "Sat, 06 May 2023 19:00:00 +0100",
-         "title" : "Endgames from Kazakhstan (3)"
       },
       {
          "description" : " \"Can you kill the king?\" is a question I often get asked at school competitions. I give a firm no, followed by a somewhat longer explanation involving the practice of holding kings for ransom in medieval times. But for today, and today only, I was tempted to suspend this rule for Street Chess. What stopped me wasn't the fear of being hauled off to Belmarsh, but the fact that it was a FIDE rated event, and to be valid, the FIDE rules needed to be followed correctly. <br /> ",
@@ -1784,14 +1808,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nepomniachtchi-holds-game-10-draw-to-close-on-title",
          "pubDate" : "Sun, 23 Apr 2023 12:35:41 +0000",
          "title" : "Nepomniachtchi holds Game 10 draw to close on title"
-      },
-      {
-         "description" : " Ding Liren was surprised by Ian Nepomniachtchi in game 10 of the World Chess Championships and the game finished in a draw after three and a half hours play with bare kings on the board. This means Nepomniachtchi retains a one point lead going into the final four games of the match. The game saw a return to the English Opening by Ding, today he chose a Sicilian Four Knights with 4.e4. 4...Bc5 allowed a fork trick with 5.Nxe5 Nxe5 6.d4 recovering the piece but it turns out this might not be at all bad for black. 9....Bc5 seemed to catch Ding out and they then followed a Titled Tuesday blitz game Nepomniachtchi played in 2020 until 14.0-0 which was new from Ding. The variation is a sharp atte",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-preparation-earns-a-relatively-comfortable-draw-with-black-in-world-championship-game-10",
-         "pubDate" : "Sun, 23 Apr 2023 14:52:00 +0400",
-         "title" : "Nepomniachtchi preparation earns a relatively comfortable draw with black in World Championship game 10 - 10"
       }
    ]
 }
