@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2389",
+         "pubDate" : "Sun, 14 May 2023 21:45:34 +0000",
+         "title" : "FIDE World Junior U20 Championship: Registration is open"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U7 section is a 9-round Swiss tournament with participation of Szymon Tryburski, Hans Pereira, Ilankathir Vanjinathan, Dionis Kajana, Brajan Qazimi, Art Kerraj, Ajan Luca, Dasar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u7-european-school-championship-2023/",
+         "pubDate" : "Sun, 14 May 2023 20:55:00 +0000",
+         "title" : "U7 European School Championship 2023"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U9 section is a 9-round Swiss tournament with participation of Ali Poyraz Uzdemir, Balazs Kovacs, Poyraz Efe Asici, Yasin Azimov, Jindrich Trejbal, Stoyan Iliev, Niklas []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u9-european-school-championship-2023/",
+         "pubDate" : "Sun, 14 May 2023 20:35:00 +0000",
+         "title" : "U9 European School Championship 2023"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U13 section is a 9-round Swiss tournament with participation of Hayri Beyhun Senel, Mert Can Sevig, Mateo Boci, Dikran Ozbulbul, Matvii Sobol, Nodar Ghviniashvili, Omer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u13-european-school-championship-2023-2/",
+         "pubDate" : "Sun, 14 May 2023 19:51:45 +0000",
+         "title" : "U13 European School Championship 2023"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Executive Director of FIDE 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/victor-bologan",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -31,15 +63,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/kazakhstani-bibisara-assaubayeva-steamrolls-her-way-to-the-armag/",
          "pubDate" : "Sun, 14 May 2023 18:51:51 +0000",
-         "title" : "Kazakhstani Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
-      },
-      {
-         "description" : "Gotham Knights overcame Shanghai Tigers with a dominating score of 9.5-6.5 in the finals of the 2023 Pro Chess League. The Knights won the top prize of $25,000 while the Tigers settled for $20,000. GM Vladimir Fedoseev sizzled for the Knights in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-finals-gotham-knights-win",
-         "pubDate" : "Sun, 14 May 2023 11:43:36 -0700",
-         "title" : "Flash Report: Gotham Knights Dominate Shanghai Tigers To Win 2023 Title; Yogis Finish 3rd"
+         "title" : "Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
       },
       {
          "description" : "On Thursday, the 4th Stepan Avagyan Memorial ended in Jermuk, Armenia. It was a strong 10-player round-robin tournament with many young participants. Rating favourite Sam Sevian won the tournament with a 6/9 score. Four players finished a full point behind: Nodirbek Yakubboev, Amin Tabatabaei, Haik Martirosyan and Robert Hovhannisyan. | Photos: Official website",
@@ -130,6 +154,14 @@ news_feed (
          "title" : "European School Chess Championship 2023 kicked off in Durres"
       },
       {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U11 section is a 9-round Swiss tournament with participation of Gabriel Gabadadze, Davit Tatvidze, Vladimir Sofronie, Maksym Pavlyk, Gorkem Unsal, Erdi Cani, Roman Molchanov, Oskar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u11-european-school-championship-2023/",
+         "pubDate" : "Sun, 14 May 2023 08:15:00 +0000",
+         "title" : "U11 European School Championship 2023"
+      },
+      {
          "description" : "Alireza Firouzja joined Fabiano Caruana in the lead of the Superbet Chess Classic after beating Ian Nepomniachtchi in the tournament's seventh round. The other decisive game of the day saw Anish Giri claiming his first win in Bucharest by beating Ding Liren with white. Thus, much like in round 5, the two recent World Championship contenders lost on the same day. Ding and Nepo stand now in shared last place with 2&frac12;/7 points. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +178,7 @@ news_feed (
          "title" : "FIROUZJA: It's Not Anything Special...But Interesting"
       },
       {
-         "description" : "The U15 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hasan Huseyin&#xA0;Celik, Luka&#xA0;Kiladze, Tunar&#xA0;Davudov, Pehar, Melih Topuz Mirac, Ergit&#xA0;Ramaj, Alex&#xA0; Marjanovic, etc More : European School []",
+         "description" : "The U15 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hasan Huseyin&#xA0;Celik, Luka&#xA0;Kiladze, Tunar&#xA0;Davudov, Pehar, Melih Topuz Mirac, Ergit&#xA0;Ramaj, Alex&#xA0; Marjanovic, etcChessdom.com will follow daily the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/u15-european-school-championship-2023/",
@@ -202,6 +234,14 @@ news_feed (
          "title" : "FIDE World Senior Team Championships 2023: Registration is open"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2384",
+         "pubDate" : "Sat, 13 May 2023 16:39:09 +0000",
+         "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Wesley So in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-draws-quickly-vs-wesley%E2%80%99s-solid-catalan-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bVwxc2FjxBE.jpg?itok=huU8_PBE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -250,30 +290,6 @@ news_feed (
          "title" : "Wesley So - Fabiano Caruana, Superbet Chess Classic 2023"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2384",
-         "pubDate" : "Sat, 13 May 2023 12:39:09 +0000",
-         "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Ian Nepomniachtchi from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-ian-nepomniachtchi-superbet-chess-classic-2023/",
-         "pubDate" : "Sat, 13 May 2023 12:30:00 +0000",
-         "title" : "Alireza Firouzja - Ian Nepomniachtchi, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Jan-Krzysztof Duda Maxime Vachier-Lagrave from round 7 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live : Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-maxime-vachier-lagrave-superbet-chess-classic-2023/",
-         "pubDate" : "Sat, 13 May 2023 12:11:07 +0000",
-         "title" : "Jan-Krzysztof Duda - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
-      },
-      {
          "description" : " Every single time I thought I found an extremely sophisticated, &#8220;genius&#8221; solution to a simple problem, I was mistaken. I can recall dozens of games where I made silly mistakes simply because I wanted to be too smart. I quickly spotted the logical, obvious move, but then continued to calculate and found an &#8216;even smarter' [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-genius/\">Don't Be A Genius</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-so-caruana-miss-wins",
          "pubDate" : "Sat, 13 May 2023 11:47:30 +0000",
          "title" : "Superbet Chess Classic 6: So & Caruana miss wins"
-      },
-      {
-         "description" : "The U13 European School Championship is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hayri Beyhun&#xA0;Senel, Mateo Boci, Mert Can&#xA0;Sevig, Yunis&#xA0;Mahmudzade, Olexander&#xA0;Bezeyko, Mirsaleh&#xA0;Seyidli, Dikran&#xA0;Ozbulbul, etc.Chessdom.com will follow daily the live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u13-european-school-championship-2023/",
-         "pubDate" : "Sat, 13 May 2023 11:10:00 +0000",
-         "title" : "U13 European School Championship 2023"
       },
       {
          "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-one/",
          "pubDate" : "Sat, 13 May 2023 07:45:07 +0000",
          "title" : "A Foundation for Beginners Ninety One"
-      },
-      {
-         "description" : "The Icelandic Championship is taking place from 15&#x2013;25 May 2023 in Hafnarfjordur, Iceland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Hjorvar Steinn Gretarsson, Hannes Stefansson, Henrik Danielsen, Vignir []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/icelandic-championship-2023-live/",
-         "pubDate" : "Sat, 13 May 2023 06:20:00 +0000",
-         "title" : "Icelandic Championship 2023 - LIVE"
       },
       {
          "description" : "Grandmaster Leon Luke Mendonca beat compatriot International Master Prraneeth Vuppala in the final round to become champion in the strongest Baku Open at Azerbaijan. With",
@@ -1298,6 +1298,14 @@ news_feed (
          "title" : "Ding Liren crowned World Champion"
       },
       {
+         "description" : "Are you ready to take down an old elementary school chess champion? Think you can go head-to-head with a notorious chess hustler? These local legends with classic chess player personality tendencies are eager to accept your challenge! Meet the C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-the-chess-club-regulars",
+         "pubDate" : "Mon, 01 May 2023 06:00:00 -0700",
+         "title" : "Play Chess Against The Chess Club Regulars"
+      },
+      {
          "description" : " While the 2023 World Championship was very exciting, I was not happy with how it was ultimately decided. I've long been opposed to what is a titled awarded awarded to the best 'long time control' player being determined by who is better at a completely different format. Lost in the excitement of Ding finding 46. ... Rg6 was the issue that Nepo would probably not have played 48.h4?? if the game was played until the normal time control. To me 46. ... Rg6 was a time scramble bluff, designed to induce 48. .. h4, a blunder even I saw coming while watching the match. FIDE for a long time has wanted shorter and shorter World Championship Matches, in part to encourage more bids from host cities/cou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/quiet-draw-in-game-11-of-the-world-chess-championship",
          "pubDate" : "Mon, 24 Apr 2023 13:20:00 +0400",
          "title" : "Quiet draw in game 11 of the World Chess Championship - 11"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2356",
-         "pubDate" : "Sun, 23 Apr 2023 20:11:08 +0000",
-         "title" : "Winners crowned at 2023 FIDE World School Championship"
       }
    ]
 }
