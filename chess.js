@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 125th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\": This tiem, he talks about Paul Morphy and Bobby Fischer. | Photo: Pascal Simon",
+         "description" : "<div class=\"body text-secondary\"> Executive Director of FIDE 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/victor-bologan",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/victor-bologan-its-more-about",
+         "pubDate" : "Sun, 14 May 2023 18:54:16 +0000",
+         "title" : "Victor Bologan: It's More About..."
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Caruana discusses his Italian line with Cristian 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-anish-did-everything",
+         "pubDate" : "Sun, 14 May 2023 18:54:16 +0000",
+         "title" : "Caruana: Anish Did Everything..."
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish shares his perspective on his game versus Caruana and gives another commentator&#039;s analysis on the remaining games. 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-all-mocking-over-years",
+         "pubDate" : "Sun, 14 May 2023 18:54:16 +0000",
+         "title" : "Giri: All The Mocking Over The Years"
+      },
+      {
+         "description" : " <p class=\"lead\">In Berlin, Germany, on May 14, 2023, the Armageddon Championship Series witnessed a victory by 19-year-old Bibisara Assaubayeva from Kazakhstan, who bulldozed over the world champions to win the Women's Week. This victory secured her a place in the Grand Finale in September, alongside the tournament's runner-up, Indian Grandmaster Humpy Koneru. Together, they will join an exciting line-up of finalists, including Wesley So, Sam Shankland, Gukesh D, and Nodirbek Abdusattorov, and compete for the main prize of €200,000. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/kazakhstani-bibisara-assaubayeva-steamrolls-her-way-to-the-armag/",
+         "pubDate" : "Sun, 14 May 2023 18:51:51 +0000",
+         "title" : "Kazakhstani Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
+      },
+      {
+         "description" : "Gotham Knights overcame Shanghai Tigers with a dominating score of 9.5-6.5 in the finals of the 2023 Pro Chess League. The Knights won the top prize of $25,000 while the Tigers settled for $20,000. GM Vladimir Fedoseev sizzled for the Knights in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-finals-gotham-knights-win",
+         "pubDate" : "Sun, 14 May 2023 11:43:36 -0700",
+         "title" : "Flash Report: Gotham Knights Dominate Shanghai Tigers To Win 2023 Title; Yogis Finish 3rd"
+      },
+      {
+         "description" : "On Thursday, the 4th Stepan Avagyan Memorial ended in Jermuk, Armenia. It was a strong 10-player round-robin tournament with many young participants. Rating favourite Sam Sevian won the tournament with a 6/9 score. Four players finished a full point behind: Nodirbek Yakubboev, Amin Tabatabaei, Haik Martirosyan and Robert Hovhannisyan. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 14 May 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 125: Chess history in a nutshell (7)"
+         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2023",
+         "pubDate" : "Sun, 14 May 2023 19:15:00 +0100",
+         "title" : "Sam Sevian wins strong Stepan Avagyan Memorial"
+      },
+      {
+         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 6 live!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
+         "pubDate" : "Sun, 14 May 2023 18:45:00 +0100",
+         "title" : "The Armageddon Championship Series: Women's Week live - Day 7"
+      },
+      {
+         "description" : " Many in the English chess community will have been saddened to hear of the death last month of FM Michael Franklin at the age of 92. The word most often used to describe him was &#8216;gentleman': perhaps an old-fashioned concept, but very appropriate for someone who always recorded his games descriptive notation and never used <a href=\"https://chessimprover.com/michael-franklin/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Michael Franklin\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/michael-franklin/\">Michael Franklin</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/michael-franklin/",
+         "pubDate" : "Sun, 14 May 2023 15:40:14 +0000",
+         "title" : "Michael Franklin"
+      },
+      {
+         "description" : "On 14 May 1937 Grigory Levenfish won the 10th Soviet Championship, defending the title he had won two years earlier at the 9th Soviet Championship in 1935. In 1937 Levenfish also drew a match against Botvinnik and hoped to play in the 1938 AVRO tournament. At that time Levenfish was probably one of the best players in the world, but the Soviet authorities stifled his career. To mark the 86th anniversary of Levenfish's victory that made him a two-time Soviet Champion Eugene Manlapao looks at the tragic life and career of this fascinating player. | Photo source: Douglas Griffin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grigory-levenfish-27-march-1889-9-february-1961-the-outsider-of-the-soviet-chess-champions",
+         "pubDate" : "Sun, 14 May 2023 14:00:00 +0100",
+         "title" : "Grigory Levenfish (27 March 1889 - 9 February 1961): The Outsider of the Soviet Chess Champions"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after his win over Ding in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-many-ways-not-win-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ARUfNgkT9SE.jpg?itok=b5pELIpW\" alt=\"\" /></a></div>",
@@ -34,6 +98,14 @@ news_feed (
          "title" : "Superbet Chess Classic - Live!"
       },
       {
+         "description" : "In this video, Svitlana puts you to the test by dissecting three splendid game examples. So, sharpen your strategic thinking and prepare to dive into the world of clever tactics and mind-bending manoeuvres because it is all about creativity! Let the games begin!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-test-your-creativity",
+         "pubDate" : "Sun, 14 May 2023 13:50:00 +0100",
+         "title" : "Svitlana's Smart Moves - Test your creativity"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -56,14 +128,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
          "pubDate" : "Sun, 14 May 2023 09:35:59 +0000",
          "title" : "European School Chess Championship 2023 kicked off in Durres"
-      },
-      {
-         "description" : "On 14 May 1937 Grigory Levenfish won the 10th Soviet Championship, defending the title he had won two years earlier at the 9th Soviet Championship in 1935. In 1937 Levenfish also drew a match against Botvinnik and hoped to play in the 1938 AVRO tournament. At that time Levenfish was probably one of the best players in the world, but the Soviet authorities stifled his career. To mark the 86th anniversary of Levenfish's victory that made him a two-time Soviet Champion Eugene Manlapao looks at the tragic life and career of this fascinating player. | Photo source: Douglas Griffin.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grigory-levenfish-27-march-1889-9-february-1961-the-outsider-of-the-soviet-chess-champions",
-         "pubDate" : "Sun, 14 May 2023 10:00:00 +0100",
-         "title" : "Grigory Levenfish (27 March 1889 - 9 February 1961): The Outsider of the Soviet Chess Champions"
       },
       {
          "description" : "Alireza Firouzja joined Fabiano Caruana in the lead of the Superbet Chess Classic after beating Ian Nepomniachtchi in the tournament's seventh round. The other decisive game of the day saw Anish Giri claiming his first win in Bucharest by beating Ding Liren with white. Thus, much like in round 5, the two recent World Championship contenders lost on the same day. Ding and Nepo stand now in shared last place with 2&frac12;/7 points. | Photo: Lennart Ootes",
@@ -136,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2387",
          "pubDate" : "Sat, 13 May 2023 19:26:17 +0000",
          "title" : "FIDE World Senior Team Championships 2023: Registration is open"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 6 live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Sat, 13 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 6"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Wesley So in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-draws-quickly-vs-wesley%E2%80%99s-solid-catalan-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bVwxc2FjxBE.jpg?itok=huU8_PBE\" alt=\"\" /></a></div>",
@@ -266,14 +322,6 @@ news_feed (
          "title" : "Shalom Alekhine: Ding joins the chess greats"
       },
       {
-         "description" : "In this video, Svitlana puts you to the test by dissecting three splendid game examples. So, sharpen your strategic thinking and prepare to dive into the world of clever tactics and mind-bending manoeuvres because it is all about creativity! Let the games begin!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-test-your-creativity",
-         "pubDate" : "Sat, 13 May 2023 10:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Test your creativity"
-      },
-      {
          "description" : "Black's king on h7, heavy pieces in the open g-file - White had deliberately gone for the diagram position after 21...Bh8. But now it's time to take the bull by the horns - your move!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,30 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/deac-just-try-play-r6-superbetchessclassic",
          "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
          "title" : "Deac: Just Try to Play! | R6 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his draw with Ding in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-2-winning-eval-inhuman-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-3nF4JbJvXA.jpg?itok=qgN3QnDO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-2-winning-eval-inhuman-r6-superbetchessclassic",
-         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
-         "title" : "Wesley So: -2 Winning Eval! Inhuman! | R6 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his draw with Caruana in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-nc4-cold-shower-fabi-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sAcLA5v2kiA.jpg?itok=OYatH7u9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-nc4-cold-shower-fabi-r6-superbetchessclassic",
-         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
-         "title" : "Firouzja: Nc4? a Cold Shower for Fabi | R6 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-8-superbetchessclassic-grandchesst",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-8-superbetchessclassic-grandchesstour",
-         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 8 | #SuperbetChessClassic #GrandChessTour"
       },
       {
          "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
@@ -1274,14 +1298,6 @@ news_feed (
          "title" : "Ding Liren crowned World Champion"
       },
       {
-         "description" : "Are you ready to take down an old elementary school chess champion? Think you can go head-to-head with a notorious chess hustler? These local legends with classic chess player personality tendencies are eager to accept your challenge! Meet the C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-the-chess-club-regulars",
-         "pubDate" : "Mon, 01 May 2023 06:00:00 -0700",
-         "title" : "Play Chess Against The Chess Club Regulars"
-      },
-      {
          "description" : " While the 2023 World Championship was very exciting, I was not happy with how it was ultimately decided. I've long been opposed to what is a titled awarded awarded to the best 'long time control' player being determined by who is better at a completely different format. Lost in the excitement of Ding finding 46. ... Rg6 was the issue that Nepo would probably not have played 48.h4?? if the game was played until the normal time control. To me 46. ... Rg6 was a time scramble bluff, designed to induce 48. .. h4, a blunder even I saw coming while watching the match. FIDE for a long time has wanted shorter and shorter World Championship Matches, in part to encourage more bids from host cities/cou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1776,22 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2356",
          "pubDate" : "Sun, 23 Apr 2023 20:11:08 +0000",
          "title" : "Winners crowned at 2023 FIDE World School Championship"
-      },
-      {
-         "description" : " Last week I took you half way through Chess Heroes: Openings. By this point the reader has learnt the basic opening principles along with some tactical ideas that appear over and over again across different openings. It's now time to look at specific openings. We start with openings beginning with 1. e4 e5 it's <a href=\"https://chessimprover.com/chess-heroes-openings-part-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Openings (Part 2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-openings-part-2/\">Chess Heroes: Openings (Part 2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-heroes-openings-part-2/",
-         "pubDate" : "Sun, 23 Apr 2023 17:14:05 +0000",
-         "title" : "Chess Heroes: Openings (Part 2)"
-      },
-      {
-         "description" : "The last time this blog's long running series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) coincided with a World Championship match was <A HREF=\"https://chessforallages.blogspot.com/2021/11/world-championship-social-media-2021.html\">World Championship Social Media 2021</A> (November 2021). In that post I documented six social media accounts operated by FIDE. Nearly 18 months later, the official site <A HREF=\"https://worldchampionship.fide.com/\">FIDE World Championship 2023, Astana</A> (worldchampionship.fide.com), lists four accounts in the following order:- <UL> <LI><A HREF=\"https://www.youtube.com/fidechan",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/world-championship-social-media-2023.html",
-         "pubDate" : "Sun, 23 Apr 2023 15:40:00 +0000",
-         "title" : "World Championship Social Media 2023"
       }
    ]
 }
