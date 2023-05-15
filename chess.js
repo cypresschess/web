@@ -2,12 +2,108 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana is leading the standings at the Superbet Chess Classic with one round to go. The US grandmaster showed great preparation as he finished his game against Anish Giri with a huge advantage on the clock - but Giri kept finding all the correct moves and eventually managed to secure a draw. Meanwhile, former co-leader Alireza Firouzja was defeated by Jan-Krzysztof Duda, who showcased good technique to collect his first win of the tournament. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r8",
+         "pubDate" : "Mon, 15 May 2023 13:15:00 +0100",
+         "title" : "Superbet Classic: Caruana sole leader as Duda beats Firouzja"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2391",
+         "pubDate" : "Mon, 15 May 2023 11:06:39 +0000",
+         "title" : "Show-down in Cyprus"
+      },
+      {
+         "description" : "For the second year in a row, Manx Liberty won the British Four Nations League (4NCL) title. The team won all 11 matches, scoring 12 team points and finishing five points clear of White Rose and Cheddleton. | Photo: Manx Liberty",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-com-manx-liberty-wins-4ncl-season-2022-2023",
+         "pubDate" : "Mon, 15 May 2023 11:05:27 +0100",
+         "title" : "Chess.com Manx Liberty wins 4NCL season 2022/2023"
+      },
+      {
+         "description" : "GM Leon Luke Mendonca scored an emphatic victory in the final round of Baku Open 2023. He finished with the same score 7/9 as GM Aleksandar Indjic (SRB) and GM Vladislav Kovalev, but won the tournament due to better tie-breaks. The performance rating of the 17-year-old: 2732. This is Leon's third rating open triumph in less than 2.5 months and five podium finishes in his last six strong open events. His performance this year is the definition of impressive. | Photo: FA Lana Afandiyeva",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-luke-clinches-baku-open",
+         "pubDate" : "Mon, 15 May 2023 11:00:00 +0100",
+         "title" : "Leon Luke clinches Baku Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2390",
+         "pubDate" : "Mon, 15 May 2023 09:57:12 +0000",
+         "title" : "Global Chess League, created by Tech Mahindra and FIDE, Inks distribution pact with Protocol Sports Marketing"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FIDE Executive Director Victor Bologan talks to Cristian Chirila during Round 8 of the 2023 Superbet Chess Classic. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/victor-bologan-spectators-better-chess-play-r8-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8KjPvm6eQe4.jpg?itok=EWhfLr30\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/victor-bologan-spectators-better-chess-play-r8-superbetchessclassic",
+         "pubDate" : "Mon, 15 May 2023 09:55:03 +0000",
+         "title" : "Victor Bologan: Spectators = Better Chess Play | R8 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Giri in Round 8 of the 2023 Superbet Chess Classic. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-anish-did-everything-totally-correct-r8-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bvBMRvOufZk.jpg?itok=mNbaEjcB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-anish-did-everything-totally-correct-r8-superbetchessclassic",
+         "pubDate" : "Mon, 15 May 2023 09:55:03 +0000",
+         "title" : "Caruana: Anish Did Everything Totally Correct | R8 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after his draw with Caruana in Round 8 of the 2023 Superbet Chess Classic. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-mocking-memes-help-r8-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DHZ0m9MXVzs.jpg?itok=vQAr-K6A\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-mocking-memes-help-r8-superbetchessclassic",
+         "pubDate" : "Mon, 15 May 2023 09:55:03 +0000",
+         "title" : "Giri: The Mocking Memes Help! | R8 #SuperbetChessClassic"
+      },
+      {
+         "description" : "The Finance Council meetings were held on 22nd April. Though they were held as separate meetings, in this update I have covered all the significant...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/finance-council-meetings-report-2023/",
+         "pubDate" : "Mon, 15 May 2023 09:49:47 +0000",
+         "title" : "Finance Council meetings report 2023"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 125th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\": This tiem, he talks about Paul Morphy and Bobby Fischer. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-2",
+         "pubDate" : "Mon, 15 May 2023 10:27:27 +0100",
+         "title" : "Understanding before Moving 125: Chess history in a nutshell (7)"
+      },
+      {
+         "description" : "Details for this year's ECF Awards are now available and can be found here https://www.englishchess.org.uk/wp-content/uploads/2023/05/ECF-Awards-2023.pdf together with information on how to apply and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
+         "pubDate" : "Mon, 15 May 2023 08:00:27 +0000",
+         "title" : "ECF Awards 2023"
+      },
+      {
          "description" : "Former World Chess Champion Garry Kasparov sat down with Forbes Assistant Managing Editor Diane Brady at the 2023 Milken Institute Global Conference to discuss topics from Russia's invasion of Ukraine to the growing concern over artificial intelligence. The interview has been viewed 100,000 times - \" I found myself agreeing with almost everything that he said. What I found most enlightening was his stance on AI,\" commented Bob Fomenko.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kasparov-on-russia-ukraine-and-ai",
          "pubDate" : "Mon, 15 May 2023 08:58:52 +0100",
          "title" : "Kasparov on Russia, Ukraine and AI"
+      },
+      {
+         "description" : "Looking for a fun and competitive chess tournament? Whether you're a pro or just love the game, there are plenty of exciting options at Outpost Chess.&#160; You might be the one to play with GMs, IMs or any other titled players, and to fight for the prize in your own category (can be even Unrated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/make-money-online-by-playing-outpost-chess-tournaments-with-anti-cheating-checks/",
+         "pubDate" : "Mon, 15 May 2023 06:43:00 +0000",
+         "title" : "Outpost Chess with anti-cheating checks and AI detection (updated)"
       },
       {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
@@ -79,7 +175,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-8",
          "pubDate" : "Sun, 14 May 2023 17:09:00 -0700",
-         "title" : "Duda Snaps Firouzja's Winning Run; Caruana Leads With 1 Round Remaining"
+         "title" : "Duda Snaps Firouzja's Winning Run, Caruana Leads With 1 Round Remaining"
       },
       {
          "description" : "The Gotham Knights overcame the Shanghai Tigers with a dominating score of 9.5-6.5 in the Finals to emerge as the champions of the 2023 Pro Chess League. The Knights won the top prize of $25,000 while the Tigers settled for $20,000. GM Vladimir ...",
@@ -202,14 +298,6 @@ news_feed (
          "title" : "Firouzja: It's Not Anything Special...But Interesting | R7 #SuperbetChessClassic"
       },
       {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Sun, 14 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
-      },
-      {
          "description" : "In this video, Svitlana puts you to the test by dissecting three splendid game examples. So, sharpen your strategic thinking and prepare to dive into the world of clever tactics and mind-bending manoeuvres because it is all about creativity! Let the games begin!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +328,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
          "pubDate" : "Sun, 14 May 2023 09:35:59 +0000",
          "title" : "European School Chess Championship 2023 kicked off in Durres"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U11 section is a 9-round Swiss tournament with participation of Gabriel Gabadadze, Davit Tatvidze, Vladimir Sofronie, Maksym Pavlyk, Gorkem Unsal, Erdi Cani, Roman Molchanov, Oskar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u11-european-school-championship-2023/",
-         "pubDate" : "Sun, 14 May 2023 08:15:00 +0000",
-         "title" : "U11 European School Championship 2023"
       },
       {
          "description" : "Alireza Firouzja joined Fabiano Caruana in the lead of the Superbet Chess Classic after beating Ian Nepomniachtchi in the tournament's seventh round. The other decisive game of the day saw Anish Giri claiming his first win in Bucharest by beating Ding Liren with white. Thus, much like in round 5, the two recent World Championship contenders lost on the same day. Ding and Nepo stand now in shared last place with 2&frac12;/7 points. | Photo: Lennart Ootes",
@@ -304,14 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2384",
          "pubDate" : "Sat, 13 May 2023 16:39:09 +0000",
          "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Wesley So in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-draws-quickly-vs-wesley%E2%80%99s-solid-catalan-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bVwxc2FjxBE.jpg?itok=huU8_PBE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-draws-quickly-vs-wesley%E2%80%99s-solid-catalan-r7-superbetchessclassic",
-         "pubDate" : "Sat, 13 May 2023 15:53:48 +0000",
-         "title" : "Caruana Draws Quickly vs. Wesley's Solid Catalan | R7 #SuperbetChessClassic"
       },
       {
          "description" : " Adisa Banjoko has been busy even though the hip-hop chess icon retired the Hip-Hop Chess Federation in 2019. He has launched a new company called 64 Blocks, LLC. Many in The Chess Drum community may remember the Hip-Hop Chess Federation's beginnings in 2006. There was the historic Kings Invitational, the events featuring hip-hop and martial The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/\">Hip-Hop Chess icon Banjoko launches &#8220;64 Blocks&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -418,28 +490,12 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Day 6 Recap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> You're invited to show off your bold chess moves in the inaugural Chesstival, an innovative chess tournament. Brought to you by NBA star Derrick Rose during NBA Summer League at Resorts World in Las Vegas. Competitors will include top athletes, musicians and other notable chess aficionados. <a href=\"https://twitter.com/ChesstivalDRose\">https://twitter.com/ChesstivalDRose</a><br /> <a href=\"https://chesstival.com/\">https://chesstival.com/</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/derrick-rose-presents-chesstival-promo",
-         "pubDate" : "Fri, 12 May 2023 21:53:43 +0000",
-         "title" : "Derrick Rose Presents: Chesstival | PROMO"
-      },
-      {
          "description" : "Grandmaster Andr&aacute;s Adorj&aacute;n died yesterday after a long illness. He was the runner-up at the 1969 World Junior Championship behind Anatoly Karpov, and reached the quarterfinals of the Candidates Matches in the 1979-1981 World Championship cycle. As a coach, he worked with Garry Kasparov and Peter Leko, among others. Andr&aacute;s Adorj&aacute;n was 73 years old. | Photo: Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/andras-adorjan-1950-2023",
          "pubDate" : "Fri, 12 May 2023 21:15:00 +0100",
          "title" : "Andr&aacute;s Adorj&aacute;n (1950-2023)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Bogdan Deac talks to Cristian Chirila after his draw with Giri in Round 6 of the 2023 Superbet Chess Classic. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/deac-just-try-play-r6-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jkQFodo1jBs.jpg?itok=wqBdy3YK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/deac-just-try-play-r6-superbetchessclassic",
-         "pubDate" : "Fri, 12 May 2023 18:53:30 +0000",
-         "title" : "Deac: Just Try to Play! | R6 #SuperbetChessClassic"
       },
       {
          "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
@@ -746,7 +802,7 @@ news_feed (
          "title" : "Weekly Tactics: Back-Rank Checkmate"
       },
       {
-         "description" : "",
+         "description" : "Click here Download Here!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/tentative-calendar-for-the-period-2023-24/",
@@ -906,14 +962,6 @@ news_feed (
          "title" : "CBM #213 \"Special\": Vishy Anand"
       },
       {
-         "description" : "When Vishy Anand talks about World Championship matches, he knows what he's talking about. He was World Champion from 2007 to 2013, played six World Championship matches and one World Championship tournament, and reached the final of the World Knockout Championships twice. In an interview with Sagar Shah, Anand takes a look at the World Championship match between Ding Liren and Ian Nepomniachtchi and talks about the critical moments of the games, opening preparation, match psychology, Magnus Carlsen and the future of the World Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-s-insights-about-ding-liren-vs-ian-nepomniachtchi",
-         "pubDate" : "Mon, 08 May 2023 12:48:15 +0100",
-         "title" : "Anand's insights about Ding Liren vs Ian Nepomniachtchi"
-      },
-      {
          "description" : "Ian Nepomniachtchi and Richard Rapport picked up wins in Round 2 of the Superbet Chess Classic to join Wesley So in the lead. Nepomniachtchi took down Bogdan-Daniel Deac and will go into the Round 3 clash against Ding Liren with a chance to cross 2800 for the first time with a win. Rapport ground down Jan-Krzysztof Duda in what had at first looked sure to be a drawn ending.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -928,22 +976,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/michael-franklin-rip/",
          "pubDate" : "Mon, 08 May 2023 07:22:50 +0000",
          "title" : "Michael Franklin RIP"
-      },
-      {
-         "description" : "Dommaraju Gukesh kicked off the TePe Sigeman & Co tournament with back-to-back wins, but is now sharing second place with Nils Grandelius a half point behind co-leaders Peter Svidler and Abhimanyu Mishra (pictured). Gukesh drew Grandelius in round 3 and was defeated by Arjun Erigaisi in round 4. Svidler and Abhimanyu both collected wins on Saturday, over Arjun and Vincent Keymer respectively. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r4",
-         "pubDate" : "Mon, 08 May 2023 07:15:00 +0100",
-         "title" : "TePe Sigeman: Arjun beats Gukesh, Abhimanyu and Svidler co-leaders"
-      },
-      {
-         "description" : "The Superbet Chess Classic in Bucharest has three players sharing the lead after two rounds. Ian Nepomniachtchi and Richard Rapport joined Wesley So atop the standings after scoring wins over Bogdan-Daniel Deac and Jan-Krzysztof Duda respectively. World champion Ding Liren and Fabiano Caruana signed a 21-move draw. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r2",
-         "pubDate" : "Mon, 08 May 2023 01:45:00 +0100",
-         "title" : "Superbet Classic: Nepo and Rapport score, catch So in the lead"
       },
       {
          "description" : "GMs Ian Nepomniachtchi and Richard Rapport were the two winners in the second round of the Superbet Classic Romania 2023&#38;nbsp;in Bucharest on Sunday. The round featured two contrasting decisive results as well as three draws that were all decided ...",
@@ -1768,38 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2358",
          "pubDate" : "Mon, 24 Apr 2023 12:30:20 +0000",
          "title" : "Nepomniachtchi remains one point ahead of Ding after Game 11 draw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/team-chess-challenge-22-23/#new_tab",
-         "pubDate" : "Mon, 24 Apr 2023 11:47:07 +0000",
-         "title" : "National Schools Team Chess Challenge final"
-      },
-      {
-         "description" : "Ian Nepomniachtchi had a chance to play on against risky play by Ding Liren in Game 11 of the FIDE World Championship match in Astana, but instead he decided to liquidate everything for a draw. That leaves him leading by a point with just three games of the match to go, though Ding Liren will still have White in two of them.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-closes-down-sharp-clash-in-game-11",
-         "pubDate" : "Mon, 24 Apr 2023 11:02:00 +0000",
-         "title" : "Nepomniachtchi closes down sharp clash in Game 11"
-      },
-      {
-         "description" : "CSIT - the International Workers and Amateurs in Sports Confederation has the great honor to invite all amateur chess players throughout the world to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/7th-csit-world-sport-games-wsg-rapid-and-blitz/",
-         "pubDate" : "Mon, 24 Apr 2023 10:45:09 +0000",
-         "title" : "7th CSIT World Sport Games (WSG) Rapid and Blitz"
-      },
-      {
-         "description" : " Ian Nepomniachtchi and Ding Liren drew the eleventh game of their World Championships match by repetition in 39 moves and less than two hours of play. Nepomniachtchi again played 1.e4 and the Ruy Lopez followed, no Berlin and with 6.d3. The line of the Closed Ruy Lopez that was played is fairly topical. 14.Qd2 was rare and 14...Bg7 was new. Commentators wondered if black might at least be under pressure, 15...c4!? seemed like a bold way of going about things, 18...Rb8 was the best computer continuation. 19.dxc4 *19.Qe2 the way to keep the pressure) quickly led to liquidation of most of the pieces and a drawn Rook and Pawn endgame, Nepomniachtchi thought he might get a symbolic advantage, as",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/quiet-draw-in-game-11-of-the-world-chess-championship",
-         "pubDate" : "Mon, 24 Apr 2023 13:20:00 +0400",
-         "title" : "Quiet draw in game 11 of the World Chess Championship - 11"
       }
    ]
 }
