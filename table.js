@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-05-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202305142722 target='_blank'>MAY 14TH 2023 SUNDAY SWISS</a>",
 "HOUSTON","2023-05-13","37","<a href=http://www.uschess.org/msa/XtblMain.php?202305131532 target='_blank'>MAY 2023 SCHOLASTIC</a>",
 "SPRING","2023-05-12","39","<a href=http://www.uschess.org/msa/XtblMain.php?202305121052 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-05-12","18","<a href=http://www.uschess.org/msa/XtblMain.php?202305121042 target='_blank'>REBECCA CHESS CLUB QUADS MAY 12, 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2022-09-23","38","<a href=http://www.uschess.org/msa/XtblMain.php?202209235702 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-09-23","20","<a href=http://www.uschess.org/msa/XtblMain.php?202209233762 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-09-23","7","<a href=http://www.uschess.org/msa/XtblMain.php?202209233732 target='_blank'>FBCC 2022 START OF FALL OPEN/FBCC 2</a>",
-"PEARLAND","2022-09-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209202632 target='_blank'>RCC QUADS SEPTEMBER 20, 2022</a>",
 ]);
