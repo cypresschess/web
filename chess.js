@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana drew a sharp game against Richard Rapport to finish in clear first place in the Superbet Chess Classic, taking the $100,000 top prize and the maximum 13 Grand Chess Tour points. His pursuers could all only draw, though that was a good result for Anish Giri after he stumbled into a lost position against Ian Nepomniachtchi. Ding Liren regained the world no. 3 spot after ending with a fine win over Bogdan-Daniel Deac.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fabiano-caruana-triumphs-in-superbet-chess-classic",
+         "pubDate" : "Mon, 15 May 2023 23:27:21 +0000",
+         "title" : "Fabiano Caruana triumphs in Superbet Chess Classic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2394",
+         "pubDate" : "Mon, 15 May 2023 22:21:05 +0000",
+         "title" : "FIDE WGP: Five-time World Champion Vishy Anand welcomes players to Cyprus"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. Live Round 8 : Replay round 7: Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza Firouzja Ian Nepomniachtchi / Wesley So Fabiano Caruana / Anish Giri Ding Liren / Richard Rapport Bogdan-Daniel Deac More about the Grand Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/superbet-chess-classic-2023-round-8-live/",
+         "pubDate" : "Mon, 15 May 2023 21:35:00 +0000",
+         "title" : "Superbet Chess Classic 2023 - Round 8 LIVE"
+      },
+      {
+         "description" : "The U17 European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U17 section is a 9-round Swiss tournament with participation of Huseyn&#xA0;Seyid, Metehan&#xA0;Ozen, Agil&#xA0;Israilov, Kelvin Kosta, Dmytro&#xA0;Biletskyy, Yurii&#xA0;Khrinovskyi, Ahmet&#xA0;Jusufi, etc. More : European School Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u17-european-school-championship-2023-live/",
+         "pubDate" : "Mon, 15 May 2023 21:15:00 +0000",
+         "title" : "U17 European School Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U15 European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;u15 section is a 9-round Swiss tournament with participation of Hasan Huseyin&#xA0;Celik, Luka&#xA0;Kiladze, Tunar&#xA0;Davudov, Pehar, Melih Topuz Mirac, Ergit&#xA0;Ramaj, Alex&#xA0; Marjanovic, etc. More : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u15-european-school-championship-2023-live/",
+         "pubDate" : "Mon, 15 May 2023 20:45:00 +0000",
+         "title" : "U15 European School Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U13 section is a 9-round Swiss tournament with participation of Hayri Beyhun Senel, Mert Can Sevig, Mateo Boci, Dikran Ozbulbul, Matvii Sobol, Nodar Ghviniashvili, Omer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u13-european-school-championship-2023-live/",
+         "pubDate" : "Mon, 15 May 2023 20:25:00 +0000",
+         "title" : "U13 European School Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U11 section is a 9-round Swiss tournament with participation of Gabriel Gabadadze, Davit Tatvidze, Vladimir Sofronie, Maksym Pavlyk, Gorkem Unsal, Erdi Cani, Roman Molchanov, Oskar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u11-european-school-championship-2023-live/",
+         "pubDate" : "Mon, 15 May 2023 20:08:43 +0000",
+         "title" : "U11 European School Championship 2023 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,12 +122,12 @@ news_feed (
          "title" : "European School Championship Girls U17 - LIVE"
       },
       {
-         "description" : "This is a flash report. The full report is coming soon. GM Caruana Fabiano won clear first at the Superbet Classic Romania 2023. Entering the last round a half point ahead of the field, he drew comfortably vs. GM Richard Rapport. The four compet...",
+         "description" : "GM Caruana Fabiano won clear first at the Superbet Classic Romania 2023. Entering the last round with a half-point lead, he drew a sharp theoretical battle in the English vs. GM Richard Rapport. The four players&#38;mdash;GM Anish Giri, GM Alireza Fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-9",
-         "pubDate" : "Mon, 15 May 2023 09:48:37 -0700",
-         "title" : "Flash Report: Caruana Wins Superbet Classic Romania"
+         "pubDate" : "Mon, 15 May 2023 09:48:00 -0700",
+         "title" : "Caruana Wins Superbet Classic Romania"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his draw with MVL in Round 9 of the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-satisfying-start-year-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Er7tG39bkMY.jpg?itok=egX8NjDI\" alt=\"\" /></a></div>",
@@ -112,30 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-school-championship-girls-u13-live/",
          "pubDate" : "Mon, 15 May 2023 15:10:00 +0000",
          "title" : "European School Championship Girls U13 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 9-round Swiss system tournament with participation of Ilijana Veleva, Anastasia Chichinadze, Selin Torun, Ailin Ndreko, Eliska Janouskova, Sofiia Rohoza, Aneta []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u11-live/",
-         "pubDate" : "Mon, 15 May 2023 14:50:00 +0000",
-         "title" : "European School Championship Girls U11 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 7-round Swiss system tournament with participation of Mariam Rekhviashvili, Bao Anh Angelina Nguyen Doan, Bierta Gutserieva, Svitlana Russieva, Maryam Mammadova, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u9-live/",
-         "pubDate" : "Mon, 15 May 2023 14:30:00 +0000",
-         "title" : "European School Championship Girls U9 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 10-player round-robin tournament with participation of Mia Caku, Donnatea Shuqja, Ayla Mustafayeva, Sopia Limari, Vasilija Mitrovic, etc. More : European []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u7-live/",
-         "pubDate" : "Mon, 15 May 2023 14:13:51 +0000",
-         "title" : "European School Championship Girls U7 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-6-grandchesstour\"><img src=\"https:",
@@ -290,14 +322,6 @@ news_feed (
          "title" : "Kasparov on Russia, Ukraine and AI"
       },
       {
-         "description" : "Looking for a fun and competitive chess tournament? Whether you're a pro or just love the game, there are plenty of exciting options at Outpost Chess.&#160; You might be the one to play with GMs, IMs or any other titled players, and to fight for the prize in your own category (can be even Unrated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/make-money-online-by-playing-outpost-chess-tournaments-with-anti-cheating-checks/",
-         "pubDate" : "Mon, 15 May 2023 06:43:00 +0000",
-         "title" : "Make money online by playing Outpostchess tournaments with anti cheating checks"
-      },
-      {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/14/jaden-shaw-tops-2023-jamaica-championship/",
          "pubDate" : "Mon, 15 May 2023 02:47:33 +0000",
          "title" : "Jaden Shaw tops 2023 Jamaica Championship!"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 10-player round-robin tournament with participation of Mia Caku, Donnatea Shuqja, Ayla Mustafayeva, Sopia Limari, Vasilija Mitrovic, etc.Chessdom.com will follow daily []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u7/",
-         "pubDate" : "Mon, 15 May 2023 02:20:00 +0000",
-         "title" : "European School Championship Girls U7"
       },
       {
          "description" : "The penultimate round of the Superbet Classic Romania 2023&#38;nbsp;ended on Sunday with one win and four draws, leaving GM Fabiano Caruana as the sole leader on 5/8 after GM Alireza Firouzja was defeated by GM Jan-Krzysztof Duda. Threefold repetiti...",
