@@ -2,12 +2,140 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U15 section is an 9-player round-robin tournament with participation of Adela Janouskova, Lulu Diasamidze, Anastasia Kirtadze, Mariam Tsetskhladze, Eklea Omeri, Nurtan Nuriyeva, Dua Rexhepi, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-championship-girls-u15-live/",
+         "pubDate" : "Mon, 15 May 2023 15:30:00 +0000",
+         "title" : "European School Championship Girls U15 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 7-round Swiss system tournament with participation of Mariam Kalandadze, Ula Rudzinskaite, Dea Ramaj, Veronika Rostykus, Iris Hasko, Zeynep Acar, Vladyslava []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-championship-girls-u13-live/",
+         "pubDate" : "Mon, 15 May 2023 15:10:00 +0000",
+         "title" : "European School Championship Girls U13 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 9-round Swiss system tournament with participation of Ilijana Veleva, Anastasia Chichinadze, Selin Torun, Ailin Ndreko, Eliska Janouskova, Sofiia Rohoza, Aneta []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-championship-girls-u11-live/",
+         "pubDate" : "Mon, 15 May 2023 14:50:00 +0000",
+         "title" : "European School Championship Girls U11 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 7-round Swiss system tournament with participation of Mariam Rekhviashvili, Bao Anh Angelina Nguyen Doan, Bierta Gutserieva, Svitlana Russieva, Maryam Mammadova, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-championship-girls-u9-live/",
+         "pubDate" : "Mon, 15 May 2023 14:30:00 +0000",
+         "title" : "European School Championship Girls U9 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 10-player round-robin tournament with participation of Mia Caku, Donnatea Shuqja, Ayla Mustafayeva, Sopia Limari, Vasilija Mitrovic, etc. More : European []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-championship-girls-u7-live/",
+         "pubDate" : "Mon, 15 May 2023 14:13:51 +0000",
+         "title" : "European School Championship Girls U7 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-6-grandchesstour\"><img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-6-grandchesstour",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 6 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-1-grandchesstour",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Day 1 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.13<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-7-grandchesstour",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 7 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-8-grandchesstour\"><img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-8-grandchesstour",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 8 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-9-grandchesstour\"><img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-9-grandchesstour",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 9 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Romanian National Liberal Party Vice-President Sebastian Burduja talks to Cristian Chirila during Round 9 of the 2023 Superbet Chess Classic. Apologies to Burduja, as his party is misidentified in his ID. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sebastian-burduja-romania-embracing-tech-advances-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_em",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sebastian-burduja-romania-embracing-tech-advances-r9-superbetchessclassic",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "Sebastian Burduja: Romania is Embracing Tech Advances | R9 #SuperbetChessClassic"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Executive Director Michael Khodarkovsky talks to Cristian Chirila during Round 9 of the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khodarkovsky-aronian-will-replace-ding-warsaw-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lWU9hB6gwv4.jpg?itok=9Ke3KW0E\" alt=\"\" /></a></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khodarkovsky-aronian-will-replace-ding-warsaw-r9-superbetchessclassic",
+         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
+         "title" : "Khodarkovsky: Aronian Will Replace Ding in Warsaw | R9 #SuperbetChessClassic"
+      },
+      {
+         "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/trigger-finger.html",
+         "pubDate" : "Mon, 15 May 2023 12:53:00 +0000",
+         "title" : "Trigger Finger"
+      },
+      {
+         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
+         "pubDate" : "Mon, 15 May 2023 13:50:00 +0100",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Harry Grieve (above, left), the 22-year-old British champion, and Peter Roberson (above, right), 34, both completed their second grandmaster norms (three are needed for the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gm-norms/",
+         "pubDate" : "Mon, 15 May 2023 12:22:53 +0000",
+         "title" : "GM norms"
+      },
+      {
          "description" : "Fabiano Caruana is leading the standings at the Superbet Chess Classic with one round to go. The US grandmaster showed great preparation as he finished his game against Anish Giri with a huge advantage on the clock - but Giri kept finding all the correct moves and eventually managed to secure a draw. Meanwhile, former co-leader Alireza Firouzja was defeated by Jan-Krzysztof Duda, who showcased good technique to collect his first win of the tournament. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r8",
          "pubDate" : "Mon, 15 May 2023 13:15:00 +0100",
          "title" : "Superbet Classic: Caruana sole leader as Duda beats Firouzja"
+      },
+      {
+         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
+         "pubDate" : "Mon, 15 May 2023 12:00:18 +0000",
+         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
       {
          "description" : "",
@@ -103,7 +231,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/make-money-online-by-playing-outpost-chess-tournaments-with-anti-cheating-checks/",
          "pubDate" : "Mon, 15 May 2023 06:43:00 +0000",
-         "title" : "Outpost Chess with anti-cheating checks and AI detection (updated)"
+         "title" : "Make money online by playing Outpostchess tournaments with anti cheating checks"
       },
       {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
@@ -154,22 +282,6 @@ news_feed (
          "title" : "European School Championship Girls U13"
       },
       {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U15 section is an 9-player round-robin tournament with participation of Adela Janouskova, Lulu Diasamidze, Anastasia Kirtadze, Mariam Tsetskhladze, Eklea Omeri, Nurtan Nuriyeva, Dua Rexhepi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u15/",
-         "pubDate" : "Mon, 15 May 2023 00:55:00 +0000",
-         "title" : "European School Championship Girls U15"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U17 section is an 11-player round-robin tournament with participation of Klean Shuqja, Zeynep Ciftci, Daria Bondar, Milena Mosurovic, Sudenaz Yalcin, Petya Karaivanova, Nazli Humbatova, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u17/",
-         "pubDate" : "Mon, 15 May 2023 00:39:06 +0000",
-         "title" : "European School Championship Girls U17"
-      },
-      {
          "description" : "The penultimate round of the Superbet Classic Romania 2023&#38;nbsp;ended on Sunday with one win and four draws, leaving GM Fabiano Caruana as the sole leader on 5/8 after GM Alireza Firouzja was defeated by GM Jan-Krzysztof Duda. Threefold repetiti...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -192,54 +304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2389",
          "pubDate" : "Sun, 14 May 2023 21:45:34 +0000",
          "title" : "FIDE World Junior U20 Championship: Registration is open"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U7 section is a 9-round Swiss tournament with participation of Szymon Tryburski, Hans Pereira, Ilankathir Vanjinathan, Dionis Kajana, Brajan Qazimi, Art Kerraj, Ajan Luca, Dasar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u7-european-school-championship-2023/",
-         "pubDate" : "Sun, 14 May 2023 20:55:00 +0000",
-         "title" : "U7 European School Championship 2023"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U9 section is a 9-round Swiss tournament with participation of Ali Poyraz Uzdemir, Balazs Kovacs, Poyraz Efe Asici, Yasin Azimov, Jindrich Trejbal, Stoyan Iliev, Niklas []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u9-european-school-championship-2023/",
-         "pubDate" : "Sun, 14 May 2023 20:35:00 +0000",
-         "title" : "U9 European School Championship 2023"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U13 section is a 9-round Swiss tournament with participation of Hayri Beyhun Senel, Mert Can Sevig, Mateo Boci, Dikran Ozbulbul, Matvii Sobol, Nodar Ghviniashvili, Omer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u13-european-school-championship-2023-2/",
-         "pubDate" : "Sun, 14 May 2023 19:51:45 +0000",
-         "title" : "U13 European School Championship 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Executive Director of FIDE 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/victor-bologan",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/victor-bologan-its-more-about",
-         "pubDate" : "Sun, 14 May 2023 18:54:16 +0000",
-         "title" : "Victor Bologan: It's More About..."
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Caruana discusses his Italian line with Cristian 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-anish-did-everything",
-         "pubDate" : "Sun, 14 May 2023 18:54:16 +0000",
-         "title" : "Caruana: Anish Did Everything..."
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish shares his perspective on his game versus Caruana and gives another commentator&#039;s analysis on the remaining games. 2023.05.14<br /> GrandChessTour.org TODAY&#039;S GAMES | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Fabiano Caruana (4.5) vs. Anish Giri (4)<br /> Jan-Krzysztof Duda (3) vs. Alireza Firouzja (4.5)<br /> Ian Nepomniachtchi (2.5) vs. Wesley So (4)<br /> Ding Liren (2.5) vs. Richard Rapport (4)<br /> Maxime Vachier-Lagrave (3.5) vs. Bogdan-Daniel Deac (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-all-mocking-over-years",
-         "pubDate" : "Sun, 14 May 2023 18:54:16 +0000",
-         "title" : "Giri: All The Mocking Over The Years"
       },
       {
          "description" : " <p class=\"lead\">In Berlin, Germany, on May 14, 2023, the Armageddon Championship Series witnessed a victory by 19-year-old Bibisara Assaubayeva from Kazakhstan, who bulldozed over the world champions to win the Women's Week. This victory secured her a place in the Grand Finale in September, alongside the tournament's runner-up, Indian Grandmaster Humpy Koneru. Together, they will join an exciting line-up of finalists, including Wesley So, Sam Shankland, Gukesh D, and Nodirbek Abdusattorov, and compete for the main prize of €200,000. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-",
@@ -282,22 +346,6 @@ news_feed (
          "title" : "Grigory Levenfish (27 March 1889 - 9 February 1961): The Outsider of the Soviet Chess Champions"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after his win over Ding in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-many-ways-not-win-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ARUfNgkT9SE.jpg?itok=b5pELIpW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-many-ways-not-win-r7-superbetchessclassic",
-         "pubDate" : "Sun, 14 May 2023 12:54:11 +0000",
-         "title" : "Giri: Many Ways on NOT to Win | R7 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his win over Nepomniachtchi in Round 7 of the 2023 Superbet Chess Classic. 2023.05.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-its-not-anything-specialbut-interesting-r7-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NYY_-CLQLM8.jpg?itok=m_-REAPm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-its-not-anything-specialbut-interesting-r7-superbetchessclassic",
-         "pubDate" : "Sun, 14 May 2023 12:54:11 +0000",
-         "title" : "Firouzja: It's Not Anything Special...But Interesting | R7 #SuperbetChessClassic"
-      },
-      {
          "description" : "In this video, Svitlana puts you to the test by dissecting three splendid game examples. So, sharpen your strategic thinking and prepare to dive into the world of clever tactics and mind-bending manoeuvres because it is all about creativity! Let the games begin!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -336,22 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r7",
          "pubDate" : "Sun, 14 May 2023 02:30:00 +0100",
          "title" : "Superbet Classic: Firouzja beats Nepo, Giri beats Ding"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Firouzja discusses the opening idea that took his opponent Nepomniachtchi out of his prep in round 7 of 2023 Superbet Chess Classic 2023.05.13<br /> GrandChessTour.org TODAY&#039;S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. Wesley So<br /> (3.5) vs. Fabiano Caruana (4)<br /> Alireza Firouzja (3.5) vs. Ian Nepomniachtchi (2.5)<br /> Anish Giri (3) vs. Ding Liren (2.5)<br /> Jan-Krzysztof Duda (2.5) vs. Maxime Vachier-Lagrave (3)<br /> Richard Rapport (3.5) vs. Bogdan-Daniel Deac (2) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-nam",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-its-not-anything-specialbut-interesting",
-         "pubDate" : "Sun, 14 May 2023 00:53:52 +0000",
-         "title" : "FIROUZJA: It's Not Anything Special...But Interesting"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Giri discusses his game against recently crowned World Champion Ding Liren, taking advantage of fatigue players, and the many ways on NOT to win a tournament. 2023.05.13<br /> GrandChessTour.org TODAY&#039;S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. Wesley So<br /> (3.5) vs. Fabiano Caruana (4)<br /> Alireza Firouzja (3.5) vs. Ian Nepomniachtchi (2.5)<br /> Anish Giri (3) vs. Ding Liren (2.5)<br /> Jan-Krzysztof Duda (2.5) vs. Maxime Vachier-Lagrave (3)<br /> Richard Rapport (3.5) vs. Bogdan-Daniel Deac (2) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/girimany-ways-not-win",
-         "pubDate" : "Sat, 13 May 2023 21:53:45 +0000",
-         "title" : "GIRI...Many ways on NOT to win"
       },
       {
          "description" : "In round seven of the Superbet Classic Romania 2023, GM Alireza Firouzja caught GM Fabiano Caruana, the tournament leader for most of the event, by defeating GM Ian Nepomniachtchi and breaking down his attempt at a fortress. The two are now tied f...",
@@ -560,14 +592,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/may/12/chess-caruana-leads-in-bucharest-while-ding-and-nepomniachtchi-falter",
          "pubDate" : "Fri, 12 May 2023 07:00:48 +0000",
          "title" : "Chess: Caruana leads in Bucharest while Ding and Nepomniachtchi falter"
-      },
-      {
-         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
-         "pubDate" : "Fri, 12 May 2023 07:00:18 +0000",
-         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
       {
          "description" : " On April 22nd, the 1st HBCU Classic took place at Morris Brown College in Atlanta, Georgia. Students from nine different Historically-Black Colleges and Universities (&#8220;HBCUs&#8221;) came to participate in a historic event highlighting the importance of targeting overlooked segments of the global chess community. It was a beautiful event from so many perspectives. Most everyone The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/11/reflections-on-the-1st-hbcu-chess-classic/\">Reflections on the 1st HBCU Chess Classic</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -952,14 +976,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/mishra.html",
          "pubDate" : "Mon, 08 May 2023 13:28:00 +0000",
          "title" : "Mishra"
-      },
-      {
-         "description" : "The play of the 15th World Champion is appreciated from different perspectives in the current ChessBase Magazine: In Mihail Marin's article \"Anand as a positional ace\" you will find selected strategic masterpieces (and two interactive training videos). Karsten Mueller presents Anand's best endgames (including a detailed video introduction). And last but not least, our CBM authors Adhiban Baskaran, Imre Hera, David Navara, Igor Stohl, Yago Santiago and others present their favourite games of the \"Tiger of Madras\" - an exclusive collection of 26 victories from the period 1985 to 2022. You can watch Adhiban's analysis of the game Anand-Baron (2019) here! | Photo: Thomas Schloemann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-213-special-vishy-anand",
-         "pubDate" : "Mon, 08 May 2023 13:00:00 +0100",
-         "title" : "CBM #213 \"Special\": Vishy Anand"
       },
       {
          "description" : "Ian Nepomniachtchi and Richard Rapport picked up wins in Round 2 of the Superbet Chess Classic to join Wesley So in the lead. Nepomniachtchi took down Bogdan-Daniel Deac and will go into the Round 3 clash against Ding Liren with a chance to cross 2800 for the first time with a win. Rapport ground down Jan-Krzysztof Duda in what had at first looked sure to be a drawn ending.",
@@ -1586,14 +1602,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 13"
       },
       {
-         "description" : "The 131st Internet Based FIDE Arbiters' Seminar (English Chess Federation) was held from 15th to 22nd April 2023. It was organized by the English Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/131st-internet-based-fide-arbiters-seminar/",
-         "pubDate" : "Fri, 28 Apr 2023 14:26:13 +0000",
-         "title" : "131st Internet-based FIDE Arbiters' Seminar"
-      },
-      {
          "description" : "After 13 played games at the World Chess Championship Match 2023 between Ian Nepomniachtchi and Ding Liren, the result is tied 6.5-6.5. New World Chess Champion will be determined in the last classical game of the match or in the playoffs. Ian Nepomniachtchi had a full-point lead before the last two-game portions. Ding Liren once again bounced back&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/world-chess-championship-match-tied-after-13-games/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1784,22 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2359",
          "pubDate" : "Mon, 24 Apr 2023 16:40:36 +0000",
          "title" : "1st FIDE Council Meeting 2023: List of decisions"
-      },
-      {
-         "description" : " Finding brilliancies by Rashid Nezhmetdinov isn't a particularly hard task, as he played a vast number of them. However some stand out for other reasons, including the one below. After 15 moves White has most of his attacking force lined up across the third rank, which is normally not that threatening. But the jump of the knight to d5 sets the attack in motion, and it finishes with a nice set of scrifices. <br /> <b>Nezhmetdinov,Rashid - Kotkov,Yuri M [C67]</b><br /> RSFSR-ch 17th Krasnodar, 1957 <script> new PgnViewer( { boardName: \"game1393\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bd3 O-O 8.Nc3 Nxe5 9.Rxe5 Bf6 10.Re3 g6 11.Qf3 Bg7 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/forming-ranks.html",
-         "pubDate" : "Mon, 24 Apr 2023 14:08:00 +0000",
-         "title" : "Forming ranks"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2358",
-         "pubDate" : "Mon, 24 Apr 2023 12:30:20 +0000",
-         "title" : "Nepomniachtchi remains one point ahead of Ding after Game 11 draw"
       }
    ]
 }
