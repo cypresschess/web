@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former World Chess Champion Garry Kasparov sat down with Forbes Assistant Managing Editor Diane Brady at the 2023 Milken Institute Global Conference to discuss topics from Russia's invasion of Ukraine to the growing concern over artificial intelligence. The interview has been viewed 100,000 times - \" I found myself agreeing with almost everything that he said. What I found most enlightening was his stance on AI,\" commented Bob Fomenko.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-on-russia-ukraine-and-ai",
+         "pubDate" : "Mon, 15 May 2023 08:58:52 +0100",
+         "title" : "Kasparov on Russia, Ukraine and AI"
+      },
+      {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -70,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-8",
-         "pubDate" : "Sun, 14 May 2023 17:09:46 -0700",
+         "pubDate" : "Sun, 14 May 2023 17:09:00 -0700",
          "title" : "Duda Snaps Firouzja's Winning Run; Caruana Leads With 1 Round Remaining"
       },
       {
@@ -78,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-finals-gotham-knights-win",
-         "pubDate" : "Sun, 14 May 2023 16:31:19 -0700",
+         "pubDate" : "Sun, 14 May 2023 16:31:00 -0700",
          "title" : "Gotham Knights Dominate Shanghai Tigers To Win 2023 Title, Yogis Finish 3rd"
       },
       {
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://chessimprover.com/scary-movies/",
          "pubDate" : "Sun, 07 May 2023 18:36:56 +0000",
          "title" : "Scary Mov(i)es"
-      },
-      {
-         "description" : "A week after Ding Liren became the new world chess champion and a day after King Charless III was crowned in London, GM Jon Speelman reflects on the memorable match from Astana. Referring to Ding's much praised decision to play ...Rg6 in the deciding game, Speelman writes: \"That's the one moment of the match that I'm going to revisit, not so much from the technical point of view but the psychological. Decision-making in chess involves both pure chess skill and general intelligence, and the small calculated risk that Ding took was a prime example\". | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-193-2",
-         "pubDate" : "Sun, 07 May 2023 19:35:00 +0100",
-         "title" : "Long live the King!"
       },
       {
          "description" : " This was going to be another in our series \"A Foundation for Beginners\". However, I had a meeting with a student that brought up a very important consideration I want to share with you. It's something I believe so important that I should interject it into my stream of teaching articles. Let me explain: I <a href=\"https://chessimprover.com/a-quick-public-service-message/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Quick Public Service Message\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-quick-public-service-message/\">A Quick Public Service Message</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
