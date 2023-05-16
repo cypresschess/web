@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2395",
+         "pubDate" : "Tue, 16 May 2023 00:54:03 +0000",
+         "title" : "Fabiano Caruana wins 2023 Superbet Chess Classic"
+      },
+      {
          "description" : "Fabiano Caruana drew a sharp game against Richard Rapport to finish in clear first place in the Superbet Chess Classic, taking the $100,000 top prize and the maximum 13 Grand Chess Tour points. His pursuers could all only draw, though that was a good result for Anish Giri after he stumbled into a lost position against Ian Nepomniachtchi. Ding Liren regained the world no. 3 spot after ending with a fine win over Bogdan-Daniel Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -122,12 +130,12 @@ news_feed (
          "title" : "European School Championship Girls U17 - LIVE"
       },
       {
-         "description" : "GM Caruana Fabiano won clear first at the Superbet Classic Romania 2023. Entering the last round with a half-point lead, he drew a sharp theoretical battle in the English vs. GM Richard Rapport. The four players&#38;mdash;GM Anish Giri, GM Alireza Fir...",
+         "description" : "GM Fabiano&#38;nbsp;Caruana won clear first at the Superbet Classic Romania 2023&#38;nbsp;on Monday. Entering the last round with a half-point lead, he drew a sharp theoretical battle in the English vs. GM Richard Rapport. The four players&#38;mdash;GM Anish ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-9",
          "pubDate" : "Mon, 15 May 2023 09:48:00 -0700",
-         "title" : "Caruana Wins Superbet Classic Romania"
+         "title" : "Caruana Wins Superbet Classic, Takes Grand Chess Tour Lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his draw with MVL in Round 9 of the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-satisfying-start-year-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Er7tG39bkMY.jpg?itok=egX8NjDI\" alt=\"\" /></a></div>",
