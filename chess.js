@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2397",
+         "pubDate" : "Tue, 16 May 2023 20:14:46 +0000",
+         "title" : "FIDE WGP Nicosia: Six dominant performances in Cyprus"
+      },
+      {
          "description" : " Adham Fawzy was a surprise winner of the 2023 African Individual Chess Championship (AICC) held in Giza, Egypt. The 23-year-old Grandmaster scored an undefeated 8/9. He was followed by Grandmaster Bilel Bellahcene of Algeria and Bassem Amin of Egypt both of who had 7.5/9. Amin was upset by the Algerian and drew with Ahmed Adly The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/16/fawzy-wins-african-championship/\">Fawzy wins African Championship!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-rayna-ajay-patel/",
          "pubDate" : "Wed, 26 Apr 2023 03:58:41 +0000",
          "title" : "Congratulations Rayna Ajay Patel"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2361",
-         "pubDate" : "Tue, 25 Apr 2023 20:20:41 +0000",
-         "title" : "FIDE Circuit: Levon Aronian emerges as the new leader"
       }
    ]
 }
