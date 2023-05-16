@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2392",
+         "pubDate" : "Tue, 16 May 2023 13:31:06 +0000",
+         "title" : "Poland to host FIDE World Women's Team Championship 2023"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-67/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (67)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-67/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (67)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-67/",
+         "pubDate" : "Tue, 16 May 2023 13:06:43 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 18.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Tue, 16 May 2023 13:50:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Harika Dronavalli Bibisara Assaubayeva from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/harika-dronavalli-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Tue, 16 May 2023 12:16:46 +0000",
+         "title" : "Harika Dronavalli - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. It forms the fourth and final stage of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three of the four events. Players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nicosia-fide-womens-grand-prix-live/",
+         "pubDate" : "Tue, 16 May 2023 12:08:46 +0000",
+         "title" : "Nicosia FIDE Women's Grand Prix - LIVE"
+      },
+      {
          "description" : "The young Danish grandmaster Jonas Buhl Bjerre won the Capablanca Memorial in Havana by defeating Rasmus Svane in the final round. It is the second victory by a Dane in the series since Larsen's victory in 1967. | Photo: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/havana-jonas-buhl-bjerre-in-the-footsteps-of-bent-larsen",
          "pubDate" : "Tue, 16 May 2023 13:00:00 +0100",
          "title" : "Havana: Jonas Buhl Bjerre in the footsteps of Bent Larsen"
+      },
+      {
+         "description" : "We were deeply saddened to hear about the tragic passing of WIM Sue Maroroa Jones on Thursday 11th of May, shortly after giving birth to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/sue-maroroa-jones-1991-2023/",
+         "pubDate" : "Tue, 16 May 2023 11:58:19 +0000",
+         "title" : "Sue Maroroa Jones (1991-2023)"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Nana Dzagnidze Bella Khotenashvili from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nana-dzagnidze-bella-khotenashvili-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Tue, 16 May 2023 11:40:00 +0000",
+         "title" : "Nana Dzagnidze - Bella Khotenashvili, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Alexandra Kosteniuk Zhongyi Tan from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-zhongyi-tan-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Tue, 16 May 2023 11:20:00 +0000",
+         "title" : "Alexandra Kosteniuk - Zhongyi Tan, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "A draw with black in his game against Richard Rapport was enough for Fabiano Caruana to win the Superbet Chess Classic in Bucharest. None of the four players sharing second place before the final round managed to score a full point on Monday, thus allowing Caruana to claim clear first place, the $100,000 top prize and 13 GCT points. Meanwhile, world champion Ding Liren beat Bogdan-Daniel Deac with the black pieces. | Photo: Lennart Ootes",
@@ -18,12 +82,28 @@ news_feed (
          "title" : "Fabiano Caruana outright winner at Superbet Chess Classic in Romania"
       },
       {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Gunay Mammadzada from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oliwia-kiolbasa-gunay-mammadzada-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Tue, 16 May 2023 11:00:00 +0000",
+         "title" : "Oliwia Kiolbasa - Gunay Mammadzada, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "33rd National Under-17 Open &#38; Girls Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-17-Open-TT.html Girls : https://aicf.online/National-U-17-Girls-TT.html Any Correction mail at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-u-17-open-girls-certificates/",
          "pubDate" : "Tue, 16 May 2023 10:56:36 +0000",
          "title" : "National U-17 Open & Girls Certificates"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Kateryna Lagno Polina Shuvalova from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-polina-shuvalova-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Tue, 16 May 2023 10:45:00 +0000",
+         "title" : "Kateryna Lagno - Polina Shuvalova, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "After a week of intense and exciting blitz matches, the Armageddon Women's Week in Berlin came to an end on Sunday. In the final, Bibisara Assaubayeva beat Humpy Koneru. The organisers, World Chess, measured the players' heart rates during the games: The highest was 173 beats per minute. | Photos: World Chess",
@@ -58,12 +138,36 @@ news_feed (
          "title" : "Fabiano Caruana wins 2023 Superbet Chess Classic"
       },
       {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Dinara Wagner Aleksandra Goryachkina from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dinara-wagner-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Tue, 16 May 2023 00:25:00 +0000",
+         "title" : "Dinara Wagner - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "Fabiano Caruana drew a sharp game against Richard Rapport to finish in clear first place in the Superbet Chess Classic, taking the $100,000 top prize and the maximum 13 Grand Chess Tour points. His pursuers could all only draw, though that was a good result for Anish Giri after he stumbled into a lost position against Ian Nepomniachtchi. Ding Liren regained the world no. 3 spot after ending with a fine win over Bogdan-Daniel Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/fabiano-caruana-triumphs-in-superbet-chess-classic",
          "pubDate" : "Mon, 15 May 2023 23:27:21 +0000",
          "title" : "Fabiano Caruana triumphs in Superbet Chess Classic"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Bogdan-Daniel Deac Ding Liren from round 9 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live round 9 : Wesley So Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bogdan-daniel-deac-ding-liren-superbet-chess-classic-2023/",
+         "pubDate" : "Mon, 15 May 2023 22:30:00 +0000",
+         "title" : "Bogdan-Daniel Deac - Ding Liren, Superbet Chess Classic 2023"
+      },
+      {
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Anish Giri Ian Nepomniachtchi from round 9 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live round 9 : Wesley So Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-ian-nepomniachtchi-superbet-chess-classic-2023/",
+         "pubDate" : "Mon, 15 May 2023 22:30:00 +0000",
+         "title" : "Anish Giri - Ian Nepomniachtchi, Superbet Chess Classic 2023"
       },
       {
          "description" : "",
@@ -74,36 +178,12 @@ news_feed (
          "title" : "FIDE WGP: Five-time World Champion Vishy Anand welcomes players to Cyprus"
       },
       {
-         "description" : "The U17 European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U17 section is a 9-round Swiss tournament with participation of Huseyn&#xA0;Seyid, Metehan&#xA0;Ozen, Agil&#xA0;Israilov, Kelvin Kosta, Dmytro&#xA0;Biletskyy, Yurii&#xA0;Khrinovskyi, Ahmet&#xA0;Jusufi, etc. More : European School Championship []",
+         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Maxime Vachier-Lagrave from round 9 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live round 9 : Wesley So Jan-Krzysztof Duda []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u17-european-school-championship-2023-live/",
-         "pubDate" : "Mon, 15 May 2023 21:15:00 +0000",
-         "title" : "U17 European School Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U15 European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;u15 section is a 9-round Swiss tournament with participation of Hasan Huseyin&#xA0;Celik, Luka&#xA0;Kiladze, Tunar&#xA0;Davudov, Pehar, Melih Topuz Mirac, Ergit&#xA0;Ramaj, Alex&#xA0; Marjanovic, etc. More : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u15-european-school-championship-2023-live/",
-         "pubDate" : "Mon, 15 May 2023 20:45:00 +0000",
-         "title" : "U15 European School Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U13 section is a 9-round Swiss tournament with participation of Hayri Beyhun Senel, Mert Can Sevig, Mateo Boci, Dikran Ozbulbul, Matvii Sobol, Nodar Ghviniashvili, Omer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u13-european-school-championship-2023-live/",
-         "pubDate" : "Mon, 15 May 2023 20:25:00 +0000",
-         "title" : "U13 European School Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U11 section is a 9-round Swiss tournament with participation of Gabriel Gabadadze, Davit Tatvidze, Vladimir Sofronie, Maksym Pavlyk, Gorkem Unsal, Erdi Cani, Roman Molchanov, Oskar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u11-european-school-championship-2023-live/",
-         "pubDate" : "Mon, 15 May 2023 20:08:43 +0000",
-         "title" : "U11 European School Championship 2023 - LIVE"
+         "link" : "https://www.chessdom.com/alireza-firouzja-maxime-vachier-lagrave-superbet-chess-classic-2023/",
+         "pubDate" : "Mon, 15 May 2023 22:15:00 +0000",
+         "title" : "Alireza Firouzja - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
       },
       {
          "description" : "",
@@ -122,20 +202,12 @@ news_feed (
          "title" : "Caruana's Trophy and BIG Check Presentation! | R9 #SuperbetChessClassic"
       },
       {
-         "description" : "On the morning of Thursday, May 11, the chess world woke up to the unbearably sad news of the untimely death of 32-year-old WIM Sue Maroroa Jones, who represented New Zealand and England on the international stage. In a heartbreaking announcemen...",
+         "description" : "UPDATE: friends of Sue Maroroa Jones&#39;s family have asked us to include a link to a donations page set up to help support them at this very difficult time. Please click here if you want to make a donation.On the morning of Thursday, May 10, the che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sue-maroroa-jones-obituary-chess",
          "pubDate" : "Mon, 15 May 2023 11:20:00 -0700",
          "title" : "Sue Maroroa Jones (1991-2023)"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U9 section is a 9-round Swiss tournament with participation of Ali Poyraz Uzdemir, Balazs Kovacs, Poyraz Efe Asici, Yasin Azimov, Jindrich Trejbal, Stoyan Iliev, Niklas []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u9-european-school-championship-2023-live/",
-         "pubDate" : "Mon, 15 May 2023 17:30:00 +0000",
-         "title" : "U9 European School Championship 2023 - LIVE"
       },
       {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series begins on Tuesday, with Aleksandra Goryachkina the rating favourite. Zhu Jiner is leading the overall GP standings. However, the Chinese WGM has already participated in three tournaments, and thus will not be playing in Nicosia.",
@@ -146,28 +218,12 @@ news_feed (
          "title" : "Women's Grand Prix in Nicosia"
       },
       {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U7 section is a 9-round Swiss tournament with participation of Szymon Tryburski, Hans Pereira, Ilankathir Vanjinathan, Dionis Kajana, Brajan Qazimi, Art Kerraj, Ajan Luca, Dasar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u7-european-school-championship-2023-live/",
-         "pubDate" : "Mon, 15 May 2023 17:10:00 +0000",
-         "title" : "U7 European School Championship 2023 - LIVE"
-      },
-      {
          "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the German \"Bundesliga\". | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-240-highlights-from-the-bundesliga",
          "pubDate" : "Mon, 15 May 2023 18:00:00 +0100",
          "title" : "Endgame Magic #240: Highlights from the \"Bundesliga\""
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U17 section is an 11-player round-robin tournament with participation of Klean Shuqja, Zeynep Ciftci, Daria Bondar, Milena Mosurovic, Sudenaz Yalcin, Petya Karaivanova, Nazli Humbatova, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u17-live/",
-         "pubDate" : "Mon, 15 May 2023 16:55:20 +0000",
-         "title" : "European School Championship Girls U17 - LIVE"
       },
       {
          "description" : "GM Fabiano&#38;nbsp;Caruana won clear first at the Superbet Classic Romania 2023&#38;nbsp;on Monday. Entering the last round with a half-point lead, he drew a sharp theoretical battle in the English vs. GM Richard Rapport. The four players&#38;mdash;GM Anish ...",
@@ -200,30 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ding-i-have-go-back-rest-r9-superbetchessclassic",
          "pubDate" : "Mon, 15 May 2023 15:55:21 +0000",
          "title" : "Ding: I Have to Go Back to Rest | R9 #SuperbetChessClassic"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#160;Girls U15 section is an 9-player round-robin tournament with participation of Adela Janouskova, Lulu Diasamidze, Anastasia Kirtadze, Mariam Tsetskhladze, Eklea Omeri, Nurtan Nuriyeva, Dua Rexhepi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u15-live/",
-         "pubDate" : "Mon, 15 May 2023 15:30:00 +0000",
-         "title" : "European School Championship Girls U15 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 7-round Swiss system tournament with participation of Mariam Kalandadze, Ula Rudzinskaite, Dea Ramaj, Veronika Rostykus, Iris Hasko, Zeynep Acar, Vladyslava []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u13-live/",
-         "pubDate" : "Mon, 15 May 2023 15:10:00 +0000",
-         "title" : "European School Championship Girls U13 - LIVE"
-      },
-      {
-         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 9-round Swiss system tournament with participation of Ilijana Veleva, Anastasia Chichinadze, Selin Torun, Ailin Ndreko, Eliska Janouskova, Sofiia Rohoza, Aneta []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-championship-girls-u11-live/",
-         "pubDate" : "Mon, 15 May 2023 14:50:00 +0000",
-         "title" : "European School Championship Girls U11 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-6-grandchesstour\"><img src=\"https:",
@@ -407,7 +439,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-finals-gotham-knights-win",
          "pubDate" : "Sun, 14 May 2023 16:31:00 -0700",
-         "title" : "Gotham Knights Dominate Shanghai Tigers To Win 2023 Title, Yogis Finish 3rd"
+         "title" : "Gotham Knights Beat Shanghai Tigers To Win 2023 Title, Yogis Finish 3rd"
       },
       {
          "description" : "",
@@ -962,14 +994,6 @@ news_feed (
          "title" : "2023 African Individual Championships"
       },
       {
-         "description" : "This Livestream is mind-blowing because some of the greatest master coaches in the world were interviewed for their best chess advice, what coaching methods they use, and how tactics, blitz games, and engine usage are dealt with. Ivan Sokolov, Ramesh, Karsten Mueller, Jan Markos, Robert Ris, Daniel King, Harald Schneider-Zinner, Rustam Kasimdzhanov, and Dorian Rogozenco all gave instructive, and fascinating answers to Arne Kaehler's questions. Discover the secrets behind the world's top chess coaches!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-coaches-offer-their-best-chess-advice-for-you",
-         "pubDate" : "Tue, 09 May 2023 13:42:39 +0100",
-         "title" : "Best chess advice from master coaches!"
-      },
-      {
          "description" : "Ding Liren confessed \"I forgot the moves\" as he stumbled into a close to lost position against Ian Nepomniachtchi in Round 3 of the Superbet Chess Classic. Just as in the second half of the match, however, Ding managed to survive, thus denying his opponent a 2800 rating. Elsewhere the one decisive game saw Fabiano Caruana beat Maxime Vachier-Lagrave in only 23 moves to join Richard Rapport, Wesley So and Nepo in the lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1450,14 +1474,6 @@ news_feed (
          "title" : "English Seniors Chess Championships 2023"
       },
       {
-         "description" : "The English and English Women's Championships will take place between Friday 26th May and Bank Holiday Monday 29th May 2023 at the Holiday Inn Kenilworth-Warwick,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2023/",
-         "pubDate" : "Mon, 01 May 2023 08:00:07 +0000",
-         "title" : "English and English Women's Chess Championships 2023"
-      },
-      {
          "description" : "33rd National Under-17 Open &#38; Girls Live Game Link Open : https://view.livechesscloud.com/#4708d594-4463-456d-a2e2-b89675c50d3c Girls : https://view.livechesscloud.com/#68a69455-3252-4032-8bf8-e14c0f77e007",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1784,14 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2361",
          "pubDate" : "Tue, 25 Apr 2023 20:20:41 +0000",
          "title" : "FIDE Circuit: Levon Aronian emerges as the new leader"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen A quick historical recap should include the Meran variation being played for the first time in 1906 in the game Schlechter-Perlis. It got its name after the town of Merano <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/\">Nee",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-qgd-semi-slav-defense-meran-variation-edition/",
-         "pubDate" : "Tue, 25 Apr 2023 19:15:51 +0000",
-         "title" : "Need sure points? QGD, Semi-Slav Defense, Meran Variation Edition"
       },
       {
          "description" : "In a recent post for the long running series 'Top eBay Chess Items', the one titled <A HREF=\"https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html\">Poster Perfect Chess Art</A> (March 2023), I gave myself a couple of follow-up actions:- <BLOCKQUOTE> Vasarely produced other chess related works. Cataloging them would make a good rainy day project. Add to that catalog the 1976 series of Olympiad posters. </BLOCKQUOTE> <P> I searched my database of chess images, most of them taken from eBay, and discovered that there were ten different posters for the 1976 Olympiad. All ten are shown below in alphabetical order by artist. The thumbnails aren't particularly good, but they sho",
