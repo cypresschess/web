@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Adham Fawzy was a surprise winner of the 2023 African Individual Chess Championship (AICC) held in Giza, Egypt. The 23-year-old Grandmaster scored an undefeated 8/9. He was followed by Grandmaster Bilel Bellahcene of Algeria and Bassem Amin of Egypt both of who had 7.5/9. Amin was upset by the Algerian and drew with Ahmed Adly The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/16/fawzy-wins-african-championship/\">Fawzy wins African Championship!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/16/fawzy-wins-african-championship/",
+         "pubDate" : "Tue, 16 May 2023 17:57:02 +0000",
+         "title" : "Fawzy wins African Championship!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2396",
+         "pubDate" : "Tue, 16 May 2023 15:45:29 +0000",
+         "title" : "Asian Continental Chess Championships 2023: Registration is open"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -202,7 +218,7 @@ news_feed (
          "title" : "Caruana's Trophy and BIG Check Presentation! | R9 #SuperbetChessClassic"
       },
       {
-         "description" : "UPDATE: friends of Sue Maroroa Jones&#39;s family have asked us to include a link to a donations page set up to help support them at this very difficult time. Please click here if you want to make a donation.On the morning of Thursday, May 10, the che...",
+         "description" : "UPDATE: friends of Sue Maroroa Jones&#39;s family have asked us to include a link to a donations page set up to help support them at this very difficult time. Please click here if you want to make a donation.On the morning of Thursday, May 11, the che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sue-maroroa-jones-obituary-chess",
@@ -1730,14 +1746,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting - CL No.1/2023"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 11: Not much happening Nepo holds lead Match Score: 6-5 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 11Monday, 24 April 2023 The World Chess Championship just moved to the final phase after yet another drawn game in Game 11. This one was without The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-11/\">2023 World Chess Championship: Game 11</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/26/2023-world-chess-championship-game-11/",
-         "pubDate" : "Wed, 26 Apr 2023 21:48:34 +0000",
-         "title" : "2023 World Chess Championship: Game 11"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2361",
          "pubDate" : "Tue, 25 Apr 2023 20:20:41 +0000",
          "title" : "FIDE Circuit: Levon Aronian emerges as the new leader"
-      },
-      {
-         "description" : "In a recent post for the long running series 'Top eBay Chess Items', the one titled <A HREF=\"https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html\">Poster Perfect Chess Art</A> (March 2023), I gave myself a couple of follow-up actions:- <BLOCKQUOTE> Vasarely produced other chess related works. Cataloging them would make a good rainy day project. Add to that catalog the 1976 series of Olympiad posters. </BLOCKQUOTE> <P> I searched my database of chess images, most of them taken from eBay, and discovered that there were ten different posters for the 1976 Olympiad. All ten are shown below in alphabetical order by artist. The thumbnails aren't particularly good, but they sho",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/1976-haifa-olympiad-artwork.html",
-         "pubDate" : "Tue, 25 Apr 2023 15:34:00 +0000",
-         "title" : "1976 Haifa Olympiad Artwork"
       }
    ]
 }
