@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The young Danish grandmaster Jonas Buhl Bjerre won the Capablanca Memorial in Havana by defeating Rasmus Svane in the final round. It is the second victory by a Dane in the series since Larsen's victory in 1967. | Photo: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/havana-jonas-buhl-bjerre-in-the-footsteps-of-bent-larsen",
+         "pubDate" : "Tue, 16 May 2023 13:00:00 +0100",
+         "title" : "Havana: Jonas Buhl Bjerre in the footsteps of Bent Larsen"
+      },
+      {
+         "description" : "A draw with black in his game against Richard Rapport was enough for Fabiano Caruana to win the Superbet Chess Classic in Bucharest. None of the four players sharing second place before the final round managed to score a full point on Monday, thus allowing Caruana to claim clear first place, the $100,000 top prize and 13 GCT points. Meanwhile, world champion Ding Liren beat Bogdan-Daniel Deac with the black pieces. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r9",
+         "pubDate" : "Tue, 16 May 2023 12:15:00 +0100",
+         "title" : "Fabiano Caruana outright winner at Superbet Chess Classic in Romania"
+      },
+      {
+         "description" : "33rd National Under-17 Open &#38; Girls Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-17-Open-TT.html Girls : https://aicf.online/National-U-17-Girls-TT.html Any Correction mail at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-17-open-girls-certificates/",
+         "pubDate" : "Tue, 16 May 2023 10:56:36 +0000",
+         "title" : "National U-17 Open & Girls Certificates"
+      },
+      {
+         "description" : "After a week of intense and exciting blitz matches, the Armageddon Women's Week in Berlin came to an end on Sunday. In the final, Bibisara Assaubayeva beat Humpy Koneru. The organisers, World Chess, measured the players' heart rates during the games: The highest was 173 beats per minute. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/assaubayeva-wins-world-chess-armageddon-women-s-week",
+         "pubDate" : "Tue, 16 May 2023 11:00:00 +0100",
+         "title" : "Assaubayeva wins World Chess Armageddon Women's Week"
+      },
+      {
          "description" : "Zugzwang is a typical endgame motif. Often it is a weapon of the attacker. But when both sides are in Zugzwang in a critical position, great care must be taken. The diagram position, in which it is White to move, shows a case of mutual Zugzwang. What should White do to save the draw?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2394",
          "pubDate" : "Mon, 15 May 2023 22:21:05 +0000",
          "title" : "FIDE WGP: Five-time World Champion Vishy Anand welcomes players to Cyprus"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. Live Round 8 : Replay round 7: Jan-Krzysztof Duda Maxime Vachier-Lagrave / Alireza Firouzja Ian Nepomniachtchi / Wesley So Fabiano Caruana / Anish Giri Ding Liren / Richard Rapport Bogdan-Daniel Deac More about the Grand Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/superbet-chess-classic-2023-round-8-live/",
-         "pubDate" : "Mon, 15 May 2023 21:35:00 +0000",
-         "title" : "Superbet Chess Classic 2023 - Round 8 LIVE"
       },
       {
          "description" : "The U17 European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;U17 section is a 9-round Swiss tournament with participation of Huseyn&#xA0;Seyid, Metehan&#xA0;Ozen, Agil&#xA0;Israilov, Kelvin Kosta, Dmytro&#xA0;Biletskyy, Yurii&#xA0;Khrinovskyi, Ahmet&#xA0;Jusufi, etc. More : European School Championship []",
@@ -192,6 +216,14 @@ news_feed (
          "link" : "https://www.chessdom.com/european-school-championship-girls-u13-live/",
          "pubDate" : "Mon, 15 May 2023 15:10:00 +0000",
          "title" : "European School Championship Girls U13 - LIVE"
+      },
+      {
+         "description" : "The European School Championship 2023 is taking place from 13&#x2013;21 May 2023 in Durres, Albania. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;Girls U13 section is an 9-round Swiss system tournament with participation of Ilijana Veleva, Anastasia Chichinadze, Selin Torun, Ailin Ndreko, Eliska Janouskova, Sofiia Rohoza, Aneta []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-championship-girls-u11-live/",
+         "pubDate" : "Mon, 15 May 2023 14:50:00 +0000",
+         "title" : "European School Championship Girls U11 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-6-grandchesstour\"><img src=\"https:",
@@ -938,14 +970,6 @@ news_feed (
          "title" : "Best chess advice from master coaches!"
       },
       {
-         "description" : "Chess journalist Harald Fietz, who experienced Viktor Kortschnoi in person, treated himself to the Fritztrainers \"Viktor Kortschnoi: My life for chess\" and \"Masterclass: Viktor Kortschnoi\". In one the master speaks himself, in the other, they talk about him. Both Fritztrainers offer plenty of chess thrills, says Fietz in his review.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/by-and-about-viktor-kortschnoi-a-review",
-         "pubDate" : "Tue, 09 May 2023 13:41:33 +0100",
-         "title" : "By and about Viktor Kortschnoi - a review"
-      },
-      {
          "description" : "Ding Liren confessed \"I forgot the moves\" as he stumbled into a close to lost position against Ian Nepomniachtchi in Round 3 of the Superbet Chess Classic. Just as in the second half of the match, however, Ding managed to survive, thus denying his opponent a 2800 rating. Elsewhere the one decisive game saw Fabiano Caruana beat Maxime Vachier-Lagrave in only 23 moves to join Richard Rapport, Wesley So and Nepo in the lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -968,22 +992,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-april-2023/",
          "pubDate" : "Tue, 09 May 2023 08:12:45 +0000",
          "title" : "ECU E-Magazine April 2023"
-      },
-      {
-         "description" : "This is the main guideline in endgames with rook and knight against rook and knight. In the diagram position Black wins thanks to the strong passed e-pawn. But how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-light-initiative-weighs-heavily",
-         "pubDate" : "Tue, 09 May 2023 09:00:00 +0100",
-         "title" : "A light initiative weighs heavily"
-      },
-      {
-         "description" : "Abhimanyu Mishra and Peter Svidler continue to share the lead at the TePe Sigeman & Co tournament in Malm&ouml;. With two rounds to go, Dommaraju Gukesh and Nils Grandelius are still trailing the leaders by a half point. In round 5, Jorden van Foreest's stubbornness paid off, as he scored a win over Arjun Erigaisi after the latter blundered in a long-winded, drawn rook endgame. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r5",
-         "pubDate" : "Tue, 09 May 2023 08:35:00 +0100",
-         "title" : "TePe Sigeman: Van Foreest scores unlikely win"
       },
       {
          "description" : "",
@@ -1792,22 +1800,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/1976-haifa-olympiad-artwork.html",
          "pubDate" : "Tue, 25 Apr 2023 15:34:00 +0000",
          "title" : "1976 Haifa Olympiad Artwork"
-      },
-      {
-         "description" : " Four teams took part in a Hybrid Friendly organised today by the Hobson Bay Chess Club. The teams consisted of 6 junior players representing Invercargill (NZ), ACTJCL (ACT), Kingsley Chess Club (WA), and Hobson Bay Chess Club (VIC). Each team played a central venue, and were supervised by an onsite arbiter. Hosted on the Tornelo website, the event was a teams round robin, played with a time limit of 30m+15s. After the 3 rounds were completed, the ACTJCL team finished in 1st place, winning all their matches (4-2,4-2, and 5-1). Invercargill finished 2nd with 2 match wins, Kingsley CC third with one win, and HBCC finished 4th. All matches were hard fought, and often the final margin of victory",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/junior-hybrid-friendly.html",
-         "pubDate" : "Tue, 25 Apr 2023 11:24:00 +0000",
-         "title" : "Junior Hybrid Friendly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2360",
-         "pubDate" : "Tue, 25 Apr 2023 09:24:33 +0000",
-         "title" : "Scholastic chess x FIDE: the goal is 50 million kids"
       }
    ]
 }
