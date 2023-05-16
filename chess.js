@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Zugzwang is a typical endgame motif. Often it is a weapon of the attacker. But when both sides are in Zugzwang in a critical position, great care must be taken. The diagram position, in which it is White to move, shows a case of mutual Zugzwang. What should White do to save the draw?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beware-of-reciprocal-zugzwang",
+         "pubDate" : "Tue, 16 May 2023 09:00:00 +0100",
+         "title" : "Beware of reciprocal Zugzwang"
+      },
+      {
+         "description" : "In today's episode Robert presents a rapid game that is quite stunning. When you use a very solid set-up like the London System, the move order is less important as long as you understand the basic ideas. And although the underdog in this game made a few small mistakes here and there, the Grandmaster on the other side of the board couldn't find a way to gain a clear winning advantage. Watch this fascinating game with Robert Ris!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-shocker-elo-1493-wins-vs-elo-2584-with-the-london-system",
+         "pubDate" : "Tue, 16 May 2023 07:19:05 +0100",
+         "title" : "Chess Shocker: Elo 1493 wins vs. Elo 2584 with the London System!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -970,14 +986,6 @@ news_feed (
          "title" : "TePe Sigeman: Van Foreest scores unlikely win"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 124th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-6",
-         "pubDate" : "Tue, 09 May 2023 07:20:58 +0100",
-         "title" : "Understanding before Moving 124: Chess history in a nutshell (6)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-3",
          "pubDate" : "Mon, 08 May 2023 15:15:00 -0700",
          "title" : "Caruana Rattles Vachier-Lagrave With 3.h4!?, Joins Leaders"
-      },
-      {
-         "description" : "Four players are sharing the lead on 2/3 points at the Superbet Chess Classic in Bucharest. The latest addition to the leading pack is Fabiano Caruana, who defeated Maxime Vachier-Lagrave in the only decisive game of round 3. In the marquee encounter of the round, Ian Nepomniachtchi could not make the most of his advantage in his game with white against Ding Liren. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r3",
-         "pubDate" : "Mon, 08 May 2023 23:00:00 +0100",
-         "title" : "Superbet Classic: Caruana bamboozles Vachier-Lagrave"
       },
       {
          "description" : "",
