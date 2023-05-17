@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #568, Merijn van Delft takes a look at Fabiano Caruana's fine win against Ian Nepomniachtchi at the Grand Chess Tour tournament in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-567-gukesh-vs-keymer-2",
+         "pubDate" : "Wed, 17 May 2023 23:40:03 +0100",
+         "title" : "Game of the Week #568: F. Caruana vs I. Nepomniachtchi"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2400",
+         "pubDate" : "Wed, 17 May 2023 22:12:04 +0000",
+         "title" : "Czech Championship 2023: David Navara and Julia Movsesian win titles"
+      },
+      {
+         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Masters []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-masters-section-live/",
+         "pubDate" : "Wed, 17 May 2023 21:44:09 +0000",
+         "title" : "6th Sharjah Masters 2023 Masters Section - LIVE"
+      },
+      {
+         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Challengers []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-challengers-section-live/",
+         "pubDate" : "Wed, 17 May 2023 21:25:00 +0000",
+         "title" : "6th Sharjah Masters 2023 Challengers Section - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2399",
+         "pubDate" : "Wed, 17 May 2023 20:57:38 +0000",
+         "title" : "FIDE WGP Nicosia: Lagno and Tan Zhongyi lead with 2/2"
+      },
+      {
+         "description" : "GM Pranav V won the Winners Bracket and IM Read Samadov won the Losers Bracket of Qualifier 1 to both qualify for the Junior Speed Chess Championship 2023 Main Event.&#38;nbsp; Pranav V qualified convincingly, winning nearly all his games in his sem...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-junior-speed-chess-championship-qualifier-1",
+         "pubDate" : "Wed, 17 May 2023 12:48:00 -0700",
+         "title" : "Pranav V, Samadov Qualify For JSCC Main Event"
+      },
+      {
          "description" : "GMs Shakhriyar Mamedyarov and Oleksandr Bortnyk found the keys to victory in Titled Tuesday on May 16. Mamedyarov won on tiebreaks over GMs Hikaru Nakamura and Nitzan Steinberg, while Bortnyk won outright by half a point over GM Matthias Bluebaum....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -170,14 +218,6 @@ news_feed (
          "title" : "Harika Dronavalli - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. It forms the fourth and final stage of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three of the four events. Players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nicosia-fide-womens-grand-prix-live/",
-         "pubDate" : "Tue, 16 May 2023 12:08:46 +0000",
-         "title" : "Nicosia FIDE Women's Grand Prix - LIVE"
-      },
-      {
          "description" : "The young Danish grandmaster Jonas Buhl Bjerre won the Capablanca Memorial in Havana by defeating Rasmus Svane in the final round. It is the second victory by a Dane in the series since Larsen's victory in 1967. | Photo: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +232,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/sue-maroroa-jones-1991-2023/",
          "pubDate" : "Tue, 16 May 2023 11:58:19 +0000",
          "title" : "Sue Maroroa Jones (1991-2023)"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Nana Dzagnidze Bella Khotenashvili from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nana-dzagnidze-bella-khotenashvili-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 16 May 2023 11:40:00 +0000",
-         "title" : "Nana Dzagnidze - Bella Khotenashvili, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "A draw with black in his game against Richard Rapport was enough for Fabiano Caruana to win the Superbet Chess Classic in Bucharest. None of the four players sharing second place before the final round managed to score a full point on Monday, thus allowing Caruana to claim clear first place, the $100,000 top prize and 13 GCT points. Meanwhile, world champion Ding Liren beat Bogdan-Daniel Deac with the black pieces. | Photo: Lennart Ootes",
@@ -930,14 +962,6 @@ news_feed (
          "title" : "Firouzja Defeats A World Champion For 1st Time"
       },
       {
-         "description" : "After Sagar Shah, founder and driving force behind Chessbase India, spoke to former World Champion Vishy Anand about the dramatic World Championship match between Ian Nepomniachtchi and Ding Liren, Sagar also interviewed former World Champion Vladimir Kramnik on the same subject. As a supporter of \"Team Nepo\" Kramnik was directly involved in the World Championship match. In the interview, Kramnik talked about his work with Nepomniachtchi, the critical moments of the match, opening preparation, nervousness in World Championship matches and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-analyses-the-world-championship-match-between-nepomniachtchi-and-ding-liren",
-         "pubDate" : "Wed, 10 May 2023 20:00:00 +0100",
-         "title" : "Kramnik analyses the World Championship match between Nepomniachtchi and Ding Liren"
-      },
-      {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1344,14 +1368,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/",
          "pubDate" : "Thu, 04 May 2023 03:29:16 +0000",
          "title" : "US Chess on HBCU Chess"
-      },
-      {
-         "description" : "The second edition of ChessKid Stars vs. Streamers is set for Sunday, May 14 at 1 p.m. Pacific / 4 p.m. Eastern. Some of the world&#38;rsquo;s top young chess talents will take on some of the most famous faces in the world of chess content creation,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-stars-vs-streamers-rematch-announced",
-         "pubDate" : "Wed, 03 May 2023 15:27:00 -0700",
-         "title" : "ChessKid Stars vs Streamers: Rematch Set For May 14"
       },
       {
          "description" : " A few weeks ago I posted about the 1000 puzzle challenge. This was challenging my students to do1000 puzzles on lichess during the school holidays. It turns out that one of my students completed the challenge, which is an awesome effort. To put that into perspective, I could only manage 400 puzzles in the same time period, while other students hit the wall (so to speak) at around 250. So well done to Daniel Z! ",
