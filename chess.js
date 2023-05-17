@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth and final stage of the Women's Grand Prix series kicked off in Cyprus. All six round-1 games finished decisively. The biggest shocker was Dinara Wagner's victory over Aleksandra Goryachkina - the latter entered the tournament in second place in the series' overall ranking, only behind Zhu Jiner, who is not playing in Nicosia. Kateryna Lagno, Tan Zhongyi, Nana Dzagnidze, Harika Dronavalli and Gunay Mammadzada also scored full points. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r1",
+         "pubDate" : "Wed, 17 May 2023 04:50:00 +0100",
+         "title" : "Nicosia GP: Six (out of six) decisive results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-67/",
          "pubDate" : "Tue, 16 May 2023 13:06:43 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 18.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Tue, 16 May 2023 13:50:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
       },
       {
          "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Harika Dronavalli Bibisara Assaubayeva from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
