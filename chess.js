@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Exhibitions to feature star-studded and historically significant pieces connected to musical, chess and literary figures including Katy Perry, Bobby Fischer, Julian Casablancas, Garry Kasparov and T. S. Eliot premiere at the World Chess Hall of Fame on May 17. \"Sound Moves: Where Music Meets Chess\" and \"T. S. Eliot: A Game of Chess\" are the two, all-new exhibitions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ts-eliot-a-game-of-chess-premiere-wchof",
+         "pubDate" : "Wed, 17 May 2023 13:10:16 +0100",
+         "title" : "\"T. S. Eliot: A Game of Chess\" one of two exhibitions to premiere at World Chess Hall of Fame"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2398",
+         "pubDate" : "Wed, 17 May 2023 11:06:38 +0000",
+         "title" : "FIDE World Amateur Championships 2023: Registration is open"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bibisara Assaubayeva Polina Shuvalova from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bibisara-assaubayeva-polina-shuvalova-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Wed, 17 May 2023 11:04:02 +0000",
+         "title" : "Bibisara Assaubayeva - Polina Shuvalova, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Kateryna Lagno from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-kateryna-lagno-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Wed, 17 May 2023 10:50:00 +0000",
+         "title" : "Gunay Mammadzada - Kateryna Lagno, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Oliwia Kiolbasa from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhongyi-tan-oliwia-kiolbasa-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Wed, 17 May 2023 10:35:00 +0000",
+         "title" : "Zhongyi Tan - Oliwia Kiolbasa, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bella Khotenashvili Alexandra Kosteniuk from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bella-khotenashvili-alexandra-kosteniuk-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Wed, 17 May 2023 10:30:00 +0000",
+         "title" : "Bella Khotenashvili - Alexandra Kosteniuk, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Aleksandra Goryachkina Nana Dzagnidze from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-nana-dzagnidze-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Wed, 17 May 2023 10:11:00 +0000",
+         "title" : "Aleksandra Goryachkina - Nana Dzagnidze, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Harika Dronavalli Dinara Wagner from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/harika-dronavalli-dinara-wagner-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Wed, 17 May 2023 09:50:00 +0000",
+         "title" : "Harika Dronavalli - Dinara Wagner, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "The tournament starts today, in the world's biggest chess club. The 6th Sharjah Masters 2023 is taking place from May 17th (first round) to 26th (departure). Participating are around 100 grandmaster, among them at least 30 of the world's top 100 players, making this the strongest open in history. There are a lot of young talents, players in their late teens and early twenties, with ratings around 2700. It's going to be exciting to watch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-1",
-         "pubDate" : "Tue, 16 May 2023 22:22:24 -0700",
+         "pubDate" : "Tue, 16 May 2023 22:22:00 -0700",
          "title" : "All Decisive Games: Wagner Beats Top Seed, Tan Bests Kosteniuk"
       },
       {
@@ -122,28 +186,12 @@ news_feed (
          "title" : "Fabiano Caruana outright winner at Superbet Chess Classic in Romania"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Gunay Mammadzada from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-gunay-mammadzada-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 16 May 2023 11:00:00 +0000",
-         "title" : "Oliwia Kiolbasa - Gunay Mammadzada, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "33rd National Under-17 Open &#38; Girls Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-17-Open-TT.html Girls : https://aicf.online/National-U-17-Girls-TT.html Any Correction mail at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-u-17-open-girls-certificates/",
          "pubDate" : "Tue, 16 May 2023 10:56:36 +0000",
          "title" : "National U-17 Open & Girls Certificates"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Kateryna Lagno Polina Shuvalova from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-polina-shuvalova-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 16 May 2023 10:45:00 +0000",
-         "title" : "Kateryna Lagno - Polina Shuvalova, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "After a week of intense and exciting blitz matches, the Armageddon Women's Week in Berlin came to an end on Sunday. In the final, Bibisara Assaubayeva beat Humpy Koneru. The organisers, World Chess, measured the players' heart rates during the games: The highest was 173 beats per minute. | Photos: World Chess",
@@ -178,14 +226,6 @@ news_feed (
          "title" : "Fabiano Caruana wins 2023 Superbet Chess Classic"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Dinara Wagner Aleksandra Goryachkina from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dinara-wagner-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 16 May 2023 00:25:00 +0000",
-         "title" : "Dinara Wagner - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "Fabiano Caruana drew a sharp game against Richard Rapport to finish in clear first place in the Superbet Chess Classic, taking the $100,000 top prize and the maximum 13 Grand Chess Tour points. His pursuers could all only draw, though that was a good result for Anish Giri after he stumbled into a lost position against Ian Nepomniachtchi. Ding Liren regained the world no. 3 spot after ending with a fine win over Bogdan-Daniel Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -194,36 +234,12 @@ news_feed (
          "title" : "Fabiano Caruana triumphs in Superbet Chess Classic"
       },
       {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Bogdan-Daniel Deac Ding Liren from round 9 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live round 9 : Wesley So Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bogdan-daniel-deac-ding-liren-superbet-chess-classic-2023/",
-         "pubDate" : "Mon, 15 May 2023 22:30:00 +0000",
-         "title" : "Bogdan-Daniel Deac - Ding Liren, Superbet Chess Classic 2023"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Anish Giri Ian Nepomniachtchi from round 9 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live round 9 : Wesley So Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-ian-nepomniachtchi-superbet-chess-classic-2023/",
-         "pubDate" : "Mon, 15 May 2023 22:30:00 +0000",
-         "title" : "Anish Giri - Ian Nepomniachtchi, Superbet Chess Classic 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2394",
          "pubDate" : "Mon, 15 May 2023 22:21:05 +0000",
          "title" : "FIDE WGP: Five-time World Champion Vishy Anand welcomes players to Cyprus"
-      },
-      {
-         "description" : "The Superbet Chess Classic 2023 is taking place from 06-15 May in Bucharest, Romania. This is the game Alireza Firouzja Maxime Vachier-Lagrave from round 9 of Superbet Chess Classic 2023 part of Grand Chess Tour 2023. The other live games of the round include : Live round 9 : Wesley So Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-maxime-vachier-lagrave-superbet-chess-classic-2023/",
-         "pubDate" : "Mon, 15 May 2023 22:15:00 +0000",
-         "title" : "Alireza Firouzja - Maxime Vachier-Lagrave, Superbet Chess Classic 2023"
       },
       {
          "description" : "",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-caruana-beats-nepomniachtchi",
          "pubDate" : "Wed, 10 May 2023 10:48:46 +0000",
          "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
-      },
-      {
-         "description" : "In the penultimate round of the TePe Sigeman & Co tournament in Malm&ouml;, points were split on all four boards, which means Peter Svidler and Abhimanyu Mishra remain at the top of the standings. Wednesday's round kicks off three hours earlier than usual. Svidler will play black against Dommaraju Gukesh, while Abhimanyu will face Boris Gelfand with the white pieces. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r6",
-         "pubDate" : "Wed, 10 May 2023 04:00:00 +0100",
-         "title" : "TePe Sigeman: Two leaders, one round to go"
       },
       {
          "description" : "",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-loses-game-12-after-almost-having-the-title-within-his-grasp",
          "pubDate" : "Wed, 26 Apr 2023 15:46:00 +0400",
          "title" : "Nepomniachtchi loses game 12 after almost having the title within his grasp - 12"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/v9uRj8qT8h8\" width=\"320\" youtube-src-id=\"v9uRj8qT8h8\"></iframe></div><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/check-this-out.html",
-         "pubDate" : "Wed, 26 Apr 2023 11:21:00 +0000",
-         "title" : "Check this out"
       }
    ]
 }
