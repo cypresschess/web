@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tournament starts today, in the world's biggest chess club. The 6th Sharjah Masters 2023 is taking place from May 17th (first round) to 26th (departure). Participating are around 100 grandmaster, among them at least 30 of the world's top 100 players, making this the strongest open in history. There are a lot of young talents, players in their late teens and early twenties, with ratings around 2700. It's going to be exciting to watch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-2023-with-world-class-players",
+         "pubDate" : "Wed, 17 May 2023 07:00:00 +0100",
+         "title" : "Sharjah 2023 with world class players"
+      },
+      {
+         "description" : "Every single game of the first round of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 ended decisively. With imaginative and fearless play, GM Tan Zhongyi defeated her fellow women&#39;s world champion GM Alexandra Kosteniuk. WGM Dinara Wagner&#39;s deter...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-1",
+         "pubDate" : "Tue, 16 May 2023 22:22:24 -0700",
+         "title" : "All Decisive Games: Wagner Beats Top Seed, Tan Bests Kosteniuk"
+      },
+      {
          "description" : "The fourth and final stage of the Women's Grand Prix series kicked off in Cyprus. All six round-1 games finished decisively. The biggest shocker was Dinara Wagner's victory over Aleksandra Goryachkina - the latter entered the tournament in second place in the series' overall ranking, only behind Zhu Jiner, who is not playing in Nicosia. Kateryna Lagno, Tan Zhongyi, Nana Dzagnidze, Harika Dronavalli and Gunay Mammadzada also scored full points. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -962,14 +978,6 @@ news_feed (
          "title" : "TePe Sigeman: Two leaders, one round to go"
       },
       {
-         "description" : "Fabiano Caruana became the sole leader at the Superbet Chess Classic after beating Ian Nepomniachtchi in Tuesday's fourth round. Caruana outplayed Nepo from a mostly balanced position and thus grabbed his second consecutive win with the white pieces. In the other decisive game of the day, Alireza Firouzja got the better of Bogdan-Daniel Deac. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r4",
-         "pubDate" : "Wed, 10 May 2023 01:35:00 +0100",
-         "title" : "Superbet Classic: Caruana outplays Nepo, takes the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/update-on-1000-puzzle-challenge.html",
          "pubDate" : "Wed, 03 May 2023 13:34:00 +0000",
          "title" : "Update on the 1000 puzzle challenge"
-      },
-      {
-         "description" : "Have you ever dreamed of playing one-on-one with an NBA All-Star? It&#39;s game time! We&#39;ve added Charlotte Hornets forward Gordon Hayward to our starting line-up of chess bots for you to challenge today! Gordon is a huge chess fan and Chess.com reg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-with-nba-all-star-gordon-hayward",
-         "pubDate" : "Wed, 03 May 2023 06:00:00 -0700",
-         "title" : "Play Chess With NBA All-Star Gordon Hayward"
       },
       {
          "description" : " Giving Checkmate. What an amazing feeling! And the goal of each and every game. But especially when starting out, easier said than done! In this article, I will explain how to checkmate a lone King in the Endgame with different piece configurations. After reading this article you will be able to finish off your opponents [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/checkmate/\">Checkmate: A Simple Guide To Checkmating The Lone King</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1792,22 +1792,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/check-this-out.html",
          "pubDate" : "Wed, 26 Apr 2023 11:21:00 +0000",
          "title" : "Check this out"
-      },
-      {
-         "description" : "The ASEAN Chess Confederation and the European Chess Union announce the chess symposium which will include separate workshops for trainers, arbiters and organisers. The Symposium will take place from 19-24 June in Bangkok, Thailand. The Symposium will start with the Trainers workshop which will be held from 19-21 June with GM Artur Yusupov as the lecturer. The workshop&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/acc-ecu-chess-symposium/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/acc-ecu-chess-symposium/",
-         "pubDate" : "Wed, 26 Apr 2023 07:19:28 +0000",
-         "title" : "ACC - ECU Chess Symposium"
-      },
-      {
-         "description" : "Congratulations Rayna Ajay Patel for securing bronze medal in World School Under-7 Girls Chess Championship-2023",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-rayna-ajay-patel/",
-         "pubDate" : "Wed, 26 Apr 2023 03:58:41 +0000",
-         "title" : "Congratulations Rayna Ajay Patel"
       }
    ]
 }
