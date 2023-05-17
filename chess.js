@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Wed, 17 May 2023 14:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Wed, 17 May 2023 13:50:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
          "description" : "Exhibitions to feature star-studded and historically significant pieces connected to musical, chess and literary figures including Katy Perry, Bobby Fischer, Julian Casablancas, Garry Kasparov and T. S. Eliot premiere at the World Chess Hall of Fame on May 17. \"Sound Moves: Where Music Meets Chess\" and \"T. S. Eliot: A Game of Chess\" are the two, all-new exhibitions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-1",
          "pubDate" : "Tue, 16 May 2023 22:22:00 -0700",
-         "title" : "All Decisive Games: Wagner Beats Top Seed, Tan Bests Kosteniuk"
+         "title" : "All Games Decisive: Wagner Beats Top Seed, Tan Bests Kosteniuk"
       },
       {
          "description" : "The fourth and final stage of the Women's Grand Prix series kicked off in Cyprus. All six round-1 games finished decisively. The biggest shocker was Dinara Wagner's victory over Aleksandra Goryachkina - the latter entered the tournament in second place in the series' overall ranking, only behind Zhu Jiner, who is not playing in Nicosia. Kateryna Lagno, Tan Zhongyi, Nana Dzagnidze, Harika Dronavalli and Gunay Mammadzada also scored full points. | Photo: FIDE / Mark Livshitz",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r1",
          "pubDate" : "Wed, 17 May 2023 04:50:00 +0100",
          "title" : "Nicosia GP: Six (out of six) decisive results"
+      },
+      {
+         "description" : "First of all, in order to be visible as an arbiter, make your first move and create a profile at Outpost Chess. Explain who you are, so that tournament organizers can find you and engage you for their tournaments. More about Outpost: Create a Profile on Outpost Chess / Make money Online by playing Outpost []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/how-to-become-a-chess-arbiter-embark-on-an-adventure-with-outpost-chess/",
+         "pubDate" : "Wed, 17 May 2023 01:18:00 +0000",
+         "title" : "How to become a Chess Arbiter? - Embark on an adventure with Outpost Chess"
       },
       {
          "description" : "",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nana-dzagnidze-bella-khotenashvili-nicosia-fide-womens-grand-prix/",
          "pubDate" : "Tue, 16 May 2023 11:40:00 +0000",
          "title" : "Nana Dzagnidze - Bella Khotenashvili, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Alexandra Kosteniuk Zhongyi Tan from round 1 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Harika Dronavalli Bibisara Assaubayeva / Dinara Wagner Aleksandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-zhongyi-tan-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 16 May 2023 11:20:00 +0000",
-         "title" : "Alexandra Kosteniuk - Zhongyi Tan, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "A draw with black in his game against Richard Rapport was enough for Fabiano Caruana to win the Superbet Chess Classic in Bucharest. None of the four players sharing second place before the final round managed to score a full point on Monday, thus allowing Caruana to claim clear first place, the $100,000 top prize and 13 GCT points. Meanwhile, world champion Ding Liren beat Bogdan-Daniel Deac with the black pieces. | Photo: Lennart Ootes",
@@ -960,22 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2379",
          "pubDate" : "Wed, 10 May 2023 12:15:16 +0000",
          "title" : "2023 FIDE World Youth Championships U14, U16, U18: Registration is open"
-      },
-      {
-         "description" : "What happens when you find yourself in a lost position? Many chess players - as Jan Markos states in his video for ChessBase Magazine #213 - react to this realisation with a loss of energy or even inner resignation. They make a few more normal moves, and a little later the game is over. In the sixth part of his training series for ChessBase Magazine, Jan Markos explains what it takes to get the maximum out of a lost position in a practical game. Take a look at an excerpt from his video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/practical-tips-for-the-tournament-player",
-         "pubDate" : "Wed, 10 May 2023 13:00:00 +0100",
-         "title" : "Practical Tips for the Tournament Player"
-      },
-      {
-         "description" : "The TePe Sigeman Tournament in Malm&ouml;, Sweden, is an 8-player round-robin, and it is a clash of experienced and young players. After six rounds, Peter Svidler and Abhimanyu Mishra are sharing the lead with 3&frac12; points each. Dommaraju Gukesh and Nils Grandelius stand a half point back. | Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-co-live-3",
-         "pubDate" : "Wed, 10 May 2023 11:55:00 +0100",
-         "title" : "TePe Sigeman & Co, Round 7: Live"
       },
       {
          "description" : "Fabiano Caruana won his first ever classical game against Ian Nepomniachtchi to take the sole lead after Round 4 of the Superbet Chess Classic in Bucharest. Fabiano described it as \"really satisfying\" to outplay his opponent from a position where a draw looked inevitable. The day's other winner was Alireza Firouzja, who scored his first classical win in 8 months after bamboozling Bogdan-Daniel Deac in a complicated clash.",
@@ -1768,30 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2362",
          "pubDate" : "Wed, 26 Apr 2023 16:32:02 +0000",
          "title" : "Race for the title of World Champion wide open as Nepomniachtchi suffers shocking defeat"
-      },
-      {
-         "description" : "Ding Liren has levelled the World Championship match at 6:6 with two games to go after an incredible Game 12. Ian Nepomniachtchi played a dubious opening but won the middlegame battle and was suddenly playing fast and well in a dominant position. A win would mean almost certainly becoming the 17th World Chess Champion, but Ian played too fast, lost control and ultimately crumbled under pressure. Match on!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-wins-wild-game-12-to-level-the-scores-again",
-         "pubDate" : "Wed, 26 Apr 2023 13:17:06 +0000",
-         "title" : "Ding Liren wins wild Game 12 to level the scores again"
-      },
-      {
-         "description" : " Throughout my career, I was always happy when my opponents opted for sidelines in the Opening. I interpreted this as respect for my preparation. And there usually is a reason why a sideline isn't played that often. So why shouldn't I be happy? I only recently realized that some players are actually afraid of sidelines. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/simple-sidelines/\">Save Time and Energy with a Simple Approach to Sidelines</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/simple-sidelines/",
-         "pubDate" : "Wed, 26 Apr 2023 12:00:00 +0000",
-         "title" : "Save Time and Energy with a Simple Approach to Sidelines"
-      },
-      {
-         "description" : " Ian Nepomniachtchi suffered a devastating loss to Ding Liren in the 12th game of the World Chess Championship in Astana, Kazakhstan. Not only did that mean that the match was tied at 6-6 with two games to go but it also represented a huge emotional blow, earlier it seemed that he was actually going to win the game and virtually assure being the new World Champion. Nepomniachtchi looked very distressed during the 16 minutes of thought at move 35 as he tried to find any move to continue his completely wrecked position. Ding returned to 1.d4, Nepomniachtchi offered the Queen's Gambit, Ding chose the Colle system, and almost immediately Nepomniachtchi took the game into fresh pastures. 5...Qc7 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-loses-game-12-after-almost-having-the-title-within-his-grasp",
-         "pubDate" : "Wed, 26 Apr 2023 15:46:00 +0400",
-         "title" : "Nepomniachtchi loses game 12 after almost having the title within his grasp - 12"
       }
    ]
 }
