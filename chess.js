@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Shakhriyar Mamedyarov and Oleksandr Bortnyk found the keys to victory in Titled Tuesday on May 16. Mamedyarov won on tiebreaks over GMs Hikaru Nakamura and Nitzan Steinberg, while Bortnyk won outright by half a point over GM Matthias Bluebaum....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mamedyarov-bortnyk-win-titled-tuesday-may-16-2023",
+         "pubDate" : "Wed, 17 May 2023 09:01:26 -0700",
+         "title" : "Mamedyarov, Bortnyk Latest Tuesday Winners"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1346,14 +1354,6 @@ news_feed (
          "title" : "ChessKid Stars vs Streamers: Rematch Set For May 14"
       },
       {
-         "description" : "GMs Jan-Krzysztof Duda and Aram Hakobyan took home the victories in Titled Tuesday on May 2, both of them scoring 9.5 points out of the possible 11. Duda won on tiebreaks over higher-rated GMs Hikaru Nakamura and&#38;nbsp;Fabiano Caruana in the first ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-hakobyan-win-titled-tuesday-may-2-2023",
-         "pubDate" : "Wed, 03 May 2023 08:00:00 -0700",
-         "title" : "Duda Outlasts Nakamura, Caruana"
-      },
-      {
          "description" : " A few weeks ago I posted about the 1000 puzzle challenge. This was challenging my students to do1000 puzzles on lichess during the school holidays. It turns out that one of my students completed the challenge, which is an awesome effort. To put that into perspective, I could only manage 400 puzzles in the same time period, while other students hit the wall (so to speak) at around 250. So well done to Daniel Z! ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1760,14 +1760,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/",
          "pubDate" : "Thu, 27 Apr 2023 06:04:56 +0000",
          "title" : "Communique of the ECU Board Meeting - CL No.1/2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2362",
-         "pubDate" : "Wed, 26 Apr 2023 16:32:02 +0000",
-         "title" : "Race for the title of World Champion wide open as Nepomniachtchi suffers shocking defeat"
       }
    ]
 }
