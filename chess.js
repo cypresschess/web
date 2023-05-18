@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show, Robert Ris takes a look at the game Yoo-Maghsoodloo from the 1st round of the Sharjah Masters. A Classical Sicilian Rauzer with 7.Qd3 was soon transformed into a Sveshnikov-type of structure, in which Black succeeded with energetic play. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-adventures",
+         "pubDate" : "Thu, 18 May 2023 19:51:21 +0100",
+         "title" : "Robert Ris' Fast and Furious: Sicilian adventures"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2381",
          "pubDate" : "Thu, 11 May 2023 08:46:14 +0000",
          "title" : "2023 Superbet Chess Classic: Day 5 Recap"
-      },
-      {
-         "description" : "With a current rating of 2732, 16-year-old Indian grandmaster Gukesh D is ranked 18th in the world. He is an all-round player with impressive attacking skills, which he again showed in a recent game against Vincent Keymer. In his Game of the Week show #567, Merijn van Delft takes a closer look at this fine example of attacking play. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-567-gukesh-vs-keymer",
-         "pubDate" : "Thu, 11 May 2023 09:38:17 +0100",
-         "title" : "Game of the Week #567: Gukesh vs Keymer"
       },
       {
          "description" : "19-year-old Alireza Firouzja has regained the world no. 2 spot after beating World Champion Ding Liren in Round 5 of the Superbet Chess Classic in Bucharest. Ding had winning chances of his own, as did Ian Nepomniachtchi, who for most of the round was putting pressure on Maxime Vachier-Lagrave. A few careless moves, however, and MVL took over to make it a red-letter day for French chess.",
