@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Kateryna Lagno and Tan Zhongyi have taken the lead, each winning a second game in a row at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023&#38;nbsp;in round two. Lagno defeated IM Gunay Mammadzada, gaining an edge by undermining her opponent&#39;s cente...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-2",
+         "pubDate" : "Wed, 17 May 2023 19:09:18 -0700",
+         "title" : "Frontrunners Emerge: Lagno, Tan Score 2-0"
+      },
+      {
+         "description" : "The 56th edition of the Capablanca Memorial took place in Havana, Cuba on May 3-11. Danish grandmaster Jonas Buhl Bjerre, aged 18, won the tournament with a remarkable 7/9 score, following in the footsteps of Danish legend Bent Larsen, who won the event back in 1967. As ever, our in-house expert Karsten M&uuml;ller followed the action closely, looking for endgame highlights. Find here six instructive positions from the traditional competition! | Photo: Thomas Vesterg&aring;rd",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/capablanca-memorial-2023-endgames",
+         "pubDate" : "Thu, 18 May 2023 01:05:00 +0100",
+         "title" : "Endgames from Havana"
+      },
+      {
          "description" : "In his Game of the Week show #568, Merijn van Delft takes a look at Fabiano Caruana's fine win against Ian Nepomniachtchi at the Grand Chess Tour tournament in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -938,14 +954,6 @@ news_feed (
          "title" : "Superbet Classic 5: Firouzja world no. 2 after beating Ding"
       },
       {
-         "description" : "Alireza Firouzja grabbed his second consecutive win at the Superbet Chess Classic in Bucharest - and what a win it was! The youngster beat Ding Liren with white, thus inflicting the Chinese grandmaster's first defeat during his reign as world champion. In another remarkable development, Maxime Vachier-Lagrave got the better of Ian Nepomniachtchi after the latter misplayed an advantageous position out of a Sicilian Alapin. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r5",
-         "pubDate" : "Thu, 11 May 2023 03:50:00 +0100",
-         "title" : "Superbet Classic: Firouzja inflicts Ding's first defeat"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-jscc-announcement",
          "pubDate" : "Thu, 04 May 2023 12:07:00 -0700",
          "title" : "Gukesh Heads Record $50,000 Junior Speed Chess Championship Line-up"
-      },
-      {
-         "description" : "NASA literally took chess out of this world in April as the International Space Station (ISS), situated in space, played against the National Aeronautics and Space Administration&#39;s (NASA) Mission Control, on Earth. The first game occurred concurre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nasa-chess-outer-space-iss-mission-control",
-         "pubDate" : "Thu, 04 May 2023 10:33:00 -0700",
-         "title" : "NASA Takes Chess To Outer Space; ISS Defeats Mission Control In 1st Game"
       },
       {
          "description" : "",
