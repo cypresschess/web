@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2402",
+         "pubDate" : "Thu, 18 May 2023 15:16:50 +0000",
+         "title" : "Toronto Chess Festival for Women & Girls runs big"
+      },
+      {
+         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Masters []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-masters-section-live/",
+         "pubDate" : "Thu, 18 May 2023 13:45:00 +0000",
+         "title" : "6th Sharjah Masters 2023 Masters Section - LIVE"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Kateryna Lagno from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-kateryna-lagno-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 18 May 2023 13:43:00 +0000",
+         "title" : "Gunay Mammadzada - Kateryna Lagno, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : " Back in the day (before the dawn of the 21st Century), there was a kind of arms race between tournament organisers about who could organise the highest category tournament. The tournament was almost always a round robin, and the category was determined by the average rating of the field. However the category system was eventually abandoned by FIDE, and such measurements lost their value. However, the competition between organisers seems to have been restarted, although it is now Swiss tournaments that seem to be the battleground. The current Sharjah Masters is a 78 player swiss, with all 78 players holding the title of Grandmaster. The bottom seed is still rated above 2500 and the 'bottom h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/sharjah-masters.html",
+         "pubDate" : "Thu, 18 May 2023 13:24:00 +0000",
+         "title" : "Sharjah Masters"
+      },
+      {
+         "description" : "First of all, in order to be visible as an arbiter, make your first move and create a profile at Outpost Chess. Explain who you are, so that tournament organizers can find you and engage you for their tournaments. More about Outpost: Create a Profile on Outpost Chess / Make money Online by playing Outpost []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/how-to-become-a-chess-arbiter-embark-on-an-adventure-with-outpost-chess/",
+         "pubDate" : "Thu, 18 May 2023 13:18:00 +0000",
+         "title" : "How to become a Chess Arbiter? - Embark on an adventure with Outpost Chess"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Thu, 18 May 2023 13:50:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +66,14 @@ news_feed (
          "title" : "FIDE and GCF to stage Solidarity Matches in Batumi, Georgia"
       },
       {
+         "description" : " The Superbet Rapid & Blitz takes place in Warsaw, Poland 21st to 25th May 2023. Players: Magnus Carlsen, Ding Liren, Anish Giri, Wesley So, Richard Rapport, MVL, Jan-Krzysztof Duda, Bogdan-Daniel Deac, Kirill Shevchenko and Radoslaw Wojtaszek play in this event which is part of the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
+         "pubDate" : "Thu, 18 May 2023 13:18:00 +0400",
+         "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
+      },
+      {
          "description" : "With 78 grandmasters, the Sharjah Masters kicked off on Wednesday. Most favourites scored victories, but there were a few upsets: seventh seed Ray Robson was defeated by Denis Kadric, while women's world champion Ju Wenju got the better of Murali Karthikeyan. Ju's win was not without ups and downs, as she first got a clear advantage, then found herself up against the ropes, and finally managed to make the most of a miscalculation by her opponent. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-2",
-         "pubDate" : "Wed, 17 May 2023 19:09:18 -0700",
+         "pubDate" : "Wed, 17 May 2023 19:09:00 -0700",
          "title" : "Frontrunners Emerge: Lagno, Tan Score 2-0"
       },
       {
@@ -56,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2400",
          "pubDate" : "Wed, 17 May 2023 22:12:04 +0000",
          "title" : "Czech Championship 2023: David Navara and Julia Movsesian win titles"
-      },
-      {
-         "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Masters []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-masters-section-live/",
-         "pubDate" : "Wed, 17 May 2023 21:44:09 +0000",
-         "title" : "6th Sharjah Masters 2023 Masters Section - LIVE"
       },
       {
          "description" : "The 6th Sharjah Masters 2023 will take place from 17-25 May 2023 in Sharjah Cultural &#38; Chess Club, UAE. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. This tournament is separated in 3 sections Masters, Challengers and Future. &#xA0;The total prize fund of Challengers []",
@@ -122,14 +170,6 @@ news_feed (
          "title" : "Bibisara Assaubayeva - Polina Shuvalova, Nicosia FIDE Women's Grand Prix"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Kateryna Lagno from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gunay-mammadzada-kateryna-lagno-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Wed, 17 May 2023 10:50:00 +0000",
-         "title" : "Gunay Mammadzada - Kateryna Lagno, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Oliwia Kiolbasa from round 2 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Polina Shuvalova / Gunay Mammadzada Kateryna []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r1",
          "pubDate" : "Wed, 17 May 2023 04:50:00 +0100",
          "title" : "Nicosia GP: Six (out of six) decisive results"
-      },
-      {
-         "description" : "First of all, in order to be visible as an arbiter, make your first move and create a profile at Outpost Chess. Explain who you are, so that tournament organizers can find you and engage you for their tournaments. More about Outpost: Create a Profile on Outpost Chess / Make money Online by playing Outpost []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/how-to-become-a-chess-arbiter-embark-on-an-adventure-with-outpost-chess/",
-         "pubDate" : "Wed, 17 May 2023 01:18:00 +0000",
-         "title" : "How to become a Chess Arbiter? - Embark on an adventure with Outpost Chess"
       },
       {
          "description" : "",
@@ -944,14 +976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-567-gukesh-vs-keymer",
          "pubDate" : "Thu, 11 May 2023 09:38:17 +0100",
          "title" : "Game of the Week #567: Gukesh vs Keymer"
-      },
-      {
-         "description" : "Delilah Sadvakassova is a 9-year-old girl from Kazakhstan who is not only a strong and talented player, but also a \"chess influencer\". Under the guidance of her parents, Delilah regularly posts videos about chess history and chess personalities on Facebook. In the second part of her portrait of Delilah, Diana Mihajlova tells how Delilah met Magnus Carlsen and talks about Delilah's family and how they make the young influencer's videos.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/delightful-delilah-the-chess-influencer-part-2",
-         "pubDate" : "Thu, 11 May 2023 09:00:00 +0100",
-         "title" : "Delightful Delilah, the Chess Influencer (part 2)"
       },
       {
          "description" : "19-year-old Alireza Firouzja has regained the world no. 2 spot after beating World Champion Ding Liren in Round 5 of the Superbet Chess Classic in Bucharest. Ding had winning chances of his own, as did Ian Nepomniachtchi, who for most of the round was putting pressure on Maxime Vachier-Lagrave. A few careless moves, however, and MVL took over to make it a red-letter day for French chess.",
@@ -1736,54 +1760,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/",
          "pubDate" : "Fri, 28 Apr 2023 03:29:06 +0000",
          "title" : "2023 World Chess Championship: Game 12"
-      },
-      {
-         "description" : "Less than a year and a half after <A HREF=\"https://chessforallages.blogspot.com/2021/11/world-championship-yahoos-2021.html\">World Championship Yahoos 2021</A> (November 2021), we once again find the World Chess Championship dominating the chess news. For the most recent post on my blog devoted to the subject, see yesterday's <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-third.html\">2023 Nepomniachtchi - Ding Liren, Third Week</A> (April 2023). Before we get to the same subject on the blog that you're reading now, let's have the vital statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd27.gif\" WIDTH=185 HEIGHT=200 ALIGN=LEFT VSPACE=5 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/04/world-championship-yahoos-2023.html",
-         "pubDate" : "Thu, 27 Apr 2023 15:29:00 +0000",
-         "title" : "World Championship Yahoos 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2363",
-         "pubDate" : "Thu, 27 Apr 2023 13:54:52 +0000",
-         "title" : "Ding gives respite to Nepomniachtchi as game 13 ends in a draw"
-      },
-      {
-         "description" : " The thirteenth game of the FIDE World Chess Championship in Astana, Kazakhstan finished in a draw by repetition on move 40. Both Nepomniachtchi and Ding Liren had chances for advantages during the game before equality was reached at first time control. This result leaves the match tied at 6.5 each with Ding having the white pieces in the final game on Saturday. There will be rapid and blitz tie-breaks in Monday if that game is drawn. Nepomniachtchi played 1.e4, a Closed Ruy Lopez was chosen by Ding, 10.Be3 was not quite new but no-one has played it at an elite level. Ding played some fairly standard ideas quite quickly and after 14.d4 (Caruana suggests opening the a-file first with 14.axb4 ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-and-ding-draw-game-13-and-are-tied-going-into-the-final-world-championship-game",
-         "pubDate" : "Thu, 27 Apr 2023 17:39:00 +0400",
-         "title" : "Nepomniachtchi and Ding draw game 13 and are tied going into the final World Championship game - 13"
-      },
-      {
-         "description" : " After the catastrophe that was Game 12 of the 2023 World Championship, Nepo seems to have followed the old Russian advice of drawing the game following a loss. Even then he was a little fortunate, as Ding looked to have a promising position around move 20, before the game reached a kind of dynamic equality. So it may come down to a single game, or failing a decisive result, a playoff. Based on the nervous play of both players, I do not think I can predict a result here. It may come to nerves rather than skill, something both players seem to have troubled controlling. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/stay-calm-draw-next-game.html",
-         "pubDate" : "Thu, 27 Apr 2023 13:13:00 +0000",
-         "title" : "Stay calm, draw the next game"
-      },
-      {
-         "description" : "Ding Liren got a dream position with the black pieces after the opening of Game 13, but one puzzling move and one real inaccuracy allowed Ian Nepomniachtchi right back into the game. In fact it was Ian who had the chances after Ding sacrificed the exchange, but in the end the game ended in a relatively quick draw by repetition. The scores are level going into Saturday's final classical game, when Ding has the white pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-and-nepomniachtchi-all-square-before-final-showdown",
-         "pubDate" : "Thu, 27 Apr 2023 12:45:54 +0000",
-         "title" : "Ding and Nepomniachtchi all-square before final showdown"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess Plc, a company that reinvents chess for 21st-century users, is listed on London Stock Exchange's main market under the ticker symbol 'CHSS'. 'That was the closest to CHESS as we could get given that ticker symbols have only four letters,' - said Ilya Merenzon, World Chess CEO. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-04-08_12-18-55.jpg\" width=\"1280\" height=\"839\" alt=\"\" /> </div> 'We are very excited to join LSE and become a new chapter as a public company,' added Merenzon: \"It means a new level of responsibility to the users, investors, and partners, and also a new level of transparency. We are keen to work with the ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-lists-on-the-main-market-of-the-london-stock-exchang/",
-         "pubDate" : "Thu, 27 Apr 2023 11:50:14 +0000",
-         "title" : "World Chess Lists on the Main Market of the London Stock Exchange"
       }
    ]
 }
