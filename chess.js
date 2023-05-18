@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Thu, 18 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2401",
+         "pubDate" : "Thu, 18 May 2023 10:47:44 +0000",
+         "title" : "FIDE and GCF to stage Solidarity Matches in Batumi, Georgia"
+      },
+      {
+         "description" : "With 78 grandmasters, the Sharjah Masters kicked off on Wednesday. Most favourites scored victories, but there were a few upsets: seventh seed Ray Robson was defeated by Denis Kadric, while women's world champion Ju Wenju got the better of Murali Karthikeyan. Ju's win was not without ups and downs, as she first got a clear advantage, then found herself up against the ropes, and finally managed to make the most of a miscalculation by her opponent. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r1",
+         "pubDate" : "Thu, 18 May 2023 10:00:00 +0100",
+         "title" : "Sharjah Masters: Ju kicks off with upset victory"
+      },
+      {
          "description" : "GMs Kateryna Lagno and Tan Zhongyi have taken the lead, each winning a second game in a row at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023&#38;nbsp;in round two. Lagno defeated IM Gunay Mammadzada, gaining an edge by undermining her opponent&#39;s cente...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,22 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mamedyarov-bortnyk-win-titled-tuesday-may-16-2023",
          "pubDate" : "Wed, 17 May 2023 09:01:26 -0700",
          "title" : "Mamedyarov, Bortnyk Latest Tuesday Winners"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Wed, 17 May 2023 14:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Wed, 17 May 2023 13:50:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
       },
       {
          "description" : "Exhibitions to feature star-studded and historically significant pieces connected to musical, chess and literary figures including Katy Perry, Bobby Fischer, Julian Casablancas, Garry Kasparov and T. S. Eliot premiere at the World Chess Hall of Fame on May 17. \"Sound Moves: Where Music Meets Chess\" and \"T. S. Eliot: A Game of Chess\" are the two, all-new exhibitions.",
@@ -1730,6 +1738,14 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 12"
       },
       {
+         "description" : "Less than a year and a half after <A HREF=\"https://chessforallages.blogspot.com/2021/11/world-championship-yahoos-2021.html\">World Championship Yahoos 2021</A> (November 2021), we once again find the World Chess Championship dominating the chess news. For the most recent post on my blog devoted to the subject, see yesterday's <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-third.html\">2023 Nepomniachtchi - Ding Liren, Third Week</A> (April 2023). Before we get to the same subject on the blog that you're reading now, let's have the vital statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd27.gif\" WIDTH=185 HEIGHT=200 ALIGN=LEFT VSPACE=5 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/world-championship-yahoos-2023.html",
+         "pubDate" : "Thu, 27 Apr 2023 15:29:00 +0000",
+         "title" : "World Championship Yahoos 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-lists-on-the-main-market-of-the-london-stock-exchang/",
          "pubDate" : "Thu, 27 Apr 2023 11:50:14 +0000",
          "title" : "World Chess Lists on the Main Market of the London Stock Exchange"
-      },
-      {
-         "description" : "The second quarterly meeting of the ECU Board was held in Rhodes, Greece, on April 21 and 22. The Municipality of Rhodes hosted the event under excellent conditions. ECU expresses its thanks and appreciation to the Mayor of Rhodes, Mr. Andonis Cambourakis. The opening of the meeting was attended by the FIDE and Greek Chess Federation Vice President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-1-2023/",
-         "pubDate" : "Thu, 27 Apr 2023 06:04:56 +0000",
-         "title" : "Communique of the ECU Board Meeting - CL No.1/2023"
       }
    ]
 }
