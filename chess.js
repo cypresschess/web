@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2407",
+         "pubDate" : "Fri, 19 May 2023 21:27:20 +0000",
+         "title" : "FIDE WGP Nicosia: Goryachkina wins, Lagno and Tan Zhongyi lead "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2406",
+         "pubDate" : "Fri, 19 May 2023 19:38:55 +0000",
+         "title" : "11th FIDE World Cup in Composing 2023: Unearthing new masterpieces"
+      },
+      {
          "description" : "It&#39;s almost time for the ChessKid Cup, which means it&#39;s time for you to win some amazing prizes! Enter our all-new bracket contest for your chance to win up to six months of premium Chess.com or ChessKid memberships!&#38;nbsp; This next stage of the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesskid-cup-bracket-contest",
-         "pubDate" : "Fri, 19 May 2023 09:32:42 -0700",
+         "pubDate" : "Fri, 19 May 2023 09:32:00 -0700",
          "title" : "Announcing The ChessKid Cup Bracket Contest: Your Chance To Win"
       },
       {
