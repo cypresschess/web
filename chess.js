@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It&#39;s almost time for the ChessKid Cup, which means it&#39;s time for you to win some amazing prizes! Enter our all-new bracket contest for your chance to win up to six months of premium Chess.com or ChessKid memberships!&#38;nbsp; This next stage of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-cup-bracket-contest",
+         "pubDate" : "Fri, 19 May 2023 09:32:42 -0700",
+         "title" : "Announcing The ChessKid Cup Bracket Contest: Your Chance To Win"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/congratulations-gennadi-sosonko-celebrates-80th-birthday",
          "pubDate" : "Fri, 19 May 2023 10:35:06 +0100",
-         "title" : "Congratulations! Gennadi Sosonko celebrates 80th birthday!"
+         "title" : "Congratulations! Gennadi Sosonko celebrates his 80th birthday!"
       },
       {
          "description" : "The first in-person Chess for Freedom Conference will take place from&#160;17-20 May 2023 in Chicago USA. The event will feature many experts from the worldwide...",
@@ -1330,14 +1338,6 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Day 1 Recap"
       },
       {
-         "description" : "GM Wesley So scored the first victory at the Superbet Classic Romania 2023, defeating the 2022 Grand Chess Tour champion, GM Alireza Firouzja, in round one on Saturday. The kickoff event of the 2023 Grand Chess Tour promises an array of explosiv...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-1",
-         "pubDate" : "Sat, 06 May 2023 15:17:00 -0700",
-         "title" : "So Gets His Revenge Vs. Firouzja, Takes Clear Lead"
-      },
-      {
          "description" : " \"Can you kill the king?\" is a question I often get asked at school competitions. I give a firm no, followed by a somewhat longer explanation involving the practice of holding kings for ransom in medieval times. But for today, and today only, I was tempted to suspend this rule for Street Chess. What stopped me wasn't the fear of being hauled off to Belmarsh, but the fact that it was a FIDE rated event, and to be valid, the FIDE rules needed to be followed correctly. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "https://www.thearticle.com/stranger-than-fiction-chess-the-musical/",
          "pubDate" : "Sat, 29 Apr 2023 10:53:10 +0000",
          "title" : "Stranger than fiction: 'Chess: the musical'"
-      },
-      {
-         "description" : "Recently the brillant Grandmaster and former FIDE World Chess Champion Ruslan Ponomariov visited Hamburg to record his first FritzTrainer, and Arne K&auml;hler used the chance to interview him. Throughout the conversation Ponomariov offered invaluable insights into his chess journey and the key moments that have shaped his career, but he also talked about his personal life, the books he reads and how he spends his time in the Basque sun. As an added treat, the Grandmaster also presented a thrilling game where he emerged victorious against the formidable Vassily Ivanchuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
-         "pubDate" : "Fri, 28 Apr 2023 18:00:00 +0100",
-         "title" : "Interview with Ruslan Ponomariov"
       }
    ]
 }
