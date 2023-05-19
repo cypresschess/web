@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Dr. Alexey Root has announced the Chessable Research Awards for Fall 2023 and the deadline is July 1st. This initiative is designed to produce research that is beneficial to building the scientific body of literature as far as chess research. Over the years that have been a plethora of chess studies on a variety of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/\">Chessable Research Awards-Fall 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/",
+         "pubDate" : "Fri, 19 May 2023 00:00:35 +0000",
+         "title" : "Chessable Research Awards-Fall 2023"
+      },
+      {
          "description" : "Kateryna Lagno and Tan Zhongyi are sharing the lead with 2&frac12; points each after three rounds at the Women's Grand Prix in Nicosia, the final stage of the series. The co-leaders kicked off the event with back-to-back wins and then drew their direct encounter on Thursday. Three players stand a half point back: Harika Dronavalli, Polina Shuvalova and Dinara Wagner. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1760,14 +1768,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/apr/28/chess-ding-and-nepomniachtchi-go-to-the-wire-as-speed-shootout-looms",
          "pubDate" : "Fri, 28 Apr 2023 07:00:15 +0000",
          "title" : "Chess: Ding and Nepomniachtchi go to the wire as speed shootout looms"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 12: Explosive game ends in crushing defeat for Nepo Match Score: 6-6 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 12Wednesday, 26 April 2023 Game 12 will go down in world championship history as one of the most back-and-forth battles. However, the chess world The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/\">2023 World Chess Championship: Game 12</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/27/2023-world-chess-championship-game-12/",
-         "pubDate" : "Fri, 28 Apr 2023 03:29:06 +0000",
-         "title" : "2023 World Chess Championship: Game 12"
       }
    ]
 }
