@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Fri, 19 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "The 21st edition of the European Union Youth Chess Championship U8-U14 will take place from 15th-24th August 2023 in Kouty nad Desnou, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/",
+         "pubDate" : "Fri, 19 May 2023 09:42:48 +0000",
+         "title" : "21st European Union Youth Chess Championship U8-U14"
+      },
+      {
+         "description" : "Gennadi Sosonko was born in and grew up in the Soviet Union, in a golden age of chess. He emigrated in 1972, became a successful player and then an even more successful chess journalist and author. On 18 May he celebrated his 80th birthday. | Photo source: livelib",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-gennadi-sosonko-celebrates-80th-birthday",
+         "pubDate" : "Fri, 19 May 2023 10:35:06 +0100",
+         "title" : "Congratulations! Gennadi Sosonko celebrates 80th birthday!"
+      },
+      {
+         "description" : "The first in-person Chess for Freedom Conference will take place from&#160;17-20 May 2023 in Chicago USA. The event will feature many experts from the worldwide...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-for-freedom-conference-feat-carl-portman/",
+         "pubDate" : "Fri, 19 May 2023 07:55:59 +0000",
+         "title" : "Chess for Freedom Conference feat. Carl Portman"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2404",
+         "pubDate" : "Fri, 19 May 2023 07:38:10 +0000",
+         "title" : "Preliminary confirmation of participation in World Schools Team Championship 2023: Deadline announced"
+      },
+      {
          "description" : " The US champion finished on 5.5/9, half a point ahead of a quartet of pursuers, while the new world champion, fatigued from his title match exertions, escaped last place only in the final round Fabiano Caruana edged out a quartet of elite rivals by half a point in the Superbet Classic at Bucharest, as the US champion added to his long list of international victories. The first stage of the Grand Chess Tour was a low scoring tournament, where the 30-year-old won two games and drew seven. It was a subdued performance compared to Caruana's youthful peak at the 2014 Sinquefield Cup, where he won seven games in a row and recorded a 3098 rating result, which is still the best in history at elite ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/may/19/chess-caruana-edges-bucharest-while-ding-narrowly-avoids-finishing-bottom",
          "pubDate" : "Fri, 19 May 2023 07:00:22 +0000",
          "title" : "Chess: Caruana edges Bucharest while Ding narrowly avoids finishing bottom"
+      },
+      {
+         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
+         "pubDate" : "Fri, 19 May 2023 07:00:18 +0000",
+         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
       {
          "description" : "Women's world champion Ju Wenjun scored a second consecutive upset win to go into round 3 of the Sharjah Masters sharing the lead with Praggnanandhaa Rameshbabu (pictured). Ju got the better of third seed Vidit Gujrathi with the black pieces, while Pragg defeated Raunak Sadhwani with white. A total of 25 players stand a half point behind the leading duo, including top seeds Parham Maghsoodloo and Dommaraju Gukesh. | Photos: Tournament&rsquo;s Facebook page",
@@ -546,14 +594,6 @@ news_feed (
          "title" : "Superbet Classic: Caruana sole leader as Duda beats Firouzja"
       },
       {
-         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
-         "pubDate" : "Mon, 15 May 2023 12:00:18 +0000",
-         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -962,28 +1002,12 @@ news_feed (
          "title" : "Shanghai Tigers, Gotham Knights Win Quarterfinals 1 & 2"
       },
       {
-         "description" : "Peter Svidler became the outright winner of the TePe Sigeman & Co tournament after collecting 4&frac12;/7 points. Svidler entered the final round sharing the lead with Abhimanyu Mishra. The 8-time Russian champion had black against top seed Gukesh, while Abhimanyu had white against an out-of-form Boris Gelfand. Svidler managed to hold a draw, while Gelfand won a tricky queen endgame - in a game lasting 125 moves! | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2023-r7",
-         "pubDate" : "Thu, 11 May 2023 22:05:00 +0100",
-         "title" : "Svidler wins TePe Sigeman & Co, as Gelfand beats Abhimanyu"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2382",
          "pubDate" : "Thu, 11 May 2023 13:35:39 +0000",
          "title" : "Kazakhstan to host inaugural FIDE World Schools Team Championship"
-      },
-      {
-         "description" : "In the World Chess Championship, which still was running while this article was written but will be over when you read it, Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that kind of checkmate was used in endgame studies. | Photo: Midjourney AI",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-ding-s-wcc-game-6-checkmate-pattern-in-endgame-studies",
-         "pubDate" : "Thu, 11 May 2023 13:23:30 +0100",
-         "title" : "Study of the month - Ding's WCC game 6 checkmate pattern in endgame studies"
       },
       {
          "description" : "On Wednesday, 18 months after playing his last classical chess tournament, GM Peter Svidler won the 28th edition of the TePe Sigeman &#38;amp; Co Chess Tournament in Malmo, Sweden. The 46-year-old Russian GM drew his final round game and no tiebreak w...",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Ding Liren Is World Champion"
       },
       {
-         "description" : "The English Seniors Championships will take place between Thursday 4th May and Bank Holiday Monday 8th May 2023 at the Woodland Grange, Old Milverton Lane,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-chess-championships-2023/",
-         "pubDate" : "Mon, 01 May 2023 08:00:11 +0000",
-         "title" : "English Seniors Chess Championships 2023"
-      },
-      {
          "description" : "33rd National Under-17 Open &#38; Girls Live Game Link Open : https://view.livechesscloud.com/#4708d594-4463-456d-a2e2-b89675c50d3c Girls : https://view.livechesscloud.com/#68a69455-3252-4032-8bf8-e14c0f77e007",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/",
          "pubDate" : "Fri, 28 Apr 2023 14:34:03 +0000",
          "title" : "2023 World Chess Championship: Game 13"
-      },
-      {
-         "description" : "After 13 played games at the World Chess Championship Match 2023 between Ian Nepomniachtchi and Ding Liren, the result is tied 6.5-6.5. New World Chess Champion will be determined in the last classical game of the match or in the playoffs. Ian Nepomniachtchi had a full-point lead before the last two-game portions. Ding Liren once again bounced back&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/world-chess-championship-match-tied-after-13-games/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/world-chess-championship-match-tied-after-13-games/",
-         "pubDate" : "Fri, 28 Apr 2023 08:41:05 +0000",
-         "title" : "World Chess Championship Match tied after 13 games"
       }
    ]
 }
