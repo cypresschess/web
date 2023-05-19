@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US champion finished on 5.5/9, half a point ahead of a quartet of pursuers, while the new world champion, fatigued from his title match exertions, escaped last place only in the final round Fabiano Caruana edged out a quartet of elite rivals by half a point in the Superbet Classic at Bucharest, as the US champion added to his long list of international victories. The first stage of the Grand Chess Tour was a low scoring tournament, where the 30-year-old won two games and drew seven. It was a subdued performance compared to Caruana's youthful peak at the 2014 Sinquefield Cup, where he won seven games in a row and recorded a 3098 rating result, which is still the best in history at elite ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/may/19/chess-caruana-edges-bucharest-while-ding-narrowly-avoids-finishing-bottom",
+         "pubDate" : "Fri, 19 May 2023 07:00:22 +0000",
+         "title" : "Chess: Caruana edges Bucharest while Ding narrowly avoids finishing bottom"
+      },
+      {
+         "description" : "Women's world champion Ju Wenjun scored a second consecutive upset win to go into round 3 of the Sharjah Masters sharing the lead with Praggnanandhaa Rameshbabu (pictured). Ju got the better of third seed Vidit Gujrathi with the black pieces, while Pragg defeated Raunak Sadhwani with white. A total of 25 players stand a half point behind the leading duo, including top seeds Parham Maghsoodloo and Dommaraju Gukesh. | Photos: Tournament&rsquo;s Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r2",
+         "pubDate" : "Fri, 19 May 2023 06:10:00 +0100",
+         "title" : "Sharjah Masters: Ju stuns Vidit, shares lead with Pragg"
+      },
+      {
          "description" : " Dr. Alexey Root has announced the Chessable Research Awards for Fall 2023 and the deadline is July 1st. This initiative is designed to produce research that is beneficial to building the scientific body of literature as far as chess research. Over the years that have been a plethora of chess studies on a variety of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/\">Chessable Research Awards-Fall 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/capablanca-memorial-2023-endgames",
          "pubDate" : "Thu, 18 May 2023 13:05:00 +0100",
          "title" : "Endgames from Havana"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Thu, 18 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : "",
@@ -1474,6 +1482,14 @@ news_feed (
          "title" : "Self-Pinning"
       },
       {
+         "description" : "'Ring, ring'. On Saturday afternoon my wife and I were standing at the front door of my Mom's house in Wallingford VT. We had flown into Montreal the previous day, had spent the night at an airport hotel, and had driven from Montreal to Wallingford on Saturday morning. My sister answered the doorbell, holding Mom's small dog. <P> 'Hi, Carol! Where's Mom?' &#149; 'She's in the hospital.' &#149; 'The hospital? What's she doing there?' &#149; 'When I arrived yesterday I found her sitting on the floor of the kitchen. I called an ambulance and they brought her to Rutland Regional. She spent the night there and has been undergoing a series of tests. She's in a private room now.' <P> My sister gave",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/geraldine-gerry-weeks-1930-2023.html",
+         "pubDate" : "Tue, 02 May 2023 15:57:00 +0000",
+         "title" : "Geraldine (Gerry) A. Weeks (1930-2023)"
+      },
+      {
          "description" : "Let me begin by heartily congratulating the 4NCL, in this case supported by the ECF and endorsed by the British Isles Coordinating Committee, on their...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "https://www.europechess.org/world-chess-championship-match-tied-after-13-games/",
          "pubDate" : "Fri, 28 Apr 2023 08:41:05 +0000",
          "title" : "World Chess Championship Match tied after 13 games"
-      },
-      {
-         "description" : " The pair are tied at 6.5-6.5 before Saturday's 14th and final classical game, and if this is drawn then rapid and blitz on Sunday will decide who becomes world champion Ding Liren and Ian Nepomniachtchi drew the 13th and penultimate round of their world championship match in Astana, Kazakhstan, on Thursday as the prospect of another draw on Saturday and a speed shootout for the crown on Sunday loomed closer. Nepomniachtchi, 32, again opened with the Ruy Lopez but stood worse in the middle game until Ding, 30, spoiled his advantage and opted to halve by threefold repetition of position, saying later: \"It was still some kind of dark ocean position, so I didn't go further into it.\" The final o",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/apr/28/chess-ding-and-nepomniachtchi-go-to-the-wire-as-speed-shootout-looms",
-         "pubDate" : "Fri, 28 Apr 2023 07:00:15 +0000",
-         "title" : "Chess: Ding and Nepomniachtchi go to the wire as speed shootout looms"
       }
    ]
 }
