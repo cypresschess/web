@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2405",
+         "pubDate" : "Fri, 19 May 2023 14:51:04 +0000",
+         "title" : "First Chess for Freedom Conference opens in Chicago"
+      },
+      {
+         "description" : "She is a two-time U.S. women&#39;s chess champion, author, commentator, and poker professional. But this week WGM Jennifer Shahade could also add Jeopardy! presenter to her already impressive career resume.&#38;nbsp; A special episode of the popular Ame...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jennifer-shahade-presents-chess-category-on-jeopardy-masters",
+         "pubDate" : "Fri, 19 May 2023 07:19:38 -0700",
+         "title" : "Jennifer Shahade Featured On Jeopardy! Quizmaster; Can You Solve Her Clues?"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Fri, 19 May 2023 13:50:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
+         "description" : " Last week, we started examining a tactic called a skewer. Like a pin, the skewer involves three pieces: The piece doing the skewering, the skewered piece, and the piece behind the skewered piece. As with the pin, skewers take place along the ranks, files, or diagonals. Only the long-distance pieces - the Queen, Rooks, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\">A Foundation for Beginners Ninety Two</a> appeared first on <a rel=\"nofollow\" href",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-two/",
+         "pubDate" : "Fri, 19 May 2023 12:37:13 +0000",
+         "title" : "A Foundation for Beginners Ninety Two"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -938,14 +970,6 @@ news_feed (
          "title" : "ChessBase 17 review: \"A wide range of opportunities\""
       },
       {
-         "description" : "In his Fast & Furious show, Robert Ris presents a nice miniature which was played at the Baku Open. In the game White tried the Alapin (1.e4 c5 2.c3) against the Sicilian and won surprisingly quickly. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-nice-miniature",
-         "pubDate" : "Fri, 12 May 2023 11:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A nice miniature!"
-      },
-      {
          "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1112,6 +1136,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-caruana-beats-nepomniachtchi",
          "pubDate" : "Wed, 10 May 2023 10:48:46 +0000",
          "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
+      },
+      {
+         "description" : "The World Rapid Team Championship is a new major event organized by FIDE in partnership with the German company WR Group Holding GmbH. Create your...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-world-rapid-team-championship/",
+         "pubDate" : "Wed, 10 May 2023 08:00:29 +0000",
+         "title" : "NEW - World Rapid Team Championship"
       },
       {
          "description" : "",
@@ -1338,14 +1370,6 @@ news_feed (
          "title" : "Ding Liren and Nepomniachtchi back in action"
       },
       {
-         "description" : "Eight players won the Olympic Esports Series 2023 Preliminaries after accumulating three match wins on Thursday and Friday: GMs Shant Sargsyan, Samvel Ter-Sahakyan, Oleksandr Bortnyk, Alexey Sarana, Bassem Amin, Maksim Chigaev, Ngoc Truong Son Ngu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-preliminaries",
-         "pubDate" : "Fri, 05 May 2023 13:48:10 -0700",
-         "title" : "8 Grandmasters Win Olympic Esports Series Preliminaries"
-      },
-      {
          "description" : " The Superbet Chess Classic Romania took place in Bucharest 6th to 16th May 2023. This is the first leg of the Grand Chess tour. Fabiano Caruana won the event with 5.5/9 half a point clear of Alireza Firouzja, Wesley So, Anish Giri and Richard Rapport. World Champion Ding Liren won in the final round but otherwise was subdued as was Ian Nepomniachtchi. This was really too soon after their match for either to be playing their best.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1554,14 +1578,6 @@ news_feed (
          "title" : "Ding Liren is the new World Chess Champion"
       },
       {
-         "description" : "Our new shop page allows you to purchase copies of the ECF Yearbook 2023, as well as a limited number of copies of the Yearbook...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-shop-page/",
-         "pubDate" : "Mon, 01 May 2023 16:00:28 +0000",
-         "title" : "ECF shop page/ECF Yearbook 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1762,28 +1778,12 @@ news_feed (
          "title" : "Stranger than fiction: 'Chess: the musical'"
       },
       {
-         "description" : " Given the name and intent of this site, the reader might be forgiven for wondering why this post did not appear earlier. The reason is that I've only just released my video with this title on Vimeo, previously it was only available to Tiger Chess members. Here's the trailer, which explains what it's about: I'm <a href=\"https://chessimprover.com/how-to-improve-your-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"How to Improve Your Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/how-to-improve-your-chess/\">How to Improve Your Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/how-to-improve-your-chess/",
-         "pubDate" : "Fri, 28 Apr 2023 18:29:23 +0000",
-         "title" : "How to Improve Your Chess"
-      },
-      {
          "description" : "Recently the brillant Grandmaster and former FIDE World Chess Champion Ruslan Ponomariov visited Hamburg to record his first FritzTrainer, and Arne K&auml;hler used the chance to interview him. Throughout the conversation Ponomariov offered invaluable insights into his chess journey and the key moments that have shaped his career, but he also talked about his personal life, the books he reads and how he spends his time in the Basque sun. As an added treat, the Grandmaster also presented a thrilling game where he emerged victorious against the formidable Vassily Ivanchuk.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/interview-with-ruslan-ponomariov",
          "pubDate" : "Fri, 28 Apr 2023 18:00:00 +0100",
          "title" : "Interview with Ruslan Ponomariov"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 13: Ding presses, but match stays level Match Score: 6&frac12;-6&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 13Thursday, 27 April 2023 After a titanic struggle in Game 12, this game had tremendous tension, but the penultimate Game 13 ended rather peacefully. It was The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/\">2023 World Chess Championship: Game 13</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/28/2023-world-chess-championship-game-13/",
-         "pubDate" : "Fri, 28 Apr 2023 14:34:03 +0000",
-         "title" : "2023 World Chess Championship: Game 13"
       }
    ]
 }
