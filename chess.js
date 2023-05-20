@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Sat, 20 May 2023 13:50:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
+         "description" : " Since starting my blog in 2021, I've answered hundreds of questions from readers. Most of my answers begin with &#8220;It depends.&#8221; This isn't a cop-out, but rather what I genuinely believe. It's incredibly challenging to provide clear-cut advice without knowing the answer to one of the most crucial questions: What Are You Optimizing For? Depending [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/optimizing-for-what/\">Finding Your Chess North Star: What Are You Optimizing For?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/optimizing-for-what/",
+         "pubDate" : "Sat, 20 May 2023 12:00:00 +0000",
+         "title" : "Finding Your Chess North Star: What Are You Optimizing For?"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
       },
       {
-         "description" : "There was no lack of entertaiment in round 6 of the Superbet Chess Classic, despite all five games finishing drawn. Fabiano Caruana could have extended his lead, but failed to take down Alireza Firouzja from an advantageous position. Similarly, Wesley So got a clear edge against Ding Liren, but first missed a few tactical chances and then decided to force a threefold repetition from a still superior position. Thus, Caruana remains as the sole leader in Bucharest with three rounds to go. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r6",
-         "pubDate" : "Sat, 13 May 2023 03:15:00 +0100",
-         "title" : "Superbet Classic: Hard-fought draws, Caruana and So miss chances"
-      },
-      {
          "description" : "As the Superbet Classic Romania 2023 nears the home stretch, GM Fabiano Caruana continues to lead despite blundering away his winning chances at a critical moment vs. GM Alireza Firouzja in round six. With this stroke of luck, Firouzja remains in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1784,22 +1792,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/a-ding-nepo-playoff-it-is-after-heart-stopping-game-14",
          "pubDate" : "Sat, 29 Apr 2023 15:45:39 +0000",
          "title" : "A Ding-Nepo playoff it is, after heart-stopping Game 14"
-      },
-      {
-         "description" : " This was originally going to be a post about a 'proof game', then a post about sharp practice, but it is now something even more interesting. A brief report from one of the club events in Canberra mentioned a game that ended in mate after 4 moves, and involved a queen sacrifice. As the moves weren't given I tried to work out what had happened. Unable to do this, I then searched for 4 move games ending in mate in Hugebase, and came up empty. Finally I spoke to one of the players involved or explained what had happened . The game began with <b>1.e3?! f5 2.Qh5+ g6</b>. At this point White then picked up the bishop on f1, but quickly put it back. Looking across to his opponent, he sheepishly pi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/shortest-unique-game.html",
-         "pubDate" : "Sat, 29 Apr 2023 13:25:00 +0000",
-         "title" : "Shortest unique game?"
-      },
-      {
-         "description" : " Winning 752 points in 6 months. What sounds like a ridiculous marketing pitch is the real success story of my student Tatjana. She managed to raise her chess.com rapid rating from 269 to 1021 points in only half a year. In this article, I want to go through three key factors in this success story. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/success-story-1/\">Unlocking Chess Success: +752 Points in 6 Months</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/success-story-1/",
-         "pubDate" : "Sat, 29 Apr 2023 12:00:00 +0000",
-         "title" : "Unlocking Chess Success: +752 Points in 6 Months"
       }
    ]
 }
