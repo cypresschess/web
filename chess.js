@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Weak dark squares in front of the black king, coffin nail pawn f6, White to move and wins. A Gligoric classic - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/victory-loves-preparation",
+         "pubDate" : "Sat, 20 May 2023 09:00:00 +0100",
+         "title" : "Victory loves preparation"
+      },
+      {
          "description" : "Shortly after the Superbet Chess Classic, the Superbet Rapid & Blitz will return with its second edition. The tournament is set to take place on May 21-25 at the Museum of the History of Polish Jews in Warsaw, Poland. Joining five 'full players' from the Grand Chess Tour, five wildcards, including world number one Magnus Carlsen, will make their way to the Polish capital. | Photo: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-leon-luke-mendonca-for-winning-baku-open-2023/",
          "pubDate" : "Sat, 13 May 2023 06:02:08 +0000",
          "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
-      },
-      {
-         "description" : "There was no lack of entertaiment in round 6 of the Superbet Chess Classic, despite all five games finishing drawn. Fabiano Caruana could have extended his lead, but failed to take down Alireza Firouzja from an advantageous position. Similarly, Wesley So got a clear edge against Ding Liren, but first missed a few tactical chances and then decided to force a threefold repetition from a still superior position. Thus, Caruana remains as the sole leader in Bucharest with three rounds to go. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r6",
-         "pubDate" : "Sat, 13 May 2023 03:15:00 +0100",
-         "title" : "Superbet Classic: Hard-fought draws, Caruana and So miss chances"
       },
       {
          "description" : "As the Superbet Classic Romania 2023 nears the home stretch, GM Fabiano Caruana continues to lead despite blundering away his winning chances at a critical moment vs. GM Alireza Firouzja in round six. With this stroke of luck, Firouzja remains in ...",
