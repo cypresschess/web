@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Sat, 20 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : " Today at Street Chess I tried 2 new technical tools to support tournament coverage and broadcasting* Inspired by IA Helen Milligan, who uses both these products, I used Clono to broadcast a game a round, and VegaResults to publish the tournament results. NB Both of these have been around for a while (* and I had already tested Clono previously), but I decided now was the time to use both of them as part of my tournament infrastructure. Clono is an electronic scoresheet app that runs on Android tablets. Players enter their own moves on the tablet (after they have been played), and these are uploaded to the Clono server. They can then be broadcast via the tournament link, to be observed in re",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/tournament-technical-support.html",
+         "pubDate" : "Sat, 20 May 2023 10:38:00 +0000",
+         "title" : "Tournament Technical Support"
+      },
+      {
          "description" : "Weak dark squares in front of the black king, coffin nail pawn f6, White to move and wins. A Gligoric classic - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,28 +106,12 @@ news_feed (
          "title" : "Congratulations! Gennadi Sosonko celebrates his 80th birthday!"
       },
       {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Fri, 19 May 2023 13:50:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
-      },
-      {
          "description" : " Last week, we started examining a tactic called a skewer. Like a pin, the skewer involves three pieces: The piece doing the skewering, the skewered piece, and the piece behind the skewered piece. As with the pin, skewers take place along the ranks, files, or diagonals. Only the long-distance pieces - the Queen, Rooks, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\">A Foundation for Beginners Ninety Two</a> appeared first on <a rel=\"nofollow\" href",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-two/",
          "pubDate" : "Fri, 19 May 2023 12:37:13 +0000",
          "title" : "A Foundation for Beginners Ninety Two"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Fri, 19 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : "The 21st edition of the European Union Youth Chess Championship U8-U14 will take place from 15th-24th August 2023 in Kouty nad Desnou, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/\">Read More &#187;</a></span>",
@@ -986,6 +986,14 @@ news_feed (
          "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
       },
       {
+         "description" : "There was no lack of entertaiment in round 6 of the Superbet Chess Classic, despite all five games finishing drawn. Fabiano Caruana could have extended his lead, but failed to take down Alireza Firouzja from an advantageous position. Similarly, Wesley So got a clear edge against Ding Liren, but first missed a few tactical chances and then decided to force a threefold repetition from a still superior position. Thus, Caruana remains as the sole leader in Bucharest with three rounds to go. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r6",
+         "pubDate" : "Sat, 13 May 2023 03:15:00 +0100",
+         "title" : "Superbet Classic: Hard-fought draws, Caruana and So miss chances"
+      },
+      {
          "description" : "As the Superbet Classic Romania 2023 nears the home stretch, GM Fabiano Caruana continues to lead despite blundering away his winning chances at a critical moment vs. GM Alireza Firouzja in round six. With this stroke of luck, Firouzja remains in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1328,6 +1336,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-quick-public-service-message/",
          "pubDate" : "Sun, 07 May 2023 18:27:15 +0000",
          "title" : "A Quick Public Service Message"
+      },
+      {
+         "description" : "As far as I can tell, the last time we saw a comic book on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), was <A HREF=\"https://chessforallages.blogspot.com/2020/08/strange-adventures-on-ebay.html\">Strange Adventures on eBay</A> (August 2020). I recorded the vital statistics for that item, noting, <BLOCKQUOTE> The item pictured below was titled 'Strange Adventures #35 CGC 8.5 OW-W DC-1953 Chess Cover'. It sold for US $643.93 after 26 bids from 12 bidders. </BLOCKQUOTE> <P> The vital statistics for the item pictured on this post below were not so clear. The title, 'Eerie Adventures #1 Ziff Davis Comics 1",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/eerie-tops-strange.html",
+         "pubDate" : "Sun, 07 May 2023 15:14:00 +0000",
+         "title" : "Eerie Tops Strange"
       },
       {
          "description" : "Wesley So talked of \"revenge\" as he beat Alireza Firouzja with the black pieces to score the only win on Day 1 of the Superbet Chess Classic, the first event on the 2023 Grand Chess Tour. Ding Liren was ultimately happy to open with a solid draw against Maxime Vachier-Lagrave, while the world champion's second Richard Rapport felt Ian Nepomniachtchi was vulnerable in the French Defence, though he couldn't prove it.",
@@ -1784,14 +1800,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/success-story-1/",
          "pubDate" : "Sat, 29 Apr 2023 12:00:00 +0000",
          "title" : "Unlocking Chess Success: +752 Points in 6 Months"
-      },
-      {
-         "description" : "CHESS: the musical, with lyrics by Sir Tim Rice and music by the male half of ABBA, is blessed with some of the most ingenious text by our most celebrated musical logodaedalus, while also featuring some of Bj&ouml;rn and Benny's most inspired music. I am delighted to say that after a most successful pre-Covid run at London's Coliseum, this []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/stranger-than-fiction-chess-the-musical/",
-         "pubDate" : "Sat, 29 Apr 2023 10:53:10 +0000",
-         "title" : "Stranger than fiction: 'Chess: the musical'"
       }
    ]
 }
