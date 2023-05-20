@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess composition dates back to the first Arabic manuscripts on chess. Throughout history, the theory of composition has kept defining and collecting the patterns of chess beauty. Over the last decades, the FIDE World Cup in Composing has been one of the most important events to inspire new masterpieces, and this year's edition is no exception. In the next several weeks, until mid-June, chess composers worldwide will prepare and polish their creations for the 11th FIDE World Cup in Composing 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-cup-in-composing-2023-masterpieces",
+         "pubDate" : "Sat, 20 May 2023 20:30:00 +0100",
+         "title" : "11th FIDE World Cup in Composing 2023: Unearthing new masterpieces"
+      },
+      {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -978,14 +986,6 @@ news_feed (
          "title" : "Shalom Alekhine: Ding joins the chess greats"
       },
       {
-         "description" : "Black's king on h7, heavy pieces in the open g-file - White had deliberately gone for the diagram position after 21...Bh8. But now it's time to take the bull by the horns - your move!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ol",
-         "pubDate" : "Sat, 13 May 2023 09:00:00 +0100",
-         "title" : "Ol&eacute;!"
-      },
-      {
          "description" : " We'll continue our examination of beginner's tactics. This week we're going to look at a tactic called the skewer. Is this an easy tactic to learn? Well, yes and no! If you have read my previous articles on the pin, you already know the underlying dynamics of this tactic. While similar to a pin, there's <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-one/\">A Foundation for Beginners Ninety One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1768,30 +1768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-title-heads-into-rapid-play-tiebreak/articleshow/99882937.cms",
          "pubDate" : "Sun, 30 Apr 2023 05:55:50 +0000",
          "title" : "World Chess title heads into rapid-play tiebreak"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2364",
-         "pubDate" : "Sat, 29 Apr 2023 16:37:35 +0000",
-         "title" : "Ding Liren and Ian Nepomniachtchi head for final tie-breaker"
-      },
-      {
-         "description" : " The 14 game match for the World Chess Championship between Ian Nepomniachtchi and Ding Liren finished in a 7-7 draw after a final 14th game of near unbearable tension. There will be a rapid and possibly blitz tie-breaks on Sunday to decide the title. Ding Liren had the white pieces and chose the 5.Bd2 Nimzo-Indian. Pretty soon the players were on their own but also it was clear that after 9...dxc4 black had no problems. Well perhaps it wasn't clear to Ding because he went for the super aggressive 12.Ng5 h6 13.h4. Ding was soon disappointed though as 13...Qc7 effectively refuted the attacking ideas and 14.Be2 acknowledged that. There were some computer lines that promised black an advantage ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/the-world-chess-championship-will-be-decided-by-rapid-and-possibly-blitz-tie-breaks-on-sunday",
-         "pubDate" : "Sat, 29 Apr 2023 20:33:00 +0400",
-         "title" : "The World Chess Championship will be decided by rapid and possibly blitz tie-breaks on Sunday - 14"
-      },
-      {
-         "description" : "\"This match is totally nuts!\" said Anish Giri as Ding Liren went all-in with the white pieces in the final classical game of the match. It backfired spectacularly, with Ian Nepomniachtchi getting a series of chances until in the endgame he once more looked on the verge of becoming World Champion. One rushed move, however, and Ding Liren snatched his chance to force a drawn rook endgame and take the match to a playoff on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/a-ding-nepo-playoff-it-is-after-heart-stopping-game-14",
-         "pubDate" : "Sat, 29 Apr 2023 15:45:39 +0000",
-         "title" : "A Ding-Nepo playoff it is, after heart-stopping Game 14"
       }
    ]
 }
