@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Rapid &#38; Blitz Poland is the 2nd stage on the 2023 Grand Chess Tour, a series of five events with a total prize fund of $1.4 million. The 10-player event features World Champion Ding Liren and world no. 1 Magnus Carlsen, and is taking place in the Museum of the History of Polish []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/superbet-rapid-blitz-poland-live/",
+         "pubDate" : "Sat, 20 May 2023 21:56:21 +0000",
+         "title" : "Superbet Rapid & Blitz Poland - LIVE"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Nana Dzagnidze Alexandra Kosteniuk from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nana-dzagnidze-alexandra-kosteniuk-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 20 May 2023 21:49:26 +0000",
+         "title" : "Nana Dzagnidze - Alexandra Kosteniuk, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Nana Dzagnidze Bibisara Assaubayeva from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bibisara-assaubayeva-zhongyi-tan-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 20 May 2023 21:37:40 +0000",
+         "title" : "Bibisara Assaubayeva - Zhongyi Tan, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bella Khotenashvili Gunay Mammadzada from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bella-khotenashvili-gunay-mammadzada-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 20 May 2023 21:25:00 +0000",
+         "title" : "Bella Khotenashvili - Gunay Mammadzada, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Aleksandra Goryachkina Polina Shuvalova from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-polina-shuvalova-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 20 May 2023 21:00:00 +0000",
+         "title" : "Aleksandra Goryachkina - Polina Shuvalova, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Harika Dronavalli Kateryna Lagno from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/harika-dronavalli-kateryna-lagno-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 20 May 2023 20:42:00 +0000",
+         "title" : "Harika Dronavalli - Kateryna Lagno, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Dinara Wagner Oliwia Kiolbasa from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dinara-wagner-oliwia-kiolbasa-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 20 May 2023 20:00:00 +0000",
+         "title" : "Dinara Wagner - Oliwia Kiolbasa, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2408",
+         "pubDate" : "Sat, 20 May 2023 19:42:04 +0000",
+         "title" : "FIDE WGP Nicosia: Harika scores her second win and joins the lead "
+      },
+      {
          "description" : "Chess composition dates back to the first Arabic manuscripts on chess. Throughout history, the theory of composition has kept defining and collecting the patterns of chess beauty. Over the last decades, the FIDE World Cup in Composing has been one of the most important events to inspire new masterpieces, and this year's edition is no exception. In the next several weeks, until mid-June, chess composers worldwide will prepare and polish their creations for the 11th FIDE World Cup in Composing 2023.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +144,30 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-4",
          "pubDate" : "Fri, 19 May 2023 17:51:00 -0700",
          "title" : "Like A Shark, Goryachkina Rises From The Depths"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Harika Dronavalli from round 5 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Nana Dzagnidze Bibisara Assaubayeva / Alexandra Kosteniuk Dinara []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oliwia-kiolbasa-harika-dronavalli-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Fri, 19 May 2023 23:28:00 +0000",
+         "title" : "Oliwia Kiolbasa - Harika Dronavalli, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Zhongyi Tan from round 5 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Nana Dzagnidze Bibisara Assaubayeva / Alexandra Kosteniuk Dinara []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-zhongyi-tan-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Fri, 19 May 2023 22:26:00 +0000",
+         "title" : "Gunay Mammadzada - Zhongyi Tan, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Bella Khotenashvil from round 5 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Nana Dzagnidze Bibisara Assaubayeva / Alexandra Kosteniuk Dinara []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polina-shuvalova-bella-khotenashvil-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Fri, 19 May 2023 22:00:00 +0000",
+         "title" : "Polina Shuvalova - Bella Khotenashvil, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "",
@@ -210,38 +298,6 @@ news_feed (
          "title" : "Shuvalova Wins 2nd Game in Row, Nears Leaders"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Gunay Mammadzada from round 3 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Dinara Wagner Bibisara Assaubayeva / Nana Dzagnidze Harika []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polina-shuvalova-gunay-mammadzada-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Thu, 18 May 2023 21:32:45 +0000",
-         "title" : "Polina Shuvalova - Gunay Mammadzada, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Austrian Senior Championship 50+ is taking place from 15&#x2013;21 May 2023 in Vienna, Austria. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Nikolaus Stanec, Markus Bawart, Helmut Kummer, Richard Stranz, Frank, Dr. Belke, Drago Stanivukovic, Michael Ivancsics, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-senior-championship-50-live/",
-         "pubDate" : "Thu, 18 May 2023 21:09:05 +0000",
-         "title" : "Austrian Senior Championship 50+ - LIVE"
-      },
-      {
-         "description" : "The Rudolf Teschner Memorial 2023 is taking place from 18&#x2013;21 May 2023 in Berlin, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Li Min Peng, Alexander Kovchan, Michael Richter, Jonathan Carlstedt, Nikolas Wachinger, Bjorn Ahlander, Rainer Polzin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rudolf-teschner-memorial-2023/",
-         "pubDate" : "Thu, 18 May 2023 20:53:51 +0000",
-         "title" : "Rudolf Teschner Memorial 2023"
-      },
-      {
-         "description" : "The Rudolf Teschner Memorial 2023 is taking place from 18&#x2013;21 May 2023 in Berlin, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Li Min Peng, Alexander Kovchan, Michael Richter, Jonathan Carlstedt, Nikolas Wachinger, Bjorn Ahlander, Rainer Polzin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rudolf-teschner-memorial-2023-live/",
-         "pubDate" : "Thu, 18 May 2023 20:35:00 +0000",
-         "title" : "Rudolf Teschner Memorial 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -250,60 +306,12 @@ news_feed (
          "title" : "WGP Nicosia: Lagno and Tan Zhongyi maintain the lead going into the 4th round"
       },
       {
-         "description" : "The Frederica Chess IM 2023 is an 10-player round-robin tournament taking place from 17&#x2013;21 May 2023 in Fredericia, Denmark. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the live games. More : 6th Sharjah Masters []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/frederica-chess-im-2023/",
-         "pubDate" : "Thu, 18 May 2023 20:20:00 +0000",
-         "title" : "Frederica Chess IM 2023"
-      },
-      {
-         "description" : "The Austrian Senior Championship 65+ is taking place from 15&#x2013;21 May 2023 in Vienna, Austria. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Klaus Opl, Johannes Pernerstorfer, Friedrich Woeber, Peter Stadler, Herbert Doppelhammer, Siegfried Zoernpfenning, Guenther Pingitzer, Jayakumar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-senior-championship-65-live/",
-         "pubDate" : "Thu, 18 May 2023 19:45:00 +0000",
-         "title" : "Austrian Senior Championship 65+ - LIVE"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Dinara Wagner Bibisara Assaubayeva from round 3 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Dinara Wagner Bibisara Assaubayeva / Nana Dzagnidze Harika []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dinara-wagner-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Thu, 18 May 2023 19:30:00 +0000",
-         "title" : "Dinara Wagner - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Nana Dzagnidze Harika Dronavalli from round 3 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Dinara Wagner Bibisara Assaubayeva / Nana Dzagnidze Harika []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nana-dzagnidze-harika-dronavalli-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Thu, 18 May 2023 19:15:00 +0000",
-         "title" : "Nana Dzagnidze - Harika Dronavalli, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Alexandra Kosteniuk Aleksandra Goryachkina from round 3 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Dinara Wagner Bibisara Assaubayeva / Nana Dzagnidze Harika []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Thu, 18 May 2023 19:00:00 +0000",
-         "title" : "Alexandra Kosteniuk - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "In his Fast & Furious show, Robert Ris takes a look at the game Yoo-Maghsoodloo from the 1st round of the Sharjah Masters. A Classical Sicilian Rauzer with 7.Qd3 was soon transformed into a Sveshnikov-type of structure, in which Black succeeded with energetic play. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-adventures",
          "pubDate" : "Thu, 18 May 2023 19:51:21 +0100",
          "title" : "Robert Ris' Fast and Furious: Sicilian adventures"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Bella Khotenashvili from round 3 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Dinara Wagner Bibisara Assaubayeva / Nana Dzagnidze Harika []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-bella-khotenashvili-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Thu, 18 May 2023 18:45:00 +0000",
-         "title" : "Oliwia Kiolbasa - Bella Khotenashvili, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "",
