@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shortly after the Superbet Chess Classic, the Superbet Rapid & Blitz will return with its second edition. The tournament is set to take place on May 21-25 at the Museum of the History of Polish Jews in Warsaw, Poland. Joining five 'full players' from the Grand Chess Tour, five wildcards, including world number one Magnus Carlsen, will make their way to the Polish capital. | Photo: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-preview",
+         "pubDate" : "Sat, 20 May 2023 05:00:00 +0100",
+         "title" : "Starting Sunday: Carlsen heads intriguing field in Superbet Poland"
+      },
+      {
+         "description" : "IM Emin Ohanyan and GM Daniel Dardha qualified for the Junior Speed Chess Championship 2023 Main Event on Friday after winning the Qualifier 2 Winners and Losers Brackets respectively. Ohanyan, who finished third in the Qualifier 2 Swiss, swept ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-junior-speed-chess-championship-qualifier-2",
+         "pubDate" : "Fri, 19 May 2023 18:25:01 -0700",
+         "title" : "Ohanyan, Dardha Qualify For JSCC Main Event"
+      },
+      {
+         "description" : "FIDE and the Georgian Chess Federation are organizing a match between top Ukrainian players Mariya and Anna Muzychuk and local stars Nino Batsiashvili and Meri Arabidze. The games will take place at the Hotel Legend in Batumi, Georgia, on June 5-11. Each of the matches will consist of six classical games. | Photos: International Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ukraine-georgia-solidarity-match-2023",
+         "pubDate" : "Sat, 20 May 2023 02:15:00 +0100",
+         "title" : "Ukraine vs Georgia solidarity match in Batumi"
+      },
+      {
+         "description" : "Resurging after her round-one disappointment, GM Aleksandra Goryachkina was the only victor of round four at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 on Friday. She scoured the ending with a microscopic edge until she induced mistakes by her ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-4",
+         "pubDate" : "Fri, 19 May 2023 17:51:00 -0700",
+         "title" : "Like A Shark, Goryachkina Rises From The Depths"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,6 +74,14 @@ news_feed (
          "title" : "Jennifer Shahade Featured On Jeopardy! Quizmaster; Can You Solve Her Clues?"
       },
       {
+         "description" : "Gennadi Sosonko was born in and grew up in the Soviet Union, in a golden age of chess. He emigrated in 1972, became a successful player and then an even more successful chess journalist and author. On 18 May he celebrated his 80th birthday. | Photo source: livelib",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-gennadi-sosonko-celebrates-80th-birthday",
+         "pubDate" : "Fri, 19 May 2023 14:05:00 +0100",
+         "title" : "Congratulations! Gennadi Sosonko celebrates his 80th birthday!"
+      },
+      {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/",
          "pubDate" : "Fri, 19 May 2023 09:42:48 +0000",
          "title" : "21st European Union Youth Chess Championship U8-U14"
-      },
-      {
-         "description" : "Gennadi Sosonko was born in and grew up in the Soviet Union, in a golden age of chess. He emigrated in 1972, became a successful player and then an even more successful chess journalist and author. On 18 May he celebrated his 80th birthday. | Photo source: livelib",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-gennadi-sosonko-celebrates-80th-birthday",
-         "pubDate" : "Fri, 19 May 2023 10:35:06 +0100",
-         "title" : "Congratulations! Gennadi Sosonko celebrates his 80th birthday!"
       },
       {
          "description" : "The first in-person Chess for Freedom Conference will take place from&#160;17-20 May 2023 in Chicago USA. The event will feature many experts from the worldwide...",
@@ -970,28 +1002,12 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Day 6 Recap"
       },
       {
-         "description" : "Grandmaster Andr&aacute;s Adorj&aacute;n died yesterday after a long illness. He was the runner-up at the 1969 World Junior Championship behind Anatoly Karpov, and reached the quarterfinals of the Candidates Matches in the 1979-1981 World Championship cycle. As a coach, he worked with Garry Kasparov and Peter Leko, among others. Andr&aacute;s Adorj&aacute;n was 73 years old. | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andras-adorjan-1950-2023",
-         "pubDate" : "Fri, 12 May 2023 21:15:00 +0100",
-         "title" : "Andr&aacute;s Adorj&aacute;n (1950-2023)"
-      },
-      {
          "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/05/three-hours-of-catalan.html",
          "pubDate" : "Fri, 12 May 2023 13:00:00 +0000",
          "title" : "Three hours of Catalan"
-      },
-      {
-         "description" : "ChessBase 17 is the leading software in the world of chess, and a huge number of professional players and club enthusiasts use it. It is our digital notebook, where we can organize all our chess-related work: openings, games databases, analyses, master games, training positions and much more. A review by FM Jorge Ram&iacute;rez for the \"Pe&oacute;n de Rey\" magazine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-review-jorge-ramirez",
-         "pubDate" : "Fri, 12 May 2023 11:55:52 +0100",
-         "title" : "ChessBase 17 review: \"A wide range of opportunities\""
       },
       {
          "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "FIDE World Youth U16 Chess Olympiad 2023: Registration is open"
       },
       {
-         "description" : "Think you&#38;rsquo;ve got what it takes to go toe-to-toe with one of the smartest executives in professional sports? It&#38;rsquo;s time for you to make some blockbuster trades over the board. We&#39;ve added Philadelphia 76ers President Daryl Morey to our s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-with-basketball-mastermind-daryl-morey",
-         "pubDate" : "Mon, 08 May 2023 09:00:00 -0700",
-         "title" : "Play Chess With Basketball Mastermind Daryl Morey"
-      },
-      {
          "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/michael-franklin-rip/",
          "pubDate" : "Mon, 08 May 2023 07:22:50 +0000",
          "title" : "Michael Franklin RIP"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi and Richard Rapport were the two winners in the second round of the Superbet Classic Romania 2023&#38;nbsp;in Bucharest on Sunday. The round featured two contrasting decisive results as well as three draws that were all decided ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-2",
-         "pubDate" : "Sun, 07 May 2023 15:29:00 -0700",
-         "title" : "Nepomniachtchi Defeats Deac; Rapport Grinds Bishop Ending Against Duda"
       },
       {
          "description" : "",
