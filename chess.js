@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four rounds into the strong Sharjah Masters, eight players are sharing the lead with 3 points each. Among them are Ju Wenjun and Praggnanandhaa Rameshbabu, the only two players who kicked off the tournament with back-to-back wins. Aryan Chopra is also among the co-leaders - the 21-year-old, ranked 35th in Sharjah, beat his higher-rated compatriot Arjun Erigaisi in round 4. | Pictured: Co-leaders Praggnanandhaa and Nihal Sarin drew their round-4 encounter | Photos: Tournament&rsquo;s Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r4",
+         "pubDate" : "Sun, 21 May 2023 02:15:00 +0100",
+         "title" : "Sharjah Masters: Eight co-leaders, Aryan upsets Arjun"
+      },
+      {
+         "description" : "GM Harika Dronavalli was the sole winner on Saturday in the fifth round of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023, defeating IM Oliwia Kiolbasa with Black in 45 moves. Harika&#39;s victory was comprehensive and it allowed her to join GM Kateryn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-five",
+         "pubDate" : "Sat, 20 May 2023 17:19:39 -0700",
+         "title" : "Harika Delivers With Black, Joins Leaders"
+      },
+      {
          "description" : "The Superbet Rapid &#38; Blitz Poland is the 2nd stage on the 2023 Grand Chess Tour, a series of five events with a total prize fund of $1.4 million. The 10-player event features World Champion Ding Liren and world no. 1 Magnus Carlsen, and is taking place in the Museum of the History of Polish []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/optimizing-for-what/",
          "pubDate" : "Sat, 20 May 2023 12:00:00 +0000",
          "title" : "Finding Your Chess North Star: What Are You Optimizing For?"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Sat, 20 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : " Today at Street Chess I tried 2 new technical tools to support tournament coverage and broadcasting* Inspired by IA Helen Milligan, who uses both these products, I used Clono to broadcast a game a round, and VegaResults to publish the tournament results. NB Both of these have been around for a while (* and I had already tested Clono previously), but I decided now was the time to use both of them as part of my tournament infrastructure. Clono is an electronic scoresheet app that runs on Android tablets. Players enter their own moves on the tablet (after they have been played), and these are uploaded to the Clono server. They can then be broadcast via the tournament link, to be observed in re",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2376",
          "pubDate" : "Mon, 08 May 2023 22:28:07 +0000",
          "title" : "2023 Superbet Chess Classic: Day 3 Recap"
-      },
-      {
-         "description" : "GM Fabiano Caruana was the sole winner of round three at the Superbet Classic Romania 2023, demolishing GM Maxime Vachier-Lagrave&#39;s King&#39;s Indian Defense with the radical 3.h4―tossing classical opening principles to the wind. He joins GM Ian Nepom...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-3",
-         "pubDate" : "Mon, 08 May 2023 15:15:00 -0700",
-         "title" : "Caruana Rattles Vachier-Lagrave With 3.h4!?, Joins Leaders"
       },
       {
          "description" : "",
