@@ -1768,14 +1768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Sun, 30 Apr 2023 10:45:00 +0100",
          "title" : "World Championship, Playoff - Ding Liren takes the crown!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99882937.cms\" />The World Chess Championship will be decided in a rapid-play tiebreak on Sunday, after Russia's Ian Nepomniachtchi and China's Ding Liren remained deadlocked following 14 games played under classical rules.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-title-heads-into-rapid-play-tiebreak/articleshow/99882937.cms",
-         "pubDate" : "Sun, 30 Apr 2023 05:55:50 +0000",
-         "title" : "World Chess title heads into rapid-play tiebreak"
       }
    ]
 }
