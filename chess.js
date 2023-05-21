@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As Ukraine gears up for its long-awaited counter-offensive against Putin's illegal invasion, and in the light of President Zelensky's visits to Rishi Sunak and other world leaders, my thoughts have turned to that crucial moment when the Soviet chess imperium began to display cracks. I remind readers that FIDÉ, the governing body of world chess, still []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/russia-the-turning-of-the-tide/",
+         "pubDate" : "Sun, 21 May 2023 14:24:18 +0000",
+         "title" : "Russia: the turning of the tide"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 126th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\", and continues to look at the legacy of Paul Morphy. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-126-chess-history-in-a-nutshell-8",
+         "pubDate" : "Sun, 21 May 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 126: Chess history in a nutshell (8)"
+      },
+      {
+         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
+         "pubDate" : "Sun, 21 May 2023 13:50:00 +0100",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Sun, 21 May 2023 13:45:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -370,7 +402,7 @@ news_feed (
          "title" : "FIDE and GCF to stage Solidarity Matches in Batumi, Georgia"
       },
       {
-         "description" : " The Superbet Rapid & Blitz takes place in Warsaw, Poland 21st to 25th May 2023. Players: Magnus Carlsen, Ding Liren, Anish Giri, Wesley So, Richard Rapport, MVL, Jan-Krzysztof Duda, Bogdan-Daniel Deac, Kirill Shevchenko and Radoslaw Wojtaszek play in this event which is part of the Grand Chess Tour.",
+         "description" : " The Superbet Rapid & Blitz takes place in Warsaw, Poland 21st to 25th May 2023. Players: Magnus Carlsen, Levon Aronian, Anish Giri, Wesley So, Richard Rapport, MVL, Jan-Krzysztof Duda, Bogdan-Daniel Deac, Kirill Shevchenko and Radoslaw Wojtaszek play in this event which is part of the Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
@@ -674,7 +706,7 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Round 6 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-1-grandchesstour",
@@ -882,22 +914,6 @@ news_feed (
          "title" : "Michael Franklin"
       },
       {
-         "description" : "On 14 May 1937 Grigory Levenfish won the 10th Soviet Championship, defending the title he had won two years earlier at the 9th Soviet Championship in 1935. In 1937 Levenfish also drew a match against Botvinnik and hoped to play in the 1938 AVRO tournament. At that time Levenfish was probably one of the best players in the world, but the Soviet authorities stifled his career. To mark the 86th anniversary of Levenfish's victory that made him a two-time Soviet Champion Eugene Manlapao looks at the tragic life and career of this fascinating player. | Photo source: Douglas Griffin.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grigory-levenfish-27-march-1889-9-february-1961-the-outsider-of-the-soviet-chess-champions",
-         "pubDate" : "Sun, 14 May 2023 14:00:00 +0100",
-         "title" : "Grigory Levenfish (27 March 1889 - 9 February 1961): The Outsider of the Soviet Chess Champions"
-      },
-      {
-         "description" : "In this video, Svitlana puts you to the test by dissecting three splendid game examples. So, sharpen your strategic thinking and prepare to dive into the world of clever tactics and mind-bending manoeuvres because it is all about creativity! Let the games begin!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-test-your-creativity",
-         "pubDate" : "Sun, 14 May 2023 13:50:00 +0100",
-         "title" : "Svitlana's Smart Moves - Test your creativity"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
          "pubDate" : "Sun, 14 May 2023 09:35:59 +0000",
          "title" : "European School Chess Championship 2023 kicked off in Durres"
-      },
-      {
-         "description" : "Alireza Firouzja joined Fabiano Caruana in the lead of the Superbet Chess Classic after beating Ian Nepomniachtchi in the tournament's seventh round. The other decisive game of the day saw Anish Giri claiming his first win in Bucharest by beating Ding Liren with white. Thus, much like in round 5, the two recent World Championship contenders lost on the same day. Ding and Nepo stand now in shared last place with 2&frac12;/7 points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r7",
-         "pubDate" : "Sun, 14 May 2023 02:30:00 +0100",
-         "title" : "Superbet Classic: Firouzja beats Nepo, Giri beats Ding"
       },
       {
          "description" : "In round seven of the Superbet Classic Romania 2023, GM Alireza Firouzja caught GM Fabiano Caruana, the tournament leader for most of the event, by defeating GM Ian Nepomniachtchi and breaking down his attempt at a fortress. The two are now tied f...",
@@ -1728,46 +1736,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/30/2023-world-chess-championship-game-14/",
          "pubDate" : "Sun, 30 Apr 2023 17:26:55 +0000",
          "title" : "2023 World Chess Championship: Game 14"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99891133.cms\" />Ding Liren became China's first world chess champion on Sunday after a rapid-play tie-break victory over Russia's Ian Nepomniachtchi in Kazakhstan. Ding, 30, takes over as winner of the World Chess Championship from Norway's Magnus Carlsen, who chose not to defend his title after a 10-year reign.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ding-liren-becomes-chinas-first-world-chess-champion/articleshow/99891133.cms",
-         "pubDate" : "Sun, 30 Apr 2023 14:51:55 +0000",
-         "title" : "Ding Liren becomes China's first world chess champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2365",
-         "pubDate" : "Sun, 30 Apr 2023 14:49:06 +0000",
-         "title" : "Ding Liren makes history, becoming World Champion"
-      },
-      {
-         "description" : "\"Self-pinning for immortality - congrats, Ding!!\" said Magnus Carlsen as Ding Liren took over his World Championship title. Ding found one last chance to play for a win in the final rapid tiebreak game, just when everyone was sure we were heading to blitz. It was the end of an incredible story for Ding, who never led until Ian Nepomniachtchi resigned in the final moment of the match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-becomes-the-17th-world-chess-champion",
-         "pubDate" : "Sun, 30 Apr 2023 14:02:38 +0000",
-         "title" : "Ding Liren becomes the 17th World Chess Champion"
-      },
-      {
-         "description" : " The headline says it all. More thoughts to come later ... ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/04/that-was-all-very-silly.html",
-         "pubDate" : "Sun, 30 Apr 2023 13:15:00 +0000",
-         "title" : "That was all very silly"
-      },
-      {
-         "description" : " Ding Liren won the fourth and final rapid tie-break game against Ian Nepomniachtchi to become the new World Chess Champion. It's been an astonishing run of circumstance that's led to Ding becoming Champion including today's hard fought rapid tie-break games. Game one today was a strange d-pawn opening where white grabbed the c5 pawn, Nepomniachtchi went for a counter attack on the king with 22...Rh5 setting a nasty trap, 23.Qc2 was better for white, 23.Rb1 Ne5! left white needing to be accurate to hold which he did. Game two was a Ruy Lopez where Nepomniachtchi stood better. 21.exd6 (21.Bg3!) allowed Ding back in the game and equality. Nepomniachtchi did continue to set problems until near ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-liren-is-the-new-world-chess-champion",
-         "pubDate" : "Sun, 30 Apr 2023 16:36:00 +0400",
-         "title" : "Ding Liren is the new World Chess Champion - TB"
       }
    ]
 }
