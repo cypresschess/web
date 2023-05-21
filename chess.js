@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Sun, 21 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : " In earlier articles I've discussed other volumes in my Chess Heroes series designed to take students from round about 500 to 1500 strength. My opinion is that, while there are many books which teach you how the pieces move, and many more books written for proficient players, there's very little on the market which will <a href=\"https://chessimprover.com/chess-heroes-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-endings/\">Chess Heroes: Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-heroes-endings/",
+         "pubDate" : "Sun, 21 May 2023 10:28:58 +0000",
+         "title" : "Chess Heroes: Endings"
+      },
+      {
+         "description" : "Three players are sharing the lead after five rounds at the Women's Grand Prix in Nicosia. Joining Kateryna Lagno and Tan Zhongyi, who became the early leaders after winning in the first two rounds, is Harika Dronavalli, who beat an out-of-form Oliwia Kiolbasa in Saturday's fifth round. Three players make up the chasing pack a half point behind: Aleksandra Goryachkina, Polina Shuvalova and Dinara Wagner. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r5",
+         "pubDate" : "Sun, 21 May 2023 10:30:00 +0100",
+         "title" : "Nicosia GP: Harika beats Kiolbasa to join the lead"
+      },
+      {
          "description" : "Four rounds into the strong Sharjah Masters, eight players are sharing the lead with 3 points each. Among them are Ju Wenjun and Praggnanandhaa Rameshbabu, the only two players who kicked off the tournament with back-to-back wins. Aryan Chopra is also among the co-leaders - the 21-year-old, ranked 35th in Sharjah, beat his higher-rated compatriot Arjun Erigaisi in round 4. | Pictured: Co-leaders Praggnanandhaa and Nihal Sarin drew their round-4 encounter | Photos: Tournament&rsquo;s Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-cup-in-composing-2023-masterpieces",
          "pubDate" : "Sat, 20 May 2023 20:30:00 +0100",
          "title" : "11th FIDE World Cup in Composing 2023: Unearthing new masterpieces"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Sat, 20 May 2023 13:50:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
       },
       {
          "description" : " Since starting my blog in 2021, I've answered hundreds of questions from readers. Most of my answers begin with &#8220;It depends.&#8221; This isn't a cop-out, but rather what I genuinely believe. It's incredibly challenging to provide clear-cut advice without knowing the answer to one of the most crucial questions: What Are You Optimizing For? Depending [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/optimizing-for-what/\">Finding Your Chess North Star: What Are You Optimizing For?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -970,14 +986,6 @@ news_feed (
          "title" : "Don't Be A Genius"
       },
       {
-         "description" : "Andrzej Filipowicz is one of the most interesting chess personalities in the world. He has been a chess player, arbiter, organizer, editor and writer, as well as a civil engineer specializing in steel structures. Endowed with a strong personality, clear intelligence, well-defined convictions and a curious sense of humour, he is turning 85 today, on 13 May 2023. Uvencio Blanco conducted a lengthy interview with the Polish chess polymath.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrzej-filipowicz-interview-uvencio-blanco",
-         "pubDate" : "Sat, 13 May 2023 13:00:00 +0100",
-         "title" : "An interview with Andrzej Filipowicz, a Polish chess polymath"
-      },
-      {
          "description" : "‌Fabiano Caruana and Wesley So missed gilt-edged chances as all games were drawn in Round 6 of the Superbet Chess Classic in Bucharest. World Champion Ding Liren was fighting hard but might still have suffered a 2nd loss in a row if not for Wesley taking a draw by repetition. Caruana leads but would be much closer to overall victory if he'd beaten Alireza Firouzja. Instead a careless 41st move spoilt all his efforts.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1248,6 +1256,14 @@ news_feed (
          "link" : "https://aicf.in/tentative-calendar-for-the-period-2023-24/",
          "pubDate" : "Tue, 09 May 2023 16:35:11 +0000",
          "title" : "TENTATIVE CALENDAR FOR THE PERIOD 2023-24"
+      },
+      {
+         "description" : "<P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne09.jpg\" WIDTH=150 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> 5 May 2023 &#149; WALLINGFORD - From Gerry's children: <P> It is with very profound sadness, and extremely heavy hearts, we inform you that Geraldine Weeks took her last breath on May 2, 2023. She passed in the presence of adoring children after succumbing to a struggle to recover her natural vitality and vibrancy. <P> On September 4, 1930, Gerry arrived as the second child of Arthur Byron and Nina Pearl Backensto (nee Lichtenwalner) in Troy, NY. She shared her childhood, and early life, with her older brother Arthur (Art) Backensto, Jr. <P> She attended public schools in Troy, NY a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/freckles-and-diamonds.html",
+         "pubDate" : "Tue, 09 May 2023 15:21:00 +0000",
+         "title" : "Freckles and Diamonds"
       },
       {
          "description" : "Congratulations to Keith Arkell (right) and Mark Hebden, joint 50+ winners; and Chris Baker the 65+ winner, with Paul Littlewood second. Also to Natasha Regan,...",
@@ -1714,14 +1730,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 14"
       },
       {
-         "description" : " This is another post in my occasional series on pawn endings: here I was black against a lower rated opponent in an online rapid game. It was my move in this position. I should have played 35.. g5! 36. fxg5 Bxd2! 37. Kxd2 hxg5 38. f4 gxf4 39. gxf4 Ke4 here, with an obvious win, <a href=\"https://chessimprover.com/could-do-better/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Could Do Better\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/could-do-better/\">Could Do Better</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/could-do-better/",
-         "pubDate" : "Sun, 30 Apr 2023 15:53:25 +0000",
-         "title" : "Could Do Better"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99891133.cms\" />Ding Liren became China's first world chess champion on Sunday after a rapid-play tie-break victory over Russia's Ian Nepomniachtchi in Kazakhstan. Ding, 30, takes over as winner of the World Chess Championship from Norway's Magnus Carlsen, who chose not to defend his title after a 10-year reign.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1760,14 +1768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-liren-is-the-new-world-chess-champion",
          "pubDate" : "Sun, 30 Apr 2023 16:36:00 +0400",
          "title" : "Ding Liren is the new World Chess Champion - TB"
-      },
-      {
-         "description" : "By winning game 4 of the rapid tiebreakers - after three draws - Ding Liren became the 17th undisputed world chess champion! Ian Nepomniachtchi seemed to have things under control in the deciding game, and even a bit of an advantage at times, but he overestimated his chances and allowed Ding to get a dangerous passer. Ding kept his nerves and converted his advantage brilliantly. | Replay the games with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sun, 30 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Playoff - Ding Liren takes the crown!"
       }
    ]
 }
