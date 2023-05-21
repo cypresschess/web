@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today I'm returning to a subject I've covered a number of times in the past: passed pawns. Passed pawns are a crucial aspect of chess and your attitude to them can have a profound effect on how you play and, in particular, your opening choices. To explore this topic, I look at a game played by Vasilios Kotronias, in which he was overwhelmed by an absolute pawn avalanche. The final phase is extraordinary and somewhat reminiscent of the famous game McDonnell versus De La Bourdonnais.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-194",
+         "pubDate" : "Sun, 21 May 2023 20:00:00 +0100",
+         "title" : "The peasants' revolt"
+      },
+      {
+         "description" : "Our Summer Camp has completed five days, with many hundreds of new players being trained. The camp is being held at the Phoenix Marketcity Mall in Mumbai and is open to all. There are no charges and people can learn chess in a fun and engaging way, at their own pace. Trainers and volunteers help to educate the public and guide them in the right direction. Is this a model that can be emulated in countries all over the world? Full video impressions at the end of the article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/experiment-chess-camp-in-a-mall",
+         "pubDate" : "Sun, 21 May 2023 18:00:00 +0100",
+         "title" : "Experiment: Chess Camp in a mall"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-2-grandchesstour",
+         "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Day 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich highlights the sights and sounds at the POLIN Museum of the History of Polish Jews in Warsaw from the Opening Ceremony of the Superbet Rapid &amp; Blitz Poland. This aired during Round 1. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-opening-ceremony-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-opening-ceremony-grandchesstour",
+         "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Opening Ceremony #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Superbet Poland CEO Adam Lamentowicz talks to Cristian Chirila during the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet%E2%80%99s-lamentowicz-museum-packed-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_GrOnRxyiVE.jpg?itok=II3Mbjsc\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet%E2%80%99s-lamentowicz-museum-packed-d1-superbetrapidblitzpoland",
+         "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
+         "title" : "Superbet's Lamentowicz: Museum is Packed! | D1 #SuperbetRapidBlitzPoland"
+      },
+      {
          "description" : "As Ukraine gears up for its long-awaited counter-offensive against Putin's illegal invasion, and in the light of President Zelensky's visits to Rishi Sunak and other world leaders, my thoughts have turned to that crucial moment when the Soviet chess imperium began to display cracks. I remind readers that FIDÉ, the governing body of world chess, still []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -706,7 +746,7 @@ news_feed (
          "title" : "2023 Superbet Chess Classic: Round 6 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-1-grandchesstour",
@@ -720,30 +760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-7-grandchesstour",
          "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
          "title" : "2023 Superbet Chess Classic: Round 7 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-8-grandchesstour\"><img src=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-8-grandchesstour",
-         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 8 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-9-grandchesstour\"><img src=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-9-grandchesstour",
-         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 9 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Romanian National Liberal Party Vice-President Sebastian Burduja talks to Cristian Chirila during Round 9 of the 2023 Superbet Chess Classic. Apologies to Burduja, as his party is misidentified in his ID. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sebastian-burduja-romania-embracing-tech-advances-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_em",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sebastian-burduja-romania-embracing-tech-advances-r9-superbetchessclassic",
-         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
-         "title" : "Sebastian Burduja: Romania is Embracing Tech Advances | R9 #SuperbetChessClassic"
       },
       {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
@@ -888,22 +904,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/kazakhstani-bibisara-assaubayeva-steamrolls-her-way-to-the-armag/",
          "pubDate" : "Sun, 14 May 2023 18:51:51 +0000",
          "title" : "Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
-      },
-      {
-         "description" : "On Thursday, the 4th Stepan Avagyan Memorial ended in Jermuk, Armenia. It was a strong 10-player round-robin tournament with many young participants. Rating favourite Sam Sevian won the tournament with a 6/9 score. Four players finished a full point behind: Nodirbek Yakubboev, Amin Tabatabaei, Haik Martirosyan and Robert Hovhannisyan. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2023",
-         "pubDate" : "Sun, 14 May 2023 19:15:00 +0100",
-         "title" : "Sam Sevian wins strong Stepan Avagyan Memorial"
-      },
-      {
-         "description" : "World Chess continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. The games begin at 19.00 CET (local time Berlin). Follow the show on day 6 live!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-armageddon-championship-series-women-s-week-to-launch-in-berlin-beginning-may-2",
-         "pubDate" : "Sun, 14 May 2023 18:45:00 +0100",
-         "title" : "The Armageddon Championship Series: Women's Week live - Day 7"
       },
       {
          "description" : " Many in the English chess community will have been saddened to hear of the death last month of FM Michael Franklin at the age of 92. The word most often used to describe him was &#8216;gentleman': perhaps an old-fashioned concept, but very appropriate for someone who always recorded his games descriptive notation and never used <a href=\"https://chessimprover.com/michael-franklin/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Michael Franklin\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/michael-franklin/\">Michael Franklin</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2366",
          "pubDate" : "Sun, 30 Apr 2023 20:01:54 +0000",
          "title" : "U15 and U18 Qualification Tournaments for the FIDE - ISF World School Teams cancelled"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 14: Nepo misses chance, game fizzles tiebreaks ahead Match Score: Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 14Saturday, 29 April 2023 The match between Ian Nepomniachtchi and Ding Liren came down to Game 14 of the classical portion. Would the champion be The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/30/2023-world-chess-championship-game-14/\">2023 World Chess Championship: Game 14</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/30/2023-world-chess-championship-game-14/",
-         "pubDate" : "Sun, 30 Apr 2023 17:26:55 +0000",
-         "title" : "2023 World Chess Championship: Game 14"
       }
    ]
 }
