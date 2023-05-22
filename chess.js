@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Cristian Chirila after going 0-0-3 on the second day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-solemn-missed-opportunities-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FU7ccnvea1Y.jpg?itok=68T0lfxE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rapport-solemn-missed-opportunities-d2-superbetrapidblitzpoland",
+         "pubDate" : "Mon, 22 May 2023 19:06:54 +0000",
+         "title" : "Rapport Solemn for Missed Opportunities | D2 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 1-0-2 on the second day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-you-can-play-your-best-not-get-chances-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VGZaN8OvgWc.jpg?itok=hQSgWJ_Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-you-can-play-your-best-not-get-chances-d2-superbetrapidblitzpoland",
+         "pubDate" : "Mon, 22 May 2023 19:06:54 +0000",
+         "title" : "Wesley: You Can Play Your Best, but Not Get Chances | D2 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : " Malawi crowned FM Joseph Mwale and Priyasha Santosh Shriyan as their new national champions on May 15th. Both were defending champions, thus both mounted a successful defense. It would be Mwale's 8th title and Shriyan's 3rd. &#8220;I spent sleepless nights practising my game on opening and closing. I am delighted that it has paid off.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/\">Mwale, Shriyan win Malawi titles!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/",
+         "pubDate" : "Mon, 22 May 2023 17:41:12 +0000",
+         "title" : "Mwale, Shriyan win Malawi titles!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players how it feels to play in Warsaw, Poland. This aired during Day 2. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-back-warsaw-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A5-kwtNlqYQ.jpg?itok=JKA7TCK3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-back-warsaw-grandchesstour",
+         "pubDate" : "Mon, 22 May 2023 16:04:36 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Back in Warsaw #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> For the first time since 2020, the world&#039;s best female chess players converge in America&#039;s chess capital, Saint Louis, Mo., for the 3rd Cairns Cup. Watch live from June 3-13 as ten of the top women compete in a classical round robin at the World Chess Hall of Fame for a $180,000 prize fund. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-promo",
+         "pubDate" : "Mon, 22 May 2023 16:04:36 +0000",
+         "title" : "2023 Cairns Cup | PROMO"
+      },
+      {
+         "description" : "GM Gawain Jones, the husband of WIM Sue Maroroa Jones, who died in tragic circumstances this month, has thanked the chess community as an appeal to support his family soared above $64,000. The two-time British champion told Chess.com: &#34;I am over...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gawain-jones-thanks-chess-community-for-sue-maroroa-appeal",
+         "pubDate" : "Mon, 22 May 2023 08:55:12 -0700",
+         "title" : "Gawain Jones: 'I Am Overwhelmed By All The Love And Support'"
+      },
+      {
          "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Alireza Firouzja, Hikaru Nakamura and Fabiano Caruana are the top seeds in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-opening-ceremony-grandchesstour",
          "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
          "title" : "2023 Superbet Rapid & Blitz Poland: Opening Ceremony #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Superbet Poland CEO Adam Lamentowicz talks to Cristian Chirila during the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet%E2%80%99s-lamentowicz-museum-packed-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_GrOnRxyiVE.jpg?itok=II3Mbjsc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet%E2%80%99s-lamentowicz-museum-packed-d1-superbetrapidblitzpoland",
-         "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
-         "title" : "Superbet's Lamentowicz: Museum is Packed! | D1 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "As Ukraine gears up for its long-awaited counter-offensive against Putin's illegal invasion, and in the light of President Zelensky's visits to Rishi Sunak and other world leaders, my thoughts have turned to that crucial moment when the Soviet chess imperium began to display cracks. I remind readers that FIDÉ, the governing body of world chess, still []",
@@ -794,14 +834,6 @@ news_feed (
          "title" : "FIDE World Championships 2024: Call for bids"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana speaks to Cristian Chirila and receives his trophy and $100,000 check from Grand Chess Tour Executive Director Michael Khodarkovsky and Superbet Foundation President Augusta Dragic after the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-trophy-and-big-check-presentation-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-trophy-and-big-check-presentation-r9-superbetchessclassic",
-         "pubDate" : "Mon, 15 May 2023 18:55:08 +0000",
-         "title" : "Caruana's Trophy and BIG Check Presentation! | R9 #SuperbetChessClassic"
-      },
-      {
          "description" : "UPDATE: friends of Sue Maroroa Jones&#39;s family have asked us to include a link to a donations page set up to help support them at this very difficult time. Please click here if you want to make a donation.On the morning of Thursday, May 11, the che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,22 +864,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-9",
          "pubDate" : "Mon, 15 May 2023 09:48:00 -0700",
          "title" : "Caruana Wins Superbet Classic, Takes Grand Chess Tour Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after his draw with MVL in Round 9 of the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-satisfying-start-year-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Er7tG39bkMY.jpg?itok=egX8NjDI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-satisfying-start-year-r9-superbetchessclassic",
-         "pubDate" : "Mon, 15 May 2023 15:55:21 +0000",
-         "title" : "Firouzja: 'Satisfying' Start to the Year | R9 #SuperbetChessClassic"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his draw with Rapport in Round 9 of the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-secures-least-tied-first-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JC8HoGVAN8k.jpg?itok=mLRHkBAU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-secures-least-tied-first-r9-superbetchessclassic",
-         "pubDate" : "Mon, 15 May 2023 15:55:21 +0000",
-         "title" : "Caruana Secures (at Least) Tied First | R9 #SuperbetChessClassic"
       },
       {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hess-asks-fide-to-address-events",
          "pubDate" : "Wed, 10 May 2023 07:29:00 -0700",
          "title" : "Hess Asks FIDE To Address Suspicious Rating Gains In Hybrid Events"
-      },
-      {
-         "description" : "GM Magnus Carlsen rejoined the Titled Tuesday winners column on May 9, his first time since November of last year. He scored 10 points to clear the rest of the early tournament field by a full point. GM Alexey Sarana&#38;nbsp;won the late tournament, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-sarana-win-titled-tuesday-may-9-2023",
-         "pubDate" : "Wed, 10 May 2023 07:28:31 -0700",
-         "title" : "Carlsen Returns To Crush Titled Tuesday"
       },
       {
          "description" : " The 2023 ACT Chess Championship is being held across the long weekend of the 26th - 29th May. This year sees a new venue, at the Eastlake Football Club in Griffith (NB NOT where the Gungahlin Chess Club meets ). I had a look at the venue today and it has plenty of space, as well as club facilities for meals and refreshments. It is a definite improvement over Campbell High School Hall (no offence Campbell High!), making this years event a must play for local players. Although this is a championship event, interstate players are welcome to take part, and are eligible for all prizes. However the title of ACT Champion for 2023 is awarded to the best scoring local player. <br /> Full details are",
@@ -1680,22 +1688,6 @@ news_feed (
          "link" : "https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/",
          "pubDate" : "Tue, 02 May 2023 10:50:04 +0000",
          "title" : "Serbia wins IBCA European Team Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2369",
-         "pubDate" : "Mon, 01 May 2023 17:40:50 +0000",
-         "title" : "FIDE May 2023 rating list is out"
-      },
-      {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 1 0 &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 7 Nepomniachtchi &frac12; 1 &frac12; 0 1 0 1 &frac12; &frac12; &frac12; &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/\">Ding Liren is the new World Chess Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/",
-         "pubDate" : "Mon, 01 May 2023 16:31:47 +0000",
-         "title" : "Ding Liren is the new World Chess Champion"
       }
    ]
 }
