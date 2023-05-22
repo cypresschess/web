@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2023-05-20","52","<a href=http://www.uschess.org/msa/XtblMain.php?202305207082 target='_blank'>PISD MAY 2023- MAY 2023 HS</a>",
+"HOUSTON","2023-05-20","95","<a href=http://www.uschess.org/msa/XtblMain.php?202305206952 target='_blank'>TEXAS PRIVATE & PAROCHIAL CHAMPIONS</a>",
+"PASADENA","2023-05-20","54","<a href=http://www.uschess.org/msa/XtblMain.php?202305206552 target='_blank'>PISD MAY 2023- MAY 2023 INTERMEDIAT</a>",
 "CYPRESS","2023-05-19","26","<a href=http://www.uschess.org/msa/XtblMain.php?202305195942 target='_blank'>EVENT NAME MISSING</a>",
 "SPRING","2023-05-19","37","<a href=http://www.uschess.org/msa/XtblMain.php?202305195902 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-05-19","12","<a href=http://www.uschess.org/msa/XtblMain.php?202305195862 target='_blank'>FBCC 2023 END OF SCHOOL OPEN/FBCC 2</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2022-09-30","34","<a href=http://www.uschess.org/msa/XtblMain.php?202209307812 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-09-06  - 09-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209276772 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS</a>",
 "PEARLAND","2022-09-27","5","<a href=http://www.uschess.org/msa/XtblMain.php?202209276622 target='_blank'>RCC QUADS SEPTEMBER 27, 2022</a>",
-"LEAGUE CITY","2022-09-12  - 09-26","15","<a href=http://www.uschess.org/msa/XtblMain.php?202209262192 target='_blank'>CLCC SEPTEMBER MONDAYS</a>",
-"HOUSTON","2022-09-25","8","<a href=http://www.uschess.org/msa/XtblMain.php?202209255192 target='_blank'>SEPT 25TH SUNDAY SWISS</a>",
-"HOUSTON","2022-09-24","45","<a href=http://www.uschess.org/msa/XtblMain.php?202209244162 target='_blank'>SEPTEMBER SCHOLASTIC</a>",
 ]);
