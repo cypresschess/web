@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Mon, 22 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "In round 6 of the Women's Grand Prix in Nicosia Dinara Wagner from Germany won against Oliwia Kiolbasa from Poland and now shares the lead with Kateryna Lagno, Harika Dronavalli and Tan Zhongyi. Alexandra Kosteniuk scored the second win of the day and her first win in the tournament. She defeated Nana Dzagnidze. | Fotos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frauen-grand-prix-dinara-wagner-joins-the-leading-group",
+         "pubDate" : "Mon, 22 May 2023 11:39:16 +0100",
+         "title" : "Frauen Grand Prix: Dinara Wagner joins the leading group"
+      },
+      {
+         "description" : "A new edition of the Cairns Cup, the equivalent of the Sinquefield Cup but for top women players, will be played from 3 June. Humpy Koneru and Alexandra Kosteniuk top the women's seedings. The tournament is named after Dr Jeanne Cairns, Rex Sinquefield's wife.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-female-chess-players-to-compete-in-elite-cairns-cup",
+         "pubDate" : "Mon, 22 May 2023 11:05:23 +0100",
+         "title" : "Top Female Chess Players to Compete in Elite Cairns Cup"
+      },
+      {
+         "description" : "It is with great sadness that we must report the death of Harry Lamb. Harry had been in a care home for the last twelve...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/harry-lamb-1942-2023/",
+         "pubDate" : "Mon, 22 May 2023 09:43:16 +0000",
+         "title" : "Harry Lamb 1942-2023"
+      },
+      {
+         "description" : "The&#160;European School Chess Championship 2023&#160;took place from 12th-22nd May in Durres, Albania. The event was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which was the official hotel and venue of the tournament. Bora Sahin (TUR) triumphed in the Open U7 section&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-champions-2023-crowned-in-durres-albania/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-champions-2023-crowned-in-durres-albania/",
+         "pubDate" : "Mon, 22 May 2023 09:25:44 +0000",
+         "title" : "European School Chess Champions 2023 crowned in Durres, Albania"
+      },
+      {
          "description" : " <p class=\"lead\">World Chess Plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of different chess-related activities, is pleased to announce that World Chess Club Berlin (the \"Club\") has now officially opened. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/16CAAB40-89F6-4477-876C-C2F4D3B8F81E.jpeg\" width=\"1612\" height=\"1074\" alt=\"\" /> <div class=\"e2-text-caption\">Visitors to the World Chess Club Berlin play a game at the upstairs tournament area. The club features a piazza, a coffee shop, a sophisticated bar, and more.</div> </div> The opening marks the launch of World Chess'",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-126-chess-history-in-a-nutshell-8",
          "pubDate" : "Sun, 21 May 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 126: Chess history in a nutshell (8)"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Sun, 21 May 2023 13:45:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
       },
       {
          "description" : " In earlier articles I've discussed other volumes in my Chess Heroes series designed to take students from round about 500 to 1500 strength. My opinion is that, while there are many books which teach you how the pieces move, and many more books written for proficient players, there's very little on the market which will <a href=\"https://chessimprover.com/chess-heroes-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-endings/\">Chess Heroes: Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -874,14 +906,6 @@ news_feed (
          "title" : "ECF Awards 2023"
       },
       {
-         "description" : "Former World Chess Champion Garry Kasparov sat down with Forbes Assistant Managing Editor Diane Brady at the 2023 Milken Institute Global Conference to discuss topics from Russia's invasion of Ukraine to the growing concern over artificial intelligence. The interview has been viewed 100,000 times - \" I found myself agreeing with almost everything that he said. What I found most enlightening was his stance on AI,\" commented Bob Fomenko.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-on-russia-ukraine-and-ai",
-         "pubDate" : "Mon, 15 May 2023 08:58:52 +0100",
-         "title" : "Kasparov on Russia, Ukraine and AI"
-      },
-      {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -930,20 +954,20 @@ news_feed (
          "title" : "Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
       },
       {
-         "description" : "On Thursday, the 4th Stepan Avagyan Memorial ended in Jermuk, Armenia. It was a strong 10-player round-robin tournament with many young participants. Rating favourite Sam Sevian won the tournament with a 6/9 score. Four players finished a full point behind: Nodirbek Yakubboev, Amin Tabatabaei, Haik Martirosyan and Robert Hovhannisyan. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2023",
-         "pubDate" : "Sun, 14 May 2023 19:15:00 +0100",
-         "title" : "Sam Sevian wins strong Stepan Avagyan Memorial"
-      },
-      {
          "description" : " Many in the English chess community will have been saddened to hear of the death last month of FM Michael Franklin at the age of 92. The word most often used to describe him was &#8216;gentleman': perhaps an old-fashioned concept, but very appropriate for someone who always recorded his games descriptive notation and never used <a href=\"https://chessimprover.com/michael-franklin/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Michael Franklin\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/michael-franklin/\">Michael Franklin</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/michael-franklin/",
          "pubDate" : "Sun, 14 May 2023 15:40:14 +0000",
          "title" : "Michael Franklin"
+      },
+      {
+         "description" : "The past month's most-watched Youtube chess videos were dominated by the World Championship taking place in Astana, Kazakhstan. On my short list for this post I had a few interesting videos on the event, but decided to feature this one from <I>ChessBase India</I>. Good background is always in short supply. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/AEzyVcPt4NQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>A Complete Tour of the World Chess Championship 2023 Venue | The St. Regis Astana</B> (9:09) &#149; '[Published on] Apr 2",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/st-regis-hotel-astana.html",
+         "pubDate" : "Sun, 14 May 2023 15:34:00 +0000",
+         "title" : "St. Regis Hotel, Astana"
       },
       {
          "description" : "",
@@ -1626,14 +1650,6 @@ news_feed (
          "title" : "Geraldine (Gerry) A. Weeks (1930-2023)"
       },
       {
-         "description" : "Let me begin by heartily congratulating the 4NCL, in this case supported by the ECF and endorsed by the British Isles Coordinating Committee, on their...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2023-british-rapidplay-championship-by-keith-arkell/",
-         "pubDate" : "Tue, 02 May 2023 13:50:19 +0000",
-         "title" : "2023 British Rapidplay Championship by Keith Arkell"
-      },
-      {
          "description" : "Alireza Firouzja, Anish Giri, Levon Aronian, Anton Shevchenko and Dmitrij Kollars were the star performers in the ChessKid Cup Play-In and will now join Hikaru Nakamura, Fabiano Caruana and Nodirbek Abdusattorov in the top division of the main event that runs May 22-26. The ChessKid Cup is the 3rd tournament on the $2 million 2023 Champions Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1688,22 +1704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-glorious-55-top-five-players-since-the-introduction-of-the-elo-list",
          "pubDate" : "Mon, 01 May 2023 13:00:00 +0100",
          "title" : "The Glorious 55 - Top five players since the introduction of the Elo list"
-      },
-      {
-         "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/36333835/ding-liren-world-chess-championship-improbable-challenger-world-champion-ian-nepomniachtchi?device=featurephone",
-         "pubDate" : "Mon, 1 May 2023 06:20:37 -0500",
-         "title" : "Ding Liren: From improbable challenger to world champion"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess team joins the chess world in congratulating Ding Liren on becoming the 17th World Chess Champion. It was a pleasure to be a part of your chess journey! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-05-01_12-21-29.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2023-05-01_12-21-26.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photos: World Chess</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/ding-liren-is-world-champion/",
-         "pubDate" : "Mon, 01 May 2023 09:24:47 +0000",
-         "title" : "Ding Liren Is World Champion"
       }
    ]
 }
