@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "WGM Dinara Wagner joined the leaders by defeating IM Oliwia Kiolbasa in round six at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 on Sunday. As we enter the second half of the tournament, Wagner has caught up with GMs Harika Dronavalli, Kateryna ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-6",
+         "pubDate" : "Sun, 21 May 2023 17:34:00 -0700",
+         "title" : "Bottom Seed, New Peak: Wagner Joins Leaders"
+      },
+      {
+         "description" : "The second leg of the Grand Chess Tour, the Superbet Poland Rapid &#38;amp; Blitz 2023, commenced on Sunday with three rounds of rapid chess culminating in GMs Jan-Krzysztof Duda, Levon Aronian, and Wesley So sharing the lead on 2.5/3.0 and with five ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-1",
+         "pubDate" : "Sun, 21 May 2023 15:33:00 -0700",
+         "title" : "Polish Players Star As Duda, Aronian, So Share Early Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2409",
+         "pubDate" : "Sun, 21 May 2023 20:40:06 +0000",
+         "title" : "Four-way tie at WGP Cyprus "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 0-1-2 on the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-haven%E2%80%99t-studied-chess-recently-it-showed-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Atll4Ojb2Eg.jpg?itok=z6c2ccHw\" alt=\"\" /></a></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-haven%E2%80%99t-studied-chess-recently-it-showed-d1-superbetrapidblitzpoland",
+         "pubDate" : "Sun, 21 May 2023 19:00:49 +0000",
+         "title" : "Carlsen: Haven't Studied Chess Recently; It Showed. | D1 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Cristian Chirila after going 2-0-1 on the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-couldn%E2%80%99t-expect-more-today-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gtR7XWBOP84.jpg?itok=XMclIpcm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-couldn%E2%80%99t-expect-more-today-d1-superbetrapidblitzpoland",
+         "pubDate" : "Sun, 21 May 2023 19:00:49 +0000",
+         "title" : "Duda: Couldn't Expect More from Today! | D1 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Radoslaw Wojtaszek talks to Cristian Chirila after going 1-0-2 on the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wojtaszek-beats-carlsen%E2%80%99s-polish-opening-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAbEi6fItro.jpg?itok=_0TWCORN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wojtaszek-beats-carlsen%E2%80%99s-polish-opening-d1-superbetrapidblitzpoland",
+         "pubDate" : "Sun, 21 May 2023 19:00:49 +0000",
+         "title" : "Wojtaszek Beats Carlsen's Polish Opening! | D1 #SuperbetRapidBlitzPoland"
+      },
+      {
          "description" : "Today I'm returning to a subject I've covered a number of times in the past: passed pawns. Passed pawns are a crucial aspect of chess and your attitude to them can have a profound effect on how you play and, in particular, your opening choices. To explore this topic, I look at a game played by Vasilios Kotronias, in which he was overwhelmed by an absolute pawn avalanche. The final phase is extraordinary and somewhat reminiscent of the famous game McDonnell versus De La Bourdonnais.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,30 +786,6 @@ news_feed (
          "title" : "Ding: I Have to Go Back to Rest | R9 #SuperbetChessClassic"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.12<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-6-grandchesstour\"><img src=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-6-grandchesstour",
-         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 6 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-1-grandchesstour",
-         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Day 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 4th Superbet Chess Classic is the first of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, and IM Nazi Paikidze for the move-by-move. 2023.05.13<br /> GrandChessTour.org TODAY'S GAMES<br /> | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-7-grandchesstour",
-         "pubDate" : "Mon, 15 May 2023 12:55:11 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 7 | #GrandChessTour"
-      },
-      {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "Carlsen Returns To Crush Titled Tuesday"
       },
       {
-         "description" : "With more than 87,000 members and 2,400 clubs nationwide, the German Chess Federation (DSB) is one of the biggest and most powerful chess associations in the world. But after years of infighting, alleged mismanagement, and controversy, this gran...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/german-chess-federation-faces-ruin",
-         "pubDate" : "Wed, 10 May 2023 07:02:00 -0700",
-         "title" : "German Chess Federation Faces Crisis As $550,000 Goes Missing"
-      },
-      {
          "description" : " The 2023 ACT Chess Championship is being held across the long weekend of the 26th - 29th May. This year sees a new venue, at the Eastlake Football Club in Griffith (NB NOT where the Gungahlin Chess Club meets ). I had a look at the venue today and it has plenty of space, as well as club facilities for meals and refreshments. It is a definite improvement over Campbell High School Hall (no offence Campbell High!), making this years event a must play for local players. Although this is a championship event, interstate players are welcome to take part, and are eligible for all prizes. However the title of ACT Champion for 2023 is awarded to the best scoring local player. <br /> Full details are",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2378",
          "pubDate" : "Tue, 09 May 2023 22:28:41 +0000",
          "title" : "2023 Superbet Chess Classic: Day 4 Recap"
-      },
-      {
-         "description" : "Winning a second game in a row, GM Fabiano Caruana gained his first classical victory vs. GM Ian Nepomniachtchi&#38;nbsp;in round four of the Superbet Classic Romania 2023. This win propels the American grandmaster into clear first.&#38;nbsp; GM Alireza...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-4",
-         "pubDate" : "Tue, 09 May 2023 14:11:00 -0700",
-         "title" : "Caruana Scores 1st Ever Classical Win vs. Nepomniachtchi"
       },
       {
          "description" : " \"The only thing better than winning at chess is making your opponent think they're winning, and then checkmating them.\" The above quote brought to mind the back-rank checkmate. I have seen it happen time and again in OTB chess at all levels. The definition of it in Wikipedia is misleading in my opinion: &#8220;Back-rank mates <a href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Weekly Tactics: Back-Rank Checkmate\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\">Weekly Tactics: Back-Rank Checkmate</a> appeared first on <a rel=\"nofollow\" href=\"http",
@@ -1704,30 +1712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ding-liren-the-new-chess-world-champion-is-destinys-player/articleshow/99901655.cms",
          "pubDate" : "Mon, 01 May 2023 05:39:34 +0000",
          "title" : "Ding Liren: The new world champion is destiny's player"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2367",
-         "pubDate" : "Sun, 30 Apr 2023 21:12:13 +0000",
-         "title" : "Serbia wins 2023 IBCA European Team Championship"
-      },
-      {
-         "description" : "Ding Liren became the new World Chess Champion after defeating Ian Nepomniachtchi in the tiebreak match. It was Ian Nepomniachtchi who was having the lead during the part of the 14-game match with a classical time control, but Ding Liren was managing to equalize the score. Fighting for a victory in the last round Ding Liren gave it&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chinas-ding-liren-claims-the-world-chess-championship-title/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chinas-ding-liren-claims-the-world-chess-championship-title/",
-         "pubDate" : "Sun, 30 Apr 2023 20:07:43 +0000",
-         "title" : "China's Ding Liren claims the World Chess Championship title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2366",
-         "pubDate" : "Sun, 30 Apr 2023 20:01:54 +0000",
-         "title" : "U15 and U18 Qualification Tournaments for the FIDE - ISF World School Teams cancelled"
       }
    ]
 }
