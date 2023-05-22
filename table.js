@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-05-19  - 05-21","62","<a href=http://www.uschess.org/msa/XtblMain.php?202305218122 target='_blank'>$2,500 HOUSTON CHESS STUDIO MAY 202</a>",
 "HOUSTON","2023-05-20","52","<a href=http://www.uschess.org/msa/XtblMain.php?202305207082 target='_blank'>PISD MAY 2023- MAY 2023 HS</a>",
 "HOUSTON","2023-05-20","95","<a href=http://www.uschess.org/msa/XtblMain.php?202305206952 target='_blank'>TEXAS PRIVATE & PAROCHIAL CHAMPIONS</a>",
 "PASADENA","2023-05-20","54","<a href=http://www.uschess.org/msa/XtblMain.php?202305206552 target='_blank'>PISD MAY 2023- MAY 2023 INTERMEDIAT</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2022-09-30","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209309472 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-09-30","34","<a href=http://www.uschess.org/msa/XtblMain.php?202209307812 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-09-06  - 09-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209276772 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS</a>",
-"PEARLAND","2022-09-27","5","<a href=http://www.uschess.org/msa/XtblMain.php?202209276622 target='_blank'>RCC QUADS SEPTEMBER 27, 2022</a>",
 ]);
