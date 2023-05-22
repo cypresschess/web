@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Alireza Firouzja, Hikaru Nakamura and Fabiano Caruana are the top seeds in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
+         "pubDate" : "Mon, 22 May 2023 16:45:00 +0100",
+         "title" : "ChessKid Cup - Live!"
+      },
+      {
+         "description" : " As a boy I used to keep up with the rules in lots of sports. Football, Cricket, Rugby League, Australian Rules and even Baseball and American Football. This is one of the reasons I became a chess arbiter, as I found the actual rules of various sports interesting to learn (well except Rugby Union, which still confuses me). So when I watched a recent episode of Ted Lasso, there was a football scene that immediately made me go \"What?\". At the kick off of the match, the ball was passed back to the new signing Zava, who immediately blasted it into the goal from behind the halfway line. My reaction was based on the belief that the ball had to be kicked forward at the kick off, which clearly did n",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/rule-changes-in-other-sports.html",
+         "pubDate" : "Mon, 22 May 2023 13:56:00 +0000",
+         "title" : "Rule changes in other sports"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-3-grandchesstour",
+         "pubDate" : "Mon, 22 May 2023 13:04:06 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Day 3 | #GrandChessTour"
+      },
+      {
+         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
+         "pubDate" : "Mon, 22 May 2023 13:50:00 +0100",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2410",
+         "pubDate" : "Mon, 22 May 2023 12:30:53 +0000",
+         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -810,14 +850,6 @@ news_feed (
          "title" : "Caruana Secures (at Least) Tied First | R9 #SuperbetChessClassic"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after his win over Deac in Round 9 of the 2023 Superbet Chess Classic. 2023.05.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-i-have-go-back-rest-r9-superbetchessclassic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g9DxWHlQESs.jpg?itok=xuxB1Gjl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ding-i-have-go-back-rest-r9-superbetchessclassic",
-         "pubDate" : "Mon, 15 May 2023 15:55:21 +0000",
-         "title" : "Ding: I Have to Go Back to Rest | R9 #SuperbetChessClassic"
-      },
-      {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -866,14 +898,6 @@ news_feed (
          "title" : "Chess.com Manx Liberty wins 4NCL season 2022/2023"
       },
       {
-         "description" : "GM Leon Luke Mendonca scored an emphatic victory in the final round of Baku Open 2023. He finished with the same score 7/9 as GM Aleksandar Indjic (SRB) and GM Vladislav Kovalev, but won the tournament due to better tie-breaks. The performance rating of the 17-year-old: 2732. This is Leon's third rating open triumph in less than 2.5 months and five podium finishes in his last six strong open events. His performance this year is the definition of impressive. | Photo: FA Lana Afandiyeva",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-luke-clinches-baku-open",
-         "pubDate" : "Mon, 15 May 2023 11:00:00 +0100",
-         "title" : "Leon Luke clinches Baku Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -888,14 +912,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/finance-council-meetings-report-2023/",
          "pubDate" : "Mon, 15 May 2023 09:49:47 +0000",
          "title" : "Finance Council meetings report 2023"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 125th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\": This tiem, he talks about Paul Morphy and Bobby Fischer. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-124-chess-history-in-a-nutshell-2",
-         "pubDate" : "Mon, 15 May 2023 10:27:27 +0100",
-         "title" : "Understanding before Moving 125: Chess history in a nutshell (7)"
       },
       {
          "description" : "Details for this year's ECF Awards are now available and can be found here https://www.englishchess.org.uk/wp-content/uploads/2023/05/ECF-Awards-2023.pdf together with information on how to apply and...",
@@ -1680,30 +1696,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/01/ding-liren-is-the-new-world-champion/",
          "pubDate" : "Mon, 01 May 2023 16:31:47 +0000",
          "title" : "Ding Liren is the new World Chess Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2368",
-         "pubDate" : "Mon, 01 May 2023 15:15:33 +0000",
-         "title" : "Ding Liren crowned World Champion"
-      },
-      {
-         "description" : " While the 2023 World Championship was very exciting, I was not happy with how it was ultimately decided. I've long been opposed to what is a titled awarded awarded to the best 'long time control' player being determined by who is better at a completely different format. Lost in the excitement of Ding finding 46. ... Rg6 was the issue that Nepo would probably not have played 48.h4?? if the game was played until the normal time control. To me 46. ... Rg6 was a time scramble bluff, designed to induce 48. .. h4, a blunder even I saw coming while watching the match. FIDE for a long time has wanted shorter and shorter World Championship Matches, in part to encourage more bids from host cities/cou",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/more-thoughts.html",
-         "pubDate" : "Mon, 01 May 2023 12:20:00 +0000",
-         "title" : "More thoughts"
-      },
-      {
-         "description" : "The following survey lists all chess players who have reached a top five or top ten status at least once in their career, ranked by their highest position, then in chronological order. Of course, the start of the FIDE Elo list and the current date are arbitrary, but the chess world has now had an established rating and ranking publication for more than fifty consecutive years. How many different TOP FIVE players would you expect? Well, there are only 55 luminaries in the last 55 years or so! Check it out. | Photo: Magnus Carlsen and Garry Kasparov | Photo: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-glorious-55-top-five-players-since-the-introduction-of-the-elo-list",
-         "pubDate" : "Mon, 01 May 2023 13:00:00 +0100",
-         "title" : "The Glorious 55 - Top five players since the introduction of the Elo list"
       }
    ]
 }
