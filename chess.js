@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">World Chess Plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of different chess-related activities, is pleased to announce that World Chess Club Berlin (the \"Club\") has now officially opened. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/16CAAB40-89F6-4477-876C-C2F4D3B8F81E.jpeg\" width=\"1612\" height=\"1074\" alt=\"\" /> <div class=\"e2-text-caption\">Visitors to the World Chess Club Berlin play a game at the upstairs tournament area. The club features a piazza, a coffee shop, a sophisticated bar, and more.</div> </div> The opening marks the launch of World Chess'",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/official-opening-of-world-chess-club-berlin/",
+         "pubDate" : "Mon, 22 May 2023 07:22:56 +0000",
+         "title" : "Official opening of World Chess Club Berlin"
+      },
+      {
+         "description" : "Magnus Carlsen played his first three over-the-board (rapid) games after giving up the world champion title on Sunday. In his first outing as a 'former world champion', Carlsen replied to Radoslaw Wojtaszek's 1.d4 with 1...b5, going for the questionable Polish Defence - in Warsaw! Carlsen lost that game and drew the next two to end the day with a 2/6 score. Three points ahead stand co-leaders Wesley So, Levon Aronian and Jan-Krzysztof Duda. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d1",
+         "pubDate" : "Mon, 22 May 2023 07:10:00 +0100",
+         "title" : "Superbet Poland: Rusty Carlsen plays Polish Defence, loses"
+      },
+      {
          "description" : "WGM Dinara Wagner joined the leaders by defeating IM Oliwia Kiolbasa in round six at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 on Sunday. As we enter the second half of the tournament, Wagner has caught up with GMs Harika Dronavalli, Kateryna ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -106,28 +122,12 @@ news_feed (
          "title" : "Understanding before Moving 126: Chess history in a nutshell (8)"
       },
       {
-         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
-         "pubDate" : "Sun, 21 May 2023 13:50:00 +0100",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
-      },
-      {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
          "pubDate" : "Sun, 21 May 2023 13:45:00 +0100",
          "title" : "Women's Grand Prix in Nicosia - Live!"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Sun, 21 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : " In earlier articles I've discussed other volumes in my Chess Heroes series designed to take students from round about 500 to 1500 strength. My opinion is that, while there are many books which teach you how the pieces move, and many more books written for proficient players, there's very little on the market which will <a href=\"https://chessimprover.com/chess-heroes-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-endings/\">Chess Heroes: Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -930,6 +930,14 @@ news_feed (
          "title" : "Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
       },
       {
+         "description" : "On Thursday, the 4th Stepan Avagyan Memorial ended in Jermuk, Armenia. It was a strong 10-player round-robin tournament with many young participants. Rating favourite Sam Sevian won the tournament with a 6/9 score. Four players finished a full point behind: Nodirbek Yakubboev, Amin Tabatabaei, Haik Martirosyan and Robert Hovhannisyan. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-2023",
+         "pubDate" : "Sun, 14 May 2023 19:15:00 +0100",
+         "title" : "Sam Sevian wins strong Stepan Avagyan Memorial"
+      },
+      {
          "description" : " Many in the English chess community will have been saddened to hear of the death last month of FM Michael Franklin at the age of 92. The word most often used to describe him was &#8216;gentleman': perhaps an old-fashioned concept, but very appropriate for someone who always recorded his games descriptive notation and never used <a href=\"https://chessimprover.com/michael-franklin/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Michael Franklin\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/michael-franklin/\">Michael Franklin</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1696,22 +1704,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ding-liren-is-world-champion/",
          "pubDate" : "Mon, 01 May 2023 09:24:47 +0000",
          "title" : "Ding Liren Is World Champion"
-      },
-      {
-         "description" : "33rd National Under-17 Open &#38; Girls Live Game Link Open : https://view.livechesscloud.com/#4708d594-4463-456d-a2e2-b89675c50d3c Girls : https://view.livechesscloud.com/#68a69455-3252-4032-8bf8-e14c0f77e007",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-17-chess-championship-2023-live-game-link/",
-         "pubDate" : "Mon, 01 May 2023 05:57:00 +0000",
-         "title" : "National Under-17 Chess Championship 2023 Live Game Link"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99901655.cms\" />Ding Liren showed the ambition in his heart with a matching display on the board to become the 17th World chess champion. The 30-year-old is the first king of 64 squares from China. He defeated Ian Nepomniachtchi in a rapid tiebreak in Astana, Kazakhstan, on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ding-liren-the-new-chess-world-champion-is-destinys-player/articleshow/99901655.cms",
-         "pubDate" : "Mon, 01 May 2023 05:39:34 +0000",
-         "title" : "Ding Liren: The new world champion is destiny's player"
       }
    ]
 }
