@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Wesley So and Jan-Krzysztof Duda extended their lead after six rounds at the Superbet Poland Rapid &#38;amp; Blitz 2023, after both scored 2/3 on the second day of rapid chess. Wins over GMs Kirill Shevchenko and Radoslaw Wojtaszek, respectively, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-2",
+         "pubDate" : "Mon, 22 May 2023 16:22:07 -0700",
+         "title" : "Sold Out Shoes And Rapid Blues, So and Duda Lead After Day 2"
+      },
+      {
+         "description" : "Round 6 of the Sharjah Masters saw Dommaraju Gukesh taking down former sole leader Haik Martirosyan with the white pieces. Sam Sevian and Grigoriy Oparin also won on Monday and are now sharing the lead with Gukesh. Twelve players stand a half point back, including Uzbek rising star Nodirbek Yakubboev, who upset top seed Parham Maghsoodloo in what turned out to be an eventful sixth round. | Photos: Tournament&rsquo;s Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r6",
+         "pubDate" : "Tue, 23 May 2023 00:15:00 +0100",
+         "title" : "Sharjah Masters: Gukesh, Sevian and Oparin co-leaders"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-4-grandchesstour",
+         "pubDate" : "Mon, 22 May 2023 22:08:28 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Day 4 | #GrandChessTour"
+      },
+      {
+         "description" : "GMs Jorden van Foreest, Dmitrij Kollars,&#38;nbsp;Fabiano Caruana, and Nodirbek Abdusattorov move on to the Champions Chess Tour ChessKid Cup 2023 Winners Semifinals in Division I. Respectively, they defeated GMs Hikaru Nakamura, Alireza Firouzja, Ale...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-1",
+         "pubDate" : "Mon, 22 May 2023 14:27:00 -0700",
+         "title" : "2 Favorites Go Down: Van Foreest Upsets Nakamura, Kollars Beats Firouzja"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Cristian Chirila after going 0-0-3 on the second day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-solemn-missed-opportunities-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FU7ccnvea1Y.jpg?itok=68T0lfxE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,20 +122,12 @@ news_feed (
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
       },
       {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Mon, 22 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
-      },
-      {
          "description" : "In round 6 of the Women's Grand Prix in Nicosia Dinara Wagner from Germany won against Oliwia Kiolbasa from Poland and now shares the lead with Kateryna Lagno, Harika Dronavalli and Tan Zhongyi. Alexandra Kosteniuk scored the second win of the day and her first win in the tournament. She defeated Nana Dzagnidze. | Fotos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/frauen-grand-prix-dinara-wagner-joins-the-leading-group",
          "pubDate" : "Mon, 22 May 2023 11:39:16 +0100",
-         "title" : "Frauen Grand Prix: Dinara Wagner joins the leading group"
+         "title" : "Women's Grand Prix: Dinara Wagner joins the leading group"
       },
       {
          "description" : "A new edition of the Cairns Cup, the equivalent of the Sinquefield Cup but for top women players, will be played from 3 June. Humpy Koneru and Alexandra Kosteniuk top the women's seedings. The tournament is named after Dr Jeanne Cairns, Rex Sinquefield's wife.",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-2-grandchesstour",
          "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
          "title" : "2023 Superbet Rapid & Blitz Poland: Day 2 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich highlights the sights and sounds at the POLIN Museum of the History of Polish Jews in Warsaw from the Opening Ceremony of the Superbet Rapid &amp; Blitz Poland. This aired during Round 1. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-opening-ceremony-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-opening-ceremony-grandchesstour",
-         "pubDate" : "Sun, 21 May 2023 16:00:18 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Opening Ceremony #GrandChessTour"
       },
       {
          "description" : "As Ukraine gears up for its long-awaited counter-offensive against Putin's illegal invasion, and in the light of President Zelensky's visits to Rishi Sunak and other world leaders, my thoughts have turned to that crucial moment when the Soviet chess imperium began to display cracks. I remind readers that FIDÉ, the governing body of world chess, still []",
@@ -1250,28 +1266,12 @@ news_feed (
          "title" : "FIDE Circuit: Gukesh D regains the lead"
       },
       {
-         "description" : "GM Alireza Firouzja gained his very first classical victory vs. a world champion in round five of the Superbet Classic Romania 2023. The youngest player to break 2800 defeated GM Ding Liren in a back-and-forth duel for the initiative, scoring his ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-5",
-         "pubDate" : "Wed, 10 May 2023 14:49:00 -0700",
-         "title" : "Firouzja Defeats A World Champion For 1st Time"
-      },
-      {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/learning-and-improving/",
          "pubDate" : "Wed, 10 May 2023 15:00:00 +0000",
          "title" : "Unlocking Chess Success: Knowledge Meets Skill"
-      },
-      {
-         "description" : "GM Robert Hess says he is concerned with what he describes as an &#34;ongoing and worsening problem in hybrid chess events&#34; and asks FIDE to address the problem. The US Grandmaster and Chess.com commentator published a long post on Twitter regarding...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hess-asks-fide-to-address-events",
-         "pubDate" : "Wed, 10 May 2023 07:29:00 -0700",
-         "title" : "Hess Asks FIDE To Address Suspicious Rating Gains In Hybrid Events"
       },
       {
          "description" : " The 2023 ACT Chess Championship is being held across the long weekend of the 26th - 29th May. This year sees a new venue, at the Eastlake Football Club in Griffith (NB NOT where the Gungahlin Chess Club meets ). I had a look at the venue today and it has plenty of space, as well as club facilities for meals and refreshments. It is a definite improvement over Campbell High School Hall (no offence Campbell High!), making this years event a must play for local players. Although this is a championship event, interstate players are welcome to take part, and are eligible for all prizes. However the title of ACT Champion for 2023 is awarded to the best scoring local player. <br /> Full details are",
