@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Tue, 23 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "Exactly 70 years ago today, on May 29, 1953, the world's highest mountain, Everest, was climbed for the first time - a heroic feat, exuberantly celebrated by all. Today, hundreds scale the mountain each year. 40 years ago the Mount Everest of problem chess, the daunting Babson task, which for a century had seemed quite impossible to do, was mastered for the first time. Today new versions appear regularly. Here are some of the best. It's great fun checking the symmetrical underpromotions with an engine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-everest-of-chess-problems",
+         "pubDate" : "Tue, 23 May 2023 12:00:00 +0100",
+         "title" : "The Everest of chess problems"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2411",
+         "pubDate" : "Tue, 23 May 2023 09:12:24 +0000",
+         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 2 Recap"
+      },
+      {
+         "description" : "Wesley So and Jan-Krzysztof Duda are sharing the lead after six rounds at the rapid section of the Superbet tournament in Poland. So and Duda have collected 9 points each, and have already faced each other - in their round-6 direct encounter, So failed to make the most of a clear advantage. Levon Aronian stands in sole third place, while a winless Magnus Carlsen stands 4 points behind the co-leaders, on 5/12. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d2",
+         "pubDate" : "Tue, 23 May 2023 09:30:00 +0100",
+         "title" : "Superbet Poland: So and Duda share the lead"
+      },
+      {
          "description" : "Rook endings have drawish tendencies, but pawn races can spice things up. In the diagram position it is Black to move. Do you see the way to win?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-right-way-2",
          "pubDate" : "Tue, 23 May 2023 09:00:00 +0100",
          "title" : "The right way"
+      },
+      {
+         "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chesskid-cup-div-1-winners-live/",
+         "pubDate" : "Tue, 23 May 2023 07:44:03 +0000",
+         "title" : "ChessKid Cup Div 1 Winners - LIVE"
+      },
+      {
+         "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chesskid-cup-div-1-losers-live/",
+         "pubDate" : "Tue, 23 May 2023 07:30:00 +0000",
+         "title" : "ChessKid Cup Div 1 Losers - LIVE"
+      },
+      {
+         "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chesskid-cup-div-2-winners-live/",
+         "pubDate" : "Tue, 23 May 2023 07:15:00 +0000",
+         "title" : "ChessKid Cup Div 2 Winners - LIVE"
+      },
+      {
+         "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chesskid-cup-div-2-losers-live/",
+         "pubDate" : "Tue, 23 May 2023 07:00:00 +0000",
+         "title" : "ChessKid Cup Div 2 Losers - LIVE"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Satty Zhuldyz Rapid and Blitz Tournament that was played in Kazakhstan as a side event of the World Championship Match between Ding Liren and Ian Nepomniachtchi. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -98,14 +162,6 @@ news_feed (
          "title" : "Gawain Jones: 'I Am Overwhelmed By All The Love And Support'"
       },
       {
-         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Alireza Firouzja, Hikaru Nakamura and Fabiano Caruana are the top seeds in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
-         "pubDate" : "Mon, 22 May 2023 16:45:00 +0100",
-         "title" : "ChessKid Cup - Live!"
-      },
-      {
          "description" : " As a boy I used to keep up with the rules in lots of sports. Football, Cricket, Rugby League, Australian Rules and even Baseball and American Football. This is one of the reasons I became a chess arbiter, as I found the actual rules of various sports interesting to learn (well except Rugby Union, which still confuses me). So when I watched a recent episode of Ted Lasso, there was a football scene that immediately made me go \"What?\". At the kick off of the match, the ball was passed back to the new signing Zava, who immediately blasted it into the goal from behind the halfway line. My reaction was based on the belief that the ball had to be kicked forward at the kick off, which clearly did n",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -120,14 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-3-grandchesstour",
          "pubDate" : "Mon, 22 May 2023 13:04:06 +0000",
          "title" : "2023 Superbet Rapid & Blitz Poland: Day 3 | #GrandChessTour"
-      },
-      {
-         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
-         "pubDate" : "Mon, 22 May 2023 13:50:00 +0100",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "",
@@ -354,14 +402,6 @@ news_feed (
          "title" : "Harika Dronavalli - Kateryna Lagno, Nicosia FIDE Women's Grand Prix"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Dinara Wagner Oliwia Kiolbasa from round 6 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva Zhongyi Tan / Bella Khotenashvili Gunay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dinara-wagner-oliwia-kiolbasa-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 20 May 2023 20:00:00 +0000",
-         "title" : "Dinara Wagner - Oliwia Kiolbasa, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -432,30 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-4",
          "pubDate" : "Fri, 19 May 2023 17:51:00 -0700",
          "title" : "Like A Shark, Goryachkina Rises From The Depths"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Harika Dronavalli from round 5 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Nana Dzagnidze Bibisara Assaubayeva / Alexandra Kosteniuk Dinara []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-harika-dronavalli-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 19 May 2023 23:28:00 +0000",
-         "title" : "Oliwia Kiolbasa - Harika Dronavalli, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Zhongyi Tan from round 5 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Nana Dzagnidze Bibisara Assaubayeva / Alexandra Kosteniuk Dinara []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gunay-mammadzada-zhongyi-tan-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 19 May 2023 22:26:00 +0000",
-         "title" : "Gunay Mammadzada - Zhongyi Tan, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Bella Khotenashvil from round 5 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Nana Dzagnidze Bibisara Assaubayeva / Alexandra Kosteniuk Dinara []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polina-shuvalova-bella-khotenashvil-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 19 May 2023 22:00:00 +0000",
-         "title" : "Polina Shuvalova - Bella Khotenashvil, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/trigger-finger.html",
          "pubDate" : "Mon, 15 May 2023 12:53:00 +0000",
          "title" : "Trigger Finger"
-      },
-      {
-         "description" : "The inaugural event of the 2023 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place on May 6-14 at the Grand Hotel Bucharest. Just six days after wrapping up a legendary match in Astana, Ding Liren and Ian Nepomniachtchi meet in the elite tournament, which also includes the likes of Alireza Firouzja, Fabiano Caruana and defending champion Maxime Vachier-Lagrave. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-live",
-         "pubDate" : "Mon, 15 May 2023 13:50:00 +0100",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "Harry Grieve (above, left), the 22-year-old British champion, and Peter Roberson (above, right), 34, both completed their second grandmaster norms (three are needed for the...",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/firouzja-giri-aronian-in-chesskid-cup",
          "pubDate" : "Tue, 02 May 2023 13:44:09 +0000",
          "title" : "Firouzja, Giri & Aronian in ChessKid Cup"
-      },
-      {
-         "description" : "The 2023 IBCA European Team Chess Championship for the Blind and Visually Impaired took place from 19-30 April in Genova, Italy. With the participation of 14 federations, the event was played in 9 rounds, swiss system, with players using specialized Braille chess boards, talking chess clocks and voice recording equipment. Team Serbia (FM Pavle Dimic, CM Damjan Jandric,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/serbia-wins-ibca-european-team-chess-championship-2023/",
-         "pubDate" : "Tue, 02 May 2023 10:50:04 +0000",
-         "title" : "Serbia wins IBCA European Team Chess Championship 2023"
       }
    ]
 }
