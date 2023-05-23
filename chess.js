@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rook endings have drawish tendencies, but pawn races can spice things up. In the diagram position it is Black to move. Do you see the way to win?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-right-way-2",
+         "pubDate" : "Tue, 23 May 2023 09:00:00 +0100",
+         "title" : "The right way"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Satty Zhuldyz Rapid and Blitz Tournament that was played in Kazakhstan as a side event of the World Championship Match between Ding Liren and Ian Nepomniachtchi. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-241-highlights-from-the-satty-zhuldyz-rapid-and-blitz-tournament",
+         "pubDate" : "Tue, 23 May 2023 07:55:16 +0100",
+         "title" : "Endgame Magic #241: Highlights from the Satty Zhuldyz Rapid and Blitz Tournament"
+      },
+      {
          "description" : "GMs Wesley So and Jan-Krzysztof Duda extended their lead after six rounds at the Superbet Poland Rapid &#38;amp; Blitz 2023, after both scored 2/3 on the second day of rapid chess. Wins over GMs Kirill Shevchenko and Radoslaw Wojtaszek, respectively, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-2",
-         "pubDate" : "Mon, 22 May 2023 16:22:07 -0700",
+         "pubDate" : "Mon, 22 May 2023 16:22:00 -0700",
          "title" : "Sold Out Shoes And Rapid Blues, So and Duda Lead After Day 2"
       },
       {
@@ -906,28 +922,12 @@ news_feed (
          "title" : "GM norms"
       },
       {
-         "description" : "Fabiano Caruana is leading the standings at the Superbet Chess Classic with one round to go. The US grandmaster showed great preparation as he finished his game against Anish Giri with a huge advantage on the clock - but Giri kept finding all the correct moves and eventually managed to secure a draw. Meanwhile, former co-leader Alireza Firouzja was defeated by Jan-Krzysztof Duda, who showcased good technique to collect his first win of the tournament. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r8",
-         "pubDate" : "Mon, 15 May 2023 13:15:00 +0100",
-         "title" : "Superbet Classic: Caruana sole leader as Duda beats Firouzja"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2391",
          "pubDate" : "Mon, 15 May 2023 11:06:39 +0000",
          "title" : "Show-down in Cyprus"
-      },
-      {
-         "description" : "For the second year in a row, Manx Liberty won the British Four Nations League (4NCL) title. The team won all 11 matches, scoring 12 team points and finishing five points clear of White Rose and Cheddleton. | Photo: Manx Liberty",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-com-manx-liberty-wins-4ncl-season-2022-2023",
-         "pubDate" : "Mon, 15 May 2023 11:05:27 +0100",
-         "title" : "Chess.com Manx Liberty wins 4NCL season 2022/2023"
       },
       {
          "description" : "",
