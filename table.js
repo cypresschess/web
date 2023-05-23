@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2023-05-01  - 05-22","7","<a href=http://www.uschess.org/msa/XtblMain.php?202305226532 target='_blank'>CLCC MAY MONDAYS</a>",
 "HOUSTON","2023-05-19  - 05-21","62","<a href=http://www.uschess.org/msa/XtblMain.php?202305218122 target='_blank'>$2,500 HOUSTON CHESS STUDIO MAY 202</a>",
 "HOUSTON","2023-05-20","52","<a href=http://www.uschess.org/msa/XtblMain.php?202305207082 target='_blank'>PISD MAY 2023- MAY 2023 HS</a>",
 "HOUSTON","2023-05-20","95","<a href=http://www.uschess.org/msa/XtblMain.php?202305206952 target='_blank'>TEXAS PRIVATE & PAROCHIAL CHAMPIONS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-10-01","11","<a href=http://www.uschess.org/msa/XtblMain.php?202210018312 target='_blank'>OCT 1 SATURDAY CHESS</a>",
 "SPRING","2022-09-30","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209309472 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-09-30","34","<a href=http://www.uschess.org/msa/XtblMain.php?202209307812 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-09-06  - 09-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209276772 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS</a>",
 ]);
