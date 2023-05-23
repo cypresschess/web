@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only two players finished the rapid section of the Superbet Poland event undefeated. One of them was Jan-Krzysztof Duda, the defending champion, who was the top scorer with 13/18 points. Levon Aronian also went nine rounds without a loss, as he goes into the blitz in sole second place with 12 points to his name. Wesley So and Maxime Vachier-Lagrave both collected 11 points on the first three days of action. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d3",
+         "pubDate" : "Wed, 24 May 2023 00:50:00 +0100",
+         "title" : "Superbet Poland: Duda wins rapid section"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Anastasiya Karlovich after his win over Deac on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-deac-selfies-and-his-hair-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rtlmlqju_zA.jpg?itok=EtJQv8cm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-deac-selfies-and-his-hair-d3-superbetrapidblitzpoland",
+         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
+         "title" : "Carlsen on Deac, Selfies, and His Hair | D3 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players what profession they would be in if they were not chess players. This aired during Day 3. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-if-you-weren%E2%80%99t-chess-player%E2%80%A6-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aWC81mBc24Y.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-if-you-weren%E2%80%99t-chess-player%E2%80%A6-grandchesstour",
+         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: If You Weren't a Chess Player&hellip; #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Polish Chess Federation President Radoslaw Jedynak talks to Cristian Chirila on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/polish-federation%E2%80%99s-jedynak-duda-inspires-youth-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tdvjfzqK0xo.jpg?itok=dzEL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/polish-federation%E2%80%99s-jedynak-duda-inspires-youth-d3-superbetrapidblitzpoland",
+         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
+         "title" : "Polish Federation's Jedynak: Duda Inspires Youth | D3 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 2-0-1 on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-if-duda-has-great-event-i-don%E2%80%99t-have-chance-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gE1SQ0y53h4.jpg?itok=cn2EITpK\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-if-duda-has-great-event-i-don%E2%80%99t-have-chance-d3-superbetrapidblitzpoland",
+         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
+         "title" : "Carlsen: If Duda has a Great Event, I Don't Have a Chance | D3 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Cristian Chirila after going 1-0-2 on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-1st-after-rapid-i%E2%80%99m-more-keen-playing-blitz-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8Gbbx35k-SA.jpg?itok=vzIVKZn5\" alt=\"\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-1st-after-rapid-i%E2%80%99m-more-keen-playing-blitz-d3-superbetrapidblitzpoland",
+         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
+         "title" : "Duda 1st after Rapid: I'm More Keen Playing Blitz | D3 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2416",
+         "pubDate" : "Tue, 23 May 2023 21:46:43 +0000",
+         "title" : "FIDE WGP Cyprus R07: Missed opportunities "
+      },
+      {
+         "description" : "The final day of rapid chess at the Superbet Poland Rapid &#38;amp; Blitz 2023 saw local hope GM Jan-Krzysztof Duda take the sole lead after moving to an undefeated 6.5/9 in his bid to defend his 2022 title. GM Maxime Vachier-Lagrave made a late cha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2023-superbet-poland-rapid-blitz-day-3",
+         "pubDate" : "Tue, 23 May 2023 14:40:35 -0700",
+         "title" : "Duda On Track For Title After Undefeated Rapid Run"
+      },
+      {
+         "description" : "Chess.com is excited to announce the launch of Chessable 3.0, a new wave of improvements in the Chessable platform. Your experience will now be even more intuitive, personalized, and efficient! Here are some of the improvements that you&#39;ll see t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chessable-3",
+         "pubDate" : "Tue, 23 May 2023 14:17:20 -0700",
+         "title" : "Announcing Chessable 3.0: Customized Puzzles, Streamlined Opening Training, And More"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2415",
+         "pubDate" : "Tue, 23 May 2023 19:54:08 +0000",
+         "title" : "FIDE on the situation in the Arab Chess Federation"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, with playoffs if necessary. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +112,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2414",
          "pubDate" : "Tue, 23 May 2023 17:15:03 +0000",
          "title" : "Chess for Freedom Conference brings together experts from all around the world"
+      },
+      {
+         "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
+         "pubDate" : "Tue, 23 May 2023 11:32:10 -0500",
+         "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
       },
       {
          "description" : "The worldwide chess boom reached new heights on Tuesday as it was revealed that the game secured a first-ever regular primetime spot on cable TV. Chess.com, the world&#39;s leading chess platform, announced a landmark broadcast partnership with Game...",
@@ -120,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/alexandra-kosteniuk-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
          "pubDate" : "Tue, 23 May 2023 13:00:00 +0000",
          "title" : "Alexandra Kosteniuk - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
-         "pubDate" : "Tue, 23 May 2023 13:50:00 +0100",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
@@ -274,14 +354,6 @@ news_feed (
          "title" : "2023 Superbet Rapid & Blitz Poland: Back in Warsaw #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> For the first time since 2020, the world&#039;s best female chess players converge in America&#039;s chess capital, Saint Louis, Mo., for the 3rd Cairns Cup. Watch live from June 3-13 as ten of the top women compete in a classical round robin at the World Chess Hall of Fame for a $180,000 prize fund. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-promo",
-         "pubDate" : "Mon, 22 May 2023 16:04:36 +0000",
-         "title" : "2023 Cairns Cup | PROMO"
-      },
-      {
          "description" : "GM Gawain Jones, the husband of WIM Sue Maroroa Jones, who died in tragic circumstances this month, has thanked the chess community as an appeal to support his family soared above $64,000. The two-time British champion told Chess.com: &#34;I am over...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -296,14 +368,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/rule-changes-in-other-sports.html",
          "pubDate" : "Mon, 22 May 2023 13:56:00 +0000",
          "title" : "Rule changes in other sports"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-3-grandchesstour",
-         "pubDate" : "Mon, 22 May 2023 13:04:06 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Day 3 | #GrandChessTour"
       },
       {
          "description" : "",
@@ -384,30 +448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2409",
          "pubDate" : "Sun, 21 May 2023 20:40:06 +0000",
          "title" : "Four-way tie at WGP Cyprus "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 0-1-2 on the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-haven%E2%80%99t-studied-chess-recently-it-showed-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Atll4Ojb2Eg.jpg?itok=z6c2ccHw\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-haven%E2%80%99t-studied-chess-recently-it-showed-d1-superbetrapidblitzpoland",
-         "pubDate" : "Sun, 21 May 2023 19:00:49 +0000",
-         "title" : "Carlsen: Haven't Studied Chess Recently; It Showed. | D1 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Cristian Chirila after going 2-0-1 on the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-couldn%E2%80%99t-expect-more-today-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gtR7XWBOP84.jpg?itok=XMclIpcm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-couldn%E2%80%99t-expect-more-today-d1-superbetrapidblitzpoland",
-         "pubDate" : "Sun, 21 May 2023 19:00:49 +0000",
-         "title" : "Duda: Couldn't Expect More from Today! | D1 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Radoslaw Wojtaszek talks to Cristian Chirila after going 1-0-2 on the first day of 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wojtaszek-beats-carlsen%E2%80%99s-polish-opening-d1-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAbEi6fItro.jpg?itok=_0TWCORN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wojtaszek-beats-carlsen%E2%80%99s-polish-opening-d1-superbetrapidblitzpoland",
-         "pubDate" : "Sun, 21 May 2023 19:00:49 +0000",
-         "title" : "Wojtaszek Beats Carlsen's Polish Opening! | D1 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "Today I'm returning to a subject I've covered a number of times in the past: passed pawns. Passed pawns are a crucial aspect of chess and your attitude to them can have a profound effect on how you play and, in particular, your opening choices. To explore this topic, I look at a game played by Vasilios Kotronias, in which he was overwhelmed by an absolute pawn avalanche. The final phase is extraordinary and somewhat reminiscent of the famous game McDonnell versus De La Bourdonnais.",
@@ -1186,14 +1226,6 @@ news_feed (
          "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
       },
       {
-         "description" : "As the Superbet Classic Romania 2023 nears the home stretch, GM Fabiano Caruana continues to lead despite blundering away his winning chances at a critical moment vs. GM Alireza Firouzja in round six. With this stroke of luck, Firouzja remains in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-6",
-         "pubDate" : "Fri, 12 May 2023 19:04:00 -0700",
-         "title" : "A Day Of Missed Opportunities: Caruana, So Spoil Nearly Winning Positions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,14 +1288,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/11/reflections-on-the-1st-hbcu-chess-classic/",
          "pubDate" : "Thu, 11 May 2023 22:52:00 +0000",
          "title" : "Reflections on the 1st HBCU Chess Classic"
-      },
-      {
-         "description" : "The Shanghai Tigers defeated the Norway Gnomes with a score of 9-7 while the Gotham Knights overcame the Saint Louis Arch Bishops with an 8.5-7.5 margin in the first two Quarterfinals of the 2023 Pro Chess League. Even though both the teams look...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-1",
-         "pubDate" : "Thu, 11 May 2023 15:03:00 -0700",
-         "title" : "Shanghai Tigers, Gotham Knights Win Quarterfinals 1 & 2"
       },
       {
          "description" : "",
@@ -1704,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2370",
          "pubDate" : "Wed, 03 May 2023 00:47:44 +0000",
          "title" : "Slovenian Championship: Jure Skoberne and Barbara Skuhala win titles"
-      },
-      {
-         "description" : " &#8220;Self-pinning for immortality. Congrats Ding!!&#8221; GM Magnus Carlsen Congratulations GM Ding Liren for becoming the 17th World Chess Champion! This was a match for the ages. It had all sorts of drama in it, with the margin between agony and ecstasy being razor thin. Both players crossed that margin in both directions, sometimes in the <a href=\"https://chessimprover.com/self-pinning/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self-Pinning\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-pinning/\">Self-Pinning</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/self-pinning/",
-         "pubDate" : "Tue, 02 May 2023 20:01:41 +0000",
-         "title" : "Self-Pinning"
       }
    ]
 }
