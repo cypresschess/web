@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "WGM Dinara Wagner leapt to the clear top of scoreboard by defeating fellow leader, GM Kateryna Lagno, in a tactical slugfest at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 in round seven. With this victory over the world number five, Wagner has ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-7",
+         "pubDate" : "Tue, 23 May 2023 19:59:58 -0700",
+         "title" : "A Tale of Three Sicilians: Wagner Takes Clear Lead"
+      },
+      {
+         "description" : "GMs&#38;nbsp;Jorden van Foreest and Nodirbek Abdusattorov advance to the Winners Final of the Champions Chess Tour ChessKid Cup 2023 Division I after defeating GMs Dmitrij Kollars and Fabiano Caruana respectively. In the Losers Bracket, GMs Alireza Fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-2",
+         "pubDate" : "Tue, 23 May 2023 18:42:57 -0700",
+         "title" : "Firouzja Eliminates Nakamura; Van Foreest, Abdusattorov To Meet In Winners Final"
+      },
+      {
+         "description" : "Four of the biggest names in chess have been added to the line-up for the inaugural Global Chess League (GCL), yet another stellar event added to the crowded chess calendar. New World Champion GM Ding Liren will face his predecessor and world nu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-ding-anand-hou-yifan-global-chess-league",
+         "pubDate" : "Tue, 23 May 2023 17:30:00 -0700",
+         "title" : "Carlsen, Ding, Anand, Hou Yifan: Big Names Added To Global Chess League lineup"
+      },
+      {
          "description" : "Only two players finished the rapid section of the Superbet Poland event undefeated. One of them was Jan-Krzysztof Duda, the defending champion, who was the top scorer with 13/18 points. Levon Aronian also went nine rounds without a loss, as he goes into the blitz in sole second place with 12 points to his name. Wesley So and Maxime Vachier-Lagrave both collected 11 points on the first three days of action. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1130,22 +1154,6 @@ news_feed (
          "title" : "European School Chess Championship 2023 kicked off in Durres"
       },
       {
-         "description" : "In round seven of the Superbet Classic Romania 2023, GM Alireza Firouzja caught GM Fabiano Caruana, the tournament leader for most of the event, by defeating GM Ian Nepomniachtchi and breaking down his attempt at a fortress. The two are now tied f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-7",
-         "pubDate" : "Sat, 13 May 2023 14:53:00 -0700",
-         "title" : "Firouzja Catches Caruana"
-      },
-      {
-         "description" : "The Shanghai Tigers convincingly routed the Indian Yogis with a strong 9-7 score in spite of off-the-board inconveniences, while the Gotham Knights crushed Team MGD1 in just three rounds to move into the Finals of the 2023 Pro Chess League. It w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-semifinals",
-         "pubDate" : "Sat, 13 May 2023 14:39:00 -0700",
-         "title" : "Tigers Rout Yogis; Gotham Knights Crush Team MGD1, Set Up Finals Clash"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-so-caruana-miss-wins",
          "pubDate" : "Sat, 13 May 2023 11:47:30 +0000",
          "title" : "Superbet Chess Classic 6: So & Caruana miss wins"
-      },
-      {
-         "description" : "The all-Indian Team MGD1 and Indian Yogis prevailed over the Levitov Chess Wizards and Blitz, respectively, in contrasting styles in the last two Quarterfinals to move into the Semifinals of the 2023 Pro Chess League. Though leading by a score o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-quarterfinals-day-2",
-         "pubDate" : "Sat, 13 May 2023 02:57:00 -0700",
-         "title" : "Tiebreak Win For Team MGD1 Vs. Chess Wizards; Yogis Prevail Over Blitz"
       },
       {
          "description" : "And Lo! Did we journey unto the City of Prague in the land of the Checks and thence to the Synagogue of the Spanish Hebrews, in their ancient ghetto of that habitation? Our purpose was to harken unto the songs of the Jewish troubadours&hellip;va pensiero, Shalom Alechem &hellip;but amongst the time honoured strains of the inhabitants of []",
@@ -1720,14 +1720,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/the-armageddon-series-womens-week-to-launch-in-berlin-beginning/",
          "pubDate" : "Wed, 03 May 2023 07:08:25 +0000",
          "title" : "The Armageddon Series: Women's Week to launch in Berlin beginning May 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2370",
-         "pubDate" : "Wed, 03 May 2023 00:47:44 +0000",
-         "title" : "Slovenian Championship: Jure Skoberne and Barbara Skuhala win titles"
       }
    ]
 }
