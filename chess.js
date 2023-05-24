@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Wed, 24 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters, Round 8 - Live!"
+      },
+      {
+         "description" : "After the rest day in Nicosia, Dinara Wagner celebrated her third victory in the seventh round of the Women's Grand Prix. The German representative, who is also the lowest-rated player in the field, emerged victorious against Kateryna Lagno after a complicated tactical fight and now is the sole leader in the standings. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r7",
+         "pubDate" : "Wed, 24 May 2023 12:05:00 +0100",
+         "title" : "Nicosia GP: Wagner beats Lagno, leads"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2417",
+         "pubDate" : "Wed, 24 May 2023 10:52:52 +0000",
+         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 3 Recap"
+      },
+      {
+         "description" : "In recent years there has been a revival of interest in the \"old masters\". Those who study the subject intensively, as Frank Hoffmeister does in his work \"Chess Theory from Stamma to Steinitz, 1735-1894\", will find that the ideas of the \"old ones\" are surprisingly young. Review and interview with the author.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-theory-from-stamma-to-steinitz-review-and-interview",
+         "pubDate" : "Wed, 24 May 2023 09:34:32 +0100",
+         "title" : "\"Chess Theory from Stamma to Steinitz - Review and Interview\""
+      },
+      {
          "description" : "WGM Dinara Wagner leapt to the clear top of the scoreboard by defeating fellow leader, GM Kateryna Lagno, in a tactical slugfest at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 in round seven. With this victory over the world number five, Wagner ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -23,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-ding-anand-hou-yifan-global-chess-league",
          "pubDate" : "Tue, 23 May 2023 17:30:00 -0700",
-         "title" : "Carlsen, Ding, Anand, Hou Yifan: Big Names Added To Global Chess League lineup"
+         "title" : "Carlsen, Ding, Anand, Hou Yifan: Big Names Added To Global Chess League Lineup"
       },
       {
          "description" : "Only two players finished the rapid section of the Superbet Poland event undefeated. One of them was Jan-Krzysztof Duda, the defending champion, who was the top scorer with 13/18 points. Levon Aronian also went nine rounds without a loss, as he goes into the blitz in sole second place with 12 points to his name. Wesley So and Maxime Vachier-Lagrave both collected 11 points on the first three days of action. | Photo: Lennart Ootes",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chessable-3",
          "pubDate" : "Tue, 23 May 2023 14:17:20 -0700",
          "title" : "Announcing Chessable 3.0: Customized Puzzles, Streamlined Opening Training, And More"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2415",
-         "pubDate" : "Tue, 23 May 2023 19:54:08 +0000",
-         "title" : "FIDE on the situation in the Arab Chess Federation"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, with playoffs if necessary. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field",
@@ -234,14 +258,6 @@ news_feed (
          "title" : "Alexandra Kosteniuk - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
       },
       {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Tue, 23 May 2023 13:45:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
-      },
-      {
          "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -250,20 +266,20 @@ news_feed (
          "title" : "ChessKid Cup Div 3 Winners - LIVE"
       },
       {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Tue, 23 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters - Live!"
-      },
-      {
          "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chesskid-cup-div-3-losers-live/",
          "pubDate" : "Tue, 23 May 2023 11:40:00 +0000",
          "title" : "ChessKid Cup Div 3 Losers - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2415",
+         "pubDate" : "Tue, 23 May 2023 11:38:08 +0000",
+         "title" : "FIDE on the situation in the Arab Chess Federation"
       },
       {
          "description" : "",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://aicf.in/national-u-17-open-girls-certificates/",
          "pubDate" : "Tue, 16 May 2023 10:56:36 +0000",
          "title" : "National U-17 Open & Girls Certificates"
-      },
-      {
-         "description" : "After a week of intense and exciting blitz matches, the Armageddon Women's Week in Berlin came to an end on Sunday. In the final, Bibisara Assaubayeva beat Humpy Koneru. The organisers, World Chess, measured the players' heart rates during the games: The highest was 173 beats per minute. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/assaubayeva-wins-world-chess-armageddon-women-s-week",
-         "pubDate" : "Tue, 16 May 2023 11:00:00 +0100",
-         "title" : "Assaubayeva wins World Chess Armageddon Women's Week"
       },
       {
          "description" : "",
@@ -1696,22 +1704,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/checkmate/",
          "pubDate" : "Wed, 03 May 2023 12:00:00 +0000",
          "title" : "Checkmate: A Simple Guide To Checkmating The Lone King"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2371",
-         "pubDate" : "Wed, 03 May 2023 11:18:14 +0000",
-         "title" : "Dubai becomes the host for the inaugural edition of Global Chess League"
-      },
-      {
-         "description" : "The 2nd Edition of Inter College Women's Chess Tournament-2023, organized by the Department of Physical Education and Sports, Govt. College for Women, MA Road Srinagar,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2nd-edition-of-inter-college-womens-chess-tournament-2023-at-srinagar/",
-         "pubDate" : "Wed, 03 May 2023 09:13:49 +0000",
-         "title" : "2nd Edition of Inter College Women's Chess Tournament-2023 at Srinagar"
       }
    ]
 }
