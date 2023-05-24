@@ -2,11 +2,11 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "WGM Dinara Wagner leapt to the clear top of scoreboard by defeating fellow leader, GM Kateryna Lagno, in a tactical slugfest at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 in round seven. With this victory over the world number five, Wagner has ...",
+         "description" : "WGM Dinara Wagner leapt to the clear top of the scoreboard by defeating fellow leader, GM Kateryna Lagno, in a tactical slugfest at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 in round seven. With this victory over the world number five, Wagner ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-7",
-         "pubDate" : "Tue, 23 May 2023 19:59:58 -0700",
+         "pubDate" : "Tue, 23 May 2023 19:59:00 -0700",
          "title" : "A Tale of Three Sicilians: Wagner Takes Clear Lead"
       },
       {
@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-2",
-         "pubDate" : "Tue, 23 May 2023 18:42:57 -0700",
+         "pubDate" : "Tue, 23 May 2023 18:42:00 -0700",
          "title" : "Firouzja Eliminates Nakamura; Van Foreest, Abdusattorov To Meet In Winners Final"
       },
       {
@@ -86,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2023-superbet-poland-rapid-blitz-day-3",
-         "pubDate" : "Tue, 23 May 2023 14:40:35 -0700",
+         "pubDate" : "Tue, 23 May 2023 14:40:00 -0700",
          "title" : "Duda On Track For Title After Undefeated Rapid Run"
       },
       {
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://aicf.in/2nd-edition-of-inter-college-womens-chess-tournament-2023-at-srinagar/",
          "pubDate" : "Wed, 03 May 2023 09:13:49 +0000",
          "title" : "2nd Edition of Inter College Women's Chess Tournament-2023 at Srinagar"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess (LSE: CHSS) continues its Armageddon Championship Series with the Women's Week, featuring eight of the world's top female chess players in a high-stakes tournament to be held in Berlin from May 8 to May 14, 2023. This seven-day event promises to be a thrilling showcase of skill, strategy, and nail-biting drama. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Image-Armageddon.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The tournament will feature top-ranked players <b>Alexandra Kosteniuk</b> (Switzerland, blitz rating 2453, <b>Humpy Koneru</b> (India, blitz rating 2448), <b>Bibisara Assaubayeva</b> (Kazakhstan, blitz rating 2461),",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-armageddon-series-womens-week-to-launch-in-berlin-beginning/",
-         "pubDate" : "Wed, 03 May 2023 07:08:25 +0000",
-         "title" : "The Armageddon Series: Women's Week to launch in Berlin beginning May 8"
       }
    ]
 }
