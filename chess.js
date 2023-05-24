@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players which time control they prefer. This aired during Day 4. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefergrandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTl-HRRcAU8.jpg?itok=EnXaCSiY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefergrandchesstour",
+         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Which Time Format Do You Prefer?#GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov analyzes Blitz Round 4 with Cristian Chirila on the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-watch-player-invited-last-minute-d4-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GGJ7fX-Yc74.jpg?itok=FwdfIY4b\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-watch-player-invited-last-minute-d4-superbetrapidblitzpoland",
+         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
+         "title" : "Kasparov: Watch the Player Invited at the Last Minute | D4 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to fans Mikołaj Kudzia and Julian Eysmont on Day 2 of the Superbet Rapid &amp; Blitz Poland. This aired during Day 4. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fans-looking-%E2%80%98good-memories%E2%80%99-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p2ZDshAK",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-fans-looking-%E2%80%98good-memories%E2%80%99-d2-superbetrapidblitzpoland",
+         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
+         "title" : "Chess Fans Looking for 'Good Memories' | D2 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 6-1-2 on the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-ends-blitz-day-5-0-d4-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/40j2zOOr-t8.jpg?itok=RJvOy0iY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-ends-blitz-day-5-0-d4-superbetrapidblitzpoland",
+         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
+         "title" : "Carlsen Ends the Blitz Day 5-0! | D4 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 3-1-5 on the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-magnus-got-motivated-after-losing-me-d4-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sVFh0debkHo.jpg?itok=UGaYymAj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-magnus-got-motivated-after-losing-me-d4-superbetrapidblitzpoland",
+         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
+         "title" : "Wesley: Magnus Got Motivated After Losing to Me! | D4 #SuperbetRapidBlitzPoland"
+      },
+      {
          "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,14 +282,6 @@ news_feed (
          "title" : "Announcing Chessable 3.0: Customized Puzzles, Streamlined Opening Training, And More"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, with playoffs if necessary. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-5-grandchesstour",
-         "pubDate" : "Tue, 23 May 2023 19:20:07 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Day 5 | #GrandChessTour"
-      },
-      {
          "description" : "Fabiano Caruana Nodirbek Abdusattorov is semifinal game from ChessKid Cup Div 1 Winners, while in the other semifinal will play Jorden Van Foreest Dmitrij Kollars . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -402,14 +434,6 @@ news_feed (
          "title" : "Sharjah Masters: Gukesh, Sevian and Oparin co-leaders"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the 2nd Superbet Rapid &amp; Blitz Poland is the second of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Varuzhan Akobian, Cristian Chirila, Yasser Seirawan, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-day-4-grandchesstour",
-         "pubDate" : "Mon, 22 May 2023 22:08:28 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Day 4 | #GrandChessTour"
-      },
-      {
          "description" : "GMs Jorden van Foreest, Dmitrij Kollars,&#38;nbsp;Fabiano Caruana, and Nodirbek Abdusattorov move on to the Champions Chess Tour ChessKid Cup 2023 Winners Semifinals in Division I. Respectively, they defeated GMs Hikaru Nakamura, Alireza Firouzja, Ale...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -418,36 +442,12 @@ news_feed (
          "title" : "2 Favorites Go Down: Van Foreest Upsets Nakamura, Kollars Beats Firouzja"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Cristian Chirila after going 0-0-3 on the second day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-solemn-missed-opportunities-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FU7ccnvea1Y.jpg?itok=68T0lfxE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-solemn-missed-opportunities-d2-superbetrapidblitzpoland",
-         "pubDate" : "Mon, 22 May 2023 19:06:54 +0000",
-         "title" : "Rapport Solemn for Missed Opportunities | D2 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 1-0-2 on the second day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-you-can-play-your-best-not-get-chances-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VGZaN8OvgWc.jpg?itok=hQSgWJ_Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-you-can-play-your-best-not-get-chances-d2-superbetrapidblitzpoland",
-         "pubDate" : "Mon, 22 May 2023 19:06:54 +0000",
-         "title" : "Wesley: You Can Play Your Best, but Not Get Chances | D2 #SuperbetRapidBlitzPoland"
-      },
-      {
          "description" : " Malawi crowned FM Joseph Mwale and Priyasha Santosh Shriyan as their new national champions on May 15th. Both were defending champions, thus both mounted a successful defense. It would be Mwale's 8th title and Shriyan's 3rd. &#8220;I spent sleepless nights practising my game on opening and closing. I am delighted that it has paid off.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/\">Mwale, Shriyan win Malawi titles!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/",
          "pubDate" : "Mon, 22 May 2023 17:41:12 +0000",
          "title" : "Mwale, Shriyan win Malawi titles!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players how it feels to play in Warsaw, Poland. This aired during Day 2. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-back-warsaw-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A5-kwtNlqYQ.jpg?itok=JKA7TCK3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-back-warsaw-grandchesstour",
-         "pubDate" : "Mon, 22 May 2023 16:04:36 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Back in Warsaw #GrandChessTour"
       },
       {
          "description" : "GM Gawain Jones, the husband of WIM Sue Maroroa Jones, who died in tragic circumstances this month, has thanked the chess community as an appeal to support his family soared above $64,000. The two-time British champion told Chess.com: &#34;I am over...",
