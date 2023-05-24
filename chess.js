@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nodirbek Abdusattorov is the first grand finalist of the Champions Chess Tour ChessKid Cup 2023 Division I after beating Jorden van Foreest in a close fight that nearly made it to armageddon. In the Losers Bracket, GM Fabiano Caruana eliminated...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-3",
+         "pubDate" : "Wed, 24 May 2023 16:01:00 -0700",
+         "title" : "Abdusattorov Advances To Grand Final; Caruana, Moussard To Play In Losers SF"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2420",
+         "pubDate" : "Wed, 24 May 2023 22:35:24 +0000",
+         "title" : "Georg Meier wins American Continental Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2419",
+         "pubDate" : "Wed, 24 May 2023 21:40:06 +0000",
+         "title" : "WGP Cyprus: Wagner holds the lead with three rounds to go "
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players which time control they prefer. This aired during Day 4. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefergrandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTl-HRRcAU8.jpg?itok=EnXaCSiY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sue-maroroa-jones-obituary-chess",
          "pubDate" : "Mon, 15 May 2023 11:20:00 -0700",
          "title" : "Sue Maroroa Jones (1991-2023)"
-      },
-      {
-         "description" : "GM Fabiano&#38;nbsp;Caruana won clear first at the Superbet Classic Romania 2023&#38;nbsp;on Monday. Entering the last round with a half-point lead, he drew a sharp theoretical battle in the English vs. GM Richard Rapport. The four players&#38;mdash;GM Anish ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-9",
-         "pubDate" : "Mon, 15 May 2023 09:48:00 -0700",
-         "title" : "Caruana Wins Superbet Classic, Takes Grand Chess Tour Lead"
       },
       {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
