@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-community-bullet-brawl",
+         "pubDate" : "Wed, 24 May 2023 12:24:00 -0700",
+         "title" : "Announcing Chess.com Community Bullet Brawl Tournaments"
+      },
+      {
+         "description" : "The Mongolian Championship 2023 is taking place from 20&#x2013;30 May 2023 in Khovd. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Amilal Munkhdalai, Sumiya Chinguun, Ganzorig Amartuvshin, Gombosuren Munkhgal, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mongolian-championship-2023-live/",
+         "pubDate" : "Wed, 24 May 2023 18:20:35 +0000",
+         "title" : "Mongolian Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Everything is set for the 2023 European Senior Chess Championship which will be played from May 26 to June 3 in Acqui Terme, Italy. The Championship is played in two age categories: 50+ and 65+, with Women's 50+ section separately. Women's 65+ championship will be merged with the Open competition, with separate prizes for the best female players.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2023-starts-in-italy/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2023-starts-in-italy/",
+         "pubDate" : "Wed, 24 May 2023 18:12:27 +0000",
+         "title" : "European Senior Chess Championship 2023 starts in Italy"
+      },
+      {
+         "description" : "The Mongolian Championship 2023 is a 12-player round-robin tournament taking place from 20&#x2013;30 May 2023 in Khovd. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. More : Mongolian Women's Championship 2023Parallel : Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mongolian-championship-2023/",
+         "pubDate" : "Wed, 24 May 2023 18:00:00 +0000",
+         "title" : "Mongolian Championship 2023"
+      },
+      {
+         "description" : "The Mongolian Women's Championship 2023 is taking place from 20&#x2013;30 May 2023 in Khovd. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Batsaikhan Enkhsaran, Enkhrii Enkh-Amgalan, Boldbaatar Altantuya, Khishigbaatar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mongolian-womens-championship-2023-live/",
+         "pubDate" : "Wed, 24 May 2023 17:45:00 +0000",
+         "title" : "Mongolian Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Titled Tuesday on May 23 went to two generations of blitz stars, the long-established GM Alexander Grischuk and the 20-years-younger GM Nihal Sarin. Grischuk essentially locked up the early tournament with a round to go, while Nihal barely outlast...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grischuk-nihal-win-titled-tuesday-may-23-2023",
+         "pubDate" : "Wed, 24 May 2023 10:44:26 -0700",
+         "title" : "Nihal Joins Grischuk As Tuesday Winners"
+      },
+      {
+         "description" : "The Mongolian Women's Championship 2023 is a 12-player round-robin tournament taking place from 20&#x2013;30 May 2023 in Khovd. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. More : The Mongolian Championship 2023Parallel : Nicosia FIDE Women&#x2019;s Grand Prix []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mongolian-womens-championship-2023/",
+         "pubDate" : "Wed, 24 May 2023 17:23:00 +0000",
+         "title" : "Mongolian Women's Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2418",
+         "pubDate" : "Wed, 24 May 2023 16:29:59 +0000",
+         "title" : "5th FIDE World Championships for People with Disabilities: Registration is open "
+      },
+      {
          "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. In Division I Nodirbek Abdusattorov and Jorden Van Foreest qualified for the final, in the loser's bracket Alireza Firouzja plays against Fabiano Caruana. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,14 +314,6 @@ news_feed (
          "title" : "Gunay Mammadzada - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Harika Dronavalli from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polina-shuvalova-harika-dronavalli-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 23 May 2023 13:45:00 +0000",
-         "title" : "Polina Shuvalova - Harika Dronavalli , Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "All India Chess Federation received numerous requests from North East &#38; Andaman to organize an online Senior National Arbiter Seminar. Considering their requests, it is",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -266,36 +322,12 @@ news_feed (
          "title" : "Online Senior National Arbiter Seminar & Examination for North East & Andaman"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Kateryna Lagno Dinara Wagner from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-dinara-wagner-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 23 May 2023 13:30:00 +0000",
-         "title" : "Kateryna Lagno - Dinara Wagner, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "Day 1 of the ChessKid Cup, a double elimination rapid (15+3) tournament, brought two big surprises: Alireza Firouzja lost his match against Dmitrij Kollars and Hikaru Nakamura lost against Jorden Van Foreest. Things went more smoothly for Fabiano Caruana and Nodirbek Abdusattorov: Caruana won 2.5-0.5 against Aleksandr Shimanov, as did Abdusattorov against Jules Moussard. | Graphics: Chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesskid-cup-day-1-kollars-beats-firouzja-van-foreest-defeats-nakamura",
          "pubDate" : "Tue, 23 May 2023 14:18:00 +0100",
          "title" : "ChessKid Cup, Day 1: Kollars beats Firouzja, Van Foreest defeats Nakamura"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Nana Dzagnidze from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-nana-dzagnidze-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 23 May 2023 13:15:00 +0000",
-         "title" : "Oliwia Kiolbasa - Nana Dzagnidze, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Alexandra Kosteniuk Bibisara Assaubayeva from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 23 May 2023 13:00:00 +0000",
-         "title" : "Alexandra Kosteniuk - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "",
@@ -1088,22 +1120,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/14/jaden-shaw-tops-2023-jamaica-championship/",
          "pubDate" : "Mon, 15 May 2023 02:47:33 +0000",
          "title" : "Jaden Shaw tops 2023 Jamaica Championship!"
-      },
-      {
-         "description" : "The penultimate round of the Superbet Classic Romania 2023&#38;nbsp;ended on Sunday with one win and four draws, leaving GM Fabiano Caruana as the sole leader on 5/8 after GM Alireza Firouzja was defeated by GM Jan-Krzysztof Duda. Threefold repetiti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-classic-romania-round-8",
-         "pubDate" : "Sun, 14 May 2023 17:09:00 -0700",
-         "title" : "Duda Snaps Firouzja's Winning Run, Caruana Leads With 1 Round Remaining"
-      },
-      {
-         "description" : "The Gotham Knights overcame the Shanghai Tigers with a dominating score of 9.5-6.5 in the Finals to emerge as the champions of the 2023 Pro Chess League. The Knights won the top prize of $25,000 while the Tigers settled for $20,000. GM Vladimir ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-finals-gotham-knights-win",
-         "pubDate" : "Sun, 14 May 2023 16:31:00 -0700",
-         "title" : "Gotham Knights Beat Shanghai Tigers To Win 2023 Title, Yogis Finish 3rd"
       },
       {
          "description" : "",
