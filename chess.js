@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. In Division I Nodirbek Abdusattorov and Jorden Van Foreest qualified for the final, in the loser's bracket Alireza Firouzja plays against Fabiano Caruana. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
+         "pubDate" : "Wed, 24 May 2023 16:45:00 +0100",
+         "title" : "ChessKid Cup - Live!"
+      },
+      {
+         "description" : "Fabiano Caruana Alireza Firouzja is a quaterfinal game from ChessKid Cup Div 1 Losers, while in the other quaterfinal will play Jules Moussard Dmitrij Kollars . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-alireza-firouzja-chesskid-cup-div-1-losers/",
+         "pubDate" : "Wed, 24 May 2023 14:27:32 +0000",
+         "title" : "Fabiano Caruana - Alireza Firouzja, ChessKid Cup Div 1 Losers"
+      },
+      {
+         "description" : "Jules Moussard Dmitrij Kollars is a quaterfinal game from ChessKid Cup Div 1 Losers, while in the other quaterfinal will play Fabiano Caruana Alireza Firouzja . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jules-moussard-dmitrij-kollars-chesskid-cup-div-1-losers/",
+         "pubDate" : "Wed, 24 May 2023 14:00:00 +0000",
+         "title" : "Jules Moussard - Dmitrij Kollars, ChessKid Cup Div 1 Losers"
+      },
+      {
+         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
+         "pubDate" : "Wed, 24 May 2023 13:45:00 +0100",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Wed, 24 May 2023 13:45:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov (picture) and Jorden Van Foreest are in the final of the Winner's Bracket of the ChessKid Cup. In the semi-finals Abdusattorov beat Fabiano Caruana and Van Foreest won against Dmitrij Kollars, who missed a number of good chances. Co-favourite Hikaru Nakamura, on the other hand, was eliminated from the tournament, losing to Alireza Firouzja in the Losers' Bracket. | Photo: Nodirbek Abdusattorov at the Tata Steel Tournament 2023 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-and-van-foreest-make-it-to-the-finals",
+         "pubDate" : "Wed, 24 May 2023 13:43:03 +0100",
+         "title" : "ChessKid Cup: Abdusattorov and Van Foreest make it to the final"
+      },
+      {
          "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,14 +226,6 @@ news_feed (
          "title" : "Chess On Cable TV: Game+ To Launch North America's First Primetime Chess Show"
       },
       {
-         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Alireza Firouzja, Hikaru Nakamura and Fabiano Caruana are the top seeds in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
-         "pubDate" : "Tue, 23 May 2023 16:45:00 +0100",
-         "title" : "ChessKid Cup - Live!"
-      },
-      {
          "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Bella Khotenashvili from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -256,22 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/alexandra-kosteniuk-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
          "pubDate" : "Tue, 23 May 2023 13:00:00 +0000",
          "title" : "Alexandra Kosteniuk - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chesskid-cup-div-3-winners-live/",
-         "pubDate" : "Tue, 23 May 2023 11:50:05 +0000",
-         "title" : "ChessKid Cup Div 3 Winners - LIVE"
-      },
-      {
-         "description" : "The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chesskid-cup-div-3-losers-live/",
-         "pubDate" : "Tue, 23 May 2023 11:40:00 +0000",
-         "title" : "ChessKid Cup Div 3 Losers - LIVE"
       },
       {
          "description" : "",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "All Games Decisive: Wagner Beats Top Seed, Tan Bests Kosteniuk"
       },
       {
-         "description" : "The fourth and final stage of the Women's Grand Prix series kicked off in Cyprus. All six round-1 games finished decisively. The biggest shocker was Dinara Wagner's victory over Aleksandra Goryachkina - the latter entered the tournament in second place in the series' overall ranking, only behind Zhu Jiner, who is not playing in Nicosia. Kateryna Lagno, Tan Zhongyi, Nana Dzagnidze, Harika Dronavalli and Gunay Mammadzada also scored full points. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r1",
-         "pubDate" : "Wed, 17 May 2023 04:50:00 +0100",
-         "title" : "Nicosia GP: Six (out of six) decisive results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -946,28 +962,12 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
       },
       {
-         "description" : "The young Danish grandmaster Jonas Buhl Bjerre won the Capablanca Memorial in Havana by defeating Rasmus Svane in the final round. It is the second victory by a Dane in the series since Larsen's victory in 1967. | Photo: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/havana-jonas-buhl-bjerre-in-the-footsteps-of-bent-larsen",
-         "pubDate" : "Tue, 16 May 2023 13:00:00 +0100",
-         "title" : "Havana: Jonas Buhl Bjerre in the footsteps of Bent Larsen"
-      },
-      {
          "description" : "We were deeply saddened to hear about the tragic passing of WIM Sue Maroroa Jones on Thursday 11th of May, shortly after giving birth to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/sue-maroroa-jones-1991-2023/",
          "pubDate" : "Tue, 16 May 2023 11:58:19 +0000",
          "title" : "Sue Maroroa Jones (1991-2023)"
-      },
-      {
-         "description" : "A draw with black in his game against Richard Rapport was enough for Fabiano Caruana to win the Superbet Chess Classic in Bucharest. None of the four players sharing second place before the final round managed to score a full point on Monday, thus allowing Caruana to claim clear first place, the $100,000 top prize and 13 GCT points. Meanwhile, world champion Ding Liren beat Bogdan-Daniel Deac with the black pieces. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2023-r9",
-         "pubDate" : "Tue, 16 May 2023 12:15:00 +0100",
-         "title" : "Fabiano Caruana outright winner at Superbet Chess Classic in Romania"
       },
       {
          "description" : "33rd National Under-17 Open &#38; Girls Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-17-Open-TT.html Girls : https://aicf.online/National-U-17-Girls-TT.html Any Correction mail at",
@@ -1688,22 +1688,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/",
          "pubDate" : "Thu, 04 May 2023 03:29:16 +0000",
          "title" : "US Chess on HBCU Chess"
-      },
-      {
-         "description" : " A few weeks ago I posted about the 1000 puzzle challenge. This was challenging my students to do1000 puzzles on lichess during the school holidays. It turns out that one of my students completed the challenge, which is an awesome effort. To put that into perspective, I could only manage 400 puzzles in the same time period, while other students hit the wall (so to speak) at around 250. So well done to Daniel Z! ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/update-on-1000-puzzle-challenge.html",
-         "pubDate" : "Wed, 03 May 2023 13:34:00 +0000",
-         "title" : "Update on the 1000 puzzle challenge"
-      },
-      {
-         "description" : " Giving Checkmate. What an amazing feeling! And the goal of each and every game. But especially when starting out, easier said than done! In this article, I will explain how to checkmate a lone King in the Endgame with different piece configurations. After reading this article you will be able to finish off your opponents [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/checkmate/\">Checkmate: A Simple Guide To Checkmating The Lone King</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/checkmate/",
-         "pubDate" : "Wed, 03 May 2023 12:00:00 +0000",
-         "title" : "Checkmate: A Simple Guide To Checkmating The Lone King"
       }
    ]
 }
