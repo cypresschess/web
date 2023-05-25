@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. In the loser's bracket Fabiano Caruana, Jules Moussard and Jorden Van Foreest fight to make it to the Grand Final where they will meet Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
+         "pubDate" : "Thu, 25 May 2023 16:45:00 +0100",
+         "title" : "ChessKid Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championships-2023/#new_tab",
+         "pubDate" : "Thu, 25 May 2023 15:00:07 +0000",
+         "title" : "English and English Women's Chess Championships 2023 starts tomorrow (26/5)!"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov continues to impress in the ChessKid Cup: he defeated Jorden Van Foreest in the final of the Winner's Bracket to qualify for the Grand Final, where he will meet the winner of the Loser's Bracket. In addition to Van Foreest, Fabiano Caruana, who beat Alireza Firouzja in round 2 of the Loser's Bracket, and Jules Moussard, who beat Dmitrij Kollars in the same round, are also in the running. | Photo: Screenshot of the live transmission",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-wins-the-winner-s-bracket",
+         "pubDate" : "Thu, 25 May 2023 15:44:26 +0100",
+         "title" : "ChessKid Cup: Abdusattorov wins the Winner's Bracket"
+      },
+      {
+         "description" : " The 2023 Sharjah Masters is finishing today, and based on the current games in progress 6/9 may well be the winning score. On the one hand this is a low score for a 78 player event, but understandable when you see that it is an all GM tournament. Of course this will result in a large tie for 1st, unless someone on the top boards finds a way of converting an advantage (But wait, Erigaisi has a forced mate as I type this). One player who has played win/lose chess has been Australian Champ Temur Kuybokarov, he is 4.5/8 at the moment, with 4 wins, 3 losses and a single draw. One of his wins was against GM Salem Saleh, where he was outrated by almost 100 points. <br /> <b>Temur Kuybokarov - A.R.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/3-for-win.html",
+         "pubDate" : "Thu, 25 May 2023 13:48:00 +0000",
+         "title" : "+3 for the win?"
+      },
+      {
+         "description" : "The English Championship is a 7-round Swiss tournament taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the&#xA0;live games. More :&#xA0;English Women's Championship 2023Parallel :&#xA0;Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; LIVE&#xA0;/&#xA0;ChessKid Cup Div 1 Losers&#xA0;/&#xA0;ChessKid Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-championship-2023-participants/",
+         "pubDate" : "Thu, 25 May 2023 13:06:16 +0000",
+         "title" : "English Championship 2023 - Participants"
+      },
+      {
+         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
+         "pubDate" : "Thu, 25 May 2023 13:45:00 +0100",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Thu, 25 May 2023 13:45:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
+         "description" : "After 8 of 9 rounds, no fewer than eight players with 5.5/8 share the lead in the Sharjah Masters. One of them is the young Indian grandmaster Arjun Erigaisi (pictured), who in Round 8 with Black impressively showed why active piece play is often more important than pawn structure and what can happen when the king is stranded in the centre. | Photo: Facebook page of the Sharjah Masters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-eight-players-share-the-lead-going-into-the-final-round",
+         "pubDate" : "Thu, 25 May 2023 13:36:59 +0100",
+         "title" : "Sharjah Masters: Eight players share the lead going into the final round"
+      },
+      {
          "description" : "In Game of the Week #569, Merijn van Delft shows why it's good to be prepared and looks at how Samuel Sevian won convincingly against Nodirbek Yakubboev's King's Indian at the Sharjah Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +82,14 @@ news_feed (
          "title" : "Sharjah Masters, Round 9 - Live!"
       },
       {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bella Khotenashvili Aleksandra Goryachkina from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bella-khotenashvili-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 25 May 2023 11:30:00 +0000",
+         "title" : "Bella Khotenashvili - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,12 +98,52 @@ news_feed (
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
       },
       {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Harika Dronavalli from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhongyi-tan-harika-dronavalli-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 25 May 2023 11:15:00 +0000",
+         "title" : "Zhongyi Tan - Harika Dronavalli, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Dinara Wagner from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-dinara-wagner-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 25 May 2023 11:00:00 +0000",
+         "title" : "Gunay Mammadzada - Dinara Wagner, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Nana Dzagnidze from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polina-shuvalova-nana-dzagnidzenicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 25 May 2023 10:30:00 +0000",
+         "title" : "Polina Shuvalova - Nana Dzagnidze,Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Kateryna Lagno Alexandra Kosteniuk from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-alexandra-kosteniuk-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 25 May 2023 10:15:00 +0000",
+         "title" : "Kateryna Lagno - Alexandra Kosteniuk, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "In the eighth round of the Women's Grand Prix in Nicosia, five of the six games ended drawn. Only Bibisara Assaubayeva scored a full point, as she got the better of Bela Khotenashvili. Dinara Wagner retained the lead with her draw against Polina Shuvalova. Olga Milko, Business Development Director of sponsor Freedom Finance Europe, played the ceremonial first move. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r8",
          "pubDate" : "Thu, 25 May 2023 11:10:00 +0100",
          "title" : "Nicosia GP: Wagner remains in the lead, Assaubayeva scores"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Bibisara Assaubayeva from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oliwia-kiolbasa-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Thu, 25 May 2023 10:00:00 +0000",
+         "title" : "Oliwia Kiolbasa - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "The championships will be held in Lublin, Poland from August 18 (arrivals) to August 28 (departures) 2023. Only players with communication (hearing) impairments, visual impairments...",
@@ -46,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-8",
-         "pubDate" : "Wed, 24 May 2023 19:35:06 -0700",
+         "pubDate" : "Wed, 24 May 2023 19:35:00 -0700",
          "title" : "Mind Games And Close Calls: Shuvalova Unnerves Wagner"
       },
       {
@@ -178,44 +290,12 @@ news_feed (
          "title" : "Nihal Joins Grischuk As Tuesday Winners"
       },
       {
-         "description" : "The Mongolian Women's Championship 2023 is a 12-player round-robin tournament taking place from 20&#x2013;30 May 2023 in Khovd. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. More : The Mongolian Championship 2023Parallel : Nicosia FIDE Women&#x2019;s Grand Prix []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mongolian-womens-championship-2023/",
-         "pubDate" : "Wed, 24 May 2023 17:23:00 +0000",
-         "title" : "Mongolian Women's Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2418",
          "pubDate" : "Wed, 24 May 2023 16:29:59 +0000",
          "title" : "5th FIDE World Championships for People with Disabilities: Registration is open "
-      },
-      {
-         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. In Division I Nodirbek Abdusattorov and Jorden Van Foreest qualified for the final, in the loser's bracket Alireza Firouzja plays against Fabiano Caruana. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
-         "pubDate" : "Wed, 24 May 2023 16:45:00 +0100",
-         "title" : "ChessKid Cup - Live!"
-      },
-      {
-         "description" : "Fabiano Caruana Alireza Firouzja is a quaterfinal game from ChessKid Cup Div 1 Losers, while in the other quaterfinal will play Jules Moussard Dmitrij Kollars . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-alireza-firouzja-chesskid-cup-div-1-losers/",
-         "pubDate" : "Wed, 24 May 2023 14:27:32 +0000",
-         "title" : "Fabiano Caruana - Alireza Firouzja, ChessKid Cup Div 1 Losers"
-      },
-      {
-         "description" : "Jules Moussard Dmitrij Kollars is a quaterfinal game from ChessKid Cup Div 1 Losers, while in the other quaterfinal will play Fabiano Caruana Alireza Firouzja . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jules-moussard-dmitrij-kollars-chesskid-cup-div-1-losers/",
-         "pubDate" : "Wed, 24 May 2023 14:00:00 +0000",
-         "title" : "Jules Moussard - Dmitrij Kollars, ChessKid Cup Div 1 Losers"
       },
       {
          "description" : "Nodirbek Abdusattorov (picture) and Jorden Van Foreest are in the final of the Winner's Bracket of the ChessKid Cup. In the semi-finals Abdusattorov beat Fabiano Caruana and Van Foreest won against Dmitrij Kollars, who missed a number of good chances. Co-favourite Hikaru Nakamura, on the other hand, was eliminated from the tournament, losing to Alireza Firouzja in the Losers' Bracket. | Photo: Nodirbek Abdusattorov at the Tata Steel Tournament 2023 | Photo: Lennart Ootes",
@@ -346,22 +426,6 @@ news_feed (
          "title" : "Announcing Chessable 3.0: Customized Puzzles, Streamlined Opening Training, And More"
       },
       {
-         "description" : "Fabiano Caruana Nodirbek Abdusattorov is semifinal game from ChessKid Cup Div 1 Winners, while in the other semifinal will play Jorden Van Foreest Dmitrij Kollars . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-nodirbek-abdusattorov-chesskid-cup-div-1-winners/",
-         "pubDate" : "Tue, 23 May 2023 18:42:05 +0000",
-         "title" : "Fabiano Caruana - Nodirbek Abdusattorov, ChessKid Cup Div 1 Winners"
-      },
-      {
-         "description" : "Jorden Van Foreest Dmitrij Kollars is semifinal game from ChessKid Cup Div 1 Winners, while in the other semifinal will play Fabiano Caruana Nodirbek Abdusattorov . The ChessKid Cup, the 3rd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jorden-van-foreest-dmitrij-kollars-chesskid-cup-div-1-winners/",
-         "pubDate" : "Tue, 23 May 2023 18:25:00 +0000",
-         "title" : "Jorden Van Foreest - Dmitrij Kollars, ChessKid Cup Div 1 Winners"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -386,28 +450,12 @@ news_feed (
          "title" : "Chess On Cable TV: Game+ To Launch North America's First Primetime Chess Show"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Bella Khotenashvili from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhongyi-tan-bella-khotenashvili-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 23 May 2023 14:15:00 +0000",
-         "title" : "Zhongyi Tan - Bella Khotenashvili, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : " Entries for the 2023 ACT Chess Championship close on Friday at 6pm (First round is at 7pm). At this stage the entry list stands at 47 players, with IM Junta Ikeda as the top seed. He is likely to be challenged by a group of younger local players, with Willis Lo and Harry Press the next 2 seeds. The event is being played at the Eastlake Club in Griffth for the first time, with the club providing an excellent venue both in terms of space, and service. Meals will be available at the venue throughout (but no cheese toasties this year!). Based on the current entries, there will be at least $1500 in prizes, with $500 for 1st. It is not too late to enter, and you can do so at <a href=\"https://www.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-update.html",
          "pubDate" : "Tue, 23 May 2023 14:04:00 +0000",
          "title" : "2023 ACT Championship Update"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Aleksandra Goryachkina from round 7 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Alexandra Kosteniuk Bibisara Assaubayeva / Oliwia Kiolbasa Nana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gunay-mammadzada-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Tue, 23 May 2023 14:00:00 +0000",
-         "title" : "Gunay Mammadzada - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "All India Chess Federation received numerous requests from North East &#38; Andaman to organize an online Senior National Arbiter Seminar. Considering their requests, it is",
@@ -906,14 +954,6 @@ news_feed (
          "title" : "Sharjah Masters"
       },
       {
-         "description" : "The 56th edition of the Capablanca Memorial took place in Havana, Cuba on May 3-11. Danish grandmaster Jonas Buhl Bjerre, aged 18, won the tournament with a remarkable 7/9 score, following in the footsteps of Danish legend Bent Larsen, who won the event back in 1967. As ever, our in-house expert Karsten M&uuml;ller followed the action closely, looking for endgame highlights. Find here six instructive positions from the traditional competition! | Photo: Thomas Vesterg&aring;rd",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/capablanca-memorial-2023-endgames",
-         "pubDate" : "Thu, 18 May 2023 13:05:00 +0100",
-         "title" : "Endgames from Havana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -930,28 +970,12 @@ news_feed (
          "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
       },
       {
-         "description" : "With 78 grandmasters, the Sharjah Masters kicked off on Wednesday. Most favourites scored victories, but there were a few upsets: seventh seed Ray Robson was defeated by Denis Kadric, while women's world champion Ju Wenju got the better of Murali Karthikeyan. Ju's win was not without ups and downs, as she first got a clear advantage, then found herself up against the ropes, and finally managed to make the most of a miscalculation by her opponent. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r1",
-         "pubDate" : "Thu, 18 May 2023 10:00:00 +0100",
-         "title" : "Sharjah Masters: Ju kicks off with upset victory"
-      },
-      {
          "description" : "GMs Kateryna Lagno and Tan Zhongyi have taken the lead, each winning a second game in a row at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023&#38;nbsp;in round two. Lagno defeated IM Gunay Mammadzada, gaining an edge by undermining her opponent&#39;s cente...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-2",
          "pubDate" : "Wed, 17 May 2023 19:09:00 -0700",
          "title" : "Frontrunners Emerge: Lagno, Tan Score 2-0"
-      },
-      {
-         "description" : "In his Game of the Week show #568, Merijn van Delft takes a look at Fabiano Caruana's fine win against Ian Nepomniachtchi at the Grand Chess Tour tournament in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-567-gukesh-vs-keymer-2",
-         "pubDate" : "Wed, 17 May 2023 23:40:03 +0100",
-         "title" : "Game of the Week #568: F. Caruana vs I. Nepomniachtchi"
       },
       {
          "description" : "",
@@ -984,14 +1008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mamedyarov-bortnyk-win-titled-tuesday-may-16-2023",
          "pubDate" : "Wed, 17 May 2023 09:01:26 -0700",
          "title" : "Mamedyarov, Bortnyk Latest Tuesday Winners"
-      },
-      {
-         "description" : "Exhibitions to feature star-studded and historically significant pieces connected to musical, chess and literary figures including Katy Perry, Bobby Fischer, Julian Casablancas, Garry Kasparov and T. S. Eliot premiere at the World Chess Hall of Fame on May 17. \"Sound Moves: Where Music Meets Chess\" and \"T. S. Eliot: A Game of Chess\" are the two, all-new exhibitions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ts-eliot-a-game-of-chess-premiere-wchof",
-         "pubDate" : "Wed, 17 May 2023 13:10:16 +0100",
-         "title" : "\"T. S. Eliot: A Game of Chess\" one of two exhibitions to premiere at World Chess Hall of Fame"
       },
       {
          "description" : "",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "Freckles and Diamonds"
       },
       {
-         "description" : "Congratulations to Keith Arkell (right) and Mark Hebden, joint 50+ winners; and Chris Baker the 65+ winner, with Paul Littlewood second. Also to Natasha Regan,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-results/",
-         "pubDate" : "Tue, 09 May 2023 13:16:47 +0000",
-         "title" : "English Seniors - results"
-      },
-      {
          "description" : " The 2023 African Individual Chess Championships (AICC) are currently taking place in Egypt at Hor Moheb Hotel in the historic town of Giza. There are 17 African federations along with five South African players playing under the African Chess Confederation banner. Seven Grandmasters lead the field of 71 players in the Open (44 Egyptian) and The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/\">2023 African Individual Championships</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1664,22 +1672,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/may/05/chess-ding-sets-world-title-landmark-and-is-ready-to-take-on-carlsen",
          "pubDate" : "Fri, 05 May 2023 07:00:18 +0000",
          "title" : "Chess: Ding sets world title landmark and is 'ready to take on Carlsen'"
-      },
-      {
-         "description" : "The first leg of the 2023 Grand Chess Tour series opens tomorrow and will be held from 5-16 May in Bucharest, Romania. The event is played as a 10-player round-robin tournament, with world top players in the field including the World Chess Champion Ding Liren and the Challenger Ian Nepomniachtchi. The total prize fund is $350.000 and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/",
-         "pubDate" : "Thu, 04 May 2023 15:03:44 +0000",
-         "title" : "Grand Chess Tour Romania 2023 opens in Bucharest"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99992056.cms\" />India's long wait for a world champion may not be very far as chess wizard Viswanathan Anand hopes that \"some Indians\" will qualify for the Candidates Tournament next year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/if-were-lucky-we-may-have-an-indian-challenger-to-ding-liren-next-year-viswanathan-anand/articleshow/99992056.cms",
-         "pubDate" : "Thu, 04 May 2023 13:56:52 +0000",
-         "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
       }
    ]
 }
