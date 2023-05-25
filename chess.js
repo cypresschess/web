@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Nodirbek Abdusattorov is the first grand finalist of the Champions Chess Tour ChessKid Cup 2023 Division I after beating Jorden van Foreest in a close fight that nearly made it to armageddon. In the Losers Bracket, GM Fabiano Caruana eliminated...",
+         "description" : "It was a day of narrow escapes in round eight of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023.&#38;nbsp;WGM Dinara Wagner maintained her lead, navigating her way out of a close call vs. IM Polina Shuvalova, who prepared a shrewd psychological surpris...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-8",
+         "pubDate" : "Wed, 24 May 2023 19:35:06 -0700",
+         "title" : "Mind Games And Close Calls: Shuvalova Unnerves Wagner"
+      },
+      {
+         "description" : "Magnus Carlsen ended the first day of blitz at the Superbet Poland tournament with five consecutive wins, thus climbing to sole second place a half point behind Jan-Krzysztof Duda. Duda scored 4&frac12; points to remain atop the standings, as he collected three wins, three draws and three losses on Wednesday. Wesley So stands in third place, merely a half point behind Carlsen. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d4",
+         "pubDate" : "Thu, 25 May 2023 02:40:00 +0100",
+         "title" : "Superbet Poland: Carlsen on a rampage, wins five games in a row"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda leads the&#38;nbsp;Superbet Poland Rapid &#38;amp; Blitz 2023 heading into the final nine rounds of blitz after a strong showing on the fourth day when he scored 5/9 and moved to 17.5 points. GM Magnus Carlsen is hot on the heels o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-4",
+         "pubDate" : "Wed, 24 May 2023 18:20:00 -0700",
+         "title" : "5 Straight Wins By Carlsen Set Up Title Race With Duda"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov is the first grand finalist of the Champions Chess Tour ChessKid Cup 2023 Division I after beating GM Jorden van Foreest in a close fight that nearly made it to armageddon. In the Losers Bracket, GM Fabiano Caruana elimina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-3",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/jules-moussard-dmitrij-kollars-chesskid-cup-div-1-losers/",
          "pubDate" : "Wed, 24 May 2023 14:00:00 +0000",
          "title" : "Jules Moussard - Dmitrij Kollars, ChessKid Cup Div 1 Losers"
-      },
-      {
-         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
-         "pubDate" : "Wed, 24 May 2023 13:45:00 +0100",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
@@ -970,14 +986,6 @@ news_feed (
          "title" : "Sharjah 2023 with world class players"
       },
       {
-         "description" : "Every single game of the first round of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 ended decisively. With imaginative and fearless play, GM Tan Zhongyi defeated her fellow women&#39;s world champion GM Alexandra Kosteniuk. WGM Dinara Wagner&#39;s deter...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-1",
-         "pubDate" : "Tue, 16 May 2023 22:22:00 -0700",
-         "title" : "All Games Decisive: Wagner Beats Top Seed, Tan Bests Kosteniuk"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2393",
          "pubDate" : "Mon, 15 May 2023 19:11:38 +0000",
          "title" : "FIDE World Championships 2024: Call for bids"
-      },
-      {
-         "description" : "UPDATE: friends of Sue Maroroa Jones&#39;s family have asked us to include a link to a donations page set up to help support them at this very difficult time. Please click here if you want to make a donation.On the morning of Thursday, May 11, the che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sue-maroroa-jones-obituary-chess",
-         "pubDate" : "Mon, 15 May 2023 11:20:00 -0700",
-         "title" : "Sue Maroroa Jones (1991-2023)"
       },
       {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://aicf.in/list-of-arbiters-attended-refresher-seminar-2023-24/",
          "pubDate" : "Thu, 04 May 2023 06:18:02 +0000",
          "title" : "List of Arbiters attended refresher seminar 2023-24"
-      },
-      {
-         "description" : " Participants of the 2023 HBCU Chess Classic at Morris Brown CollegePhoto by Daaim Shabazz Dear Chess Community,The HBCU Chess Classic took place on April 22nd and many noted figures in the African-American chess community were in attendance. US Chess was also represented by Melinda Matthews who did a number of interviews including this writer. This The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/\">US Chess on HBCU Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/03/us-chess-on-hbcu-chess/",
-         "pubDate" : "Thu, 04 May 2023 03:29:16 +0000",
-         "title" : "US Chess on HBCU Chess"
       }
    ]
 }
