@@ -178,28 +178,12 @@ news_feed (
          "title" : "Jules Moussard - Dmitrij Kollars, ChessKid Cup Div 1 Losers"
       },
       {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Wed, 24 May 2023 13:45:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
-      },
-      {
          "description" : "Nodirbek Abdusattorov (picture) and Jorden Van Foreest are in the final of the Winner's Bracket of the ChessKid Cup. In the semi-finals Abdusattorov beat Fabiano Caruana and Van Foreest won against Dmitrij Kollars, who missed a number of good chances. Co-favourite Hikaru Nakamura, on the other hand, was eliminated from the tournament, losing to Alireza Firouzja in the Losers' Bracket. | Photo: Nodirbek Abdusattorov at the Tata Steel Tournament 2023 | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-and-van-foreest-make-it-to-the-finals",
          "pubDate" : "Wed, 24 May 2023 13:43:03 +0100",
          "title" : "ChessKid Cup: Abdusattorov and Van Foreest make it to the final"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the games live with computer-assisted analysis, starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Wed, 24 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters, Round 8 - Live!"
       },
       {
          "description" : "After the rest day in Nicosia, Dinara Wagner celebrated her third victory in the seventh round of the Women's Grand Prix. The German representative, who is also the lowest-rated player in the field, emerged victorious against Kateryna Lagno after a complicated tactical fight and now is the sole leader in the standings. | Photo: FIDE / Mark Livshitz",
@@ -986,6 +970,14 @@ news_feed (
          "title" : "Sharjah 2023 with world class players"
       },
       {
+         "description" : "The fourth and final stage of the Women's Grand Prix series kicked off in Cyprus. All six round-1 games finished decisively. The biggest shocker was Dinara Wagner's victory over Aleksandra Goryachkina - the latter entered the tournament in second place in the series' overall ranking, only behind Zhu Jiner, who is not playing in Nicosia. Kateryna Lagno, Tan Zhongyi, Nana Dzagnidze, Harika Dronavalli and Gunay Mammadzada also scored full points. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r1",
+         "pubDate" : "Wed, 17 May 2023 04:50:00 +0100",
+         "title" : "Nicosia GP: Six (out of six) decisive results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1024,6 +1016,14 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-67/",
          "pubDate" : "Tue, 16 May 2023 13:06:43 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
+      },
+      {
+         "description" : "The young Danish grandmaster Jonas Buhl Bjerre won the Capablanca Memorial in Havana by defeating Rasmus Svane in the final round. It is the second victory by a Dane in the series since Larsen's victory in 1967. | Photo: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/havana-jonas-buhl-bjerre-in-the-footsteps-of-bent-larsen",
+         "pubDate" : "Tue, 16 May 2023 13:00:00 +0100",
+         "title" : "Havana: Jonas Buhl Bjerre in the footsteps of Bent Larsen"
       },
       {
          "description" : "We were deeply saddened to hear about the tragic passing of WIM Sue Maroroa Jones on Thursday 11th of May, shortly after giving birth to...",
@@ -1072,6 +1072,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2393",
          "pubDate" : "Mon, 15 May 2023 19:11:38 +0000",
          "title" : "FIDE World Championships 2024: Call for bids"
+      },
+      {
+         "description" : "For this post on the world's top two engine vs. engine competitions, four weeks have passed since the previous post: <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-sufi-ccc20-rapid-both-underway.html\">TCEC S24 Sufi, CCC20 Rapid - Both Underway</A> (April 2023). Here's a summary of the engine action reported at that time:- <BLOCKQUOTE> TCEC: Stockfish won the 'DivP Playoff' with an undefeated score; LCZero finished second to qualify into the S24 Superfinal (aka Sufi). After 40 games in the 100-game Sufi, LCZero has a slim one point lead. &#149; CCC: The 15-engine OpenBench event, titled 'OpenBench Interlude #8 - All Hands', was won by Berserk. This was followed by the first st",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/stockfish-wins-tcec-s24-engine-mysteries.html",
+         "pubDate" : "Mon, 15 May 2023 15:45:00 +0000",
+         "title" : "Stockfish Wins TCEC S24; Engine Mysteries"
       },
       {
          "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/",
          "pubDate" : "Thu, 04 May 2023 08:39:29 +0000",
          "title" : "Ding Lirin's Use Of Tiger Chess Openings"
-      },
-      {
-         "description" : "Please find the complete list of Arbiters attended online refresher seminar&#160;from Feb 2023-Apr 2024 . Updated List of Arbiters",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/list-of-arbiters-attended-refresher-seminar-2023-24/",
-         "pubDate" : "Thu, 04 May 2023 06:18:02 +0000",
-         "title" : "List of Arbiters attended refresher seminar 2023-24"
       }
    ]
 }
