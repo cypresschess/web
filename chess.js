@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An imposing 7/9 performance on Thursday allowed Magnus Carlsen to clinch first place at the Superbet Rapid & Blitz tournament in Warsaw. Rapid-section winner Jan-Krzysztof Duda put up a great fight, as he went into the final-round confrontation against Carlsen with chances of catching his famed colleague in the standings. A hard-fought 124-move draw sealed Carlsen's victory. Duda came second, while Wesley So and Maxime Vachier-Lagrave shared third place. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d5",
+         "pubDate" : "Thu, 25 May 2023 23:50:00 +0100",
+         "title" : "Yet another triumph: Carlsen wins Superbet Rapid & Blitz Poland"
+      },
+      {
+         "description" : "GM Arjun Erigaisi won the Sharjah Masters International Chess Championship 2023 on Thursday after winning his final-round game against GM Nodirbek Yakubboev. Eight players were tied on 5.5/8 heading into the final round and only Erigaisi was abl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-sharjah-masters-2023",
+         "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
+         "title" : "Erigaisi Wins Sharjah Masters, Touted As Strongest Invitational Open In Chess History"
+      },
+      {
+         "description" : "In round nine of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023,&#38;nbsp;the competitors threw the fate of the tournament into uncertainty. IM Gunay Mammadzada defeated the leader, WGM Dinara Wagner, while GM Bella Khotenashvili scored her first victo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-9",
+         "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
+         "title" : "Anyone's Tournament: Leader And Top Seed Both Fall"
+      },
+      {
+         "description" : "We&#39;re thrilled to announce ESpot B-Cup 2 Presented by Chess.com! It&#39;s a community and streamer event live from Espot Paris on June 17, 2023, at 6:20 a.m. PT/15:20 CEST. There will be online and on-site tournaments with prize pools, two concurrent ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-espot-bcup2-presented-by-chesscom",
+         "pubDate" : "Thu, 25 May 2023 14:09:10 -0700",
+         "title" : "Announcing ESpot B-Cup 2 Presented By Chess.com"
+      },
+      {
+         "description" : "GM Fabiano Caruana eliminated GMs Jules Moussard and Jorden van Foreest on his way to the Champions Chess Tour ChessKid Cup 2023 Grand Final in Division I. Both of his matches made it to armageddon tiebreaks; Caruana first drew with the black pi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-4",
+         "pubDate" : "Thu, 25 May 2023 14:09:00 -0700",
+         "title" : "Fabulous Caruana Wins 2 Armageddons, Will Play Abdusattorov In Grand Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2423",
+         "pubDate" : "Thu, 25 May 2023 20:14:10 +0000",
+         "title" : "FIDE WGP: Three-way tie in Cyprus with two rounds to go "
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda fought a memorable and thrilling final round of the Superbet Poland Rapid &#38;amp; Blitz 2023, where the former held his nerve to hold a draw and win the event with a score of 24 points and pocket the top p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-5",
+         "pubDate" : "Thu, 25 May 2023 12:44:01 -0700",
+         "title" : "Magnus Carlsen Triumphs In Poland After Thrilling Final Round"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players which time control they prefer. This aired during Day 4. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefer-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTl-HRRcAU8.jpg?itok=EnXaCSiY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefer-grandchesstour",
+         "pubDate" : "Thu, 25 May 2023 19:29:22 +0000",
+         "title" : "2023 Superbet Rapid & Blitz Poland: Which Time Format Do You Prefer? #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen (23.5 points) plays Jan-Krzysztof Duda (22.5 points) in the 18th and final blitz round of regulation in the 2023 Superbet Rapid &amp; Blitz Poland. With a win, Duda forces a playoff. With a score, Magnus clinches the event. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-round-18-carlsen-vs-duda-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/blitz-round-18-carlsen-vs-duda-d5-superbetrapidblitzpoland",
+         "pubDate" : "Thu, 25 May 2023 19:29:22 +0000",
+         "title" : "Blitz Round 18: Carlsen vs. Duda | D5 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen is presented the trophy by Grand Chess Tour Executive Director Michael Khodarkovsky, Superbet Poland CEO Adam Lamentowicz, and Cristian Chirila after winning the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-my-retirement-only-lasted-couple-days-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-my-retirement-only-lasted-couple-days-d5-superbetrapidblitzpoland",
+         "pubDate" : "Thu, 25 May 2023 19:29:22 +0000",
+         "title" : "Carlsen: My Retirement Only Lasted a Couple of Days | D5 #SuperbetRapidBlitzPoland"
+      },
+      {
          "description" : "The first edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2023 will be held at Amalorpavam Higher Sec School, Vanarapet, Pondicherry from 23-25 June",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-wins-the-winner-s-bracket",
          "pubDate" : "Thu, 25 May 2023 15:44:26 +0100",
          "title" : "ChessKid Cup: Abdusattorov wins the Winner's Bracket"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2422",
+         "pubDate" : "Thu, 25 May 2023 13:49:34 +0000",
+         "title" : "FIDE World Cadet Championships U8, U10 and U12: Registration is open"
       },
       {
          "description" : " The 2023 Sharjah Masters is finishing today, and based on the current games in progress 6/9 may well be the winning score. On the one hand this is a low score for a 78 player event, but understandable when you see that it is an all GM tournament. Of course this will result in a large tie for 1st, unless someone on the top boards finds a way of converting an advantage (But wait, Erigaisi has a forced mate as I type this). One player who has played win/lose chess has been Australian Champ Temur Kuybokarov, he is 4.5/8 at the moment, with 4 wins, 3 losses and a single draw. One of his wins was against GM Salem Saleh, where he was outrated by almost 100 points. <br /> <b>Temur Kuybokarov - A.R.",
@@ -384,30 +472,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-deac-selfies-and-his-hair-d3-superbetrapidblitzpoland",
          "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
          "title" : "Carlsen on Deac, Selfies, and His Hair | D3 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players what profession they would be in if they were not chess players. This aired during Day 3. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-if-you-weren%E2%80%99t-chess-player%E2%80%A6-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aWC81mBc24Y.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-if-you-weren%E2%80%99t-chess-player%E2%80%A6-grandchesstour",
-         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: If You Weren't a Chess Player&hellip; #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Polish Chess Federation President Radoslaw Jedynak talks to Cristian Chirila on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/polish-federation%E2%80%99s-jedynak-duda-inspires-youth-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tdvjfzqK0xo.jpg?itok=dzEL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/polish-federation%E2%80%99s-jedynak-duda-inspires-youth-d3-superbetrapidblitzpoland",
-         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
-         "title" : "Polish Federation's Jedynak: Duda Inspires Youth | D3 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 2-0-1 on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-if-duda-has-great-event-i-don%E2%80%99t-have-chance-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gE1SQ0y53h4.jpg?itok=cn2EITpK\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-if-duda-has-great-event-i-don%E2%80%99t-have-chance-d3-superbetrapidblitzpoland",
-         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
-         "title" : "Carlsen: If Duda has a Great Event, I Don't Have a Chance | D3 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "",
@@ -834,14 +898,6 @@ news_feed (
          "title" : "First Chess for Freedom Conference opens in Chicago"
       },
       {
-         "description" : "She is a two-time U.S. women&#39;s chess champion, author, commentator, and poker professional. But this week WGM Jennifer Shahade could also add Jeopardy! presenter to her already impressive career resume.&#38;nbsp; A special episode of the popular Ame...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jennifer-shahade-presents-chess-category-on-jeopardy-masters",
-         "pubDate" : "Fri, 19 May 2023 07:19:38 -0700",
-         "title" : "Jennifer Shahade Featured On Jeopardy! Quizmaster; Can You Solve Her Clues?"
-      },
-      {
          "description" : "Gennadi Sosonko was born in and grew up in the Soviet Union, in a golden age of chess. He emigrated in 1972, became a successful player and then an even more successful chess journalist and author. On 18 May he celebrated his 80th birthday. | Photo source: livelib",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -922,28 +978,12 @@ news_feed (
          "title" : "Nicosia GP: Tan and Lagno share the lead"
       },
       {
-         "description" : "IM Polina Shuvalova was the sole winner of round three at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023, defeating IM Gunay Mammadzada with a combination of strategic understanding and tenacity. Shuvalova is now tied for third, trailing the leader...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-3",
-         "pubDate" : "Thu, 18 May 2023 15:20:10 -0700",
-         "title" : "Shuvalova Wins 2nd Game in Row, Nears Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2403",
          "pubDate" : "Thu, 18 May 2023 20:27:17 +0000",
          "title" : "WGP Nicosia: Lagno and Tan Zhongyi maintain the lead going into the 4th round"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris takes a look at the game Yoo-Maghsoodloo from the 1st round of the Sharjah Masters. A Classical Sicilian Rauzer with 7.Qd3 was soon transformed into a Sveshnikov-type of structure, in which Black succeeded with energetic play. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-adventures",
-         "pubDate" : "Thu, 18 May 2023 19:51:21 +0100",
-         "title" : "Robert Ris' Fast and Furious: Sicilian adventures"
       },
       {
          "description" : "",
@@ -978,14 +1018,6 @@ news_feed (
          "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
       },
       {
-         "description" : "GMs Kateryna Lagno and Tan Zhongyi have taken the lead, each winning a second game in a row at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023&#38;nbsp;in round two. Lagno defeated IM Gunay Mammadzada, gaining an edge by undermining her opponent&#39;s cente...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-2",
-         "pubDate" : "Wed, 17 May 2023 19:09:00 -0700",
-         "title" : "Frontrunners Emerge: Lagno, Tan Score 2-0"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1000,22 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2399",
          "pubDate" : "Wed, 17 May 2023 20:57:38 +0000",
          "title" : "FIDE WGP Nicosia: Lagno and Tan Zhongyi lead with 2/2"
-      },
-      {
-         "description" : "GM Pranav V won the Winners Bracket and IM Read Samadov won the Losers Bracket of Qualifier 1 to both qualify for the Junior Speed Chess Championship 2023 Main Event.&#38;nbsp; Pranav V qualified convincingly, winning nearly all his games in his sem...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-junior-speed-chess-championship-qualifier-1",
-         "pubDate" : "Wed, 17 May 2023 12:48:00 -0700",
-         "title" : "Pranav V, Samadov Qualify For JSCC Main Event"
-      },
-      {
-         "description" : "GMs Shakhriyar Mamedyarov and Oleksandr Bortnyk found the keys to victory in Titled Tuesday on May 16. Mamedyarov won on tiebreaks over GMs Hikaru Nakamura and Nitzan Steinberg, while Bortnyk won outright by half a point over GM Matthias Bluebaum....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mamedyarov-bortnyk-win-titled-tuesday-may-16-2023",
-         "pubDate" : "Wed, 17 May 2023 09:01:26 -0700",
-         "title" : "Mamedyarov, Bortnyk Latest Tuesday Winners"
       },
       {
          "description" : "",
@@ -1562,14 +1578,6 @@ news_feed (
          "title" : "Superbet Chess Classic 2: Nepo and Rapport strike"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2374",
-         "pubDate" : "Sun, 07 May 2023 20:49:42 +0000",
-         "title" : "2023 Superbet Chess Classic: Day 2 Recap"
-      },
-      {
          "description" : " I wonder what you're scared of. Ghosts or monsters? Zombies or vampires? You know what I'm scared of? Queen endings! All those checks! How am I supposed to calculate them all? I have to calculate all possible pawn endings as well. I also have to be careful not to move my king into a mating <a href=\"https://chessimprover.com/scary-movies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Scary Mov(i)es\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/scary-movies/\">Scary Mov(i)es</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://aicf.in/asian-continental-open-and-womens-chess-championships-almaty-kazakhstan3rd-to-12th-june-2023/",
          "pubDate" : "Sun, 07 May 2023 08:42:30 +0000",
          "title" : "Asian Continental (Open and Women's) Chess Championships Almaty (Kazakhstan)3rd to 12th June, 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2373",
-         "pubDate" : "Sat, 06 May 2023 22:51:57 +0000",
-         "title" : "2023 Superbet Chess Classic: Day 1 Recap"
       },
       {
          "description" : " \"Can you kill the king?\" is a question I often get asked at school competitions. I give a firm no, followed by a somewhat longer explanation involving the practice of holding kings for ransom in medieval times. But for today, and today only, I was tempted to suspend this rule for Street Chess. What stopped me wasn't the fear of being hauled off to Belmarsh, but the fact that it was a FIDE rated event, and to be valid, the FIDE rules needed to be followed correctly. <br /> ",
