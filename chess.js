@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Game of the Week #569, Merijn van Delft shows why it's good to be prepared and looks at how Samuel Sevian won convincingly against Nodirbek Yakubboev's King's Indian at the Sharjah Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-569-samuel-sevian-vs-nodirbek-yakubboev",
+         "pubDate" : "Thu, 25 May 2023 13:28:23 +0100",
+         "title" : "Game of the Week #569: Samuel Sevian vs Nodirbek Yakubboev"
+      },
+      {
+         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the last round live with computer-assisted analysis, starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
+         "pubDate" : "Thu, 25 May 2023 12:45:00 +0100",
+         "title" : "Sharjah Masters, Round 9 - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2421",
+         "pubDate" : "Thu, 25 May 2023 11:15:44 +0000",
+         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
+      },
+      {
+         "description" : "In the eighth round of the Women's Grand Prix in Nicosia, five of the six games ended drawn. Only Bibisara Assaubayeva scored a full point, as she got the better of Bela Khotenashvili. Dinara Wagner retained the lead with her draw against Polina Shuvalova. Olga Milko, Business Development Director of sponsor Freedom Finance Europe, played the ceremonial first move. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r8",
+         "pubDate" : "Thu, 25 May 2023 11:10:00 +0100",
+         "title" : "Nicosia GP: Wagner remains in the lead, Assaubayeva scores"
+      },
+      {
+         "description" : "The championships will be held in Lublin, Poland from August 18 (arrivals) to August 28 (departures) 2023. Only players with communication (hearing) impairments, visual impairments...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/5th-fide-world-championships-for-people-with-disabilities/",
+         "pubDate" : "Thu, 25 May 2023 09:41:35 +0000",
+         "title" : "5th FIDE World Championships for People with Disabilities"
+      },
+      {
          "description" : "It was a day of narrow escapes in round eight of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023.&#38;nbsp;WGM Dinara Wagner maintained her lead, navigating her way out of a close call vs. IM Polina Shuvalova, who prepared a shrewd psychological surpris...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -794,10 +834,10 @@ news_feed (
          "title" : "Chess: Caruana edges Bucharest while Ding narrowly avoids finishing bottom"
       },
       {
-         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Click here...",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ukraine-crisis-appeal-24-hour-chess-marathon/",
+         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2023/#new_tab",
          "pubDate" : "Fri, 19 May 2023 07:00:18 +0000",
          "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
@@ -962,22 +1002,6 @@ news_feed (
          "title" : "FIDE World Amateur Championships 2023: Registration is open"
       },
       {
-         "description" : "The tournament starts today, in the world's biggest chess club. The 6th Sharjah Masters 2023 is taking place from May 17th (first round) to 26th (departure). Participating are around 100 grandmaster, among them at least 30 of the world's top 100 players, making this the strongest open in history. There are a lot of young talents, players in their late teens and early twenties, with ratings around 2700. It's going to be exciting to watch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-2023-with-world-class-players",
-         "pubDate" : "Wed, 17 May 2023 07:00:00 +0100",
-         "title" : "Sharjah 2023 with world class players"
-      },
-      {
-         "description" : "The fourth and final stage of the Women's Grand Prix series kicked off in Cyprus. All six round-1 games finished decisively. The biggest shocker was Dinara Wagner's victory over Aleksandra Goryachkina - the latter entered the tournament in second place in the series' overall ranking, only behind Zhu Jiner, who is not playing in Nicosia. Kateryna Lagno, Tan Zhongyi, Nana Dzagnidze, Harika Dronavalli and Gunay Mammadzada also scored full points. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r1",
-         "pubDate" : "Wed, 17 May 2023 04:50:00 +0100",
-         "title" : "Nicosia GP: Six (out of six) decisive results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,14 +1040,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-67/",
          "pubDate" : "Tue, 16 May 2023 13:06:43 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
-      },
-      {
-         "description" : "The young Danish grandmaster Jonas Buhl Bjerre won the Capablanca Memorial in Havana by defeating Rasmus Svane in the final round. It is the second victory by a Dane in the series since Larsen's victory in 1967. | Photo: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/havana-jonas-buhl-bjerre-in-the-footsteps-of-bent-larsen",
-         "pubDate" : "Tue, 16 May 2023 13:00:00 +0100",
-         "title" : "Havana: Jonas Buhl Bjerre in the footsteps of Bent Larsen"
       },
       {
          "description" : "We were deeply saddened to hear about the tragic passing of WIM Sue Maroroa Jones on Thursday 11th of May, shortly after giving birth to...",
@@ -1530,14 +1546,6 @@ news_feed (
          "title" : "Superbet Chess Classic 2: Nepo and Rapport strike"
       },
       {
-         "description" : "Follow this link to British Chess News for a full article remembering FM Michael Franklin.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/michael-franklin-rip/",
-         "pubDate" : "Mon, 08 May 2023 07:22:50 +0000",
-         "title" : "Michael Franklin RIP"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1658,14 +1666,6 @@ news_feed (
          "title" : "Chess: Ding sets world title landmark and is 'ready to take on Carlsen'"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2372",
-         "pubDate" : "Thu, 04 May 2023 15:45:47 +0000",
-         "title" : "Chicago to host three-day Chess for Freedom conference"
-      },
-      {
          "description" : "The first leg of the 2023 Grand Chess Tour series opens tomorrow and will be held from 5-16 May in Bucharest, Romania. The event is played as a 10-player round-robin tournament, with world top players in the field including the World Chess Champion Ding Liren and the Challenger Ian Nepomniachtchi. The total prize fund is $350.000 and the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/grand-chess-tour-romania-2023-opens-in-bucharest/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1680,38 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/if-were-lucky-we-may-have-an-indian-challenger-to-ding-liren-next-year-viswanathan-anand/articleshow/99992056.cms",
          "pubDate" : "Thu, 04 May 2023 13:56:52 +0000",
          "title" : "We may have an Indian challenger to Ding Liren next year: Anand"
-      },
-      {
-         "description" : " The 28th Sigeman & Co tournament took place in Malmo, Sweden 4th to 10th May 2023, Category 17. Players: D Gukesh, Arjun Erigaisi, Vincent Keymer, Jorden Van Foreest, Peter Svidler, Boris Gelfand, Nils Grandelius and Abhimanyu Mishra. Peter Svidler won the event with a score of 4.5/7. This is his first tournament victory since his 2017 Russian Championship win.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/28th-sigeman-co-2023",
-         "pubDate" : "Thu, 4 May 2023 14:02:00 +0400",
-         "title" : "28th Sigeman & Co 2023 - Games and Results"
-      },
-      {
-         "description" : " The 4th Stepan Avagyan Memorial tookplace in Jermuk, Armenia 3rd-11th May 2023, Category 16. Players: Samuel Sevian, Andrey Esipenko, M. Amin Tabatabaei, Haik M. Martirosyan, Narayanan.S.L, Thai Dai Van Nguyen, Nodirbek Yakubboev, Frederik Svane, Robert Hovhannisyan and Artur Davtyan. Sam Sevian won with 6/9. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4th-stepan-avagyan-memorial-2023",
-         "pubDate" : "Thu, 4 May 2023 13:57:00 +0400",
-         "title" : "4th Stepan Avagyan Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : " The 56th Capablanca Memorial took place in Havana Wed 3rd May 2023\tFri 12th May 2023. The Category 14 Elite event has these players: Eduardo Iturrizaga Bonelli, Raunak Sadhwani, Rasmus Svane, Jonas Buhl Bjerre, Alexandr Fier, Carlos Daniel Albornoz Cabrera, Luis Ernesto Quesada Perez, Omar Almeida Quintana, Lelys Stanley Martinez Duany and Elier Miranda Mesa. Jonas Buhl Bjerre took clear first place after turning round a poor position to beat Rasmus Svane in the final round, this game is now available complete. In second place half a point behind was Alexandr Fier.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/56th-capablanca-memorial-2023",
-         "pubDate" : "Thu, 4 May 2023 13:54:00 +0400",
-         "title" : "56th Capablanca Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : " One thing that surprised me in the World Championship match was Ding Lirin's use of simple openings which shifted the emphasis of the struggle to the middle game. This is an approach I've long recommended to Tiger Chess students because it gives them time to study other important aspects of the game. Two out of <a href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Ding Lirin's Use Of Tiger Chess Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/\">Ding Lirin's Use Of Tiger Chess Openings</a> appeared first on <a rel=\"nofollow\" href=",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/ding-lirins-use-of-tiger-chess-openings/",
-         "pubDate" : "Thu, 04 May 2023 08:39:29 +0000",
-         "title" : "Ding Lirin's Use Of Tiger Chess Openings"
       }
    ]
 }
