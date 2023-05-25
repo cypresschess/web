@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2023 will be held at Amalorpavam Higher Sec School, Vanarapet, Pondicherry from 23-25 June",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-national-schools-team-under-12-under-18-chess-championships-2023/",
+         "pubDate" : "Thu, 25 May 2023 18:26:45 +0000",
+         "title" : "1st National Schools Team Under-12 & Under-18 Chess Championships-2023"
+      },
+      {
+         "description" : "The English Women's Championship 2023 is a 7-round Swiss tournament taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the&#xA0;live games. More :&#xA0;English Championship 2023Parallel :&#xA0;Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; LIVE&#xA0;/&#xA0;ChessKid Cup Div 1 Losers&#xA0;/&#xA0;ChessKid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-womens-championship-2023-participants/",
+         "pubDate" : "Thu, 25 May 2023 17:19:55 +0000",
+         "title" : "English Women's Championship 2023 - Participants"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich and Cristian Chirila recap the \"Grandmasters vs. Organizers\" football match after the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. This aired on Day 5. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland",
+         "pubDate" : "Thu, 25 May 2023 16:29:17 +0000",
+         "title" : "'Magnus Kept Scoring at Soccer; He Never Stops!' | D5 #SuperbetRapidBlitzPoland"
+      },
+      {
          "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. In the loser's bracket Fabiano Caruana, Jules Moussard and Jorden Van Foreest fight to make it to the Grand Final where they will meet Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,14 +298,6 @@ news_feed (
          "title" : "Mongolian Championship 2023"
       },
       {
-         "description" : "The Mongolian Women's Championship 2023 is taking place from 20&#x2013;30 May 2023 in Khovd. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with participation of Batsaikhan Enkhsaran, Enkhrii Enkh-Amgalan, Boldbaatar Altantuya, Khishigbaatar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mongolian-womens-championship-2023-live/",
-         "pubDate" : "Wed, 24 May 2023 17:45:00 +0000",
-         "title" : "Mongolian Women's Championship 2023 - LIVE"
-      },
-      {
          "description" : "Titled Tuesday on May 23 went to two generations of blitz stars, the long-established GM Alexander Grischuk and the 20-years-younger GM Nihal Sarin. Grischuk essentially locked up the early tournament with a round to go, while Nihal barely outlast...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-if-duda-has-great-event-i-don%E2%80%99t-have-chance-d3-superbetrapidblitzpoland",
          "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
          "title" : "Carlsen: If Duda has a Great Event, I Don't Have a Chance | D3 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Cristian Chirila after going 1-0-2 on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-1st-after-rapid-i%E2%80%99m-more-keen-playing-blitz-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8Gbbx35k-SA.jpg?itok=vzIVKZn5\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-1st-after-rapid-i%E2%80%99m-more-keen-playing-blitz-d3-superbetrapidblitzpoland",
-         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
-         "title" : "Duda 1st after Rapid: I'm More Keen Playing Blitz | D3 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "",
