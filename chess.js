@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King looks at a trendy exchange sacrifice in the Schmid Benoni that was featured in two games played at the SuperBet tournament in Warsaw. When Rapport and Duda employ it, you should sit up and take notes! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-schmid-benoni-sac",
+         "pubDate" : "Fri, 26 May 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The Schmid Benoni exchange sac"
+      },
+      {
          "description" : "On the last day of the ChessKid Cup Fabiano Caruana and Nodirbek Abdusattorov will meet in the Grand Final. If Abdusattorov wins the match, he will also win the ChessKid Cup as the winner of the Winner's Bracket. If Caruana wins, there will be a second match to decide the winner of the tournament.| Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -558,7 +566,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chessable-3",
-         "pubDate" : "Tue, 23 May 2023 14:17:20 -0700",
+         "pubDate" : "Tue, 23 May 2023 14:17:00 -0700",
          "title" : "Announcing Chessable 3.0: Customized Puzzles, Streamlined Opening Training, And More"
       },
       {
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/victory-loves-preparation",
          "pubDate" : "Sat, 20 May 2023 09:00:00 +0100",
          "title" : "Victory loves preparation"
-      },
-      {
-         "description" : "Shortly after the Superbet Chess Classic, the Superbet Rapid & Blitz will return with its second edition. The tournament is set to take place on May 21-25 at the Museum of the History of Polish Jews in Warsaw, Poland. Joining five 'full players' from the Grand Chess Tour, five wildcards, including world number one Magnus Carlsen, will make their way to the Polish capital. | Photo: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-preview",
-         "pubDate" : "Sat, 20 May 2023 05:00:00 +0100",
-         "title" : "Starting Sunday: Carlsen heads intriguing field in Superbet Poland"
       },
       {
          "description" : "IM Emin Ohanyan and GM Daniel Dardha qualified for the Junior Speed Chess Championship 2023 Main Event on Friday after winning the Qualifier 2 Winners and Losers Brackets respectively. Ohanyan, who finished third in the Qualifier 2 Swiss, swept ...",
@@ -1672,14 +1672,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-liren-and-nepomniachtchi-back-in-action",
          "pubDate" : "Sat, 06 May 2023 07:41:17 +0000",
          "title" : "Ding Liren and Nepomniachtchi back in action"
-      },
-      {
-         "description" : " The Superbet Chess Classic Romania took place in Bucharest 6th to 16th May 2023. This is the first leg of the Grand Chess tour. Fabiano Caruana won the event with 5.5/9 half a point clear of Alireza Firouzja, Wesley So, Anish Giri and Richard Rapport. World Champion Ding Liren won in the final round but otherwise was subdued as was Ian Nepomniachtchi. This was really too soon after their match for either to be playing their best.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-romania-2023s",
-         "pubDate" : "Fri, 5 May 2023 20:41:00 +0400",
-         "title" : "Superbet Chess Classic Romania 2023 - Games and Results"
       }
    ]
 }
