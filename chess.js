@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the last day of the ChessKid Cup Fabiano Caruana and Nodirbek Abdusattorov will meet in the Grand Final. If Abdusattorov wins the match, he will also win the ChessKid Cup as the winner of the Winner's Bracket. If Caruana wins, there will be a second match to decide the winner of the tournament.| Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
+         "pubDate" : "Fri, 26 May 2023 16:45:00 +0100",
+         "title" : "ChessKid Cup Grand Final - Live!"
+      },
+      {
+         "description" : " The first round of the 2023 ACT Championship saw most of the top seeds get through without too much trouble. It wasn't until board 15 that the results started to go against rating. Mark Scully was beaten quite convincingly by Owen MacMullin, while Olaoluwa Fasakin upset fellow junior Larry Cheng. The top 4 boards saw fairly easy wins for the top seeds, although FM Michael Kethro had to overcome determined resistance from Joshua Liang. The tournament saw a larger than usual field of 55 players, which would have been larger (and stronger) if not for a few dop outs due to the flue and similar ailments (NB It was 1 degree above 0 when I left the venue this evening). The new venue (Eastlakes Clu",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-1.html",
+         "pubDate" : "Fri, 26 May 2023 13:49:00 +0000",
+         "title" : "2023 ACT Championship - Day 1"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Fri, 26 May 2023 13:45:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
          "description" : "Fabiano Caruana lost to Nodirbek Abdusattorov in Round 2 of the ChessKid Cup, but now he has a chance for revenge in the Grand Final. On Day 4, Caruana first defeated Jules Moussard in the semi-finals of the Loser's Bracket and then beat Jorden Van Foreest in the final. | Photo: Lennart Ootes (Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesskid-cup-caruana-wins-loser-s-bracket-and-advances-to-grand-final",
          "pubDate" : "Fri, 26 May 2023 13:06:31 +0100",
          "title" : "ChessKid Cup: Caruana wins Loser's Bracket and advances to Grand Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2425",
+         "pubDate" : "Fri, 26 May 2023 11:59:51 +0000",
+         "title" : "Icelandic Championship: Vignir Vatnar Stef&aacute;nsson wins maiden title"
       },
       {
          "description" : "The 6th Sharjah Masters was a top tournament with many young players. Before the final round, eight players shared first place. In the top encounters of the last round, only Arjun Erigaisi managed to win his game and emerged as the tournament winner. | Photos: Tournament page",
@@ -63,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-sharjah-masters-2023",
          "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
-         "title" : "Erigaisi Wins Sharjah Masters, Touted As Strongest International Open In Chess History"
+         "title" : "Arjun Erigaisi Wins Sharjah Masters, Touted Strongest International Open In History"
       },
       {
          "description" : "In round nine of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023,&#38;nbsp;the competitors threw the fate of the tournament into uncertainty. IM Gunay Mammadzada defeated the leader, WGM Dinara Wagner, while GM Bella Khotenashvili scored her first victo...",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-9",
          "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
          "title" : "Anyone's Tournament: Leader And Top Seed Both Fall"
-      },
-      {
-         "description" : "GM Fabiano Caruana eliminated GMs Jules Moussard and Jorden van Foreest on his way to the Champions Chess Tour ChessKid Cup 2023 Grand Final in Division I. Both of his matches made it to armageddon tiebreaks; Caruana first drew with the black pi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-4",
-         "pubDate" : "Thu, 25 May 2023 14:09:00 -0700",
-         "title" : "Fabulous Caruana Wins 2 Armageddons, Will Play Abdusattorov In Grand Final"
       },
       {
          "description" : "We&#39;re thrilled to announce Espot B-Cup 2 Presented by Chess.com! It&#39;s a community and streamer event live from Espot Paris on June 17, 2023, at 6:20 a.m. PT/15:20 CEST. There will be online and on-site tournaments with prize pools, two concurrent ...",
@@ -152,6 +176,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland",
          "pubDate" : "Thu, 25 May 2023 16:29:17 +0000",
          "title" : "'Magnus Kept Scoring at Soccer; He Never Stops!' | D5 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "GM Fabiano Caruana eliminated GMs Jules Moussard and Jorden van Foreest on his way to the Champions Chess Tour ChessKid Cup 2023 Grand Final in Division I. Both of his matches made it to armageddon tiebreaks; Caruana first drew with the black pi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-4",
+         "pubDate" : "Thu, 25 May 2023 08:05:00 -0700",
+         "title" : "Fabulous Caruana Wins 2 Armageddons, Will Play Abdusattorov In Grand Final"
       },
       {
          "description" : "",
@@ -882,14 +914,6 @@ news_feed (
          "title" : "Ohanyan, Dardha Qualify For JSCC Main Event"
       },
       {
-         "description" : "FIDE and the Georgian Chess Federation are organizing a match between top Ukrainian players Mariya and Anna Muzychuk and local stars Nino Batsiashvili and Meri Arabidze. The games will take place at the Hotel Legend in Batumi, Georgia, on June 5-11. Each of the matches will consist of six classical games. | Photos: International Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ukraine-georgia-solidarity-match-2023",
-         "pubDate" : "Sat, 20 May 2023 02:15:00 +0100",
-         "title" : "Ukraine vs Georgia solidarity match in Batumi"
-      },
-      {
          "description" : "Resurging after her round-one disappointment, GM Aleksandra Goryachkina was the only victor of round four at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 on Friday. She scoured the ending with a microscopic edge until she induced mistakes by her ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2405",
          "pubDate" : "Fri, 19 May 2023 14:51:04 +0000",
          "title" : "First Chess for Freedom Conference opens in Chicago"
-      },
-      {
-         "description" : "Gennadi Sosonko was born in and grew up in the Soviet Union, in a golden age of chess. He emigrated in 1972, became a successful player and then an even more successful chess journalist and author. On 18 May he celebrated his 80th birthday. | Photo source: livelib",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-gennadi-sosonko-celebrates-80th-birthday",
-         "pubDate" : "Fri, 19 May 2023 14:05:00 +0100",
-         "title" : "Congratulations! Gennadi Sosonko celebrates his 80th birthday!"
       },
       {
          "description" : " Last week, we started examining a tactic called a skewer. Like a pin, the skewer involves three pieces: The piece doing the skewering, the skewered piece, and the piece behind the skewered piece. As with the pin, skewers take place along the ranks, files, or diagonals. Only the long-distance pieces - the Queen, Rooks, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\">A Foundation for Beginners Ninety Two</a> appeared first on <a rel=\"nofollow\" href",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "ECU E-Magazine April 2023"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2376",
-         "pubDate" : "Mon, 08 May 2023 22:28:07 +0000",
-         "title" : "2023 Superbet Chess Classic: Day 3 Recap"
-      },
-      {
          "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-romania-2023s",
          "pubDate" : "Fri, 5 May 2023 20:41:00 +0400",
          "title" : "Superbet Chess Classic Romania 2023 - Games and Results"
-      },
-      {
-         "description" : " Today I ran my first ever \"Rapid Transit\" event, which basically occurred by accident. For those unfamiliar, 'Rapid Transit' is a form of Blitz chess, where clocks are not used. Instead the referee calls out to the players to move every 10 seconds, which they must do so, or lose on time. It was popular before the widespread of chess clocks, although it was difficult to police, due to dispute about players being slow to move. In my case, it was for a training event where players had to simply check mate with K+RvK. As setting up clocks was taking too long, I simply had the players choose an opponent, and then every 5 seconds I would shout 'MOVE'. The round went on until I decided enough game",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/rapid-transit.html",
-         "pubDate" : "Fri, 05 May 2023 14:34:00 +0000",
-         "title" : "Rapid Transit"
       }
    ]
 }
