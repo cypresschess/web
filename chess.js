@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nodirbek Abdusattorov convincingly won Division I of the Champions Chess Tour ChessKid Cup 2023 on Friday. Going into game four of the Grand Final with Black and an even score, he defeated GM Fabiano Caruana. No tiebreak or second set was neede...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2023-cct-chesskid-cup-ko",
+         "pubDate" : "Fri, 26 May 2023 13:01:00 -0700",
+         "title" : "Youth Prevails At ChessKid Cup; Abdusattorov Wins Division I"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2426",
+         "pubDate" : "Fri, 26 May 2023 19:44:51 +0000",
+         "title" : "The final round will decide the winner of Cyprus Grand Prix and two Women's Candidates"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King looks at a trendy exchange sacrifice in the Schmid Benoni that was featured in two games played at the SuperBet tournament in Warsaw. When Rapport and Duda employ it, you should sit up and take notes! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Women's Grand Prix in Nicosia - Live!"
       },
       {
+         "description" : "The 6th Sharjah Masters was a top tournament with many young players. Before the final round, eight players shared first place. In the top encounters of the last round, only Arjun Erigaisi managed to win his game and emerged as the tournament winner. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-sharjah-masters",
+         "pubDate" : "Fri, 26 May 2023 13:15:00 +0100",
+         "title" : "Arjun Erigaisi wins Sharjah Masters"
+      },
+      {
          "description" : "Fabiano Caruana lost to Nodirbek Abdusattorov in Round 2 of the ChessKid Cup, but now he has a chance for revenge in the Grand Final. On Day 4, Caruana first defeated Jules Moussard in the semi-finals of the Loser's Bracket and then beat Jorden Van Foreest in the final. | Photo: Lennart Ootes (Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2425",
          "pubDate" : "Fri, 26 May 2023 11:59:51 +0000",
          "title" : "Icelandic Championship: Vignir Vatnar Stef&aacute;nsson wins maiden title"
-      },
-      {
-         "description" : "The 6th Sharjah Masters was a top tournament with many young players. Before the final round, eight players shared first place. In the top encounters of the last round, only Arjun Erigaisi managed to win his game and emerged as the tournament winner. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-sharjah-masters",
-         "pubDate" : "Fri, 26 May 2023 12:00:00 +0100",
-         "title" : "Arjun Erigaisi wins Sharjah Masters"
       },
       {
          "description" : "In his Fast & Furious show, Robert Ris takes a look at the Vienna, which Richard Rapport recently tried in two top level games. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -103,7 +119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-sharjah-masters-2023",
          "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
-         "title" : "Arjun Erigaisi Wins Sharjah Masters, Touted Strongest International Open In History"
+         "title" : "Arjun Erigaisi Wins Sharjah Masters Atop All-Grandmaster Field"
       },
       {
          "description" : "In round nine of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023,&#38;nbsp;the competitors threw the fate of the tournament into uncertainty. IM Gunay Mammadzada defeated the leader, WGM Dinara Wagner, while GM Bella Khotenashvili scored her first victo...",
@@ -938,14 +954,6 @@ news_feed (
          "title" : "11th FIDE World Cup in Composing 2023: Unearthing new masterpieces"
       },
       {
-         "description" : "It&#39;s almost time for the ChessKid Cup, which means it&#39;s time for you to win some amazing prizes! Enter our all-new bracket contest for your chance to win up to six months of premium Chess.com or ChessKid memberships!&#38;nbsp; This next stage of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-cup-bracket-contest",
-         "pubDate" : "Fri, 19 May 2023 09:32:00 -0700",
-         "title" : "Announcing The ChessKid Cup Bracket Contest: Your Chance To Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-3-ding-thwarts-nepo-again",
          "pubDate" : "Tue, 09 May 2023 10:28:59 +0000",
          "title" : "Superbet Chess Classic 3: Ding thwarts Nepo again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2377",
-         "pubDate" : "Tue, 09 May 2023 10:26:27 +0000",
-         "title" : "\"Chess in Schools\" seminar held in Doha, Qatar"
       },
       {
          "description" : "ECU E-Magazine April 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Pairs Chess Championship at the European Games 2023 Mitropa Chess Cup 2023 IBCA European Team Chess Championship 2023 Grand Chess Tour Romania 2023 Communique of the second quarterly ECU Board Meeting Upcoming ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-april-2023/\">Read More &#187;</a></span>",
