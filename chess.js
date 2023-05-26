@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana lost to Nodirbek Abdusattorov in Round 2 of the ChessKid Cup, but now he has a chance for revenge in the Grand Final. On Day 4, Caruana first defeated Jules Moussard in the semi-finals of the Loser's Bracket and then beat Jorden Van Foreest in the final. | Photo: Lennart Ootes (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-caruana-wins-loser-s-bracket-and-advances-to-grand-final",
+         "pubDate" : "Fri, 26 May 2023 13:06:31 +0100",
+         "title" : "ChessKid Cup: Caruana wins Loser's Bracket and advances to Grand Final"
+      },
+      {
+         "description" : "The 6th Sharjah Masters was a top tournament with many young players. Before the final round, eight players shared first place. In the top encounters of the last round, only Arjun Erigaisi managed to win his game and emerged as the tournament winner. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-sharjah-masters",
+         "pubDate" : "Fri, 26 May 2023 12:00:00 +0100",
+         "title" : "Arjun Erigaisi wins Sharjah Masters"
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris takes a look at the Vienna, which Richard Rapport recently tried in two top level games. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland",
          "pubDate" : "Thu, 25 May 2023 16:29:17 +0000",
          "title" : "'Magnus Kept Scoring at Soccer; He Never Stops!' | D5 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "The knockout phase of the ChessKid Cup is taking place on May 22-26. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. In the loser's bracket Fabiano Caruana, Jules Moussard and Jorden Van Foreest fight to make it to the Grand Final where they will meet Nodirbek Abdusattorov. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
-         "pubDate" : "Thu, 25 May 2023 16:45:00 +0100",
-         "title" : "ChessKid Cup - Live!"
       },
       {
          "description" : "",
@@ -978,14 +986,6 @@ news_feed (
          "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
       {
-         "description" : "Women's world champion Ju Wenjun scored a second consecutive upset win to go into round 3 of the Sharjah Masters sharing the lead with Praggnanandhaa Rameshbabu (pictured). Ju got the better of third seed Vidit Gujrathi with the black pieces, while Pragg defeated Raunak Sadhwani with white. A total of 25 players stand a half point behind the leading duo, including top seeds Parham Maghsoodloo and Dommaraju Gukesh. | Photos: Tournament&rsquo;s Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r2",
-         "pubDate" : "Fri, 19 May 2023 06:10:00 +0100",
-         "title" : "Sharjah Masters: Ju stuns Vidit, shares lead with Pragg"
-      },
-      {
          "description" : " Dr. Alexey Root has announced the Chessable Research Awards for Fall 2023 and the deadline is July 1st. This initiative is designed to produce research that is beneficial to building the scientific body of literature as far as chess research. Over the years that have been a plethora of chess studies on a variety of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/\">Chessable Research Awards-Fall 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/rapid-transit.html",
          "pubDate" : "Fri, 05 May 2023 14:34:00 +0000",
          "title" : "Rapid Transit"
-      },
-      {
-         "description" : "All India Chess Federation received numerous requests from Indians staying abroad to organize an online Senior National Arbiter Seminar. Considering their requests, it is decided",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-for-indian-diaspora/",
-         "pubDate" : "Fri, 05 May 2023 11:21:13 +0000",
-         "title" : "Online Senior National Arbiter Seminar & Examination for Indian Diaspora"
       }
    ]
 }
