@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dinara Wagner's undefeated run came to an end in the ninth round of the Women's Grand Prix in Nicosia. She lost her game with black against Gunay Mammadzada, but remains atop the standings, as she is now sharing the lead with Harika Dronavalli and Tan Zhongyi. Aleksandra Goryachkina, who is in the race to qualify for the Candidates, lost to Bella Khotenashvili. Josie Christodoulou, the Gender Equality Commissioner in Cyprus, made the ceremonial first move. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r9",
+         "pubDate" : "Fri, 26 May 2023 02:40:00 +0100",
+         "title" : "Nicosia GP: Three co-leaders as Wagner loses to Mammadzada"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2424",
+         "pubDate" : "Fri, 26 May 2023 00:44:47 +0000",
+         "title" : "Magnus Carlsen wins 2023 Superbet Rapid & Blitz Poland"
+      },
+      {
          "description" : "An imposing 7/9 performance on Thursday allowed Magnus Carlsen to clinch first place at the Superbet Rapid & Blitz tournament in Warsaw. Rapid-section winner Jan-Krzysztof Duda put up a great fight, as he went into the final-round confrontation against Carlsen with chances of catching his famed colleague in the standings. A hard-fought 124-move draw sealed Carlsen's victory. Duda came second, while Wesley So and Maxime Vachier-Lagrave shared third place. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Yet another triumph: Carlsen wins Superbet Rapid & Blitz Poland"
       },
       {
-         "description" : "GM Arjun Erigaisi won the Sharjah Masters International Chess Championship 2023 on Thursday after winning his final-round game against GM Nodirbek Yakubboev. Eight players were tied on 5.5/8 heading into the final round and only Erigaisi was abl...",
+         "description" : "GM Arjun Erigaisi won the Sharjah Masters International Chess Championship 2023 on Thursday after winning his final-round game against GM Nodirbek Yakubboev. Eight players were tied on 5.5/8 heading into the final round and only Arjun was able t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-sharjah-masters-2023",
          "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
-         "title" : "Erigaisi Wins Sharjah Masters, Touted As Strongest Invitational Open In Chess History"
+         "title" : "Erigaisi Wins Sharjah Masters, Touted As Strongest International Open In Chess History"
       },
       {
          "description" : "In round nine of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023,&#38;nbsp;the competitors threw the fate of the tournament into uncertainty. IM Gunay Mammadzada defeated the leader, WGM Dinara Wagner, while GM Bella Khotenashvili scored her first victo...",
@@ -26,20 +42,20 @@ news_feed (
          "title" : "Anyone's Tournament: Leader And Top Seed Both Fall"
       },
       {
-         "description" : "We&#39;re thrilled to announce ESpot B-Cup 2 Presented by Chess.com! It&#39;s a community and streamer event live from Espot Paris on June 17, 2023, at 6:20 a.m. PT/15:20 CEST. There will be online and on-site tournaments with prize pools, two concurrent ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-espot-bcup2-presented-by-chesscom",
-         "pubDate" : "Thu, 25 May 2023 14:09:10 -0700",
-         "title" : "Announcing ESpot B-Cup 2 Presented By Chess.com"
-      },
-      {
          "description" : "GM Fabiano Caruana eliminated GMs Jules Moussard and Jorden van Foreest on his way to the Champions Chess Tour ChessKid Cup 2023 Grand Final in Division I. Both of his matches made it to armageddon tiebreaks; Caruana first drew with the black pi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-4",
          "pubDate" : "Thu, 25 May 2023 14:09:00 -0700",
          "title" : "Fabulous Caruana Wins 2 Armageddons, Will Play Abdusattorov In Grand Final"
+      },
+      {
+         "description" : "We&#39;re thrilled to announce Espot B-Cup 2 Presented by Chess.com! It&#39;s a community and streamer event live from Espot Paris on June 17, 2023, at 6:20 a.m. PT/15:20 CEST. There will be online and on-site tournaments with prize pools, two concurrent ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-espot-bcup2-presented-by-chesscom",
+         "pubDate" : "Thu, 25 May 2023 14:09:00 -0700",
+         "title" : "Announcing Espot B-Cup 2 Presented By Chess.com"
       },
       {
          "description" : "",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-5",
-         "pubDate" : "Thu, 25 May 2023 12:44:01 -0700",
+         "pubDate" : "Thu, 25 May 2023 12:44:00 -0700",
          "title" : "Magnus Carlsen Triumphs In Poland After Thrilling Final Round"
       },
       {
@@ -154,20 +170,12 @@ news_feed (
          "title" : "English Championship 2023 - Participants"
       },
       {
-         "description" : "The second event of the 2023 Grand Chess Tour is the Superbet Rapid & Blitz Poland, taking place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Joining five 'full players' from the Tour, five wildcards, including world number one Magnus Carlsen, made their way to the Polish capital. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "description" : "The second event of the 2023 Grand Chess Tour wass the Superbet Rapid & Blitz Poland, which took place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Magnus Carlsen had an excellent run in the blitz section to win the event. Jan-Krzysztof Duda, who put up a great fight, finished in sole second place. | Pictured: Richard Rapport | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-poland-2023-live",
          "pubDate" : "Thu, 25 May 2023 13:45:00 +0100",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Thu, 25 May 2023 13:45:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
+         "title" : "Superbet Rapid & Blitz Poland - Games and results"
       },
       {
          "description" : "After 8 of 9 rounds, no fewer than eight players with 5.5/8 share the lead in the Sharjah Masters. One of them is the young Indian grandmaster Arjun Erigaisi (pictured), who in Round 8 with Black impressively showed why active piece play is often more important than pawn structure and what can happen when the king is stranded in the centre. | Photo: Facebook page of the Sharjah Masters",
@@ -200,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bella-khotenashvili-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
          "pubDate" : "Thu, 25 May 2023 11:30:00 +0000",
          "title" : "Bella Khotenashvili - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2421",
-         "pubDate" : "Thu, 25 May 2023 11:15:44 +0000",
-         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
       },
       {
          "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Harika Dronavalli from round 9 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Oliwia Kiolbasa Bibisara Assaubayeva / Kateryna Lagno Alexandra []",
@@ -282,6 +282,14 @@ news_feed (
          "title" : "Superbet Poland: Carlsen on a rampage, wins five games in a row"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2420",
+         "pubDate" : "Thu, 25 May 2023 01:35:24 +0000",
+         "title" : "Georg Meier wins American Continental Championship 2023"
+      },
+      {
          "description" : "GM Jan-Krzysztof Duda leads the&#38;nbsp;Superbet Poland Rapid &#38;amp; Blitz 2023 heading into the final nine rounds of blitz after a strong showing on the fourth day when he scored 5/9 and moved to 17.5 points. GM Magnus Carlsen is hot on the heels o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -290,20 +298,20 @@ news_feed (
          "title" : "5 Straight Wins By Carlsen Set Up Title Race With Duda"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2421",
+         "pubDate" : "Thu, 25 May 2023 00:15:44 +0000",
+         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
+      },
+      {
          "description" : "GM Nodirbek Abdusattorov is the first grand finalist of the Champions Chess Tour ChessKid Cup 2023 Division I after beating GM Jorden van Foreest in a close fight that nearly made it to armageddon. In the Losers Bracket, GM Fabiano Caruana elimina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-3",
          "pubDate" : "Wed, 24 May 2023 16:01:00 -0700",
          "title" : "Abdusattorov Advances To Grand Final; Caruana, Moussard To Play In Losers SF"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2420",
-         "pubDate" : "Wed, 24 May 2023 22:35:24 +0000",
-         "title" : "Georg Meier wins American Continental Championship 2023"
       },
       {
          "description" : "",
@@ -1552,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2376",
          "pubDate" : "Mon, 08 May 2023 22:28:07 +0000",
          "title" : "2023 Superbet Chess Classic: Day 3 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2375",
-         "pubDate" : "Mon, 08 May 2023 19:23:11 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2023: Registration is open"
       },
       {
          "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
