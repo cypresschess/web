@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show, Robert Ris takes a look at the Vienna, which Richard Rapport recently tried in two top level games. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-vienna-new-ideas-in-an-old-variation",
+         "pubDate" : "Fri, 26 May 2023 08:56:49 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Vienna - new ideas in an old variation"
+      },
+      {
+         "description" : " The world No 1 chose 1 d4 b5 as Black against Radoslaw Wojtaszek and was in trouble by move nine before resigning at move 38, but later won seven games in a row to take first prize in Warsaw Magnus Carlsen lost to a Pole in Poland with the Polish Defence last weekend, as the world No 1 returned to action after a poker break following his abdication of the world title. Carlsen paid the price for a provocative choice of the risky 1 d4 b5 as Black against Radoslaw Wojtaszek. However, the Warsaw Rapid/Blitz took place over five days, and on Thursday Carlsen stormed through the field with seven straight wins to take first prize, surviving a final round 124-move marathon against Poland's No 1, Ja",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/may/26/chess-carlsen-loses-to-a-pole-in-poland-with-polish-defence-before-winning-run",
+         "pubDate" : "Fri, 26 May 2023 07:00:29 +0000",
+         "title" : "Chess: Carlsen loses to a Pole in Poland with Polish Defence before winning run"
+      },
+      {
          "description" : "Dinara Wagner's undefeated run came to an end in the ninth round of the Women's Grand Prix in Nicosia. She lost her game with black against Gunay Mammadzada, but remains atop the standings, as she is now sharing the lead with Harika Dronavalli and Tan Zhongyi. Aleksandra Goryachkina, who is in the race to qualify for the Candidates, lost to Bella Khotenashvili. Josie Christodoulou, the Gender Equality Commissioner in Cyprus, made the ceremonial first move. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -978,14 +994,6 @@ news_feed (
          "title" : "Chessable Research Awards-Fall 2023"
       },
       {
-         "description" : "Kateryna Lagno and Tan Zhongyi are sharing the lead with 2&frac12; points each after three rounds at the Women's Grand Prix in Nicosia, the final stage of the series. The co-leaders kicked off the event with back-to-back wins and then drew their direct encounter on Thursday. Three players stand a half point back: Harika Dronavalli, Polina Shuvalova and Dinara Wagner. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r3",
-         "pubDate" : "Fri, 19 May 2023 00:35:00 +0100",
-         "title" : "Nicosia GP: Tan and Lagno share the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,6 +1080,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2396",
          "pubDate" : "Tue, 16 May 2023 15:45:29 +0000",
          "title" : "Asian Continental Chess Championships 2023: Registration is open"
+      },
+      {
+         "description" : "If last month's 'On the Cover' -- <A HREF=\"https://chessforallages.blogspot.com/2023/04/april-1973-1998-on-cover.html\">April 1973 & 1998 'On the Cover'</A> (April 2023) -- was 'USA all the way', then this month's is 'all the way with USA national champions'. The fellow on the left won the title six times; the little guy on the right five times (and counting?); the first titles for both players were after the respective cover dates. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne16.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Hikaru Nakamura the Youngest Master Ever' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> GM Walter Browne, who",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/may-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 16 May 2023 15:21:00 +0000",
+         "title" : "May 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-for-indian-diaspora/",
          "pubDate" : "Fri, 05 May 2023 11:21:13 +0000",
          "title" : "Online Senior National Arbiter Seminar & Examination for Indian Diaspora"
-      },
-      {
-         "description" : " China's new world champion became the first since 1886 to lead the title match only in the final game, while the Norwegian implied he will play fewer classical tournaments Ding Liren began his reign as the 17th world chess champion by setting a new record for the 49 title matches in the historic competition dating back to 1886. The modest 30-year-old was the first player ever to win the crown leading only in the final game, defeating Ian Nepomniachtchi in their fourth rapid tie-breaker following their 7-7 score in the regular classical series. Ding also did it with a defining move. His 46&hellip;Rg6!, boldly playing for the win by self-pinning his rook, his second most powerful piece, again",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/may/05/chess-ding-sets-world-title-landmark-and-is-ready-to-take-on-carlsen",
-         "pubDate" : "Fri, 05 May 2023 07:00:18 +0000",
-         "title" : "Chess: Ding sets world title landmark and is 'ready to take on Carlsen'"
       }
    ]
 }
