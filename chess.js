@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This week, we will end our examination of the skewer by looking at some basic examples. These examples will help you understand the underlying mechanics of this tactic, as well as when and how to use it correctly. Let's set up the chessboard so we can work through the first example. Place a White Rook <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\">A Foundation for Beginners Ninety Three</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-three/",
+         "pubDate" : "Sat, 27 May 2023 21:50:39 +0000",
+         "title" : "A Foundation for Beginners Ninety Three"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The Gr&uuml;nfeld Defence is an aggressive choice for Black to attack and destroy White's center. Instead of seeing a long positional battle, the game becomes an open battle field. Over <a href=\"https://chessimprover.com/need-sure-points-neo-grunfeld-defence-classical-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Neo-Gr&uuml;nfeld Defence, Classical Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-neo-grunfeld-defence-classi",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-neo-grunfeld-defence-classical-variation-edition/",
+         "pubDate" : "Sat, 27 May 2023 21:48:25 +0000",
+         "title" : "Need sure points? Neo-Gr&uuml;nfeld Defence, Classical Variation Edition"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2428",
+         "pubDate" : "Sat, 27 May 2023 20:36:55 +0000",
+         "title" : "FIDE WGP: WGM Dinara Wagner reigns in Cyprus"
+      },
+      {
          "description" : "Dinara Wagner grabbed a full point in the final round to win the Women's Grand Prix in Nicosia, the last event of the 2-year series. Wagner, the lowest-rated player in the field, played enterprisingly from the get go to beat Bella Khotenashvili with black. Kateryna Lagno and Aleksandra Goryachkina both drew with white to secure spots in the next edition of the Women's Candidates. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Dinara Wagner stuns the field, wins Nicosia Grand Prix"
       },
       {
-         "description" : "This is a flash report. The full report including game annotations, photos, and videos will be added soon. WGM Dinara Wagner secured victory with the black pieces in the fourth leg of the&#38;nbsp;FIDE Women&#39;s Grand Prix 2022-2023 after defeating GM...",
+         "description" : "WGM Dinara Wagner secured victory with the black pieces in the fourth leg of the&#38;nbsp;FIDE Women&#39;s Grand Prix 2022-2023 after defeating GM Bela Khotenashvili and moving to 7/11. After Wagner suffered a loss in round nine that allowed GMs Harika Dr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-11-dinara-wagner",
-         "pubDate" : "Sat, 27 May 2023 08:23:49 -0700",
-         "title" : "Wagner Wins Nicosia Grand Prix; Lagno, Goryachkina Claim Candidates Spots (Flash Report)"
+         "pubDate" : "Sat, 27 May 2023 08:23:00 -0700",
+         "title" : "Wagner Wins Nicosia Grand Prix; Lagno, Goryachkina Claim Candidates Spots"
       },
       {
          "description" : "",
@@ -1536,14 +1560,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-26-29th-may.html",
          "pubDate" : "Wed, 10 May 2023 13:16:00 +0000",
          "title" : "2023 ACT Chess Championship 26-29th May"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2379",
-         "pubDate" : "Wed, 10 May 2023 12:15:16 +0000",
-         "title" : "2023 FIDE World Youth Championships U14, U16, U18: Registration is open"
       },
       {
          "description" : "Fabiano Caruana won his first ever classical game against Ian Nepomniachtchi to take the sole lead after Round 4 of the Superbet Chess Classic in Bucharest. Fabiano described it as \"really satisfying\" to outplay his opponent from a position where a draw looked inevitable. The day's other winner was Alireza Firouzja, who scored his first classical win in 8 months after bamboozling Bogdan-Daniel Deac in a complicated clash.",
