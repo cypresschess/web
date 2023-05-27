@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today the point is only shared. In the diagram position White managed to save himself, playing a series of (splendid!) only moves. Can you find them all?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kamikaze-bishops",
+         "pubDate" : "Sat, 27 May 2023 09:00:00 +0100",
+         "title" : "Kamikaze bishops"
+      },
+      {
+         "description" : "Norway Chess 2023 begins in Stavanger on Whit Monday (29 May), with Magnus Carlsen having warmed up in Warsaw, but now facing strong, young and hungry opponents in his homeland, including Firouzja, Abdusattorov and Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2023-carlsen-vs-die-jungen-wilden",
+         "pubDate" : "Sat, 27 May 2023 08:50:21 +0100",
+         "title" : "Norway Chess 2023: Carlsen vs the Young Wild Ones"
+      },
+      {
+         "description" : "The Limburg Open is taking place from 26-29 May, 2023 in Maastricht. This is one of the strongest open tournaments in the Netherlands. Players receive 120 minutes for the entire game, plus a 15-second increment starting from move one.&#xA0;It is a 7-round Swiss system tournament with participation of Daniel Dardha, Frederik Svane, Maxime ,Lagarde, Sergey []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/limburg-open-2023-live/",
+         "pubDate" : "Sat, 27 May 2023 04:58:00 +0000",
+         "title" : "Limburg Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Limburg Open takes place from 26-29 May, 2023 in Maastricht. The 7-round Swiss is one of the strongest open tournaments in the Netherlands. Players receive 120 minutes for the entire game, plus a 15-second increment starting from move one.&#xA0;Chessdom.com will follow daily the live games . Parallel :&#xA0;Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; LIVE&#xA0;/&#xA0;ChessKid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/limburg-open-2023-participants/",
+         "pubDate" : "Sat, 27 May 2023 03:58:41 +0000",
+         "title" : "Limburg Open 2023 - Participants"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Kateryna Lagno Bibisara Assaubayeva from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 27 May 2023 03:36:11 +0000",
+         "title" : "Kateryna Lagno - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Oliwia Kiolbasa from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polina-shuvalova-oliwia-kiolbasa-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 27 May 2023 03:15:00 +0000",
+         "title" : "Polina Shuvalova - Oliwia Kiolbasa, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "The English Championship 2023 is taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Michael Adams, Ameet K Ghasi, Mark L Hebden, Matthew J Wadsworth, Richard G Pert, Marcus R []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,12 +58,44 @@ news_feed (
          "title" : "English Championship 2023 - LIVE"
       },
       {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Alexandra Kosteniuk from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gunay-mammadzada-alexandra-kosteniuk-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 27 May 2023 03:00:00 +0000",
+         "title" : "Gunay Mammadzada - Alexandra Kosteniuk, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Nana Dzagnidze from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhongyi-tan-nana-dzagnidze-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 27 May 2023 02:45:00 +0000",
+         "title" : "Zhongyi Tan - Nana Dzagnidze, Nicosia FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bella Khotenashvili Dinara Wagner from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bella-khotenashvili-dinara-wagner-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 27 May 2023 02:15:00 +0000",
+         "title" : "Bella Khotenashvili - Dinara Wagner, Nicosia FIDE Women's Grand Prix"
+      },
+      {
          "description" : "The English Women's Championship 2023 is taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Katarzyna Toma, Nina Pert, Zoe Varney, Kamila Hryshchenko, Audrey Kueh, Anusha Subramanian, Anum Sheikh, Abigail []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/english-womens-championship-2023-live/",
          "pubDate" : "Sat, 27 May 2023 02:05:00 +0000",
          "title" : "English Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Aleksandra Goryachkina Harika Dronavalli from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-harika-dronavalli-nicosia-fide-womens-grand-prix/",
+         "pubDate" : "Sat, 27 May 2023 02:00:00 +0000",
+         "title" : "Aleksandra Goryachkina - Harika Dronavalli, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
@@ -114,54 +194,6 @@ news_feed (
          "title" : "Chess: Carlsen loses to a Pole in Poland with Polish Defence before winning run"
       },
       {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Oliwia Kiolbasa Kateryna Lagno from round 10 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva leksandra Goryachkina / Harika Dronavalli Bella []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-kateryna-lagno-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 26 May 2023 05:00:00 +0000",
-         "title" : "Oliwia Kiolbasa - Kateryna Lagno, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Alexandra Kosteniuk Polina Shuvalova from round 10 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva leksandra Goryachkina / Harika Dronavalli Bella []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-polina-shuvalova-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 26 May 2023 04:30:00 +0000",
-         "title" : "Alexandra Kosteniuk - Polina Shuvalova, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Nana Dzagnidze Gunay Mammadzada from round 10 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva leksandra Goryachkina / Harika Dronavalli Bella []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nana-dzagnidze-gunay-mammadzada-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 26 May 2023 04:00:00 +0000",
-         "title" : "Nana Dzagnidze - Gunay Mammadzada, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Dinara Wagner -Zhongyi Tan from round 10 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva leksandra Goryachkina / Harika Dronavalli Bella Khotenashvili []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dinara-wagner-zhongyi-tan-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 26 May 2023 03:45:00 +0000",
-         "title" : "Dinara Wagner -Zhongyi Tan, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Harika Dronavalli Bella Khotenashvili from round 10 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva leksandra Goryachkina / Harika Dronavalli Bella []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/harika-dronavalli-bella-khotenashvili-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 26 May 2023 03:30:00 +0000",
-         "title" : "Harika Dronavalli - Bella Khotenashvili, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bibisara Assaubayeva Aleksandra Goryachkina from round 10 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Bibisara Assaubayeva leksandra Goryachkina / Harika Dronavalli Bella []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bibisara-assaubayeva-aleksandra-goryachkina-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Fri, 26 May 2023 03:11:00 +0000",
-         "title" : "Bibisara Assaubayeva - Aleksandra Goryachkina, Nicosia FIDE Women's Grand Prix"
-      },
-      {
          "description" : "Dinara Wagner's undefeated run came to an end in the ninth round of the Women's Grand Prix in Nicosia. She lost her game with black against Gunay Mammadzada, but remains atop the standings, as she is now sharing the lead with Harika Dronavalli and Tan Zhongyi. Aleksandra Goryachkina, who is in the race to qualify for the Candidates, lost to Bella Khotenashvili. Josie Christodoulou, the Gender Equality Commissioner in Cyprus, made the ceremonial first move. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,14 +290,6 @@ news_feed (
          "title" : "1st National Schools Team Under-12 & Under-18 Chess Championships-2023"
       },
       {
-         "description" : "The English Women's Championship 2023 is a 7-round Swiss tournament taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the&#xA0;live games. More :&#xA0;English Championship 2023Parallel :&#xA0;Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; LIVE&#xA0;/&#xA0;ChessKid Cup Div 1 Losers&#xA0;/&#xA0;ChessKid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-womens-championship-2023-participants/",
-         "pubDate" : "Thu, 25 May 2023 17:19:55 +0000",
-         "title" : "English Women's Championship 2023 - Participants"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich and Cristian Chirila recap the \"Grandmasters vs. Organizers\" football match after the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. This aired on Day 5. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/3-for-win.html",
          "pubDate" : "Thu, 25 May 2023 13:48:00 +0000",
          "title" : "+3 for the win?"
-      },
-      {
-         "description" : "The English Championship 2023 is a 7-round Swiss tournament taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will follow daily the&#xA0;live games. More :&#xA0;English Women's Championship 2023Parallel :&#xA0;Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; LIVE&#xA0;/&#xA0;ChessKid Cup Div 1 Losers&#xA0;/&#xA0;ChessKid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-championship-2023-participants/",
-         "pubDate" : "Thu, 25 May 2023 13:06:16 +0000",
-         "title" : "English Championship 2023 - Participants"
       },
       {
          "description" : "The second event of the 2023 Grand Chess Tour wass the Superbet Rapid & Blitz Poland, which took place on May 21-25 at the Museum of the History of Polish Jews in Warsaw. Magnus Carlsen had an excellent run in the blitz section to win the event. Jan-Krzysztof Duda, who put up a great fight, finished in sole second place. | Pictured: Richard Rapport | Photo: Lennart Ootes",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "FIDE WGP Nicosia: Harika scores her second win and joins the lead "
       },
       {
-         "description" : "Chess composition dates back to the first Arabic manuscripts on chess. Throughout history, the theory of composition has kept defining and collecting the patterns of chess beauty. Over the last decades, the FIDE World Cup in Composing has been one of the most important events to inspire new masterpieces, and this year's edition is no exception. In the next several weeks, until mid-June, chess composers worldwide will prepare and polish their creations for the 11th FIDE World Cup in Composing 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-cup-in-composing-2023-masterpieces",
-         "pubDate" : "Sat, 20 May 2023 20:30:00 +0100",
-         "title" : "11th FIDE World Cup in Composing 2023: Unearthing new masterpieces"
-      },
-      {
          "description" : " Since starting my blog in 2021, I've answered hundreds of questions from readers. Most of my answers begin with &#8220;It depends.&#8221; This isn't a cop-out, but rather what I genuinely believe. It's incredibly challenging to provide clear-cut advice without knowing the answer to one of the most crucial questions: What Are You Optimizing For? Depending [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/optimizing-for-what/\">Finding Your Chess North Star: What Are You Optimizing For?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/tournament-technical-support.html",
          "pubDate" : "Sat, 20 May 2023 10:38:00 +0000",
          "title" : "Tournament Technical Support"
-      },
-      {
-         "description" : "Weak dark squares in front of the black king, coffin nail pawn f6, White to move and wins. A Gligoric classic - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/victory-loves-preparation",
-         "pubDate" : "Sat, 20 May 2023 09:00:00 +0100",
-         "title" : "Victory loves preparation"
       },
       {
          "description" : "IM Emin Ohanyan and GM Daniel Dardha qualified for the Junior Speed Chess Championship 2023 Main Event on Friday after winning the Qualifier 2 Winners and Losers Brackets respectively. Ohanyan, who finished third in the Qualifier 2 Swiss, swept ...",
