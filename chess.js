@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Sat, 27 May 2023 11:55:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Live!"
+      },
+      {
+         "description" : "The European Brain Council at its Brain Awareness Week (held March 13-19, 2023) recognized ill-health of the brain as \"a global health emergency\". Chess players are, to some extent, exempt from this dire warning of planetary mental degeneration. Indeed, especially Nigel Short, Britain's chess superstar. Nigel listed attentively to Professor Michael Crawford's opening address about Brain Nutrition, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-brain-under-siege/",
+         "pubDate" : "Sat, 27 May 2023 09:36:30 +0000",
+         "title" : "The brain under siege"
+      },
+      {
          "description" : "Today the point is only shared. In the diagram position White managed to save himself, playing a series of (splendid!) only moves. Can you find them all?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-1.html",
          "pubDate" : "Fri, 26 May 2023 13:49:00 +0000",
          "title" : "2023 ACT Championship - Day 1"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Fri, 26 May 2023 13:45:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
       },
       {
          "description" : "The 6th Sharjah Masters was a top tournament with many young players. Before the final round, eight players shared first place. In the top encounters of the last round, only Arjun Erigaisi managed to win his game and emerged as the tournament winner. | Photos: Tournament page",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://www.thearticle.com/coronation-chess-charles-iii-edward-i-and-alfonso-the-wise/",
          "pubDate" : "Sat, 06 May 2023 11:46:29 +0000",
          "title" : "Coronation chess: Charles III, Edward I and Alfonso the Wise"
-      },
-      {
-         "description" : "Less than a week after Ding Liren became the 17th World Champion he's back in action today in Bucharest, Romania as he takes on Maxime Vachier-Lagrave in the first round of the Superbet Chess Classic. It's not just Ding making the trip from Astana, as Ian Nepomniachtchi faces Ding's second Richard Rapport. The line-up features 2022 Grand Chess Tour champion Alireza Firouzja as well as Fabiano Caruana, Anish Giri, Wesley So, Jan-Krzysztof Duda and local wildcard Bogdan-Daniel Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-and-nepomniachtchi-back-in-action",
-         "pubDate" : "Sat, 06 May 2023 07:41:17 +0000",
-         "title" : "Ding Liren and Nepomniachtchi back in action"
       }
    ]
 }
