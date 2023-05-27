@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dinara Wagner grabbed a full point in the final round to win the Women's Grand Prix in Nicosia, the last event of the 2-year series. Wagner, the lowest-rated player in the field, played enterprisingly from the get go to beat Bella Khotenashvili with black. Kateryna Lagno and Aleksandra Goryachkina both drew with white to secure spots in the next edition of the Women's Candidates. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r11",
+         "pubDate" : "Sat, 27 May 2023 20:40:00 +0100",
+         "title" : "Dinara Wagner stuns the field, wins Nicosia Grand Prix"
+      },
+      {
          "description" : "This is a flash report. The full report including game annotations, photos, and videos will be added soon. WGM Dinara Wagner secured victory with the black pieces in the fourth leg of the&#38;nbsp;FIDE Women&#39;s Grand Prix 2022-2023 after defeating GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "2023 ACT Championship - Day 2"
       },
       {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Sat, 27 May 2023 11:55:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Live!"
-      },
-      {
          "description" : "The European Brain Council at its Brain Awareness Week (held March 13-19, 2023) recognized ill-health of the brain as \"a global health emergency\". Chess players are, to some extent, exempt from this dire warning of planetary mental degeneration. Indeed, especially Nigel Short, Britain's chess superstar. Nigel listed attentively to Professor Michael Crawford's opening address about Brain Nutrition, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -72,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2023-carlsen-vs-die-jungen-wilden",
          "pubDate" : "Sat, 27 May 2023 08:50:21 +0100",
          "title" : "Norway Chess 2023: Carlsen vs the Young Wild Ones"
+      },
+      {
+         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series took place on May 16-27 in Nicosia, Cyprus. Dinara Wagner, the lowest-rated player in the field, won the event with a remarkable 7/11 score. The two best players in the overall standings of the series, Kateryna Lagno and Aleksandra Goryachkina, qualified to the Candidates Tournament. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
+         "pubDate" : "Sat, 27 May 2023 08:45:00 +0100",
+         "title" : "Women's Grand Prix in Nicosia - Games and results"
       },
       {
          "description" : "The Limburg Open is taking place from 26-29 May, 2023 in Maastricht. This is one of the strongest open tournaments in the Netherlands. Players receive 120 minutes for the entire game, plus a 15-second increment starting from move one.&#xA0;It is a 7-round Swiss system tournament with participation of Daniel Dardha, Frederik Svane, Maxime ,Lagarde, Sergey []",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-endings/",
          "pubDate" : "Sun, 21 May 2023 10:28:58 +0000",
          "title" : "Chess Heroes: Endings"
-      },
-      {
-         "description" : "Three players are sharing the lead after five rounds at the Women's Grand Prix in Nicosia. Joining Kateryna Lagno and Tan Zhongyi, who became the early leaders after winning in the first two rounds, is Harika Dronavalli, who beat an out-of-form Oliwia Kiolbasa in Saturday's fifth round. Three players make up the chasing pack a half point behind: Aleksandra Goryachkina, Polina Shuvalova and Dinara Wagner. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r5",
-         "pubDate" : "Sun, 21 May 2023 10:30:00 +0100",
-         "title" : "Nicosia GP: Harika beats Kiolbasa to join the lead"
       },
       {
          "description" : "GM Harika Dronavalli was the sole winner on Saturday in the fifth round of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023, defeating IM Oliwia Kiolbasa with Black in 45 moves. Harika&#39;s victory was comprehensive and it allowed her to join GM Kateryn...",
