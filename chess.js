@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. The full report including game annotations, photos, and videos will be added soon. WGM Dinara Wagner secured victory with the black pieces in the fourth leg of the&#38;nbsp;FIDE Women&#39;s Grand Prix 2022-2023 after defeating GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-11-dinara-wagner",
+         "pubDate" : "Sat, 27 May 2023 08:23:49 -0700",
+         "title" : "Wagner Wins Nicosia Grand Prix; Lagno, Goryachkina Claim Candidates Spots (Flash Report)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2427",
+         "pubDate" : "Sat, 27 May 2023 13:32:21 +0000",
+         "title" : "Igor Zaitsev celebrates his 85th birthday"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov beat Fabiano Caruana 2&frac12;-1&frac12; to win the ChessKid Cup, the third event of the 2023 Champions Chess Tour. It was a hard-fought Grand Final match, which saw Abdusattorov beating Caruana for a second time in the tournament. With this victory, the Uzbek ace gained a spot in the Tour Playoffs which will take place in December. Magnus Carlsen and Hikaru Nakamura are already qualified to the series' final event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-final-report",
+         "pubDate" : "Sat, 27 May 2023 13:10:00 +0100",
+         "title" : "Abdusattorov convincingly wins ChessKid Cup"
+      },
+      {
+         "description" : " Are you new to chess and struggling with how to set up a chessboard? Then this guide is perfect for you. In a matter of less than 5 Minutes, you will be able to set up the chessboard correctly every single time. I can't even count the number of times I set up a chess [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/setting-up-your-chess-board/\">Setting Up Your Chess Board: A Step-by-Step Guide for Beginners</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/setting-up-your-chess-board/",
+         "pubDate" : "Sat, 27 May 2023 12:00:00 +0000",
+         "title" : "Setting Up Your Chess Board: A Step-by-Step Guide for Beginners"
+      },
+      {
+         "description" : " The leading group in the 2023 ACT Championship has been whittled down to 4 players, after rounds 2 and 3 today. Top seed IM Junta Ikeda had a quick win over Tim Pearce in the morning round, before winning a tougher fight against Malik Amer in the third round. FM Michael Kethro also had to work hard on round 3, outplaying Oladoyin Fasakin in a Knight v Bishop ending. Harry Press scored two attacking victories to also move to 3 points, while Daniel Lee beat Harry Johnson to become the final member of the 100% group. Tomorrows round 4 sees Press v Ikeda on the top board, with Kethro v Lee on board 2. CM Hui Li is on board 3, having played a long and ultimately drawn game against Terrence Tang.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-2.html",
+         "pubDate" : "Sat, 27 May 2023 11:36:00 +0000",
+         "title" : "2023 ACT Championship - Day 2"
+      },
+      {
          "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series is taking place on May 16-27 in Nicosia, Cyprus. The two best players in the final overall standings of the series will qualify for the Candidates Tournament. The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live, with commentary by GM Alik Gershon and WGM Keti Tsatsalashvili. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -898,14 +938,6 @@ news_feed (
          "title" : "Nicosia GP: Harika beats Kiolbasa to join the lead"
       },
       {
-         "description" : "Four rounds into the strong Sharjah Masters, eight players are sharing the lead with 3 points each. Among them are Ju Wenjun and Praggnanandhaa Rameshbabu, the only two players who kicked off the tournament with back-to-back wins. Aryan Chopra is also among the co-leaders - the 21-year-old, ranked 35th in Sharjah, beat his higher-rated compatriot Arjun Erigaisi in round 4. | Pictured: Co-leaders Praggnanandhaa and Nihal Sarin drew their round-4 encounter | Photos: Tournament&rsquo;s Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r4",
-         "pubDate" : "Sun, 21 May 2023 02:15:00 +0100",
-         "title" : "Sharjah Masters: Eight co-leaders, Aryan upsets Arjun"
-      },
-      {
          "description" : "GM Harika Dronavalli was the sole winner on Saturday in the fifth round of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023, defeating IM Oliwia Kiolbasa with Black in 45 moves. Harika&#39;s victory was comprehensive and it allowed her to join GM Kateryn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -936,14 +968,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/tournament-technical-support.html",
          "pubDate" : "Sat, 20 May 2023 10:38:00 +0000",
          "title" : "Tournament Technical Support"
-      },
-      {
-         "description" : "IM Emin Ohanyan and GM Daniel Dardha qualified for the Junior Speed Chess Championship 2023 Main Event on Friday after winning the Qualifier 2 Winners and Losers Brackets respectively. Ohanyan, who finished third in the Qualifier 2 Swiss, swept ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-junior-speed-chess-championship-qualifier-2",
-         "pubDate" : "Fri, 19 May 2023 18:25:01 -0700",
-         "title" : "Ohanyan, Dardha Qualify For JSCC Main Event"
       },
       {
          "description" : "",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "NEW - World Rapid Team Championship"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2378",
-         "pubDate" : "Tue, 09 May 2023 22:28:41 +0000",
-         "title" : "2023 Superbet Chess Classic: Day 4 Recap"
-      },
-      {
          "description" : " \"The only thing better than winning at chess is making your opponent think they're winning, and then checkmating them.\" The above quote brought to mind the back-rank checkmate. I have seen it happen time and again in OTB chess at all levels. The definition of it in Wikipedia is misleading in my opinion: &#8220;Back-rank mates <a href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Weekly Tactics: Back-Rank Checkmate\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\">Weekly Tactics: Back-Rank Checkmate</a> appeared first on <a rel=\"nofollow\" href=\"http",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1648,30 +1664,6 @@ news_feed (
          "link" : "https://aicf.in/asian-continental-open-and-womens-chess-championships-almaty-kazakhstan3rd-to-12th-june-2023/",
          "pubDate" : "Sun, 07 May 2023 08:42:30 +0000",
          "title" : "Asian Continental (Open and Women's) Chess Championships Almaty (Kazakhstan)3rd to 12th June, 2023"
-      },
-      {
-         "description" : " \"Can you kill the king?\" is a question I often get asked at school competitions. I give a firm no, followed by a somewhat longer explanation involving the practice of holding kings for ransom in medieval times. But for today, and today only, I was tempted to suspend this rule for Street Chess. What stopped me wasn't the fear of being hauled off to Belmarsh, but the fact that it was a FIDE rated event, and to be valid, the FIDE rules needed to be followed correctly. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/regicide.html",
-         "pubDate" : "Sat, 06 May 2023 13:34:00 +0000",
-         "title" : "Regicide"
-      },
-      {
-         "description" : " The Step Chess Method is one of the most famous step-by-step methods for teaching and learning chess. In this article, I will explain what the Step Method is, tell you if it is worth it, and how you can get the most out of it. From Beginner To GM Thanks To Chess Step Method The [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/steps-method-explained/\">The Chess Step Method Explained</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/steps-method-explained/",
-         "pubDate" : "Sat, 06 May 2023 12:00:00 +0000",
-         "title" : "The Chess Step Method Explained"
-      },
-      {
-         "description" : "I can find no record of King Charles III playing chess, though there is evidence that his antecedent and namesake, King Charles I, owned an amber chess board. There is, however, a chess connection with our new monarch, crowned today in Westminster Abbey. It is, though, of a more personal nature. Not only did I cross []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/coronation-chess-charles-iii-edward-i-and-alfonso-the-wise/",
-         "pubDate" : "Sat, 06 May 2023 11:46:29 +0000",
-         "title" : "Coronation chess: Charles III, Edward I and Alfonso the Wise"
       }
    ]
 }
