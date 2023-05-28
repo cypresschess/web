@@ -1664,22 +1664,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-nepo-and-rapport-strike",
          "pubDate" : "Mon, 08 May 2023 07:43:43 +0000",
          "title" : "Superbet Chess Classic 2: Nepo and Rapport strike"
-      },
-      {
-         "description" : " I wonder what you're scared of. Ghosts or monsters? Zombies or vampires? You know what I'm scared of? Queen endings! All those checks! How am I supposed to calculate them all? I have to calculate all possible pawn endings as well. I also have to be careful not to move my king into a mating <a href=\"https://chessimprover.com/scary-movies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Scary Mov(i)es\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/scary-movies/\">Scary Mov(i)es</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/scary-movies/",
-         "pubDate" : "Sun, 07 May 2023 18:36:56 +0000",
-         "title" : "Scary Mov(i)es"
-      },
-      {
-         "description" : " This was going to be another in our series \"A Foundation for Beginners\". However, I had a meeting with a student that brought up a very important consideration I want to share with you. It's something I believe so important that I should interject it into my stream of teaching articles. Let me explain: I <a href=\"https://chessimprover.com/a-quick-public-service-message/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Quick Public Service Message\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-quick-public-service-message/\">A Quick Public Service Message</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-quick-public-service-message/",
-         "pubDate" : "Sun, 07 May 2023 18:27:15 +0000",
-         "title" : "A Quick Public Service Message"
       }
    ]
 }
