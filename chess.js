@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an exclusive interview for ChessBase, American Fide Master Alice Lee talks to chess journalist Tatiana Flores about her ambitions in chess as well as in her private life, gives some insights into her training routine and answers the big questions about her future in chess. | Photo: Alice Lee, ready for the start of the 4th day of the American Women's Cup 2023. | Photo: St. Louis Chess Club, courtesy of Alice Lee.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-rising-chess-star-an-interview-with-alice-lee",
+         "pubDate" : "Sun, 28 May 2023 11:00:00 +0100",
+         "title" : "A Rising Chess Star: An interview with Alice Lee"
+      },
+      {
          "description" : " This week, we will end our examination of the skewer by looking at some basic examples. These examples will help you understand the underlying mechanics of this tactic, as well as when and how to use it correctly. Let's set up the chessboard so we can work through the first example. Place a White Rook <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\">A Foundation for Beginners Ninety Three</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -938,20 +946,20 @@ news_feed (
          "title" : "Experiment: Chess Camp in a mall"
       },
       {
+         "description" : "The last time we saw the Lewis chess pieces on this blog was a post titled, <A HREF=\"https://chessforallages.blogspot.com/2022/02/from-norway-to-british-museum.html\">From Norway to the British Museum</A> (February 2022). It started, 'The Lewis chess pieces are a recurring theme on this blog'. The embedded video on that post has disappeared ('This video is private'), but there are links to other posts about the Lewis pieces, the oldest from 2008. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne21.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/gwallter/52887081931/\">Waterford</A> &#169; Flickr user <I>Andrew Green</I> under <A HREF=\"https://creativecommo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/the-lewis-pieces-at-church.html",
+         "pubDate" : "Sun, 21 May 2023 15:11:00 +0000",
+         "title" : "The Lewis Pieces at Church"
+      },
+      {
          "description" : "As Ukraine gears up for its long-awaited counter-offensive against Putin's illegal invasion, and in the light of President Zelensky's visits to Rishi Sunak and other world leaders, my thoughts have turned to that crucial moment when the Soviet chess imperium began to display cracks. I remind readers that FIDÉ, the governing body of world chess, still []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/russia-the-turning-of-the-tide/",
          "pubDate" : "Sun, 21 May 2023 14:24:18 +0000",
          "title" : "Russia: the turning of the tide"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 126th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\", and continues to look at the legacy of Paul Morphy. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-126-chess-history-in-a-nutshell-8",
-         "pubDate" : "Sun, 21 May 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 126: Chess history in a nutshell (8)"
       },
       {
          "description" : " In earlier articles I've discussed other volumes in my Chess Heroes series designed to take students from round about 500 to 1500 strength. My opinion is that, while there are many books which teach you how the pieces move, and many more books written for proficient players, there's very little on the market which will <a href=\"https://chessimprover.com/chess-heroes-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-endings/\">Chess Heroes: Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-classic-1-so-gets-firouzja-revenge",
          "pubDate" : "Sun, 07 May 2023 11:31:36 +0000",
          "title" : "Superbet Chess Classic 1: So gets Firouzja revenge"
-      },
-      {
-         "description" : "Holiday in Express Hotel (&#8220;1.3 km 13 min by walk&#8221;) Double Tree by Hilton Hotel (&#8220;600 m 6 min by walk&#8221;) The above amount includes",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-continental-open-and-womens-chess-championships-almaty-kazakhstan3rd-to-12th-june-2023/",
-         "pubDate" : "Sun, 07 May 2023 08:42:30 +0000",
-         "title" : "Asian Continental (Open and Women's) Chess Championships Almaty (Kazakhstan)3rd to 12th June, 2023"
       }
    ]
 }
