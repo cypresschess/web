@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 127th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-127-chess-history-in-a-nutshell-9",
+         "pubDate" : "Sun, 28 May 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 127: Chess history in a nutshell (9)"
+      },
+      {
+         "description" : " IM Junta Ikeda is closing in on his 10th ACT Chess Championship, after winning two important games today. In round 4 he defeated Harry Press after Press sacrificed an exchange for insufficient compensation, and then defeated 2nd seed FM Michal Kethro in round 5. With 2 rounds to play Ikeda is on 5/5 and leads by half a point over CM Hui Li, and visiting player Terrence Tang. Li is paired against Ikeda in round 6, and looks to be in form, having defeated Press in round 5. Tang and Kethro play on board 2, with kethro hoping that Li can open up the event with a result against Ikeda. Malik Amer, Daniel Lee and Michael Rolph are also on 4 points, and remain in contention for the prizes. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-3.html",
+         "pubDate" : "Sun, 28 May 2023 12:39:00 +0000",
+         "title" : "2023 ACT Championship - Day 3"
+      },
+      {
          "description" : "In an exclusive interview for ChessBase, American Fide Master Alice Lee talks to chess journalist Tatiana Flores about her ambitions in chess as well as in her private life, gives some insights into her training routine and answers the big questions about her future in chess. | Photo: Alice Lee, ready for the start of the 4th day of the American Women's Cup 2023. | Photo: St. Louis Chess Club, courtesy of Alice Lee.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-rising-chess-star-an-interview-with-alice-lee",
          "pubDate" : "Sun, 28 May 2023 11:00:00 +0100",
          "title" : "A Rising Chess Star: An interview with Alice Lee"
+      },
+      {
+         "description" : " The ChessKid Cup took place Mon 22nd to Fri 26th May 2023 on Chess.com. The latest event in the Champions Chess Tour was won by Nodirbek Abdusattorov who beat Jorden Van Foreest and Fabiano Caruana in the two finals. Vladimir Fedoseev qualified for Division 1 next time beating Shakhriyar Mamedyarov in the Division 2 Grand final (and Ngoc Truong Son Nguyen in the first final) and Alan Pichot beat Pentala Harikrishna twice to win Division 3.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chesskid-cup-2023",
+         "pubDate" : "Sun, 28 May 2023 12:35:00 +0400",
+         "title" : "ChessKid Cup 2023 - Games and Results"
       },
       {
          "description" : " This week, we will end our examination of the skewer by looking at some basic examples. These examples will help you understand the underlying mechanics of this tactic, as well as when and how to use it correctly. Let's set up the chessboard so we can work through the first example. Place a White Rook <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\">A Foundation for Beginners Ninety Three</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
@@ -938,14 +962,6 @@ news_feed (
          "title" : "The peasants' revolt"
       },
       {
-         "description" : "Our Summer Camp has completed five days, with many hundreds of new players being trained. The camp is being held at the Phoenix Marketcity Mall in Mumbai and is open to all. There are no charges and people can learn chess in a fun and engaging way, at their own pace. Trainers and volunteers help to educate the public and guide them in the right direction. Is this a model that can be emulated in countries all over the world? Full video impressions at the end of the article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/experiment-chess-camp-in-a-mall",
-         "pubDate" : "Sun, 21 May 2023 18:00:00 +0100",
-         "title" : "Experiment: Chess Camp in a mall"
-      },
-      {
          "description" : "The last time we saw the Lewis chess pieces on this blog was a post titled, <A HREF=\"https://chessforallages.blogspot.com/2022/02/from-norway-to-british-museum.html\">From Norway to the British Museum</A> (February 2022). It started, 'The Lewis chess pieces are a recurring theme on this blog'. The embedded video on that post has disappeared ('This video is private'), but there are links to other posts about the Lewis pieces, the oldest from 2008. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne21.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/gwallter/52887081931/\">Waterford</A> &#169; Flickr user <I>Andrew Green</I> under <A HREF=\"https://creativecommo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1664,22 +1680,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-quick-public-service-message/",
          "pubDate" : "Sun, 07 May 2023 18:27:15 +0000",
          "title" : "A Quick Public Service Message"
-      },
-      {
-         "description" : "As far as I can tell, the last time we saw a comic book on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), was <A HREF=\"https://chessforallages.blogspot.com/2020/08/strange-adventures-on-ebay.html\">Strange Adventures on eBay</A> (August 2020). I recorded the vital statistics for that item, noting, <BLOCKQUOTE> The item pictured below was titled 'Strange Adventures #35 CGC 8.5 OW-W DC-1953 Chess Cover'. It sold for US $643.93 after 26 bids from 12 bidders. </BLOCKQUOTE> <P> The vital statistics for the item pictured on this post below were not so clear. The title, 'Eerie Adventures #1 Ziff Davis Comics 1",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/eerie-tops-strange.html",
-         "pubDate" : "Sun, 07 May 2023 15:14:00 +0000",
-         "title" : "Eerie Tops Strange"
-      },
-      {
-         "description" : "Wesley So talked of \"revenge\" as he beat Alireza Firouzja with the black pieces to score the only win on Day 1 of the Superbet Chess Classic, the first event on the 2023 Grand Chess Tour. Ding Liren was ultimately happy to open with a solid draw against Maxime Vachier-Lagrave, while the world champion's second Richard Rapport felt Ian Nepomniachtchi was vulnerable in the French Defence, though he couldn't prove it.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-classic-1-so-gets-firouzja-revenge",
-         "pubDate" : "Sun, 07 May 2023 11:31:36 +0000",
-         "title" : "Superbet Chess Classic 1: So gets Firouzja revenge"
       }
    ]
 }
