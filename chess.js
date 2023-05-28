@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-2023/",
+         "pubDate" : "Sun, 28 May 2023 21:44:59 +0000",
+         "title" : "Norway Chess 2023"
+      },
+      {
+         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-blitz-2023/",
+         "pubDate" : "Sun, 28 May 2023 21:30:00 +0000",
+         "title" : "Norway Chess Blitz 2023"
+      },
+      {
+         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in B section of the tournament are Sedrani Ammar, Alexandra Zherebtsova, Stefan-Emilian Prisacaru, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/23rd-dubai-open-b-participants/",
+         "pubDate" : "Sun, 28 May 2023 21:10:00 +0000",
+         "title" : "23rd Dubai Open B - Participants"
+      },
+      {
+         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in A section of the tournament are Yangyi Yu, Hans Moke Niemann, Arjun []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/23rd-dubai-open-a-participants/",
+         "pubDate" : "Sun, 28 May 2023 20:55:27 +0000",
+         "title" : "23rd Dubai Open A - Participants"
+      },
+      {
+         "description" : "The 2nd Laim Pfingst Open is taking place from 26&#x2013;30 May 2023 in Munich, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Bharath Subramaniyam H, Gupta Sankalp, Jung Min Seo, Boris Chatalbashev, Raja Rithvik R, Oleg Korneev, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2-laimer-pfingst-open-a-live/",
+         "pubDate" : "Sun, 28 May 2023 20:44:15 +0000",
+         "title" : "2 Laimer Pfingst-Open A - LIVE"
+      },
+      {
+         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in A section of the tournament are Yangyi Yu, Hans Moke Niemann, Arjun []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/23rd-dubai-open-a-live/",
+         "pubDate" : "Sun, 28 May 2023 19:26:00 +0000",
+         "title" : "23rd Dubai Open A - LIVE"
+      },
+      {
+         "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth two points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
+         "pubDate" : "Sun, 28 May 2023 23:16:00 +0400",
+         "title" : "11th Norway Chess 2023 - Games and Results"
+      },
+      {
+         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-blitz-2023-live/",
+         "pubDate" : "Sun, 28 May 2023 19:15:00 +0000",
+         "title" : "Norway Chess Blitz 2023 - LIVE"
+      },
+      {
+         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in B section of the tournament are Sedrani Ammar, Alexandra Zherebtsova, Stefan-Emilian Prisacaru, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/23rd-dubai-open-b-live/",
+         "pubDate" : "Sun, 28 May 2023 18:31:00 +0000",
+         "title" : "23rd Dubai Open B - LIVE"
+      },
+      {
+         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-2023-live/",
+         "pubDate" : "Sun, 28 May 2023 18:00:00 +0000",
+         "title" : "Norway Chess 2023 - LIVE"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 127th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,78 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/limburg-open-2023-live/",
          "pubDate" : "Sat, 27 May 2023 04:58:00 +0000",
          "title" : "Limburg Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Limburg Open takes place from 26-29 May, 2023 in Maastricht. The 7-round Swiss is one of the strongest open tournaments in the Netherlands. Players receive 120 minutes for the entire game, plus a 15-second increment starting from move one.&#xA0;Chessdom.com will follow daily the live games . Parallel :&#xA0;Nicosia FIDE Women&#x2019;s Grand Prix &#x2013; LIVE&#xA0;/&#xA0;ChessKid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/limburg-open-2023-participants/",
-         "pubDate" : "Sat, 27 May 2023 03:58:41 +0000",
-         "title" : "Limburg Open 2023 - Participants"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Kateryna Lagno Bibisara Assaubayeva from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-bibisara-assaubayeva-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 27 May 2023 03:36:11 +0000",
-         "title" : "Kateryna Lagno - Bibisara Assaubayeva, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Polina Shuvalova Oliwia Kiolbasa from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polina-shuvalova-oliwia-kiolbasa-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 27 May 2023 03:15:00 +0000",
-         "title" : "Polina Shuvalova - Oliwia Kiolbasa, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The English Championship 2023 is taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Michael Adams, Ameet K Ghasi, Mark L Hebden, Matthew J Wadsworth, Richard G Pert, Marcus R []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-championship-2023-live/",
-         "pubDate" : "Sat, 27 May 2023 03:04:58 +0000",
-         "title" : "English Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Gunay Mammadzada Alexandra Kosteniuk from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gunay-mammadzada-alexandra-kosteniuk-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 27 May 2023 03:00:00 +0000",
-         "title" : "Gunay Mammadzada - Alexandra Kosteniuk, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Zhongyi Tan Nana Dzagnidze from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhongyi-tan-nana-dzagnidze-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 27 May 2023 02:45:00 +0000",
-         "title" : "Zhongyi Tan - Nana Dzagnidze, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Bella Khotenashvili Dinara Wagner from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bella-khotenashvili-dinara-wagner-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 27 May 2023 02:15:00 +0000",
-         "title" : "Bella Khotenashvili - Dinara Wagner, Nicosia FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The English Women's Championship 2023 is taking place from 26&#x2013;29 May 2023 in Kenilworth, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Katarzyna Toma, Nina Pert, Zoe Varney, Kamila Hryshchenko, Audrey Kueh, Anusha Subramanian, Anum Sheikh, Abigail []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-womens-championship-2023-live/",
-         "pubDate" : "Sat, 27 May 2023 02:05:00 +0000",
-         "title" : "English Women's Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Nicosia FIDE Women's Grand Prix is taking place in Nicosia, Cyprus on May 16-27, 2023. This is the game Aleksandra Goryachkina Harika Dronavalli from round 11 of Nicosia FIDE Women's Grand Prix. The other live games of the round include : Live : Kateryna Lagno Bibisara Assaubayeva / Polina Shuvalova Oliwia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-harika-dronavalli-nicosia-fide-womens-grand-prix/",
-         "pubDate" : "Sat, 27 May 2023 02:00:00 +0000",
-         "title" : "Aleksandra Goryachkina - Harika Dronavalli, Nicosia FIDE Women's Grand Prix"
       },
       {
          "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
