@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2429",
+         "pubDate" : "Mon, 29 May 2023 08:53:36 +0000",
+         "title" : "Preliminary confirmation of participation in WSTC 2023: Deadline extended"
+      },
+      {
+         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-youth-championship-u10-participants/",
+         "pubDate" : "Mon, 29 May 2023 08:11:54 +0000",
+         "title" : "Swiss Youth Championship U10 - Participants"
+      },
+      {
+         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-youth-championship-u12-participants/",
+         "pubDate" : "Mon, 29 May 2023 08:10:12 +0000",
+         "title" : "Swiss Youth Championship U12 - Participants"
+      },
+      {
+         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-youth-championship-u14-participants/",
+         "pubDate" : "Mon, 29 May 2023 08:06:44 +0000",
+         "title" : "Swiss Youth Championship U14 - Participants"
+      },
+      {
+         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-youth-championship-u16-participants/",
+         "pubDate" : "Mon, 29 May 2023 08:05:06 +0000",
+         "title" : "Swiss Youth Championship U16 - Participants"
+      },
+      {
+         "description" : "The Swiss Youth Championship is a 7-round Swiss system tournament taking place in Olten, Switzerland, between May 26th and May 29th 2023. Four sections will be broadcasted live: U16 / U14 / U12 / U10 . The time control is 90 minutes for the whole game with a 30-second increment from move one. Parallel : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-youth-championship-u10-u16-live/",
+         "pubDate" : "Mon, 29 May 2023 08:01:45 +0000",
+         "title" : "Swiss Youth Championship U10 - U16 - LIVE"
+      },
+      {
+         "description" : "The 10th Cherry Blossom Classic&#xA0;will take place from 24-29 May 2023 in Dulles, Virginia, USA. The tournament has prize fund of 12 000 USD &#x2013; 4000 for the winner. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and top five []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/10th-cherry-blossom-classic-open-live/",
+         "pubDate" : "Mon, 29 May 2023 07:55:18 +0000",
+         "title" : "10th Cherry Blossom Classic Open - LIVE"
+      },
+      {
          "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,60 +90,12 @@ news_feed (
          "title" : "U12 German Championship - LIVE"
       },
       {
-         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u10-german-championship-live/",
-         "pubDate" : "Mon, 29 May 2023 06:15:00 +0000",
-         "title" : "U10 German Championship - LIVE"
-      },
-      {
          "description" : "For the first time the CBM Extra comes with three opening videos: Nico Zwirs (Najdorf Variation with 6.Bg5), Sipke Ernst (3.h4 against the Gruenfeld), Romain Edouard (\"Critical Lines in the Dragon\" Part II) - total playing time over an hour. Plus the \"Lucky bag\" with analyses by Anish Giri, Spyridon Kapnisis, Adrian Mikhalchishin and many others!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-cbm-extra-213",
          "pubDate" : "Mon, 29 May 2023 07:00:00 +0100",
          "title" : "New: CBM Extra 213"
-      },
-      {
-         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-2023/",
-         "pubDate" : "Sun, 28 May 2023 21:44:59 +0000",
-         "title" : "Norway Chess 2023"
-      },
-      {
-         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-blitz-2023/",
-         "pubDate" : "Sun, 28 May 2023 21:30:00 +0000",
-         "title" : "Norway Chess Blitz 2023"
-      },
-      {
-         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in B section of the tournament are Sedrani Ammar, Alexandra Zherebtsova, Stefan-Emilian Prisacaru, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/23rd-dubai-open-b-participants/",
-         "pubDate" : "Sun, 28 May 2023 21:10:00 +0000",
-         "title" : "23rd Dubai Open B - Participants"
-      },
-      {
-         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in A section of the tournament are Yangyi Yu, Hans Moke Niemann, Arjun []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/23rd-dubai-open-a-participants/",
-         "pubDate" : "Sun, 28 May 2023 20:55:27 +0000",
-         "title" : "23rd Dubai Open A - Participants"
-      },
-      {
-         "description" : "The 2nd Laim Pfingst Open is taking place from 26&#x2013;30 May 2023 in Munich, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Bharath Subramaniyam H, Gupta Sankalp, Jung Min Seo, Boris Chatalbashev, Raja Rithvik R, Oleg Korneev, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2-laimer-pfingst-open-a-live/",
-         "pubDate" : "Sun, 28 May 2023 20:44:15 +0000",
-         "title" : "2 Laimer Pfingst-Open A - LIVE"
       },
       {
          "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth two points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
@@ -208,6 +216,14 @@ news_feed (
          "link" : "https://www.thearticle.com/the-brain-under-siege/",
          "pubDate" : "Sat, 27 May 2023 09:36:30 +0000",
          "title" : "The brain under siege"
+      },
+      {
+         "description" : " The Superbet Rapid & Blitz took place in Warsaw, Poland 21st to 25th May 2023. Players: Magnus Carlsen, Levon Aronian, Anish Giri, Wesley So, Richard Rapport, MVL, Jan-Krzysztof Duda, Bogdan-Daniel Deac, Kirill Shevchenko and Radoslaw Wojtaszek played in this event which is part of the Grand Chess Tour. Magnus Carlsen won the event after a slow start on day 1 of the rapid including a loss in round one in the Polish Defence to second placed Jan-Krzysztof Duda. Carlsen picked up two wins late on day two of the rapid which put him back in contention. Then in the blitz Carlsen went on a rampage scoring 10.5/11 between rounds 5 and 15. He slowed down at the end drawing the final three games and ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
+         "pubDate" : "Sat, 27 May 2023 13:18:00 +0400",
+         "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
       },
       {
          "description" : "Today the point is only shared. In the diagram position White managed to save himself, playing a series of (splendid!) only moves. Can you find them all?",
@@ -1138,14 +1154,6 @@ news_feed (
          "title" : "FIDE and GCF to stage Solidarity Matches in Batumi, Georgia"
       },
       {
-         "description" : " The Superbet Rapid & Blitz takes place in Warsaw, Poland 21st to 25th May 2023. Players: Magnus Carlsen, Levon Aronian, Anish Giri, Wesley So, Richard Rapport, MVL, Jan-Krzysztof Duda, Bogdan-Daniel Deac, Kirill Shevchenko and Radoslaw Wojtaszek play in this event which is part of the Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
-         "pubDate" : "Thu, 18 May 2023 13:18:00 +0400",
-         "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1570,14 +1578,6 @@ news_feed (
          "title" : "Superbet Classic 5: Firouzja world no. 2 after beating Ding"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2380",
-         "pubDate" : "Wed, 10 May 2023 22:32:13 +0000",
-         "title" : "FIDE Circuit: Gukesh D regains the lead"
-      },
-      {
          "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/mishra.html",
          "pubDate" : "Mon, 08 May 2023 13:28:00 +0000",
          "title" : "Mishra"
-      },
-      {
-         "description" : "Ian Nepomniachtchi and Richard Rapport picked up wins in Round 2 of the Superbet Chess Classic to join Wesley So in the lead. Nepomniachtchi took down Bogdan-Daniel Deac and will go into the Round 3 clash against Ding Liren with a chance to cross 2800 for the first time with a win. Rapport ground down Jan-Krzysztof Duda in what had at first looked sure to be a drawn ending.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-nepo-and-rapport-strike",
-         "pubDate" : "Mon, 08 May 2023 07:43:43 +0000",
-         "title" : "Superbet Chess Classic 2: Nepo and Rapport strike"
       }
    ]
 }
