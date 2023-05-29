@@ -10,6 +10,14 @@ news_feed (
          "title" : "Norway Chess 2023: The Blitz Tournament - Live"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2430",
+         "pubDate" : "Mon, 29 May 2023 15:58:36 +0000",
+         "title" : "FIDE World Cup 2023: Preliminary lists of eligible players announced"
+      },
+      {
          "description" : "GM Jose Martinez won his second Bullet Brawl crown and $1,000 on Saturday with an imperious 209 points, eclipsing his nearest challengers, the second and third-placed GMs Sergei Zhigalko (190) and Andrew Tang (180) by multiple wins. In a May edi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/",
          "pubDate" : "Thu, 11 May 2023 09:56:52 +0000",
          "title" : "European School Chess Championship 2023 starts in Durres, Albania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2381",
-         "pubDate" : "Thu, 11 May 2023 08:46:14 +0000",
-         "title" : "2023 Superbet Chess Classic: Day 5 Recap"
       },
       {
          "description" : "19-year-old Alireza Firouzja has regained the world no. 2 spot after beating World Champion Ding Liren in Round 5 of the Superbet Chess Classic in Bucharest. Ding had winning chances of his own, as did Ian Nepomniachtchi, who for most of the round was putting pressure on Maxime Vachier-Lagrave. A few careless moves, however, and MVL took over to make it a red-letter day for French chess.",
