@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With players such as Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Fabiano Caruana, Anish Giri, Wesley So, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Gukesh D and Aryan Tari the Norway Chess Tournament 2023 in Stavanger is one of the strongest and most exciting tournaments of the year. It begins on Whit Monday (29 May) with a blitz tournament. The first round of the blitz tournament starts at 19.00 CEST (1 pm ET, 17.00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2023-carlsen-vs-die-jungen-wilden-2",
+         "pubDate" : "Mon, 29 May 2023 17:00:00 +0100",
+         "title" : "Norway Chess 2023: The Blitz Tournament - Live"
+      },
+      {
+         "description" : "GM Jose Martinez won his second Bullet Brawl crown and $1,000 on Saturday with an imperious 209 points, eclipsing his nearest challengers, the second and third-placed GMs Sergei Zhigalko (190) and Andrew Tang (180) by multiple wins. In a May edi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jose-martinez-wins-2023-bullet-brawl-may",
+         "pubDate" : "Mon, 29 May 2023 07:36:00 -0700",
+         "title" : "Martinez Slam-Dunks Second Bullet Brawl Title"
+      },
+      {
+         "description" : "The Global Chess League is a new team tournament launched by Tech Mahindra in cooperation with FIDE. The first edition will be held in Dubai from 21 June to 2 July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-new-tournament-ding-liren-magnus-carlsen-viswanathan-anand-and-hou-yifan-join-the-global-chess-league",
+         "pubDate" : "Mon, 29 May 2023 15:00:00 +0100",
+         "title" : "A new tournament: Ding Liren, Magnus Carlsen, Viswanathan Anand and Hou Yifan join the Global Chess League"
+      },
+      {
+         "description" : " IM Junta Ikeda is the ACT Chess Champion for the 10th time, after finishing on 7/7 in the 2023 Championship. He completed his perfect score with wins over CM Hui Li in round 6 and Terrence Tang in the final round. A point behind was FM Michael Kethro who finished his event with a nice attacking win over Malik Amer. CM Hui Li tied for 3rd place on 5.5, along with up and coming junior player Thomas Gatzen-O'Keefe. Seeded 15th in the tournament Gatzen-O'Keefe won his last 4 games to pick up a share of the third place prize, as well as some rating points. Michael Rolph finished on 4.5 the win the best FIDE Unrated prize, while Olamide Fasakin had the biggest rating gain in the tournament. Gatze",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-10th-title.html",
+         "pubDate" : "Mon, 29 May 2023 13:48:00 +0000",
+         "title" : "2023 ACT Chess Championship - 10th title for Ikeda"
+      },
+      {
+         "description" : "Senior National Arbiter Seminar was successfully organized by Sambalpur District Chess Association under the aegis of All Orissa Chess Association and on behalf of All",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-examination-at-sambalpur-orissa-from-21-22-may-2023/",
+         "pubDate" : "Mon, 29 May 2023 11:48:24 +0000",
+         "title" : "Final Report :SNA Seminar & Examination at Sambalpur Orissa from 21-22 May 2023"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100594468.cms\" />Former World Rapid Chess champion Koneru Humpy expressed her belief that the inaugural Global Chess League (GCL) has the potential to bridge the existing gap in the global \"ecosystem\" of the sport. The GCL is a joint venture between Tech Mahindra and the international chess federation (FIDE) and is set to take place in Dubai from June 21 to July 2.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-can-fill-existing-gaps-in-current-ecosystem-koneru-humpy/articleshow/100594468.cms",
+         "pubDate" : "Mon, 29 May 2023 11:31:46 +0000",
+         "title" : "Global Chess League can fill existing gaps in current ecosystem: Humpy"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -922,14 +970,6 @@ news_feed (
          "title" : "Women's Grand Prix: Dinara Wagner joins the leading group"
       },
       {
-         "description" : "A new edition of the Cairns Cup, the equivalent of the Sinquefield Cup but for top women players, will be played from 3 June. Humpy Koneru and Alexandra Kosteniuk top the women's seedings. The tournament is named after Dr Jeanne Cairns, Rex Sinquefield's wife.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-female-chess-players-to-compete-in-elite-cairns-cup",
-         "pubDate" : "Mon, 22 May 2023 11:05:23 +0100",
-         "title" : "Top Female Chess Players to Compete in Elite Cairns Cup"
-      },
-      {
          "description" : "It is with great sadness that we must report the death of Harry Lamb. Harry had been in a care home for the last twelve...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -952,14 +992,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/official-opening-of-world-chess-club-berlin/",
          "pubDate" : "Mon, 22 May 2023 07:22:56 +0000",
          "title" : "Official opening of World Chess Club Berlin"
-      },
-      {
-         "description" : "Magnus Carlsen played his first three over-the-board (rapid) games after giving up the world champion title on Sunday. In his first outing as a 'former world champion', Carlsen replied to Radoslaw Wojtaszek's 1.d4 with 1...b5, going for the questionable Polish Defence - in Warsaw! Carlsen lost that game and drew the next two to end the day with a 2/6 score. Three points ahead stand co-leaders Wesley So, Levon Aronian and Jan-Krzysztof Duda. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d1",
-         "pubDate" : "Mon, 22 May 2023 07:10:00 +0100",
-         "title" : "Superbet Poland: Rusty Carlsen plays Polish Defence, loses"
       },
       {
          "description" : "WGM Dinara Wagner joined the leaders by defeating IM Oliwia Kiolbasa in round six at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 on Sunday. As we enter the second half of the tournament, Wagner has caught up with GMs Harika Dronavalli, Kateryna ...",
@@ -1008,14 +1040,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-endings/",
          "pubDate" : "Sun, 21 May 2023 10:28:58 +0000",
          "title" : "Chess Heroes: Endings"
-      },
-      {
-         "description" : "GM Harika Dronavalli was the sole winner on Saturday in the fifth round of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023, defeating IM Oliwia Kiolbasa with Black in 45 moves. Harika&#39;s victory was comprehensive and it allowed her to join GM Kateryn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-five",
-         "pubDate" : "Sat, 20 May 2023 17:19:39 -0700",
-         "title" : "Harika Delivers With Black, Joins Leaders"
       },
       {
          "description" : "",
@@ -1656,14 +1680,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-april-2023/",
          "pubDate" : "Tue, 09 May 2023 08:12:45 +0000",
          "title" : "ECU E-Magazine April 2023"
-      },
-      {
-         "description" : " When Abhimanyu Mishra became the world's youngest GM, I was somewhat dismissive of the achievement. Not because I did not think he deserved to be a GM, or even how he achieved it, but simply because it was an easier achievement than in the past (Yes, I know I'm sounding like an old man yelling at clouds). However Mishra, who is currently playing in the Sigeman tournament in Sweden, looks to be \"walking the walk\" with a strong performance against a number of other strong GM's. As I write this he has score 2 wins and 2 draws to lead the 7 round event, which includes Svidler, Gelfand and Gukesh. Despite being the bottom seed, he looks to be in the right sort of company, as shown by this intere",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/mishra.html",
-         "pubDate" : "Mon, 08 May 2023 13:28:00 +0000",
-         "title" : "Mishra"
       }
    ]
 }
