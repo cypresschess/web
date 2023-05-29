@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u18-german-championship-live/",
+         "pubDate" : "Mon, 29 May 2023 07:10:26 +0000",
+         "title" : "U18 German Championship - LIVE"
+      },
+      {
+         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-german-championship-live/",
+         "pubDate" : "Mon, 29 May 2023 07:00:00 +0000",
+         "title" : "U16 German Championship - LIVE"
+      },
+      {
+         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-german-championship-live/",
+         "pubDate" : "Mon, 29 May 2023 06:45:00 +0000",
+         "title" : "U14 German Championship - LIVE"
+      },
+      {
+         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-german-championship-live/",
+         "pubDate" : "Mon, 29 May 2023 06:30:00 +0000",
+         "title" : "U12 German Championship - LIVE"
+      },
+      {
+         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u10-german-championship-live/",
+         "pubDate" : "Mon, 29 May 2023 06:15:00 +0000",
+         "title" : "U10 German Championship - LIVE"
+      },
+      {
+         "description" : "For the first time the CBM Extra comes with three opening videos: Nico Zwirs (Najdorf Variation with 6.Bg5), Sipke Ernst (3.h4 against the Gruenfeld), Romain Edouard (\"Critical Lines in the Dragon\" Part II) - total playing time over an hour. Plus the \"Lucky bag\" with analyses by Anish Giri, Spyridon Kapnisis, Adrian Mikhalchishin and many others!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-213",
+         "pubDate" : "Mon, 29 May 2023 07:00:00 +0100",
+         "title" : "New: CBM Extra 213"
+      },
+      {
          "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,44 +90,12 @@ news_feed (
          "title" : "2 Laimer Pfingst-Open A - LIVE"
       },
       {
-         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in A section of the tournament are Yangyi Yu, Hans Moke Niemann, Arjun []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/23rd-dubai-open-a-live/",
-         "pubDate" : "Sun, 28 May 2023 19:26:00 +0000",
-         "title" : "23rd Dubai Open A - LIVE"
-      },
-      {
          "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth two points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
          "pubDate" : "Sun, 28 May 2023 23:16:00 +0400",
          "title" : "11th Norway Chess 2023 - Games and Results"
-      },
-      {
-         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-blitz-2023-live/",
-         "pubDate" : "Sun, 28 May 2023 19:15:00 +0000",
-         "title" : "Norway Chess Blitz 2023 - LIVE"
-      },
-      {
-         "description" : "The 23rd Dubai Open is a 9-round Swiss tournament taking place from 27 May to 4 June 2023 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top ten rated players in B section of the tournament are Sedrani Ammar, Alexandra Zherebtsova, Stefan-Emilian Prisacaru, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/23rd-dubai-open-b-live/",
-         "pubDate" : "Sun, 28 May 2023 18:31:00 +0000",
-         "title" : "23rd Dubai Open B - LIVE"
-      },
-      {
-         "description" : "Norway Chess is a 10-player round-robin featuring Top 5 stars Magnus Carlsen, Alireza Firouzja and Hikaru Nakamura taking place in Stavanger, Norway from 30 May to 9 June. Each of the 9 rounds consists of a classical game where a win is worth 2 points and a loss 0. If the players draw they play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-2023-live/",
-         "pubDate" : "Sun, 28 May 2023 18:00:00 +0000",
-         "title" : "Norway Chess 2023 - LIVE"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 127th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
          "pubDate" : "Sat, 27 May 2023 08:45:00 +0100",
          "title" : "Women's Grand Prix in Nicosia - Games and results"
-      },
-      {
-         "description" : "The Limburg Open is taking place from 26-29 May, 2023 in Maastricht. This is one of the strongest open tournaments in the Netherlands. Players receive 120 minutes for the entire game, plus a 15-second increment starting from move one.&#xA0;It is a 7-round Swiss system tournament with participation of Daniel Dardha, Frederik Svane, Maxime ,Lagarde, Sergey []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/limburg-open-2023-live/",
-         "pubDate" : "Sat, 27 May 2023 04:58:00 +0000",
-         "title" : "Limburg Open 2023 - LIVE"
       },
       {
          "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2409",
          "pubDate" : "Sun, 21 May 2023 20:40:06 +0000",
          "title" : "Four-way tie at WGP Cyprus "
-      },
-      {
-         "description" : "Today I'm returning to a subject I've covered a number of times in the past: passed pawns. Passed pawns are a crucial aspect of chess and your attitude to them can have a profound effect on how you play and, in particular, your opening choices. To explore this topic, I look at a game played by Vasilios Kotronias, in which he was overwhelmed by an absolute pawn avalanche. The final phase is extraordinary and somewhat reminiscent of the famous game McDonnell versus De La Bourdonnais.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-194",
-         "pubDate" : "Sun, 21 May 2023 20:00:00 +0100",
-         "title" : "The peasants' revolt"
       },
       {
          "description" : "The last time we saw the Lewis chess pieces on this blog was a post titled, <A HREF=\"https://chessforallages.blogspot.com/2022/02/from-norway-to-british-museum.html\">From Norway to the British Museum</A> (February 2022). It started, 'The Lewis chess pieces are a recurring theme on this blog'. The embedded video on that post has disappeared ('This video is private'), but there are links to other posts about the Lewis pieces, the oldest from 2008. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne21.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/gwallter/52887081931/\">Waterford</A> &#169; Flickr user <I>Andrew Green</I> under <A HREF=\"https://creativecommo",
