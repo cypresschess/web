@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endings with opposite colored bishops endings often end in a draw. But in the diagram position Black found a way to break through and win the game. What did he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fortress-breaker",
+         "pubDate" : "Tue, 30 May 2023 09:00:00 +0100",
+         "title" : "The fortress breaker"
+      },
+      {
+         "description" : "Traditionally, the Norway Chess Tournament begins with a blitz tournament to determine the pairings for the classical tournament. The big favourite to win Norway Chess is of course Magnus Carlsen, former World Champion and the clear number one in the world. Carlsen was also the favourite in the Blitz tournament, but things did not go his way. It was Nodirbek Abdusattorov who blitzed the best. He finished first with 6.0/9, half a point ahead of Alireza Firouzja and Shakhriyar Mamedyarov. Carlsen finished seventh with 4.5/9 and will now play five games with Black in the classical tournament, where he, however, is still favourite. | Photo: Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-blitz-abdusattorov-wins-carlsen-finishes-seventh",
+         "pubDate" : "Tue, 30 May 2023 08:38:55 +0100",
+         "title" : "Norway Chess Blitz: Abdusattorov wins, Carlsen finishes seventh"
+      },
+      {
          "description" : "Just days after winning the ChessKid Cup, GM Nodirbek Abdusattorov finished in clear first at the Norway Chess Blitz 2023 on Monday. After a rocky start in half of the event with losses to GMs Magnus Carlsen and Hikaru Nakamura, Abdusattorov score...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/u12-german-championship-live/",
          "pubDate" : "Mon, 29 May 2023 06:30:00 +0000",
          "title" : "U12 German Championship - LIVE"
-      },
-      {
-         "description" : "For the first time the CBM Extra comes with three opening videos: Nico Zwirs (Najdorf Variation with 6.Bg5), Sipke Ernst (3.h4 against the Gruenfeld), Romain Edouard (\"Critical Lines in the Dragon\" Part II) - total playing time over an hour. Plus the \"Lucky bag\" with analyses by Anish Giri, Spyridon Kapnisis, Adrian Mikhalchishin and many others!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-213",
-         "pubDate" : "Mon, 29 May 2023 07:00:00 +0100",
-         "title" : "New: CBM Extra 213"
       },
       {
          "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth two points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2410",
          "pubDate" : "Mon, 22 May 2023 12:30:53 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
-      },
-      {
-         "description" : "In round 6 of the Women's Grand Prix in Nicosia Dinara Wagner from Germany won against Oliwia Kiolbasa from Poland and now shares the lead with Kateryna Lagno, Harika Dronavalli and Tan Zhongyi. Alexandra Kosteniuk scored the second win of the day and her first win in the tournament. She defeated Nana Dzagnidze. | Fotos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frauen-grand-prix-dinara-wagner-joins-the-leading-group",
-         "pubDate" : "Mon, 22 May 2023 11:39:16 +0100",
-         "title" : "Women's Grand Prix: Dinara Wagner joins the leading group"
       },
       {
          "description" : "It is with great sadness that we must report the death of Harry Lamb. Harry had been in a care home for the last twelve...",
