@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just days after winning the ChessKid Cup, GM Nodirbek Abdusattorov finished in clear first at the Norway Chess Blitz 2023 on Monday. After a rocky start in half of the event with losses to GMs Magnus Carlsen and Hikaru Nakamura, Abdusattorov score...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-blitz",
+         "pubDate" : "Mon, 29 May 2023 18:00:00 -0700",
+         "title" : "Capturing The Lead Late, Abdusattorov Wins Norway Blitz Opener"
+      },
+      {
          "description" : "With players such as Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Fabiano Caruana, Anish Giri, Wesley So, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Gukesh D and Aryan Tari the Norway Chess Tournament 2023 in Stavanger is one of the strongest and most exciting tournaments of the year. It begins on Whit Monday (29 May) with a blitz tournament. The first round of the blitz tournament starts at 19.00 CEST (1 pm ET, 17.00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-6",
          "pubDate" : "Sun, 21 May 2023 17:34:00 -0700",
          "title" : "Bottom Seed, New Peak: Wagner Joins Leaders"
-      },
-      {
-         "description" : "The second leg of the Grand Chess Tour, the Superbet Poland Rapid &#38;amp; Blitz 2023, commenced on Sunday with three rounds of rapid chess culminating in GMs Jan-Krzysztof Duda, Levon Aronian, and Wesley So sharing the lead on 2.5/3.0 and with five ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-1",
-         "pubDate" : "Sun, 21 May 2023 15:33:00 -0700",
-         "title" : "Polish Players Star As Duda, Aronian, So Share Early Lead"
       },
       {
          "description" : "",
