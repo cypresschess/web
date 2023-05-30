@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana and Gukesh D, respectively, defeated the world number-one and number-two, GMs Magnus Carlsen and Alireza Firouzja, in the first round of Norway Chess 2023. With wins in the classical portion, they lead the tournament with 3 poi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-1",
+         "pubDate" : "Tue, 30 May 2023 15:23:00 -0700",
+         "title" : "Caruana, Gukesh Defeat World Numbers 1 and 2 To Take Early Lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks spotting tactical signals in chess. Be Batman, but for chess tactics. 2023.05.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spot-technical-signals-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IEiY0r8wfYM.jpg?itok=CnMwdmU4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/an-advice-taking-chess-machine.html",
          "pubDate" : "Mon, 22 May 2023 15:59:00 +0000",
          "title" : "An 'Advice-taking' Chess Machine"
-      },
-      {
-         "description" : "GM Gawain Jones, the husband of WIM Sue Maroroa Jones, who died in tragic circumstances this month, has thanked the chess community as an appeal to support his family soared above $64,000. The two-time British champion told Chess.com: &#34;I am over...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gawain-jones-thanks-chess-community-for-sue-maroroa-appeal",
-         "pubDate" : "Mon, 22 May 2023 08:55:12 -0700",
-         "title" : "Gawain Jones: 'I Am Overwhelmed By All The Love And Support'"
       },
       {
          "description" : " As a boy I used to keep up with the rules in lots of sports. Football, Cricket, Rugby League, Australian Rules and even Baseball and American Football. This is one of the reasons I became a chess arbiter, as I found the actual rules of various sports interesting to learn (well except Rugby Union, which still confuses me). So when I watched a recent episode of Ted Lasso, there was a football scene that immediately made me go \"What?\". At the kick off of the match, the ball was passed back to the new signing Zava, who immediately blasted it into the goal from behind the halfway line. My reaction was based on the belief that the ball had to be kicked forward at the kick off, which clearly did n",
