@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Open &#38; Girls Under 7, 9, 11, 13, 15 &#38; 17 Tashkent, Uzbekistan &#160;13th July to 21st July 2023 The above amount includes Registration Fee,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/17th-asian-schools-chess-championship-2023/",
+         "pubDate" : "Tue, 30 May 2023 09:21:54 +0000",
+         "title" : "17th Asian Schools Chess Championship 2023"
+      },
+      {
          "description" : "Endings with opposite colored bishops endings often end in a draw. But in the diagram position Black found a way to break through and win the game. What did he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-norway-chess-blitz",
          "pubDate" : "Mon, 29 May 2023 18:00:00 -0700",
          "title" : "Capturing The Lead Late, Abdusattorov Wins Norway Blitz Opener"
-      },
-      {
-         "description" : "With players such as Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Fabiano Caruana, Anish Giri, Wesley So, Shakhriyar Mamedyarov, Nodirbek Abdusattorov, Gukesh D and Aryan Tari the Norway Chess Tournament 2023 in Stavanger is one of the strongest and most exciting tournaments of the year. It begins on Whit Monday (29 May) with a blitz tournament. The first round of the blitz tournament starts at 19.00 CEST (1 pm ET, 17.00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2023-carlsen-vs-die-jungen-wilden-2",
-         "pubDate" : "Mon, 29 May 2023 17:00:00 +0100",
-         "title" : "Norway Chess 2023: The Blitz Tournament - Live"
       },
       {
          "description" : "",
@@ -962,6 +962,14 @@ news_feed (
          "title" : "Mwale, Shriyan win Malawi titles!"
       },
       {
+         "description" : "While working on the recent post, <A HREF=\"https://chessforallages.blogspot.com/2023/05/may-1973-1998-on-cover.html\">May 1973 & 1998 'On the Cover'</A> (May 2023), I discovered a full-page ad for <I>Scientific American</I> in the May 1973 issue of <I>Chess Life & Review</I>. The ad is pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne22.gif\" WIDTH=295 HEIGHT=400><BR> <B>'Who has white - the man or the computer?'</B> <P> The first paragraphs promoted an article on computer chess. <BLOCKQUOTE> The game shown here is between senior master Charles Kalme and an IBM 370/155 computer. Can you tell which player has white? <BR><BR> The game is reprinted from the article",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/an-advice-taking-chess-machine.html",
+         "pubDate" : "Mon, 22 May 2023 15:59:00 +0000",
+         "title" : "An 'Advice-taking' Chess Machine"
+      },
+      {
          "description" : "GM Gawain Jones, the husband of WIM Sue Maroroa Jones, who died in tragic circumstances this month, has thanked the chess community as an appeal to support his family soared above $64,000. The two-time British champion told Chess.com: &#34;I am over...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -984,6 +992,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2410",
          "pubDate" : "Mon, 22 May 2023 12:30:53 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
+      },
+      {
+         "description" : "In round 6 of the Women's Grand Prix in Nicosia Dinara Wagner from Germany won against Oliwia Kiolbasa from Poland and now shares the lead with Kateryna Lagno, Harika Dronavalli and Tan Zhongyi. Alexandra Kosteniuk scored the second win of the day and her first win in the tournament. She defeated Nana Dzagnidze. | Fotos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frauen-grand-prix-dinara-wagner-joins-the-leading-group",
+         "pubDate" : "Mon, 22 May 2023 11:39:16 +0100",
+         "title" : "Women's Grand Prix: Dinara Wagner joins the leading group"
       },
       {
          "description" : "It is with great sadness that we must report the death of Harry Lamb. Harry had been in a care home for the last twelve...",
@@ -1664,22 +1680,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/",
          "pubDate" : "Tue, 09 May 2023 13:07:49 +0000",
          "title" : "2023 African Individual Championships"
-      },
-      {
-         "description" : "Ding Liren confessed \"I forgot the moves\" as he stumbled into a close to lost position against Ian Nepomniachtchi in Round 3 of the Superbet Chess Classic. Just as in the second half of the match, however, Ding managed to survive, thus denying his opponent a 2800 rating. Elsewhere the one decisive game saw Fabiano Caruana beat Maxime Vachier-Lagrave in only 23 moves to join Richard Rapport, Wesley So and Nepo in the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-3-ding-thwarts-nepo-again",
-         "pubDate" : "Tue, 09 May 2023 10:28:59 +0000",
-         "title" : "Superbet Chess Classic 3: Ding thwarts Nepo again"
-      },
-      {
-         "description" : "ECU E-Magazine April 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Pairs Chess Championship at the European Games 2023 Mitropa Chess Cup 2023 IBCA European Team Chess Championship 2023 Grand Chess Tour Romania 2023 Communique of the second quarterly ECU Board Meeting Upcoming ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-april-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-april-2023/",
-         "pubDate" : "Tue, 09 May 2023 08:12:45 +0000",
-         "title" : "ECU E-Magazine April 2023"
       }
    ]
 }
