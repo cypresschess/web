@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've been having a lot of fun with ChatGPT recently. If you ask it a factual question about chess it makes random stuff up rather than saying it doesn't know. (Bing Chat is a lot better or a lot less amusing in this respect.) When I asked it about Richard James it told <a href=\"https://chessimprover.com/chess-for-giraffes/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Giraffes\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-giraffes/\">Chess for Giraffes</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-for-giraffes/",
+         "pubDate" : "Tue, 30 May 2023 17:05:06 +0000",
+         "title" : "Chess for Giraffes"
+      },
+      {
+         "description" : "Chess.com is hosting a star-studded charity event with Lid&#38;eacute; Haiti, a non-profit organization dedicated to empowering at-risk adolescent girls in Haiti. The June 2 event will be live-streamed on Twitch and bring together, among others, The O...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lide-chesscom-partnership",
+         "pubDate" : "Tue, 30 May 2023 08:34:33 -0700",
+         "title" : "Chess.com And Lid&eacute; Haiti Join Forces For Event Promoting Chess, Creativity, And Mental Health In Haiti"
+      },
+      {
          "description" : "The FIDE World Women's Team Chess Championship-2023 scheduled to be held at Bydgoszcz, Poland from 05 - 12 September 2023. The Indian for the event",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -218,7 +234,7 @@ news_feed (
          "title" : "U12 German Championship - LIVE"
       },
       {
-         "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth two points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
+         "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
@@ -1050,14 +1066,6 @@ news_feed (
          "title" : "Official opening of World Chess Club Berlin"
       },
       {
-         "description" : "WGM Dinara Wagner joined the leaders by defeating IM Oliwia Kiolbasa in round six at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 on Sunday. As we enter the second half of the tournament, Wagner has caught up with GMs Harika Dronavalli, Kateryna ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-6",
-         "pubDate" : "Sun, 21 May 2023 17:34:00 -0700",
-         "title" : "Bottom Seed, New Peak: Wagner Joins Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1656,22 +1664,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-caruana-beats-nepomniachtchi",
          "pubDate" : "Wed, 10 May 2023 10:48:46 +0000",
          "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
-      },
-      {
-         "description" : " \"The only thing better than winning at chess is making your opponent think they're winning, and then checkmating them.\" The above quote brought to mind the back-rank checkmate. I have seen it happen time and again in OTB chess at all levels. The definition of it in Wikipedia is misleading in my opinion: &#8220;Back-rank mates <a href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Weekly Tactics: Back-Rank Checkmate\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\">Weekly Tactics: Back-Rank Checkmate</a> appeared first on <a rel=\"nofollow\" href=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/weekly-tactics-back-rank-checkmate/",
-         "pubDate" : "Tue, 09 May 2023 17:46:55 +0000",
-         "title" : "Weekly Tactics: Back-Rank Checkmate"
-      },
-      {
-         "description" : "Click here Download Here!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tentative-calendar-for-the-period-2023-24/",
-         "pubDate" : "Tue, 09 May 2023 16:35:11 +0000",
-         "title" : "TENTATIVE CALENDAR FOR THE PERIOD 2023-24"
       }
    ]
 }
