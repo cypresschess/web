@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks spotting tactical signals in chess. Be Batman, but for chess tactics. 2023.05.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spot-technical-signals-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IEiY0r8wfYM.jpg?itok=CnMwdmU4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/spot-technical-signals-beginner-breakdown",
+         "pubDate" : "Tue, 30 May 2023 19:33:45 +0000",
+         "title" : "Spot Technical Signals | Beginner Breakdown"
+      },
+      {
          "description" : " I've been having a lot of fun with ChatGPT recently. If you ask it a factual question about chess it makes random stuff up rather than saying it doesn't know. (Bing Chat is a lot better or a lot less amusing in this respect.) When I asked it about Richard James it told <a href=\"https://chessimprover.com/chess-for-giraffes/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Giraffes\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-giraffes/\">Chess for Giraffes</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lide-chesscom-partnership",
-         "pubDate" : "Tue, 30 May 2023 08:34:33 -0700",
+         "pubDate" : "Tue, 30 May 2023 08:34:00 -0700",
          "title" : "Chess.com And Lid&eacute; Haiti Join Forces For Event Promoting Chess, Creativity, And Mental Health In Haiti"
       },
       {
@@ -234,7 +242,7 @@ news_feed (
          "title" : "U12 German Championship - LIVE"
       },
       {
-         "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 0.5 points.",
+         "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-poland-2023-d3",
          "pubDate" : "Wed, 24 May 2023 00:50:00 +0100",
          "title" : "Superbet Poland: Duda wins rapid section"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Anastasiya Karlovich after his win over Deac on the third day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-deac-selfies-and-his-hair-d3-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rtlmlqju_zA.jpg?itok=EtJQv8cm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-deac-selfies-and-his-hair-d3-superbetrapidblitzpoland",
-         "pubDate" : "Tue, 23 May 2023 22:21:55 +0000",
-         "title" : "Carlsen on Deac, Selfies, and His Hair | D3 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "",
