@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Women's Team Chess Championship-2023 scheduled to be held at Bydgoszcz, Poland from 05 - 12 September 2023. The Indian for the event",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/selection-of-team-for-world-women-team-chess-championship-2023/",
+         "pubDate" : "Tue, 30 May 2023 13:55:25 +0000",
+         "title" : "Selection of Team for World Women Team Chess Championship-2023"
+      },
+      {
+         "description" : "From 29 July to 25 August Azerbaijan will host the World Cup and the Women's World Cup. FIDE has now published a first provisional list of participants. | Photos: FIDE/ azernews.az",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-cup-2023-preliminary-lists-of-eligible-players-announced",
+         "pubDate" : "Tue, 30 May 2023 14:45:29 +0100",
+         "title" : "FIDE World Cup 2023: Preliminary lists of eligible players announced"
+      },
+      {
+         "description" : " GM Ian Rogers has announced that the Canberra Times plans to drop his chess column from the Sunday paper in a couple of weeks. Ian has been writing the column for a few weeks short of 30 years, while the column itself has been in existence since 1968. Also likely to go is the Bridge column, which has had the same editor for its entire lifespan, Len Dixon, who is 101 years old! Sadly this has been a trend in the print media of late, with Ian's Sydney Morning Herald column dropped in 2020, only to be saved by a concerted letter writing campaign. Quite possibly this will have the same effect on the Canberra Times, so I encourage everyone to get to work. If you want your complaints/opinions pub",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/05/no-chess-column.html",
+         "pubDate" : "Tue, 30 May 2023 13:14:00 +0000",
+         "title" : "No Chess Column?"
+      },
+      {
+         "description" : "The modern defence is another systematically easy to learn hypermodern opening, giving the king a safe place, and implementing a hidden centre attack, as the game continues. Svitlana shows us the basic plans, and gives us the right moves to play. In the game example, we can see how powerful the move 1. .. g6 can be!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-modern-defence",
+         "pubDate" : "Tue, 30 May 2023 14:03:07 +0100",
+         "title" : "Svitlana's Smart Moves - How to play the modern defence"
+      },
+      {
+         "description" : "OPEN 1st place: &pound;300 Yichen Han with 5.5 points 2nd place: &pound;220 Alex Bullen with 5 points 3rd place: &pound;150 Tim Kett with 4.5 points...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/cotswold-chess-congress-2023-prize-list/",
+         "pubDate" : "Tue, 30 May 2023 12:41:20 +0000",
+         "title" : "Cotswold Chess Congress 2023 prize list"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2431",
+         "pubDate" : "Tue, 30 May 2023 12:26:37 +0000",
+         "title" : "English Championship: Michael Adams and Katarzyna Toma win titles"
+      },
+      {
          "description" : "Open &#38; Girls Under 7, 9, 11, 13, 15 &#38; 17 Tashkent, Uzbekistan &#160;13th July to 21st July 2023 The above amount includes Registration Fee,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -527,7 +575,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-2023/#new_tab",
          "pubDate" : "Thu, 25 May 2023 15:00:07 +0000",
-         "title" : "English and English Women's Chess Championships 2023 starts tomorrow (26/5)!"
+         "title" : "English and English Women's Chess Championships 2023"
       },
       {
          "description" : "Nodirbek Abdusattorov continues to impress in the ChessKid Cup: he defeated Jorden Van Foreest in the final of the Winner's Bracket to qualify for the Grand Final, where he will meet the winner of the Loser's Bracket. In addition to Van Foreest, Fabiano Caruana, who beat Alireza Firouzja in round 2 of the Loser's Bracket, and Jules Moussard, who beat Dmitrij Kollars in the same round, are also in the running. | Photo: Screenshot of the live transmission",
@@ -922,28 +970,12 @@ news_feed (
          "title" : "The right way"
       },
       {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Satty Zhuldyz Rapid and Blitz Tournament that was played in Kazakhstan as a side event of the World Championship Match between Ding Liren and Ian Nepomniachtchi. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-241-highlights-from-the-satty-zhuldyz-rapid-and-blitz-tournament",
-         "pubDate" : "Tue, 23 May 2023 07:55:16 +0100",
-         "title" : "Endgame Magic #241: Highlights from the Satty Zhuldyz Rapid and Blitz Tournament"
-      },
-      {
          "description" : "GMs Wesley So and Jan-Krzysztof Duda extended their lead after six rounds at the Superbet Poland Rapid &#38;amp; Blitz 2023, after both scored 2/3 on the second day of rapid chess. Wins over GMs Kirill Shevchenko and Radoslaw Wojtaszek, respectively, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-2",
          "pubDate" : "Mon, 22 May 2023 16:22:00 -0700",
          "title" : "Sold Out Shoes And Rapid Blues, So and Duda Lead After Day 2"
-      },
-      {
-         "description" : "Round 6 of the Sharjah Masters saw Dommaraju Gukesh taking down former sole leader Haik Martirosyan with the white pieces. Sam Sevian and Grigoriy Oparin also won on Monday and are now sharing the lead with Gukesh. Twelve players stand a half point back, including Uzbek rising star Nodirbek Yakubboev, who upset top seed Parham Maghsoodloo in what turned out to be an eventful sixth round. | Photos: Tournament&rsquo;s Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-r6",
-         "pubDate" : "Tue, 23 May 2023 00:15:00 +0100",
-         "title" : "Sharjah Masters: Gukesh, Sevian and Oparin co-leaders"
       },
       {
          "description" : "GMs Jorden van Foreest, Dmitrij Kollars,&#38;nbsp;Fabiano Caruana, and Nodirbek Abdusattorov move on to the Champions Chess Tour ChessKid Cup 2023 Winners Semifinals in Division I. Respectively, they defeated GMs Hikaru Nakamura, Alireza Firouzja, Ale...",
@@ -992,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2410",
          "pubDate" : "Mon, 22 May 2023 12:30:53 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
-      },
-      {
-         "description" : "In round 6 of the Women's Grand Prix in Nicosia Dinara Wagner from Germany won against Oliwia Kiolbasa from Poland and now shares the lead with Kateryna Lagno, Harika Dronavalli and Tan Zhongyi. Alexandra Kosteniuk scored the second win of the day and her first win in the tournament. She defeated Nana Dzagnidze. | Fotos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frauen-grand-prix-dinara-wagner-joins-the-leading-group",
-         "pubDate" : "Mon, 22 May 2023 11:39:16 +0100",
-         "title" : "Women's Grand Prix: Dinara Wagner joins the leading group"
       },
       {
          "description" : "It is with great sadness that we must report the death of Harry Lamb. Harry had been in a care home for the last twelve...",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "Kazakhstan to host inaugural FIDE World Schools Team Championship"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2413",
-         "pubDate" : "Thu, 11 May 2023 12:45:59 +0000",
-         "title" : "2023 Kyrgyzstan Championship: Eldiar Orozbaev and Nurai Sovetbekova win titles"
-      },
-      {
          "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1642,14 +1658,6 @@ news_feed (
          "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
       },
       {
-         "description" : "The World Rapid Team Championship is a new major event organized by FIDE in partnership with the German company WR Group Holding GmbH. Create your...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-world-rapid-team-championship/",
-         "pubDate" : "Wed, 10 May 2023 08:00:29 +0000",
-         "title" : "NEW - World Rapid Team Championship"
-      },
-      {
          "description" : " \"The only thing better than winning at chess is making your opponent think they're winning, and then checkmating them.\" The above quote brought to mind the back-rank checkmate. I have seen it happen time and again in OTB chess at all levels. The definition of it in Wikipedia is misleading in my opinion: &#8220;Back-rank mates <a href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Weekly Tactics: Back-Rank Checkmate\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/weekly-tactics-back-rank-checkmate/\">Weekly Tactics: Back-Rank Checkmate</a> appeared first on <a rel=\"nofollow\" href=\"http",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1664,22 +1672,6 @@ news_feed (
          "link" : "https://aicf.in/tentative-calendar-for-the-period-2023-24/",
          "pubDate" : "Tue, 09 May 2023 16:35:11 +0000",
          "title" : "TENTATIVE CALENDAR FOR THE PERIOD 2023-24"
-      },
-      {
-         "description" : "<P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne09.jpg\" WIDTH=150 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> 5 May 2023 &#149; WALLINGFORD - From Gerry's children: <P> It is with very profound sadness, and extremely heavy hearts, we inform you that Geraldine Weeks took her last breath on May 2, 2023. She passed in the presence of adoring children after succumbing to a struggle to recover her natural vitality and vibrancy. <P> On September 4, 1930, Gerry arrived as the second child of Arthur Byron and Nina Pearl Backensto (nee Lichtenwalner) in Troy, NY. She shared her childhood, and early life, with her older brother Arthur (Art) Backensto, Jr. <P> She attended public schools in Troy, NY a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/freckles-and-diamonds.html",
-         "pubDate" : "Tue, 09 May 2023 15:21:00 +0000",
-         "title" : "Freckles and Diamonds"
-      },
-      {
-         "description" : " The 2023 African Individual Chess Championships (AICC) are currently taking place in Egypt at Hor Moheb Hotel in the historic town of Giza. There are 17 African federations along with five South African players playing under the African Chess Confederation banner. Seven Grandmasters lead the field of 71 players in the Open (44 Egyptian) and The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/\">2023 African Individual Championships</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/09/2023-african-individual-championships/",
-         "pubDate" : "Tue, 09 May 2023 13:07:49 +0000",
-         "title" : "2023 African Individual Championships"
       }
    ]
 }
