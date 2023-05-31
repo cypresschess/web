@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Queens' Online Chess Festival, a series of continental women's online blitz tournaments, is returning this summer. The third edition of the popular event, organized...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/queens-chess-festival-returns-in-july/",
+         "pubDate" : "Wed, 31 May 2023 15:22:28 +0000",
+         "title" : "Queens' Chess Festival returns in July"
+      },
+      {
+         "description" : "Hundreds of volunteers are needed for a major sporting event coming to Birmingham this summer. The 2023 International Blind Sport Federation (IBSA) World Games are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/volunteers-needed-for-major-sporting-event-in-birmingham/",
+         "pubDate" : "Wed, 31 May 2023 15:08:20 +0000",
+         "title" : "Volunteers needed for major sporting event in Birmingham"
+      },
+      {
+         "description" : "For the first time the CBM Extra comes with three opening videos: Nico Zwirs (Najdorf Variation with 6.Bg5), Sipke Ernst (3.h4 against the Gruenfeld), Romain Edouard (\"Critical Lines in the Dragon\" Part II) - total playing time over an hour. Plus the \"Lucky bag\" with analyses by Anish Giri, Spyridon Kapnisis, Adrian Mikhalchishin and many others!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-213",
+         "pubDate" : "Wed, 31 May 2023 13:31:46 +0100",
+         "title" : "New: CBM Extra 213"
+      },
+      {
          "description" : "The European Senior Championships have been underway in Acqui Terme since last Friday. John Nunn is the favourite in the 65+ category. However, with 4 out of 4 the German player Matthias Kierzek had the best start. In the Under-50s, six players are tied for the lead with 3.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-senior-championships-in-acqui-terme",
          "pubDate" : "Wed, 31 May 2023 12:31:09 +0100",
          "title" : "European Senior Championships in Acqui Terme"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2432",
+         "pubDate" : "Wed, 31 May 2023 11:27:36 +0000",
+         "title" : "Queens' Chess Festival returns in July"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100649532.cms\" />Magnus Carlsen, the reigning world rapid chess champion and a five-time world champion, expressed his confidence in India's potential to emerge as a leading chess nation, commending the country for its strategic approach and accomplishments in the sport. Carlsen, widely regarded as the best player of his generation, believes that India's success in the global chess circuit and its recent hosting of the Chess Olympiad are strong indicators of its progress.",
@@ -18,12 +50,20 @@ news_feed (
          "title" : "Carlsen believes India is on track to become a leading chess nation"
       },
       {
-         "description" : "Do you own an XBox? Then you will want to play against Fritz. The new program offers you a spectacular visual experience with 2D and 3D graphics. It is easy to use, with comfortable console operation that give you only really important functions that are needed for playing against Fritz. During the game the AI engine will make cheeky comments, but will offer you ingenious tips to improve your skill. Buy it now, for just $19.99!",
+         "description" : "Do you own an Xbox? Then you will want to play against Fritz. The new program offers you a spectacular visual experience with 2D and 3D graphics. It is easy to use, with comfortable console operation that give you only really important functions that are needed for playing against Fritz. During the game the AI engine will make cheeky comments, but will offer you ingenious tips to improve your skill. Buy it now, for just $19.99!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/brand-new-fritz-on-the-xbox",
          "pubDate" : "Wed, 31 May 2023 12:01:05 +0100",
-         "title" : "Brand new: Fritz on the XBox"
+         "title" : "Brand new: Fritz on the Xbox"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2433",
+         "pubDate" : "Wed, 31 May 2023 10:10:33 +0000",
+         "title" : "Munkhdalai Amiral and Erdenebayar Khuslen win Mongolian Championship"
       },
       {
          "description" : "On our last show, we checked out a very popular Dragon line in the Yugoslav Attack. And just a couple of days later, Chris had a similar game on the board. So, now the British GM had the choice to carry on with his suggested idea, or use a more active move. Well, you might have already guessed what Chris did, right? This game turned into a typical Dragon beauty, full of tactics, and surprising ideas. | Photo: John Upham",
@@ -890,14 +930,6 @@ news_feed (
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 3 Recap"
       },
       {
-         "description" : "In recent years there has been a revival of interest in the \"old masters\". Those who study the subject intensively, as Frank Hoffmeister does in his work \"Chess Theory from Stamma to Steinitz, 1735-1894\", will find that the ideas of the \"old ones\" are surprisingly young. Review and interview with the author.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-theory-from-stamma-to-steinitz-review-and-interview",
-         "pubDate" : "Wed, 24 May 2023 09:34:32 +0100",
-         "title" : "\"Chess Theory from Stamma to Steinitz - Review and Interview\""
-      },
-      {
          "description" : "WGM Dinara Wagner leapt to the clear top of the scoreboard by defeating fellow leader, GM Kateryna Lagno, in a tactical slugfest at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 in round seven. With this victory over the world number five, Wagner ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -920,14 +952,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-ding-anand-hou-yifan-global-chess-league",
          "pubDate" : "Tue, 23 May 2023 17:30:00 -0700",
          "title" : "Carlsen, Ding, Anand, Hou Yifan: Big Names Added To Global Chess League Lineup"
-      },
-      {
-         "description" : "Only two players finished the rapid section of the Superbet Poland event undefeated. One of them was Jan-Krzysztof Duda, the defending champion, who was the top scorer with 13/18 points. Levon Aronian also went nine rounds without a loss, as he goes into the blitz in sole second place with 12 points to his name. Wesley So and Maxime Vachier-Lagrave both collected 11 points on the first three days of action. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d3",
-         "pubDate" : "Wed, 24 May 2023 00:50:00 +0100",
-         "title" : "Superbet Poland: Duda wins rapid section"
       },
       {
          "description" : "",
@@ -1402,14 +1426,6 @@ news_feed (
          "title" : "Trigger Finger"
       },
       {
-         "description" : "Harry Grieve (above, left), the 22-year-old British champion, and Peter Roberson (above, right), 34, both completed their second grandmaster norms (three are needed for the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gm-norms/",
-         "pubDate" : "Mon, 15 May 2023 12:22:53 +0000",
-         "title" : "GM norms"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2390",
          "pubDate" : "Mon, 15 May 2023 09:57:12 +0000",
          "title" : "Global Chess League, created by Tech Mahindra and FIDE, Inks distribution pact with Protocol Sports Marketing"
-      },
-      {
-         "description" : "The Finance Council meetings were held on 22nd April. Though they were held as separate meetings, in this update I have covered all the significant...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/finance-council-meetings-report-2023/",
-         "pubDate" : "Mon, 15 May 2023 09:49:47 +0000",
-         "title" : "Finance Council meetings report 2023"
       },
       {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
@@ -1618,14 +1626,6 @@ news_feed (
          "title" : "National Under 17 Chess Championship - 2023 :Final Report"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2383",
-         "pubDate" : "Fri, 12 May 2023 08:35:28 +0000",
-         "title" : "FIDE Education Commission announces its 5th and 6th \"Preparation of Teachers\" courses"
-      },
-      {
          "description" : " The Russian and Chinese stars competed again just a week after their world title match, but at halfway in Romania they both trailed the in-form US champion Just eight days after their fateful title decider in Astana, China's victorious Ding Liren and his vanquished Russian opponent, Ian Nepomniachtchi, are trailing in Bucharest. The Superbet Classic, which finishes in the Romanian capital on Monday, is the first leg of the St Louis-organised <a href=\"https://grandchesstour.org/\" title=\"\">Grand Chess Tour</a> with seven of the current world top 10 taking part. Ding had considered withdrawal due to fatigue from the marathon series in Kazakhstan, and his first four games were halved before he ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1642,14 +1642,6 @@ news_feed (
          "title" : "Reflections on the 1st HBCU Chess Classic"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2382",
-         "pubDate" : "Thu, 11 May 2023 13:35:39 +0000",
-         "title" : "Kazakhstan to host inaugural FIDE World Schools Team Championship"
-      },
-      {
          "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1664,22 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-classic-5-firouzja-world-no-2-after-beating-ding",
          "pubDate" : "Thu, 11 May 2023 05:21:08 +0000",
          "title" : "Superbet Classic 5: Firouzja world no. 2 after beating Ding"
-      },
-      {
-         "description" : " Knowing is not doing. I know meditation helps me. Yet I'm not meditating every day. I know playing blitz games without focus isn't fun or good for my chess. Yet you'll find some of those games in my Lichess &#38; Chess.com profiles. In the same way, just having some knowledge about chess (doubled pawns are [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/learning-and-improving/\">Unlocking Chess Success: Knowledge Meets Skill</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/learning-and-improving/",
-         "pubDate" : "Wed, 10 May 2023 15:00:00 +0000",
-         "title" : "Unlocking Chess Success: Knowledge Meets Skill"
-      },
-      {
-         "description" : " The 2023 ACT Chess Championship is being held across the long weekend of the 26th - 29th May. This year sees a new venue, at the Eastlake Football Club in Griffith (NB NOT where the Gungahlin Chess Club meets ). I had a look at the venue today and it has plenty of space, as well as club facilities for meals and refreshments. It is a definite improvement over Campbell High School Hall (no offence Campbell High!), making this years event a must play for local players. Although this is a championship event, interstate players are welcome to take part, and are eligible for all prizes. However the title of ACT Champion for 2023 is awarded to the best scoring local player. <br /> Full details are",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-26-29th-may.html",
-         "pubDate" : "Wed, 10 May 2023 13:16:00 +0000",
-         "title" : "2023 ACT Chess Championship 26-29th May"
       }
    ]
 }
