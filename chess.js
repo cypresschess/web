@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Senior National Arbiter Sambalpur 21-22 May 2023, Odisha Certificates Link : https://aicf.online/SNA-Odisha.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-sambalpur-odisha-certificates/",
+         "pubDate" : "Wed, 31 May 2023 06:56:55 +0000",
+         "title" : "Senior National Arbiter Sambalpur, Odisha Certificates"
+      },
+      {
          "description" : "GMs Fabiano Caruana and Gukesh D, respectively defeated the world number-one and number-two, GMs Magnus Carlsen and Alireza Firouzja, in the first round of Norway Chess 2023. With wins in the classical portion, they lead the tournament with 3 poin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
