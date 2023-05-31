@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan Summer is quickly approaching. For many it is the time when tournament participation is in the cards. One way to get ready for them is to practice some interesting puzzles. Here are a few to wet your appetite. Scroll down slowly from one to <a href=\"https://chessimprover.com/stalemate-tuesday-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-2/\">Stalemate Tuesday (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/stalemate-tuesday-2/",
+         "pubDate" : "Wed, 31 May 2023 16:36:21 +0000",
+         "title" : "Stalemate Tuesday (2)"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess Plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of different chess-related activities, continues its <a href=\"https://chessarena.com/armageddon\">Armageddon Championship Series</a> with Europe and Africa week. Kickstarting on June 12, the high-stakes event will follow the same dramatic format and immense time pressure constraints as the previous Armageddon events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-05-31_18-44-37.jpg\" width=\"1280\" height=\"720\" alt=\"\" /> </div> World Chess launched the Armageddon Championship in March 2023, ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-series-announces-europe-and-africa-week/",
+         "pubDate" : "Wed, 31 May 2023 15:46:42 +0000",
+         "title" : "World Chess' Armageddon Series announces Europe and Africa Week"
+      },
+      {
+         "description" : "GM Nihal Sarin&#38;nbsp;won the early Titled Tuesday event on May 30 for his second tournament victory in a row after winning last week&#39;s late tournament as well. This week he scored 10.5 out of 11 points, one of the few players to achieve that score ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-holt-win-titled-tuesday-may-30-2023",
+         "pubDate" : "Wed, 31 May 2023 08:37:00 -0700",
+         "title" : "Near Perfection Nets Nihal Tournament Over Nepomniachtchi, Naroditsky"
+      },
+      {
          "description" : "The Queens' Online Chess Festival, a series of continental women's online blitz tournaments, is returning this summer. The third edition of the popular event, organized...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1056,14 +1080,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-2",
          "pubDate" : "Mon, 22 May 2023 16:22:00 -0700",
          "title" : "Sold Out Shoes And Rapid Blues, So and Duda Lead After Day 2"
-      },
-      {
-         "description" : "GMs Jorden van Foreest, Dmitrij Kollars,&#38;nbsp;Fabiano Caruana, and Nodirbek Abdusattorov move on to the Champions Chess Tour ChessKid Cup 2023 Winners Semifinals in Division I. Respectively, they defeated GMs Hikaru Nakamura, Alireza Firouzja, Ale...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-1",
-         "pubDate" : "Mon, 22 May 2023 14:27:00 -0700",
-         "title" : "2 Favorites Go Down: Van Foreest Upsets Nakamura, Kollars Beats Firouzja"
       },
       {
          "description" : " Malawi crowned FM Joseph Mwale and Priyasha Santosh Shriyan as their new national champions on May 15th. Both were defending champions, thus both mounted a successful defense. It would be Mwale's 8th title and Shriyan's 3rd. &#8220;I spent sleepless nights practising my game on opening and closing. I am delighted that it has paid off.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/\">Mwale, Shriyan win Malawi titles!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
