@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GMs Fabiano Caruana and Gukesh D, respectively, defeated the world number-one and number-two, GMs Magnus Carlsen and Alireza Firouzja, in the first round of Norway Chess 2023. With wins in the classical portion, they lead the tournament with 3 poi...",
+         "description" : "GMs Fabiano Caruana and Gukesh D, respectively defeated the world number-one and number-two, GMs Magnus Carlsen and Alireza Firouzja, in the first round of Norway Chess 2023. With wins in the classical portion, they lead the tournament with 3 poin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-1",
