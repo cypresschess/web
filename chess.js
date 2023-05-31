@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Senior Championships have been underway in Acqui Terme since last Friday. John Nunn is the favourite in the 65+ category. However, with 4 out of 4 the German player Matthias Kierzek had the best start. In the Under-50s, six players are tied for the lead with 3.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-senior-championships-in-acqui-terme",
+         "pubDate" : "Wed, 31 May 2023 12:31:09 +0100",
+         "title" : "European Senior Championships in Acqui Terme"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100649532.cms\" />Magnus Carlsen, the reigning world rapid chess champion and a five-time world champion, expressed his confidence in India's potential to emerge as a leading chess nation, commending the country for its strategic approach and accomplishments in the sport. Carlsen, widely regarded as the best player of his generation, believes that India's success in the global chess circuit and its recent hosting of the Chess Olympiad are strong indicators of its progress.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-believes-india-is-on-track-to-become-a-leading-chess-nation/articleshow/100649532.cms",
+         "pubDate" : "Wed, 31 May 2023 11:11:02 +0000",
+         "title" : "Carlsen believes India is on track to become a leading chess nation"
+      },
+      {
+         "description" : "Do you own an XBox? Then you will want to play against Fritz. The new program offers you a spectacular visual experience with 2D and 3D graphics. It is easy to use, with comfortable console operation that give you only really important functions that are needed for playing against Fritz. During the game the AI engine will make cheeky comments, but will offer you ingenious tips to improve your skill. Buy it now, for just $19.99!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brand-new-fritz-on-the-xbox",
+         "pubDate" : "Wed, 31 May 2023 12:01:05 +0100",
+         "title" : "Brand new: Fritz on the XBox"
+      },
+      {
+         "description" : "On our last show, we checked out a very popular Dragon line in the Yugoslav Attack. And just a couple of days later, Chris had a similar game on the board. So, now the British GM had the choice to carry on with his suggested idea, or use a more active move. Well, you might have already guessed what Chris did, right? This game turned into a typical Dragon beauty, full of tactics, and surprising ideas. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-chris-used-our-last-lesson-to-win",
+         "pubDate" : "Wed, 31 May 2023 11:02:18 +0100",
+         "title" : "The Monthly Dragon - Chris used our last lesson to win!"
+      },
+      {
+         "description" : "The UK's largest one-day chess event is back! ChessFest 2023 will take place at London's famous Trafalgar Square on Sunday 16 July from 11am until...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-is-back/",
+         "pubDate" : "Wed, 31 May 2023 09:32:05 +0000",
+         "title" : "ChessFest is back!"
+      },
+      {
+         "description" : "The spectators were treated to an entertaining opening round of the Norway chess tournament and saw two surprises. Carlsen was defeated by Caruana. And the duel of the young stars was won by Gukesh against Firouzja. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-caruana-beats-carlsen-gukesh-defeats-firouzja",
+         "pubDate" : "Wed, 31 May 2023 09:36:00 +0100",
+         "title" : "Norway Chess: Caruana beats Carlsen, Gukesh defeats Firouzja"
+      },
+      {
          "description" : "Senior National Arbiter Sambalpur 21-22 May 2023, Odisha Certificates Link : https://aicf.online/SNA-Odisha.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -946,14 +994,6 @@ news_feed (
          "title" : "Online Senior National Arbiter Seminar & Examination for North East & Andaman"
       },
       {
-         "description" : "Day 1 of the ChessKid Cup, a double elimination rapid (15+3) tournament, brought two big surprises: Alireza Firouzja lost his match against Dmitrij Kollars and Hikaru Nakamura lost against Jorden Van Foreest. Things went more smoothly for Fabiano Caruana and Nodirbek Abdusattorov: Caruana won 2.5-0.5 against Aleksandr Shimanov, as did Abdusattorov against Jules Moussard. | Graphics: Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-day-1-kollars-beats-firouzja-van-foreest-defeats-nakamura",
-         "pubDate" : "Tue, 23 May 2023 14:18:00 +0100",
-         "title" : "ChessKid Cup, Day 1: Kollars beats Firouzja, Van Foreest defeats Nakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -984,22 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2411",
          "pubDate" : "Tue, 23 May 2023 09:12:24 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 2 Recap"
-      },
-      {
-         "description" : "Wesley So and Jan-Krzysztof Duda are sharing the lead after six rounds at the rapid section of the Superbet tournament in Poland. So and Duda have collected 9 points each, and have already faced each other - in their round-6 direct encounter, So failed to make the most of a clear advantage. Levon Aronian stands in sole third place, while a winless Magnus Carlsen stands 4 points behind the co-leaders, on 5/12. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d2",
-         "pubDate" : "Tue, 23 May 2023 09:30:00 +0100",
-         "title" : "Superbet Poland: So and Duda share the lead"
-      },
-      {
-         "description" : "Rook endings have drawish tendencies, but pawn races can spice things up. In the diagram position it is Black to move. Do you see the way to win?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-right-way-2",
-         "pubDate" : "Tue, 23 May 2023 09:00:00 +0100",
-         "title" : "The right way"
       },
       {
          "description" : "GMs Wesley So and Jan-Krzysztof Duda extended their lead after six rounds at the Superbet Poland Rapid &#38;amp; Blitz 2023, after both scored 2/3 on the second day of rapid chess. Wins over GMs Kirill Shevchenko and Radoslaw Wojtaszek, respectively, ...",
@@ -1410,14 +1434,6 @@ news_feed (
          "title" : "Finance Council meetings report 2023"
       },
       {
-         "description" : "Details for this year's ECF Awards are now available and can be found here https://www.englishchess.org.uk/wp-content/uploads/2023/05/ECF-Awards-2023.pdf together with information on how to apply and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
-         "pubDate" : "Mon, 15 May 2023 08:00:27 +0000",
-         "title" : "ECF Awards 2023"
-      },
-      {
          "description" : "Jan-Krzysztof Duda won his first classical game of chess in 9.5 months after Alireza Firouzja's decision to dodge an early draw backfired spectacularly. That means Fabiano Caruana goes into the final round of the Superbet Chess Classic in Bucharest as the sole leader after he managed to draw against Anish Giri with 7 minutes more on his clock than he'd started with. The remaining three games were uneventful draws.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1664,14 +1680,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-26-29th-may.html",
          "pubDate" : "Wed, 10 May 2023 13:16:00 +0000",
          "title" : "2023 ACT Chess Championship 26-29th May"
-      },
-      {
-         "description" : "Fabiano Caruana won his first ever classical game against Ian Nepomniachtchi to take the sole lead after Round 4 of the Superbet Chess Classic in Bucharest. Fabiano described it as \"really satisfying\" to outplay his opponent from a position where a draw looked inevitable. The day's other winner was Alireza Firouzja, who scored his first classical win in 8 months after bamboozling Bogdan-Daniel Deac in a complicated clash.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-4-caruana-beats-nepomniachtchi",
-         "pubDate" : "Wed, 10 May 2023 10:48:46 +0000",
-         "title" : "Superbet Chess Classic 4: Caruana beats Nepomniachtchi"
       }
    ]
 }
