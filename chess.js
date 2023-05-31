@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After both winning with Black in their classical games, GMs Nodirbek Abdusattorov and Hikaru Nakamura are half a point behind GM Fabiano Caruana, who takes the sole lead in Norway Chess 2023 with 4.5 points after defeating GM Anish Giri in armaged...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-2",
+         "pubDate" : "Wed, 31 May 2023 16:17:26 -0700",
+         "title" : "Abdusattorov Wins Without Castling, Nakamura Outplays Gukesh With Black"
+      },
+      {
+         "description" : "Perfection is fine, but it might cause problems. Performance ratings are also fine, but perfect scores can cause problems in calculating appropriate performance ratings. Matthew Wilson, a chess player, mathematician and economics teacher at the University of Richmond, has found a way to solve these problems. | Pictures: Sinquefield Cup 2014, a top level tournmanent, in which Fabiano Caruana started with 7.0/7. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/minstrength-an-alternative-to-performance-rating",
+         "pubDate" : "Wed, 31 May 2023 22:00:00 +0100",
+         "title" : "MinStrength: An Alternative to Performance Rating"
+      },
+      {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan Summer is quickly approaching. For many it is the time when tournament participation is in the cards. One way to get ready for them is to practice some interesting puzzles. Here are a few to wet your appetite. Scroll down slowly from one to <a href=\"https://chessimprover.com/stalemate-tuesday-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-2/\">Stalemate Tuesday (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -906,7 +922,7 @@ news_feed (
          "title" : "Announcing Chess.com Community Bullet Brawl Tournaments"
       },
       {
-         "description" : "Everything is set for the 2023 European Senior Chess Championship which will be played from May 26 to June 3 in Acqui Terme, Italy. The Championship is played in two age categories: 50+ and 65+, with Women's 50+ section separately. Women's 65+ championship will be merged with the Open competition, with separate prizes for the best female players.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2023-starts-in-italy/\">Read More &#187;</a></span>",
+         "description" : "Everything is set for the 2023 European Senior Chess Championship which will be played from May 26 to June 3 in Acqui Terme, Italy. The Championship is played in two age categories: 50+ and 65+, with Women's 50+ section separately. Women's 65+ championship will be merged with the Open competition, with separate prizes for the best female players. The event broke the participation record with 180 players coming from more than 25 European federations. The top seeds are: GM John []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-senior-chess-championship-2023-starts-in-italy/",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-and-van-foreest-make-it-to-the-finals",
          "pubDate" : "Wed, 24 May 2023 13:43:03 +0100",
          "title" : "ChessKid Cup: Abdusattorov and Van Foreest make it to the final"
-      },
-      {
-         "description" : "After the rest day in Nicosia, Dinara Wagner celebrated her third victory in the seventh round of the Women's Grand Prix. The German representative, who is also the lowest-rated player in the field, emerged victorious against Kateryna Lagno after a complicated tactical fight and now is the sole leader in the standings. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r7",
-         "pubDate" : "Wed, 24 May 2023 12:05:00 +0100",
-         "title" : "Nicosia GP: Wagner beats Lagno, leads"
       },
       {
          "description" : "",
@@ -1074,14 +1082,6 @@ news_feed (
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 2 Recap"
       },
       {
-         "description" : "GMs Wesley So and Jan-Krzysztof Duda extended their lead after six rounds at the Superbet Poland Rapid &#38;amp; Blitz 2023, after both scored 2/3 on the second day of rapid chess. Wins over GMs Kirill Shevchenko and Radoslaw Wojtaszek, respectively, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-2",
-         "pubDate" : "Mon, 22 May 2023 16:22:00 -0700",
-         "title" : "Sold Out Shoes And Rapid Blues, So and Duda Lead After Day 2"
-      },
-      {
          "description" : " Malawi crowned FM Joseph Mwale and Priyasha Santosh Shriyan as their new national champions on May 15th. Both were defending champions, thus both mounted a successful defense. It would be Mwale's 8th title and Shriyan's 3rd. &#8220;I spent sleepless nights practising my game on opening and closing. I am delighted that it has paid off.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/\">Mwale, Shriyan win Malawi titles!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1122,7 +1122,7 @@ news_feed (
          "title" : "Harry Lamb 1942-2023"
       },
       {
-         "description" : "The&#160;European School Chess Championship 2023&#160;took place from 12th-22nd May in Durres, Albania. The event was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which was the official hotel and venue of the tournament. Bora Sahin (TUR) triumphed in the Open U7 section&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-champions-2023-crowned-in-durres-albania/\">Read More &#187;</a></span>",
+         "description" : "The&#160;European School Chess Championship 2023&#160;took place from 12th-22nd May in Durres, Albania. The event was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which was the official hotel and venue of the tournament. Bora Sahin (TUR) triumphed in the Open U7 section for the youngest participants. He scored 8.5/9 points to emerge as the sole winner of the event, ahead of Lukyan Huzela (UKR) []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-champions-2023-crowned-in-durres-albania/",
@@ -1226,7 +1226,7 @@ news_feed (
          "title" : "A Foundation for Beginners Ninety Two"
       },
       {
-         "description" : "The 21st edition of the European Union Youth Chess Championship U8-U14 will take place from 15th-24th August 2023 in Kouty nad Desnou, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/\">Read More &#187;</a></span>",
+         "description" : "The 21st edition of the European Union Youth Chess Championship U8-U14 will take place from 15th-24th August 2023 in Kouty nad Desnou, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/",
@@ -1522,7 +1522,7 @@ news_feed (
          "title" : "Superbet Chess Classic 7: Firouzja catches Caruana"
       },
       {
-         "description" : "The 2023 European School Chess Championship kicked off yesterday in Durres, Albania. More than 200 children from 25 federations compete in the event which is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. The Opening ceremony of the event took place shortly before the start of the first round&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/\">Read More &#187;</a></span>",
+         "description" : "The 2023 European School Chess Championship kicked off yesterday in Durres, Albania. More than 200 children from 25 federations compete in the event which is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Albanian Chess Federation and ECU Chief Executive Officer []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
@@ -1618,7 +1618,7 @@ news_feed (
          "title" : "Three hours of Catalan"
       },
       {
-         "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and U18, open and girls sections separately, in 9 rounds, swiss system. The time rate will be 90 minutes with an increment of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/",
@@ -1658,7 +1658,7 @@ news_feed (
          "title" : "Reflections on the 1st HBCU Chess Classic"
       },
       {
-         "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/\">Read More &#187;</a></span>",
+         "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations. Each championship is played in 9 rounds, swiss system, with time control of 1h 30 min + 30 sec increment for the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/",
