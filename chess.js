@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has published its new world ranking list. In June 2023, Magnus Carlsen is the only player with an Elo rating above 2800 and leads the world rankings by almost 70 points. The best young players, Firouzja, Gukesh, Abdusattorov and Erigaisi, are steadily improving.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-june-2023",
+         "pubDate" : "Thu, 01 Jun 2023 15:30:00 +0100",
+         "title" : "FIDE ratings June 2023"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100682012.cms\" />Sergey Karjakin, who last year was banned for publicly backing Russia's invasion of Ukraine, is unlikely to take part in the World Cup after his social media followers urged him not to participate without the Russian flag or anthem.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/karjakin-likely-to-skip-chess-world-cup-carlsens-coach-calls-for-sanctions/articleshow/100682012.cms",
+         "pubDate" : "Thu, 01 Jun 2023 13:31:14 +0000",
+         "title" : "Karjakin likely to skip World Cup, Carlsen's coach calls for sanctions"
+      },
+      {
+         "description" : "It&#38;rsquo;s a bird! It&#38;rsquo;s a plane! It&#38;rsquo;s superhero chess! Take on the superhero computers, and join the fight against a grandmaster turned supervillain. Meet the Chesstice League: Mighty Martin, The Green Pawn, Deadlost, Blunder Woman, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-with-the-chesstice-league",
+         "pubDate" : "Thu, 01 Jun 2023 06:00:00 -0700",
+         "title" : "Play Chess With The Chesstice League"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2435",
+         "pubDate" : "Thu, 01 Jun 2023 12:42:25 +0000",
+         "title" : "FIDE World Senior Championships 2023: Registration is open"
+      },
+      {
+         "description" : "From the 1st to the 6th of June 2023, as a part of the Maharashtra Chess Festival, two matches between world class players will take place in Nagpur, India. The first is between India's no.3 GM Vidit Gujrathi, who will take on the eight-time Russian Champion Peter Svidler. The second is between the top rated junior from the state Raunak Sadhwani and former World Championship Challenger Nigel Short. We have done extensive video interviews with the players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-class-matches-in-mahashtra",
+         "pubDate" : "Thu, 01 Jun 2023 13:38:29 +0100",
+         "title" : "World class matches in Mahashtra"
+      },
+      {
+         "description" : " Local FM Albert Winkelman is currently playing in the 2023 Dubai Open. He has had a pretty solid start in what is a strong event, scoring 2/5 against 4GM's and an IM. Although his points have come from draws (plus one loss) he has picked up rating points from each game due to the strength of his opponents. The field isn't quite as strong as the recently completed Sharjah event, but it still attracted 49 GM's in the 86 player field. For the non GM's this can lead to some tough games, as this game from the 1st round demonstrates. <br /> <b>Bai,Adelard (2409) - Chigaev,Maksim (2628) [E17]</b><br /> Dubai Open 2023 - Category A Dubai Chess & Culture Club, Un (1.12), 27.05.2023 <script> new PgnV",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/dubai-open-2023.html",
+         "pubDate" : "Thu, 01 Jun 2023 12:05:00 +0000",
+         "title" : "Dubai Open 2023"
+      },
+      {
          "description" : "Michael Adams and Katarzyna Toma were the favourites to win the Open and Women's Championships of the English Chess Federation. However, both winners needed a bit of luck in some of their games. The ECF Championship is a very young tournament and many of the participants were youngsters. | Photos: English Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/michael-adams-and-katarzyna-toma-win-english-championships",
          "pubDate" : "Thu, 01 Jun 2023 12:38:33 +0100",
          "title" : "Michael Adams and Katarzyna Toma win English Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2434",
+         "pubDate" : "Thu, 01 Jun 2023 11:26:46 +0000",
+         "title" : "FIDE June 2023 rating list published"
       },
       {
          "description" : "The second round of the Norway Chess Tournament saw some very competitive games, which didn't always have a deserving winner. Nakamura was lucky to beat Gukesh, Firouzja scored against Mamedyarov and Abdusattorov had the better end against Aryan Tari. Carlsen and Caruana won in Armageddon against So and Giri. | Photos: Lennart Ootes/ Norway Chess",
@@ -810,30 +866,6 @@ news_feed (
          "title" : "Superbet Rapid & Blitz Poland - Games and results"
       },
       {
-         "description" : "After 8 of 9 rounds, no fewer than eight players with 5.5/8 share the lead in the Sharjah Masters. One of them is the young Indian grandmaster Arjun Erigaisi (pictured), who in Round 8 with Black impressively showed why active piece play is often more important than pawn structure and what can happen when the king is stranded in the centre. | Photo: Facebook page of the Sharjah Masters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-eight-players-share-the-lead-going-into-the-final-round",
-         "pubDate" : "Thu, 25 May 2023 13:36:59 +0100",
-         "title" : "Sharjah Masters: Eight players share the lead going into the final round"
-      },
-      {
-         "description" : "In Game of the Week #569, Merijn van Delft shows why it's good to be prepared and looks at how Samuel Sevian won convincingly against Nodirbek Yakubboev's King's Indian at the Sharjah Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-569-samuel-sevian-vs-nodirbek-yakubboev",
-         "pubDate" : "Thu, 25 May 2023 13:28:23 +0100",
-         "title" : "Game of the Week #569: Samuel Sevian vs Nodirbek Yakubboev"
-      },
-      {
-         "description" : "The 6th Sharjah Masters is taking place from May 17th (first round) to 26th (departure). Participating are over 75 grandmasters, including 22 of the world's top 100 players. There are a lot of young talents, players in their late teens and early twenties, all with ratings around 2700. | Follow the last round live with computer-assisted analysis, starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
-         "pubDate" : "Thu, 25 May 2023 12:45:00 +0100",
-         "title" : "Sharjah Masters, Round 9 - Live!"
-      },
-      {
          "description" : "The championships will be held in Lublin, Poland from August 18 (arrivals) to August 28 (departures) 2023. Only players with communication (hearing) impairments, visual impairments...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1032,14 +1064,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
          "pubDate" : "Tue, 23 May 2023 11:32:10 -0500",
          "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
-      },
-      {
-         "description" : "The worldwide chess boom reached new heights on Tuesday as it was revealed that the game secured a first-ever regular primetime spot on cable TV. Chess.com, the world&#39;s leading chess platform, announced a landmark broadcast partnership with Game...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-on-cable-tv-game-to-launch-first-primetime-chess-show-in-north-america",
-         "pubDate" : "Tue, 23 May 2023 08:45:00 -0700",
-         "title" : "Chess On Cable TV: Game+ To Launch North America's First Primetime Chess Show"
       },
       {
          "description" : " Entries for the 2023 ACT Chess Championship close on Friday at 6pm (First round is at 7pm). At this stage the entry list stands at 47 players, with IM Junta Ikeda as the top seed. He is likely to be challenged by a group of younger local players, with Willis Lo and Harry Press the next 2 seeds. The event is being played at the Eastlake Club in Griffth for the first time, with the club providing an excellent venue both in terms of space, and service. Meals will be available at the venue throughout (but no cheese toasties this year!). Based on the current entries, there will be at least $1500 in prizes, with $500 for 1st. It is not too late to enter, and you can do so at <a href=\"https://www.",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2385",
-         "pubDate" : "Fri, 12 May 2023 22:32:07 +0000",
-         "title" : "2023 Superbet Chess Classic: Day 6 Recap"
-      },
-      {
          "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1632,14 +1648,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/",
          "pubDate" : "Fri, 12 May 2023 09:34:04 +0000",
          "title" : "European Youth Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2354",
-         "pubDate" : "Fri, 12 May 2023 09:13:31 +0000",
-         "title" : "World Rapid Team Championship: Registration is open"
       },
       {
          "description" : "National Under 17 Open Chess Championship - 2023, Organised by : District Chess Association, Jalandhar, Punjab at DAV Institute of Engineering and Technology, Kabir Nagar,Jalandhar,",
