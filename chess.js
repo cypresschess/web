@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Michael Adams and Katarzyna Toma were the favourites to win the Open and Women's Championships of the English Chess Federation. However, both winners needed a bit of luck in some of their games. The ECF Championship is a very young tournament and many of the participants were youngsters. | Photos: English Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michael-adams-and-katarzyna-toma-win-english-championships",
+         "pubDate" : "Thu, 01 Jun 2023 12:38:33 +0100",
+         "title" : "Michael Adams and Katarzyna Toma win English Championships"
+      },
+      {
+         "description" : "The second round of the Norway Chess Tournament saw some very competitive games, which didn't always have a deserving winner. Nakamura was lucky to beat Gukesh, Firouzja scored against Mamedyarov and Abdusattorov had the better end against Aryan Tari. Carlsen and Caruana won in Armageddon against So and Giri. | Photos: Lennart Ootes/ Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-round-2-fighting-chess-in-stavanger",
+         "pubDate" : "Thu, 01 Jun 2023 12:03:19 +0100",
+         "title" : "Norway Chess, Round 2: Fighting chess in Stavanger"
+      },
+      {
+         "description" : "The Zalakaros Open is taking place from 3&#x2013;11 June 2023 in Zalakaros, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gergely Aczel, Adam Horvath, Vladyslav Larkin, Tamas Vanczak, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zalakaros-open-2023-live/",
+         "pubDate" : "Thu, 01 Jun 2023 10:40:00 +0000",
+         "title" : "Zalakaros Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Norway Chess Open is a 10-round Swiss raking place from the 27 May to the 3 June in Clarion Hotel Energy, Ishockeyveien 2, 4021 Stavanger, Norway. The time control is the FIDE standard with 90 minutes for 40 moves and then 30 minutes for the rest of the game, with a 30 seconds increment []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-open-2023-live/",
+         "pubDate" : "Thu, 01 Jun 2023 10:17:06 +0000",
+         "title" : "Norway Chess Open 2023 - LIVE"
+      },
+      {
          "description" : "In Game of the Week #570, Merijn van Delft analyses how Fabiano Caruana defeated Magnus Carlsen in the first round of the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -384,22 +416,6 @@ news_feed (
          "link" : "https://www.chessdom.com/u16-german-championship-live/",
          "pubDate" : "Mon, 29 May 2023 07:00:00 +0000",
          "title" : "U16 German Championship - LIVE"
-      },
-      {
-         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-german-championship-live/",
-         "pubDate" : "Mon, 29 May 2023 06:45:00 +0000",
-         "title" : "U14 German Championship - LIVE"
-      },
-      {
-         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-german-championship-live/",
-         "pubDate" : "Mon, 29 May 2023 06:30:00 +0000",
-         "title" : "U12 German Championship - LIVE"
       },
       {
          "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point.",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sharjah-masters-2023-live",
          "pubDate" : "Thu, 25 May 2023 12:45:00 +0100",
          "title" : "Sharjah Masters, Round 9 - Live!"
-      },
-      {
-         "description" : "In the eighth round of the Women's Grand Prix in Nicosia, five of the six games ended drawn. Only Bibisara Assaubayeva scored a full point, as she got the better of Bela Khotenashvili. Dinara Wagner retained the lead with her draw against Polina Shuvalova. Olga Milko, Business Development Director of sponsor Freedom Finance Europe, played the ceremonial first move. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r8",
-         "pubDate" : "Thu, 25 May 2023 11:10:00 +0100",
-         "title" : "Nicosia GP: Wagner remains in the lead, Assaubayeva scores"
       },
       {
          "description" : "The championships will be held in Lublin, Poland from August 18 (arrivals) to August 28 (departures) 2023. Only players with communication (hearing) impairments, visual impairments...",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/11/reflections-on-the-1st-hbcu-chess-classic/",
          "pubDate" : "Thu, 11 May 2023 22:52:00 +0000",
          "title" : "Reflections on the 1st HBCU Chess Classic"
-      },
-      {
-         "description" : "The European School Chess Championship 2023 starts this Saturday in Durres, Albania and will be played from 13-21 May in the 5-star Blue FAFA Resort Durres. The event is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, with the participation of more than 210 players from 25 European federations.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/",
-         "pubDate" : "Thu, 11 May 2023 09:56:52 +0000",
-         "title" : "European School Chess Championship 2023 starts in Durres, Albania"
       }
    ]
 }
