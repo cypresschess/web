@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Game of the Week #570, Merijn van Delft analyses how Fabiano Caruana defeated Magnus Carlsen in the first round of the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-570-f-caruana-vs-m-carlsen",
+         "pubDate" : "Thu, 01 Jun 2023 09:00:00 +0100",
+         "title" : "Game of the Week #570: F. Caruana vs M. Carlsen"
+      },
+      {
+         "description" : "In today's episode, Honorata shows us how powerful her favourite chess piece can become, if played correctly - the Knight. The example she chose, is a game played by the world champions Alexander Alekhine and Max Euwe. The harmony of Alekhine's pieces blends in beautifully, as Euwe cannot progress at all. For the Polish WFM, this is one of the most beautiful games!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alekhine-s-knight-honorata-s-harmony",
+         "pubDate" : "Thu, 01 Jun 2023 07:21:18 +0100",
+         "title" : "Alekhine's Knight - Honorata's Harmony"
+      },
+      {
          "description" : "After both winning with Black in their classical games, GMs Nodirbek Abdusattorov and Hikaru Nakamura are half a point behind GM Fabiano Caruana, who takes the sole lead in Norway Chess 2023 with 4.5 points after defeating GM Anish Giri in armaged...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -826,14 +842,6 @@ news_feed (
          "title" : "Mind Games And Close Calls: Shuvalova Unnerves Wagner"
       },
       {
-         "description" : "Magnus Carlsen ended the first day of blitz at the Superbet Poland tournament with five consecutive wins, thus climbing to sole second place a half point behind Jan-Krzysztof Duda. Duda scored 4&frac12; points to remain atop the standings, as he collected three wins, three draws and three losses on Wednesday. Wesley So stands in third place, merely a half point behind Carlsen. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d4",
-         "pubDate" : "Thu, 25 May 2023 02:40:00 +0100",
-         "title" : "Superbet Poland: Carlsen on a rampage, wins five games in a row"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2418",
          "pubDate" : "Wed, 24 May 2023 16:29:59 +0000",
          "title" : "5th FIDE World Championships for People with Disabilities: Registration is open "
-      },
-      {
-         "description" : "Nodirbek Abdusattorov (picture) and Jorden Van Foreest are in the final of the Winner's Bracket of the ChessKid Cup. In the semi-finals Abdusattorov beat Fabiano Caruana and Van Foreest won against Dmitrij Kollars, who missed a number of good chances. Co-favourite Hikaru Nakamura, on the other hand, was eliminated from the tournament, losing to Alireza Firouzja in the Losers' Bracket. | Photo: Nodirbek Abdusattorov at the Tata Steel Tournament 2023 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-and-van-foreest-make-it-to-the-finals",
-         "pubDate" : "Wed, 24 May 2023 13:43:03 +0100",
-         "title" : "ChessKid Cup: Abdusattorov and Van Foreest make it to the final"
       },
       {
          "description" : "",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-starts-in-durres-albania/",
          "pubDate" : "Thu, 11 May 2023 09:56:52 +0000",
          "title" : "European School Chess Championship 2023 starts in Durres, Albania"
-      },
-      {
-         "description" : "19-year-old Alireza Firouzja has regained the world no. 2 spot after beating World Champion Ding Liren in Round 5 of the Superbet Chess Classic in Bucharest. Ding had winning chances of his own, as did Ian Nepomniachtchi, who for most of the round was putting pressure on Maxime Vachier-Lagrave. A few careless moves, however, and MVL took over to make it a red-letter day for French chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-classic-5-firouzja-world-no-2-after-beating-ding",
-         "pubDate" : "Thu, 11 May 2023 05:21:08 +0000",
-         "title" : "Superbet Classic 5: Firouzja world no. 2 after beating Ding"
       }
    ]
 }
