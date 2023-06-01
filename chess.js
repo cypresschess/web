@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2436",
+         "pubDate" : "Thu, 01 Jun 2023 18:55:25 +0000",
+         "title" : "Call for submissions: FIDE Veterans Support Program 2023, second installment"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on the power of preparation, using her own games. 2023.06.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/power-preparation-prepare-pro-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yWKAULgfsKw.jpg?itok=2QrhsSSk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/power-preparation-prepare-pro-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 01 Jun 2023 16:34:46 +0000",
+         "title" : "The Power of Preparation! | Prepare Like A Pro - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "FIDE has published its new world ranking list. In June 2023, Magnus Carlsen is the only player with an Elo rating above 2800 and leads the world rankings by almost 70 points. The best young players, Firouzja, Gukesh, Abdusattorov and Erigaisi, are steadily improving.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -954,14 +970,6 @@ news_feed (
          "title" : "Carlsen Ends the Blitz Day 5-0! | D4 #SuperbetRapidBlitzPoland"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 3-1-5 on the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-magnus-got-motivated-after-losing-me-d4-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sVFh0debkHo.jpg?itok=UGaYymAj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-magnus-got-motivated-after-losing-me-d4-superbetrapidblitzpoland",
-         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
-         "title" : "Wesley: Magnus Got Motivated After Losing to Me! | D4 #SuperbetRapidBlitzPoland"
-      },
-      {
          "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/",
          "pubDate" : "Sat, 13 May 2023 15:33:39 +0000",
          "title" : "Hip-Hop Chess icon Banjoko launches \"64 Blocks\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2386",
-         "pubDate" : "Sat, 13 May 2023 15:07:14 +0000",
-         "title" : "Andras Adorjan (1950-2023)"
       },
       {
          "description" : " Every single time I thought I found an extremely sophisticated, &#8220;genius&#8221; solution to a simple problem, I was mistaken. I can recall dozens of games where I made silly mistakes simply because I wanted to be too smart. I quickly spotted the logical, obvious move, but then continued to calculate and found an &#8216;even smarter' [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-genius/\">Don't Be A Genius</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
