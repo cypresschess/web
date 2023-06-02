@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pavel Kirs, the organizer of one of the biggest open tournaments in the Czech Republic, was forced to make a U-turn after facing heavy criticism and intervention by FIDE as he initially refused to accept registrations from Ukrainians with military...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/czech-open-tournament-organizer-admits-mistake",
+         "pubDate" : "Fri, 02 Jun 2023 15:58:55 -0700",
+         "title" : "Tournament Organizer Makes U-Turn On Ukrainians After Criticism"
+      },
+      {
+         "description" : "The Trusts Open 2023 is taking place from June 3-5, 2023, in Auckland, New Zealand. The format is a six-round Swiss. The time control is 90 minutes for the entire game plus a 30-second increment starting on move one. The top five rated players are Ben Hague, Felix Xie, Alphaeus Wei Ern Ang, Robert W []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/trusts-open-2023-live/",
+         "pubDate" : "Fri, 02 Jun 2023 21:23:45 +0000",
+         "title" : "Trusts Open 2023 - LIVE"
+      },
+      {
+         "description" : "The 3rd Bangladesh Police Open is taking place from 2&#x2013;8 June 2023 in Dhaka, Bangladesh. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Atiqur Rahman, Rahman Md. Anisur, Amin Md. Ruhul, Asadujjaman Md, Chakma Subas, Md. Tayabur Rahman, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-bangladesh-police-open-live/",
+         "pubDate" : "Fri, 02 Jun 2023 21:03:19 +0000",
+         "title" : "3rd Bangladesh Police Open - LIVE"
+      },
+      {
+         "description" : "The Cape Verde Championship is taking place from 01-04 June 2023 in Vila Dos Picos, Cape Verde. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is knockout tournament . Parallel : 2nd Maharashtra Open / Norway Chess / 23rd Dubai Open A / 23rd Dubai Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cape-verde-championship-live/",
+         "pubDate" : "Fri, 02 Jun 2023 19:04:00 +0000",
+         "title" : "Cape Verde Championship - LIVE"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King discusses a tricky question: what to do when your opponent advances his or her h-pawn early in the game? Block, restrain or ignore? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +74,44 @@ news_feed (
          "title" : "2nd Maharashtra Open - Participants"
       },
       {
+         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-b-live/",
+         "pubDate" : "Fri, 02 Jun 2023 11:00:00 +0000",
+         "title" : "French Team Championship Top 16, Pool B - LIVE"
+      },
+      {
+         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-b-participants/",
+         "pubDate" : "Fri, 02 Jun 2023 11:00:00 +0000",
+         "title" : "French Team Championship Top 16, Pool B - Participants"
+      },
+      {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-from-26-to-27-march-2023-final-report/",
          "pubDate" : "Fri, 02 Jun 2023 10:39:28 +0000",
          "title" : "Online Senior National Arbiter Seminar & Examination from 26 to 27 May 2023 : Final Report"
+      },
+      {
+         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-a-live/",
+         "pubDate" : "Fri, 02 Jun 2023 10:15:00 +0000",
+         "title" : "French Team Championship Top 16, Pool A - LIVE"
+      },
+      {
+         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-a-participants/",
+         "pubDate" : "Fri, 02 Jun 2023 10:00:00 +0000",
+         "title" : "French Team Championship Top 16, Pool A - Participants"
       },
       {
          "description" : "Fabiano Caruana and Alireza Firouzja (photo) won straight games against Aryan Tari and Nodirbek Abdusattorov in round 3 of the Norway Chess Tournament. Magnus Carlsen, D. Gukesh and Anish Giri picked up an extra half point in Armageddon after their draws. Caruana leads the field. | Photo: Norway Chess/ Lennart Ootes",
@@ -208,14 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/zalakaros-open-2023-live/",
          "pubDate" : "Thu, 01 Jun 2023 10:40:00 +0000",
          "title" : "Zalakaros Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Norway Chess Open is a 10-round Swiss raking place from the 27 May to the 3 June in Clarion Hotel Energy, Ishockeyveien 2, 4021 Stavanger, Norway. The time control is the FIDE standard with 90 minutes for 40 moves and then 30 minutes for the rest of the game, with a 30 seconds increment []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-open-2023-live/",
-         "pubDate" : "Thu, 01 Jun 2023 10:17:06 +0000",
-         "title" : "Norway Chess Open 2023 - LIVE"
       },
       {
          "description" : "In Game of the Week #570, Merijn van Delft analyses how Fabiano Caruana defeated Magnus Carlsen in the first round of the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -536,54 +592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2429",
          "pubDate" : "Mon, 29 May 2023 08:53:36 +0000",
          "title" : "Preliminary confirmation of participation in WSTC 2023: Deadline extended"
-      },
-      {
-         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-youth-championship-u10-participants/",
-         "pubDate" : "Mon, 29 May 2023 08:11:54 +0000",
-         "title" : "Swiss Youth Championship U10 - Participants"
-      },
-      {
-         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-youth-championship-u12-participants/",
-         "pubDate" : "Mon, 29 May 2023 08:10:12 +0000",
-         "title" : "Swiss Youth Championship U12 - Participants"
-      },
-      {
-         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-youth-championship-u14-participants/",
-         "pubDate" : "Mon, 29 May 2023 08:06:44 +0000",
-         "title" : "Swiss Youth Championship U14 - Participants"
-      },
-      {
-         "description" : "The Swiss Youth Championship U16 is taking place from 26-29 May 2023 in Olten, Switzerland. The time control is 90 minutes for the whole game with a 30-second increment from move one. It is 7-round Swiss system tournament. Parallel : Norway Chess / 23rd Dubai Open A / 23rd Dubai Open B / Limburg Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-youth-championship-u16-participants/",
-         "pubDate" : "Mon, 29 May 2023 08:05:06 +0000",
-         "title" : "Swiss Youth Championship U16 - Participants"
-      },
-      {
-         "description" : "The Swiss Youth Championship is a 7-round Swiss system tournament taking place in Olten, Switzerland, between May 26th and May 29th 2023. Four sections will be broadcasted live: U16 / U14 / U12 / U10 . The time control is 90 minutes for the whole game with a 30-second increment from move one. Parallel : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-youth-championship-u10-u16-live/",
-         "pubDate" : "Mon, 29 May 2023 08:01:45 +0000",
-         "title" : "Swiss Youth Championship U10 - U16 - LIVE"
-      },
-      {
-         "description" : "The 10th Cherry Blossom Classic&#xA0;will take place from 24-29 May 2023 in Dulles, Virginia, USA. The tournament has prize fund of 12 000 USD &#x2013; 4000 for the winner. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.&#xA0;The tournament system is 9-round Swiss and top five []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/10th-cherry-blossom-classic-open-live/",
-         "pubDate" : "Mon, 29 May 2023 07:55:18 +0000",
-         "title" : "10th Cherry Blossom Classic Open - LIVE"
       },
       {
          "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point.",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2416",
          "pubDate" : "Tue, 23 May 2023 21:46:43 +0000",
          "title" : "FIDE WGP Cyprus R07: Missed opportunities "
-      },
-      {
-         "description" : "The final day of rapid chess at the Superbet Poland Rapid &#38;amp; Blitz 2023 saw local hope GM Jan-Krzysztof Duda take the sole lead after moving to an undefeated 6.5/9 in his bid to defend his 2022 title. GM Maxime Vachier-Lagrave made a late cha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2023-superbet-poland-rapid-blitz-day-3",
-         "pubDate" : "Tue, 23 May 2023 14:40:00 -0700",
-         "title" : "Duda On Track For Title After Undefeated Rapid Run"
       },
       {
          "description" : "",
