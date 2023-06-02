@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-from-26-to-27-march-2023-final-report/",
+         "pubDate" : "Fri, 02 Jun 2023 10:39:28 +0000",
+         "title" : "Online Senior National Arbiter Seminar & Examination from 26 to 27 May 2023 : Final Report"
+      },
+      {
+         "description" : "Fabiano Caruana and Alireza Firouzja (photo) won straight games against Aryan Tari and Nodirbek Abdusattorov in round 3 of the Norway Chess Tournament. Magnus Carlsen, D. Gukesh and Anish Giri picked up an extra half point in Armageddon after their draws. Caruana leads the field. | Photo: Norway Chess/ Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-round-3-caruana-extends-lead-firouzja-beats-abdusattorov",
+         "pubDate" : "Fri, 02 Jun 2023 10:33:06 +0100",
+         "title" : "Norway Chess, Round 3: Caruana extends lead, Firouzja beats Abdusattorov"
+      },
+      {
          "description" : " The US champion beat the Norwegian for the first time in eight years, then scored in his next two games to lead the 10-player event Fabiano Caruana got off to a fine start this week at the Norway Chess elite event in Stavanger, where the US champion defeated Magnus Carlsen, the world No 1, in the opening round and was a clear leader after three of the nine rounds. Carlsen, in contrast, trails in eighth place, despite scoring after replays in his next two games against Wesley So and Hikaru Nakamura. The Norwegian has won Stavanger for four years in a row, so it is too early to discount his recovery chances, but with only six rounds left his task is already difficult. <a href=\"https://www.the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1656,22 +1672,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/three-hours-of-catalan.html",
          "pubDate" : "Fri, 12 May 2023 13:00:00 +0000",
          "title" : "Three hours of Catalan"
-      },
-      {
-         "description" : "The European Chess Union (ECU), the Romanian Chess Federation and the Universul Chess Club invite all National Chess Federations of ECU to participate at European Youth Chess Championship 2023 to be held in Mamaia, Romania, between 04 (arrival) 15 (departure) September 2023. The event will be played in 6 age categories U8, U10, U12, U14, U16 and U18, open and girls sections separately, in 9 rounds, swiss system. The time rate will be 90 minutes with an increment of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-official-invitation/",
-         "pubDate" : "Fri, 12 May 2023 09:34:04 +0000",
-         "title" : "European Youth Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "National Under 17 Open Chess Championship - 2023, Organised by : District Chess Association, Jalandhar, Punjab at DAV Institute of Engineering and Technology, Kabir Nagar,Jalandhar,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-17-girls-chess-championship-2023-final-report/",
-         "pubDate" : "Fri, 12 May 2023 09:11:24 +0000",
-         "title" : "National Under 17 Chess Championship - 2023 :Final Report"
       }
    ]
 }
