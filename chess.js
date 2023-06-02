@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on the power of preparation, using her own games. 2023.06.01<br /> Dorsa Derakhshani vs. Swapnil Dhopade, 16th Dubai Open 2014: B71 Sicilian, dragon, Levenfish variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3890055\">https://www.365chess.com/game.php?back=1&amp;gid=3890055</a><br /> Derakhshani vs. Guadalupe Besso, 2014: B78 Sicilian, dragon, Yugoslav attack, 10.O-O-O<br /> Derakhshani vs. Amin Tabatabaei, 2013: B76 Sicilian, dragon, Yugoslav attack, 7...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff<",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dorsas-three-dragons-prepare-pro-im-dorsa-derakhshani",
+         "pubDate" : "Fri, 02 Jun 2023 01:35:19 +0000",
+         "title" : "Dorsa's Three Dragons! | Prepare Like A Pro - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "After winning his second classical game, against GM Aryan Tari,&#38;nbsp;GM Fabiano Caruana extends his lead in Norway Chess 2023 to a point and a half above the field with 7.5/9. Besides the aforementioned game, Thursday was a good day to play the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-fans-looking-%E2%80%98good-memories%E2%80%99-d2-superbetrapidblitzpoland",
          "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
          "title" : "Chess Fans Looking for 'Good Memories' | D2 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 6-1-2 on the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-ends-blitz-day-5-0-d4-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/40j2zOOr-t8.jpg?itok=RJvOy0iY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-ends-blitz-day-5-0-d4-superbetrapidblitzpoland",
-         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
-         "title" : "Carlsen Ends the Blitz Day 5-0! | D4 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
