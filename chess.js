@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once upon a time we all looked quite different - even some famous chess players. Our author has selected some childhood and youth photographs of famous chess grandmasters and invites you to guess. For example, who are the two perky new wave girls? Background singers from A-ha?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/photo-quiz-when-we-were-young",
+         "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
+         "title" : "Photo quiz - When we were young"
+      },
+      {
+         "description" : "The advance of the h-pawn on move three is certainly not in line with the basic rules of how to play the opening. But in recent years a number of world-class players have been successful with it, including Magnus Carlsen, Ding Liren and Maxime Vachier-Lagrave. And just a weeks ago at the Superbet Chess Classic in Bucharest, Fabiano Caruana managed an impressive winning game with it on his way to winning the tournament against MVL. Sipke Ernst recorded a FritzTrainer on 3.h4 against the Gr&uuml;nfeld and King's Indian half a year ago. In the new CBM Extra #213 he provides an update with current material - you can see an excerpt of his analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/3-h4-against-the-gruenfeld-and-king-s-indian",
+         "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
+         "title" : "3.h4 against the Gruenfeld and King's Indian"
+      },
+      {
+         "description" : "The 2nd Maharashtra Open is taking place from 1&#x2013;9 June 2023 in Nagpur, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of Luka Paichadze, Vladimir Burmakin, Viacheslav V. Zakhartsov, M.R. Venkatesh, Boris Savchenko, Shete Sammed Jaykumar, Aleksej Aleksandrov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-maharashtra-open-live/",
+         "pubDate" : "Fri, 02 Jun 2023 14:30:00 +0000",
+         "title" : "2nd Maharashtra Open - LIVE"
+      },
+      {
+         "description" : "The 2nd Maharashtra Open is taking place from 1&#x2013;9 June 2023 in Nagpur, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of Luka Paichadze, Vladimir Burmakin, Viacheslav V. Zakhartsov, M.R. Venkatesh, Boris Savchenko, Shete Sammed Jaykumar, Aleksej Aleksandrov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-maharashtra-open-participants/",
+         "pubDate" : "Fri, 02 Jun 2023 14:14:14 +0000",
+         "title" : "2nd Maharashtra Open - Participants"
+      },
+      {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -546,22 +578,6 @@ news_feed (
          "title" : "10th Cherry Blossom Classic Open - LIVE"
       },
       {
-         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-german-championship-live/",
-         "pubDate" : "Mon, 29 May 2023 07:10:26 +0000",
-         "title" : "U18 German Championship - LIVE"
-      },
-      {
-         "description" : "The German Youth Individual Championship with its 700+ participants is Germany's major youth championship for individuals, organized by the &#x201C;Deutsche Schachjugend&#x201D; (DSJ) in Willingen, Sauerland. Players compete in age groups under-10 through under-18 open/boys and girls tournaments (10 tournaments in all). In the under-10 groups players receive 75 minutes for 40 moves, then 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-german-championship-live/",
-         "pubDate" : "Mon, 29 May 2023 07:00:00 +0000",
-         "title" : "U16 German Championship - LIVE"
-      },
-      {
          "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -802,28 +818,12 @@ news_feed (
          "title" : "Chess: Carlsen loses to a Pole in Poland with Polish Defence before winning run"
       },
       {
-         "description" : "Dinara Wagner's undefeated run came to an end in the ninth round of the Women's Grand Prix in Nicosia. She lost her game with black against Gunay Mammadzada, but remains atop the standings, as she is now sharing the lead with Harika Dronavalli and Tan Zhongyi. Aleksandra Goryachkina, who is in the race to qualify for the Candidates, lost to Bella Khotenashvili. Josie Christodoulou, the Gender Equality Commissioner in Cyprus, made the ceremonial first move. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r9",
-         "pubDate" : "Fri, 26 May 2023 02:40:00 +0100",
-         "title" : "Nicosia GP: Three co-leaders as Wagner loses to Mammadzada"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2424",
          "pubDate" : "Fri, 26 May 2023 00:44:47 +0000",
          "title" : "Magnus Carlsen wins 2023 Superbet Rapid & Blitz Poland"
-      },
-      {
-         "description" : "An imposing 7/9 performance on Thursday allowed Magnus Carlsen to clinch first place at the Superbet Rapid & Blitz tournament in Warsaw. Rapid-section winner Jan-Krzysztof Duda put up a great fight, as he went into the final-round confrontation against Carlsen with chances of catching his famed colleague in the standings. A hard-fought 124-move draw sealed Carlsen's victory. Duda came second, while Wesley So and Maxime Vachier-Lagrave shared third place. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2023-d5",
-         "pubDate" : "Thu, 25 May 2023 23:50:00 +0100",
-         "title" : "Yet another triumph: Carlsen wins Superbet Rapid & Blitz Poland"
       },
       {
          "description" : "GM Arjun Erigaisi won the Sharjah Masters International Chess Championship 2023 on Thursday after winning his final-round game against GM Nodirbek Yakubboev. Eight players were tied on 5.5/8 heading into the final round and only Arjun was able t...",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-leon-luke-mendonca-for-winning-baku-open-2023/",
          "pubDate" : "Sat, 13 May 2023 06:02:08 +0000",
          "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
-      },
-      {
-         "description" : " I suspect one of the advantages of being an old school chess player is that you are used to spending 3 or more hours concentrating on a single task. This certainly helps when going on long drives, travelling overseas, or waiting for a parcel to arrive at the appointed time. It also helps when you decide to deep dive into a 3 hour video covering the Catalan. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/-FpB_kRo_wE\" width=\"320\" youtube-src-id=\"-FpB_kRo_wE\"></iframe></div><br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/three-hours-of-catalan.html",
-         "pubDate" : "Fri, 12 May 2023 13:00:00 +0000",
-         "title" : "Three hours of Catalan"
       }
    ]
 }
