@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on the power of preparation, using her own games. 2023.06.01<br /> Dorsa Derakhshani vs. Swapnil Dhopade, 16th Dubai Open 2014: B71 Sicilian, dragon, Levenfish variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3890055\">https://www.365chess.com/game.php?back=1&amp;gid=3890055</a><br /> Derakhshani vs. Guadalupe Besso, 2014: B78 Sicilian, dragon, Yugoslav attack, 10.O-O-O<br /> Derakhshani vs. Amin Tabatabaei, 2013: B76 Sicilian, dragon, Yugoslav attack, 7...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff<",
+         "description" : " The US champion beat the Norwegian for the first time in eight years, then scored in his next two games to lead the 10-player event Fabiano Caruana got off to a fine start this week at the Norway Chess elite event in Stavanger, where the US champion defeated Magnus Carlsen, the world No 1, in the opening round and was a clear leader after three of the nine rounds. Carlsen, in contrast, trails in eighth place, despite scoring after replays in his next two games against Wesley So and Hikaru Nakamura. The Norwegian has won Stavanger for four years in a row, so it is too early to discount his recovery chances, but with only six rounds left his task is already difficult. <a href=\"https://www.the",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jun/02/chess-caruana-leads-at-stavanger-after-beating-carlsen-in-opening-round",
+         "pubDate" : "Fri, 02 Jun 2023 07:00:09 +0000",
+         "title" : "Chess: Caruana leads at Stavanger after beating Carlsen in opening round"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris takes a look at a modern line of the Taimanov Sicilian, which Anish Giri and Gukesh recently discussed at the Norway Chess Blitz tournament in Stavanger. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-modern-line-of-the-taimanov-sicilian",
+         "pubDate" : "Fri, 02 Jun 2023 07:21:09 +0100",
+         "title" : "Robert Ris' Fast and Furious: A modern line of the Taimanov Sicilian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2437",
+         "pubDate" : "Fri, 02 Jun 2023 06:08:04 +0000",
+         "title" : "Kuznecovas rolls on the way to European Chess Solving Championship in Bratislava"
+      },
+      {
+         "description" : "The European Pairs Blitz Chess Championship 2023 will be played on 19th of June 2023 in Krakow, Poland, as the accompanying event of the European Games Krakow-Malopolska 2023. Eight invited teams (ECU members) will participate in the event in the following composition: Both Women's and Open events will consist of two phases: The rate of play is 3 minutes + 2 seconds increment for each move, starting from the move one. Each play-off match will be played in 2 games []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-at-european-games-2023/",
+         "pubDate" : "Fri, 02 Jun 2023 04:56:28 +0000",
+         "title" : "European Pairs Blitz Chess Championship at European Games 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows three Sicilian dragon games she played as a junior. 2023.06.01<br /> Dorsa Derakhshani vs. Swapnil Dhopade, 16th Dubai Open 2014: B71 Sicilian, dragon, Levenfish variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3890055\">https://www.365chess.com/game.php?back=1&amp;gid=3890055</a><br /> Derakhshani vs. Guadalupe Besso, 2014: B78 Sicilian, dragon, Yugoslav attack, 10.O-O-O<br /> Derakhshani vs. Amin Tabatabaei, 2013: B76 Sicilian, dragon, Yugoslav attack, 7...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/dorsas-three-dragons-prepare-pro-im-dorsa-derakhshani",
@@ -874,14 +906,6 @@ news_feed (
          "title" : "English and English Women's Chess Championships 2023"
       },
       {
-         "description" : "Nodirbek Abdusattorov continues to impress in the ChessKid Cup: he defeated Jorden Van Foreest in the final of the Winner's Bracket to qualify for the Grand Final, where he will meet the winner of the Loser's Bracket. In addition to Van Foreest, Fabiano Caruana, who beat Alireza Firouzja in round 2 of the Loser's Bracket, and Jules Moussard, who beat Dmitrij Kollars in the same round, are also in the running. | Photo: Screenshot of the live transmission",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-abdusattorov-wins-the-winner-s-bracket",
-         "pubDate" : "Thu, 25 May 2023 15:44:26 +0100",
-         "title" : "ChessKid Cup: Abdusattorov wins the Winner's Bracket"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championships 2023: Registration is open"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2384",
-         "pubDate" : "Sat, 13 May 2023 16:39:09 +0000",
-         "title" : "International Schools Chess Festival in Ploiesti, Romania, announced"
-      },
-      {
          "description" : " Adisa Banjoko has been busy even though the hip-hop chess icon retired the Hip-Hop Chess Federation in 2019. He has launched a new company called 64 Blocks, LLC. Many in The Chess Drum community may remember the Hip-Hop Chess Federation's beginnings in 2006. There was the historic Kings Invitational, the events featuring hip-hop and martial The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/\">Hip-Hop Chess icon Banjoko launches &#8220;64 Blocks&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://aicf.in/national-under-17-girls-chess-championship-2023-final-report/",
          "pubDate" : "Fri, 12 May 2023 09:11:24 +0000",
          "title" : "National Under 17 Chess Championship - 2023 :Final Report"
-      },
-      {
-         "description" : " The Russian and Chinese stars competed again just a week after their world title match, but at halfway in Romania they both trailed the in-form US champion Just eight days after their fateful title decider in Astana, China's victorious Ding Liren and his vanquished Russian opponent, Ian Nepomniachtchi, are trailing in Bucharest. The Superbet Classic, which finishes in the Romanian capital on Monday, is the first leg of the St Louis-organised <a href=\"https://grandchesstour.org/\" title=\"\">Grand Chess Tour</a> with seven of the current world top 10 taking part. Ding had considered withdrawal due to fatigue from the marathon series in Kazakhstan, and his first four games were halved before he ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/may/12/chess-caruana-leads-in-bucharest-while-ding-and-nepomniachtchi-falter",
-         "pubDate" : "Fri, 12 May 2023 07:00:48 +0000",
-         "title" : "Chess: Caruana leads in Bucharest while Ding and Nepomniachtchi falter"
       }
    ]
 }
