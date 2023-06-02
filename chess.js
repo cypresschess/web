@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King discusses a tricky question: what to do when your opponent advances his or her h-pawn early in the game? Block, restrain or ignore? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-dangerous-h-pawn",
+         "pubDate" : "Fri, 02 Jun 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The dangerous h-pawn"
+      },
+      {
          "description" : "Once upon a time we all looked quite different - even some famous chess players. Our author has selected some childhood and youth photographs of famous chess grandmasters and invites you to guess. For example, who are the two perky new wave girls? Background singers from A-ha?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2425",
          "pubDate" : "Fri, 26 May 2023 11:59:51 +0000",
          "title" : "Icelandic Championship: Vignir Vatnar Stef&aacute;nsson wins maiden title"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris takes a look at the Vienna, which Richard Rapport recently tried in two top level games. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-vienna-new-ideas-in-an-old-variation",
-         "pubDate" : "Fri, 26 May 2023 08:56:49 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Vienna - new ideas in an old variation"
       },
       {
          "description" : " The world No 1 chose 1 d4 b5 as Black against Radoslaw Wojtaszek and was in trouble by move nine before resigning at move 38, but later won seven games in a row to take first prize in Warsaw Magnus Carlsen lost to a Pole in Poland with the Polish Defence last weekend, as the world No 1 returned to action after a poker break following his abdication of the world title. Carlsen paid the price for a provocative choice of the risky 1 d4 b5 as Black against Radoslaw Wojtaszek. However, the Warsaw Rapid/Blitz took place over five days, and on Thursday Carlsen stormed through the field with seven straight wins to take first prize, surviving a final round 124-move marathon against Poland's No 1, Ja",
