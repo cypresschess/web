@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/on-delay.html",
+         "pubDate" : "Sat, 03 Jun 2023 13:24:00 +0000",
+         "title" : "On Delay"
+      },
+      {
+         "description" : " Imagine enhancing your chess performance without solving a single exercise. Sounds too good to be true, right? As a Grandmaster and chess coach, I've discovered that certain habits can significantly enhance your game alongside your usual training methods. These habits will help you get the best out of yourself on game days, resulting in better [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-habits/\">5 GM Habits for OTB Chess Success</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-habits/",
+         "pubDate" : "Sat, 03 Jun 2023 12:00:00 +0000",
+         "title" : "5 GM Habits for OTB Chess Success"
+      },
+      {
          "description" : "Genrikh Kasparyan is widely regarded as one of the most prolific endgame study composers and shared his knowledge with a younger generation. So his son Sergey also composed endgame studies - 56 are in the database, including versions and corrections. But also other friends from Genrikh's endgame studies teaching circle created interesting ones themselves or together. | Photo: Midjourney AI",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2023-carlsen-vs-die-jungen-wilden",
          "pubDate" : "Sat, 27 May 2023 08:50:21 +0100",
          "title" : "Norway Chess 2023: Carlsen vs the Young Wild Ones"
-      },
-      {
-         "description" : "The last of the four Women's Grand Prix tournaments in the 2022-23 series took place on May 16-27 in Nicosia, Cyprus. Dinara Wagner, the lowest-rated player in the field, won the event with a remarkable 7/11 score. The two best players in the overall standings of the series, Kateryna Lagno and Aleksandra Goryachkina, qualified to the Candidates Tournament. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-live",
-         "pubDate" : "Sat, 27 May 2023 08:45:00 +0100",
-         "title" : "Women's Grand Prix in Nicosia - Games and results"
       },
       {
          "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
@@ -1640,22 +1648,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/",
          "pubDate" : "Sat, 13 May 2023 15:33:39 +0000",
          "title" : "Hip-Hop Chess icon Banjoko launches \"64 Blocks\""
-      },
-      {
-         "description" : " Every single time I thought I found an extremely sophisticated, &#8220;genius&#8221; solution to a simple problem, I was mistaken. I can recall dozens of games where I made silly mistakes simply because I wanted to be too smart. I quickly spotted the logical, obvious move, but then continued to calculate and found an &#8216;even smarter' [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-genius/\">Don't Be A Genius</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-genius/",
-         "pubDate" : "Sat, 13 May 2023 12:00:00 +0000",
-         "title" : "Don't Be A Genius"
-      },
-      {
-         "description" : "‌Fabiano Caruana and Wesley So missed gilt-edged chances as all games were drawn in Round 6 of the Superbet Chess Classic in Bucharest. World Champion Ding Liren was fighting hard but might still have suffered a 2nd loss in a row if not for Wesley taking a draw by repetition. Caruana leads but would be much closer to overall victory if he'd beaten Alireza Firouzja. Instead a careless 41st move spoilt all his efforts.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-so-caruana-miss-wins",
-         "pubDate" : "Sat, 13 May 2023 11:47:30 +0000",
-         "title" : "Superbet Chess Classic 6: So & Caruana miss wins"
       }
    ]
 }
