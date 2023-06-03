@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Even with few pieces on the board, territorial dominance can be a decisive factor. In the diagram position Black could have already won with 82...Rg1!, but he took his time to relish the position and won a bit later. Endgame technique spiced up with tactical motifs - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/space-advantage",
+         "pubDate" : "Sat, 03 Jun 2023 09:00:00 +0100",
+         "title" : "Space advantage!"
+      },
+      {
+         "description" : "India's young talents Vidit Gujrathi and Raunak Sadhwani got off to a great start in round one, when they defeated veterans Peter Svidler and Nigel Short respectively in the first classical game. In round two Nigel and Peter bounced back by scoring emphatic victories over Raunak and Vidit. The match score is now 1-1. Our report has extensive videos by ChessBase India, including interviews with the players. The photos are by Shahid Ahmed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maharashtra-match-rounds-1-and-2",
+         "pubDate" : "Sat, 03 Jun 2023 08:00:00 +0100",
+         "title" : "Maharashtra Match - Rounds 1 and 2"
+      },
+      {
          "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/czech-open-tournament-organizer-admits-mistake",
-         "pubDate" : "Fri, 02 Jun 2023 15:58:55 -0700",
+         "pubDate" : "Fri, 02 Jun 2023 15:58:00 -0700",
          "title" : "Tournament Organizer Makes U-Turn On Ukrainians After Criticism"
       },
       {
@@ -800,22 +816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-1.html",
          "pubDate" : "Fri, 26 May 2023 13:49:00 +0000",
          "title" : "2023 ACT Championship - Day 1"
-      },
-      {
-         "description" : "The 6th Sharjah Masters was a top tournament with many young players. Before the final round, eight players shared first place. In the top encounters of the last round, only Arjun Erigaisi managed to win his game and emerged as the tournament winner. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-sharjah-masters",
-         "pubDate" : "Fri, 26 May 2023 13:15:00 +0100",
-         "title" : "Arjun Erigaisi wins Sharjah Masters"
-      },
-      {
-         "description" : "Fabiano Caruana lost to Nodirbek Abdusattorov in Round 2 of the ChessKid Cup, but now he has a chance for revenge in the Grand Final. On Day 4, Caruana first defeated Jules Moussard in the semi-finals of the Loser's Bracket and then beat Jorden Van Foreest in the final. | Photo: Lennart Ootes (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-caruana-wins-loser-s-bracket-and-advances-to-grand-final",
-         "pubDate" : "Fri, 26 May 2023 13:06:31 +0100",
-         "title" : "ChessKid Cup: Caruana wins Loser's Bracket and advances to Grand Final"
       },
       {
          "description" : "",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-one/",
          "pubDate" : "Sat, 13 May 2023 07:45:07 +0000",
          "title" : "A Foundation for Beginners Ninety One"
-      },
-      {
-         "description" : "Grandmaster Leon Luke Mendonca beat compatriot International Master Prraneeth Vuppala in the final round to become champion in the strongest Baku Open at Azerbaijan. With",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-leon-luke-mendonca-for-winning-baku-open-2023/",
-         "pubDate" : "Sat, 13 May 2023 06:02:08 +0000",
-         "title" : "Congratulations Leon Luke Mendonca for winning Baku Open-2023"
       }
    ]
 }
