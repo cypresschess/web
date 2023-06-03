@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Sat, 03 Jun 2023 19:50:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
          "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Chessmen of letters: Amis and Nabokov"
       },
       {
-         "description" : "Pavel Kirs, the organizer of one of the biggest open tournaments in the Czech Republic, was forced to make a U-turn after facing heavy criticism and intervention by FIDE as he initially refused to accept registrations from Ukrainians with military...",
+         "description" : "Pavel Kirs, the organizer of one of the biggest open tournaments in the Czech Republic, was forced to make a U-turn after facing heavy criticism and intervention by FIDE as he initially refused to accept registrations from Ukrainian adults. In a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/czech-open-tournament-organizer-admits-mistake",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kamikaze-bishops",
          "pubDate" : "Sat, 27 May 2023 09:00:00 +0100",
          "title" : "Kamikaze bishops"
-      },
-      {
-         "description" : "Norway Chess 2023 begins in Stavanger on Whit Monday (29 May), with Magnus Carlsen having warmed up in Warsaw, but now facing strong, young and hungry opponents in his homeland, including Firouzja, Abdusattorov and Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2023-carlsen-vs-die-jungen-wilden",
-         "pubDate" : "Sat, 27 May 2023 08:50:21 +0100",
-         "title" : "Norway Chess 2023: Carlsen vs the Young Wild Ones"
       },
       {
          "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
@@ -1632,22 +1632,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
          "pubDate" : "Sun, 14 May 2023 09:35:59 +0000",
          "title" : "European School Chess Championship 2023 kicked off in Durres"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2387",
-         "pubDate" : "Sat, 13 May 2023 19:26:17 +0000",
-         "title" : "FIDE World Senior Team Championships 2023: Registration is open"
-      },
-      {
-         "description" : " Adisa Banjoko has been busy even though the hip-hop chess icon retired the Hip-Hop Chess Federation in 2019. He has launched a new company called 64 Blocks, LLC. Many in The Chess Drum community may remember the Hip-Hop Chess Federation's beginnings in 2006. There was the historic Kings Invitational, the events featuring hip-hop and martial The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/\">Hip-Hop Chess icon Banjoko launches &#8220;64 Blocks&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/13/hip-hop-chess-icon-banjoko-launches-64-blocks/",
-         "pubDate" : "Sat, 13 May 2023 15:33:39 +0000",
-         "title" : "Hip-Hop Chess icon Banjoko launches \"64 Blocks\""
       }
    ]
 }
