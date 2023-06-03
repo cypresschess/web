@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Fabiano Caruana continues to surge in Norway Chess 2023 and in the world rankings after defeating GM Alireza Firouzja with Black in the classical game. He leads the tournament by four points (!) with 10.5/12 and overtakes Firouzja as number two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-4",
+         "pubDate" : "Sat, 03 Jun 2023 15:18:05 -0700",
+         "title" : "World Number-2 Caruana Leads By 4, Gukesh Sacrifices Queen Vs. Carlsen"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IMs Almira Skripchenko, and Nazi Paikidze for the move-by-move. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-1",
+         "pubDate" : "Sat, 03 Jun 2023 19:36:45 +0000",
+         "title" : "2023 Cairns Cup: Round 1"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1042,14 +1058,6 @@ news_feed (
          "title" : "Kasparov: Watch the Player Invited at the Last Minute | D4 #SuperbetRapidBlitzPoland"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to fans Mikołaj Kudzia and Julian Eysmont on Day 2 of the Superbet Rapid &amp; Blitz Poland. This aired during Day 4. 2023.05.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-fans-looking-%E2%80%98good-memories%E2%80%99-d2-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p2ZDshAK",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-fans-looking-%E2%80%98good-memories%E2%80%99-d2-superbetrapidblitzpoland",
-         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
-         "title" : "Chess Fans Looking for 'Good Memories' | D2 #SuperbetRapidBlitzPoland"
-      },
-      {
          "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-2",
          "pubDate" : "Tue, 23 May 2023 18:42:00 -0700",
          "title" : "Firouzja Eliminates Nakamura; Van Foreest, Abdusattorov To Meet In Winners Final"
-      },
-      {
-         "description" : "Four of the biggest names in chess have been added to the line-up for the inaugural Global Chess League (GCL), yet another stellar event added to the crowded chess calendar. New World Champion GM Ding Liren will face his predecessor and world nu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-ding-anand-hou-yifan-global-chess-league",
-         "pubDate" : "Tue, 23 May 2023 17:30:00 -0700",
-         "title" : "Carlsen, Ding, Anand, Hou Yifan: Big Names Added To Global Chess League Lineup"
       },
       {
          "description" : "",
