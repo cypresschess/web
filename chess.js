@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chessmen-of-letters-amis-and-nabokov/",
+         "pubDate" : "Sat, 03 Jun 2023 04:05:24 +0000",
+         "title" : "Chessmen of letters: Amis and Nabokov"
+      },
+      {
          "description" : "Pavel Kirs, the organizer of one of the biggest open tournaments in the Czech Republic, was forced to make a U-turn after facing heavy criticism and intervention by FIDE as he initially refused to accept registrations from Ukrainians with military...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
