@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Genrikh Kasparyan is widely regarded as one of the most prolific endgame study composers and shared his knowledge with a younger generation. So his son Sergey also composed endgame studies - 56 are in the database, including versions and corrections. But also other friends from Genrikh's endgame studies teaching circle created interesting ones themselves or together. | Photo: Midjourney AI",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-genrikh-kasparyan-s-pupils",
+         "pubDate" : "Sat, 03 Jun 2023 11:00:00 +0100",
+         "title" : "Study of the month - Genrikh Kasparyan's pupils"
+      },
+      {
+         "description" : "Today, 3 June 2023, Nils Grandelius celebrates his 30th birthday. Grandelius is known as his country's long-time leading player, an important member of the Swedish team, and has won several major international tournaments in his career to date. Grandelius worked as Magnus Carlsen's second for the World Chess Championship matches in 2016 and 2018, and is also a well-known author and teacher. | Nils Grandelius at the TePe Sigeman & Co. tournament in 2023 | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-birthday-to-grandmaster-nils-grandelius",
+         "pubDate" : "Sat, 03 Jun 2023 10:00:00 +0100",
+         "title" : "Happy birthday to Grandmaster Nils Grandelius!"
+      },
+      {
          "description" : "Even with few pieces on the board, territorial dominance can be a decisive factor. In the diagram position Black could have already won with 82...Rg1!, but he took his time to relish the position and won a bit later. Endgame technique spiced up with tactical motifs - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -794,22 +810,6 @@ news_feed (
          "title" : "The final round will decide the winner of Cyprus Grand Prix and two Women's Candidates"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King looks at a trendy exchange sacrifice in the Schmid Benoni that was featured in two games played at the SuperBet tournament in Warsaw. When Rapport and Duda employ it, you should sit up and take notes! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-schmid-benoni-sac",
-         "pubDate" : "Fri, 26 May 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The Schmid Benoni exchange sac"
-      },
-      {
-         "description" : "On the last day of the ChessKid Cup Fabiano Caruana and Nodirbek Abdusattorov will meet in the Grand Final. If Abdusattorov wins the match, he will also win the ChessKid Cup as the winner of the Winner's Bracket. If Caruana wins, there will be a second match to decide the winner of the tournament.| Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-live",
-         "pubDate" : "Fri, 26 May 2023 16:45:00 +0100",
-         "title" : "ChessKid Cup Grand Final - Live!"
-      },
-      {
          "description" : " The first round of the 2023 ACT Championship saw most of the top seeds get through without too much trouble. It wasn't until board 15 that the results started to go against rating. Mark Scully was beaten quite convincingly by Owen MacMullin, while Olaoluwa Fasakin upset fellow junior Larry Cheng. The top 4 boards saw fairly easy wins for the top seeds, although FM Michael Kethro had to overcome determined resistance from Joshua Liang. The tournament saw a larger than usual field of 55 players, which would have been larger (and stronger) if not for a few dop outs due to the flue and similar ailments (NB It was 1 degree above 0 when I left the venue this evening). The new venue (Eastlakes Clu",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -920,6 +920,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland",
          "pubDate" : "Thu, 25 May 2023 16:29:17 +0000",
          "title" : "'Magnus Kept Scoring at Soccer; He Never Stops!' | D5 #SuperbetRapidBlitzPoland"
+      },
+      {
+         "description" : "The May 2023 issue of <I>Chess Life</I> (CL) carried the annual kickoff announcement for the Chess Journalists of America (CJA) awards. The call for entries started, <BLOCKQUOTE> The CJA awards recognize the best in all facets of chess journalism, both print and online. The best chess articles, columns, photojournalism, layout, and online writing are honored within their respective categories. Recognized annually by their peers, the public, and members of CJA, the prestigious awards showcase American works published in English between June 1, 2022, and May 31, 2023. </BLOCKQUOTE> <P> The list of award categories is online at <A HREF=\"https://chessjournalism.org/award-categories/\">CJA Award C",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/2023-cja-awards-announcement.html",
+         "pubDate" : "Thu, 25 May 2023 15:50:00 +0000",
+         "title" : "2023 CJA Awards Announcement"
       },
       {
          "description" : "GM Fabiano Caruana eliminated GMs Jules Moussard and Jorden van Foreest on his way to the Champions Chess Tour ChessKid Cup 2023 Grand Final in Division I. Both of his matches made it to armageddon tiebreaks; Caruana first drew with the black pi...",
@@ -1648,22 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/superbet-chess-classic-6-so-caruana-miss-wins",
          "pubDate" : "Sat, 13 May 2023 11:47:30 +0000",
          "title" : "Superbet Chess Classic 6: So & Caruana miss wins"
-      },
-      {
-         "description" : "And Lo! Did we journey unto the City of Prague in the land of the Checks and thence to the Synagogue of the Spanish Hebrews, in their ancient ghetto of that habitation? Our purpose was to harken unto the songs of the Jewish troubadours&hellip;va pensiero, Shalom Alechem &hellip;but amongst the time honoured strains of the inhabitants of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/shalom-alekhine-ding-joins-the-chess-greats/",
-         "pubDate" : "Sat, 13 May 2023 09:40:26 +0000",
-         "title" : "Shalom Alekhine: Ding joins the chess greats"
-      },
-      {
-         "description" : " We'll continue our examination of beginner's tactics. This week we're going to look at a tactic called the skewer. Is this an easy tactic to learn? Well, yes and no! If you have read my previous articles on the pin, you already know the underlying dynamics of this tactic. While similar to a pin, there's <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-one/\">A Foundation for Beginners Ninety One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpr",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-one/",
-         "pubDate" : "Sat, 13 May 2023 07:45:07 +0000",
-         "title" : "A Foundation for Beginners Ninety One"
       }
    ]
 }
