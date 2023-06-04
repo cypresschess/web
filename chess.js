@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov beat GM Fabiano Caruana with Black in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-5",
+         "pubDate" : "Sun, 04 Jun 2023 15:47:39 -0700",
+         "title" : "Nakamura World Number-2 For First Time Since 2015, Mamedyarov Showstops Caruana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2439",
+         "pubDate" : "Sun, 04 Jun 2023 21:14:09 +0000",
+         "title" : "Champions Match starts in Batumi, Georgia"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2438",
+         "pubDate" : "Sun, 04 Jun 2023 20:28:04 +0000",
+         "title" : "Winners crowned at European Senior Championship 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gunay Mammadzada talks to Almira Skripchenko after defeating Khotenashvili in the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mammadzada-was-i-hallucinatingng4-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EtC_Gh6_quQ.jpg?itok=DNcdy9HR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mammadzada-was-i-hallucinatingng4-r1-cairnscup",
+         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
+         "title" : "Mammadzada: Was I Hallucinating...Ng4?? | R1 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Koneru in the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuk-victories-are-so-sweet-almost-40-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RZMKaNByZmA.jpg?itok=ebPxgFns\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kosteniuk-victories-are-so-sweet-almost-40-r1-cairnscup",
+         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
+         "title" : "Kosteniuk: Victories are so Sweet at Almost 40 | R1 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Almira Skripchenko after defeating Abdumalik in the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-oh-im-threatening-checkmate-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_EJYGtGZq78.jpg?itok=mn_gO9-f\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-oh-im-threatening-checkmate-r1-cairnscup",
+         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
+         "title" : "Krush: Oh! I'm Threatening Checkmate! | R1 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.05<br /> USChessChamps.com ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Harika Dronavalli<br /> vs. Humpy Koneru<br /> Zhansaya Abdumalik vs. Bella Khotenashvili Irina Krush </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-3",
+         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
+         "title" : "2023 Cairns Cup: Round 3"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,36 +186,12 @@ news_feed (
          "title" : "Jeanne Sinquefield: The Women 'Play to Win' | R1 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Nazi Paikidze asks the players how it feels to be in Saint Louis, playing at the Cairns Cup. This aired during Round 1. 2023.06.02<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-playing-third-edition\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MsyoaF6DgJA.jpg?itok=UPbJWvAp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-playing-third-edition",
-         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
-         "title" : "2023 Cairns Cup: Playing in the Third Edition"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks back on the sights from the player meeting and drawing of lots at the World Chess Hall of Fame on the evening before play began at the Cairns Cup. This aired during Round 1. 2023.06.02<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uVKW4I17xvw.jpg?itok=tLL1YmS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-opening-ceremony",
-         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
-         "title" : "2023 Cairns Cup: Opening Ceremony"
-      },
-      {
          "description" : "GM Fabiano Caruana continues to surge in Norway Chess 2023 and in the world rankings after with Black defeating GM Alireza Firouzja in the classical game. He leads the tournament by four points (!) with 10.5/12 and overtakes Firouzja as number two...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-4",
          "pubDate" : "Sat, 03 Jun 2023 15:18:00 -0700",
          "title" : "World Number-2 Caruana Leads By 4, Gukesh Sacrifices Queen Vs. Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IMs Almira Skripchenko, and Nazi Paikidze for the move-by-move. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-1",
-         "pubDate" : "Sat, 03 Jun 2023 19:36:45 +0000",
-         "title" : "2023 Cairns Cup: Round 1"
       },
       {
          "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
@@ -178,12 +210,60 @@ news_feed (
          "title" : "5 GM Habits for OTB Chess Success"
       },
       {
+         "description" : "The Asian Continental Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are S.P. Sethuraman, Rinat Jumabayev, Shamsiddin Vokhidov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-continental-championship-live/",
+         "pubDate" : "Sat, 03 Jun 2023 11:30:00 +0000",
+         "title" : "Asian Continental Championship - LIVE"
+      },
+      {
+         "description" : "The Asian Continental Women's Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are Batkhuyag Munguntuul, Divya Deshmukh, Irine []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-continental-womens-championship-live/",
+         "pubDate" : "Sat, 03 Jun 2023 11:00:00 +0000",
+         "title" : "Asian Continental Women's Championship - LIVE"
+      },
+      {
+         "description" : "The Asian Continental Women's Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are Batkhuyag Munguntuul, Divya Deshmukh, Irine []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-continental-womens-championship-participants/",
+         "pubDate" : "Sat, 03 Jun 2023 10:20:00 +0000",
+         "title" : "Asian Continental Women's Championship - Participants"
+      },
+      {
+         "description" : "The Asian Continental Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are S.P. Sethuraman, Rinat Jumabayev, Shamsiddin Vokhidov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-continental-championship-participants/",
+         "pubDate" : "Sat, 03 Jun 2023 10:00:00 +0000",
+         "title" : "Asian Continental Championship - Participants"
+      },
+      {
          "description" : "Genrikh Kasparyan is widely regarded as one of the most prolific endgame study composers and shared his knowledge with a younger generation. So his son Sergey also composed endgame studies - 56 are in the database, including versions and corrections. But also other friends from Genrikh's endgame studies teaching circle created interesting ones themselves or together. | Photo: Midjourney AI",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-genrikh-kasparyan-s-pupils",
          "pubDate" : "Sat, 03 Jun 2023 11:00:00 +0100",
          "title" : "Study of the month - Genrikh Kasparyan's pupils"
+      },
+      {
+         "description" : "The 2023 Cairns Cup is taking place from 3-13 June in the St. Louis Chess Club, USA. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed. It is a 10-player round-robin tournament with participation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cairns-cup-2023-live/",
+         "pubDate" : "Sat, 03 Jun 2023 09:30:00 +0000",
+         "title" : "Cairns Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 Cairns Cup is a 10-player round-robin tournament taking place from 3-13 June in the St. Louis Chess Club, USA. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed.Chessdom.com will follow daily the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cairns-cup-2023-participants/",
+         "pubDate" : "Sat, 03 Jun 2023 09:00:00 +0000",
+         "title" : "Cairns Cup 2023 - Participants"
       },
       {
          "description" : "Today, 3 June 2023, Nils Grandelius celebrates his 30th birthday. Grandelius is known as his country's long-time leading player, an important member of the Swedish team, and has won several major international tournaments in his career to date. Grandelius worked as Magnus Carlsen's second for the World Chess Championship matches in 2016 and 2018, and is also a well-known author and teacher. | Nils Grandelius at the TePe Sigeman & Co. tournament in 2023 | Photo: David Llada",
@@ -282,52 +362,12 @@ news_feed (
          "title" : "2nd Maharashtra Open - LIVE"
       },
       {
-         "description" : "The 2nd Maharashtra Open is taking place from 1&#x2013;9 June 2023 in Nagpur, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of Luka Paichadze, Vladimir Burmakin, Viacheslav V. Zakhartsov, M.R. Venkatesh, Boris Savchenko, Shete Sammed Jaykumar, Aleksej Aleksandrov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-maharashtra-open-participants/",
-         "pubDate" : "Fri, 02 Jun 2023 14:14:14 +0000",
-         "title" : "2nd Maharashtra Open - Participants"
-      },
-      {
-         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-b-live/",
-         "pubDate" : "Fri, 02 Jun 2023 11:00:00 +0000",
-         "title" : "French Team Championship Top 16, Pool B - LIVE"
-      },
-      {
-         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-b-participants/",
-         "pubDate" : "Fri, 02 Jun 2023 11:00:00 +0000",
-         "title" : "French Team Championship Top 16, Pool B - Participants"
-      },
-      {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-from-26-to-27-march-2023-final-report/",
          "pubDate" : "Fri, 02 Jun 2023 10:39:28 +0000",
          "title" : "Online Senior National Arbiter Seminar & Examination from 26 to 27 May 2023 : Final Report"
-      },
-      {
-         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-a-live/",
-         "pubDate" : "Fri, 02 Jun 2023 10:15:00 +0000",
-         "title" : "French Team Championship Top 16, Pool A - LIVE"
-      },
-      {
-         "description" : "The French Top 16 is a team championship taking place in Chartres, France from June 1-11. It begins with 2 pools of 8 teams where after 7 rounds the Top 4 and Bottom 4 advance to higher and lower brackets, with the French Champions decided in the higher bracket. Matches are played on 8 boards. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-team-championship-top-16-pool-a-participants/",
-         "pubDate" : "Fri, 02 Jun 2023 10:00:00 +0000",
-         "title" : "French Team Championship Top 16, Pool A - Participants"
       },
       {
          "description" : "Fabiano Caruana and Alireza Firouzja (photo) won straight games against Aryan Tari and Nodirbek Abdusattorov in round 3 of the Norway Chess Tournament. Magnus Carlsen, D. Gukesh and Anish Giri picked up an extra half point in Armageddon after their draws. Caruana leads the field. | Photo: Norway Chess/ Lennart Ootes",
@@ -368,14 +408,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-at-european-games-2023/",
          "pubDate" : "Fri, 02 Jun 2023 04:56:28 +0000",
          "title" : "European Pairs Blitz Chess Championship at European Games 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows three Sicilian dragon games she played as a junior. 2023.06.01<br /> Dorsa Derakhshani vs. Swapnil Dhopade, 16th Dubai Open 2014: B71 Sicilian, dragon, Levenfish variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=3890055\">https://www.365chess.com/game.php?back=1&amp;gid=3890055</a><br /> Derakhshani vs. Guadalupe Besso, 2014: B78 Sicilian, dragon, Yugoslav attack, 10.O-O-O<br /> Derakhshani vs. Amin Tabatabaei, 2013: B76 Sicilian, dragon, Yugoslav attack, 7...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dorsas-three-dragons-prepare-pro-im-dorsa-derakhshani",
-         "pubDate" : "Fri, 02 Jun 2023 01:35:19 +0000",
-         "title" : "Dorsa's Three Dragons! | Prepare Like A Pro - IM Dorsa Derakhshani"
       },
       {
          "description" : "After winning his second classical game, against GM Aryan Tari,&#38;nbsp;GM Fabiano Caruana extends his lead in Norway Chess 2023 to a point and a half above the field with 7.5/9. Besides the aforementioned game, Thursday was a good day to play the ...",
@@ -472,14 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-round-2-fighting-chess-in-stavanger",
          "pubDate" : "Thu, 01 Jun 2023 12:03:19 +0100",
          "title" : "Norway Chess, Round 2: Fighting chess in Stavanger"
-      },
-      {
-         "description" : "The Zalakaros Open is taking place from 3&#x2013;11 June 2023 in Zalakaros, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gergely Aczel, Adam Horvath, Vladyslav Larkin, Tamas Vanczak, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zalakaros-open-2023-live/",
-         "pubDate" : "Thu, 01 Jun 2023 10:40:00 +0000",
-         "title" : "Zalakaros Open 2023 - LIVE"
       },
       {
          "description" : "In Game of the Week #570, Merijn van Delft analyses how Fabiano Caruana defeated Magnus Carlsen in the first round of the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1130,14 +1154,6 @@ news_feed (
          "title" : "European Senior Chess Championship 2023 starts in Italy"
       },
       {
-         "description" : "Titled Tuesday on May 23 went to two generations of blitz stars, the long-established GM Alexander Grischuk and the 20-years-younger GM Nihal Sarin. Grischuk essentially locked up the early tournament with a round to go, while Nihal barely outlast...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grischuk-nihal-win-titled-tuesday-may-23-2023",
-         "pubDate" : "Wed, 24 May 2023 10:44:26 -0700",
-         "title" : "Nihal Joins Grischuk As Tuesday Winners"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/14/jaden-shaw-tops-2023-jamaica-championship/",
          "pubDate" : "Mon, 15 May 2023 02:47:33 +0000",
          "title" : "Jaden Shaw tops 2023 Jamaica Championship!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2389",
-         "pubDate" : "Sun, 14 May 2023 21:45:34 +0000",
-         "title" : "FIDE World Junior U20 Championship: Registration is open"
       }
    ]
 }
