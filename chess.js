@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">In Round 4 of Norway Chess the young Indian prodigy, Gukesh Dommaraju, drew his classical game against the former World Champion, Magnus Carlsen, and lost an epic Armageddon game afterwards where he sacrificed his queen. Fabiano Caruana beat Alireza Firouzja - the only decisive game of the day - to remain the sole leader of the tournament with 10.5 points and climb again to World No.2, since October 2021. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/gukesh-magnus-carlsen-norway-chess-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes / Norway Chess</div> </div> The most anticipated game of the d",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/gukesh-sacrifices-his-queen-against-magnus-carlsen-in-round-4-of/",
+         "pubDate" : "Sun, 04 Jun 2023 11:15:22 +0000",
+         "title" : "Gukesh sacrifices his queen against Magnus Carlsen in Round 4 of Norway Chess"
+      },
+      {
+         "description" : "Earlier this year, he drew against the world no.1 at 85th Tata Steel Masters 2023. Yesterday D Gukesh drew his second Classical rated game ever against Magnus Carlsen, but lost the Armageddon. Fabiano Caruana scored the sole Classical victory of the round, with black against Alireza Firouzja. All photos in this article are by Lennart Ootes/Norway Chess unless stated otherwise.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/11th-norway-chess-2023-r4-gukesh-draws-classical-against-carlsen",
+         "pubDate" : "Sun, 04 Jun 2023 10:26:56 +0100",
+         "title" : "11th Norway Chess 2023 R4: Gukesh draws Classical against Carlsen"
+      },
+      {
+         "description" : "The European Senior Chess Championships 2023 concluded yesterday in Acqui Terme, Italy, with the closing and award ceremony for the Winners. The event was played in two age categories: 50+ and 65+, with separate women's competition in 50+ category. Women's 65+ section was merged with the Open, and the best ranked female players were crowned European Women's 65+ Champions. It was a very tight race for the top of the 50+ Open competition. Five players were in the lead heading []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championships-2023-concluded-in-acqui-terme-italy/",
+         "pubDate" : "Sun, 04 Jun 2023 08:43:58 +0000",
+         "title" : "European Senior Chess Championships 2023 concluded in Acqui Terme, Italy"
+      },
+      {
          "description" : " The Chicago Open has become a marquee tournament in the U.S. circuit and since 2008 has taken place in the city of Wheeling at the Westin Hotel. In the 15th edition, Zhou Jianchou won first with superior tiebreaks in a three-way tie with GMs Awonder Liang and Emilio Cordova. GM Zhou Jianchou at the 2016 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/\">Zhou Jianchou wins 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1624,22 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2388",
          "pubDate" : "Sun, 14 May 2023 11:35:15 +0000",
          "title" : "Harker School (USA) and Ekpedeftiria Vassiliadi School (Greece) win World School Teams Online Cup 2023"
-      },
-      {
-         "description" : "Anish Giri has become the latest player to beat Ding Liren after the World Champion allowed a powerful piece sacrifice on move 11 in Round 7 of the Superbet Chess Classic. Ding has dropped to last place, but he has the company of his World Championship challenger Ian Nepomniachtchi, who was put to the sword by Alireza Firouzja. The young star now co-leads with Fabiano Caruana going into the final two rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-7-firouzja-catches-caruana",
-         "pubDate" : "Sun, 14 May 2023 11:07:40 +0000",
-         "title" : "Superbet Chess Classic 7: Firouzja catches Caruana"
-      },
-      {
-         "description" : "The 2023 European School Chess Championship kicked off yesterday in Durres, Albania. More than 200 children from 25 federations compete in the event which is played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. The Opening ceremony of the event took place shortly before the start of the first round with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Albanian Chess Federation and ECU Chief Executive Officer []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2023-kicked-off-in-durres/",
-         "pubDate" : "Sun, 14 May 2023 09:35:59 +0000",
-         "title" : "European School Chess Championship 2023 kicked off in Durres"
       }
    ]
 }
