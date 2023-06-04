@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com and the nonprofit Lide Haiti raised $42,794 to empower at-risk adolescent girls in Haiti (including via chess programs) during a star-studded live event featuring Rainn Wilson on Friday. The June 2 event&#38;mdash;hosted by IM Danny Rensch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lide-chesscom-partnership-rainn-wilson-haiti",
+         "pubDate" : "Sun, 04 Jun 2023 07:23:00 -0700",
+         "title" : "Chess.com And Lide Haiti Raise $42,794 To Empower Girls In Haiti, Rainn Wilson Stars"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 128th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about tactics and the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-127-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 04 Jun 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 128: Chess history in a nutshell (10)"
+      },
+      {
+         "description" : " I used to comment that if I could form a chess club from everyone who turned up to chess clubs/tournaments just once, it would be twice the size of any club in Canberra. It turns out that I could now do this with everyone who was simply a new player on the June 2023 Rating List for the ACT. A record 138 new players were added to the list, which is twice the size of the Gungahlin Chess Club, which is currently Canberra's largest. Not all players received a rating, or played more than 1 or 2 rounds in an event, but it is still quite a remarkable number. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/boom.html",
+         "pubDate" : "Sun, 04 Jun 2023 13:44:00 +0000",
+         "title" : "Boom"
+      },
+      {
+         "description" : " My six games my club's online tournament last week yielded two knight endings. Tricky things, knights. Let's take a look at the first of them. The first game reached a double knight ending here: I was White and was about to make my 27th move. How would you assess this position? Stockfish thinks it's about <a href=\"https://chessimprover.com/knight-fever-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-1/\">Knight Fever (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/knight-fever-1/",
+         "pubDate" : "Sun, 04 Jun 2023 11:51:30 +0000",
+         "title" : "Knight Fever (1)"
+      },
+      {
          "description" : " <p class=\"lead\">In Round 4 of Norway Chess the young Indian prodigy, Gukesh Dommaraju, drew his classical game against the former World Champion, Magnus Carlsen, and lost an epic Armageddon game afterwards where he sacrificed his queen. Fabiano Caruana beat Alireza Firouzja - the only decisive game of the day - to remain the sole leader of the tournament with 10.5 points and climb again to World No.2, since October 2021. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/gukesh-magnus-carlsen-norway-chess-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes / Norway Chess</div> </div> The most anticipated game of the d",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -842,14 +874,6 @@ news_feed (
          "title" : "Igor Zaitsev celebrates his 85th birthday"
       },
       {
-         "description" : "Nodirbek Abdusattorov beat Fabiano Caruana 2&frac12;-1&frac12; to win the ChessKid Cup, the third event of the 2023 Champions Chess Tour. It was a hard-fought Grand Final match, which saw Abdusattorov beating Caruana for a second time in the tournament. With this victory, the Uzbek ace gained a spot in the Tour Playoffs which will take place in December. Magnus Carlsen and Hikaru Nakamura are already qualified to the series' final event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesskid-cup-2023-final-report",
-         "pubDate" : "Sat, 27 May 2023 13:10:00 +0100",
-         "title" : "Abdusattorov convincingly wins ChessKid Cup"
-      },
-      {
          "description" : " Are you new to chess and struggling with how to set up a chessboard? Then this guide is perfect for you. In a matter of less than 5 Minutes, you will be able to set up the chessboard correctly every single time. I can't even count the number of times I set up a chess [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/setting-up-your-chess-board/\">Setting Up Your Chess Board: A Step-by-Step Guide for Beginners</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
          "pubDate" : "Sat, 27 May 2023 13:18:00 +0400",
          "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
-      },
-      {
-         "description" : "Today the point is only shared. In the diagram position White managed to save himself, playing a series of (splendid!) only moves. Can you find them all?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kamikaze-bishops",
-         "pubDate" : "Sat, 27 May 2023 09:00:00 +0100",
-         "title" : "Kamikaze bishops"
       },
       {
          "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2417",
          "pubDate" : "Wed, 24 May 2023 10:52:52 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 3 Recap"
-      },
-      {
-         "description" : "WGM Dinara Wagner leapt to the clear top of the scoreboard by defeating fellow leader, GM Kateryna Lagno, in a tactical slugfest at the Nicosia FIDE Women&#39;s Grand Prix 2022-2023 in round seven. With this victory over the world number five, Wagner ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-7",
-         "pubDate" : "Tue, 23 May 2023 19:59:00 -0700",
-         "title" : "A Tale of Three Sicilians: Wagner Takes Clear Lead"
       },
       {
          "description" : "",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/st-regis-hotel-astana.html",
          "pubDate" : "Sun, 14 May 2023 15:34:00 +0000",
          "title" : "St. Regis Hotel, Astana"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2388",
-         "pubDate" : "Sun, 14 May 2023 11:35:15 +0000",
-         "title" : "Harker School (USA) and Ekpedeftiria Vassiliadi School (Greece) win World School Teams Online Cup 2023"
       }
    ]
 }
