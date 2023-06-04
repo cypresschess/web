@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "A heavily-decisive round one ith four victories out of five games commenced the Cairns Cup 2023&#38;nbsp;on Saturday. GM Alexandra Kosteniuk scored her first-ever classical victory vs. GM Humpy Koneru, the second highest woman in the world.&#38;nbsp;GM Ir...",
+         "description" : " The Chicago Open has become a marquee tournament in the U.S. circuit and since 2008 has taken place in the city of Wheeling at the Westin Hotel. In the 15th edition, Zhou Jianchou won first with superior tiebreaks in a three-way tie with GMs Awonder Liang and Emilio Cordova. GM Zhou Jianchou at the 2016 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/\">Zhou Jianchou wins 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/",
+         "pubDate" : "Sun, 04 Jun 2023 05:56:14 +0000",
+         "title" : "Zhou Jianchou wins 2023 Chicago Open"
+      },
+      {
+         "description" : "A heavily decisive round one with four victories out of five games commenced the Cairns Cup 2023&#38;nbsp;on Saturday. GM Alexandra Kosteniuk scored her first-ever classical victory vs. GM Humpy Koneru, the second-highest-rated woman in the world. GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-1",
-         "pubDate" : "Sat, 03 Jun 2023 20:13:38 -0700",
+         "pubDate" : "Sat, 03 Jun 2023 20:13:00 -0700",
          "title" : "Decisive Start: Kosteniuk Defeats Defending Champion"
       },
       {
