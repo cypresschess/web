@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Sun, 04 Jun 2023 19:50:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Excited and anxious to play in her first Cairns Cup and visiting Saint Louis, IM Gunay Mammadzada discusses her win against GM Bella Khotenashvili. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/im-gunay-mammadzada-i-thought-i-was-hallucinatingng4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EtC_Gh6_quQ.jpg?itok=DNcdy9HR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-gunay-mammadzada-i-thought-i-was-hallucinatingng4",
+         "pubDate" : "Sun, 04 Jun 2023 16:37:28 +0000",
+         "title" : "IM Gunay Mammadzada: I Thought I Was Hallucinating...Ng4??!!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Veteran GM Alexandra Koteniuk discusses her thoughts about the possibilities Nf6? and d5? with Almira. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-alexandra-kosteniuk-victories-have-different-flavors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RZMKaNByZmA.jpg?itok=ebPxgFns\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-alexandra-kosteniuk-victories-have-different-flavors",
+         "pubDate" : "Sun, 04 Jun 2023 16:37:28 +0000",
+         "title" : "GM Alexandra Kosteniuk: Victories Have Different Flavors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Veteran GM Irina Krush breaks down key moments and the mating possibilities in the endgame as she defeats GM Zhansaya Abdumalik </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-irina-krush-all-mating-possibilities\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_EJYGtGZq78.jpg?itok=mn_gO9-f\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-irina-krush-all-mating-possibilities",
+         "pubDate" : "Sun, 04 Jun 2023 16:37:28 +0000",
+         "title" : "GM Irina Krush: All The Mating Possibilities"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100747613.cms\" />Saturday saw the return of Indian youngsters Vidit Gujrathi and Raunak Sadhwani in their Challenger Match of Maharashtra chess festival.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-challengers-vidit-raunak-regain-lead-with-contrasting-wins-over-svidler-short/articleshow/100747613.cms",
+         "pubDate" : "Sun, 04 Jun 2023 15:51:35 +0000",
+         "title" : "Vidit, Raunak regain lead with contrasting wins over Svidler, Short"
+      },
+      {
          "description" : "Chess.com and the nonprofit Lide Haiti raised $42,794 to empower at-risk adolescent girls in Haiti (including via chess programs) during a star-studded live event featuring Rainn Wilson on Friday. The June 2 event&#38;mdash;hosted by IM Danny Rensch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://chessimprover.com/knight-fever-1/",
          "pubDate" : "Sun, 04 Jun 2023 11:51:30 +0000",
          "title" : "Knight Fever (1)"
-      },
-      {
-         "description" : " <p class=\"lead\">In Round 4 of Norway Chess the young Indian prodigy, Gukesh Dommaraju, drew his classical game against the former World Champion, Magnus Carlsen, and lost an epic Armageddon game afterwards where he sacrificed his queen. Fabiano Caruana beat Alireza Firouzja - the only decisive game of the day - to remain the sole leader of the tournament with 10.5 points and climb again to World No.2, since October 2021. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/gukesh-magnus-carlsen-norway-chess-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes / Norway Chess</div> </div> The most anticipated game of the d",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/gukesh-sacrifices-his-queen-against-magnus-carlsen-in-round-4-of/",
-         "pubDate" : "Sun, 04 Jun 2023 11:15:22 +0000",
-         "title" : "Gukesh sacrifices his queen against Magnus Carlsen in Round 4 of Norway Chess"
       },
       {
          "description" : "Earlier this year, he drew against the world no.1 at 85th Tata Steel Masters 2023. Yesterday D Gukesh drew his second Classical rated game ever against Magnus Carlsen, but lost the Armageddon. Fabiano Caruana scored the sole Classical victory of the round, with black against Alireza Firouzja. All photos in this article are by Lennart Ootes/Norway Chess unless stated otherwise.",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-1",
          "pubDate" : "Sat, 03 Jun 2023 19:36:45 +0000",
          "title" : "2023 Cairns Cup: Round 1"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Sat, 03 Jun 2023 19:50:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "Call for submissions: FIDE Veterans Support Program 2023, second installment"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani teaches a chess class on the power of preparation, using her own games. 2023.06.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/power-preparation-prepare-pro-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yWKAULgfsKw.jpg?itok=2QrhsSSk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/power-preparation-prepare-pro-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 01 Jun 2023 16:34:46 +0000",
-         "title" : "The Power of Preparation! | Prepare Like A Pro - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "FIDE has published its new world ranking list. In June 2023, Magnus Carlsen is the only player with an Elo rating above 2800 and leads the world rankings by almost 70 points. The best young players, Firouzja, Gukesh, Abdusattorov and Erigaisi, are steadily improving.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-1",
          "pubDate" : "Tue, 30 May 2023 15:23:00 -0700",
          "title" : "Caruana, Gukesh Defeat World Numbers 1 and 2 To Take Early Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks spotting tactical signals in chess. Be Batman, but for chess tactics. 2023.05.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spot-technical-signals-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IEiY0r8wfYM.jpg?itok=CnMwdmU4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/spot-technical-signals-beginner-breakdown",
-         "pubDate" : "Tue, 30 May 2023 19:33:45 +0000",
-         "title" : "Spot Technical Signals | Beginner Breakdown"
       },
       {
          "description" : " I've been having a lot of fun with ChatGPT recently. If you ask it a factual question about chess it makes random stuff up rather than saying it doesn't know. (Bing Chat is a lot better or a lot less amusing in this respect.) When I asked it about Richard James it told <a href=\"https://chessimprover.com/chess-for-giraffes/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Giraffes\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-giraffes/\">Chess for Giraffes</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1000,14 +1008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-5",
          "pubDate" : "Thu, 25 May 2023 12:44:00 -0700",
          "title" : "Magnus Carlsen Triumphs In Poland After Thrilling Final Round"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players which time control they prefer. This aired during Day 4. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefer-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTl-HRRcAU8.jpg?itok=EnXaCSiY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefer-grandchesstour",
-         "pubDate" : "Thu, 25 May 2023 19:29:22 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Which Time Format Do You Prefer? #GrandChessTour"
       },
       {
          "description" : "The first edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2023 will be held at Amalorpavam Higher Sec School, Vanarapet, Pondicherry from 23-25 June",
@@ -1624,30 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2389",
          "pubDate" : "Sun, 14 May 2023 21:45:34 +0000",
          "title" : "FIDE World Junior U20 Championship: Registration is open"
-      },
-      {
-         "description" : " <p class=\"lead\">In Berlin, Germany, on May 14, 2023, the Armageddon Championship Series witnessed a victory by 19-year-old Bibisara Assaubayeva from Kazakhstan, who bulldozed over the world champions to win the Women's Week. This victory secured her a place in the Grand Finale in September, alongside the tournament's runner-up, Indian Grandmaster Humpy Koneru. Together, they will join an exciting line-up of finalists, including Wesley So, Sam Shankland, Gukesh D, and Nodirbek Abdusattorov, and compete for the main prize of €200,000. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/kazakhstani-bibisara-assaubayeva-steamrolls-her-way-to-the-armag/",
-         "pubDate" : "Sun, 14 May 2023 18:51:51 +0000",
-         "title" : "Bibisara Assaubayeva steamrolls her way to the Armageddon Grand Finale"
-      },
-      {
-         "description" : " Many in the English chess community will have been saddened to hear of the death last month of FM Michael Franklin at the age of 92. The word most often used to describe him was &#8216;gentleman': perhaps an old-fashioned concept, but very appropriate for someone who always recorded his games descriptive notation and never used <a href=\"https://chessimprover.com/michael-franklin/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Michael Franklin\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/michael-franklin/\">Michael Franklin</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/michael-franklin/",
-         "pubDate" : "Sun, 14 May 2023 15:40:14 +0000",
-         "title" : "Michael Franklin"
-      },
-      {
-         "description" : "The past month's most-watched Youtube chess videos were dominated by the World Championship taking place in Astana, Kazakhstan. On my short list for this post I had a few interesting videos on the event, but decided to feature this one from <I>ChessBase India</I>. Good background is always in short supply. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/AEzyVcPt4NQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>A Complete Tour of the World Chess Championship 2023 Venue | The St. Regis Astana</B> (9:09) &#149; '[Published on] Apr 2",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/st-regis-hotel-astana.html",
-         "pubDate" : "Sun, 14 May 2023 15:34:00 +0000",
-         "title" : "St. Regis Hotel, Astana"
       }
    ]
 }
