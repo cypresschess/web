@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Fabiano Caruana continues to surge in Norway Chess 2023 and in the world rankings after defeating GM Alireza Firouzja with Black in the classical game. He leads the tournament by four points (!) with 10.5/12 and overtakes Firouzja as number two...",
+         "description" : "A heavily-decisive round one ith four victories out of five games commenced the Cairns Cup 2023&#38;nbsp;on Saturday. GM Alexandra Kosteniuk scored her first-ever classical victory vs. GM Humpy Koneru, the second highest woman in the world.&#38;nbsp;GM Ir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-1",
+         "pubDate" : "Sat, 03 Jun 2023 20:13:38 -0700",
+         "title" : "Decisive Start: Kosteniuk Defeats Defending Champion"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-1-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-1-lichessorg",
+         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
+         "title" : "2023 Cairns Cup: Round 1 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-2",
+         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
+         "title" : "2023 Cairns Cup: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Dr. Jeanne Cairns Sinquefield talks to Almira Skripchenko during the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeanne-sinquefield-women-%E2%80%98play-win%E2%80%99-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g_kj5syfj1k.jpg?itok=2Ayvnj6L\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jeanne-sinquefield-women-%E2%80%98play-win%E2%80%99-r1-cairnscup",
+         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
+         "title" : "Jeanne Sinquefield: The Women 'Play to Win' | R1 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Nazi Paikidze asks the players how it feels to be in Saint Louis, playing at the Cairns Cup. This aired during Round 1. 2023.06.02<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-playing-third-edition\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MsyoaF6DgJA.jpg?itok=UPbJWvAp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-playing-third-edition",
+         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
+         "title" : "2023 Cairns Cup: Playing in the Third Edition"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks back on the sights from the player meeting and drawing of lots at the World Chess Hall of Fame on the evening before play began at the Cairns Cup. This aired during Round 1. 2023.06.02<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uVKW4I17xvw.jpg?itok=tLL1YmS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-opening-ceremony",
+         "pubDate" : "Sat, 03 Jun 2023 22:36:50 +0000",
+         "title" : "2023 Cairns Cup: Opening Ceremony"
+      },
+      {
+         "description" : "GM Fabiano Caruana continues to surge in Norway Chess 2023 and in the world rankings after with Black defeating GM Alireza Firouzja in the classical game. He leads the tournament by four points (!) with 10.5/12 and overtakes Firouzja as number two...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-4",
-         "pubDate" : "Sat, 03 Jun 2023 15:18:05 -0700",
+         "pubDate" : "Sat, 03 Jun 2023 15:18:00 -0700",
          "title" : "World Number-2 Caruana Leads By 4, Gukesh Sacrifices Queen Vs. Carlsen"
       },
       {
@@ -914,36 +962,12 @@ news_feed (
          "title" : "2023 Superbet Rapid & Blitz Poland: Which Time Format Do You Prefer? #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen (23.5 points) plays Jan-Krzysztof Duda (22.5 points) in the 18th and final blitz round of regulation in the 2023 Superbet Rapid &amp; Blitz Poland. With a win, Duda forces a playoff. With a score, Magnus clinches the event. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-round-18-carlsen-vs-duda-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_im",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blitz-round-18-carlsen-vs-duda-d5-superbetrapidblitzpoland",
-         "pubDate" : "Thu, 25 May 2023 19:29:22 +0000",
-         "title" : "Blitz Round 18: Carlsen vs. Duda | D5 #SuperbetRapidBlitzPoland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen is presented the trophy by Grand Chess Tour Executive Director Michael Khodarkovsky, Superbet Poland CEO Adam Lamentowicz, and Cristian Chirila after winning the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-my-retirement-only-lasted-couple-days-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/pub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-my-retirement-only-lasted-couple-days-d5-superbetrapidblitzpoland",
-         "pubDate" : "Thu, 25 May 2023 19:29:22 +0000",
-         "title" : "Carlsen: My Retirement Only Lasted a Couple of Days | D5 #SuperbetRapidBlitzPoland"
-      },
-      {
          "description" : "The first edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2023 will be held at Amalorpavam Higher Sec School, Vanarapet, Pondicherry from 23-25 June",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/1st-national-schools-team-under-12-under-18-chess-championships-2023/",
          "pubDate" : "Thu, 25 May 2023 18:26:45 +0000",
          "title" : "1st National Schools Team Under-12 & Under-18 Chess Championships-2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich and Cristian Chirila recap the \"Grandmasters vs. Organizers\" football match after the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. This aired on Day 5. 2023.05.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/%E2%80%98magnus-kept-scoring-soccer-he-never-stops%E2%80%99-d5-superbetrapidblitzpoland",
-         "pubDate" : "Thu, 25 May 2023 16:29:17 +0000",
-         "title" : "'Magnus Kept Scoring at Soccer; He Never Stops!' | D5 #SuperbetRapidBlitzPoland"
       },
       {
          "description" : "The May 2023 issue of <I>Chess Life</I> (CL) carried the annual kickoff announcement for the Chess Journalists of America (CJA) awards. The call for entries started, <BLOCKQUOTE> The CJA awards recognize the best in all facets of chess journalism, both print and online. The best chess articles, columns, photojournalism, layout, and online writing are honored within their respective categories. Recognized annually by their peers, the public, and members of CJA, the prestigious awards showcase American works published in English between June 1, 2022, and May 31, 2023. </BLOCKQUOTE> <P> The list of award categories is online at <A HREF=\"https://chessjournalism.org/award-categories/\">CJA Award C",
@@ -1042,22 +1066,6 @@ news_feed (
          "title" : "WGP Cyprus: Wagner holds the lead with three rounds to go "
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players which time control they prefer. This aired during Day 4. 2023.05.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefergrandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTl-HRRcAU8.jpg?itok=EnXaCSiY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-rapid-blitz-poland-which-time-format-do-you-prefergrandchesstour",
-         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
-         "title" : "2023 Superbet Rapid & Blitz Poland: Which Time Format Do You Prefer?#GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov analyzes Blitz Round 4 with Cristian Chirila on the fourth day of the 2023 Superbet Rapid &amp; Blitz Poland. 2023.05.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-watch-player-invited-last-minute-d4-superbetrapidblitzpoland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GGJ7fX-Yc74.jpg?itok=FwdfIY4b\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-watch-player-invited-last-minute-d4-superbetrapidblitzpoland",
-         "pubDate" : "Wed, 24 May 2023 19:28:13 +0000",
-         "title" : "Kasparov: Watch the Player Invited at the Last Minute | D4 #SuperbetRapidBlitzPoland"
-      },
-      {
          "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-7",
          "pubDate" : "Tue, 23 May 2023 19:59:00 -0700",
          "title" : "A Tale of Three Sicilians: Wagner Takes Clear Lead"
-      },
-      {
-         "description" : "GMs&#38;nbsp;Jorden van Foreest and Nodirbek Abdusattorov advance to the Winners Final of the Champions Chess Tour ChessKid Cup 2023 Division I after defeating GMs Dmitrij Kollars and Fabiano Caruana respectively. In the Losers Bracket, GMs Alireza Fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-2",
-         "pubDate" : "Tue, 23 May 2023 18:42:00 -0700",
-         "title" : "Firouzja Eliminates Nakamura; Van Foreest, Abdusattorov To Meet In Winners Final"
       },
       {
          "description" : "",
