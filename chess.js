@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Mon, 05 Jun 2023 19:50:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "The Serbian Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;You can also see Serbian Women's Championship 2023 . Parallel : U18 FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-championship-2023-live/",
+         "pubDate" : "Mon, 05 Jun 2023 18:25:00 +0000",
+         "title" : "Serbian Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Serbian Women's Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.You can also see Serbian Championship 2023 . Parallel : U18 FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-womens-championship-2023-live/",
+         "pubDate" : "Mon, 05 Jun 2023 18:10:00 +0000",
+         "title" : "Serbian Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Serbian Women's Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games.You can also see Serbian Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-womens-championship-2023/",
+         "pubDate" : "Mon, 05 Jun 2023 17:53:45 +0000",
+         "title" : "Serbian Women's Championship 2023"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Dubai Open. Two queen endings were especially interesting. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-242-endgame-highlights-from-the-dubai-open",
+         "pubDate" : "Mon, 05 Jun 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #242: Endgame Highlights from the Dubai Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2441",
+         "pubDate" : "Mon, 05 Jun 2023 16:45:41 +0000",
+         "title" : "FIDE Education Commission announces its 7th Preparation of Teachers course"
+      },
+      {
          "description" : "Round 6 of the Norway Chess Tournament promises to be exciting: Magnus Carlsen plays with Black against Aryan Tari and will try to win his first classical game of the tournament, Hikaru Nakamura, the new world number two in the live rankings, plays with Black against Alireza Firouzja, while Gukesh has White against Anish Giri. The round starts at 17.00 CEST. Follow the games live with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +58,7 @@ news_feed (
          "title" : "Norway Chess: Round 6 live!"
       },
       {
-         "description" : "The Serbian Championship is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Chessdom.com will daily follow the live games. You can also see Serbian Women's []",
+         "description" : "The Serbian Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Chessdom.com will daily follow the live games. You can also see Serbian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/serbian-championship-2023/",
@@ -234,14 +282,6 @@ news_feed (
          "title" : "2023 Cairns Cup: Round 3"
       },
       {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Sun, 04 Jun 2023 19:50:00 +0100",
-         "title" : "Cairns Cup - Live!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Excited and anxious to play in her first Cairns Cup and visiting Saint Louis, IM Gunay Mammadzada discusses her win against GM Bella Khotenashvili. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/im-gunay-mammadzada-i-thought-i-was-hallucinatingng4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EtC_Gh6_quQ.jpg?itok=DNcdy9HR\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -386,22 +426,6 @@ news_feed (
          "title" : "Study of the month - Genrikh Kasparyan's pupils"
       },
       {
-         "description" : "The 2023 Cairns Cup is taking place from 3-13 June in the St. Louis Chess Club, USA. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed. It is a 10-player round-robin tournament with participation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cairns-cup-2023-live/",
-         "pubDate" : "Sat, 03 Jun 2023 09:30:00 +0000",
-         "title" : "Cairns Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 Cairns Cup is a 10-player round-robin tournament taking place from 3-13 June in the St. Louis Chess Club, USA. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed.Chessdom.com will follow daily the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cairns-cup-2023-participants/",
-         "pubDate" : "Sat, 03 Jun 2023 09:00:00 +0000",
-         "title" : "Cairns Cup 2023 - Participants"
-      },
-      {
          "description" : "Today, 3 June 2023, Nils Grandelius celebrates his 30th birthday. Grandelius is known as his country's long-time leading player, an important member of the Swedish team, and has won several major international tournaments in his career to date. Grandelius worked as Magnus Carlsen's second for the World Chess Championship matches in 2016 and 2018, and is also a well-known author and teacher. | Nils Grandelius at the TePe Sigeman & Co. tournament in 2023 | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/czech-open-tournament-organizer-admits-mistake",
          "pubDate" : "Fri, 02 Jun 2023 15:58:00 -0700",
          "title" : "Tournament Organizer Makes U-Turn On Ukrainians After Criticism"
-      },
-      {
-         "description" : "The Trusts Open 2023 is taking place from June 3-5, 2023, in Auckland, New Zealand. The format is a six-round Swiss. The time control is 90 minutes for the entire game plus a 30-second increment starting on move one. The top five rated players are Ben Hague, Felix Xie, Alphaeus Wei Ern Ang, Robert W []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/trusts-open-2023-live/",
-         "pubDate" : "Fri, 02 Jun 2023 21:23:45 +0000",
-         "title" : "Trusts Open 2023 - LIVE"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King discusses a tricky question: what to do when your opponent advances his or her h-pawn early in the game? Block, restrain or ignore? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jose-martinez-wins-2023-bullet-brawl-may",
          "pubDate" : "Mon, 29 May 2023 07:36:00 -0700",
          "title" : "Martinez Slam-Dunks Second Bullet Brawl Title"
-      },
-      {
-         "description" : "The Global Chess League is a new team tournament launched by Tech Mahindra in cooperation with FIDE. The first edition will be held in Dubai from 21 June to 2 July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-new-tournament-ding-liren-magnus-carlsen-viswanathan-anand-and-hou-yifan-join-the-global-chess-league",
-         "pubDate" : "Mon, 29 May 2023 15:00:00 +0100",
-         "title" : "A new tournament: Ding Liren, Magnus Carlsen, Viswanathan Anand and Hou Yifan join the Global Chess League"
       },
       {
          "description" : " IM Junta Ikeda is the ACT Chess Champion for the 10th time, after finishing on 7/7 in the 2023 Championship. He completed his perfect score with wins over CM Hui Li in round 6 and Terrence Tang in the final round. A point behind was FM Michael Kethro who finished his event with a nice attacking win over Malik Amer. CM Hui Li tied for 3rd place on 5.5, along with up and coming junior player Thomas Gatzen-O'Keefe. Seeded 15th in the tournament Gatzen-O'Keefe won his last 4 games to pick up a share of the third place prize, as well as some rating points. Michael Rolph finished on 4.5 the win the best FIDE Unrated prize, while Olamide Fasakin had the biggest rating gain in the tournament. Gatze",
@@ -1624,22 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2394",
          "pubDate" : "Mon, 15 May 2023 22:21:05 +0000",
          "title" : "FIDE WGP: Five-time World Champion Vishy Anand welcomes players to Cyprus"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2393",
-         "pubDate" : "Mon, 15 May 2023 19:11:38 +0000",
-         "title" : "FIDE World Championships 2024: Call for bids"
-      },
-      {
-         "description" : "For this post on the world's top two engine vs. engine competitions, four weeks have passed since the previous post: <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-sufi-ccc20-rapid-both-underway.html\">TCEC S24 Sufi, CCC20 Rapid - Both Underway</A> (April 2023). Here's a summary of the engine action reported at that time:- <BLOCKQUOTE> TCEC: Stockfish won the 'DivP Playoff' with an undefeated score; LCZero finished second to qualify into the S24 Superfinal (aka Sufi). After 40 games in the 100-game Sufi, LCZero has a slim one point lead. &#149; CCC: The 15-engine OpenBench event, titled 'OpenBench Interlude #8 - All Hands', was won by Berserk. This was followed by the first st",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/stockfish-wins-tcec-s24-engine-mysteries.html",
-         "pubDate" : "Mon, 15 May 2023 15:45:00 +0000",
-         "title" : "Stockfish Wins TCEC S24; Engine Mysteries"
       }
    ]
 }
