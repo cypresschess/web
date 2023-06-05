@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As a part of the Maharashtra Chess Festival, two chess legends, Peter Svidler and Nigel Short are facing young super-talents Vidit Gujrathi and Raunak Sadhwani. The latter got off to a great start, winning both games. But then the seniors struck back with emphatic victories. In round three the Young Talent won both games. This was followed by two draws. Report by ChessBase India.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maharashtra-match-rounds-3-4",
+         "pubDate" : "Mon, 05 Jun 2023 12:31:29 +0100",
+         "title" : "Maharashtra Match - Rounds 3 + 4"
+      },
+      {
+         "description" : "The second round of the Cairns Cup 2023&#38;nbsp;again saw four out of five games finish decisively, with GM Alexandra Kosteniuk&#39;s victory over GM Harika Dronavalli the most notable as she pushed herself out to a 2/2 start. GM Nana Dzagnidze&#38;nbsp;as...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-2",
+         "pubDate" : "Mon, 05 Jun 2023 04:19:45 -0700",
+         "title" : "Kosteniuk Doubles Down With Win Over Harika In Round-2 Bloodbath"
+      },
+      {
+         "description" : "He drew the Classical game against Nodirbek Abdusattorov (UZB) in Round 5 of 11th Norway Chess 2023, and then was completely winning the Armageddon against the former World Rapid champion Nodirbek Abdusattorov (2731). However, Gukesh decided to repeat moves as draw with Black, which won him the match. Shakhriyar Mamedyarov (AZE) and Hikaru Nakamura (USA) scored the only two Classical wins of the round against the tournament leader Fabiano Caruana (USA) and birthday boy Aryan Tari (NOR). The 'Speed King' Nakamura is now World no.2 again. Magnus Carlsen defeated Anish Giri in the Armageddon to win the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/11th-norway-chess-2023-r5-nakamura-now-world-no-2",
+         "pubDate" : "Mon, 05 Jun 2023 10:06:49 +0100",
+         "title" : "11th Norway Chess 2023 R5: Nakamura now world no. 2"
+      },
+      {
+         "description" : "A number of junior bursaries are available for participants in the Northumbria Masters Congress (24-28 August, Newcastle upon Tyne), thanks to generous support from the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/northumbria-masters-junior-bursaries/",
+         "pubDate" : "Mon, 05 Jun 2023 09:02:03 +0000",
+         "title" : "Northumbria Masters Junior Bursaries"
+      },
+      {
+         "description" : "Congratulations to John Nunn, who has won Gold in the 65+ ECU Senior Championship. Great performances too from Keith Arkell, tying for 1st in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/john-nunn-wins-gold/",
+         "pubDate" : "Mon, 05 Jun 2023 08:36:12 +0000",
+         "title" : "John Nunn wins Gold!"
+      },
+      {
+         "description" : "Click this link for a PDF of the Membership Analysis June 2023 for the English Chess Federation.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/75648-2/",
+         "pubDate" : "Mon, 05 Jun 2023 08:28:14 +0000",
+         "title" : "ECF Membership Analysis June 2023"
+      },
+      {
+         "description" : "Entry to this competition sponsored by Winton is by solving the starter problem below. White, playing up the board, is to play and force mate...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2023-2024/",
+         "pubDate" : "Mon, 05 Jun 2023 08:12:38 +0000",
+         "title" : "Winton British Chess Solving Championship 2023-2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after defeating Abdumalik in the second round of the 2023 Cairns Cup. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-reveals-her-saint-louis-shoe-count-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B7gUya6ahto.jpg?itok=aMFJfnm_\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -285,9 +341,9 @@ news_feed (
          "description" : "India's young talents Vidit Gujrathi and Raunak Sadhwani got off to a great start in round one, when they defeated veterans Peter Svidler and Nigel Short respectively in the first classical game. In round two Nigel and Peter bounced back by scoring emphatic victories over Raunak and Vidit. The match score is now 1-1. Our report has extensive videos by ChessBase India, including interviews with the players. The photos are by Shahid Ahmed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maharashtra-match-rounds-1-and-2",
+         "link" : "https://en.chessbase.com/post/maharashtra-match-rounds-1-2",
          "pubDate" : "Sat, 03 Jun 2023 08:00:00 +0100",
-         "title" : "Maharashtra Match - Rounds 1 and 2"
+         "title" : "Maharashtra Match - Rounds 1 + 2"
       },
       {
          "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
@@ -762,6 +818,14 @@ news_feed (
          "title" : "Capturing The Lead Late, Abdusattorov Wins Norway Blitz Opener"
       },
       {
+         "description" : " From the publisher: &#8220;The rivalry between William Steinitz and Johannes Zukertort, the world's strongest chess players in the late nineteenth century, became so fierce that it was eventually named The <a href=\"http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Ink War: Romanticism versus Modernity in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/\">The Ink War: Romanticism versus Modernity in Chess</a> appeared first on <a rel=\"nofollow\" href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/",
+         "pubDate" : "Tue, 30 May 2023 00:00:52 +0000",
+         "title" : "The Ink War: Romanticism versus Modernity in Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -826,6 +890,14 @@ news_feed (
          "title" : "11th Norway Chess 2023 - Games and Results"
       },
       {
+         "description" : "Is this song about chess? In all the years that I've been posting about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I haven't asked that question. Let's first have a listen. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/k0jReeAe3do\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Yes - I've Seen All Good People: Your Move / All Good People</B> (6:55) &#149; '[Published on] Apr 29, 2014' <P> The song's lyrics are in the video's description, copied he",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/yes-its-not-about-chess.html",
+         "pubDate" : "Sun, 28 May 2023 15:17:00 +0000",
+         "title" : "Yes, It's Not About Chess"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 127th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2428",
          "pubDate" : "Sat, 27 May 2023 20:36:55 +0000",
          "title" : "FIDE WGP: WGM Dinara Wagner reigns in Cyprus"
-      },
-      {
-         "description" : "Dinara Wagner grabbed a full point in the final round to win the Women's Grand Prix in Nicosia, the last event of the 2-year series. Wagner, the lowest-rated player in the field, played enterprisingly from the get go to beat Bella Khotenashvili with black. Kateryna Lagno and Aleksandra Goryachkina both drew with white to secure spots in the next edition of the Women's Candidates. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nicosia-2023-r11",
-         "pubDate" : "Sat, 27 May 2023 20:40:00 +0100",
-         "title" : "Dinara Wagner stuns the field, wins Nicosia Grand Prix"
       },
       {
          "description" : "WGM Dinara Wagner secured victory with the black pieces in the fourth leg of the&#38;nbsp;FIDE Women&#39;s Grand Prix 2022-2023 after defeating GM Bela Khotenashvili and moving to 7/11. After Wagner suffered a loss in round nine that allowed GMs Harika Dr...",
@@ -1138,14 +1202,6 @@ news_feed (
          "title" : "WGP Cyprus: Wagner holds the lead with three rounds to go "
       },
       {
-         "description" : "Have you watched Bullet Brawl yet? This two-hour monthly arena sees titled players compete against each other at lightning speed using a 1+0 time control.&#38;nbsp; While you might not be able to compete with GM Hikaru Nakamura in the titled event, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-community-bullet-brawl",
-         "pubDate" : "Wed, 24 May 2023 12:24:00 -0700",
-         "title" : "Announcing Chess.com Community Bullet Brawl Tournaments"
-      },
-      {
          "description" : "Everything is set for the 2023 European Senior Chess Championship which will be played from May 26 to June 3 in Acqui Terme, Italy. The Championship is played in two age categories: 50+ and 65+, with Women's 50+ section separately. Women's 65+ championship will be merged with the Open competition, with separate prizes for the best female players. The event broke the participation record with 180 players coming from more than 25 European federations. The top seeds are: GM John []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1274,14 +1330,6 @@ news_feed (
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
       },
       {
-         "description" : "It is with great sadness that we must report the death of Harry Lamb. Harry had been in a care home for the last twelve...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/harry-lamb-1942-2023/",
-         "pubDate" : "Mon, 22 May 2023 09:43:16 +0000",
-         "title" : "Harry Lamb 1942-2023"
-      },
-      {
          "description" : "The&#160;European School Chess Championship 2023&#160;took place from 12th-22nd May in Durres, Albania. The event was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which was the official hotel and venue of the tournament. Bora Sahin (TUR) triumphed in the Open U7 section for the youngest participants. He scored 8.5/9 points to emerge as the sole winner of the event, ahead of Lukyan Huzela (UKR) []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1394,14 +1442,6 @@ news_feed (
          "title" : "21st European Union Youth Chess Championship U8-U14"
       },
       {
-         "description" : "The first in-person Chess for Freedom Conference will take place from&#160;17-20 May 2023 in Chicago USA. The event will feature many experts from the worldwide...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-for-freedom-conference-feat-carl-portman/",
-         "pubDate" : "Fri, 19 May 2023 07:55:59 +0000",
-         "title" : "Chess for Freedom Conference feat. Carl Portman"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1416,14 +1456,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/may/19/chess-caruana-edges-bucharest-while-ding-narrowly-avoids-finishing-bottom",
          "pubDate" : "Fri, 19 May 2023 07:00:22 +0000",
          "title" : "Chess: Caruana edges Bucharest while Ding narrowly avoids finishing bottom"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2023/#new_tab",
-         "pubDate" : "Fri, 19 May 2023 07:00:18 +0000",
-         "title" : "ECF Ukraine Crisis Appeal 24-hour Chess Marathon"
       },
       {
          "description" : " Dr. Alexey Root has announced the Chessable Research Awards for Fall 2023 and the deadline is July 1st. This initiative is designed to produce research that is beneficial to building the scientific body of literature as far as chess research. Over the years that have been a plethora of chess studies on a variety of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/\">Chessable Research Awards-Fall 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1538,14 +1570,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
       },
       {
-         "description" : "We were deeply saddened to hear about the tragic passing of WIM Sue Maroroa Jones on Thursday 11th of May, shortly after giving birth to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/sue-maroroa-jones-1991-2023/",
-         "pubDate" : "Tue, 16 May 2023 11:58:19 +0000",
-         "title" : "Sue Maroroa Jones (1991-2023)"
-      },
-      {
          "description" : "33rd National Under-17 Open &#38; Girls Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-17-Open-TT.html Girls : https://aicf.online/National-U-17-Girls-TT.html Any Correction mail at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1600,22 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/trigger-finger.html",
          "pubDate" : "Mon, 15 May 2023 12:53:00 +0000",
          "title" : "Trigger Finger"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2391",
-         "pubDate" : "Mon, 15 May 2023 11:06:39 +0000",
-         "title" : "Show-down in Cyprus"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2390",
-         "pubDate" : "Mon, 15 May 2023 09:57:12 +0000",
-         "title" : "Global Chess League, created by Tech Mahindra and FIDE, Inks distribution pact with Protocol Sports Marketing"
       }
    ]
 }
