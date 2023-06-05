@@ -338,20 +338,20 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The dangerous h-pawn"
       },
       {
-         "description" : "Once upon a time we all looked quite different - even some famous chess players. Our author has selected some childhood and youth photographs of famous chess grandmasters and invites you to guess. For example, who are the two perky new wave girls? Background singers from A-ha?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/photo-quiz-when-we-were-young",
-         "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
-         "title" : "Photo quiz - When we were young"
-      },
-      {
          "description" : "The advance of the h-pawn on move three is certainly not in line with the basic rules of how to play the opening. But in recent years a number of world-class players have been successful with it, including Magnus Carlsen, Ding Liren and Maxime Vachier-Lagrave. And just a weeks ago at the Superbet Chess Classic in Bucharest, Fabiano Caruana managed an impressive winning game with it on his way to winning the tournament against MVL. Sipke Ernst recorded a FritzTrainer on 3.h4 against the Gr&uuml;nfeld and King's Indian half a year ago. In the new CBM Extra #213 he provides an update with current material - you can see an excerpt of his analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/3-h4-against-the-gruenfeld-and-king-s-indian",
          "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
          "title" : "3.h4 against the Gruenfeld and King's Indian"
+      },
+      {
+         "description" : "Once upon a time we all looked quite different - even some famous chess players. Our author has selected some childhood and youth photographs of famous chess grandmasters and invites you to guess. For example, who are the two perky new wave girls? Background singers from A-ha?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/photo-quiz-when-we-were-young",
+         "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
+         "title" : "Photo quiz - When we were young"
       },
       {
          "description" : "The 2nd Maharashtra Open is taking place from 1&#x2013;9 June 2023 in Nagpur, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of Luka Paichadze, Vladimir Burmakin, Viacheslav V. Zakhartsov, M.R. Venkatesh, Boris Savchenko, Shete Sammed Jaykumar, Aleksej Aleksandrov, []",
