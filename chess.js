@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 6 of the Norway Chess Tournament promises to be exciting: Magnus Carlsen plays with Black against Aryan Tari and will try to win his first classical game of the tournament, Hikaru Nakamura, the new world number two in the live rankings, plays with Black against Alireza Firouzja, while Gukesh has White against Anish Giri. The round starts at 17.00 CEST. Follow the games live with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-live",
+         "pubDate" : "Mon, 05 Jun 2023 16:45:00 +0100",
+         "title" : "Norway Chess: Round 6 live!"
+      },
+      {
+         "description" : "The Serbian Championship is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Chessdom.com will daily follow the live games. You can also see Serbian Women's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-championship-2023/",
+         "pubDate" : "Mon, 05 Jun 2023 15:09:00 +0000",
+         "title" : "Serbian Championship 2023"
+      },
+      {
+         "description" : "GM Romain Edouard is an expert on the Sicilian Dragon Variation. In his four-part series in ChessBase Magazine Extra he gives deep insights into the variations after 9.0-0-0 d5 and reveals a multitude of tactical motifs he came across in the course of his analyses. The second part deals with the main line 10.exd5. You can watch an excerpt from Edouard's 20-minute analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/3-h4-against-the-gruenfeld-and-king-s-indian-2",
+         "pubDate" : "Mon, 05 Jun 2023 16:00:00 +0100",
+         "title" : "Critical Lines in the Dragon - Part II"
+      },
+      {
+         "description" : "We hope this report gives you a sense of Carl's ongoing work for the ECF, including visits to prisons of all categories across the country....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/a-visit-to-hmp-dartmoor-carl-portman/",
+         "pubDate" : "Mon, 05 Jun 2023 13:39:19 +0000",
+         "title" : "A visit to HMP Dartmoor - Carl Portman"
+      },
+      {
+         "description" : "A lingering look at the Lipton Legacy a survey of Michael Lipton's impressive output by John Rice. Click here for the PDF Pictures...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/eulogy-michael-lipton/",
+         "pubDate" : "Mon, 05 Jun 2023 13:13:42 +0000",
+         "title" : "Eulogy - Michael Lipton"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100770582.cms\" />The Global Chess League (GCL) on Monday unveiled the six franchises that will participate in its inaugural edition, taking place in Dubai from June 21 to July 2.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-six-franchises-for-its-inaugural-edition/articleshow/100770582.cms",
+         "pubDate" : "Mon, 05 Jun 2023 13:04:36 +0000",
+         "title" : "Global Chess League unveils six franchises for its inaugural edition"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 12:15:00 +0000",
+         "title" : "U16 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u18-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 11:55:57 +0000",
+         "title" : "U18 FIDE World Rapid Championship - Participants"
+      },
+      {
          "description" : "As a part of the Maharashtra Chess Festival, two chess legends, Peter Svidler and Nigel Short are facing young super-talents Vidit Gujrathi and Raunak Sadhwani. The latter got off to a great start, winning both games. But then the seniors struck back with emphatic victories. In round three the Young Talent won both games. This was followed by two draws. Report by ChessBase India.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,8 +78,24 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-2",
-         "pubDate" : "Mon, 05 Jun 2023 04:19:45 -0700",
+         "pubDate" : "Mon, 05 Jun 2023 04:19:00 -0700",
          "title" : "Kosteniuk Doubles Down With Win Over Harika In Round-2 Bloodbath"
+      },
+      {
+         "description" : " The 3rd Cairns Cup takes place in Saint Louis 3rd to 13th June 2023. The event is named for Dr. Jeanne Sinquefield's maiden name and was cancelled at least once due to Covid-19. Players: Humpy Koneru, Alexandra Kosteniuk, Harika Dronavalli, Nana Dzagnidze, Zhansaya Abdumalik, Elisabeth Paehtz, Bella Khotenashvili, Gunay Mammadzada, Irina Krush and Anna Zatonskih.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/3rd-cairns-cup-2023",
+         "pubDate" : "Mon, 5 Jun 2023 13:49:00 +0400",
+         "title" : "3rd Cairns Cup 2023 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2440",
+         "pubDate" : "Mon, 05 Jun 2023 09:22:42 +0000",
+         "title" : "World Rapid Team Championship: Preliminary list of participants announced"
       },
       {
          "description" : "He drew the Classical game against Nodirbek Abdusattorov (UZB) in Round 5 of 11th Norway Chess 2023, and then was completely winning the Armageddon against the former World Rapid champion Nodirbek Abdusattorov (2731). However, Gukesh decided to repeat moves as draw with Black, which won him the match. Shakhriyar Mamedyarov (AZE) and Hikaru Nakamura (USA) scored the only two Classical wins of the round against the tournament leader Fabiano Caruana (USA) and birthday boy Aryan Tari (NOR). The 'Speed King' Nakamura is now World no.2 again. Magnus Carlsen defeated Anish Giri in the Armageddon to win the match.",
@@ -370,22 +450,6 @@ news_feed (
          "title" : "Trusts Open 2023 - LIVE"
       },
       {
-         "description" : "The 3rd Bangladesh Police Open is taking place from 2&#x2013;8 June 2023 in Dhaka, Bangladesh. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Atiqur Rahman, Rahman Md. Anisur, Amin Md. Ruhul, Asadujjaman Md, Chakma Subas, Md. Tayabur Rahman, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-bangladesh-police-open-live/",
-         "pubDate" : "Fri, 02 Jun 2023 21:03:19 +0000",
-         "title" : "3rd Bangladesh Police Open - LIVE"
-      },
-      {
-         "description" : "The Cape Verde Championship is taking place from 01-04 June 2023 in Vila Dos Picos, Cape Verde. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is knockout tournament . Parallel : 2nd Maharashtra Open / Norway Chess / 23rd Dubai Open A / 23rd Dubai Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cape-verde-championship-live/",
-         "pubDate" : "Fri, 02 Jun 2023 19:04:00 +0000",
-         "title" : "Cape Verde Championship - LIVE"
-      },
-      {
          "description" : "In his new Power Play Show, GM Daniel King discusses a tricky question: what to do when your opponent advances his or her h-pawn early in the game? Block, restrain or ignore? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -408,14 +472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/photo-quiz-when-we-were-young",
          "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
          "title" : "Photo quiz - When we were young"
-      },
-      {
-         "description" : "The 2nd Maharashtra Open is taking place from 1&#x2013;9 June 2023 in Nagpur, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of Luka Paichadze, Vladimir Burmakin, Viacheslav V. Zakhartsov, M.R. Venkatesh, Boris Savchenko, Shete Sammed Jaykumar, Aleksej Aleksandrov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-maharashtra-open-live/",
-         "pubDate" : "Fri, 02 Jun 2023 14:30:00 +0000",
-         "title" : "2nd Maharashtra Open - LIVE"
       },
       {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
@@ -458,7 +514,7 @@ news_feed (
          "title" : "Kuznecovas rolls on the way to European Chess Solving Championship in Bratislava"
       },
       {
-         "description" : "The European Pairs Blitz Chess Championship 2023 will be played on 19th of June 2023 in Krakow, Poland, as the accompanying event of the European Games Krakow-Malopolska 2023. Eight invited teams (ECU members) will participate in the event in the following composition: Both Women's and Open events will consist of two phases: The rate of play is 3 minutes + 2 seconds increment for each move, starting from the move one. Each play-off match will be played in 2 games []",
+         "description" : "The European Pairs Blitz Chess Championship 2023 will be played on 19th of June 2023 in Krakow, Poland, as an official side event of the European Games Krakow-Malopolska 2023. Eight invited teams (ECU members) will participate in the event in the following composition: Both Women's and Open events will consist of two phases: The rate of play is 3 minutes + 2 seconds increment for each move, starting from the move one. Each play-off match will be played in 2 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-at-european-games-2023/",
@@ -898,28 +954,12 @@ news_feed (
          "title" : "Yes, It's Not About Chess"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 127th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-127-chess-history-in-a-nutshell-9",
-         "pubDate" : "Sun, 28 May 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 127: Chess history in a nutshell (9)"
-      },
-      {
          "description" : " IM Junta Ikeda is closing in on his 10th ACT Chess Championship, after winning two important games today. In round 4 he defeated Harry Press after Press sacrificed an exchange for insufficient compensation, and then defeated 2nd seed FM Michal Kethro in round 5. With 2 rounds to play Ikeda is on 5/5 and leads by half a point over CM Hui Li, and visiting player Terrence Tang. Li is paired against Ikeda in round 6, and looks to be in form, having defeated Press in round 5. Tang and Kethro play on board 2, with kethro hoping that Li can open up the event with a result against Ikeda. Malik Amer, Daniel Lee and Michael Rolph are also on 4 points, and remain in contention for the prizes. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-3.html",
          "pubDate" : "Sun, 28 May 2023 12:39:00 +0000",
          "title" : "2023 ACT Championship - Day 3"
-      },
-      {
-         "description" : "In an exclusive interview for ChessBase, American Fide Master Alice Lee talks to chess journalist Tatiana Flores about her ambitions in chess as well as in her private life, gives some insights into her training routine and answers the big questions about her future in chess. | Photo: Alice Lee, ready for the start of the 4th day of the American Women's Cup 2023. | Photo: St. Louis Chess Club, courtesy of Alice Lee.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-rising-chess-star-an-interview-with-alice-lee",
-         "pubDate" : "Sun, 28 May 2023 11:00:00 +0100",
-         "title" : "A Rising Chess Star: An interview with Alice Lee"
       },
       {
          "description" : " The ChessKid Cup took place Mon 22nd to Fri 26th May 2023 on Chess.com. The latest event in the Champions Chess Tour was won by Nodirbek Abdusattorov who beat Jorden Van Foreest and Fabiano Caruana in the two finals. Vladimir Fedoseev qualified for Division 1 next time beating Shakhriyar Mamedyarov in the Division 2 Grand final (and Ngoc Truong Son Nguyen in the first final) and Alan Pichot beat Pentala Harikrishna twice to win Division 3.",
@@ -1123,14 +1163,6 @@ news_feed (
       },
       {
          "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2023/#new_tab",
-         "pubDate" : "Thu, 25 May 2023 15:00:07 +0000",
-         "title" : "English and English Women's Chess Championships 2023"
-      },
-      {
-         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2422",
@@ -1144,14 +1176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/3-for-win.html",
          "pubDate" : "Thu, 25 May 2023 13:48:00 +0000",
          "title" : "+3 for the win?"
-      },
-      {
-         "description" : "The championships will be held in Lublin, Poland from August 18 (arrivals) to August 28 (departures) 2023. Only players with communication (hearing) impairments, visual impairments...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/5th-fide-world-championships-for-people-with-disabilities/",
-         "pubDate" : "Thu, 25 May 2023 09:41:35 +0000",
-         "title" : "5th FIDE World Championships for People with Disabilities"
       },
       {
          "description" : "It was a day of narrow escapes in round eight of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023.&#38;nbsp;WGM Dinara Wagner maintained her lead, navigating her way out of a close call vs. IM Polina Shuvalova, who prepared a shrewd psychological surpris...",
@@ -1616,14 +1640,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/stockfish-wins-tcec-s24-engine-mysteries.html",
          "pubDate" : "Mon, 15 May 2023 15:45:00 +0000",
          "title" : "Stockfish Wins TCEC S24; Engine Mysteries"
-      },
-      {
-         "description" : " It seems I have come down with a case of Trigger Finger. This is a condition caused by an inflamed tendon in the finger, or in my case, the right thumb. It causes the joint to lock up, so bending or straightening my thumb is quite painful. While I am not sure how it happened, it may in fact be an Arbiter related injury! The constant setting of chess clocks for recent junior events may have had something to with it, especially interschool tournaments where a lot of time penalties were enforced. As for treatment, resting the joint is one recommendation. So with a couple of big chess events coming up (the ACT Championship and the NSW Open), I am calling on all players to try and avoid any ille",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/trigger-finger.html",
-         "pubDate" : "Mon, 15 May 2023 12:53:00 +0000",
-         "title" : "Trigger Finger"
       }
    ]
 }
