@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-4",
+         "pubDate" : "Mon, 05 Jun 2023 22:38:43 +0000",
+         "title" : "2023 Cairns Cup: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harika Dronavalli talks to Almira Skripchenko after a draw with Koneru in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dronavalli-grand-prix-tiredness-overtook-me-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GBYR9L6OYm8.jpg?itok=Xx-YXBOb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dronavalli-grand-prix-tiredness-overtook-me-r3-cairnscup",
+         "pubDate" : "Mon, 05 Jun 2023 22:38:43 +0000",
+         "title" : "Dronavalli: Grand Prix Tiredness Overtook Me | R3 #CairnsCup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2443",
+         "pubDate" : "Mon, 05 Jun 2023 22:09:43 +0000",
+         "title" : "Global Chess League Unveils Six Franchises for Inaugural Edition Set to Reach 600 Million Viewers in 160 Countries"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u10-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 21:51:54 +0000",
+         "title" : "Girls U10 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2442",
+         "pubDate" : "Mon, 05 Jun 2023 21:40:11 +0000",
+         "title" : "Champions Match Day 1: Black hold in both games"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 21:27:32 +0000",
+         "title" : "U14 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 21:10:00 +0000",
+         "title" : "U12 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u10-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 20:55:00 +0000",
+         "title" : "U10 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u08-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 20:40:00 +0000",
+         "title" : "U08 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u18-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 20:20:00 +0000",
+         "title" : "Girls U18 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 20:00:00 +0000",
+         "title" : "Girls U16 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 19:45:00 +0000",
+         "title" : "Girls U14 FIDE World Rapid Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u12-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 19:30:00 +0000",
+         "title" : "Girls U12 FIDE World Rapid Championship - Participants"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +114,12 @@ news_feed (
          "title" : "Cairns Cup - Live!"
       },
       {
-         "description" : "The Serbian Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;You can also see Serbian Women's Championship 2023 . Parallel : U18 FIDE []",
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-championship-2023-live/",
-         "pubDate" : "Mon, 05 Jun 2023 18:25:00 +0000",
-         "title" : "Serbian Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Serbian Women's Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.You can also see Serbian Championship 2023 . Parallel : U18 FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-womens-championship-2023-live/",
-         "pubDate" : "Mon, 05 Jun 2023 18:10:00 +0000",
-         "title" : "Serbian Women's Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Serbian Women's Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games.You can also see Serbian Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-womens-championship-2023/",
-         "pubDate" : "Mon, 05 Jun 2023 17:53:45 +0000",
-         "title" : "Serbian Women's Championship 2023"
+         "link" : "https://www.chessdom.com/girls-u08-fide-world-rapid-championship-participants/",
+         "pubDate" : "Mon, 05 Jun 2023 18:40:00 +0000",
+         "title" : "Girls U08 FIDE World Rapid Championship - Participants"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Dubai Open. Two queen endings were especially interesting. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -56,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-live",
          "pubDate" : "Mon, 05 Jun 2023 16:45:00 +0100",
          "title" : "Norway Chess: Round 6 live!"
-      },
-      {
-         "description" : "The Serbian Championship 2023 is a 10-player round-robin tournament taking place from 6&#x2013;14 June 2023 in Senta, Serbia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Chessdom.com will daily follow the live games. You can also see Serbian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-championship-2023/",
-         "pubDate" : "Mon, 05 Jun 2023 15:09:00 +0000",
-         "title" : "Serbian Championship 2023"
       },
       {
          "description" : "GM Romain Edouard is an expert on the Sicilian Dragon Variation. In his four-part series in ChessBase Magazine Extra he gives deep insights into the variations after 9.0-0-0 d5 and reveals a multitude of tactical motifs he came across in the course of his analyses. The second part deals with the main line 10.exd5. You can watch an excerpt from Edouard's 20-minute analysis here!",
@@ -96,22 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-six-franchises-for-its-inaugural-edition/articleshow/100770582.cms",
          "pubDate" : "Mon, 05 Jun 2023 13:04:36 +0000",
          "title" : "Global Chess League unveils six franchises for its inaugural edition"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-fide-world-rapid-championship-participants/",
-         "pubDate" : "Mon, 05 Jun 2023 12:15:00 +0000",
-         "title" : "U16 FIDE World Rapid Championship - Participants"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-fide-world-rapid-championship-participants/",
-         "pubDate" : "Mon, 05 Jun 2023 11:55:57 +0000",
-         "title" : "U18 FIDE World Rapid Championship - Participants"
       },
       {
          "description" : "As a part of the Maharashtra Chess Festival, two chess legends, Peter Svidler and Nigel Short are facing young super-talents Vidit Gujrathi and Raunak Sadhwani. The latter got off to a great start, winning both games. But then the seniors struck back with emphatic victories. In round three the Young Talent won both games. This was followed by two draws. Report by ChessBase India.",
@@ -274,22 +338,6 @@ news_feed (
          "title" : "Krush: Oh! I'm Threatening Checkmate! | R1 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.05<br /> USChessChamps.com ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Gunay Mammadzada (1) vs.<br /> Alexandra Kosteniuk (2)<br /> Irina Krush </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrap",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-3",
-         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
-         "title" : "2023 Cairns Cup: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Excited and anxious to play in her first Cairns Cup and visiting Saint Louis, IM Gunay Mammadzada discusses her win against GM Bella Khotenashvili. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/im-gunay-mammadzada-i-thought-i-was-hallucinatingng4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EtC_Gh6_quQ.jpg?itok=DNcdy9HR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-gunay-mammadzada-i-thought-i-was-hallucinatingng4",
-         "pubDate" : "Sun, 04 Jun 2023 16:37:28 +0000",
-         "title" : "IM Gunay Mammadzada: I Thought I Was Hallucinating...Ng4??!!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100747613.cms\" />Saturday saw the return of Indian youngsters Vidit Gujrathi and Raunak Sadhwani in their Challenger Match of Maharashtra chess festival.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -384,38 +432,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-habits/",
          "pubDate" : "Sat, 03 Jun 2023 12:00:00 +0000",
          "title" : "5 GM Habits for OTB Chess Success"
-      },
-      {
-         "description" : "The Asian Continental Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are S.P. Sethuraman, Rinat Jumabayev, Shamsiddin Vokhidov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-continental-championship-live/",
-         "pubDate" : "Sat, 03 Jun 2023 11:30:00 +0000",
-         "title" : "Asian Continental Championship - LIVE"
-      },
-      {
-         "description" : "The Asian Continental Women's Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are Batkhuyag Munguntuul, Divya Deshmukh, Irine []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-continental-womens-championship-live/",
-         "pubDate" : "Sat, 03 Jun 2023 11:00:00 +0000",
-         "title" : "Asian Continental Women's Championship - LIVE"
-      },
-      {
-         "description" : "The Asian Continental Women's Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are Batkhuyag Munguntuul, Divya Deshmukh, Irine []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-continental-womens-championship-participants/",
-         "pubDate" : "Sat, 03 Jun 2023 10:20:00 +0000",
-         "title" : "Asian Continental Women's Championship - Participants"
-      },
-      {
-         "description" : "The Asian Continental Championship is a 9-round Swiss tournament taking place from 4&#x2013;11 June 2023 in Almaty, Kazakhstan. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The top 6 rated players are S.P. Sethuraman, Rinat Jumabayev, Shamsiddin Vokhidov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-continental-championship-participants/",
-         "pubDate" : "Sat, 03 Jun 2023 10:00:00 +0000",
-         "title" : "Asian Continental Championship - Participants"
       },
       {
          "description" : "Genrikh Kasparyan is widely regarded as one of the most prolific endgame study composers and shared his knowledge with a younger generation. So his son Sergey also composed endgame studies - 56 are in the database, including versions and corrections. But also other friends from Genrikh's endgame studies teaching circle created interesting ones themselves or together. | Photo: Midjourney AI",
@@ -1616,22 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2395",
          "pubDate" : "Tue, 16 May 2023 00:54:03 +0000",
          "title" : "Fabiano Caruana wins 2023 Superbet Chess Classic"
-      },
-      {
-         "description" : "Fabiano Caruana drew a sharp game against Richard Rapport to finish in clear first place in the Superbet Chess Classic, taking the $100,000 top prize and the maximum 13 Grand Chess Tour points. His pursuers could all only draw, though that was a good result for Anish Giri after he stumbled into a lost position against Ian Nepomniachtchi. Ding Liren regained the world no. 3 spot after ending with a fine win over Bogdan-Daniel Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fabiano-caruana-triumphs-in-superbet-chess-classic",
-         "pubDate" : "Mon, 15 May 2023 23:27:21 +0000",
-         "title" : "Fabiano Caruana triumphs in Superbet Chess Classic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2394",
-         "pubDate" : "Mon, 15 May 2023 22:21:05 +0000",
-         "title" : "FIDE WGP: Five-time World Champion Vishy Anand welcomes players to Cyprus"
       }
    ]
 }
