@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The cut-off is an important technique in rook endings. In the diagram position Black could have used it to win the game. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-cut-off-2",
+         "pubDate" : "Tue, 06 Jun 2023 09:00:00 +0100",
+         "title" : "The cut-off"
+      },
+      {
+         "description" : "Following two rounds with 4 out of 5 games ending decisively, only Irina Krush and Bella Khotenashvili managed to score full points in round 3 of the Cairns Cup. Krush is now sharing the lead with Alexandra Kosteniuk on 2&frac12; points. Anna Zatonskih stands in sole third place a half point behind the co-leaders. Zatonskih will face Kosteniuk with black in Tuesday's fourth round. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r3",
+         "pubDate" : "Tue, 06 Jun 2023 07:20:00 +0100",
+         "title" : "Cairns Cup: Krush and Kosteniuk lead after three rounds"
+      },
+      {
+         "description" : "Jon Speelman has an eye for unusual constellations and interesting chess games, and in his column he presents a game that was played recently, but brought back memories of times gone by: \"Over the last few weeks, the game which has made much the greatest impression on me is the splendid rapidplay battle between Richard Rapport and Jan-Krzysztof Duda at the Superbet tournament in Warsaw. This magnificent slugfest quickly entered some sort of time portal and resurfaced in the mid-nineteenth century with White a huge amount of material down but the Black king under intense fire.\" | Photo: Jan-Krzysztof Duda at the Superbet Tournament in Warsaw 2023 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-speelman-forward-to-the-past",
+         "pubDate" : "Tue, 06 Jun 2023 07:01:34 +0100",
+         "title" : "Jon Speelman: Forward to the past"
+      },
+      {
+         "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. Women&#39;s Champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-3",
+         "pubDate" : "Mon, 05 Jun 2023 21:10:05 -0700",
+         "title" : "Gambits Galore: Krush Catches Kosteniuk"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Koneru Humpy talks to Almira Skripchenko after a draw with Dronavalli in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/koneru-humpy-her-superstitions-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xhlHoclUR0o.jpg?itok=BfyLHElG\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/girls-u12-fide-world-rapid-championship-participants/",
          "pubDate" : "Mon, 05 Jun 2023 19:30:00 +0000",
          "title" : "Girls U12 FIDE World Rapid Championship - Participants"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Mon, 05 Jun 2023 19:50:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
@@ -890,22 +914,6 @@ news_feed (
          "title" : "17th Asian Schools Chess Championship 2023"
       },
       {
-         "description" : "Endings with opposite colored bishops endings often end in a draw. But in the diagram position Black found a way to break through and win the game. What did he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fortress-breaker",
-         "pubDate" : "Tue, 30 May 2023 09:00:00 +0100",
-         "title" : "The fortress breaker"
-      },
-      {
-         "description" : "Traditionally, the Norway Chess Tournament begins with a blitz tournament to determine the pairings for the classical tournament. The big favourite to win Norway Chess is of course Magnus Carlsen, former World Champion and the clear number one in the world. Carlsen was also the favourite in the Blitz tournament, but things did not go his way. It was Nodirbek Abdusattorov who blitzed the best. He finished first with 6.0/9, half a point ahead of Alireza Firouzja and Shakhriyar Mamedyarov. Carlsen finished seventh with 4.5/9 and will now play five games with Black in the classical tournament, where he, however, is still favourite. | Photo: Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-blitz-abdusattorov-wins-carlsen-finishes-seventh",
-         "pubDate" : "Tue, 30 May 2023 08:38:55 +0100",
-         "title" : "Norway Chess Blitz: Abdusattorov wins, Carlsen finishes seventh"
-      },
-      {
          "description" : "Just days after winning the ChessKid Cup, GM Nodirbek Abdusattorov finished in clear first at the Norway Chess Blitz 2023 on Monday. After a rocky start in half of the event with losses to GMs Magnus Carlsen and Hikaru Nakamura, Abdusattorov score...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1224,14 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2420",
          "pubDate" : "Thu, 25 May 2023 01:35:24 +0000",
          "title" : "Georg Meier wins American Continental Championship 2023"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda leads the&#38;nbsp;Superbet Poland Rapid &#38;amp; Blitz 2023 heading into the final nine rounds of blitz after a strong showing on the fourth day when he scored 5/9 and moved to 17.5 points. GM Magnus Carlsen is hot on the heels o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-4",
-         "pubDate" : "Wed, 24 May 2023 18:20:00 -0700",
-         "title" : "5 Straight Wins By Carlsen Set Up Title Race With Duda"
       },
       {
          "description" : "",
