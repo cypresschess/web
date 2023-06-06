@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 7 of the Norway Chess Tournament, leader Fabiano Caruana has to defend his lead against D. Gukesh. Can the intrepid youngster give the veteran a run for his money? Equally interesting: Magnus Carlsen against Alireza Firouzja. The round starts at 17.00 CEST. Follow the games live with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-live",
+         "pubDate" : "Tue, 06 Jun 2023 16:45:00 +0100",
+         "title" : "Norway Chess: Round 7 live!"
+      },
+      {
+         "description" : "Chess.com&#38;rsquo;s $2 million Champions Chess Tour, the game&#38;rsquo;s elite online event, can reveal its next tournament: the 2023 Aimchess Rapid.&#38;nbsp;Running from July 10 to 14, the Aimchess Rapid is named after the unique chess learning and analy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aimchess-rapid-2023-announcement",
+         "pubDate" : "Tue, 06 Jun 2023 07:00:00 -0700",
+         "title" : "Announcing Aimchess Rapid: 4th Event Of $2 Million Champions Chess Tour Kicks Off This July"
+      },
+      {
+         "description" : " The 2023 Asian Championship is underway in Almaty, Kazakhstan. The 86 player event is a qualifier for the World Cup, and has attracted a field that contains 15 GM's at the top, but also a large number of local players towards the tail. There are no representatives from Australia (or even that Asian powerhouse, Russia) but Stuart Fancy (PNG) is flying the flag for Oceania. Despite being one of the lower rated players, he did grab half a point of an IM in the 2nd round. Current results <a href=\"https://chess-results.com/tnr766715.aspx?lan=1\">are here</a>, and there are links to the tournament website from that page. <b>Abdyzhapar,Asylbek (2282) - Fancy,Stuart (1930) [A00]</b><br /> Asian Cont",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/2023-asian-championship.html",
+         "pubDate" : "Tue, 06 Jun 2023 13:31:00 +0000",
+         "title" : "2023 Asian Championship"
+      },
+      {
+         "description" : "The next round of the Armageddon series starts on 12 June at the World Chess Club in Berlin. With Richard Rapport, Maxime-Vachier Lagrave, Jan-Krzysztof Duda, Michael Adams, Jorden Van Foreest and the three German players Vincent Keymer (pictured), Matthias Bl&uuml;baum and Alexander Donchenko. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-12-june-in-berlin-the-world-chess-armageddon-series-continues",
+         "pubDate" : "Tue, 06 Jun 2023 14:01:54 +0100",
+         "title" : "From 12 June in Berlin: The World Chess Armageddon series continues"
+      },
+      {
          "description" : "Monday was Armageddon day in Stavanger. Caruana won his classical game against Abdusattorov, and Nakamura, Carlsen, Gukesh and So improved their scores with Armageddon wins after draws. Fabiano Caruana remains in the lead. | Photos: Lennart Ootes/ Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -890,28 +922,12 @@ news_feed (
          "title" : "Selection of Team for World Women Team Chess Championship-2023"
       },
       {
-         "description" : "From 29 July to 25 August Azerbaijan will host the World Cup and the Women's World Cup. FIDE has now published a first provisional list of participants. | Photos: FIDE/ azernews.az",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-cup-2023-preliminary-lists-of-eligible-players-announced",
-         "pubDate" : "Tue, 30 May 2023 14:45:29 +0100",
-         "title" : "FIDE World Cup 2023: Preliminary lists of eligible players announced"
-      },
-      {
          "description" : " GM Ian Rogers has announced that the Canberra Times plans to drop his chess column from the Sunday paper in a couple of weeks. Ian has been writing the column for a few weeks short of 30 years, while the column itself has been in existence since 1968. Also likely to go is the Bridge column, which has had the same editor for its entire lifespan, Len Dixon, who is 101 years old! Sadly this has been a trend in the print media of late, with Ian's Sydney Morning Herald column dropped in 2020, only to be saved by a concerted letter writing campaign. Quite possibly this will have the same effect on the Canberra Times, so I encourage everyone to get to work. If you want your complaints/opinions pub",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/05/no-chess-column.html",
          "pubDate" : "Tue, 30 May 2023 13:14:00 +0000",
          "title" : "No Chess Column?"
-      },
-      {
-         "description" : "The modern defence is another systematically easy to learn hypermodern opening, giving the king a safe place, and implementing a hidden centre attack, as the game continues. Svitlana shows us the basic plans, and gives us the right moves to play. In the game example, we can see how powerful the move 1. .. g6 can be!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-modern-defence",
-         "pubDate" : "Tue, 30 May 2023 14:03:07 +0100",
-         "title" : "Svitlana's Smart Moves - How to play the modern defence"
       },
       {
          "description" : "",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/3-for-win.html",
          "pubDate" : "Thu, 25 May 2023 13:48:00 +0000",
          "title" : "+3 for the win?"
-      },
-      {
-         "description" : "It was a day of narrow escapes in round eight of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023.&#38;nbsp;WGM Dinara Wagner maintained her lead, navigating her way out of a close call vs. IM Polina Shuvalova, who prepared a shrewd psychological surpris...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-8",
-         "pubDate" : "Wed, 24 May 2023 19:35:00 -0700",
-         "title" : "Mind Games And Close Calls: Shuvalova Unnerves Wagner"
       },
       {
          "description" : "",
@@ -1616,30 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2396",
          "pubDate" : "Tue, 16 May 2023 15:45:29 +0000",
          "title" : "Asian Continental Chess Championships 2023: Registration is open"
-      },
-      {
-         "description" : "If last month's 'On the Cover' -- <A HREF=\"https://chessforallages.blogspot.com/2023/04/april-1973-1998-on-cover.html\">April 1973 & 1998 'On the Cover'</A> (April 2023) -- was 'USA all the way', then this month's is 'all the way with USA national champions'. The fellow on the left won the title six times; the little guy on the right five times (and counting?); the first titles for both players were after the respective cover dates. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne16.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Hikaru Nakamura the Youngest Master Ever' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> GM Walter Browne, who",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/may-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 16 May 2023 15:21:00 +0000",
-         "title" : "May 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2392",
-         "pubDate" : "Tue, 16 May 2023 13:31:06 +0000",
-         "title" : "Poland to host FIDE World Women's Team Championship 2023"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-67/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (67)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-67/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (67)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-67/",
-         "pubDate" : "Tue, 16 May 2023 13:06:43 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
       }
    ]
 }
