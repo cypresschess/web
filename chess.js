@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Tue, 06 Jun 2023 19:50:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2444",
+         "pubDate" : "Tue, 06 Jun 2023 17:05:42 +0000",
+         "title" : "World Cadets & Youth Rapid & Blitz Chess Championship 2023 starts in Batumi"
+      },
+      {
          "description" : "In round 7 of the Norway Chess Tournament, leader Fabiano Caruana has to defend his lead against D. Gukesh. Can the intrepid youngster give the veteran a run for his money? Equally interesting: Magnus Carlsen against Alireza Firouzja. The round starts at 17.00 CEST. Follow the games live with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -874,14 +890,6 @@ news_feed (
          "title" : "ChessFest is back!"
       },
       {
-         "description" : "The spectators were treated to an entertaining opening round of the Norway chess tournament and saw two surprises. Carlsen was defeated by Caruana. And the duel of the young stars was won by Gukesh against Firouzja. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-caruana-beats-carlsen-gukesh-defeats-firouzja",
-         "pubDate" : "Wed, 31 May 2023 09:36:00 +0100",
-         "title" : "Norway Chess: Caruana beats Carlsen, Gukesh defeats Firouzja"
-      },
-      {
          "description" : "Senior National Arbiter Sambalpur 21-22 May 2023, Odisha Certificates Link : https://aicf.online/SNA-Odisha.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1608,22 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2397",
          "pubDate" : "Tue, 16 May 2023 20:14:46 +0000",
          "title" : "FIDE WGP Nicosia: Six dominant performances in Cyprus"
-      },
-      {
-         "description" : " Adham Fawzy was a surprise winner of the 2023 African Individual Chess Championship (AICC) held in Giza, Egypt. The 23-year-old Grandmaster scored an undefeated 8/9. He was followed by Grandmaster Bilel Bellahcene of Algeria and Bassem Amin of Egypt both of who had 7.5/9. Amin was upset by the Algerian and drew with Ahmed Adly The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/16/fawzy-wins-african-championship/\">Fawzy wins African Championship!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/16/fawzy-wins-african-championship/",
-         "pubDate" : "Tue, 16 May 2023 17:57:02 +0000",
-         "title" : "Fawzy wins African Championship!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2396",
-         "pubDate" : "Tue, 16 May 2023 15:45:29 +0000",
-         "title" : "Asian Continental Chess Championships 2023: Registration is open"
       }
    ]
 }
