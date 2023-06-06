@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Monday was Armageddon day in Stavanger. Caruana won his classical game against Abdusattorov, and Nakamura, Carlsen, Gukesh and So improved their scores with Armageddon wins after draws. Fabiano Caruana remains in the lead. | Photos: Lennart Ootes/ Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-round-6-one-win-four-armageddon-games",
+         "pubDate" : "Tue, 06 Jun 2023 12:17:49 +0100",
+         "title" : "Norway Chess, Round 6: One win, four Armageddon games"
+      },
+      {
+         "description" : "Montenegro Chess Federation (MCF) in cooperation with European Chess Union (ECU) have the honor to invite all National Chess Federations members of the European Chess Union to the European Team Chess Championship 2023 organized in Budva, Montenegro from 10th November (arrival) to 21st November (departure). The event will be played in 9 rounds, swiss system, with Open and Women's sections separately. The time control will be 90 minutes for 40 moves + 30 minutes for the rest of the game, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2023/",
+         "pubDate" : "Tue, 06 Jun 2023 09:56:54 +0000",
+         "title" : "European Team Chess Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2023-south-lakes-congress-prizewinners/",
+         "pubDate" : "Tue, 06 Jun 2023 09:24:01 +0000",
+         "title" : "2023 South Lakes Congress prizewinners"
+      },
+      {
+         "description" : "ECU E-Magazine May 2023 is out! In this edition of the ECU E-Magazine you may read about: The May 2023 edition of the ECU E-Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-may-2023/",
+         "pubDate" : "Tue, 06 Jun 2023 08:58:18 +0000",
+         "title" : "ECU E-Magazine May 2023"
+      },
+      {
          "description" : "The cut-off is an important technique in rook endings. In the diagram position Black could have used it to win the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +58,11 @@ news_feed (
          "title" : "Jon Speelman: Forward to the past"
       },
       {
-         "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. Women&#39;s Champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
+         "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. women&#39;s champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-3",
-         "pubDate" : "Mon, 05 Jun 2023 21:10:05 -0700",
+         "pubDate" : "Mon, 05 Jun 2023 21:10:00 -0700",
          "title" : "Gambits Galore: Krush Catches Kosteniuk"
       },
       {
@@ -210,14 +242,6 @@ news_feed (
          "title" : "FIDE Education Commission announces its 7th Preparation of Teachers course"
       },
       {
-         "description" : "Round 6 of the Norway Chess Tournament promises to be exciting: Magnus Carlsen plays with Black against Aryan Tari and will try to win his first classical game of the tournament, Hikaru Nakamura, the new world number two in the live rankings, plays with Black against Alireza Firouzja, while Gukesh has White against Anish Giri. The round starts at 17.00 CEST. Follow the games live with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-live",
-         "pubDate" : "Mon, 05 Jun 2023 16:45:00 +0100",
-         "title" : "Norway Chess: Round 6 live!"
-      },
-      {
          "description" : "GM Romain Edouard is an expert on the Sicilian Dragon Variation. In his four-part series in ChessBase Magazine Extra he gives deep insights into the variations after 9.0-0-0 d5 and reveals a multitude of tactical motifs he came across in the course of his analyses. The second part deals with the main line 10.exd5. You can watch an excerpt from Edouard's 20-minute analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,7 +258,7 @@ news_feed (
          "title" : "A visit to HMP Dartmoor - Carl Portman"
       },
       {
-         "description" : "A lingering look at the Lipton Legacy a survey of Michael Lipton's impressive output by John Rice. Click here for the PDF Pictures...",
+         "description" : "A lingering look at the Lipton Legacy a survey of Michael Lipton's impressive output by John Rice. A full obituary can be found at...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/eulogy-michael-lipton/",
@@ -890,14 +914,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - How to play the modern defence"
       },
       {
-         "description" : "OPEN 1st place: &pound;300 Yichen Han with 5.5 points 2nd place: &pound;220 Alex Bullen with 5 points 3rd place: &pound;150 Tim Kett with 4.5 points...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/cotswold-chess-congress-2023-prize-list/",
-         "pubDate" : "Tue, 30 May 2023 12:41:20 +0000",
-         "title" : "Cotswold Chess Congress 2023 prize list"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -936,6 +952,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2430",
          "pubDate" : "Mon, 29 May 2023 15:58:36 +0000",
          "title" : "FIDE World Cup 2023: Preliminary lists of eligible players announced"
+      },
+      {
+         "description" : "The previous report on the world's top two engine vs. engine competitions was <A HREF=\"https://chessforallages.blogspot.com/2023/05/stockfish-wins-tcec-s24-engine-mysteries.html\">Stockfish Wins TCEC S24; Engine Mysteries</A> (May 2023). To summarize that post:- <BLOCKQUOTE> TCEC: Stockfish beat LCZero +20-16=64 to win the S24 Sufi. The site then conducted the following events: S24 VVLTC Bonus, S24 Kibitzer Bonus, and S24 4k 2, It is currently running the 'S24 4k 2 Final' &#149; CCC: The site ran two 'CCC20 Rapid' events, a 12-engine 'Main' and a 6-engine 'Semifinal'. The 'Semifinal' was won by Stockfish, ahead of Lc0 and Dragon. Stockfish qualified for the 'Final', while the other two engine",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html",
+         "pubDate" : "Mon, 29 May 2023 15:53:00 +0000",
+         "title" : "TCEC FRC6, CCC20 Rapid Finals; Both Underway"
       },
       {
          "description" : "GM Jose Martinez won his second Bullet Brawl crown and $1,000 on Saturday with an imperious 209 points, eclipsing his nearest challengers, the second and third-placed GMs Sergei Zhigalko (190) and Andrew Tang (180) by multiple wins. In a May edi...",
@@ -1616,14 +1640,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-67/",
          "pubDate" : "Tue, 16 May 2023 13:06:43 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (67)"
-      },
-      {
-         "description" : "33rd National Under-17 Open &#38; Girls Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-17-Open-TT.html Girls : https://aicf.online/National-U-17-Girls-TT.html Any Correction mail at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-17-open-girls-certificates/",
-         "pubDate" : "Tue, 16 May 2023 10:56:36 +0000",
-         "title" : "National U-17 Open & Girls Certificates"
       }
    ]
 }
