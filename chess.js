@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Koneru Humpy talks to Almira Skripchenko after a draw with Dronavalli in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/koneru-humpy-her-superstitions-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xhlHoclUR0o.jpg?itok=BfyLHElG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/koneru-humpy-her-superstitions-r3-cairnscup",
+         "pubDate" : "Tue, 06 Jun 2023 01:38:45 +0000",
+         "title" : "Koneru Humpy on Her Superstitions | R3 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Nazi Paikidze asks the Cairns Cup players which chess player has influenced their careers the most. This aired during Round 3. 2023.06.02<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-biggest-chess-influence\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JA7fo02NvVk.jpg?itok=sJ4KtL9R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-biggest-chess-influence",
+         "pubDate" : "Tue, 06 Jun 2023 01:38:45 +0000",
+         "title" : "2023 Cairns Cup: Biggest Chess Influence?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Muny Artistic Director &amp; Executive Producer Mike Isaacson talks to Almira Skripchenko during the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/muny%E2%80%99s-isaacson-saint-louis-excited-%E2%80%98chess%E2%80%99-musical-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3V5bzAQBajg.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/muny%E2%80%99s-isaacson-saint-louis-excited-%E2%80%98chess%E2%80%99-musical-r3-cairnscup",
+         "pubDate" : "Tue, 06 Jun 2023 01:38:45 +0000",
+         "title" : "The Muny's Isaacson: Saint Louis Excited for 'Chess' Musical! | R3 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Almira Skripchenko after defeating Dzagnidze in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-i-make-my-fans-students-happy-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PKd-ianbi3I.jpg?itok=hL2RJZF-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-i-make-my-fans-students-happy-r3-cairnscup",
+         "pubDate" : "Tue, 06 Jun 2023 01:38:45 +0000",
+         "title" : "Krush: I Like to Make My Fans & Students Happy | R3 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after defeating Abdumalik in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khotenashvili-gets-her-first-victory-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjpVGyl7YEw.jpg?itok=Hn9Xjd2v\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khotenashvili-gets-her-first-victory-r3-cairnscup",
+         "pubDate" : "Tue, 06 Jun 2023 01:38:45 +0000",
+         "title" : "Khotenashvili Gets Her First Victory! | R3 #CairnsCup"
+      },
+      {
+         "description" : "There were nine games in round six of Norway Chess 2023, and GM Fabiano Caruana was the only player to win a classical one. With the black pieces, he won for the first time in classical chess against GM Nodirbek Abdusattorov, extending his tournam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-6",
+         "pubDate" : "Mon, 05 Jun 2023 16:48:00 -0700",
+         "title" : "'Same Thing As Basketball: It's All About The 3 Points': Caruana Bounces Back With Black"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -274,28 +322,12 @@ news_feed (
          "title" : "Kosteniuk beats Dronavalli; Starts 2-0 | R2 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-lucky-bella-missed-surprise-stalemate-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zatonskih-lucky-bella-missed-surprise-stalemate-r2-cairnscup",
-         "pubDate" : "Mon, 05 Jun 2023 01:37:42 +0000",
-         "title" : "Zatonskih: Lucky that Bella Missed Surprise Stalemate! | R2 #CairnsCup"
-      },
-      {
          "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov with Black beat GM Fabiano Caruana in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-5",
          "pubDate" : "Sun, 04 Jun 2023 15:47:00 -0700",
          "title" : "Nakamura World Number-2 For First Time Since 2015, Mamedyarov Showstops Caruana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> US Chess Executive Director Carol Meyer talks to Almira Skripchenko during the second round of the 2023 Cairns Cup. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carol-meyer-us-chess-membership-hits-100000-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nJrsgEa_k4c.jpg?itok=4zdowdZ3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carol-meyer-us-chess-membership-hits-100000-r2-cairnscup",
-         "pubDate" : "Sun, 04 Jun 2023 22:37:32 +0000",
-         "title" : "Carol Meyer: US Chess Membership Hits 100,000! | R2 #CairnsCup"
       },
       {
          "description" : "",
@@ -312,30 +344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2438",
          "pubDate" : "Sun, 04 Jun 2023 20:28:04 +0000",
          "title" : "Winners crowned at European Senior Championship 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gunay Mammadzada talks to Almira Skripchenko after defeating Khotenashvili in the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mammadzada-was-i-hallucinatingng4-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EtC_Gh6_quQ.jpg?itok=DNcdy9HR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mammadzada-was-i-hallucinatingng4-r1-cairnscup",
-         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
-         "title" : "Mammadzada: Was I Hallucinating...Ng4?? | R1 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Koneru in the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuk-victories-are-so-sweet-almost-40-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RZMKaNByZmA.jpg?itok=ebPxgFns\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kosteniuk-victories-are-so-sweet-almost-40-r1-cairnscup",
-         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
-         "title" : "Kosteniuk: Victories are so Sweet at Almost 40 | R1 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Almira Skripchenko after defeating Abdumalik in the first round of the 2023 Cairns Cup. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-oh-im-threatening-checkmate-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_EJYGtGZq78.jpg?itok=mn_gO9-f\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-oh-im-threatening-checkmate-r1-cairnscup",
-         "pubDate" : "Sun, 04 Jun 2023 19:37:32 +0000",
-         "title" : "Krush: Oh! I'm Threatening Checkmate! | R1 #CairnsCup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100747613.cms\" />Saturday saw the return of Indian youngsters Vidit Gujrathi and Raunak Sadhwani in their Challenger Match of Maharashtra chess festival.",
@@ -1234,14 +1242,6 @@ news_feed (
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov is the first grand finalist of the Champions Chess Tour ChessKid Cup 2023 Division I after beating GM Jorden van Foreest in a close fight that nearly made it to armageddon. In the Losers Bracket, GM Fabiano Caruana elimina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-3",
-         "pubDate" : "Wed, 24 May 2023 16:01:00 -0700",
-         "title" : "Abdusattorov Advances To Grand Final; Caruana, Moussard To Play In Losers SF"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1624,14 +1624,6 @@ news_feed (
          "link" : "https://aicf.in/national-u-17-open-girls-certificates/",
          "pubDate" : "Tue, 16 May 2023 10:56:36 +0000",
          "title" : "National U-17 Open & Girls Certificates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2395",
-         "pubDate" : "Tue, 16 May 2023 00:54:03 +0000",
-         "title" : "Fabiano Caruana wins 2023 Superbet Chess Classic"
       }
    ]
 }
