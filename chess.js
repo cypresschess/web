@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You probably have discovered the good news already - Svitlana made a new Fritztrainer: The Leningrad Dutch Defence! The Dutch Defence is a stable counter to the common opening moves 1.d4, c4 or Nf3. The Leningrad variation is particularly fun to play. Svitlana knows the opening by heart, as she played it herself for many years, and recently was close to a win against an IM (who is about to reach 2500) with this very opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-leningrad-dutch-defence",
+         "pubDate" : "Wed, 07 Jun 2023 07:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - How to play the Leningrad Dutch Defence"
+      },
+      {
+         "description" : "It involves six franchises for the inaugural edition, set to reach 600 million viewers in 160 countries. The Global Chess League represents a paradigm shift in chess spectatorship with the inclusion of world-class players and visionary franchise owners. Check out the world class players who will be playing in the League. It's going to be a hot summer!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-unveiled",
+         "pubDate" : "Wed, 07 Jun 2023 06:00:00 +0100",
+         "title" : "Global Chess League Unveiled"
+      },
+      {
+         "description" : "IM Anna Zatonskih outplayed joint overnight leader GM Alexandra Kosteniuk with admirable strategic play from the black side of a French Defense to jump into the sole lead with three points after the fourth round of the Cairns Cup 2023 on Tuesday. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-4",
+         "pubDate" : "Tue, 06 Jun 2023 21:44:54 -0700",
+         "title" : "Overnight Leaders Beaten; Anna Zatonskih Sole Leader"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after her victory over Koneru in the fourth round of the 2023 Cairns Cup. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-destined-play-chess-beginning-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iSOpB0v0-eE.jpg?itok=aEucOXWs\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -210,14 +234,6 @@ news_feed (
          "title" : "2023 South Lakes Congress prizewinners"
       },
       {
-         "description" : "It involves six franchises for the inaugural edition, set to reach 600 million viewers in 160 countries. The Global Chess League represents a paradigm shift in chess spectatorship with the inclusion of world-class players and visionary franchise owners. Check out the world class players who will be playing in the League. It's going to be a hot summer!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-unveiled",
-         "pubDate" : "Tue, 06 Jun 2023 10:00:00 +0100",
-         "title" : "Global Chess League Unveiled"
-      },
-      {
          "description" : "ECU E-Magazine May 2023 is out! In this edition of the ECU E-Magazine you may read about: The May 2023 edition of the ECU E-Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format down below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-cut-off-2",
          "pubDate" : "Tue, 06 Jun 2023 09:00:00 +0100",
          "title" : "The cut-off"
-      },
-      {
-         "description" : "You probably have discovered the good news already - Svitlana made a new Fritztrainer: The Leningrad Dutch Defence! The Dutch Defence is a stable counter to the common opening moves 1.d4, c4 or Nf3. The Leningrad variation is particularly fun to play. Svitlana knows the opening by heart, as she played it herself for many years, and recently was close to a win against an IM (who is about to reach 2500) with this very opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-leningrad-dutch-defence",
-         "pubDate" : "Tue, 06 Jun 2023 08:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to play the Leningrad Dutch Defence"
       },
       {
          "description" : "Following two rounds with 4 out of 5 games ending decisively, only Irina Krush and Bella Khotenashvili managed to score full points in round 3 of the Cairns Cup. Krush is now sharing the lead with Alexandra Kosteniuk on 2&frac12; points. Anna Zatonskih stands in sole third place a half point behind the co-leaders. Zatonskih will face Kosteniuk with black in Tuesday's fourth round. | Photo: Austin Fuller",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/2023-cja-awards-announcement.html",
          "pubDate" : "Thu, 25 May 2023 15:50:00 +0000",
          "title" : "2023 CJA Awards Announcement"
-      },
-      {
-         "description" : "GM Fabiano Caruana eliminated GMs Jules Moussard and Jorden van Foreest on his way to the Champions Chess Tour ChessKid Cup 2023 Grand Final in Division I. Both of his matches made it to armageddon tiebreaks; Caruana first drew with the black pi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-chesskid-cup-ko-day-4",
-         "pubDate" : "Thu, 25 May 2023 08:05:00 -0700",
-         "title" : "Fabulous Caruana Wins 2 Armageddons, Will Play Abdusattorov In Grand Final"
       },
       {
          "description" : "",
