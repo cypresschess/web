@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Wed, 07 Jun 2023 19:50:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "The 2023 Junior Speed Chess Championship is about to kick off.&#38;nbsp;Eight talented young players, including names like GMs Gukesh D, Denis Lazavik, and Christopher Yoo, will seek to claim victory. If you can accurately predict who beats who, you...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-bracket-contest",
+         "pubDate" : "Wed, 07 Jun 2023 11:32:21 -0700",
+         "title" : "Your Chance To Win Prizes In The 2023 JSCC Bracket Contest"
+      },
+      {
+         "description" : "Nine-year-old FM Faustino Oro has been dubbed the &#34;Messi of Chess&#34; by Argentinian media as he made history as the youngest player to ever break the 2300 rating barrier. In March, the 2013-born Argentinian became the youngest player to ever break...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-makes-history-as-youngest-ever-2300-player",
+         "pubDate" : "Wed, 07 Jun 2023 11:11:00 -0700",
+         "title" : "9-Year-Old Makes History As Youngest 2300 Player Ever"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100828943.cms\" />Five-time world champions Viswanathan Anand and Magnus Carlsen were picked up by Ganges Grandmasters and SG Alpine Warriors respectively in the Players' Draft for the inaugural Global Chess League on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-anand-joins-ganges-grandmasters/articleshow/100828943.cms",
+         "pubDate" : "Wed, 07 Jun 2023 16:17:18 +0000",
+         "title" : "Global Chess League: Anand joins Ganges Grandmasters"
+      },
+      {
          "description" : "The new Hamburg champion is Arne Bracker, whom many ChessBase customers know from his work at the ChessBase Support. In nine rounds, Arne Bracker did not lose a single game, leaving Elo favourite Malte Colpe behind. Winning the tournament means that Arne has qualified for the German Championships. | Photo: Christoph Schroeder (4.) - Arne Bracker (1.) . Malte Colpe (3.) - Robin Keyser (2.) (Hamburger Schachverband).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-4",
-         "pubDate" : "Tue, 06 Jun 2023 21:44:54 -0700",
+         "pubDate" : "Tue, 06 Jun 2023 21:44:00 -0700",
          "title" : "Overnight Leaders Beaten; Anna Zatonskih Sole Leader"
       },
       {
@@ -442,7 +474,7 @@ news_feed (
          "title" : "Kosteniuk Doubles Down With Win Over Harika In Round-2 Bloodbath"
       },
       {
-         "description" : " The 3rd Cairns Cup takes place in Saint Louis 3rd to 13th June 2023. The event is named for Dr. Jeanne Sinquefield's maiden name and was cancelled at least once due to Covid-19. Players: Humpy Koneru, Alexandra Kosteniuk, Harika Dronavalli, Nana Dzagnidze, Zhansaya Abdumalik, Elisabeth Paehtz, Bella Khotenashvili, Gunay Mammadzada, Irina Krush and Anna Zatonskih.",
+         "description" : " The 3rd Cairns Cup takes place in Saint Louis 3rd to 13th June 2023. The event is named for Dr. Jeanne Sinquefield's maiden name and was cancelled at least once due to Covid-19. Players: Humpy Koneru, Alexandra Kosteniuk, Harika Dronavalli, Nana Dzagnidze, Zhansaya Abdumalik, Elisabeth Paehtz, Bella Khotenashvili, Gunay Mammadzada, Irina Krush and Anna Zatonskih. Humpy Koneru had ongoing, non Covid-19 related issues and felt she had to withdraw after 4 of the 9 rounds and the results of her games were cancelled. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/3rd-cairns-cup-2023",
@@ -842,14 +874,6 @@ news_feed (
          "title" : "Game of the Week #570: F. Caruana vs M. Carlsen"
       },
       {
-         "description" : "In today's episode, Honorata shows us how powerful her favourite chess piece can become, if played correctly - the Knight. The example she chose, is a game played by the world champions Alexander Alekhine and Max Euwe. The harmony of Alekhine's pieces blends in beautifully, as Euwe cannot progress at all. For the Polish WFM, this is one of the most beautiful games!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alekhine-s-knight-honorata-s-harmony",
-         "pubDate" : "Thu, 01 Jun 2023 07:21:18 +0100",
-         "title" : "Alekhine's Knight - Honorata's Harmony"
-      },
-      {
          "description" : "After both winning with Black in their classical games, GMs Nodirbek Abdusattorov and Hikaru Nakamura are half a point behind GM Fabiano Caruana, who takes the sole lead in Norway Chess 2023 with 4.5 points after defeating GM Anish Giri in armaged...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1232,22 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2424",
          "pubDate" : "Fri, 26 May 2023 00:44:47 +0000",
          "title" : "Magnus Carlsen wins 2023 Superbet Rapid & Blitz Poland"
-      },
-      {
-         "description" : "GM Arjun Erigaisi won the Sharjah Masters International Chess Championship 2023 on Thursday after winning his final-round game against GM Nodirbek Yakubboev. Eight players were tied on 5.5/8 heading into the final round and only Arjun was able t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-sharjah-masters-2023",
-         "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
-         "title" : "Arjun Erigaisi Wins Sharjah Masters Atop All-Grandmaster Field"
-      },
-      {
-         "description" : "In round nine of the Nicosia FIDE Women&#39;s Grand Prix 2022-2023,&#38;nbsp;the competitors threw the fate of the tournament into uncertainty. IM Gunay Mammadzada defeated the leader, WGM Dinara Wagner, while GM Bella Khotenashvili scored her first victo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-9",
-         "pubDate" : "Thu, 25 May 2023 15:10:00 -0700",
-         "title" : "Anyone's Tournament: Leader And Top Seed Both Fall"
       },
       {
          "description" : "",
