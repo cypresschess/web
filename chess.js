@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after her victory over Koneru in the fourth round of the 2023 Cairns Cup. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-destined-play-chess-beginning-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iSOpB0v0-eE.jpg?itok=aEucOXWs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dzagnidze-destined-play-chess-beginning-r4-cairnscup",
+         "pubDate" : "Wed, 07 Jun 2023 01:40:12 +0000",
+         "title" : "Dzagnidze: Destined to Play Chess from the Beginning | R4 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.07<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Gunay Mammadzada (2) vs. Koneru Humpy (1) Irina Krush<br /> (2.5) vs. Elisabeth Paehtz (2) Nana Dzagnidze (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-em",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-5",
+         "pubDate" : "Wed, 07 Jun 2023 01:40:12 +0000",
+         "title" : "2023 Cairns Cup: Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Almira Skripchenko after her victory over Kosteniuk in the fourth round of the 2023 Cairns Cup. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-alexandra-cannot-play-her-best-chess-against-me-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MehqKDYEp_k.jpg?itok=ItfEcOQY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zatonskih-alexandra-cannot-play-her-best-chess-against-me-r4-cairnscup",
+         "pubDate" : "Wed, 07 Jun 2023 01:40:12 +0000",
+         "title" : "Zatonskih: Alexandra Cannot Play Her Best Chess Against Me | R4 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after her victory over Krush in the fourth round of the 2023 Cairns Cup. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khotenashvili-masterfully-puts-krush-away-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/165uarWxbXg.jpg?itok=JABOKurl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khotenashvili-masterfully-puts-krush-away-r4-cairnscup",
+         "pubDate" : "Wed, 07 Jun 2023 01:40:12 +0000",
+         "title" : "Khotenashvili Masterfully Puts Krush Away | R4 #CairnsCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Q Boutique Associate Trent Colquitt talks to Almira Skripchenko during the fourth round of the 2023 Cairns Cup. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trent-q-boutique-award-winning-gift-shop-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8d2-uQdDw_4.jpg?itok=dvrOdZuj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -266,36 +298,12 @@ news_feed (
          "title" : "Krush: I Like to Make My Fans & Students Happy | R3 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after defeating Abdumalik in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khotenashvili-gets-her-first-victory-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mjpVGyl7YEw.jpg?itok=Hn9Xjd2v\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khotenashvili-gets-her-first-victory-r3-cairnscup",
-         "pubDate" : "Tue, 06 Jun 2023 01:38:45 +0000",
-         "title" : "Khotenashvili Gets Her First Victory! | R3 #CairnsCup"
-      },
-      {
          "description" : "There were nine games in round six of Norway Chess 2023, and GM Fabiano Caruana was the only player to win a classical one. With the black pieces, he won for the first time in classical chess against GM Nodirbek Abdusattorov, extending his tournam...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-6",
          "pubDate" : "Mon, 05 Jun 2023 16:48:00 -0700",
          "title" : "'Same Thing As Basketball: It's All About The 3 Points': Caruana Bounces Back With Black"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-4",
-         "pubDate" : "Mon, 05 Jun 2023 22:38:43 +0000",
-         "title" : "2023 Cairns Cup: Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harika Dronavalli talks to Almira Skripchenko after a draw with Koneru in the third round of the 2023 Cairns Cup. 2023.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dronavalli-grand-prix-tiredness-overtook-me-r3-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GBYR9L6OYm8.jpg?itok=Xx-YXBOb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dronavalli-grand-prix-tiredness-overtook-me-r3-cairnscup",
-         "pubDate" : "Mon, 05 Jun 2023 22:38:43 +0000",
-         "title" : "Dronavalli: Grand Prix Tiredness Overtook Me | R3 #CairnsCup"
       },
       {
          "description" : "",
@@ -432,14 +440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2023-2024/",
          "pubDate" : "Mon, 05 Jun 2023 08:12:38 +0000",
          "title" : "Winton British Chess Solving Championship 2023-2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after defeating Abdumalik in the second round of the 2023 Cairns Cup. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-reveals-her-saint-louis-shoe-count-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B7gUya6ahto.jpg?itok=aMFJfnm_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dzagnidze-reveals-her-saint-louis-shoe-count-r2-cairnscup",
-         "pubDate" : "Mon, 05 Jun 2023 01:37:42 +0000",
-         "title" : "Dzagnidze Reveals Her Saint Louis Shoe Count | R2 #CairnsCup"
       },
       {
          "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov with Black beat GM Fabiano Caruana in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
