@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new Hamburg champion is Arne Bracker, whom many ChessBase customers know from his work at the ChessBase Support. In nine rounds, Arne Bracker did not lose a single game, leaving Elo favourite Malte Colpe behind. Winning the tournament means that Arne has qualified for the German Championships. | Photo: Christoph Schroeder (4.) - Arne Bracker (1.) . Malte Colpe (3.) - Robin Keyser (2.) (Hamburger Schachverband).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-employee-arne-bracker-wins-hamburg-championship",
+         "pubDate" : "Wed, 07 Jun 2023 17:00:00 +0100",
+         "title" : "ChessBase employee Arne Bracker wins Hamburg Championship"
+      },
+      {
+         "description" : "After the young GM Pranesh M won the early Titled Tuesday on June 6, a more familiar face won the late tournament despite playing in Norway Chess earlier in the day: GM Hikaru Nakamura. It was actually Nakamura&#39;s first win in the event since April...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranesh-nakamura-win-titled-tuesday-june-6-2023",
+         "pubDate" : "Wed, 07 Jun 2023 08:06:03 -0700",
+         "title" : "Nakamura In Norway Wins Another Tournament"
+      },
+      {
+         "description" : "After seven rounds, the top three spots are taken by three American grandmasters at Norway Chess 2023. GM Fabiano Caruana continues to lead by 2 points despite losing on time in armageddon against GM Gukesh D with a winning position on the board. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-7",
+         "pubDate" : "Wed, 07 Jun 2023 07:21:00 -0700",
+         "title" : "3 Americans Lead In Norway; So, Giri Pick Up First Wins; Carlsen Struggles Vs. Firouzja"
+      },
+      {
+         "description" : "It's a heartening story: a strong chess grandmaster visits a correctional facility to inspire the inmates for the game he excels in. Uzbek American GM Timur Gareyev, holder of the world blindfold record, gave simul displays, blindfold sessions, and even lessons during his visit. Tony Ballard, the Director of Prison Outreach program of The \"The Gift of Chess\", describes the GM visit and his own rehabilitation with chess guiding his life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-timur-gareyev-at-the-kdoc-s-lanard-mental-health-facility",
+         "pubDate" : "Wed, 07 Jun 2023 15:00:00 +0100",
+         "title" : "GM Timur Gareyev at the KDOC's Lanard Mental Health Facility"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2445",
+         "pubDate" : "Wed, 07 Jun 2023 12:50:59 +0000",
+         "title" : "International Schools Festival 2023 in Ploiesti: 12 teams will be considered as \"invited teams\""
+      },
+      {
          "description" : "An eventful fourth round at the Cairns Cup saw both co-leaders losing their games, allowing Anna Zatonskih to climb to sole first place in Saint Louis. Zatonskih defeated Alexandra Kosteniuk from the black side of a French Defence, while Bella Khotenashvili got the better of Irina Krush, who had caught Kosteniuk in the lead after winning her round-3 encounter. The third decisive game of the day saw Nana Dzagnidze beating Humpy Koneru. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -818,14 +858,6 @@ news_feed (
          "title" : "Abdusattorov Wins Without Castling, Nakamura Outplays Gukesh With Black"
       },
       {
-         "description" : "Perfection is fine, but it might cause problems. Performance ratings are also fine, but perfect scores can cause problems in calculating appropriate performance ratings. Matthew Wilson, a chess player, mathematician and economics teacher at the University of Richmond, has found a way to solve these problems. | Pictures: Sinquefield Cup 2014, a top level tournmanent, in which Fabiano Caruana started with 7.0/7. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/minstrength-an-alternative-to-performance-rating",
-         "pubDate" : "Wed, 31 May 2023 22:00:00 +0100",
-         "title" : "MinStrength: An Alternative to Performance Rating"
-      },
-      {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan Summer is quickly approaching. For many it is the time when tournament participation is in the cards. One way to get ready for them is to practice some interesting puzzles. Here are a few to wet your appetite. Scroll down slowly from one to <a href=\"https://chessimprover.com/stalemate-tuesday-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-2/\">Stalemate Tuesday (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -864,14 +896,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/volunteers-needed-for-major-sporting-event-in-birmingham/",
          "pubDate" : "Wed, 31 May 2023 15:08:20 +0000",
          "title" : "Volunteers needed for major sporting event in Birmingham"
-      },
-      {
-         "description" : "For the first time the CBM Extra comes with three opening videos: Nico Zwirs (Najdorf Variation with 6.Bg5), Sipke Ernst (3.h4 against the Gruenfeld), Romain Edouard (\"Critical Lines in the Dragon\" Part II) - total playing time over an hour. Plus the \"Lucky bag\" with analyses by Anish Giri, Spyridon Kapnisis, Adrian Mikhalchishin and many others!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-213",
-         "pubDate" : "Wed, 31 May 2023 13:31:46 +0100",
-         "title" : "New: CBM Extra 213"
       },
       {
          "description" : "",
@@ -1226,28 +1250,12 @@ news_feed (
          "title" : "Anyone's Tournament: Leader And Top Seed Both Fall"
       },
       {
-         "description" : "We&#39;re thrilled to announce Espot B-Cup 2 Presented by Chess.com! It&#39;s a community and streamer event live from Espot Paris on June 17, 2023, at 6:20 a.m. PT/15:20 CEST. There will be online and on-site tournaments with prize pools, two concurrent ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-espot-bcup2-presented-by-chesscom",
-         "pubDate" : "Thu, 25 May 2023 14:09:00 -0700",
-         "title" : "Announcing Espot B-Cup 2 Presented By Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2423",
          "pubDate" : "Thu, 25 May 2023 20:14:10 +0000",
          "title" : "FIDE WGP: Three-way tie in Cyprus with two rounds to go "
-      },
-      {
-         "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda fought a memorable and thrilling final round of the Superbet Poland Rapid &#38;amp; Blitz 2023, where the former held his nerve to hold a draw and win the event with a score of 24 points and pocket the top p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superbet-poland-rapid-blitz-day-5",
-         "pubDate" : "Thu, 25 May 2023 12:44:00 -0700",
-         "title" : "Magnus Carlsen Triumphs In Poland After Thrilling Final Round"
       },
       {
          "description" : "The first edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2023 will be held at Amalorpavam Higher Sec School, Vanarapet, Pondicherry from 23-25 June",
