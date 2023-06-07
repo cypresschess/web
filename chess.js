@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An eventful fourth round at the Cairns Cup saw both co-leaders losing their games, allowing Anna Zatonskih to climb to sole first place in Saint Louis. Zatonskih defeated Alexandra Kosteniuk from the black side of a French Defence, while Bella Khotenashvili got the better of Irina Krush, who had caught Kosteniuk in the lead after winning her round-3 encounter. The third decisive game of the day saw Nana Dzagnidze beating Humpy Koneru. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r4",
+         "pubDate" : "Wed, 07 Jun 2023 13:00:00 +0100",
+         "title" : "Cairns Cup: Zatonskih beats Kosteniuk, leads"
+      },
+      {
+         "description" : "In round 7 of the Norway Chess Tournament, the duels between Magnus Carlsen and Alireza Firouzja and Hikaru Nakamura (photo) and Shakhriyar Mamedyarov provided spectacular top chess - with ups and downs and many exciting moments. | Photos: Lennart Ootes/Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-a-colourful-7th-round-in-stavanger",
+         "pubDate" : "Wed, 07 Jun 2023 11:12:57 +0100",
+         "title" : "Norway Chess: A colourful 7th round in Stavanger"
+      },
+      {
          "description" : "You probably have discovered the good news already - Svitlana made a new Fritztrainer: The Leningrad Dutch Defence! The Dutch Defence is a stable counter to the common opening moves 1.d4, c4 or Nf3. The Leningrad variation is particularly fun to play. Svitlana knows the opening by heart, as she played it herself for many years, and recently was close to a win against an IM (who is about to reach 2500) with this very opening.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/u08-fide-world-rapid-championship-live/",
          "pubDate" : "Tue, 06 Jun 2023 19:00:00 +0000",
          "title" : "U08 FIDE World Rapid Championship - LIVE"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Tue, 06 Jun 2023 19:50:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
@@ -866,14 +874,6 @@ news_feed (
          "title" : "New: CBM Extra 213"
       },
       {
-         "description" : "The European Senior Championships have been underway in Acqui Terme since last Friday. John Nunn is the favourite in the 65+ category. However, with 4 out of 4 the German player Matthias Kierzek had the best start. In the Under-50s, six players are tied for the lead with 3.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-senior-championships-in-acqui-terme",
-         "pubDate" : "Wed, 31 May 2023 12:31:09 +0100",
-         "title" : "European Senior Championships in Acqui Terme"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -936,6 +936,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lide-chesscom-partnership",
          "pubDate" : "Tue, 30 May 2023 08:34:00 -0700",
          "title" : "Chess.com And Lid&eacute; Haiti Join Forces For Event Promoting Chess, Creativity, And Mental Health In Haiti"
+      },
+      {
+         "description" : "How do you follow an important chess news month like <A HREF=\"https://chessforallages.blogspot.com/2023/04/world-championship-yahoos-2023.html\">World Championship Yahoos 2023</A> (April 2023; see the footnote for an explanation of Yahoos)? The previous World Championship was held in November, so the following month we had <A HREF=\"https://chessforallages.blogspot.com/2021/12/year-end-yahoos.html\">Year-end Yahoos</A> (December 2021). While I'm thinking about that question, let's have the usual Yahoo statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne30.gif\" WIDTH=200 HEIGHT=160 ALIGN=LEFT VSPACE=5 HSPACE=5> At the end of the month of May, Google News served 95 stories about chess",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/05/youtube-yahoos.html",
+         "pubDate" : "Tue, 30 May 2023 15:13:00 +0000",
+         "title" : "Youtube Yahoos"
       },
       {
          "description" : "The FIDE World Women's Team Chess Championship-2023 scheduled to be held at Bydgoszcz, Poland from 05 - 12 September 2023. The Indian for the event",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2399",
          "pubDate" : "Wed, 17 May 2023 20:57:38 +0000",
          "title" : "FIDE WGP Nicosia: Lagno and Tan Zhongyi lead with 2/2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2398",
-         "pubDate" : "Wed, 17 May 2023 11:06:38 +0000",
-         "title" : "FIDE World Amateur Championships 2023: Registration is open"
       }
    ]
 }
