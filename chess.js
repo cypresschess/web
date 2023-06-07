@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2446",
+         "pubDate" : "Wed, 07 Jun 2023 22:47:01 +0000",
+         "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 3 recap"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Dzagnidze: Destined to Play Chess from the Beginning | R4 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.07<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Gunay Mammadzada (2) vs. Koneru Humpy (1) Irina Krush<br /> (2.5) vs. Elisabeth Paehtz (2) Nana Dzagnidze (2.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-em",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.07<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Anna Zatonskih<br /> (3) vs.<br /> Harika Dronavalli (1.5)<br /> Irina Krush<br /> (2) vs. Elisabeth Paehtz (2)<br /> Nana Dzagnidze (1.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-5",
@@ -1616,22 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2401",
          "pubDate" : "Thu, 18 May 2023 10:47:44 +0000",
          "title" : "FIDE and GCF to stage Solidarity Matches in Batumi, Georgia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2400",
-         "pubDate" : "Wed, 17 May 2023 22:12:04 +0000",
-         "title" : "Czech Championship 2023: David Navara and Julia Movsesian win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2399",
-         "pubDate" : "Wed, 17 May 2023 20:57:38 +0000",
-         "title" : "FIDE WGP Nicosia: Lagno and Tan Zhongyi lead with 2/2"
       }
    ]
 }
