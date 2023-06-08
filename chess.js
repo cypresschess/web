@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2448",
+         "pubDate" : "Thu, 08 Jun 2023 21:05:40 +0000",
+         "title" : "Winners crowned at FIDE World Rapid U8-18 2023 in Batumi"
+      },
+      {
          "description" : "The Alekhine (1.e4 Nf6) is a rare guest in general and especially at a high-level. During the pandemic, however, this daring opening has been employed on several occasions, notably by the World Champion Magnus Carlsen. A faster time-control and perhaps the unusual atmosphere created by online games probably helped some players unleash, from time to time, a marginal opening to surprise their opponents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/",
          "pubDate" : "Fri, 19 May 2023 00:00:35 +0000",
          "title" : "Chessable Research Awards-Fall 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2403",
-         "pubDate" : "Thu, 18 May 2023 20:27:17 +0000",
-         "title" : "WGP Nicosia: Lagno and Tan Zhongyi maintain the lead going into the 4th round"
       }
    ]
 }
