@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2447",
+         "pubDate" : "Thu, 08 Jun 2023 11:02:11 +0000",
+         "title" : "2023 Cairns Cup: Zatonskih leads midway through"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/european-seniors-individual-chess-championship-2023/#new_tab",
+         "pubDate" : "Thu, 08 Jun 2023 10:40:43 +0000",
+         "title" : "European Seniors Individual Chess Championship 2023"
+      },
+      {
+         "description" : "The ECU-certificated Smart Method to teach chess has provided over a thousand teachers and tutors with new ideas and techniques to teach chess in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/last-call-chess-teacher-training-online-course-this-weekend/",
+         "pubDate" : "Thu, 08 Jun 2023 10:14:23 +0000",
+         "title" : "Last call - Chess Teacher training online course this weekend"
+      },
+      {
          "description" : "In a shocking turn of events, defending champion GM Humpy Koneru withdrew from the Cairns Cup 2023 after round four, greatly affecting the standings for GMs Alexandra Kosteniuk and Nana Dzagnidze―two of the players who were previously chasing afte...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -522,14 +546,6 @@ news_feed (
          "title" : "Northumbria Masters Junior Bursaries"
       },
       {
-         "description" : "Congratulations to John Nunn, who has won Gold in the 65+ ECU Senior Championship. Great performances too from Keith Arkell, tying for 1st in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/john-nunn-wins-gold/",
-         "pubDate" : "Mon, 05 Jun 2023 08:36:12 +0000",
-         "title" : "John Nunn wins Gold!"
-      },
-      {
          "description" : "Click this link for a PDF of the Membership Analysis June 2023 for the English Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2433",
          "pubDate" : "Wed, 31 May 2023 10:10:33 +0000",
          "title" : "Munkhdalai Amiral and Erdenebayar Khuslen win Mongolian Championship"
-      },
-      {
-         "description" : "The UK's largest one-day chess event is back! ChessFest 2023 will take place at London's famous Trafalgar Square on Sunday 16 July from 11am until...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-is-back/",
-         "pubDate" : "Wed, 31 May 2023 09:32:05 +0000",
-         "title" : "ChessFest is back!"
       },
       {
          "description" : "Senior National Arbiter Sambalpur 21-22 May 2023, Odisha Certificates Link : https://aicf.online/SNA-Odisha.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/sharjah-masters.html",
          "pubDate" : "Thu, 18 May 2023 13:24:00 +0000",
          "title" : "Sharjah Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2401",
-         "pubDate" : "Thu, 18 May 2023 10:47:44 +0000",
-         "title" : "FIDE and GCF to stage Solidarity Matches in Batumi, Georgia"
       }
    ]
 }
