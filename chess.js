@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a shocking turn of events, defending champion GM Humpy Koneru withdrew from the Cairns Cup 2023 after round four, greatly affecting the standings for GMs Alexandra Kosteniuk and Nana Dzagnidze―two of the players who were previously chasing afte...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-5",
+         "pubDate" : "Wed, 07 Jun 2023 22:56:33 -0700",
+         "title" : "Reversal of Fortunes: Voided Victories, From 0-2 to 2nd, Last Seed Leads"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz talks to Almira Skripchenko after her draw with Krush in the fifth round of the 2023 Cairns Cup. 2023.06.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-excited-about-new-global-chess-league-r5-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NY6ukG2oGvo.jpg?itok=62-GXLCh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-10",
          "pubDate" : "Fri, 26 May 2023 16:29:00 -0700",
          "title" : "Daredevil King, Deadlocked Standings"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov convincingly won Division I of the Champions Chess Tour ChessKid Cup 2023 on Friday. Going into game four of the Grand Final with Black and an even score, he defeated GM Fabiano Caruana. No tiebreak or second set was neede...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2023-cct-chesskid-cup-ko",
-         "pubDate" : "Fri, 26 May 2023 13:01:00 -0700",
-         "title" : "Youth Prevails At ChessKid Cup; Abdusattorov Wins Division I"
       },
       {
          "description" : "",
