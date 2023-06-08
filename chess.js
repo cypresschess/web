@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 8 of the Norway Chess Tournament, leader Fabiano Caruana faces Wesley So, who comes from scoring his first classical victory in this year's edition. Meanwhile, Hikaru Nakamura, Dommaraju Gukesh and Anish Giri get a chance to make a last-minute surge in the fight for first place. | The round starts at 17.00 CEST. Follow the games live with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-live",
+         "pubDate" : "Thu, 08 Jun 2023 16:45:00 +0100",
+         "title" : "Norway Chess: Round 8 live!"
+      },
+      {
+         "description" : "Before round 5 of the Cairns Cup began, the organizers announced that Humpy Koneru had to withdraw due to medical issues. Humpy's games in the first four rounds will not be counted in the tournament standings, though they will be rated by FIDE. In the fifth round, Bella Khotenashvili scored a third consecutive victory, as she defeated Nana Dzagnidze after the latter failed to make the most of a deadly kingside attack. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r5",
+         "pubDate" : "Thu, 08 Jun 2023 14:05:00 +0100",
+         "title" : "Cairns Cup: Khotenashvili wins again, Humpy withdraws"
+      },
+      {
+         "description" : " I'm heading off to the NSW Open tomorrow. This weekend is quite popular with various chess associations, as it is a good weekend to hold a 3 (or 4) day chess event. Unlike Easter, which is dominated by the Doeberl Cup, each Federation usually does it's own thing. The one change this year is of course the title of the weekend. It kind of feels strange to call it the \"King's Birthday Weekend\". In fact this will be the first title change since I began playing tournament chess, especially as the first weekend event I played in was the NSW Queen's Birthday Weekender way back in 1983. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/for-king.html",
+         "pubDate" : "Thu, 08 Jun 2023 12:30:00 +0000",
+         "title" : "For the King"
+      },
+      {
+         "description" : "Ukrainian grandmaster Vadim Malakhatko, two-time Kyiv champion, winner of Olympic bronze and world championship gold medals, open tournament warrior, and passionate organizer of chess tournaments in Ukraine, suddenly died on Monday of a heart atta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vadim-malakhatko-1977-2023",
+         "pubDate" : "Thu, 08 Jun 2023 04:34:00 -0700",
+         "title" : "Vadim Malakhatko (1977-2023)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ascension%E2%80%99s-ragone-saint-louis-has-helped-spur-chess-boom-r5-cairnscup",
          "pubDate" : "Wed, 07 Jun 2023 22:40:45 +0000",
          "title" : "Ascension's Ragone: Saint Louis has Helped Spur Chess Boom | R5 #CairnsCup"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Wed, 07 Jun 2023 19:50:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : "The 2023 Junior Speed Chess Championship is about to kick off.&#38;nbsp;Eight talented young players, including names like GMs Gukesh D, Denis Lazavik, and Christopher Yoo, will seek to claim victory. If you can accurately predict who beats who, you...",
@@ -328,14 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2444",
          "pubDate" : "Tue, 06 Jun 2023 17:05:42 +0000",
          "title" : "World Cadets & Youth Rapid & Blitz Chess Championship 2023 starts in Batumi"
-      },
-      {
-         "description" : "In round 7 of the Norway Chess Tournament, leader Fabiano Caruana has to defend his lead against D. Gukesh. Can the intrepid youngster give the veteran a run for his money? Equally interesting: Magnus Carlsen against Alireza Firouzja. The round starts at 17.00 CEST. Follow the games live with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-live",
-         "pubDate" : "Tue, 06 Jun 2023 16:45:00 +0100",
-         "title" : "Norway Chess: Round 7 live!"
       },
       {
          "description" : "Chess.com&#38;rsquo;s $2 million Champions Chess Tour, the game&#38;rsquo;s elite online event, can reveal its next tournament: the 2023 Aimchess Rapid.&#38;nbsp;Running from July 10 to 14, the Aimchess Rapid is named after the unique chess learning and analy...",
@@ -1226,14 +1242,6 @@ news_feed (
          "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
       },
       {
-         "description" : "In the penultimate round, GM Alexandra Kosteniuk and IM Polina Shuvalova engaged in a captivating 95-move battle, featuring a daring white king and a wealth of unique dynamic possibilities.&#38;nbsp;Shuvalova is in contention for first, just a half po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-10",
-         "pubDate" : "Fri, 26 May 2023 16:29:00 -0700",
-         "title" : "Daredevil King, Deadlocked Standings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1608,22 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2403",
          "pubDate" : "Thu, 18 May 2023 20:27:17 +0000",
          "title" : "WGP Nicosia: Lagno and Tan Zhongyi maintain the lead going into the 4th round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2402",
-         "pubDate" : "Thu, 18 May 2023 15:16:50 +0000",
-         "title" : "Toronto Chess Festival for Women & Girls runs big"
-      },
-      {
-         "description" : " Back in the day (before the dawn of the 21st Century), there was a kind of arms race between tournament organisers about who could organise the highest category tournament. The tournament was almost always a round robin, and the category was determined by the average rating of the field. However the category system was eventually abandoned by FIDE, and such measurements lost their value. However, the competition between organisers seems to have been restarted, although it is now Swiss tournaments that seem to be the battleground. The current Sharjah Masters is a 78 player swiss, with all 78 players holding the title of Grandmaster. The bottom seed is still rated above 2500 and the 'bottom h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/sharjah-masters.html",
-         "pubDate" : "Thu, 18 May 2023 13:24:00 +0000",
-         "title" : "Sharjah Masters"
       }
    ]
 }
