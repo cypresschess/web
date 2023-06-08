@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Alekhine (1.e4 Nf6) is a rare guest in general and especially at a high-level. During the pandemic, however, this daring opening has been employed on several occasions, notably by the World Champion Magnus Carlsen. A faster time-control and perhaps the unusual atmosphere created by online games probably helped some players unleash, from time to time, a marginal opening to surprise their opponents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-christian-bauer-the-alekhine-revitalised",
+         "pubDate" : "Thu, 08 Jun 2023 19:05:54 +0100",
+         "title" : "New: Christian Bauer - The Alekhine revitalised"
+      },
+      {
          "description" : "In round 8 of the Norway Chess Tournament, leader Fabiano Caruana faces Wesley So, who comes from scoring his first classical victory in this year's edition. Meanwhile, Hikaru Nakamura, Dommaraju Gukesh and Anish Giri get a chance to make a last-minute surge in the fight for first place. | The round starts at 17.00 CEST. Follow the games live with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-5",
-         "pubDate" : "Wed, 07 Jun 2023 22:56:33 -0700",
+         "pubDate" : "Wed, 07 Jun 2023 22:56:00 -0700",
          "title" : "Reversal of Fortunes: Voided Victories, From 0-2 to 2nd, Last Seed Leads"
       },
       {
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-round-2-fighting-chess-in-stavanger",
          "pubDate" : "Thu, 01 Jun 2023 12:03:19 +0100",
          "title" : "Norway Chess, Round 2: Fighting chess in Stavanger"
-      },
-      {
-         "description" : "In Game of the Week #570, Merijn van Delft analyses how Fabiano Caruana defeated Magnus Carlsen in the first round of the Norway Chess Tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-570-f-caruana-vs-m-carlsen",
-         "pubDate" : "Thu, 01 Jun 2023 09:00:00 +0100",
-         "title" : "Game of the Week #570: F. Caruana vs M. Carlsen"
       },
       {
          "description" : "After both winning with Black in their classical games, GMs Nodirbek Abdusattorov and Hikaru Nakamura are half a point behind GM Fabiano Caruana, who takes the sole lead in Norway Chess 2023 with 4.5 points after defeating GM Anish Giri in armaged...",
