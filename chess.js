@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "D. Gukesh was the only player to win his classical game in the penultimate round of the Norway Chess Tournament by creating a veritable work of art against Aryan Tari. Hikaru Nakamura lost tp Nodirbek Abdusattorov in Armageddon, but still has a chance to win the tournament. Fabiano Caruana remains in the lead, and Magnus Carlsen won his seventh Armageddon game, but with 10.5/24 he is still in the lower part of the table. | Photos: Lenart Ootes/ Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-round-8-gukesh-wins-brilliancy-against-tari",
+         "pubDate" : "Fri, 09 Jun 2023 12:17:37 +0100",
+         "title" : "Norway Chess, Round 8: Gukesh wins brilliancy against Tari"
+      },
+      {
+         "description" : "20th September to 02nd October, 2023 Mexico City The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players and accompanying",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-chess-championship-2023/",
+         "pubDate" : "Fri, 09 Jun 2023 08:17:06 +0000",
+         "title" : "FIDE World Junior Chess Championship - 2023"
+      },
+      {
          "description" : "Last Monday, 5 June, Ukrainian grandmaster Vadim Malakhatko died of a heart attack in Kiev. During his career Malakhatko won numerous open tournaments and played for the Ukrainian national team, although he moved to the Belgian Chess Federation in 2007. | Photo: Georgios Souleidis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -199,7 +215,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gm-timur-gareyev-at-the-kdoc-s-lanard-mental-health-facility",
          "pubDate" : "Wed, 07 Jun 2023 15:00:00 +0100",
-         "title" : "GM Timur Gareyev at the KDOC's Lanard Mental Health Facility"
+         "title" : "GM Timur Gareyev visits the KDOC's Larned Mental Health Facility"
       },
       {
          "description" : "",
@@ -914,14 +930,6 @@ news_feed (
          "title" : "Dubai Open 2023"
       },
       {
-         "description" : "Michael Adams and Katarzyna Toma were the favourites to win the Open and Women's Championships of the English Chess Federation. However, both winners needed a bit of luck in some of their games. The ECF Championship is a very young tournament and many of the participants were youngsters. | Photos: English Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michael-adams-and-katarzyna-toma-win-english-championships",
-         "pubDate" : "Thu, 01 Jun 2023 12:38:33 +0100",
-         "title" : "Michael Adams and Katarzyna Toma win English Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1584,22 +1592,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-two/",
          "pubDate" : "Fri, 19 May 2023 12:37:13 +0000",
          "title" : "A Foundation for Beginners Ninety Two"
-      },
-      {
-         "description" : "The 21st edition of the European Union Youth Chess Championship U8-U14 will take place from 15th-24th August 2023 in Kouty nad Desnou, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-u8-u14/",
-         "pubDate" : "Fri, 19 May 2023 09:42:48 +0000",
-         "title" : "21st European Union Youth Chess Championship U8-U14"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2404",
-         "pubDate" : "Fri, 19 May 2023 07:38:10 +0000",
-         "title" : "Preliminary confirmation of participation in World Schools Team Championship 2023: Deadline announced"
       }
    ]
 }
