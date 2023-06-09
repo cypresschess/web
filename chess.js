@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Monday, 5 June, Ukrainian grandmaster Vadim Malakhatko died of a heart attack in Kiev. During his career Malakhatko won numerous open tournaments and played for the Ukrainian national team, although he moved to the Belgian Chess Federation in 2007. | Photo: Georgios Souleidis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vadim-malakhatko-1977-2023",
+         "pubDate" : "Fri, 09 Jun 2023 07:45:09 +0100",
+         "title" : "Ukrainian Grandmaster Vadim Malakhatko (1977-2023) dies at the age of 46"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -922,14 +930,6 @@ news_feed (
          "title" : "FIDE June 2023 rating list published"
       },
       {
-         "description" : "The second round of the Norway Chess Tournament saw some very competitive games, which didn't always have a deserving winner. Nakamura was lucky to beat Gukesh, Firouzja scored against Mamedyarov and Abdusattorov had the better end against Aryan Tari. Carlsen and Caruana won in Armageddon against So and Giri. | Photos: Lennart Ootes/ Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-round-2-fighting-chess-in-stavanger",
-         "pubDate" : "Thu, 01 Jun 2023 12:03:19 +0100",
-         "title" : "Norway Chess, Round 2: Fighting chess in Stavanger"
-      },
-      {
          "description" : "After both winning with Black in their classical games, GMs Nodirbek Abdusattorov and Hikaru Nakamura are half a point behind GM Fabiano Caruana, who takes the sole lead in Norway Chess 2023 with 4.5 points after defeating GM Anish Giri in armaged...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1600,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2404",
          "pubDate" : "Fri, 19 May 2023 07:38:10 +0000",
          "title" : "Preliminary confirmation of participation in World Schools Team Championship 2023: Deadline announced"
-      },
-      {
-         "description" : " The US champion finished on 5.5/9, half a point ahead of a quartet of pursuers, while the new world champion, fatigued from his title match exertions, escaped last place only in the final round Fabiano Caruana edged out a quartet of elite rivals by half a point in the Superbet Classic at Bucharest, as the US champion added to his long list of international victories. The first stage of the Grand Chess Tour was a low scoring tournament, where the 30-year-old won two games and drew seven. It was a subdued performance compared to Caruana's youthful peak at the 2014 Sinquefield Cup, where he won seven games in a row and recorded a 3098 rating result, which is still the best in history at elite ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/may/19/chess-caruana-edges-bucharest-while-ding-narrowly-avoids-finishing-bottom",
-         "pubDate" : "Fri, 19 May 2023 07:00:22 +0000",
-         "title" : "Chess: Caruana edges Bucharest while Ding narrowly avoids finishing bottom"
       }
    ]
 }
