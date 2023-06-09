@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Fri, 09 Jun 2023 19:50:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : " The 11th Norway Chess tournament took place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point. Hikaru Nakamura took clear first place after defeating Fabiano Caruana in the final round. World number one Magnus Carlsen was a long way off the pace and finished with one loss and eight draws. He did manage to win all but the final Armageddon ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
+         "pubDate" : "Fri, 9 Jun 2023 20:17:00 +0400",
+         "title" : "11th Norway Chess 2023 - Games and Results"
+      },
+      {
+         "description" : "No, it&#39;s not a joke. Netflix is actually releasing a new game based on the hit series The Queen&#39;s Gambit where you can take on the one and only Beth Harmon. It&#39;s apparently a game about the game of... chess. &#38;ldquo;We&#38;rsquo;re making a game that...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/netflix-launches-queens-gambit-chess-game",
+         "pubDate" : "Fri, 09 Jun 2023 09:01:48 -0700",
+         "title" : "Netflix Launches 'Queen's Gambit Chess' Game"
+      },
+      {
          "description" : "Who will win the Norway Chess Tournament 2023? The decision will fall today in the direct encounter between Hikaru Nakamura and Fabiano Caruana. In the previous 8 rounds Magnus Carlsen lost one classical game - against Fabiano Caruana - and won seven Armageddon matches. But will he be able to win today against Nodirbek Abdusattorov to win at least one classical game in the tournament? | The round starts at 17.00 CEST. Follow the games live with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-8",
          "pubDate" : "Fri, 09 Jun 2023 07:33:00 -0700",
-         "title" : "Caruana And Nakamura In Final Round Decider; \"Competitors Not Rivals\""
+         "title" : "Caruana, Nakamura In Final Round Decider; 'Competitors Not Rivals'"
       },
       {
          "description" : "",
@@ -914,14 +938,6 @@ news_feed (
          "title" : "Call for submissions: FIDE Veterans Support Program 2023, second installment"
       },
       {
-         "description" : "FIDE has published its new world ranking list. In June 2023, Magnus Carlsen is the only player with an Elo rating above 2800 and leads the world rankings by almost 70 points. The best young players, Firouzja, Gukesh, Abdusattorov and Erigaisi, are steadily improving.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-june-2023",
-         "pubDate" : "Thu, 01 Jun 2023 15:30:00 +0100",
-         "title" : "FIDE ratings June 2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100682012.cms\" />Sergey Karjakin, who last year was banned for publicly backing Russia's invasion of Ukraine, is unlikely to take part in the World Cup after his social media followers urged him not to participate without the Russian flag or anthem.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "TCEC FRC6, CCC20 Rapid Finals; Both Underway"
       },
       {
-         "description" : "GM Jose Martinez won his second Bullet Brawl crown and $1,000 on Saturday with an imperious 209 points, eclipsing his nearest challengers, the second and third-placed GMs Sergei Zhigalko (190) and Andrew Tang (180) by multiple wins. In a May edi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jose-martinez-wins-2023-bullet-brawl-may",
-         "pubDate" : "Mon, 29 May 2023 07:36:00 -0700",
-         "title" : "Martinez Slam-Dunks Second Bullet Brawl Title"
-      },
-      {
          "description" : " IM Junta Ikeda is the ACT Chess Champion for the 10th time, after finishing on 7/7 in the 2023 Championship. He completed his perfect score with wins over CM Hui Li in round 6 and Terrence Tang in the final round. A point behind was FM Michael Kethro who finished his event with a nice attacking win over Malik Amer. CM Hui Li tied for 3rd place on 5.5, along with up and coming junior player Thomas Gatzen-O'Keefe. Seeded 15th in the tournament Gatzen-O'Keefe won his last 4 games to pick up a share of the third place prize, as well as some rating points. Michael Rolph finished on 4.5 the win the best FIDE Unrated prize, while Olamide Fasakin had the biggest rating gain in the tournament. Gatze",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2429",
          "pubDate" : "Mon, 29 May 2023 08:53:36 +0000",
          "title" : "Preliminary confirmation of participation in WSTC 2023: Deadline extended"
-      },
-      {
-         "description" : " The 11th Norway Chess tournament takes place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
-         "pubDate" : "Sun, 28 May 2023 23:16:00 +0400",
-         "title" : "11th Norway Chess 2023 - Games and Results"
       },
       {
          "description" : "Is this song about chess? In all the years that I've been posting about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I haven't asked that question. Let's first have a listen. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/k0jReeAe3do\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Yes - I've Seen All Good People: Your Move / All Good People</B> (6:55) &#149; '[Published on] Apr 29, 2014' <P> The song's lyrics are in the video's description, copied he",
