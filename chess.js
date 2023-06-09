@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "D. Gukesh was the only player to win his classical game in the penultimate round of the Norway Chess Tournament by creating a veritable work of art against Aryan Tari. Hikaru Nakamura lost tp Nodirbek Abdusattorov in Armageddon, but still has a chance to win the tournament. Fabiano Caruana remains in the lead, and Magnus Carlsen won his seventh Armageddon game, but with 10.5/24 he is still in the lower part of the table. | Photos: Lenart Ootes/ Norway Chess",
+         "description" : "Who will win the Norway Chess Tournament 2023? The decision will fall today in the direct encounter between Hikaru Nakamura and Fabiano Caruana. In the previous 8 rounds Magnus Carlsen lost one classical game - against Fabiano Caruana - and won seven Armageddon matches. But will he be able to win today against Nodirbek Abdusattorov to win at least one classical game in the tournament? | The round starts at 17.00 CEST. Follow the games live with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-live",
+         "pubDate" : "Fri, 09 Jun 2023 16:45:00 +0100",
+         "title" : "Norway Chess: Round 9 live!"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King looks at a strategically complex line in the Najdorf that surfaced in a recent game in Norway Chess. And Daniel knows what he is talking about! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-new-ideas-in-the-najdorf",
+         "pubDate" : "Fri, 09 Jun 2023 16:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: New ideas in the Najdorf"
+      },
+      {
+         "description" : "GM Fabiano Caruana increased his lead to 2.5 points after outwitting GM Wesley So through the armageddon tiebreaker to move on to 16 points with just one round to go at Norway Chess 2023. In the crucial final round on Friday, he will face another ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-8",
+         "pubDate" : "Fri, 09 Jun 2023 07:33:00 -0700",
+         "title" : "Caruana And Nakamura In Final Round Decider; \"Competitors Not Rivals\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Juniors/forthcoming-european-and-world-youth-championships/#new_tab",
+         "pubDate" : "Fri, 09 Jun 2023 14:26:16 +0000",
+         "title" : "Forthcoming European and World youth chess championships"
+      },
+      {
+         "description" : " The US champion and world No 2 leads before Friday's final round, while the top-ranked player is tied for sixth \"You work for a long period of time and the results don't really show, but at some point everything just comes together and you start to play better\" was how Fabiano Caruana described his performance in Stavanger this week. Caruana followed up his <a href=\"https://chess24.com/en/watch/live-tournaments/norway-chess-2023/1/1/1\">first round win against Magnus Carlsen</a> by leading all the way, and he<em><strong> </strong></em>is<em><strong> </strong></em>still there at the start of Friday's final round. It has been something of a comeback. At his peak in 2014, Caruana achieved the h",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails",
+         "pubDate" : "Fri, 09 Jun 2023 12:37:04 +0000",
+         "title" : "Chess: Fabiano Caruana closes in on Stavanger win as Magnus Carlsen trails"
+      },
+      {
+         "description" : "D. Gukesh was the only player to win his classical game in the penultimate round of the Norway Chess Tournament by creating a veritable work of art against Aryan Tari. Hikaru Nakamura lost to Nodirbek Abdusattorov in Armageddon, but still has a chance to win the tournament. Fabiano Caruana remains in the lead, and Magnus Carlsen won his seventh Armageddon game, but with 10.5/24 he is still in the lower part of the table. | Photos: Lenart Ootes/ Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-round-8-gukesh-wins-brilliancy-against-tari",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-christian-bauer-the-alekhine-revitalised",
          "pubDate" : "Thu, 08 Jun 2023 19:05:54 +0100",
          "title" : "New: Christian Bauer - The Alekhine revitalised"
-      },
-      {
-         "description" : "In round 8 of the Norway Chess Tournament, leader Fabiano Caruana faces Wesley So, who comes from scoring his first classical victory in this year's edition. Meanwhile, Hikaru Nakamura, Dommaraju Gukesh and Anish Giri get a chance to make a last-minute surge in the fight for first place. | The round starts at 17.00 CEST. Follow the games live with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-live",
-         "pubDate" : "Thu, 08 Jun 2023 16:45:00 +0100",
-         "title" : "Norway Chess: Round 8 live!"
       },
       {
          "description" : "Before round 5 of the Cairns Cup began, the organizers announced that Humpy Koneru had to withdraw due to medical issues. Humpy's games in the first four rounds will not be counted in the tournament standings, though they will be rated by FIDE. In the fifth round, Bella Khotenashvili scored a third consecutive victory, as she defeated Nana Dzagnidze after the latter failed to make the most of a deadly kingside attack. | Photo: Crystal Fuller",
@@ -914,14 +946,6 @@ news_feed (
          "title" : "FIDE World Senior Championships 2023: Registration is open"
       },
       {
-         "description" : "From the 1st to the 6th of June 2023, as a part of the Maharashtra Chess Festival, two matches between world class players will take place in Nagpur, India. The first is between India's no.3 GM Vidit Gujrathi, who will take on the eight-time Russian Champion Peter Svidler. The second is between the top rated junior from the state Raunak Sadhwani and former World Championship Challenger Nigel Short. We have done extensive video interviews with the players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-class-matches-in-mahashtra",
-         "pubDate" : "Thu, 01 Jun 2023 13:38:29 +0100",
-         "title" : "World class matches in Mahashtra"
-      },
-      {
          "description" : " Local FM Albert Winkelman is currently playing in the 2023 Dubai Open. He has had a pretty solid start in what is a strong event, scoring 2/5 against 4GM's and an IM. Although his points have come from draws (plus one loss) he has picked up rating points from each game due to the strength of his opponents. The field isn't quite as strong as the recently completed Sharjah event, but it still attracted 49 GM's in the 86 player field. For the non GM's this can lead to some tough games, as this game from the 1st round demonstrates. <br /> <b>Bai,Adelard (2409) - Chigaev,Maksim (2628) [E17]</b><br /> Dubai Open 2023 - Category A Dubai Chess & Culture Club, Un (1.12), 27.05.2023 <script> new PgnV",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/queens-chess-festival-returns-in-july/",
          "pubDate" : "Wed, 31 May 2023 15:22:28 +0000",
          "title" : "Queens' Chess Festival returns in July"
-      },
-      {
-         "description" : "Hundreds of volunteers are needed for a major sporting event coming to Birmingham this summer. The 2023 International Blind Sport Federation (IBSA) World Games are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/volunteers-needed-for-major-sporting-event-in-birmingham/",
-         "pubDate" : "Wed, 31 May 2023 15:08:20 +0000",
-         "title" : "Volunteers needed for major sporting event in Birmingham"
       },
       {
          "description" : "",
@@ -1208,14 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2428",
          "pubDate" : "Sat, 27 May 2023 20:36:55 +0000",
          "title" : "FIDE WGP: WGM Dinara Wagner reigns in Cyprus"
-      },
-      {
-         "description" : "WGM Dinara Wagner secured victory with the black pieces in the fourth leg of the&#38;nbsp;FIDE Women&#39;s Grand Prix 2022-2023 after defeating GM Bela Khotenashvili and moving to 7/11. After Wagner suffered a loss in round nine that allowed GMs Harika Dr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-nicosia-fide-women-grand-prix-round-11-dinara-wagner",
-         "pubDate" : "Sat, 27 May 2023 08:23:00 -0700",
-         "title" : "Wagner Wins Nicosia Grand Prix; Lagno, Goryachkina Claim Candidates Spots"
       },
       {
          "description" : "",
@@ -1576,22 +1584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2406",
          "pubDate" : "Fri, 19 May 2023 19:38:55 +0000",
          "title" : "11th FIDE World Cup in Composing 2023: Unearthing new masterpieces"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2405",
-         "pubDate" : "Fri, 19 May 2023 14:51:04 +0000",
-         "title" : "First Chess for Freedom Conference opens in Chicago"
-      },
-      {
-         "description" : " Last week, we started examining a tactic called a skewer. Like a pin, the skewer involves three pieces: The piece doing the skewering, the skewered piece, and the piece behind the skewered piece. As with the pin, skewers take place along the ranks, files, or diagonals. Only the long-distance pieces - the Queen, Rooks, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-two/\">A Foundation for Beginners Ninety Two</a> appeared first on <a rel=\"nofollow\" href",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-two/",
-         "pubDate" : "Fri, 19 May 2023 12:37:13 +0000",
-         "title" : "A Foundation for Beginners Ninety Two"
       }
    ]
 }
