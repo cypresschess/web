@@ -1608,14 +1608,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/may/19/chess-caruana-edges-bucharest-while-ding-narrowly-avoids-finishing-bottom",
          "pubDate" : "Fri, 19 May 2023 07:00:22 +0000",
          "title" : "Chess: Caruana edges Bucharest while Ding narrowly avoids finishing bottom"
-      },
-      {
-         "description" : " Dr. Alexey Root has announced the Chessable Research Awards for Fall 2023 and the deadline is July 1st. This initiative is designed to produce research that is beneficial to building the scientific body of literature as far as chess research. Over the years that have been a plethora of chess studies on a variety of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/\">Chessable Research Awards-Fall 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/18/chessable-research-awards-fall-2023/",
-         "pubDate" : "Fri, 19 May 2023 00:00:35 +0000",
-         "title" : "Chessable Research Awards-Fall 2023"
       }
    ]
 }
