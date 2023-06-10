@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 NSW Open started with 75 players in both sections (Major and Minor), although a couple of last minute withdrawals (illness etc) made each field a little smaller. The Major had 14 players rated above 200, with the top 8 players rated above 2200. New arrival IM Mihajlo Radovanovic is the top seed, with IM Gary Lane seeded second. Both players started the tournament with 2 wins, as did 10 other players. Despite the rating gap in the early rounds there were still a number of interesting games. Bevan Clouston looked to have a crushing attack against CM Hui Li, but Li survived and by the end had enough technique to mate Clouston with KBN v K. Jack Rodgers was held to a first round draw b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-1.html",
+         "pubDate" : "Sat, 10 Jun 2023 13:21:00 +0000",
+         "title" : "2023 NSW Open - Day 1"
+      },
+      {
+         "description" : "A final-round win over long-time leader Fabiano Caruana gave Hikaru Nakamura outright victory at the 11th edition of the Norway Chess super-tournament. Nakamura scored three wins and no losses in his nine classical games, which allowed him to climb to the second spot in the live ratings list. Caruana finished second, while 17-year-old Dommaraju Gukesh impressed by grabbing third place. | Photo: Lennart Ootes / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hikaru-nakamura-wins-norway-chess-2023",
+         "pubDate" : "Sat, 10 Jun 2023 14:00:00 +0100",
+         "title" : "Nakamura beats Caruana to win Norway Chess 2023"
+      },
+      {
          "description" : " \"They are stronger than me, so I should listen to them\" is something I hear often. But that's actually only partly true. Because it depends if the advice they give you is pure chess advice or chess improvement advice. What sounds similar is actually totally different: In this article, I will explain the difference between [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-advice/\">Why You Should Avoid Grandmaster Advice (Sometimes)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -250,12 +266,12 @@ news_feed (
          "title" : "Netflix Launches 'Queen's Gambit Chess' Game"
       },
       {
-         "description" : "Who will win the Norway Chess Tournament 2023? The decision will fall today in the direct encounter between Hikaru Nakamura and Fabiano Caruana. In the previous 8 rounds Magnus Carlsen lost one classical game - against Fabiano Caruana - and won seven Armageddon matches. But will he be able to win today against Nodirbek Abdusattorov to win at least one classical game in the tournament? | The round starts at 17.00 CEST. Follow the games live with commentary.",
+         "description" : "Hikaru Nakamura beat Fabiano Caruana in their last-round classical encounter to finish the tournament in sole first place. Nakamura climbed to the second spot in the live ratings list. Caruana got second place in Stavanger, while 17-year-old Dommaraju Gukesh impressed with his clear third place in the standings. | Replay the games with computer-assisted commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-live",
          "pubDate" : "Fri, 09 Jun 2023 16:45:00 +0100",
-         "title" : "Norway Chess: Round 9 live!"
+         "title" : "Norway Chess: Games and results"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King looks at a strategically complex line in the Najdorf that surfaced in a recent game in Norway Chess. And Daniel knows what he is talking about! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -954,14 +970,6 @@ news_feed (
          "title" : "Online Senior National Arbiter Seminar & Examination from 26 to 27 May 2023 : Final Report"
       },
       {
-         "description" : "Fabiano Caruana and Alireza Firouzja (photo) won straight games against Aryan Tari and Nodirbek Abdusattorov in round 3 of the Norway Chess Tournament. Magnus Carlsen, D. Gukesh and Anish Giri picked up an extra half point in Armageddon after their draws. Caruana leads the field. | Photo: Norway Chess/ Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-round-3-caruana-extends-lead-firouzja-beats-abdusattorov",
-         "pubDate" : "Fri, 02 Jun 2023 10:33:06 +0100",
-         "title" : "Norway Chess, Round 3: Caruana extends lead, Firouzja beats Abdusattorov"
-      },
-      {
          "description" : " The US champion beat the Norwegian for the first time in eight years, then scored in his next two games to lead the 10-player event Fabiano Caruana got off to a fine start this week at the Norway Chess elite event in Stavanger, where the US champion defeated Magnus Carlsen, the world No 1, in the opening round and was a clear leader after three of the nine rounds. Carlsen, in contrast, trails in eighth place, despite scoring after replays in his next two games against Wesley So and Hikaru Nakamura. The Norwegian has won Stavanger for four years in a row, so it is too early to discount his recovery chances, but with only six rounds left his task is already difficult. <a href=\"https://www.the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2408",
          "pubDate" : "Sat, 20 May 2023 19:42:04 +0000",
          "title" : "FIDE WGP Nicosia: Harika scores her second win and joins the lead "
-      },
-      {
-         "description" : " Since starting my blog in 2021, I've answered hundreds of questions from readers. Most of my answers begin with &#8220;It depends.&#8221; This isn't a cop-out, but rather what I genuinely believe. It's incredibly challenging to provide clear-cut advice without knowing the answer to one of the most crucial questions: What Are You Optimizing For? Depending [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/optimizing-for-what/\">Finding Your Chess North Star: What Are You Optimizing For?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/optimizing-for-what/",
-         "pubDate" : "Sat, 20 May 2023 12:00:00 +0000",
-         "title" : "Finding Your Chess North Star: What Are You Optimizing For?"
       }
    ]
 }
