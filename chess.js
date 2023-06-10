@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Sat, 10 Jun 2023 19:55:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "The 2023 Norway Chess concluded yesterday in Stavanger, Norway after a thrilling last-round game that determined the Winners! The last round saw a direct encounter for the first place between Hikaru Nakamura (USA, 2775) and Fabiano Caruana (USA, 2764). Hikaru Nakamura needed a victory to claim the first place, since Fabiano Caruana had the lead before the last round. Nakamura chose to play Fried liver attack as white, scored the victory, and emerged as the sole winner of the event []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/hikaru-nakamura-wins-norway-chess-2023/",
+         "pubDate" : "Sat, 10 Jun 2023 18:48:12 +0000",
+         "title" : "Hikaru Nakamura wins Norway Chess 2023"
+      },
+      {
          "description" : " The 2023 NSW Open started with 75 players in both sections (Major and Minor), although a couple of last minute withdrawals (illness etc) made each field a little smaller. The Major had 14 players rated above 200, with the top 8 players rated above 2200. New arrival IM Mihajlo Radovanovic is the top seed, with IM Gary Lane seeded second. Both players started the tournament with 2 wins, as did 10 other players. Despite the rating gap in the early rounds there were still a number of interesting games. Bevan Clouston looked to have a crushing attack against CM Hui Li, but Li survived and by the end had enough technique to mate Clouston with KBN v K. Jack Rodgers was held to a first round draw b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-tip-of-the-iceberg",
          "pubDate" : "Sat, 10 Jun 2023 09:00:00 +0100",
          "title" : "The tip of the iceberg"
+      },
+      {
+         "description" : "In the sixth round of the Cairns Cup played on Friday, Anna Zatonskih won her game with black against Gunay Mammadzada and now stands alone at the top of the standings with a 4&frac12;/6 score. Elisabeth Paehtz is in second place after beating Nana Dzagnidze with white to reach a 3&frac12;/6 score. Zatonskih's lead is not quite so clear, however, if you consider that the table is somewhat 'skewed' after Humpy Koneru withdrew due to health issues. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r6",
+         "pubDate" : "Sat, 10 Jun 2023 08:55:00 +0100",
+         "title" : "Cairns Cup: Zatonskih widens the gap, Paehtz in sole second place"
       },
       {
          "description" : " This week, we're going to start our examination of discovered and double discovered attacks. This specific type of tactic is extremely powerful and should be part of every chess player's tactical toolbox. I cannot stress enough, the power of discovered and double discovered attacks. We cover this tactic over the next two weeks, starting with <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\">A Foundation for Beginners Ninety Four</a> appeared first o",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-7",
          "pubDate" : "Fri, 09 Jun 2023 19:42:33 +0000",
          "title" : "2023 Cairns Cup: Round 7"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Fri, 09 Jun 2023 19:50:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : " The 11th Norway Chess tournament took place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point. Hikaru Nakamura took clear first place after defeating Fabiano Caruana in the final round. World number one Magnus Carlsen was a long way off the pace and finished with one loss and eight draws. He did manage to win all but the final Armageddon ",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/3-h4-against-the-gruenfeld-and-king-s-indian",
          "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
          "title" : "3.h4 against the Gruenfeld and King's Indian"
-      },
-      {
-         "description" : "Once upon a time we all looked quite different - even some famous chess players. Our author has selected some childhood and youth photographs of famous chess grandmasters and invites you to guess. For example, who are the two perky new wave girls? Background singers from A-ha?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/photo-quiz-when-we-were-young",
-         "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
-         "title" : "Photo quiz - When we were young"
       },
       {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
