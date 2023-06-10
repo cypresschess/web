@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " \"They are stronger than me, so I should listen to them\" is something I hear often. But that's actually only partly true. Because it depends if the advice they give you is pure chess advice or chess improvement advice. What sounds similar is actually totally different: In this article, I will explain the difference between [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-advice/\">Why You Should Avoid Grandmaster Advice (Sometimes)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-advice/",
+         "pubDate" : "Sat, 10 Jun 2023 11:16:28 +0000",
+         "title" : "Why You Should Avoid Grandmaster Advice (Sometimes)"
+      },
+      {
          "description" : "In the diagram position White has just played 32.Rxf6!, which gives him an advantage after both 32...gxf6 and the game continuation 32...Dc3. There's a lot more to the position than I initially thought, though - let's climb up the variation tree!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-tip-of-the-iceberg",
          "pubDate" : "Sat, 10 Jun 2023 09:00:00 +0100",
          "title" : "The tip of the iceberg"
+      },
+      {
+         "description" : " This week, we're going to start our examination of discovered and double discovered attacks. This specific type of tactic is extremely powerful and should be part of every chess player's tactical toolbox. I cannot stress enough, the power of discovered and double discovered attacks. We cover this tactic over the next two weeks, starting with <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\">A Foundation for Beginners Ninety Four</a> appeared first o",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-four/",
+         "pubDate" : "Sat, 10 Jun 2023 07:45:09 +0000",
+         "title" : "A Foundation for Beginners Ninety Four"
+      },
+      {
+         "description" : "Not only is Trinity the only Cambridge College to have produced a reigning King in living memory, Trinity is the only Cambridge College to have nurtured any chess Grandmasters (three in fact). The photo above, of the 1967 first year intake, shows both myself and our future Monarch, with whom I was to share a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/from-cambridge-to-lugano-playing-spassky-in-1969/",
+         "pubDate" : "Sat, 10 Jun 2023 07:42:56 +0000",
+         "title" : "From Cambridge to Lugano: playing Spassky in 1969"
       },
       {
          "description" : "The 14th Dolomiti Open is taking place from 10&#x2013;17 June 2023 in Forni di Sopra, Italy. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jose Eduardo Martinez Alcantara, Luca []",
@@ -78,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-6",
-         "pubDate" : "Fri, 09 Jun 2023 21:43:57 -0700",
+         "pubDate" : "Fri, 09 Jun 2023 21:43:00 -0700",
          "title" : "Determined Zatonskih Extends Lead In Nearly All-Decisive Round"
       },
       {
@@ -752,6 +776,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-challengers-vidit-raunak-regain-lead-with-contrasting-wins-over-svidler-short/articleshow/100747613.cms",
          "pubDate" : "Sun, 04 Jun 2023 15:51:35 +0000",
          "title" : "Vidit, Raunak regain lead with contrasting wins over Svidler, Short"
+      },
+      {
+         "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I was sure that I had already featured a stamp or two, but while searching the blog for today's post I came up empty handed. That probably means that stamps might occasionally make the short list for a post, but I eventually choose another item for the final post. <P> The item pictured below is one page of an auction titled, 'Chess on Stamps White Ace albums with dj 590 items 4 albums MNH MH CTO'. It sold for US $673.00 after one bid, which was also the starting price. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf04.jpg\" WIDTH=4",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/ebay-chess-on-stamps.html",
+         "pubDate" : "Sun, 04 Jun 2023 15:01:00 +0000",
+         "title" : "Ebay Chess on Stamps"
       },
       {
          "description" : "Chess.com and the nonprofit Lide Haiti raised $42,794 to empower at-risk adolescent girls in Haiti (including via chess programs) during a star-studded live event featuring Rainn Wilson on Friday. The June 2 event&#38;mdash;hosted by IM Danny Rensch...",
@@ -1576,14 +1608,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/optimizing-for-what/",
          "pubDate" : "Sat, 20 May 2023 12:00:00 +0000",
          "title" : "Finding Your Chess North Star: What Are You Optimizing For?"
-      },
-      {
-         "description" : " Today at Street Chess I tried 2 new technical tools to support tournament coverage and broadcasting* Inspired by IA Helen Milligan, who uses both these products, I used Clono to broadcast a game a round, and VegaResults to publish the tournament results. NB Both of these have been around for a while (* and I had already tested Clono previously), but I decided now was the time to use both of them as part of my tournament infrastructure. Clono is an electronic scoresheet app that runs on Android tablets. Players enter their own moves on the tablet (after they have been played), and these are uploaded to the Clono server. They can then be broadcast via the tournament link, to be observed in re",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/tournament-technical-support.html",
-         "pubDate" : "Sat, 20 May 2023 10:38:00 +0000",
-         "title" : "Tournament Technical Support"
       }
    ]
 }
