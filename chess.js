@@ -5,6 +5,118 @@ news_feed (
          "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u18-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 03:07:21 +0000",
+         "title" : "Girls U18 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 02:50:00 +0000",
+         "title" : "Girls U16 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 02:40:00 +0000",
+         "title" : "Girls U14 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u12-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 02:25:00 +0000",
+         "title" : "Girls U12 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u10-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 02:10:00 +0000",
+         "title" : "Girls U10 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u08-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 01:45:21 +0000",
+         "title" : "Girls U08 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harika Dronavalli talks to Almira Skripchenko after a draw with Abdumalik in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dronavalli-sympathy-koneru-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B-GStrWx9k8.jpg?itok=09ur_p-H\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dronavalli-sympathy-koneru-r6-cairnscup",
+         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
+         "title" : "Dronavalli: Sympathy for Koneru | R6 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz talks to Almira Skripchenko after defeating Dzagnidze in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-no-need-dynamics-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FZW6KqrpTmw.jpg?itok=oG3PDoSG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paehtz-no-need-dynamics-r6-cairnscup",
+         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
+         "title" : "Paehtz: No Need for Dynamics | R6 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Krush in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuk-wins-key-game-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RjNa8cls6pU.jpg?itok=Jd1geT_1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kosteniuk-wins-key-game-r6-cairnscup",
+         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
+         "title" : "Kosteniuk: Wins Key Game | R6 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Almira Skripchenko after defeating Mammadzada in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-sole-leader-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d-Kmak7f_h4.jpg?itok=xLtTUXzP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zatonskih-sole-leader-r6-cairnscup",
+         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
+         "title" : "Zatonskih: Sole Leader | R6 #CairnsCup"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u08-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 01:27:59 +0000",
+         "title" : "U08 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u10-fide-world-blitz-championship-participants/",
+         "pubDate" : "Sat, 10 Jun 2023 01:10:33 +0000",
+         "title" : "U10 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2450",
+         "pubDate" : "Sat, 10 Jun 2023 00:37:03 +0000",
+         "title" : "Hikaru Nakamura wins Norway Chess 2023"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-fide-world-blitz-championship-participants/",
+         "pubDate" : "Fri, 09 Jun 2023 23:40:00 +0000",
+         "title" : "U12 FIDE World Blitz Championship - Participants"
+      },
+      {
+         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/u14-fide-world-blitz-championship-participants/",
          "pubDate" : "Fri, 09 Jun 2023 23:25:00 +0000",
          "title" : "U14 FIDE World Blitz Championship - Participants"
@@ -16,22 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2449",
          "pubDate" : "Fri, 09 Jun 2023 23:20:44 +0000",
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 5 recap"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-fide-world-blitz-championship-participants/",
-         "pubDate" : "Fri, 09 Jun 2023 23:10:00 +0000",
-         "title" : "U16 FIDE World Blitz Championship - Participants"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-fide-world-blitz-championship-participants/",
-         "pubDate" : "Fri, 09 Jun 2023 22:52:52 +0000",
-         "title" : "U18 FIDE World Blitz Championship - Participants"
       },
       {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to Almira Skripchenko during the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wchof%E2%80%99s-allred-%E2%80%9Cts-eliot%E2%80%9D-%E2%80%9Csound-moves%E2%80%9D-exhibitions-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7f0kzpiUEkg.jpg?itok=lOhG",
@@ -48,22 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-kick-off-in-new-york-paris-and-berlin",
          "pubDate" : "Fri, 09 Jun 2023 23:35:00 +0100",
          "title" : "Global Chess League: Inaugurations in New York, Paris, London and Berlin"
-      },
-      {
-         "description" : "The Austrian Rapid Championship 2023 is a 9-round Swiss tournament taking place on 10 June 2023 in Graz. Players receive 10 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;The top five rated players are Peter Schreiner, David Shengelia, Valentin Dragnev, Felix Blohberger and Dominik Horvath. Parallel : U18 FIDE World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-rapid-championship-2023-live/",
-         "pubDate" : "Fri, 09 Jun 2023 22:10:00 +0000",
-         "title" : "Austrian Rapid Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Austrian Rapid Championship 2023 is a 9-round Swiss tournament taking place on 10 June 2023 in Graz. Players receive 10 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;The top five rated players are Peter Schreiner, David Shengelia, Valentin Dragnev, Felix Blohberger and Dominik Horvath.Chessdom.com will daily follow the live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-rapid-championship-2023-participants/",
-         "pubDate" : "Fri, 09 Jun 2023 21:50:01 +0000",
-         "title" : "Austrian Rapid Championship 2023 - Participants"
       },
       {
          "description" : "GM Hikaru Nakamura won on demand with the white pieces against GM Fabiano Caruana on the last day of Norway Chess 2023, ousting the tournament leader and winning the prestigious title for the first time. This is also the first time in the last fiv...",
@@ -282,22 +362,6 @@ news_feed (
          "title" : "Kosteniuk: My Point Has Been Stolen from Me! | R5 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-6",
-         "pubDate" : "Wed, 07 Jun 2023 22:40:45 +0000",
-         "title" : "2023 Cairns Cup: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ascension Executive Vice President Nick Ragone talks to Almira Skripchenko during the fifth round of the 2023 Cairns Cup. 2023.06.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ascension%E2%80%99s-ragone-saint-louis-has-helped-spur-chess-boom-r5-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RIcGPlMV2EY.jpg?itok=dZ6tJkLw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ascension%E2%80%99s-ragone-saint-louis-has-helped-spur-chess-boom-r5-cairnscup",
-         "pubDate" : "Wed, 07 Jun 2023 22:40:45 +0000",
-         "title" : "Ascension's Ragone: Saint Louis has Helped Spur Chess Boom | R5 #CairnsCup"
-      },
-      {
          "description" : "The 2023 Junior Speed Chess Championship is about to kick off.&#38;nbsp;Eight talented young players, including names like GMs Gukesh D, Denis Lazavik, and Christopher Yoo, will seek to claim victory. If you can accurately predict who beats who, you...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -402,68 +466,12 @@ news_feed (
          "title" : "Overnight Leaders Beaten; Anna Zatonskih Sole Leader"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after her victory over Koneru in the fourth round of the 2023 Cairns Cup. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-destined-play-chess-beginning-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iSOpB0v0-eE.jpg?itok=aEucOXWs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dzagnidze-destined-play-chess-beginning-r4-cairnscup",
-         "pubDate" : "Wed, 07 Jun 2023 01:40:12 +0000",
-         "title" : "Dzagnidze: Destined to Play Chess from the Beginning | R4 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.07<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Anna Zatonskih<br /> (3) vs.<br /> Harika Dronavalli (1.5)<br /> Irina Krush<br /> (2) vs. Elisabeth Paehtz (2)<br /> Nana Dzagnidze (1.5) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-5",
-         "pubDate" : "Wed, 07 Jun 2023 01:40:12 +0000",
-         "title" : "2023 Cairns Cup: Round 5"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-fide-world-rapid-championship-live/",
-         "pubDate" : "Tue, 06 Jun 2023 21:20:26 +0000",
-         "title" : "U18 FIDE World Rapid Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u10-fide-world-rapid-championship-live/",
-         "pubDate" : "Tue, 06 Jun 2023 20:56:26 +0000",
-         "title" : "Girls U10 FIDE World Rapid Championship - LIVE"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-68/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (68)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-68/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (68)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-68/",
          "pubDate" : "Tue, 06 Jun 2023 20:43:47 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (68)"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u08-fide-world-rapid-championship-live/",
-         "pubDate" : "Tue, 06 Jun 2023 20:40:00 +0000",
-         "title" : "Girls U08 FIDE World Rapid Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u12-fide-world-rapid-championship-live/",
-         "pubDate" : "Tue, 06 Jun 2023 20:20:00 +0000",
-         "title" : "Girls U12 FIDE World Rapid Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-fide-world-rapid-championship-live/",
-         "pubDate" : "Tue, 06 Jun 2023 19:45:00 +0000",
-         "title" : "Girls U16 FIDE World Rapid Championship - LIVE"
       },
       {
          "description" : "",
