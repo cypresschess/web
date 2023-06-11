@@ -175,7 +175,7 @@ news_feed (
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/from-cambridge-to-lugano-playing-spassky-in-1969/",
          "pubDate" : "Sat, 10 Jun 2023 07:42:56 +0000",
-         "title" : "From Cambridge to Lugano: playing Spassky in 1969"
+         "title" : "From Cambridge to Lugano: playing Spassky in 1968"
       },
       {
          "description" : "The 14th Dolomiti Open is taking place from 10&#x2013;17 June 2023 in Forni di Sopra, Italy. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jose Eduardo Martinez Alcantara, Luca []",
@@ -1608,14 +1608,6 @@ news_feed (
          "link" : "https://www.thearticle.com/russia-the-turning-of-the-tide/",
          "pubDate" : "Sun, 21 May 2023 14:24:18 +0000",
          "title" : "Russia: the turning of the tide"
-      },
-      {
-         "description" : " In earlier articles I've discussed other volumes in my Chess Heroes series designed to take students from round about 500 to 1500 strength. My opinion is that, while there are many books which teach you how the pieces move, and many more books written for proficient players, there's very little on the market which will <a href=\"https://chessimprover.com/chess-heroes-endings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-endings/\">Chess Heroes: Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-heroes-endings/",
-         "pubDate" : "Sun, 21 May 2023 10:28:58 +0000",
-         "title" : "Chess Heroes: Endings"
       }
    ]
 }
