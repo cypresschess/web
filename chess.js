@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Sun, 11 Jun 2023 19:55:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "In the seventh round of the Cairns Cup played on Saturday, sole leader Anna Zatonskih got a rest day. Elisabeth Paehtz missed her chance to catch up with Zatonskih, as the German grandmaster lost to Bella Khotenashvili. Thanks to this win, the Georgian now stands half a point behind Zatonskih. Irina Krush is also back in the mix after beating Harika Dronavalli. Krush is one point behind Zatonskih, but the two still have to play each other. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r7",
+         "pubDate" : "Sun, 11 Jun 2023 17:25:00 +0100",
+         "title" : "Cairns Cup: Krush and Khotenashvili grab crucial wins"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100919506.cms\" />India's Divya Deshmukh secured the championship title in the women's classical event at the Asian Continental Chess Championship held in Almaty. Mary Ann Gomes claimed the runner-up position in the prestigious tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-mary-bag-gold-silver-in-asian-womens-chess/articleshow/100919506.cms",
+         "pubDate" : "Sun, 11 Jun 2023 16:03:41 +0000",
+         "title" : "Divya, Mary bag gold-silver in Asian Women's Chess"
+      },
+      {
          "description" : " IM Gary Lane leads the 2023 NSW Open on 5/5, at then of the 2nd day of play. He started of with a win over Willis Lo in round 3, before beating Harry Press in round 4, and Samuel Asaka in the final round. He leads Sterling Bayaca by half a point, and the 2 players face each other in round 6. A group of 6 players trail Lane by a full point, including top seed IM Mihajlo Radovanovic. Radovanovic missed 2 rounds today due to work commitments, but returned to beat FM Jack Rodgers in the 5th round. Trent Parker leads the Minor on 5/5, a half point ahead of Terry Gao and Jonluke Corona. Gao and Parker play in round 6, while Corona is up against Roland Brockman. Round 6 starts at 9:30 am tomorrow,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2451",
          "pubDate" : "Sat, 10 Jun 2023 20:30:32 +0000",
          "title" : "World Cadets & Youth Blitz Championship 2023 starts in Batumi"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Sat, 10 Jun 2023 19:55:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : "The 2023 Norway Chess concluded yesterday in Stavanger, Norway after a thrilling last-round game that determined the Winners! The last round saw a direct encounter for the first place between Hikaru Nakamura (USA, 2775) and Fabiano Caruana (USA, 2764). Hikaru Nakamura needed a victory to claim the first place, since Fabiano Caruana had the lead before the last round. Nakamura chose to play Fried liver attack as white, scored the victory, and emerged as the sole winner of the event []",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/space-advantage",
          "pubDate" : "Sat, 03 Jun 2023 09:00:00 +0100",
          "title" : "Space advantage!"
-      },
-      {
-         "description" : "India's young talents Vidit Gujrathi and Raunak Sadhwani got off to a great start in round one, when they defeated veterans Peter Svidler and Nigel Short respectively in the first classical game. In round two Nigel and Peter bounced back by scoring emphatic victories over Raunak and Vidit. The match score is now 1-1. Our report has extensive videos by ChessBase India, including interviews with the players. The photos are by Shahid Ahmed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maharashtra-match-rounds-1-2",
-         "pubDate" : "Sat, 03 Jun 2023 08:00:00 +0100",
-         "title" : "Maharashtra Match - Rounds 1 + 2"
       },
       {
          "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
