@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz and Zhansaya Abdumalik talk to Sabina Foisor after the fourth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n9fDoriGsYw.jpg?itok=Cr_c8VEP\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 22:44:27 +0000",
+         "title" : "Paehtz & Abdumalik: Of Course, We're Friends! | Foisor Files R4#CairnsCup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2452",
+         "pubDate" : "Sun, 11 Jun 2023 22:16:50 +0000",
+         "title" : "2023 Asian Championship: Vohidov and Deshmukh clinch titles"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dzagnidze-love-tournament-foisor-files-r2-cairnscup",
          "pubDate" : "Sat, 10 Jun 2023 22:43:31 +0000",
          "title" : "Dzagnidze: Love This Tournament! | Foisor Files R2 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Corporate Chess League Founder Alex Kerford talks to Almira Skripchenko during the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/corporate-league%E2%80%99s-kerford-tip-my-hat-enterprise-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jhUfKEeNWic.jpg?itok=3-BEZ-Si\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/corporate-league%E2%80%99s-kerford-tip-my-hat-enterprise-r7-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 22:43:31 +0000",
-         "title" : "Corporate League's Kerford: Tip My Hat to Enterprise | R7 #CairnsCup"
       },
       {
          "description" : "",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/official-opening-of-world-chess-club-berlin/",
          "pubDate" : "Mon, 22 May 2023 07:22:56 +0000",
          "title" : "Official opening of World Chess Club Berlin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2409",
-         "pubDate" : "Sun, 21 May 2023 20:40:06 +0000",
-         "title" : "Four-way tie at WGP Cyprus "
       }
    ]
 }
