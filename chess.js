@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Gary Lane leads the 2023 NSW Open on 5/5, at then of the 2nd day of play. He started of with a win over Willis Lo in round 3, before beating Harry Press in round 4, and Samuel Asaka in the final round. He leads Sterling Bayaca by half a point, and the 2 players face each other in round 6. A group of 6 players trail Lane by a full point, including top seed IM Mihajlo Radovanovic. Radovanovic missed 2 rounds today due to work commitments, but returned to beat FM Jack Rodgers in the 5th round. Trent Parker leads the Minor on 5/5, a half point ahead of Terry Gao and Jonluke Corona. Gao and Parker play in round 6, while Corona is up against Roland Brockman. Round 6 starts at 9:30 am tomorrow,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-2.html",
+         "pubDate" : "Sun, 11 Jun 2023 14:11:00 +0000",
+         "title" : "2023 NSW Open - Day 2"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about tactics and the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-129-chess-history-in-a-nutshell-11",
+         "pubDate" : "Sun, 11 Jun 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 129: Chess history in a nutshell (11)"
+      },
+      {
+         "description" : "National Women Champion Divya Deshmukh crowned as new Asian Women Champion at Almaty, Kazakhstan on Sunday. With superlative performance Divya Deshmukh clinched the title with",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-divya-deshmukh-asian-women-champion/",
+         "pubDate" : "Sun, 11 Jun 2023 13:28:48 +0000",
+         "title" : "Congratulations Divya Deshmukh! Asian Women Champion!!"
+      },
+      {
          "description" : "Vidit Gujrathi and Raunak Sadhwani won Maharashtra Challenge Match 2023. They both dominated their respective opponents, Peter Svidler and Nigel Short. Raunak won the match with six games and a day to spare, Vidit clinched it with four games left on the final day. Raunak dominated all three formats - Classical, Rapid and Blitz. Vidit scored more in Classical and Rapid events. Svidler was better in Blitz. Full report with videos and photos by Sagar Shah.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Tournament Organizer Makes U-Turn On Ukrainians After Criticism"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King discusses a tricky question: what to do when your opponent advances his or her h-pawn early in the game? Block, restrain or ignore? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-dangerous-h-pawn",
-         "pubDate" : "Fri, 02 Jun 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The dangerous h-pawn"
-      },
-      {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1592,22 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2409",
          "pubDate" : "Sun, 21 May 2023 20:40:06 +0000",
          "title" : "Four-way tie at WGP Cyprus "
-      },
-      {
-         "description" : "The last time we saw the Lewis chess pieces on this blog was a post titled, <A HREF=\"https://chessforallages.blogspot.com/2022/02/from-norway-to-british-museum.html\">From Norway to the British Museum</A> (February 2022). It started, 'The Lewis chess pieces are a recurring theme on this blog'. The embedded video on that post has disappeared ('This video is private'), but there are links to other posts about the Lewis pieces, the oldest from 2008. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne21.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/gwallter/52887081931/\">Waterford</A> &#169; Flickr user <I>Andrew Green</I> under <A HREF=\"https://creativecommo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/the-lewis-pieces-at-church.html",
-         "pubDate" : "Sun, 21 May 2023 15:11:00 +0000",
-         "title" : "The Lewis Pieces at Church"
-      },
-      {
-         "description" : "As Ukraine gears up for its long-awaited counter-offensive against Putin's illegal invasion, and in the light of President Zelensky's visits to Rishi Sunak and other world leaders, my thoughts have turned to that crucial moment when the Soviet chess imperium began to display cracks. I remind readers that FIDÉ, the governing body of world chess, still []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/russia-the-turning-of-the-tide/",
-         "pubDate" : "Sun, 21 May 2023 14:24:18 +0000",
-         "title" : "Russia: the turning of the tide"
       }
    ]
 }
