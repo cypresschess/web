@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vidit Gujrathi and Raunak Sadhwani won Maharashtra Challenge Match 2023. They both dominated their respective opponents, Peter Svidler and Nigel Short. Raunak won the match with six games and a day to spare, Vidit clinched it with four games left on the final day. Raunak dominated all three formats - Classical, Rapid and Blitz. Vidit scored more in Classical and Rapid events. Svidler was better in Blitz. Full report with videos and photos by Sagar Shah.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vidit-and-raunak-clinch-maharashtra-challenge-match",
+         "pubDate" : "Sun, 11 Jun 2023 07:00:00 +0100",
+         "title" : "Vidit and Raunak clinch Maharashtra Challenge Match"
+      },
+      {
+         "description" : "In a day of intense fighting games, contenders for the throne appeared on the horizon to challenge the leader IM Anna Zatonskih by lessening her lead to half a point after the seventh round of the Cairns Cup 2023. As Zatonskih stayed on 4.5 points...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-7",
+         "pubDate" : "Sat, 10 Jun 2023 21:10:00 -0700",
+         "title" : "Day Of Daring Fights But Resting Zatonskih Still Leads"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Sabina Foisor after a draw against Koneru in the second round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-correct-pronunciation-foisor-files-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_MaEgdD_B98.jpg?itok=KKltFach\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -970,14 +986,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The dangerous h-pawn"
       },
       {
-         "description" : "The advance of the h-pawn on move three is certainly not in line with the basic rules of how to play the opening. But in recent years a number of world-class players have been successful with it, including Magnus Carlsen, Ding Liren and Maxime Vachier-Lagrave. And just a weeks ago at the Superbet Chess Classic in Bucharest, Fabiano Caruana managed an impressive winning game with it on his way to winning the tournament against MVL. Sipke Ernst recorded a FritzTrainer on 3.h4 against the Gr&uuml;nfeld and King's Indian half a year ago. In the new CBM Extra #213 he provides an update with current material - you can see an excerpt of his analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/3-h4-against-the-gruenfeld-and-king-s-indian",
-         "pubDate" : "Fri, 02 Jun 2023 16:00:00 +0100",
-         "title" : "3.h4 against the Gruenfeld and King's Indian"
-      },
-      {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-sambalpur-odisha-certificates/",
          "pubDate" : "Wed, 31 May 2023 06:56:55 +0000",
          "title" : "Senior National Arbiter Sambalpur, Odisha Certificates"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Gukesh D, respectively defeated the world number-one and number-two, GMs Magnus Carlsen and Alireza Firouzja, in the first round of Norway Chess 2023. With wins in the classical portion, they lead the tournament with 3 poin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-1",
-         "pubDate" : "Tue, 30 May 2023 15:23:00 -0700",
-         "title" : "Caruana, Gukesh Defeat World Numbers 1 and 2 To Take Early Lead"
       },
       {
          "description" : " I've been having a lot of fun with ChatGPT recently. If you ask it a factual question about chess it makes random stuff up rather than saying it doesn't know. (Bing Chat is a lot better or a lot less amusing in this respect.) When I asked it about Richard James it told <a href=\"https://chessimprover.com/chess-for-giraffes/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Giraffes\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-giraffes/\">Chess for Giraffes</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
