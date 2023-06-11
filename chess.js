@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Sabina Foisor after a draw against Koneru in the second round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-correct-pronunciation-foisor-files-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_MaEgdD_B98.jpg?itok=KKltFach\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-correct-pronunciation-foisor-files-r2-cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "Irina Krush: The Correct Pronunciation | Foisor Files R2 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-8",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "2023 Cairns Cup: Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gunay Mammadzada talks to Sabina Foisor after defeating Khotenashvili in the first round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mammadzada-bella-%E2%80%98just-blundered%E2%80%99-foisor-files-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z7V43-c6Los.jpg?itok=uI2FudWT\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mammadzada-bella-%E2%80%98just-blundered%E2%80%99-foisor-files-r1-cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "Mammadzada: Bella 'Just Blundered' | Foisor Files R1 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Dr. Jeanne Cairns Sinquefield talks to Sabina Foisor before the first round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeanne-sinquefield-women%E2%80%99s-chess-much-more-fun-foisor-files-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XzI_0CXNo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jeanne-sinquefield-women%E2%80%99s-chess-much-more-fun-foisor-files-r1-cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "Jeanne Sinquefield: Women's Chess is Much More Fun! | Foisor Files R1 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after defeating Kosteniuk in the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-koneru-ruling-%E2%80%98nonsense%E2%80%99-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DxAZfuSmNbw.jpg?itok=vJtK2lOn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dzagnidze-koneru-ruling-%E2%80%98nonsense%E2%80%99-r7-cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "Dzagnidze: Koneru Ruling is 'Nonsense' | R7 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after defeating Paehtz in the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bellas-4th-win-perhaps-her-greatest-winning-streak-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v5Rs-kjKF98.jpg?itok=ZmqFQemX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bellas-4th-win-perhaps-her-greatest-winning-streak-r7-cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "Bella's 4th Win: Perhaps Her Greatest Winning Streak | R7 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Almira Skripchenko after defeating Dronavalli in the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/%E2%80%98pitbull%E2%80%99-krush-could-have-been-lawyer-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mle2y8f9PWI.jpg?itok=5ESqt-pq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/%E2%80%98pitbull%E2%80%99-krush-could-have-been-lawyer-r7-cairnscup",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "'Pitbull' Krush Could Have Been a Lawyer | R7 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.12<br /> USChessChamps.com ROUND 9 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Bella Khotenashvili vs. Harika Dronavalli<br /> Elisabeth Paehtz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-9",
+         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
+         "title" : "2023 Cairns Cup: Round 9"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Sabina Foisor after defeating Abdumalik in the second round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-love-tournament-foisor-files-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1QsM9OTEbL8.jpg?itok=xmu_6tNO\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2451",
          "pubDate" : "Sat, 10 Jun 2023 20:30:32 +0000",
          "title" : "World Cadets & Youth Blitz Championship 2023 starts in Batumi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Almira Skripchenko after defeating Mammadzada in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/unexpected-unstoppable-zatonskih-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d-Kmak7f_h4.jpg?itok=xLtTUXzP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/unexpected-unstoppable-zatonskih-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 19:43:20 +0000",
-         "title" : "The Unexpected, Unstoppable Zatonskih | R6 #CairnsCup"
       },
       {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -178,22 +234,6 @@ news_feed (
          "title" : "Determined Zatonskih Extends Lead In Nearly All-Decisive Round"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Krush in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuks-surprising-opening-leads-victory-key-game-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RjNa8cls6pU.jpg?itok=Jd1geT_1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kosteniuks-surprising-opening-leads-victory-key-game-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 04:42:45 +0000",
-         "title" : "Kosteniuk's Surprising Opening Leads to Victory in Key Game | R6 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Almira Skripchenko after defeating Mammadzada in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/unstoppable-zatonskih-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d-Kmak7f_h4.jpg?itok=xLtTUXzP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/unstoppable-zatonskih-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 04:42:45 +0000",
-         "title" : "Unstoppable Zatonskih | R6 #CairnsCup"
-      },
-      {
          "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -210,38 +250,6 @@ news_feed (
          "title" : "U10 FIDE World Blitz Championship - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harika Dronavalli talks to Almira Skripchenko after a draw with Abdumalik in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dronavalli-sympathy-koneru-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/B-GStrWx9k8.jpg?itok=09ur_p-H\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dronavalli-sympathy-koneru-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
-         "title" : "Dronavalli: Sympathy for Koneru | R6 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz talks to Almira Skripchenko after defeating Dzagnidze in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-no-need-dynamics-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FZW6KqrpTmw.jpg?itok=oG3PDoSG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paehtz-no-need-dynamics-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
-         "title" : "Paehtz: No Need for Dynamics | R6 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Krush in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuk-wins-key-game-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RjNa8cls6pU.jpg?itok=Jd1geT_1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kosteniuk-wins-key-game-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
-         "title" : "Kosteniuk: Wins Key Game | R6 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Almira Skripchenko after defeating Mammadzada in the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-sole-leader-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d-Kmak7f_h4.jpg?itok=xLtTUXzP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zatonskih-sole-leader-r6-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 01:42:43 +0000",
-         "title" : "Zatonskih: Sole Leader | R6 #CairnsCup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2449",
          "pubDate" : "Fri, 09 Jun 2023 23:20:44 +0000",
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 5 recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to Almira Skripchenko during the sixth round of the 2023 Cairns Cup. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wchof%E2%80%99s-allred-%E2%80%9Cts-eliot%E2%80%9D-%E2%80%9Csound-moves%E2%80%9D-exhibitions-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7f0kzpiUEkg.jpg?itok=lOhG",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wchof%E2%80%99s-allred-%E2%80%9Cts-eliot%E2%80%9D-%E2%80%9Csound-moves%E2%80%9D-exhibitions-r6-cairnscup",
-         "pubDate" : "Fri, 09 Jun 2023 22:42:30 +0000",
-         "title" : "WCHOF's Allred on \"T.S. Eliot\" & \"Sound Moves\" Exhibitions | R6 #CairnsCup"
       },
       {
          "description" : "From June 21 to July 2, the Global Chess League will be played in Dubai, with six excellent teams. Before that, inauguration events will take place in New York, London, Paris and Berlin. In Berlin, the event will take place next Sunday at the Schachfreunde Berlin, with Sebastian Siebrecht.",
