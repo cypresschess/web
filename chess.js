@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Team Championship, also known as 'Top 16', was played on June 1-11 in Chartres, a small city not far from Paris. Before Sunday's final round, three teams were tied at the top of the standings: Asnières, Bischwiller and Grasse. The final round saw Asnières and Bischwiller drawing their match, while Grasse lost to Chartres. Asnières won the championship on tiebreak criteria, ahead of Bischwiller. | Photos: French Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asnires-wins-french-team-championship-2023",
+         "pubDate" : "Mon, 12 Jun 2023 08:00:00 +0100",
+         "title" : "Asnières wins French Team Championship in Chartres"
+      },
+      {
+         "description" : "2nd Maharastra International Open Grand Masters Chess Tournament(Category A) was held at Nagpur from 1st to 9th June 2023 for a prize fund of Rs.25,00,000/-",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2nd-maharastra-chess-festival-2023-at-nagpur-from-1st-to-9th-june-2023/",
+         "pubDate" : "Mon, 12 Jun 2023 06:38:37 +0000",
+         "title" : "2nd Maharastra Chess Festival 2023 at Nagpur from 1st to 9th June 2023"
+      },
+      {
+         "description" : "Please find the live game links for 14th KIIT International Chess Festival 2023 (Category &#8216;A') Click here for Live Game :",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-links-14th-kiit-international-chess-festival-2023-category-a/",
+         "pubDate" : "Mon, 12 Jun 2023 05:17:11 +0000",
+         "title" : "Live Game links: 14th KIIT International Chess Festival 2023 (Category 'A')"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Almira Skripchenko after defeating Abdumalik in the eighth round of the 2023 Cairns Cup. 2023.06.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-best-achievement-my-career-r8-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0e2chHpFNkM.jpg?itok=AHR2M2Z2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zatonskih-best-achievement-my-career-r8-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 04:44:24 +0000",
+         "title" : "Zatonskih: The Best Achievement in My Career! | R8 #CairnsCup"
+      },
+      {
+         "description" : "IM Anna Zatonskih&#38;nbsp;clinched the Cairns Cup 2023 with a day to spare on Sunday. She defeated GM Zhansaya Abdumalik in penultimate round to reach an undefeated plus four―1.5 points ahead of the field. With this victory, Zatonskih has also secure...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-8",
+         "pubDate" : "Sun, 11 Jun 2023 21:42:32 -0700",
+         "title" : "Zatonskih Clinches Cairns Cup Day Early, Earns 1st GM Norm"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz and Zhansaya Abdumalik talk to Sabina Foisor after the fourth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n9fDoriGsYw.jpg?itok=Cr_c8VEP\" alt=\"\" /></a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jeanne-sinquefield-women%E2%80%99s-chess-much-more-fun-foisor-files-r1-cairnscup",
          "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
          "title" : "Jeanne Sinquefield: Women's Chess is Much More Fun! | Foisor Files R1 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after defeating Kosteniuk in the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-koneru-ruling-%E2%80%98nonsense%E2%80%99-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DxAZfuSmNbw.jpg?itok=vJtK2lOn\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dzagnidze-koneru-ruling-%E2%80%98nonsense%E2%80%99-r7-cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "Dzagnidze: Koneru Ruling is 'Nonsense' | R7 #CairnsCup"
       },
       {
          "description" : "",
@@ -762,6 +794,14 @@ news_feed (
          "title" : "FIDE Education Commission announces its 7th Preparation of Teachers course"
       },
       {
+         "description" : "In last week's post on engine vs. engine events, <A HREF=\"https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html\">TCEC FRC6, CCC20 Rapid Finals; Both Underway</A> (May 2023), for the CCC side of the report I noted, <BLOCKQUOTE> Mystery played five 100-game matches, beating Koivisto, Berserk, and Ethereal; then losing to Dragon and Lc0. </BLOCKQUOTE> <P> Mystery played its first CCC game in the <A HREF=\"https://www.chess.com/computer-chess-championship#event=ccc-20-rapid-entry-league&game=23\">CCC20 Rapid: Entry League</A> (chess.com). On the CCC's Discord forum, the early discussion was brief:- <BLOCKQUOTE> <B>Q:</B> Mystery engine? Or is the engine actually call",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/the-cccs-mystery-engine.html",
+         "pubDate" : "Mon, 05 Jun 2023 15:01:00 +0000",
+         "title" : "The CCC's Mystery Engine"
+      },
+      {
          "description" : "GM Romain Edouard is an expert on the Sicilian Dragon Variation. In his four-part series in ChessBase Magazine Extra he gives deep insights into the variations after 9.0-0-0 d5 and reveals a multitude of tactical motifs he came across in the course of his analyses. The second part deals with the main line 10.exd5. You can watch an excerpt from Edouard's 20-minute analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1002,14 +1042,6 @@ news_feed (
          "title" : "Happy birthday to Grandmaster Nils Grandelius!"
       },
       {
-         "description" : "Even with few pieces on the board, territorial dominance can be a decisive factor. In the diagram position Black could have already won with 82...Rg1!, but he took his time to relish the position and won a bit later. Endgame technique spiced up with tactical motifs - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/space-advantage",
-         "pubDate" : "Sat, 03 Jun 2023 09:00:00 +0100",
-         "title" : "Space advantage!"
-      },
-      {
          "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1136,14 +1168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-armageddon-series-announces-europe-and-africa-week/",
          "pubDate" : "Wed, 31 May 2023 15:46:42 +0000",
          "title" : "World Chess' Armageddon Series announces Europe and Africa Week"
-      },
-      {
-         "description" : "GM Nihal Sarin&#38;nbsp;won the early Titled Tuesday event on May 30 for his second tournament victory in a row after winning last week&#39;s late tournament as well. This week he scored 10.5 out of 11 points, one of the few players to achieve that score ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-holt-win-titled-tuesday-may-30-2023",
-         "pubDate" : "Wed, 31 May 2023 08:37:00 -0700",
-         "title" : "Near Perfection Nets Nihal Tournament Over Nepomniachtchi, Naroditsky"
       },
       {
          "description" : "The Queens' Online Chess Festival, a series of continental women's online blitz tournaments, is returning this summer. The third edition of the popular event, organized...",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "2023 ACT Championship Update"
       },
       {
-         "description" : "All India Chess Federation received numerous requests from North East &#38; Andaman to organize an online Senior National Arbiter Seminar. Considering their requests, it is",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-for-north-east-andaman/",
-         "pubDate" : "Tue, 23 May 2023 13:33:36 +0000",
-         "title" : "Online Senior National Arbiter Seminar & Examination for North East & Andaman"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-champions-2023-crowned-in-durres-albania/",
          "pubDate" : "Mon, 22 May 2023 09:25:44 +0000",
          "title" : "European School Chess Champions 2023 crowned in Durres, Albania"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess Plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of different chess-related activities, is pleased to announce that World Chess Club Berlin (the \"Club\") has now officially opened. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/16CAAB40-89F6-4477-876C-C2F4D3B8F81E.jpeg\" width=\"1612\" height=\"1074\" alt=\"\" /> <div class=\"e2-text-caption\">Visitors to the World Chess Club Berlin play a game at the upstairs tournament area. The club features a piazza, a coffee shop, a sophisticated bar, and more.</div> </div> The opening marks the launch of World Chess'",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/official-opening-of-world-chess-club-berlin/",
-         "pubDate" : "Mon, 22 May 2023 07:22:56 +0000",
-         "title" : "Official opening of World Chess Club Berlin"
       }
    ]
 }
