@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup, a knock-out chess extravaganza held every two years, will celebrate its 10th edition in Baku, Azerbaijan, from 30 July to 24 August 2023. Many of the participants in the open and the women's sections have confirmed their presence. Heading the open will be Magnus Carlsen, Ian Nepomniachtchi and Fabiano Caruana, while the women's event will have Humpy Koneru, Ju Wenjun and Aleksandra Goryachkina as the top seeds. The fields will be completed before June 30.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-cup-2023-sneak-peek",
+         "pubDate" : "Tue, 13 Jun 2023 01:00:00 +0100",
+         "title" : "Carlsen, Nepo and Ju Wenjun to play at the FIDE World Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after a draw with Dronavalli in the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khotenashvili-didn%E2%80%99t-worry-about-early-losses-it-worked-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53fgXKOWVRQ.jpg?itok=1BoMI-hS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khotenashvili-didn%E2%80%99t-worry-about-early-losses-it-worked-r9-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 22:45:01 +0000",
+         "title" : "Khotenashvili: Didn't Worry About Early Losses, & It Worked! | R9 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-bl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-1-grandchesstour",
+         "pubDate" : "Mon, 12 Jun 2023 22:45:01 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 1 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Chief Curator Shannon Bailey talks to Almira Skripchenko during the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bailey-wchof-where-music-meets-chess-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HnBHATZ8vM0.jpg?itok=teTrr3oV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bailey-wchof-where-music-meets-chess-r9-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 22:45:01 +0000",
+         "title" : "Bailey on the WCHOF: Where Music Meets Chess | R9 #CairnsCup"
+      },
+      {
+         "description" : " My second knight ending from our club online tournament a couple of weeks ago was, in truth, one of the most boring games I've played in the past 60 years, and, as most of my games are extremely boring, that's quite an achievement. I guess you must be reasonably happy if you get a Weighted Error <a href=\"https://chessimprover.com/knight-fever-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-2/\">Knight Fever (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/knight-fever-2/",
+         "pubDate" : "Mon, 12 Jun 2023 22:40:38 +0000",
+         "title" : "Knight Fever (2)"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-to-play-2023-world-cup",
-         "pubDate" : "Mon, 12 Jun 2023 11:30:24 -0700",
+         "pubDate" : "Mon, 12 Jun 2023 11:30:00 -0700",
          "title" : "Carlsen Goes For First World Cup Win"
       },
       {
@@ -256,30 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/irina-krush-correct-pronunciation-foisor-files-r2-cairnscup",
          "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
          "title" : "Irina Krush: The Correct Pronunciation | Foisor Files R2 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-cairns-cup-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-8",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "2023 Cairns Cup: Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gunay Mammadzada talks to Sabina Foisor after defeating Khotenashvili in the first round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mammadzada-bella-%E2%80%98just-blundered%E2%80%99-foisor-files-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z7V43-c6Los.jpg?itok=uI2FudWT\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mammadzada-bella-%E2%80%98just-blundered%E2%80%99-foisor-files-r1-cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "Mammadzada: Bella 'Just Blundered' | Foisor Files R1 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Dr. Jeanne Cairns Sinquefield talks to Sabina Foisor before the first round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeanne-sinquefield-women%E2%80%99s-chess-much-more-fun-foisor-files-r1-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XzI_0CXNo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jeanne-sinquefield-women%E2%80%99s-chess-much-more-fun-foisor-files-r1-cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "Jeanne Sinquefield: Women's Chess is Much More Fun! | Foisor Files R1 #CairnsCup"
       },
       {
          "description" : "",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lide-chesscom-partnership-rainn-wilson-haiti",
          "pubDate" : "Sun, 04 Jun 2023 07:23:00 -0700",
          "title" : "Chess.com And Lide Haiti Raise $42,794 To Empower Girls In Haiti, Rainn Wilson Stars"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 128th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about tactics and the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-127-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 04 Jun 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 128: Chess history in a nutshell (10)"
       },
       {
          "description" : " I used to comment that if I could form a chess club from everyone who turned up to chess clubs/tournaments just once, it would be twice the size of any club in Canberra. It turns out that I could now do this with everyone who was simply a new player on the June 2023 Rating List for the ACT. A record 138 new players were added to the list, which is twice the size of the Gungahlin Chess Club, which is currently Canberra's largest. Not all players received a rating, or played more than 1 or 2 rounds in an event, but it is still quite a remarkable number. ",
