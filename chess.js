@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
+         "pubDate" : "Mon, 12 Jun 2023 19:55:00 +0100",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "Five-time world champion Magnus Carlsen will be gunning for an elusive first World Cup crown next month as a host of big stars miss FIDE&#39;s flagship $2.5 million event, it was confirmed on Monday. GM Ding Liren, the Norwegian&#39;s successor as world...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-to-play-2023-world-cup",
+         "pubDate" : "Mon, 12 Jun 2023 11:30:24 -0700",
+         "title" : "Carlsen Goes For First World Cup Win"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Mon, 12 Jun 2023 18:50:00 +0100",
+         "title" : "Armageddon Series - Live from 19.00 CEST!"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Sharjah Masters. He was particularly intrigued by an endgame, in which a bishop had to fight a hard fight against several enemy pawns. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-243-endgame-highlights-from-the-sharjah-masters",
+         "pubDate" : "Mon, 12 Jun 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #243: Endgame Highlights from the Sharjah Masters"
+      },
+      {
          "description" : "Magnus Carlsen and Hikaru Nakamura are set to compete in the Play-In for the Aimchess Rapid, the 4th event on the $2 million+ 2023 Champions Chess Tour. It takes place on Chess.com on June 12 and will decide who joins Fabiano Caruana, Nodirbek Abdusattorov, Jorden van Foreest and Vladimir Fedoseev in the main event that []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -986,14 +1018,6 @@ news_feed (
          "title" : "Knight Fever (1)"
       },
       {
-         "description" : "Earlier this year, he drew against the world no.1 at 85th Tata Steel Masters 2023. Yesterday D Gukesh drew his second Classical rated game ever against Magnus Carlsen, but lost the Armageddon. Fabiano Caruana scored the sole Classical victory of the round, with black against Alireza Firouzja. All photos in this article are by Lennart Ootes/Norway Chess unless stated otherwise.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/11th-norway-chess-2023-r4-gukesh-draws-classical-against-carlsen",
-         "pubDate" : "Sun, 04 Jun 2023 10:26:56 +0100",
-         "title" : "11th Norway Chess 2023 R4: Gukesh draws Classical against Carlsen"
-      },
-      {
          "description" : "The European Senior Chess Championships 2023 concluded yesterday in Acqui Terme, Italy, with the closing and award ceremony for the Winners. The event was played in two age categories: 50+ and 65+, with separate women's competition in 50+ category. Women's 65+ section was merged with the Open, and the best ranked female players were crowned European Women's 65+ Champions. It was a very tight race for the top of the 50+ Open competition. Five players were in the lead heading []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1040,22 +1064,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-habits/",
          "pubDate" : "Sat, 03 Jun 2023 12:00:00 +0000",
          "title" : "5 GM Habits for OTB Chess Success"
-      },
-      {
-         "description" : "Genrikh Kasparyan is widely regarded as one of the most prolific endgame study composers and shared his knowledge with a younger generation. So his son Sergey also composed endgame studies - 56 are in the database, including versions and corrections. But also other friends from Genrikh's endgame studies teaching circle created interesting ones themselves or together. | Photo: Midjourney AI",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-genrikh-kasparyan-s-pupils",
-         "pubDate" : "Sat, 03 Jun 2023 11:00:00 +0100",
-         "title" : "Study of the month - Genrikh Kasparyan's pupils"
-      },
-      {
-         "description" : "Today, 3 June 2023, Nils Grandelius celebrates his 30th birthday. Grandelius is known as his country's long-time leading player, an important member of the Swedish team, and has won several major international tournaments in his career to date. Grandelius worked as Magnus Carlsen's second for the World Chess Championship matches in 2016 and 2018, and is also a well-known author and teacher. | Nils Grandelius at the TePe Sigeman & Co. tournament in 2023 | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-birthday-to-grandmaster-nils-grandelius",
-         "pubDate" : "Sat, 03 Jun 2023 10:00:00 +0100",
-         "title" : "Happy birthday to Grandmaster Nils Grandelius!"
       },
       {
          "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2434",
          "pubDate" : "Thu, 01 Jun 2023 11:26:46 +0000",
          "title" : "FIDE June 2023 rating list published"
-      },
-      {
-         "description" : "After both winning with Black in their classical games, GMs Nodirbek Abdusattorov and Hikaru Nakamura are half a point behind GM Fabiano Caruana, who takes the sole lead in Norway Chess 2023 with 4.5 points after defeating GM Anish Giri in armaged...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-2",
-         "pubDate" : "Wed, 31 May 2023 16:17:00 -0700",
-         "title" : "Abdusattorov Wins Without Castling, Nakamura Outplays Gukesh With Black"
       },
       {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan Summer is quickly approaching. For many it is the time when tournament participation is in the cards. One way to get ready for them is to practice some interesting puzzles. Here are a few to wet your appetite. Scroll down slowly from one to <a href=\"https://chessimprover.com/stalemate-tuesday-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-2/\">Stalemate Tuesday (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1600,22 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2411",
          "pubDate" : "Tue, 23 May 2023 09:12:24 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 2 Recap"
-      },
-      {
-         "description" : " Malawi crowned FM Joseph Mwale and Priyasha Santosh Shriyan as their new national champions on May 15th. Both were defending champions, thus both mounted a successful defense. It would be Mwale's 8th title and Shriyan's 3rd. &#8220;I spent sleepless nights practising my game on opening and closing. I am delighted that it has paid off.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/\">Mwale, Shriyan win Malawi titles!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/05/22/mwale-shriyan-win-malawi-titles/",
-         "pubDate" : "Mon, 22 May 2023 17:41:12 +0000",
-         "title" : "Mwale, Shriyan win Malawi titles!"
-      },
-      {
-         "description" : "While working on the recent post, <A HREF=\"https://chessforallages.blogspot.com/2023/05/may-1973-1998-on-cover.html\">May 1973 & 1998 'On the Cover'</A> (May 2023), I discovered a full-page ad for <I>Scientific American</I> in the May 1973 issue of <I>Chess Life & Review</I>. The ad is pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne22.gif\" WIDTH=295 HEIGHT=400><BR> <B>'Who has white - the man or the computer?'</B> <P> The first paragraphs promoted an article on computer chess. <BLOCKQUOTE> The game shown here is between senior master Charles Kalme and an IBM 370/155 computer. Can you tell which player has white? <BR><BR> The game is reprinted from the article",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/an-advice-taking-chess-machine.html",
-         "pubDate" : "Mon, 22 May 2023 15:59:00 +0000",
-         "title" : "An 'Advice-taking' Chess Machine"
       }
    ]
 }
