@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Hikaru Nakamura are set to compete in the Play-In for the Aimchess Rapid, the 4th event on the $2 million+ 2023 Champions Chess Tour. It takes place on Chess.com on June 12 and will decide who joins Fabiano Caruana, Nodirbek Abdusattorov, Jorden van Foreest and Vladimir Fedoseev in the main event that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-play-in-champions-chess-tour-live/",
+         "pubDate" : "Mon, 12 Jun 2023 14:41:41 +0000",
+         "title" : "Aimchess Rapid Play-In | Champions Chess Tour - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Juniors/ssrs/#new_tab",
+         "pubDate" : "Mon, 12 Jun 2023 14:10:48 +0000",
+         "title" : "ECF Secondary School Rapidplay Chess Tournament"
+      },
+      {
+         "description" : "Anna Zatonskih beat Zhansaya Abdumalik in round 8 of the Cairns Cup to claim tournament victory with one round to spare. Alexandra Kosteniuk's win over Bella Khotenashvili helped Zatonskih to grab clear first place. Remarkably, the tournament champion was the lowest-rated player in Saint Louis. Zatonskih is set to face Irina Krush in Monday's final round. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r8",
+         "pubDate" : "Mon, 12 Jun 2023 14:25:00 +0100",
+         "title" : "Anna Zatonskih wins Cairns Cup with one round to spare"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-8",
          "pubDate" : "Sun, 11 Jun 2023 21:42:00 -0700",
          "title" : "Zatonskih Clinches Cairns Cup Day Early, Earns 1st GM Norm"
+      },
+      {
+         "description" : "The 14th KIIT Open is a 10-round Swiss tournament taking place from 11&#x2013;18 June 2023 in Bhubaneswar, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Boris Savchenko, Viacheslav V. Zakhartsov, Luka Paichadze, Vladimir Burmakin and Cristhian Camilo Rios.Chessdom.com will daily []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/14th-kiit-open-2023/",
+         "pubDate" : "Mon, 12 Jun 2023 01:52:00 +0000",
+         "title" : "14th KIIT Open 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz and Zhansaya Abdumalik talk to Sabina Foisor after the fourth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n9fDoriGsYw.jpg?itok=Cr_c8VEP\" alt=\"\" /></a",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "2023 Asian Championship: Vohidov and Deshmukh clinch titles"
       },
       {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Sun, 11 Jun 2023 19:55:00 +0100",
-         "title" : "Cairns Cup - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100919506.cms\" />India's Divya Deshmukh secured the championship title in the women's classical event at the Asian Continental Chess Championship held in Almaty. Mary Ann Gomes claimed the runner-up position in the prestigious tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -130,12 +154,28 @@ news_feed (
          "title" : "Divya, Mary bag gold-silver in Asian Women's Chess"
       },
       {
+         "description" : "The Teplice Open is a 9-round Swiss tournament taking place from 10&#x2013;18 June 2023 in Teplice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Shant Sargsyan, Rasmus Svane, Daniele Vocaturo, Anton []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/teplice-open-2023-live/",
+         "pubDate" : "Sun, 11 Jun 2023 14:30:00 +0000",
+         "title" : "Teplice Open 2023 - LIVE"
+      },
+      {
          "description" : " IM Gary Lane leads the 2023 NSW Open on 5/5, at then of the 2nd day of play. He started of with a win over Willis Lo in round 3, before beating Harry Press in round 4, and Samuel Asaka in the final round. He leads Sterling Bayaca by half a point, and the 2 players face each other in round 6. A group of 6 players trail Lane by a full point, including top seed IM Mihajlo Radovanovic. Radovanovic missed 2 rounds today due to work commitments, but returned to beat FM Jack Rodgers in the 5th round. Trent Parker leads the Minor on 5/5, a half point ahead of Terry Gao and Jonluke Corona. Gao and Parker play in round 6, while Corona is up against Roland Brockman. Round 6 starts at 9:30 am tomorrow,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-2.html",
          "pubDate" : "Sun, 11 Jun 2023 14:11:00 +0000",
          "title" : "2023 NSW Open - Day 2"
+      },
+      {
+         "description" : "The Teplice Open is a 9-round Swiss tournament taking place from 10&#x2013;18 June 2023 in Teplice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Shant Sargsyan, Rasmus Svane, Daniele Vocaturo, Anton []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/teplice-open-2023/",
+         "pubDate" : "Sun, 11 Jun 2023 14:00:00 +0000",
+         "title" : "Teplice Open 2023"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about tactics and the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
@@ -330,44 +370,12 @@ news_feed (
          "title" : "Girls U14 FIDE World Blitz Championship - LIVE"
       },
       {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 05:15:00 +0000",
-         "title" : "Girls U16 FIDE World Blitz Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u18-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 05:00:00 +0000",
-         "title" : "Girls U18 FIDE World Blitz Championship - LIVE"
-      },
-      {
          "description" : "IM Anna Zatonskih stretched her lead to a full point at the Cairns Cup 2023, defeating IM Gunay Mammadzada in round six. The American underdog has performed so well that she has chances to earn a GM norm, depending on her last two games. Curiously...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-6",
          "pubDate" : "Fri, 09 Jun 2023 21:43:00 -0700",
          "title" : "Determined Zatonskih Extends Lead In Nearly All-Decisive Round"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u08-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 04:40:00 +0000",
-         "title" : "U08 FIDE World Blitz Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u10-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 04:25:00 +0000",
-         "title" : "U10 FIDE World Blitz Championship - LIVE"
       },
       {
          "description" : "",
@@ -1178,14 +1186,6 @@ news_feed (
          "title" : "World Chess' Armageddon Series announces Europe and Africa Week"
       },
       {
-         "description" : "The Queens' Online Chess Festival, a series of continental women's online blitz tournaments, is returning this summer. The third edition of the popular event, organized...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/queens-chess-festival-returns-in-july/",
-         "pubDate" : "Wed, 31 May 2023 15:22:28 +0000",
-         "title" : "Queens' Chess Festival returns in July"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1616,22 +1616,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/an-advice-taking-chess-machine.html",
          "pubDate" : "Mon, 22 May 2023 15:59:00 +0000",
          "title" : "An 'Advice-taking' Chess Machine"
-      },
-      {
-         "description" : " As a boy I used to keep up with the rules in lots of sports. Football, Cricket, Rugby League, Australian Rules and even Baseball and American Football. This is one of the reasons I became a chess arbiter, as I found the actual rules of various sports interesting to learn (well except Rugby Union, which still confuses me). So when I watched a recent episode of Ted Lasso, there was a football scene that immediately made me go \"What?\". At the kick off of the match, the ball was passed back to the new signing Zava, who immediately blasted it into the goal from behind the halfway line. My reaction was based on the belief that the ball had to be kicked forward at the kick off, which clearly did n",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/rule-changes-in-other-sports.html",
-         "pubDate" : "Mon, 22 May 2023 13:56:00 +0000",
-         "title" : "Rule changes in other sports"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2410",
-         "pubDate" : "Mon, 22 May 2023 12:30:53 +0000",
-         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
       }
    ]
 }
