@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz and Zhansaya Abdumalik talk to Sabina Foisor after the fourth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n9fDoriGsYw.jpg?itok=Cr_c8VEP\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 01:44:23 +0000",
+         "title" : "Paehtz & Abdumalik: Of Course, We're Friends! | Foisor Files R4 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Scholastic Coordinator Jana Thomas talks to Almira Skripchenko during the eighth round of the 2023 Cairns Cup. 2023.06.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/club-scholastic%E2%80%99s-jana-thomas-all-students-are-welcome-r8-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vtikuK8juKE.jpg?itok=gVKWYHuu\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/club-scholastic%E2%80%99s-jana-thomas-all-students-are-welcome-r8-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 01:44:23 +0000",
+         "title" : "Club Scholastic's Jana Thomas: All Students Are Welcome! | R8 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Sabina Foisor after defeating Mammadzada in the sixth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-thinking-my-son-calmed-me-foisor-files-r6-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tCopFBrbhgY.jpg?itok=YmipYQJ6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zatonskih-thinking-my-son-calmed-me-foisor-files-r6-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 01:44:23 +0000",
+         "title" : "Zatonskih: Thinking of My Son Calmed Me | Foisor Files R6 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Khotenashvili in the eighth round of the 2023 Cairns Cup. 2023.06.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuk-played-better-here-cyprus-r8-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xpMVHdGBD48.jpg?itok=miV8ukH1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kosteniuk-played-better-here-cyprus-r8-cairnscup",
+         "pubDate" : "Mon, 12 Jun 2023 01:44:23 +0000",
+         "title" : "Kosteniuk: Played Better Here Than in Cyprus | R8 #CairnsCup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2453",
+         "pubDate" : "Mon, 12 Jun 2023 01:37:08 +0000",
+         "title" : "Winners crowned at 2023 FIDE World Cadets & Youth Blitz and Rapid Championship"
+      },
+      {
+         "description" : "The next round of the Armageddon series starts on 12 June at the World Chess Club in Berlin. With Richard Rapport, Maxime-Vachier Lagrave, Jan-Krzysztof Duda, Michael Adams, Jorden Van Foreest and the three German players Vincent Keymer (pictured), Matthias Bl&uuml;baum and Alexander Donchenko. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-12-june-in-berlin-the-world-chess-armageddon-series-continues",
+         "pubDate" : "Mon, 12 Jun 2023 02:00:00 +0100",
+         "title" : "From 12 June in Berlin: The World Chess Armageddon series continues"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz and Zhansaya Abdumalik talk to Sabina Foisor after the fourth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n9fDoriGsYw.jpg?itok=Cr_c8VEP\" alt=\"\" /></a>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
          "pubDate" : "Sun, 11 Jun 2023 19:55:00 +0100",
          "title" : "Cairns Cup - Live!"
-      },
-      {
-         "description" : "In the seventh round of the Cairns Cup played on Saturday, sole leader Anna Zatonskih got a rest day. Elisabeth Paehtz missed her chance to catch up with Zatonskih, as the German grandmaster lost to Bella Khotenashvili. Thanks to this win, the Georgian now stands half a point behind Zatonskih. Irina Krush is also back in the mix after beating Harika Dronavalli. Krush is one point behind Zatonskih, but the two still have to play each other. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r7",
-         "pubDate" : "Sun, 11 Jun 2023 17:25:00 +0100",
-         "title" : "Cairns Cup: Krush and Khotenashvili grab crucial wins"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100919506.cms\" />India's Divya Deshmukh secured the championship title in the women's classical event at the Asian Continental Chess Championship held in Almaty. Mary Ann Gomes claimed the runner-up position in the prestigious tournament.",
@@ -72,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vidit-and-raunak-clinch-maharashtra-challenge-match",
          "pubDate" : "Sun, 11 Jun 2023 07:00:00 +0100",
          "title" : "Vidit and Raunak clinch Maharashtra Challenge Match"
+      },
+      {
+         "description" : "In the seventh round of the Cairns Cup played on Saturday, sole leader Anna Zatonskih got a rest day. Elisabeth Paehtz missed her chance to catch up with Zatonskih, as the German grandmaster lost to Bella Khotenashvili. Thanks to this win, the Georgian now stands half a point behind Zatonskih. Irina Krush is also back in the mix after beating Harika Dronavalli. Krush is one point behind Zatonskih, but the two still have to play each other. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r7",
+         "pubDate" : "Sun, 11 Jun 2023 06:55:00 +0100",
+         "title" : "Cairns Cup: Krush and Khotenashvili grab crucial wins"
       },
       {
          "description" : "In a day of intense fighting games, contenders for the throne appeared on the horizon to challenge the leader IM Anna Zatonskih by lessening her lead to half a point after the seventh round of the Cairns Cup 2023. As Zatonskih stayed on 4.5 points...",
@@ -120,38 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dzagnidze-koneru-ruling-%E2%80%98nonsense%E2%80%99-r7-cairnscup",
          "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
          "title" : "Dzagnidze: Koneru Ruling is 'Nonsense' | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after defeating Paehtz in the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bellas-4th-win-perhaps-her-greatest-winning-streak-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v5Rs-kjKF98.jpg?itok=ZmqFQemX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bellas-4th-win-perhaps-her-greatest-winning-streak-r7-cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "Bella's 4th Win: Perhaps Her Greatest Winning Streak | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Almira Skripchenko after defeating Dronavalli in the seventh round of the 2023 Cairns Cup. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/%E2%80%98pitbull%E2%80%99-krush-could-have-been-lawyer-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mle2y8f9PWI.jpg?itok=5ESqt-pq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/%E2%80%98pitbull%E2%80%99-krush-could-have-been-lawyer-r7-cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "'Pitbull' Krush Could Have Been a Lawyer | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the third Cairns Cup, a classical round robin event (pairings below). Join GM Yasser Seirawan, IM Almira Skripchenko, and IM Nazi Paikidze for the move-by-move. 2023.06.12<br /> USChessChamps.com ROUND 9 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Bella Khotenashvili vs. Harika Dronavalli<br /> Elisabeth Paehtz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-cairns-cup-round-9",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "2023 Cairns Cup: Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Sabina Foisor after defeating Abdumalik in the second round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-love-tournament-foisor-files-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1QsM9OTEbL8.jpg?itok=xmu_6tNO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dzagnidze-love-tournament-foisor-files-r2-cairnscup",
-         "pubDate" : "Sat, 10 Jun 2023 22:43:31 +0000",
-         "title" : "Dzagnidze: Love This Tournament! | Foisor Files R2 #CairnsCup"
       },
       {
          "description" : "",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-asian-championship.html",
          "pubDate" : "Tue, 06 Jun 2023 13:31:00 +0000",
          "title" : "2023 Asian Championship"
-      },
-      {
-         "description" : "The next round of the Armageddon series starts on 12 June at the World Chess Club in Berlin. With Richard Rapport, Maxime-Vachier Lagrave, Jan-Krzysztof Duda, Michael Adams, Jorden Van Foreest and the three German players Vincent Keymer (pictured), Matthias Bl&uuml;baum and Alexander Donchenko. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-12-june-in-berlin-the-world-chess-armageddon-series-continues",
-         "pubDate" : "Tue, 06 Jun 2023 14:01:54 +0100",
-         "title" : "From 12 June in Berlin: The World Chess Armageddon series continues"
       },
       {
          "description" : "Monday was Armageddon day in Stavanger. Caruana won his classical game against Abdusattorov, and Nakamura, Carlsen, Gukesh and So improved their scores with Armageddon wins after draws. Fabiano Caruana remains in the lead. | Photos: Lennart Ootes/ Norway Chess",
