@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2454",
+         "pubDate" : "Mon, 12 Jun 2023 11:09:08 +0000",
+         "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
+      },
+      {
          "description" : "The French Team Championship, also known as 'Top 16', was played on June 1-11 in Chartres, a small city not far from Paris. Before Sunday's final round, three teams were tied at the top of the standings: Asnières, Bischwiller and Grasse. The final round saw Asnières and Bischwiller drawing their match, while Grasse lost to Chartres. Asnières won the championship on tiebreak criteria, ahead of Bischwiller. | Photos: French Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,11 +42,11 @@ news_feed (
          "title" : "Zatonskih: The Best Achievement in My Career! | R8 #CairnsCup"
       },
       {
-         "description" : "IM Anna Zatonskih&#38;nbsp;clinched the Cairns Cup 2023 with a day to spare on Sunday. She defeated GM Zhansaya Abdumalik in penultimate round to reach an undefeated plus four―1.5 points ahead of the field. With this victory, Zatonskih has also secure...",
+         "description" : "IM Anna Zatonskih&#38;nbsp;clinched the Cairns Cup 2023 with a day to spare on Sunday. She defeated GM Zhansaya Abdumalik in the penultimate round to reach an undefeated plus four―1.5 points ahead of the field. With this victory, Zatonskih secured her...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-8",
-         "pubDate" : "Sun, 11 Jun 2023 21:42:32 -0700",
+         "pubDate" : "Sun, 11 Jun 2023 21:42:00 -0700",
          "title" : "Zatonskih Clinches Cairns Cup Day Early, Earns 1st GM Norm"
       },
       {
@@ -818,12 +826,12 @@ news_feed (
          "title" : "A visit to HMP Dartmoor - Carl Portman"
       },
       {
-         "description" : "A lingering look at the Lipton Legacy a survey of Michael Lipton's impressive output by John Rice. A full obituary can be found at...",
+         "description" : "A full obituary can be found at this link https://www.theguardian.com/politics/2023/apr/18/michael-lipton-obituary on the Guardian website Picture courtesy of the University of Sussex https://www.sussex.ac.uk/broadcast/read/60706",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/eulogy-michael-lipton/",
          "pubDate" : "Mon, 05 Jun 2023 13:13:42 +0000",
-         "title" : "Eulogy - Michael Lipton"
+         "title" : "RIP Michael Lipton"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100770582.cms\" />The Global Chess League (GCL) on Monday unveiled the six franchises that will participate in its inaugural edition, taking place in Dubai from June 21 to July 2.",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2410",
          "pubDate" : "Mon, 22 May 2023 12:30:53 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 1 Recap"
-      },
-      {
-         "description" : "The&#160;European School Chess Championship 2023&#160;took place from 12th-22nd May in Durres, Albania. The event was played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which was the official hotel and venue of the tournament. Bora Sahin (TUR) triumphed in the Open U7 section for the youngest participants. He scored 8.5/9 points to emerge as the sole winner of the event, ahead of Lukyan Huzela (UKR) []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-champions-2023-crowned-in-durres-albania/",
-         "pubDate" : "Mon, 22 May 2023 09:25:44 +0000",
-         "title" : "European School Chess Champions 2023 crowned in Durres, Albania"
       }
    ]
 }
