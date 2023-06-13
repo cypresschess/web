@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen suffered a shock defeat to long-time second GM Laurent Fressinet but roared back to secure qualification for Division I in the Champions Chess Tour's upcoming Aimchess Rapid event. Joining Carlsen in the top tier will be Levon Aronian, Wesley So, and the Venezuelan-born Spanish Eduardo Iturrizaga who all progressed through a challenging Swiss event before winning their respective rapid matches against other top-eight finishers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-play-in",
+         "pubDate" : "Tue, 13 Jun 2023 23:50:00 +0100",
+         "title" : "Carlsen scores clutch win to qualify for Aimchess Rapid's Division I"
+      },
+      {
+         "description" : "The Quarterfinals of the 2023 Junior Speed Chess Championship kicked off on Tuesday with wins by GM Gukesh D over IM Emin Ohanyan and&#38;nbsp;GM Pranav V against GM Christopher Yoo. Gukesh and Pranav will throw down in an all-Indian semifinal match o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-quarterfinals-gukesh-pranav",
+         "pubDate" : "Tue, 13 Jun 2023 14:57:00 -0700",
+         "title" : "Gukesh, Pranav Set Up All-Indian Semifinals In JSCC 2023"
+      },
+      {
+         "description" : "The Chinese League 2023 is a 12-team round-robin tournament held from the 5th of June to the 17th in Fuling District, Chongqing, China. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move one.Chessdom.com will daily follow the live games. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-chinese-chess-league-division-a-participants/",
+         "pubDate" : "Tue, 13 Jun 2023 21:07:22 +0000",
+         "title" : "2023 Chinese Chess League Division A - Participants"
+      },
+      {
+         "description" : "The Chinese League 2023 is a 12-team round-robin tournament held from the 5th of June to the 17th in Fuling District, Chongqing, China. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move one. More :Yoo vs. Pranav V []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-chinese-chess-league-division-a-live/",
+         "pubDate" : "Tue, 13 Jun 2023 21:00:00 +0000",
+         "title" : "2023 Chinese Chess League Division A - LIVE"
+      },
+      {
+         "description" : "The Europe and Africa edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. More :Yoo vs. Pranav V Junior Speed Chess Quaterfinal / Raunak vs. Samadov Junior Speed Chess Quaterfinal []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-championship-series-europe-and-africa-winners/",
+         "pubDate" : "Tue, 13 Jun 2023 20:15:00 +0000",
+         "title" : "Armageddon Championship Series - Europe and Africa Winners"
+      },
+      {
+         "description" : "The 14th KIIT Open is a 10-round Swiss tournament taking place from 11&#x2013;18 June 2023 in Bhubaneswar, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Boris Savchenko, Viacheslav V. Zakhartsov, Luka Paichadze, Vladimir Burmakin and Cristhian Camilo Rios. More : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/14th-kiit-open-2023-live/",
+         "pubDate" : "Tue, 13 Jun 2023 20:00:07 +0000",
+         "title" : "14th KIIT Open 2023 - LIVE"
+      },
+      {
+         "description" : "Denis Lazavik from Belarus takes on Belgium's Daniel Dardha in the quarterfinals of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes of 1+1 bullet games. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lazavik-vs-dardha-junior-speed-chess-quaterfinal/",
+         "pubDate" : "Tue, 13 Jun 2023 19:30:00 +0000",
+         "title" : "Lazavik vs. Dardha - Junior Speed Chess Quaterfinal"
+      },
+      {
+         "description" : "India's Raunak Sadhwani takes on Azerbaijan's Read Samadov in the quarterfinals of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes of 1+1 bullet games. All []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/raunak-vs-samadov-junior-speed-chess-quaterfinal/",
+         "pubDate" : "Tue, 13 Jun 2023 19:15:00 +0000",
+         "title" : "Raunak vs. Samadov - Junior Speed Chess Quaterfinal"
+      },
+      {
          "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +122,22 @@ news_feed (
          "title" : "Anna Zatonskih wins 2023 Cairns Cup"
       },
       {
+         "description" : "The 2023 Excelsior June is taking place from 13-17 of June 2023 in Toronto, Ontario, Canada. The time format is 90 minutes plus 30 seconds increment per move from move 1. It is a 10-player round-robin tournament with participation of Omar Almeida Quintana, Gabor Nagy, Nikolay Noritsyn, Tymur Keleberda, Alexander Reprintsev, Sergey Noritsyn, Jordan Clyde, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-excelsior-june-im-norm-live/",
+         "pubDate" : "Tue, 13 Jun 2023 08:35:00 +0000",
+         "title" : "2023 Excelsior June IM Norm - LIVE"
+      },
+      {
+         "description" : "The 2023 Excelsior June is taking place from 13-17 of June 2023 in Toronto, Ontario, Canada. The time format is 90 minutes plus 30 seconds increment per move from move 1. It is a 10-player round-robin tournament.Chessdom.com will daily follow the live games. More : Yoo vs. Pranav V Junior Speed Chess Quaterfinal / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-excelsior-june-im-norm/",
+         "pubDate" : "Tue, 13 Jun 2023 08:00:00 +0000",
+         "title" : "2023 Excelsior June IM Norm"
+      },
+      {
          "description" : "The last pawn is often worth its weight in gold. How did it help White to win in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,12 +154,28 @@ news_feed (
          "title" : "Armageddon in Berlin: Day 1 - Duda wins against Adams, Keymer beats Donchenko"
       },
       {
+         "description" : "The USA's Christopher Yoo takes on India's Pranav V in the quarterfinals of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes of 1+1 bullet games. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yoo-vs-pranav-v-junior-speed-chess-quaterfinal/",
+         "pubDate" : "Tue, 13 Jun 2023 07:00:00 +0000",
+         "title" : "Yoo vs. Pranav V - Junior Speed Chess Quaterfinal"
+      },
+      {
          "description" : "Remember The Queen's Gambit? It was released in October 2020, and became Netflix's most-watched scripted miniseries, making it the top program in 63 countries. The series received high critical acclaim, but also resulted in a massive general interest in the game. Now Netflix is poised to release a game that combines the story and character elements from the show, while training players the strategy of the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/queen-s-gambit-chess",
          "pubDate" : "Tue, 13 Jun 2023 08:00:00 +0100",
          "title" : "Queen's Gambit Chess"
+      },
+      {
+         "description" : "The Colonia Sant Jordi 2023 GM is taking place from 09-17 of June 2023 in Colonia de Sant Jordi, Mallorca, Spain. Time control is 90 minutes for 40 moves, followed by 15 minutes for the rest of the game, with a 30-second increment beginning from move one. It is a 10-player round-robin tournament. More : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/colonia-sant-jordi-2023-gm-norm-live/",
+         "pubDate" : "Tue, 13 Jun 2023 06:00:00 +0000",
+         "title" : "Colonia Sant Jordi 2023 - GM Norm - LIVE"
       },
       {
          "description" : "The last round of the Cairns Cup 2023 featured an epic matchup between&#38;nbsp;IM Anna Zatonskih and her longtime U.S. Women&#39;s Championship rival GM Irina Krush.&#38;nbsp;Further cementing her tournament victory, Zatonskih held off Krush&#39;s pressure in th...",
@@ -210,14 +306,6 @@ news_feed (
          "title" : "Endgame Magic #243: Endgame Highlights from the Sharjah Masters"
       },
       {
-         "description" : "Magnus Carlsen and Hikaru Nakamura are set to compete in the Play-In for the Aimchess Rapid, the 4th event on the $2 million+ 2023 Champions Chess Tour. It takes place on Chess.com on June 12 and will decide who joins Fabiano Caruana, Nodirbek Abdusattorov, Jorden van Foreest and Vladimir Fedoseev in the main event that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-play-in-champions-chess-tour-live/",
-         "pubDate" : "Mon, 12 Jun 2023 14:41:41 +0000",
-         "title" : "Aimchess Rapid Play-In | Champions Chess Tour - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -274,14 +362,6 @@ news_feed (
          "title" : "Zatonskih Clinches Cairns Cup Day Early, Earns 1st GM Norm"
       },
       {
-         "description" : "The 14th KIIT Open is a 10-round Swiss tournament taking place from 11&#x2013;18 June 2023 in Bhubaneswar, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Boris Savchenko, Viacheslav V. Zakhartsov, Luka Paichadze, Vladimir Burmakin and Cristhian Camilo Rios.Chessdom.com will daily []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/14th-kiit-open-2023/",
-         "pubDate" : "Mon, 12 Jun 2023 01:52:00 +0000",
-         "title" : "14th KIIT Open 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -314,28 +394,12 @@ news_feed (
          "title" : "Divya, Mary bag gold-silver in Asian Women's Chess"
       },
       {
-         "description" : "The Teplice Open is a 9-round Swiss tournament taking place from 10&#x2013;18 June 2023 in Teplice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Shant Sargsyan, Rasmus Svane, Daniele Vocaturo, Anton []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/teplice-open-2023-live/",
-         "pubDate" : "Sun, 11 Jun 2023 14:30:00 +0000",
-         "title" : "Teplice Open 2023 - LIVE"
-      },
-      {
          "description" : " IM Gary Lane leads the 2023 NSW Open on 5/5, at then of the 2nd day of play. He started of with a win over Willis Lo in round 3, before beating Harry Press in round 4, and Samuel Asaka in the final round. He leads Sterling Bayaca by half a point, and the 2 players face each other in round 6. A group of 6 players trail Lane by a full point, including top seed IM Mihajlo Radovanovic. Radovanovic missed 2 rounds today due to work commitments, but returned to beat FM Jack Rodgers in the 5th round. Trent Parker leads the Minor on 5/5, a half point ahead of Terry Gao and Jonluke Corona. Gao and Parker play in round 6, while Corona is up against Roland Brockman. Round 6 starts at 9:30 am tomorrow,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-2.html",
          "pubDate" : "Sun, 11 Jun 2023 14:11:00 +0000",
          "title" : "2023 NSW Open - Day 2"
-      },
-      {
-         "description" : "The Teplice Open is a 9-round Swiss tournament taking place from 10&#x2013;18 June 2023 in Teplice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; The top five rated players are Shant Sargsyan, Rasmus Svane, Daniele Vocaturo, Anton []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/teplice-open-2023/",
-         "pubDate" : "Sun, 11 Jun 2023 14:00:00 +0000",
-         "title" : "Teplice Open 2023"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about tactics and the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
@@ -448,54 +512,6 @@ news_feed (
          "link" : "https://www.thearticle.com/from-cambridge-to-lugano-playing-spassky-in-1969/",
          "pubDate" : "Sat, 10 Jun 2023 07:42:56 +0000",
          "title" : "From Cambridge to Lugano: playing Spassky in 1968"
-      },
-      {
-         "description" : "The 14th Dolomiti Open is taking place from 10&#x2013;17 June 2023 in Forni di Sopra, Italy. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jose Eduardo Martinez Alcantara, Luca []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/14th-dolomiti-open-live/",
-         "pubDate" : "Sat, 10 Jun 2023 07:15:00 +0000",
-         "title" : "14th Dolomiti Open - LIVE"
-      },
-      {
-         "description" : "The 14th Dolomiti Open is taking place from 10&#x2013;17 June 2023 in Forni di Sopra, Italy. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jose Eduardo Martinez Alcantara, Luca []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/14th-dolomiti-open/",
-         "pubDate" : "Sat, 10 Jun 2023 07:00:00 +0000",
-         "title" : "14th Dolomiti Open"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u08-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 06:15:00 +0000",
-         "title" : "Girls U08 FIDE World Blitz Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u10-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 06:00:00 +0000",
-         "title" : "Girls U10 FIDE World Blitz Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u12-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 05:45:00 +0000",
-         "title" : "Girls U12 FIDE World Blitz Championship - LIVE"
-      },
-      {
-         "description" : "The U18-U8 World Rapid &#38; Blitz Chess Championships 2023 are taking place in Batumi, Georgia from June 5 to 12. The tournaments will be played using the Swiss System with 11 rounds in separate open and girls section under U08,U10,U12,U14,U16,U18. Time control for the rapid championships will be 15 minutes plus 5 seconds per move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u14-fide-world-blitz-championship-live/",
-         "pubDate" : "Sat, 10 Jun 2023 05:30:00 +0000",
-         "title" : "Girls U14 FIDE World Blitz Championship - LIVE"
       },
       {
          "description" : "IM Anna Zatonskih stretched her lead to a full point at the Cairns Cup 2023, defeating IM Gunay Mammadzada in round six. The American underdog has performed so well that she has chances to earn a GM norm, depending on her last two games. Curiously...",
@@ -882,14 +898,6 @@ news_feed (
          "title" : "Cairns Cup: Krush and Kosteniuk lead after three rounds"
       },
       {
-         "description" : "Jon Speelman has an eye for unusual constellations and interesting chess games, and in his column he presents a game that was played recently, but brought back memories of times gone by: \"Over the last few weeks, the game which has made much the greatest impression on me is the splendid rapidplay battle between Richard Rapport and Jan-Krzysztof Duda at the Superbet tournament in Warsaw. This magnificent slugfest quickly entered some sort of time portal and resurfaced in the mid-nineteenth century with White a huge amount of material down but the Black king under intense fire.\" | Photo: Jan-Krzysztof Duda at the Superbet Tournament in Warsaw 2023 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-speelman-forward-to-the-past",
-         "pubDate" : "Tue, 06 Jun 2023 07:01:34 +0100",
-         "title" : "Jon Speelman: Forward to the past"
-      },
-      {
          "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. women&#39;s champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chessmen-of-letters-amis-and-nabokov/",
          "pubDate" : "Sat, 03 Jun 2023 04:05:24 +0000",
          "title" : "Chessmen of letters: Amis and Nabokov"
-      },
-      {
-         "description" : "Pavel Kirs, the organizer of one of the biggest open tournaments in the Czech Republic, was forced to make a U-turn after facing heavy criticism and intervention by FIDE as he initially refused to accept registrations from Ukrainian adults. In a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/czech-open-tournament-organizer-admits-mistake",
-         "pubDate" : "Fri, 02 Jun 2023 15:58:00 -0700",
-         "title" : "Tournament Organizer Makes U-Turn On Ukrainians After Criticism"
       },
       {
          "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
@@ -1568,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2417",
          "pubDate" : "Wed, 24 May 2023 10:52:52 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 3 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2416",
-         "pubDate" : "Tue, 23 May 2023 21:46:43 +0000",
-         "title" : "FIDE WGP Cyprus R07: Missed opportunities "
       }
    ]
 }
