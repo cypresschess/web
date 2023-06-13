@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2455",
+         "pubDate" : "Tue, 13 Jun 2023 09:32:12 +0000",
+         "title" : "Anna Zatonskih wins 2023 Cairns Cup"
+      },
+      {
          "description" : "The last pawn is often worth its weight in gold. How did it help White to win in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-play-in-carlsen-aronian-so-iturrizaga",
-         "pubDate" : "Mon, 12 Jun 2023 17:53:43 -0700",
+         "pubDate" : "Mon, 12 Jun 2023 17:53:00 -0700",
          "title" : "Clutch Armageddon Finishes By Carlsen, Iturrizaga Complete Division I Roster"
       },
       {
@@ -1584,22 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2412",
          "pubDate" : "Tue, 23 May 2023 11:37:45 +0000",
          "title" : "Unprecedented Showdown: Ding Liren, Magnus Carlsen, Viswanathan Anand and Hou Yifan join Global Chess League"
-      },
-      {
-         "description" : "Exactly 70 years ago today, on May 29, 1953, the world's highest mountain, Everest, was climbed for the first time - a heroic feat, exuberantly celebrated by all. Today, hundreds scale the mountain each year. 40 years ago the Mount Everest of problem chess, the daunting Babson task, which for a century had seemed quite impossible to do, was mastered for the first time. Today new versions appear regularly. Here are some of the best. It's great fun checking the symmetrical underpromotions with an engine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-everest-of-chess-problems",
-         "pubDate" : "Tue, 23 May 2023 12:00:00 +0100",
-         "title" : "The Everest of chess problems"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2411",
-         "pubDate" : "Tue, 23 May 2023 09:12:24 +0000",
-         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 2 Recap"
       }
    ]
 }
