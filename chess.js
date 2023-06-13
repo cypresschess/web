@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Sabina Foisor after defeating Dronavalli in the seventh round of the 2023 Cairns Cup. This aired during Round 9. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-forest-park-put-me-%E2%80%98fighting-mode%E2%80%99-foisor-files-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bebzCtTjG5c.jpg?itok=TPMmctqU\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-forest-park-put-me-%E2%80%98fighting-mode%E2%80%99-foisor-files-r7-cairnscup",
+         "pubDate" : "Tue, 13 Jun 2023 01:45:03 +0000",
+         "title" : "Krush: Forest Park Put Me in 'Fighting Mode' | Foisor Files R7 #CairnsCup"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-play-in-carlsen-aronian-so-iturrizaga",
+         "pubDate" : "Mon, 12 Jun 2023 17:53:43 -0700",
+         "title" : "Clutch Armageddon Finishes By Carlsen, Iturrizaga Complete Division I Roster"
+      },
+      {
          "description" : "The FIDE World Cup, a knock-out chess extravaganza held every two years, will celebrate its 10th edition in Baku, Azerbaijan, from 30 July to 24 August 2023. Many of the participants in the open and the women's sections have confirmed their presence. Heading the open will be Magnus Carlsen, Ian Nepomniachtchi and Fabiano Caruana, while the women's event will have Humpy Koneru, Ju Wenjun and Aleksandra Goryachkina as the top seeds. The fields will be completed before June 30.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,14 +218,6 @@ news_feed (
          "title" : "From 12 June in Berlin: The World Chess Armageddon series continues"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz and Zhansaya Abdumalik talk to Sabina Foisor after the fourth round of the 2023 Cairns Cup. This aired during Round 8. 2023.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n9fDoriGsYw.jpg?itok=Cr_c8VEP\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paehtz-abdumalik-course-we%E2%80%99re-friends-foisor-files-r4cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 22:44:27 +0000",
-         "title" : "Paehtz & Abdumalik: Of Course, We're Friends! | Foisor Files R4#CairnsCup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-7",
          "pubDate" : "Sat, 10 Jun 2023 21:10:00 -0700",
          "title" : "Day Of Daring Fights But Resting Zatonskih Still Leads"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Sabina Foisor after a draw against Koneru in the second round of the 2023 Cairns Cup. This aired during Round 7. 2023.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-correct-pronunciation-foisor-files-r2-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_MaEgdD_B98.jpg?itok=KKltFach\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-correct-pronunciation-foisor-files-r2-cairnscup",
-         "pubDate" : "Sun, 11 Jun 2023 01:43:47 +0000",
-         "title" : "Irina Krush: The Correct Pronunciation | Foisor Files R2 #CairnsCup"
       },
       {
          "description" : "",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/karjakin-likely-to-skip-chess-world-cup-carlsens-coach-calls-for-sanctions/articleshow/100682012.cms",
          "pubDate" : "Thu, 01 Jun 2023 13:31:14 +0000",
          "title" : "Karjakin likely to skip World Cup, Carlsen's coach calls for sanctions"
-      },
-      {
-         "description" : "It&#38;rsquo;s a bird! It&#38;rsquo;s a plane! It&#38;rsquo;s superhero chess! Take on the superhero computers, and join the fight against a grandmaster turned supervillain. Meet the Chesstice League: Mighty Martin, The Green Pawn, Deadlost, Blunder Woman, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-with-the-chesstice-league",
-         "pubDate" : "Thu, 01 Jun 2023 06:00:00 -0700",
-         "title" : "Play Chess With The Chesstice League"
       },
       {
          "description" : "",
