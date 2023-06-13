@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Tue, 13 Jun 2023 18:50:00 +0100",
+         "title" : "Armageddon Series - Live from 19.00 CEST!"
+      },
+      {
+         "description" : "The ninth round of the Cairns Cup saw Alexandra Kosteniuk grabbing a third consecutive win to secure clear second place in the final standings. Kosteniuk defeated Elisabeth Paehtz with black, while Irina Krush, who was sharing second place with Kosteniuk before the final round, failed to get the better of tournament winner Anna Zatonskih in a tricky endgame. In the other decisive game of the day, Nana Dzagnidze defeated Gunay Mammadzada. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r9",
+         "pubDate" : "Tue, 13 Jun 2023 18:30:00 +0100",
+         "title" : "Cairns Cup: Alexandra Kosteniuk clinches second place"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2456",
+         "pubDate" : "Tue, 13 Jun 2023 15:39:30 +0000",
+         "title" : "FIDE World Cup 2023: Useful information for players"
+      },
+      {
          "description" : "An ECF Level 1 Arbiter course was held in person over the weekend of 10th and 11th June at Bridge, in Kent. 11 candidates were...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/new-arbiters-2/",
          "pubDate" : "Tue, 13 Jun 2023 13:43:18 +0000",
          "title" : "New Arbiters!"
-      },
-      {
-         "description" : "The first day of the Europe and Africa Regional qualifier kicked off with a top match between British number one Michael Adams and Poland's top player Jan-Krzysztof Duda. After several ups and downs Duda won with a bit of luck. The second match of the day saw an all-German clash between Vincent Keymer and Alexander Donchenko, in which Keymer (pictured) was a bit more lucky and won.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-in-berlin-day-1-duda-wins-against-adams-keymer-beats-donchenko",
-         "pubDate" : "Tue, 13 Jun 2023 14:23:56 +0100",
-         "title" : "Armageddon in Berlin: Day 1 - Duda wins against Adams, Keymer beats Donchenko"
       },
       {
          "description" : "The European Chess Union (ECU) invites all ECU National Chess Federations to participate in theEuropean Youth Rapid and Blitz Chess Championship 2023 which will take place from September 27 to October 1 in Terme Catez, Slovenia. The European Youth Rapid &#38; Blitz Chess Championship 2023 includes three separate competitions: (A) The 22nd European Youth Rapid Chess Championship To be played on 28 and 29 September, 2023, in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls []",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-last-pawn-2",
          "pubDate" : "Tue, 13 Jun 2023 09:00:00 +0100",
          "title" : "The last pawn"
+      },
+      {
+         "description" : "The first day of the Europe and Africa Regional qualifier kicked off with a top match between British number one Michael Adams and Poland's top player Jan-Krzysztof Duda. After several ups and downs Duda won with a bit of luck. The second match of the day saw an all-German clash between Vincent Keymer and Alexander Donchenko, in which Keymer (pictured) was a bit more lucky and won.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-in-berlin-day-1-duda-wins-against-adams-keymer-beats-donchenko",
+         "pubDate" : "Tue, 13 Jun 2023 08:55:00 +0100",
+         "title" : "Armageddon in Berlin: Day 1 - Duda wins against Adams, Keymer beats Donchenko"
       },
       {
          "description" : "Remember The Queen's Gambit? It was released in October 2020, and became Netflix's most-watched scripted miniseries, making it the top program in 63 countries. The series received high critical acclaim, but also resulted in a massive general interest in the game. Now Netflix is poised to release a game that combines the story and character elements from the show, while training players the strategy of the game.",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "Champions Match Day 1: Black hold in both games"
       },
       {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Dubai Open. Two queen endings were especially interesting. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-242-endgame-highlights-from-the-dubai-open",
-         "pubDate" : "Mon, 05 Jun 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #242: Endgame Highlights from the Dubai Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/the-cccs-mystery-engine.html",
          "pubDate" : "Mon, 05 Jun 2023 15:01:00 +0000",
          "title" : "The CCC's Mystery Engine"
-      },
-      {
-         "description" : "GM Romain Edouard is an expert on the Sicilian Dragon Variation. In his four-part series in ChessBase Magazine Extra he gives deep insights into the variations after 9.0-0-0 d5 and reveals a multitude of tactical motifs he came across in the course of his analyses. The second part deals with the main line 10.exd5. You can watch an excerpt from Edouard's 20-minute analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/3-h4-against-the-gruenfeld-and-king-s-indian-2",
-         "pubDate" : "Mon, 05 Jun 2023 16:00:00 +0100",
-         "title" : "Critical Lines in the Dragon - Part II"
       },
       {
          "description" : "We hope this report gives you a sense of Carl's ongoing work for the ECF, including visits to prisons of all categories across the country....",
@@ -1568,22 +1576,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2416",
          "pubDate" : "Tue, 23 May 2023 21:46:43 +0000",
          "title" : "FIDE WGP Cyprus R07: Missed opportunities "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2414",
-         "pubDate" : "Tue, 23 May 2023 17:15:03 +0000",
-         "title" : "Chess for Freedom Conference brings together experts from all around the world"
-      },
-      {
-         "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
-         "pubDate" : "Tue, 23 May 2023 11:32:10 -0500",
-         "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
       }
    ]
 }
