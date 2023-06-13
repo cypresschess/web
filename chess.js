@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An ECF Level 1 Arbiter course was held in person over the weekend of 10th and 11th June at Bridge, in Kent. 11 candidates were...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-arbiters-2/",
+         "pubDate" : "Tue, 13 Jun 2023 13:43:18 +0000",
+         "title" : "New Arbiters!"
+      },
+      {
+         "description" : "The first day of the Europe and Africa Regional qualifier kicked off with a top match between British number one Michael Adams and Poland's top player Jan-Krzysztof Duda. After several ups and downs Duda won with a bit of luck. The second match of the day saw an all-German clash between Vincent Keymer and Alexander Donchenko, in which Keymer (pictured) was a bit more lucky and won.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-in-berlin-day-1-duda-wins-against-adams-keymer-beats-donchenko",
+         "pubDate" : "Tue, 13 Jun 2023 14:23:56 +0100",
+         "title" : "Armageddon in Berlin: Day 1 - Duda wins against Adams, Keymer beats Donchenko"
+      },
+      {
+         "description" : "The European Chess Union (ECU) invites all ECU National Chess Federations to participate in theEuropean Youth Rapid and Blitz Chess Championship 2023 which will take place from September 27 to October 1 in Terme Catez, Slovenia. The European Youth Rapid &#38; Blitz Chess Championship 2023 includes three separate competitions: (A) The 22nd European Youth Rapid Chess Championship To be played on 28 and 29 September, 2023, in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2023-in-terme-catez-slovenia/",
+         "pubDate" : "Tue, 13 Jun 2023 13:07:02 +0000",
+         "title" : "European Youth Rapid & Blitz Chess Championship 2023 in Terme Catez, Slovenia"
+      },
+      {
+         "description" : " The 2023 NSW Open ended in a 3 way tie for first, after some dramatic last round action. IM Mihajlo Radovanovic started the final round a point behind IM Gary Lane, but a win for Radovanovic over Lane left them both on 6/7. In the all ACT clash FM Michael Kethro beat Harry Press to join the front runners, and relegate Press from the prize list. Ahn Quan Nguyen quickly cleaned up Jeremy Plunkett on Board 4 to finish in outright 4th place, with FM Sterling Bayaca, FM Jack Rodgers, Geoff barker, Zachary Yu, and CM Hui Li finishing in a tie for 5th on 5 points. In the Minor event (Under 1600), Trent Parker held on for a draw against CJ de Mooi to reach 6 points, along with promising junior Alex",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-3-way-tie-for-1st.html",
+         "pubDate" : "Tue, 13 Jun 2023 12:55:00 +0000",
+         "title" : "2023 NSW Open - 3 way tie for 1st"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -31,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-9",
          "pubDate" : "Mon, 12 Jun 2023 22:48:00 -0700",
-         "title" : "The Saga Of Zatonskih vs. Krush, Kosteniuk Wins 2nd: 'I have 6 out of 9!'"
+         "title" : "Saga Of Zatonskih vs. Krush, Kosteniuk Wins 2nd: 'I have 6 out of 9!'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Almira Skripchenko during the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-learning-yasser-%E2%80%98great-fun%E2%80%99-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XFSoEvzKmtY.jpg?itok=h6jm5LGC\" alt=\"\" /></a></div>",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-to-play-2023-world-cup",
          "pubDate" : "Mon, 12 Jun 2023 11:30:00 -0700",
          "title" : "Carlsen Goes For First World Cup Win"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Mon, 12 Jun 2023 18:50:00 +0100",
-         "title" : "Armageddon Series - Live from 19.00 CEST!"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Sharjah Masters. He was particularly intrigued by an endgame, in which a bishop had to fight a hard fight against several enemy pawns. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -970,14 +994,6 @@ news_feed (
          "title" : "ECF Membership Analysis June 2023"
       },
       {
-         "description" : "Entry to this competition sponsored by Winton is by solving the starter problem below. White, playing up the board, is to play and force mate...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2023-2024/",
-         "pubDate" : "Mon, 05 Jun 2023 08:12:38 +0000",
-         "title" : "Winton British Chess Solving Championship 2023-2024"
-      },
-      {
          "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov with Black beat GM Fabiano Caruana in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1568,30 +1584,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
          "pubDate" : "Tue, 23 May 2023 11:32:10 -0500",
          "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
-      },
-      {
-         "description" : " Entries for the 2023 ACT Chess Championship close on Friday at 6pm (First round is at 7pm). At this stage the entry list stands at 47 players, with IM Junta Ikeda as the top seed. He is likely to be challenged by a group of younger local players, with Willis Lo and Harry Press the next 2 seeds. The event is being played at the Eastlake Club in Griffth for the first time, with the club providing an excellent venue both in terms of space, and service. Meals will be available at the venue throughout (but no cheese toasties this year!). Based on the current entries, there will be at least $1500 in prizes, with $500 for 1st. It is not too late to enter, and you can do so at <a href=\"https://www.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-update.html",
-         "pubDate" : "Tue, 23 May 2023 14:04:00 +0000",
-         "title" : "2023 ACT Championship Update"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2415",
-         "pubDate" : "Tue, 23 May 2023 11:38:08 +0000",
-         "title" : "FIDE on the situation in the Arab Chess Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2412",
-         "pubDate" : "Tue, 23 May 2023 11:37:45 +0000",
-         "title" : "Unprecedented Showdown: Ding Liren, Magnus Carlsen, Viswanathan Anand and Hou Yifan join Global Chess League"
       }
    ]
 }
