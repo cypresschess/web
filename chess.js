@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2458",
+         "pubDate" : "Wed, 14 Jun 2023 22:35:38 +0000",
+         "title" : "Serbian Championship: Aleksandar Indjic and Marina Gajcin clinch titles"
+      },
+      {
+         "description" : "On the second day of Quarterfinals in the 2023 Junior Speed Chess Championship, GM Raunak Sadhwani dispatched IM Read Samadov and GM Denis Lazavik eliminated GM Daniel Dardha. The victory of the two favorites was never in question during their mat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-quarterfinals-raunak-lazavik",
+         "pubDate" : "Wed, 14 Jun 2023 14:08:48 -0700",
+         "title" : "Raunak, Lazavik Both Win Blowouts, Advance To Semifinals"
+      },
+      {
+         "description" : "Chess.com&#39;s all-star hunt for the best chess player in the NFL is back for a second edition featuring eight of your favorite footballers. BlitzChamps II kicks off on June 23 with $100,000 at stake for charity and the all-important bragging rights ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-ii",
+         "pubDate" : "Wed, 14 Jun 2023 14:00:02 -0700",
+         "title" : "Who Is The NFL's Best Chess Player? Stars Line-Up For BlitzChamps II Tournament"
+      },
+      {
          "description" : "Dommaraju Gukesh, who just turned 17, is the youngest player among the Top 20 in the world ranking, and he continues to climb up the rating ladder. Those who are keen to learn something from his great chess talent can get invaluable lessons from the master himself in the FritzTrainer 'Attack like a Super Grandmaster'. A review by Harald Wagner.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1082,14 +1106,6 @@ news_feed (
          "title" : "Ebay Chess on Stamps"
       },
       {
-         "description" : "Chess.com and the nonprofit Lide Haiti raised $42,794 to empower at-risk adolescent girls in Haiti (including via chess programs) during a star-studded live event featuring Rainn Wilson on Friday. The June 2 event&#38;mdash;hosted by IM Danny Rensch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lide-chesscom-partnership-rainn-wilson-haiti",
-         "pubDate" : "Sun, 04 Jun 2023 07:23:00 -0700",
-         "title" : "Chess.com And Lide Haiti Raise $42,794 To Empower Girls In Haiti, Rainn Wilson Stars"
-      },
-      {
          "description" : " I used to comment that if I could form a chess club from everyone who turned up to chess clubs/tournaments just once, it would be twice the size of any club in Canberra. It turns out that I could now do this with everyone who was simply a new player on the June 2023 Rating List for the ACT. A record 138 new players were added to the list, which is twice the size of the Gungahlin Chess Club, which is currently Canberra's largest. Not all players received a rating, or played more than 1 or 2 rounds in an event, but it is still quite a remarkable number. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/",
          "pubDate" : "Sun, 04 Jun 2023 05:56:14 +0000",
          "title" : "Zhou Jianchou wins 2023 Chicago Open"
-      },
-      {
-         "description" : "A heavily decisive round one with four victories out of five games commenced the Cairns Cup 2023&#38;nbsp;on Saturday. GM Alexandra Kosteniuk scored her first-ever classical victory vs. GM Humpy Koneru, the second-highest-rated woman in the world. GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-1",
-         "pubDate" : "Sat, 03 Jun 2023 20:13:00 -0700",
-         "title" : "Decisive Start: Kosteniuk Defeats Defending Champion"
       },
       {
          "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
@@ -1552,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2421",
          "pubDate" : "Thu, 25 May 2023 00:15:44 +0000",
          "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2419",
-         "pubDate" : "Wed, 24 May 2023 21:40:06 +0000",
-         "title" : "WGP Cyprus: Wagner holds the lead with three rounds to go "
       }
    ]
 }
