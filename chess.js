@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dommaraju Gukesh, who just turned 17, is the youngest player among the Top 20 in the world ranking, and he continues to climb up the rating ladder. Those who are keen to learn something from his great chess talent can get invaluable lessons from the master himself in the FritzTrainer 'Attack like a Super Grandmaster'. A review by Harald Wagner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-fritztrainer-review",
+         "pubDate" : "Wed, 14 Jun 2023 20:00:00 +0100",
+         "title" : "Gukesh: Attack like a Super Grandmaster - A review"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Wed, 14 Jun 2023 18:50:00 +0100",
+         "title" : "Armageddon Series, Day 3 - Live from 19.00 CEST!"
+      },
+      {
          "description" : "The June 13 edition of Titled Tuesday was won by GMs Gata Kamsky in the early event and Jan-Krzysztof Duda late. The 49-year-old Kamsky, who challenged for the FIDE World Championship in 1996, won outright with 9.5 points ahead of a nine-way tie f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kamsky-duda-win-titled-tuesday-june-13-2023",
-         "pubDate" : "Wed, 14 Jun 2023 08:19:08 -0700",
+         "pubDate" : "Wed, 14 Jun 2023 08:19:00 -0700",
          "title" : "Old Guard, New Guard Both Represent On Tuesday"
       },
       {
@@ -858,14 +874,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - How to play the Leningrad Dutch Defence"
       },
       {
-         "description" : "It involves six franchises for the inaugural edition, set to reach 600 million viewers in 160 countries. The Global Chess League represents a paradigm shift in chess spectatorship with the inclusion of world-class players and visionary franchise owners. Check out the world class players who will be playing in the League. It's going to be a hot summer!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-unveiled",
-         "pubDate" : "Wed, 07 Jun 2023 06:00:00 +0100",
-         "title" : "Global Chess League Unveiled"
-      },
-      {
          "description" : "IM Anna Zatonskih outplayed joint overnight leader GM Alexandra Kosteniuk with admirable strategic play from the black side of a French Defense to jump into the sole lead with three points after the fourth round of the Cairns Cup 2023 on Tuesday. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-asian-championship.html",
          "pubDate" : "Tue, 06 Jun 2023 13:31:00 +0000",
          "title" : "2023 Asian Championship"
-      },
-      {
-         "description" : "Monday was Armageddon day in Stavanger. Caruana won his classical game against Abdusattorov, and Nakamura, Carlsen, Gukesh and So improved their scores with Armageddon wins after draws. Fabiano Caruana remains in the lead. | Photos: Lennart Ootes/ Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-round-6-one-win-four-armageddon-games",
-         "pubDate" : "Tue, 06 Jun 2023 12:17:49 +0100",
-         "title" : "Norway Chess, Round 6: One win, four Armageddon games"
       },
       {
          "description" : "Montenegro Chess Federation (MCF) in cooperation with European Chess Union (ECU) have the honor to invite all National Chess Federations members of the European Chess Union to the European Team Chess Championship 2023 organized in Budva, Montenegro from 10th November (arrival) to 21st November (departure). The event will be played in 9 rounds, swiss system, with Open and Women's sections separately. The time control will be 90 minutes for 40 moves + 30 minutes for the rest of the game, []",
@@ -1560,22 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2419",
          "pubDate" : "Wed, 24 May 2023 21:40:06 +0000",
          "title" : "WGP Cyprus: Wagner holds the lead with three rounds to go "
-      },
-      {
-         "description" : "Everything is set for the 2023 European Senior Chess Championship which will be played from May 26 to June 3 in Acqui Terme, Italy. The Championship is played in two age categories: 50+ and 65+, with Women's 50+ section separately. Women's 65+ championship will be merged with the Open competition, with separate prizes for the best female players. The event broke the participation record with 180 players coming from more than 25 European federations. The top seeds are: GM John []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2023-starts-in-italy/",
-         "pubDate" : "Wed, 24 May 2023 18:12:27 +0000",
-         "title" : "European Senior Chess Championship 2023 starts in Italy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2418",
-         "pubDate" : "Wed, 24 May 2023 16:29:59 +0000",
-         "title" : "5th FIDE World Championships for People with Disabilities: Registration is open "
       }
    ]
 }
