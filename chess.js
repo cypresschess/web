@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 10th Dhamso International Chess Festival was held on May 26-30 at the Hotel Lavanga Resort & Spa in Hikkaduwa, Sri Lanka. In the main event, IM Mohan Kushara (pictured) won the championship by scoring 9/10 points, while R M Dulinma Hemalni Rathnayake won the women's championship after scoring 7/10 points. More than 660 players competed in the event which included one GM, two IMs, one FM and three Arena FMs from four different countries: Azerbaijan, India, Russia and Sri Lanka.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dhamso-chess-festival-2023",
+         "pubDate" : "Wed, 14 Jun 2023 08:00:00 +0100",
+         "title" : "10th Dhamso International Chess Festival in Sri Lanka"
+      },
+      {
+         "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023, Last date of entry portal is coming close, interested players requested to apply soon.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-schools-team-u-12-u-18-last-date-of-entry-is-coming-close-18-june/",
+         "pubDate" : "Wed, 14 Jun 2023 06:37:03 +0000",
+         "title" : "National Schools Team U-12 & U-18 Last date of Entry is coming close, 18 June."
+      },
+      {
          "description" : "Magnus Carlsen suffered a shock defeat to long-time second GM Laurent Fressinet but roared back to secure qualification for Division I in the Champions Chess Tour's upcoming Aimchess Rapid event. Joining Carlsen in the top tier will be Levon Aronian, Wesley So, and the Venezuelan-born Spanish Eduardo Iturrizaga who all progressed through a challenging Swiss event before winning their respective rapid matches against other top-eight finishers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -890,14 +906,6 @@ news_feed (
          "title" : "The cut-off"
       },
       {
-         "description" : "Following two rounds with 4 out of 5 games ending decisively, only Irina Krush and Bella Khotenashvili managed to score full points in round 3 of the Cairns Cup. Krush is now sharing the lead with Alexandra Kosteniuk on 2&frac12; points. Anna Zatonskih stands in sole third place a half point behind the co-leaders. Zatonskih will face Kosteniuk with black in Tuesday's fourth round. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r3",
-         "pubDate" : "Tue, 06 Jun 2023 07:20:00 +0100",
-         "title" : "Cairns Cup: Krush and Kosteniuk lead after three rounds"
-      },
-      {
          "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. women&#39;s champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2423",
          "pubDate" : "Thu, 25 May 2023 20:14:10 +0000",
          "title" : "FIDE WGP: Three-way tie in Cyprus with two rounds to go "
-      },
-      {
-         "description" : "The first edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2023 will be held at Amalorpavam Higher Sec School, Vanarapet, Pondicherry from 23-25 June",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-national-schools-team-under-12-under-18-chess-championships-2023/",
-         "pubDate" : "Thu, 25 May 2023 18:26:45 +0000",
-         "title" : "1st National Schools Team Under-12 & Under-18 Chess Championships-2023"
       },
       {
          "description" : "The May 2023 issue of <I>Chess Life</I> (CL) carried the annual kickoff announcement for the Chess Journalists of America (CJA) awards. The call for entries started, <BLOCKQUOTE> The CJA awards recognize the best in all facets of chess journalism, both print and online. The best chess articles, columns, photojournalism, layout, and online writing are honored within their respective categories. Recognized annually by their peers, the public, and members of CJA, the prestigious awards showcase American works published in English between June 1, 2022, and May 31, 2023. </BLOCKQUOTE> <P> The list of award categories is online at <A HREF=\"https://chessjournalism.org/award-categories/\">CJA Award C",
