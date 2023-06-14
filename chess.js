@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More than 30 years since its inception, 'First Saturday' is still going strong. Constantly reinventing itself, it has been kicking and running against all odds. Most of today's top professionals have succumbed to the attraction of this ingenious concept that aims at providing chess players with the opportunity to earn norms and subsequently further their chess career. The model has been adopted by many organisers at various corners of the globe, but the credit for the original set up goes to Laszlo Nagy, known as Mr First Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-rejuvenated-first-saturday",
+         "pubDate" : "Wed, 14 Jun 2023 12:00:00 +0100",
+         "title" : "A rejuvenated 'First Saturday'"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2457",
+         "pubDate" : "Wed, 14 Jun 2023 10:19:13 +0000",
+         "title" : "Qualified players for FIDE Grand Swiss and Women's Grand Swiss"
+      },
+      {
+         "description" : "Carl Portman has been on BBC Radio 5 Live today talking about chess in prisons and three other stations too - follow the links below!...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-in-prisons-in-the-media-today-from-carl-portman/",
+         "pubDate" : "Wed, 14 Jun 2023 08:01:56 +0000",
+         "title" : "Chess in Prisons in the media today - Carl Portman"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Sheng shows some of his own brillant moves in Double Exclam!! Originally on Twitch. 2023.02.12<br /> Bryce Tiglon vs. Josh Sheng, 2019<br /> David Atkin vs. Sheng, 2019<br /> Craig Hilby vs. Brandon Jacobson, 2023<br /> Alperen Kanli vs. Sheng, 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-shengs-double-exclam-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-shengs-double-exclam-gm-josh-sheng",
+         "pubDate" : "Wed, 14 Jun 2023 07:46:16 +0000",
+         "title" : "GM Sheng's Double Exclam!! - GM Josh Sheng"
+      },
+      {
          "description" : "The 10th Dhamso International Chess Festival was held on May 26-30 at the Hotel Lavanga Resort & Spa in Hikkaduwa, Sri Lanka. In the main event, IM Mohan Kushara (pictured) won the championship by scoring 9/10 points, while R M Dulinma Hemalni Rathnayake won the women's championship after scoring 7/10 points. More than 660 players competed in the event which included one GM, two IMs, one FM and three Arena FMs from four different countries: Azerbaijan, India, Russia and Sri Lanka.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/khotenashvili-didn%E2%80%99t-worry-about-early-losses-it-worked-r9-cairnscup",
          "pubDate" : "Mon, 12 Jun 2023 22:45:01 +0000",
          "title" : "Khotenashvili: Didn't Worry About Early Losses, & It Worked! | R9 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-bl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-1-grandchesstour",
-         "pubDate" : "Mon, 12 Jun 2023 22:45:01 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 1 | #GrandChessTour"
       },
       {
          "description" : " My second knight ending from our club online tournament a couple of weeks ago was, in truth, one of the most boring games I've played in the past 60 years, and, as most of my games are extremely boring, that's quite an achievement. I guess you must be reasonably happy if you get a Weighted Error <a href=\"https://chessimprover.com/knight-fever-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-2/\">Knight Fever (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "ECU E-Magazine May 2023"
       },
       {
-         "description" : "The cut-off is an important technique in rook endings. In the diagram position Black could have used it to win the game. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-cut-off-2",
-         "pubDate" : "Tue, 06 Jun 2023 09:00:00 +0100",
-         "title" : "The cut-off"
-      },
-      {
          "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. women&#39;s champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/northumbria-masters-junior-bursaries/",
          "pubDate" : "Mon, 05 Jun 2023 09:02:03 +0000",
          "title" : "Northumbria Masters Junior Bursaries"
-      },
-      {
-         "description" : "Click this link for a PDF of the Membership Analysis June 2023 for the English Chess Federation.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/75648-2/",
-         "pubDate" : "Mon, 05 Jun 2023 08:28:14 +0000",
-         "title" : "ECF Membership Analysis June 2023"
       },
       {
          "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov with Black beat GM Fabiano Caruana in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2418",
          "pubDate" : "Wed, 24 May 2023 16:29:59 +0000",
          "title" : "5th FIDE World Championships for People with Disabilities: Registration is open "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2417",
-         "pubDate" : "Wed, 24 May 2023 10:52:52 +0000",
-         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 3 Recap"
       }
    ]
 }
