@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The June 13 edition of Titled Tuesday was won by GMs Gata Kamsky in the early event and Jan-Krzysztof Duda late. The 49-year-old Kamsky, who challenged for the FIDE World Championship in 1996, won outright with 9.5 points ahead of a nine-way tie f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kamsky-duda-win-titled-tuesday-june-13-2023",
+         "pubDate" : "Wed, 14 Jun 2023 08:19:08 -0700",
+         "title" : "Old Guard, New Guard Both Represent On Tuesday"
+      },
+      {
+         "description" : "Everybody knows one of the most famous chess games ever played, right? Interestingly, Svitlana just recently discovered Anderssen's Immortal game against Kiseritzky! Looking at this game is similar to reading a great book, or watching a fantastic movie over and over again. It never gets old, it is extraordinary, and it is entertaining! But if you also belong to those who never heard of this game before, this is a big treat for you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-anderssen-s-immortal",
+         "pubDate" : "Wed, 14 Jun 2023 15:11:27 +0100",
+         "title" : "Svitlana's Smart Moves - Anderssen's Immortal"
+      },
+      {
+         "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan One of the most obvious and difficult things to do as part of your chess preparation is to practice daily. You may mention that you play online daily, and you might add the number of games played to make a convincing argument. That could <a href=\"https://chessimprover.com/stalemate-tuesday-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-3/\">Stalemate Tuesday (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/stalemate-tuesday-3/",
+         "pubDate" : "Wed, 14 Jun 2023 14:03:01 +0000",
+         "title" : "Stalemate Tuesday (3)"
+      },
+      {
          "description" : "More than 30 years since its inception, 'First Saturday' is still going strong. Constantly reinventing itself, it has been kicking and running against all odds. Most of today's top professionals have succumbed to the attraction of this ingenious concept that aims at providing chess players with the opportunity to earn norms and subsequently further their chess career. The model has been adopted by many organisers at various corners of the globe, but the credit for the original set up goes to Laszlo Nagy, known as Mr First Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/raunak-vs-samadov-junior-speed-chess-quaterfinal/",
          "pubDate" : "Tue, 13 Jun 2023 19:15:00 +0000",
          "title" : "Raunak vs. Samadov - Junior Speed Chess Quaterfinal"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Tue, 13 Jun 2023 18:50:00 +0100",
-         "title" : "Armageddon Series - Live from 19.00 CEST!"
       },
       {
          "description" : "The ninth round of the Cairns Cup saw Alexandra Kosteniuk grabbing a third consecutive win to secure clear second place in the final standings. Kosteniuk defeated Elisabeth Paehtz with black, while Irina Krush, who was sharing second place with Kosteniuk before the final round, failed to get the better of tournament winner Anna Zatonskih in a tricky endgame. In the other decisive game of the day, Nana Dzagnidze defeated Gunay Mammadzada. | Photo: Crystal Fuller",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-1",
          "pubDate" : "Sat, 03 Jun 2023 20:13:00 -0700",
          "title" : "Decisive Start: Kosteniuk Defeats Defending Champion"
-      },
-      {
-         "description" : "GM Fabiano Caruana continues to surge in Norway Chess 2023 and in the world rankings after with Black defeating GM Alireza Firouzja in the classical game. He leads the tournament by four points (!) with 10.5/12 and overtakes Firouzja as number two...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-4",
-         "pubDate" : "Sat, 03 Jun 2023 15:18:00 -0700",
-         "title" : "World Number-2 Caruana Leads By 4, Gukesh Sacrifices Queen Vs. Carlsen"
       },
       {
          "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
