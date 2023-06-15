@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #572 Merijn van Delft analyses how Hikaru Nakamura defeated Fabiano Caruana in the final round of the Norway Chess Tournament. With this game Nakamura also won the tournament and moved up to number two in the live rankings. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-572-h-nakamura-vs-f-caruana",
+         "pubDate" : "Thu, 15 Jun 2023 10:27:51 +0100",
+         "title" : "Game of the Week #572: H. Nakamura vs F. Caruana"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival will take place on June 21-30 at the Don Giovanni Hotel in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna (pictured) as the top seeds. The lineup also includes German star Vincent Keymer and David Navara who, like Shankland, has been invited to all five editions of the Masters. | Photo: Vladim&iacute;r Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-preview",
+         "pubDate" : "Thu, 15 Jun 2023 10:00:00 +0100",
+         "title" : "Wang, Shankland and Harikrishna head Prague Masters lineup"
+      },
+      {
          "description" : "The Cairns Cup is the strongest privately organized women's tournament in the world. The third edition of the event came to an end on Monday, with Anna Zatonskih stunning the chess world by winning the closed competition with a round to spare. Alexandra Kosteniuk finished in second place, after grabbing three wins in a row in the final rounds. On Sunday, she defeated Bella Khotenashvili in a game that featured four queens on the board amid a fantastic tactical struggle. | Robert Ris analysed the formidable encounter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-fritztrainer-review",
          "pubDate" : "Wed, 14 Jun 2023 20:00:00 +0100",
          "title" : "Gukesh: Attack like a Super Grandmaster - A review"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Europe & Africa\", the fourth event of the cycle developed by World Chess, is taking place on June 12-18 in Berlin. Michael Adams, Matthias Bluebaum, Vincent Keymer, Jan-Krzystof Duda, Alexander Donchenko, Jorden Van Foreest, Richard Rapport, and Maxime Vachier-Lagrave play a double-elimination blitz knockout, as they battle for two spots in the series' Grand Finale. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Wed, 14 Jun 2023 18:50:00 +0100",
-         "title" : "Armageddon Series, Day 3 - Live from 19.00 CEST!"
       },
       {
          "description" : "The June 13 edition of Titled Tuesday was won by GMs Gata Kamsky in the early event and Jan-Krzysztof Duda late. The 49-year-old Kamsky, who challenged for the FIDE World Championship in 1996, won outright with 9.5 points ahead of a nine-way tie f...",
@@ -498,6 +506,14 @@ news_feed (
          "title" : "Divya, Mary bag gold-silver in Asian Women's Chess"
       },
       {
+         "description" : "After two straight months with the monthly video featuring the recent World Championship, it's time for some light entertainment. The actors in this clip have nearly six million subscribers on their channel, plus millions of views and thousands of comments on this video. They are definitely doing something right. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/fmfW35fSE1o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Human Chess In Real Life</B> (18:31) &#149; '[Published on] Jun 9, 2023' <P> The description of the video didn't e",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/bond-siblings-bond.html",
+         "pubDate" : "Sun, 11 Jun 2023 15:10:00 +0000",
+         "title" : "Bond, Siblings Bond"
+      },
+      {
          "description" : " IM Gary Lane leads the 2023 NSW Open on 5/5, at then of the 2nd day of play. He started of with a win over Willis Lo in round 3, before beating Harry Press in round 4, and Samuel Asaka in the final round. He leads Sterling Bayaca by half a point, and the 2 players face each other in round 6. A group of 6 players trail Lane by a full point, including top seed IM Mihajlo Radovanovic. Radovanovic missed 2 rounds today due to work commitments, but returned to beat FM Jack Rodgers in the 5th round. Trent Parker leads the Minor on 5/5, a half point ahead of Terry Gao and Jonluke Corona. Gao and Parker play in round 6, while Corona is up against Roland Brockman. Round 6 starts at 9:30 am tomorrow,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cairns-cup-2023-r4",
          "pubDate" : "Wed, 07 Jun 2023 13:00:00 +0100",
          "title" : "Cairns Cup: Zatonskih beats Kosteniuk, leads"
-      },
-      {
-         "description" : "In round 7 of the Norway Chess Tournament, the duels between Magnus Carlsen and Alireza Firouzja and Hikaru Nakamura (photo) and Shakhriyar Mamedyarov provided spectacular top chess - with ups and downs and many exciting moments. | Photos: Lennart Ootes/Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-a-colourful-7th-round-in-stavanger",
-         "pubDate" : "Wed, 07 Jun 2023 11:12:57 +0100",
-         "title" : "Norway Chess: A colourful 7th round in Stavanger"
       },
       {
          "description" : "IM Anna Zatonskih outplayed joint overnight leader GM Alexandra Kosteniuk with admirable strategic play from the black side of a French Defense to jump into the sole lead with three points after the fourth round of the Cairns Cup 2023 on Tuesday. ...",
