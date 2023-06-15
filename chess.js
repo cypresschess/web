@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Aleksandar Indjic and WIM Marina Gajcin are the new chess champions of Serbia. Indjic notched up his fourth victory in the national championship, while Gajcin took her maiden title. The Serbian Championships 2023 took place on June 6-14 in Senta, with the open and women's tournaments running concurrently. Both competitions were 10-player round robins with classical time controls. | Photos: Serbian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/serbian-championships-2023-indjic-gajcin-winners",
+         "pubDate" : "Thu, 15 Jun 2023 16:00:00 +0100",
+         "title" : "Serbian Championships: Aleksandar Indjic and Marina Gajcin clinch titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Juniors/england-world-u16-team-selected/#new_tab",
+         "pubDate" : "Thu, 15 Jun 2023 13:48:41 +0000",
+         "title" : "England World U16 team selected"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101021816.cms\" />Nihal Sarin has already earned a name for himself as one of the most promising chess players of the current era, and the 18-year-old Indian is now eager to emerge a stronger player while competing with accomplished Grandmasters during the upcoming Global Chess League (GCL).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-nihal-sarin-keen-to-emerge-stronger-player-from-gcl-experience/articleshow/101021816.cms",
+         "pubDate" : "Thu, 15 Jun 2023 12:14:58 +0000",
+         "title" : "Nihal Sarin keen to emerge stronger player from GCL experience"
+      },
+      {
+         "description" : " In chess there is often a fine line between winning and losing. At the club level, almost every game contains one or more missed chances, often not noticed until the silicon monster goes to work. And so it was on Tuesday night at the Eastlake Gungahlin Chess Club. Ian Hosking went down in flames against Jerry Cheng, after Cheng sacrificed a rook for a devastating attack. But a few moves earlier, Hosking had the chance to play an unexpected, but incredibly strong move, which would probably have flipped the result from a loss to a win. Can you spot it? <br /> <b>Hosking,Ian - Cheng,Jerry [B13]</b><br /> Belconnen Cup 13.06.2023 <script> new PgnViewer( { boardName: \"game1404\", movesFormat: \"de",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/one-way-or-another.html",
+         "pubDate" : "Thu, 15 Jun 2023 11:44:00 +0000",
+         "title" : "One way or another "
+      },
+      {
          "description" : "In his Game of the Week show #572 Merijn van Delft analyses how Hikaru Nakamura defeated Fabiano Caruana in the final round of the Norway Chess Tournament. With this game Nakamura also won the tournament and moved up to number two in the live rankings. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -898,14 +930,6 @@ news_feed (
          "title" : "International Schools Festival 2023 in Ploiesti: 12 teams will be considered as \"invited teams\""
       },
       {
-         "description" : "An eventful fourth round at the Cairns Cup saw both co-leaders losing their games, allowing Anna Zatonskih to climb to sole first place in Saint Louis. Zatonskih defeated Alexandra Kosteniuk from the black side of a French Defence, while Bella Khotenashvili got the better of Irina Krush, who had caught Kosteniuk in the lead after winning her round-3 encounter. The third decisive game of the day saw Nana Dzagnidze beating Humpy Koneru. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r4",
-         "pubDate" : "Wed, 07 Jun 2023 13:00:00 +0100",
-         "title" : "Cairns Cup: Zatonskih beats Kosteniuk, leads"
-      },
-      {
          "description" : "IM Anna Zatonskih outplayed joint overnight leader GM Alexandra Kosteniuk with admirable strategic play from the black side of a French Defense to jump into the sole lead with three points after the fourth round of the Cairns Cup 2023 on Tuesday. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1064,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2440",
          "pubDate" : "Mon, 05 Jun 2023 09:22:42 +0000",
          "title" : "World Rapid Team Championship: Preliminary list of participants announced"
-      },
-      {
-         "description" : "A number of junior bursaries are available for participants in the Northumbria Masters Congress (24-28 August, Newcastle upon Tyne), thanks to generous support from the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/northumbria-masters-junior-bursaries/",
-         "pubDate" : "Mon, 05 Jun 2023 09:02:03 +0000",
-         "title" : "Northumbria Masters Junior Bursaries"
       },
       {
          "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov with Black beat GM Fabiano Caruana in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
@@ -1536,22 +1552,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/2023-cja-awards-announcement.html",
          "pubDate" : "Thu, 25 May 2023 15:50:00 +0000",
          "title" : "2023 CJA Awards Announcement"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2422",
-         "pubDate" : "Thu, 25 May 2023 13:49:34 +0000",
-         "title" : "FIDE World Cadet Championships U8, U10 and U12: Registration is open"
-      },
-      {
-         "description" : " The 2023 Sharjah Masters is finishing today, and based on the current games in progress 6/9 may well be the winning score. On the one hand this is a low score for a 78 player event, but understandable when you see that it is an all GM tournament. Of course this will result in a large tie for 1st, unless someone on the top boards finds a way of converting an advantage (But wait, Erigaisi has a forced mate as I type this). One player who has played win/lose chess has been Australian Champ Temur Kuybokarov, he is 4.5/8 at the moment, with 4 wins, 3 losses and a single draw. One of his wins was against GM Salem Saleh, where he was outrated by almost 100 points. <br /> <b>Temur Kuybokarov - A.R.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/3-for-win.html",
-         "pubDate" : "Thu, 25 May 2023 13:48:00 +0000",
-         "title" : "+3 for the win?"
       }
    ]
 }
