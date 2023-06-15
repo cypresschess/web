@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid Play-In featured a number of top-notch grandmasters, who had to go through a difficult open event to fight for a spot in the next stage of the Champions Chess Tour. Magnus Carlsen, Wesley So, Levon Aronian and Eduardo Iturrizaga made it through in the end. GM Karsten M&uuml;ller followed the games closely and highlighted a few instructive endgames for us to learn from. Find here four examples which showcase the technical ability of Carlsen, So, Daniil Dubov and Bogdan-Daniel Deac. | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-endgames",
+         "pubDate" : "Fri, 16 Jun 2023 00:10:00 +0100",
+         "title" : "Carlsen, Dubov and So showcase their endgame prowess"
+      },
+      {
+         "description" : "GM Gukesh D secured his spot in the 2023 Junior Speed Chess Championship Final by winning his semifinal match against GM Pranav V 16.5-10.5. After an unexpectedly strong start by Pranav, where he started the 5+1 portion with a 3-point lead, Guke...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-semifinals-gukesh",
+         "pubDate" : "Thu, 15 Jun 2023 13:55:00 -0700",
+         "title" : "Gukesh Spreads Wings After Shocking Start, Advances To Final"
+      },
+      {
          "description" : "The Kasparov Chess Foundation, in association with the European Chess Academy and the Trainers Commission of the European Chess Union, present the first European conference for chess trainers. The event will take place during the SuperUnited Rapid & Blitz tournament in Zagreb, the third stage of this year's Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -834,14 +850,6 @@ news_feed (
          "title" : "New: Christian Bauer - The Alekhine revitalised"
       },
       {
-         "description" : "Before round 5 of the Cairns Cup began, the organizers announced that Humpy Koneru had to withdraw due to medical issues. Humpy's games in the first four rounds will not be counted in the tournament standings, though they will be rated by FIDE. In the fifth round, Bella Khotenashvili scored a third consecutive victory, as she defeated Nana Dzagnidze after the latter failed to make the most of a deadly kingside attack. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r5",
-         "pubDate" : "Thu, 08 Jun 2023 14:05:00 +0100",
-         "title" : "Cairns Cup: Khotenashvili wins again, Humpy withdraws"
-      },
-      {
          "description" : " I'm heading off to the NSW Open tomorrow. This weekend is quite popular with various chess associations, as it is a good weekend to hold a 3 (or 4) day chess event. Unlike Easter, which is dominated by the Doeberl Cup, each Federation usually does it's own thing. The one change this year is of course the title of the weekend. It kind of feels strange to call it the \"King's Birthday Weekend\". In fact this will be the first title change since I began playing tournament chess, especially as the first weekend event I played in was the NSW Queen's Birthday Weekender way back in 1983. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2440",
          "pubDate" : "Mon, 05 Jun 2023 09:22:42 +0000",
          "title" : "World Rapid Team Championship: Preliminary list of participants announced"
-      },
-      {
-         "description" : "Round five of Norway Chess 2023 was a dramatic turning point as GM Shakhriyar Mamedyarov with Black beat GM Fabiano Caruana in the classical portion. With a win over GM Aryan Tari, GM Hikaru Nakamura regained the world number-two spot for the firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-5",
-         "pubDate" : "Sun, 04 Jun 2023 15:47:00 -0700",
-         "title" : "Nakamura World Number-2 For First Time Since 2015, Mamedyarov Showstops Caruana"
       },
       {
          "description" : "",
@@ -1552,14 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2424",
          "pubDate" : "Fri, 26 May 2023 00:44:47 +0000",
          "title" : "Magnus Carlsen wins 2023 Superbet Rapid & Blitz Poland"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2423",
-         "pubDate" : "Thu, 25 May 2023 20:14:10 +0000",
-         "title" : "FIDE WGP: Three-way tie in Cyprus with two rounds to go "
       }
    ]
 }
