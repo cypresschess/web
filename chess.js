@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is the strongest privately organized women's tournament in the world. The third edition of the event came to an end on Monday, with Anna Zatonskih stunning the chess world by winning the closed competition with a round to spare. Alexandra Kosteniuk finished in second place, after grabbing three wins in a row in the final rounds. On Sunday, she defeated Bella Khotenashvili in a game that featured four queens on the board amid a fantastic tactical struggle. | Robert Ris analysed the formidable encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-four-queens",
+         "pubDate" : "Thu, 15 Jun 2023 02:00:00 +0100",
+         "title" : "Robert Ris: Playing with four queens on the board!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-jscc-quarterfinals-raunak-lazavik",
-         "pubDate" : "Wed, 14 Jun 2023 14:08:48 -0700",
+         "pubDate" : "Wed, 14 Jun 2023 14:08:00 -0700",
          "title" : "Raunak, Lazavik Both Win Blowouts, Advance To Semifinals"
       },
       {
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-blitzchamps-ii",
-         "pubDate" : "Wed, 14 Jun 2023 14:00:02 -0700",
+         "pubDate" : "Wed, 14 Jun 2023 14:00:00 -0700",
          "title" : "Who Is The NFL's Best Chess Player? Stars Line-Up For BlitzChamps II Tournament"
       },
       {
@@ -890,14 +898,6 @@ news_feed (
          "title" : "Norway Chess: A colourful 7th round in Stavanger"
       },
       {
-         "description" : "You probably have discovered the good news already - Svitlana made a new Fritztrainer: The Leningrad Dutch Defence! The Dutch Defence is a stable counter to the common opening moves 1.d4, c4 or Nf3. The Leningrad variation is particularly fun to play. Svitlana knows the opening by heart, as she played it herself for many years, and recently was close to a win against an IM (who is about to reach 2500) with this very opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-play-the-leningrad-dutch-defence",
-         "pubDate" : "Wed, 07 Jun 2023 07:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - How to play the Leningrad Dutch Defence"
-      },
-      {
          "description" : "IM Anna Zatonskih outplayed joint overnight leader GM Alexandra Kosteniuk with admirable strategic play from the black side of a French Defense to jump into the sole lead with three points after the fourth round of the Cairns Cup 2023 on Tuesday. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1544,22 +1544,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/3-for-win.html",
          "pubDate" : "Thu, 25 May 2023 13:48:00 +0000",
          "title" : "+3 for the win?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2420",
-         "pubDate" : "Thu, 25 May 2023 01:35:24 +0000",
-         "title" : "Georg Meier wins American Continental Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2421",
-         "pubDate" : "Thu, 25 May 2023 00:15:44 +0000",
-         "title" : "2023 GCT Superbet Rapid & Blitz Poland: Day 4 Recap"
       }
    ]
 }
