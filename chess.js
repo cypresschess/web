@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation, in association with the European Chess Academy and the Trainers Commission of the European Chess Union, present the first European conference for chess trainers. The event will take place during the SuperUnited Rapid & Blitz tournament in Zagreb, the third stage of this year's Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-europea-trainers-conference-2023",
+         "pubDate" : "Thu, 15 Jun 2023 20:15:00 +0100",
+         "title" : "Kasparov keynote speaker at the KCF European Trainers Conference"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2460",
+         "pubDate" : "Thu, 15 Jun 2023 18:58:17 +0000",
+         "title" : "Qualified teams for the FIDE World Women's Team Championship"
+      },
+      {
+         "description" : "Keymer vs. Duda, Rapport vs. MVL - Day 4 of the Armageddon series in Berlin promises exciting chess entertainment. Both matches consist of two 3+2 blitz games, followed by an Armageddon game if the match is tied after the blitz games. | Live from 19:00, with commentary by Jovanka Houska and Simon Williams. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Thu, 15 Jun 2023 18:30:00 +0100",
+         "title" : "Armageddon Series, Day 4 - Live from 19.00 CEST!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2459",
+         "pubDate" : "Thu, 15 Jun 2023 16:10:20 +0000",
+         "title" : "FIDE World Championships 2024 Call for Bids: One month to the deadline"
+      },
+      {
          "description" : "GM Aleksandar Indjic and WIM Marina Gajcin are the new chess champions of Serbia. Indjic notched up his fourth victory in the national championship, while Gajcin took her maiden title. The Serbian Championships 2023 took place on June 6-14 in Senta, with the open and women's tournaments running concurrently. Both competitions were 10-player round robins with classical time controls. | Photos: Serbian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "Global Chess League: Anand joins Ganges Grandmasters"
       },
       {
-         "description" : "The new Hamburg champion is Arne Bracker, whom many ChessBase customers know from his work at the ChessBase Support. In nine rounds, Arne Bracker did not lose a single game, leaving Elo favourite Malte Colpe behind. Winning the tournament means that Arne has qualified for the German Championships. | Photo: Christoph Schroeder (4.) - Arne Bracker (1.) . Malte Colpe (3.) - Robin Keyser (2.) (Hamburger Schachverband).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-employee-arne-bracker-wins-hamburg-championship",
-         "pubDate" : "Wed, 07 Jun 2023 17:00:00 +0100",
-         "title" : "ChessBase employee Arne Bracker wins Hamburg Championship"
-      },
-      {
          "description" : "After the young GM Pranesh M won the early Titled Tuesday on June 6, a more familiar face won the late tournament despite playing in Norway Chess earlier in the day: GM Hikaru Nakamura. It was actually Nakamura&#39;s first win in the event since April...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -912,14 +936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-norway-chess-round-7",
          "pubDate" : "Wed, 07 Jun 2023 07:21:00 -0700",
          "title" : "3 Americans Lead In Norway; So, Giri Pick Up First Wins; Carlsen Struggles Vs. Firouzja"
-      },
-      {
-         "description" : "It's a heartening story: a strong chess grandmaster visits a correctional facility to inspire the inmates for the game he excels in. Uzbek American GM Timur Gareyev, holder of the world blindfold record, gave simul displays, blindfold sessions, and even lessons during his visit. Tony Ballard, the Director of Prison Outreach program of The \"The Gift of Chess\", describes the GM visit and his own rehabilitation with chess guiding his life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-timur-gareyev-at-the-kdoc-s-lanard-mental-health-facility",
-         "pubDate" : "Wed, 07 Jun 2023 15:00:00 +0100",
-         "title" : "GM Timur Gareyev visits the KDOC's Larned Mental Health Facility"
       },
       {
          "description" : "",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2423",
          "pubDate" : "Thu, 25 May 2023 20:14:10 +0000",
          "title" : "FIDE WGP: Three-way tie in Cyprus with two rounds to go "
-      },
-      {
-         "description" : "The May 2023 issue of <I>Chess Life</I> (CL) carried the annual kickoff announcement for the Chess Journalists of America (CJA) awards. The call for entries started, <BLOCKQUOTE> The CJA awards recognize the best in all facets of chess journalism, both print and online. The best chess articles, columns, photojournalism, layout, and online writing are honored within their respective categories. Recognized annually by their peers, the public, and members of CJA, the prestigious awards showcase American works published in English between June 1, 2022, and May 31, 2023. </BLOCKQUOTE> <P> The list of award categories is online at <A HREF=\"https://chessjournalism.org/award-categories/\">CJA Award C",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/2023-cja-awards-announcement.html",
-         "pubDate" : "Thu, 25 May 2023 15:50:00 +0000",
-         "title" : "2023 CJA Awards Announcement"
       }
    ]
 }
