@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2461",
+         "pubDate" : "Fri, 16 Jun 2023 10:10:09 +0000",
+         "title" : "FIDE Fair Play Seminar in Baku, Azerbaijan, during World Cup 2023 announced"
+      },
+      {
+         "description" : "Endgame theory consists of various concepts. Unlike the opening, the theory in the endgame is not getting influenced by the computer. Knowing certain concepts will always help to understand various endgame theories. Correspondence squares is one of those must-know concepts. Is it only limited to pawn endgame? GM Sundararajan Kidambi explores a concept which he found quite complex since his childhood. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/theory-of-corresponding-squares-kidambi",
+         "pubDate" : "Fri, 16 Jun 2023 10:00:00 +0100",
+         "title" : "Theory of corresponding squares"
+      },
+      {
          "description" : " Entry is free, the prize fund is expected to be &pound;2,500 and the winner qualifies for the 2024 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in considerable numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <a href=\"https://www.theguardian.com/sport/2023/jun/16/chess-national-solving-championship-2023-open-for-entries-from-britain\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2460",
          "pubDate" : "Thu, 15 Jun 2023 18:58:17 +0000",
          "title" : "Qualified teams for the FIDE World Women's Team Championship"
-      },
-      {
-         "description" : "Keymer vs. Duda, Rapport vs. MVL - Day 4 of the Armageddon series in Berlin promises exciting chess entertainment. Both matches consist of two 3+2 blitz games, followed by an Armageddon game if the match is tied after the blitz games. | Live from 19:00, with commentary by Jovanka Houska and Simon Williams. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Thu, 15 Jun 2023 18:30:00 +0100",
-         "title" : "Armageddon Series, Day 4 - Live from 19.00 CEST!"
       },
       {
          "description" : "",
@@ -184,6 +192,14 @@ news_feed (
          "link" : "https://www.chessdom.com/us-womens-national-open-2023/",
          "pubDate" : "Thu, 15 Jun 2023 02:00:00 +0000",
          "title" : "US Women's National Open 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2456",
+         "pubDate" : "Thu, 15 Jun 2023 01:39:30 +0000",
+         "title" : "FIDE World Cup 2023: Useful information for players"
       },
       {
          "description" : "The Cairns Cup is the strongest privately organized women's tournament in the world. The third edition of the event came to an end on Monday, with Anna Zatonskih stunning the chess world by winning the closed competition with a round to spare. Alexandra Kosteniuk finished in second place, after grabbing three wins in a row in the final rounds. On Sunday, she defeated Bella Khotenashvili in a game that featured four queens on the board amid a fantastic tactical struggle. | Robert Ris analysed the formidable encounter.",
@@ -328,14 +344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cairns-cup-2023-r9",
          "pubDate" : "Tue, 13 Jun 2023 18:30:00 +0100",
          "title" : "Cairns Cup: Alexandra Kosteniuk clinches second place"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2456",
-         "pubDate" : "Tue, 13 Jun 2023 15:39:30 +0000",
-         "title" : "FIDE World Cup 2023: Useful information for players"
       },
       {
          "description" : "An ECF Level 1 Arbiter course was held in person over the weekend of 10th and 11th June at Bridge, in Kent. 11 candidates were...",
@@ -512,6 +520,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-243-endgame-highlights-from-the-sharjah-masters",
          "pubDate" : "Mon, 12 Jun 2023 18:00:00 +0100",
          "title" : "Endgame Magic #243: Endgame Highlights from the Sharjah Masters"
+      },
+      {
+         "description" : "It's time for another fortnightly report on the world's top two engine vs. engine chess competitions. For the previous report, see <A HREF=\"https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html\">TCEC FRC6, CCC20 Rapid Finals; Both Underway</A> (May 2023). Following is a summary of that report. <BLOCKQUOTE> TCEC: The site launched a chess960 event, 'S24 FRC6', which is currently in the 'First phase - League C', the third of four preliminary six-engine double round robins. &#149; CCC: The engine Mystery played five 100-game matches, In the 'CCC20 Rapid Challenger Match' Lc0 beat Dragon 129.5-120.5, and is currently losing to Stockfish by seven points in the 'Fina",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html",
+         "pubDate" : "Mon, 12 Jun 2023 15:54:00 +0000",
+         "title" : "TCEC FRC6, CCC20 Rapid; Stockfish Wins Both"
       },
       {
          "description" : "",
