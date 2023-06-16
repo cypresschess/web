@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King looks at the remarkable move ...Rg8 played in the game between Aryan Tari and Nodirbek Abdusattorov at the Norway Chess super-tournament. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-action-on-the-g-file",
+         "pubDate" : "Fri, 16 Jun 2023 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Action on the g-file"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -874,14 +882,6 @@ news_feed (
          "title" : "Winners crowned at FIDE World Rapid U8-18 2023 in Batumi"
       },
       {
-         "description" : "The Alekhine (1.e4 Nf6) is a rare guest in general and especially at a high-level. During the pandemic, however, this daring opening has been employed on several occasions, notably by the World Champion Magnus Carlsen. A faster time-control and perhaps the unusual atmosphere created by online games probably helped some players unleash, from time to time, a marginal opening to surprise their opponents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-christian-bauer-the-alekhine-revitalised",
-         "pubDate" : "Thu, 08 Jun 2023 19:05:54 +0100",
-         "title" : "New: Christian Bauer - The Alekhine revitalised"
-      },
-      {
          "description" : " I'm heading off to the NSW Open tomorrow. This weekend is quite popular with various chess associations, as it is a good weekend to hold a 3 (or 4) day chess event. Unlike Easter, which is dominated by the Doeberl Cup, each Federation usually does it's own thing. The one change this year is of course the title of the weekend. It kind of feels strange to call it the \"King's Birthday Weekend\". In fact this will be the first title change since I began playing tournament chess, especially as the first weekend event I played in was the NSW Queen's Birthday Weekender way back in 1983. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1544,22 +1544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2426",
          "pubDate" : "Fri, 26 May 2023 19:44:51 +0000",
          "title" : "The final round will decide the winner of Cyprus Grand Prix and two Women's Candidates"
-      },
-      {
-         "description" : " The first round of the 2023 ACT Championship saw most of the top seeds get through without too much trouble. It wasn't until board 15 that the results started to go against rating. Mark Scully was beaten quite convincingly by Owen MacMullin, while Olaoluwa Fasakin upset fellow junior Larry Cheng. The top 4 boards saw fairly easy wins for the top seeds, although FM Michael Kethro had to overcome determined resistance from Joshua Liang. The tournament saw a larger than usual field of 55 players, which would have been larger (and stronger) if not for a few dop outs due to the flue and similar ailments (NB It was 1 degree above 0 when I left the venue this evening). The new venue (Eastlakes Clu",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-1.html",
-         "pubDate" : "Fri, 26 May 2023 13:49:00 +0000",
-         "title" : "2023 ACT Championship - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2425",
-         "pubDate" : "Fri, 26 May 2023 11:59:51 +0000",
-         "title" : "Icelandic Championship: Vignir Vatnar Stef&aacute;nsson wins maiden title"
       }
    ]
 }
