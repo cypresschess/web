@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Raunak Sadhwani convincingly defeated GM Denis Lazavik to attain the second spot in the 2023 Junior Speed Chess Championship Final. The match was a one-sided affair in the first two segments, and despite an early scare in the bullet, Raunak reg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-semifinals-raunak",
+         "pubDate" : "Fri, 16 Jun 2023 13:26:00 -0700",
+         "title" : "Indian Juniors Rock JSCC; Raunak Advances To Final Vs. Gukesh"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s recent win over Magnus Carlsen. Recommended rating level: 1800+. 2023.07.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-masters-gm-yasser-seirawan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H3JAAvdy69g.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/monday-masters-gm-yasser-seirawan",
+         "pubDate" : "Fri, 16 Jun 2023 19:59:46 +0000",
+         "title" : "Monday Masters' - GM Yasser Seirawan"
+      },
+      {
          "description" : "In a new article published on Forbes India, former world champion Vishy Anand reflects on how India has come to be recognised as a global chess powerhouse. Anand writes: \"So, when I started the academy with Westbridge Capital, the idea wasn't just to get Indians to play chess, but to see how we can get Indians to the very top\". | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,14 +146,6 @@ news_feed (
          "title" : "Qualified teams for the FIDE World Women's Team Championship"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2459",
-         "pubDate" : "Thu, 15 Jun 2023 16:10:20 +0000",
-         "title" : "FIDE World Championships 2024 Call for Bids: One month to the deadline"
-      },
-      {
          "description" : "GM Aleksandar Indjic and WIM Marina Gajcin are the new chess champions of Serbia. Indjic notched up his fourth victory in the national championship, while Gajcin took her maiden title. The Serbian Championships 2023 took place on June 6-14 in Senta, with the open and women's tournaments running concurrently. Both competitions were 10-player round robins with classical time controls. | Photos: Serbian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,6 +264,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-four-queens",
          "pubDate" : "Thu, 15 Jun 2023 02:00:00 +0100",
          "title" : "Robert Ris: Playing with four queens on the board!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2459",
+         "pubDate" : "Thu, 15 Jun 2023 00:10:20 +0000",
+         "title" : "FIDE World Championships 2024 Call for Bids: One month to the deadline"
       },
       {
          "description" : "",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-cup-2023-sneak-peek",
          "pubDate" : "Tue, 13 Jun 2023 01:00:00 +0100",
          "title" : "Carlsen, Nepo and Ju Wenjun to play at the FIDE World Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Almira Skripchenko after a draw with Dronavalli in the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khotenashvili-didn%E2%80%99t-worry-about-early-losses-it-worked-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53fgXKOWVRQ.jpg?itok=1BoMI-hS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khotenashvili-didn%E2%80%99t-worry-about-early-losses-it-worked-r9-cairnscup",
-         "pubDate" : "Mon, 12 Jun 2023 22:45:01 +0000",
-         "title" : "Khotenashvili: Didn't Worry About Early Losses, & It Worked! | R9 #CairnsCup"
       },
       {
          "description" : " My second knight ending from our club online tournament a couple of weeks ago was, in truth, one of the most boring games I've played in the past 60 years, and, as most of my games are extremely boring, that's quite an achievement. I guess you must be reasonably happy if you get a Weighted Error <a href=\"https://chessimprover.com/knight-fever-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-2/\">Knight Fever (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1074,14 +1082,6 @@ news_feed (
          "title" : "ECU E-Magazine May 2023"
       },
       {
-         "description" : "GM Irina Krush scored another victory and caught the leader, GM Alexandra Kosteniuk, in round three of the Cairns Cup 2023 on Monday. The eight-time U.S. women&#39;s champion perceptively squeezed the full point out of a bishop ending vs. GM Nana Dzag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-3",
-         "pubDate" : "Mon, 05 Jun 2023 21:10:00 -0700",
-         "title" : "Gambits Galore: Krush Catches Kosteniuk"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1544,14 +1544,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
          "pubDate" : "Sat, 27 May 2023 13:18:00 +0400",
          "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2426",
-         "pubDate" : "Fri, 26 May 2023 19:44:51 +0000",
-         "title" : "The final round will decide the winner of Cyprus Grand Prix and two Women's Candidates"
       }
    ]
 }
