@@ -98,6 +98,22 @@ news_feed (
          "title" : "Wang, Shankland and Harikrishna head Prague Masters lineup"
       },
       {
+         "description" : "The Slovak Amateur Championship is taking place from 15&#x2013;18 June 2023 in Liptovsk&#xFD; J&#xE1;n,, Slovakia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is an 8-round Swiss tournament with participation of Patrik Stevik, Rao Sharan, Jozef Fenik, Marek Pniaczek, Jain Jeet, Lukas Bango, Adrian Gyerpal, Adrian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/slovak-amateur-championship-2023-live/",
+         "pubDate" : "Thu, 15 Jun 2023 03:30:00 +0000",
+         "title" : "Slovak Amateur Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Slovak Amateur Championship is an 8-round Swiss tournament taking place from 15&#x2013;18 June 2023 in Liptovsk&#xFD; J&#xE1;n,, Slovakia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. More :Yoo vs. Pranav V Junior Speed Chess Quaterfinal / Raunak vs. Samadov []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/slovak-amateur-championship-2023/",
+         "pubDate" : "Thu, 15 Jun 2023 03:00:00 +0000",
+         "title" : "Slovak Amateur Championship 2023"
+      },
+      {
          "description" : "The Cairns Cup is the strongest privately organized women's tournament in the world. The third edition of the event came to an end on Monday, with Anna Zatonskih stunning the chess world by winning the closed competition with a round to spare. Alexandra Kosteniuk finished in second place, after grabbing three wins in a row in the final rounds. On Sunday, she defeated Bella Khotenashvili in a game that featured four queens on the board amid a fantastic tactical struggle. | Robert Ris analysed the formidable encounter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,28 +370,12 @@ news_feed (
          "title" : "Armageddon in Berlin: Day 1 - Duda wins against Adams, Keymer beats Donchenko"
       },
       {
-         "description" : "The USA's Christopher Yoo takes on India's Pranav V in the quarterfinals of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes of 1+1 bullet games. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yoo-vs-pranav-v-junior-speed-chess-quaterfinal/",
-         "pubDate" : "Tue, 13 Jun 2023 07:00:00 +0000",
-         "title" : "Yoo vs. Pranav V - Junior Speed Chess Quaterfinal"
-      },
-      {
          "description" : "Remember The Queen's Gambit? It was released in October 2020, and became Netflix's most-watched scripted miniseries, making it the top program in 63 countries. The series received high critical acclaim, but also resulted in a massive general interest in the game. Now Netflix is poised to release a game that combines the story and character elements from the show, while training players the strategy of the game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/queen-s-gambit-chess",
          "pubDate" : "Tue, 13 Jun 2023 08:00:00 +0100",
          "title" : "Queen's Gambit Chess"
-      },
-      {
-         "description" : "The Colonia Sant Jordi 2023 GM is taking place from 09-17 of June 2023 in Colonia de Sant Jordi, Mallorca, Spain. Time control is 90 minutes for 40 moves, followed by 15 minutes for the rest of the game, with a 30-second increment beginning from move one. It is a 10-player round-robin tournament. More : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/colonia-sant-jordi-2023-gm-norm-live/",
-         "pubDate" : "Tue, 13 Jun 2023 06:00:00 +0000",
-         "title" : "Colonia Sant Jordi 2023 - GM Norm - LIVE"
       },
       {
          "description" : "The last round of the Cairns Cup 2023 featured an epic matchup between&#38;nbsp;IM Anna Zatonskih and her longtime U.S. Women&#39;s Championship rival GM Irina Krush.&#38;nbsp;Further cementing her tournament victory, Zatonskih held off Krush&#39;s pressure in th...",
@@ -1544,14 +1544,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/may/26/chess-carlsen-loses-to-a-pole-in-poland-with-polish-defence-before-winning-run",
          "pubDate" : "Fri, 26 May 2023 07:00:29 +0000",
          "title" : "Chess: Carlsen loses to a Pole in Poland with Polish Defence before winning run"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2424",
-         "pubDate" : "Fri, 26 May 2023 00:44:47 +0000",
-         "title" : "Magnus Carlsen wins 2023 Superbet Rapid & Blitz Poland"
       }
    ]
 }
