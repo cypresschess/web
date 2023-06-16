@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a new article published on Forbes India, former world champion Vishy Anand reflects on how India has come to be recognised as a global chess powerhouse. Anand writes: \"So, when I started the academy with Westbridge Capital, the idea wasn't just to get Indians to play chess, but to see how we can get Indians to the very top\". | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-forbes-india-2023",
+         "pubDate" : "Fri, 16 Jun 2023 20:00:00 +0100",
+         "title" : "\"People acknowledge India as a powerhouse\": Anand on Forbes India"
+      },
+      {
+         "description" : "Chess.com is excited to announce the relaunch of our College Ambassador Program! This program is designed to empower college students to grow the game of chess across their campus while also receiving perks for their college chess club.&#38;nbsp; Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-new-college-ambassador-program",
+         "pubDate" : "Fri, 16 Jun 2023 11:22:03 -0700",
+         "title" : "Announcing The New College Ambassador Program"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at New Delhi from 08-09 July 23, Pune from 15-16 July 23",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-orientation-workshop/",
+         "pubDate" : "Fri, 16 Jun 2023 18:07:01 +0000",
+         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
+      },
+      {
+         "description" : "Day 5 of the Armageddon Series in Berlin is all about survival. The tournament is played in a double elimination format and on Day 5 the players who have already lost one of their matches will meet. Whoever loses the second will be eliminated, whoever wins can still hope to win the tournament. Vincent Keymer will play Jorden Van Foreest, Alexander Donchenko will play Maxime Vachier-Lagrave. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Fri, 16 Jun 2023 18:30:00 +0100",
+         "title" : "Armageddon Series, Day 5 - Live from 19.00 CEST!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2462",
+         "pubDate" : "Fri, 16 Jun 2023 16:27:39 +0000",
+         "title" : "Schedule and Unique Scoring System Announced for the Inaugural Edition of Global Chess League"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King looks at the remarkable move ...Rg8 played in the game between Aryan Tari and Nodirbek Abdusattorov at the Norway Chess super-tournament. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "FIDE Fair Play Seminar in Baku, Azerbaijan, during World Cup 2023 announced"
       },
       {
-         "description" : "Endgame theory consists of various concepts. Unlike the opening, the theory in the endgame is not getting influenced by the computer. Knowing certain concepts will always help to understand various endgame theories. Correspondence squares is one of those must-know concepts. Is it only limited to pawn endgame? GM Sundararajan Kidambi explores a concept which he found quite complex since his childhood. | Photo: Shahid Ahmed",
+         "description" : "Endgame theory consists of various concepts. Unlike the opening, the theory in the endgame is not getting influenced by the computer. Knowing certain concepts will always help to understand various endgame theories. Correspondence squares is one of those must-know concepts. Is it only limited to pawn endgames? GM Sundararajan Kidambi explores a concept which he found quite complex since his childhood. | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/theory-of-corresponding-squares-kidambi",
@@ -850,28 +890,12 @@ news_feed (
          "title" : "Forthcoming European and World youth chess championships"
       },
       {
-         "description" : "D. Gukesh was the only player to win his classical game in the penultimate round of the Norway Chess Tournament by creating a veritable work of art against Aryan Tari. Hikaru Nakamura lost to Nodirbek Abdusattorov in Armageddon, but still has a chance to win the tournament. Fabiano Caruana remains in the lead, and Magnus Carlsen won his seventh Armageddon game, but with 10.5/24 he is still in the lower part of the table. | Photos: Lenart Ootes/ Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-round-8-gukesh-wins-brilliancy-against-tari",
-         "pubDate" : "Fri, 09 Jun 2023 12:17:37 +0100",
-         "title" : "Norway Chess, Round 8: Gukesh wins brilliancy against Tari"
-      },
-      {
          "description" : "20th September to 02nd October, 2023 Mexico City The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players and accompanying",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-junior-chess-championship-2023/",
          "pubDate" : "Fri, 09 Jun 2023 08:17:06 +0000",
          "title" : "FIDE World Junior Chess Championship - 2023"
-      },
-      {
-         "description" : "Last Monday, 5 June, Ukrainian grandmaster Vadim Malakhatko died of a heart attack in Kyiv. During his career Malakhatko won numerous open tournaments and played for the Ukrainian national team, although he moved to the Belgian Chess Federation in 2007. | Photo: Georgios Souleidis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vadim-malakhatko-1977-2023",
-         "pubDate" : "Fri, 09 Jun 2023 07:45:09 +0100",
-         "title" : "Ukrainian Grandmaster Vadim Malakhatko (1977-2023) dies at the age of 46"
       },
       {
          "description" : "",
@@ -1056,14 +1080,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-3",
          "pubDate" : "Mon, 05 Jun 2023 21:10:00 -0700",
          "title" : "Gambits Galore: Krush Catches Kosteniuk"
-      },
-      {
-         "description" : "There were nine games in round six of Norway Chess 2023, and GM Fabiano Caruana was the only player to win a classical one. With the black pieces, he won for the first time in classical chess against GM Nodirbek Abdusattorov, extending his tournam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-6",
-         "pubDate" : "Mon, 05 Jun 2023 16:48:00 -0700",
-         "title" : "'Same Thing As Basketball: It's All About The 3 Points': Caruana Bounces Back With Black"
       },
       {
          "description" : "",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-10th-title.html",
          "pubDate" : "Mon, 29 May 2023 13:48:00 +0000",
          "title" : "2023 ACT Chess Championship - 10th title for Ikeda"
-      },
-      {
-         "description" : "Senior National Arbiter Seminar was successfully organized by Sambalpur District Chess Association under the aegis of All Orissa Chess Association and on behalf of All",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-examination-at-sambalpur-orissa-from-21-22-may-2023/",
-         "pubDate" : "Mon, 29 May 2023 11:48:24 +0000",
-         "title" : "Final Report :SNA Seminar & Examination at Sambalpur Orissa from 21-22 May 2023"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100594468.cms\" />Former World Rapid Chess champion Koneru Humpy expressed her belief that the inaugural Global Chess League (GCL) has the potential to bridge the existing gap in the global \"ecosystem\" of the sport. The GCL is a joint venture between Tech Mahindra and the international chess federation (FIDE) and is set to take place in Dubai from June 21 to July 2.",
