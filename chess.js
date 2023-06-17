@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-file-alert",
+         "pubDate" : "Sat, 17 Jun 2023 09:00:00 +0100",
+         "title" : "A-file alert!"
+      },
+      {
+         "description" : "With five wins in as many games, Frederik Svane had a brilliant start at the traditional open event in Teplice, Czech Republic. It was only in round 6 that the 19-year-old GM, who plays for the Hamburg Chess Club in the Bundesliga, conceded his first draw, against his brother Rasmus. A win over then co-leader Evgeny Romanov left him in the sole lead with two round to go. Three players, including Rasmus, stand a half point behind. | Photo: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/teplice-open-2023-r7",
+         "pubDate" : "Sat, 17 Jun 2023 08:00:00 +0100",
+         "title" : "Frederik Svane leads Teplice Open with two rounds to go"
+      },
+      {
+         "description" : " Oleiny Linares is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, Linares The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/",
+         "pubDate" : "Sat, 17 Jun 2023 05:18:25 +0000",
+         "title" : "Oleiny Linares at 2023 Chicago Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101058584.cms\" />GM Richard Rapport said cheating and lack of well-structured monetary rewards en route becoming an elite chess player are the two most important issues that the game is facing.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rapport-richard-bats-for-rapid-chess-team-events/articleshow/101058584.cms",
+         "pubDate" : "Sat, 17 Jun 2023 03:51:27 +0000",
+         "title" : "Rapport Richard bats for rapid chess, team events"
+      },
+      {
          "description" : "The ASEAN Age Group Championships is an extremely important event for young kids living in the ASEAN countries. They include Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar. Philippines, Singapore, Thailand, Vietnam, and Timur Leste. However, if you look at the name carefully, it says ASEAN+ and the + indicates that more countries are welcome at the championships - China, India, Japan, New Zealand, and South Korea. It will be held in 14 age groups from the 17th to the 27th of June 2023, in Bangkok, Thailand. Along with this tournament, there is also an ACC-ECU symposium which will witness the presence of Artur Yusupov, Zurab Azmaiparashvili and many other famous names.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -834,14 +866,6 @@ news_feed (
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 5 recap"
       },
       {
-         "description" : "From June 21 to July 2, the Global Chess League will be played in Dubai, with six excellent teams. Before that, inauguration events will take place in New York, London, Paris and Berlin. In Berlin, the event will take place next Sunday at the Schachfreunde Berlin, with Sebastian Siebrecht.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-kick-off-in-new-york-paris-and-berlin",
-         "pubDate" : "Fri, 09 Jun 2023 23:35:00 +0100",
-         "title" : "Global Chess League: Inaugurations in New York, Paris, London and Berlin"
-      },
-      {
          "description" : "GM Hikaru Nakamura won on demand with the white pieces against GM Fabiano Caruana on the last day of Norway Chess 2023, ousting the tournament leader and winning the prestigious title for the first time. This is also the first time in the last fiv...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -872,14 +896,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/netflix-launches-queens-gambit-chess-game",
          "pubDate" : "Fri, 09 Jun 2023 09:01:48 -0700",
          "title" : "Netflix Launches 'Queen's Gambit Chess' Game"
-      },
-      {
-         "description" : "Hikaru Nakamura beat Fabiano Caruana in their last-round classical encounter to finish the tournament in sole first place. Nakamura climbed to the second spot in the live ratings list. Caruana got second place in Stavanger, while 17-year-old Dommaraju Gukesh impressed with his clear third place in the standings. | Replay the games with computer-assisted commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-live",
-         "pubDate" : "Fri, 09 Jun 2023 16:45:00 +0100",
-         "title" : "Norway Chess: Games and results"
       },
       {
          "description" : "GM Fabiano Caruana increased his lead to 2.5 points after outwitting GM Wesley So through the armageddon tiebreaker to move on to 16 points with just one round to go at Norway Chess 2023. In the crucial final round on Friday, he will face another ...",
