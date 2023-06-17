@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Adia Onyango is known as the &#8220;Chess Traveler&#8221; for her voyages to chess venues around the world. She frequents overseas locations but is also a mainstay in major U.S. tournaments. Long a chess promoter, she granted an interview with The Chess Drum during the Chicago Open and told us her chess story. A fun fact The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/\">Interview with Chess Connector, Adia Onyango</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Ahead of the inaugural edition of the Global Chess League (GCL), the league has announced the tournament's schedule and the scoring system. Remarkably, a game won with the black pieces will result in 4 Game Points (GP) for the winning player; a victory for a player with the white pieces will see them win 3 GP. The tournament will take place from June 21 to July 2 in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-schedule",
+         "pubDate" : "Sat, 17 Jun 2023 21:00:00 +0100",
+         "title" : "Global Chess League: Schedule and unique scoring system announced"
+      },
+      {
+         "description" : "Day 5 of the Armageddon Series in Berlin is all about survival. The tournament is played in a double elimination format and on Day 5 the players who have already lost one of their matches will meet. Whoever loses the second will be eliminated, whoever wins can still hope to win the tournament. Vincent Keymer will play Jorden Van Foreest, Alexander Donchenko will play Maxime Vachier-Lagrave. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Sat, 17 Jun 2023 18:45:00 +0100",
+         "title" : "Armageddon Series, Day 6 - Live from 19.00 CEST!"
+      },
+      {
+         "description" : " Adia Onyango is known as the &#8220;Chess Traveler&#8221; for her voyages to chess venues around the world. She frequents overseas locations but is also a mainstay in major U.S. tournaments. Long a chess promoter, she granted an interview with The Chess Drum during the 2023 Chicago Open and told us her chess story. A fun The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/\">Interview with Chess Connector, Adia Onyango</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/",
@@ -840,22 +856,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-advice/",
          "pubDate" : "Sat, 10 Jun 2023 11:16:28 +0000",
          "title" : "Why You Should Avoid Grandmaster Advice (Sometimes)"
-      },
-      {
-         "description" : "In the diagram position White has just played 32.Rxf6!, which gives him an advantage after both 32...gxf6 and the game continuation 32...Dc3. There's a lot more to the position than I initially thought, though - let's climb up the variation tree!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-tip-of-the-iceberg",
-         "pubDate" : "Sat, 10 Jun 2023 09:00:00 +0100",
-         "title" : "The tip of the iceberg"
-      },
-      {
-         "description" : "In the sixth round of the Cairns Cup played on Friday, Anna Zatonskih won her game with black against Gunay Mammadzada and now stands alone at the top of the standings with a 4&frac12;/6 score. Elisabeth Paehtz is in second place after beating Nana Dzagnidze with white to reach a 3&frac12;/6 score. Zatonskih's lead is not quite so clear, however, if you consider that the table is somewhat 'skewed' after Humpy Koneru withdrew due to health issues. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r6",
-         "pubDate" : "Sat, 10 Jun 2023 08:55:00 +0100",
-         "title" : "Cairns Cup: Zatonskih widens the gap, Paehtz in sole second place"
       },
       {
          "description" : " This week, we're going to start our examination of discovered and double discovered attacks. This specific type of tactic is extremely powerful and should be part of every chess player's tactical toolbox. I cannot stress enough, the power of discovered and double discovered attacks. We cover this tactic over the next two weeks, starting with <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\">A Foundation for Beginners Ninety Four</a> appeared first o",
