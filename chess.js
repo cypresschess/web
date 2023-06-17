@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Adia Onyango is known as the &#8220;Chess Traveler&#8221; for her voyages to chess venues around the world. She frequents overseas locations but is also a mainstay in major U.S. tournaments. Long a chess promoter, she granted an interview with The Chess Drum during the Chicago Open and told us her chess story. A fun fact The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/\">Interview with Chess Connector, Adia Onyango</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/",
+         "pubDate" : "Sat, 17 Jun 2023 14:08:53 +0000",
+         "title" : "Interview with Chess Connector, Adia Onyango"
+      },
+      {
+         "description" : " Today at Street Chess I saw a pretty rare sight. King and 2 bishops actually mating a king. Normally when this position is reached the defending side will resign, which is why I don't recall ever seeing it in an actual game. In contrast KBN v K is often played right to the finish, as the defending side normally starts with the expectation that their will be some mistake that will save them, but when this turns out not to be so, will then give the opponent the 'satisfaction' of delivering mate. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/kbbvn.html",
+         "pubDate" : "Sat, 17 Jun 2023 13:32:00 +0000",
+         "title" : "KBBvN"
+      },
+      {
+         "description" : " Last week, we started our exploration of discovered and double discovered attacks. We looked at the great benefits that can be derived by employing this specific tactic. While the discovered and double discovered attack is a powerful tool, there is another form of this tactic that is even more powerful: The discovered or double discovered <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-five/\">A Foundation for Beginners Ninety Five</a> appeared first on <",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-five/",
+         "pubDate" : "Sat, 17 Jun 2023 12:49:12 +0000",
+         "title" : "A Foundation for Beginners Ninety Five"
+      },
+      {
+         "description" : " I love making mistakes. Yes, you read that correctly. I have come to realize that making mistakes is not only inevitable but also a powerful catalyst for growth. This might sound counterintuitive, but stick with me. In this article, I will reveal why embracing your chess mistakes can accelerate your progress and ultimately, transform your [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/making-mistakes-is-your-secret-weapon/\">Redefining Chess Mastery: Why Making Mistakes is Your Secret Weapon</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/making-mistakes-is-your-secret-weapon/",
+         "pubDate" : "Sat, 17 Jun 2023 12:00:00 +0000",
+         "title" : "Redefining Chess Mastery: Why Making Mistakes is Your Secret Weapon"
+      },
+      {
          "description" : "Freedom, if not outright revolution, was the watchword of German dramatist, poet and philosopher, Friedrich Schiller. Schiller notably formed the elite pair of German classical writers, along with his contemporary, Johann Wolfgang von Goethe. It was Goethe who described chess as \"the touchstone of the intellect.\" There is a link to a third Germanic genius, in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop/",
          "pubDate" : "Fri, 16 Jun 2023 18:07:01 +0000",
          "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
-         "description" : "Day 5 of the Armageddon Series in Berlin is all about survival. The tournament is played in a double elimination format and on Day 5 the players who have already lost one of their matches will meet. Whoever loses the second will be eliminated, whoever wins can still hope to win the tournament. Vincent Keymer will play Jorden Van Foreest, Alexander Donchenko will play Maxime Vachier-Lagrave. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Fri, 16 Jun 2023 18:30:00 +0100",
-         "title" : "Armageddon Series, Day 5 - Live from 19.00 CEST!"
       },
       {
          "description" : "",
@@ -1528,30 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2428",
          "pubDate" : "Sat, 27 May 2023 20:36:55 +0000",
          "title" : "FIDE WGP: WGM Dinara Wagner reigns in Cyprus"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2427",
-         "pubDate" : "Sat, 27 May 2023 13:32:21 +0000",
-         "title" : "Igor Zaitsev celebrates his 85th birthday"
-      },
-      {
-         "description" : " Are you new to chess and struggling with how to set up a chessboard? Then this guide is perfect for you. In a matter of less than 5 Minutes, you will be able to set up the chessboard correctly every single time. I can't even count the number of times I set up a chess [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/setting-up-your-chess-board/\">Setting Up Your Chess Board: A Step-by-Step Guide for Beginners</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/setting-up-your-chess-board/",
-         "pubDate" : "Sat, 27 May 2023 12:00:00 +0000",
-         "title" : "Setting Up Your Chess Board: A Step-by-Step Guide for Beginners"
-      },
-      {
-         "description" : " The leading group in the 2023 ACT Championship has been whittled down to 4 players, after rounds 2 and 3 today. Top seed IM Junta Ikeda had a quick win over Tim Pearce in the morning round, before winning a tougher fight against Malik Amer in the third round. FM Michael Kethro also had to work hard on round 3, outplaying Oladoyin Fasakin in a Knight v Bishop ending. Harry Press scored two attacking victories to also move to 3 points, while Daniel Lee beat Harry Johnson to become the final member of the 100% group. Tomorrows round 4 sees Press v Ikeda on the top board, with Kethro v Lee on board 2. CM Hui Li is on board 3, having played a long and ultimately drawn game against Terrence Tang.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-2.html",
-         "pubDate" : "Sat, 27 May 2023 11:36:00 +0000",
-         "title" : "2023 ACT Championship - Day 2"
       }
    ]
 }
