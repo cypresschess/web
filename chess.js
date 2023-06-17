@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural European Pairs Blitz Chess Championship starts in Krakow, Poland, as the accompanying event of the Krakow-European Games 2023. The event will be played on Monday, 19th of June, Open and Women's sections separately, with the participation of eight invited teams. The composition of the teams: The official program of the event started yesterday. The Mayor of Krakow prof. Jacek Majchrowski received the ECU President Zurab Azmaiparashvili, the FIDE Secretary General Lukasz Turlej, and Mrs. Kamila Kałuzna-Turcza the President []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-2023-starts-in-krakow/",
+         "pubDate" : "Sat, 17 Jun 2023 21:46:45 +0000",
+         "title" : "European Pairs Blitz Chess Championship 2023 starts in Krakow"
+      },
+      {
          "description" : "Ahead of the inaugural edition of the Global Chess League (GCL), the league has announced the tournament's schedule and the scoring system. Remarkably, a game won with the black pieces will result in 4 Game Points (GP) for the winning player; a victory for a player with the white pieces will see them win 3 GP. The tournament will take place from June 21 to July 2 in Dubai.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1528,30 +1536,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chesskid-cup-2023",
          "pubDate" : "Sun, 28 May 2023 12:35:00 +0400",
          "title" : "ChessKid Cup 2023 - Games and Results"
-      },
-      {
-         "description" : " This week, we will end our examination of the skewer by looking at some basic examples. These examples will help you understand the underlying mechanics of this tactic, as well as when and how to use it correctly. Let's set up the chessboard so we can work through the first example. Place a White Rook <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-three/\">A Foundation for Beginners Ninety Three</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-three/",
-         "pubDate" : "Sat, 27 May 2023 21:50:39 +0000",
-         "title" : "A Foundation for Beginners Ninety Three"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The Gr&uuml;nfeld Defence is an aggressive choice for Black to attack and destroy White's center. Instead of seeing a long positional battle, the game becomes an open battle field. Over <a href=\"https://chessimprover.com/need-sure-points-neo-grunfeld-defence-classical-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Neo-Gr&uuml;nfeld Defence, Classical Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-neo-grunfeld-defence-classi",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-neo-grunfeld-defence-classical-variation-edition/",
-         "pubDate" : "Sat, 27 May 2023 21:48:25 +0000",
-         "title" : "Need sure points? Neo-Gr&uuml;nfeld Defence, Classical Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2428",
-         "pubDate" : "Sat, 27 May 2023 20:36:55 +0000",
-         "title" : "FIDE WGP: WGM Dinara Wagner reigns in Cyprus"
       }
    ]
 }
