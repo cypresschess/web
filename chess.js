@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ASEAN Age Group Championships is an extremely important event for young kids living in the ASEAN countries. They include Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar. Philippines, Singapore, Thailand, Vietnam, and Timur Leste. However, if you look at the name carefully, it says ASEAN+ and the + indicates that more countries are welcome at the championships - China, India, Japan, New Zealand, and South Korea. It will be held in 14 age groups from the 17th to the 27th of June 2023, in Bangkok, Thailand. Along with this tournament, there is also an ACC-ECU symposium which will witness the presence of Artur Yusupov, Zurab Azmaiparashvili and many other famous names.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-asean-age-group-is-back-after-3-years",
+         "pubDate" : "Sat, 17 Jun 2023 02:00:00 +0100",
+         "title" : "The ASEAN+ Age Group is back after three years"
+      },
+      {
          "description" : "GM Raunak Sadhwani convincingly defeated GM Denis Lazavik to attain the second spot in the 2023 Junior Speed Chess Championship Final. The match was a one-sided affair in the first two segments, and despite an early scare in the bullet, Raunak reg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-live",
          "pubDate" : "Fri, 09 Jun 2023 16:45:00 +0100",
          "title" : "Norway Chess: Games and results"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King looks at a strategically complex line in the Najdorf that surfaced in a recent game in Norway Chess. And Daniel knows what he is talking about! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-new-ideas-in-the-najdorf",
-         "pubDate" : "Fri, 09 Jun 2023 16:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: New ideas in the Najdorf"
       },
       {
          "description" : "GM Fabiano Caruana increased his lead to 2.5 points after outwitting GM Wesley So through the armageddon tiebreaker to move on to 16 points with just one round to go at Norway Chess 2023. In the crucial final round on Friday, he will face another ...",
