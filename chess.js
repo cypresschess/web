@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Freedom, if not outright revolution, was the watchword of German dramatist, poet and philosopher, Friedrich Schiller. Schiller notably formed the elite pair of German classical writers, along with his contemporary, Johann Wolfgang von Goethe. It was Goethe who described chess as \"the touchstone of the intellect.\" There is a link to a third Germanic genius, in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/liberty-or-libertinism-from-schiller-to-andrew-tate/",
+         "pubDate" : "Sat, 17 Jun 2023 11:12:40 +0000",
+         "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
+      },
+      {
          "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1544,22 +1552,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-2.html",
          "pubDate" : "Sat, 27 May 2023 11:36:00 +0000",
          "title" : "2023 ACT Championship - Day 2"
-      },
-      {
-         "description" : "The European Brain Council at its Brain Awareness Week (held March 13-19, 2023) recognized ill-health of the brain as \"a global health emergency\". Chess players are, to some extent, exempt from this dire warning of planetary mental degeneration. Indeed, especially Nigel Short, Britain's chess superstar. Nigel listed attentively to Professor Michael Crawford's opening address about Brain Nutrition, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-brain-under-siege/",
-         "pubDate" : "Sat, 27 May 2023 09:36:30 +0000",
-         "title" : "The brain under siege"
-      },
-      {
-         "description" : " The Superbet Rapid & Blitz took place in Warsaw, Poland 21st to 25th May 2023. Players: Magnus Carlsen, Levon Aronian, Anish Giri, Wesley So, Richard Rapport, MVL, Jan-Krzysztof Duda, Bogdan-Daniel Deac, Kirill Shevchenko and Radoslaw Wojtaszek played in this event which is part of the Grand Chess Tour. Magnus Carlsen won the event after a slow start on day 1 of the rapid including a loss in round one in the Polish Defence to second placed Jan-Krzysztof Duda. Carlsen picked up two wins late on day two of the rapid which put him back in contention. Then in the blitz Carlsen went on a rampage scoring 10.5/11 between rounds 5 and 15. He slowed down at the end drawing the final three games and ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2023",
-         "pubDate" : "Sat, 27 May 2023 13:18:00 +0400",
-         "title" : "Superbet Rapid & Blitz 2023 - Games and Results"
       }
    ]
 }
