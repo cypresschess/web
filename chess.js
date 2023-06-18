@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "'Chess4refugees' was the motto of the Emanuel Lasker Society Chess Culture Day, which took place a week ago in Hamburg. The event kicked off with a simultaneous exhibition given by Dr. Richard Lutz and Dr. Helmut Pfleger (final result: 20-5). In the evening, the chairman of the Emanuel Lasker Society, Thomas Weischede, handed over a symbolic cheque for €5,000 to the UN Refugee Aid and a lively panel discussion about 40 years of chess history followed with Frederic Friedel, Prof. Christian Hesse and Dr. Helmut Pfleger. | Photos: Nadja Wittmann (ChessBase)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-4-refugees-hamburg-simul",
+         "pubDate" : "Sun, 18 Jun 2023 08:00:00 +0100",
+         "title" : "Top-notch simul as part of 'chess4refugees' event in Hamburg"
+      },
+      {
          "description" : "The inaugural European Pairs Blitz Chess Championship starts in Krakow, Poland, as the accompanying event of the Krakow-European Games 2023. The event will be played on Monday, 19th of June, Open and Women's sections separately, with the participation of eight invited teams. The composition of the teams: The official program of the event started yesterday. The Mayor of Krakow prof. Jacek Majchrowski received the ECU President Zurab Azmaiparashvili, the FIDE Secretary General Lukasz Turlej, and Mrs. Kamila Kałuzna-Turcza the President []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-1.html",
          "pubDate" : "Sat, 10 Jun 2023 13:21:00 +0000",
          "title" : "2023 NSW Open - Day 1"
-      },
-      {
-         "description" : "A final-round win over long-time leader Fabiano Caruana gave Hikaru Nakamura outright victory at the 11th edition of the Norway Chess super-tournament. Nakamura scored three wins and no losses in his nine classical games, which allowed him to climb to the second spot in the live ratings list. Caruana finished second, while 17-year-old Dommaraju Gukesh impressed by grabbing third place. | Photo: Lennart Ootes / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hikaru-nakamura-wins-norway-chess-2023",
-         "pubDate" : "Sat, 10 Jun 2023 14:00:00 +0100",
-         "title" : "Nakamura beats Caruana to win Norway Chess 2023"
       },
       {
          "description" : " \"They are stronger than me, so I should listen to them\" is something I hear often. But that's actually only partly true. Because it depends if the advice they give you is pure chess advice or chess improvement advice. What sounds similar is actually totally different: In this article, I will explain the difference between [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-advice/\">Why You Should Avoid Grandmaster Advice (Sometimes)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
