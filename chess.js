@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When a strong player looks at a position (in a real game of chess, not a problem) he or she will automatically see it not as a random collection of pieces but as a series of chunks - patterns that are recognisable and have known features. And the patterns will also generate ideas of moves which may be profitable. Curiously, sometimes apparently insignificant changes can be crucial, and today I'm focussing on an instance of this phenomenon. | Pictured: Mikhail Tal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-196",
+         "pubDate" : "Sun, 18 Jun 2023 20:15:00 +0100",
+         "title" : "Seeing the whole board"
+      },
+      {
+         "description" : "The European Pair Blitz Championships will take place on 19 June 2023 in the Opera House of Kr&aacute;kow, Poland. The competition is an accompanying event to the 2023 European Games. The championships will feature top male and female chess players from eight European federations: Poland, Azerbaijan, Israel, Romania, Spain, Armenia and the Netherlands. Jan-Krzysztof Duda and Oliwia Kiolbasa will represent the host country. | Pictured: Łukasz Turlej and Shohreh Bayat",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-pair-blitz-championship-2023-kick-off",
+         "pubDate" : "Sun, 18 Jun 2023 19:00:00 +0100",
+         "title" : "European Pair Blitz Championship 2023 kicks off in Krakow"
+      },
+      {
+         "description" : "Day 7 of the Armageddon Series in Berlin will decide the winner of the week-long extravaganza. Richard Rapport defeated Jan-Krzysztof Duda to reach the Grand Final from the upper bracket. Duda, however, will get a second chance, as he faces Maxime Vachier-Lagrave in the final match of the lower bracket. The winner will face Rapport, who would need to lose twice to finish the tournament in second place. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
+         "pubDate" : "Sun, 18 Jun 2023 18:45:00 +0100",
+         "title" : "Armageddon Series, Day 7 - Live from 19.00 CEST!"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2023-schedule",
          "pubDate" : "Sat, 17 Jun 2023 21:00:00 +0100",
          "title" : "Global Chess League: Schedule and unique scoring system announced"
-      },
-      {
-         "description" : "Day 5 of the Armageddon Series in Berlin is all about survival. The tournament is played in a double elimination format and on Day 5 the players who have already lost one of their matches will meet. Whoever loses the second will be eliminated, whoever wins can still hope to win the tournament. Vincent Keymer will play Jorden Van Foreest, Alexander Donchenko will play Maxime Vachier-Lagrave. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Sat, 17 Jun 2023 18:45:00 +0100",
-         "title" : "Armageddon Series, Day 6 - Live from 19.00 CEST!"
       },
       {
          "description" : " Adia Onyango is known as the &#8220;Chess Traveler&#8221; for her voyages to chess venues around the world. She frequents overseas locations but is also a mainstay in major U.S. tournaments. Long a chess promoter, she granted an interview with The Chess Drum during the 2023 Chicago Open and told us her chess story. A fun The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/\">Interview with Chess Connector, Adia Onyango</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -826,28 +842,12 @@ news_feed (
          "title" : "2023 NSW Open - Day 2"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about tactics and the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-129-chess-history-in-a-nutshell-11",
-         "pubDate" : "Sun, 11 Jun 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 129: Chess history in a nutshell (11)"
-      },
-      {
          "description" : "National Women Champion Divya Deshmukh crowned as new Asian Women Champion at Almaty, Kazakhstan on Sunday. With superlative performance Divya Deshmukh clinched the title with",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/congratulations-divya-deshmukh-asian-women-champion/",
          "pubDate" : "Sun, 11 Jun 2023 13:28:48 +0000",
          "title" : "Congratulations Divya Deshmukh! Asian Women Champion!!"
-      },
-      {
-         "description" : "Vidit Gujrathi and Raunak Sadhwani won Maharashtra Challenge Match 2023. They both dominated their respective opponents, Peter Svidler and Nigel Short. Raunak won the match with six games and a day to spare, Vidit clinched it with four games left on the final day. Raunak dominated all three formats - Classical, Rapid and Blitz. Vidit scored more in Classical and Rapid events. Svidler was better in Blitz. Full report with videos and photos by Sagar Shah.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vidit-and-raunak-clinch-maharashtra-challenge-match",
-         "pubDate" : "Sun, 11 Jun 2023 07:00:00 +0100",
-         "title" : "Vidit and Raunak clinch Maharashtra Challenge Match"
       },
       {
          "description" : "In a day of intense fighting games, contenders for the throne appeared on the horizon to challenge the leader IM Anna Zatonskih by lessening her lead to half a point after the seventh round of the Cairns Cup 2023. As Zatonskih stayed on 4.5 points...",
