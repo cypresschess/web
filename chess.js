@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aktobe Open Classic 2023 is taking place at Aktobe, Kazakhstan from June 20th to 27th. It is organized by the Kazakhstan Chess Federation and set up as a 9-round swiss tournament. The time control is 90 minutes plus a 30-second increment per move, starting from move 1. The top five rated players are Maxim []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aktobe-open-classic-2023/",
+         "pubDate" : "Sun, 18 Jun 2023 22:50:00 +0000",
+         "title" : "Aktobe Open Classic 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2464",
+         "pubDate" : "Sun, 18 Jun 2023 22:17:42 +0000",
+         "title" : "Frederik Svane wins Teplice Open 2023"
+      },
+      {
+         "description" : "Indian Grandmasters Gukesh and Raunak Sadhwani battle it out in the final of the $50,000 Junior Speed Chess Championship held on Chess.com. The winner qualifies for the main event later in the year. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-vs-raunak-junior-speed-chess-final/",
+         "pubDate" : "Sun, 18 Jun 2023 22:08:01 +0000",
+         "title" : "Gukesh vs. Raunak - Junior Speed Chess Final"
+      },
+      {
          "description" : "When a strong player looks at a position (in a real game of chess, not a problem) he or she will automatically see it not as a random collection of pieces but as a series of chunks - patterns that are recognisable and have known features. And the patterns will also generate ideas of moves which may be profitable. Curiously, sometimes apparently insignificant changes can be crucial, and today I'm focussing on an instance of this phenomenon. | Pictured: Mikhail Tal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,38 @@ news_feed (
          "link" : "https://www.fide.com/news/2463",
          "pubDate" : "Sun, 18 Jun 2023 13:43:15 +0000",
          "title" : "European Pair Blitz Championship kicks off in Krakow"
+      },
+      {
+         "description" : "The Buenos Aires Masters is taking place from 14-20 June 2023 in Buenos Aires, Argentina. The time control is 90 minutes with a 30-second increment beginning from move one. The prize pool is $450.000 Argentine pesos. It is a 9-round Swiss tournament. More : Armageddon Europe &#38; Africa &#x2013; Winners / Armageddon Europe &#38; Africa []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/buenos-aires-masters-live/",
+         "pubDate" : "Sun, 18 Jun 2023 11:12:00 +0000",
+         "title" : "Buenos Aires Masters - LIVE"
+      },
+      {
+         "description" : "The Buenos Aires Masters is taking place from 14-20 June 2023 in Buenos Aires, Argentina. The time control is 90 minutes with a 30-second increment beginning from move one. The prize pool is $450.000 Argentine pesos. It is a 9-round Swiss tournament. Chessdom.com will daily follow the live games. More : Armageddon Europe &#38; Africa []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/buenos-aires-masters/",
+         "pubDate" : "Sun, 18 Jun 2023 11:00:00 +0000",
+         "title" : "Buenos Aires Masters"
+      },
+      {
+         "description" : "The Europe and Africa edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. More : Armageddon Europe &#38; Africa &#x2013; Winners / Armageddon Europe &#38; Africa &#x2013; Losers / Yoo vs. Pranav []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-europe-africa-losers/",
+         "pubDate" : "Sun, 18 Jun 2023 10:00:00 +0000",
+         "title" : "Armageddon Europe & Africa - Losers"
+      },
+      {
+         "description" : "The Europe and Africa edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. More : Armageddon Europe &#38; Africa &#x2013; Winners / Armageddon Europe &#38; Africa &#x2013; Losers / Yoo vs. Pranav []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-europe-africa-winners/",
+         "pubDate" : "Sun, 18 Jun 2023 09:00:00 +0000",
+         "title" : "Armageddon Europe & Africa - Winners"
       },
       {
          "description" : " If you teach at novice/intermediate (0-1500) level you should be aware of the basic principles of instruction. Every lesson serves a specific purpose, with direct teaching and worked examples. Avoid cognitive load problems, which are caused by students trying to process too much information at the same time and getting confused. How do you deal <a href=\"https://chessimprover.com/teaching-the-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teaching the Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teaching-the-openings/\">Teaching the Openings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
@@ -112,6 +168,38 @@ news_feed (
          "link" : "https://www.thearticle.com/liberty-or-libertinism-from-schiller-to-andrew-tate/",
          "pubDate" : "Sat, 17 Jun 2023 11:12:40 +0000",
          "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
+      },
+      {
+         "description" : "The FISCA GM 2023 is a 10-player round-robin tournament taking place from 17&#x2013;24 June 2023 in Jupiter, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. More : Yoo vs. Pranav V Junior Speed Chess Quaterfinal / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fisca-gm-2023-live/",
+         "pubDate" : "Sat, 17 Jun 2023 11:00:00 +0000",
+         "title" : "FISCA GM 2023 - LIVE"
+      },
+      {
+         "description" : "The FISCA GM 2023 is a 10-player round-robin tournament taking place from 17&#x2013;24 June 2023 in Jupiter, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. More : Yoo vs. Pranav V []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fisca-gm-2023/",
+         "pubDate" : "Sat, 17 Jun 2023 10:22:00 +0000",
+         "title" : "FISCA GM 2023"
+      },
+      {
+         "description" : "The Silver Lake Open is taking place from 18&#x2013;25 June 2023 in Silver Lake, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Nikita Petrov, Pranesh M, Mikhail Bryakin, Branko Damljanovic, Soham Das, Svyatoslav Bazakutsa, Vlad-Victor Barnaure, Dan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/silver-lake-open-2023-live/",
+         "pubDate" : "Sat, 17 Jun 2023 09:20:00 +0000",
+         "title" : "Silver Lake Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Silver Lake Open 2023 is taking place from 18&#x2013;25 June 2023 in Silver Lake, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Nikita Petrov, Pranesh M, Mikhail Bryakin, Branko Damljanovic, Soham Das, Svyatoslav Bazakutsa, Vlad-Victor Barnaure, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/silver-lake-open-2023/",
+         "pubDate" : "Sat, 17 Jun 2023 09:00:00 +0000",
+         "title" : "Silver Lake Open 2023"
       },
       {
          "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
@@ -242,28 +330,12 @@ news_feed (
          "title" : "Chess: national solving championship 2023 open for entries from Britain"
       },
       {
-         "description" : "The US National Open 2023 is taking place from 14-18 June 2028 in Las Vegas. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hans Moke Niemann, Illya Nyzhnyk, Vasif Durarbayli, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-national-open-2023/",
-         "pubDate" : "Fri, 16 Jun 2023 03:37:10 +0000",
-         "title" : "US National Open 2023"
-      },
-      {
          "description" : "FM Alice Lee earned the international master title at age 13 and reset the record as the youngest American-born female to do so. Lee gained her third IM norm at the 2023 Canadian Transnational Chess Championship, facing eight grandmasters and on...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alice-lee-becomes-im",
          "pubDate" : "Thu, 15 Jun 2023 20:25:00 -0700",
          "title" : "13-Year-Old Alice Lee Earns IM Title"
-      },
-      {
-         "description" : "The US National Open 2023 is taking place from 14-18 June 2028 in Las Vegas. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hans Moke Niemann, Illya Nyzhnyk, Vasif Durarbayli, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-national-open-2023-live/",
-         "pubDate" : "Fri, 16 Jun 2023 03:00:00 +0000",
-         "title" : "US National Open 2023 - LIVE"
       },
       {
          "description" : "The Aimchess Rapid Play-In featured a number of top-notch grandmasters, who had to go through a difficult open event to fight for a spot in the next stage of the Champions Chess Tour. Magnus Carlsen, Wesley So, Levon Aronian and Eduardo Iturrizaga made it through in the end. GM Karsten M&uuml;ller followed the games closely and highlighted a few instructive endgames for us to learn from. Find here four examples which showcase the technical ability of Carlsen, So, Daniil Dubov and Bogdan-Daniel Deac. | Photo: Alina l'Ami",
@@ -330,14 +402,6 @@ news_feed (
          "title" : "One way or another "
       },
       {
-         "description" : "Indian Grandmaster Raunak Sadhwani takes on Denis Lazavik from Belarus for a place in the final of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/raunak-vs-lazavik-junior-speed-chess-semifinal/",
-         "pubDate" : "Thu, 15 Jun 2023 09:30:00 +0000",
-         "title" : "Raunak vs. Lazavik - Junior Speed Chess Semifinal"
-      },
-      {
          "description" : "In his Game of the Week show #572 Merijn van Delft analyses how Hikaru Nakamura defeated Fabiano Caruana in the final round of the Norway Chess Tournament. With this game Nakamura also won the tournament and moved up to number two in the live rankings. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -346,60 +410,12 @@ news_feed (
          "title" : "Game of the Week #572: H. Nakamura vs F. Caruana"
       },
       {
-         "description" : "Indian Grandmasters Gukesh and Pranav V compete for a place in the final of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes of 1+1 bullet []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-vs-pranav-junior-speed-chess-semifinal/",
-         "pubDate" : "Thu, 15 Jun 2023 09:00:00 +0000",
-         "title" : "Gukesh vs. Pranav - Junior Speed Chess Semifinal"
-      },
-      {
          "description" : "The fifth edition of the Prague Chess Festival will take place on June 21-30 at the Don Giovanni Hotel in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna (pictured) as the top seeds. The lineup also includes German star Vincent Keymer and David Navara who, like Shankland, has been invited to all five editions of the Masters. | Photo: Vladim&iacute;r Jagr",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2023-preview",
          "pubDate" : "Thu, 15 Jun 2023 10:00:00 +0100",
          "title" : "Wang, Shankland and Harikrishna head Prague Masters lineup"
-      },
-      {
-         "description" : "The US Women's National Open is taking place from 14-15 June 2023 in Las Vegas. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Anzhelika Lomakina, Oleiny Linares Napoles, Tsogtsaikhan Saikhanchimeg, Yesun Lee, Sandhya Goli, etc. More :Yoo vs. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-womens-national-open-2023-live/",
-         "pubDate" : "Thu, 15 Jun 2023 04:30:00 +0000",
-         "title" : "US Women's National Open 2023 - LIVE"
-      },
-      {
-         "description" : "India's Gukesh takes on Armenia's Emin Ohanyan in the quarterfinals of the $50,000 Junior Speed Chess Championship held on Chess.com. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 minutes of 3+1 blitz, then 30 minutes of 1+1 bullet games. All games []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-vs-ohanyan-junior-speed-chess-quaterfinal/",
-         "pubDate" : "Thu, 15 Jun 2023 04:00:00 +0000",
-         "title" : "Gukesh vs. Ohanyan - Junior Speed Chess Quaterfinal"
-      },
-      {
-         "description" : "The Slovak Amateur Championship is taking place from 15&#x2013;18 June 2023 in Liptovsk&#xFD; J&#xE1;n,, Slovakia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is an 8-round Swiss tournament with participation of Patrik Stevik, Rao Sharan, Jozef Fenik, Marek Pniaczek, Jain Jeet, Lukas Bango, Adrian Gyerpal, Adrian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/slovak-amateur-championship-2023-live/",
-         "pubDate" : "Thu, 15 Jun 2023 03:30:00 +0000",
-         "title" : "Slovak Amateur Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Slovak Amateur Championship is an 8-round Swiss tournament taking place from 15&#x2013;18 June 2023 in Liptovsk&#xFD; J&#xE1;n,, Slovakia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. More :Yoo vs. Pranav V Junior Speed Chess Quaterfinal / Raunak vs. Samadov []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/slovak-amateur-championship-2023/",
-         "pubDate" : "Thu, 15 Jun 2023 03:00:00 +0000",
-         "title" : "Slovak Amateur Championship 2023"
-      },
-      {
-         "description" : "The US Women's National Open is taking place from 14-15 June 2023 in Las Vegas. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Anzhelika Lomakina, Oleiny Linares Napoles, Tsogtsaikhan Saikhanchimeg, Yesun Lee, Sandhya Goli, etc.Chessdom.com will daily follow []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-womens-national-open-2023/",
-         "pubDate" : "Thu, 15 Jun 2023 02:00:00 +0000",
-         "title" : "US Women's National Open 2023"
       },
       {
          "description" : "",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-jscc-quarterfinals-gukesh-pranav",
          "pubDate" : "Tue, 13 Jun 2023 14:57:00 -0700",
          "title" : "Gukesh, Pranav Set Up All-Indian Semifinals In JSCC 2023"
-      },
-      {
-         "description" : "The Chinese League 2023 is a 12-team round-robin tournament held from the 5th of June to the 17th in Fuling District, Chongqing, China. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move one.Chessdom.com will daily follow the live games. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-chinese-chess-league-division-a-participants/",
-         "pubDate" : "Tue, 13 Jun 2023 21:07:22 +0000",
-         "title" : "2023 Chinese Chess League Division A - Participants"
       },
       {
          "description" : "The ninth round of the Cairns Cup saw Alexandra Kosteniuk grabbing a third consecutive win to secure clear second place in the final standings. Kosteniuk defeated Elisabeth Paehtz with black, while Irina Krush, who was sharing second place with Kosteniuk before the final round, failed to get the better of tournament winner Anna Zatonskih in a tricky endgame. In the other decisive game of the day, Nana Dzagnidze defeated Gunay Mammadzada. | Photo: Crystal Fuller",
