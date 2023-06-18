@@ -82,7 +82,7 @@ news_feed (
          "title" : "Frederik Svane leads Teplice Open with two rounds to go"
       },
       {
-         "description" : " Oleiny Linares is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, Linares The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Oleiny Linares Napoles is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/",
