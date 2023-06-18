@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-129-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 18 Jun 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 130: Chess history in a nutshell (12)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2463",
+         "pubDate" : "Sun, 18 Jun 2023 13:43:15 +0000",
+         "title" : "European Pair Blitz Championship kicks off in Krakow"
+      },
+      {
          "description" : " If you teach at novice/intermediate (0-1500) level you should be aware of the basic principles of instruction. Every lesson serves a specific purpose, with direct teaching and worked examples. Avoid cognitive load problems, which are caused by students trying to process too much information at the same time and getting confused. How do you deal <a href=\"https://chessimprover.com/teaching-the-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teaching the Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teaching-the-openings/\">Teaching the Openings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -834,14 +850,6 @@ news_feed (
          "title" : "Vidit and Raunak clinch Maharashtra Challenge Match"
       },
       {
-         "description" : "In the seventh round of the Cairns Cup played on Saturday, sole leader Anna Zatonskih got a rest day. Elisabeth Paehtz missed her chance to catch up with Zatonskih, as the German grandmaster lost to Bella Khotenashvili. Thanks to this win, the Georgian now stands half a point behind Zatonskih. Irina Krush is also back in the mix after beating Harika Dronavalli. Krush is one point behind Zatonskih, but the two still have to play each other. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r7",
-         "pubDate" : "Sun, 11 Jun 2023 06:55:00 +0100",
-         "title" : "Cairns Cup: Krush and Khotenashvili grab crucial wins"
-      },
-      {
          "description" : "In a day of intense fighting games, contenders for the throne appeared on the horizon to challenge the leader IM Anna Zatonskih by lessening her lead to half a point after the seventh round of the Cairns Cup 2023. As Zatonskih stayed on 4.5 points...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1528,22 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2429",
          "pubDate" : "Mon, 29 May 2023 08:53:36 +0000",
          "title" : "Preliminary confirmation of participation in WSTC 2023: Deadline extended"
-      },
-      {
-         "description" : "Is this song about chess? In all the years that I've been posting about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I haven't asked that question. Let's first have a listen. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/k0jReeAe3do\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Yes - I've Seen All Good People: Your Move / All Good People</B> (6:55) &#149; '[Published on] Apr 29, 2014' <P> The song's lyrics are in the video's description, copied he",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/yes-its-not-about-chess.html",
-         "pubDate" : "Sun, 28 May 2023 15:17:00 +0000",
-         "title" : "Yes, It's Not About Chess"
-      },
-      {
-         "description" : " IM Junta Ikeda is closing in on his 10th ACT Chess Championship, after winning two important games today. In round 4 he defeated Harry Press after Press sacrificed an exchange for insufficient compensation, and then defeated 2nd seed FM Michal Kethro in round 5. With 2 rounds to play Ikeda is on 5/5 and leads by half a point over CM Hui Li, and visiting player Terrence Tang. Li is paired against Ikeda in round 6, and looks to be in form, having defeated Press in round 5. Tang and Kethro play on board 2, with kethro hoping that Li can open up the event with a result against Ikeda. Malik Amer, Daniel Lee and Michael Rolph are also on 4 points, and remain in contention for the prizes. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-3.html",
-         "pubDate" : "Sun, 28 May 2023 12:39:00 +0000",
-         "title" : "2023 ACT Championship - Day 3"
       }
    ]
 }
