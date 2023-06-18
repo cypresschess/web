@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " If you teach at novice/intermediate (0-1500) level you should be aware of the basic principles of instruction. Every lesson serves a specific purpose, with direct teaching and worked examples. Avoid cognitive load problems, which are caused by students trying to process too much information at the same time and getting confused. How do you deal <a href=\"https://chessimprover.com/teaching-the-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teaching the Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teaching-the-openings/\">Teaching the Openings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/teaching-the-openings/",
+         "pubDate" : "Sun, 18 Jun 2023 07:58:22 +0000",
+         "title" : "Teaching the Openings"
+      },
+      {
          "description" : "'Chess4refugees' was the motto of the Emanuel Lasker Society Chess Culture Day, which took place a week ago in Hamburg. The event kicked off with a simultaneous exhibition given by Dr. Richard Lutz and Dr. Helmut Pfleger (final result: 20-5). In the evening, the chairman of the Emanuel Lasker Society, Thomas Weischede, handed over a symbolic cheque for €5,000 to the UN Refugee Aid and a lively panel discussion about 40 years of chess history followed with Frederic Friedel, Prof. Christian Hesse and Dr. Helmut Pfleger. | Photos: Nadja Wittmann (ChessBase)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-action-on-the-g-file",
          "pubDate" : "Fri, 16 Jun 2023 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Action on the g-file"
+      },
+      {
+         "description" : "Some of my blog posts are basically notes to myself. This is one of them. I took two weeks off at the beginning of May and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 30 posts in 30 days and am now caught up. <P> One trick I used was to skip Friday posts. These are usually a series on some theme. The final posts in the most recent Friday series were:- <UL> <LI> 2023-02-10: <A HREF=\"https://chessforallages.blogspot.com/2023/02/the-final-years-of-insidechesscom.html\">The Final Years of Insidechess.com</A> <BR><BR> <LI> 2023-03-03: <A HREF=\"https://chessforallages.blogspot.com/2023/03/chesscoms-game-review-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html",
+         "pubDate" : "Fri, 16 Jun 2023 15:23:00 +0000",
+         "title" : "TGIF on CFAA"
       },
       {
          "description" : "",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-championship-day-3.html",
          "pubDate" : "Sun, 28 May 2023 12:39:00 +0000",
          "title" : "2023 ACT Championship - Day 3"
-      },
-      {
-         "description" : " The ChessKid Cup took place Mon 22nd to Fri 26th May 2023 on Chess.com. The latest event in the Champions Chess Tour was won by Nodirbek Abdusattorov who beat Jorden Van Foreest and Fabiano Caruana in the two finals. Vladimir Fedoseev qualified for Division 1 next time beating Shakhriyar Mamedyarov in the Division 2 Grand final (and Ngoc Truong Son Nguyen in the first final) and Alan Pichot beat Pentala Harikrishna twice to win Division 3.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chesskid-cup-2023",
-         "pubDate" : "Sun, 28 May 2023 12:35:00 +0400",
-         "title" : "ChessKid Cup 2023 - Games and Results"
       }
    ]
 }
