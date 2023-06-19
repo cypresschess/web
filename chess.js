@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda, alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-final-report",
+         "pubDate" : "Mon, 19 Jun 2023 08:00:00 +0100",
+         "title" : "Armageddon series: Rapport wins European leg, Duda in Grand Finale"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at his own game from the 2023 American Continental Championship against FM Angel Gabriel Cordoba. Originally on Twitch. 2023.06.06<br /> Angel Gabriel Cordoba vs. Robert Hungaski, 2023: A13 English, Neo-Catalan<br /> <a href=\"https://lichess.org/broadcast/american-continental-chess-championship-2023/round-7/EGYlqWMt\">https://lichess.org/broadcast/american-continental-chess-championship-20...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/space-harmony-grandmasters-choice-gm-robert-hungaski",
+         "pubDate" : "Mon, 19 Jun 2023 05:14:47 +0000",
+         "title" : "Space & Harmony | Grandmaster's Choice - GM Robert Hungaski"
+      },
+      {
+         "description" : " James Canty III entered the fraternity of chess streamers during the pandemic and has not looked back since. He also has entered the world of chess commentary including the recent World Chess Championship. During Memorial Day weekend, The Chess Drum caught up with the social media star and he granted an interview updating the chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/\">James Canty chats with The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/",
+         "pubDate" : "Mon, 19 Jun 2023 03:39:51 +0000",
+         "title" : "James Canty chats with The Chess Drum"
+      },
+      {
          "description" : "The Aktobe Open Classic 2023 is taking place at Aktobe, Kazakhstan from June 20th to 27th. It is organized by the Kazakhstan Chess Federation and set up as a 9-round swiss tournament. The time control is 90 minutes plus a 30-second increment per move, starting from move 1. The top five rated players are Maxim []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -682,14 +706,6 @@ news_feed (
          "title" : "Dzagnidze: One of the Toughest Events of My Career | R9 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Sabina Foisor after defeating Dronavalli in the seventh round of the 2023 Cairns Cup. This aired during Round 9. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-forest-park-put-me-%E2%80%98fighting-mode%E2%80%99-foisor-files-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bebzCtTjG5c.jpg?itok=TPMmctqU\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-forest-park-put-me-%E2%80%98fighting-mode%E2%80%99-foisor-files-r7-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 01:45:03 +0000",
-         "title" : "Krush: Forest Park Put Me in 'Fighting Mode' | Foisor Files R7 #CairnsCup"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2453",
          "pubDate" : "Mon, 12 Jun 2023 01:37:08 +0000",
          "title" : "Winners crowned at 2023 FIDE World Cadets & Youth Blitz and Rapid Championship"
-      },
-      {
-         "description" : "The next round of the Armageddon series starts on 12 June at the World Chess Club in Berlin. With Richard Rapport, Maxime-Vachier Lagrave, Jan-Krzysztof Duda, Michael Adams, Jorden Van Foreest and the three German players Vincent Keymer (pictured), Matthias Bl&uuml;baum and Alexander Donchenko. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-12-june-in-berlin-the-world-chess-armageddon-series-continues",
-         "pubDate" : "Mon, 12 Jun 2023 02:00:00 +0100",
-         "title" : "From 12 June in Berlin: The World Chess Armageddon series continues"
       },
       {
          "description" : "",
