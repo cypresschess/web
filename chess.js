@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2466",
+         "pubDate" : "Mon, 19 Jun 2023 22:19:10 +0000",
+         "title" : "Armenia wins European Pair Blitz Chess Championship"
+      },
+      {
+         "description" : "This is a flash report. The full report will be published soon. In a final loaded with amazing tactics and stunning technique, GM Gukesh D. defeated GM Raunak Sadhwani by a seven-point margin to become the 2023 Junior Speed Chess Champion.&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-jscc-final-gukesh",
+         "pubDate" : "Mon, 19 Jun 2023 14:24:00 -0700",
+         "title" : "Flash Report: Gukesh Wins Junior Speed Chess Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"> <p dir=\"ltr\"><strong>SAINT LOUIS, June 20, 2023 -</strong> With one round to spare, International Master (IM) Anna Zatonskih defied the odds to win the 2023 Cairns Cup. The four-time U.S. Women's Champion called the win her best achievement of her chess career as she took the grand prize of $45,000, despite starting as the lowest-rated player in the field. Zatonskih also earned her first norm toward the Grandmaster (GM) title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-anna-zatonskih-wins-2023-cairns-cup-hosted-saint-louis-chess-club-takes-home-45000-top-prize",
+         "pubDate" : "Mon, 19 Jun 2023 20:27:50 +0000",
+         "title" : "IM Anna Zatonskih Wins 2023 Cairns Cup Hosted by the Saint Louis Chess Club, Takes Home $45,000 Top Prize"
+      },
+      {
          "description" : " <p class=\"lead\">GM Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda. Alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru, they will compete for the coveted prize of €200,000. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-19.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Photo: Max Avdeev The Armageddon Championship Ser",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1184,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2444",
          "pubDate" : "Tue, 06 Jun 2023 17:05:42 +0000",
          "title" : "World Cadets & Youth Rapid & Blitz Chess Championship 2023 starts in Batumi"
-      },
-      {
-         "description" : "Chess.com&#38;rsquo;s $2 million Champions Chess Tour, the game&#38;rsquo;s elite online event, can reveal its next tournament: the 2023 Aimchess Rapid.&#38;nbsp;Running from July 10 to 14, the Aimchess Rapid is named after the unique chess learning and analy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aimchess-rapid-2023-announcement",
-         "pubDate" : "Tue, 06 Jun 2023 07:00:00 -0700",
-         "title" : "Announcing Aimchess Rapid: 4th Event Of $2 Million Champions Chess Tour Kicks Off This July"
       },
       {
          "description" : " The 2023 Asian Championship is underway in Almaty, Kazakhstan. The 86 player event is a qualifier for the World Cup, and has attracted a field that contains 15 GM's at the top, but also a large number of local players towards the tail. There are no representatives from Australia (or even that Asian powerhouse, Russia) but Stuart Fancy (PNG) is flying the flag for Oceania. Despite being one of the lower rated players, he did grab half a point of an IM in the 2nd round. Current results <a href=\"https://chess-results.com/tnr766715.aspx?lan=1\">are here</a>, and there are links to the tournament website from that page. <b>Abdyzhapar,Asylbek (2282) - Fancy,Stuart (1930) [A00]</b><br /> Asian Cont",
