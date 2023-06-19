@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess In Lakecity on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Rajasthan Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-and-exam-at-udaipur-2023/",
+         "pubDate" : "Mon, 19 Jun 2023 09:41:58 +0000",
+         "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
+      },
+      {
          "description" : "Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda, alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
          "pubDate" : "Sun, 18 Jun 2023 18:45:00 +0100",
          "title" : "Armageddon Series, Day 7 - Live from 19.00 CEST!"
+      },
+      {
+         "description" : "Chess artist at work? There was no description on this photo, so I had to dig a little. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf18.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/ciscommunity/52944080647/\">Art, Chess & Campagne | Design in the City Tour</A> &#169; Flickr user <I>Creative Industries Styria GmbH</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> The Flickr user name leads to <A HREF=\"https://www.cis.at/\">Creative Industries Styria</A> (cis.at). The English version of the 'About' page explains, <BLOCKQUOTE> Founded in 2007 as a network society of the Province of Styria, Creative Indust",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/a-constantly-evolving-work-of-art.html",
+         "pubDate" : "Sun, 18 Jun 2023 15:59:00 +0000",
+         "title" : "'A Constantly Evolving Work of Art' (*)"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
@@ -1498,14 +1514,6 @@ news_feed (
          "title" : "English Championship: Michael Adams and Katarzyna Toma win titles"
       },
       {
-         "description" : "Open &#38; Girls Under 7, 9, 11, 13, 15 &#38; 17 Tashkent, Uzbekistan &#160;13th July to 21st July 2023 The above amount includes Registration Fee,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/17th-asian-schools-chess-championship-2023/",
-         "pubDate" : "Tue, 30 May 2023 09:21:54 +0000",
-         "title" : "17th Asian Schools Chess Championship 2023"
-      },
-      {
          "description" : " From the publisher: &#8220;The rivalry between William Steinitz and Johannes Zukertort, the world's strongest chess players in the late nineteenth century, became so fierce that it was eventually named The <a href=\"http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Ink War: Romanticism versus Modernity in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/\">The Ink War: Romanticism versus Modernity in Chess</a> appeared first on <a rel=\"nofollow\" href=\"http",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-can-fill-existing-gaps-in-current-ecosystem-koneru-humpy/articleshow/100594468.cms",
          "pubDate" : "Mon, 29 May 2023 11:31:46 +0000",
          "title" : "Global Chess League can fill existing gaps in current ecosystem: Humpy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2429",
-         "pubDate" : "Mon, 29 May 2023 08:53:36 +0000",
-         "title" : "Preliminary confirmation of participation in WSTC 2023: Deadline extended"
       }
    ]
 }
