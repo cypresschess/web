@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the ninth and final round of the Teplice Open, all the encounters on the top five boards ended in draws and that secured clear first place for German GM Frederik Svane (pictured), who had a half-point lead going into Sunday's round. He scored 7&frac12; points and obtained an Elo gain of 15.8 points, thanks to his 2743 tournament rating performance. Rasmus Svane, the champion's brother, finished in fourth place with 7 points to his name. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/teplice-open-2023-r9",
+         "pubDate" : "Mon, 19 Jun 2023 16:00:00 +0100",
+         "title" : "Frederik Svane wins Teplice Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2465",
+         "pubDate" : "Mon, 19 Jun 2023 14:57:59 +0000",
+         "title" : "Richard Rapport and Jan-Krzysztof Duda advance to Armageddon Series Grand Finale"
+      },
+      {
+         "description" : "The link below opens an article by Ren&eacute; Butler covering recent successes by Stanley and Frankie Badacsonyi, who took part in the English Chess Championships...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/badacsonyi-brothers-at-the-world-youth-chess-championships/",
+         "pubDate" : "Mon, 19 Jun 2023 14:36:15 +0000",
+         "title" : "Badacsonyi brothers at the World Youth Chess Championships"
+      },
+      {
+         "description" : " Young Canberran FM Albert Winkelman is currently playing in Europe, after a stop over in the Middle East. He has just finished playing in the Teplice pen in the Czech Republic, and fell just sort of his first IM norm. After 7 rounds he was in with a good chance (over 2450 PR) but a loss to GM Vlastimil Babula in round 8 left him needing a win over IM Audi Ameya in round 9. Alas for Winkelman it was another loss, leaving him short of the required TPR. However it wasn't all bad news, as he did pick up 35 rating points, pushing him back towards his previous career peak of 2294. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/near-miss-for-winkelman.html",
+         "pubDate" : "Mon, 19 Jun 2023 13:42:00 +0000",
+         "title" : "Near miss for Winkelman"
+      },
+      {
+         "description" : "GM Shamsiddin Vokhidov (Uzbekistan) and WGM Divya Deshmukh (India) emerged as the winners of the 2023 Asian Continental Chess Championships. The event, with a prize fund of $100,000, held in the open and women's sections, took place from June 3-12, 2023, in Almaty, Kazakhstan and brought together 129 players from 18 national federations. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vokhidov-deshmukh-win-asian-championships-2023",
+         "pubDate" : "Mon, 19 Jun 2023 14:00:00 +0100",
+         "title" : "Asian Championships: Vokhidov and Divya clinch titles"
+      },
+      {
          "description" : "Chess In Lakecity on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Rajasthan Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -786,28 +826,12 @@ news_feed (
          "title" : "ECF Secondary School Rapidplay Chess Tournament"
       },
       {
-         "description" : "Anna Zatonskih beat Zhansaya Abdumalik in round 8 of the Cairns Cup to claim tournament victory with one round to spare. Alexandra Kosteniuk's win over Bella Khotenashvili helped Zatonskih to grab clear first place. Remarkably, the tournament champion was the lowest-rated player in Saint Louis. Zatonskih is set to face Irina Krush in Monday's final round. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r8",
-         "pubDate" : "Mon, 12 Jun 2023 14:25:00 +0100",
-         "title" : "Anna Zatonskih wins Cairns Cup with one round to spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2454",
          "pubDate" : "Mon, 12 Jun 2023 11:09:08 +0000",
          "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
-      },
-      {
-         "description" : "The French Team Championship, also known as 'Top 16', was played on June 1-11 in Chartres, a small city not far from Paris. Before Sunday's final round, three teams were tied at the top of the standings: Asnières, Bischwiller and Grasse. The final round saw Asnières and Bischwiller drawing their match, while Grasse lost to Chartres. Asnières won the championship on tiebreak criteria, ahead of Bischwiller. | Photos: French Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asnires-wins-french-team-championship-2023",
-         "pubDate" : "Mon, 12 Jun 2023 08:00:00 +0100",
-         "title" : "Asnières wins French Team Championship in Chartres"
       },
       {
          "description" : "2nd Maharastra International Open Grand Masters Chess Tournament(Category A) was held at Nagpur from 1st to 9th June 2023 for a prize fund of Rs.25,00,000/-",
@@ -1234,14 +1258,6 @@ news_feed (
          "title" : "A visit to HMP Dartmoor - Carl Portman"
       },
       {
-         "description" : "A full obituary can be found at this link https://www.theguardian.com/politics/2023/apr/18/michael-lipton-obituary on the Guardian website Picture courtesy of the University of Sussex https://www.sussex.ac.uk/broadcast/read/60706",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/eulogy-michael-lipton/",
-         "pubDate" : "Mon, 05 Jun 2023 13:13:42 +0000",
-         "title" : "RIP Michael Lipton"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100770582.cms\" />The Global Chess League (GCL) on Monday unveiled the six franchises that will participate in its inaugural edition, taking place in Dubai from June 21 to July 2.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1536,22 +1552,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html",
          "pubDate" : "Mon, 29 May 2023 15:53:00 +0000",
          "title" : "TCEC FRC6, CCC20 Rapid Finals; Both Underway"
-      },
-      {
-         "description" : " IM Junta Ikeda is the ACT Chess Champion for the 10th time, after finishing on 7/7 in the 2023 Championship. He completed his perfect score with wins over CM Hui Li in round 6 and Terrence Tang in the final round. A point behind was FM Michael Kethro who finished his event with a nice attacking win over Malik Amer. CM Hui Li tied for 3rd place on 5.5, along with up and coming junior player Thomas Gatzen-O'Keefe. Seeded 15th in the tournament Gatzen-O'Keefe won his last 4 games to pick up a share of the third place prize, as well as some rating points. Michael Rolph finished on 4.5 the win the best FIDE Unrated prize, while Olamide Fasakin had the biggest rating gain in the tournament. Gatze",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/2023-act-chess-championship-10th-title.html",
-         "pubDate" : "Mon, 29 May 2023 13:48:00 +0000",
-         "title" : "2023 ACT Chess Championship - 10th title for Ikeda"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100594468.cms\" />Former World Rapid Chess champion Koneru Humpy expressed her belief that the inaugural Global Chess League (GCL) has the potential to bridge the existing gap in the global \"ecosystem\" of the sport. The GCL is a joint venture between Tech Mahindra and the international chess federation (FIDE) and is set to take place in Dubai from June 21 to July 2.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-can-fill-existing-gaps-in-current-ecosystem-koneru-humpy/articleshow/100594468.cms",
-         "pubDate" : "Mon, 29 May 2023 11:31:46 +0000",
-         "title" : "Global Chess League can fill existing gaps in current ecosystem: Humpy"
       }
    ]
 }
