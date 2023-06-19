@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">GM Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda. Alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru, they will compete for the coveted prize of €200,000. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-19.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Photo: Max Avdeev The Armageddon Championship Ser",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/richard-rapport-and-jan-krzysztof-duda-are-the-winners-of-the-ar/",
+         "pubDate" : "Mon, 19 Jun 2023 17:27:31 +0000",
+         "title" : "Richard Rapport and Jan-Krzysztof Duda are the Winners of The Armageddon Series: Europe & Africa"
+      },
+      {
          "description" : "In the ninth and final round of the Teplice Open, all the encounters on the top five boards ended in draws and that secured clear first place for German GM Frederik Svane (pictured), who had a half-point lead going into Sunday's round. He scored 7&frac12; points and obtained an Elo gain of 15.8 points, thanks to his 2743 tournament rating performance. Rasmus Svane, the champion's brother, finished in fourth place with 7 points to his name. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,22 +1544,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/",
          "pubDate" : "Tue, 30 May 2023 00:00:52 +0000",
          "title" : "The Ink War: Romanticism versus Modernity in Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2430",
-         "pubDate" : "Mon, 29 May 2023 15:58:36 +0000",
-         "title" : "FIDE World Cup 2023: Preliminary lists of eligible players announced"
-      },
-      {
-         "description" : "The previous report on the world's top two engine vs. engine competitions was <A HREF=\"https://chessforallages.blogspot.com/2023/05/stockfish-wins-tcec-s24-engine-mysteries.html\">Stockfish Wins TCEC S24; Engine Mysteries</A> (May 2023). To summarize that post:- <BLOCKQUOTE> TCEC: Stockfish beat LCZero +20-16=64 to win the S24 Sufi. The site then conducted the following events: S24 VVLTC Bonus, S24 Kibitzer Bonus, and S24 4k 2, It is currently running the 'S24 4k 2 Final' &#149; CCC: The site ran two 'CCC20 Rapid' events, a 12-engine 'Main' and a 6-engine 'Semifinal'. The 'Semifinal' was won by Stockfish, ahead of Lc0 and Dragon. Stockfish qualified for the 'Final', while the other two engine",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html",
-         "pubDate" : "Mon, 29 May 2023 15:53:00 +0000",
-         "title" : "TCEC FRC6, CCC20 Rapid Finals; Both Underway"
       }
    ]
 }
