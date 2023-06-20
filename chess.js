@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Armenian team emerged victorious at the European Pair Blitz Chess Championship, which took place in Krak&oacute;w on Monday. The Armenian pair, women's tournament winner Elina Danielian and the open event runner-up Shant Sargsyan, finished ahead of the teams from the Netherlands (Elina Roebers and Benjamin Bok) and Azerbaijan (Gunay Mammadzada and Shakhriyar Mamedyarov). | Photos: Walusza Fotografia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armenia-wins-european-pair-blitz-championship-2023",
+         "pubDate" : "Tue, 20 Jun 2023 11:40:00 +0100",
+         "title" : "Armenia wins European Pair Blitz Chess Championship"
+      },
+      {
          "description" : "In the diagram position Black is two pawns up, but White's b-pawn is dangerous. So dangerous that Black needs to be precise to win. What should Black do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +88,22 @@ news_feed (
          "link" : "https://worldchess.com/news/all/richard-rapport-and-jan-krzysztof-duda-are-the-winners-of-the-ar/",
          "pubDate" : "Mon, 19 Jun 2023 17:27:31 +0000",
          "title" : "Richard Rapport and Jan-Krzysztof Duda are the Winners of The Armageddon Series: Europe & Africa"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the FIDE Women's Grand Prix in Nicosia, which was surprisingly won by Dinara Wagner, the lowest-rated player in the field. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-244-endgame-highlights-from-the-fide-women-s-grand-prix-in-nicosia",
+         "pubDate" : "Mon, 19 Jun 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #244: Endgame Highlights from the FIDE Women's Grand Prix in Nicosia"
+      },
+      {
+         "description" : "The last time I posted about Chessify was <A HREF=\"https://chessforallages.blogspot.com/2023/03/chessify-resources.html\">Chessify Resources</A> (March 2023; 'Here are a few resources to help explore the Chessify service.'). Since then I've learned much about the service and one of these days might document most my recent experiences on this blog. <P> An important aspect that has eluded me is the Chessify price structure -- plans, coins, and combos. What is the difference between them and how do they work together? Although I had watched the video embedded below, it introduced so many new concepts that I had trouble understanding its basic point. <P> <iframe width=\"420\" height=\"236\" src=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/chessify-coins-and-combos.html",
+         "pubDate" : "Mon, 19 Jun 2023 15:46:00 +0000",
+         "title" : "Chessify Coins and Combos"
       },
       {
          "description" : "In the ninth and final round of the Teplice Open, all the encounters on the top five boards ended in draws and that secured clear first place for German GM Frederik Svane (pictured), who had a half-point lead going into Sunday's round. He scored 7&frac12; points and obtained an Elo gain of 15.8 points, thanks to his 2743 tournament rating performance. Rasmus Svane, the champion's brother, finished in fourth place with 7 points to his name. | Photo: Official website",
@@ -818,28 +842,12 @@ news_feed (
          "title" : "Clutch Armageddon Finishes By Carlsen, Iturrizaga Complete Division I Roster"
       },
       {
-         "description" : "The FIDE World Cup, a knock-out chess extravaganza held every two years, will celebrate its 10th edition in Baku, Azerbaijan, from 30 July to 24 August 2023. Many of the participants in the open and the women's sections have confirmed their presence. Heading the open will be Magnus Carlsen, Ian Nepomniachtchi and Fabiano Caruana, while the women's event will have Humpy Koneru, Ju Wenjun and Aleksandra Goryachkina as the top seeds. The fields will be completed before June 30.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-cup-2023-sneak-peek",
-         "pubDate" : "Tue, 13 Jun 2023 01:00:00 +0100",
-         "title" : "Carlsen, Nepo and Ju Wenjun to play at the FIDE World Cup"
-      },
-      {
          "description" : " My second knight ending from our club online tournament a couple of weeks ago was, in truth, one of the most boring games I've played in the past 60 years, and, as most of my games are extremely boring, that's quite an achievement. I guess you must be reasonably happy if you get a Weighted Error <a href=\"https://chessimprover.com/knight-fever-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-2/\">Knight Fever (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/knight-fever-2/",
          "pubDate" : "Mon, 12 Jun 2023 22:40:38 +0000",
          "title" : "Knight Fever (2)"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 3-12 at the Saint Louis Chess Club. Humpy Koneru, Alexandra Kosteniuk and Harika Dronavalli are the top seeds in the 10-player single round-robin with a classical time control. The event will feature one of the strongest female fields, as they compete for a total prize fund of $180,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-live",
-         "pubDate" : "Mon, 12 Jun 2023 19:55:00 +0100",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : "Five-time world champion Magnus Carlsen will be gunning for an elusive first World Cup crown next month as a host of big stars miss FIDE&#39;s flagship $2.5 million event, it was confirmed on Monday. GM Ding Liren, the Norwegian&#39;s successor as world...",
