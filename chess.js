@@ -10,12 +10,12 @@ news_feed (
          "title" : "Armenia wins European Pair Blitz Chess Championship"
       },
       {
-         "description" : "This is a flash report. The full report will be published soon. In a final loaded with amazing tactics and stunning technique, GM Gukesh D. defeated GM Raunak Sadhwani by a seven-point margin to become the 2023 Junior Speed Chess Champion.&#38;nbsp;...",
+         "description" : "In a final loaded with stunning tactical play and amazing counterstrikes, GM Gukesh D. defeated GM Raunak Sadhwani by a seven-point margin to become the 2023 Junior Speed Chess Champion. Currently ranked number 13 in the world, Gukesh earned $21...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-jscc-final-gukesh",
          "pubDate" : "Mon, 19 Jun 2023 14:24:00 -0700",
-         "title" : "Flash Report: Gukesh Wins Junior Speed Chess Championship"
+         "title" : "Unbelievable Counterstrikes: Gukesh Wins 2023 JSCC"
       },
       {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"> <p dir=\"ltr\"><strong>SAINT LOUIS, June 20, 2023 -</strong> With one round to spare, International Master (IM) Anna Zatonskih defied the odds to win the 2023 Cairns Cup. The four-time U.S. Women's Champion called the win her best achievement of her chess career as she took the grand prize of $45,000, despite starting as the lowest-rated player in the field. Zatonskih also earned her first norm toward the Grandmaster (GM) title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><",
@@ -1552,14 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2431",
          "pubDate" : "Tue, 30 May 2023 12:26:37 +0000",
          "title" : "English Championship: Michael Adams and Katarzyna Toma win titles"
-      },
-      {
-         "description" : " From the publisher: &#8220;The rivalry between William Steinitz and Johannes Zukertort, the world's strongest chess players in the late nineteenth century, became so fierce that it was eventually named The <a href=\"http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Ink War: Romanticism versus Modernity in Chess</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/\">The Ink War: Romanticism versus Modernity in Chess</a> appeared first on <a rel=\"nofollow\" href=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/05/30/the-ink-war-romanticism-versus-modernity-in-chess/",
-         "pubDate" : "Tue, 30 May 2023 00:00:52 +0000",
-         "title" : "The Ink War: Romanticism versus Modernity in Chess"
       }
    ]
 }
