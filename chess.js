@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black is two pawns up, but White's b-pawn is dangerous. So dangerous that Black needs to be precise to win. What should Black do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/precision",
+         "pubDate" : "Tue, 20 Jun 2023 09:00:00 +0100",
+         "title" : "Precision!"
+      },
+      {
+         "description" : "The 1st European Pairs Chess Championship, an official side event of the European Games Krakow-Malopolska 2023, concluded yesterday in Poland! The event was held in two phases: qualification and playoffs, and the individual medalists were determined by the playoffs in each section (Open and Women's). The combined Pair medals were decided by the final position of the players of each team after the playoffs in each section (sum of points): 1st&#160;8-points, 2nd&#160;7-points, 3rd&#160;6-points, 4th&#160;5-points, 5th&#160;4-points, 6th&#160;3 points, 7th&#160;2-points, and 8th&#160;1-point.&#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/armenia-wins-european-pairs-chess-championship-2023/",
+         "pubDate" : "Tue, 20 Jun 2023 06:36:28 +0000",
+         "title" : "Armenia wins European Pairs Chess Championship 2023"
+      },
+      {
+         "description" : "The Prague Challengers 2023 is taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Benjamin Gledura, Erwin L&#8221;Ami, Jergus Pechac, Meteusz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-challengers-2023-live/",
+         "pubDate" : "Tue, 20 Jun 2023 05:00:00 +0000",
+         "title" : "Prague Challengers 2023 - LIVE"
+      },
+      {
+         "description" : "The Prague Challengers 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023More : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-challengers-2023/",
+         "pubDate" : "Tue, 20 Jun 2023 05:00:00 +0000",
+         "title" : "Prague Challengers 2023"
+      },
+      {
+         "description" : "The Prague Masters 2023 is taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Hao Wang, Sam Shankland, Pentala Harikrishna, Bogdan-Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-masters-2023-live/",
+         "pubDate" : "Tue, 20 Jun 2023 04:30:00 +0000",
+         "title" : "Prague Masters 2023 - LIVE"
+      },
+      {
+         "description" : "The Prague Masters 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Challengers 2023More : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-masters-2023/",
+         "pubDate" : "Tue, 20 Jun 2023 04:00:00 +0000",
+         "title" : "Prague Masters 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,12 +130,28 @@ news_feed (
          "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
       },
       {
+         "description" : "Chess is an accompanying event of the 3rd European Games which is being held in Krakow, Poland. The one day event in the Krakow Opera House on Monday June 19 sees 16 players (one male and one female from 8 countries) compete in a blitz round-robin, before there are playoffs for 1st, 3rd, 5th and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-pairs-blitz-women-2023-live/",
+         "pubDate" : "Mon, 19 Jun 2023 07:00:00 +0000",
+         "title" : "European Pairs Blitz Women 2023 - LIVE"
+      },
+      {
          "description" : "Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda, alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-final-report",
          "pubDate" : "Mon, 19 Jun 2023 08:00:00 +0100",
          "title" : "Armageddon series: Rapport wins European leg, Duda in Grand Finale"
+      },
+      {
+         "description" : "Chess is an accompanying event of the 3rd European Games which is being held in Krakow, Poland. The one day event in the Krakow Opera House on Monday June 19 sees 16 players (one male and one female from 8 countries) compete in a blitz round-robin, before there are playoffs for 1st, 3rd, 5th and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-pairs-blitz-2023-live/",
+         "pubDate" : "Mon, 19 Jun 2023 06:00:00 +0000",
+         "title" : "European Pairs Blitz 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at his own game from the 2023 American Continental Championship against FM Angel Gabriel Cordoba. Originally on Twitch. 2023.06.06<br /> Angel Gabriel Cordoba vs. Robert Hungaski, 2023: A13 English, Neo-Catalan<br /> <a href=\"https://lichess.org/broadcast/american-continental-chess-championship-2023/round-7/EGYlqWMt\">https://lichess.org/broadcast/american-continental-chess-championship-20...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
@@ -194,22 +258,6 @@ news_feed (
          "title" : "Buenos Aires Masters"
       },
       {
-         "description" : "The Europe and Africa edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. More : Armageddon Europe &#38; Africa &#x2013; Winners / Armageddon Europe &#38; Africa &#x2013; Losers / Yoo vs. Pranav []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-europe-africa-losers/",
-         "pubDate" : "Sun, 18 Jun 2023 10:00:00 +0000",
-         "title" : "Armageddon Europe & Africa - Losers"
-      },
-      {
-         "description" : "The Europe and Africa edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. More : Armageddon Europe &#38; Africa &#x2013; Winners / Armageddon Europe &#38; Africa &#x2013; Losers / Yoo vs. Pranav []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-europe-africa-winners/",
-         "pubDate" : "Sun, 18 Jun 2023 09:00:00 +0000",
-         "title" : "Armageddon Europe & Africa - Winners"
-      },
-      {
          "description" : " If you teach at novice/intermediate (0-1500) level you should be aware of the basic principles of instruction. Every lesson serves a specific purpose, with direct teaching and worked examples. Avoid cognitive load problems, which are caused by students trying to process too much information at the same time and getting confused. How do you deal <a href=\"https://chessimprover.com/teaching-the-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teaching the Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teaching-the-openings/\">Teaching the Openings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -280,38 +328,6 @@ news_feed (
          "link" : "https://www.thearticle.com/liberty-or-libertinism-from-schiller-to-andrew-tate/",
          "pubDate" : "Sat, 17 Jun 2023 11:12:40 +0000",
          "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
-      },
-      {
-         "description" : "The FISCA GM 2023 is a 10-player round-robin tournament taking place from 17&#x2013;24 June 2023 in Jupiter, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. More : Yoo vs. Pranav V Junior Speed Chess Quaterfinal / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fisca-gm-2023-live/",
-         "pubDate" : "Sat, 17 Jun 2023 11:00:00 +0000",
-         "title" : "FISCA GM 2023 - LIVE"
-      },
-      {
-         "description" : "The FISCA GM 2023 is a 10-player round-robin tournament taking place from 17&#x2013;24 June 2023 in Jupiter, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. More : Yoo vs. Pranav V []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fisca-gm-2023/",
-         "pubDate" : "Sat, 17 Jun 2023 10:22:00 +0000",
-         "title" : "FISCA GM 2023"
-      },
-      {
-         "description" : "The Silver Lake Open is taking place from 18&#x2013;25 June 2023 in Silver Lake, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Nikita Petrov, Pranesh M, Mikhail Bryakin, Branko Damljanovic, Soham Das, Svyatoslav Bazakutsa, Vlad-Victor Barnaure, Dan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/silver-lake-open-2023-live/",
-         "pubDate" : "Sat, 17 Jun 2023 09:20:00 +0000",
-         "title" : "Silver Lake Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Silver Lake Open 2023 is taking place from 18&#x2013;25 June 2023 in Silver Lake, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Nikita Petrov, Pranesh M, Mikhail Bryakin, Branko Damljanovic, Soham Das, Svyatoslav Bazakutsa, Vlad-Victor Barnaure, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/silver-lake-open-2023/",
-         "pubDate" : "Sat, 17 Jun 2023 09:00:00 +0000",
-         "title" : "Silver Lake Open 2023"
       },
       {
          "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-to-play-2023-world-cup",
          "pubDate" : "Mon, 12 Jun 2023 11:30:00 -0700",
          "title" : "Carlsen Goes For First World Cup Win"
-      },
-      {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the Sharjah Masters. He was particularly intrigued by an endgame, in which a bishop had to fight a hard fight against several enemy pawns. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-243-endgame-highlights-from-the-sharjah-masters",
-         "pubDate" : "Mon, 12 Jun 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #243: Endgame Highlights from the Sharjah Masters"
       },
       {
          "description" : "It's time for another fortnightly report on the world's top two engine vs. engine chess competitions. For the previous report, see <A HREF=\"https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html\">TCEC FRC6, CCC20 Rapid Finals; Both Underway</A> (May 2023). Following is a summary of that report. <BLOCKQUOTE> TCEC: The site launched a chess960 event, 'S24 FRC6', which is currently in the 'First phase - League C', the third of four preliminary six-engine double round robins. &#149; CCC: The engine Mystery played five 100-game matches, In the 'CCC20 Rapid Challenger Match' Lc0 beat Dragon 129.5-120.5, and is currently losing to Stockfish by seven points in the 'Fina",
