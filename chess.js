@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The junior chess championships of various age categories serve a very important purpose. The talented medal winners get the limelight they need - with the adequate amount of support, these kids go on to do great things in the chess world! One such example is 2014-born Thehas Rithmitha Kiringoda, gold medallist in the Under-9 World Schools Championships 2023. Starting off as the 21st seed among 61 players, Thehas went on to score a dominating 7&frac12;5/9 and win the event! In this article, we ask Thehas a few questions about his chess journey so far, his performance in the World Schools, future goals and much more. Get to know the mindset of a young chess talent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
+         "pubDate" : "Tue, 20 Jun 2023 20:00:00 +0100",
+         "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
+      },
+      {
+         "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-nubairshah-shaikh-and-sakshi-chitlange/",
+         "pubDate" : "Tue, 20 Jun 2023 17:23:18 +0000",
+         "title" : "Congratulations Nubairshah Shaikh and Sakshi Chitlange"
+      },
+      {
          "description" : "You are the kind of chess player who likes to analyse passionately, perhaps directly on the screen, using ChessBase. You regularly save your analyses and to make sure that you can find them again you have a list of 30 chapters which systematises the games with the help of a text entry on the first move. In spite of this loving care it still happens that analyses disappear. How can this be? What has gone wrong? ChessBase expert Martin Fischer has the answer!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,6 +232,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/",
          "pubDate" : "Mon, 19 Jun 2023 03:39:51 +0000",
          "title" : "James Canty chats with The Chess Drum"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2456",
+         "pubDate" : "Mon, 19 Jun 2023 01:39:30 +0000",
+         "title" : "FIDE World Cup 2023: Useful information for players"
       },
       {
          "description" : "The Aktobe Open Classic 2023 is taking place at Aktobe, Kazakhstan from June 20th to 27th. It is organized by the Kazakhstan Chess Federation and set up as a 9-round swiss tournament. The time control is 90 minutes plus a 30-second increment per move, starting from move 1. The top five rated players are Maxim []",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Wang, Shankland and Harikrishna head Prague Masters lineup"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2456",
-         "pubDate" : "Thu, 15 Jun 2023 01:39:30 +0000",
-         "title" : "FIDE World Cup 2023: Useful information for players"
-      },
-      {
          "description" : "The Cairns Cup is the strongest privately organized women's tournament in the world. The third edition of the event came to an end on Monday, with Anna Zatonskih stunning the chess world by winning the closed competition with a round to spare. Alexandra Kosteniuk finished in second place, after grabbing three wins in a row in the final rounds. On Sunday, she defeated Bella Khotenashvili in a game that featured four queens on the board amid a fantastic tactical struggle. | Robert Ris analysed the formidable encounter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2455",
          "pubDate" : "Tue, 13 Jun 2023 09:32:12 +0000",
          "title" : "Anna Zatonskih wins 2023 Cairns Cup"
-      },
-      {
-         "description" : "The last pawn is often worth its weight in gold. How did it help White to win in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-last-pawn-2",
-         "pubDate" : "Tue, 13 Jun 2023 09:00:00 +0100",
-         "title" : "The last pawn"
       },
       {
          "description" : "The last round of the Cairns Cup 2023 featured an epic matchup between&#38;nbsp;IM Anna Zatonskih and her longtime U.S. Women&#39;s Championship rival GM Irina Krush.&#38;nbsp;Further cementing her tournament victory, Zatonskih held off Krush&#39;s pressure in th...",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-sambalpur-odisha-certificates/",
          "pubDate" : "Wed, 31 May 2023 06:56:55 +0000",
          "title" : "Senior National Arbiter Sambalpur, Odisha Certificates"
-      },
-      {
-         "description" : " I've been having a lot of fun with ChatGPT recently. If you ask it a factual question about chess it makes random stuff up rather than saying it doesn't know. (Bing Chat is a lot better or a lot less amusing in this respect.) When I asked it about Richard James it told <a href=\"https://chessimprover.com/chess-for-giraffes/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Giraffes\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-giraffes/\">Chess for Giraffes</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-for-giraffes/",
-         "pubDate" : "Tue, 30 May 2023 17:05:06 +0000",
-         "title" : "Chess for Giraffes"
       }
    ]
 }
