@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You are the kind of chess player who likes to analyse passionately, perhaps directly on the screen, using ChessBase. You regularly save your analyses and to make sure that you can find them again you have a list of 30 chapters which systematises the games with the help of a text entry on the first move. In spite of this loving care it still happens that analyses disappear. How can this be? What has gone wrong? ChessBase expert Martin Fischer has the answer!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-chessbase-17-where-are-my-analyses",
+         "pubDate" : "Tue, 20 Jun 2023 15:14:43 +0100",
+         "title" : "Where are my analyses?"
+      },
+      {
+         "description" : "After a three-year hiatus due to the pandemic, the long-running ASEAN Age Group Championships have resumed. The 21st ASEAN+ Age Group Championship is currently being held in Bangkok, Thailand from 17-26 June 2023 and has attracted 328 players from 15 countries. As in the previous 20 editions, classical, rapid and blitz tournaments will be played in categories ranging from under 8 to under 20, for both boys and girls. | Photo: Thailand's young national champion and No. 1 ranked player leads representatives from all participating countries in pledge for fair play. | Photo: Prin Laohawirapap",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/21st-asean-age-group-championships-gets-underway",
+         "pubDate" : "Tue, 20 Jun 2023 15:00:00 +0100",
+         "title" : "21st ASEAN+ Age-Group Championships gets underway"
+      },
+      {
+         "description" : "We're looking for a volunteer to help with cataloguing the English Chess Library books at De Montfort University in Leicester. We can offer B&#38;B accommodation...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/volunteer-wanted/",
+         "pubDate" : "Tue, 20 Jun 2023 13:45:13 +0000",
+         "title" : "Volunteer wanted!"
+      },
+      {
          "description" : "The Armenian team emerged victorious at the European Pair Blitz Chess Championship, which took place in Krak&oacute;w on Monday. The Armenian pair, women's tournament winner Elina Danielian and the open event runner-up Shant Sargsyan, finished ahead of the teams from the Netherlands (Elina Roebers and Benjamin Bok) and Azerbaijan (Gunay Mammadzada and Shakhriyar Mamedyarov). | Photos: Walusza Fotografia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -87,7 +111,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/richard-rapport-and-jan-krzysztof-duda-are-the-winners-of-the-ar/",
          "pubDate" : "Mon, 19 Jun 2023 17:27:31 +0000",
-         "title" : "Richard Rapport and Jan-Krzysztof Duda are the Winners of The Armageddon Series: Europe & Africa"
+         "title" : "Rapport Wins the Armageddon Series: Europe & Africa"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the FIDE Women's Grand Prix in Nicosia, which was surprisingly won by Dinara Wagner, the lowest-rated player in the field. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -762,22 +786,6 @@ news_feed (
          "title" : "The last pawn"
       },
       {
-         "description" : "The first day of the Europe and Africa Regional qualifier kicked off with a top match between British number one Michael Adams and Poland's top player Jan-Krzysztof Duda. After several ups and downs Duda won with a bit of luck. The second match of the day saw an all-German clash between Vincent Keymer and Alexander Donchenko, in which Keymer (pictured) was a bit more lucky and won.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-in-berlin-day-1-duda-wins-against-adams-keymer-beats-donchenko",
-         "pubDate" : "Tue, 13 Jun 2023 08:55:00 +0100",
-         "title" : "Armageddon in Berlin: Day 1 - Duda wins against Adams, Keymer beats Donchenko"
-      },
-      {
-         "description" : "Remember The Queen's Gambit? It was released in October 2020, and became Netflix's most-watched scripted miniseries, making it the top program in 63 countries. The series received high critical acclaim, but also resulted in a massive general interest in the game. Now Netflix is poised to release a game that combines the story and character elements from the show, while training players the strategy of the game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queen-s-gambit-chess",
-         "pubDate" : "Tue, 13 Jun 2023 08:00:00 +0100",
-         "title" : "Queen's Gambit Chess"
-      },
-      {
          "description" : "The last round of the Cairns Cup 2023 featured an epic matchup between&#38;nbsp;IM Anna Zatonskih and her longtime U.S. Women&#39;s Championship rival GM Irina Krush.&#38;nbsp;Further cementing her tournament victory, Zatonskih held off Krush&#39;s pressure in th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1290,14 +1298,6 @@ news_feed (
          "title" : "The CCC's Mystery Engine"
       },
       {
-         "description" : "We hope this report gives you a sense of Carl's ongoing work for the ECF, including visits to prisons of all categories across the country....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/a-visit-to-hmp-dartmoor-carl-portman/",
-         "pubDate" : "Mon, 05 Jun 2023 13:39:19 +0000",
-         "title" : "A visit to HMP Dartmoor - Carl Portman"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100770582.cms\" />The Global Chess League (GCL) on Monday unveiled the six franchises that will participate in its inaugural edition, taking place in Dubai from June 21 to July 2.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1536,38 +1536,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-giraffes/",
          "pubDate" : "Tue, 30 May 2023 17:05:06 +0000",
          "title" : "Chess for Giraffes"
-      },
-      {
-         "description" : "How do you follow an important chess news month like <A HREF=\"https://chessforallages.blogspot.com/2023/04/world-championship-yahoos-2023.html\">World Championship Yahoos 2023</A> (April 2023; see the footnote for an explanation of Yahoos)? The previous World Championship was held in November, so the following month we had <A HREF=\"https://chessforallages.blogspot.com/2021/12/year-end-yahoos.html\">Year-end Yahoos</A> (December 2021). While I'm thinking about that question, let's have the usual Yahoo statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ne30.gif\" WIDTH=200 HEIGHT=160 ALIGN=LEFT VSPACE=5 HSPACE=5> At the end of the month of May, Google News served 95 stories about chess",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/05/youtube-yahoos.html",
-         "pubDate" : "Tue, 30 May 2023 15:13:00 +0000",
-         "title" : "Youtube Yahoos"
-      },
-      {
-         "description" : "The FIDE World Women's Team Chess Championship-2023 scheduled to be held at Bydgoszcz, Poland from 05 - 12 September 2023. The Indian for the event",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/selection-of-team-for-world-women-team-chess-championship-2023/",
-         "pubDate" : "Tue, 30 May 2023 13:55:25 +0000",
-         "title" : "Selection of Team for World Women Team Chess Championship-2023"
-      },
-      {
-         "description" : " GM Ian Rogers has announced that the Canberra Times plans to drop his chess column from the Sunday paper in a couple of weeks. Ian has been writing the column for a few weeks short of 30 years, while the column itself has been in existence since 1968. Also likely to go is the Bridge column, which has had the same editor for its entire lifespan, Len Dixon, who is 101 years old! Sadly this has been a trend in the print media of late, with Ian's Sydney Morning Herald column dropped in 2020, only to be saved by a concerted letter writing campaign. Quite possibly this will have the same effect on the Canberra Times, so I encourage everyone to get to work. If you want your complaints/opinions pub",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/05/no-chess-column.html",
-         "pubDate" : "Tue, 30 May 2023 13:14:00 +0000",
-         "title" : "No Chess Column?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2431",
-         "pubDate" : "Tue, 30 May 2023 12:26:37 +0000",
-         "title" : "English Championship: Michael Adams and Katarzyna Toma win titles"
       }
    ]
 }
