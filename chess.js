@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;My friend told me that you are a chess enthusiast&#8221; A student These days we are interviewing students for the fall Coop term positions in engineering. They are doing their best, like any of us, to have a resume and cover letter that gives them a leg up on the competition. A few of them <a href=\"https://chessimprover.com/a-chess-enthusiast/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Chess Enthusiast\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-chess-enthusiast/\">A Chess Enthusiast</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-chess-enthusiast/",
+         "pubDate" : "Tue, 20 Jun 2023 22:55:56 +0000",
+         "title" : "A Chess Enthusiast"
+      },
+      {
+         "description" : "The Aktobe Open Classic 2023 is taking place at Aktobe, Kazakhstan from June 20th to 27th. It is organized by the Kazakhstan Chess Federation and set up as a 9-round swiss tournament. The time control is 90 minutes plus a 30-second increment per move, starting from move 1. The top five rated players are Maxim []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aktobe-open-classic-2023-live/",
+         "pubDate" : "Tue, 20 Jun 2023 21:41:28 +0000",
+         "title" : "Aktobe Open Classic 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to effectively use chess puzzles to improve your game. 2023.06.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/progressing-chess-puzzles-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XEAW827IrWI.jpg?itok=zCKhSV99\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/progressing-chess-puzzles-beginner-breakdown",
+         "pubDate" : "Tue, 20 Jun 2023 20:15:45 +0000",
+         "title" : "Progressing with Chess Puzzles | Beginner Breakdown"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on prophylaxis. 2023.06.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UOM88zZLL9A.jpg?itok=63FtTzv5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi",
+         "pubDate" : "Tue, 20 Jun 2023 20:15:45 +0000",
+         "title" : "Prophylaxis and Dynamics | Grandmaster's Choice - GM JJ Ali Marandi"
+      },
+      {
          "description" : "The junior chess championships of various age categories serve a very important purpose. The talented medal winners get the limelight they need - with the adequate amount of support, these kids go on to do great things in the chess world! One such example is 2014-born Thehas Rithmitha Kiringoda, gold medallist in the Under-9 World Schools Championships 2023. Starting off as the 21st seed among 61 players, Thehas went on to score a dominating 7&frac12;5/9 and win the event! In this article, we ask Thehas a few questions about his chess journey so far, his performance in the World Schools, future goals and much more. Get to know the mindset of a young chess talent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
          "pubDate" : "Tue, 20 Jun 2023 20:00:00 +0100",
          "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
+      },
+      {
+         "description" : "The Pula Open 2023 will take place from the 17th to the 25th of June in Pula, Croatia as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023 / Prague Challengers 2023 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pula-open-2023/",
+         "pubDate" : "Tue, 20 Jun 2023 18:00:00 +0000",
+         "title" : "Pula Open 2023"
       },
       {
          "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
@@ -42,6 +82,22 @@ news_feed (
          "title" : "Volunteer wanted!"
       },
       {
+         "description" : "The Prague Open 2023 is taking place from 22&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Vojtech Plat, Kaan Kucuksari, Guha Mitrabha, Tomas Polak, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-open-2023-live/",
+         "pubDate" : "Tue, 20 Jun 2023 11:45:00 +0000",
+         "title" : "Prague Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Prague Open 2023 is a 9-round Swiss tournament taking place from 22&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-open-2023/",
+         "pubDate" : "Tue, 20 Jun 2023 11:30:00 +0000",
+         "title" : "Prague Open 2023"
+      },
+      {
          "description" : "The Armenian team emerged victorious at the European Pair Blitz Chess Championship, which took place in Krak&oacute;w on Monday. The Armenian pair, women's tournament winner Elina Danielian and the open event runner-up Shant Sargsyan, finished ahead of the teams from the Netherlands (Elina Roebers and Benjamin Bok) and Azerbaijan (Gunay Mammadzada and Shakhriyar Mamedyarov). | Photos: Walusza Fotografia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +122,14 @@ news_feed (
          "title" : "Armenia wins European Pairs Chess Championship 2023"
       },
       {
+         "description" : "The Pula Open 2023 will take place from the 17th to the 25th of June in Pula, Croatia as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Parallel : Prague Masters 2023 / Prague Challengers 2023 / Prague Open 2023More : European []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pula-open-2023-live/",
+         "pubDate" : "Tue, 20 Jun 2023 05:47:00 +0000",
+         "title" : "Pula Open 2023 - LIVE"
+      },
+      {
          "description" : "The Prague Challengers 2023 is taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Benjamin Gledura, Erwin L&#8221;Ami, Jergus Pechac, Meteusz []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,7 +138,7 @@ news_feed (
          "title" : "Prague Challengers 2023 - LIVE"
       },
       {
-         "description" : "The Prague Challengers 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023More : []",
+         "description" : "The Prague Challengers 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023 / []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/prague-challengers-2023/",
@@ -90,7 +154,7 @@ news_feed (
          "title" : "Prague Masters 2023 - LIVE"
       },
       {
-         "description" : "The Prague Masters 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Challengers 2023More : []",
+         "description" : "The Prague Masters 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Challengers 2023 / []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/prague-masters-2023/",
@@ -210,14 +274,6 @@ news_feed (
          "title" : "Armageddon series: Rapport wins European leg, Duda in Grand Finale"
       },
       {
-         "description" : "Chess is an accompanying event of the 3rd European Games which is being held in Krakow, Poland. The one day event in the Krakow Opera House on Monday June 19 sees 16 players (one male and one female from 8 countries) compete in a blitz round-robin, before there are playoffs for 1st, 3rd, 5th and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-pairs-blitz-2023-live/",
-         "pubDate" : "Mon, 19 Jun 2023 06:00:00 +0000",
-         "title" : "European Pairs Blitz 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at his own game from the 2023 American Continental Championship against FM Angel Gabriel Cordoba. Originally on Twitch. 2023.06.06<br /> Angel Gabriel Cordoba vs. Robert Hungaski, 2023: A13 English, Neo-Catalan<br /> <a href=\"https://lichess.org/broadcast/american-continental-chess-championship-2023/round-7/EGYlqWMt\">https://lichess.org/broadcast/american-continental-chess-championship-20...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -242,28 +298,12 @@ news_feed (
          "title" : "FIDE World Cup 2023: Useful information for players"
       },
       {
-         "description" : "The Aktobe Open Classic 2023 is taking place at Aktobe, Kazakhstan from June 20th to 27th. It is organized by the Kazakhstan Chess Federation and set up as a 9-round swiss tournament. The time control is 90 minutes plus a 30-second increment per move, starting from move 1. The top five rated players are Maxim []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aktobe-open-classic-2023/",
-         "pubDate" : "Sun, 18 Jun 2023 22:50:00 +0000",
-         "title" : "Aktobe Open Classic 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2464",
          "pubDate" : "Sun, 18 Jun 2023 22:17:42 +0000",
          "title" : "Frederik Svane wins Teplice Open 2023"
-      },
-      {
-         "description" : "Indian Grandmasters Gukesh and Raunak Sadhwani battle it out in the final of the $50,000 Junior Speed Chess Championship held on Chess.com. The winner qualifies for the main event later in the year. The players play 90 minutes of blitz games with 5 minutes for all moves plus a 1-second increment per move, then 60 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-vs-raunak-junior-speed-chess-final/",
-         "pubDate" : "Sun, 18 Jun 2023 22:08:01 +0000",
-         "title" : "Gukesh vs. Raunak - Junior Speed Chess Final"
       },
       {
          "description" : "When a strong player looks at a position (in a real game of chess, not a problem) he or she will automatically see it not as a random collection of pieces but as a series of chunks - patterns that are recognisable and have known features. And the patterns will also generate ideas of moves which may be profitable. Curiously, sometimes apparently insignificant changes can be crucial, and today I'm focussing on an instance of this phenomenon. | Pictured: Mikhail Tal",
@@ -312,22 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2463",
          "pubDate" : "Sun, 18 Jun 2023 13:43:15 +0000",
          "title" : "European Pair Blitz Championship kicks off in Krakow"
-      },
-      {
-         "description" : "The Buenos Aires Masters is taking place from 14-20 June 2023 in Buenos Aires, Argentina. The time control is 90 minutes with a 30-second increment beginning from move one. The prize pool is $450.000 Argentine pesos. It is a 9-round Swiss tournament. More : Armageddon Europe &#38; Africa &#x2013; Winners / Armageddon Europe &#38; Africa []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/buenos-aires-masters-live/",
-         "pubDate" : "Sun, 18 Jun 2023 11:12:00 +0000",
-         "title" : "Buenos Aires Masters - LIVE"
-      },
-      {
-         "description" : "The Buenos Aires Masters is taking place from 14-20 June 2023 in Buenos Aires, Argentina. The time control is 90 minutes with a 30-second increment beginning from move one. The prize pool is $450.000 Argentine pesos. It is a 9-round Swiss tournament. Chessdom.com will daily follow the live games. More : Armageddon Europe &#38; Africa []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/buenos-aires-masters/",
-         "pubDate" : "Sun, 18 Jun 2023 11:00:00 +0000",
-         "title" : "Buenos Aires Masters"
       },
       {
          "description" : " If you teach at novice/intermediate (0-1500) level you should be aware of the basic principles of instruction. Every lesson serves a specific purpose, with direct teaching and worked examples. Avoid cognitive load problems, which are caused by students trying to process too much information at the same time and getting confused. How do you deal <a href=\"https://chessimprover.com/teaching-the-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teaching the Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teaching-the-openings/\">Teaching the Openings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
@@ -832,22 +856,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/khotenashvili-magnus-my-favorite-world-champion-foisor-files-r7-cairnscup",
          "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
          "title" : "Khotenashvili: Magnus is My Favorite World Champion | Foisor Files R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Sabina Foisor after defeating Kosteniuk in the seventh round of the 2023 Cairns Cup. This aired during Round 9. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-who-wrote-withdrawal-rule-foisor-files-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aGH0errHFvI.jpg?itok=JqQM_C23\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dzagnidze-who-wrote-withdrawal-rule-foisor-files-r7-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
-         "title" : "Dzagnidze: Who Wrote the Withdrawal Rule? | Foisor Files R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Almira Skripchenko after defeating Mammadzada in the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dzagnidze-one-toughest-events-my-career-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mRv0MQqY8wc.jpg?itok=xaGEOC8f\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dzagnidze-one-toughest-events-my-career-r9-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
-         "title" : "Dzagnidze: One of the Toughest Events of My Career | R9 #CairnsCup"
       },
       {
          "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
