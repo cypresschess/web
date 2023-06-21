@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxime Vachier-Lagrave of France and GM Dmitrij Kollars of Germany were the winners of Titled Tuesday on June 20. GM Gata Kamsky, who won one of last week&#39;s events, nearly pulled it off again in the early tournament, finishing second behind Vac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-kollars-win-titled-tuesday-june-20-2023",
+         "pubDate" : "Wed, 21 Jun 2023 09:42:07 -0700",
+         "title" : "French And German GMs Split Tuesday Tournament"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-among-100-most-influential-companies-2023",
-         "pubDate" : "Wed, 21 Jun 2023 05:05:45 -0700",
+         "pubDate" : "Wed, 21 Jun 2023 05:05:00 -0700",
          "title" : "It's TIME To Acknowledge Chess: Chess.com Named In Prestigious 100 Most Influential Companies List"
       },
       {
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-interview-world-chess",
          "pubDate" : "Wed, 21 Jun 2023 12:00:00 +0100",
          "title" : "Gukesh: \"Fischer, Kasparov and Carlsen for sure are the top three\""
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
+         "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
+         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
       },
       {
          "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
@@ -1258,14 +1274,6 @@ news_feed (
          "title" : "Nakamura In Norway Wins Another Tournament"
       },
       {
-         "description" : "After seven rounds, the top three spots are taken by three American grandmasters at Norway Chess 2023. GM Fabiano Caruana continues to lead by 2 points despite losing on time in armageddon against GM Gukesh D with a winning position on the board. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-7",
-         "pubDate" : "Wed, 07 Jun 2023 07:21:00 -0700",
-         "title" : "3 Americans Lead In Norway; So, Giri Pick Up First Wins; Carlsen Struggles Vs. Firouzja"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1536,22 +1544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2434",
          "pubDate" : "Thu, 01 Jun 2023 11:26:46 +0000",
          "title" : "FIDE June 2023 rating list published"
-      },
-      {
-         "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan Summer is quickly approaching. For many it is the time when tournament participation is in the cards. One way to get ready for them is to practice some interesting puzzles. Here are a few to wet your appetite. Scroll down slowly from one to <a href=\"https://chessimprover.com/stalemate-tuesday-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-2/\">Stalemate Tuesday (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/stalemate-tuesday-2/",
-         "pubDate" : "Wed, 31 May 2023 16:36:21 +0000",
-         "title" : "Stalemate Tuesday (2)"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess Plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of different chess-related activities, continues its <a href=\"https://chessarena.com/armageddon\">Armageddon Championship Series</a> with Europe and Africa week. Kickstarting on June 12, the high-stakes event will follow the same dramatic format and immense time pressure constraints as the previous Armageddon events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-05-31_18-44-37.jpg\" width=\"1280\" height=\"720\" alt=\"\" /> </div> World Chess launched the Armageddon Championship in March 2023, ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-series-announces-europe-and-africa-week/",
-         "pubDate" : "Wed, 31 May 2023 15:46:42 +0000",
-         "title" : "World Chess' Armageddon Series announces Europe and Africa Week"
       }
    ]
 }
