@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Colònia de Sant Jordi International Chess Festival came to an end last Sunday in Mallorca. English CM Ankush Khandelwal, a 4-time Pentamind world champion, was proclaimed champion of the International Open. Famed streamer Anna Cramling was the strongest woman player in the open, and successfully streamed her games on Twitch. The Masters tournament, a 10-player single round-robin, was won by Spanish IM Aar&oacute;n Alonso. | Photos: Tournament&rsquo;s Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/colonia-sant-jordi-festival-2023",
+         "pubDate" : "Wed, 21 Jun 2023 21:00:00 +0100",
+         "title" : "A successful second edition: Colònia Sant Jordi Festival in Mallorca"
+      },
+      {
          "description" : "GM Maxime Vachier-Lagrave of France and GM Dmitrij Kollars of Germany were the winners of Titled Tuesday on June 20. GM Gata Kamsky, who won one of last week&#39;s events, nearly pulled it off again in the early tournament, finishing second behind Vac...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://chessimprover.com/stalemate-tuesday-3/",
          "pubDate" : "Wed, 14 Jun 2023 14:03:01 +0000",
          "title" : "Stalemate Tuesday (3)"
-      },
-      {
-         "description" : "More than 30 years since its inception, 'First Saturday' is still going strong. Constantly reinventing itself, it has been kicking and running against all odds. Most of today's top professionals have succumbed to the attraction of this ingenious concept that aims at providing chess players with the opportunity to earn norms and subsequently further their chess career. The model has been adopted by many organisers at various corners of the globe, but the credit for the original set up goes to Laszlo Nagy, known as Mr First Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-rejuvenated-first-saturday",
-         "pubDate" : "Wed, 14 Jun 2023 12:00:00 +0100",
-         "title" : "A rejuvenated 'First Saturday'"
       },
       {
          "description" : "",
