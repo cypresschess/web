@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-festival-bremen-2023",
+         "pubDate" : "Wed, 21 Jun 2023 08:30:00 +0100",
+         "title" : "Over a thousand students at chess festival in Bremen"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski discusses the general DNA of the Sicilian, and shows his game from the 2023 Americas Absolute Continental Chess Championship. Plus, see a French defense game. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/l%C3%B6wenthal-sicilian-dna-prepare-pro-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tualmw-pkw.jpg?it",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/l%C3%B6wenthal-sicilian-dna-prepare-pro-gm-robert-hungaski",
+         "pubDate" : "Wed, 21 Jun 2023 05:16:03 +0000",
+         "title" : "The L&ouml;wenthal Sicilian DNA | Prepare Like A Pro - GM Robert Hungaski"
+      },
+      {
          "description" : " &#8220;My friend told me that you are a chess enthusiast&#8221; A student These days we are interviewing students for the fall Coop term positions in engineering. They are doing their best, like any of us, to have a resume and cover letter that gives them a leg up on the competition. A few of them <a href=\"https://chessimprover.com/a-chess-enthusiast/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Chess Enthusiast\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-chess-enthusiast/\">A Chess Enthusiast</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "Gukesh, Pranav Set Up All-Indian Semifinals In JSCC 2023"
       },
       {
-         "description" : "The ninth round of the Cairns Cup saw Alexandra Kosteniuk grabbing a third consecutive win to secure clear second place in the final standings. Kosteniuk defeated Elisabeth Paehtz with black, while Irina Krush, who was sharing second place with Kosteniuk before the final round, failed to get the better of tournament winner Anna Zatonskih in a tricky endgame. In the other decisive game of the day, Nana Dzagnidze defeated Gunay Mammadzada. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2023-r9",
-         "pubDate" : "Tue, 13 Jun 2023 18:30:00 +0100",
-         "title" : "Cairns Cup: Alexandra Kosteniuk clinches second place"
-      },
-      {
          "description" : "An ECF Level 1 Arbiter course was held in person over the weekend of 10th and 11th June at Bridge, in Kent. 11 candidates were...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kosteniuk-i-have-six-out-nine-points-r9-cairnscup",
          "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
          "title" : "Kosteniuk: I Have SIX out of NINE Points | R9 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Bella Khotenashvili talks to Sabina Foisor after defeating Paehtz in the seventh round of the 2023 Cairns Cup. This aired during Round 9. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khotenashvili-magnus-my-favorite-world-champion-foisor-files-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/60cuYM-amF0.jpg?itok=BMVmVFVs\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khotenashvili-magnus-my-favorite-world-champion-foisor-files-r7-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
-         "title" : "Khotenashvili: Magnus is My Favorite World Champion | Foisor Files R7 #CairnsCup"
       },
       {
          "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
@@ -1536,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2433",
          "pubDate" : "Wed, 31 May 2023 10:10:33 +0000",
          "title" : "Munkhdalai Amiral and Erdenebayar Khuslen win Mongolian Championship"
-      },
-      {
-         "description" : "Senior National Arbiter Sambalpur 21-22 May 2023, Odisha Certificates Link : https://aicf.online/SNA-Odisha.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-sambalpur-odisha-certificates/",
-         "pubDate" : "Wed, 31 May 2023 06:56:55 +0000",
-         "title" : "Senior National Arbiter Sambalpur, Odisha Certificates"
       }
    ]
 }
