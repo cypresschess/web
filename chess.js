@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dommaraju Gukesh continues his incredible ascent at the elite chess circuit. In an interview given to World Chess, the 17-year-old talks about his development as a chess player, his strengths and (many) weaknesses and his opinions on the best players of all time. Referring to Bobby Fischer, Gukesh states: \"It feels like he's just the purest genius of our game\". | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-interview-world-chess",
+         "pubDate" : "Wed, 21 Jun 2023 12:00:00 +0100",
+         "title" : "Gukesh: \"Fischer, Kasparov and Carlsen for sure are the top three\""
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
+         "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
+         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
+      },
+      {
          "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://aicf.in/congratulations-nubairshah-shaikh-and-sakshi-chitlange/",
          "pubDate" : "Tue, 20 Jun 2023 17:23:18 +0000",
          "title" : "Congratulations Nubairshah Shaikh and Sakshi Chitlange"
+      },
+      {
+         "description" : "Another month has passed, so let's have another look at U.S. chess magazine covers from 50 and 25 years ago. Both magazines featured the winners of super strong U.S. Swiss-system tournaments of their respective eras. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Minasian Sweeps the New York Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Arthur Bisguier, who won the powerful Lone Pine Tournament in California, which included five grandmasters. Story [inside]. Photo by Burt Hochberg. </BLOCKQUOTE> <P> The story inside was titled 'Bisguier Wins at Lone Pine'. It started,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 20 Jun 2023 15:02:00 +0000",
+         "title" : "June 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "You are the kind of chess player who likes to analyse passionately, perhaps directly on the screen, using ChessBase. You regularly save your analyses and to make sure that you can find them again you have a list of 30 chapters which systematises the games with the help of a text entry on the first move. In spite of this loving care it still happens that analyses disappear. How can this be? What has gone wrong? ChessBase expert Martin Fischer has the answer!",
@@ -776,14 +800,6 @@ news_feed (
          "link" : "https://aicf.in/national-schools-team-u-12-u-18-last-date-of-entry-is-coming-close-18-june/",
          "pubDate" : "Wed, 14 Jun 2023 06:37:03 +0000",
          "title" : "National Schools Team U-12 & U-18 Last date of Entry is coming close, 18 June."
-      },
-      {
-         "description" : "Magnus Carlsen suffered a shock defeat to long-time second GM Laurent Fressinet but roared back to secure qualification for Division I in the Champions Chess Tour's upcoming Aimchess Rapid event. Joining Carlsen in the top tier will be Levon Aronian, Wesley So, and the Venezuelan-born Spanish Eduardo Iturrizaga who all progressed through a challenging Swiss event before winning their respective rapid matches against other top-eight finishers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-play-in",
-         "pubDate" : "Tue, 13 Jun 2023 23:50:00 +0100",
-         "title" : "Carlsen scores clutch win to qualify for Aimchess Rapid's Division I"
       },
       {
          "description" : "The Quarterfinals of the 2023 Junior Speed Chess Championship kicked off on Tuesday with wins by GM Gukesh D over IM Emin Ohanyan and&#38;nbsp;GM Pranav V against GM Christopher Yoo. Gukesh and Pranav will throw down in an all-Indian semifinal match o...",
@@ -1512,30 +1528,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-armageddon-series-announces-europe-and-africa-week/",
          "pubDate" : "Wed, 31 May 2023 15:46:42 +0000",
          "title" : "World Chess' Armageddon Series announces Europe and Africa Week"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2432",
-         "pubDate" : "Wed, 31 May 2023 11:27:36 +0000",
-         "title" : "Queens' Chess Festival returns in July"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100649532.cms\" />Magnus Carlsen, the reigning world rapid chess champion and a five-time world champion, expressed his confidence in India's potential to emerge as a leading chess nation, commending the country for its strategic approach and accomplishments in the sport. Carlsen, widely regarded as the best player of his generation, believes that India's success in the global chess circuit and its recent hosting of the Chess Olympiad are strong indicators of its progress.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-believes-india-is-on-track-to-become-a-leading-chess-nation/articleshow/100649532.cms",
-         "pubDate" : "Wed, 31 May 2023 11:11:02 +0000",
-         "title" : "Carlsen believes India is on track to become a leading chess nation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2433",
-         "pubDate" : "Wed, 31 May 2023 10:10:33 +0000",
-         "title" : "Munkhdalai Amiral and Erdenebayar Khuslen win Mongolian Championship"
       }
    ]
 }
