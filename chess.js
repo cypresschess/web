@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2468",
+         "pubDate" : "Wed, 21 Jun 2023 14:31:17 +0000",
+         "title" : "The Olympic Esports Series Chess Event Finals to start on June 23 in Singapore"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Wed, 21 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "The first ever ASEAN Chess Confederation (ACC)-European Chess Union (ECU) Chess Symposium is being held from 19-23 June 2023 at the Asia Hotel Bangkok. Following introductions by arbiters seminar and trainer workshop leaders Takis Nikolopoulous and Artur Yusupov, ECU President Zurab Azmaiparasvili was invited by ACC President Ignatius Leong to make the opening remarks. Mr. Azmaiparashvili remembered his long friendship with Leong, thanking him for help in his difficult time, and congratulated ACC Deputy President and Thailand Chess Association President []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/acc-ecu-chess-symposium-kicks-off-in-thailand/",
+         "pubDate" : "Wed, 21 Jun 2023 13:45:22 +0000",
+         "title" : "ACC - ECU Chess Symposium kicks off in Thailand"
+      },
+      {
+         "description" : " The diagram position is *not* from one of my games. However it is pretty close to the finish I played recently. The position of the pieces on the queenside are as played, but I have modified the kingside pawns for the purpose of making this post.<table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_gTpwxwU7mMyHwpWivQQ_ctuVjJvzWZeGQXkhTeK0uZzSyeg9jqJh2kybh9sFM-ijV_rxktBl9w_QJG2SRebcsUmhWlgXofbaenB8IhgAIws3emhbVGGv8kxD2DeDe9auDtZ7w8iguQsF8GYYIuv-0V3x-t2XUamVuIOYgY_5N-QmB0U8b_35B9gpRw/s680/preano4.png\" imageanchor=\"1\" style=\"clear: right; margin-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/increasing-levels-of-jerkitude.html",
+         "pubDate" : "Wed, 21 Jun 2023 12:48:00 +0000",
+         "title" : "Increasing levels of jerkitude?"
+      },
+      {
+         "description" : "Who would have seen this coming before 2020, The Queen&#38;rsquo;s Gambit, and the rise of chess as an esport?&#38;nbsp;Chess.com, the world&#38;rsquo;s leading chess platform, has been named in TIME&#38;rsquo;s prestigious 100 Most Influential Companies of 2023 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-among-100-most-influential-companies-2023",
+         "pubDate" : "Wed, 21 Jun 2023 05:05:45 -0700",
+         "title" : "It's TIME To Acknowledge Chess: Chess.com Named In Prestigious 100 Most Influential Companies List"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2467",
+         "pubDate" : "Wed, 21 Jun 2023 11:52:43 +0000",
+         "title" : "FIDE World Cup 2023: Official website is launched"
+      },
+      {
          "description" : "Dommaraju Gukesh continues his incredible ascent at the elite chess circuit. In an interview given to World Chess, the 17-year-old talks about his development as a chess player, his strengths and (many) weaknesses and his opinions on the best players of all time. Referring to Bobby Fischer, Gukesh states: \"It feels like he's just the purest genius of our game\". | Photo: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gukesh-interview-world-chess",
          "pubDate" : "Wed, 21 Jun 2023 12:00:00 +0100",
          "title" : "Gukesh: \"Fischer, Kasparov and Carlsen for sure are the top three\""
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
-         "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
-         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
       },
       {
          "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
@@ -333,14 +373,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2456",
-         "pubDate" : "Mon, 19 Jun 2023 01:39:30 +0000",
-         "title" : "FIDE World Cup 2023: Useful information for players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2464",
          "pubDate" : "Sun, 18 Jun 2023 22:17:42 +0000",
          "title" : "Frederik Svane wins Teplice Open 2023"
@@ -496,6 +528,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rapport-richard-bats-for-rapid-chess-team-events/articleshow/101058584.cms",
          "pubDate" : "Sat, 17 Jun 2023 03:51:27 +0000",
          "title" : "Rapport Richard bats for rapid chess, team events"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2456",
+         "pubDate" : "Sat, 17 Jun 2023 01:39:30 +0000",
+         "title" : "FIDE World Cup 2023: Useful information for players"
       },
       {
          "description" : "The ASEAN Age Group Championships is an extremely important event for young kids living in the ASEAN countries. They include Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar. Philippines, Singapore, Thailand, Vietnam, and Timur Leste. However, if you look at the name carefully, it says ASEAN+ and the + indicates that more countries are welcome at the championships - China, India, Japan, New Zealand, and South Korea. It will be held in 14 age groups from the 17th to the 27th of June 2023, in Bangkok, Thailand. Along with this tournament, there is also an ACC-ECU symposium which will witness the presence of Artur Yusupov, Zurab Azmaiparashvili and many other famous names.",
@@ -784,14 +824,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gm-shengs-double-exclam-gm-josh-sheng",
          "pubDate" : "Wed, 14 Jun 2023 07:46:16 +0000",
          "title" : "GM Sheng's Double Exclam!! - GM Josh Sheng"
-      },
-      {
-         "description" : "The 10th Dhamso International Chess Festival was held on May 26-30 at the Hotel Lavanga Resort & Spa in Hikkaduwa, Sri Lanka. In the main event, IM Mohan Kushara (pictured) won the championship by scoring 9/10 points, while R M Dulinma Hemalni Rathnayake won the women's championship after scoring 7/10 points. More than 660 players competed in the event which included one GM, two IMs, one FM and three Arena FMs from four different countries: Azerbaijan, India, Russia and Sri Lanka.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dhamso-chess-festival-2023",
-         "pubDate" : "Wed, 14 Jun 2023 08:00:00 +0100",
-         "title" : "10th Dhamso International Chess Festival in Sri Lanka"
       },
       {
          "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023, Last date of entry portal is coming close, interested players requested to apply soon.",
@@ -1240,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2445",
          "pubDate" : "Wed, 07 Jun 2023 12:50:59 +0000",
          "title" : "International Schools Festival 2023 in Ploiesti: 12 teams will be considered as \"invited teams\""
-      },
-      {
-         "description" : "IM Anna Zatonskih outplayed joint overnight leader GM Alexandra Kosteniuk with admirable strategic play from the black side of a French Defense to jump into the sole lead with three points after the fourth round of the Cairns Cup 2023 on Tuesday. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-4",
-         "pubDate" : "Tue, 06 Jun 2023 21:44:00 -0700",
-         "title" : "Overnight Leaders Beaten; Anna Zatonskih Sole Leader"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-68/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (68)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-68/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (68)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
