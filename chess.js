@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-5b261a50-7fff-e802-da1b-fd1a6d9fbe45\">SAINT LOUIS, June 22, 2023</span> -</strong> The <a href=\"http://www.saintlouischessclub.org\">Saint Louis Chess Club</a> today announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-im",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-grandmaster-yasser-seirawan-named-chief-commentator-and-spokesperson-saint-louis-chess",
+         "pubDate" : "Thu, 22 Jun 2023 21:34:57 +0000",
+         "title" : "American Grandmaster Yasser Seirawan Named Chief Commentator and Spokesperson for Saint Louis Chess Club; Makes Saint Louis Permanent Residence"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2471",
+         "pubDate" : "Thu, 22 Jun 2023 21:01:39 +0000",
+         "title" : "Сhess revolution has started: Global Chess League kicked off with the first two matches"
+      },
+      {
+         "description" : "Chess.com is excited to announce that our previously monthly Bullet Brawl is now happening every week!&#38;nbsp;Starting in July, our bullet arena for titled players is going weekly, with a $1,000 prize fund for each event. Every Saturday beginning at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-brawl-weekly",
+         "pubDate" : "Thu, 22 Jun 2023 13:41:43 -0700",
+         "title" : "Bullet Brawl Is Going Weekly"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Rex Sinquefield: Learning from Yasser 'Great Fun' | R9 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Zhansaya Abdumalik and Gunay Mammadzada talk to Sabina Foisor after the seventh round of the 2023 Cairns Cup. This aired during Round 9. 2023.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gunay-zhansaya-hobbies-travel-more-foisor-files-r7-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jN4kd02Dpps.jpg?itok=IGgBwle9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gunay-zhansaya-hobbies-travel-more-foisor-files-r7-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
-         "title" : "Gunay & Zhansaya: Hobbies, Travel, & More! | Foisor Files R7 #CairnsCup"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-jscc-bracket-contest",
          "pubDate" : "Wed, 07 Jun 2023 11:32:21 -0700",
          "title" : "Your Chance To Win Prizes In The 2023 JSCC Bracket Contest"
-      },
-      {
-         "description" : "Nine-year-old FM Faustino Oro has been dubbed the &#34;Messi of Chess&#34; by Argentinian media as he made history as the youngest player to ever break the 2300 rating barrier. In March, the 2013-born Argentinian became the youngest player to ever break...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-makes-history-as-youngest-ever-2300-player",
-         "pubDate" : "Wed, 07 Jun 2023 11:11:00 -0700",
-         "title" : "9-Year-Old Makes History As Youngest 2300 Player Ever"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100828943.cms\" />Five-time world champions Viswanathan Anand and Magnus Carlsen were picked up by Ganges Grandmasters and SG Alpine Warriors respectively in the Players' Draft for the inaugural Global Chess League on Wednesday.",
