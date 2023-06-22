@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2470",
+         "pubDate" : "Thu, 22 Jun 2023 18:03:23 +0000",
+         "title" : "National preparations for FIDE World Schools Team Championship go big around the Globe"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on playing aggressively against the English Opening. 2023.06.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tHGR4zh80Ac.jpg?itok=coi476Gh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi",
+         "pubDate" : "Thu, 22 Jun 2023 17:17:20 +0000",
+         "title" : "Aggressive Play vs. the English Opening | Prepare Like A Pro - GM JJ Ali Marandi"
+      },
+      {
          "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. | Follow the games live with expert commentary from 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "The Global Chess League makes its grand debut: \"A brand new revolution in an ancient sport\""
       },
       {
-         "description" : "The Prague Chess Festival kicked off on Wednesday. Both the Masters and the Challengers saw four draws and a decisive game each. In the Masters, top seed Wang Hao was defeated by German star Vincent Keymer, who got a superior endgame out of a sharp, theoretical variation, and converted it proficiently. In the Challengers, 13-year-old Czech FM Vaclav Finek beat Indian GM Akash G with the white pieces. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r1",
-         "pubDate" : "Thu, 22 Jun 2023 13:00:00 +0100",
-         "title" : "Prague: Keymer stuns Wang"
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
+         "pubDate" : "Thu, 22 Jun 2023 07:06:51 -0500",
+         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
       },
       {
          "description" : "In his Game of the Week show #573 Merijn van Delft takes a close look at a line of the Catalan that has recently become popular and seems to offer Black good chances. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/after-six-rounds-at-the-21st-asean-age-group-championships",
          "pubDate" : "Thu, 22 Jun 2023 10:58:35 +0100",
          "title" : "The 21st ASEAN+ Age-Group Championships - standings after six rounds"
+      },
+      {
+         "description" : "The Prague Chess Festival kicked off on Wednesday. Both the Masters and the Challengers saw four draws and a decisive game each. In the Masters, top seed Wang Hao was defeated by German star Vincent Keymer, who got a superior endgame out of a sharp, theoretical variation, and converted it proficiently. In the Challengers, 13-year-old Czech FM Vaclav Finek beat Indian GM Akash G with the white pieces. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r1",
+         "pubDate" : "Thu, 22 Jun 2023 10:50:00 +0100",
+         "title" : "Prague: Keymer stuns Wang"
       },
       {
          "description" : "GM Alexandra Kosteniuk won the B-Cup 2 presented by Chess.com, hosted at Espot Paris on June 17. In the final, she scored a perfect 3-0 to defeat GM Pavel Tregubov.&#38;nbsp; GM Laurent Fressinet and IM Wojtek Sochacki were semifinalists. GM Etienne...",
@@ -178,7 +202,7 @@ news_feed (
          "title" : "Aktobe Open Classic 2023 - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to effectively use chess puzzles to improve your game. 2023.06.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/progressing-chess-puzzles-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XEAW827IrWI.jpg?itok=zCKhSV99\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to effectively use chess puzzles to improve your game.<br /> See &quot;fast mode&quot; puzzles, and then think longer with &quot;slow mode&quot; puzzles. 2023.06.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/progressing-chess-puzzles-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XEAW827IrWI.jpg?itok=zCKhSV99\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/progressing-chess-puzzles-beginner-breakdown",
@@ -186,7 +210,7 @@ news_feed (
          "title" : "Progressing with Chess Puzzles | Beginner Breakdown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on prophylaxis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UOM88zZLL9A.jpg?itok=63FtTzv5\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on prophylaxis.<br /> Prophylaxis is the prevention of your opponent's ideas. See JJ's own games that demonstrate prophylaxis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UOM88zZLL9A.jpg?itok=63FtTzv5\" alt=\"\" />",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi",
@@ -938,14 +962,6 @@ news_feed (
          "title" : "Gunay & Zhansaya: Hobbies, Travel, & More! | Foisor Files R7 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Almira Skripchenko after defeating Paehtz in the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kosteniuk-i-have-six-out-nine-points-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IY4nTVoyiVs.jpg?itok=0KTNmo-4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kosteniuk-i-have-six-out-nine-points-r9-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
-         "title" : "Kosteniuk: I Have SIX out of NINE Points | R9 #CairnsCup"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1520,14 +1536,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-at-european-games-2023/",
          "pubDate" : "Fri, 02 Jun 2023 04:56:28 +0000",
          "title" : "European Pairs Blitz Chess Championship at European Games 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2436",
-         "pubDate" : "Thu, 01 Jun 2023 18:55:25 +0000",
-         "title" : "Call for submissions: FIDE Veterans Support Program 2023, second installment"
       }
    ]
 }
