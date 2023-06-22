@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. | Follow the games live with expert commentary from 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Thu, 22 Jun 2023 15:15:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Thu, 22 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2469",
+         "pubDate" : "Thu, 22 Jun 2023 12:19:50 +0000",
+         "title" : "The Global Chess League makes its grand debut: \"A brand new revolution in an ancient sport\""
+      },
+      {
          "description" : "The Prague Chess Festival kicked off on Wednesday. Both the Masters and the Challengers saw four draws and a decisive game each. In the Masters, top seed Wang Hao was defeated by German star Vincent Keymer, who got a superior endgame out of a sharp, theoretical variation, and converted it proficiently. In the Challengers, 13-year-old Czech FM Vaclav Finek beat Indian GM Akash G with the white pieces. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Game of the Week #573: Xu Zhihang vs Wei Yi"
       },
       {
-         "description" : "At the kind invitation of the Lviv Chess Federation, the Secretary General of ECU visited the city of Lviv on Tuesday, June 20. Lviv is one of the most active and productive chess cities in World. More than 40 grandmasters were born in Lviv or lived there for several years. Among them Chess legends like Vasily Ivanchuk, Alexander Belyavsky, Adrian Mikhalchishin, women's world champions and top players like GMs Mariya and Anna Muzychuk. After his arrival in Lviv, Mr. Tsorbatzoglou []",
+         "description" : "At the kind invitation of the Lviv Chess Federation, the ECU Secretary General Theodoros Tsorbatzoglou visited the city of Lviv on Tuesday, June 20. Lviv is one of the most active and productive chess cities in World. More than 40 grandmasters were born in Lviv or lived there for several years. Among them Chess legends like Vasily Ivanchuk, Alexander Beliavsky, Adrian Mikhalchishin, women's world champions and top players like GMs Mariya and Anna Muzychuk. After his arrival in Lviv, Mr. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-visits-ukraine/",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-espot-bcup2",
-         "pubDate" : "Thu, 22 Jun 2023 00:56:21 -0700",
+         "pubDate" : "Thu, 22 Jun 2023 00:56:00 -0700",
          "title" : "Kosteniuk Prevails At Espot B-Cup 2"
       },
       {
@@ -768,22 +792,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/one-way-or-another.html",
          "pubDate" : "Thu, 15 Jun 2023 11:44:00 +0000",
          "title" : "One way or another "
-      },
-      {
-         "description" : "In his Game of the Week show #572 Merijn van Delft analyses how Hikaru Nakamura defeated Fabiano Caruana in the final round of the Norway Chess Tournament. With this game Nakamura also won the tournament and moved up to number two in the live rankings. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-572-h-nakamura-vs-f-caruana",
-         "pubDate" : "Thu, 15 Jun 2023 10:27:51 +0100",
-         "title" : "Game of the Week #572: H. Nakamura vs F. Caruana"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival will take place on June 21-30 at the Don Giovanni Hotel in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna (pictured) as the top seeds. The lineup also includes German star Vincent Keymer and David Navara who, like Shankland, has been invited to all five editions of the Masters. | Photo: Vladim&iacute;r Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-preview",
-         "pubDate" : "Thu, 15 Jun 2023 10:00:00 +0100",
-         "title" : "Wang, Shankland and Harikrishna head Prague Masters lineup"
       },
       {
          "description" : "",
@@ -1520,30 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2436",
          "pubDate" : "Thu, 01 Jun 2023 18:55:25 +0000",
          "title" : "Call for submissions: FIDE Veterans Support Program 2023, second installment"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100682012.cms\" />Sergey Karjakin, who last year was banned for publicly backing Russia's invasion of Ukraine, is unlikely to take part in the World Cup after his social media followers urged him not to participate without the Russian flag or anthem.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/karjakin-likely-to-skip-chess-world-cup-carlsens-coach-calls-for-sanctions/articleshow/100682012.cms",
-         "pubDate" : "Thu, 01 Jun 2023 13:31:14 +0000",
-         "title" : "Karjakin likely to skip World Cup, Carlsen's coach calls for sanctions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2435",
-         "pubDate" : "Thu, 01 Jun 2023 12:42:25 +0000",
-         "title" : "FIDE World Senior Championships 2023: Registration is open"
-      },
-      {
-         "description" : " Local FM Albert Winkelman is currently playing in the 2023 Dubai Open. He has had a pretty solid start in what is a strong event, scoring 2/5 against 4GM's and an IM. Although his points have come from draws (plus one loss) he has picked up rating points from each game due to the strength of his opponents. The field isn't quite as strong as the recently completed Sharjah event, but it still attracted 49 GM's in the 86 player field. For the non GM's this can lead to some tough games, as this game from the 1st round demonstrates. <br /> <b>Bai,Adelard (2409) - Chigaev,Maksim (2628) [E17]</b><br /> Dubai Open 2023 - Category A Dubai Chess & Culture Club, Un (1.12), 27.05.2023 <script> new PgnV",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/dubai-open-2023.html",
-         "pubDate" : "Thu, 01 Jun 2023 12:05:00 +0000",
-         "title" : "Dubai Open 2023"
       }
    ]
 }
