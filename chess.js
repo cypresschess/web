@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival kicked off on Wednesday. Both the Masters and the Challengers saw four draws and a decisive game each. In the Masters, top seed Wang Hao was defeated by German star Vincent Keymer, who got a superior endgame out of a sharp, theoretical variation, and converted it proficiently. In the Challengers, 13-year-old Czech FM Vaclav Finek beat Indian GM Akash G with the white pieces. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r1",
+         "pubDate" : "Thu, 22 Jun 2023 13:00:00 +0100",
+         "title" : "Prague: Keymer stuns Wang"
+      },
+      {
+         "description" : "In his Game of the Week show #573 Merijn van Delft takes a close look at a line of the Catalan that has recently become popular and seems to offer Black good chances. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-573-xu-zhihang-vs-wei-yi",
+         "pubDate" : "Thu, 22 Jun 2023 11:44:02 +0100",
+         "title" : "Game of the Week #573: Xu Zhihang vs Wei Yi"
+      },
+      {
+         "description" : "At the kind invitation of the Lviv Chess Federation, the Secretary General of ECU visited the city of Lviv on Tuesday, June 20. Lviv is one of the most active and productive chess cities in World. More than 40 grandmasters were born in Lviv or lived there for several years. Among them Chess legends like Vasily Ivanchuk, Alexander Belyavsky, Adrian Mikhalchishin, women's world champions and top players like GMs Mariya and Anna Muzychuk. After his arrival in Lviv, Mr. Tsorbatzoglou []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-visits-ukraine/",
+         "pubDate" : "Thu, 22 Jun 2023 10:17:44 +0000",
+         "title" : "ECU visits #Ukraine"
+      },
+      {
+         "description" : "Regional powerhouse Vietnam continues to dominate in standard chess after six rounds of play. Vietnamese players occupy the top three positions in the Open U-8, Open U-10, Open U-12, Open U-14, Open U-16 and Open U-18 categories, and it is a similar story in the Girls U-8 & U-10 Combined and Girls U-18 categories. | Photos: Peter Long",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/after-six-rounds-at-the-21st-asean-age-group-championships",
+         "pubDate" : "Thu, 22 Jun 2023 10:58:35 +0100",
+         "title" : "The 21st ASEAN+ Age-Group Championships - standings after six rounds"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk won the B-Cup 2 presented by Chess.com, hosted at Espot Paris on June 17. In the final, she scored a perfect 3-0 to defeat GM Pavel Tregubov.&#38;nbsp; GM Laurent Fressinet and IM Wojtek Sochacki were semifinalists. GM Etienne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-espot-bcup2",
+         "pubDate" : "Thu, 22 Jun 2023 00:56:21 -0700",
+         "title" : "Kosteniuk Prevails At Espot B-Cup 2"
+      },
+      {
          "description" : "\"I am thrilled to share some exciting news with you,\" wrote us ChessBase sysop Angom Nongsha, who had just won the title. Not in chess, but in a related field. \"I have emerged victorious in both the Asian Chessboxing Championship and the Chessboxing World Cup 2023!\" he wrote. This sport has a long tradition (we have links to many reports). In this article Nongsha describes his success in the most recent events, in his own words.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vachier-lagrave-kollars-win-titled-tuesday-june-20-2023",
-         "pubDate" : "Wed, 21 Jun 2023 09:42:07 -0700",
+         "pubDate" : "Wed, 21 Jun 2023 09:42:00 -0700",
          "title" : "French And German GMs Split Tuesday Tournament"
       },
       {
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2468",
          "pubDate" : "Wed, 21 Jun 2023 14:31:17 +0000",
          "title" : "The Olympic Esports Series Chess Event Finals to start on June 23 in Singapore"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Wed, 21 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "The first ever ASEAN Chess Confederation (ACC)-European Chess Union (ECU) Chess Symposium is being held from 19-23 June 2023 at the Asia Hotel Bangkok. Following introductions by arbiters seminar and trainer workshop leaders Takis Nikolopoulous and Artur Yusupov, ECU President Zurab Azmaiparasvili was invited by ACC President Ignatius Leong to make the opening remarks. Mr. Azmaiparashvili remembered his long friendship with Leong, thanking him for help in his difficult time, and congratulated ACC Deputy President and Thailand Chess Association President []",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "Wang, Shankland and Harikrishna head Prague Masters lineup"
       },
       {
-         "description" : "The Cairns Cup is the strongest privately organized women's tournament in the world. The third edition of the event came to an end on Monday, with Anna Zatonskih stunning the chess world by winning the closed competition with a round to spare. Alexandra Kosteniuk finished in second place, after grabbing three wins in a row in the final rounds. On Sunday, she defeated Bella Khotenashvili in a game that featured four queens on the board amid a fantastic tactical struggle. | Robert Ris analysed the formidable encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-four-queens",
-         "pubDate" : "Thu, 15 Jun 2023 02:00:00 +0100",
-         "title" : "Robert Ris: Playing with four queens on the board!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -792,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-blitzchamps-ii",
          "pubDate" : "Wed, 14 Jun 2023 14:00:00 -0700",
          "title" : "Who Is The NFL's Best Chess Player? Stars Line-Up For BlitzChamps II Tournament"
-      },
-      {
-         "description" : "Dommaraju Gukesh, who just turned 17, is the youngest player among the Top 20 in the world ranking, and he continues to climb up the rating ladder. Those who are keen to learn something from his great chess talent can get invaluable lessons from the master himself in the FritzTrainer 'Attack like a Super Grandmaster'. A review by Harald Wagner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-fritztrainer-review",
-         "pubDate" : "Wed, 14 Jun 2023 20:00:00 +0100",
-         "title" : "Gukesh: Attack like a Super Grandmaster - A review"
       },
       {
          "description" : "The June 13 edition of Titled Tuesday was won by GMs Gata Kamsky in the early event and Jan-Krzysztof Duda late. The 49-year-old Kamsky, who challenged for the FIDE World Championship in 1996, won outright with 9.5 points ahead of a nine-way tie f...",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Global Chess League: Anand joins Ganges Grandmasters"
       },
       {
-         "description" : "After the young GM Pranesh M won the early Titled Tuesday on June 6, a more familiar face won the late tournament despite playing in Norway Chess earlier in the day: GM Hikaru Nakamura. It was actually Nakamura&#39;s first win in the event since April...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranesh-nakamura-win-titled-tuesday-june-6-2023",
-         "pubDate" : "Wed, 07 Jun 2023 08:06:03 -0700",
-         "title" : "Nakamura In Norway Wins Another Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/dubai-open-2023.html",
          "pubDate" : "Thu, 01 Jun 2023 12:05:00 +0000",
          "title" : "Dubai Open 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2434",
-         "pubDate" : "Thu, 01 Jun 2023 11:26:46 +0000",
-         "title" : "FIDE June 2023 rating list published"
       }
    ]
 }
