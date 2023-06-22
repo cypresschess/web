@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"I am thrilled to share some exciting news with you,\" wrote us ChessBase sysop Angom Nongsha, who had just won the title. Not in chess, but in a related field. \"I have emerged victorious in both the Asian Chessboxing Championship and the Chessboxing World Cup 2023!\" he wrote. This sport has a long tradition (we have links to many reports). In this article Nongsha describes his success in the most recent events, in his own words.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/staff-member-wins-world-cup",
+         "pubDate" : "Thu, 22 Jun 2023 08:00:00 +0100",
+         "title" : "Staff member wins World Cup"
+      },
+      {
          "description" : "The second edition of the Colònia de Sant Jordi International Chess Festival came to an end last Sunday in Mallorca. English CM Ankush Khandelwal, a 4-time Pentamind world champion, was proclaimed champion of the International Open. Famed streamer Anna Cramling was the strongest woman player in the open, and successfully streamed her games on Twitch. The Masters tournament, a 10-player single round-robin, was won by Spanish IM Aar&oacute;n Alonso. | Photos: Tournament&rsquo;s Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kamsky-duda-win-titled-tuesday-june-13-2023",
          "pubDate" : "Wed, 14 Jun 2023 08:19:00 -0700",
          "title" : "Old Guard, New Guard Both Represent On Tuesday"
-      },
-      {
-         "description" : "Everybody knows one of the most famous chess games ever played, right? Interestingly, Svitlana just recently discovered Anderssen's Immortal game against Kiseritzky! Looking at this game is similar to reading a great book, or watching a fantastic movie over and over again. It never gets old, it is extraordinary, and it is entertaining! But if you also belong to those who never heard of this game before, this is a big treat for you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-anderssen-s-immortal",
-         "pubDate" : "Wed, 14 Jun 2023 15:11:27 +0100",
-         "title" : "Svitlana's Smart Moves - Anderssen's Immortal"
       },
       {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan One of the most obvious and difficult things to do as part of your chess preparation is to practice daily. You may mention that you play online daily, and you might add the number of games played to make a convincing argument. That could <a href=\"https://chessimprover.com/stalemate-tuesday-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-3/\">Stalemate Tuesday (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
