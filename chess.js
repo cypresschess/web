@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2472",
+         "pubDate" : "Fri, 23 Jun 2023 22:11:32 +0000",
+         "title" : "Chess Legends face off: Anand and Carlsen headline the day"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen beat fellow former World Champion Viswanathan Anand on day two of the Tech Mahindra Global Chess League 2023 in Dubai, but it was Anand&#39;s Ganges Grandmasters who won the match and boast the only perfect score.&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-2",
+         "pubDate" : "Fri, 23 Jun 2023 15:08:32 -0700",
+         "title" : "Carlsen Beats Anand, But Ganges Grandmasters Strike Back"
+      },
+      {
+         "description" : "The highly anticipated match of the day was between SG Alpine Warriors and Ganges Grandmasters. The sole reason could be deduced: it featured the battle between Magnus Carlsen and Vishy Anand. We got a glimpse of the Carlsen we are familiar with - one tiny positional inaccuracy and he will punish you. However, that win did not turn out enough for the team as Richard Rapport and Bella Khotenashvili scored important victories over D Gukesh and Elisabeth Paehtz, which meant SG Alpine Warriors had lost to Ganges Grandmasters (6-11). Balan Alaskan Knights bounced back after their loss against SGAW by defeating upGrad Mumba Masters by a huge margin (5-14). Four matches will be played tomorrow, sta",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gcl-day-2-sg-alpine-warriors-succumb-to-ganges-grandmasters",
+         "pubDate" : "Fri, 23 Jun 2023 22:34:01 +0100",
+         "title" : "GCL Day 2: SG Alpine Warriors succumb to Ganges Grandmasters"
+      },
+      {
          "description" : "The Saint Louis Chess Club announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins more than twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. Yasser is a four-time U.S. champion, a former world championship candidate and an inductee to the U.S. Chess Hall of Fame.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/summer-in-prague.html",
          "pubDate" : "Fri, 23 Jun 2023 13:06:00 +0000",
          "title" : "Summer in Prague"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Fri, 23 Jun 2023 11:45:00 +0100",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101214191.cms\" />Former world champions Viswananthan Anand and Hou Yifan notched big victories to help Ganges Grandmasters begin the inaugural Global Chess League on a winning note.",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/last-call-chess-teacher-training-online-course-this-weekend/",
          "pubDate" : "Thu, 08 Jun 2023 10:14:23 +0000",
          "title" : "Last call - Chess Teacher training online course this weekend"
-      },
-      {
-         "description" : "In a shocking turn of events, defending champion GM Humpy Koneru withdrew from the Cairns Cup 2023 after round four, greatly affecting the standings for GMs Alexandra Kosteniuk and Nana Dzagnidze―two of the players who were previously chasing afte...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-5",
-         "pubDate" : "Wed, 07 Jun 2023 22:56:00 -0700",
-         "title" : "Reversal of Fortunes: Voided Victories, From 0-2 to 2nd, Last Seed Leads"
       },
       {
          "description" : "",
