@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Online Senior National Arbiter Seminar Certificates, 26-27 May 2023 Link : https://aicf.online/SNA-online.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-online-sna/",
+         "pubDate" : "Fri, 23 Jun 2023 06:49:18 +0000",
+         "title" : "Certificates of Online SNA"
+      },
+      {
          "description" : "All five games in the Masters section of the Prague Chess Festival finished drawn, leaving Vincent Keymer in the sole lead. Meanwhile, in the Challengers, Matuesz Bartel and Benjamin Gledura both won with white to join Vaclav Finek in the lead with 1&frac12;/2 points. Bartel obtained a fine win over Czech IM Richard Stalmach, whose approach in the French Defence proved ineffective against Bartel's energetic play. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,30 +1528,6 @@ news_feed (
          "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-from-26-to-27-march-2023-final-report/",
          "pubDate" : "Fri, 02 Jun 2023 10:39:28 +0000",
          "title" : "Online Senior National Arbiter Seminar & Examination from 26 to 27 May 2023 : Final Report"
-      },
-      {
-         "description" : " The US champion beat the Norwegian for the first time in eight years, then scored in his next two games to lead the 10-player event Fabiano Caruana got off to a fine start this week at the Norway Chess elite event in Stavanger, where the US champion defeated Magnus Carlsen, the world No 1, in the opening round and was a clear leader after three of the nine rounds. Carlsen, in contrast, trails in eighth place, despite scoring after replays in his next two games against Wesley So and Hikaru Nakamura. The Norwegian has won Stavanger for four years in a row, so it is too early to discount his recovery chances, but with only six rounds left his task is already difficult. <a href=\"https://www.the",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jun/02/chess-caruana-leads-at-stavanger-after-beating-carlsen-in-opening-round",
-         "pubDate" : "Fri, 02 Jun 2023 07:00:09 +0000",
-         "title" : "Chess: Caruana leads at Stavanger after beating Carlsen in opening round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2437",
-         "pubDate" : "Fri, 02 Jun 2023 06:08:04 +0000",
-         "title" : "Kuznecovas rolls on the way to European Chess Solving Championship in Bratislava"
-      },
-      {
-         "description" : "The European Pairs Blitz Chess Championship 2023 will be played on 19th of June 2023 in Krakow, Poland, as an official side event of the European Games Krakow-Malopolska 2023. Eight invited teams (ECU members) will participate in the event in the following composition: Both Women's and Open events will consist of two phases: The rate of play is 3 minutes + 2 seconds increment for each move, starting from the move one. Each play-off match will be played in 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-at-european-games-2023/",
-         "pubDate" : "Fri, 02 Jun 2023 04:56:28 +0000",
-         "title" : "European Pairs Blitz Chess Championship at European Games 2023"
       }
    ]
 }
