@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins more than twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. Yasser is a four-time U.S. champion, a former world championship candidate and an inductee to the U.S. Chess Hall of Fame.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yasser-seirawan-spokesperson-saint-louis-chess-club",
+         "pubDate" : "Fri, 23 Jun 2023 18:20:00 +0100",
+         "title" : "Yasser Seirawan named spokesperson for the Saint Louis Chess Club"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King tests the viewers' killer instincts. In the last-round game from Norway Chess between Hikaru Nakamura and Fabiano Caruana, a position arose which was highly tactical and could have led to a swift conclusion! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Prague Chess Festival - Live!"
       },
       {
+         "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/global-chess-league-2023",
+         "pubDate" : "Fri, 23 Jun 2023 17:12:00 +0400",
+         "title" : "Global Chess League 2023 - Games and Results"
+      },
+      {
          "description" : " There are a few Australian's enjoying chess in the northern hemisphere summer. FM Albert Winkelman has just finished an event in Teplice before moving onto an event in Slovakia next month. Meanwhile FM Fred Litchfield is playing in <a href=\"http://praguechessfestival.com/en/2023\">Prague International Chess Festival</a> (along with David Canon and Lillian Lu). This event has a couple of elite GM round robins plus a big open event. Litchfield started with a win in the first round, but is up against a 2400 rated IM in round 2. While all games were drawn in the top RR event, there was more excitement in the Challengers event, as the following game shows. <br /> <b>BARTEL,Mateusz (2609) - STALMA",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Summer in Prague"
       },
       {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). Today we see Carlsen vs Anand!",
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2461",
          "pubDate" : "Fri, 16 Jun 2023 10:10:09 +0000",
          "title" : "FIDE Fair Play Seminar in Baku, Azerbaijan, during World Cup 2023 announced"
-      },
-      {
-         "description" : "Endgame theory consists of various concepts. Unlike the opening, the theory in the endgame is not getting influenced by the computer. Knowing certain concepts will always help to understand various endgame theories. Correspondence squares is one of those must-know concepts. Is it only limited to pawn endgames? GM Sundararajan Kidambi explores a concept which he found quite complex since his childhood. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/theory-of-corresponding-squares-kidambi",
-         "pubDate" : "Fri, 16 Jun 2023 10:00:00 +0100",
-         "title" : "Theory of corresponding squares"
       },
       {
          "description" : " Entry is free, the prize fund is expected to be &pound;2,500 and the winner qualifies for the 2024 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in considerable numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <a href=\"https://www.theguardian.com/sport/2023/jun/16/chess-national-solving-championship-2023-open-for-entries-from-britain\">Continue reading...</a>",
