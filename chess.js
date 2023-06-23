@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. | Follow the games live with expert commentary from 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Fri, 23 Jun 2023 11:45:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101214191.cms\" />Former world champions Viswananthan Anand and Hou Yifan notched big victories to help Ganges Grandmasters begin the inaugural Global Chess League on a winning note.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-viswanathan-anand-yifan-power-ganges-grandmasters-to-huge-victory/articleshow/101214191.cms",
+         "pubDate" : "Fri, 23 Jun 2023 09:04:55 +0000",
+         "title" : "Global Chess League: Anand, Yifan power Ganges to huge victory"
+      },
+      {
          "description" : "Online Senior National Arbiter Seminar Certificates, 26-27 May 2023 Link : https://aicf.online/SNA-online.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -826,14 +842,6 @@ news_feed (
          "title" : "Qualified teams for the FIDE World Women's Team Championship"
       },
       {
-         "description" : "GM Aleksandar Indjic and WIM Marina Gajcin are the new chess champions of Serbia. Indjic notched up his fourth victory in the national championship, while Gajcin took her maiden title. The Serbian Championships 2023 took place on June 6-14 in Senta, with the open and women's tournaments running concurrently. Both competitions were 10-player round robins with classical time controls. | Photos: Serbian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/serbian-championships-2023-indjic-gajcin-winners",
-         "pubDate" : "Thu, 15 Jun 2023 16:00:00 +0100",
-         "title" : "Serbian Championships: Aleksandar Indjic and Marina Gajcin clinch titles"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chessmen-of-letters-amis-and-nabokov/",
          "pubDate" : "Sat, 03 Jun 2023 04:05:24 +0000",
          "title" : "Chessmen of letters: Amis and Nabokov"
-      },
-      {
-         "description" : "All India Chess Federation and Arbiter Commission of AICF organised an online Senior National Arbiter Seminar and Examination for Indian Diaspora, North Eastern States and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/online-senior-national-arbiter-seminar-examination-from-26-to-27-march-2023-final-report/",
-         "pubDate" : "Fri, 02 Jun 2023 10:39:28 +0000",
-         "title" : "Online Senior National Arbiter Seminar & Examination from 26 to 27 May 2023 : Final Report"
       }
    ]
 }
