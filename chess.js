@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games in the Masters section of the Prague Chess Festival finished drawn, leaving Vincent Keymer in the sole lead. Meanwhile, in the Challengers, Matuesz Bartel and Benjamin Gledura both won with white to join Vaclav Finek in the lead with 1&frac12;/2 points. Bartel obtained a fine win over Czech IM Richard Stalmach, whose approach in the French Defence proved ineffective against Bartel's energetic play. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r2",
+         "pubDate" : "Fri, 23 Jun 2023 05:00:00 +0100",
+         "title" : "Prague: Bartel on the attack"
+      },
+      {
+         "description" : "The last time Vishy Anand played a rated tournament game was on 9th October 2022 at European Club Cup. After eight months, the maestro did not show any rust on the board. In fact, he felt very optimistic about his position against Jan-Krzysztof Duda. He felt that his queen and rook were flooding towards the kingside. The other former world champion in his team, Yifan Hou scored the second decisive game of the match against Alexandra Kosteniuk. Thus, Chingari Gulf Titans lost to Ganges Grandmasters 0-3 (4-10) without conceding a single match. Four matches will be played tomorrow starting with SG Alpine Warriors vs Balan Alaskan Knights from 2 p.m. local time. Photo: Jio Cinema live stream",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-2023-day-1-report",
+         "pubDate" : "Fri, 23 Jun 2023 01:48:24 +0100",
+         "title" : "Tech Mahindra GCL Day 1: Vishy Anand ensures a smooth sailing for Ganges Grandmasters"
+      },
+      {
+         "description" : "Former World Champions Vishy Anand and Hou Yifan both scored big wins as their team, the Ganges Grandmasters, cruised to victory on day one of the Tech Mahindra Global Chess League 2023 in Dubai.&#38;nbsp;&#38;nbsp; GM Alexander Grischuk was the day&#39;s o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-1",
+         "pubDate" : "Thu, 22 Jun 2023 16:47:00 -0700",
+         "title" : "Anand, Hou Show Class Is Permanent As Global Chess League Begins"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-5b261a50-7fff-e802-da1b-fd1a6d9fbe45\">SAINT LOUIS, June 22, 2023</span> -</strong> The <a href=\"http://www.saintlouischessclub.org\">Saint Louis Chess Club</a> today announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-im",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -34,28 +58,12 @@ news_feed (
          "title" : "National preparations for FIDE World Schools Team Championship go big around the Globe"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on playing aggressively against the English Opening. 2023.06.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tHGR4zh80Ac.jpg?itok=coi476Gh\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on playing aggressively against the English Opening. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tHGR4zh80Ac.jpg?itok=coi476Gh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi",
          "pubDate" : "Thu, 22 Jun 2023 17:17:20 +0000",
          "title" : "Aggressive Play vs. the English Opening | Prepare Like A Pro - GM JJ Ali Marandi"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. | Follow the games live with expert commentary from 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Thu, 22 Jun 2023 15:15:00 +0100",
-         "title" : "Global Chess League - Live!"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Thu, 22 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2446",
          "pubDate" : "Wed, 07 Jun 2023 22:47:01 +0000",
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 3 recap"
-      },
-      {
-         "description" : "The 2023 Junior Speed Chess Championship is about to kick off.&#38;nbsp;Eight talented young players, including names like GMs Gukesh D, Denis Lazavik, and Christopher Yoo, will seek to claim victory. If you can accurately predict who beats who, you...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-jscc-bracket-contest",
-         "pubDate" : "Wed, 07 Jun 2023 11:32:21 -0700",
-         "title" : "Your Chance To Win Prizes In The 2023 JSCC Bracket Contest"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100828943.cms\" />Five-time world champions Viswanathan Anand and Magnus Carlsen were picked up by Ganges Grandmasters and SG Alpine Warriors respectively in the Players' Draft for the inaugural Global Chess League on Wednesday.",
