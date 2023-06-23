@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. | Follow the games live with expert commentary from 15.30 CEST (9.30 ET, 19.00 IST)",
+         "description" : "In his new Power Play Show, GM Daniel King tests the viewers' killer instincts. In the last-round game from Norway Chess between Hikaru Nakamura and Fabiano Caruana, a position arose which was highly tactical and could have led to a swift conclusion! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-killer-instincts",
+         "pubDate" : "Fri, 23 Jun 2023 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Test your killer instincts"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Fri, 23 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : " There are a few Australian's enjoying chess in the northern hemisphere summer. FM Albert Winkelman has just finished an event in Teplice before moving onto an event in Slovakia next month. Meanwhile FM Fred Litchfield is playing in <a href=\"http://praguechessfestival.com/en/2023\">Prague International Chess Festival</a> (along with David Canon and Lillian Lu). This event has a couple of elite GM round robins plus a big open event. Litchfield started with a win in the first round, but is up against a 2400 rated IM in round 2. While all games were drawn in the top RR event, there was more excitement in the Challengers event, as the following game shows. <br /> <b>BARTEL,Mateusz (2609) - STALMA",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/summer-in-prague.html",
+         "pubDate" : "Fri, 23 Jun 2023 13:06:00 +0000",
+         "title" : "Summer in Prague"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). Today we see Carlsen vs Anand!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
@@ -810,28 +834,12 @@ news_feed (
          "title" : "13-Year-Old Alice Lee Earns IM Title"
       },
       {
-         "description" : "The Aimchess Rapid Play-In featured a number of top-notch grandmasters, who had to go through a difficult open event to fight for a spot in the next stage of the Champions Chess Tour. Magnus Carlsen, Wesley So, Levon Aronian and Eduardo Iturrizaga made it through in the end. GM Karsten M&uuml;ller followed the games closely and highlighted a few instructive endgames for us to learn from. Find here four examples which showcase the technical ability of Carlsen, So, Daniil Dubov and Bogdan-Daniel Deac. | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-endgames",
-         "pubDate" : "Fri, 16 Jun 2023 00:10:00 +0100",
-         "title" : "Carlsen, Dubov and So showcase their endgame prowess"
-      },
-      {
          "description" : "GM Gukesh D secured his spot in the 2023 Junior Speed Chess Championship Final by winning his semifinal match against GM Pranav V 16.5-10.5. After an unexpectedly strong start by Pranav, where he started the 5+1 portion with a 3-point lead, Guke...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-jscc-semifinals-gukesh",
          "pubDate" : "Thu, 15 Jun 2023 13:55:00 -0700",
          "title" : "Gukesh Spreads Wings After Shocking Start, Advances To Final"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation, in association with the European Chess Academy and the Trainers Commission of the European Chess Union, present the first European conference for chess trainers. The event will take place during the SuperUnited Rapid & Blitz tournament in Zagreb, the third stage of this year's Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-europea-trainers-conference-2023",
-         "pubDate" : "Thu, 15 Jun 2023 20:15:00 +0100",
-         "title" : "Kasparov keynote speaker at the KCF European Trainers Conference"
       },
       {
          "description" : "",
