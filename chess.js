@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black's 17...0-0?? allowed White a classical raid featuring two clever continuations. Can you calculate the lines?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/castling-into-disaster",
+         "pubDate" : "Sat, 24 Jun 2023 09:00:00 +0100",
+         "title" : "Castling into disaster"
+      },
+      {
+         "description" : "Ray Robson joined Vincent Keymer in the lead of the Prague Masters tournament after beating Boris Gelfand in what turned out to be the only decisive game of round 3. Both Robson and Gelfand are known for favouring principled, theoretical lines, and that is precisely what they did in their direct encounter. The young US grandmaster prevailed following an engaging strategic battle. In the Challengers, Mateusz Bartel beat Vaclav Finek and is now the sole leader with 2&frac12;/3 points. | Photo: Anežka Kruž&iacute;kov&aacute;",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r3",
+         "pubDate" : "Sat, 24 Jun 2023 08:00:00 +0100",
+         "title" : "Prague: Robson beats Gelfand"
+      },
+      {
          "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-2",
-         "pubDate" : "Fri, 23 Jun 2023 15:08:32 -0700",
+         "pubDate" : "Fri, 23 Jun 2023 15:08:00 -0700",
          "title" : "Carlsen Beats Anand, But Ganges Grandmasters Strike Back"
       },
       {
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-killer-instincts",
          "pubDate" : "Fri, 23 Jun 2023 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Test your killer instincts"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Fri, 23 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
@@ -826,14 +834,6 @@ news_feed (
          "title" : "Schedule and Unique Scoring System Announced for the Inaugural Edition of Global Chess League"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King looks at the remarkable move ...Rg8 played in the game between Aryan Tari and Nodirbek Abdusattorov at the Norway Chess super-tournament. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-action-on-the-g-file",
-         "pubDate" : "Fri, 16 Jun 2023 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Action on the g-file"
-      },
-      {
          "description" : "Some of my blog posts are basically notes to myself. This is one of them. I took two weeks off at the beginning of May and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 30 posts in 30 days and am now caught up. <P> One trick I used was to skip Friday posts. These are usually a series on some theme. The final posts in the most recent Friday series were:- <UL> <LI> 2023-02-10: <A HREF=\"https://chessforallages.blogspot.com/2023/02/the-final-years-of-insidechesscom.html\">The Final Years of Insidechess.com</A> <BR><BR> <LI> 2023-03-03: <A HREF=\"https://chessforallages.blogspot.com/2023/03/chesscoms-game-review-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1544,14 +1544,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-habits/",
          "pubDate" : "Sat, 03 Jun 2023 12:00:00 +0000",
          "title" : "5 GM Habits for OTB Chess Success"
-      },
-      {
-         "description" : "Martin Amis, who died last month at 73, took a great interest in chess and often wrote important essays about the game. Amis was also a competent player, as I discovered when facing the author across the board as part of the public relations campaign for a book launch. I had wrongly expected him to be a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chessmen-of-letters-amis-and-nabokov/",
-         "pubDate" : "Sat, 03 Jun 2023 04:05:24 +0000",
-         "title" : "Chessmen of letters: Amis and Nabokov"
       }
    ]
 }
