@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2473",
+         "pubDate" : "Sat, 24 Jun 2023 14:17:35 +0000",
+         "title" : "European Solving Championship: Polish solvers regain titles, Lithuanians keep rising"
+      },
+      {
+         "description" : "Russian chess has suffered another blow as their former national team coach GM Alexander Motylev has switched federations and joined Romania. The former national and European champion joins a growing list of Russian grandmasters who no longer repr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexander-motylev-switches-from-russia-to-romania",
+         "pubDate" : "Sat, 24 Jun 2023 07:06:00 -0700",
+         "title" : "Former Russian Champion Alexander Motylev Switches To Romania"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Sat, 24 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Sat, 24 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : " We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/when-you-arent-feeling-great/\">Grandmaster Tips To Perform When You Are Not Feeling Great</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/when-you-arent-feeling-great/",
+         "pubDate" : "Sat, 24 Jun 2023 12:00:00 +0000",
+         "title" : "Grandmaster Tips To Perform When You Are Not Feeling Great"
+      },
+      {
          "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -770,22 +810,6 @@ news_feed (
          "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
       },
       {
-         "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-file-alert",
-         "pubDate" : "Sat, 17 Jun 2023 09:00:00 +0100",
-         "title" : "A-file alert!"
-      },
-      {
-         "description" : "With five wins in as many games, Frederik Svane had a brilliant start at the traditional open event in Teplice, Czech Republic. It was only in round 6 that the 19-year-old GM, who plays for the Hamburg Chess Club in the Bundesliga, conceded his first draw, against his brother Rasmus. A win over then co-leader Evgeny Romanov left him in the sole lead with two round to go. Three players, including Rasmus, stand a half point behind. | Photo: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/teplice-open-2023-r7",
-         "pubDate" : "Sat, 17 Jun 2023 08:00:00 +0100",
-         "title" : "Frederik Svane leads Teplice Open with two rounds to go"
-      },
-      {
          "description" : " Oleiny Linares Napoles is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1290,14 +1314,6 @@ news_feed (
          "title" : "Netflix Launches 'Queen's Gambit Chess' Game"
       },
       {
-         "description" : "GM Fabiano Caruana increased his lead to 2.5 points after outwitting GM Wesley So through the armageddon tiebreaker to move on to 16 points with just one round to go at Norway Chess 2023. In the crucial final round on Friday, he will face another ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-norway-chess-round-8",
-         "pubDate" : "Fri, 09 Jun 2023 07:33:00 -0700",
-         "title" : "Caruana, Nakamura In Final Round Decider; 'Competitors Not Rivals'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1544,22 +1560,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/",
          "pubDate" : "Sun, 04 Jun 2023 05:56:14 +0000",
          "title" : "Zhou Jianchou wins 2023 Chicago Open"
-      },
-      {
-         "description" : " One of the difficulties in broadcasting tournaments over the internet is implementing the delayed broadcast. As part of anti-cheating methods, games are often 'delayed' by 15 to 30 minutes, so there is little chance a player can be signalled by an accomplice during the game. Implementing this delay turned out to be a tricky task however, as this feature did not come with the DGT broadcast software. A few people (including myself) programmed a solution to this option, saving timestamped snapshots of the files, and then uploading after the delay time had been reached. At least one online server (chess24) offered this as a service, although setting it up was often tricky. But recently Lichess ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/on-delay.html",
-         "pubDate" : "Sat, 03 Jun 2023 13:24:00 +0000",
-         "title" : "On Delay"
-      },
-      {
-         "description" : " Imagine enhancing your chess performance without solving a single exercise. Sounds too good to be true, right? As a Grandmaster and chess coach, I've discovered that certain habits can significantly enhance your game alongside your usual training methods. These habits will help you get the best out of yourself on game days, resulting in better [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-habits/\">5 GM Habits for OTB Chess Success</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-habits/",
-         "pubDate" : "Sat, 03 Jun 2023 12:00:00 +0000",
-         "title" : "5 GM Habits for OTB Chess Success"
       }
    ]
 }
