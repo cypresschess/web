@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-blitz-champs-ii-tranquill-wins",
+         "pubDate" : "Fri, 23 Jun 2023 16:58:09 -0700",
+         "title" : "Chiefs Drue Tranquill Intercepts BlitzChamps II Victory With Dramatic Queen Sacrifice"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/for-king.html",
          "pubDate" : "Thu, 08 Jun 2023 12:30:00 +0000",
          "title" : "For the King"
-      },
-      {
-         "description" : "Ukrainian grandmaster Vadim Malakhatko, two-time Kyiv champion, winner of Olympic bronze and world championship gold medals, open tournament warrior, and passionate organizer of chess tournaments in Ukraine, suddenly died on Monday of a heart atta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vadim-malakhatko-1977-2023",
-         "pubDate" : "Thu, 08 Jun 2023 04:34:00 -0700",
-         "title" : "Vadim Malakhatko (1977-2023)"
       },
       {
          "description" : "",
