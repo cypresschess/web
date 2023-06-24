@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ganges Grandmasters maintain their sole lead by beating Balan Alaskan Knights 3-0 (11-6). Leinier Dominguez's win over Teimour Radjabov certainly set the tone for the team. Bella Khotenashvili and Andrey Esipenko ensured the team gets some more valuable game points. Triveni Continental Kings started the day by losing their match against SG Alpine Warriors 0-3 (7-8). However, they bounced back by finishing the day with a victory over Balan Alaskan Knights. Both TCK and SGAW have the same match points (9) currently, the former having one more match played than the latter. The week ends with four matches tomorrow, starting with upGrad Mumba Masters vs Ganges Grandmasters from 3 p.m. local time,",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-3-report",
+         "pubDate" : "Sat, 24 Jun 2023 20:30:00 +0100",
+         "title" : "GCL Day 3: Ganges Grandmasters remain invincible, Continental Kings climb up"
+      },
+      {
+         "description" : " We'll wrap up our examination of the discovered and double discovered attack this week. Out of all the tactics discussed thus far, this one has helped me the most. We'll look at another example this week. This example is a double discovered check, which is devastating for its victim, if you set it up correctly. <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\">A Foundation for Beginners Ninety Six</a> appeared first on <a rel=\"nofollow\" href=\"https://c",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-six/",
+         "pubDate" : "Sat, 24 Jun 2023 19:17:28 +0000",
+         "title" : "A Foundation for Beginners Ninety Six"
+      },
+      {
+         "description" : "The Global Chess League 2023 is a 6-team double round-robin tournament taking place from June 22 to July 1, 2023 in Dubai, UAE. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. Wins with Black are worth 4 board points, wins with White 3, a draw 1. More []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/global-chess-league-2023-live-1/",
+         "pubDate" : "Sat, 24 Jun 2023 18:36:15 +0000",
+         "title" : "Global Chess League 2023 - LIVE"
+      },
+      {
+         "description" : "The French Rapid Championship 2023 is taking place on 24-25 of June 2023 in Asnieres, France. The time control is 15 minutes for the whole game plus 3 seconds increment starting from move on. It is 13-round Swiss system tournament with participation of Etienne Bacrot, Laurent Fressinet, Yannick Gozzoli, Jules Moussard, Daniil Yuffa, Maxime Lagarde, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-rapid-championship-2023-live/",
+         "pubDate" : "Sat, 24 Jun 2023 17:52:59 +0000",
+         "title" : "French Rapid Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The NC World Masters 2023 is a double round-robin with the twist that castling is not allowed. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. More : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nc-world-masters-2023-live/",
+         "pubDate" : "Sat, 24 Jun 2023 17:30:00 +0000",
+         "title" : "NC World Masters 2023 - LIVE"
+      },
+      {
+         "description" : "The NC World Masters 2023 is a double round-robin with the twist that castling is not allowed. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. More : Aktobe Open Classic 2023 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nc-world-masters-2023/",
+         "pubDate" : "Sat, 24 Jun 2023 17:10:00 +0000",
+         "title" : "NC World Masters 2023"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101245291.cms\" />The Ganges Grandmasters secured their third win on the trot to maintain their dominance at the top after day three of the Global Chess League on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-ganges-grandmasters-maintain-dominance/articleshow/101245291.cms",
+         "pubDate" : "Sat, 24 Jun 2023 16:44:46 +0000",
+         "title" : "Global Chess League: Ganges Grandmasters maintain dominance"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,14 +98,6 @@ news_feed (
          "title" : "Grandmaster Tips To Perform When You Are Not Feeling Great"
       },
       {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Sat, 24 Jun 2023 13:00:00 +0100",
-         "title" : "Global Chess League - Live!"
-      },
-      {
          "description" : "After a two-week holiday, the Fast & Furious show is back with a spectacular game from the Prague Challengers event. The encounter features a sharp English opening and the two top seeds of the event, Benjamin Gledura and Erwin l'Ami. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +136,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2023-r3",
          "pubDate" : "Sat, 24 Jun 2023 08:00:00 +0100",
          "title" : "Prague: Robson beats Gelfand"
+      },
+      {
+         "description" : "The French Blitz Championship 2023 is taking place on 23-24 of June 2023 in Asnieres, France. The time control is 5 minutes for the whole game plus 3 seconds increment starting from move on. It is 13-round Swiss system tournament with participation of Etienne Bacrot, Laurent Fressinet, Yannick Gozzoli, Jules Moussard, Daniil Yuffa, Maxime Lagarde, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-blitz-championship-2023-live/",
+         "pubDate" : "Sat, 24 Jun 2023 06:00:00 +0000",
+         "title" : "French Blitz Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Llinars Open 2023 is taking place from 25 June to 3 July 2023 in Llinars del Valles, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yuri Solodovnichenko, Gerard Ayats Llobera, Viktor Moskalenko, Marc Narciso Dublan, Arpan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/llinars-open-2023-live/",
+         "pubDate" : "Sat, 24 Jun 2023 05:00:00 +0000",
+         "title" : "Llinars Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Llinars Open 2023 is taking place from 25 June to 3 July 2023 in Llinars del Valles, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yuri Solodovnichenko, Gerard Ayats Llobera, Viktor Moskalenko, Marc Narciso Dublan, Arpan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/llinars-open-2023/",
+         "pubDate" : "Sat, 24 Jun 2023 04:00:00 +0000",
+         "title" : "Llinars Open 2023"
       },
       {
          "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
@@ -162,6 +234,22 @@ news_feed (
          "title" : "Global Chess League: Anand, Yifan power Ganges to huge victory"
       },
       {
+         "description" : "Sparkassen A is taking place in Dortmund, Germany from June 24 to July 2. Player have 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment from move 1. It is 9-round Swiss open with participation of Matthias Bluebaum, Alexander Donchenko, Ruslan Ponomariov, Aryan Chopra, Leon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sparkassen-a-open-2023-live/",
+         "pubDate" : "Fri, 23 Jun 2023 07:10:00 +0000",
+         "title" : "Sparkassen A-Open 2023 - LIVE"
+      },
+      {
+         "description" : "Sparkassen A is taking place in Dortmund, Germany from June 24 to July 2. Player have 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment from move 1. It is 9-round Swiss open with participation of Matthias Bluebaum, Alexander Donchenko, Ruslan Ponomariov, Aryan Chopra, Leon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sparkassen-a-open-2023-participants/",
+         "pubDate" : "Fri, 23 Jun 2023 07:00:00 +0000",
+         "title" : "Sparkassen A-Open 2023 - Participants"
+      },
+      {
          "description" : "Online Senior National Arbiter Seminar Certificates, 26-27 May 2023 Link : https://aicf.online/SNA-online.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -216,6 +304,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bullet-brawl-weekly",
          "pubDate" : "Thu, 22 Jun 2023 13:41:43 -0700",
          "title" : "Bullet Brawl Is Going Weekly"
+      },
+      {
+         "description" : "The Global Chess League 2023 is a 6-team double round-robin tournament taking place from June 22 to July 1, 2023 in Dubai, UAE. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. Wins with Black are worth 4 board points, wins with White 3, a draw 1.Chessdom.com will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/global-chess-league-2023-participants1/",
+         "pubDate" : "Thu, 22 Jun 2023 18:30:00 +0000",
+         "title" : "Global Chess League 2023 - Participants"
       },
       {
          "description" : "",
@@ -394,14 +490,6 @@ news_feed (
          "title" : "A Chess Enthusiast"
       },
       {
-         "description" : "The Aktobe Open Classic 2023 is taking place at Aktobe, Kazakhstan from June 20th to 27th. It is organized by the Kazakhstan Chess Federation and set up as a 9-round swiss tournament. The time control is 90 minutes plus a 30-second increment per move, starting from move 1. The top five rated players are Maxim []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aktobe-open-classic-2023-live/",
-         "pubDate" : "Tue, 20 Jun 2023 21:41:28 +0000",
-         "title" : "Aktobe Open Classic 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to effectively use chess puzzles to improve your game.<br /> See &quot;fast mode&quot; puzzles, and then think longer with &quot;slow mode&quot; puzzles. 2023.06.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/progressing-chess-puzzles-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XEAW827IrWI.jpg?itok=zCKhSV99\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -424,14 +512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
          "pubDate" : "Tue, 20 Jun 2023 20:00:00 +0100",
          "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
-      },
-      {
-         "description" : "The Pula Open 2023 will take place from the 17th to the 25th of June in Pula, Croatia as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1.Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023 / Prague Challengers 2023 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pula-open-2023/",
-         "pubDate" : "Tue, 20 Jun 2023 18:00:00 +0000",
-         "title" : "Pula Open 2023"
       },
       {
          "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
@@ -474,22 +554,6 @@ news_feed (
          "title" : "Volunteer wanted!"
       },
       {
-         "description" : "The Prague Open 2023 is taking place from 22&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Vojtech Plat, Kaan Kucuksari, Guha Mitrabha, Tomas Polak, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-open-2023-live/",
-         "pubDate" : "Tue, 20 Jun 2023 11:45:00 +0000",
-         "title" : "Prague Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Prague Open 2023 is a 9-round Swiss tournament taking place from 22&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-open-2023/",
-         "pubDate" : "Tue, 20 Jun 2023 11:30:00 +0000",
-         "title" : "Prague Open 2023"
-      },
-      {
          "description" : "The Armenian team emerged victorious at the European Pair Blitz Chess Championship, which took place in Krak&oacute;w on Monday. The Armenian pair, women's tournament winner Elina Danielian and the open event runner-up Shant Sargsyan, finished ahead of the teams from the Netherlands (Elina Roebers and Benjamin Bok) and Azerbaijan (Gunay Mammadzada and Shakhriyar Mamedyarov). | Photos: Walusza Fotografia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -512,46 +576,6 @@ news_feed (
          "link" : "https://www.europechess.org/armenia-wins-european-pairs-chess-championship-2023/",
          "pubDate" : "Tue, 20 Jun 2023 06:36:28 +0000",
          "title" : "Armenia wins European Pairs Chess Championship 2023"
-      },
-      {
-         "description" : "The Pula Open 2023 will take place from the 17th to the 25th of June in Pula, Croatia as a 9-round Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Parallel : Prague Masters 2023 / Prague Challengers 2023 / Prague Open 2023More : European []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pula-open-2023-live/",
-         "pubDate" : "Tue, 20 Jun 2023 05:47:00 +0000",
-         "title" : "Pula Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Prague Challengers 2023 is taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Benjamin Gledura, Erwin L&#8221;Ami, Jergus Pechac, Meteusz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-challengers-2023-live/",
-         "pubDate" : "Tue, 20 Jun 2023 05:00:00 +0000",
-         "title" : "Prague Challengers 2023 - LIVE"
-      },
-      {
-         "description" : "The Prague Challengers 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Masters 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-challengers-2023/",
-         "pubDate" : "Tue, 20 Jun 2023 05:00:00 +0000",
-         "title" : "Prague Challengers 2023"
-      },
-      {
-         "description" : "The Prague Masters 2023 is taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Hao Wang, Sam Shankland, Pentala Harikrishna, Bogdan-Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-masters-2023-live/",
-         "pubDate" : "Tue, 20 Jun 2023 04:30:00 +0000",
-         "title" : "Prague Masters 2023 - LIVE"
-      },
-      {
-         "description" : "The Prague Masters 2023 is a 10-player round-robin tournament taking place from 21&#x2013;30 June 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Prague Challengers 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-masters-2023/",
-         "pubDate" : "Tue, 20 Jun 2023 04:00:00 +0000",
-         "title" : "Prague Masters 2023"
       },
       {
          "description" : "",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-and-exam-at-udaipur-2023/",
          "pubDate" : "Mon, 19 Jun 2023 09:41:58 +0000",
          "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
-      },
-      {
-         "description" : "Chess is an accompanying event of the 3rd European Games which is being held in Krakow, Poland. The one day event in the Krakow Opera House on Monday June 19 sees 16 players (one male and one female from 8 countries) compete in a blitz round-robin, before there are playoffs for 1st, 3rd, 5th and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-pairs-blitz-women-2023-live/",
-         "pubDate" : "Mon, 19 Jun 2023 07:00:00 +0000",
-         "title" : "European Pairs Blitz Women 2023 - LIVE"
       },
       {
          "description" : "Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda, alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru. | Photos: World Chess",
