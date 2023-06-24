@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Sat, 24 Jun 2023 13:00:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "After a two-week holiday, the Fast & Furious show is back with a spectacular game from the Prague Challengers event. The encounter features a sharp English opening and the two top seeds of the event, Benjamin Gledura and Erwin l'Ami. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-spectacular-attack-prague",
+         "pubDate" : "Sat, 24 Jun 2023 11:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A spectacular attack in Prague"
+      },
+      {
+         "description" : "Senior National Arbiter Udaipur, Rajasthan Certificates Download Link : Click Here!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/udaipur-sna-certificates/",
+         "pubDate" : "Sat, 24 Jun 2023 09:43:48 +0000",
+         "title" : "Udaipur SNA Certificates"
+      },
+      {
          "description" : "In the diagram position Black's 17...0-0?? allowed White a classical raid featuring two clever continuations. Can you calculate the lines?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/castling-into-disaster",
          "pubDate" : "Sat, 24 Jun 2023 09:00:00 +0100",
          "title" : "Castling into disaster"
+      },
+      {
+         "description" : "During his recent visit to the USA to cement relations with President Joe Biden, the Prime Minister, Rishi Sunak, was visibly impressed by the chess club in a Washington school. Pupils were not only actively involved in playing the game, but were also printing 3D sets in rather fetching blue and white livery. Sunak praised []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/snakes-and-leaders/",
+         "pubDate" : "Sat, 24 Jun 2023 07:58:38 +0000",
+         "title" : "Snakes and Leaders"
       },
       {
          "description" : "Ray Robson joined Vincent Keymer in the lead of the Prague Masters tournament after beating Boris Gelfand in what turned out to be the only decisive game of round 3. Both Robson and Gelfand are known for favouring principled, theoretical lines, and that is precisely what they did in their direct encounter. The young US grandmaster prevailed following an engaging strategic battle. In the Challengers, Mateusz Bartel beat Vaclav Finek and is now the sole leader with 2&frac12;/3 points. | Photo: Anežka Kruž&iacute;kov&aacute;",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "FIDE World Cup 2023: Useful information for players"
       },
       {
-         "description" : "The ASEAN Age Group Championships is an extremely important event for young kids living in the ASEAN countries. They include Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar. Philippines, Singapore, Thailand, Vietnam, and Timur Leste. However, if you look at the name carefully, it says ASEAN+ and the + indicates that more countries are welcome at the championships - China, India, Japan, New Zealand, and South Korea. It will be held in 14 age groups from the 17th to the 27th of June 2023, in Bangkok, Thailand. Along with this tournament, there is also an ACC-ECU symposium which will witness the presence of Artur Yusupov, Zurab Azmaiparashvili and many other famous names.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-asean-age-group-is-back-after-3-years",
-         "pubDate" : "Sat, 17 Jun 2023 02:00:00 +0100",
-         "title" : "The ASEAN+ Age Group is back after three years"
-      },
-      {
          "description" : "GM Raunak Sadhwani convincingly defeated GM Denis Lazavik to attain the second spot in the 2023 Junior Speed Chess Championship Final. The match was a one-sided affair in the first two segments, and despite an early scare in the bullet, Raunak reg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/monday-masters-gm-yasser-seirawan",
          "pubDate" : "Fri, 16 Jun 2023 19:59:46 +0000",
          "title" : "Monday Masters' - GM Yasser Seirawan"
-      },
-      {
-         "description" : "In a new article published on Forbes India, former world champion Vishy Anand reflects on how India has come to be recognised as a global chess powerhouse. Anand writes: \"So, when I started the academy with Westbridge Capital, the idea wasn't just to get Indians to play chess, but to see how we can get Indians to the very top\". | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-forbes-india-2023",
-         "pubDate" : "Fri, 16 Jun 2023 20:00:00 +0100",
-         "title" : "\"People acknowledge India as a powerhouse\": Anand on Forbes India"
       },
       {
          "description" : "Chess.com is excited to announce the relaunch of our College Ambassador Program! This program is designed to empower college students to grow the game of chess across their campus while also receiving perks for their college chess club.&#38;nbsp; Ch...",
