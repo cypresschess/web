@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bogdan-Daniel Deac scored a crucial win over former co-leader Ray Robson in round 4 of the Prague Masters to join Vincent Keymer in the lead of the standings. Keymer held David Navara to a draw in a 100-move game, while Wang Hao returned to a fifty-percent score by beating Haik Martirosyan. In the Challengers, three games ended decisively, with Benjamin Gledura winning to join Mateusz Bartel in the lead. | Photo: Anežka Kruž&iacute;kov&aacute;",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r4",
+         "pubDate" : "Sun, 25 Jun 2023 00:10:00 +0100",
+         "title" : "Prague: Deac tears down Robson's Berlin wall"
+      },
+      {
+         "description" : "Chinese GM Wei Yi remains the MVP of the&#38;nbsp;Tech Mahindra Global Chess League 2023 after scoring a third win in four games. That took his team Traveni Continental Kings up to second place, but 5-time World Champion Viswanathan Anand&#39;s Ganges Gra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-3",
+         "pubDate" : "Sat, 24 Jun 2023 15:47:27 -0700",
+         "title" : "Wei Yi, And Team Anand, Keep On Winning"
+      },
+      {
          "description" : "Ganges Grandmasters maintain their sole lead by beating Balan Alaskan Knights 3-0 (11-6). Leinier Dominguez's win over Teimour Radjabov certainly set the tone for the team. Bella Khotenashvili and Andrey Esipenko ensured the team gets some more valuable game points. Triveni Continental Kings started the day by losing their match against SG Alpine Warriors 0-3 (7-8). However, they bounced back by finishing the day with a victory over Balan Alaskan Knights. Both TCK and SGAW have the same match points (9) currently, the former having one more match played than the latter. The week ends with four matches tomorrow, starting with upGrad Mumba Masters vs Ganges Grandmasters from 3 p.m. local time,",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-3-report",
          "pubDate" : "Sat, 24 Jun 2023 20:30:00 +0100",
          "title" : "GCL Day 3: Ganges Grandmasters remain invincible, Continental Kings climb up"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2474",
+         "pubDate" : "Sat, 24 Jun 2023 19:27:34 +0000",
+         "title" : "Global Chess League Day 3: Ganges Grandmasters reign supreme"
       },
       {
          "description" : " We'll wrap up our examination of the discovered and double discovered attack this week. Out of all the tactics discussed thus far, this one has helped me the most. We'll look at another example this week. This example is a double discovered check, which is devastating for its victim, if you set it up correctly. <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\">A Foundation for Beginners Ninety Six</a> appeared first on <a rel=\"nofollow\" href=\"https://c",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
          "pubDate" : "Sat, 24 Jun 2023 15:00:00 +0100",
          "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Sat, 24 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : " We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/when-you-arent-feeling-great/\">Grandmaster Tips To Perform When You Are Not Feeling Great</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
          "pubDate" : "Fri, 9 Jun 2023 20:17:00 +0400",
          "title" : "11th Norway Chess 2023 - Games and Results"
-      },
-      {
-         "description" : "No, it&#39;s not a joke. Netflix is actually releasing a new game based on the hit series The Queen&#39;s Gambit where you can take on the one and only Beth Harmon. It&#39;s apparently a game about the game of... chess. &#38;ldquo;We&#38;rsquo;re making a game that...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/netflix-launches-queens-gambit-chess-game",
-         "pubDate" : "Fri, 09 Jun 2023 09:01:48 -0700",
-         "title" : "Netflix Launches 'Queen's Gambit Chess' Game"
       },
       {
          "description" : "",
