@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101260322.cms\" />Ganges Grandmasters suffered their first defeat after three consecutive victories in the Global Chess League, going down to upGrad Mumba Masters on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-anands-ganges-grandmasters-suffer-first-defeat-go-down-to-mumba-masters/articleshow/101260322.cms",
+         "pubDate" : "Sun, 25 Jun 2023 14:59:18 +0000",
+         "title" : "Global Chess League: Anand's Ganges Grandmasters suffer first defeat"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 131st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-challengers-vidit-raunak-regain-lead-with-contrasting-wins-over-svidler-short/articleshow/100747613.cms",
          "pubDate" : "Sun, 04 Jun 2023 15:51:35 +0000",
          "title" : "Vidit, Raunak regain lead with contrasting wins over Svidler, Short"
-      },
-      {
-         "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I was sure that I had already featured a stamp or two, but while searching the blog for today's post I came up empty handed. That probably means that stamps might occasionally make the short list for a post, but I eventually choose another item for the final post. <P> The item pictured below is one page of an auction titled, 'Chess on Stamps White Ace albums with dj 590 items 4 albums MNH MH CTO'. It sold for US $673.00 after one bid, which was also the starting price. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf04.jpg\" WIDTH=4",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/ebay-chess-on-stamps.html",
-         "pubDate" : "Sun, 04 Jun 2023 15:01:00 +0000",
-         "title" : "Ebay Chess on Stamps"
       }
    ]
 }
