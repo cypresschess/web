@@ -10,12 +10,12 @@ news_feed (
          "title" : "Prague: Deac tears down Robson's Berlin wall"
       },
       {
-         "description" : "Chinese GM Wei Yi remains the MVP of the&#38;nbsp;Tech Mahindra Global Chess League 2023 after scoring a third win in four games. That took his team Traveni Continental Kings up to second place, but 5-time World Champion Viswanathan Anand&#39;s Ganges Gra...",
+         "description" : "Chinese GM Wei Yi remains the MVP of the&#38;nbsp;Tech Mahindra Global Chess League 2023 after scoring a third win in four games. It took his team Traveni Continental Kings up to second place, but five-time World Champion Viswanathan Anand&#39;s Ganges Gr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-3",
-         "pubDate" : "Sat, 24 Jun 2023 15:47:27 -0700",
-         "title" : "Wei Yi, And Team Anand, Keep On Winning"
+         "pubDate" : "Sat, 24 Jun 2023 15:47:00 -0700",
+         "title" : "Wei Yi, Team Anand Keep On Winning"
       },
       {
          "description" : "Ganges Grandmasters maintain their sole lead by beating Balan Alaskan Knights 3-0 (11-6). Leinier Dominguez's win over Teimour Radjabov certainly set the tone for the team. Bella Khotenashvili and Andrey Esipenko ensured the team gets some more valuable game points. Triveni Continental Kings started the day by losing their match against SG Alpine Warriors 0-3 (7-8). However, they bounced back by finishing the day with a victory over Balan Alaskan Knights. Both TCK and SGAW have the same match points (9) currently, the former having one more match played than the latter. The week ends with four matches tomorrow, starting with upGrad Mumba Masters vs Ganges Grandmasters from 3 p.m. local time,",
@@ -96,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alexander-motylev-switches-from-russia-to-romania",
          "pubDate" : "Sat, 24 Jun 2023 07:06:00 -0700",
          "title" : "Former Russian Champion Alexander Motylev Switches To Romania"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Sat, 24 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : " We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/when-you-arent-feeling-great/\">Grandmaster Tips To Perform When You Are Not Feeling Great</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -840,6 +832,14 @@ news_feed (
          "link" : "https://www.thearticle.com/liberty-or-libertinism-from-schiller-to-andrew-tate/",
          "pubDate" : "Sat, 17 Jun 2023 11:12:40 +0000",
          "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
+      },
+      {
+         "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-file-alert",
+         "pubDate" : "Sat, 17 Jun 2023 09:00:00 +0100",
+         "title" : "A-file alert!"
       },
       {
          "description" : " Oleiny Linares Napoles is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
