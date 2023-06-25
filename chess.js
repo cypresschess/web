@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Sun, 25 Jun 2023 13:00:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
          "description" : "All five games ended decisively in the first round of the Sportland NRW Cup in Dortmund. WGM Dinara Wagner (pictured), IM Georgios Souleidis and 12-year-old FM Hussain Besou had a dream start: they beat the three participating grandmasters. In the A-Open, most of the favourites won their games, although the accelerated Swiss format made for interesting fights on the very first day of action.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d1",
          "pubDate" : "Sun, 25 Jun 2023 09:00:00 +0100",
          "title" : "Dortmund: All three GMs lose in the Sportland NRW Cup"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation, in coperation with the European Chess Union Trainers Commission and European Chess Academy, present the first European conference for chess trainers. The event will take place during the SuperUnited Rapid &#38; Blitz tournament in Zagreb, the third stage of this year's Grand Chess Tour. Date:&#160;July 8, 2023 Time:&#160;9:30 14:00 Venue:&#160;Westin Hotel, Zagreb, Croatia Address:&#160;Krsnjagova 1, 10000&#160; Keynote speaker: Garry Kasparov on trainers' role in modern times Speakers: Michael Khodarkovsky (photo @Lennart Ootes Grand Chess Tour []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/kcf-european-trainers-conference/",
+         "pubDate" : "Sun, 25 Jun 2023 07:32:40 +0000",
+         "title" : "KCF European Trainers Conference #Zagreb 8 July"
       },
       {
          "description" : "Bogdan-Daniel Deac scored a crucial win over former co-leader Ray Robson in round 4 of the Prague Masters to join Vincent Keymer in the lead of the standings. Keymer held David Navara to a draw in a 100-move game, while Wang Hao returned to a fifty-percent score by beating Haik Martirosyan. In the Challengers, three games ended decisively, with Benjamin Gledura winning to join Mateusz Bartel in the lead. | Photo: Anežka Kruž&iacute;kov&aacute;",
@@ -1568,14 +1584,6 @@ news_feed (
          "link" : "https://chessimprover.com/knight-fever-1/",
          "pubDate" : "Sun, 04 Jun 2023 11:51:30 +0000",
          "title" : "Knight Fever (1)"
-      },
-      {
-         "description" : "The European Senior Chess Championships 2023 concluded yesterday in Acqui Terme, Italy, with the closing and award ceremony for the Winners. The event was played in two age categories: 50+ and 65+, with separate women's competition in 50+ category. Women's 65+ section was merged with the Open, and the best ranked female players were crowned European Women's 65+ Champions. It was a very tight race for the top of the 50+ Open competition. Five players were in the lead heading []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championships-2023-concluded-in-acqui-terme-italy/",
-         "pubDate" : "Sun, 04 Jun 2023 08:43:58 +0000",
-         "title" : "European Senior Chess Championships 2023 concluded in Acqui Terme, Italy"
       }
    ]
 }
