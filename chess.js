@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One Berlin fell, the other one didn't. Magnus Carlsen's Berlin did not hold up against Maxime Vachier-Lagrave. However, D Gukesh's Berlin proved to be strong enough to hold Alexander Grischuk to a draw. It was R Praggnanandhaa's win against Javokhir Sindarov which helped SG Alpine Warriors beat upGrad Mumba Masters. It was a win by a minimum margin 0-3 (7-8). Before that, upGrad Mumba Masters handed Ganges Grandmasters their first defeat of the event. Despite MVL losing to Vishy Anand, Grischuk and Harika Dronavalli's key victories ensured the fall of GG. Monday's action kicks off at 5:30 p.m. local time, 7 p.m. IST. | Photo: Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-4-report",
+         "pubDate" : "Sun, 25 Jun 2023 20:45:00 +0100",
+         "title" : "GCL Day 4: SG Alpine Warriors survive MVL carnage, Pragg wins the decider"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101260322.cms\" />Ganges Grandmasters suffered their first defeat after three consecutive victories in the Global Chess League, going down to upGrad Mumba Masters on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/major-league-chess.html",
          "pubDate" : "Sun, 25 Jun 2023 13:14:00 +0000",
          "title" : "Major League Chess"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Sun, 25 Jun 2023 13:00:00 +0100",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "All five games ended decisively in the first round of the Sportland NRW Cup in Dortmund. WGM Dinara Wagner (pictured), IM Georgios Souleidis and 12-year-old FM Hussain Besou had a dream start: they beat the three participating grandmasters. In the A-Open, most of the favourites won their games, although the accelerated Swiss format made for interesting fights on the very first day of action.",
@@ -1576,14 +1576,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2438",
          "pubDate" : "Sun, 04 Jun 2023 20:28:04 +0000",
          "title" : "Winners crowned at European Senior Championship 2023"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100747613.cms\" />Saturday saw the return of Indian youngsters Vidit Gujrathi and Raunak Sadhwani in their Challenger Match of Maharashtra chess festival.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-challengers-vidit-raunak-regain-lead-with-contrasting-wins-over-svidler-short/articleshow/100747613.cms",
-         "pubDate" : "Sun, 04 Jun 2023 15:51:35 +0000",
-         "title" : "Vidit, Raunak regain lead with contrasting wins over Svidler, Short"
       }
    ]
 }
