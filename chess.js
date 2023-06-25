@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/legal-and-philidor/",
+         "pubDate" : "Sun, 25 Jun 2023 22:20:40 +0000",
+         "title" : "L&eacute;gal and Philidor"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2475",
+         "pubDate" : "Sun, 25 Jun 2023 21:46:56 +0000",
+         "title" : "Global Chess League Day 4: SG Alpine Warriors grab the lead"
+      },
+      {
          "description" : "One Berlin fell, the other one didn't. Magnus Carlsen's Berlin did not hold up against Maxime Vachier-Lagrave. However, D Gukesh's Berlin proved to be strong enough to hold Alexander Grischuk to a draw. It was R Praggnanandhaa's win against Javokhir Sindarov which helped SG Alpine Warriors beat upGrad Mumba Masters. It was a win by a minimum margin 0-3 (7-8). Before that, upGrad Mumba Masters handed Ganges Grandmasters their first defeat of the event. Despite MVL losing to Vishy Anand, Grischuk and Harika Dronavalli's key victories ensured the fall of GG. Monday's action kicks off at 5:30 p.m. local time, 7 p.m. IST. | Photo: Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1560,22 +1576,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2440",
          "pubDate" : "Mon, 05 Jun 2023 09:22:42 +0000",
          "title" : "World Rapid Team Championship: Preliminary list of participants announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2439",
-         "pubDate" : "Sun, 04 Jun 2023 21:14:09 +0000",
-         "title" : "Champions Match starts in Batumi, Georgia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2438",
-         "pubDate" : "Sun, 04 Jun 2023 20:28:04 +0000",
-         "title" : "Winners crowned at European Senior Championship 2023"
       }
    ]
 }
