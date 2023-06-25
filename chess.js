@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games ended decisively in the first round of the Sportland NRW Cup in Dortmund. WGM Dinara Wagner (pictured), IM Georgios Souleidis and 12-year-old FM Hussain Besou had a dream start: they beat the three participating grandmasters. In the A-Open, most of the favourites won their games, although the accelerated Swiss format made for interesting fights on the very first day of action.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d1",
+         "pubDate" : "Sun, 25 Jun 2023 09:00:00 +0100",
+         "title" : "Dortmund: All three GMs lose in the Sportland NRW Cup"
+      },
+      {
          "description" : "Bogdan-Daniel Deac scored a crucial win over former co-leader Ray Robson in round 4 of the Prague Masters to join Vincent Keymer in the lead of the standings. Keymer held David Navara to a draw in a 100-move game, while Wang Hao returned to a fifty-percent score by beating Haik Martirosyan. In the Challengers, three games ended decisively, with Benjamin Gledura winning to join Mateusz Bartel in the lead. | Photo: Anežka Kruž&iacute;kov&aacute;",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -834,14 +842,6 @@ news_feed (
          "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
       },
       {
-         "description" : "Although White is a whole piece up in the diagram position, he is dead lost - he simply has castled to the wrong side. How would you hunt down White's king on c1?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-file-alert",
-         "pubDate" : "Sat, 17 Jun 2023 09:00:00 +0100",
-         "title" : "A-file alert!"
-      },
-      {
          "description" : " Oleiny Linares Napoles is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1576,14 +1576,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championships-2023-concluded-in-acqui-terme-italy/",
          "pubDate" : "Sun, 04 Jun 2023 08:43:58 +0000",
          "title" : "European Senior Chess Championships 2023 concluded in Acqui Terme, Italy"
-      },
-      {
-         "description" : " The Chicago Open has become a marquee tournament in the U.S. circuit and since 2008 has taken place in the city of Wheeling at the Westin Hotel. In the 15th edition, Zhou Jianchou won first with superior tiebreaks in a three-way tie with GMs Awonder Liang and Emilio Cordova. GM Zhou Jianchou at the 2016 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/\">Zhou Jianchou wins 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/06/04/zhou-jianchou-wins-2023-chicago-open/",
-         "pubDate" : "Sun, 04 Jun 2023 05:56:14 +0000",
-         "title" : "Zhou Jianchou wins 2023 Chicago Open"
       }
    ]
 }
