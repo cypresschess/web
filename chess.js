@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 131st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-131-chess-history-in-a-nutshell-13",
+         "pubDate" : "Sun, 25 Jun 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 131: Chess history in a nutshell (13)"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Sun, 25 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Sun, 25 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : " Peter Myers has served as an officer in the Jamaica Chess Federation for more than 25 years and continues his work after being elected for a 2nd term on June 17th. Ten-time women's champion Deborah Richards-Porter was elected as Vice-President. It will take Myers a long time to match his 20+ years as Vice President. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/25/peter-myers-get-2nd-term-as-jamaicas-prez/\">Peter Myers get 2nd term as Jamaica's Prez!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/06/25/peter-myers-get-2nd-term-as-jamaicas-prez/",
+         "pubDate" : "Sun, 25 Jun 2023 13:45:05 +0000",
+         "title" : "Peter Myers get 2nd term as Jamaica's Prez!"
+      },
+      {
+         "description" : " The current big event running at the moment is the Global Chess League, from Dubai. It is a cross between tradition team events, and T20 Cricket leagues, with teams not so much representing countries or regions, but represent franchises. The new league has 8 teams and has attracted most of the worlds top players. On the plus side it is actually being played in person (rather than online), although the G/15m+5s time limit is geared towards instant gratification rather than slow contemplation. The most interesting feature is the scoring system - with a match win (over all 6 boards) earning a team 3 points, while drawn match is worth 1. However in the individual games a win for White is worth ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/major-league-chess.html",
+         "pubDate" : "Sun, 25 Jun 2023 13:14:00 +0000",
+         "title" : "Major League Chess"
+      },
+      {
          "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -770,14 +810,6 @@ news_feed (
          "title" : "'A Constantly Evolving Work of Art' (*)"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 129th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-129-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 18 Jun 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 130: Chess history in a nutshell (12)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -794,28 +826,12 @@ news_feed (
          "title" : "Teaching the Openings"
       },
       {
-         "description" : "'Chess4refugees' was the motto of the Emanuel Lasker Society Chess Culture Day, which took place a week ago in Hamburg. The event kicked off with a simultaneous exhibition given by Dr. Richard Lutz and Dr. Helmut Pfleger (final result: 20-5). In the evening, the chairman of the Emanuel Lasker Society, Thomas Weischede, handed over a symbolic cheque for €5,000 to the UN Refugee Aid and a lively panel discussion about 40 years of chess history followed with Frederic Friedel, Prof. Christian Hesse and Dr. Helmut Pfleger. | Photos: Nadja Wittmann (ChessBase)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-4-refugees-hamburg-simul",
-         "pubDate" : "Sun, 18 Jun 2023 08:00:00 +0100",
-         "title" : "Top-notch simul as part of 'chess4refugees' event in Hamburg"
-      },
-      {
          "description" : "The inaugural European Pairs Blitz Chess Championship starts in Krakow, Poland, as the accompanying event of the Krakow-European Games 2023. The event will be played on Monday, 19th of June, Open and Women's sections separately, with the participation of eight invited teams. The composition of the teams: The official program of the event started yesterday. The Mayor of Krakow prof. Jacek Majchrowski received the ECU President Zurab Azmaiparashvili, the FIDE Secretary General Lukasz Turlej, and Mrs. Kamila Kałuzna-Turcza the President []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-2023-starts-in-krakow/",
          "pubDate" : "Sat, 17 Jun 2023 21:46:45 +0000",
          "title" : "European Pairs Blitz Chess Championship 2023 starts in Krakow"
-      },
-      {
-         "description" : "Ahead of the inaugural edition of the Global Chess League (GCL), the league has announced the tournament's schedule and the scoring system. Remarkably, a game won with the black pieces will result in 4 Game Points (GP) for the winning player; a victory for a player with the white pieces will see them win 3 GP. The tournament will take place from June 21 to July 2 in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-schedule",
-         "pubDate" : "Sat, 17 Jun 2023 21:00:00 +0100",
-         "title" : "Global Chess League: Schedule and unique scoring system announced"
       },
       {
          "description" : " Adia Onyango is known as the &#8220;Chess Traveler&#8221; for her voyages to chess venues around the world. She frequents overseas locations but is also a mainstay in major U.S. tournaments. Long a chess promoter, she granted an interview with The Chess Drum during the 2023 Chicago Open and told us her chess story. A fun The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/\">Interview with Chess Connector, Adia Onyango</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1568,22 +1584,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/ebay-chess-on-stamps.html",
          "pubDate" : "Sun, 04 Jun 2023 15:01:00 +0000",
          "title" : "Ebay Chess on Stamps"
-      },
-      {
-         "description" : " I used to comment that if I could form a chess club from everyone who turned up to chess clubs/tournaments just once, it would be twice the size of any club in Canberra. It turns out that I could now do this with everyone who was simply a new player on the June 2023 Rating List for the ACT. A record 138 new players were added to the list, which is twice the size of the Gungahlin Chess Club, which is currently Canberra's largest. Not all players received a rating, or played more than 1 or 2 rounds in an event, but it is still quite a remarkable number. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/boom.html",
-         "pubDate" : "Sun, 04 Jun 2023 13:44:00 +0000",
-         "title" : "Boom"
-      },
-      {
-         "description" : " My six games my club's online tournament last week yielded two knight endings. Tricky things, knights. Let's take a look at the first of them. The first game reached a double knight ending here: I was White and was about to make my 27th move. How would you assess this position? Stockfish thinks it's about <a href=\"https://chessimprover.com/knight-fever-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-1/\">Knight Fever (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/knight-fever-1/",
-         "pubDate" : "Sun, 04 Jun 2023 11:51:30 +0000",
-         "title" : "Knight Fever (1)"
       }
    ]
 }
