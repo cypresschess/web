@@ -1,10 +1,12 @@
 jtable([
+"HOUSTON","2023-06-24  - 06-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306257162 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-06-24","76","<a href=http://www.uschess.org/msa/XtblMain.php?202306246302 target='_blank'>CCUH JUNE SCHOLASTIC AND COLLEGIATE</a>",
 "HOUSTON","2023-06-24","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306246142 target='_blank'>TCR: HOUSTON CITY SCHOLASTIC</a>",
+"HOUSTON","2023-06-24","11","<a href=http://www.uschess.org/msa/XtblMain.php?202306246042 target='_blank'>CHESSPANDA06242023SATURDAY</a>",
 "CYPRESS","2023-06-23","34","<a href=http://www.uschess.org/msa/XtblMain.php?202306235832 target='_blank'>EVENT NAME MISSING</a>",
 "SUGAR LAND","2023-06-23","6","<a href=http://www.uschess.org/msa/XtblMain.php?202306235732 target='_blank'>TOURNAMENTS/FBCC 2023 JUNE 23 OPEN/</a>",
 "HOUSTON","2023-06-23","15","<a href=http://www.uschess.org/msa/XtblMain.php?202306235722 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 23, 2023</a>",
-"HOUSTON","2023-06-17","28","<a href=http://www.uschess.org/msa/XtblMain.php?202306172772 target='_blank'>EVENT NAME MISSING</a>",
+"HOUSTON","2023-06-17","28","<a href=http://www.uschess.org/msa/XtblMain.php?202306172772 target='_blank'>QUADS - ALL AGES JUNE 17 2023</a>",
 "HOUSTON","2023-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202306172222 target='_blank'>CHESSPANDA06172023SATURDAY</a>",
 "CYPRESS","2023-06-16","36","<a href=http://www.uschess.org/msa/XtblMain.php?202306162052 target='_blank'>EVENT NAME MISSING</a>",
 "SPRING","2023-06-16","26","<a href=http://www.uschess.org/msa/XtblMain.php?202306161962 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "LEAGUE CITY","2022-11-05","141","<a href=http://www.uschess.org/msa/XtblMain.php?202211057262 target='_blank'>HYDE ELEMENTARY SCHOOL CHESS TOURNA</a>",
 "HOUSTON","2022-11-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202211057062 target='_blank'>PISD NOV 2022- NOV 2022 INTERMEDIAT</a>",
 "CYPRESS","2022-11-04","27","<a href=http://www.uschess.org/msa/XtblMain.php?202211046332 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2022-11-04","18","<a href=http://www.uschess.org/msa/XtblMain.php?202211046272 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"PEARLAND","2022-11-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202211015002 target='_blank'>RCC QUADS NOVEMBER 1, 2022</a>",
 ]);
