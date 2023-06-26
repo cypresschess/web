@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dinara Wagner became the first sole leader at the Sportland NRW Cup in Dortmund, as she is the only player to have started the tournament with two wins in a row. Wagner beat Alexander Bagrationi with black on Sunday. Meanwhile, in the A-Open, the top three seeds - Matthias Bluebaum, Alexander Donchenko (pictured) and Michael Adams - also kicked off the event with 2 out of 2. The No-Castling Masters, with Vladimir Kramnik and Fabiano Caruana, starts on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d2",
+         "pubDate" : "Mon, 26 Jun 2023 12:30:00 +0100",
+         "title" : "Dortmund: Dinara Wagner sole leader at Sportland NRW Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-taught-me-to-stay-patient-with-my-cricket-says-yuzvendra-chahal/articleshow/101280759.cms",
+         "pubDate" : "Mon, 26 Jun 2023 11:03:04 +0000",
+         "title" : "Chess has taught me to stay patient with my cricket: Chahal"
+      },
+      {
+         "description" : "The Bydgoszcz Open A 2023 is taking place from 24 of June to 01 of July 2023 in Bydgoszcz, Poland. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment starting from move one. It is 9-round Swiss system tournament with participation of Szymon Gumularz, Pawel Teclaf, Mircea-Emilian Parligras, Grzegorz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bydgoszcz-open-a-2023-live/",
+         "pubDate" : "Mon, 26 Jun 2023 10:48:47 +0000",
+         "title" : "Bydgoszcz Open A 2023 - LIVE"
+      },
+      {
+         "description" : "Ray Robson rejoined the lead at the Prague Masters after beating Wang Hao with white in Sunday's fifth round. This was the US grandmaster's third decisive game in a row, as he employed the same line he had used to defeat Boris Gelfand in round 3. In the other decisive game of the day, Haik Martirosyan got the better of Thai Dai Van Nguyen. Meanwhile, an eventful round in the Challengers left Benjamin Gledura in the sole lead. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r5",
+         "pubDate" : "Mon, 26 Jun 2023 11:40:00 +0100",
+         "title" : "Prague: Robson beats Wang in style"
+      },
+      {
+         "description" : "In the first events - standard chess (individual and team) - Vietnam won a massive 30 gold medals, 14 silver medals and 19 bronze medals, with second-placed Philippines trailing far behind with just 5 gold medals and 12 silver medals! No fewer than 10 countries won medals, with Myanmar in third place, followed by New Zealand, hosts Thailand, India, Indonesia, China, Malaysia and Singapore. In the individual competition, most eyes were on the U-20 event, in which a GM norm and an IM title were achieved, and in the Open, IMs Daniel Quizon and Michael Concio Jr. of the Philippines took gold and silver ahead of Vietnam's Duc Tri Ngo, Malaysia's Jun Ying Tan and Thailand's Pin Laohawirapap, who a",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vietnam-dominates-asean-age-groups-standard-chess-championships-2023",
+         "pubDate" : "Mon, 26 Jun 2023 11:16:59 +0100",
+         "title" : "Vietnam dominates ASEAN + Age-Groups Standard Championships 2023"
+      },
+      {
+         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko. Parallel : The Bydgoszcz Open A 2023More : Aktobe Open Classic 2023 / Prague Masters []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bydgoszcz-gm-2023-live/",
+         "pubDate" : "Mon, 26 Jun 2023 10:15:00 +0000",
+         "title" : "Bydgoszcz GM 2023 - LIVE"
+      },
+      {
+         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko.Chessdom.com will daily follow the live games. Parallel : The Bydgoszcz Open A 2023More : Aktobe []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bydgoszcz-gm-2023/",
+         "pubDate" : "Mon, 26 Jun 2023 09:50:00 +0000",
+         "title" : "Bydgoszcz GM 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2476",
+         "pubDate" : "Mon, 26 Jun 2023 09:05:32 +0000",
+         "title" : "World Schools Team Championship 2023 in Aktau, Kazakhstan: Registration is open"
+      },
+      {
+         "description" : "Submissions are open for this year's ECF Awards. The closing date for nominations is July 7th Details for this year's ECF Awards are now...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
+         "pubDate" : "Mon, 26 Jun 2023 08:00:27 +0000",
+         "title" : "ECF Awards 2023 - nominations closing soon"
+      },
+      {
          "description" : "GM Praggnanandhaa R. was the hero on the fourth day of the Tech Mahindra Global Chess League 2023 after scoring a win with black over UpGrad Mumba Masters&#39; GM Javokhir Sindarov, securing victory for the SG Alpine Warriors and pushing them into the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,22 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-131-chess-history-in-a-nutshell-13",
          "pubDate" : "Sun, 25 Jun 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 131: Chess history in a nutshell (13)"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Sun, 25 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Sun, 25 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : " Peter Myers has served as an officer in the Jamaica Chess Federation for more than 25 years and continues his work after being elected for a 2nd term on June 17th. Ten-time women's champion Deborah Richards-Porter was elected as Vice-President. It will take Myers a long time to match his 20+ years as Vice President. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/25/peter-myers-get-2nd-term-as-jamaicas-prez/\">Peter Myers get 2nd term as Jamaica's Prez!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -141,7 +197,7 @@ news_feed (
          "description" : "The Global Chess League 2023 is a 6-team double round-robin tournament taking place from June 22 to July 1, 2023 in Dubai, UAE. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. Wins with Black are worth 4 board points, wins with White 3, a draw 1. More []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/global-chess-league-2023-live-1/",
+         "link" : "https://www.chessdom.com/global-chess-league-2023-live-11/",
          "pubDate" : "Sat, 24 Jun 2023 18:36:15 +0000",
          "title" : "Global Chess League 2023 - LIVE"
       },
@@ -216,6 +272,14 @@ news_feed (
          "link" : "https://aicf.in/udaipur-sna-certificates/",
          "pubDate" : "Sat, 24 Jun 2023 09:43:48 +0000",
          "title" : "Udaipur SNA Certificates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2467",
+         "pubDate" : "Sat, 24 Jun 2023 09:12:04 +0000",
+         "title" : "FIDE World Cup 2023: Official website is launched"
       },
       {
          "description" : "In the diagram position Black's 17...0-0?? allowed White a classical raid featuring two clever continuations. Can you calculate the lines?",
@@ -338,22 +402,6 @@ news_feed (
          "title" : "Global Chess League: Anand, Yifan power Ganges to huge victory"
       },
       {
-         "description" : "Sparkassen A is taking place in Dortmund, Germany from June 24 to July 2. Player have 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment from move 1. It is 9-round Swiss open with participation of Matthias Bluebaum, Alexander Donchenko, Ruslan Ponomariov, Aryan Chopra, Leon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sparkassen-a-open-2023-live/",
-         "pubDate" : "Fri, 23 Jun 2023 07:10:00 +0000",
-         "title" : "Sparkassen A-Open 2023 - LIVE"
-      },
-      {
-         "description" : "Sparkassen A is taking place in Dortmund, Germany from June 24 to July 2. Player have 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment from move 1. It is 9-round Swiss open with participation of Matthias Bluebaum, Alexander Donchenko, Ruslan Ponomariov, Aryan Chopra, Leon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sparkassen-a-open-2023-participants/",
-         "pubDate" : "Fri, 23 Jun 2023 07:00:00 +0000",
-         "title" : "Sparkassen A-Open 2023 - Participants"
-      },
-      {
          "description" : "Online Senior National Arbiter Seminar Certificates, 26-27 May 2023 Link : https://aicf.online/SNA-online.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -408,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bullet-brawl-weekly",
          "pubDate" : "Thu, 22 Jun 2023 13:41:43 -0700",
          "title" : "Bullet Brawl Is Going Weekly"
-      },
-      {
-         "description" : "The Global Chess League 2023 is a 6-team double round-robin tournament taking place from June 22 to July 1, 2023 in Dubai, UAE. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. Wins with Black are worth 4 board points, wins with White 3, a draw 1.Chessdom.com will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/global-chess-league-2023-participants1/",
-         "pubDate" : "Thu, 22 Jun 2023 18:30:00 +0000",
-         "title" : "Global Chess League 2023 - Participants"
       },
       {
          "description" : "",
@@ -546,14 +586,6 @@ news_feed (
          "title" : "It's TIME To Acknowledge Chess: Chess.com Named In Prestigious 100 Most Influential Companies List"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2467",
-         "pubDate" : "Wed, 21 Jun 2023 11:52:43 +0000",
-         "title" : "FIDE World Cup 2023: Official website is launched"
-      },
-      {
          "description" : "Dommaraju Gukesh continues his incredible ascent at the elite chess circuit. In an interview given to World Chess, the 17-year-old talks about his development as a chess player, his strengths and (many) weaknesses and his opinions on the best players of all time. Referring to Bobby Fischer, Gukesh states: \"It feels like he's just the purest genius of our game\". | Photo: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/21st-asean-age-group-championships-gets-underway",
          "pubDate" : "Tue, 20 Jun 2023 15:00:00 +0100",
          "title" : "21st ASEAN+ Age-Group Championships gets underway"
-      },
-      {
-         "description" : "We're looking for a volunteer to help with cataloguing the English Chess Library books at De Montfort University in Leicester. We can offer B&#38;B accommodation...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/volunteer-wanted/",
-         "pubDate" : "Tue, 20 Jun 2023 13:45:13 +0000",
-         "title" : "Volunteer wanted!"
       },
       {
          "description" : "The Armenian team emerged victorious at the European Pair Blitz Chess Championship, which took place in Krak&oacute;w on Monday. The Armenian pair, women's tournament winner Elina Danielian and the open event runner-up Shant Sargsyan, finished ahead of the teams from the Netherlands (Elina Roebers and Benjamin Bok) and Azerbaijan (Gunay Mammadzada and Shakhriyar Mamedyarov). | Photos: Walusza Fotografia",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-pair-blitz-championship-2023-kick-off",
          "pubDate" : "Sun, 18 Jun 2023 19:00:00 +0100",
          "title" : "European Pair Blitz Championship 2023 kicks off in Krakow"
-      },
-      {
-         "description" : "Day 7 of the Armageddon Series in Berlin will decide the winner of the week-long extravaganza. Richard Rapport defeated Jan-Krzysztof Duda to reach the Grand Final from the upper bracket. Duda, however, will get a second chance, as he faces Maxime Vachier-Lagrave in the final match of the lower bracket. The winner will face Rapport, who would need to lose twice to finish the tournament in second place. | Start: 19.00 CEST. Follow the games live with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-live",
-         "pubDate" : "Sun, 18 Jun 2023 18:45:00 +0100",
-         "title" : "Armageddon Series, Day 7 - Live from 19.00 CEST!"
       },
       {
          "description" : "Chess artist at work? There was no description on this photo, so I had to dig a little. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf18.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/ciscommunity/52944080647/\">Art, Chess & Campagne | Design in the City Tour</A> &#169; Flickr user <I>Creative Industries Styria GmbH</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> The Flickr user name leads to <A HREF=\"https://www.cis.at/\">Creative Industries Styria</A> (cis.at). The English version of the 'About' page explains, <BLOCKQUOTE> Founded in 2007 as a network society of the Province of Styria, Creative Indust",
@@ -1560,22 +1576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-six-franchises-for-its-inaugural-edition/articleshow/100770582.cms",
          "pubDate" : "Mon, 05 Jun 2023 13:04:36 +0000",
          "title" : "Global Chess League unveils six franchises for its inaugural edition"
-      },
-      {
-         "description" : " The 3rd Cairns Cup takes place in Saint Louis 3rd to 13th June 2023. The event is named for Dr. Jeanne Sinquefield's maiden name and was cancelled at least once due to Covid-19. Players: Humpy Koneru, Alexandra Kosteniuk, Harika Dronavalli, Nana Dzagnidze, Zhansaya Abdumalik, Elisabeth Paehtz, Bella Khotenashvili, Gunay Mammadzada, Irina Krush and Anna Zatonskih. Humpy Koneru had ongoing, non Covid-19 related issues and felt she had to withdraw after 4 of the 9 rounds and the results of her games were cancelled. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/3rd-cairns-cup-2023",
-         "pubDate" : "Mon, 5 Jun 2023 13:49:00 +0400",
-         "title" : "3rd Cairns Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2440",
-         "pubDate" : "Mon, 05 Jun 2023 09:22:42 +0000",
-         "title" : "World Rapid Team Championship: Preliminary list of participants announced"
       }
    ]
 }
