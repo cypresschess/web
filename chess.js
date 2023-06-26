@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2478",
+         "pubDate" : "Mon, 26 Jun 2023 21:58:13 +0000",
+         "title" : "GCL Day 5: Triveni Continental Kings fail to stop Ganges Grandmasters' charge"
+      },
+      {
          "description" : "Vishy Anand continues to lead by example. Once again he won the battle of the 'Icons', this time against Levon Aronian (TCK). While his three points were confirmed, his teammates Leinier Domingueze, Hou Yifan and Bella Khotenashvili scored emphatic wins to ensure that their team scored the biggest victory of the event in terms of game points: 14-2. Balan Alaskan Knights overcame their 3-15 loss as they beat the top team, SG Alpine Warriors, by the minimum margin 3-0 (10-9). Nodirbek Abdusattorov, Tan Zhongyi and Nino Batsiashvili's wins rendered R Praggnanandhaa and Magnus Carlsen's individual triumphs ineffective as they only added game points, while BAK won the match. The action on Tuesday",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,6 +538,14 @@ news_feed (
          "title" : "The Global Chess League makes its grand debut: \"A brand new revolution in an ancient sport\""
       },
       {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
+         "pubDate" : "Thu, 22 Jun 2023 07:06:51 -0500",
+         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
+      },
+      {
          "description" : "In his Game of the Week show #573 Merijn van Delft takes a close look at a line of the Catalan that has recently become popular and seems to offer Black good chances. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,6 +648,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-interview-world-chess",
          "pubDate" : "Wed, 21 Jun 2023 12:00:00 +0100",
          "title" : "Gukesh: \"Fischer, Kasparov and Carlsen for sure are the top three\""
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
+         "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
+         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
       },
       {
          "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
@@ -1528,22 +1552,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-may-2023/",
          "pubDate" : "Tue, 06 Jun 2023 08:58:18 +0000",
          "title" : "ECU E-Magazine May 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2443",
-         "pubDate" : "Mon, 05 Jun 2023 22:09:43 +0000",
-         "title" : "Global Chess League Unveils Six Franchises for Inaugural Edition Set to Reach 600 Million Viewers in 160 Countries"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2442",
-         "pubDate" : "Mon, 05 Jun 2023 21:40:11 +0000",
-         "title" : "Champions Match Day 1: Black hold in both games"
       }
    ]
 }
