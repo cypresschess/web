@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Dinara Wagner became the first sole leader at the Sportland NRW Cup in Dortmund, as she is the only player to have started the tournament with two wins in a row. Wagner beat Alexander Bagrationi with black on Sunday. Meanwhile, in the A-Open, the top three seeds - Matthias Bluebaum, Alexander Donchenko (pictured) and Michael Adams - also kicked off the event with 2 out of 2. The No-Castling Masters, with Vladimir Kramnik and Fabiano Caruana, starts on Monday.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2477",
+         "pubDate" : "Mon, 26 Jun 2023 14:33:40 +0000",
+         "title" : "Alexey Sarana is the Winner of the Inaugural Olympic Esports Series Chess Event"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d2",
-         "pubDate" : "Mon, 26 Jun 2023 12:30:00 +0100",
-         "title" : "Dortmund: Dinara Wagner sole leader at Sportland NRW Cup"
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Mon, 26 Jun 2023 15:30:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Mon, 26 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "Have you noticed: the clip database is the only database which is already present during a first installation of ChessBase? It is a useful tool, and we will show you how to work with it efficiently. And do you know how to compile games from several databases to filter and save them? This is a typical task of team managers and coaches who compile material about other teams. This is where the clip database comes in handy - ChessBase expert Martin Fischer shows how to use it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-chessbase-17-the-clip-database",
+         "pubDate" : "Mon, 26 Jun 2023 14:48:51 +0100",
+         "title" : "Why do we need the ChessBase clip database?"
+      },
+      {
+         "description" : "The Bydgoszcz WGM 2023 is taking place from 26-30 June 2023 in Bydgoszcz, Poland. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment starting from move one. It is 6-player round robin tournament with participation of Alina Kashlinskaya, Meri Arabidze, Antoaneta Stefanova, Teodora Injac, Oliwia Kiolbasa and Michalina Rudzinska. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bydgoszcz-wgm-2023-live/",
+         "pubDate" : "Mon, 26 Jun 2023 12:13:10 +0000",
+         "title" : "Bydgoszcz WGM 2023 - LIVE"
+      },
+      {
+         "description" : "The Bydgoszcz WGM 2023 is taking place from 26-30 June 2023 in Bydgoszcz, Poland. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment starting from move one. It is 6-player round robin tournament with participation of Alina Kashlinskaya, Meri Arabidze, Antoaneta Stefanova, Teodora Injac, Oliwia Kiolbasa and Michalina Rudzinska.Chessdom.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bydgoszcz-wgm-2023/",
+         "pubDate" : "Mon, 26 Jun 2023 11:30:00 +0000",
+         "title" : "Bydgoszcz WGM 2023"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
@@ -34,6 +74,14 @@ news_feed (
          "title" : "Prague: Robson beats Wang in style"
       },
       {
+         "description" : "Dinara Wagner became the first sole leader at the Sportland NRW Cup in Dortmund, as she is the only player to have started the tournament with two wins in a row. Wagner beat Alexander Bagrationi with black on Sunday. Meanwhile, in the A-Open, the top three seeds - Matthias Bluebaum, Alexander Donchenko (pictured) and Michael Adams - also kicked off the event with 2 out of 2. The No-Castling Masters, with Vladimir Kramnik and Fabiano Caruana, starts on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d2",
+         "pubDate" : "Mon, 26 Jun 2023 11:30:00 +0100",
+         "title" : "Dortmund: Dinara Wagner sole leader at Sportland NRW Cup"
+      },
+      {
          "description" : "In the first events - standard chess (individual and team) - Vietnam won a massive 30 gold medals, 14 silver medals and 19 bronze medals, with second-placed Philippines trailing far behind with just 5 gold medals and 12 silver medals! No fewer than 10 countries won medals, with Myanmar in third place, followed by New Zealand, hosts Thailand, India, Indonesia, China, Malaysia and Singapore. In the individual competition, most eyes were on the U-20 event, in which a GM norm and an IM title were achieved, and in the Open, IMs Daniel Quizon and Michael Concio Jr. of the Philippines took gold and silver ahead of Vietnam's Duc Tri Ngo, Malaysia's Jun Ying Tan and Thailand's Pin Laohawirapap, who a",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +90,7 @@ news_feed (
          "title" : "Vietnam dominates ASEAN + Age-Groups Standard Championships 2023"
       },
       {
-         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko. Parallel : The Bydgoszcz Open A 2023More : Aktobe Open Classic 2023 / Prague Masters []",
+         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/bydgoszcz-gm-2023-live/",
@@ -50,7 +98,7 @@ news_feed (
          "title" : "Bydgoszcz GM 2023 - LIVE"
       },
       {
-         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko.Chessdom.com will daily follow the live games. Parallel : The Bydgoszcz Open A 2023More : Aktobe []",
+         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/bydgoszcz-gm-2023/",
@@ -312,22 +360,6 @@ news_feed (
          "link" : "https://www.chessdom.com/french-blitz-championship-2023-live/",
          "pubDate" : "Sat, 24 Jun 2023 06:00:00 +0000",
          "title" : "French Blitz Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Llinars Open 2023 is taking place from 25 June to 3 July 2023 in Llinars del Valles, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yuri Solodovnichenko, Gerard Ayats Llobera, Viktor Moskalenko, Marc Narciso Dublan, Arpan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/llinars-open-2023-live/",
-         "pubDate" : "Sat, 24 Jun 2023 05:00:00 +0000",
-         "title" : "Llinars Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Llinars Open 2023 is taking place from 25 June to 3 July 2023 in Llinars del Valles, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yuri Solodovnichenko, Gerard Ayats Llobera, Viktor Moskalenko, Marc Narciso Dublan, Arpan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/llinars-open-2023/",
-         "pubDate" : "Sat, 24 Jun 2023 04:00:00 +0000",
-         "title" : "Llinars Open 2023"
       },
       {
          "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
@@ -802,14 +834,6 @@ news_feed (
          "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
       },
       {
-         "description" : "Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda, alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-europe-final-report",
-         "pubDate" : "Mon, 19 Jun 2023 08:00:00 +0100",
-         "title" : "Armageddon series: Rapport wins European leg, Duda in Grand Finale"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at his own game from the 2023 American Continental Championship against FM Angel Gabriel Cordoba. Originally on Twitch. 2023.06.06<br /> Angel Gabriel Cordoba vs. Robert Hungaski, 2023: A13 English, Neo-Catalan<br /> <a href=\"https://lichess.org/broadcast/american-continental-chess-championship-2023/round-7/EGYlqWMt\">https://lichess.org/broadcast/american-continental-chess-championship-20...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -832,22 +856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2464",
          "pubDate" : "Sun, 18 Jun 2023 22:17:42 +0000",
          "title" : "Frederik Svane wins Teplice Open 2023"
-      },
-      {
-         "description" : "When a strong player looks at a position (in a real game of chess, not a problem) he or she will automatically see it not as a random collection of pieces but as a series of chunks - patterns that are recognisable and have known features. And the patterns will also generate ideas of moves which may be profitable. Curiously, sometimes apparently insignificant changes can be crucial, and today I'm focussing on an instance of this phenomenon. | Pictured: Mikhail Tal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-196",
-         "pubDate" : "Sun, 18 Jun 2023 20:15:00 +0100",
-         "title" : "Seeing the whole board"
-      },
-      {
-         "description" : "The European Pair Blitz Championships will take place on 19 June 2023 in the Opera House of Kr&aacute;kow, Poland. The competition is an accompanying event to the 2023 European Games. The championships will feature top male and female chess players from eight European federations: Poland, Azerbaijan, Israel, Romania, Spain, Armenia and the Netherlands. Jan-Krzysztof Duda and Oliwia Kiolbasa will represent the host country. | Pictured: Łukasz Turlej and Shohreh Bayat",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-pair-blitz-championship-2023-kick-off",
-         "pubDate" : "Sun, 18 Jun 2023 19:00:00 +0100",
-         "title" : "European Pair Blitz Championship 2023 kicks off in Krakow"
       },
       {
          "description" : "Chess artist at work? There was no description on this photo, so I had to dig a little. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf18.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/ciscommunity/52944080647/\">Art, Chess & Campagne | Design in the City Tour</A> &#169; Flickr user <I>Creative Industries Styria GmbH</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> The Flickr user name leads to <A HREF=\"https://www.cis.at/\">Creative Industries Styria</A> (cis.at). The English version of the 'About' page explains, <BLOCKQUOTE> Founded in 2007 as a network society of the Province of Styria, Creative Indust",
@@ -1560,22 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2441",
          "pubDate" : "Mon, 05 Jun 2023 16:45:41 +0000",
          "title" : "FIDE Education Commission announces its 7th Preparation of Teachers course"
-      },
-      {
-         "description" : "In last week's post on engine vs. engine events, <A HREF=\"https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html\">TCEC FRC6, CCC20 Rapid Finals; Both Underway</A> (May 2023), for the CCC side of the report I noted, <BLOCKQUOTE> Mystery played five 100-game matches, beating Koivisto, Berserk, and Ethereal; then losing to Dragon and Lc0. </BLOCKQUOTE> <P> Mystery played its first CCC game in the <A HREF=\"https://www.chess.com/computer-chess-championship#event=ccc-20-rapid-entry-league&game=23\">CCC20 Rapid: Entry League</A> (chess.com). On the CCC's Discord forum, the early discussion was brief:- <BLOCKQUOTE> <B>Q:</B> Mystery engine? Or is the engine actually call",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/the-cccs-mystery-engine.html",
-         "pubDate" : "Mon, 05 Jun 2023 15:01:00 +0000",
-         "title" : "The CCC's Mystery Engine"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100770582.cms\" />The Global Chess League (GCL) on Monday unveiled the six franchises that will participate in its inaugural edition, taking place in Dubai from June 21 to July 2.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-six-franchises-for-its-inaugural-edition/articleshow/100770582.cms",
-         "pubDate" : "Mon, 05 Jun 2023 13:04:36 +0000",
-         "title" : "Global Chess League unveils six franchises for its inaugural edition"
       }
    ]
 }
