@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand continues to lead by example. Once again he won the battle of the 'Icons', this time against Levon Aronian (TCK). While his three points were confirmed, his teammates Leinier Domingueze, Hou Yifan and Bella Khotenashvili scored emphatic wins to ensure that their team scored the biggest victory of the event in terms of game points: 14-2. Balan Alaskan Knights overcame their 3-15 loss as they beat the top team, SG Alpine Warriors, by the minimum margin 3-0 (10-9). Nodirbek Abdusattorov, Tan Zhongyi and Nino Batsiashvili's wins rendered R Praggnanandhaa and Magnus Carlsen's individual triumphs ineffective as they only added game points, while BAK won the match. The action on Tuesday",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-5-report",
+         "pubDate" : "Mon, 26 Jun 2023 19:45:00 +0100",
+         "title" : "GCL Day 5: Vishy strikes Aronian, Ganges Grandmasters score gargantuan win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2454",
+         "pubDate" : "Mon, 26 Jun 2023 18:09:08 +0000",
+         "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
+      },
+      {
+         "description" : "GM Hikaru Nakamura made it four wins from four starts in the sixth edition of Bullet Brawl on Saturday, claiming the $400 prize after scoring 59 wins, five draws, and nine losses en route to a winning score of 210 points. Moreso than usual, Naka...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-2023-bullet-brawl-june",
+         "pubDate" : "Mon, 26 Jun 2023 10:18:25 -0700",
+         "title" : "Nakamura, The King Of Bullet Brawl, Strikes Again"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2477",
          "pubDate" : "Mon, 26 Jun 2023 14:33:40 +0000",
          "title" : "Alexey Sarana is the Winner of the Inaugural Olympic Esports Series Chess Event"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Mon, 26 Jun 2023 15:30:00 +0100",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "The Global Chess League makes its grand debut: \"A brand new revolution in an ancient sport\""
       },
       {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
-         "pubDate" : "Thu, 22 Jun 2023 07:06:51 -0500",
-         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
-      },
-      {
          "description" : "In his Game of the Week show #573 Merijn van Delft takes a close look at a line of the Catalan that has recently become popular and seems to offer Black good chances. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-interview-world-chess",
          "pubDate" : "Wed, 21 Jun 2023 12:00:00 +0100",
          "title" : "Gukesh: \"Fischer, Kasparov and Carlsen for sure are the top three\""
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
-         "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
-         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
       },
       {
          "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
@@ -1242,14 +1242,6 @@ news_feed (
          "title" : "ECF Secondary School Rapidplay Chess Tournament"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2454",
-         "pubDate" : "Mon, 12 Jun 2023 11:09:08 +0000",
-         "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
-      },
-      {
          "description" : "2nd Maharastra International Open Grand Masters Chess Tournament(Category A) was held at Nagpur from 1st to 9th June 2023 for a prize fund of Rs.25,00,000/-",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1376,14 +1368,6 @@ news_feed (
          "link" : "https://www.thearticle.com/from-cambridge-to-lugano-playing-spassky-in-1969/",
          "pubDate" : "Sat, 10 Jun 2023 07:42:56 +0000",
          "title" : "From Cambridge to Lugano: playing Spassky in 1968"
-      },
-      {
-         "description" : "IM Anna Zatonskih stretched her lead to a full point at the Cairns Cup 2023, defeating IM Gunay Mammadzada in round six. The American underdog has performed so well that she has chances to earn a GM norm, depending on her last two games. Curiously...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-6",
-         "pubDate" : "Fri, 09 Jun 2023 21:43:00 -0700",
-         "title" : "Determined Zatonskih Extends Lead In Nearly All-Decisive Round"
       },
       {
          "description" : "",
@@ -1560,14 +1544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2442",
          "pubDate" : "Mon, 05 Jun 2023 21:40:11 +0000",
          "title" : "Champions Match Day 1: Black hold in both games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2441",
-         "pubDate" : "Mon, 05 Jun 2023 16:45:41 +0000",
-         "title" : "FIDE Education Commission announces its 7th Preparation of Teachers course"
       }
    ]
 }
