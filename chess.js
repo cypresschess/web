@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Praggnanandhaa R. was the hero on the fourth day of the Tech Mahindra Global Chess League 2023 after scoring a win with black over UpGrad Mumba Masters&#39; GM Javokhir Sindarov, securing victory for the SG Alpine Warriors and pushing them into the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-4",
+         "pubDate" : "Sun, 25 Jun 2023 19:28:00 -0700",
+         "title" : "Praggnanandhaa Carries Team Carlsen To The Top"
+      },
+      {
          "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1368,14 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2449",
          "pubDate" : "Fri, 09 Jun 2023 23:20:44 +0000",
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 5 recap"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won on demand with the white pieces against GM Fabiano Caruana on the last day of Norway Chess 2023, ousting the tournament leader and winning the prestigious title for the first time. This is also the first time in the last fiv...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-norway-chess-round-9",
-         "pubDate" : "Fri, 09 Jun 2023 14:35:00 -0700",
-         "title" : "Nakamura Steals Show On Last Day, Wins Norway Chess 2023"
       },
       {
          "description" : " The streamer with more than a million followers caught the US champion, who had led all the way, in a late trap in a tournament where Magnus Carlsen trailed in sixth after failing to win a classical game Hikaru Nakamura, the grandmaster who gave up classical chess for several years and instead made a career as an online streamer with more than a million followers, scored the best result yet of his comeback on Friday, when he snatched first prize in the final round of the elite event at Stavanger from Fabiano Caruana. The reigning US champion and 2018 world title challenger had led all the way in an event where the world No1 Magnus Carlsen trailed in sixth out of 10. Nakamura's last gasp vic",
