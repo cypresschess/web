@@ -522,7 +522,7 @@ news_feed (
          "title" : "The Olympic Esports Series Chess Event Finals to start on June 23 in Singapore"
       },
       {
-         "description" : "The first ever ASEAN Chess Confederation (ACC)-European Chess Union (ECU) Chess Symposium is being held from 19-23 June 2023 at the Asia Hotel Bangkok. Following introductions by arbiters seminar and trainer workshop leaders Takis Nikolopoulous and Artur Yusupov, ECU President Zurab Azmaiparasvili was invited by ACC President Ignatius Leong to make the opening remarks. Mr. Azmaiparashvili remembered his long friendship with Leong, thanking him for help in his difficult time, and congratulated ACC Deputy President and Thailand Chess Association President []",
+         "description" : "The first ever ASEAN Chess Confederation (ACC)-European Chess Union (ECU) Chess Symposium is being held from 19-24 June 2023 at the Asia Hotel Bangkok. Following introductions by arbiters seminar and trainer workshop leaders Takis Nikolopoulous and Artur Yusupov, ECU President Zurab Azmaiparasvili was invited by ACC President Ignatius Leong to make the opening remarks. Mr. Azmaiparashvili remembered his long friendship with Leong, thanking him for help in his difficult time, and congratulated ACC Deputy President and Thailand Chess Association President []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/acc-ecu-chess-symposium-kicks-off-in-thailand/",
