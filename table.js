@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2023-06-05  - 06-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202306268132 target='_blank'>CLCC JUNE MONDAYS</a>",
 "HOUSTON","2023-06-24  - 06-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306257162 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-06-24","76","<a href=http://www.uschess.org/msa/XtblMain.php?202306246302 target='_blank'>CCUH JUNE SCHOLASTIC AND COLLEGIATE</a>",
 "HOUSTON","2023-06-24","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306246142 target='_blank'>TCR: HOUSTON CITY SCHOLASTIC</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-11-05","43","<a href=http://www.uschess.org/msa/XtblMain.php?202211057552 target='_blank'>PISD NOV 2022- NOVEMBER 2022 HS</a>",
 "LEAGUE CITY","2022-11-05","141","<a href=http://www.uschess.org/msa/XtblMain.php?202211057262 target='_blank'>HYDE ELEMENTARY SCHOOL CHESS TOURNA</a>",
 "HOUSTON","2022-11-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202211057062 target='_blank'>PISD NOV 2022- NOV 2022 INTERMEDIAT</a>",
-"CYPRESS","2022-11-04","27","<a href=http://www.uschess.org/msa/XtblMain.php?202211046332 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
