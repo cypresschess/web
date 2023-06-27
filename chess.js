@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today a federal judge dismissed Hans Niemann's $100m lawsuit (amended twice) against several high-profile figures in the chess community. GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch were the targets of a lawsuit citing four different offenses: &#8220;slander, libel, unlawful group boycott under the Sherman Act, tortious interference with contract and business The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/\">Niemann's $100m Lawsuit Dismissed but stay tuned</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/",
+         "pubDate" : "Tue, 27 Jun 2023 22:58:26 +0000",
+         "title" : "Niemann's $100m Lawsuit Dismissed&hellip; but stay tuned"
+      },
+      {
+         "description" : "GM Viswanathan Anand scored yet another victory, defeating GM Jan-Krysztof Duda, but it wasn&#39;t enough for the Ganges Grandmasters, who lost a nailbiter to the Chingari Gulf Titans on day six of the Tech Mahindra Global Chess League 2023.&#38;nbsp; W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-6",
+         "pubDate" : "Tue, 27 Jun 2023 15:33:17 -0700",
+         "title" : "Anand Gains 4th Victory, But Team Duda Defeats Leaders"
+      },
+      {
+         "description" : "The Collegiate Chess League is excited to announce the 2023 summer season following last year&#39;s inaugural summer season. We will be bringing back both the bullet and bughouse college championships! These championship matches will last four weeks s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2023-summer-season",
+         "pubDate" : "Tue, 27 Jun 2023 15:18:20 -0700",
+         "title" : "Collegiate Chess League 2023 Summer Season: Bullet and Bughouse Championships"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on a topic of his choice. 2023.06.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fs-LCMsrRUQ.jpg?itok=bZVs5BqX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi",
+         "pubDate" : "Tue, 27 Jun 2023 20:20:39 +0000",
+         "title" : "Prep, Think, and Play Like a Grandmaster | Grandmaster's Choice - GM JJ Ali Marandi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class where he looks at the good and bad sides of positions. 2023.06.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-pros-and-cons-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bNbU0gtAzU.jpg?itok=eUQsJi6y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/positional-pros-and-cons-beginner-breakdown",
+         "pubDate" : "Tue, 27 Jun 2023 20:20:39 +0000",
+         "title" : "Positional Pros and Cons | Beginner Breakdown"
+      },
+      {
+         "description" : "The XIX Baltic Pearl 2023 is a 9-round Swiss tournament held from the 26th of June to the 4th of July in &#x141;azy, Poland. The A group is for players above 1700 FIDE rating. The time control is 90 minutes with a 30-second increment beginning from move one. The moves in the broadcast are delayed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xix-baltic-pearl-2023-group-a/",
+         "pubDate" : "Tue, 27 Jun 2023 19:56:38 +0000",
+         "title" : "XIX Baltic Pearl 2023 - Group A"
+      },
+      {
+         "description" : "The 16th Annual Philadelphia International will take place from the 24th to the 28th of June in Philadelphia, Pennsylvania, United States as a 9-round Swiss. The time control is 80 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second delay beginning from move 1. The prize fund []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/16th-annual-philadelphia-international-live/",
+         "pubDate" : "Tue, 27 Jun 2023 19:42:00 +0000",
+         "title" : "16th Annual Philadelphia International - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen Viswanathan Anand is a game from round 7 of Global Chess League. Parallel : Bydgoszcz Open A 2023 / Bydgoszcz GM 2023 / Bydgoszcz WGM 2023 / Pavel Eljanov &#x2013; Vladimir Kramnik / Dmitrij Kollars &#x2013; Fabiano CaruanaMore : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers 2023 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-viswanathan-anand-global-chess-league-round-7/",
+         "pubDate" : "Tue, 27 Jun 2023 19:20:00 +0000",
+         "title" : "Magnus Carlsen - Viswanathan Anand, Global Chess League round 7"
+      },
+      {
          "description" : "Vishy Anand has defeated Jan-Krzysztof Duda twice in five days. The legend continues to make it look easy. The Poland no.1 sacrificed an exchange and things did not work out for him. Anand's win did not help the team though, as he scored the sole victory for Ganges Grandmasters. Yifan Hou had a great chance to win against Alexandra Kosteniuk. Unfortunately for her, she couldn't find a way in time trouble. Harika Dronavalli and Jonas Buhl Bjerre scored crucial victories for upGrad Mumba Masters to beat Triveni Continetal Kings. Both rematches had the inverse overall match result of their first encounter at this event. There will be two matches tomorrow, starting at 5:30 p.m. local time, 7 p.m",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,7 +79,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2480",
          "pubDate" : "Tue, 27 Jun 2023 17:48:42 +0000",
-         "title" : "GCL Day6: Chingari Gulf Titans & upGrad Mumba Masters score crucial victories"
+         "title" : "GCL Day 6: Chingari Gulf Titans & upGrad Mumba Masters score crucial victories"
       },
       {
          "description" : "A federal judge on Tuesday dismissed GM Hans Niemann&#39;s $100 million lawsuit against GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch. This means that, at least for the moment, the legal battle that follow...",
@@ -122,12 +186,60 @@ news_feed (
          "title" : "A light initiative weighs heavily"
       },
       {
+         "description" : "Pavel Eljanov Vladimir Kramnik is a game from round 3 of NC World Masters. Parallel : Bydgoszcz Open A 2023 / Bydgoszcz GM 2023 / Bydgoszcz WGM 2023 / Magnus Carlsen &#x2013; Viswanathan Anand / Dmitrij Kollars &#x2013; Fabiano CaruanaMore : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers 2023 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pavel-eljanov-vladimir-kramnik-nc-world-masters-round-3/",
+         "pubDate" : "Tue, 27 Jun 2023 06:57:00 +0000",
+         "title" : "Pavel Eljanov - Vladimir Kramnik, NC World Masters round 3"
+      },
+      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-congress-2023/",
          "pubDate" : "Tue, 27 Jun 2023 06:03:31 +0000",
          "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
+      },
+      {
+         "description" : "The Gij&#xF3;n Open 2023 is a 9-round Swiss tournament held from the 26th of June to the 2th of July in Gij&#xF3;n, Spain. The top fiive seeds are Lelys Martinez, Juan Plazuelo Pascual, Aleksa Strikovic, Salvador G. Del Rio De Angelis and Enrique Tejedor Fuente. There are 21 titled players in the tournament. The tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gijon-open-2023/",
+         "pubDate" : "Tue, 27 Jun 2023 05:00:00 +0000",
+         "title" : "Gij&oacute;n Open 2023"
+      },
+      {
+         "description" : "The Gij&#xF3;n Open 2023 is a 9-round Swiss tournament held from the 26th of June to the 2th of July in Gij&#xF3;n, Spain. The top fiive seeds are Lelys Martinez, Juan Plazuelo Pascual, Aleksa Strikovic, Salvador G. Del Rio De Angelis and Enrique Tejedor Fuente. There are 21 titled players in the tournament. The tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gijon-open-2023-live/",
+         "pubDate" : "Tue, 27 Jun 2023 04:10:00 +0000",
+         "title" : "Gij&oacute;n Open 2023 - LIVE"
+      },
+      {
+         "description" : "Dmitrij Kollars Fabiano Caruana is a game from round 3 of NC World Masters. Parallel : Bydgoszcz Open A 2023 / Bydgoszcz GM 2023 / Bydgoszcz WGM 2023 / Pavel Eljanov &#x2013; Vladimir Kramnik / Magnus Carlsen &#x2013; Viswanathan AnandMore : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers 2023 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dmitrij-kollars-fabiano-caruana-nc-world-masters-round-3/",
+         "pubDate" : "Tue, 27 Jun 2023 03:59:00 +0000",
+         "title" : "Dmitrij Kollars - Fabiano Caruana, NC World Masters round 3"
+      },
+      {
+         "description" : "The Colombian Open IRT Fiestas del Pl&#xE1;tano Sabaneta 2023 is a 9-round Swiss tournament held from the 28th of June to the 2 of July in Sabaneta, Colombia. There are two rating categories, Open and U2000, in the tournament. The time control is 90 minutes with a 30-second increment beginning from move one. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-irt-fiestas-del-platano-sabaneta-2023-live/",
+         "pubDate" : "Tue, 27 Jun 2023 02:35:00 +0000",
+         "title" : "Open IRT Fiestas del Platano Sabaneta 2023 - LIVE"
+      },
+      {
+         "description" : "The Colombian Open IRT Fiestas del Pl&#xE1;tano Sabaneta 2023 is a 9-round Swiss tournament held from the 28th of June to the 2 of July in Sabaneta, Colombia. There are two rating categories, Open and U2000, in the tournament. The time control is 90 minutes with a 30-second increment beginning from move one. The top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-irt-fiestas-del-platano-sabaneta-2023/",
+         "pubDate" : "Tue, 27 Jun 2023 02:13:00 +0000",
+         "title" : "Open IRT Fiestas del Platano Sabaneta 2023"
       },
       {
          "description" : "The Balan Alaskan Knights leaped back out of last place with a victory over the previously leading SG Alpine Warriors in a close battle on day five of the Tech Mahindra Global Chess League 2023. The Knights&#39; gained the match win despite victories ...",
@@ -194,28 +306,12 @@ news_feed (
          "title" : "Bydgoszcz WGM 2023 - LIVE"
       },
       {
-         "description" : "The Bydgoszcz WGM 2023 is taking place from 26-30 June 2023 in Bydgoszcz, Poland. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment starting from move one. It is 6-player round robin tournament with participation of Alina Kashlinskaya, Meri Arabidze, Antoaneta Stefanova, Teodora Injac, Oliwia Kiolbasa and Michalina Rudzinska.Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bydgoszcz-wgm-2023/",
-         "pubDate" : "Mon, 26 Jun 2023 11:30:00 +0000",
-         "title" : "Bydgoszcz WGM 2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-taught-me-to-stay-patient-with-my-cricket-says-yuzvendra-chahal/articleshow/101280759.cms",
          "pubDate" : "Mon, 26 Jun 2023 11:03:04 +0000",
          "title" : "Chess has taught me to stay patient with my cricket: Chahal"
-      },
-      {
-         "description" : "The Bydgoszcz Open A 2023 is taking place from 24 of June to 01 of July 2023 in Bydgoszcz, Poland. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment starting from move one. It is 9-round Swiss system tournament with participation of Szymon Gumularz, Pawel Teclaf, Mircea-Emilian Parligras, Grzegorz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bydgoszcz-open-a-2023-live/",
-         "pubDate" : "Mon, 26 Jun 2023 10:48:47 +0000",
-         "title" : "Bydgoszcz Open A 2023 - LIVE"
       },
       {
          "description" : "Ray Robson rejoined the lead at the Prague Masters after beating Wang Hao with white in Sunday's fifth round. This was the US grandmaster's third decisive game in a row, as he employed the same line he had used to defeat Boris Gelfand in round 3. In the other decisive game of the day, Haik Martirosyan got the better of Thai Dai Van Nguyen. Meanwhile, an eventful round in the Challengers left Benjamin Gledura in the sole lead. | Photo: Petr Vrabec",
@@ -240,22 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vietnam-dominates-asean-age-groups-standard-chess-championships-2023",
          "pubDate" : "Mon, 26 Jun 2023 11:16:59 +0100",
          "title" : "Vietnam dominates ASEAN + Age-Groups Standard Championships 2023"
-      },
-      {
-         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bydgoszcz-gm-2023-live/",
-         "pubDate" : "Mon, 26 Jun 2023 10:15:00 +0000",
-         "title" : "Bydgoszcz GM 2023 - LIVE"
-      },
-      {
-         "description" : "The Bydgoszcz GM 2023 is taking place from 26 June to 01 July 2023 in Bydgoszcz, Poland. It is 6-round Robin tournament with participation of Jorden Van Foreest, David Anton Guijarro, Radoslaw Wojtaszek, Nils Grandelius, Vasyl Ivanchuk and Bartosz Socko. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bydgoszcz-gm-2023/",
-         "pubDate" : "Mon, 26 Jun 2023 09:50:00 +0000",
-         "title" : "Bydgoszcz GM 2023"
       },
       {
          "description" : "",
@@ -402,38 +482,6 @@ news_feed (
          "title" : "A Foundation for Beginners Ninety Six"
       },
       {
-         "description" : "The Global Chess League 2023 is a 6-team double round-robin tournament taking place from June 22 to July 1, 2023 in Dubai, UAE. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. Wins with Black are worth 4 board points, wins with White 3, a draw 1. More []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/global-chess-league-2023-live-11/",
-         "pubDate" : "Sat, 24 Jun 2023 18:36:15 +0000",
-         "title" : "Global Chess League 2023 - LIVE"
-      },
-      {
-         "description" : "The French Rapid Championship 2023 is taking place on 24-25 of June 2023 in Asnieres, France. The time control is 15 minutes for the whole game plus 3 seconds increment starting from move on. It is 13-round Swiss system tournament with participation of Etienne Bacrot, Laurent Fressinet, Yannick Gozzoli, Jules Moussard, Daniil Yuffa, Maxime Lagarde, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-rapid-championship-2023-live/",
-         "pubDate" : "Sat, 24 Jun 2023 17:52:59 +0000",
-         "title" : "French Rapid Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The NC World Masters 2023 is a double round-robin with the twist that castling is not allowed. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. More : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nc-world-masters-2023-live/",
-         "pubDate" : "Sat, 24 Jun 2023 17:30:00 +0000",
-         "title" : "NC World Masters 2023 - LIVE"
-      },
-      {
-         "description" : "The NC World Masters 2023 is a double round-robin with the twist that castling is not allowed. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. More : Aktobe Open Classic 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nc-world-masters-2023/",
-         "pubDate" : "Sat, 24 Jun 2023 17:10:00 +0000",
-         "title" : "NC World Masters 2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101245291.cms\" />The Ganges Grandmasters secured their third win on the trot to maintain their dominance at the top after day three of the Global Chess League on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -512,14 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2023-r3",
          "pubDate" : "Sat, 24 Jun 2023 08:00:00 +0100",
          "title" : "Prague: Robson beats Gelfand"
-      },
-      {
-         "description" : "The French Blitz Championship 2023 is taking place on 23-24 of June 2023 in Asnieres, France. The time control is 5 minutes for the whole game plus 3 seconds increment starting from move on. It is 13-round Swiss system tournament with participation of Etienne Bacrot, Laurent Fressinet, Yannick Gozzoli, Jules Moussard, Daniil Yuffa, Maxime Lagarde, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-blitz-championship-2023-live/",
-         "pubDate" : "Sat, 24 Jun 2023 06:00:00 +0000",
-         "title" : "French Blitz Championship 2023 - LIVE"
       },
       {
          "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
@@ -1242,14 +1282,6 @@ news_feed (
          "title" : "Chess in Prisons in the media today - Carl Portman"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Josh Sheng shows some of his own brillant moves in Double Exclam!! Originally on Twitch. 2023.02.12<br /> Bryce Tiglon vs. Josh Sheng, 2019<br /> David Atkin vs. Sheng, 2019<br /> Craig Hilby vs. Brandon Jacobson, 2023<br /> Alperen Kanli vs. Sheng, 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-shengs-double-exclam-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-shengs-double-exclam-gm-josh-sheng",
-         "pubDate" : "Wed, 14 Jun 2023 07:46:16 +0000",
-         "title" : "GM Sheng's Double Exclam!! - GM Josh Sheng"
-      },
-      {
          "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023, Last date of entry portal is coming close, interested players requested to apply soon.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1296,30 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2455",
          "pubDate" : "Tue, 13 Jun 2023 09:32:12 +0000",
          "title" : "Anna Zatonskih wins 2023 Cairns Cup"
-      },
-      {
-         "description" : "The last round of the Cairns Cup 2023 featured an epic matchup between&#38;nbsp;IM Anna Zatonskih and her longtime U.S. Women&#39;s Championship rival GM Irina Krush.&#38;nbsp;Further cementing her tournament victory, Zatonskih held off Krush&#39;s pressure in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-9",
-         "pubDate" : "Mon, 12 Jun 2023 22:48:00 -0700",
-         "title" : "Saga Of Zatonskih vs. Krush, Kosteniuk Wins 2nd: 'I have 6 out of 9!'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Almira Skripchenko during the ninth round of the 2023 Cairns Cup. 2023.06.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-learning-yasser-%E2%80%98great-fun%E2%80%99-r9-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XFSoEvzKmtY.jpg?itok=h6jm5LGC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-learning-yasser-%E2%80%98great-fun%E2%80%99-r9-cairnscup",
-         "pubDate" : "Tue, 13 Jun 2023 04:45:10 +0000",
-         "title" : "Rex Sinquefield: Learning from Yasser 'Great Fun' | R9 #CairnsCup"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Levon Aronian, Wesley So, and Eduardo Iturrizaga each secured qualifying spots for the 2023 Champions Chess Tour&#39;s fourth leg, the Aimchess Rapid, on Monday after progressing through a challenging Swiss event before winning the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-play-in-carlsen-aronian-so-iturrizaga",
-         "pubDate" : "Mon, 12 Jun 2023 17:53:00 -0700",
-         "title" : "Clutch Armageddon Finishes By Carlsen, Iturrizaga Complete Division I Roster"
       },
       {
          "description" : " My second knight ending from our club online tournament a couple of weeks ago was, in truth, one of the most boring games I've played in the past 60 years, and, as most of my games are extremely boring, that's quite an achievement. I guess you must be reasonably happy if you get a Weighted Error <a href=\"https://chessimprover.com/knight-fever-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-2/\">Knight Fever (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1552,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2445",
          "pubDate" : "Wed, 07 Jun 2023 12:50:59 +0000",
          "title" : "International Schools Festival 2023 in Ploiesti: 12 teams will be considered as \"invited teams\""
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-68/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (68)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-68/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (68)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-68/",
-         "pubDate" : "Tue, 06 Jun 2023 20:43:47 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (68)"
       }
    ]
 }
