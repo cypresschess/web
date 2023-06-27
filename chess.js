@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn the most essential feature: creating your own base and entering games. It will turn you into a power user - and do wonders for your rating!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-creating-a-base-and-entering-a-game",
+         "pubDate" : "Tue, 27 Jun 2023 09:15:58 +0100",
+         "title" : "ChessBase in Minutes: creating a base and entering a game"
+      },
+      {
+         "description" : "This is the main guideline in the endgame rook and knight against rook and knight. However, in the diagram position White's initially light initiative has turned into a winning position. But how should White proceed to convert?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-light-initiative-weighs-heavily-2",
+         "pubDate" : "Tue, 27 Jun 2023 09:00:00 +0100",
+         "title" : "A light initiative weighs heavily"
+      },
+      {
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-congress-2023/",
+         "pubDate" : "Tue, 27 Jun 2023 06:03:31 +0000",
+         "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
+      },
+      {
          "description" : "The Balan Alaskan Knights leaped back out of last place with a victory over the previously leading SG Alpine Warriors in a close battle on day five of the Tech Mahindra Global Chess League 2023. The Knights&#39; gained the match win despite victories ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -184,6 +208,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-4-report",
          "pubDate" : "Sun, 25 Jun 2023 20:45:00 +0100",
          "title" : "GCL Day 4: SG Alpine Warriors survive MVL carnage, Pragg wins the decider"
+      },
+      {
+         "description" : "In all the years that I've been running the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I've never mentioned memes. So here we go. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf25.jpg\" WIDTH=400 HEIGHT=150><BR> <B>Google Image search on 'chess memes'</B> <P> The last time I used the 'Google Image search' trick was <A HREF=\"https://chessforallages.blogspot.com/2022/11/election-special-2022.html\">Election Special 2022</A> (November 2022). At that time I had three rows of image thumbnails. Now I have two. Why the difference? Here's the election image... <P ALIGN=CENTER> <XMG SRC=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/the-sociology-of-memes.html",
+         "pubDate" : "Sun, 25 Jun 2023 15:13:00 +0000",
+         "title" : "The Sociology of Memes"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101260322.cms\" />Ganges Grandmasters suffered their first defeat after three consecutive victories in the Global Chess League, going down to upGrad Mumba Masters on Sunday.",
@@ -818,14 +850,6 @@ news_feed (
          "title" : "Chessify Coins and Combos"
       },
       {
-         "description" : "In the ninth and final round of the Teplice Open, all the encounters on the top five boards ended in draws and that secured clear first place for German GM Frederik Svane (pictured), who had a half-point lead going into Sunday's round. He scored 7&frac12; points and obtained an Elo gain of 15.8 points, thanks to his 2743 tournament rating performance. Rasmus Svane, the champion's brother, finished in fourth place with 7 points to his name. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/teplice-open-2023-r9",
-         "pubDate" : "Mon, 19 Jun 2023 16:00:00 +0100",
-         "title" : "Frederik Svane wins Teplice Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/near-miss-for-winkelman.html",
          "pubDate" : "Mon, 19 Jun 2023 13:42:00 +0000",
          "title" : "Near miss for Winkelman"
-      },
-      {
-         "description" : "GM Shamsiddin Vokhidov (Uzbekistan) and WGM Divya Deshmukh (India) emerged as the winners of the 2023 Asian Continental Chess Championships. The event, with a prize fund of $100,000, held in the open and women's sections, took place from June 3-12, 2023, in Almaty, Kazakhstan and brought together 129 players from 18 national federations. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vokhidov-deshmukh-win-asian-championships-2023",
-         "pubDate" : "Mon, 19 Jun 2023 14:00:00 +0100",
-         "title" : "Asian Championships: Vokhidov and Divya clinch titles"
       },
       {
          "description" : "Chess In Lakecity on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Rajasthan Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
