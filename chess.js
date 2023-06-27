@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 50th Dortmund Chess Festival is underway in Dortmund's Westfalenhalle. Yesterday, Vladimir Kramnik and Fabiano Caruana started their no-casting experiment and were both successful from the get go, beating Pavel Eljanov and defending champion Dmitrij Kollars respectively. | Photo: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d3",
+         "pubDate" : "Tue, 27 Jun 2023 13:00:00 +0100",
+         "title" : "Dortmund: Kramnik and Caruana with splendid starts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2479",
+         "pubDate" : "Tue, 27 Jun 2023 11:13:53 +0000",
+         "title" : "PlusCity Rapid and Blitz Grand Prix starts in Linz, Austria"
+      },
+      {
+         "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023 was held at&#160; Amalorpavam Higher Sec. School Arumai Primary Building Vanarapet Pondicherry . This",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-national-schools-team-under-12-under-18-chess-championships-2023-2/",
+         "pubDate" : "Tue, 27 Jun 2023 11:13:22 +0000",
+         "title" : "1st NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18 CHESS CHAMPIONSHIPS - 2023"
+      },
+      {
+         "description" : "It was just a question of how big Vietnam's win would be, and the final tally of 92 gold, 37 silver and 49 bronze spoke for itself! When second placed Philippines 'only' had 15 gold, 38 silver and 8 bronze, followed by India with 3 gold, 3 silver and 3 bronze, the extent of their dominance becomes even more apparent. New Zealand were a surprise fourth on the senior medal tally, Myanmar fifth, followed by Indonesia, Thailand, Singapore, China and Malaysia with medals. Read the ASEAN+ Age Group Championships 2023 final report by Peter Long directly from the venue in Bangkok, Thailand. | Photos: Peter Long",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-21st-asean-age-group-championships-2023-has-come-to-the-end",
+         "pubDate" : "Tue, 27 Jun 2023 12:00:00 +0100",
+         "title" : "The 21st ASEAN+ Age Group Championships 2023 have come to an end"
+      },
+      {
          "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn the most essential feature: creating your own base and entering games. It will turn you into a power user - and do wonders for your rating!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2477",
          "pubDate" : "Mon, 26 Jun 2023 14:33:40 +0000",
          "title" : "Alexey Sarana is the Winner of the Inaugural Olympic Esports Series Chess Event"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Mon, 26 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "Have you noticed: the clip database is the only database which is already present during a first installation of ChessBase? It is a useful tool, and we will show you how to work with it efficiently. And do you know how to compile games from several databases to filter and save them? This is a typical task of team managers and coaches who compile material about other teams. This is where the clip database comes in handy - ChessBase expert Martin Fischer shows how to use it.",
@@ -550,7 +574,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bullet-brawl-weekly",
-         "pubDate" : "Thu, 22 Jun 2023 13:41:43 -0700",
+         "pubDate" : "Thu, 22 Jun 2023 13:41:00 -0700",
          "title" : "Bullet Brawl Is Going Weekly"
       },
       {
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/richard-rapport-and-jan-krzysztof-duda-are-the-winners-of-the-ar/",
          "pubDate" : "Mon, 19 Jun 2023 17:27:31 +0000",
          "title" : "Rapport Wins the Armageddon Series: Europe & Africa"
-      },
-      {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the FIDE Women's Grand Prix in Nicosia, which was surprisingly won by Dinara Wagner, the lowest-rated player in the field. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-244-endgame-highlights-from-the-fide-women-s-grand-prix-in-nicosia",
-         "pubDate" : "Mon, 19 Jun 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #244: Endgame Highlights from the FIDE Women's Grand Prix in Nicosia"
       },
       {
          "description" : "The last time I posted about Chessify was <A HREF=\"https://chessforallages.blogspot.com/2023/03/chessify-resources.html\">Chessify Resources</A> (March 2023; 'Here are a few resources to help explore the Chessify service.'). Since then I've learned much about the service and one of these days might document most my recent experiences on this blog. <P> An important aspect that has eluded me is the Chessify price structure -- plans, coins, and combos. What is the difference between them and how do they work together? Although I had watched the video embedded below, it introduced so many new concepts that I had trouble understanding its basic point. <P> <iframe width=\"420\" height=\"236\" src=\"http",
@@ -1450,14 +1466,6 @@ news_feed (
          "title" : "Forthcoming European and World youth chess championships"
       },
       {
-         "description" : "20th September to 02nd October, 2023 Mexico City The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players and accompanying",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-chess-championship-2023/",
-         "pubDate" : "Fri, 09 Jun 2023 08:17:06 +0000",
-         "title" : "FIDE World Junior Chess Championship - 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1544,30 +1552,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-asian-championship.html",
          "pubDate" : "Tue, 06 Jun 2023 13:31:00 +0000",
          "title" : "2023 Asian Championship"
-      },
-      {
-         "description" : "Montenegro Chess Federation (MCF) in cooperation with European Chess Union (ECU) have the honor to invite all National Chess Federations members of the European Chess Union to the European Team Chess Championship 2023 organized in Budva, Montenegro from 10th November (arrival) to 21st November (departure). The event will be played in 9 rounds, swiss system, with Open and Women's sections separately. The time control will be 90 minutes for 40 moves + 30 minutes for the rest of the game, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2023/",
-         "pubDate" : "Tue, 06 Jun 2023 09:56:54 +0000",
-         "title" : "European Team Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2023-south-lakes-congress-prizewinners/",
-         "pubDate" : "Tue, 06 Jun 2023 09:24:01 +0000",
-         "title" : "2023 South Lakes Congress prizewinners"
-      },
-      {
-         "description" : "ECU E-Magazine May 2023 is out! In this edition of the ECU E-Magazine you may read about: The May 2023 edition of the ECU E-Magazine can be read online with interactive links on the following link, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-may-2023/",
-         "pubDate" : "Tue, 06 Jun 2023 08:58:18 +0000",
-         "title" : "ECU E-Magazine May 2023"
       }
    ]
 }
