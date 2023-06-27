@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexey Sarana won the inaugural Olympic Esports Series 2023 Finals chess event after defeating GM Maksim Chigaev with a perfect 3-0 score in the final match. This is one of the first major victories for Sarana since he changed federations from ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-finals",
+         "pubDate" : "Tue, 27 Jun 2023 08:13:14 -0700",
+         "title" : "Sarana Wins Inaugural Olympic Esports Series Finals In Chess"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Tue, 27 Jun 2023 15:30:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Tue, 27 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Tue, 27 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : " NAPLAN is a test the school kids in Australia have to do every 2nd year (odd numbered grades), and is supposed to measure whether schools are performing or not. In actuality the results are dependent upon the socio-economic level of the students, and are mainly used by parents and the media to 'rank' schools based on some imaginary scale. As you can guess, I really really, really hate NAPLAN. While abolishing all together is my preferred solution, I do offer an alternative. Replace NAPLAN with a nation wide interschool chess competition, divided into geographical zones. Results aren't necessarily based upon the scores in the tournament (although that is one factor), but instead on how many ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/time-to-ditch-naplan.html",
+         "pubDate" : "Tue, 27 Jun 2023 13:39:00 +0000",
+         "title" : "Time to ditch NAPLAN"
+      },
+      {
+         "description" : "Sharm El Sheikh Egypt 14th to 27th October, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The additional",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cadets-chess-championships/",
+         "pubDate" : "Tue, 27 Jun 2023 12:02:49 +0000",
+         "title" : "FIDE WORLD CADET CHESS CHAMPIONSHIPS"
+      },
+      {
          "description" : "The 50th Dortmund Chess Festival is underway in Dortmund's Westfalenhalle. Yesterday, Vladimir Kramnik and Fabiano Caruana started their no-casting experiment and were both successful from the get go, beating Pavel Eljanov and defending champion Dmitrij Kollars respectively. | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +58,20 @@ news_feed (
          "title" : "Dortmund: Kramnik and Caruana with splendid starts"
       },
       {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (69)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (69)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-69/",
+         "pubDate" : "Tue, 27 Jun 2023 11:43:42 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (69)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2479",
          "pubDate" : "Tue, 27 Jun 2023 11:13:53 +0000",
-         "title" : "PlusCity Rapid and Blitz Grand Prix starts in Linz, Austria"
+         "title" : "PlusCity Grand Prix: All set for the strongest XXI century chess event in Austria"
       },
       {
          "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023 was held at&#160; Amalorpavam Higher Sec. School Arumai Primary Building Vanarapet Pondicherry . This",
@@ -794,30 +850,6 @@ news_feed (
          "title" : "Where are my analyses?"
       },
       {
-         "description" : "After a three-year hiatus due to the pandemic, the long-running ASEAN Age Group Championships have resumed. The 21st ASEAN+ Age Group Championship is currently being held in Bangkok, Thailand from 17-26 June 2023 and has attracted 328 players from 15 countries. As in the previous 20 editions, classical, rapid and blitz tournaments will be played in categories ranging from under 8 to under 20, for both boys and girls. | Photo: Thailand's young national champion and No. 1 ranked player leads representatives from all participating countries in pledge for fair play. | Photo: Prin Laohawirapap",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/21st-asean-age-group-championships-gets-underway",
-         "pubDate" : "Tue, 20 Jun 2023 15:00:00 +0100",
-         "title" : "21st ASEAN+ Age-Group Championships gets underway"
-      },
-      {
-         "description" : "The Armenian team emerged victorious at the European Pair Blitz Chess Championship, which took place in Krak&oacute;w on Monday. The Armenian pair, women's tournament winner Elina Danielian and the open event runner-up Shant Sargsyan, finished ahead of the teams from the Netherlands (Elina Roebers and Benjamin Bok) and Azerbaijan (Gunay Mammadzada and Shakhriyar Mamedyarov). | Photos: Walusza Fotografia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armenia-wins-european-pair-blitz-championship-2023",
-         "pubDate" : "Tue, 20 Jun 2023 11:40:00 +0100",
-         "title" : "Armenia wins European Pair Blitz Chess Championship"
-      },
-      {
-         "description" : "In the diagram position Black is two pawns up, but White's b-pawn is dangerous. So dangerous that Black needs to be precise to win. What should Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/precision",
-         "pubDate" : "Tue, 20 Jun 2023 09:00:00 +0100",
-         "title" : "Precision!"
-      },
-      {
          "description" : "The 1st European Pairs Chess Championship, an official side event of the European Games Krakow-Malopolska 2023, concluded yesterday in Poland! The event was held in two phases: qualification and playoffs, and the individual medalists were determined by the playoffs in each section (Open and Women's). The combined Pair medals were decided by the final position of the players of each team after the playoffs in each section (sum of points): 1st&#160;8-points, 2nd&#160;7-points, 3rd&#160;6-points, 4th&#160;5-points, 5th&#160;4-points, 6th&#160;3 points, 7th&#160;2-points, and 8th&#160;1-point.&#160; []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1322,14 +1354,6 @@ news_feed (
          "title" : "Live Game links: 14th KIIT International Chess Festival 2023 (Category 'A')"
       },
       {
-         "description" : "IM Anna Zatonskih&#38;nbsp;clinched the Cairns Cup 2023 with a day to spare on Sunday. She defeated GM Zhansaya Abdumalik in the penultimate round to reach an undefeated plus four―1.5 points ahead of the field. With this victory, Zatonskih secured her...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-8",
-         "pubDate" : "Sun, 11 Jun 2023 21:42:00 -0700",
-         "title" : "Zatonskih Clinches Cairns Cup Day Early, Earns 1st GM Norm"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,14 +1392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-2.html",
          "pubDate" : "Sun, 11 Jun 2023 14:11:00 +0000",
          "title" : "2023 NSW Open - Day 2"
-      },
-      {
-         "description" : "National Women Champion Divya Deshmukh crowned as new Asian Women Champion at Almaty, Kazakhstan on Sunday. With superlative performance Divya Deshmukh clinched the title with",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-divya-deshmukh-asian-women-champion/",
-         "pubDate" : "Sun, 11 Jun 2023 13:28:48 +0000",
-         "title" : "Congratulations Divya Deshmukh! Asian Women Champion!!"
       },
       {
          "description" : "",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2444",
          "pubDate" : "Tue, 06 Jun 2023 17:05:42 +0000",
          "title" : "World Cadets & Youth Rapid & Blitz Chess Championship 2023 starts in Batumi"
-      },
-      {
-         "description" : " The 2023 Asian Championship is underway in Almaty, Kazakhstan. The 86 player event is a qualifier for the World Cup, and has attracted a field that contains 15 GM's at the top, but also a large number of local players towards the tail. There are no representatives from Australia (or even that Asian powerhouse, Russia) but Stuart Fancy (PNG) is flying the flag for Oceania. Despite being one of the lower rated players, he did grab half a point of an IM in the 2nd round. Current results <a href=\"https://chess-results.com/tnr766715.aspx?lan=1\">are here</a>, and there are links to the tournament website from that page. <b>Abdyzhapar,Asylbek (2282) - Fancy,Stuart (1930) [A00]</b><br /> Asian Cont",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/2023-asian-championship.html",
-         "pubDate" : "Tue, 06 Jun 2023 13:31:00 +0000",
-         "title" : "2023 Asian Championship"
       }
    ]
 }
