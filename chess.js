@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A federal judge on Tuesday dismissed GM Hans Niemann&#39;s $100 million lawsuit against GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch. This means that, at least for the moment, the legal battle that follow...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hans-niemann-lawsuit-dismissed",
+         "pubDate" : "Tue, 27 Jun 2023 09:53:00 -0700",
+         "title" : "BREAKING: Hans Niemann's $100 Million Defamation Lawsuit Dismissed"
+      },
+      {
          "description" : "GM Alexey Sarana won the inaugural Olympic Esports Series 2023 Finals chess event after defeating GM Maksim Chigaev with a perfect 3-0 score in the final match. This is one of the first major victories for Sarana since he changed federations from ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1314,14 +1322,6 @@ news_feed (
          "title" : "Knight Fever (2)"
       },
       {
-         "description" : "Five-time world champion Magnus Carlsen will be gunning for an elusive first World Cup crown next month as a host of big stars miss FIDE&#39;s flagship $2.5 million event, it was confirmed on Monday. GM Ding Liren, the Norwegian&#39;s successor as world...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-to-play-2023-world-cup",
-         "pubDate" : "Mon, 12 Jun 2023 11:30:00 -0700",
-         "title" : "Carlsen Goes For First World Cup Win"
-      },
-      {
          "description" : "It's time for another fortnightly report on the world's top two engine vs. engine chess competitions. For the previous report, see <A HREF=\"https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html\">TCEC FRC6, CCC20 Rapid Finals; Both Underway</A> (May 2023). Following is a summary of that report. <BLOCKQUOTE> TCEC: The site launched a chess960 event, 'S24 FRC6', which is currently in the 'First phase - League C', the third of four preliminary six-engine double round robins. &#149; CCC: The engine Mystery played five 100-game matches, In the 'CCC20 Rapid Challenger Match' Lc0 beat Dragon 129.5-120.5, and is currently losing to Stockfish by seven points in the 'Fina",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1552,14 +1552,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-68/",
          "pubDate" : "Tue, 06 Jun 2023 20:43:47 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (68)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2444",
-         "pubDate" : "Tue, 06 Jun 2023 17:05:42 +0000",
-         "title" : "World Cadets & Youth Rapid & Blitz Chess Championship 2023 starts in Batumi"
       }
    ]
 }
