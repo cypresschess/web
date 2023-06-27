@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Balan Alaskan Knights leaped back out of last place with a victory over the previously leading SG Alpine Warriors in a close battle on day five of the Tech Mahindra Global Chess League 2023. The Knights&#39; gained the match win despite victories ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-5",
+         "pubDate" : "Mon, 26 Jun 2023 16:33:00 -0700",
+         "title" : "Cunning Carlsen, Unbeatable Praggnanandhaa Fall To Team Nepomniachtchi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-divya-deshmukh-asian-women-champion/",
          "pubDate" : "Sun, 11 Jun 2023 13:28:48 +0000",
          "title" : "Congratulations Divya Deshmukh! Asian Women Champion!!"
-      },
-      {
-         "description" : "In a day of intense fighting games, contenders for the throne appeared on the horizon to challenge the leader IM Anna Zatonskih by lessening her lead to half a point after the seventh round of the Cairns Cup 2023. As Zatonskih stayed on 4.5 points...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cairns-cup-round-7",
-         "pubDate" : "Sat, 10 Jun 2023 21:10:00 -0700",
-         "title" : "Day Of Daring Fights But Resting Zatonskih Still Leads"
       },
       {
          "description" : "",
