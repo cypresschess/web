@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand has defeated Jan-Krzysztof Duda twice in five days. The legend continues to make it look easy. The Poland no.1 sacrificed an exchange and things did not work out for him. Anand's win did not help the team though, as he scored the sole victory for Ganges Grandmasters. Yifan Hou had a great chance to win against Alexandra Kosteniuk. Unfortunately for her, she couldn't find a way in time trouble. Harika Dronavalli and Jonas Buhl Bjerre scored crucial victories for upGrad Mumba Masters to beat Triveni Continetal Kings. Both rematches had the inverse overall match result of their first encounter at this event. There will be two matches tomorrow, starting at 5:30 p.m. local time, 7 p.m",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-6-report",
+         "pubDate" : "Tue, 27 Jun 2023 19:30:00 +0100",
+         "title" : "Tech Mahindra GCL Day 6: Chingari Gulf Titans move up as Anand's win goes in vain"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2480",
+         "pubDate" : "Tue, 27 Jun 2023 17:48:42 +0000",
+         "title" : "GCL Day6: Chingari Gulf Titans & upGrad Mumba Masters score crucial victories"
+      },
+      {
          "description" : "A federal judge on Tuesday dismissed GM Hans Niemann&#39;s $100 million lawsuit against GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch. This means that, at least for the moment, the legal battle that follow...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-finals",
          "pubDate" : "Tue, 27 Jun 2023 08:13:14 -0700",
          "title" : "Sarana Wins Inaugural Olympic Esports Series Finals In Chess"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Tue, 27 Jun 2023 15:30:00 +0100",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
