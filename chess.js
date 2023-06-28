@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-chess-com-beat-hans-niemanns-100-million-suit-over-cheating-scandal/articleshow/101325559.cms",
+         "pubDate" : "Wed, 28 Jun 2023 03:48:23 +0000",
+         "title" : "Carlsen, Chess.com beat Niemann's $100 mn suit over cheating scandal"
+      },
+      {
          "description" : " Today a federal judge dismissed Hans Niemann's $100 million lawsuit (amended twice) against several high-profile figures in the chess community. GMs&#160;Magnus Carlsen,&#160;Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM&#160;Daniel Rensch were the targets of a lawsuit citing five different offenses against defendants: &#8220;(1) slander; (2) libel; (3) unlawful group boycott under the Sherman Act, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/\">Niemann's $100m Lawsuit Dismissed but stay tuned</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
