@@ -10,6 +10,14 @@ news_feed (
          "title" : "Global Chess League - Live!"
       },
       {
+         "description" : "Chess.com is excited to announce that GM Anish Giri&#39;s Lifetime Repertoire for 1.e4 is now fully available on Chessable. This three-part course is another masterpiece by the renowned Dutch number-one that teaches everything you need to know to play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anish-giri-lifetime-repertoire-1e4-chessable-course",
+         "pubDate" : "Wed, 28 Jun 2023 07:22:00 -0700",
+         "title" : "Play 1.e4 Like A Super Grandmaster With Anish Giri's New Chessable Course"
+      },
+      {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://aicf.in/national-schools-team-u-12-u-18-last-date-of-entry-is-coming-close-18-june/",
          "pubDate" : "Wed, 14 Jun 2023 06:37:03 +0000",
          "title" : "National Schools Team U-12 & U-18 Last date of Entry is coming close, 18 June."
-      },
-      {
-         "description" : "The Quarterfinals of the 2023 Junior Speed Chess Championship kicked off on Tuesday with wins by GM Gukesh D over IM Emin Ohanyan and&#38;nbsp;GM Pranav V against GM Christopher Yoo. Gukesh and Pranav will throw down in an all-Indian semifinal match o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-jscc-quarterfinals-gukesh-pranav",
-         "pubDate" : "Tue, 13 Jun 2023 14:57:00 -0700",
-         "title" : "Gukesh, Pranav Set Up All-Indian Semifinals In JSCC 2023"
       },
       {
          "description" : "An ECF Level 1 Arbiter course was held in person over the weekend of 10th and 11th June at Bridge, in Kent. 11 candidates were...",
