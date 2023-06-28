@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "description" : "Vishy Anand vs Magnus Carlsen games are always the highly anticipated encounter of the day, no matter the event. The rematch between two of the greatest was arguably the game of the tournament so far. The endgame seemed to be heading towards a draw when the world no.1 went for a break. It actually allowed Anand to salvage a draw. However, time trouble induced a human error, turning things once again towards the Norwegian's favor. After an exchange of smiles, tha avoidance of a stalemate trap and an underpromotion, Carlsen defeated Anand in a stellar game. His and Praggnanandhaa's win ensured SG Alpine Warriors knocking off Ganges Grandmasters from the top of the leaderboard. Tomorrow will be",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Wed, 28 Jun 2023 15:30:00 +0100",
-         "title" : "Global Chess League - Live!"
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-7-report",
+         "pubDate" : "Wed, 28 Jun 2023 19:45:00 +0100",
+         "title" : "GCL Day 7: Carlsen wins an exquisite endgame against Anand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2483",
+         "pubDate" : "Wed, 28 Jun 2023 18:32:08 +0000",
+         "title" : "GCL Day 7: Carlsen's spectacular victory over Anand lifts SG Alpine Warriors to the top "
+      },
+      {
+         "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vidit-gujarathi-master-advanced-tactics-2",
+         "pubDate" : "Wed, 28 Jun 2023 18:00:00 +0100",
+         "title" : "Vidit Gujarathi: Master Advanced Tactics"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2482",
+         "pubDate" : "Wed, 28 Jun 2023 16:34:20 +0000",
+         "title" : "The match for Women's World Champion title: Celebration of China and Chess"
+      },
+      {
+         "description" : "9.5 points continue to be enough to win Titled Tuesday, as GMs Dmitry Andreikin and Oleksandr Bortnyk won the June 27 renditions of the event, each on that score. Both needed the tiebreak score advantage over one other player in order to secure fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-bortnyk-win-titled-tuesday-june-27-2023",
+         "pubDate" : "Wed, 28 Jun 2023 08:49:16 -0700",
+         "title" : "Titled Tuesday Ties Go To Andreikin, Bortnyk"
       },
       {
          "description" : "Chess.com is excited to announce that GM Anish Giri&#39;s Lifetime Repertoire for 1.e4 is now fully available on Chessable. This three-part course is another masterpiece by the renowned Dutch number-one that teaches everything you need to know to play...",
@@ -282,14 +314,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (69)"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2479",
-         "pubDate" : "Tue, 27 Jun 2023 11:13:53 +0000",
-         "title" : "PlusCity Grand Prix: All set for the strongest XXI century chess event in Austria"
-      },
-      {
          "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023 was held at&#160; Amalorpavam Higher Sec. School Arumai Primary Building Vanarapet Pondicherry . This",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -392,6 +416,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tutorial-chessbase-17-the-clip-database",
          "pubDate" : "Mon, 26 Jun 2023 14:48:51 +0100",
          "title" : "Why do we need the ChessBase clip database?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2479",
+         "pubDate" : "Mon, 26 Jun 2023 11:13:53 +0000",
+         "title" : "PlusCity Grand Prix: All set for the strongest XXI century chess event in Austria"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
@@ -858,14 +890,6 @@ news_feed (
          "title" : "Staff member wins World Cup"
       },
       {
-         "description" : "The second edition of the Colònia de Sant Jordi International Chess Festival came to an end last Sunday in Mallorca. English CM Ankush Khandelwal, a 4-time Pentamind world champion, was proclaimed champion of the International Open. Famed streamer Anna Cramling was the strongest woman player in the open, and successfully streamed her games on Twitch. The Masters tournament, a 10-player single round-robin, was won by Spanish IM Aar&oacute;n Alonso. | Photos: Tournament&rsquo;s Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/colonia-sant-jordi-festival-2023",
-         "pubDate" : "Wed, 21 Jun 2023 21:00:00 +0100",
-         "title" : "A successful second edition: Colònia Sant Jordi Festival in Mallorca"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave of France and GM Dmitrij Kollars of Germany were the winners of Titled Tuesday on June 20. GM Gata Kamsky, who won one of last week&#39;s events, nearly pulled it off again in the early tournament, finishing second behind Vac...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1306,14 +1330,6 @@ news_feed (
          "title" : "Who Is The NFL's Best Chess Player? Stars Line-Up For BlitzChamps II Tournament"
       },
       {
-         "description" : "The June 13 edition of Titled Tuesday was won by GMs Gata Kamsky in the early event and Jan-Krzysztof Duda late. The 49-year-old Kamsky, who challenged for the FIDE World Championship in 1996, won outright with 9.5 points ahead of a nine-way tie f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kamsky-duda-win-titled-tuesday-june-13-2023",
-         "pubDate" : "Wed, 14 Jun 2023 08:19:00 -0700",
-         "title" : "Old Guard, New Guard Both Represent On Tuesday"
-      },
-      {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan One of the most obvious and difficult things to do as part of your chess preparation is to practice daily. You may mention that you play online daily, and you might add the number of games played to make a convincing argument. That could <a href=\"https://chessimprover.com/stalemate-tuesday-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-3/\">Stalemate Tuesday (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1584,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2446",
          "pubDate" : "Wed, 07 Jun 2023 22:47:01 +0000",
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 3 recap"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100828943.cms\" />Five-time world champions Viswanathan Anand and Magnus Carlsen were picked up by Ganges Grandmasters and SG Alpine Warriors respectively in the Players' Draft for the inaugural Global Chess League on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-anand-joins-ganges-grandmasters/articleshow/100828943.cms",
-         "pubDate" : "Wed, 07 Jun 2023 16:17:18 +0000",
-         "title" : "Global Chess League: Anand joins Ganges Grandmasters"
       }
    ]
 }
