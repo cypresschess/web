@@ -2,12 +2,116 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dmitrij Kollars can celebrate having beaten a former world champion. In the No-Castling Masters, the German grandmaster defeated Vladimir Kramnik. Ruben Gideon K&ouml;llner leads the Sportland NRW Cup, while Alexander Donchenko won the all-important against Frederik Svane in the A-Open. | Screenshot: Former tournament director J&uuml;rgen Grastat makes the ceremonial first move",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d4",
+         "pubDate" : "Wed, 28 Jun 2023 12:35:00 +0100",
+         "title" : "Dortmund: Kollars beats Kramnik"
+      },
+      {
+         "description" : "There was only one decisive game in round 6 of the Prague Chess Festival Masters Tournament: Wang Hao won with White against Boris Gelfand. Vincent Keymer missed good chances against Haik Martirosyan, but is still tied for first place with Ray Robson and Bogdan-Daniel Deac with 3.5 out of 6. Behind them are five (!) players with 3 out of 6 each - so with three rounds to go, eight players have a good chance of winning the tournament. In the Challengers, Benjamin Gledura is still the sole leader with 4.5 out of 6.| Photos: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-round-6-wang-beats-gelfand",
+         "pubDate" : "Wed, 28 Jun 2023 12:18:48 +0100",
+         "title" : "Prague, Round 6: Wang beats Gelfand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2481",
+         "pubDate" : "Wed, 28 Jun 2023 10:14:58 +0000",
+         "title" : "Girls Club \"Chess for protection\" keeps growing"
+      },
+      {
+         "description" : "The Girls U14 Greek Youth Championship 2023 is a 18-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Dimitra Alexandri, Vasiliki Alexandri, Evgenia Valeria Platsaki, Chrysi Chasouraki and Kalliopi Sklavounou. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-greek-youth-championship-2023-live/",
+         "pubDate" : "Wed, 28 Jun 2023 08:20:00 +0000",
+         "title" : "Girls U14 Greek Youth Championship 2023 - LIVE"
+      },
+      {
          "description" : "Readers will recall the scandal that shook the chess world, when Magnus Carlsen stated he thought US GM Hans Niemann had cheated against him. In spite of endless amounts of speculation and hand-waving, no evidence was ever produced, and Niemann struck back with an eye-watering $100 million-dollar lawsuit. The verdict is in.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/niemann-s-100-million-lawsuit",
          "pubDate" : "Wed, 28 Jun 2023 09:19:32 +0100",
          "title" : "Niemann's $100 million lawsuit"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/counties-championship-2023/#new_tab",
+         "pubDate" : "Wed, 28 Jun 2023 08:09:33 +0000",
+         "title" : "ECF Counties Championship Final - 1 July"
+      },
+      {
+         "description" : "The Girls U14 Greek Youth Championship 2023 is a 18-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Dimitra Alexandri, Vasiliki Alexandri, Evgenia Valeria Platsaki, Chrysi Chasouraki and Kalliopi Sklavounou.Chessdom.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-greek-youth-championship-2023/",
+         "pubDate" : "Wed, 28 Jun 2023 08:00:00 +0000",
+         "title" : "Girls U14 Greek Youth Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
+         "pubDate" : "Wed, 28 Jun 2023 07:52:13 +0000",
+         "title" : "ECF National Schools Final - Thursday 29 and Friday 30 June"
+      },
+      {
+         "description" : "The U14 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Antonios Gkavardinas, Dimitrios Papaioannou, Anastasios Georgiadis, Vasileios Dim Katsanis and Michail Vassis. Parallel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-greek-youth-championship-2023-live/",
+         "pubDate" : "Wed, 28 Jun 2023 07:30:00 +0000",
+         "title" : "U14 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U14 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Antonios Gkavardinas, Dimitrios Papaioannou, Anastasios Georgiadis, Vasileios Dim Katsanis and Michail Vassis. Chessdom.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-greek-youth-championship-2023/",
+         "pubDate" : "Wed, 28 Jun 2023 07:00:00 +0000",
+         "title" : "U14 Greek Youth Championship 2023"
+      },
+      {
+         "description" : "The Girls U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Maria Kosma, Soumela Athanasiou, Giolanta Kalamoukou, Georgia Christodoulou and Despoina Kalliora. Parallel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-greek-youth-championship-2023-live/",
+         "pubDate" : "Wed, 28 Jun 2023 06:38:00 +0000",
+         "title" : "Girls U16 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Maria Kosma, Soumela Athanasiou, Giolanta Kalamoukou, Georgia Christodoulou and Despoina Kalliora. Chessdom.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-greek-youth-championship-2023/",
+         "pubDate" : "Wed, 28 Jun 2023 06:00:00 +0000",
+         "title" : "Girls U16 Greek Youth Championship 2023"
+      },
+      {
+         "description" : "The U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Nikolaos Poupalos, Nikolaos Kazakos, Christos Tsarsitalidis, Spyros Hartofylakas and Georgios Antonioudakis. Parallel : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-greek-youth-championship-2023-live/",
+         "pubDate" : "Wed, 28 Jun 2023 05:32:00 +0000",
+         "title" : "U16 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Nikolaos Poupalos, Nikolaos Kazakos, Christos Tsarsitalidis, Spyros Hartofylakas and Georgios Antonioudakis. Chessdom.com will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-greek-youth-championship-2/",
+         "pubDate" : "Wed, 28 Jun 2023 05:00:00 +0000",
+         "title" : "U16 Greek Youth Championship 2023"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
@@ -74,14 +178,6 @@ news_feed (
          "title" : "16th Annual Philadelphia International - LIVE"
       },
       {
-         "description" : "Magnus Carlsen Viswanathan Anand is a game from round 7 of Global Chess League. Parallel : Bydgoszcz Open A 2023 / Bydgoszcz GM 2023 / Bydgoszcz WGM 2023 / Pavel Eljanov &#x2013; Vladimir Kramnik / Dmitrij Kollars &#x2013; Fabiano CaruanaMore : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-viswanathan-anand-global-chess-league-round-7/",
-         "pubDate" : "Tue, 27 Jun 2023 19:20:00 +0000",
-         "title" : "Magnus Carlsen - Viswanathan Anand, Global Chess League round 7"
-      },
-      {
          "description" : "Vishy Anand has defeated Jan-Krzysztof Duda twice in five days. The legend continues to make it look easy. The Poland no.1 sacrificed an exchange and things did not work out for him. Anand's win did not help the team though, as he scored the sole victory for Ganges Grandmasters. Yifan Hou had a great chance to win against Alexandra Kosteniuk. Unfortunately for her, she couldn't find a way in time trouble. Harika Dronavalli and Jonas Buhl Bjerre scored crucial victories for upGrad Mumba Masters to beat Triveni Continetal Kings. Both rematches had the inverse overall match result of their first encounter at this event. There will be two matches tomorrow, starting at 5:30 p.m. local time, 7 p.m",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,22 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-finals",
          "pubDate" : "Tue, 27 Jun 2023 08:13:14 -0700",
          "title" : "Sarana Wins Inaugural Olympic Esports Series Finals In Chess"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Tue, 27 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Tue, 27 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : " NAPLAN is a test the school kids in Australia have to do every 2nd year (odd numbered grades), and is supposed to measure whether schools are performing or not. In actuality the results are dependent upon the socio-economic level of the students, and are mainly used by parents and the media to 'rank' schools based on some imaginary scale. As you can guess, I really really, really hate NAPLAN. While abolishing all together is my preferred solution, I do offer an alternative. Replace NAPLAN with a nation wide interschool chess competition, divided into geographical zones. Results aren't necessarily based upon the scores in the tournament (although that is one factor), but instead on how many ",
@@ -202,60 +282,12 @@ news_feed (
          "title" : "A light initiative weighs heavily"
       },
       {
-         "description" : "Pavel Eljanov Vladimir Kramnik is a game from round 3 of NC World Masters. Parallel : Bydgoszcz Open A 2023 / Bydgoszcz GM 2023 / Bydgoszcz WGM 2023 / Magnus Carlsen &#x2013; Viswanathan Anand / Dmitrij Kollars &#x2013; Fabiano CaruanaMore : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pavel-eljanov-vladimir-kramnik-nc-world-masters-round-3/",
-         "pubDate" : "Tue, 27 Jun 2023 06:57:00 +0000",
-         "title" : "Pavel Eljanov - Vladimir Kramnik, NC World Masters round 3"
-      },
-      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-general-assembly-congress-2023/",
          "pubDate" : "Tue, 27 Jun 2023 06:03:31 +0000",
          "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
-      },
-      {
-         "description" : "The Gij&#xF3;n Open 2023 is a 9-round Swiss tournament held from the 26th of June to the 2th of July in Gij&#xF3;n, Spain. The top fiive seeds are Lelys Martinez, Juan Plazuelo Pascual, Aleksa Strikovic, Salvador G. Del Rio De Angelis and Enrique Tejedor Fuente. There are 21 titled players in the tournament. The tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gijon-open-2023/",
-         "pubDate" : "Tue, 27 Jun 2023 05:00:00 +0000",
-         "title" : "Gij&oacute;n Open 2023"
-      },
-      {
-         "description" : "The Gij&#xF3;n Open 2023 is a 9-round Swiss tournament held from the 26th of June to the 2th of July in Gij&#xF3;n, Spain. The top fiive seeds are Lelys Martinez, Juan Plazuelo Pascual, Aleksa Strikovic, Salvador G. Del Rio De Angelis and Enrique Tejedor Fuente. There are 21 titled players in the tournament. The tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gijon-open-2023-live/",
-         "pubDate" : "Tue, 27 Jun 2023 04:10:00 +0000",
-         "title" : "Gij&oacute;n Open 2023 - LIVE"
-      },
-      {
-         "description" : "Dmitrij Kollars Fabiano Caruana is a game from round 3 of NC World Masters. Parallel : Bydgoszcz Open A 2023 / Bydgoszcz GM 2023 / Bydgoszcz WGM 2023 / Pavel Eljanov &#x2013; Vladimir Kramnik / Magnus Carlsen &#x2013; Viswanathan AnandMore : Aktobe Open Classic 2023 / Prague Masters 2023 / Prague Challengers 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dmitrij-kollars-fabiano-caruana-nc-world-masters-round-3/",
-         "pubDate" : "Tue, 27 Jun 2023 03:59:00 +0000",
-         "title" : "Dmitrij Kollars - Fabiano Caruana, NC World Masters round 3"
-      },
-      {
-         "description" : "The Colombian Open IRT Fiestas del Pl&#xE1;tano Sabaneta 2023 is a 9-round Swiss tournament held from the 28th of June to the 2 of July in Sabaneta, Colombia. There are two rating categories, Open and U2000, in the tournament. The time control is 90 minutes with a 30-second increment beginning from move one. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-irt-fiestas-del-platano-sabaneta-2023-live/",
-         "pubDate" : "Tue, 27 Jun 2023 02:35:00 +0000",
-         "title" : "Open IRT Fiestas del Platano Sabaneta 2023 - LIVE"
-      },
-      {
-         "description" : "The Colombian Open IRT Fiestas del Pl&#xE1;tano Sabaneta 2023 is a 9-round Swiss tournament held from the 28th of June to the 2 of July in Sabaneta, Colombia. There are two rating categories, Open and U2000, in the tournament. The time control is 90 minutes with a 30-second increment beginning from move one. The top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-irt-fiestas-del-platano-sabaneta-2023/",
-         "pubDate" : "Tue, 27 Jun 2023 02:13:00 +0000",
-         "title" : "Open IRT Fiestas del Platano Sabaneta 2023"
       },
       {
          "description" : "The Balan Alaskan Knights leaped back out of last place with a victory over the previously leading SG Alpine Warriors in a close battle on day five of the Tech Mahindra Global Chess League 2023. The Knights&#39; gained the match win despite victories ...",
@@ -298,6 +330,14 @@ news_feed (
          "title" : "Nakamura, The King Of Bullet Brawl, Strikes Again"
       },
       {
+         "description" : "In this continuing, fortnightly series on the world's top two engine vs. engine competitions, the previous post was <A HREF=\"https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html\">TCEC FRC6, CCC20 Rapid; Stockfish Wins Both</A> (June 2023). Expanding that title produces the following summary:- <BLOCKQUOTE> TCEC: In the 'S24 FRC6 Final', Stockfish beat LCZero +15-12=23. The site then organized 'S24 DFRC2', which has reached 'League 1', the third of four stages. &#149; CCC: In the 'CCC20 Rapid Finals', Stockfish crushed Lc0 143.0-107.0, then crushed the Mystery engine 67.0-33.0 in an exhibition match. The site then launched the 'CCC20 Bullet Entry League'. </BL",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/06/stockfish-wins-tcec-dfrc2-ccc20-bullet.html",
+         "pubDate" : "Mon, 26 Jun 2023 15:13:00 +0000",
+         "title" : "Stockfish Wins TCEC DFRC2; CCC20 Bullet Underway"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -312,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tutorial-chessbase-17-the-clip-database",
          "pubDate" : "Mon, 26 Jun 2023 14:48:51 +0100",
          "title" : "Why do we need the ChessBase clip database?"
-      },
-      {
-         "description" : "The Bydgoszcz WGM 2023 is taking place from 26-30 June 2023 in Bydgoszcz, Poland. The time is 90 minutes, plus 30 minutes after move 40 and 30 seconds increment starting from move one. It is 6-player round robin tournament with participation of Alina Kashlinskaya, Meri Arabidze, Antoaneta Stefanova, Teodora Injac, Oliwia Kiolbasa and Michalina Rudzinska. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bydgoszcz-wgm-2023-live/",
-         "pubDate" : "Mon, 26 Jun 2023 12:13:10 +0000",
-         "title" : "Bydgoszcz WGM 2023 - LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
@@ -1536,14 +1568,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/european-seniors-individual-chess-championship-2023/#new_tab",
          "pubDate" : "Thu, 08 Jun 2023 10:40:43 +0000",
          "title" : "European Seniors Individual Chess Championship 2023"
-      },
-      {
-         "description" : "The ECU-certificated Smart Method to teach chess has provided over a thousand teachers and tutors with new ideas and techniques to teach chess in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/last-call-chess-teacher-training-online-course-this-weekend/",
-         "pubDate" : "Thu, 08 Jun 2023 10:14:23 +0000",
-         "title" : "Last call - Chess Teacher training online course this weekend"
       },
       {
          "description" : "",
