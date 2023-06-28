@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Today a federal judge dismissed Hans Niemann's $100m lawsuit (amended twice) against several high-profile figures in the chess community. GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch were the targets of a lawsuit citing four different offenses: &#8220;slander, libel, unlawful group boycott under the Sherman Act, tortious interference with contract and business The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/\">Niemann's $100m Lawsuit Dismissed but stay tuned</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Today a federal judge dismissed Hans Niemann's $100 million lawsuit (amended twice) against several high-profile figures in the chess community. GMs&#160;Magnus Carlsen,&#160;Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM&#160;Daniel Rensch were the targets of a lawsuit citing five different offenses against defendants: &#8220;(1) slander; (2) libel; (3) unlawful group boycott under the Sherman Act, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/\">Niemann's $100m Lawsuit Dismissed but stay tuned</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/",
@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Tue, 27 Jun 2023 15:33:17 -0700",
+         "pubDate" : "Tue, 27 Jun 2023 15:33:00 -0700",
          "title" : "Anand Gains 4th Victory, But Team Duda Defeats Leaders"
       },
       {
@@ -26,7 +26,7 @@ news_feed (
          "title" : "Collegiate Chess League 2023 Summer Season: Bullet and Bughouse Championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on a topic of his choice. 2023.06.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Fs-LCMsrRUQ.jpg?itok=bZVs5BqX\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on a topic of his choice. 2023.06.27<br /> Aleksander Mista vs Cemil Can Ali Marandi, European Championship (2017): C63 Ruy Lopez, Schliemann defence, Berger variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1876884\">https://www.chessgames.com/perl/chessgame?gid=1876884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi",
@@ -34,7 +34,7 @@ news_feed (
          "title" : "Prep, Think, and Play Like a Grandmaster | Grandmaster's Choice - GM JJ Ali Marandi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class where he looks at the good and bad sides of positions. 2023.06.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-pros-and-cons-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bNbU0gtAzU.jpg?itok=eUQsJi6y\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering explores the chess elements of king safety (castle early and often, weak f-pawns, fishing pole trap), material (be suspicious of free pieces!, elephant trap, liquidation), and piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-pros-and-cons-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bNbU0gtAzU.jpg?itok=eUQsJi6y\" alt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/positional-pros-and-cons-beginner-breakdown",
@@ -87,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hans-niemann-lawsuit-dismissed",
          "pubDate" : "Tue, 27 Jun 2023 09:53:00 -0700",
-         "title" : "BREAKING: Hans Niemann's $100 Million Defamation Lawsuit Dismissed"
+         "title" : "Hans Niemann's $100 Million Defamation Lawsuit Dismissed"
       },
       {
          "description" : "GM Alexey Sarana won the inaugural Olympic Esports Series 2023 Finals chess event after defeating GM Maksim Chigaev with a perfect 3-0 score in the final match. This is one of the first major victories for Sarana since he changed federations from ...",
