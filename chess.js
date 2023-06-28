@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a highly-anticipated rematch, GM Magnus Carlsen defeated GM Viswanathan Anand, leading the SG Alpine Warriors to an epic comeback victory and the top of the standings&#38;nbsp;on day seven of the Tech Mahindra Global Chess League 2023. Carlsen had ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-7",
+         "pubDate" : "Wed, 28 Jun 2023 14:41:15 -0700",
+         "title" : "Carlsen Wins Climactic Clash vs. Anand, Leads Team To Top"
+      },
+      {
          "description" : "Vishy Anand vs Magnus Carlsen games are always the highly anticipated encounter of the day, no matter the event. The rematch between two of the greatest was arguably the game of the tournament so far. The endgame seemed to be heading towards a draw when the world no.1 went for a break. It actually allowed Anand to salvage a draw. However, time trouble induced a human error, turning things once again towards the Norwegian's favor. After an exchange of smiles, tha avoidance of a stalemate trap and an underpromotion, Carlsen defeated Anand in a stellar game. His and Praggnanandhaa's win ensured SG Alpine Warriors knocking off Ganges Grandmasters from the top of the leaderboard. Tomorrow will be",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1322,14 +1330,6 @@ news_feed (
          "title" : "Raunak, Lazavik Both Win Blowouts, Advance To Semifinals"
       },
       {
-         "description" : "Chess.com&#39;s all-star hunt for the best chess player in the NFL is back for a second edition featuring eight of your favorite footballers. BlitzChamps II kicks off on June 23 with $100,000 at stake for charity and the all-important bragging rights ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-ii",
-         "pubDate" : "Wed, 14 Jun 2023 14:00:00 -0700",
-         "title" : "Who Is The NFL's Best Chess Player? Stars Line-Up For BlitzChamps II Tournament"
-      },
-      {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan One of the most obvious and difficult things to do as part of your chess preparation is to practice daily. You may mention that you play online daily, and you might add the number of games played to make a convincing argument. That could <a href=\"https://chessimprover.com/stalemate-tuesday-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-3/\">Stalemate Tuesday (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1592,14 +1592,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/european-seniors-individual-chess-championship-2023/#new_tab",
          "pubDate" : "Thu, 08 Jun 2023 10:40:43 +0000",
          "title" : "European Seniors Individual Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2446",
-         "pubDate" : "Wed, 07 Jun 2023 22:47:01 +0000",
-         "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 3 recap"
       }
    ]
 }
