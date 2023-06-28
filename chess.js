@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Wed, 28 Jun 2023 15:30:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Wed, 28 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival (Kramnik v Caruana) - Live!"
+      },
+      {
+         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Wed, 28 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101342951.cms\" />Magnus Carlsen, the five-time chess world champion said he is pleasantly surprised with the immense enthusiasm for the game in India. Carlsen believes that this surge of interest marks the commencement of a revolutionary era, an achievement primarily attributed to the legendary Viswanathan Anand. Carlsen, widely recognized as one of the most formidable players in chess, is currently representing the SG Alpine Warriors in the Global Chess League (GCL). He acknowledged that India's consistent production of Grandmasters holds promising prospects for t",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/its-the-beginning-of-a-revolution-in-india-magnus-carlsen/articleshow/101342951.cms",
+         "pubDate" : "Wed, 28 Jun 2023 12:50:02 +0000",
+         "title" : "It's the beginning of a revolution in India: Magnus Carlsen"
+      },
+      {
          "description" : "Dmitrij Kollars can celebrate having beaten a former world champion. In the No-Castling Masters, the German grandmaster defeated Vladimir Kramnik. Ruben Gideon K&ouml;llner leads the Sportland NRW Cup, while Alexander Donchenko won the all-important against Frederik Svane in the A-Open. | Screenshot: Former tournament director J&uuml;rgen Grastat makes the ceremonial first move",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -866,28 +898,12 @@ news_feed (
          "title" : "It's TIME To Acknowledge Chess: Chess.com Named In Prestigious 100 Most Influential Companies List"
       },
       {
-         "description" : "Dommaraju Gukesh continues his incredible ascent at the elite chess circuit. In an interview given to World Chess, the 17-year-old talks about his development as a chess player, his strengths and (many) weaknesses and his opinions on the best players of all time. Referring to Bobby Fischer, Gukesh states: \"It feels like he's just the purest genius of our game\". | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-interview-world-chess",
-         "pubDate" : "Wed, 21 Jun 2023 12:00:00 +0100",
-         "title" : "Gukesh: \"Fischer, Kasparov and Carlsen for sure are the top three\""
-      },
-      {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
          "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
          "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
-      },
-      {
-         "description" : "It has almost become a tradition: at the end of the school year, a thousand primary school students once again played an outdoor chess tournament on Bremen's market square! The project \"Schach macht schlau\" (Chess makes you smart) has been running since 2018, with 43 schools now participating and offering one hour of chess per week in regular lessons. Senator for Education Sascha Aulepp opened the tournament together with project initiator Marco Bode. This time, the \"Dog\" team won and the students of the Augsburger Straße primary school were allowed to take the trophy home! | Photos: Nils Rohde",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-festival-bremen-2023",
-         "pubDate" : "Wed, 21 Jun 2023 08:30:00 +0100",
-         "title" : "Over a thousand students at chess festival in Bremen"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski discusses the general DNA of the Sicilian, and shows his game from the 2023 Americas Absolute Continental Chess Championship. Plus, see a French defense game. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/l%C3%B6wenthal-sicilian-dna-prepare-pro-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tualmw-pkw.jpg?it",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi",
          "pubDate" : "Tue, 20 Jun 2023 20:15:45 +0000",
          "title" : "Prophylaxis and Dynamics | Grandmaster's Choice - GM JJ Ali Marandi"
-      },
-      {
-         "description" : "The junior chess championships of various age categories serve a very important purpose. The talented medal winners get the limelight they need - with the adequate amount of support, these kids go on to do great things in the chess world! One such example is 2014-born Thehas Rithmitha Kiringoda, gold medallist in the Under-9 World Schools Championships 2023. Starting off as the 21st seed among 61 players, Thehas went on to score a dominating 7&frac12;5/9 and win the event! In this article, we ask Thehas a few questions about his chess journey so far, his performance in the World Schools, future goals and much more. Get to know the mindset of a young chess talent.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
-         "pubDate" : "Tue, 20 Jun 2023 20:00:00 +0100",
-         "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
       },
       {
          "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-anand-joins-ganges-grandmasters/articleshow/100828943.cms",
          "pubDate" : "Wed, 07 Jun 2023 16:17:18 +0000",
          "title" : "Global Chess League: Anand joins Ganges Grandmasters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2445",
-         "pubDate" : "Wed, 07 Jun 2023 12:50:59 +0000",
-         "title" : "International Schools Festival 2023 in Ploiesti: 12 teams will be considered as \"invited teams\""
       }
    ]
 }
