@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Readers will recall the scandal that shook the chess world, when Magnus Carlsen stated he thought US GM Hans Niemann had cheated against him. In spite of endless amounts of speculation and hand-waving, no evidence was ever produced, and Niemann struck back with an eye-watering $100 million-dollar lawsuit. The verdict is in.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-s-100-million-lawsuit",
+         "pubDate" : "Wed, 28 Jun 2023 09:19:32 +0100",
+         "title" : "Niemann's $100 million lawsuit"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html",
          "pubDate" : "Tue, 20 Jun 2023 15:02:00 +0000",
          "title" : "June 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "You are the kind of chess player who likes to analyse passionately, perhaps directly on the screen, using ChessBase. You regularly save your analyses and to make sure that you can find them again you have a list of 30 chapters which systematises the games with the help of a text entry on the first move. In spite of this loving care it still happens that analyses disappear. How can this be? What has gone wrong? ChessBase expert Martin Fischer has the answer!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-chessbase-17-where-are-my-analyses",
-         "pubDate" : "Tue, 20 Jun 2023 15:14:43 +0100",
-         "title" : "Where are my analyses?"
       },
       {
          "description" : "The 1st European Pairs Chess Championship, an official side event of the European Games Krakow-Malopolska 2023, concluded yesterday in Poland! The event was held in two phases: qualification and playoffs, and the individual medalists were determined by the playoffs in each section (Open and Women's). The combined Pair medals were decided by the final position of the players of each team after the playoffs in each section (sum of points): 1st&#160;8-points, 2nd&#160;7-points, 3rd&#160;6-points, 4th&#160;5-points, 5th&#160;4-points, 6th&#160;3 points, 7th&#160;2-points, and 8th&#160;1-point.&#160; []",
