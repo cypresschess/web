@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After his defeat in a spectacular game in the second round, Vladimir Kramnik bounced back on Wednesday with a brilliant positional performance. After the Mayor of Dortmund, Norbert Schilff, made the symbolic first move for him, Kramnik opted for a rather quiet approach with white and gained a small advantage against Fabiano Caruana. Slowly but surely, Kramnik increased his advantage and ended up scoring an important full point. | Photo: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d5",
+         "pubDate" : "Thu, 29 Jun 2023 05:10:00 +0100",
+         "title" : "Dortmund: Kramnik beats Caruana, takes the lead"
+      },
+      {
+         "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-blitz-champs-michigan-cornelius-johnson-wins",
+         "pubDate" : "Wed, 28 Jun 2023 17:59:00 -0700",
+         "title" : "Johnson Scores Final Touchdown In BlitzChamps Michigan"
+      },
+      {
          "description" : "In a highly-anticipated rematch, GM Magnus Carlsen defeated GM Viswanathan Anand, leading the SG Alpine Warriors to an epic comeback victory and the top of the standings&#38;nbsp;on day seven of the Tech Mahindra Global Chess League 2023. Carlsen had ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Wed, 28 Jun 2023 14:41:15 -0700",
+         "pubDate" : "Wed, 28 Jun 2023 14:41:00 -0700",
          "title" : "Carlsen Wins Climactic Clash vs. Anand, Leads Team To Top"
       },
       {
@@ -42,11 +58,11 @@ news_feed (
          "title" : "The match for Women's World Champion title: Celebration of China and Chess"
       },
       {
-         "description" : "9.5 points continue to be enough to win Titled Tuesday, as GMs Dmitry Andreikin and Oleksandr Bortnyk won the June 27 renditions of the event, each on that score. Both needed the tiebreak score advantage over one other player in order to secure fi...",
+         "description" : "To win Titled Tuesday, 9.5 points continue to be enough as GMs Dmitry Andreikin and Oleksandr Bortnyk won the June 27 renditions of the event, each on that score. Both needed the tiebreak score advantage over one other player in order to secure fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/andreikin-bortnyk-win-titled-tuesday-june-27-2023",
-         "pubDate" : "Wed, 28 Jun 2023 08:49:16 -0700",
+         "pubDate" : "Wed, 28 Jun 2023 08:49:00 -0700",
          "title" : "Titled Tuesday Ties Go To Andreikin, Bortnyk"
       },
       {
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anish-giri-lifetime-repertoire-1e4-chessable-course",
          "pubDate" : "Wed, 28 Jun 2023 07:22:00 -0700",
          "title" : "Play 1.e4 Like A Super Grandmaster With Anish Giri's New Chessable Course"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Wed, 28 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival (Kramnik v Caruana) - Live!"
       },
       {
          "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2458",
          "pubDate" : "Wed, 14 Jun 2023 22:35:38 +0000",
          "title" : "Serbian Championship: Aleksandar Indjic and Marina Gajcin clinch titles"
-      },
-      {
-         "description" : "On the second day of Quarterfinals in the 2023 Junior Speed Chess Championship, GM Raunak Sadhwani dispatched IM Read Samadov and GM Denis Lazavik eliminated GM Daniel Dardha. The victory of the two favorites was never in question during their mat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-jscc-quarterfinals-raunak-lazavik",
-         "pubDate" : "Wed, 14 Jun 2023 14:08:00 -0700",
-         "title" : "Raunak, Lazavik Both Win Blowouts, Advance To Semifinals"
       },
       {
          "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan One of the most obvious and difficult things to do as part of your chess preparation is to practice daily. You may mention that you play online daily, and you might add the number of games played to make a convincing argument. That could <a href=\"https://chessimprover.com/stalemate-tuesday-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-3/\">Stalemate Tuesday (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
