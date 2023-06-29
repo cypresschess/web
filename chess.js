@@ -2,20 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One might expect relatively quiet rounds after a day full of excitement. Well, that just does not happen at the Tech Mahindra Global Chess League. In the first match, five out of six games ended decisively. Levon Aronian, Wei Yi and Sara Khadem scored crucial wins for their team, Triveni Continental Kings. Their 3-0 (10-9) victory over Chingari Gulf Titans ensured the team still has mathematical chances to win the event. Andrey Esipenko scored the crucial win for his team, Ganges Grandmasters. Thus, GG are once again atop the standings with 15/24. Tomorrow will be the penultimate day of the double round-robin stage. There will be four matches starting from 3 p.m. local time, 4:30 p.m. IST. |",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-8-report",
+         "pubDate" : "Thu, 29 Jun 2023 19:45:00 +0100",
+         "title" : "GCL Day 8: Ganges Grandmasters and Continental Kings win close battles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS - </strong>June 29, 2023 - Top American junior and senior chess players will return to Saint Louis for the 2023 U.S. Senior, Junior, and Girls' Junior Championships hosted by the Saint Louis Chess Club. From July 15-25, 2023, the top 10 players across three divisions - juniors, girls, and seniors, will travel to compete for more than $130,000 in prizes. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-host-legends-and-rising-stars-american-chess",
+         "pubDate" : "Thu, 29 Jun 2023 18:27:01 +0000",
+         "title" : "Saint Louis Chess Club to Host Legends and Rising Stars of American Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2484",
+         "pubDate" : "Thu, 29 Jun 2023 18:26:38 +0000",
+         "title" : "GCL Day 8:Ganges Grandmasters reclaim the lead "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on playing dynamically as Black in the Italian Game. 2023.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-play-vs-italian-black-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tOtW9hqPzZo.jpg?itok=CZRHs6TM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dynamic-play-vs-italian-black-prepare-pro-gm-jj-ali-marandi",
+         "pubDate" : "Thu, 29 Jun 2023 17:22:36 +0000",
+         "title" : "Dynamic Play vs. The Italian with Black | Prepare Like A Pro - GM JJ Ali Marandi"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101373928.cms\" />Triveni Continental Kings secured a hard-fought 10-9 victory over Chingari Gulf Titans in a tense round eight match of the Global Chess League, with substitute player Sara Khadem registering a crucial win on Thursday. Ganges Grandmasters made an important comeback after two losses, defeating Balan Alaskan Knights 8-7 in a match decided by a game which lasted 114 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sara-khadem-lifts-triveni-continental-kings-ganges-grandmasters-reclaim-lead/articleshow/101373928.cms",
+         "pubDate" : "Thu, 29 Jun 2023 17:14:31 +0000",
+         "title" : "Sara Khadem lifts Triveni Continental Kings, Ganges Grandmasters reclaim lead"
+      },
+      {
+         "description" : "It&#38;rsquo;s the amateur event that fueled a massive chess boom, spawned a mountain of memes, and became one of the game&#38;rsquo;s biggest sensations ever. Now Chess.com is delighted to reveal that its celebrity-packed PogChamps tournament is back for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-pogchamps-5",
+         "pubDate" : "Thu, 29 Jun 2023 10:12:00 -0700",
+         "title" : "Pogchamps 5 Is Ready For Lift-Off! Chess.com's Spectacular Battle Of The Creators Is Back"
+      },
+      {
+         "description" : "In today's Fast & Furious show Robert Ris takes a look at a game, in which Jorden Van Foreest convincingly defeated Radoslaw Wojtaszek in a popular line of the Ruy Lopez. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fine-game-by-jorden-van-foreest",
+         "pubDate" : "Thu, 29 Jun 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A fine Ruy Lopez by Jorden Van Foreest"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM #214 is out. Meanwhile our columnist, Nagesh Havanur takes a look at a recent issue. 2651 games (47 annotated) from WR Masters and European Championship among others. 12 opening surveys, 3 opening videos, 9 demo. lectures and several exercises for training. Annotators include Levon Aronian, Alexey Sarana, Kirill Shevchenko, Vincent Keymer, Gukesh and Praggnanandhaa among others. The icing on the cake is a feature on Viswanathan Anand with 26 annotated games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-magazine-213-a-review-by-prof-nagesh-havanur",
          "pubDate" : "Thu, 29 Jun 2023 17:00:00 +0100",
          "title" : "ChessBase Magazine #213: A review"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Thu, 29 Jun 2023 15:30:00 +0100",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
@@ -306,7 +354,7 @@ news_feed (
          "title" : "Collegiate Chess League 2023 Summer Season: Bullet and Bughouse Championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on a topic of his choice. 2023.06.27<br /> Aleksander Mista vs Cemil Can Ali Marandi, European Championship (2017): C63 Ruy Lopez, Schliemann defence, Berger variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1876884\">https://www.chessgames.com/perl/chessgame?gid=1876884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his game from the 2017 European Championship, where he earned his second GM norm. This long game made JJ understand how grandmasters think and prepare. 2023.06.27<br /> Aleksander Mista vs Cemil Can Ali Marandi, European Championship (2017): C63 Ruy Lopez, Schliemann defence, Berger variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1876884\">https://www.chessgames.com/perl/chessgame?gid=1876884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi",
@@ -802,14 +850,6 @@ news_feed (
          "title" : "GCL Day 2: SG Alpine Warriors succumb to Ganges Grandmasters"
       },
       {
-         "description" : "The Saint Louis Chess Club announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins more than twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. Yasser is a four-time U.S. champion, a former world championship candidate and an inductee to the U.S. Chess Hall of Fame.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yasser-seirawan-spokesperson-saint-louis-chess-club",
-         "pubDate" : "Fri, 23 Jun 2023 18:20:00 +0100",
-         "title" : "Yasser Seirawan named spokesperson for the Saint Louis Chess Club"
-      },
-      {
          "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1106,14 +1146,6 @@ news_feed (
          "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski looks at his own game from the 2023 American Continental Championship against FM Angel Gabriel Cordoba. Originally on Twitch. 2023.06.06<br /> Angel Gabriel Cordoba vs. Robert Hungaski, 2023: A13 English, Neo-Catalan<br /> <a href=\"https://lichess.org/broadcast/american-continental-chess-championship-2023/round-7/EGYlqWMt\">https://lichess.org/broadcast/american-continental-chess-championship-20...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/space-harmony-grandmasters-choice-gm-robert-hungaski",
-         "pubDate" : "Mon, 19 Jun 2023 05:14:47 +0000",
-         "title" : "Space & Harmony | Grandmaster's Choice - GM Robert Hungaski"
-      },
-      {
          "description" : " James Canty III entered the fraternity of chess streamers during the pandemic and has not looked back since. He also has entered the world of chess commentary including the recent World Chess Championship. During Memorial Day weekend, The Chess Drum caught up with the social media star and he granted an interview updating the chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/\">James Canty chats with The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1234,14 +1266,6 @@ news_feed (
          "title" : "Indian Juniors Rock JSCC; Raunak Advances To Final Vs. Gukesh"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s recent win over Magnus Carlsen. Recommended rating level: 1800+. 2023.07.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/monday-masters-gm-yasser-seirawan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H3JAAvdy69g.jp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/monday-masters-gm-yasser-seirawan",
-         "pubDate" : "Fri, 16 Jun 2023 19:59:46 +0000",
-         "title" : "Monday Masters' - GM Yasser Seirawan"
-      },
-      {
          "description" : "Chess.com is excited to announce the relaunch of our College Ambassador Program! This program is designed to empower college students to grow the game of chess across their campus while also receiving perks for their college chess club.&#38;nbsp; Ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alice-lee-becomes-im",
          "pubDate" : "Thu, 15 Jun 2023 20:25:00 -0700",
          "title" : "13-Year-Old Alice Lee Earns IM Title"
-      },
-      {
-         "description" : "GM Gukesh D secured his spot in the 2023 Junior Speed Chess Championship Final by winning his semifinal match against GM Pranav V 16.5-10.5. After an unexpectedly strong start by Pranav, where he started the 5+1 portion with a 3-point lead, Guke...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-jscc-semifinals-gukesh",
-         "pubDate" : "Thu, 15 Jun 2023 13:55:00 -0700",
-         "title" : "Gukesh Spreads Wings After Shocking Start, Advances To Final"
       },
       {
          "description" : "",
