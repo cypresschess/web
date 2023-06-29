@@ -138,6 +138,22 @@ news_feed (
          "title" : "Dortmund: Kramnik beats Caruana, takes the lead"
       },
       {
+         "description" : "The U12 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Filippos Oikonomopoulos, Georgios Bougas, Ioannis Kiryttopoulos, Ilias Pitsakis and Ioannis Tselepis. Parallel : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-greek-youth-championship-2023-live/",
+         "pubDate" : "Thu, 29 Jun 2023 02:20:00 +0000",
+         "title" : "U12 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U12 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Filippos Oikonomopoulos, Georgios Bougas, Ioannis Kiryttopoulos, Ilias Pitsakis and Ioannis Tselepis.Chessdom.com will daily []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-greek-youth-championship-2023/",
+         "pubDate" : "Thu, 29 Jun 2023 02:00:00 +0000",
+         "title" : "U12 Greek Youth Championship 2023"
+      },
+      {
          "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -368,22 +384,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/positional-pros-and-cons-beginner-breakdown",
          "pubDate" : "Tue, 27 Jun 2023 20:20:39 +0000",
          "title" : "Positional Pros and Cons | Beginner Breakdown"
-      },
-      {
-         "description" : "The XIX Baltic Pearl 2023 is a 9-round Swiss tournament held from the 26th of June to the 4th of July in &#x141;azy, Poland. The A group is for players above 1700 FIDE rating. The time control is 90 minutes with a 30-second increment beginning from move one. The moves in the broadcast are delayed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xix-baltic-pearl-2023-group-a/",
-         "pubDate" : "Tue, 27 Jun 2023 19:56:38 +0000",
-         "title" : "XIX Baltic Pearl 2023 - Group A"
-      },
-      {
-         "description" : "The 16th Annual Philadelphia International will take place from the 24th to the 28th of June in Philadelphia, Pennsylvania, United States as a 9-round Swiss. The time control is 80 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second delay beginning from move 1. The prize fund []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/16th-annual-philadelphia-international-live/",
-         "pubDate" : "Tue, 27 Jun 2023 19:42:00 +0000",
-         "title" : "16th Annual Philadelphia International - LIVE"
       },
       {
          "description" : "Vishy Anand has defeated Jan-Krzysztof Duda twice in five days. The legend continues to make it look easy. The Poland no.1 sacrificed an exchange and things did not work out for him. Anand's win did not help the team though, as he scored the sole victory for Ganges Grandmasters. Yifan Hou had a great chance to win against Alexandra Kosteniuk. Unfortunately for her, she couldn't find a way in time trouble. Harika Dronavalli and Jonas Buhl Bjerre scored crucial victories for upGrad Mumba Masters to beat Triveni Continetal Kings. Both rematches had the inverse overall match result of their first encounter at this event. There will be two matches tomorrow, starting at 5:30 p.m. local time, 7 p.m",
