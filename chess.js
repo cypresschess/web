@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101365810.cms\" />Koneru Humpy, the former World Rapid Chess Champion from India, emphasised the importance of organising additional chess events specifically for women in the country with an aim to cultivate a larger pool of female players and promote gender equality in the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-koneru-humpy-bats-for-more-chess-tournaments-for-women-in-india/articleshow/101365810.cms",
+         "pubDate" : "Thu, 29 Jun 2023 10:52:51 +0000",
+         "title" : "GM Humpy bats for more chess tournaments for women in India"
+      },
+      {
+         "description" : "In the top match of the seventh round of the Masters at the Prague Chess Festival Ray Robson (pictured) beat Vincent Keymer and with this victory the American took the sole lead with 4.5 out of 7. The other four games ended in draws. In the Challengers, a draw against Jergus Pechac was enough for Benjamin Gledura to defend his sole lead. | Photo: Anezka Kruzikova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-round-7-robson-takes-the-lead",
+         "pubDate" : "Thu, 29 Jun 2023 11:17:09 +0100",
+         "title" : "Prague, Round 7: Robson takes the lead"
+      },
+      {
          "description" : "In his Game of the Week show #574 Merijn van Delft enjoys a fine technical game in the Ruy Lopez, which Vishy Anand won against Levon Aronian at the Global Chess League in Dubai. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anish-giri-lifetime-repertoire-1e4-chessable-course",
          "pubDate" : "Wed, 28 Jun 2023 07:22:00 -0700",
          "title" : "Play 1.e4 Like A Super Grandmaster With Anish Giri's New Chessable Course"
-      },
-      {
-         "description" : "The fifth edition of the Prague Chess Festival is taking place on June 21-30 in the Czech capital. The Masters Tournament is a 10-player single round-robin with Wang Hao, Sam Shankland and defending champion Pentala Harikrishna as the top seeds. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Wed, 28 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101342951.cms\" />Magnus Carlsen, the five-time chess world champion said he is pleasantly surprised with the immense enthusiasm for the game in India. Carlsen believes that this surge of interest marks the commencement of a revolutionary era, an achievement primarily attributed to the legendary Viswanathan Anand. Carlsen, widely recognized as one of the most formidable players in chess, is currently representing the SG Alpine Warriors in the Global Chess League (GCL). He acknowledged that India's consistent production of Grandmasters holds promising prospects for t",
@@ -1576,22 +1584,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/for-king.html",
          "pubDate" : "Thu, 08 Jun 2023 12:30:00 +0000",
          "title" : "For the King"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2447",
-         "pubDate" : "Thu, 08 Jun 2023 11:02:11 +0000",
-         "title" : "2023 Cairns Cup: Zatonskih leads midway through"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/european-seniors-individual-chess-championship-2023/#new_tab",
-         "pubDate" : "Thu, 08 Jun 2023 10:40:43 +0000",
-         "title" : "European Seniors Individual Chess Championship 2023"
       }
    ]
 }
