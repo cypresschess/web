@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While the participants of the No Castling Masters had a rest day, the contenders in the A-Open and the Sportland NRW Cup played the sixth rounds in their respective tournaments. Alexander Donchenko defeated Matthias Bl&uuml;baum for the first time in a classical tournament game to take the sole lead in the open, while Dinara Wagner caught Ruben K&ouml;llner in the lead of the Sportland NRW Cup. | Photo: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d6",
+         "pubDate" : "Fri, 30 Jun 2023 00:20:00 +0100",
+         "title" : "Dortmund: Donchenko sole leader in the open"
+      },
+      {
+         "description" : "Outpost Battle 5.0 is an online chess tournament with &#x20AC;300 prize pool. The event has a time control of 3 min + 2 sec and is a Swiss competition. It starts this July 2 at 9pm CEST. The entry fee is 4 eur, but there is an early bird 25% until this Friday on Outpost. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/outpost-battle-5-0-online-chess-tournament-with-e300-prize-pool/",
+         "pubDate" : "Thu, 29 Jun 2023 20:59:42 +0000",
+         "title" : "Outpost Battle 5.0 - online chess tournament with €300 prize pool"
+      },
+      {
+         "description" : "The Vojvodina Open 2023 is taking place ofrom 29 June to 5 July 2023 in Vojvodina, Serbia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Daniel Howard Fernandez, Pranesh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vojvodina-open-2023-live/",
+         "pubDate" : "Thu, 29 Jun 2023 20:32:34 +0000",
+         "title" : "Vojvodina Open 2023 - LIVE"
+      },
+      {
+         "description" : "TwitchCon Paris takes place on July 8 and 9, 2023, and chess will be well-represented as one of the internet&#39;s most popular games.&#38;nbsp; Some of the biggest names in chess content creation will be present at the convention to meet their fans and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-descends-on-paris-for-twitchcon",
+         "pubDate" : "Thu, 29 Jun 2023 13:17:03 -0700",
+         "title" : "'Falling In Love With The Game': Chess.com Descends On Paris For TwitchCon"
+      },
+      {
          "description" : "One might expect relatively quiet rounds after a day full of excitement. Well, that just does not happen at the Tech Mahindra Global Chess League. In the first match, five out of six games ended decisively. Levon Aronian, Wei Yi and Sara Khadem scored crucial wins for their team, Triveni Continental Kings. Their 3-0 (10-9) victory over Chingari Gulf Titans ensured the team still has mathematical chances to win the event. Andrey Esipenko scored the crucial win for his team, Ganges Grandmasters. Thus, GG are once again atop the standings with 15/24. Tomorrow will be the penultimate day of the double round-robin stage. There will be four matches starting from 3 p.m. local time, 4:30 p.m. IST. |",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +98,12 @@ news_feed (
          "title" : "ChessBase Magazine #213: A review"
       },
       {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Thu, 29 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
+         "description" : "Day eight of the Tech Mahindra Global Chess League 2023 featured two combative matchups that came down to photo finishes. In a match of almost all decisive games, GM Levon Aronian defeated fellow icon, GM Jan-Krzysztof Duda, leading the Triveni ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-8",
+         "pubDate" : "Thu, 29 Jun 2023 06:53:00 -0700",
+         "title" : "Team Aronian, Team Anand Prevail In Photo Finish Matchups"
       },
       {
          "description" : "With two rounds to go the American Grandmaster Ray Robson has the best chances to win the Masters at the Prague Chess Festival. After 7 rounds Robson is sole first with 4.5/7, half a point ahead of Bogdan-Daniel Deac. In round 8 Robson has Black against David Navara. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -122,12 +154,68 @@ news_feed (
          "title" : "Prague, Round 7: Robson takes the lead"
       },
       {
+         "description" : "The Vojvodina Open 2023 is taking place ofrom 29 June to 5 July 2023 in Vojvodina, Serbia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Daniel Howard Fernandez, Pranesh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vojvodina-open-2023/",
+         "pubDate" : "Thu, 29 Jun 2023 08:00:00 +0000",
+         "title" : "Vojvodina Open 2023"
+      },
+      {
          "description" : "In his Game of the Week show #574 Merijn van Delft enjoys a fine technical game in the Ruy Lopez, which Vishy Anand won against Levon Aronian at the Global Chess League in Dubai. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-574-v-anand-vs-l-aronian",
          "pubDate" : "Thu, 29 Jun 2023 08:52:15 +0100",
          "title" : "Game of the Week #574: V. Anand vs L. Aronian"
+      },
+      {
+         "description" : "The G8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Parallel : U16 Greek Youth Championship 2023 / Girls U16 Greek Youth Championship 2023 / U14 Greek Youth Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u8-greek-youth-championship-2023-live/",
+         "pubDate" : "Thu, 29 Jun 2023 06:40:00 +0000",
+         "title" : "Girls U8 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The G8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : U16 Greek Youth Championship 2023 / Girls U16 Greek Youth Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u8-greek-youth-championship-2023/",
+         "pubDate" : "Thu, 29 Jun 2023 06:00:00 +0000",
+         "title" : "Girls U8 Greek Youth Championship 2023"
+      },
+      {
+         "description" : "The U8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Michail Nikitakis, Ioannis Kalonomos, Theodoros Psarrakos, Grigorios Emmanouil Toumpakaris and Georgios Katsamanis. Parallel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u8-greek-youth-championship-2023-live/",
+         "pubDate" : "Thu, 29 Jun 2023 05:40:00 +0000",
+         "title" : "U8 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Michail Nikitakis, Ioannis Kalonomos, Theodoros Psarrakos, Grigorios Emmanouil Toumpakaris and Georgios Katsamanis.Chessdom.com will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u8-greek-youth-championship-2023/",
+         "pubDate" : "Thu, 29 Jun 2023 05:17:00 +0000",
+         "title" : "U8 Greek Youth Championship 2023"
+      },
+      {
+         "description" : "The G10 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Olga Volani, Angeliki Bekiari, Georgia Siskou, Eleonora Kaisa Kiryttopoulou and Maria Varvara Afantiti. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u10-greek-youth-championship-2023-live/",
+         "pubDate" : "Thu, 29 Jun 2023 05:00:00 +0000",
+         "title" : "Girls U10 Greek Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The G10 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Olga Volani, Angeliki Bekiari, Georgia Siskou, Eleonora Kaisa Kiryttopoulou and Maria Varvara Afantiti.Chessdom.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u10-greek-youth-championship-2023/",
+         "pubDate" : "Thu, 29 Jun 2023 04:20:00 +0000",
+         "title" : "Girls U10 Greek Youth Championship 2023"
       },
       {
          "description" : "After his defeat in a spectacular game in the second round, Vladimir Kramnik bounced back on Wednesday with a brilliant positional performance. After the Mayor of Dortmund, Norbert Schilff, made the symbolic first move for him, Kramnik opted for a rather quiet approach with white and gained a small advantage against Fabiano Caruana. Slowly but surely, Kramnik increased his advantage and ended up scoring an important full point. | Photo: Michelle Lassak",
@@ -138,20 +226,12 @@ news_feed (
          "title" : "Dortmund: Kramnik beats Caruana, takes the lead"
       },
       {
-         "description" : "The U12 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Filippos Oikonomopoulos, Georgios Bougas, Ioannis Kiryttopoulos, Ilias Pitsakis and Ioannis Tselepis. Parallel : []",
+         "description" : "The U10 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Charalampos Lampos, Dimitrios Stergatos, Grigorios Tamiolakis, Konstantinos I Ioannidis and Theodoros Diamantidis. Parallel []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-greek-youth-championship-2023-live/",
-         "pubDate" : "Thu, 29 Jun 2023 02:20:00 +0000",
-         "title" : "U12 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U12 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Filippos Oikonomopoulos, Georgios Bougas, Ioannis Kiryttopoulos, Ilias Pitsakis and Ioannis Tselepis.Chessdom.com will daily []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-greek-youth-championship-2023/",
-         "pubDate" : "Thu, 29 Jun 2023 02:00:00 +0000",
-         "title" : "U12 Greek Youth Championship 2023"
+         "link" : "https://www.chessdom.com/u10-greek-youth-championship-2023-live/",
+         "pubDate" : "Thu, 29 Jun 2023 04:00:00 +0000",
+         "title" : "U10 Greek Youth Championship 2023 - LIVE"
       },
       {
          "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
@@ -250,14 +330,6 @@ news_feed (
          "title" : "Girls Club \"Chess for protection\" keeps growing"
       },
       {
-         "description" : "The Girls U14 Greek Youth Championship 2023 is a 18-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Dimitra Alexandri, Vasiliki Alexandri, Evgenia Valeria Platsaki, Chrysi Chasouraki and Kalliopi Sklavounou. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u14-greek-youth-championship-2023-live/",
-         "pubDate" : "Wed, 28 Jun 2023 08:20:00 +0000",
-         "title" : "Girls U14 Greek Youth Championship 2023 - LIVE"
-      },
-      {
          "description" : "Readers will recall the scandal that shook the chess world, when Magnus Carlsen stated he thought US GM Hans Niemann had cheated against him. In spite of endless amounts of speculation and hand-waving, no evidence was ever produced, and Niemann struck back with an eye-watering $100 million-dollar lawsuit. The verdict is in.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,68 +346,12 @@ news_feed (
          "title" : "ECF Counties Championship Final - 1 July"
       },
       {
-         "description" : "The Girls U14 Greek Youth Championship 2023 is a 18-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Dimitra Alexandri, Vasiliki Alexandri, Evgenia Valeria Platsaki, Chrysi Chasouraki and Kalliopi Sklavounou.Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u14-greek-youth-championship-2023/",
-         "pubDate" : "Wed, 28 Jun 2023 08:00:00 +0000",
-         "title" : "Girls U14 Greek Youth Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
          "pubDate" : "Wed, 28 Jun 2023 07:52:13 +0000",
          "title" : "ECF National Schools Final - Thursday 29 and Friday 30 June"
-      },
-      {
-         "description" : "The U14 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Antonios Gkavardinas, Dimitrios Papaioannou, Anastasios Georgiadis, Vasileios Dim Katsanis and Michail Vassis. Parallel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-greek-youth-championship-2023-live/",
-         "pubDate" : "Wed, 28 Jun 2023 07:30:00 +0000",
-         "title" : "U14 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U14 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Antonios Gkavardinas, Dimitrios Papaioannou, Anastasios Georgiadis, Vasileios Dim Katsanis and Michail Vassis. Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-greek-youth-championship-2023/",
-         "pubDate" : "Wed, 28 Jun 2023 07:00:00 +0000",
-         "title" : "U14 Greek Youth Championship 2023"
-      },
-      {
-         "description" : "The Girls U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Maria Kosma, Soumela Athanasiou, Giolanta Kalamoukou, Georgia Christodoulou and Despoina Kalliora. Parallel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-greek-youth-championship-2023-live/",
-         "pubDate" : "Wed, 28 Jun 2023 06:38:00 +0000",
-         "title" : "Girls U16 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Girls U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Maria Kosma, Soumela Athanasiou, Giolanta Kalamoukou, Georgia Christodoulou and Despoina Kalliora. Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-greek-youth-championship-2023/",
-         "pubDate" : "Wed, 28 Jun 2023 06:00:00 +0000",
-         "title" : "Girls U16 Greek Youth Championship 2023"
-      },
-      {
-         "description" : "The U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Nikolaos Poupalos, Nikolaos Kazakos, Christos Tsarsitalidis, Spyros Hartofylakas and Georgios Antonioudakis. Parallel : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-greek-youth-championship-2023-live/",
-         "pubDate" : "Wed, 28 Jun 2023 05:32:00 +0000",
-         "title" : "U16 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U16 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Nikolaos Poupalos, Nikolaos Kazakos, Christos Tsarsitalidis, Spyros Hartofylakas and Georgios Antonioudakis. Chessdom.com will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-greek-youth-championship-2/",
-         "pubDate" : "Wed, 28 Jun 2023 05:00:00 +0000",
-         "title" : "U16 Greek Youth Championship 2023"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Indian Juniors Rock JSCC; Raunak Advances To Final Vs. Gukesh"
       },
       {
-         "description" : "Chess.com is excited to announce the relaunch of our College Ambassador Program! This program is designed to empower college students to grow the game of chess across their campus while also receiving perks for their college chess club.&#38;nbsp; Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-new-college-ambassador-program",
-         "pubDate" : "Fri, 16 Jun 2023 11:22:03 -0700",
-         "title" : "Announcing The New College Ambassador Program"
-      },
-      {
          "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at New Delhi from 08-09 July 23, Pune from 15-16 July 23",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1312,14 +1320,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jun/16/chess-national-solving-championship-2023-open-for-entries-from-britain",
          "pubDate" : "Fri, 16 Jun 2023 07:00:39 +0000",
          "title" : "Chess: national solving championship 2023 open for entries from Britain"
-      },
-      {
-         "description" : "FM Alice Lee earned the international master title at age 13 and reset the record as the youngest American-born female to do so. Lee gained her third IM norm at the 2023 Canadian Transnational Chess Championship, facing eight grandmasters and on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alice-lee-becomes-im",
-         "pubDate" : "Thu, 15 Jun 2023 20:25:00 -0700",
-         "title" : "13-Year-Old Alice Lee Earns IM Title"
       },
       {
          "description" : "",
@@ -1600,14 +1600,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/forthcoming-european-and-world-youth-championships/#new_tab",
          "pubDate" : "Fri, 09 Jun 2023 14:26:16 +0000",
          "title" : "Forthcoming European and World youth chess championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2448",
-         "pubDate" : "Thu, 08 Jun 2023 21:05:40 +0000",
-         "title" : "Winners crowned at FIDE World Rapid U8-18 2023 in Batumi"
       }
    ]
 }
