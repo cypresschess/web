@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM #214 is out. Meanwhile our columnist, Nagesh Havanur takes a look at a recent issue. 2651 games (47 annotated) from WR Masters and European Championship among others. 12 opening surveys, 3 opening videos, 9 demo. lectures and several exercises for training. Annotators include Levon Aronian, Alexey Sarana, Kirill Shevchenko, Vincent Keymer, Gukesh and Praggnanandhaa among others. The icing on the cake is a feature on Viswanathan Anand with 26 annotated games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-213-a-review-by-prof-nagesh-havanur",
+         "pubDate" : "Thu, 29 Jun 2023 17:00:00 +0100",
+         "title" : "ChessBase Magazine #213: A review"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Thu, 29 Jun 2023 15:30:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Thu, 29 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "With two rounds to go the American Grandmaster Ray Robson has the best chances to win the Masters at the Prague Chess Festival. After 7 rounds Robson is sole first with 4.5/7, half a point ahead of Bogdan-Daniel Deac. In round 8 Robson has Black against David Navara. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Thu, 29 Jun 2023 14:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "On 3 July (first game on 4 July), the Women's World Championship match between defending champion Ju Wenjun and challenger Lei Tingjie will begin in Shanghai. The first half of the match will be played in Shanghai and the second half in Chongqing. The prize money is USD 500,000.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-match-for-the-women-s-world-championship-will-start-on-3-july",
+         "pubDate" : "Thu, 29 Jun 2023 14:00:00 +0100",
+         "title" : "The match for the Women's World Championship will start on 3 July"
+      },
+      {
+         "description" : " This terms Interschool competition finished up yesterday in Canberra, and it gives me a chance to write yet another post on \"rules kid's think are real\". NB I have probably mentioned a few of these before <ul style=\"text-align: left;\"><li>You can castle to avoid checkmate - \"Ummm, no\" \"Some people say you can\" \"OK, but I'm the arbiter and I'm telling you you can't castle out of check\" \"But some people say you can\" (Added bonus - he changed the score on the result sheet to show he had won)</li><li>Castling involves exchanging any two pieces on the back rank - To be fair, the player had never seen castling before and was attempting to copy what their opponent had just done</li><li>You both ge",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/even-more-slightly-weird-kids-rules.html",
+         "pubDate" : "Thu, 29 Jun 2023 12:58:00 +0000",
+         "title" : "Even more slightly weird kids rules"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101366634.cms\" />Grandmaster Harika Dronavalli has expressed her concerns over disparity in men's and women's chess in India, emphasizing on the need for improvement to support country's talented young players. Harika, who has three World Championships bronze medals and emerged victorious in the FIDE Women's Grand Prix has played a crucial role in promoting women's chess in India.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-confused-why-there-is-huge-void-in-mens-and-womens-chess-in-india-harika-dronavalli/articleshow/101366634.cms",
+         "pubDate" : "Thu, 29 Jun 2023 11:31:42 +0000",
+         "title" : "I'm confused why there is huge void in men's and women's chess in India: Harika"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101365810.cms\" />Koneru Humpy, the former World Rapid Chess Champion from India, emphasised the importance of organising additional chess events specifically for women in the country with an aim to cultivate a larger pool of female players and promote gender equality in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -754,14 +810,6 @@ news_feed (
          "title" : "Yasser Seirawan named spokesperson for the Saint Louis Chess Club"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King tests the viewers' killer instincts. In the last-round game from Norway Chess between Hikaru Nakamura and Fabiano Caruana, a position arose which was highly tactical and could have led to a swift conclusion! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-test-your-killer-instincts",
-         "pubDate" : "Fri, 23 Jun 2023 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Test your killer instincts"
-      },
-      {
          "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -792,22 +840,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-online-sna/",
          "pubDate" : "Fri, 23 Jun 2023 06:49:18 +0000",
          "title" : "Certificates of Online SNA"
-      },
-      {
-         "description" : "All five games in the Masters section of the Prague Chess Festival finished drawn, leaving Vincent Keymer in the sole lead. Meanwhile, in the Challengers, Matuesz Bartel and Benjamin Gledura both won with white to join Vaclav Finek in the lead with 1&frac12;/2 points. Bartel obtained a fine win over Czech IM Richard Stalmach, whose approach in the French Defence proved ineffective against Bartel's energetic play. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r2",
-         "pubDate" : "Fri, 23 Jun 2023 05:00:00 +0100",
-         "title" : "Prague: Bartel on the attack"
-      },
-      {
-         "description" : "The last time Vishy Anand played a rated tournament game was on 9th October 2022 at European Club Cup. After eight months, the maestro did not show any rust on the board. In fact, he felt very optimistic about his position against Jan-Krzysztof Duda. He felt that his queen and rook were flooding towards the kingside. The other former world champion in his team, Yifan Hou scored the second decisive game of the match against Alexandra Kosteniuk. Thus, Chingari Gulf Titans lost to Ganges Grandmasters 0-3 (4-10) without conceding a single match. Four matches will be played tomorrow starting with SG Alpine Warriors vs Balan Alaskan Knights from 2 p.m. local time. Photo: Jio Cinema live stream",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tech-mahindra-gcl-2023-day-1-report",
-         "pubDate" : "Fri, 23 Jun 2023 01:48:24 +0100",
-         "title" : "Tech Mahindra GCL Day 1: Vishy Anand ensures a smooth sailing for Ganges Grandmasters"
       },
       {
          "description" : "Former World Champions Vishy Anand and Hou Yifan both scored big wins as their team, the Ganges Grandmasters, cruised to victory on day one of the Tech Mahindra Global Chess League 2023 in Dubai.&#38;nbsp;&#38;nbsp; GM Alexander Grischuk was the day&#39;s o...",
@@ -874,28 +906,12 @@ news_feed (
          "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
       },
       {
-         "description" : "In his Game of the Week show #573 Merijn van Delft takes a close look at a line of the Catalan that has recently become popular and seems to offer Black good chances. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-573-xu-zhihang-vs-wei-yi",
-         "pubDate" : "Thu, 22 Jun 2023 11:44:02 +0100",
-         "title" : "Game of the Week #573: Xu Zhihang vs Wei Yi"
-      },
-      {
          "description" : "At the kind invitation of the Lviv Chess Federation, the ECU Secretary General Theodoros Tsorbatzoglou visited the city of Lviv on Tuesday, June 20. Lviv is one of the most active and productive chess cities in World. More than 40 grandmasters were born in Lviv or lived there for several years. Among them Chess legends like Vasily Ivanchuk, Alexander Beliavsky, Adrian Mikhalchishin, women's world champions and top players like GMs Mariya and Anna Muzychuk. After his arrival in Lviv, Mr. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-visits-ukraine/",
          "pubDate" : "Thu, 22 Jun 2023 10:17:44 +0000",
          "title" : "ECU visits #Ukraine"
-      },
-      {
-         "description" : "Regional powerhouse Vietnam continues to dominate in standard chess after six rounds of play. Vietnamese players occupy the top three positions in the Open U-8, Open U-10, Open U-12, Open U-14, Open U-16 and Open U-18 categories, and it is a similar story in the Girls U-8 & U-10 Combined and Girls U-18 categories. | Photos: Peter Long",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/after-six-rounds-at-the-21st-asean-age-group-championships",
-         "pubDate" : "Thu, 22 Jun 2023 10:58:35 +0100",
-         "title" : "The 21st ASEAN+ Age-Group Championships - standings after six rounds"
       },
       {
          "description" : "GM Alexandra Kosteniuk won the B-Cup 2 presented by Chess.com, hosted at Espot Paris on June 17. In the final, she scored a perfect 3-0 to defeat GM Pavel Tregubov.&#38;nbsp; GM Laurent Fressinet and IM Wojtek Sochacki were semifinalists. GM Etienne...",
@@ -1576,14 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2448",
          "pubDate" : "Thu, 08 Jun 2023 21:05:40 +0000",
          "title" : "Winners crowned at FIDE World Rapid U8-18 2023 in Batumi"
-      },
-      {
-         "description" : " I'm heading off to the NSW Open tomorrow. This weekend is quite popular with various chess associations, as it is a good weekend to hold a 3 (or 4) day chess event. Unlike Easter, which is dominated by the Doeberl Cup, each Federation usually does it's own thing. The one change this year is of course the title of the weekend. It kind of feels strange to call it the \"King's Birthday Weekend\". In fact this will be the first title change since I began playing tournament chess, especially as the first weekend event I played in was the NSW Queen's Birthday Weekender way back in 1983. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/for-king.html",
-         "pubDate" : "Thu, 08 Jun 2023 12:30:00 +0000",
-         "title" : "For the King"
       }
    ]
 }
