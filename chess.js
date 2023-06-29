@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #574 Merijn van Delft enjoys a fine technical game in the Ruy Lopez, which Vishy Anand won against Levon Aronian at the Global Chess League in Dubai. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-574-v-anand-vs-l-aronian",
+         "pubDate" : "Thu, 29 Jun 2023 08:52:15 +0100",
+         "title" : "Game of the Week #574: V. Anand vs L. Aronian"
+      },
+      {
          "description" : "After his defeat in a spectacular game in the second round, Vladimir Kramnik bounced back on Wednesday with a brilliant positional performance. After the Mayor of Dortmund, Norbert Schilff, made the symbolic first move for him, Kramnik opted for a rather quiet approach with white and gained a small advantage against Fabiano Caruana. Slowly but surely, Kramnik increased his advantage and ended up scoring an important full point. | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,7 +250,7 @@ news_feed (
          "title" : "Prep, Think, and Play Like a Grandmaster | Grandmaster's Choice - GM JJ Ali Marandi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering explores the chess elements of king safety (castle early and often, weak f-pawns, fishing pole trap), material (be suspicious of free pieces!, elephant trap, liquidation), and piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-pros-and-cons-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bNbU0gtAzU.jpg?itok=eUQsJi6y\" alt",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering explores the chess elements of king safety (castle early and often, weak f-pawns, fishing pole trap), material (be suspicious of free pieces, elephant trap, liquidation), and piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-pros-and-cons-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bNbU0gtAzU.jpg?itok=eUQsJi6y\" alt=",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/positional-pros-and-cons-beginner-breakdown",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/after-six-rounds-at-the-21st-asean-age-group-championships",
          "pubDate" : "Thu, 22 Jun 2023 10:58:35 +0100",
          "title" : "The 21st ASEAN+ Age-Group Championships - standings after six rounds"
-      },
-      {
-         "description" : "The Prague Chess Festival kicked off on Wednesday. Both the Masters and the Challengers saw four draws and a decisive game each. In the Masters, top seed Wang Hao was defeated by German star Vincent Keymer, who got a superior endgame out of a sharp, theoretical variation, and converted it proficiently. In the Challengers, 13-year-old Czech FM Vaclav Finek beat Indian GM Akash G with the white pieces. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r1",
-         "pubDate" : "Thu, 22 Jun 2023 10:50:00 +0100",
-         "title" : "Prague: Keymer stuns Wang"
       },
       {
          "description" : "GM Alexandra Kosteniuk won the B-Cup 2 presented by Chess.com, hosted at Espot Paris on June 17. In the final, she scored a perfect 3-0 to defeat GM Pavel Tregubov.&#38;nbsp; GM Laurent Fressinet and IM Wojtek Sochacki were semifinalists. GM Etienne...",
