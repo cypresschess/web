@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Alpine Warriors, led by Magnus Carlsen, and Ganges Grandmasters, headed by Vishy Anand, are among the front-runners in the six-team franchise chess league Magnus Carlsen's SG Alpine Warriors, where none of the six grandmasters represents an Alpine nation, and Vishy Anand's Ganges Grandmasters, where the Chennai legend is the only Indian, were joint leaders after six of the 10 qualifying rounds leading up to Sunday's final of the franchise-based Tech Mahindra Global Chess League (GCL), but the race remained close. Carlsen has appeared clean-shaven, assured and vigorous, a contrast to <a href=\"https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails\"",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jun/30/magnus-carlsen-vishy-anand-teams-contest-global-chess-league",
+         "pubDate" : "Fri, 30 Jun 2023 07:00:37 +0000",
+         "title" : "Carlsen and Anand teams contest Global Chess League as final beckons"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the offering of different chess-related activities, is pleased to announce that it has signed a three-year partnership agreement (the \"Agreement\") with ITcom Domains LTD ('it.com') for its Armageddon Series. World Chess will receive more than €1.2 million over the course of the Agreement, aimed at opening the world of chess to wider audiences and supporting the chess community. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-06-30_09-34-45.jpg\" width=\"1280\" height=\"780\" alt=\"\" /> <div class=\"e2-text-caption\">P",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-announces-3-year-partnership-with-itcom-domains/",
+         "pubDate" : "Fri, 30 Jun 2023 06:15:00 +0000",
+         "title" : "World Chess announces 3-year partnership with ITcom Domains"
+      },
+      {
          "description" : "While the participants of the No Castling Masters had a rest day, the contenders in the A-Open and the Sportland NRW Cup played the sixth rounds in their respective tournaments. Alexander Donchenko defeated Matthias Bl&uuml;baum for the first time in a classical tournament game to take the sole lead in the open, while Dinara Wagner caught Ruben K&ouml;llner in the lead of the Sportland NRW Cup. | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-8",
          "pubDate" : "Thu, 29 Jun 2023 06:53:00 -0700",
          "title" : "Team Aronian, Team Anand Prevail In Photo Finish Matchups"
-      },
-      {
-         "description" : "With two rounds to go the American Grandmaster Ray Robson has the best chances to win the Masters at the Prague Chess Festival. After 7 rounds Robson is sole first with 4.5/7, half a point ahead of Bogdan-Daniel Deac. In round 8 Robson has Black against David Navara. Follow the games live with computer-assisted analysis starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Thu, 29 Jun 2023 14:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "On 3 July (first game on 4 July), the Women's World Championship match between defending champion Ju Wenjun and challenger Lei Tingjie will begin in Shanghai. The first half of the match will be played in Shanghai and the second half in Chongqing. The prize money is USD 500,000.",
@@ -864,6 +872,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gcl-day-2-sg-alpine-warriors-succumb-to-ganges-grandmasters",
          "pubDate" : "Fri, 23 Jun 2023 22:34:01 +0100",
          "title" : "GCL Day 2: SG Alpine Warriors succumb to Ganges Grandmasters"
+      },
+      {
+         "description" : "The Saint Louis Chess Club announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins more than twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. Yasser is a four-time U.S. champion, a former world championship candidate and an inductee to the U.S. Chess Hall of Fame.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yasser-seirawan-spokesperson-saint-louis-chess-club",
+         "pubDate" : "Fri, 23 Jun 2023 18:20:00 +0100",
+         "title" : "Yasser Seirawan named spokesperson for the Saint Louis Chess Club"
       },
       {
          "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
