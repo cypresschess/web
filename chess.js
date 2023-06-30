@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2486",
+         "pubDate" : "Fri, 30 Jun 2023 22:46:36 +0000",
+         "title" : "Roy Robson wins 2023 Prague Chess Festival Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2485",
+         "pubDate" : "Fri, 30 Jun 2023 20:40:51 +0000",
+         "title" : "GCL Day 9: Triveni Continental Kings join the leaders"
+      },
+      {
+         "description" : "The Ceske Budejovice IM 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. Parallel : Ceske Budejovice GM A 2023 / Ceske Budejovice []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-im-2023-live/",
+         "pubDate" : "Fri, 30 Jun 2023 19:57:36 +0000",
+         "title" : "Ceske Budejovice IM 2023 - LIVE"
+      },
+      {
          "description" : "The Catalan Circuit Torredembarra Open 2023 is taking place from 1&#x2013;9 July 2023 in Torredembarra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Robert Aloma Vidal, Jose Antonio Lacasa Diaz, Albert Castillo Dalmau, Antonio Torrecillas Martinez, Ruslan Pogorelov, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -14,16 +38,32 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-prague-chess-festival-masters-robson-wins",
-         "pubDate" : "Fri, 30 Jun 2023 12:22:14 -0700",
+         "pubDate" : "Fri, 30 Jun 2023 12:22:00 -0700",
          "title" : "Robson Wins Prague Chess Festival Masters In Blitz Tiebreak, Bartel Wins Challengers"
       },
       {
          "description" : "Levon Aronian has beaten Jan-Krzysztof Duda, Magnus Carlsen and Ian Nepomniachtchi in three consecutive must-win situations. Today he defeated Carlsen and Nepo in consecutive games. While the World no.1 allowed the two-time World Cup winner to score a quick 27-move victory, against Nepo he had to grind in the endgame and wait till the former world championship contender blundered. Triveni Continental Kings are now tied with Ganges Grandmasters on 15/27 points. SG Alpine Warriors also have the same match points. However, they still have two matches left. On an eventful day, upGrad Mumba Masters defeated GG 3-0 (10-4) without losing a single game. The last four matches of the double round-robi",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-9-report",
+         "link" : "https://en.chessbase.com/post/gcl-day-9-aronian-astounds-carlsen-and-nepo-triveni-jump-to-third-place",
          "pubDate" : "Fri, 30 Jun 2023 20:05:00 +0100",
-         "title" : "GCL Day 9: Aronian astounds Carlsen and Nepo, Triveni Continental Kings jump to third place"
+         "title" : "GCL Day 9: Aronian astounds Carlsen and Nepo, Triveni jump to third place"
+      },
+      {
+         "description" : "The Ceske Budejovice IM 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske Budejovice []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-im-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 19:00:00 +0000",
+         "title" : "Ceske Budejovice IM 2023"
+      },
+      {
+         "description" : "The Ceske Budejovice Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Vignir Vatnar Stefansson, Piotr []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-open-a-2023-live/",
+         "pubDate" : "Fri, 30 Jun 2023 18:40:00 +0000",
+         "title" : "Ceske Budejovice Open A 2023 - LIVE"
       },
       {
          "description" : "The Catalan Circuit Torredembarra Open 2023 is taking place from 1&#x2013;9 July 2023 in Torredembarra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Robert Aloma Vidal, Jose Antonio Lacasa Diaz, Albert Castillo Dalmau, Antonio Torrecillas Martinez, Ruslan Pogorelov, []",
@@ -34,6 +74,14 @@ news_feed (
          "title" : "Catalan Circuit Torredembarra Open 2023"
       },
       {
+         "description" : "The Ceske Budejovice Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Vignir Vatnar Stefansson, Piotr []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-open-a-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 18:00:00 +0000",
+         "title" : "Ceske Budejovice Open A 2023"
+      },
+      {
          "description" : "The US Chess Federation has published a list of members who have been sanctioned by the organization.&#38;nbsp; A total of 27 members have been sanctioned for a shorter or longer time period. Minors are not named, but their sanction is listed. Amo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,12 +90,36 @@ news_feed (
          "title" : "US Chess Releases List Of Sanctioned Players"
       },
       {
+         "description" : "The Ceske Budejovice GM B 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-gm-b-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 16:00:00 +0000",
+         "title" : "Ceske Budejovice GM B 2023"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aronian-beats-carlsen-to-lead-triveni-continental-kings-win-over-sg-alpine-warriors/articleshow/101401414.cms",
          "pubDate" : "Fri, 30 Jun 2023 15:44:34 +0000",
          "title" : "Aronian beats Carlsen to lead Triveni Continental Kings' win"
+      },
+      {
+         "description" : "The Ceske Budejovice GM A 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. Parallel : Ceske Budejovice GM B 2023 / Ceske []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-gm-a-2023-live/",
+         "pubDate" : "Fri, 30 Jun 2023 14:30:00 +0000",
+         "title" : "Ceske Budejovice GM A 2023 - LIVE"
+      },
+      {
+         "description" : "The Ceske Budejovice GM A 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-gm-a-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 14:00:00 +0000",
+         "title" : "Ceske Budejovice GM A 2023"
       },
       {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
@@ -114,14 +186,6 @@ news_feed (
          "title" : " LIVE GAMES of 49th National Women Chess Championships 2023"
       },
       {
-         "description" : "The Purtichju Open 2023 is taking place from 1-7 July 2023 at the Hotel Club Marina Viva in Purtichju, Corsica, France and is organised by the &#8220;Echecs Club Ajaccien&#8221; and &#8220;Corsican Chess League&#8221;. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Draws by mutual agreement are forbidden.&#xA0;it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/8th-purtichju-open-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 10:00:00 +0000",
-         "title" : "8th Purtichju Open 2023"
-      },
-      {
          "description" : "The ninth and final round of the Prague Chess Festival starts at 11.00, four hours earlier than the previous rounds. In the Masters, Bogdan-Daniel Deac and Ray Robson are joint leaders with 5 out of 8 each, but their pursuers, including Vincent Keymer, still have a chance to secure joint first place. In the Challengers, Mateusz Bartel leads with 5.5 out of 8, but there is still plenty to play for. | Follow the games live with computer-assisted analysis starting at 11.00 CEST (5.00 ET, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,28 +202,12 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam at Bangalore from 26-27 August 2023"
       },
       {
-         "description" : "The 49th Indian Women's Championship is taking place from 30 June to 10 July 2023 in Ahmedabad, Gujarat. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 11-round Swiss tournament with participation of Divya Deshmukh, Rout []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/49th-indian-womens-championship-live/",
-         "pubDate" : "Fri, 30 Jun 2023 08:00:00 +0000",
-         "title" : "49th Indian Women's Championship - LIVE"
-      },
-      {
          "description" : " Alpine Warriors, led by Magnus Carlsen, and Ganges Grandmasters, headed by Vishy Anand, are among the front-runners in the six-team franchise chess league Magnus Carlsen's SG Alpine Warriors, where none of the six grandmasters represents an Alpine nation, and Vishy Anand's Ganges Grandmasters, where the Chennai legend is the only Indian, were joint leaders after six of the 10 qualifying rounds leading up to Sunday's final of the franchise-based Tech Mahindra Global Chess League (GCL), but the race remained close. Carlsen has appeared clean-shaven, assured and vigorous, a contrast to <a href=\"https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails\"",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jun/30/magnus-carlsen-vishy-anand-teams-contest-global-chess-league",
          "pubDate" : "Fri, 30 Jun 2023 07:00:37 +0000",
          "title" : "Carlsen and Anand teams contest Global Chess League as final beckons"
-      },
-      {
-         "description" : "The 3rd Heldur Valgmae Memorial 2023 is taking place on 1 July 2023 in Viljandi, Estonia. Players receive 15 minutes for the entire game, plus a 2-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jaan Ehlvest, Kaido Kulaots, Tomas Laurusas, Normunds Miezis, Toivo Keinanen, Nikita Maiorov, Ottomar Ladva, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-heldur-valgmae-memorial-2023-live/",
-         "pubDate" : "Fri, 30 Jun 2023 07:00:00 +0000",
-         "title" : "3rd Heldur Valgmae Memorial 2023 - LIVE"
       },
       {
          "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the offering of different chess-related activities, is pleased to announce that it has signed a three-year partnership agreement (the \"Agreement\") with ITcom Domains LTD ('it.com') for its Armageddon Series. World Chess will receive more than €1.2 million over the course of the Agreement, aimed at opening the world of chess to wider audiences and supporting the chess community. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-06-30_09-34-45.jpg\" width=\"1280\" height=\"780\" alt=\"\" /> <div class=\"e2-text-caption\">P",
@@ -170,36 +218,12 @@ news_feed (
          "title" : "World Chess announces 3-year partnership with ITcom Domains"
       },
       {
-         "description" : "The 3rd Heldur Valgmae Memorial 2023 is taking place on 1 July 2023 in Viljandi, Estonia. Players receive 15 minutes for the entire game, plus a 2-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jaan Ehlvest, Kaido Kulaots, Tomas Laurusas, Normunds Miezis, Toivo Keinanen, Nikita Maiorov, Ottomar Ladva, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-heldur-valgmae-memorial-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 06:00:00 +0000",
-         "title" : "3rd Heldur Valgmae Memorial 2023"
-      },
-      {
          "description" : "While the participants of the No Castling Masters had a rest day, the contenders in the A-Open and the Sportland NRW Cup played the sixth rounds in their respective tournaments. Alexander Donchenko defeated Matthias Bl&uuml;baum for the first time in a classical tournament game to take the sole lead in the open, while Dinara Wagner caught Ruben K&ouml;llner in the lead of the Sportland NRW Cup. | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d6",
          "pubDate" : "Fri, 30 Jun 2023 00:20:00 +0100",
          "title" : "Dortmund: Donchenko sole leader in the open"
-      },
-      {
-         "description" : "Outpost Battle 5.0 is an online chess tournament with &#x20AC;300 prize pool. The event has a time control of 3 min + 2 sec and is a Swiss competition. It starts this July 2 at 9pm CEST. The entry fee is 4 eur, but there is an early bird 25% until this Friday on Outpost. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/outpost-battle-5-0-online-chess-tournament-with-e300-prize-pool/",
-         "pubDate" : "Thu, 29 Jun 2023 20:59:42 +0000",
-         "title" : "Outpost Battle 5.0 - online chess tournament with €300 prize pool"
-      },
-      {
-         "description" : "The Vojvodina Open 2023 is taking place ofrom 29 June to 5 July 2023 in Vojvodina, Serbia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Daniel Howard Fernandez, Pranesh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vojvodina-open-2023-live/",
-         "pubDate" : "Thu, 29 Jun 2023 20:32:34 +0000",
-         "title" : "Vojvodina Open 2023 - LIVE"
       },
       {
          "description" : "TwitchCon Paris takes place on July 8 and 9, 2023, and chess will be well-represented as one of the internet&#39;s most popular games.&#38;nbsp; Some of the biggest names in chess content creation will be present at the convention to meet their fans and...",
@@ -322,14 +346,6 @@ news_feed (
          "title" : "Prague, Round 7: Robson takes the lead"
       },
       {
-         "description" : "The Vojvodina Open 2023 is taking place ofrom 29 June to 5 July 2023 in Vojvodina, Serbia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Daniel Howard Fernandez, Pranesh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vojvodina-open-2023/",
-         "pubDate" : "Thu, 29 Jun 2023 08:00:00 +0000",
-         "title" : "Vojvodina Open 2023"
-      },
-      {
          "description" : "In his Game of the Week show #574 Merijn van Delft enjoys a fine technical game in the Ruy Lopez, which Vishy Anand won against Levon Aronian at the Global Chess League in Dubai. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,6 +392,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2483",
          "pubDate" : "Wed, 28 Jun 2023 18:32:08 +0000",
          "title" : "GCL Day 7: Carlsen's spectacular victory over Anand lifts SG Alpine Warriors to the top "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2454",
+         "pubDate" : "Wed, 28 Jun 2023 18:09:08 +0000",
+         "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
       },
       {
          "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
@@ -640,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-5-report",
          "pubDate" : "Mon, 26 Jun 2023 19:45:00 +0100",
          "title" : "GCL Day 5: Vishy strikes Aronian, Ganges Grandmasters score gargantuan win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2454",
-         "pubDate" : "Mon, 26 Jun 2023 18:09:08 +0000",
-         "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
       },
       {
          "description" : "GM Hikaru Nakamura made it four wins from four starts in the sixth edition of Bullet Brawl on Saturday, claiming the $400 prize after scoring 59 wins, five draws, and nine losses en route to a winning score of 210 points. Moreso than usual, Naka...",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2449",
          "pubDate" : "Fri, 09 Jun 2023 23:20:44 +0000",
          "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 5 recap"
-      },
-      {
-         "description" : " The streamer with more than a million followers caught the US champion, who had led all the way, in a late trap in a tournament where Magnus Carlsen trailed in sixth after failing to win a classical game Hikaru Nakamura, the grandmaster who gave up classical chess for several years and instead made a career as an online streamer with more than a million followers, scored the best result yet of his comeback on Friday, when he snatched first prize in the final round of the elite event at Stavanger from Fabiano Caruana. The reigning US champion and 2018 world title challenger had led all the way in an event where the world No1 Magnus Carlsen trailed in sixth out of 10. Nakamura's last gasp vic",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails",
-         "pubDate" : "Fri, 09 Jun 2023 20:13:18 +0000",
-         "title" : "Chess: Hikaru Nakamura snatches final round victory from Fabiano Caruana"
       }
    ]
 }
