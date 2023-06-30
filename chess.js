@@ -1624,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2450",
          "pubDate" : "Sat, 10 Jun 2023 00:37:03 +0000",
          "title" : "Hikaru Nakamura wins Norway Chess 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2449",
-         "pubDate" : "Fri, 09 Jun 2023 23:20:44 +0000",
-         "title" : "FIDE World U8-10 Rapid & Blitz and Champions Match: Day 5 recap"
       }
    ]
 }
