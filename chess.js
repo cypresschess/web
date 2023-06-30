@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Fri, 30 Jun 2023 13:00:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "World Championship Match 2023: All seven decided games annotated by Anish Giri, Hou Yifan, Sam Shankland and Wesley So - TePe Sigeman Tournament: Analyses by Peter Svidler, Boris Gelfand, Nils Grandelius, Abhimanyu Mishra and Jorden van Foreest - All-rounder Boris Spassky: \"Special\" with 27 top-class encounters from the period 1949 to 1989 + articles on strategy (Marin) and endgame (Mueller) - Is Scandinavian with 3...Qa5 busted? Martin Lorenzini thinks so - and recommends 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5! - \"How I became U14 World Champion\": Ilamparthi presents the decisive moments together with Sagar Shah - \"Practical tips for the tournament player\": Why are ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-214",
+         "pubDate" : "Fri, 30 Jun 2023 13:00:00 +0100",
+         "title" : "New: ChessBase Magazine #214"
+      },
+      {
+         "description" : "The Prague Chess Festival is drawing to a close, but after eight of nine rounds the battle for tournament victory is still wide open. In the Masters, Bogdan-Daniel Deac (pictured) and Ray Robson lead with 5 out of 8 each, but theoretically five more players have a chance of sharing first place. In the Challengers, Mateusz Bartel is sole leader with 5.5 out of 8, but there are no less than three players within half a point of him. | Photos: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-will-win-in-prague",
+         "pubDate" : "Fri, 30 Jun 2023 11:26:27 +0100",
+         "title" : "Who will win in Prague?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/expensive-experiment/",
+         "pubDate" : "Fri, 30 Jun 2023 11:05:31 +0100",
+         "title" : "Expensive experiment"
+      },
+      {
+         "description" : "Kindly find attached live games link for the 49th National Women Chess Championships 2023 at Rajpath Club Ltd., Ahmedabad, Gujarat from 30th June 2023 to 10th July, 2023. Live games Link",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-of-49th-national-women-chess-championships-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 10:02:15 +0000",
+         "title" : " LIVE GAMES of 49th National Women Chess Championships 2023"
+      },
+      {
+         "description" : "The ninth and final round of the Prague Chess Festival starts at 11.00, four hours earlier than the previous rounds. In the Masters, Bogdan-Daniel Deac and Ray Robson are joint leaders with 5 out of 8 each, but their pursuers, including Vincent Keymer, still have a chance to secure joint first place. In the Challengers, Mateusz Bartel leads with 5.5 out of 8, but there is still plenty to play for. | Follow the games live with computer-assisted analysis starting at 11.00 CEST (5.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
+         "pubDate" : "Fri, 30 Jun 2023 10:50:00 +0100",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "After the end of the Global Chess League in Dubai on 2 July, Magnus Carlsen will travel to Zagreb to play some more speed chess against top opponents in the SuperUnited Rapid & Blitz Croatia tournament, which is part of the Grand Chess Tour. The tournament takes place from 4-9 July and boasts a very strong field. Apart from Carlsen, Firouzja, Caruana, Nepomniachtchi, Duda, Anand, Rapport, Gukesh, Saric and Lupulescu will be playing. | Photo: Carlsen after winning the Superbet Rapid & Blitz in Poland | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-will-play-in-the-next-grand-chess-tour-event-in-zagreb",
+         "pubDate" : "Fri, 30 Jun 2023 10:00:00 +0100",
+         "title" : "Magnus Carlsen will play in the next Grand Chess Tour event in Zagreb"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Karnataka State Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar &#38; Exam from 26-27 August 2023 at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-bangalore-from-26-27-august-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 08:52:34 +0000",
+         "title" : "Senior National Arbiter Seminar & Exam at Bangalore from 26-27 August 2023"
+      },
+      {
          "description" : " Alpine Warriors, led by Magnus Carlsen, and Ganges Grandmasters, headed by Vishy Anand, are among the front-runners in the six-team franchise chess league Magnus Carlsen's SG Alpine Warriors, where none of the six grandmasters represents an Alpine nation, and Vishy Anand's Ganges Grandmasters, where the Chennai legend is the only Indian, were joint leaders after six of the 10 qualifying rounds leading up to Sunday's final of the franchise-based Tech Mahindra Global Chess League (GCL), but the race remained close. Carlsen has appeared clean-shaven, assured and vigorous, a contrast to <a href=\"https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails\"",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -786,20 +850,12 @@ news_feed (
          "title" : "Former Russian Champion Alexander Motylev Switches To Romania"
       },
       {
-         "description" : " We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/when-you-arent-feeling-great/\">Grandmaster Tips To Perform When You Are Not Feeling Great</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : "We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/when-you-arent-feeling-great/",
          "pubDate" : "Sat, 24 Jun 2023 12:00:00 +0000",
          "title" : "Grandmaster Tips To Perform When You Are Not Feeling Great"
-      },
-      {
-         "description" : "After a two-week holiday, the Fast & Furious show is back with a spectacular game from the Prague Challengers event. The encounter features a sharp English opening and the two top seeds of the event, Benjamin Gledura and Erwin l'Ami. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-spectacular-attack-prague",
-         "pubDate" : "Sat, 24 Jun 2023 11:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A spectacular attack in Prague"
       },
       {
          "description" : "Senior National Arbiter Udaipur, Rajasthan Certificates Download Link : Click Here!",
@@ -818,28 +874,12 @@ news_feed (
          "title" : "FIDE World Cup 2023: Official website is launched"
       },
       {
-         "description" : "In the diagram position Black's 17...0-0?? allowed White a classical raid featuring two clever continuations. Can you calculate the lines?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/castling-into-disaster",
-         "pubDate" : "Sat, 24 Jun 2023 09:00:00 +0100",
-         "title" : "Castling into disaster"
-      },
-      {
          "description" : "During his recent visit to the USA to cement relations with President Joe Biden, the Prime Minister, Rishi Sunak, was visibly impressed by the chess club in a Washington school. Pupils were not only actively involved in playing the game, but were also printing 3D sets in rather fetching blue and white livery. Sunak praised []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/snakes-and-leaders/",
          "pubDate" : "Sat, 24 Jun 2023 07:58:38 +0000",
          "title" : "Snakes and Leaders"
-      },
-      {
-         "description" : "Ray Robson joined Vincent Keymer in the lead of the Prague Masters tournament after beating Boris Gelfand in what turned out to be the only decisive game of round 3. Both Robson and Gelfand are known for favouring principled, theoretical lines, and that is precisely what they did in their direct encounter. The young US grandmaster prevailed following an engaging strategic battle. In the Challengers, Mateusz Bartel beat Vaclav Finek and is now the sole leader with 2&frac12;/3 points. | Photo: Anežka Kruž&iacute;kov&aacute;",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r3",
-         "pubDate" : "Sat, 24 Jun 2023 08:00:00 +0100",
-         "title" : "Prague: Robson beats Gelfand"
       },
       {
          "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
@@ -864,22 +904,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-2",
          "pubDate" : "Fri, 23 Jun 2023 15:08:00 -0700",
          "title" : "Carlsen Beats Anand, But Ganges Grandmasters Strike Back"
-      },
-      {
-         "description" : "The highly anticipated match of the day was between SG Alpine Warriors and Ganges Grandmasters. The sole reason could be deduced: it featured the battle between Magnus Carlsen and Vishy Anand. We got a glimpse of the Carlsen we are familiar with - one tiny positional inaccuracy and he will punish you. However, that win did not turn out enough for the team as Richard Rapport and Bella Khotenashvili scored important victories over D Gukesh and Elisabeth Paehtz, which meant SG Alpine Warriors had lost to Ganges Grandmasters (6-11). Balan Alaskan Knights bounced back after their loss against SGAW by defeating upGrad Mumba Masters by a huge margin (5-14). Four matches will be played tomorrow, sta",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gcl-day-2-sg-alpine-warriors-succumb-to-ganges-grandmasters",
-         "pubDate" : "Fri, 23 Jun 2023 22:34:01 +0100",
-         "title" : "GCL Day 2: SG Alpine Warriors succumb to Ganges Grandmasters"
-      },
-      {
-         "description" : "The Saint Louis Chess Club announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins more than twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. Yasser is a four-time U.S. champion, a former world championship candidate and an inductee to the U.S. Chess Hall of Fame.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yasser-seirawan-spokesperson-saint-louis-chess-club",
-         "pubDate" : "Fri, 23 Jun 2023 18:20:00 +0100",
-         "title" : "Yasser Seirawan named spokesperson for the Saint Louis Chess Club"
       },
       {
          "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
@@ -1250,7 +1274,7 @@ news_feed (
          "title" : "A Foundation for Beginners Ninety Five"
       },
       {
-         "description" : " I love making mistakes. Yes, you read that correctly. I have come to realize that making mistakes is not only inevitable but also a powerful catalyst for growth. This might sound counterintuitive, but stick with me. In this article, I will reveal why embracing your chess mistakes can accelerate your progress and ultimately, transform your [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/making-mistakes-is-your-secret-weapon/\">Redefining Chess Mastery: Why Making Mistakes is Your Secret Weapon</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : "I love making mistakes. Yes, you read that correctly. I have come to realize that making mistakes is not only inevitable but also a powerful catalyst for growth. This might sound counterintuitive, but stick with me. In this article, I will reveal why embracing your chess mistakes can accelerate your progress and ultimately, transform your []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/making-mistakes-is-your-secret-weapon/",
@@ -1474,22 +1498,6 @@ news_feed (
          "title" : "ECF Secondary School Rapidplay Chess Tournament"
       },
       {
-         "description" : "2nd Maharastra International Open Grand Masters Chess Tournament(Category A) was held at Nagpur from 1st to 9th June 2023 for a prize fund of Rs.25,00,000/-",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2nd-maharastra-chess-festival-2023-at-nagpur-from-1st-to-9th-june-2023/",
-         "pubDate" : "Mon, 12 Jun 2023 06:38:37 +0000",
-         "title" : "2nd Maharastra Chess Festival 2023 at Nagpur from 1st to 9th June 2023"
-      },
-      {
-         "description" : "Please find the live game links for 14th KIIT International Chess Festival 2023 (Category &#8216;A') Click here for Live Game :",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-links-14th-kiit-international-chess-festival-2023-category-a/",
-         "pubDate" : "Mon, 12 Jun 2023 05:17:11 +0000",
-         "title" : "Live Game links: 14th KIIT International Chess Festival 2023 (Category 'A')"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1554,7 +1562,7 @@ news_feed (
          "title" : "2023 NSW Open - Day 1"
       },
       {
-         "description" : " \"They are stronger than me, so I should listen to them\" is something I hear often. But that's actually only partly true. Because it depends if the advice they give you is pure chess advice or chess improvement advice. What sounds similar is actually totally different: In this article, I will explain the difference between [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-advice/\">Why You Should Avoid Grandmaster Advice (Sometimes)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : "\"They are stronger than me, so I should listen to them\" is something I hear often. But that's actually only partly true. Because it depends if the advice they give you is pure chess advice or chess improvement advice. What sounds similar is actually totally different: In this article, I will explain the difference between []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/chess-advice/",
