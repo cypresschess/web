@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Fri, 30 Jun 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : " (NB Shamelessly stolen from the original Eisenhower Matrix ) Start by thinking about the various skills involved with playing chess. The decide if you (a) Know/Don't know it and (b) it is important/not important Then prioritise according to the following Not important + Don't know - Ignore Important + Don't Know - Learn Not important + Know - Remember Important + Know - Practice The trick is moving these skill topics between categories. When you first start out, Checkmate with KQ or KR is important, so you firstly learn (Don't know -&gt; know), and then practice. After a while you can shift this from Important to Not Important (mainly to make room for more important items), when you simply ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/06/a-quick-prioritisation-tool-for-chess.html",
+         "pubDate" : "Fri, 30 Jun 2023 13:07:00 +0000",
+         "title" : "A quick prioritisation tool for chess"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/expensive-experiment/",
+         "pubDate" : "Fri, 30 Jun 2023 13:56:14 +0100",
+         "title" : "Expensive experiment"
+      },
+      {
          "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/who-will-win-in-prague",
          "pubDate" : "Fri, 30 Jun 2023 11:26:27 +0100",
          "title" : "Who will win in Prague?"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/expensive-experiment/",
-         "pubDate" : "Fri, 30 Jun 2023 11:05:31 +0100",
-         "title" : "Expensive experiment"
       },
       {
          "description" : "Kindly find attached live games link for the 49th National Women Chess Championships 2023 at Rajpath Club Ltd., Ahmedabad, Gujarat from 30th June 2023 to 10th July, 2023. Live games Link",
@@ -159,7 +175,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-pogchamps-5",
          "pubDate" : "Thu, 29 Jun 2023 10:12:00 -0700",
-         "title" : "Pogchamps 5 Is Ready For Lift-Off! Chess.com's Spectacular Battle Of The Creators Is Back"
+         "title" : "PogChamps 5 Is Ready For Liftoff! Chess.com's Spectacular Battle Of The Creators Is Back"
       },
       {
          "description" : "In today's Fast & Furious show Robert Ris takes a look at a game, in which Jorden Van Foreest convincingly defeated Radoslaw Wojtaszek in a popular line of the Ruy Lopez. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-3",
          "pubDate" : "Sat, 24 Jun 2023 15:47:00 -0700",
          "title" : "Wei Yi, Team Anand Keep On Winning"
-      },
-      {
-         "description" : "Ganges Grandmasters maintain their sole lead by beating Balan Alaskan Knights 3-0 (11-6). Leinier Dominguez's win over Teimour Radjabov certainly set the tone for the team. Bella Khotenashvili and Andrey Esipenko ensured the team gets some more valuable game points. Triveni Continental Kings started the day by losing their match against SG Alpine Warriors 0-3 (7-8). However, they bounced back by finishing the day with a victory over Balan Alaskan Knights. Both TCK and SGAW have the same match points (9) currently, the former having one more match played than the latter. The week ends with four matches tomorrow, starting with upGrad Mumba Masters vs Ganges Grandmasters from 3 p.m. local time,",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-3-report",
-         "pubDate" : "Sat, 24 Jun 2023 20:30:00 +0100",
-         "title" : "GCL Day 3: Ganges Grandmasters remain invincible, Continental Kings climb up"
       },
       {
          "description" : "",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
          "pubDate" : "Fri, 9 Jun 2023 20:17:00 +0400",
          "title" : "11th Norway Chess 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Juniors/forthcoming-european-and-world-youth-championships/#new_tab",
-         "pubDate" : "Fri, 09 Jun 2023 14:26:16 +0000",
-         "title" : "Forthcoming European and World youth chess championships"
       }
    ]
 }
