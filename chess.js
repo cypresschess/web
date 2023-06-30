@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Catalan Circuit Torredembarra Open 2023 is taking place from 1&#x2013;9 July 2023 in Torredembarra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Robert Aloma Vidal, Jose Antonio Lacasa Diaz, Albert Castillo Dalmau, Antonio Torrecillas Martinez, Ruslan Pogorelov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/catalan-circuit-torredembarra-open-2023-live/",
+         "pubDate" : "Fri, 30 Jun 2023 19:26:48 +0000",
+         "title" : "Catalan Circuit Torredembarra Open 2023 - LIVE"
+      },
+      {
+         "description" : "GM Ray Robson won the Prague Chess Festival Masters after finishing in shared first with GM Bogan-Daniel Deac on 5.5/9 points. In the blitz tiebreak, the American grandmaster won the first game with Black and then offered a draw in a winning posit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-prague-chess-festival-masters-robson-wins",
+         "pubDate" : "Fri, 30 Jun 2023 12:22:14 -0700",
+         "title" : "Robson Wins Prague Chess Festival Masters In Blitz Tiebreak, Bartel Wins Challengers"
+      },
+      {
+         "description" : "Levon Aronian has beaten Jan-Krzysztof Duda, Magnus Carlsen and Ian Nepomniachtchi in three consecutive must-win situations. Today he defeated Carlsen and Nepo in consecutive games. While the World no.1 allowed the two-time World Cup winner to score a quick 27-move victory, against Nepo he had to grind in the endgame and wait till the former world championship contender blundered. Triveni Continental Kings are now tied with Ganges Grandmasters on 15/27 points. SG Alpine Warriors also have the same match points. However, they still have two matches left. On an eventful day, upGrad Mumba Masters defeated GG 3-0 (10-4) without losing a single game. The last four matches of the double round-robi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-9-report",
+         "pubDate" : "Fri, 30 Jun 2023 20:05:00 +0100",
+         "title" : "GCL Day 9: Aronian astounds Carlsen and Nepo, Triveni Continental Kings jump to third place"
+      },
+      {
+         "description" : "The Catalan Circuit Torredembarra Open 2023 is taking place from 1&#x2013;9 July 2023 in Torredembarra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Robert Aloma Vidal, Jose Antonio Lacasa Diaz, Albert Castillo Dalmau, Antonio Torrecillas Martinez, Ruslan Pogorelov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/catalan-circuit-torredembarra-open-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 18:20:00 +0000",
+         "title" : "Catalan Circuit Torredembarra Open 2023"
+      },
+      {
+         "description" : "The US Chess Federation has published a list of members who have been sanctioned by the organization.&#38;nbsp; A total of 27 members have been sanctioned for a shorter or longer time period. Minors are not named, but their sanction is listed. Amo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/named-and-shamed-the-players-sanctioned-by-us-chess",
+         "pubDate" : "Fri, 30 Jun 2023 10:01:08 -0700",
+         "title" : "US Chess Releases List Of Sanctioned Players"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aronian-beats-carlsen-to-lead-triveni-continental-kings-win-over-sg-alpine-warriors/articleshow/101401414.cms",
+         "pubDate" : "Fri, 30 Jun 2023 15:44:34 +0000",
+         "title" : "Aronian beats Carlsen to lead Triveni Continental Kings' win"
+      },
+      {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +74,28 @@ news_feed (
          "title" : "Expensive experiment"
       },
       {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Fri, 30 Jun 2023 13:00:00 +0100",
-         "title" : "Global Chess League - Live!"
-      },
-      {
          "description" : "World Championship Match 2023: All seven decided games annotated by Anish Giri, Hou Yifan, Sam Shankland and Wesley So - TePe Sigeman Tournament: Analyses by Peter Svidler, Boris Gelfand, Nils Grandelius, Abhimanyu Mishra and Jorden van Foreest - All-rounder Boris Spassky: \"Special\" with 27 top-class encounters from the period 1949 to 1989 + articles on strategy (Marin) and endgame (Mueller) - Is Scandinavian with 3...Qa5 busted? Martin Lorenzini thinks so - and recommends 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5! - \"How I became U14 World Champion\": Ilamparthi presents the decisive moments together with Sagar Shah - \"Practical tips for the tournament player\": Why are ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-214",
          "pubDate" : "Fri, 30 Jun 2023 13:00:00 +0100",
          "title" : "New: ChessBase Magazine #214"
+      },
+      {
+         "description" : "The Purtichju Open 2023 is taking place from 1-7 July 2023 at the Hotel Club Marina Viva in Purtichju, Corsica, France and is organised by the &#8220;Echecs Club Ajaccien&#8221; and &#8220;Corsican Chess League&#8221;. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Draws by mutual agreement are forbidden.&#xA0;it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/8th-purtichju-open-2023-live/",
+         "pubDate" : "Fri, 30 Jun 2023 11:00:00 +0000",
+         "title" : "8th Purtichju Open 2023 - LIVE"
+      },
+      {
+         "description" : "After the end of the Global Chess League in Dubai on 2 July, Magnus Carlsen will travel to Zagreb to play some more speed chess against top opponents in the SuperUnited Rapid & Blitz Croatia tournament, which is part of the Grand Chess Tour. The tournament takes place from 4-9 July and boasts a very strong field. Apart from Carlsen, Firouzja, Caruana, Nepomniachtchi, Duda, Anand, Rapport, Gukesh, Saric and Lupulescu will be playing. | Photo: Carlsen after winning the Superbet Rapid & Blitz in Poland | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-will-play-in-the-next-grand-chess-tour-event-in-zagreb",
+         "pubDate" : "Fri, 30 Jun 2023 11:30:00 +0100",
+         "title" : "Magnus Carlsen will play in the next Grand Chess Tour event in Zagreb"
       },
       {
          "description" : "The Prague Chess Festival is drawing to a close, but after eight of nine rounds the battle for tournament victory is still wide open. In the Masters, Bogdan-Daniel Deac (pictured) and Ray Robson lead with 5 out of 8 each, but theoretically five more players have a chance of sharing first place. In the Challengers, Mateusz Bartel is sole leader with 5.5 out of 8, but there are no less than three players within half a point of him. | Photos: Petr Vrabec",
@@ -58,20 +114,20 @@ news_feed (
          "title" : " LIVE GAMES of 49th National Women Chess Championships 2023"
       },
       {
+         "description" : "The Purtichju Open 2023 is taking place from 1-7 July 2023 at the Hotel Club Marina Viva in Purtichju, Corsica, France and is organised by the &#8220;Echecs Club Ajaccien&#8221; and &#8220;Corsican Chess League&#8221;. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Draws by mutual agreement are forbidden.&#xA0;it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/8th-purtichju-open-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 10:00:00 +0000",
+         "title" : "8th Purtichju Open 2023"
+      },
+      {
          "description" : "The ninth and final round of the Prague Chess Festival starts at 11.00, four hours earlier than the previous rounds. In the Masters, Bogdan-Daniel Deac and Ray Robson are joint leaders with 5 out of 8 each, but their pursuers, including Vincent Keymer, still have a chance to secure joint first place. In the Challengers, Mateusz Bartel leads with 5.5 out of 8, but there is still plenty to play for. | Follow the games live with computer-assisted analysis starting at 11.00 CEST (5.00 ET, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
          "pubDate" : "Fri, 30 Jun 2023 10:50:00 +0100",
          "title" : "Prague Chess Festival - Live!"
-      },
-      {
-         "description" : "After the end of the Global Chess League in Dubai on 2 July, Magnus Carlsen will travel to Zagreb to play some more speed chess against top opponents in the SuperUnited Rapid & Blitz Croatia tournament, which is part of the Grand Chess Tour. The tournament takes place from 4-9 July and boasts a very strong field. Apart from Carlsen, Firouzja, Caruana, Nepomniachtchi, Duda, Anand, Rapport, Gukesh, Saric and Lupulescu will be playing. | Photo: Carlsen after winning the Superbet Rapid & Blitz in Poland | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-will-play-in-the-next-grand-chess-tour-event-in-zagreb",
-         "pubDate" : "Fri, 30 Jun 2023 10:00:00 +0100",
-         "title" : "Magnus Carlsen will play in the next Grand Chess Tour event in Zagreb"
       },
       {
          "description" : "On behalf of All India Chess Federation, Karnataka State Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar &#38; Exam from 26-27 August 2023 at",
@@ -82,6 +138,14 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam at Bangalore from 26-27 August 2023"
       },
       {
+         "description" : "The 49th Indian Women's Championship is taking place from 30 June to 10 July 2023 in Ahmedabad, Gujarat. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 11-round Swiss tournament with participation of Divya Deshmukh, Rout []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/49th-indian-womens-championship-live/",
+         "pubDate" : "Fri, 30 Jun 2023 08:00:00 +0000",
+         "title" : "49th Indian Women's Championship - LIVE"
+      },
+      {
          "description" : " Alpine Warriors, led by Magnus Carlsen, and Ganges Grandmasters, headed by Vishy Anand, are among the front-runners in the six-team franchise chess league Magnus Carlsen's SG Alpine Warriors, where none of the six grandmasters represents an Alpine nation, and Vishy Anand's Ganges Grandmasters, where the Chennai legend is the only Indian, were joint leaders after six of the 10 qualifying rounds leading up to Sunday's final of the franchise-based Tech Mahindra Global Chess League (GCL), but the race remained close. Carlsen has appeared clean-shaven, assured and vigorous, a contrast to <a href=\"https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails\"",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -90,12 +154,28 @@ news_feed (
          "title" : "Carlsen and Anand teams contest Global Chess League as final beckons"
       },
       {
+         "description" : "The 3rd Heldur Valgmae Memorial 2023 is taking place on 1 July 2023 in Viljandi, Estonia. Players receive 15 minutes for the entire game, plus a 2-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jaan Ehlvest, Kaido Kulaots, Tomas Laurusas, Normunds Miezis, Toivo Keinanen, Nikita Maiorov, Ottomar Ladva, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-heldur-valgmae-memorial-2023-live/",
+         "pubDate" : "Fri, 30 Jun 2023 07:00:00 +0000",
+         "title" : "3rd Heldur Valgmae Memorial 2023 - LIVE"
+      },
+      {
          "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the offering of different chess-related activities, is pleased to announce that it has signed a three-year partnership agreement (the \"Agreement\") with ITcom Domains LTD ('it.com') for its Armageddon Series. World Chess will receive more than €1.2 million over the course of the Agreement, aimed at opening the world of chess to wider audiences and supporting the chess community. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-06-30_09-34-45.jpg\" width=\"1280\" height=\"780\" alt=\"\" /> <div class=\"e2-text-caption\">P",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-announces-3-year-partnership-with-itcom-domains/",
          "pubDate" : "Fri, 30 Jun 2023 06:15:00 +0000",
          "title" : "World Chess announces 3-year partnership with ITcom Domains"
+      },
+      {
+         "description" : "The 3rd Heldur Valgmae Memorial 2023 is taking place on 1 July 2023 in Viljandi, Estonia. Players receive 15 minutes for the entire game, plus a 2-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jaan Ehlvest, Kaido Kulaots, Tomas Laurusas, Normunds Miezis, Toivo Keinanen, Nikita Maiorov, Ottomar Ladva, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-heldur-valgmae-memorial-2023/",
+         "pubDate" : "Fri, 30 Jun 2023 06:00:00 +0000",
+         "title" : "3rd Heldur Valgmae Memorial 2023"
       },
       {
          "description" : "While the participants of the No Castling Masters had a rest day, the contenders in the A-Open and the Sportland NRW Cup played the sixth rounds in their respective tournaments. Alexander Donchenko defeated Matthias Bl&uuml;baum for the first time in a classical tournament game to take the sole lead in the open, while Dinara Wagner caught Ruben K&ouml;llner in the lead of the Sportland NRW Cup. | Photo: Michelle Lassak",
@@ -258,68 +338,12 @@ news_feed (
          "title" : "Game of the Week #574: V. Anand vs L. Aronian"
       },
       {
-         "description" : "The G8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Parallel : U16 Greek Youth Championship 2023 / Girls U16 Greek Youth Championship 2023 / U14 Greek Youth Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u8-greek-youth-championship-2023-live/",
-         "pubDate" : "Thu, 29 Jun 2023 06:40:00 +0000",
-         "title" : "Girls U8 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The G8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : U16 Greek Youth Championship 2023 / Girls U16 Greek Youth Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u8-greek-youth-championship-2023/",
-         "pubDate" : "Thu, 29 Jun 2023 06:00:00 +0000",
-         "title" : "Girls U8 Greek Youth Championship 2023"
-      },
-      {
-         "description" : "The U8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Michail Nikitakis, Ioannis Kalonomos, Theodoros Psarrakos, Grigorios Emmanouil Toumpakaris and Georgios Katsamanis. Parallel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u8-greek-youth-championship-2023-live/",
-         "pubDate" : "Thu, 29 Jun 2023 05:40:00 +0000",
-         "title" : "U8 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U8 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Michail Nikitakis, Ioannis Kalonomos, Theodoros Psarrakos, Grigorios Emmanouil Toumpakaris and Georgios Katsamanis.Chessdom.com will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u8-greek-youth-championship-2023/",
-         "pubDate" : "Thu, 29 Jun 2023 05:17:00 +0000",
-         "title" : "U8 Greek Youth Championship 2023"
-      },
-      {
-         "description" : "The G10 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Olga Volani, Angeliki Bekiari, Georgia Siskou, Eleonora Kaisa Kiryttopoulou and Maria Varvara Afantiti. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u10-greek-youth-championship-2023-live/",
-         "pubDate" : "Thu, 29 Jun 2023 05:00:00 +0000",
-         "title" : "Girls U10 Greek Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The G10 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Olga Volani, Angeliki Bekiari, Georgia Siskou, Eleonora Kaisa Kiryttopoulou and Maria Varvara Afantiti.Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u10-greek-youth-championship-2023/",
-         "pubDate" : "Thu, 29 Jun 2023 04:20:00 +0000",
-         "title" : "Girls U10 Greek Youth Championship 2023"
-      },
-      {
          "description" : "After his defeat in a spectacular game in the second round, Vladimir Kramnik bounced back on Wednesday with a brilliant positional performance. After the Mayor of Dortmund, Norbert Schilff, made the symbolic first move for him, Kramnik opted for a rather quiet approach with white and gained a small advantage against Fabiano Caruana. Slowly but surely, Kramnik increased his advantage and ended up scoring an important full point. | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d5",
          "pubDate" : "Thu, 29 Jun 2023 05:10:00 +0100",
          "title" : "Dortmund: Kramnik beats Caruana, takes the lead"
-      },
-      {
-         "description" : "The U10 Greek Youth Championship 2023 is a 9-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Peristeri, Greece. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Charalampos Lampos, Dimitrios Stergatos, Grigorios Tamiolakis, Konstantinos I Ioannidis and Theodoros Diamantidis. Parallel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u10-greek-youth-championship-2023-live/",
-         "pubDate" : "Thu, 29 Jun 2023 04:00:00 +0000",
-         "title" : "U10 Greek Youth Championship 2023 - LIVE"
       },
       {
          "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
@@ -1146,14 +1170,6 @@ news_feed (
          "title" : "Armenia wins European Pair Blitz Chess Championship"
       },
       {
-         "description" : "In a final loaded with stunning tactical play and amazing counterstrikes, GM Gukesh D. defeated GM Raunak Sadhwani by a seven-point margin to become the 2023 Junior Speed Chess Champion. Currently ranked number 13 in the world, Gukesh earned $21...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-jscc-final-gukesh",
-         "pubDate" : "Mon, 19 Jun 2023 14:24:00 -0700",
-         "title" : "Unbelievable Counterstrikes: Gukesh Wins 2023 JSCC"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"> <p dir=\"ltr\"><strong>SAINT LOUIS, June 20, 2023 -</strong> With one round to spare, International Master (IM) Anna Zatonskih defied the odds to win the 2023 Cairns Cup. The four-time U.S. Women's Champion called the win her best achievement of her chess career as she took the grand prize of $45,000, despite starting as the lowest-rated player in the field. Zatonskih also earned her first norm toward the Grandmaster (GM) title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2456",
          "pubDate" : "Sat, 17 Jun 2023 01:39:30 +0000",
          "title" : "FIDE World Cup 2023: Useful information for players"
-      },
-      {
-         "description" : "GM Raunak Sadhwani convincingly defeated GM Denis Lazavik to attain the second spot in the 2023 Junior Speed Chess Championship Final. The match was a one-sided affair in the first two segments, and despite an early scare in the bullet, Raunak reg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-jscc-semifinals-raunak",
-         "pubDate" : "Fri, 16 Jun 2023 13:26:00 -0700",
-         "title" : "Indian Juniors Rock JSCC; Raunak Advances To Final Vs. Gukesh"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at New Delhi from 08-09 July 23, Pune from 15-16 July 23",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails",
          "pubDate" : "Fri, 09 Jun 2023 20:13:18 +0000",
          "title" : "Chess: Hikaru Nakamura snatches final round victory from Fabiano Caruana"
-      },
-      {
-         "description" : " The 11th Norway Chess tournament took place Monday 29th May (blitz tournament) to Fri 9th Jun 2023. Players: Magnus Carlsen, Alireza Firouzja, Hikaru Nakamura, Anish Giri, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, D Gukesh, Nodirbek Abdusattorov and Aryan Tari. The event has had a unique format for a number of years, wins are worth three points, a draw leads to an Armageddon game after which the winner gets 1.5 points and the loser 1 point. Hikaru Nakamura took clear first place after defeating Fabiano Caruana in the final round. World number one Magnus Carlsen was a long way off the pace and finished with one loss and eight draws. He did manage to win all but the final Armageddon ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-norway-chess-2023",
-         "pubDate" : "Fri, 9 Jun 2023 20:17:00 +0400",
-         "title" : "11th Norway Chess 2023 - Games and Results"
       }
    ]
 }
