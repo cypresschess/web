@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-06-02  - 06-30","10","<a href=http://www.uschess.org/msa/XtblMain.php?202306300392 target='_blank'>REBECCA CHESS CLUB JUNE MONTHLY SWI</a>",
+"HOUSTON","2023-06-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202306300352 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 30, 2023</a>",
 "HOUSTON","2023-06-06  - 06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202306278942 target='_blank'>JUNE 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-06-05  - 06-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202306268132 target='_blank'>CLCC JUNE MONDAYS</a>",
 "HOUSTON","2023-06-24  - 06-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306257162 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2023</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2022-11-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202211110102 target='_blank'>FBCC 2022 VETERANS DAY OPEN/FBCC 20</a>",
 "PEARLAND","2022-11-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202211088792 target='_blank'>RCC QUADS NOVEMBER 8, 2022</a>",
 "HOUSTON","2022-11-06","9","<a href=http://www.uschess.org/msa/XtblMain.php?202211067822 target='_blank'>NOVEMBER 6 SUNDAY SWISS</a>",
-"HOUSTON","2022-11-05","43","<a href=http://www.uschess.org/msa/XtblMain.php?202211057552 target='_blank'>PISD NOV 2022- NOVEMBER 2022 HS</a>",
-"LEAGUE CITY","2022-11-05","141","<a href=http://www.uschess.org/msa/XtblMain.php?202211057262 target='_blank'>HYDE ELEMENTARY SCHOOL CHESS TOURNA</a>",
 ]);
