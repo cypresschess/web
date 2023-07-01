@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final day of the double round-robin stage started with SG Alpine Warrior's loss against Chingari Gulf Titans 0-3 (7-8). Magnus Carlsen won the sole game for his team as he beat Jan-Krzysztof Duda. However, Shakhriyar Mamedyarov's win over Gukesh gave CGT a crucial victory as all the remaining games ended in draws. Then, Triveni Continental Kings eliminated Ganges Grandmasters by beating them 3-0 (11-6). Wei Yi, Sara Khadem and Jonas Buhl Bjerre scored key wins, which helped the team (TCK) secure a spot in the Finals. SG Alpine Warriors suffered a shockingly huge defeat by 0-3 (2-18) against upGrad Mumba Masters. Alexander Grischuk, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli's win",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-10-report",
+         "pubDate" : "Sat, 01 Jul 2023 20:10:00 +0100",
+         "title" : "Global Chess League: Triveni Continental Kings will face upGrad Mumba Masters in the Finals"
+      },
+      {
+         "description" : " &#8220;Teaching young men to be the leaders they were born to be&#8221; &#8220;Coming of Kings&#8221; is a community organization based in Baltimore, Maryland is using chess as platform &#8220;to involve boys in positive interaction with positive successful men in preparation for adolescence and adulthood.&#8221; The group meets every Saturday for sessions on a wide range The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/01/coming-of-kings-empowerment-through-chess/\">Coming of Kings Empowerment through Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/01/coming-of-kings-empowerment-through-chess/",
+         "pubDate" : "Sat, 01 Jul 2023 16:00:04 +0000",
+         "title" : "Coming of Kings&hellip; Empowerment through Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101421470.cms\" />Triveni Continental Kings beat Ganges Grandmasters, led by five-time world champion Viswanathan Anand, 11-6 to become the first team to qualify for the finals of the inaugural edition of the Global Chess League here on Saturday. In the other match of the day, Chingari Gulf Titans defeated SG Alpine Warriors 8-7.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/triveni-continental-kings-first-team-to-qualify-for-global-chess-league-finals/articleshow/101421470.cms",
+         "pubDate" : "Sat, 01 Jul 2023 15:37:39 +0000",
+         "title" : "Triveni Continental Kings first team to qualify for Global Chess League finals"
+      },
+      {
          "description" : "While humankind has yet to answer the age-old question &#34;Who let the dogs out,&#34; there&#39;s one thing we do know: You can now play chess against humans&#39; adorable best friends. Meet IM Levy Rozman&#39;s dog Benji, Wishboy, Buddy Buckets, Pinky, and GM Levon...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "Dortmund Chess Festival - Live!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2487",
+         "pubDate" : "Sat, 01 Jul 2023 13:15:30 +0000",
+         "title" : "The rise of China as a chess power"
+      },
+      {
          "description" : " Street Chess continues to amuse, with a wide collection of the very best and the very worst of chess. Landing more in the former category than the latter is a game that was played in today's edition. Black quickly loses control of the squares around his king, enabling White to drag the king into the centre, and then finding one of the rarest checkmates. <br /> <b>Albert,Max - Rawat,Dhruv [B45]</b><br /> Street Chess ---, 01.07.2023 <script> new PgnViewer( { boardName: \"game1406\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.d4 e6 4.Nc3 cxd4 5.Nxd4 Nge7 6.Ndb5 d5 7.exd5 exd5 8.Bf4 d4 9.Nd6+ Kd7 10.Nxf7 Qe8 11.Qg4+ Nf5+ 12.Ne5+ Nxe5 13.Qxf5+ Qe6 14.Bb5+ Kd6 15.Ne4+ Kd5 16.c4+ dxc3 1",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-continentals-a-rsum",
          "pubDate" : "Sat, 01 Jul 2023 13:00:00 +0100",
          "title" : "Asian Continentals, a r&eacute;sum&eacute;"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Sat, 01 Jul 2023 13:00:00 +0100",
-         "title" : "Global Chess League - Live!"
       },
       {
          "description" : "In my column Prelude to Armageddon, I dwelt on the abundance of Jewish chess masters from the second half of the 19th century, which continued well into the 20th century. Famous names proliferate, imbued with the rich cultural heritage of the Central European Jewish environment. Their names include: Johannes Zukertort, Wilhelm Steinitz, Emanuel Lasker, Siegbert Tarrasch, Jacques Mieses, []",
@@ -1600,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2451",
          "pubDate" : "Sat, 10 Jun 2023 20:30:32 +0000",
          "title" : "World Cadets & Youth Blitz Championship 2023 starts in Batumi"
-      },
-      {
-         "description" : "The 2023 Norway Chess concluded yesterday in Stavanger, Norway after a thrilling last-round game that determined the Winners! The last round saw a direct encounter for the first place between Hikaru Nakamura (USA, 2775) and Fabiano Caruana (USA, 2764). Hikaru Nakamura needed a victory to claim the first place, since Fabiano Caruana had the lead before the last round. Nakamura chose to play Fried liver attack as white, scored the victory, and emerged as the sole winner of the event []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/hikaru-nakamura-wins-norway-chess-2023/",
-         "pubDate" : "Sat, 10 Jun 2023 18:48:12 +0000",
-         "title" : "Hikaru Nakamura wins Norway Chess 2023"
       }
    ]
 }
