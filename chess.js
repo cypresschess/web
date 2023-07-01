@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While humankind has yet to answer the age-old question &#34;Who let the dogs out,&#34; there&#39;s one thing we do know: You can now play chess against humans&#39; adorable best friends. Meet IM Levy Rozman&#39;s dog Benji, Wishboy, Buddy Buckets, Pinky, and GM Levon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dog-bots",
+         "pubDate" : "Sat, 01 Jul 2023 08:00:00 -0700",
+         "title" : "Hide Your Homework! The New Dog Bots Are Here"
+      },
+      {
+         "description" : "For most people, chess is a fun and great hobby. If done right, it can be so much more than that. As I've written in my retirement announcement, chess has been the most incredible school of life I could ever imagine. I learned to: Be ambitious, plan ahead, reflect on my own actions, make decisions []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-improvement/",
+         "pubDate" : "Sat, 01 Jul 2023 14:00:00 +0000",
+         "title" : "Chess Improvement: Key to a Better Life"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Sat, 01 Jul 2023 15:00:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : " Street Chess continues to amuse, with a wide collection of the very best and the very worst of chess. Landing more in the former category than the latter is a game that was played in today's edition. Black quickly loses control of the squares around his king, enabling White to drag the king into the centre, and then finding one of the rarest checkmates. <br /> <b>Albert,Max - Rawat,Dhruv [B45]</b><br /> Street Chess ---, 01.07.2023 <script> new PgnViewer( { boardName: \"game1406\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.d4 e6 4.Nc3 cxd4 5.Nxd4 Nge7 6.Ndb5 d5 7.exd5 exd5 8.Bf4 d4 9.Nd6+ Kd7 10.Nxf7 Qe8 11.Qg4+ Nf5+ 12.Ne5+ Nxe5 13.Qxf5+ Qe6 14.Bb5+ Kd6 15.Ne4+ Kd5 16.c4+ dxc3 1",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/castles-for-mate.html",
+         "pubDate" : "Sat, 01 Jul 2023 12:28:00 +0000",
+         "title" : "Castles for mate"
+      },
+      {
          "description" : "Kazakhstan is gradually becoming a Mecca for chess. In April 2023 the World Championship match between Ding Liren and Ian Nepomniachtchi took place in Astana, at the beginning of June the Asian Continental Championship was held in Almaty, to name just two of the biggest events. While looking back at the Asian Continental Championships, Diana Mihajlova describes the development of chess in Kazakhstan and wonders about the predicament of Russian chess players after Russia left the European Chess Federation to join the Asian Chess Federation. | Photo: Panorama of Almaty | All Photos: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
          "pubDate" : "Sat, 01 Jul 2023 13:00:00 +0100",
          "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "In my column Prelude to Armageddon, I dwelt on the abundance of Jewish chess masters from the second half of the 19th century, which continued well into the 20th century. Famous names proliferate, imbued with the rich cultural heritage of the Central European Jewish environment. Their names include: Johannes Zukertort, Wilhelm Steinitz, Emanuel Lasker, Siegbert Tarrasch, Jacques Mieses, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/rudolf-spielmann-chess-hero-and-nazi-victim/",
+         "pubDate" : "Sat, 01 Jul 2023 11:41:04 +0000",
+         "title" : "Rudolf Spielmann: chess hero and Nazi victim"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
@@ -810,14 +850,6 @@ news_feed (
          "title" : "Global Chess League Day 4: SG Alpine Warriors grab the lead"
       },
       {
-         "description" : "One Berlin fell, the other one didn't. Magnus Carlsen's Berlin did not hold up against Maxime Vachier-Lagrave. However, D Gukesh's Berlin proved to be strong enough to hold Alexander Grischuk to a draw. It was R Praggnanandhaa's win against Javokhir Sindarov which helped SG Alpine Warriors beat upGrad Mumba Masters. It was a win by a minimum margin 0-3 (7-8). Before that, upGrad Mumba Masters handed Ganges Grandmasters their first defeat of the event. Despite MVL losing to Vishy Anand, Grischuk and Harika Dronavalli's key victories ensured the fall of GG. Monday's action kicks off at 5:30 p.m. local time, 7 p.m. IST. | Photo: Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-4-report",
-         "pubDate" : "Sun, 25 Jun 2023 20:45:00 +0100",
-         "title" : "GCL Day 4: SG Alpine Warriors survive MVL carnage, Pragg wins the decider"
-      },
-      {
          "description" : "In all the years that I've been running the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I've never mentioned memes. So here we go. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf25.jpg\" WIDTH=400 HEIGHT=150><BR> <B>Google Image search on 'chess memes'</B> <P> The last time I used the 'Google Image search' trick was <A HREF=\"https://chessforallages.blogspot.com/2022/11/election-special-2022.html\">Election Special 2022</A> (November 2022). At that time I had three rows of image thumbnails. Now I have two. Why the difference? Here's the election image... <P ALIGN=CENTER> <XMG SRC=\"http",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1080,14 +1112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/staff-member-wins-world-cup",
          "pubDate" : "Thu, 22 Jun 2023 08:00:00 +0100",
          "title" : "Staff member wins World Cup"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave of France and GM Dmitrij Kollars of Germany were the winners of Titled Tuesday on June 20. GM Gata Kamsky, who won one of last week&#39;s events, nearly pulled it off again in the early tournament, finishing second behind Vac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-kollars-win-titled-tuesday-june-20-2023",
-         "pubDate" : "Wed, 21 Jun 2023 09:42:00 -0700",
-         "title" : "French And German GMs Split Tuesday Tournament"
       },
       {
          "description" : "",
@@ -1584,14 +1608,6 @@ news_feed (
          "link" : "https://www.europechess.org/hikaru-nakamura-wins-norway-chess-2023/",
          "pubDate" : "Sat, 10 Jun 2023 18:48:12 +0000",
          "title" : "Hikaru Nakamura wins Norway Chess 2023"
-      },
-      {
-         "description" : " The 2023 NSW Open started with 75 players in both sections (Major and Minor), although a couple of last minute withdrawals (illness etc) made each field a little smaller. The Major had 14 players rated above 200, with the top 8 players rated above 2200. New arrival IM Mihajlo Radovanovic is the top seed, with IM Gary Lane seeded second. Both players started the tournament with 2 wins, as did 10 other players. Despite the rating gap in the early rounds there were still a number of interesting games. Bevan Clouston looked to have a crushing attack against CM Hui Li, but Li survived and by the end had enough technique to mate Clouston with KBN v K. Jack Rodgers was held to a first round draw b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-1.html",
-         "pubDate" : "Sat, 10 Jun 2023 13:21:00 +0000",
-         "title" : "2023 NSW Open - Day 1"
       }
    ]
 }
