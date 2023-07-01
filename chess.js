@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2488",
+         "pubDate" : "Sat, 01 Jul 2023 21:25:58 +0000",
+         "title" : "GCL Day 10: Triveni Continental Kings to face upGrad Mumba Masters in the finals"
+      },
+      {
          "description" : "The final day of the double round-robin stage started with SG Alpine Warrior's loss against Chingari Gulf Titans 0-3 (7-8). Magnus Carlsen won the sole game for his team as he beat Jan-Krzysztof Duda. However, Shakhriyar Mamedyarov's win over Gukesh gave CGT a crucial victory as all the remaining games ended in draws. Then, Triveni Continental Kings eliminated Ganges Grandmasters by beating them 3-0 (11-6). Wei Yi, Sara Khadem and Jonas Buhl Bjerre scored key wins, which helped the team (TCK) secure a spot in the Finals. SG Alpine Warriors suffered a shockingly huge defeat by 0-3 (2-18) against upGrad Mumba Masters. Alexander Grischuk, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli's win",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-2.html",
          "pubDate" : "Sun, 11 Jun 2023 14:11:00 +0000",
          "title" : "2023 NSW Open - Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2451",
-         "pubDate" : "Sat, 10 Jun 2023 20:30:32 +0000",
-         "title" : "World Cadets & Youth Blitz Championship 2023 starts in Batumi"
       }
    ]
 }
