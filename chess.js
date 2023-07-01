@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White has just set his centre in motion with 15.e4?, having full confidence in his bishop on h4, which is looking at Black's queen on d8. But this move backfires - can you see how Black gains the advantage? Don't hold your horses!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pitfall-in-the-exchange-variation",
+         "pubDate" : "Sat, 01 Jul 2023 09:00:00 +0100",
+         "title" : "Pitfall in the Exchange Variation"
+      },
+      {
+         "description" : "Ray Robson won the 2023 edition of the Prague Masters tournament after beating Bogdan-Daniel Deac in blitz playoffs. Robson's strong nerves served him well in the blitz encounters, as he never stopped looking for tactical chances despite having lost his advantage in the first of two 5-minute games. Meanwhile, Mateusz Bartel scored a final-round victory to win the Challengers section. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r9",
+         "pubDate" : "Sat, 01 Jul 2023 07:40:00 +0100",
+         "title" : "Robson beats Deac in exciting playoff, wins Prague Masters"
+      },
+      {
+         "description" : "GM Levon Aronian and the Triveni Continental Kings stole the show on day nine of the Tech Mahindra Global Chess League 2023, winning vs. both the SG Alpine Warriors and Balan Alaskan Knights to join the tie for first. Aronian defeated fellow ico...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-9",
+         "pubDate" : "Fri, 30 Jun 2023 21:59:00 -0700",
+         "title" : "Team Aronian Rises: 2-0 vs. Carlsen, Nepomniachtchi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ceske-budejovice-gm-a-2023/",
          "pubDate" : "Fri, 30 Jun 2023 14:00:00 +0000",
          "title" : "Ceske Budejovice GM A 2023"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Fri, 30 Jun 2023 15:00:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : " (NB Shamelessly stolen from the original Eisenhower Matrix ) Start by thinking about the various skills involved with playing chess. The decide if you (a) Know/Don't know it and (b) it is important/not important Then prioritise according to the following Not important + Don't know - Ignore Important + Don't Know - Learn Not important + Know - Remember Important + Know - Practice The trick is moving these skill topics between categories. When you first start out, Checkmate with KQ or KR is important, so you firstly learn (Don't know -&gt; know), and then practice. After a while you can shift this from Important to Not Important (mainly to make room for more important items), when you simply ",
@@ -466,12 +482,12 @@ news_feed (
          "title" : "Girls Club \"Chess for protection\" keeps growing"
       },
       {
-         "description" : "Readers will recall the scandal that shook the chess world, when Magnus Carlsen stated he thought US GM Hans Niemann had cheated against him. In spite of endless amounts of speculation and hand-waving, no evidence was ever produced, and Niemann struck back with an eye-watering $100 million-dollar lawsuit. The verdict is in.",
+         "description" : "Readers will recall the scandal that shook the chess world, when Magnus Carlsen stated he thought US GM Hans Niemann had cheated against him. In spite of endless amounts of speculation and hand-waving, no evidence was ever produced, and Niemann struck back with an eye-watering $100 million-dollar lawsuit. The verdict is in. Updated with video.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/niemann-s-100-million-lawsuit",
          "pubDate" : "Wed, 28 Jun 2023 09:19:32 +0100",
-         "title" : "Niemann's $100 million lawsuit"
+         "title" : "Niemann's $100 million lawsuit (with video)"
       },
       {
          "description" : "",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "KCF European Trainers Conference #Zagreb 8 July"
       },
       {
-         "description" : "Bogdan-Daniel Deac scored a crucial win over former co-leader Ray Robson in round 4 of the Prague Masters to join Vincent Keymer in the lead of the standings. Keymer held David Navara to a draw in a 100-move game, while Wang Hao returned to a fifty-percent score by beating Haik Martirosyan. In the Challengers, three games ended decisively, with Benjamin Gledura winning to join Mateusz Bartel in the lead. | Photo: Anežka Kruž&iacute;kov&aacute;",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r4",
-         "pubDate" : "Sun, 25 Jun 2023 00:10:00 +0100",
-         "title" : "Prague: Deac tears down Robson's Berlin wall"
-      },
-      {
          "description" : "Chinese GM Wei Yi remains the MVP of the&#38;nbsp;Tech Mahindra Global Chess League 2023 after scoring a third win in four games. It took his team Traveni Continental Kings up to second place, but five-time World Champion Viswanathan Anand&#39;s Ganges Gr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/increasing-levels-of-jerkitude.html",
          "pubDate" : "Wed, 21 Jun 2023 12:48:00 +0000",
          "title" : "Increasing levels of jerkitude?"
-      },
-      {
-         "description" : "Who would have seen this coming before 2020, The Queen&#38;rsquo;s Gambit, and the rise of chess as an esport?&#38;nbsp;Chess.com, the world&#38;rsquo;s leading chess platform, has been named in TIME&#38;rsquo;s prestigious 100 Most Influential Companies of 2023 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-among-100-most-influential-companies-2023",
-         "pubDate" : "Wed, 21 Jun 2023 05:05:00 -0700",
-         "title" : "It's TIME To Acknowledge Chess: Chess.com Named In Prestigious 100 Most Influential Companies List"
       },
       {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
