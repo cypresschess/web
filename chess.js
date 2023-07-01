@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kazakhstan is gradually becoming a Mecca for chess. In April 2023 the World Championship match between Ding Liren and Ian Nepomniachtchi took place in Astana, at the beginning of June the Asian Continental Championship was held in Almaty, to name just two of the biggest events. While looking back at the Asian Continental Championships, Diana Mihajlova describes the development of chess in Kazakhstan and wonders about the predicament of Russian chess players after Russia left the European Chess Federation to join the Asian Chess Federation. | Photo: Panorama of Almaty | All Photos: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-continentals-a-rsum",
+         "pubDate" : "Sat, 01 Jul 2023 13:00:00 +0100",
+         "title" : "Asian Continentals, a r&eacute;sum&eacute;"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Sat, 01 Jul 2023 13:00:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/expensive-experiment/",
+         "pubDate" : "Sat, 01 Jul 2023 10:21:00 +0100",
+         "title" : "Expensive experiment"
+      },
+      {
          "description" : "In the diagram position, White has just set his centre in motion with 15.e4?, having full confidence in his bishop on h4, which is looking at Black's queen on d8. But this move backfires - can you see how Black gains the advantage? Don't hold your horses!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2486",
          "pubDate" : "Fri, 30 Jun 2023 22:46:36 +0000",
-         "title" : "Roy Robson wins 2023 Prague Chess Festival Masters"
+         "title" : "Ray Robson wins 2023 Prague Chess Festival Masters"
       },
       {
          "description" : "",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/a-quick-prioritisation-tool-for-chess.html",
          "pubDate" : "Fri, 30 Jun 2023 13:07:00 +0000",
          "title" : "A quick prioritisation tool for chess"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/expensive-experiment/",
-         "pubDate" : "Fri, 30 Jun 2023 13:56:14 +0100",
-         "title" : "Expensive experiment"
       },
       {
          "description" : "World Championship Match 2023: All seven decided games annotated by Anish Giri, Hou Yifan, Sam Shankland and Wesley So - TePe Sigeman Tournament: Analyses by Peter Svidler, Boris Gelfand, Nils Grandelius, Abhimanyu Mishra and Jorden van Foreest - All-rounder Boris Spassky: \"Special\" with 27 top-class encounters from the period 1949 to 1989 + articles on strategy (Marin) and endgame (Mueller) - Is Scandinavian with 3...Qa5 busted? Martin Lorenzini thinks so - and recommends 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5! - \"How I became U14 World Champion\": Ilamparthi presents the decisive moments together with Sagar Shah - \"Practical tips for the tournament player\": Why are ",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "Global Chess League: Anand's Ganges Grandmasters suffer first defeat"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 131st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the attacking and defending skills of Wilhelm Steinitz, the first official World Champion. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-131-chess-history-in-a-nutshell-13",
-         "pubDate" : "Sun, 25 Jun 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 131: Chess history in a nutshell (13)"
-      },
-      {
          "description" : " Peter Myers has served as an officer in the Jamaica Chess Federation for more than 25 years and continues his work after being elected for a 2nd term on June 17th. Ten-time women's champion Deborah Richards-Porter was elected as Vice-President. It will take Myers a long time to match his 20+ years as Vice President. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/25/peter-myers-get-2nd-term-as-jamaicas-prez/\">Peter Myers get 2nd term as Jamaica's Prez!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/major-league-chess.html",
          "pubDate" : "Sun, 25 Jun 2023 13:14:00 +0000",
          "title" : "Major League Chess"
-      },
-      {
-         "description" : "All five games ended decisively in the first round of the Sportland NRW Cup in Dortmund. WGM Dinara Wagner (pictured), IM Georgios Souleidis and 12-year-old FM Hussain Besou had a dream start: they beat the three participating grandmasters. In the A-Open, most of the favourites won their games, although the accelerated Swiss format made for interesting fights on the very first day of action.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d1",
-         "pubDate" : "Sun, 25 Jun 2023 09:00:00 +0100",
-         "title" : "Dortmund: All three GMs lose in the Sportland NRW Cup"
       },
       {
          "description" : "The Kasparov Chess Foundation, in coperation with the European Chess Union Trainers Commission and European Chess Academy, present the first European conference for chess trainers. The event will take place during the SuperUnited Rapid &#38; Blitz tournament in Zagreb, the third stage of this year's Grand Chess Tour. Date:&#160;July 8, 2023 Time:&#160;9:30 14:00 Venue:&#160;Westin Hotel, Zagreb, Croatia Address:&#160;Krsnjagova 1, 10000&#160; Keynote speaker: Garry Kasparov on trainers' role in modern times Speakers: Michael Khodarkovsky (photo @Lennart Ootes Grand Chess Tour []",
@@ -1592,30 +1592,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-1.html",
          "pubDate" : "Sat, 10 Jun 2023 13:21:00 +0000",
          "title" : "2023 NSW Open - Day 1"
-      },
-      {
-         "description" : "\"They are stronger than me, so I should listen to them\" is something I hear often. But that's actually only partly true. Because it depends if the advice they give you is pure chess advice or chess improvement advice. What sounds similar is actually totally different: In this article, I will explain the difference between []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-advice/",
-         "pubDate" : "Sat, 10 Jun 2023 11:16:28 +0000",
-         "title" : "Why You Should Avoid Grandmaster Advice (Sometimes)"
-      },
-      {
-         "description" : " This week, we're going to start our examination of discovered and double discovered attacks. This specific type of tactic is extremely powerful and should be part of every chess player's tactical toolbox. I cannot stress enough, the power of discovered and double discovered attacks. We cover this tactic over the next two weeks, starting with <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-four/\">A Foundation for Beginners Ninety Four</a> appeared first o",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-four/",
-         "pubDate" : "Sat, 10 Jun 2023 07:45:09 +0000",
-         "title" : "A Foundation for Beginners Ninety Four"
-      },
-      {
-         "description" : "Not only is Trinity the only Cambridge College to have produced a reigning King in living memory, Trinity is the only Cambridge College to have nurtured any chess Grandmasters (three in fact). The photo above, of the 1967 first year intake, shows both myself and our future Monarch, with whom I was to share a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/from-cambridge-to-lugano-playing-spassky-in-1969/",
-         "pubDate" : "Sat, 10 Jun 2023 07:42:56 +0000",
-         "title" : "From Cambridge to Lugano: playing Spassky in 1968"
       }
    ]
 }
