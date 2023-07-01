@@ -1616,14 +1616,6 @@ news_feed (
          "link" : "https://www.thearticle.com/from-cambridge-to-lugano-playing-spassky-in-1969/",
          "pubDate" : "Sat, 10 Jun 2023 07:42:56 +0000",
          "title" : "From Cambridge to Lugano: playing Spassky in 1968"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2450",
-         "pubDate" : "Sat, 10 Jun 2023 00:37:03 +0000",
-         "title" : "Hikaru Nakamura wins Norway Chess 2023"
       }
    ]
 }
