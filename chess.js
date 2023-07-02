@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-10",
+         "pubDate" : "Sat, 01 Jul 2023 18:01:00 -0700",
+         "title" : "Shocking Upsets As Team Aronian, Team Vachier-Lagrave Bag Finals Spots"
+      },
+      {
          "description" : "Going into the final day of action at the Dortmund Chess Festival, Fabiano Caruana, Frederik Svane and Dinara Wagner are leading the standings in the No Castling Masters, the A-Open and the Sportland NRW Cup, respectively. Caruana defeated Vladimir Kramnik in style to get a half point lead over the former world champion and Dmitrij Kollars. Kollars beat Pavel Eljanov with white in Saturday's fifth round. | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/triveni-continental-kings-first-team-to-qualify-for-global-chess-league-finals/articleshow/101421470.cms",
          "pubDate" : "Sat, 01 Jul 2023 15:37:39 +0000",
          "title" : "Triveni Continental Kings first team to qualify for Global Chess League finals"
+      },
+      {
+         "description" : "While humankind has yet to answer the age-old question &#34;Who let the dogs out,&#34; there&#39;s one thing we do know: You can now play chess against humans&#39; adorable best friends. Meet IM Levy Rozman&#39;s dog Benji, Wishboy, Buddy Buckets, Pinky, and GM Levon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dog-bots",
+         "pubDate" : "Sat, 01 Jul 2023 08:00:00 -0700",
+         "title" : "Hide Your Homework! The New Dog Bots Are Here"
       },
       {
          "description" : "For most people, chess is a fun and great hobby. If done right, it can be so much more than that. As I've written in my retirement announcement, chess has been the most incredible school of life I could ever imagine. I learned to: Be ambitious, plan ahead, reflect on my own actions, make decisions []",
@@ -106,6 +122,14 @@ news_feed (
          "title" : "Robson beats Deac in exciting playoff, wins Prague Masters"
       },
       {
+         "description" : "GM Levon Aronian and the Triveni Continental Kings stole the show on day nine of the Tech Mahindra Global Chess League 2023, winning vs. both the SG Alpine Warriors and Balan Alaskan Knights to join the tie for first. Aronian defeated fellow ico...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-9",
+         "pubDate" : "Fri, 30 Jun 2023 21:59:00 -0700",
+         "title" : "Team Aronian Rises: 2-0 vs. Carlsen, Nepomniachtchi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,6 +160,14 @@ news_feed (
          "link" : "https://www.chessdom.com/catalan-circuit-torredembarra-open-2023-live/",
          "pubDate" : "Fri, 30 Jun 2023 19:26:48 +0000",
          "title" : "Catalan Circuit Torredembarra Open 2023 - LIVE"
+      },
+      {
+         "description" : "GM Ray Robson won the Prague Chess Festival Masters after finishing in shared first with GM Bogan-Daniel Deac on 5.5/9 points. In the blitz tiebreak, the American grandmaster won the first game with Black and then offered a draw in a winning posit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-prague-chess-festival-masters-robson-wins",
+         "pubDate" : "Fri, 30 Jun 2023 12:22:00 -0700",
+         "title" : "Robson Wins Prague Chess Festival Masters In Blitz Tiebreak, Bartel Wins Challengers"
       },
       {
          "description" : "Levon Aronian has beaten Jan-Krzysztof Duda, Magnus Carlsen and Ian Nepomniachtchi in three consecutive must-win situations. Today he defeated Carlsen and Nepo in consecutive games. While the World no.1 allowed the two-time World Cup winner to score a quick 27-move victory, against Nepo he had to grind in the endgame and wait till the former world championship contender blundered. Triveni Continental Kings are now tied with Ganges Grandmasters on 15/27 points. SG Alpine Warriors also have the same match points. However, they still have two matches left. On an eventful day, upGrad Mumba Masters defeated GG 3-0 (10-4) without losing a single game. The last four matches of the double round-robi",
@@ -176,6 +208,14 @@ news_feed (
          "link" : "https://www.chessdom.com/ceske-budejovice-open-a-2023/",
          "pubDate" : "Fri, 30 Jun 2023 18:00:00 +0000",
          "title" : "Ceske Budejovice Open A 2023"
+      },
+      {
+         "description" : "The US Chess Federation has published a list of members who have been sanctioned by the organization.&#38;nbsp; A total of 27 members have been sanctioned for a shorter or longer time period. Minors are not named, but their sanction is listed. Amo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/named-and-shamed-the-players-sanctioned-by-us-chess",
+         "pubDate" : "Fri, 30 Jun 2023 10:01:08 -0700",
+         "title" : "US Chess Releases List Of Sanctioned Players"
       },
       {
          "description" : "The Ceske Budejovice GM B 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske []",
@@ -298,6 +338,14 @@ news_feed (
          "title" : "Dortmund: Donchenko sole leader in the open"
       },
       {
+         "description" : "TwitchCon Paris takes place on July 8 and 9, 2023, and chess will be well-represented as one of the internet&#39;s most popular games.&#38;nbsp; Some of the biggest names in chess content creation will be present at the convention to meet their fans and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-descends-on-paris-for-twitchcon",
+         "pubDate" : "Thu, 29 Jun 2023 13:17:03 -0700",
+         "title" : "'Falling In Love With The Game': Chess.com Descends On Paris For TwitchCon"
+      },
+      {
          "description" : "One might expect relatively quiet rounds after a day full of excitement. Well, that just does not happen at the Tech Mahindra Global Chess League. In the first match, five out of six games ended decisively. Levon Aronian, Wei Yi and Sara Khadem scored crucial wins for their team, Triveni Continental Kings. Their 3-0 (10-9) victory over Chingari Gulf Titans ensured the team still has mathematical chances to win the event. Andrey Esipenko scored the crucial win for his team, Ganges Grandmasters. Thus, GG are once again atop the standings with 15/24. Tomorrow will be the penultimate day of the double round-robin stage. There will be four matches starting from 3 p.m. local time, 4:30 p.m. IST. |",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -338,6 +386,14 @@ news_feed (
          "title" : "Sara Khadem lifts Triveni Continental Kings, Ganges Grandmasters reclaim lead"
       },
       {
+         "description" : "It&#38;rsquo;s the amateur event that fueled a massive chess boom, spawned a mountain of memes, and became one of the game&#38;rsquo;s biggest sensations ever. Now Chess.com is delighted to reveal that its celebrity-packed PogChamps tournament is back for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-pogchamps-5",
+         "pubDate" : "Thu, 29 Jun 2023 10:12:00 -0700",
+         "title" : "PogChamps 5 Is Ready For Liftoff! Chess.com's Spectacular Battle Of The Creators Is Back"
+      },
+      {
          "description" : "In today's Fast & Furious show Robert Ris takes a look at a game, in which Jorden Van Foreest convincingly defeated Radoslaw Wojtaszek in a popular line of the Ruy Lopez. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,6 +408,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-magazine-213-a-review-by-prof-nagesh-havanur",
          "pubDate" : "Thu, 29 Jun 2023 17:00:00 +0100",
          "title" : "ChessBase Magazine #213: A review"
+      },
+      {
+         "description" : "Day eight of the Tech Mahindra Global Chess League 2023 featured two combative matchups that came down to photo finishes. In a match of almost all decisive games, GM Levon Aronian defeated fellow icon, GM Jan-Krzysztof Duda, leading the Triveni ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-8",
+         "pubDate" : "Thu, 29 Jun 2023 06:53:00 -0700",
+         "title" : "Team Aronian, Team Anand Prevail In Photo Finish Matchups"
       },
       {
          "description" : "On 3 July (first game on 4 July), the Women's World Championship match between defending champion Ju Wenjun and challenger Lei Tingjie will begin in Shanghai. The first half of the match will be played in Shanghai and the second half in Chongqing. The prize money is USD 500,000.",
@@ -410,6 +474,22 @@ news_feed (
          "title" : "Dortmund: Kramnik beats Caruana, takes the lead"
       },
       {
+         "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-blitz-champs-michigan-cornelius-johnson-wins",
+         "pubDate" : "Wed, 28 Jun 2023 17:59:00 -0700",
+         "title" : "Johnson Scores Final Touchdown In BlitzChamps Michigan"
+      },
+      {
+         "description" : "In a highly-anticipated rematch, GM Magnus Carlsen defeated GM Viswanathan Anand, leading the SG Alpine Warriors to an epic comeback victory and the top of the standings&#38;nbsp;on day seven of the Tech Mahindra Global Chess League 2023. Carlsen had ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-7",
+         "pubDate" : "Wed, 28 Jun 2023 14:41:00 -0700",
+         "title" : "Carlsen Wins Climactic Clash vs. Anand, Leads Team To Top"
+      },
+      {
          "description" : "Vishy Anand vs Magnus Carlsen games are always the highly anticipated encounter of the day, no matter the event. The rematch between two of the greatest was arguably the game of the tournament so far. The endgame seemed to be heading towards a draw when the world no.1 went for a break. It actually allowed Anand to salvage a draw. However, time trouble induced a human error, turning things once again towards the Norwegian's favor. After an exchange of smiles, tha avoidance of a stalemate trap and an underpromotion, Carlsen defeated Anand in a stellar game. His and Praggnanandhaa's win ensured SG Alpine Warriors knocking off Ganges Grandmasters from the top of the leaderboard. Tomorrow will be",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,6 +528,22 @@ news_feed (
          "link" : "https://www.fide.com/news/2482",
          "pubDate" : "Wed, 28 Jun 2023 16:34:20 +0000",
          "title" : "The match for Women's World Champion title: Celebration of China and Chess"
+      },
+      {
+         "description" : "To win Titled Tuesday, 9.5 points continue to be enough as GMs Dmitry Andreikin and Oleksandr Bortnyk won the June 27 renditions of the event, each on that score. Both needed the tiebreak score advantage over one other player in order to secure fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-bortnyk-win-titled-tuesday-june-27-2023",
+         "pubDate" : "Wed, 28 Jun 2023 08:49:00 -0700",
+         "title" : "Titled Tuesday Ties Go To Andreikin, Bortnyk"
+      },
+      {
+         "description" : "Chess.com is excited to announce that GM Anish Giri&#39;s Lifetime Repertoire for 1.e4 is now fully available on Chessable. This three-part course is another masterpiece by the renowned Dutch number-one that teaches everything you need to know to play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anish-giri-lifetime-repertoire-1e4-chessable-course",
+         "pubDate" : "Wed, 28 Jun 2023 07:22:00 -0700",
+         "title" : "Play 1.e4 Like A Super Grandmaster With Anish Giri's New Chessable Course"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101342951.cms\" />Magnus Carlsen, the five-time chess world champion said he is pleasantly surprised with the immense enthusiasm for the game in India. Carlsen believes that this surge of interest marks the commencement of a revolutionary era, an achievement primarily attributed to the legendary Viswanathan Anand. Carlsen, widely recognized as one of the most formidable players in chess, is currently representing the SG Alpine Warriors in the Global Chess League (GCL). He acknowledged that India's consistent production of Grandmasters holds promising prospects for t",
@@ -522,6 +618,22 @@ news_feed (
          "title" : "Niemann's $100m Lawsuit Dismissed&hellip; but stay tuned"
       },
       {
+         "description" : "GM Viswanathan Anand scored yet another victory, defeating GM Jan-Krysztof Duda, but it wasn&#39;t enough for the Ganges Grandmasters, who lost a nailbiter to the Chingari Gulf Titans on day six of the Tech Mahindra Global Chess League 2023.&#38;nbsp; W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-6",
+         "pubDate" : "Tue, 27 Jun 2023 15:33:00 -0700",
+         "title" : "Anand Gains 4th Victory, But Team Duda Defeats Leaders"
+      },
+      {
+         "description" : "The Collegiate Chess League is excited to announce the 2023 summer season following last year&#39;s inaugural summer season. We will be bringing back both the bullet and bughouse college championships! These championship matches will last four weeks s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2023-summer-season",
+         "pubDate" : "Tue, 27 Jun 2023 15:18:20 -0700",
+         "title" : "Collegiate Chess League 2023 Summer Season: Bullet and Bughouse Championships"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his game from the 2017 European Championship, where he earned his second GM norm. This long game made JJ understand how grandmasters think and prepare. 2023.06.27<br /> Aleksander Mista vs Cemil Can Ali Marandi, European Championship (2017): C63 Ruy Lopez, Schliemann defence, Berger variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1876884\">https://www.chessgames.com/perl/chessgame?gid=1876884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -552,6 +664,22 @@ news_feed (
          "link" : "https://www.fide.com/news/2480",
          "pubDate" : "Tue, 27 Jun 2023 17:48:42 +0000",
          "title" : "GCL Day 6: Chingari Gulf Titans & upGrad Mumba Masters score crucial victories"
+      },
+      {
+         "description" : "A federal judge on Tuesday dismissed GM Hans Niemann&#39;s $100 million lawsuit against GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch. This means that, at least for the moment, the legal battle that follow...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hans-niemann-lawsuit-dismissed",
+         "pubDate" : "Tue, 27 Jun 2023 09:53:00 -0700",
+         "title" : "Hans Niemann's $100 Million Defamation Lawsuit Dismissed"
+      },
+      {
+         "description" : "GM Alexey Sarana won the inaugural Olympic Esports Series 2023 Finals chess event after defeating GM Maksim Chigaev with a perfect 3-0 score in the final match. This is one of the first major victories for Sarana since he changed federations from ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-finals",
+         "pubDate" : "Tue, 27 Jun 2023 08:13:14 -0700",
+         "title" : "Sarana Wins Inaugural Olympic Esports Series Finals In Chess"
       },
       {
          "description" : " NAPLAN is a test the school kids in Australia have to do every 2nd year (odd numbered grades), and is supposed to measure whether schools are performing or not. In actuality the results are dependent upon the socio-economic level of the students, and are mainly used by parents and the media to 'rank' schools based on some imaginary scale. As you can guess, I really really, really hate NAPLAN. While abolishing all together is my preferred solution, I do offer an alternative. Replace NAPLAN with a nation wide interschool chess competition, divided into geographical zones. Results aren't necessarily based upon the scores in the tournament (although that is one factor), but instead on how many ",
@@ -626,6 +754,14 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
       },
       {
+         "description" : "The Balan Alaskan Knights leaped back out of last place with a victory over the previously leading SG Alpine Warriors in a close battle on day five of the Tech Mahindra Global Chess League 2023. The Knights&#39; gained the match win despite victories ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-5",
+         "pubDate" : "Mon, 26 Jun 2023 16:33:00 -0700",
+         "title" : "Cunning Carlsen, Unbeatable Praggnanandhaa Fall To Team Nepomniachtchi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -640,6 +776,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-5-report",
          "pubDate" : "Mon, 26 Jun 2023 19:45:00 +0100",
          "title" : "GCL Day 5: Vishy strikes Aronian, Ganges Grandmasters score gargantuan win"
+      },
+      {
+         "description" : "GM Hikaru Nakamura made it four wins from four starts in the sixth edition of Bullet Brawl on Saturday, claiming the $400 prize after scoring 59 wins, five draws, and nine losses en route to a winning score of 210 points. Moreso than usual, Naka...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-2023-bullet-brawl-june",
+         "pubDate" : "Mon, 26 Jun 2023 10:18:25 -0700",
+         "title" : "Nakamura, The King Of Bullet Brawl, Strikes Again"
       },
       {
          "description" : "In this continuing, fortnightly series on the world's top two engine vs. engine competitions, the previous post was <A HREF=\"https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html\">TCEC FRC6, CCC20 Rapid; Stockfish Wins Both</A> (June 2023). Expanding that title produces the following summary:- <BLOCKQUOTE> TCEC: In the 'S24 FRC6 Final', Stockfish beat LCZero +15-12=23. The site then organized 'S24 DFRC2', which has reached 'League 1', the third of four stages. &#149; CCC: In the 'CCC20 Rapid Finals', Stockfish crushed Lc0 143.0-107.0, then crushed the Mystery engine 67.0-33.0 in an exhibition match. The site then launched the 'CCC20 Bullet Entry League'. </BL",
@@ -722,6 +866,14 @@ news_feed (
          "title" : "ECF Awards 2023 - nominations closing soon"
       },
       {
+         "description" : "GM Praggnanandhaa R. was the hero on the fourth day of the Tech Mahindra Global Chess League 2023 after scoring a win with black over UpGrad Mumba Masters&#39; GM Javokhir Sindarov, securing victory for the SG Alpine Warriors and pushing them into the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-4",
+         "pubDate" : "Sun, 25 Jun 2023 19:28:00 -0700",
+         "title" : "Praggnanandhaa Carries Team Carlsen To The Top"
+      },
+      {
          "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -778,6 +930,14 @@ news_feed (
          "title" : "KCF European Trainers Conference #Zagreb 8 July"
       },
       {
+         "description" : "Chinese GM Wei Yi remains the MVP of the&#38;nbsp;Tech Mahindra Global Chess League 2023 after scoring a third win in four games. It took his team Traveni Continental Kings up to second place, but five-time World Champion Viswanathan Anand&#39;s Ganges Gr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-3",
+         "pubDate" : "Sat, 24 Jun 2023 15:47:00 -0700",
+         "title" : "Wei Yi, Team Anand Keep On Winning"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -808,6 +968,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2473",
          "pubDate" : "Sat, 24 Jun 2023 14:17:35 +0000",
          "title" : "European Solving Championship: Polish solvers regain titles, Lithuanians keep rising"
+      },
+      {
+         "description" : "Russian chess has suffered another blow as their former national team coach GM Alexander Motylev has switched federations and joined Romania. The former national and European champion joins a growing list of Russian grandmasters who no longer repr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexander-motylev-switches-from-russia-to-romania",
+         "pubDate" : "Sat, 24 Jun 2023 07:06:00 -0700",
+         "title" : "Former Russian Champion Alexander Motylev Switches To Romania"
       },
       {
          "description" : "We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question []",
@@ -842,12 +1010,28 @@ news_feed (
          "title" : "Snakes and Leaders"
       },
       {
+         "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-blitz-champs-ii-tranquill-wins",
+         "pubDate" : "Fri, 23 Jun 2023 16:58:09 -0700",
+         "title" : "Chiefs Drue Tranquill Intercepts BlitzChamps II Victory With Dramatic Queen Sacrifice"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2472",
          "pubDate" : "Fri, 23 Jun 2023 22:11:32 +0000",
          "title" : "Chess Legends face off: Anand and Carlsen headline the day"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen beat fellow former World Champion Viswanathan Anand on day two of the Tech Mahindra Global Chess League 2023 in Dubai, but it was Anand&#39;s Ganges Grandmasters who won the match and boast the only perfect score.&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-2",
+         "pubDate" : "Fri, 23 Jun 2023 15:08:00 -0700",
+         "title" : "Carlsen Beats Anand, But Ganges Grandmasters Strike Back"
       },
       {
          "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
@@ -882,6 +1066,14 @@ news_feed (
          "title" : "Certificates of Online SNA"
       },
       {
+         "description" : "Former World Champions Vishy Anand and Hou Yifan both scored big wins as their team, the Ganges Grandmasters, cruised to victory on day one of the Tech Mahindra Global Chess League 2023 in Dubai.&#38;nbsp;&#38;nbsp; GM Alexander Grischuk was the day&#39;s o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-1",
+         "pubDate" : "Thu, 22 Jun 2023 16:47:00 -0700",
+         "title" : "Anand, Hou Show Class Is Permanent As Global Chess League Begins"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-5b261a50-7fff-e802-da1b-fd1a6d9fbe45\">SAINT LOUIS, June 22, 2023</span> -</strong> The <a href=\"http://www.saintlouischessclub.org\">Saint Louis Chess Club</a> today announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-im",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -896,6 +1088,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2471",
          "pubDate" : "Thu, 22 Jun 2023 21:01:39 +0000",
          "title" : "Сhess revolution has started: Global Chess League kicked off with the first two matches"
+      },
+      {
+         "description" : "Chess.com is excited to announce that our previously monthly Bullet Brawl is now happening every week!&#38;nbsp;Starting in July, our bullet arena for titled players is going weekly, with a $1,000 prize fund for each event. Every Saturday beginning at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-brawl-weekly",
+         "pubDate" : "Thu, 22 Jun 2023 13:41:00 -0700",
+         "title" : "Bullet Brawl Is Going Weekly"
       },
       {
          "description" : "",
