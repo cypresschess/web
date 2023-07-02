@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The double check is sometimes characterised as the \"Atomic Bomb\" of the chessboard. Since the checks come from two different lines, these can't be blocked simultaneously by a single move, and therefore the king has to retreat. If there is no retreat square available, then it may be checkmate out of a clear sky! | Pictured: Aron Nimzowitsch",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-197",
+         "pubDate" : "Sun, 02 Jul 2023 23:45:00 +0100",
+         "title" : "The ultimate weapon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2490",
+         "pubDate" : "Sun, 02 Jul 2023 20:53:28 +0000",
+         "title" : "Triveni Continental Kings win the inaugural Global Chess League"
+      },
+      {
+         "description" : "The recently turned 19-year-old Danish GM Jonas Buhl Bjerre was the hero of the Tech Mahindra Global Chess League 2023 Finals. After three draws in the sudden-death matches, he checkmated Javokhir Sindarov (uMM) to etch Triveni Continental Kings as the winners of the inaugural edition. Before this game, Jonas had lost four times against Sindarov. It was not that he was playing bad. Even in the qualifier stage, he had many great positions, but he simply could not convert them. What's important is that the teenager won when it mattered the most. IM Sara Khadem (TCK) was applauded as well. She defended an inferior position against GM Harika Dronavalli (uMM) in the first sudden-death encounter. ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-11-report",
+         "pubDate" : "Sun, 02 Jul 2023 21:50:00 +0100",
+         "title" : "GCL: Jonas Buhl Bjerre wins thriller, Triveni Continental Kings clinch title"
+      },
+      {
          "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -39,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
          "pubDate" : "Sun, 02 Jul 2023 15:15:00 +0100",
-         "title" : "Global Chess League - Live!"
+         "title" : "Global Chess League - Games and relevant links"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 132nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the skills and the legacy of Emanuel Lasker. | Photo: Pascal Simon",
@@ -794,14 +818,6 @@ news_feed (
          "title" : "ChessBase in Minutes: creating a base and entering a game"
       },
       {
-         "description" : "This is the main guideline in the endgame rook and knight against rook and knight. However, in the diagram position White's initially light initiative has turned into a winning position. But how should White proceed to convert?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-light-initiative-weighs-heavily-2",
-         "pubDate" : "Tue, 27 Jun 2023 09:00:00 +0100",
-         "title" : "A light initiative weighs heavily"
-      },
-      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2478",
          "pubDate" : "Mon, 26 Jun 2023 21:58:13 +0000",
          "title" : "GCL Day 5: Triveni Continental Kings fail to stop Ganges Grandmasters' charge"
-      },
-      {
-         "description" : "Vishy Anand continues to lead by example. Once again he won the battle of the 'Icons', this time against Levon Aronian (TCK). While his three points were confirmed, his teammates Leinier Domingueze, Hou Yifan and Bella Khotenashvili scored emphatic wins to ensure that their team scored the biggest victory of the event in terms of game points: 14-2. Balan Alaskan Knights overcame their 3-15 loss as they beat the top team, SG Alpine Warriors, by the minimum margin 3-0 (10-9). Nodirbek Abdusattorov, Tan Zhongyi and Nino Batsiashvili's wins rendered R Praggnanandhaa and Magnus Carlsen's individual triumphs ineffective as they only added game points, while BAK won the match. The action on Tuesday",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-5-report",
-         "pubDate" : "Mon, 26 Jun 2023 19:45:00 +0100",
-         "title" : "GCL Day 5: Vishy strikes Aronian, Ganges Grandmasters score gargantuan win"
       },
       {
          "description" : "GM Hikaru Nakamura made it four wins from four starts in the sixth edition of Bullet Brawl on Saturday, claiming the $400 prize after scoring 59 wins, five draws, and nine losses en route to a winning score of 210 points. Moreso than usual, Naka...",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2453",
          "pubDate" : "Mon, 12 Jun 2023 01:37:08 +0000",
          "title" : "Winners crowned at 2023 FIDE World Cadets & Youth Blitz and Rapid Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2452",
-         "pubDate" : "Sun, 11 Jun 2023 22:16:50 +0000",
-         "title" : "2023 Asian Championship: Vohidov and Deshmukh clinch titles"
       }
    ]
 }
