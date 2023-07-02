@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-chess-championship-2023/",
+         "pubDate" : "Sun, 02 Jul 2023 18:33:30 +0000",
+         "title" : "FIDE Women's World Chess Championship 2023"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-chess-championship-2023-live/",
+         "pubDate" : "Sun, 02 Jul 2023 18:00:00 +0000",
+         "title" : "FIDE Women's World Chess Championship 2023 - LIVE"
+      },
+      {
+         "description" : " Here's the conclusion of an online rapidplay game I played recently which resulted in an exciting rook ending with fluctuating fortunes. I lost it in the end, but really should have won it on two occasions. If you follow this lesson you can learn to play rook endings better than me (and my opponent)! We'll <a href=\"https://chessimprover.com/fluctuation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fluctuation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fluctuation/\">Fluctuation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/fluctuation/",
+         "pubDate" : "Sun, 02 Jul 2023 17:31:48 +0000",
+         "title" : "Fluctuation"
+      },
+      {
          "description" : "The third event of the Grand Chess Tour 2023 series, the SuperUnited Rapid &#38; Blitz Croatia, takes place in Zagreb from 3-10 July. It is a 10-player round-robin tournament with 9 rounds in the rapid portion, and 18 rounds in the blitz portion of the event. Five-time World Chess Champion Magnus Carlsen headlines the field which includes Ian Nepomniachthi, Fabiano Caruana, Alireza Firouzja, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Dommaraju Gukesh, Ivan Saric and Constantin Lupulescu. The total prize fund []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -40,6 +64,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-championships-2023-endgames",
          "pubDate" : "Sun, 02 Jul 2023 10:00:00 +0100",
          "title" : "Outstanding endgames from the Asian Championships"
+      },
+      {
+         "description" : "The Klatovy Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Klatovy, Czechia. Players receive 120 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Vojtech Straka, Petr Neuman, Martin Formanek, Tomas Hurdzan and Martin Horak. Parallel : Ceske []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/klatovy-open-a-2023-live/",
+         "pubDate" : "Sun, 02 Jul 2023 03:00:00 +0000",
+         "title" : "Klatovy Open A 2023 - LIVE"
+      },
+      {
+         "description" : "The Klatovy Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Klatovy, Czechia. Players receive 120 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Vojtech Straka, Petr Neuman, Martin Formanek, Tomas Hurdzan and Martin Horak.Chessdom.com will daily follow []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/klatovy-open-a-2023/",
+         "pubDate" : "Sun, 02 Jul 2023 02:33:00 +0000",
+         "title" : "Klatovy Open A 2023"
       },
       {
          "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
@@ -266,36 +306,12 @@ news_feed (
          "title" : "US Chess Releases List Of Sanctioned Players"
       },
       {
-         "description" : "The Ceske Budejovice GM B 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-gm-b-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 16:00:00 +0000",
-         "title" : "Ceske Budejovice GM B 2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aronian-beats-carlsen-to-lead-triveni-continental-kings-win-over-sg-alpine-warriors/articleshow/101401414.cms",
          "pubDate" : "Fri, 30 Jun 2023 15:44:34 +0000",
          "title" : "Aronian beats Carlsen to lead Triveni Continental Kings' win"
-      },
-      {
-         "description" : "The Ceske Budejovice GM A 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. Parallel : Ceske Budejovice GM B 2023 / Ceske []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-gm-a-2023-live/",
-         "pubDate" : "Fri, 30 Jun 2023 14:30:00 +0000",
-         "title" : "Ceske Budejovice GM A 2023 - LIVE"
-      },
-      {
-         "description" : "The Ceske Budejovice GM A 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-gm-a-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 14:00:00 +0000",
-         "title" : "Ceske Budejovice GM A 2023"
       },
       {
          "description" : " (NB Shamelessly stolen from the original Eisenhower Matrix ) Start by thinking about the various skills involved with playing chess. The decide if you (a) Know/Don't know it and (b) it is important/not important Then prioritise according to the following Not important + Don't know - Ignore Important + Don't Know - Learn Not important + Know - Remember Important + Know - Practice The trick is moving these skill topics between categories. When you first start out, Checkmate with KQ or KR is important, so you firstly learn (Don't know -&gt; know), and then practice. After a while you can shift this from Important to Not Important (mainly to make room for more important items), when you simply ",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-214",
          "pubDate" : "Fri, 30 Jun 2023 13:00:00 +0100",
          "title" : "New: ChessBase Magazine #214"
-      },
-      {
-         "description" : "The Purtichju Open 2023 is taking place from 1-7 July 2023 at the Hotel Club Marina Viva in Purtichju, Corsica, France and is organised by the &#8220;Echecs Club Ajaccien&#8221; and &#8220;Corsican Chess League&#8221;. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Draws by mutual agreement are forbidden.&#xA0;it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/8th-purtichju-open-2023-live/",
-         "pubDate" : "Fri, 30 Jun 2023 11:00:00 +0000",
-         "title" : "8th Purtichju Open 2023 - LIVE"
       },
       {
          "description" : "After the end of the Global Chess League in Dubai on 2 July, Magnus Carlsen will travel to Zagreb to play some more speed chess against top opponents in the SuperUnited Rapid & Blitz Croatia tournament, which is part of the Grand Chess Tour. The tournament takes place from 4-9 July and boasts a very strong field. Apart from Carlsen, Firouzja, Caruana, Nepomniachtchi, Duda, Anand, Rapport, Gukesh, Saric and Lupulescu will be playing. | Photo: Carlsen after winning the Superbet Rapid & Blitz in Poland | Photo: Lennart Ootes",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2452",
          "pubDate" : "Sun, 11 Jun 2023 22:16:50 +0000",
          "title" : "2023 Asian Championship: Vohidov and Deshmukh clinch titles"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/100919506.cms\" />India's Divya Deshmukh secured the championship title in the women's classical event at the Asian Continental Chess Championship held in Almaty. Mary Ann Gomes claimed the runner-up position in the prestigious tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-mary-bag-gold-silver-in-asian-womens-chess/articleshow/100919506.cms",
-         "pubDate" : "Sun, 11 Jun 2023 16:03:41 +0000",
-         "title" : "Divya, Mary bag gold-silver in Asian Women's Chess"
       }
    ]
 }
