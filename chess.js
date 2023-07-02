@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shamsiddin Vokhidov (Uzbekistan) and Divya Deshmukh (India) were crowned winners of the 2023 Asian Continental Chess Championships. The tournaments took place in Almaty, Kazakhstan on June 3-12. GM Karsten M&uuml;ller followed the games and selected what he considered to be the most interesting endgame positions to share with us. Find here five remarkable endings with instructive analyses by our in-house expert!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-championships-2023-endgames",
+         "pubDate" : "Sun, 02 Jul 2023 10:00:00 +0100",
+         "title" : "Outstanding endgames from the Asian Championships"
+      },
+      {
          "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d2",
          "pubDate" : "Mon, 26 Jun 2023 11:30:00 +0100",
          "title" : "Dortmund: Dinara Wagner sole leader at Sportland NRW Cup"
-      },
-      {
-         "description" : "In the first events - standard chess (individual and team) - Vietnam won a massive 30 gold medals, 14 silver medals and 19 bronze medals, with second-placed Philippines trailing far behind with just 5 gold medals and 12 silver medals! No fewer than 10 countries won medals, with Myanmar in third place, followed by New Zealand, hosts Thailand, India, Indonesia, China, Malaysia and Singapore. In the individual competition, most eyes were on the U-20 event, in which a GM norm and an IM title were achieved, and in the Open, IMs Daniel Quizon and Michael Concio Jr. of the Philippines took gold and silver ahead of Vietnam's Duc Tri Ngo, Malaysia's Jun Ying Tan and Thailand's Pin Laohawirapap, who a",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vietnam-dominates-asean-age-groups-standard-chess-championships-2023",
-         "pubDate" : "Mon, 26 Jun 2023 11:16:59 +0100",
-         "title" : "Vietnam dominates ASEAN + Age-Groups Standard Championships 2023"
       },
       {
          "description" : "",
