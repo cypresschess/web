@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the Grand Chess Tour 2023 series, the SuperUnited Rapid &#38; Blitz Croatia, takes place in Zagreb from 3-10 July. It is a 10-player round-robin tournament with 9 rounds in the rapid portion, and 18 rounds in the blitz portion of the event. Five-time World Chess Champion Magnus Carlsen headlines the field which includes Ian Nepomniachthi, Fabiano Caruana, Alireza Firouzja, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Dommaraju Gukesh, Ivan Saric and Constantin Lupulescu. The total prize fund []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/grand-chess-tour-rapid-blitz-tour-starts-in-zagreb/",
+         "pubDate" : "Sun, 02 Jul 2023 14:39:04 +0000",
+         "title" : "Grand Chess Tour Rapid & Blitz Tour starts in Zagreb"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Sun, 02 Jul 2023 15:15:00 +0100",
+         "title" : "Global Chess League - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 132nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the skills and the legacy of Emanuel Lasker. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-14",
+         "pubDate" : "Sun, 02 Jul 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 132: Chess history in a nutshell (14)"
+      },
+      {
+         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
+         "pubDate" : "Sun, 02 Jul 2023 13:30:00 +0100",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
          "description" : "Shamsiddin Vokhidov (Uzbekistan) and Divya Deshmukh (India) were crowned winners of the 2023 Asian Continental Chess Championships. The tournaments took place in Almaty, Kazakhstan on June 3-12. GM Karsten M&uuml;ller followed the games and selected what he considered to be the most interesting endgame positions to share with us. Find here five remarkable endings with instructive analyses by our in-house expert!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dog-bots",
          "pubDate" : "Sat, 01 Jul 2023 08:00:00 -0700",
          "title" : "Hide Your Homework! The New Dog Bots Are Here"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2489",
+         "pubDate" : "Sat, 01 Jul 2023 14:19:10 +0000",
+         "title" : "FIDE June 2023 Rating List: Nakamura is back to #2"
       },
       {
          "description" : "For most people, chess is a fun and great hobby. If done right, it can be so much more than that. As I've written in my retirement announcement, chess has been the most incredible school of life I could ever imagine. I learned to: Be ambitious, plan ahead, reflect on my own actions, make decisions []",
@@ -810,14 +850,6 @@ news_feed (
          "title" : "Alexey Sarana is the Winner of the Inaugural Olympic Esports Series Chess Event"
       },
       {
-         "description" : "Have you noticed: the clip database is the only database which is already present during a first installation of ChessBase? It is a useful tool, and we will show you how to work with it efficiently. And do you know how to compile games from several databases to filter and save them? This is a typical task of team managers and coaches who compile material about other teams. This is where the clip database comes in handy - ChessBase expert Martin Fischer shows how to use it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-chessbase-17-the-clip-database",
-         "pubDate" : "Mon, 26 Jun 2023 14:48:51 +0100",
-         "title" : "Why do we need the ChessBase clip database?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -832,22 +864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-taught-me-to-stay-patient-with-my-cricket-says-yuzvendra-chahal/articleshow/101280759.cms",
          "pubDate" : "Mon, 26 Jun 2023 11:03:04 +0000",
          "title" : "Chess has taught me to stay patient with my cricket: Chahal"
-      },
-      {
-         "description" : "Ray Robson rejoined the lead at the Prague Masters after beating Wang Hao with white in Sunday's fifth round. This was the US grandmaster's third decisive game in a row, as he employed the same line he had used to defeat Boris Gelfand in round 3. In the other decisive game of the day, Haik Martirosyan got the better of Thai Dai Van Nguyen. Meanwhile, an eventful round in the Challengers left Benjamin Gledura in the sole lead. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r5",
-         "pubDate" : "Mon, 26 Jun 2023 11:40:00 +0100",
-         "title" : "Prague: Robson beats Wang in style"
-      },
-      {
-         "description" : "Dinara Wagner became the first sole leader at the Sportland NRW Cup in Dortmund, as she is the only player to have started the tournament with two wins in a row. Wagner beat Alexander Bagrationi with black on Sunday. Meanwhile, in the A-Open, the top three seeds - Matthias Bluebaum, Alexander Donchenko (pictured) and Michael Adams - also kicked off the event with 2 out of 2. The No-Castling Masters, with Vladimir Kramnik and Fabiano Caruana, starts on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d2",
-         "pubDate" : "Mon, 26 Jun 2023 11:30:00 +0100",
-         "title" : "Dortmund: Dinara Wagner sole leader at Sportland NRW Cup"
       },
       {
          "description" : "",
@@ -1608,22 +1624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-mary-bag-gold-silver-in-asian-womens-chess/articleshow/100919506.cms",
          "pubDate" : "Sun, 11 Jun 2023 16:03:41 +0000",
          "title" : "Divya, Mary bag gold-silver in Asian Women's Chess"
-      },
-      {
-         "description" : "After two straight months with the monthly video featuring the recent World Championship, it's time for some light entertainment. The actors in this clip have nearly six million subscribers on their channel, plus millions of views and thousands of comments on this video. They are definitely doing something right. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/fmfW35fSE1o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Human Chess In Real Life</B> (18:31) &#149; '[Published on] Jun 9, 2023' <P> The description of the video didn't e",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/bond-siblings-bond.html",
-         "pubDate" : "Sun, 11 Jun 2023 15:10:00 +0000",
-         "title" : "Bond, Siblings Bond"
-      },
-      {
-         "description" : " IM Gary Lane leads the 2023 NSW Open on 5/5, at then of the 2nd day of play. He started of with a win over Willis Lo in round 3, before beating Harry Press in round 4, and Samuel Asaka in the final round. He leads Sterling Bayaca by half a point, and the 2 players face each other in round 6. A group of 6 players trail Lane by a full point, including top seed IM Mihajlo Radovanovic. Radovanovic missed 2 rounds today due to work commitments, but returned to beat FM Jack Rodgers in the 5th round. Trent Parker leads the Minor on 5/5, a half point ahead of Terry Gao and Jonluke Corona. Gao and Parker play in round 6, while Corona is up against Roland Brockman. Round 6 starts at 9:30 am tomorrow,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-day-2.html",
-         "pubDate" : "Sun, 11 Jun 2023 14:11:00 +0000",
-         "title" : "2023 NSW Open - Day 2"
       }
    ]
 }
