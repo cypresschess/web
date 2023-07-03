@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Corporate Chess Championship 2024,will be organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match points is as follows: a match won is worth 3 match []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-corporate-chess-championship-2024-in-paris-france/",
+         "pubDate" : "Mon, 03 Jul 2023 07:08:43 +0000",
+         "title" : "European Corporate Chess Championship 2024 in Paris, France"
+      },
+      {
+         "description" : "Fabiano Caruana, Alexander Donchenko and Dinara Wagner were crowned champions of the No Castling Masters, the A-Open and the Sportland NRW Cup, respectively. Caruana and Donchenko scored wins on the final day of action to clinch their titles, while Wagner secured tournament victory by drawing Ruben K&ouml;llner with the black pieces. Wagner's performance gained her a GM norm, the second in her career. | Photo: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d9",
+         "pubDate" : "Mon, 03 Jul 2023 07:00:00 +0100",
+         "title" : "Caruana, Donchenko and Wagner triumph in Dortmund"
+      },
+      {
          "description" : "GM Daniel Naroditsky outclassed the field in the first weekly Bullet Brawl and convincingly won the event ahead of GMs Hikaru Nakamura and Magnus Carlsen on Saturday. Naroditsky scored 242 points during the two-hour arena, playing out 67 wins, six...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-197",
          "pubDate" : "Sun, 02 Jul 2023 23:45:00 +0100",
          "title" : "The ultimate weapon"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2491",
+         "pubDate" : "Sun, 02 Jul 2023 21:37:07 +0000",
+         "title" : "VAR in chess: New technologies will be used to help arbiters at 2023 Western Asia Youth Chess "
       },
       {
          "description" : "",
@@ -66,20 +90,20 @@ news_feed (
          "title" : "Grand Chess Tour Rapid & Blitz Tour starts in Zagreb"
       },
       {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Sun, 02 Jul 2023 15:15:00 +0100",
-         "title" : "Global Chess League - Games and relevant links"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 132nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the skills and the legacy of Emanuel Lasker. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-14",
          "pubDate" : "Sun, 02 Jul 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 132: Chess history in a nutshell (14)"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
+         "pubDate" : "Sun, 02 Jul 2023 14:55:00 +0100",
+         "title" : "Global Chess League - Games and relevant links"
       },
       {
          "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
@@ -816,14 +840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-21st-asean-age-group-championships-2023-has-come-to-the-end",
          "pubDate" : "Tue, 27 Jun 2023 12:00:00 +0100",
          "title" : "The 21st ASEAN+ Age Group Championships 2023 have come to an end"
-      },
-      {
-         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn the most essential feature: creating your own base and entering games. It will turn you into a power user - and do wonders for your rating!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-creating-a-base-and-entering-a-game",
-         "pubDate" : "Tue, 27 Jun 2023 09:15:58 +0100",
-         "title" : "ChessBase in Minutes: creating a base and entering a game"
       },
       {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
