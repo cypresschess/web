@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King looking at another wild Two Knights opening with 4.Ng5: a game from 2021 between Wesley So and Magnus Carlsen. If one plays this position, one needs to be keenly aware of how to fight against the opponent's initative, and not be too greedy! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-wild-two-knights-opening",
+         "pubDate" : "Mon, 03 Jul 2023 22:15:04 +0100",
+         "title" : "Daniel King's Power Play Show: A wild Two Knights opening"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2492",
+         "pubDate" : "Mon, 03 Jul 2023 20:52:09 +0000",
+         "title" : "FIDE distributes €25,000 among chess veterans"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-finally-beats-magnus-after-8-years-monday-masters-gm-yasser-seirawan",
+         "pubDate" : "Mon, 03 Jul 2023 20:26:13 +0000",
+         "title" : "Fabi Finally Beats Magnus After 8 Years! | Monday Masters' - GM Yasser Seirawan"
+      },
+      {
          "description" : "They are so much better than us. They solve the most complicated positions in seconds.And they are so available. Anyone can buy them and use them at home. And frankly, we all use them. Chess engines. These artificial beasts are very useful when used wisely. But frankly, most club players tend to rely on them too much and use them mindlessly. In the following article I would like to show you three typical mistakes you should avoid when using a chess engine. And to show that even the best sometimes fail to tame the engines, I have chosen the examples from games played by Magnus Carlsen and his super-GM opponents. | Graphic: Europe Echecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "Dortmund: Kollars beats Kramnik"
       },
       {
-         "description" : "There was only one decisive game in round 6 of the Prague Chess Festival Masters Tournament: Wang Hao won with White against Boris Gelfand. Vincent Keymer missed good chances against Haik Martirosyan, but is still tied for first place with Ray Robson and Bogdan-Daniel Deac with 3.5 out of 6. Behind them are five (!) players with 3 out of 6 each - so with three rounds to go, eight players have a good chance of winning the tournament. In the Challengers, Benjamin Gledura is still the sole leader with 4.5 out of 6.| Photos: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-round-6-wang-beats-gelfand",
-         "pubDate" : "Wed, 28 Jun 2023 12:18:48 +0100",
-         "title" : "Prague, Round 6: Wang beats Gelfand"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1298,14 +1314,6 @@ news_feed (
          "title" : "Armenia wins European Pair Blitz Chess Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"> <p dir=\"ltr\"><strong>SAINT LOUIS, June 20, 2023 -</strong> With one round to spare, International Master (IM) Anna Zatonskih defied the odds to win the 2023 Cairns Cup. The four-time U.S. Women's Champion called the win her best achievement of her chess career as she took the grand prize of $45,000, despite starting as the lowest-rated player in the field. Zatonskih also earned her first norm toward the Grandmaster (GM) title. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-anna-zatonskih-wins-2023-cairns-cup-hosted-saint-louis-chess-club-takes-home-45000-top-prize",
-         "pubDate" : "Mon, 19 Jun 2023 20:27:50 +0000",
-         "title" : "IM Anna Zatonskih Wins 2023 Cairns Cup Hosted by the Saint Louis Chess Club, Takes Home $45,000 Top Prize"
-      },
-      {
          "description" : " <p class=\"lead\">GM Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda. Alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru, they will compete for the coveted prize of €200,000. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-19.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Photo: Max Avdeev The Armageddon Championship Ser",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2455",
          "pubDate" : "Tue, 13 Jun 2023 09:32:12 +0000",
          "title" : "Anna Zatonskih wins 2023 Cairns Cup"
-      },
-      {
-         "description" : " My second knight ending from our club online tournament a couple of weeks ago was, in truth, one of the most boring games I've played in the past 60 years, and, as most of my games are extremely boring, that's quite an achievement. I guess you must be reasonably happy if you get a Weighted Error <a href=\"https://chessimprover.com/knight-fever-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Fever (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-fever-2/\">Knight Fever (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/knight-fever-2/",
-         "pubDate" : "Mon, 12 Jun 2023 22:40:38 +0000",
-         "title" : "Knight Fever (2)"
       }
    ]
 }
