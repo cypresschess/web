@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is your chance! During our Summer Special weeks in July and August you will find attractive products and packages from our shop at special discount prices. We start with the essential software that every chess player needs - from the club amateur to the World Champion. ChessBase 17 and the unique Opening Encyclopedia will give a substantial boost to your playing strength. And you can get it for €50 less than the list price - for €229.90 instead of the list price of €279.80!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-2023-chessbase-17-opening-encyclopedia",
+         "pubDate" : "Mon, 03 Jul 2023 12:00:00 +0100",
+         "title" : "Summer Special 2023: ChessBase 17 + Opening Encyclopedia"
+      },
+      {
+         "description" : "The Triveni Continental Kings completed their comeback story with a victory in the finals of the Tech Mahindra Global Chess League 2023 that went all the way down to sudden death. 19-year-old GM Jonas Bjerre was the hero for the Kings as he took d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-11",
+         "pubDate" : "Mon, 03 Jul 2023 02:49:00 -0700",
+         "title" : "Triveni Continental Kings Win Global Chess League, Bjerre Stars In Sudden Death"
+      },
+      {
          "description" : "The European Corporate Chess Championship 2024,will be organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match points is as follows: a match won is worth 3 match []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -834,14 +850,6 @@ news_feed (
          "title" : "1st NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18 CHESS CHAMPIONSHIPS - 2023"
       },
       {
-         "description" : "It was just a question of how big Vietnam's win would be, and the final tally of 92 gold, 37 silver and 49 bronze spoke for itself! When second placed Philippines 'only' had 15 gold, 38 silver and 8 bronze, followed by India with 3 gold, 3 silver and 3 bronze, the extent of their dominance becomes even more apparent. New Zealand were a surprise fourth on the senior medal tally, Myanmar fifth, followed by Indonesia, Thailand, Singapore, China and Malaysia with medals. Read the ASEAN+ Age Group Championships 2023 final report by Peter Long directly from the venue in Bangkok, Thailand. | Photos: Peter Long",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-21st-asean-age-group-championships-2023-has-come-to-the-end",
-         "pubDate" : "Tue, 27 Jun 2023 12:00:00 +0100",
-         "title" : "The 21st ASEAN+ Age Group Championships 2023 have come to an end"
-      },
-      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1090,7 +1098,7 @@ news_feed (
          "title" : "Carlsen Beats Anand, But Ganges Grandmasters Strike Back"
       },
       {
-         "description" : " The Global Chess League takes place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, ",
+         "description" : " The Global Chess League took place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, I",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/global-chess-league-2023",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-online-sna/",
          "pubDate" : "Fri, 23 Jun 2023 06:49:18 +0000",
          "title" : "Certificates of Online SNA"
-      },
-      {
-         "description" : "Former World Champions Vishy Anand and Hou Yifan both scored big wins as their team, the Ganges Grandmasters, cruised to victory on day one of the Tech Mahindra Global Chess League 2023 in Dubai.&#38;nbsp;&#38;nbsp; GM Alexander Grischuk was the day&#39;s o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-1",
-         "pubDate" : "Thu, 22 Jun 2023 16:47:00 -0700",
-         "title" : "Anand, Hou Show Class Is Permanent As Global Chess League Begins"
       },
       {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-5b261a50-7fff-e802-da1b-fd1a6d9fbe45\">SAINT LOUIS, June 22, 2023</span> -</strong> The <a href=\"http://www.saintlouischessclub.org\">Saint Louis Chess Club</a> today announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-im",
