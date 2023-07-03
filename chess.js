@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "They are so much better than us. They solve the most complicated positions in seconds.And they are so available. Anyone can buy them and use them at home. And frankly, we all use them. Chess engines. These artificial beasts are very useful when used wisely. But frankly, most club players tend to rely on them too much and use them mindlessly. In the following article I would like to show you three typical mistakes you should avoid when using a chess engine. And to show that even the best sometimes fail to tame the engines, I have chosen the examples from games played by Magnus Carlsen and his super-GM opponents. | Graphic: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-19-typical-mistakes-when-analysing-with-an-engine",
+         "pubDate" : "Mon, 03 Jul 2023 20:00:00 +0100",
+         "title" : "The Winning Academy 19: Typical Mistakes when Analysing with an Engine"
+      },
+      {
          "description" : "Chess.com&#38;rsquo;s blistering Bullet Chess Championship is back with a star-studded posse of the fastest gunslingers in the game ready to duel. This year&#38;rsquo;s quickfire one-minute chess tournament, which runs July 17 to 21, boasts its strongest ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2023-bcc",
-         "pubDate" : "Mon, 03 Jul 2023 08:01:08 -0700",
+         "pubDate" : "Mon, 03 Jul 2023 08:01:00 -0700",
          "title" : "Carlsen, Nakamura And Firouzja Line Up For Strongest Bullet Chess Championship Ever"
       },
       {
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2481",
          "pubDate" : "Wed, 28 Jun 2023 10:14:58 +0000",
          "title" : "Girls Club \"Chess for protection\" keeps growing"
-      },
-      {
-         "description" : "Readers will recall the scandal that shook the chess world, when Magnus Carlsen stated he thought US GM Hans Niemann had cheated against him. In spite of endless amounts of speculation and hand-waving, no evidence was ever produced, and Niemann struck back with an eye-watering $100 million-dollar lawsuit. The verdict is in. Updated with video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-s-100-million-lawsuit",
-         "pubDate" : "Wed, 28 Jun 2023 09:19:32 +0100",
-         "title" : "Niemann's $100 million lawsuit (with video)"
       },
       {
          "description" : "",
@@ -1624,14 +1624,6 @@ news_feed (
          "link" : "https://chessimprover.com/knight-fever-2/",
          "pubDate" : "Mon, 12 Jun 2023 22:40:38 +0000",
          "title" : "Knight Fever (2)"
-      },
-      {
-         "description" : "It's time for another fortnightly report on the world's top two engine vs. engine chess competitions. For the previous report, see <A HREF=\"https://chessforallages.blogspot.com/2023/05/tcec-frc6-ccc-20-rapid-finals-both.html\">TCEC FRC6, CCC20 Rapid Finals; Both Underway</A> (May 2023). Following is a summary of that report. <BLOCKQUOTE> TCEC: The site launched a chess960 event, 'S24 FRC6', which is currently in the 'First phase - League C', the third of four preliminary six-engine double round robins. &#149; CCC: The engine Mystery played five 100-game matches, In the 'CCC20 Rapid Challenger Match' Lc0 beat Dragon 129.5-120.5, and is currently losing to Stockfish by seven points in the 'Fina",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html",
-         "pubDate" : "Mon, 12 Jun 2023 15:54:00 +0000",
-         "title" : "TCEC FRC6, CCC20 Rapid; Stockfish Wins Both"
       }
    ]
 }
