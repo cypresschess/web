@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Daniel Naroditsky outclassed the field in the first weekly Bullet Brawl and convincingly won the event ahead of GMs Hikaru Nakamura and Magnus Carlsen on Saturday. Naroditsky scored 242 points during the two-hour arena, playing out 67 wins, six...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-wins-2023-bullet-brawl-july-week-1",
+         "pubDate" : "Sun, 02 Jul 2023 17:16:37 -0700",
+         "title" : "Naroditsky Collects First Bullet Brawl Title Ahead Of Nakamura, Carlsen"
+      },
+      {
          "description" : "The double check is sometimes characterised as the \"Atomic Bomb\" of the chessboard. Since the checks come from two different lines, these can't be blocked simultaneously by a single move, and therefore the king has to retreat. If there is no retreat square available, then it may be checkmate out of a clear sky! | Pictured: Aron Nimzowitsch",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1122,14 +1130,6 @@ news_feed (
          "title" : "Сhess revolution has started: Global Chess League kicked off with the first two matches"
       },
       {
-         "description" : "Chess.com is excited to announce that our previously monthly Bullet Brawl is now happening every week!&#38;nbsp;Starting in July, our bullet arena for titled players is going weekly, with a $1,000 prize fund for each event. Every Saturday beginning at...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-brawl-weekly",
-         "pubDate" : "Thu, 22 Jun 2023 13:41:00 -0700",
-         "title" : "Bullet Brawl Is Going Weekly"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1616,14 +1616,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/ssrs/#new_tab",
          "pubDate" : "Mon, 12 Jun 2023 14:10:48 +0000",
          "title" : "ECF Secondary School Rapidplay Chess Tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2453",
-         "pubDate" : "Mon, 12 Jun 2023 01:37:08 +0000",
-         "title" : "Winners crowned at 2023 FIDE World Cadets & Youth Blitz and Rapid Championship"
       }
    ]
 }
