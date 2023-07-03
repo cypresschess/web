@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-06-30  - 07-02","39","<a href=http://www.uschess.org/msa/XtblMain.php?202307021492 target='_blank'>$2,500 HOUSTON CHESS STUDIO JULY 20</a>",
 "HOUSTON","2023-07-01","12","<a href=http://www.uschess.org/msa/XtblMain.php?202307010622 target='_blank'>CHESSPANDA07012023SATURDAY</a>",
 "CYPRESS","2023-07-01","36","<a href=http://www.uschess.org/msa/XtblMain.php?202307010522 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-06-30","25","<a href=http://www.uschess.org/msa/XtblMain.php?202306300442 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-11-14","2","<a href=http://www.uschess.org/msa/XtblMain.php?202211142562 target='_blank'>MATCH PLAY</a>",
 "HOUSTON","2022-11-11  - 11-13","258","<a href=http://www.uschess.org/msa/XtblMain.php?202211131902 target='_blank'>2022 HOUSTON OPEN</a>",
 "SPRING","2022-11-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202211110162 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-11-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202211110112 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
