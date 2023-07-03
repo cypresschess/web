@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com&#38;rsquo;s blistering Bullet Chess Championship is back with a star-studded posse of the fastest gunslingers in the game ready to duel. This year&#38;rsquo;s quickfire one-minute chess tournament, which runs July 17 to 21, boasts its strongest ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2023-bcc",
+         "pubDate" : "Mon, 03 Jul 2023 08:01:08 -0700",
+         "title" : "Carlsen, Nakamura And Firouzja Line Up For Strongest Bullet Chess Championship Ever"
+      },
+      {
+         "description" : "The new ChessBase Magazine #214 offers various updates for your repertoire with eleven opening articles from the Dutch to King's Indian. 1.e4 players can be curious about Martin Lorenzini's article on the Scandinavian with 3...Qa5. For the GM from Argentina sees Black in great trouble in the line 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5!: \"The positions that the second player gets are passive, difficult to handle and practically aspire to only a draw\". Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/is-the-3-qa5-scandinavian-busted",
+         "pubDate" : "Mon, 03 Jul 2023 15:00:00 +0100",
+         "title" : "Is the 3...Qa5-Scandinavian busted?"
+      },
+      {
+         "description" : " Chess photography is a popular (although not very lucrative) pastime. There is something about the settings, the personalities, and range of emotions that seem to attract photographers to the sport. For people like me (using my low res smart phone) it is to recognise people who come each weel to Street Chess. For more prolific photographers (with their better equipment) like Cathy Rogers or Dr Helen Milligan, it is a way of documenting the chess events they attend. But for some at the top, it is a way to make a living, as well as provide an insight into the world of top level chess. Courtesy of regular reader Jim, there is a <a href=\"https://edition.cnn.com/2023/06/19/sport/maria-emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/the-art-of-making-chess-art.html",
+         "pubDate" : "Mon, 03 Jul 2023 13:06:00 +0000",
+         "title" : "The art of making (chess) art"
+      },
+      {
+         "description" : "At the beginning of the month, FIDE published its new rating list. Magnus Carlsen, who lost 18 Elo points at Norway Chess in June, remains at the top of the list with 2835 points and is also the only player with an Elo rating above 2800. The Americans Hikaru Nakamura (2787, +12 at Norway Chess) and Fabiano Caruana (2782, +9 at Norway Chess) are in second and third place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-july-2023",
+         "pubDate" : "Mon, 03 Jul 2023 14:00:00 +0100",
+         "title" : "FIDE ratings July 2023"
+      },
+      {
          "description" : "This is your chance! During our Summer Special weeks in July and August you will find attractive products and packages from our shop at special discount prices. We start with the essential software that every chess player needs - from the club amateur to the World Champion. ChessBase 17 and the unique Opening Encyclopedia will give a substantial boost to your playing strength. And you can get it for €50 less than the list price - for €229.90 instead of the list price of €279.80!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Summer Special 2023: ChessBase 17 + Opening Encyclopedia"
       },
       {
-         "description" : "The Triveni Continental Kings completed their comeback story with a victory in the finals of the Tech Mahindra Global Chess League 2023 that went all the way down to sudden death. 19-year-old GM Jonas Bjerre was the hero for the Kings as he took d...",
+         "description" : "The Triveni Continental Kings completed their comeback story with a victory in the finals of the Tech Mahindra Global Chess League 2023 that went all the way down to sudden death. The 19-year-old GM Jonas Bjerre was the hero for the Kings as he to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-11",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Positional Pros and Cons | Beginner Breakdown"
       },
       {
-         "description" : "Vishy Anand has defeated Jan-Krzysztof Duda twice in five days. The legend continues to make it look easy. The Poland no.1 sacrificed an exchange and things did not work out for him. Anand's win did not help the team though, as he scored the sole victory for Ganges Grandmasters. Yifan Hou had a great chance to win against Alexandra Kosteniuk. Unfortunately for her, she couldn't find a way in time trouble. Harika Dronavalli and Jonas Buhl Bjerre scored crucial victories for upGrad Mumba Masters to beat Triveni Continetal Kings. Both rematches had the inverse overall match result of their first encounter at this event. There will be two matches tomorrow, starting at 5:30 p.m. local time, 7 p.m",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-6-report",
-         "pubDate" : "Tue, 27 Jun 2023 19:30:00 +0100",
-         "title" : "Tech Mahindra GCL Day 6: Chingari Gulf Titans move up as Anand's win goes in vain"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cadets-chess-championships/",
          "pubDate" : "Tue, 27 Jun 2023 12:02:49 +0000",
          "title" : "FIDE WORLD CADET CHESS CHAMPIONSHIPS"
-      },
-      {
-         "description" : "The 50th Dortmund Chess Festival is underway in Dortmund's Westfalenhalle. Yesterday, Vladimir Kramnik and Fabiano Caruana started their no-casting experiment and were both successful from the get go, beating Pavel Eljanov and defending champion Dmitrij Kollars respectively. | Photo: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d3",
-         "pubDate" : "Tue, 27 Jun 2023 13:00:00 +0100",
-         "title" : "Dortmund: Kramnik and Caruana with splendid starts"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (69)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (69)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2472",
          "pubDate" : "Fri, 23 Jun 2023 22:11:32 +0000",
          "title" : "Chess Legends face off: Anand and Carlsen headline the day"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen beat fellow former World Champion Viswanathan Anand on day two of the Tech Mahindra Global Chess League 2023 in Dubai, but it was Anand&#39;s Ganges Grandmasters who won the match and boast the only perfect score.&#38;nbsp;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-2",
-         "pubDate" : "Fri, 23 Jun 2023 15:08:00 -0700",
-         "title" : "Carlsen Beats Anand, But Ganges Grandmasters Strike Back"
       },
       {
          "description" : " The Global Chess League took place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, I",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html",
          "pubDate" : "Mon, 12 Jun 2023 15:54:00 +0000",
          "title" : "TCEC FRC6, CCC20 Rapid; Stockfish Wins Both"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Juniors/ssrs/#new_tab",
-         "pubDate" : "Mon, 12 Jun 2023 14:10:48 +0000",
-         "title" : "ECF Secondary School Rapidplay Chess Tournament"
       }
    ]
 }
