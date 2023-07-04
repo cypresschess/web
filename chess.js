@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As part of the chess festival in Bydgoszcz, Poland, two tournaments with an interesting format were played: six players took part in a round robin and competed in classical, rapid and blitz chess. Jorden van Foreest (pictured) won the open tournament, Meri Arabidze was first in the women's tournament. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jorden-van-foreest-and-meri-arabidze-win-at-chess-festival-in-bydgoszcz",
+         "pubDate" : "Tue, 04 Jul 2023 13:00:00 +0100",
+         "title" : "Jorden van Foreest and Meri Arabidze win at Chess Festival in Bydgoszcz"
+      },
+      {
+         "description" : " &#8220;In theory there is no difference between theory and practice. In practice there is.&#8221; Yogi Berra These days playing online requires at minimum basic knowledge of your opening choice. First of all it is not that hard to learn a couple of important ideas. Secondly, there are countless choices where you can find them; even <a href=\"https://chessimprover.com/opening-blunders-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Blunders (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-blunders-2/\">Opening Blunders (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/opening-blunders-2/",
+         "pubDate" : "Tue, 04 Jul 2023 09:00:42 +0000",
+         "title" : "Opening Blunders (2)"
+      },
+      {
          "description" : "Endgames, in which a rook fights against a bishop, can be complicated. In the diagram position Black is an exchange up and has a winning position. But what should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-7",
          "pubDate" : "Wed, 28 Jun 2023 14:41:00 -0700",
          "title" : "Carlsen Wins Climactic Clash vs. Anand, Leads Team To Top"
-      },
-      {
-         "description" : "Vishy Anand vs Magnus Carlsen games are always the highly anticipated encounter of the day, no matter the event. The rematch between two of the greatest was arguably the game of the tournament so far. The endgame seemed to be heading towards a draw when the world no.1 went for a break. It actually allowed Anand to salvage a draw. However, time trouble induced a human error, turning things once again towards the Norwegian's favor. After an exchange of smiles, tha avoidance of a stalemate trap and an underpromotion, Carlsen defeated Anand in a stellar game. His and Praggnanandhaa's win ensured SG Alpine Warriors knocking off Ganges Grandmasters from the top of the leaderboard. Tomorrow will be",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-7-report",
-         "pubDate" : "Wed, 28 Jun 2023 19:45:00 +0100",
-         "title" : "GCL Day 7: Carlsen wins an exquisite endgame against Anand"
       },
       {
          "description" : "",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-3-way-tie-for-1st.html",
          "pubDate" : "Tue, 13 Jun 2023 12:55:00 +0000",
          "title" : "2023 NSW Open - 3 way tie for 1st"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2455",
-         "pubDate" : "Tue, 13 Jun 2023 09:32:12 +0000",
-         "title" : "Anna Zatonskih wins 2023 Cairns Cup"
       }
    ]
 }
