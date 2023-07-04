@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endgames, in which a rook fights against a bishop, can be complicated. In the diagram position Black is an exchange up and has a winning position. But what should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/backwards-is-the-way-forward",
+         "pubDate" : "Tue, 04 Jul 2023 09:00:00 +0100",
+         "title" : "Backwards is the way forward"
+      },
+      {
+         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn the secret to annotating your games with variations, moves, colored arrows and more! It will turn you into a power user - and do wonders for your rating!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-annotate-like-a-pro",
+         "pubDate" : "Tue, 04 Jul 2023 07:35:00 +0100",
+         "title" : "ChessBase in Minutes: How to annotate like a pro"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fabiano-caruana-wins-dortmund-sparkassen-chess-trophy",
-         "pubDate" : "Mon, 03 Jul 2023 19:05:09 -0700",
+         "pubDate" : "Mon, 03 Jul 2023 19:05:00 -0700",
          "title" : "Caruana Edges Out Kramnik In No Castling Masters Dortmund"
       },
       {
@@ -722,14 +738,6 @@ news_feed (
          "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
       },
       {
-         "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vidit-gujarathi-master-advanced-tactics-2",
-         "pubDate" : "Wed, 28 Jun 2023 18:00:00 +0100",
-         "title" : "Vidit Gujarathi: Master Advanced Tactics"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/its-the-beginning-of-a-revolution-in-india-magnus-carlsen/articleshow/101342951.cms",
          "pubDate" : "Wed, 28 Jun 2023 12:50:02 +0000",
          "title" : "It's the beginning of a revolution in India: Magnus Carlsen"
-      },
-      {
-         "description" : "Dmitrij Kollars can celebrate having beaten a former world champion. In the No-Castling Masters, the German grandmaster defeated Vladimir Kramnik. Ruben Gideon K&ouml;llner leads the Sportland NRW Cup, while Alexander Donchenko won the all-important against Frederik Svane in the A-Open. | Screenshot: Former tournament director J&uuml;rgen Grastat makes the ceremonial first move",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d4",
-         "pubDate" : "Wed, 28 Jun 2023 12:35:00 +0100",
-         "title" : "Dortmund: Kollars beats Kramnik"
       },
       {
          "description" : "",
