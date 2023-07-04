@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-finally-beats-magnus-after-8-years-monday-masters-gm-yasser-seirawan-lichessorg",
+         "pubDate" : "Tue, 04 Jul 2023 02:26:31 +0000",
+         "title" : "Fabi Finally Beats Magnus After 8 Years! | Monday Masters' - GM Yasser Seirawan | lichess.org"
+      },
+      {
+         "description" : "GM Fabiano Caruana has been crowned the winner of the 2023 No Castling World Masters after scoring 4/6 in a double round-robin classical tournament in Dortmund, Germany, and finishing half a point ahead of GM Vladimir Kramnik. As part of the 50t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fabiano-caruana-wins-dortmund-sparkassen-chess-trophy",
+         "pubDate" : "Mon, 03 Jul 2023 19:05:09 -0700",
+         "title" : "Caruana Edges Out Kramnik In No Castling Masters Dortmund"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King looking at another wild Two Knights opening with 4.Ng5: a game from 2021 between Wesley So and Magnus Carlsen. If one plays this position, one needs to be keenly aware of how to fight against the opponent's initative, and not be too greedy! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-wins-2023-bullet-brawl-july-week-1",
-         "pubDate" : "Sun, 02 Jul 2023 17:16:37 -0700",
+         "pubDate" : "Sun, 02 Jul 2023 17:16:00 -0700",
          "title" : "Naroditsky Collects First Bullet Brawl Title Ahead Of Nakamura, Carlsen"
       },
       {
@@ -438,7 +454,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/named-and-shamed-the-players-sanctioned-by-us-chess",
-         "pubDate" : "Fri, 30 Jun 2023 10:01:08 -0700",
+         "pubDate" : "Fri, 30 Jun 2023 10:01:00 -0700",
          "title" : "US Chess Releases List Of Sanctioned Players"
       },
       {
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "Snakes and Leaders"
       },
       {
-         "description" : "Once again, the Kansas City Chiefs secured a victory over the Cincinnati Bengals. This time, the win was on the chessboard, not the field. In a dramatic final, between&#38;nbsp;Bengal&#39;s cornerback Chidobe Awuzie and Chiefs linebacker Drue Tranquill, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-blitz-champs-ii-tranquill-wins",
-         "pubDate" : "Fri, 23 Jun 2023 16:58:09 -0700",
-         "title" : "Chiefs Drue Tranquill Intercepts BlitzChamps II Victory With Dramatic Queen Sacrifice"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/progressing-chess-puzzles-beginner-breakdown",
          "pubDate" : "Tue, 20 Jun 2023 20:15:45 +0000",
          "title" : "Progressing with Chess Puzzles | Beginner Breakdown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on prophylaxis.<br /> Prophylaxis is the prevention of your opponent's ideas. See JJ's own games that demonstrate prophylaxis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UOM88zZLL9A.jpg?itok=63FtTzv5\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prophylaxis-and-dynamics-grandmasters-choice-gm-jj-ali-marandi",
-         "pubDate" : "Tue, 20 Jun 2023 20:15:45 +0000",
-         "title" : "Prophylaxis and Dynamics | Grandmaster's Choice - GM JJ Ali Marandi"
       },
       {
          "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
