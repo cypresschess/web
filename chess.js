@@ -10,6 +10,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - My Jobava-London win against an IM"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2495",
+         "pubDate" : "Tue, 04 Jul 2023 15:39:19 +0000",
+         "title" : "2023 FIDE World Cup: Players lists and pairings announced"
+      },
+      {
          "description" : "The Slovak Championship Open 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gabor Farkas, Martin Chlpik, Adrian Zetocha, Patrik []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
