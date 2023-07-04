@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana recently played in the Canadian Transnational Tournament, where almost every opponent had a couple of hundred rating points more than her. Awonder Liang, Lazaro Bruzon, and Alexandr Lenderman were among the players in the tournament. The WIM was still able to show some smart moves, and even beat an IM with the Jobava-London. And due to this opening choice, Svitlana started a nice attack, which had some beautiful tactics.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-my-jobava-london-win-against-an-im",
+         "pubDate" : "Tue, 04 Jul 2023 18:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - My Jobava-London win against an IM"
+      },
+      {
          "description" : "The Slovak Championship Open 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gabor Farkas, Martin Chlpik, Adrian Zetocha, Patrik []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-round-7-robson-takes-the-lead",
          "pubDate" : "Thu, 29 Jun 2023 11:17:09 +0100",
          "title" : "Prague, Round 7: Robson takes the lead"
-      },
-      {
-         "description" : "In his Game of the Week show #574 Merijn van Delft enjoys a fine technical game in the Ruy Lopez, which Vishy Anand won against Levon Aronian at the Global Chess League in Dubai. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-574-v-anand-vs-l-aronian",
-         "pubDate" : "Thu, 29 Jun 2023 08:52:15 +0100",
-         "title" : "Game of the Week #574: V. Anand vs L. Aronian"
       },
       {
          "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
