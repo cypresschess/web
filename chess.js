@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Slovak Championship Open 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gabor Farkas, Martin Chlpik, Adrian Zetocha, Patrik []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/slovak-championship-open-2023-live/",
+         "pubDate" : "Tue, 04 Jul 2023 14:51:18 +0000",
+         "title" : "Slovak Championship Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Slovak Championship GM 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Sebastian Lukas Kostolansky, Juraj Druska, Jergus Pechac, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/slovak-championship-gm-2023-live/",
+         "pubDate" : "Tue, 04 Jul 2023 14:20:00 +0000",
+         "title" : "Slovak Championship GM 2023 - LIVE"
+      },
+      {
+         "description" : "The Slovak Championship GM 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Sebastian Lukas Kostolansky, Juraj Druska, Jergus Pechac, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/slovak-championship-gm-2023/",
+         "pubDate" : "Tue, 04 Jul 2023 14:00:00 +0000",
+         "title" : "Slovak Championship GM 2023"
+      },
+      {
+         "description" : "Tony Ballard is a Kansas prison inmate who turned a 25-year sentence into a passion for chess. He used the game to teach other inmates critical-thinking skills, and became the Director of Prison Outreach. Tony partnered with The Gift of Chess, an initiative that is set to distribute one million chess sets all over the world by 2030. To date they have manufactured over 80,000, sending most to African nations. Read this report and prepare to be inspired.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tony-ballard",
+         "pubDate" : "Tue, 04 Jul 2023 15:00:00 +0100",
+         "title" : "Tony Ballard and the Gift of Chess"
+      },
+      {
+         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3NjoYIpYnUI5JT2CHUJ1rVmsQVqSzw_R9ZyNs0j_7ZWnFaadngRihfBSrCjG9TvhnS4EMv2--bxCfxpTxtRM6M3xwXPqlV9jPg2DQbBMdbkeMHHpcgK5xX5P7y-6lYWwWuGSws8MUY0rzbJ-U-Xz-69Zzdpsp673qLHFxFg5-d3Rg4y37-cFBw_2cyg/s680/nemhos.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3NjoYIpYnUI5JT2CHUJ1rVmsQVqSzw_R9ZyNs0j_7ZWnFaadngRihfBSrCjG9T",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/taking-only-chance.html",
+         "pubDate" : "Tue, 04 Jul 2023 13:28:00 +0000",
+         "title" : "Taking the only chance"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2494",
+         "pubDate" : "Tue, 04 Jul 2023 12:50:15 +0000",
+         "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-1-live/",
+         "pubDate" : "Tue, 04 Jul 2023 12:50:05 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 1 - LIVE"
+      },
+      {
+         "description" : "The SuperUnited Rapid &#38; Blitz Croatia is the 3rd stage on the 2023 Grand Chess Tour, a series of five events with a total prize fund of $1.4 million. The 10-player event features world no. 1 Magnus Carlsen, and is taking place in Zagreb from July 5-9, 2023. The rapid is a 10-player single round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/superunited-rapid-blitz-croatia-2023-live/",
+         "pubDate" : "Tue, 04 Jul 2023 12:43:44 +0000",
+         "title" : "SuperUnited Rapid & Blitz Croatia 2023 - LIVE"
+      },
+      {
+         "description" : "The SuperUnited Rapid &#38; Blitz Croatia is the 3rd stage on the 2023 Grand Chess Tour, a series of five events with a total prize fund of $1.4 million. The 10-player event features world no. 1 Magnus Carlsen, and is taking place in Zagreb from July 5-9, 2023. The rapid is a 10-player single round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/superunited-rapid-blitz-croatia-2023/",
+         "pubDate" : "Tue, 04 Jul 2023 12:10:00 +0000",
+         "title" : "SuperUnited Rapid & Blitz Croatia 2023"
+      },
+      {
          "description" : "As part of the chess festival in Bydgoszcz, Poland, two tournaments with an interesting format were played: six players took part in a round robin and competed in classical, rapid and blitz chess. Jorden van Foreest (pictured) won the open tournament, Meri Arabidze was first in the women's tournament. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +82,36 @@ news_feed (
          "title" : "Jorden van Foreest and Meri Arabidze win at Chess Festival in Bydgoszcz"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2493",
+         "pubDate" : "Tue, 04 Jul 2023 11:36:10 +0000",
+         "title" : "The 2023 FIDE World Cup wild cards revealed"
+      },
+      {
+         "description" : " The SuperUnited Rapid & Blitz, part of the Grand Chess Tour, takes place in Zagreb Wed 5th to Mon 10th July 2023. Players: Magnus Carlsen, Ian Nepomniachtchi, Fabiano Caruana, Vishy Anand, Alireza Firouzja, Jan-Krzysztof Duda, Richard Rapport, Ivan Saric, D Gukesh and Constantin Lupulescu.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2023",
+         "pubDate" : "Tue, 4 Jul 2023 13:21:00 +0400",
+         "title" : "SuperUnited Rapid & Blitz 2023 - Games and Results"
+      },
+      {
          "description" : " &#8220;In theory there is no difference between theory and practice. In practice there is.&#8221; Yogi Berra These days playing online requires at minimum basic knowledge of your opening choice. First of all it is not that hard to learn a couple of important ideas. Secondly, there are countless choices where you can find them; even <a href=\"https://chessimprover.com/opening-blunders-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Blunders (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-blunders-2/\">Opening Blunders (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/opening-blunders-2/",
          "pubDate" : "Tue, 04 Jul 2023 09:00:42 +0000",
          "title" : "Opening Blunders (2)"
+      },
+      {
+         "description" : " The Women's World Chess Championship match takes place in Shanghai and Chongqing July 5th to 24th 2023. Defending Champion Ju Wenjun faces challenger Lei Tingjie in a 12 game match. Games start at 15:00 local time which is 8am BST. Playing days in July: 5th-6th, 8th-9th, 11th-12th, (13th-14th travel to Chongqing and rest day), 15th-16th, 18th-19th, 21st-22nd then 23rd for tie-breaks if needed. <a href=\"https://fide.com/news/2482\">FIDE Event summary</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
+         "pubDate" : "Tue, 4 Jul 2023 12:29:00 +0400",
+         "title" : "Women's World Chess Championship 2023 - Games and Results"
       },
       {
          "description" : "Endgames, in which a rook fights against a bishop, can be complicated. In the diagram position Black is an exchange up and has a winning position. But what should he do?",
@@ -32,6 +128,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-annotate-like-a-pro",
          "pubDate" : "Tue, 04 Jul 2023 07:35:00 +0100",
          "title" : "ChessBase in Minutes: How to annotate like a pro"
+      },
+      {
+         "description" : "The 65+ Senior Championship Saxony-Anhalt 2023 is a 7-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Gerhard, Dr. Koehler, Bernard Leiber, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/65-senior-championship-saxony-anhalt-2023-live/",
+         "pubDate" : "Tue, 04 Jul 2023 06:33:00 +0000",
+         "title" : "65+ Senior Championship Saxony-Anhalt 2023 - LIVE"
+      },
+      {
+         "description" : "The 65+ Senior Championship Saxony-Anhalt 2023 is a 7-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Gerhard, Dr. Koehler, Bernard Leiber, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/65-senior-championship-saxony-anhalt-2023/",
+         "pubDate" : "Tue, 04 Jul 2023 06:00:00 +0000",
+         "title" : "65+ Senior Championship Saxony-Anhalt 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
@@ -146,6 +258,22 @@ news_feed (
          "title" : "Caruana, Donchenko and Wagner triumph in Dortmund"
       },
       {
+         "description" : "The 2023 Dutch Women's Championship is taking place from July 2-6 in Utrecht, the Netherlands. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 4-player double round-robin tournament with participation of Eline Roebers, Robin Duson, Arlette Van Weersel and Anna-Maja Kazarian. Parallel : FIDE Women&#x2019;s World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dutch-womens-championship-2023-live/",
+         "pubDate" : "Mon, 03 Jul 2023 03:48:00 +0000",
+         "title" : "Dutch Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 Dutch Women's Championship is taking place from July 2-6 in Utrecht, the Netherlands. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 4-player double round-robin tournament with participation of Eline Roebers, Robin Duson, Arlette Van Weersel and Anna-Maja Kazarian.Chessdom.com will daily follow the live []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dutch-womens-championship-2023/",
+         "pubDate" : "Mon, 03 Jul 2023 03:23:00 +0000",
+         "title" : "Dutch Women's Championship 2023"
+      },
+      {
          "description" : "GM Daniel Naroditsky outclassed the field in the first weekly Bullet Brawl and convincingly won the event ahead of GMs Hikaru Nakamura and Magnus Carlsen on Saturday. Naroditsky scored 242 points during the two-hour arena, playing out 67 wins, six...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -184,22 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-11-report",
          "pubDate" : "Sun, 02 Jul 2023 21:50:00 +0100",
          "title" : "GCL: Jonas Buhl Bjerre wins thriller, Triveni Continental Kings clinch title"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-chess-championship-2023/",
-         "pubDate" : "Sun, 02 Jul 2023 18:33:30 +0000",
-         "title" : "FIDE Women's World Chess Championship 2023"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-chess-championship-2023-live/",
-         "pubDate" : "Sun, 02 Jul 2023 18:00:00 +0000",
-         "title" : "FIDE Women's World Chess Championship 2023 - LIVE"
       },
       {
          "description" : " Here's the conclusion of an online rapidplay game I played recently which resulted in an exciting rook ending with fluctuating fortunes. I lost it in the end, but really should have won it on two occasions. If you follow this lesson you can learn to play rook endings better than me (and my opponent)! We'll <a href=\"https://chessimprover.com/fluctuation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fluctuation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fluctuation/\">Fluctuation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -248,22 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-championships-2023-endgames",
          "pubDate" : "Sun, 02 Jul 2023 10:00:00 +0100",
          "title" : "Outstanding endgames from the Asian Championships"
-      },
-      {
-         "description" : "The Klatovy Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Klatovy, Czechia. Players receive 120 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Vojtech Straka, Petr Neuman, Martin Formanek, Tomas Hurdzan and Martin Horak. Parallel : Ceske []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/klatovy-open-a-2023-live/",
-         "pubDate" : "Sun, 02 Jul 2023 03:00:00 +0000",
-         "title" : "Klatovy Open A 2023 - LIVE"
-      },
-      {
-         "description" : "The Klatovy Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Klatovy, Czechia. Players receive 120 minutes for the entire game, plus a 30-second increment starting from move one. The top five rated players are Vojtech Straka, Petr Neuman, Martin Formanek, Tomas Hurdzan and Martin Horak.Chessdom.com will daily follow []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/klatovy-open-a-2023/",
-         "pubDate" : "Sun, 02 Jul 2023 02:33:00 +0000",
-         "title" : "Klatovy Open A 2023"
       },
       {
          "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
@@ -418,22 +514,6 @@ news_feed (
          "title" : "GCL Day 9: Triveni Continental Kings join the leaders"
       },
       {
-         "description" : "The Ceske Budejovice IM 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. Parallel : Ceske Budejovice GM A 2023 / Ceske Budejovice []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-im-2023-live/",
-         "pubDate" : "Fri, 30 Jun 2023 19:57:36 +0000",
-         "title" : "Ceske Budejovice IM 2023 - LIVE"
-      },
-      {
-         "description" : "The Catalan Circuit Torredembarra Open 2023 is taking place from 1&#x2013;9 July 2023 in Torredembarra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Robert Aloma Vidal, Jose Antonio Lacasa Diaz, Albert Castillo Dalmau, Antonio Torrecillas Martinez, Ruslan Pogorelov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/catalan-circuit-torredembarra-open-2023-live/",
-         "pubDate" : "Fri, 30 Jun 2023 19:26:48 +0000",
-         "title" : "Catalan Circuit Torredembarra Open 2023 - LIVE"
-      },
-      {
          "description" : "GM Ray Robson won the Prague Chess Festival Masters after finishing in shared first with GM Bogan-Daniel Deac on 5.5/9 points. In the blitz tiebreak, the American grandmaster won the first game with Black and then offered a draw in a winning posit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -448,38 +528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gcl-day-9-aronian-astounds-carlsen-and-nepo-triveni-jump-to-third-place",
          "pubDate" : "Fri, 30 Jun 2023 20:05:00 +0100",
          "title" : "GCL Day 9: Aronian astounds Carlsen and Nepo, Triveni jump to third place"
-      },
-      {
-         "description" : "The Ceske Budejovice IM 2023 is a 10-player round-robin tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. Parallel : Ceske Budejovice []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-im-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 19:00:00 +0000",
-         "title" : "Ceske Budejovice IM 2023"
-      },
-      {
-         "description" : "The Ceske Budejovice Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Vignir Vatnar Stefansson, Piotr []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-open-a-2023-live/",
-         "pubDate" : "Fri, 30 Jun 2023 18:40:00 +0000",
-         "title" : "Ceske Budejovice Open A 2023 - LIVE"
-      },
-      {
-         "description" : "The Catalan Circuit Torredembarra Open 2023 is taking place from 1&#x2013;9 July 2023 in Torredembarra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Robert Aloma Vidal, Jose Antonio Lacasa Diaz, Albert Castillo Dalmau, Antonio Torrecillas Martinez, Ruslan Pogorelov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/catalan-circuit-torredembarra-open-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 18:20:00 +0000",
-         "title" : "Catalan Circuit Torredembarra Open 2023"
-      },
-      {
-         "description" : "The Ceske Budejovice Open A 2023 is a 9-round Swiss tournament taking place from 1&#x2013;9 July 2023 in Ceske Budejovice, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Vignir Vatnar Stefansson, Piotr []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-open-a-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 18:00:00 +0000",
-         "title" : "Ceske Budejovice Open A 2023"
       },
       {
          "description" : "The US Chess Federation has published a list of members who have been sanctioned by the organization.&#38;nbsp; A total of 27 members have been sanctioned for a shorter or longer time period. Minors are not named, but their sanction is listed. Amo...",
@@ -704,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-574-v-anand-vs-l-aronian",
          "pubDate" : "Thu, 29 Jun 2023 08:52:15 +0100",
          "title" : "Game of the Week #574: V. Anand vs L. Aronian"
-      },
-      {
-         "description" : "After his defeat in a spectacular game in the second round, Vladimir Kramnik bounced back on Wednesday with a brilliant positional performance. After the Mayor of Dortmund, Norbert Schilff, made the symbolic first move for him, Kramnik opted for a rather quiet approach with white and gained a small advantage against Fabiano Caruana. Slowly but surely, Kramnik increased his advantage and ended up scoring an important full point. | Photo: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d5",
-         "pubDate" : "Thu, 29 Jun 2023 05:10:00 +0100",
-         "title" : "Dortmund: Kramnik beats Caruana, takes the lead"
       },
       {
          "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
@@ -1600,30 +1640,6 @@ news_feed (
          "link" : "https://aicf.in/national-schools-team-u-12-u-18-last-date-of-entry-is-coming-close-18-june/",
          "pubDate" : "Wed, 14 Jun 2023 06:37:03 +0000",
          "title" : "National Schools Team U-12 & U-18 Last date of Entry is coming close, 18 June."
-      },
-      {
-         "description" : "An ECF Level 1 Arbiter course was held in person over the weekend of 10th and 11th June at Bridge, in Kent. 11 candidates were...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-arbiters-2/",
-         "pubDate" : "Tue, 13 Jun 2023 13:43:18 +0000",
-         "title" : "New Arbiters!"
-      },
-      {
-         "description" : "The European Chess Union (ECU) invites all ECU National Chess Federations to participate in theEuropean Youth Rapid and Blitz Chess Championship 2023 which will take place from September 27 to October 1 in Terme Catez, Slovenia. The European Youth Rapid &#38; Blitz Chess Championship 2023 includes three separate competitions: (A) The 22nd European Youth Rapid Chess Championship To be played on 28 and 29 September, 2023, in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapid-blitz-chess-championship-2023-in-terme-catez-slovenia/",
-         "pubDate" : "Tue, 13 Jun 2023 13:07:02 +0000",
-         "title" : "European Youth Rapid & Blitz Chess Championship 2023 in Terme Catez, Slovenia"
-      },
-      {
-         "description" : " The 2023 NSW Open ended in a 3 way tie for first, after some dramatic last round action. IM Mihajlo Radovanovic started the final round a point behind IM Gary Lane, but a win for Radovanovic over Lane left them both on 6/7. In the all ACT clash FM Michael Kethro beat Harry Press to join the front runners, and relegate Press from the prize list. Ahn Quan Nguyen quickly cleaned up Jeremy Plunkett on Board 4 to finish in outright 4th place, with FM Sterling Bayaca, FM Jack Rodgers, Geoff barker, Zachary Yu, and CM Hui Li finishing in a tie for 5th on 5 points. In the Minor event (Under 1600), Trent Parker held on for a draw against CJ de Mooi to reach 6 points, along with promising junior Alex",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/2023-nsw-open-3-way-tie-for-1st.html",
-         "pubDate" : "Tue, 13 Jun 2023 12:55:00 +0000",
-         "title" : "2023 NSW Open - 3 way tie for 1st"
       }
    ]
 }
