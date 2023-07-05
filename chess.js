@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the recent 2023 World Championship Match, Ding Liren won Game 12 against Ian Nepomniachtchi using the Colle System to tie the score at six. The match remained tied after fourteen games, and Ding went on to beat Nepomniachti in the rapid tie-breaks to become the 17th World Champion. With the Colle System utilized in the World Championship Match, it is a fitting moment to remember the life and career Edgard Colle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-short-but-glorious-life-of-edgard-colle-may-18-1897-april-19-1932",
+         "pubDate" : "Wed, 05 Jul 2023 20:00:00 +0100",
+         "title" : "The Short but Glorious Life of Edgard Colle (May 18, 1897 - April 19, 1932)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJU.",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour",
+         "pubDate" : "Wed, 05 Jul 2023 17:27:41 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Opening Ceremony #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-2-grandchesstour",
+         "pubDate" : "Wed, 05 Jul 2023 17:27:41 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 2 | #GrandChessTour"
+      },
+      {
+         "description" : "GM Magnus Carlsen became only the second player, and first in nearly two years, to score a perfect 11/11 in Titled Tuesday, achieving the feat in the late tournament on July 4, 2023. He won the event by two full points&#38;mdash;a half-point better th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023",
+         "pubDate" : "Wed, 05 Jul 2023 08:44:38 -0700",
+         "title" : "Carlsen's Perfect 11/11 Tournament Matches Historic Record"
+      },
+      {
          "description" : "Women&#39;s World Champion Ju Wenjun had to fight hard to hold a draw in game one of the 2023 FIDE Women&#39;s World Championship Match after challenger GM Lei Tingjie opened with an aggressive pawn sacrifice in her first-ever match at the very highest le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "World Chess announces 3-year partnership with ITcom Domains"
       },
       {
-         "description" : "While the participants of the No Castling Masters had a rest day, the contenders in the A-Open and the Sportland NRW Cup played the sixth rounds in their respective tournaments. Alexander Donchenko defeated Matthias Bl&uuml;baum for the first time in a classical tournament game to take the sole lead in the open, while Dinara Wagner caught Ruben K&ouml;llner in the lead of the Sportland NRW Cup. | Photo: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d6",
-         "pubDate" : "Fri, 30 Jun 2023 00:20:00 +0100",
-         "title" : "Dortmund: Donchenko sole leader in the open"
-      },
-      {
          "description" : "TwitchCon Paris takes place on July 8 and 9, 2023, and chess will be well-represented as one of the internet&#39;s most popular games.&#38;nbsp; Some of the biggest names in chess content creation will be present at the convention to meet their fans and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1138,14 +1162,6 @@ news_feed (
          "title" : "KCF European Trainers Conference #Zagreb 8 July"
       },
       {
-         "description" : "Chinese GM Wei Yi remains the MVP of the&#38;nbsp;Tech Mahindra Global Chess League 2023 after scoring a third win in four games. It took his team Traveni Continental Kings up to second place, but five-time World Champion Viswanathan Anand&#39;s Ganges Gr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-3",
-         "pubDate" : "Sat, 24 Jun 2023 15:47:00 -0700",
-         "title" : "Wei Yi, Team Anand Keep On Winning"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1346,28 +1362,12 @@ news_feed (
          "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Robert Hungaski discusses the general DNA of the Sicilian, and shows his game from the 2023 Americas Absolute Continental Chess Championship. Plus, see a French defense game. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/l%C3%B6wenthal-sicilian-dna-prepare-pro-gm-robert-hungaski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tualmw-pkw.jpg?it",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/l%C3%B6wenthal-sicilian-dna-prepare-pro-gm-robert-hungaski",
-         "pubDate" : "Wed, 21 Jun 2023 05:16:03 +0000",
-         "title" : "The L&ouml;wenthal Sicilian DNA | Prepare Like A Pro - GM Robert Hungaski"
-      },
-      {
          "description" : " &#8220;My friend told me that you are a chess enthusiast&#8221; A student These days we are interviewing students for the fall Coop term positions in engineering. They are doing their best, like any of us, to have a resume and cover letter that gives them a leg up on the competition. A few of them <a href=\"https://chessimprover.com/a-chess-enthusiast/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Chess Enthusiast\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-chess-enthusiast/\">A Chess Enthusiast</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-chess-enthusiast/",
          "pubDate" : "Tue, 20 Jun 2023 22:55:56 +0000",
          "title" : "A Chess Enthusiast"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to effectively use chess puzzles to improve your game.<br /> See &quot;fast mode&quot; puzzles, and then think longer with &quot;slow mode&quot; puzzles. 2023.06.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/progressing-chess-puzzles-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XEAW827IrWI.jpg?itok=zCKhSV99\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/progressing-chess-puzzles-beginner-breakdown",
-         "pubDate" : "Tue, 20 Jun 2023 20:15:45 +0000",
-         "title" : "Progressing with Chess Puzzles | Beginner Breakdown"
       },
       {
          "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
