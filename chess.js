@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Wed, 05 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship - Live!"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship Match opened yesterday in Shanghai, China and will be played from 4-24 July in two cities: Shanghai and Chongquing. The match is played between Ju Wenjun, the defending Champion, and Lei Tingjie, the Challenger. The match will be played in 12 rounds, and the first player to reach 6.5 points will be crowned as the 2023 FIDE Women's World Chess Champion. The time control for each game is 90 minutes for the first 40 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-womens-world-championship-match-2023-starts-in-china/",
+         "pubDate" : "Wed, 05 Jul 2023 07:08:48 +0000",
+         "title" : "FIDE Women's World Championship Match 2023 starts in China"
+      },
+      {
+         "description" : "In an exclusive interview for ChessBase, IA and WIM Tshepiso Lopang talks to chess journalist Tatiana Flores about her beginnings in chess, her path to becoming a sought-after international arbiter and the first woman to be elected President of the African Chess Confederation. She also shares her ideas for improving chess around the world. | Photo: Courtesy of Tshepiso Lopang",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-interview-with-tshepiso-lopang-president-of-the-african-chess-confederation",
+         "pubDate" : "Wed, 05 Jul 2023 07:38:07 +0100",
+         "title" : "An interview with Tshepiso Lopang - President of the African Chess Confederation"
+      },
+      {
          "description" : "Svitlana recently played in the Canadian Transnational Tournament, where almost every opponent had a couple of hundred rating points more than her. Awonder Liang, Lazaro Bruzon, and Alexandr Lenderman were among the players in the tournament. The WIM was still able to show some smart moves, and even beat an IM with the Jobava-London. And due to this opening choice, Svitlana started a nice attack, which had some beautiful tactics.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -722,14 +746,6 @@ news_feed (
          "title" : "Team Aronian, Team Anand Prevail In Photo Finish Matchups"
       },
       {
-         "description" : "On 3 July (first game on 4 July), the Women's World Championship match between defending champion Ju Wenjun and challenger Lei Tingjie will begin in Shanghai. The first half of the match will be played in Shanghai and the second half in Chongqing. The prize money is USD 500,000.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-match-for-the-women-s-world-championship-will-start-on-3-july",
-         "pubDate" : "Thu, 29 Jun 2023 14:00:00 +0100",
-         "title" : "The match for the Women's World Championship will start on 3 July"
-      },
-      {
          "description" : " This terms Interschool competition finished up yesterday in Canberra, and it gives me a chance to write yet another post on \"rules kid's think are real\". NB I have probably mentioned a few of these before <ul style=\"text-align: left;\"><li>You can castle to avoid checkmate - \"Ummm, no\" \"Some people say you can\" \"OK, but I'm the arbiter and I'm telling you you can't castle out of check\" \"But some people say you can\" (Added bonus - he changed the score on the result sheet to show he had won)</li><li>Castling involves exchanging any two pieces on the back rank - To be fair, the player had never seen castling before and was attempting to copy what their opponent had just done</li><li>You both ge",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-koneru-humpy-bats-for-more-chess-tournaments-for-women-in-india/articleshow/101365810.cms",
          "pubDate" : "Thu, 29 Jun 2023 10:52:51 +0000",
          "title" : "GM Humpy bats for more chess tournaments for women in India"
-      },
-      {
-         "description" : "In the top match of the seventh round of the Masters at the Prague Chess Festival Ray Robson (pictured) beat Vincent Keymer and with this victory the American took the sole lead with 4.5 out of 7. The other four games ended in draws. In the Challengers, a draw against Jergus Pechac was enough for Benjamin Gledura to defend his sole lead. | Photo: Anezka Kruzikova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-round-7-robson-takes-the-lead",
-         "pubDate" : "Thu, 29 Jun 2023 11:17:09 +0100",
-         "title" : "Prague, Round 7: Robson takes the lead"
       },
       {
          "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-in-prisons-in-the-media-today-from-carl-portman/",
          "pubDate" : "Wed, 14 Jun 2023 08:01:56 +0000",
          "title" : "Chess in Prisons in the media today - Carl Portman"
-      },
-      {
-         "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023, Last date of entry portal is coming close, interested players requested to apply soon.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-schools-team-u-12-u-18-last-date-of-entry-is-coming-close-18-june/",
-         "pubDate" : "Wed, 14 Jun 2023 06:37:03 +0000",
-         "title" : "National Schools Team U-12 & U-18 Last date of Entry is coming close, 18 June."
       }
    ]
 }
