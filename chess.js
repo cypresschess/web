@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 36th edition of the \"Magistral Ciudad de Le&oacute;n\" will take place on July 6-10. Once again, a 4-player knockout will be the main attraction in the city located in the northwest of the Iberian Peninsula. Boris Gelfand will attempt to defend his title against Francisco Vallejo, Nikita Vitiugov and local star Jaime Santos. Gelfand defeated Vishy Anand in the final of last year's edition.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-masters-2023-preview",
+         "pubDate" : "Wed, 05 Jul 2023 13:00:00 +0100",
+         "title" : "Back in Le&oacute;n: Gelfand to look for third straight victory in 4-player knockout"
+      },
+      {
+         "description" : "The first game of the Women's World Championship will be played today in Shanghai. Defending champion Ju Wenjun will take on challenger Lei Tingjie. The match consists of 12 games and lasts three weeks. It was officially opened with a press conference yesterday.| Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-women-s-world-championship-match-2023-commences-in-shanghai",
+         "pubDate" : "Wed, 05 Jul 2023 11:27:57 +0100",
+         "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
+         "pubDate" : "Wed, 05 Jul 2023 10:24:46 +0000",
+         "title" : "NSCC National Final 29 and 30 June 2023"
+      },
+      {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -722,22 +746,6 @@ news_feed (
          "title" : "PogChamps 5 Is Ready For Liftoff! Chess.com's Spectacular Battle Of The Creators Is Back"
       },
       {
-         "description" : "In today's Fast & Furious show Robert Ris takes a look at a game, in which Jorden Van Foreest convincingly defeated Radoslaw Wojtaszek in a popular line of the Ruy Lopez. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fine-game-by-jorden-van-foreest",
-         "pubDate" : "Thu, 29 Jun 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A fine Ruy Lopez by Jorden Van Foreest"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM #214 is out. Meanwhile our columnist, Nagesh Havanur takes a look at a recent issue. 2651 games (47 annotated) from WR Masters and European Championship among others. 12 opening surveys, 3 opening videos, 9 demo. lectures and several exercises for training. Annotators include Levon Aronian, Alexey Sarana, Kirill Shevchenko, Vincent Keymer, Gukesh and Praggnanandhaa among others. The icing on the cake is a feature on Viswanathan Anand with 26 annotated games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-213-a-review-by-prof-nagesh-havanur",
-         "pubDate" : "Thu, 29 Jun 2023 17:00:00 +0100",
-         "title" : "ChessBase Magazine #213: A review"
-      },
-      {
          "description" : "Day eight of the Tech Mahindra Global Chess League 2023 featured two combative matchups that came down to photo finishes. In a match of almost all decisive games, GM Levon Aronian defeated fellow icon, GM Jan-Krzysztof Duda, leading the Triveni ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/counties-championship-2023/#new_tab",
          "pubDate" : "Wed, 28 Jun 2023 08:09:33 +0000",
          "title" : "ECF Counties Championship Final - 1 July"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
-         "pubDate" : "Wed, 28 Jun 2023 07:52:13 +0000",
-         "title" : "ECF National Schools Final - Thursday 29 and Friday 30 June"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
@@ -1632,22 +1632,6 @@ news_feed (
          "link" : "https://chessimprover.com/stalemate-tuesday-3/",
          "pubDate" : "Wed, 14 Jun 2023 14:03:01 +0000",
          "title" : "Stalemate Tuesday (3)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2457",
-         "pubDate" : "Wed, 14 Jun 2023 10:19:13 +0000",
-         "title" : "Qualified players for FIDE Grand Swiss and Women's Grand Swiss"
-      },
-      {
-         "description" : "Carl Portman has been on BBC Radio 5 Live today talking about chess in prisons and three other stations too - follow the links below!...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-in-prisons-in-the-media-today-from-carl-portman/",
-         "pubDate" : "Wed, 14 Jun 2023 08:01:56 +0000",
-         "title" : "Chess in Prisons in the media today - Carl Portman"
       }
    ]
 }
