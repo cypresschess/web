@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2499",
+         "pubDate" : "Wed, 05 Jul 2023 22:12:32 +0000",
+         "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 1 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2498",
+         "pubDate" : "Wed, 05 Jul 2023 21:24:07 +0000",
+         "title" : "World Rapid Team Championship: Showdown in D&uuml;sseldorf"
+      },
+      {
+         "description" : "Fourteen-year-old FM Brewington Hardaway earned his third and last norm required for the international master title on Tuesday after finishing with 6/9 points at the World Open 2023. His approximately 2472.7 rating performance left him at a 2390.4...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-3rd-im-norm",
+         "pubDate" : "Wed, 05 Jul 2023 14:06:00 -0700",
+         "title" : "Brewington Hardaway Earns Last IM Norm, 10 Points Away From Title"
+      },
+      {
+         "description" : "The 42nd Benasque Open is taking place from 5&#x2013;14 July 2023 in Benasque, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Haik M. Martirosyan, Xiangzhi Bu, Kirill Alekseenko, Raunak Sadhwani, Robert Hovhannisyan, Abhimanyu Puranik, Daniel Dardha, Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/42nd-benasque-open-2023-live/",
+         "pubDate" : "Wed, 05 Jul 2023 21:00:00 +0000",
+         "title" : "42nd Benasque Open 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during the first rapid round of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-gct-worlds-most-prestigious-tournament-network-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FgVHf2JiNpQ.jpg?",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-gct-worlds-most-prestigious-tournament-network-d1-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
+         "title" : "Kasparov: GCT is World's Most Prestigious Tournament Network | D1 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Viswanathan Anand talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hOSQnhFvS2E.jpg?itok=k73klouz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
+         "title" : "Anand: Proud of What Gukesh is Doing #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hvt_T8XPspQ.jpg?itok=CV5huEns\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
+         "title" : "Carlsen's Signature: Not the Worst Way to Deface Your Body #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 1-0-2 on the first rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-gukesh-will-strike-back-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U5L9x1KKiZs.jpg?itok=nDH9venF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-gukesh-will-strike-back-d1-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
+         "title" : "Carlsen: Gukesh Will Strike Back | D1 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Viswanathan Anand talks to Cristian Chirila after going 2-0-1 on the first rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anand-global-chess-league-very-useful-me-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vWgTVyQYF-U.jpg?itok=SNxbUyU2\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anand-global-chess-league-very-useful-me-d1-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
+         "title" : "Anand: Global Chess League Very Useful to Me | D1 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the last three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-3-grandchesstour",
+         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 3 | #GrandChessTour"
+      },
+      {
          "description" : "In the recent 2023 World Championship Match, Ding Liren won Game 12 against Ian Nepomniachtchi using the Colle System to tie the score at six. The match remained tied after fourteen games, and Ding went on to beat Nepomniachti in the rapid tie-breaks to become the 17th World Champion. With the Colle System utilized in the World Championship Match, it is a fitting moment to remember the life and career Edgard Colle.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-1",
-         "pubDate" : "Wed, 05 Jul 2023 07:32:52 -0700",
+         "pubDate" : "Wed, 05 Jul 2023 07:32:00 -0700",
          "title" : "FIDE Women's World Championship Match Starts With Fighting Draw In Shanghai"
       },
       {
@@ -96,6 +176,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
          "pubDate" : "Wed, 05 Jul 2023 10:24:46 +0000",
          "title" : "NSCC National Final 29 and 30 June 2023"
+      },
+      {
+         "description" : "The 42nd Benasque Open is taking place from 5&#x2013;14 July 2023 in Benasque, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Haik M. Martirosyan, Xiangzhi Bu, Kirill Alekseenko, Raunak Sadhwani, Robert Hovhannisyan, Abhimanyu Puranik, Daniel Dardha, Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/42nd-benasque-open-2023/",
+         "pubDate" : "Wed, 05 Jul 2023 08:41:00 +0000",
+         "title" : "42nd Benasque Open 2023"
       },
       {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
@@ -392,22 +480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d9",
          "pubDate" : "Mon, 03 Jul 2023 07:00:00 +0100",
          "title" : "Caruana, Donchenko and Wagner triumph in Dortmund"
-      },
-      {
-         "description" : "The 2023 Dutch Women's Championship is taking place from July 2-6 in Utrecht, the Netherlands. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 4-player double round-robin tournament with participation of Eline Roebers, Robin Duson, Arlette Van Weersel and Anna-Maja Kazarian. Parallel : FIDE Women&#x2019;s World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-womens-championship-2023-live/",
-         "pubDate" : "Mon, 03 Jul 2023 03:48:00 +0000",
-         "title" : "Dutch Women's Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 Dutch Women's Championship is taking place from July 2-6 in Utrecht, the Netherlands. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 4-player double round-robin tournament with participation of Eline Roebers, Robin Duson, Arlette Van Weersel and Anna-Maja Kazarian.Chessdom.com will daily follow the live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-womens-championship-2023/",
-         "pubDate" : "Mon, 03 Jul 2023 03:23:00 +0000",
-         "title" : "Dutch Women's Championship 2023"
       },
       {
          "description" : "GM Daniel Naroditsky outclassed the field in the first weekly Bullet Brawl and convincingly won the event ahead of GMs Hikaru Nakamura and Magnus Carlsen on Saturday. Naroditsky scored 242 points during the two-hour arena, playing out 67 wins, six...",
@@ -762,28 +834,12 @@ news_feed (
          "title" : "'Falling In Love With The Game': Chess.com Descends On Paris For TwitchCon"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS - </strong>June 29, 2023 - Top American junior and senior chess players will return to Saint Louis for the 2023 U.S. Senior, Junior, and Girls' Junior Championships hosted by the Saint Louis Chess Club. From July 15-25, 2023, the top 10 players across three divisions - juniors, girls, and seniors, will travel to compete for more than $130,000 in prizes. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-host-legends-and-rising-stars-american-chess",
-         "pubDate" : "Thu, 29 Jun 2023 18:27:01 +0000",
-         "title" : "Saint Louis Chess Club to Host Legends and Rising Stars of American Chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2484",
          "pubDate" : "Thu, 29 Jun 2023 18:26:38 +0000",
          "title" : "GCL Day 8:Ganges Grandmasters reclaim the lead "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on playing dynamically as Black in the Italian Game. 2023.06.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-play-vs-italian-black-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tOtW9hqPzZo.jpg?itok=CZRHs6TM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dynamic-play-vs-italian-black-prepare-pro-gm-jj-ali-marandi",
-         "pubDate" : "Thu, 29 Jun 2023 17:22:36 +0000",
-         "title" : "Dynamic Play vs. The Italian with Black | Prepare Like A Pro - GM JJ Ali Marandi"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101373928.cms\" />Triveni Continental Kings secured a hard-fought 10-9 victory over Chingari Gulf Titans in a tense round eight match of the Global Chess League, with substitute player Sara Khadem registering a crucial win on Thursday. Ganges Grandmasters made an important comeback after two losses, defeating Balan Alaskan Knights 8-7 in a match decided by a game which lasted 114 moves.",
@@ -946,22 +1002,6 @@ news_feed (
          "title" : "Collegiate Chess League 2023 Summer Season: Bullet and Bughouse Championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his game from the 2017 European Championship, where he earned his second GM norm. This long game made JJ understand how grandmasters think and prepare. 2023.06.27<br /> Aleksander Mista vs Cemil Can Ali Marandi, European Championship (2017): C63 Ruy Lopez, Schliemann defence, Berger variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1876884\">https://www.chessgames.com/perl/chessgame?gid=1876884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prep-think-and-play-grandmaster-grandmasters-choice-gm-jj-ali-marandi",
-         "pubDate" : "Tue, 27 Jun 2023 20:20:39 +0000",
-         "title" : "Prep, Think, and Play Like a Grandmaster | Grandmaster's Choice - GM JJ Ali Marandi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering explores the chess elements of king safety (castle early and often, weak f-pawns, fishing pole trap), material (be suspicious of free pieces, elephant trap, liquidation), and piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/positional-pros-and-cons-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bNbU0gtAzU.jpg?itok=eUQsJi6y\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/positional-pros-and-cons-beginner-breakdown",
-         "pubDate" : "Tue, 27 Jun 2023 20:20:39 +0000",
-         "title" : "Positional Pros and Cons | Beginner Breakdown"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1096,14 +1136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
          "pubDate" : "Mon, 26 Jun 2023 08:00:27 +0000",
          "title" : "ECF Awards 2023 - nominations closing soon"
-      },
-      {
-         "description" : "GM Praggnanandhaa R. was the hero on the fourth day of the Tech Mahindra Global Chess League 2023 after scoring a win with black over UpGrad Mumba Masters&#39; GM Javokhir Sindarov, securing victory for the SG Alpine Warriors and pushing them into the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-4",
-         "pubDate" : "Sun, 25 Jun 2023 19:28:00 -0700",
-         "title" : "Praggnanandhaa Carries Team Carlsen To The Top"
       },
       {
          "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1266,14 +1298,6 @@ news_feed (
          "title" : "Certificates of Online SNA"
       },
       {
-         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-5b261a50-7fff-e802-da1b-fd1a6d9fbe45\">SAINT LOUIS, June 22, 2023</span> -</strong> The <a href=\"http://www.saintlouischessclub.org\">Saint Louis Chess Club</a> today announced the appointment of Grandmaster Yasser Seirawan as its Chief Commentator and Spokesperson. Now a Saint Louis resident, Yasser joins twenty other grandmasters who call the city home, one of just a few cities in the world with as many grandmasters in residence. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-im",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-grandmaster-yasser-seirawan-named-chief-commentator-and-spokesperson-saint-louis-chess",
-         "pubDate" : "Thu, 22 Jun 2023 21:34:57 +0000",
-         "title" : "American Grandmaster Yasser Seirawan Named Chief Commentator and Spokesperson for Saint Louis Chess Club; Makes Saint Louis Permanent Residence"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2470",
          "pubDate" : "Thu, 22 Jun 2023 18:03:23 +0000",
          "title" : "National preparations for FIDE World Schools Team Championship go big around the Globe"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi teaches a chess class on playing aggressively against the English Opening. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tHGR4zh80Ac.jpg?itok=coi476Gh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aggressive-play-vs-english-opening-prepare-pro-gm-jj-ali-marandi",
-         "pubDate" : "Thu, 22 Jun 2023 17:17:20 +0000",
-         "title" : "Aggressive Play vs. the English Opening | Prepare Like A Pro - GM JJ Ali Marandi"
       },
       {
          "description" : "",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2459",
          "pubDate" : "Thu, 15 Jun 2023 00:10:20 +0000",
          "title" : "FIDE World Championships 2024 Call for Bids: One month to the deadline"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2458",
-         "pubDate" : "Wed, 14 Jun 2023 22:35:38 +0000",
-         "title" : "Serbian Championship: Aleksandar Indjic and Marina Gajcin clinch titles"
       }
    ]
 }
