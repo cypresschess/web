@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Women&#39;s World Champion Ju Wenjun had to fight hard to hold a draw in game one of the 2023 FIDE Women&#39;s World Championship Match after challenger GM Lei Tingjie opened with an aggressive pawn sacrifice in her first-ever match at the very highest le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-1",
+         "pubDate" : "Wed, 05 Jul 2023 07:32:52 -0700",
+         "title" : "FIDE Women's World Championship Match Starts With Fighting Draw In Shanghai"
+      },
+      {
+         "description" : "The Croatian capital Zagreb will host the third stop of the Grand Chess Tour 2023. A combined rapid and blitz tournament will be played and the event starts today, 4 July. Favourite is Magnus Carlsen. Follow the games live and with commentary from the Saint Louis Chess Center. | The first three rounds start at 15:00, 16:30 and 18:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
+         "pubDate" : "Wed, 05 Jul 2023 14:30:00 +0100",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2497",
+         "pubDate" : "Wed, 05 Jul 2023 13:27:17 +0000",
+         "title" : "WWC Match 2023: Lei surprises Ju but game one ends in a draw"
+      },
+      {
+         "description" : "John Reyes &#8212; Election Address 2023 The other two election addresses, for Gavin Cartwright and Julian Morrison, should follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/members-representatives-election-2023-election-addresses/",
+         "pubDate" : "Wed, 05 Jul 2023 13:25:43 +0000",
+         "title" : "Silver Members' Representatives Election 2023 - election addresses"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2496",
+         "pubDate" : "Wed, 05 Jul 2023 12:37:02 +0000",
+         "title" : "World Schools Team Championship 2023: Registration deadline extended"
+      },
+      {
          "description" : "The 36th edition of the \"Magistral Ciudad de Le&oacute;n\" will take place on July 6-10. Once again, a 4-player knockout will be the main attraction in the city located in the northwest of the Iberian Peninsula. Boris Gelfand will attempt to defend his title against Francisco Vallejo, Nikita Vitiugov and local star Jaime Santos. Gelfand defeated Vishy Anand in the final of last year's edition.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,14 +146,6 @@ news_feed (
          "title" : "Taking the only chance"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2494",
-         "pubDate" : "Tue, 04 Jul 2023 12:50:15 +0000",
-         "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
-      },
-      {
          "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -138,12 +170,28 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz Croatia 2023"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2492",
+         "pubDate" : "Tue, 04 Jul 2023 12:00:09 +0000",
+         "title" : "FIDE distributes €25,000 among chess veterans"
+      },
+      {
          "description" : "As part of the chess festival in Bydgoszcz, Poland, two tournaments with an interesting format were played: six players took part in a round robin and competed in classical, rapid and blitz chess. Jorden van Foreest (pictured) won the open tournament, Meri Arabidze was first in the women's tournament. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/jorden-van-foreest-and-meri-arabidze-win-at-chess-festival-in-bydgoszcz",
          "pubDate" : "Tue, 04 Jul 2023 13:00:00 +0100",
          "title" : "Jorden van Foreest and Meri Arabidze win at Chess Festival in Bydgoszcz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2494",
+         "pubDate" : "Tue, 04 Jul 2023 11:58:15 +0000",
+         "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
       },
       {
          "description" : "",
@@ -232,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-wild-two-knights-opening",
          "pubDate" : "Mon, 03 Jul 2023 22:15:04 +0100",
          "title" : "Daniel King's Power Play Show: A wild Two Knights opening"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2492",
-         "pubDate" : "Mon, 03 Jul 2023 20:52:09 +0000",
-         "title" : "FIDE distributes €25,000 among chess veterans"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
@@ -698,14 +738,6 @@ news_feed (
          "title" : "'Falling In Love With The Game': Chess.com Descends On Paris For TwitchCon"
       },
       {
-         "description" : "One might expect relatively quiet rounds after a day full of excitement. Well, that just does not happen at the Tech Mahindra Global Chess League. In the first match, five out of six games ended decisively. Levon Aronian, Wei Yi and Sara Khadem scored crucial wins for their team, Triveni Continental Kings. Their 3-0 (10-9) victory over Chingari Gulf Titans ensured the team still has mathematical chances to win the event. Andrey Esipenko scored the crucial win for his team, Ganges Grandmasters. Thus, GG are once again atop the standings with 15/24. Tomorrow will be the penultimate day of the double round-robin stage. There will be four matches starting from 3 p.m. local time, 4:30 p.m. IST. |",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-8-report",
-         "pubDate" : "Thu, 29 Jun 2023 19:45:00 +0100",
-         "title" : "GCL Day 8: Ganges Grandmasters and Continental Kings win close battles"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS - </strong>June 29, 2023 - Top American junior and senior chess players will return to Saint Louis for the 2023 U.S. Senior, Junior, and Girls' Junior Championships hosted by the Saint Louis Chess Club. From July 15-25, 2023, the top 10 players across three divisions - juniors, girls, and seniors, will travel to compete for more than $130,000 in prizes. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1144,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2473",
          "pubDate" : "Sat, 24 Jun 2023 14:17:35 +0000",
          "title" : "European Solving Championship: Polish solvers regain titles, Lithuanians keep rising"
-      },
-      {
-         "description" : "Russian chess has suffered another blow as their former national team coach GM Alexander Motylev has switched federations and joined Romania. The former national and European champion joins a growing list of Russian grandmasters who no longer repr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexander-motylev-switches-from-russia-to-romania",
-         "pubDate" : "Sat, 24 Jun 2023 07:06:00 -0700",
-         "title" : "Former Russian Champion Alexander Motylev Switches To Romania"
       },
       {
          "description" : "We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question []",
@@ -1624,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2458",
          "pubDate" : "Wed, 14 Jun 2023 22:35:38 +0000",
          "title" : "Serbian Championship: Aleksandar Indjic and Marina Gajcin clinch titles"
-      },
-      {
-         "description" : " &#8220;Stalemate your faithful friend in lost positions&#8221; GM Robert Hovhannisyan One of the most obvious and difficult things to do as part of your chess preparation is to practice daily. You may mention that you play online daily, and you might add the number of games played to make a convincing argument. That could <a href=\"https://chessimprover.com/stalemate-tuesday-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stalemate Tuesday (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stalemate-tuesday-3/\">Stalemate Tuesday (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/stalemate-tuesday-3/",
-         "pubDate" : "Wed, 14 Jun 2023 14:03:01 +0000",
-         "title" : "Stalemate Tuesday (3)"
       }
    ]
 }
