@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Viswanathan Anand emerged as the early leader, defeating GMs Richard Rapport and Constantin Lupulescu on day one of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Rapport himself beat GM Jan-Krzysztof Duda, the previous leader, in the la...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-1",
+         "pubDate" : "Wed, 05 Jul 2023 17:48:00 -0700",
+         "title" : "Anand Captures Early Lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0",
+         "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Opening Ceremony | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Viswanathan Anand talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hOSQnhFvS2E.jpg?itok=k73klouz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia-0",
+         "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
+         "title" : "Anand: Proud of What Gukesh is Doing | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hvt_T8XPspQ.jpg?itok=CV5huEns\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia-0",
+         "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
+         "title" : "Carlsen's Signature: Not the Worst Way to Deface Your Body | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour",
          "pubDate" : "Wed, 05 Jul 2023 17:27:41 +0000",
          "title" : "2023 SuperUnited Rapid & Blitz Croatia: Opening Ceremony #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-2-grandchesstour",
-         "pubDate" : "Wed, 05 Jul 2023 17:27:41 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 2 | #GrandChessTour"
       },
       {
          "description" : "GM Magnus Carlsen became only the second player, and first in nearly two years, to score a perfect 11/11 in Titled Tuesday, achieving the feat in the late tournament on July 4, 2023. He won the event by two full points&#38;mdash;a half-point better th...",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "65+ Senior Championship Saxony-Anhalt 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-finally-beats-magnus-after-8-years-monday-masters-gm-yasser-seirawan-lichessorg",
-         "pubDate" : "Tue, 04 Jul 2023 02:26:31 +0000",
-         "title" : "Fabi Finally Beats Magnus After 8 Years! | Monday Masters' - GM Yasser Seirawan | lichess.org"
-      },
-      {
          "description" : "GM Fabiano Caruana has been crowned the winner of the 2023 No Castling World Masters after scoring 4/6 in a double round-robin classical tournament in Dortmund, Germany, and finishing half a point ahead of GM Vladimir Kramnik. As part of the 50t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -400,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-wild-two-knights-opening",
          "pubDate" : "Mon, 03 Jul 2023 22:15:04 +0100",
          "title" : "Daniel King's Power Play Show: A wild Two Knights opening"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan kicks off the new Monday Masters&#039; Class! Geared towards experienced players, Yasser will take you through Fabiano Caruana&#039;s win over Magnus Carlsen at 2023 Norway Chess, the first time in eight years that Fabi defeated Magnus in a classical game! Recommended rating level: 1800+. 2023.07.03<br /> Fabiano Caruana vs Magnus Carlsen, 11th Norway Chess (2023): C11 French, Steinitz, Boleslavsky variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2510842\">https://www.chessgames.com/perl/chessgame?gid=2510842</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrap",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-finally-beats-magnus-after-8-years-monday-masters-gm-yasser-seirawan",
-         "pubDate" : "Mon, 03 Jul 2023 20:26:13 +0000",
-         "title" : "Fabi Finally Beats Magnus After 8 Years! | Monday Masters' - GM Yasser Seirawan"
       },
       {
          "description" : "They are so much better than us. They solve the most complicated positions in seconds.And they are so available. Anyone can buy them and use them at home. And frankly, we all use them. Chess engines. These artificial beasts are very useful when used wisely. But frankly, most club players tend to rely on them too much and use them mindlessly. In the following article I would like to show you three typical mistakes you should avoid when using a chess engine. And to show that even the best sometimes fail to tame the engines, I have chosen the examples from games played by Magnus Carlsen and his super-GM opponents. | Graphic: Europe Echecs",
@@ -1082,14 +1090,6 @@ news_feed (
          "title" : "GCL Day 5: Triveni Continental Kings fail to stop Ganges Grandmasters' charge"
       },
       {
-         "description" : "GM Hikaru Nakamura made it four wins from four starts in the sixth edition of Bullet Brawl on Saturday, claiming the $400 prize after scoring 59 wins, five draws, and nine losses en route to a winning score of 210 points. Moreso than usual, Naka...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-2023-bullet-brawl-june",
-         "pubDate" : "Mon, 26 Jun 2023 10:18:25 -0700",
-         "title" : "Nakamura, The King Of Bullet Brawl, Strikes Again"
-      },
-      {
          "description" : "In this continuing, fortnightly series on the world's top two engine vs. engine competitions, the previous post was <A HREF=\"https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html\">TCEC FRC6, CCC20 Rapid; Stockfish Wins Both</A> (June 2023). Expanding that title produces the following summary:- <BLOCKQUOTE> TCEC: In the 'S24 FRC6 Final', Stockfish beat LCZero +15-12=23. The site then organized 'S24 DFRC2', which has reached 'League 1', the third of four stages. &#149; CCC: In the 'CCC20 Rapid Finals', Stockfish crushed Lc0 143.0-107.0, then crushed the Mystery engine 67.0-33.0 in an exhibition match. The site then launched the 'CCC20 Bullet Entry League'. </BL",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/one-way-or-another.html",
          "pubDate" : "Thu, 15 Jun 2023 11:44:00 +0000",
          "title" : "One way or another "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2459",
-         "pubDate" : "Thu, 15 Jun 2023 00:10:20 +0000",
-         "title" : "FIDE World Championships 2024 Call for Bids: One month to the deadline"
       }
    ]
 }
