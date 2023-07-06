@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Opening Encyclopaedia 2023 impresses with a huge scope and is the largest collection on opening theory with almost 1400 theory articles and 7,444 opening surveys. In 70 videos with a total running time of 29 hours the latest trends are presented by grandmasters. Vojko Mencinger has taken a look at the work, which is available at a special price this week in the Summer Special bundle with ChessBase 17.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-opening-encyclopaedia-2023-a-review",
+         "pubDate" : "Thu, 06 Jul 2023 13:11:06 +0100",
+         "title" : "The Opening Encyclopaedia 2023 - A review"
+      },
+      {
+         "description" : "For five days, ten of the world's best chess players, including former world champions Magnus Carlsen and Vishy Anand, are playing rapid and blitz chess in Zagreb. The chess stars have been received with great enthusiasm in the Croatian capital. After the first day of rapid chess, living legend Anand has taken the lead. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d1",
+         "pubDate" : "Thu, 06 Jul 2023 12:50:00 +0100",
+         "title" : "SuperUnited Croatia: Formidable Anand grabs the lead"
+      },
+      {
+         "description" : "The ECU E-Magazine June 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The June 2023 edition of the ECU E-Magazine can be read online with interactive links on&#160;the following link, or it can be downloaded in PDF format down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-june-2023/",
+         "pubDate" : "Thu, 06 Jul 2023 11:03:43 +0000",
+         "title" : "ECU E-Magazine June 2023"
+      },
+      {
+         "description" : "The column \"All in One\" was introduced in in ChessBase Magazine about four years ago. On the basis of a single, but very extensively annotated game, you learn everything you need to know about a specific opening line. A compact format with which you can improve your know-how without much effort. In the current ChessBase Magazine #214 Igor Stohl introduces you to the Hippopotamus setup, a system that can be used with Black against practically anything.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-and-his-hippopotamus",
+         "pubDate" : "Thu, 06 Jul 2023 12:00:00 +0100",
+         "title" : "Carlsen and his hippopotamus"
+      },
+      {
+         "description" : "In his Game of the Week show #575 Merijn van Delft takes a look at the Dutch Championships, in which Anish Giri once again impressed with fine play and superb preparation. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-575-a-giri-vs-b-bok",
+         "pubDate" : "Thu, 06 Jul 2023 11:58:41 +0100",
+         "title" : "Game of the Week #575: A. Giri vs B. Bok"
+      },
+      {
+         "description" : "GM Viswanathan Anand emerged as the early leader, defeating GMs Richard Rapport and Constantin Lupulescu on day one of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Rapport himself beat GM Jan-Krzysztof Duda, the previous leader, in the la...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-1",
+         "pubDate" : "Thu, 06 Jul 2023 03:25:00 -0700",
+         "title" : "Anand Captures Early Lead"
+      },
+      {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
          "pubDate" : "Thu, 06 Jul 2023 05:10:55 +0000",
          "title" : "2023 Women's World Championship (Shanghai/ Chongqing, China)"
-      },
-      {
-         "description" : "GM Viswanathan Anand emerged as the early leader, defeating GMs Richard Rapport and Constantin Lupulescu on day one of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Rapport himself beat GM Jan-Krzysztof Duda, the previous leader, in the la...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-1",
-         "pubDate" : "Wed, 05 Jul 2023 17:48:00 -0700",
-         "title" : "Anand Captures Early Lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJ",
@@ -158,7 +198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023",
-         "pubDate" : "Wed, 05 Jul 2023 08:44:38 -0700",
+         "pubDate" : "Wed, 05 Jul 2023 08:44:00 -0700",
          "title" : "Carlsen's Perfect 11/11 Tournament Matches Historic Record"
       },
       {
@@ -170,14 +210,6 @@ news_feed (
          "title" : "FIDE Women's World Championship Match Starts With Fighting Draw In Shanghai"
       },
       {
-         "description" : "The Croatian capital Zagreb will host the third stop of the Grand Chess Tour 2023. A combined rapid and blitz tournament will be played and the event starts today, 4 July. Favourite is Magnus Carlsen. Follow the games live and with commentary from the Saint Louis Chess Center. | The first three rounds start at 15:00, 16:30 and 18:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
-         "pubDate" : "Wed, 05 Jul 2023 14:30:00 +0100",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -186,7 +218,7 @@ news_feed (
          "title" : "WWC Match 2023: Lei surprises Ju but game one ends in a draw"
       },
       {
-         "description" : "John Reyes &#8212; Election Address 2023 The other two election addresses, for Gavin Cartwright and Julian Morrison, should follow shortly.",
+         "description" : "John Reyes &#8212; Election Address 2023 Gavin Cartwright&#8212; Election Address 2023 Julian Morrison &#8212; Election Address 2023",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/members-representatives-election-2023-election-addresses/",
@@ -784,30 +816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/a-quick-prioritisation-tool-for-chess.html",
          "pubDate" : "Fri, 30 Jun 2023 13:07:00 +0000",
          "title" : "A quick prioritisation tool for chess"
-      },
-      {
-         "description" : "World Championship Match 2023: All seven decided games annotated by Anish Giri, Hou Yifan, Sam Shankland and Wesley So - TePe Sigeman Tournament: Analyses by Peter Svidler, Boris Gelfand, Nils Grandelius, Abhimanyu Mishra and Jorden van Foreest - All-rounder Boris Spassky: \"Special\" with 27 top-class encounters from the period 1949 to 1989 + articles on strategy (Marin) and endgame (Mueller) - Is Scandinavian with 3...Qa5 busted? Martin Lorenzini thinks so - and recommends 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5! - \"How I became U14 World Champion\": Ilamparthi presents the decisive moments together with Sagar Shah - \"Practical tips for the tournament player\": Why are ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-214",
-         "pubDate" : "Fri, 30 Jun 2023 13:00:00 +0100",
-         "title" : "New: ChessBase Magazine #214"
-      },
-      {
-         "description" : "After the end of the Global Chess League in Dubai on 2 July, Magnus Carlsen will travel to Zagreb to play some more speed chess against top opponents in the SuperUnited Rapid & Blitz Croatia tournament, which is part of the Grand Chess Tour. The tournament takes place from 4-9 July and boasts a very strong field. Apart from Carlsen, Firouzja, Caruana, Nepomniachtchi, Duda, Anand, Rapport, Gukesh, Saric and Lupulescu will be playing. | Photo: Carlsen after winning the Superbet Rapid & Blitz in Poland | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-will-play-in-the-next-grand-chess-tour-event-in-zagreb",
-         "pubDate" : "Fri, 30 Jun 2023 11:30:00 +0100",
-         "title" : "Magnus Carlsen will play in the next Grand Chess Tour event in Zagreb"
-      },
-      {
-         "description" : "The Prague Chess Festival is drawing to a close, but after eight of nine rounds the battle for tournament victory is still wide open. In the Masters, Bogdan-Daniel Deac (pictured) and Ray Robson lead with 5 out of 8 each, but theoretically five more players have a chance of sharing first place. In the Challengers, Mateusz Bartel is sole leader with 5.5 out of 8, but there are no less than three players within half a point of him. | Photos: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-will-win-in-prague",
-         "pubDate" : "Fri, 30 Jun 2023 11:26:27 +0100",
-         "title" : "Who will win in Prague?"
       },
       {
          "description" : "Kindly find attached live games link for the 49th National Women Chess Championships 2023 at Rajpath Club Ltd., Ahmedabad, Gujarat from 30th June 2023 to 10th July, 2023. Live games Link",
