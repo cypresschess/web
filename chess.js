@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Challenger GM Lei Tingjie once again seized the initiative in game two of the 2023 FIDE Women&#39;s World Championship in Shanghai, but a lack of time, and precise defense from reigning champion GM Ju Wenjun, saw the game end in a 40-move draw. The sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-2",
+         "pubDate" : "Thu, 06 Jul 2023 07:43:02 -0700",
+         "title" : "Lei Poses Questions, Ju Finds Answers In Women's World Championship Game 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Croatia's Chief of Staff to the Prime Minister Zvonimir Frka-Petesic talks to Cristian Chirila during the second rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/croatia%E2%80%99s-frka-petesic-chessboard-our-flag-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/croatia%E2%80%99s-frka-petesic-chessboard-our-flag-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 06 Jul 2023 14:28:33 +0000",
+         "title" : "Croatia's Frka-Petesic: Chessboard is on our Flag | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2501",
+         "pubDate" : "Thu, 06 Jul 2023 13:48:53 +0000",
+         "title" : "Prize fund of World Senior Championship 2023 breaks the record"
+      },
+      {
+         "description" : "Day 2 of the SuperUnited Rapid & Blitz Tournament sees Vishy Anand entering round 4 as the sole leader. Magnus Carlsen starts the day playing white against Fabiano Caruana in a rematch of the 2018 World Championship match. Follow the games live and with commentary from the Saint Louis Chess Center. | The first three rounds start at 15:00, 16:30 and 18:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
+         "pubDate" : "Thu, 06 Jul 2023 14:30:00 +0100",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
+      },
+      {
+         "description" : "In the second game of the Women's World Championship match in China, the reigning World Champion Ju Wenjun had White, but couldn't get anything against the Tarrasch Variation of her challenger Lei Tingjie, who even managed to gain a slight initiative after the opening. The game ended in a draw after 41 moves. | Photo: Xu Qi, Deputy Director of the Shanghai Sports Bureau and KK Chan President of the Hong Kong Chess Federation, open the game. | Photos: Stev Bonhage (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-championship-game-2-also-ends-in-a-draw",
+         "pubDate" : "Thu, 06 Jul 2023 14:08:56 +0100",
+         "title" : "Women's World Championship: Game 2 also ends in a draw"
+      },
+      {
+         "description" : " The 2023 Women's World Championship is already 2 games in, although both games have been drawn. It is an all Chinese matchup with Wenjun Ju playing Tingjie Lei. Most pundits have Ju as the favourite for this match, based on match experience. The first game was a Ruy Lopez Berlin variation, although it wasn't as drawish as the opening may indicate. In fact White sacrificed a pawn in the opening, but regained it with a better position. However, Jun was able to reach a rook and pawn ending, and by that stage it was definitely drawn. <br /> <br /> <b>Lei Tingjie (2554) - Ju Wenjun (2566) [C67]</b><br /> FIDE WOMEN'S WORLD CHAMPIONSHIP MATCH 20 SHANG HAI, China (1.1), 05.07.2023 <script> new Pgn",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-womens-world-championship.html",
+         "pubDate" : "Thu, 06 Jul 2023 13:04:00 +0000",
+         "title" : "2023 Women's World Championship "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2500",
+         "pubDate" : "Thu, 06 Jul 2023 13:01:39 +0000",
+         "title" : "WWC Match 2023: Lei Tingjie takes initiative once again but Ju holds her to a draw "
+      },
+      {
+         "description" : "The Paracin Open is taking place from 7&#x2013;15 July 2023 in Paracin, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ivan Ivanisevic, Bayarsaikhan Gundavaa, Pranesh M, Mikhail Bryakin, Petar G. Arnaudov, Zhen Yu Cyrus Low, Suat Atalik, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/paracin-open-2023-live/",
+         "pubDate" : "Thu, 06 Jul 2023 12:41:09 +0000",
+         "title" : "Paracin Open 2023 - LIVE"
+      },
+      {
          "description" : "The Opening Encyclopaedia 2023 impresses with a huge scope and is the largest collection on opening theory with almost 1400 theory articles and 7,444 opening surveys. In 70 videos with a total running time of 29 hours the latest trends are presented by grandmasters. Vojko Mencinger has taken a look at the work, which is available at a special price this week in the Summer Special bundle with ChessBase 17.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-opening-encyclopaedia-2023-a-review",
          "pubDate" : "Thu, 06 Jul 2023 13:11:06 +0100",
          "title" : "The Opening Encyclopaedia 2023 - A review"
+      },
+      {
+         "description" : "The Paracin Open is taking place from 7&#x2013;15 July 2023 in Paracin, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ivan Ivanisevic, Bayarsaikhan Gundavaa, Pranesh M, Mikhail Bryakin, Petar G. Arnaudov, Zhen Yu Cyrus Low, Suat Atalik, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/paracin-open-2023/",
+         "pubDate" : "Thu, 06 Jul 2023 12:10:00 +0000",
+         "title" : "Paracin Open 2023"
       },
       {
          "description" : "For five days, ten of the world's best chess players, including former world champions Magnus Carlsen and Vishy Anand, are playing rapid and blitz chess in Zagreb. The chess stars have been received with great enthusiasm in the Croatian capital. After the first day of rapid chess, living legend Anand has taken the lead. | Photo: Lennart Ootes",
@@ -72,6 +144,22 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
          "pubDate" : "Thu, 06 Jul 2023 05:10:55 +0000",
          "title" : "2023 Women's World Championship (Shanghai/ Chongqing, China)"
+      },
+      {
+         "description" : "The Open German Women's Championship is taking place from 5&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Petra Grabowski, Elina Heutling, Brigitte Von []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-german-womens-championship-2023-live/",
+         "pubDate" : "Thu, 06 Jul 2023 04:00:00 +0000",
+         "title" : "Open German Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Open German Women's Championship is taking place from 5&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Petra Grabowski, Elina Heutling, Brigitte Von []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-german-womens-championship-2023/",
+         "pubDate" : "Thu, 06 Jul 2023 02:42:00 +0000",
+         "title" : "Open German Women's Championship 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJ",
@@ -186,14 +274,6 @@ news_feed (
          "title" : "The Short but Glorious Life of Edgard Colle (May 18, 1897 - April 19, 1932)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJU.",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour",
-         "pubDate" : "Wed, 05 Jul 2023 17:27:41 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Opening Ceremony #GrandChessTour"
-      },
-      {
          "description" : "GM Magnus Carlsen became only the second player, and first in nearly two years, to score a perfect 11/11 in Titled Tuesday, achieving the feat in the late tournament on July 4, 2023. He won the event by two full points&#38;mdash;a half-point better th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -232,6 +312,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2496",
          "pubDate" : "Wed, 05 Jul 2023 12:37:02 +0000",
          "title" : "World Schools Team Championship 2023: Registration deadline extended"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-2-live/",
+         "pubDate" : "Wed, 05 Jul 2023 12:29:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 2 - LIVE"
       },
       {
          "description" : "The 36th edition of the \"Magistral Ciudad de Le&oacute;n\" will take place on July 6-10. Once again, a 4-player knockout will be the main attraction in the city located in the northwest of the Iberian Peninsula. Boris Gelfand will attempt to defend his title against Francisco Vallejo, Nikita Vitiugov and local star Jaime Santos. Gelfand defeated Vishy Anand in the final of last year's edition.",
@@ -338,30 +426,6 @@ news_feed (
          "title" : "Taking the only chance"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-1-live/",
-         "pubDate" : "Tue, 04 Jul 2023 12:50:05 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 1 - LIVE"
-      },
-      {
-         "description" : "The SuperUnited Rapid &#38; Blitz Croatia is the 3rd stage on the 2023 Grand Chess Tour, a series of five events with a total prize fund of $1.4 million. The 10-player event features world no. 1 Magnus Carlsen, and is taking place in Zagreb from July 5-9, 2023. The rapid is a 10-player single round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/superunited-rapid-blitz-croatia-2023-live/",
-         "pubDate" : "Tue, 04 Jul 2023 12:43:44 +0000",
-         "title" : "SuperUnited Rapid & Blitz Croatia 2023 - LIVE"
-      },
-      {
-         "description" : "The SuperUnited Rapid &#38; Blitz Croatia is the 3rd stage on the 2023 Grand Chess Tour, a series of five events with a total prize fund of $1.4 million. The 10-player event features world no. 1 Magnus Carlsen, and is taking place in Zagreb from July 5-9, 2023. The rapid is a 10-player single round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/superunited-rapid-blitz-croatia-2023/",
-         "pubDate" : "Tue, 04 Jul 2023 12:10:00 +0000",
-         "title" : "SuperUnited Rapid & Blitz Croatia 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -432,22 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-annotate-like-a-pro",
          "pubDate" : "Tue, 04 Jul 2023 07:35:00 +0100",
          "title" : "ChessBase in Minutes: How to annotate like a pro"
-      },
-      {
-         "description" : "The 65+ Senior Championship Saxony-Anhalt 2023 is a 7-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Gerhard, Dr. Koehler, Bernard Leiber, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/65-senior-championship-saxony-anhalt-2023-live/",
-         "pubDate" : "Tue, 04 Jul 2023 06:33:00 +0000",
-         "title" : "65+ Senior Championship Saxony-Anhalt 2023 - LIVE"
-      },
-      {
-         "description" : "The 65+ Senior Championship Saxony-Anhalt 2023 is a 7-round Swiss tournament taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The top five rated players are Gerhard, Dr. Koehler, Bernard Leiber, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/65-senior-championship-saxony-anhalt-2023/",
-         "pubDate" : "Tue, 04 Jul 2023 06:00:00 +0000",
-         "title" : "65+ Senior Championship Saxony-Anhalt 2023"
       },
       {
          "description" : "GM Fabiano Caruana has been crowned the winner of the 2023 No Castling World Masters after scoring 4/6 in a double round-robin classical tournament in Dortmund, Germany, and finishing half a point ahead of GM Vladimir Kramnik. As part of the 50t...",
@@ -746,14 +794,6 @@ news_feed (
          "title" : "Pitfall in the Exchange Variation"
       },
       {
-         "description" : "Ray Robson won the 2023 edition of the Prague Masters tournament after beating Bogdan-Daniel Deac in blitz playoffs. Robson's strong nerves served him well in the blitz encounters, as he never stopped looking for tactical chances despite having lost his advantage in the first of two 5-minute games. Meanwhile, Mateusz Bartel scored a final-round victory to win the Challengers section. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r9",
-         "pubDate" : "Sat, 01 Jul 2023 07:40:00 +0100",
-         "title" : "Robson beats Deac in exciting playoff, wins Prague Masters"
-      },
-      {
          "description" : "GM Levon Aronian and the Triveni Continental Kings stole the show on day nine of the Tech Mahindra Global Chess League 2023, winning vs. both the SG Alpine Warriors and Balan Alaskan Knights to join the tie for first. Aronian defeated fellow ico...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -784,14 +824,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-prague-chess-festival-masters-robson-wins",
          "pubDate" : "Fri, 30 Jun 2023 12:22:00 -0700",
          "title" : "Robson Wins Prague Chess Festival Masters In Blitz Tiebreak, Bartel Wins Challengers"
-      },
-      {
-         "description" : "Levon Aronian has beaten Jan-Krzysztof Duda, Magnus Carlsen and Ian Nepomniachtchi in three consecutive must-win situations. Today he defeated Carlsen and Nepo in consecutive games. While the World no.1 allowed the two-time World Cup winner to score a quick 27-move victory, against Nepo he had to grind in the endgame and wait till the former world championship contender blundered. Triveni Continental Kings are now tied with Ganges Grandmasters on 15/27 points. SG Alpine Warriors also have the same match points. However, they still have two matches left. On an eventful day, upGrad Mumba Masters defeated GG 3-0 (10-4) without losing a single game. The last four matches of the double round-robi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gcl-day-9-aronian-astounds-carlsen-and-nepo-triveni-jump-to-third-place",
-         "pubDate" : "Fri, 30 Jun 2023 20:05:00 +0100",
-         "title" : "GCL Day 9: Aronian astounds Carlsen and Nepo, Triveni jump to third place"
       },
       {
          "description" : "The US Chess Federation has published a list of members who have been sanctioned by the organization.&#38;nbsp; A total of 27 members have been sanctioned for a shorter or longer time period. Minors are not named, but their sanction is listed. Amo...",
@@ -1096,14 +1128,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-congress-2023/",
          "pubDate" : "Tue, 27 Jun 2023 06:03:31 +0000",
          "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
-      },
-      {
-         "description" : "The Balan Alaskan Knights leaped back out of last place with a victory over the previously leading SG Alpine Warriors in a close battle on day five of the Tech Mahindra Global Chess League 2023. The Knights&#39; gained the match win despite victories ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-5",
-         "pubDate" : "Mon, 26 Jun 2023 16:33:00 -0700",
-         "title" : "Cunning Carlsen, Unbeatable Praggnanandhaa Fall To Team Nepomniachtchi"
       },
       {
          "description" : "",
@@ -1648,30 +1672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2460",
          "pubDate" : "Thu, 15 Jun 2023 18:58:17 +0000",
          "title" : "Qualified teams for the FIDE World Women's Team Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Juniors/england-world-u16-team-selected/#new_tab",
-         "pubDate" : "Thu, 15 Jun 2023 13:48:41 +0000",
-         "title" : "England World U16 team selected"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101021816.cms\" />Nihal Sarin has already earned a name for himself as one of the most promising chess players of the current era, and the 18-year-old Indian is now eager to emerge a stronger player while competing with accomplished Grandmasters during the upcoming Global Chess League (GCL).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-nihal-sarin-keen-to-emerge-stronger-player-from-gcl-experience/articleshow/101021816.cms",
-         "pubDate" : "Thu, 15 Jun 2023 12:14:58 +0000",
-         "title" : "Nihal Sarin keen to emerge stronger player from GCL experience"
-      },
-      {
-         "description" : " In chess there is often a fine line between winning and losing. At the club level, almost every game contains one or more missed chances, often not noticed until the silicon monster goes to work. And so it was on Tuesday night at the Eastlake Gungahlin Chess Club. Ian Hosking went down in flames against Jerry Cheng, after Cheng sacrificed a rook for a devastating attack. But a few moves earlier, Hosking had the chance to play an unexpected, but incredibly strong move, which would probably have flipped the result from a loss to a win. Can you spot it? <br /> <b>Hosking,Ian - Cheng,Jerry [B13]</b><br /> Belconnen Cup 13.06.2023 <script> new PgnViewer( { boardName: \"game1404\", movesFormat: \"de",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/one-way-or-another.html",
-         "pubDate" : "Thu, 15 Jun 2023 11:44:00 +0000",
-         "title" : "One way or another "
       }
    ]
 }
