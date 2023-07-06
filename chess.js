@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Carlsen in the fourth rapid game of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-surprising-na5-crumples-magnus-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/glLTGgHQ5EM.jpg?itok=DuNSrS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-surprising-na5-crumples-magnus-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 06 Jul 2023 17:28:26 +0000",
+         "title" : "Caruana's Surprising Na5 Crumples Magnus! | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 2. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-grand-chess-tour-idea-was-innovative-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jjVi6I-Jmbs.jpg?itok=jFkHa3cp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-grand-chess-tour-idea-was-innovative-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 06 Jul 2023 17:28:26 +0000",
+         "title" : "Caruana: The Grand Chess Tour Idea was Innovative | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "Challenger GM Lei Tingjie once again seized the initiative in game two of the 2023 FIDE Women&#39;s World Championship in Shanghai, but a lack of time, and precise defense from reigning champion GM Ju Wenjun, saw the game end in a 40-move draw. The sc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "Anand Captures Early Lead"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Thu, 06 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship - Live!"
-      },
-      {
          "description" : "FIDE World Youth Chess Championship 2023 Montesilvano (PE), Italy 12th to 25th November, 2023 3 Star Hotel 3 Star Superior Hotel 4 Star Hotel",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -248,22 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-gukesh-will-strike-back-d1-superunitedrapidblitzcroatia",
          "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
          "title" : "Carlsen: Gukesh Will Strike Back | D1 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Viswanathan Anand talks to Cristian Chirila after going 2-0-1 on the first rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anand-global-chess-league-very-useful-me-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vWgTVyQYF-U.jpg?itok=SNxbUyU2\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anand-global-chess-league-very-useful-me-d1-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
-         "title" : "Anand: Global Chess League Very Useful to Me | D1 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the last three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-3-grandchesstour",
-         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 3 | #GrandChessTour"
       },
       {
          "description" : "In the recent 2023 World Championship Match, Ding Liren won Game 12 against Ian Nepomniachtchi using the Colle System to tie the score at six. The match remained tied after fourteen games, and Ding went on to beat Nepomniachti in the rapid tie-breaks to become the 17th World Champion. With the Colle System utilized in the World Championship Match, it is a fitting moment to remember the life and career Edgard Colle.",
@@ -792,6 +784,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pitfall-in-the-exchange-variation",
          "pubDate" : "Sat, 01 Jul 2023 09:00:00 +0100",
          "title" : "Pitfall in the Exchange Variation"
+      },
+      {
+         "description" : "Ray Robson won the 2023 edition of the Prague Masters tournament after beating Bogdan-Daniel Deac in blitz playoffs. Robson's strong nerves served him well in the blitz encounters, as he never stopped looking for tactical chances despite having lost his advantage in the first of two 5-minute games. Meanwhile, Mateusz Bartel scored a final-round victory to win the Challengers section. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2023-r9",
+         "pubDate" : "Sat, 01 Jul 2023 07:40:00 +0100",
+         "title" : "Robson beats Deac in exciting playoff, wins Prague Masters"
       },
       {
          "description" : "GM Levon Aronian and the Triveni Continental Kings stole the show on day nine of the Tech Mahindra Global Chess League 2023, winning vs. both the SG Alpine Warriors and Balan Alaskan Knights to join the tie for first. Aronian defeated fellow ico...",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jun/16/chess-national-solving-championship-2023-open-for-entries-from-britain",
          "pubDate" : "Fri, 16 Jun 2023 07:00:39 +0000",
          "title" : "Chess: national solving championship 2023 open for entries from Britain"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2460",
-         "pubDate" : "Thu, 15 Jun 2023 18:58:17 +0000",
-         "title" : "Qualified teams for the FIDE World Women's Team Championship"
       }
    ]
 }
