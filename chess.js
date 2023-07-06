@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasiya Karlovich knows the players of the SuperUnited Rapid &amp; Blitz Croatia are role models to the youth. What would the competitors like their impact on young fans to be? This aired during Day 2. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-what-would-you-your-impact-be-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-what-would-you-your-impact-be-grandchesstour",
+         "pubDate" : "Thu, 06 Jul 2023 20:28:56 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: What Would You Like Your Impact to Be? #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after going 3-0 in the second rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-perfect-day-better-be-confident-not-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ykHdv73RC40.jpg?itok=7QJ6kA4Y\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepos-perfect-day-better-be-confident-not-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 06 Jul 2023 20:28:56 +0000",
+         "title" : "Nepo's Perfect Day: Better to be Confident, Than Not! | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after going 2-0-1 in the second rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh%E2%80%99s-gct-debut-%E2%80%98i-want-have-good-performance%E2%80%99-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XSzzVpnED_8.jpg?",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh%E2%80%99s-gct-debut-%E2%80%98i-want-have-good-performance%E2%80%99-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 06 Jul 2023 20:28:56 +0000",
+         "title" : "Gukesh's GCT Debut! 'I Want to Have a Good Performance' | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "GM Jose Martinez and IM Emin Ohanyan won the Qualifier 1 Winners and Losers brackets, respectively, to qualify for the&#38;nbsp;2023 Bullet Chess Championship main event, which begins on July 17. In the Winners Bracket, Martinez won a one-sided matc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-martinez-ohanyan-win-bcc-qualifier-1",
+         "pubDate" : "Thu, 06 Jul 2023 13:22:00 -0700",
+         "title" : "Martinez, Ohanyan Qualify For Bullet Chess Championship Main Event"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Carlsen in the fourth rapid game of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-surprising-na5-crumples-magnus-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/glLTGgHQ5EM.jpg?itok=DuNSrS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -146,7 +178,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " China is hosting the world women's championship for the next month between defending champion Ju Wenjun and challenger Lei Tingjie. The championship is the first of two competitors from the same country since 2018 when Ju played then-champion Tan Zhongyi and won her first title (on tiebreaks). There is no questioning the dominance of China The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; 1 Lei Tingjie &frac12; &frac12; 1 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -232,30 +264,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparov-gct-worlds-most-prestigious-tournament-network-d1-superunitedrapidblitzcroatia",
          "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
          "title" : "Kasparov: GCT is World's Most Prestigious Tournament Network | D1 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Viswanathan Anand talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hOSQnhFvS2E.jpg?itok=k73klouz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
-         "title" : "Anand: Proud of What Gukesh is Doing #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hvt_T8XPspQ.jpg?itok=CV5huEns\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
-         "title" : "Carlsen's Signature: Not the Worst Way to Deface Your Body #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 1-0-2 on the first rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-gukesh-will-strike-back-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U5L9x1KKiZs.jpg?itok=nDH9venF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-gukesh-will-strike-back-d1-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
-         "title" : "Carlsen: Gukesh Will Strike Back | D1 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "In the recent 2023 World Championship Match, Ding Liren won Game 12 against Ian Nepomniachtchi using the Colle System to tie the score at six. The match remained tied after fourteen games, and Ding went on to beat Nepomniachti in the rapid tie-breaks to become the 17th World Champion. With the Colle System utilized in the World Championship Match, it is a fitting moment to remember the life and career Edgard Colle.",
@@ -519,7 +527,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2023-bcc",
          "pubDate" : "Mon, 03 Jul 2023 08:01:00 -0700",
-         "title" : "Carlsen, Nakamura And Firouzja Line Up For Strongest Bullet Chess Championship Ever"
+         "title" : "Carlsen, Nakamura, Firouzja Line Up For Strongest Bullet Chess Championship Ever"
       },
       {
          "description" : "The new ChessBase Magazine #214 offers various updates for your repertoire with eleven opening articles from the Dutch to King's Indian. 1.e4 players can be curious about Martin Lorenzini's article on the Scandinavian with 3...Qa5. For the GM from Argentina sees Black in great trouble in the line 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5!: \"The positions that the second player gets are passive, difficult to handle and practically aspire to only a draw\". Take a look!",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hans-niemann-lawsuit-dismissed",
          "pubDate" : "Tue, 27 Jun 2023 09:53:00 -0700",
          "title" : "Hans Niemann's $100 Million Defamation Lawsuit Dismissed"
-      },
-      {
-         "description" : "GM Alexey Sarana won the inaugural Olympic Esports Series 2023 Finals chess event after defeating GM Maksim Chigaev with a perfect 3-0 score in the final match. This is one of the first major victories for Sarana since he changed federations from ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-finals",
-         "pubDate" : "Tue, 27 Jun 2023 08:13:14 -0700",
-         "title" : "Sarana Wins Inaugural Olympic Esports Series Finals In Chess"
       },
       {
          "description" : " NAPLAN is a test the school kids in Australia have to do every 2nd year (odd numbered grades), and is supposed to measure whether schools are performing or not. In actuality the results are dependent upon the socio-economic level of the students, and are mainly used by parents and the media to 'rank' schools based on some imaginary scale. As you can guess, I really really, really hate NAPLAN. While abolishing all together is my preferred solution, I do offer an alternative. Replace NAPLAN with a nation wide interschool chess competition, divided into geographical zones. Results aren't necessarily based upon the scores in the tournament (although that is one factor), but instead on how many ",
