@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Thu, 06 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship - Live!"
+      },
+      {
+         "description" : "FIDE World Youth Chess Championship 2023 Montesilvano (PE), Italy 12th to 25th November, 2023 3 Star Hotel 3 Star Superior Hotel 4 Star Hotel",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-chess-championship-2023/",
+         "pubDate" : "Thu, 06 Jul 2023 06:48:09 +0000",
+         "title" : "World Youth Chess Championship 2023"
+      },
+      {
+         "description" : " China is hosting the world women's championship for the next month between defending champion Ju Wenjun and challenger Lei Tingjie. The championship is the first of two competitors from the same country since 2018 when Ju played then-champion Tan Zhongyi and won her first title (on tiebreaks). There is no questioning the dominance of China The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
+         "pubDate" : "Thu, 06 Jul 2023 05:10:55 +0000",
+         "title" : "2023 Women's World Championship (Shanghai/ Chongqing, China)"
+      },
+      {
          "description" : "GM Viswanathan Anand emerged as the early leader, defeating GMs Richard Rapport and Constantin Lupulescu on day one of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Rapport himself beat GM Jan-Krzysztof Duda, the previous leader, in the la...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/42nd-benasque-open-2023/",
          "pubDate" : "Wed, 05 Jul 2023 08:41:00 +0000",
          "title" : "42nd Benasque Open 2023"
-      },
-      {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Wed, 05 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship - Live!"
       },
       {
          "description" : "The 2023 FIDE Women's World Championship Match opened yesterday in Shanghai, China and will be played from 4-24 July in two cities: Shanghai and Chongquing. The match is played between Ju Wenjun, the defending Champion, and Lei Tingjie, the Challenger. The match will be played in 12 rounds, and the first player to reach 6.5 points will be crowned as the 2023 FIDE Women's World Chess Champion. The time control for each game is 90 minutes for the first 40 []",
