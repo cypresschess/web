@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a victoryless day one, GM Ian Nepomniachtchi came back with a vengence today, winning all three of his games to join GMs Viswanathan Anand and Fabiano Caruana in the lead at the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Caruana also ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-2",
+         "pubDate" : "Thu, 06 Jul 2023 15:14:38 -0700",
+         "title" : "Revenge of Nepomniachtchi: 3-0 Streak, Leads With Anand, Caruana"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasiya Karlovich knows the players of the SuperUnited Rapid &amp; Blitz Croatia are role models to the youth. What would the competitors like their impact on young fans to be? This aired during Day 2. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-what-would-you-your-impact-be-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumb",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2480",
          "pubDate" : "Tue, 27 Jun 2023 17:48:42 +0000",
          "title" : "GCL Day 6: Chingari Gulf Titans & upGrad Mumba Masters score crucial victories"
-      },
-      {
-         "description" : "A federal judge on Tuesday dismissed GM Hans Niemann&#39;s $100 million lawsuit against GMs Magnus Carlsen, Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Daniel Rensch. This means that, at least for the moment, the legal battle that follow...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hans-niemann-lawsuit-dismissed",
-         "pubDate" : "Tue, 27 Jun 2023 09:53:00 -0700",
-         "title" : "Hans Niemann's $100 Million Defamation Lawsuit Dismissed"
       },
       {
          "description" : " NAPLAN is a test the school kids in Australia have to do every 2nd year (odd numbered grades), and is supposed to measure whether schools are performing or not. In actuality the results are dependent upon the socio-economic level of the students, and are mainly used by parents and the media to 'rank' schools based on some imaginary scale. As you can guess, I really really, really hate NAPLAN. While abolishing all together is my preferred solution, I do offer an alternative. Replace NAPLAN with a nation wide interschool chess competition, divided into geographical zones. Results aren't necessarily based upon the scores in the tournament (although that is one factor), but instead on how many ",
