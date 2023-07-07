@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-4-grandchesstour",
+         "pubDate" : "Fri, 07 Jul 2023 14:29:25 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 4 | #GrandChessTour"
+      },
+      {
+         "description" : "The final day of rapid at the SuperUnited Rapid & Blitz tournament will see an in-form Ian Nepomniachtchi facing Fabiano Caruana and Vishy Anand in rounds 8 and 9. Meanwhile, Magnus Carlsen will try to bounce back from a haphazard second day of play. Follow the games live and with commentary from the Saint Louis Chess Center. | Rounds start at 15:00, 16:30 and 18:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
+         "pubDate" : "Fri, 07 Jul 2023 14:45:00 +0100",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
+      },
+      {
+         "description" : "The Dutch Championships and the Dutch Women's Championships are played in parallel, but in different modes. The Open is a knockout tournament with mini matches and has reached the semi-finals. In the women's tournament, Eline Roebers (pictured right) was the clear winner and became the new Dutch Women's Champion. Last Wednesday's hurricane also wreaked havoc on the women's championship. | Photos: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eline-roebers-wins-dutch-women-s-championship",
+         "pubDate" : "Fri, 07 Jul 2023 14:04:48 +0100",
+         "title" : "Eline Roebers wins Dutch Women's Championship"
+      },
+      {
          "description" : "In his Fast & Furious show Robert Ris takes a look at a game between Gukesh and Magnus Carlsen, in which Carlsen shows Black's potential in a crucial line of the Sicilian Rossolimo. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "50. Dortmund Chess Festival: A record-breaking jubilee"
       },
       {
-         "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands. She won a double round-robin among four participants. One of them, WIM Arlette van Weersel, withdrew after the fifth round follow...",
+         "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands, in an event disrupted by a row over a freak &#34;code red&#34; storm that resulted in one player dropping out. Roebers won a double round...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dutch-women-chess-championship-roebers-wins-protest-van-weersel",
          "pubDate" : "Fri, 07 Jul 2023 02:44:00 -0700",
-         "title" : "Roebers (17) Wins 1st Dutch Women's Title; Van Weersel Leaves In Protest"
+         "title" : "Row Over Freak Storm Mars Dutch Women's Championship; Roebers (17) Wins 1st Title"
       },
       {
          "description" : "The finish of the 6th game of the World Championship match between Ding Liren and Ian Nepomniachtchi was impressive. In a tense and complicated position, Ding surprisingly advanced his d-pawn, and this small pawn advance was crucial to a spectacular mate that could have occurred in the game. The audience was impressed, the study composers were inspired. In his last \"Study of the Month\" column Siegfried Hornecker had a look at \"Ding's Theme\" in studies, in his current column he returns to this theme with further insights. | Photo: Ding Liren | Photo: Amruta Mokal",
@@ -376,14 +400,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-3rd-im-norm",
          "pubDate" : "Wed, 05 Jul 2023 14:06:00 -0700",
          "title" : "Brewington Hardaway Earns Last IM Norm, 10 Points Away From Title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during the first rapid round of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-gct-worlds-most-prestigious-tournament-network-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FgVHf2JiNpQ.jpg?",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-gct-worlds-most-prestigious-tournament-network-d1-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 05 Jul 2023 20:27:45 +0000",
-         "title" : "Kasparov: GCT is World's Most Prestigious Tournament Network | D1 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "In the recent 2023 World Championship Match, Ding Liren won Game 12 against Ian Nepomniachtchi using the Colle System to tie the score at six. The match remained tied after fourteen games, and Ding went on to beat Nepomniachti in the rapid tie-breaks to become the 17th World Champion. With the Colle System utilized in the World Championship Match, it is a fitting moment to remember the life and career Edgard Colle.",
@@ -762,28 +778,12 @@ news_feed (
          "title" : "Shocking Upsets As Team Aronian, Team Vachier-Lagrave Bag Finals Spots"
       },
       {
-         "description" : "Going into the final day of action at the Dortmund Chess Festival, Fabiano Caruana, Frederik Svane and Dinara Wagner are leading the standings in the No Castling Masters, the A-Open and the Sportland NRW Cup, respectively. Caruana defeated Vladimir Kramnik in style to get a half point lead over the former world champion and Dmitrij Kollars. Kollars beat Pavel Eljanov with white in Saturday's fifth round. | Photo: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d8",
-         "pubDate" : "Sun, 02 Jul 2023 01:50:00 +0100",
-         "title" : "Dortmund: Caruana takes down Kramnik"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2488",
          "pubDate" : "Sat, 01 Jul 2023 21:25:58 +0000",
          "title" : "GCL Day 10: Triveni Continental Kings to face upGrad Mumba Masters in the finals"
-      },
-      {
-         "description" : "The final day of the double round-robin stage started with SG Alpine Warrior's loss against Chingari Gulf Titans 0-3 (7-8). Magnus Carlsen won the sole game for his team as he beat Jan-Krzysztof Duda. However, Shakhriyar Mamedyarov's win over Gukesh gave CGT a crucial victory as all the remaining games ended in draws. Then, Triveni Continental Kings eliminated Ganges Grandmasters by beating them 3-0 (11-6). Wei Yi, Sara Khadem and Jonas Buhl Bjerre scored key wins, which helped the team (TCK) secure a spot in the Finals. SG Alpine Warriors suffered a shockingly huge defeat by 0-3 (2-18) against upGrad Mumba Masters. Alexander Grischuk, Vidit Gujrathi, Koneru Humpy and Harika Dronavalli's win",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-10-report",
-         "pubDate" : "Sat, 01 Jul 2023 20:10:00 +0100",
-         "title" : "Global Chess League: Triveni Continental Kings will face upGrad Mumba Masters in the Finals"
       },
       {
          "description" : " &#8220;Teaching young men to be the leaders they were born to be&#8221; &#8220;Coming of Kings&#8221; is a community organization based in Baltimore, Maryland is using chess as platform &#8220;to involve boys in positive interaction with positive successful men in preparation for adolescence and adulthood.&#8221; The group meets every Saturday for sessions on a wide range The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/01/coming-of-kings-empowerment-through-chess/\">Coming of Kings Empowerment through Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2462",
          "pubDate" : "Fri, 16 Jun 2023 16:27:39 +0000",
          "title" : "Schedule and Unique Scoring System Announced for the Inaugural Edition of Global Chess League"
-      },
-      {
-         "description" : "Some of my blog posts are basically notes to myself. This is one of them. I took two weeks off at the beginning of May and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 30 posts in 30 days and am now caught up. <P> One trick I used was to skip Friday posts. These are usually a series on some theme. The final posts in the most recent Friday series were:- <UL> <LI> 2023-02-10: <A HREF=\"https://chessforallages.blogspot.com/2023/02/the-final-years-of-insidechesscom.html\">The Final Years of Insidechess.com</A> <BR><BR> <LI> 2023-03-03: <A HREF=\"https://chessforallages.blogspot.com/2023/03/chesscoms-game-review-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html",
-         "pubDate" : "Fri, 16 Jun 2023 15:23:00 +0000",
-         "title" : "TGIF on CFAA"
       }
    ]
 }
