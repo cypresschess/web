@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After a victoryless day one, GM Ian Nepomniachtchi came back with a vengence today, winning all three of his games to join GMs Viswanathan Anand and Fabiano Caruana in the lead at the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Caruana also ...",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2503",
+         "pubDate" : "Fri, 07 Jul 2023 00:42:44 +0000",
+         "title" : "Winners crowned at the inaugural chess event of the XXIV Central American and Caribbean Games"
+      },
+      {
+         "description" : "Ian Nepomniachtchi, Fabiano Caruana and Vishy Anand are sharing the lead at the SuperUnited Rapid & Blitz tournament after two days of play. Anand finished day 1 as the sole leader, and saw Nepo and Caruana catching up with him thanks to outstanding performances in rounds 4-6. Nepo's three consecutive victories were particularly remarkable, as the Russian GM recovered from a winless Wednesday in Zagreb. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d2",
+         "pubDate" : "Fri, 07 Jul 2023 01:40:00 +0100",
+         "title" : "SuperUnited Croatia: Nepo and Caruana catch Anand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2502",
+         "pubDate" : "Fri, 07 Jul 2023 00:35:08 +0000",
+         "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 2 Recap"
+      },
+      {
+         "description" : "After a winless day one, GM Ian Nepomniachtchi came back with a vengeance today, winning all three of his games to join GMs Viswanathan Anand and Fabiano Caruana in the lead at the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Caruana also had...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-2",
-         "pubDate" : "Thu, 06 Jul 2023 15:14:38 -0700",
+         "pubDate" : "Thu, 06 Jul 2023 15:14:00 -0700",
          "title" : "Revenge of Nepomniachtchi: 3-0 Streak, Leads With Anand, Caruana"
       },
       {
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2501",
          "pubDate" : "Thu, 06 Jul 2023 13:48:53 +0000",
          "title" : "Prize fund of World Senior Championship 2023 breaks the record"
-      },
-      {
-         "description" : "Day 2 of the SuperUnited Rapid & Blitz Tournament sees Vishy Anand entering round 4 as the sole leader. Magnus Carlsen starts the day playing white against Fabiano Caruana in a rematch of the 2018 World Championship match. Follow the games live and with commentary from the Saint Louis Chess Center. | The first three rounds start at 15:00, 16:30 and 18:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
-         "pubDate" : "Thu, 06 Jul 2023 14:30:00 +0100",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
       },
       {
          "description" : "In the second game of the Women's World Championship match in China, the reigning World Champion Ju Wenjun had White, but couldn't get anything against the Tarrasch Variation of her challenger Lei Tingjie, who even managed to gain a slight initiative after the opening. The game ended in a draw after 41 moves. | Photo: Xu Qi, Deputy Director of the Shanghai Sports Bureau and KK Chan President of the Hong Kong Chess Federation, open the game. | Photos: Stev Bonhage (FIDE)",
