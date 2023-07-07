@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show Robert Ris takes a look at a game between Gukesh and Magnus Carlsen, in which Carlsen shows Black's potential in a crucial line of the Sicilian Rossolimo. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-carlsen-shows-the-way-in-the-sicilian-rossolimo",
+         "pubDate" : "Fri, 07 Jul 2023 13:02:45 +0100",
+         "title" : "Robert Ris' Fast and Furious: Carlsen shows the way in the Sicilian Rossolimo"
+      },
+      {
+         "description" : "At the anniversary tournament, the organisers of the Dortmund Sparkassen Chess Trophy celebrated a record number of participants in the Open with almost 550 players, including several German national players. Vladimir Kramnik and Fabiano Caruana, runner-up at the 2018 World Championship, provided the glamour of world champions at the NC Masters. | Photo: Veterans of the Dortmund Chess Festival | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/50-dortmund-chess-festival-a-record-breaking-jubilee",
+         "pubDate" : "Fri, 07 Jul 2023 13:00:00 +0100",
+         "title" : "50. Dortmund Chess Festival: A record-breaking jubilee"
+      },
+      {
+         "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands. She won a double round-robin among four participants. One of them, WIM Arlette van Weersel, withdrew after the fifth round follow...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dutch-women-chess-championship-roebers-wins-protest-van-weersel",
+         "pubDate" : "Fri, 07 Jul 2023 02:44:00 -0700",
+         "title" : "Roebers (17) Wins 1st Dutch Women's Title; Van Weersel Leaves In Protest"
+      },
+      {
+         "description" : "The finish of the 6th game of the World Championship match between Ding Liren and Ian Nepomniachtchi was impressive. In a tense and complicated position, Ding surprisingly advanced his d-pawn, and this small pawn advance was crucial to a spectacular mate that could have occurred in the game. The audience was impressed, the study composers were inspired. In his last \"Study of the Month\" column Siegfried Hornecker had a look at \"Ding's Theme\" in studies, in his current column he returns to this theme with further insights. | Photo: Ding Liren | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-more-about-ding-s-theme",
+         "pubDate" : "Fri, 07 Jul 2023 10:34:18 +0100",
+         "title" : "Study of the month - More about \"Ding's Theme\""
+      },
+      {
+         "description" : "You can hear a British Chess Championships interview with BBC Radio Leicester's Ben Jackson, featuring the ECF's Home Director Nigel Towers and Paul Mottram, the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-on-the-bbc/",
+         "pubDate" : "Fri, 07 Jul 2023 09:32:11 +0000",
+         "title" : "British Chess Championships on the BBC"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101569397.cms\" />Indian maestro Viswanathan Anand had a moderate run on day two of the SuperUnited Rapid and Blitz chess tournament, part of the Grand Chess Tour, winning, drawing and losing a game each.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-has-moderate-day-gukesh-shines-with-twin-wins/articleshow/101569397.cms",
+         "pubDate" : "Fri, 07 Jul 2023 08:39:01 +0000",
+         "title" : "Grand Chess Tour: Anand has moderate day; Gukesh shines with twin wins"
+      },
+      {
          "description" : "The Israeli Women's National League will take place from the 6th to the 8th of July in Ramat Gan, Israel as a 5-round team Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are Marsel Efroimski, Anastasiya Rakhmangulova, Dina Belenkaya, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -794,14 +842,6 @@ news_feed (
          "title" : "Castles for mate"
       },
       {
-         "description" : "Kazakhstan is gradually becoming a Mecca for chess. In April 2023 the World Championship match between Ding Liren and Ian Nepomniachtchi took place in Astana, at the beginning of June the Asian Continental Championship was held in Almaty, to name just two of the biggest events. While looking back at the Asian Continental Championships, Diana Mihajlova describes the development of chess in Kazakhstan and wonders about the predicament of Russian chess players after Russia left the European Chess Federation to join the Asian Chess Federation. | Photo: Panorama of Almaty | All Photos: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-continentals-a-rsum",
-         "pubDate" : "Sat, 01 Jul 2023 13:00:00 +0100",
-         "title" : "Asian Continentals, a r&eacute;sum&eacute;"
-      },
-      {
          "description" : "In my column Prelude to Armageddon, I dwelt on the abundance of Jewish chess masters from the second half of the 19th century, which continued well into the 20th century. Famous names proliferate, imbued with the rich cultural heritage of the Central European Jewish environment. Their names include: Johannes Zukertort, Wilhelm Steinitz, Emanuel Lasker, Siegbert Tarrasch, Jacques Mieses, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -816,22 +856,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/expensive-experiment/",
          "pubDate" : "Sat, 01 Jul 2023 10:21:00 +0100",
          "title" : "Expensive experiment"
-      },
-      {
-         "description" : "In the diagram position, White has just set his centre in motion with 15.e4?, having full confidence in his bishop on h4, which is looking at Black's queen on d8. But this move backfires - can you see how Black gains the advantage? Don't hold your horses!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pitfall-in-the-exchange-variation",
-         "pubDate" : "Sat, 01 Jul 2023 09:00:00 +0100",
-         "title" : "Pitfall in the Exchange Variation"
-      },
-      {
-         "description" : "Ray Robson won the 2023 edition of the Prague Masters tournament after beating Bogdan-Daniel Deac in blitz playoffs. Robson's strong nerves served him well in the blitz encounters, as he never stopped looking for tactical chances despite having lost his advantage in the first of two 5-minute games. Meanwhile, Mateusz Bartel scored a final-round victory to win the Challengers section. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-r9",
-         "pubDate" : "Sat, 01 Jul 2023 07:40:00 +0100",
-         "title" : "Robson beats Deac in exciting playoff, wins Prague Masters"
       },
       {
          "description" : "GM Levon Aronian and the Triveni Continental Kings stole the show on day nine of the Tech Mahindra Global Chess League 2023, winning vs. both the SG Alpine Warriors and Balan Alaskan Knights to join the tie for first. Aronian defeated fellow ico...",
@@ -1096,14 +1120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-6",
          "pubDate" : "Tue, 27 Jun 2023 15:33:00 -0700",
          "title" : "Anand Gains 4th Victory, But Team Duda Defeats Leaders"
-      },
-      {
-         "description" : "The Collegiate Chess League is excited to announce the 2023 summer season following last year&#39;s inaugural summer season. We will be bringing back both the bullet and bughouse college championships! These championship matches will last four weeks s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2023-summer-season",
-         "pubDate" : "Tue, 27 Jun 2023 15:18:20 -0700",
-         "title" : "Collegiate Chess League 2023 Summer Season: Bullet and Bughouse Championships"
       },
       {
          "description" : "",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html",
          "pubDate" : "Fri, 16 Jun 2023 15:23:00 +0000",
          "title" : "TGIF on CFAA"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2461",
-         "pubDate" : "Fri, 16 Jun 2023 10:10:09 +0000",
-         "title" : "FIDE Fair Play Seminar in Baku, Azerbaijan, during World Cup 2023 announced"
       }
    ]
 }
