@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiya-asks-players-how-it-feels-be-zagreb-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HRRMsJo39Qs.jpg?itok=tyM_QJus\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anastasiya-asks-players-how-it-feels-be-zagreb-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 17:29:28 +0000",
+         "title" : "Anastasiya asks the players how it feels to be in Zagreb for #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiya-asks-duda-about-memories-he-has-croatia-2021-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i2ny2iAkt4I.jpg?itok=jBgvTrqn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anastasiya-asks-duda-about-memories-he-has-croatia-2021-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 17:29:28 +0000",
+         "title" : "Anastasiya asks Duda about the memories he has from Croatia 2021 | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King looks at the first game from the Women's World Championship match between Ju Wenjun and Lei Tingjie. It was a tense struggle, with a number of instructive positions to learn from! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ju-lei-tense-struggle",
+         "pubDate" : "Fri, 07 Jul 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Ju and Lei's tense struggle"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-3-live/",
+         "pubDate" : "Fri, 07 Jul 2023 16:10:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 3 - LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -346,36 +378,12 @@ news_feed (
          "title" : "Open German Women's Championship 2023 - LIVE"
       },
       {
-         "description" : "The Open German Women's Championship is taking place from 5&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Petra Grabowski, Elina Heutling, Brigitte Von []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-german-womens-championship-2023/",
-         "pubDate" : "Thu, 06 Jul 2023 02:42:00 +0000",
-         "title" : "Open German Women's Championship 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0",
          "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
          "title" : "2023 SuperUnited Rapid & Blitz Croatia: Opening Ceremony | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Viswanathan Anand talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hOSQnhFvS2E.jpg?itok=k73klouz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anand-proud-what-gukesh-doing-superunitedrapidblitzcroatia-0",
-         "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
-         "title" : "Anand: Proud of What Gukesh is Doing | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hvt_T8XPspQ.jpg?itok=CV5huEns\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen%E2%80%99s-signature-not-worst-way-deface-your-body-superunitedrapidblitzcroatia-0",
-         "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
-         "title" : "Carlsen's Signature: Not the Worst Way to Deface Your Body | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
          "pubDate" : "Sun, 02 Jul 2023 13:30:00 +0100",
          "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
-         "description" : "Shamsiddin Vokhidov (Uzbekistan) and Divya Deshmukh (India) were crowned winners of the 2023 Asian Continental Chess Championships. The tournaments took place in Almaty, Kazakhstan on June 3-12. GM Karsten M&uuml;ller followed the games and selected what he considered to be the most interesting endgame positions to share with us. Find here five remarkable endings with instructive analyses by our in-house expert!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-championships-2023-endgames",
-         "pubDate" : "Sun, 02 Jul 2023 10:00:00 +0100",
-         "title" : "Outstanding endgames from the Asian Championships"
       },
       {
          "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
@@ -1664,22 +1664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2456",
          "pubDate" : "Sat, 17 Jun 2023 01:39:30 +0000",
          "title" : "FIDE World Cup 2023: Useful information for players"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at New Delhi from 08-09 July 23, Pune from 15-16 July 23",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-orientation-workshop/",
-         "pubDate" : "Fri, 16 Jun 2023 18:07:01 +0000",
-         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2462",
-         "pubDate" : "Fri, 16 Jun 2023 16:27:39 +0000",
-         "title" : "Schedule and Unique Scoring System Announced for the Inaugural Edition of Global Chess League"
       }
    ]
 }
