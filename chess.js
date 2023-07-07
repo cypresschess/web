@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2505",
+         "pubDate" : "Fri, 07 Jul 2023 23:02:18 +0000",
+         "title" : "FIDE Circuit at midway point"
+      },
+      {
+         "description" : "In their first-ever tournament encounter, GM Gukesh D. defeated his mentor, GM Viswanathan Anand, on day three of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; GMs Fabiano Caruana and Ian Nepomniachtchi shared first for the rapid segment, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-3",
+         "pubDate" : "Fri, 07 Jul 2023 15:44:42 -0700",
+         "title" : "Prot&eacute;g&eacute; Defeats Legendary Mentor: Gukesh vs. Anand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2504",
+         "pubDate" : "Fri, 07 Jul 2023 22:09:00 +0000",
+         "title" : "Queens' Festival: Malak Ismayil and Chadha Meddeb win continental qualifiers"
+      },
+      {
+         "description" : "All 16 participants in the 2023 Bullet Chess Championship are now determined. Along with 10 invited players, the six additional spots have been filled&#38;mdash;four of them on Friday. GMs David Paravyan and Denis Lazavik won in Qualifier 2, while G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paravyan-lazavik-andreikin-erigaisi-win-2023-bcc-qualifiers-2-3",
+         "pubDate" : "Fri, 07 Jul 2023 15:06:48 -0700",
+         "title" : "Paravyan, Lazavik, Andreikin, Arjun Qualify For BCC Main Event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasiya Karlovich asks the players how it feels to be playing in Croatia at the SuperUnited Rapid &amp; Blitz. This aired during Day 3. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-be-back-croatia-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HRRMsJo39Qs.jpg?itok=tyM_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-be-back-croatia-grandchesstour",
+         "pubDate" : "Fri, 07 Jul 2023 20:29:45 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: To Be Back in Croatia! #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus talks to Cristian Chirila on the third rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-oh-thats-so-disgusting-d3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QVSgmQ9vmjc.jpg?itok=pZ_X3LhS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-oh-thats-so-disgusting-d3-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 20:29:45 +0000",
+         "title" : "Magnus: 'Oh that's so disgusting!' | D3 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabi talks to Cristian Chirila on the third rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-it-was-little-bit-shaky-day-d3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-8rpaBy0uuk.jpg?itok=1lmn8KIZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-it-was-little-bit-shaky-day-d3-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 20:29:45 +0000",
+         "title" : "Fabi: 'It was a little bit of a shaky day' | D3 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : " Brewington Hardaway (Twitter) In a span of seven months, Brewington Hardaway secured three norms for the title of International Master. His last one came at the 2023 World Open where he scored a strong 6/9 including a key win over. GM Illia Nyzhnyk. &#8220;Brew&#8221; earned his first IM norm and the FM title in January The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/\">Brewington Hardaway gets 3rd/Final IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/",
+         "pubDate" : "Fri, 07 Jul 2023 19:42:02 +0000",
+         "title" : "Brewington Hardaway gets 3rd/Final IM norm!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiya-asks-players-how-it-feels-be-zagreb-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HRRMsJo39Qs.jpg?itok=tyM_QJus\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -234,28 +298,12 @@ news_feed (
          "title" : "Caruana's Surprising Na5 Crumples Magnus! | D2 #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 2. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-grand-chess-tour-idea-was-innovative-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jjVi6I-Jmbs.jpg?itok=jFkHa3cp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-grand-chess-tour-idea-was-innovative-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 06 Jul 2023 17:28:26 +0000",
-         "title" : "Caruana: The Grand Chess Tour Idea was Innovative | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
          "description" : "Challenger GM Lei Tingjie once again seized the initiative in game two of the 2023 FIDE Women&#39;s World Championship in Shanghai, but a lack of time, and precise defense from reigning champion GM Ju Wenjun, saw the game end in a 40-move draw. The sc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-2",
          "pubDate" : "Thu, 06 Jul 2023 07:43:02 -0700",
          "title" : "Lei Poses Questions, Ju Finds Answers In Women's World Championship Game 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Croatia's Chief of Staff to the Prime Minister Zvonimir Frka-Petesic talks to Cristian Chirila during the second rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/croatia%E2%80%99s-frka-petesic-chessboard-our-flag-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/y",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/croatia%E2%80%99s-frka-petesic-chessboard-our-flag-d2-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 06 Jul 2023 14:28:33 +0000",
-         "title" : "Croatia's Frka-Petesic: Chessboard is on our Flag | D2 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "",
@@ -376,14 +424,6 @@ news_feed (
          "link" : "https://www.chessdom.com/open-german-womens-championship-2023-live/",
          "pubDate" : "Thu, 06 Jul 2023 04:00:00 +0000",
          "title" : "Open German Women's Championship 2023 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich presents the sights and sounds from the Opening Ceremony at The Westin Zagreb the day before play begins. This aired during Day 1. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HeMv08yNRJ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-opening-ceremony-grandchesstour-0",
-         "pubDate" : "Wed, 05 Jul 2023 23:27:47 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Opening Ceremony | #GrandChessTour"
       },
       {
          "description" : "",
@@ -1066,14 +1106,6 @@ news_feed (
          "title" : "Titled Tuesday Ties Go To Andreikin, Bortnyk"
       },
       {
-         "description" : "Chess.com is excited to announce that GM Anish Giri&#39;s Lifetime Repertoire for 1.e4 is now fully available on Chessable. This three-part course is another masterpiece by the renowned Dutch number-one that teaches everything you need to know to play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anish-giri-lifetime-repertoire-1e4-chessable-course",
-         "pubDate" : "Wed, 28 Jun 2023 07:22:00 -0700",
-         "title" : "Play 1.e4 Like A Super Grandmaster With Anish Giri's New Chessable Course"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101342951.cms\" />Magnus Carlsen, the five-time chess world champion said he is pleasantly surprised with the immense enthusiasm for the game in India. Carlsen believes that this surge of interest marks the commencement of a revolutionary era, an achievement primarily attributed to the legendary Viswanathan Anand. Carlsen, widely recognized as one of the most formidable players in chess, is currently representing the SG Alpine Warriors in the Global Chess League (GCL). He acknowledged that India's consistent production of Grandmasters holds promising prospects for t",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1112,14 +1144,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/",
          "pubDate" : "Tue, 27 Jun 2023 22:58:26 +0000",
          "title" : "Niemann's $100m Lawsuit Dismissed&hellip; but stay tuned"
-      },
-      {
-         "description" : "GM Viswanathan Anand scored yet another victory, defeating GM Jan-Krysztof Duda, but it wasn&#39;t enough for the Ganges Grandmasters, who lost a nailbiter to the Chingari Gulf Titans on day six of the Tech Mahindra Global Chess League 2023.&#38;nbsp; W...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-6",
-         "pubDate" : "Tue, 27 Jun 2023 15:33:00 -0700",
-         "title" : "Anand Gains 4th Victory, But Team Duda Defeats Leaders"
       },
       {
          "description" : "",
