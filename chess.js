@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Israeli Women's National League will take place from the 6th to the 8th of July in Ramat Gan, Israel as a 5-round team Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are Marsel Efroimski, Anastasiya Rakhmangulova, Dina Belenkaya, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/israeli-womens-national-league-2023-live/",
+         "pubDate" : "Fri, 07 Jul 2023 07:10:01 +0000",
+         "title" : "Israeli Women's National League 2023 - LIVE"
+      },
+      {
+         "description" : " The final match in the new franchise-based league went down to a single combat blitz tiebreak and Jonas Bjerre caught Javokhir Sindarov with a snap mate Last Sunday's final of the $1m Global Chess League in Dubai went down to a single combat blitz game with an unlikely outcome. After several tiebreak stages failed to separate Triveni Continental Kings, led by Levon Aronian, and upGrad Mumba Masters, headed by Maxime Vachier-Lagrave, the match evolved to a 3+2 blitz game between Jonas Bjerre, 19, and Javokhir Sindarov, 17, where the Danish player, who had lost several previous games to the Uzbek, was the underdog. Sindarov pressed hard, but Bjerre kept the game going until both were blitzing",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jul/07/chess-checkmate-in-one-decides-finale-of-1m-global-league-in-dubai",
+         "pubDate" : "Fri, 07 Jul 2023 07:00:25 +0000",
+         "title" : "Chess: Checkmate in one decides finale of $1m Global League in Dubai"
+      },
+      {
+         "description" : "The Leon Masters is a 4-player knockout tournament, taking place from 7-9 July 2023 in Leon, Spain. Players receive 20 minutes for the entire game, plus a 10-second increment starting from move one. In case of a tie two blitz games (3+2) will be played, and if still tied an Armageddon game. All about FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/36th-leon-masters-2023/",
+         "pubDate" : "Fri, 07 Jul 2023 06:51:24 +0000",
+         "title" : "36th Leon Masters 2023"
+      },
+      {
+         "description" : "The 1000GM New York Summer GM A is a 10-player Round-robin tournament, held from the 6th to the 10th of July in New York City, United States of America. Time control is 90 minutes for the entire game with a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-new-york-summer-gm-a-live/",
+         "pubDate" : "Fri, 07 Jul 2023 05:02:00 +0000",
+         "title" : "1000GM New York Summer GM A - LIVE"
+      },
+      {
+         "description" : "The 50+ Senior Championship Saxony-Anhalt is taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Steffen Puschendorf, Paul Motwani, Richard Lilja, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50-senior-championship-saxony-anhalt-live/",
+         "pubDate" : "Fri, 07 Jul 2023 04:55:00 +0000",
+         "title" : "50+ Senior Championship Saxony-Anhalt - LIVE"
+      },
+      {
+         "description" : "The 50+ Senior Championship Saxony-Anhalt is taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Steffen Puschendorf, Paul Motwani, Richard Lilja, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50-senior-championship-saxony-anhalt/",
+         "pubDate" : "Fri, 07 Jul 2023 02:52:00 +0000",
+         "title" : "50+ Senior Championship Saxony-Anhalt"
+      },
+      {
+         "description" : "The 1000GM New York Summer GM A is a 10-player Round-robin tournament, held from the 6th to the 10th of July in New York City, United States of America. Time control is 90 minutes for the entire game with a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-new-york-summer-gm-a/",
+         "pubDate" : "Fri, 07 Jul 2023 01:59:00 +0000",
+         "title" : "1000GM New York Summer GM A"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -274,14 +330,6 @@ news_feed (
          "title" : "Brewington Hardaway Earns Last IM Norm, 10 Points Away From Title"
       },
       {
-         "description" : "The 42nd Benasque Open is taking place from 5&#x2013;14 July 2023 in Benasque, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Haik M. Martirosyan, Xiangzhi Bu, Kirill Alekseenko, Raunak Sadhwani, Robert Hovhannisyan, Abhimanyu Puranik, Daniel Dardha, Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/42nd-benasque-open-2023-live/",
-         "pubDate" : "Wed, 05 Jul 2023 21:00:00 +0000",
-         "title" : "42nd Benasque Open 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila during the first rapid round of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.05<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-gct-worlds-most-prestigious-tournament-network-d1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FgVHf2JiNpQ.jpg?",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -338,14 +386,6 @@ news_feed (
          "title" : "World Schools Team Championship 2023: Registration deadline extended"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-2-live/",
-         "pubDate" : "Wed, 05 Jul 2023 12:29:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 2 - LIVE"
-      },
-      {
          "description" : "The 36th edition of the \"Magistral Ciudad de Le&oacute;n\" will take place on July 6-10. Once again, a 4-player knockout will be the main attraction in the city located in the northwest of the Iberian Peninsula. Boris Gelfand will attempt to defend his title against Francisco Vallejo, Nikita Vitiugov and local star Jaime Santos. Gelfand defeated Vishy Anand in the final of last year's edition.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
          "pubDate" : "Wed, 05 Jul 2023 10:24:46 +0000",
          "title" : "NSCC National Final 29 and 30 June 2023"
-      },
-      {
-         "description" : "The 42nd Benasque Open is taking place from 5&#x2013;14 July 2023 in Benasque, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Haik M. Martirosyan, Xiangzhi Bu, Kirill Alekseenko, Raunak Sadhwani, Robert Hovhannisyan, Abhimanyu Puranik, Daniel Dardha, Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/42nd-benasque-open-2023/",
-         "pubDate" : "Wed, 05 Jul 2023 08:41:00 +0000",
-         "title" : "42nd Benasque Open 2023"
       },
       {
          "description" : "The 2023 FIDE Women's World Championship Match opened yesterday in Shanghai, China and will be played from 4-24 July in two cities: Shanghai and Chongquing. The match is played between Ju Wenjun, the defending Champion, and Lei Tingjie, the Challenger. The match will be played in 12 rounds, and the first player to reach 6.5 points will be crowned as the 2023 FIDE Women's World Chess Champion. The time control for each game is 90 minutes for the first 40 []",
@@ -408,30 +440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2495",
          "pubDate" : "Tue, 04 Jul 2023 15:39:19 +0000",
          "title" : "2023 FIDE World Cup: Players lists and pairings announced"
-      },
-      {
-         "description" : "The Slovak Championship Open 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gabor Farkas, Martin Chlpik, Adrian Zetocha, Patrik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/slovak-championship-open-2023-live/",
-         "pubDate" : "Tue, 04 Jul 2023 14:51:18 +0000",
-         "title" : "Slovak Championship Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Slovak Championship GM 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Sebastian Lukas Kostolansky, Juraj Druska, Jergus Pechac, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/slovak-championship-gm-2023-live/",
-         "pubDate" : "Tue, 04 Jul 2023 14:20:00 +0000",
-         "title" : "Slovak Championship GM 2023 - LIVE"
-      },
-      {
-         "description" : "The Slovak Championship GM 2023 is taking place from 1&#x2013;9 July 2023 in Bratislava. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Sebastian Lukas Kostolansky, Juraj Druska, Jergus Pechac, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/slovak-championship-gm-2023/",
-         "pubDate" : "Tue, 04 Jul 2023 14:00:00 +0000",
-         "title" : "Slovak Championship GM 2023"
       },
       {
          "description" : "Tony Ballard is a Kansas prison inmate who turned a 25-year sentence into a passion for chess. He used the game to teach other inmates critical-thinking skills, and became the Director of Prison Outreach. Tony partnered with The Gift of Chess, an initiative that is set to distribute one million chess sets all over the world by 2030. To date they have manufactured over 80,000, sending most to African nations. Read this report and prepare to be inspired.",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2461",
          "pubDate" : "Fri, 16 Jun 2023 10:10:09 +0000",
          "title" : "FIDE Fair Play Seminar in Baku, Azerbaijan, during World Cup 2023 announced"
-      },
-      {
-         "description" : " Entry is free, the prize fund is expected to be &pound;2,500 and the winner qualifies for the 2024 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in considerable numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <a href=\"https://www.theguardian.com/sport/2023/jun/16/chess-national-solving-championship-2023-open-for-entries-from-britain\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jun/16/chess-national-solving-championship-2023-open-for-entries-from-britain",
-         "pubDate" : "Fri, 16 Jun 2023 07:00:39 +0000",
-         "title" : "Chess: national solving championship 2023 open for entries from Britain"
       }
    ]
 }
