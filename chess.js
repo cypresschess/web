@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From the diagram position, Black wins by force, with White's uncovered Bb7 giving him the decisive impulse. Eight moves later, by the way, bishop takes bishop - happy collecting!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stray-bishop",
+         "pubDate" : "Sat, 08 Jul 2023 09:00:00 +0100",
+         "title" : "Stray Bishop"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sat, 08 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101590560.cms\" />In a remarkable turn of events at the 2023 SuperUnited Rapid and Blitz tournament, young Indian Grandmaster D Gukesh achieved a memorable victory over his esteemed compatriot and idol, Viswanathan Anand, in the eighth round of the Rapid event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/teenager-gm-gukesh-stuns-viswanathan-anand-on-grand-chess-tour/articleshow/101590560.cms",
+         "pubDate" : "Sat, 08 Jul 2023 06:23:53 +0000",
+         "title" : "Teenager Gukesh stuns Anand on Grand Chess Tour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 3. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-grand-chess-tour-world-cup-are-most-important-me-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i2ny2iAkt4I.jpg?itok=jBgvTrqn\" alt=\"\" ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -792,22 +816,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-14",
          "pubDate" : "Sun, 02 Jul 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 132: Chess history in a nutshell (14)"
-      },
-      {
-         "description" : "The inaugural edition of the Global Chess League is taking place in Dubai from June 21 to July 2, 2023. The league, which introduces the franchise format to the sport of chess, also brings a mixed-team format to the fore featuring the best from the ecosystem among men, women and U21 players. Six squads headed by the likes of Magnus Carlsen, Vishy Anand and world champion Ding Liren participate. Follow the games live from 15.30 CEST (9.30 ET, 19.00 IST). With live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2023-live",
-         "pubDate" : "Sun, 02 Jul 2023 14:55:00 +0100",
-         "title" : "Global Chess League - Games and relevant links"
-      },
-      {
-         "description" : "More than 500 players are taking part at the 50th Dortmund Chess Festival - a record number! The A-Open, a 9-round Swiss event, has Matthias Bluebaum, Alexander Donchenko and Michael Adams as the top seeds. Meanwhile, the Sportland NRW Cup is a 10-player round-robin tournament with ambitious players within the 2300-2550 rating band. | Follow the games live with expert commentary starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-live",
-         "pubDate" : "Sun, 02 Jul 2023 13:30:00 +0100",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
@@ -1664,22 +1672,6 @@ news_feed (
          "link" : "https://www.thearticle.com/liberty-or-libertinism-from-schiller-to-andrew-tate/",
          "pubDate" : "Sat, 17 Jun 2023 11:12:40 +0000",
          "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
-      },
-      {
-         "description" : " Oleiny Linares Napoles is a four-time national champion of Cuba (2010, 2016, 2019, 2023) and competed in the U.S. for the first time at the Chicago Open in Wheeling, Illinois. A Woman Grandmaster (WGM) since 2010, she is one of the most featured women players on The Chess Drum. After completing her first U.S. tournament, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/\">Oleiny Linares at 2023 Chicago Open</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/06/17/oleiny-linares-at-2023-chicago-open/",
-         "pubDate" : "Sat, 17 Jun 2023 05:18:25 +0000",
-         "title" : "Oleiny Linares at 2023 Chicago Open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101058584.cms\" />GM Richard Rapport said cheating and lack of well-structured monetary rewards en route becoming an elite chess player are the two most important issues that the game is facing.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rapport-richard-bats-for-rapid-chess-team-events/articleshow/101058584.cms",
-         "pubDate" : "Sat, 17 Jun 2023 03:51:27 +0000",
-         "title" : "Rapport Richard bats for rapid chess, team events"
       }
    ]
 }
