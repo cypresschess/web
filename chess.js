@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Women&#39;s World Champion GM Ju Wenjun was surprised in the opening but pounced on the chance to grab a central pawn, leaving challenger GM Lei Tingjie on the ropes in game three of the 2023 FIDE Women&#39;s World Championship in Shanghai. Lei held firm,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-3",
+         "pubDate" : "Sat, 08 Jul 2023 06:46:00 -0700",
+         "title" : "Ju Grabs Pawn In Game 3 But Can't Break Deadlock"
+      },
+      {
+         "description" : "The final day of rapid at the SuperUnited Rapid & Blitz tournament will see an in-form Ian Nepomniachtchi facing Fabiano Caruana and Vishy Anand in rounds 8 and 9. Meanwhile, Magnus Carlsen will try to bounce back from a haphazard second day of play. Follow the games live and with commentary from the Saint Louis Chess Center. | Rounds start at 15:00, 16:30 and 18:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
+         "pubDate" : "Sat, 08 Jul 2023 14:45:00 +0100",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2506",
+         "pubDate" : "Sat, 08 Jul 2023 13:03:19 +0000",
+         "title" : "WWC Match 2023: Ju gives Lei a break in a difficult position, ending in a draw"
+      },
+      {
+         "description" : " I saw a question on one of Facebook arbiters groups, asking how many rounds for a 16 player tournament. Most arbiters suggested 5 rounds (sqrt(n)+1 rounds, where n is the number of players) while the most imaginative answer was 15. This is technically correct as the original question did not specify a format. A few did suggest 4 rounds would do, factoring the chances that some games would be drawn. Whether the latter answer is correct will be put to the test at tomorrows NSW Rapid Championship. The event has a field of 142 and is scheduled for 7 rounds. The risk is that if all games are decisive there is a chance that 2 players may score 7/7, without playing each other. Of course this almos",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/how-many-rounds.html",
+         "pubDate" : "Sat, 08 Jul 2023 12:36:00 +0000",
+         "title" : "How many rounds?"
+      },
+      {
          "description" : "Ian Nepomniachtchi and Fabiano Caruana are tied in first place after nine rounds of rapid chess at the Grand Chess Tour in Zagreb. Former co-leader Vishy Anand failed to keep up with his colleagues, as he was defeated by Dommaraju Gukesh in their first-ever official confrontation. With 18 rounds of blitz to go, the one player standing a single point behind the leaders is Magnus Carlsen, who impressed on Friday by ending the rapid section with two consecutive, remarkable wins. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d3",
          "pubDate" : "Sat, 08 Jul 2023 13:05:00 +0100",
          "title" : "SuperUnited Croatia: Carlsen finds stunning move, climbs in the standings"
+      },
+      {
+         "description" : "A couple of years ago I talked to a seemingly very talented player, who invested a lot of time in chess training, but stagnated for a while. The big question was: Why are they not able to improve? At some point, we started talking about which books they worked on and I nearly fell off []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/adjusting-difficulty/",
+         "pubDate" : "Sat, 08 Jul 2023 12:00:00 +0000",
+         "title" : "Adjusting Difficulty for Optimal Chess Improvement"
       },
       {
          "description" : " This week, we're going to start transitioning into the endgame, which is perhaps the game phase most neglected by beginners. In the days of yore, chess teachers would often teach beginners how to play, starting with the endgame, working backwards towards the opening. This made great sense because you could teach pawn and piece coordination <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-seven/\">A Foundation for Beginners Ninety Seven</a> appeared first",
@@ -450,7 +490,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; 1 Lei Tingjie &frac12; &frac12; 1 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; 1&frac12; Lei Tingjie &frac12; &frac12; &frac12; 1&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -802,14 +842,6 @@ news_feed (
          "title" : "Triveni Continental Kings win the inaugural Global Chess League"
       },
       {
-         "description" : "The recently turned 19-year-old Danish GM Jonas Buhl Bjerre was the hero of the Tech Mahindra Global Chess League 2023 Finals. After three draws in the sudden-death matches, he checkmated Javokhir Sindarov (uMM) to etch Triveni Continental Kings as the winners of the inaugural edition. Before this game, Jonas had lost four times against Sindarov. It was not that he was playing bad. Even in the qualifier stage, he had many great positions, but he simply could not convert them. What's important is that the teenager won when it mattered the most. IM Sara Khadem (TCK) was applauded as well. She defended an inferior position against GM Harika Dronavalli (uMM) in the first sudden-death encounter. ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Tech-Mahindra-Global-Chess-League-2023-Day-11-report",
-         "pubDate" : "Sun, 02 Jul 2023 21:50:00 +0100",
-         "title" : "GCL: Jonas Buhl Bjerre wins thriller, Triveni Continental Kings clinch title"
-      },
-      {
          "description" : " Here's the conclusion of an online rapidplay game I played recently which resulted in an exciting rook ending with fluctuating fortunes. I lost it in the end, but really should have won it on two occasions. If you follow this lesson you can learn to play rook endings better than me (and my opponent)! We'll <a href=\"https://chessimprover.com/fluctuation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fluctuation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fluctuation/\">Fluctuation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1112,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2482",
          "pubDate" : "Wed, 28 Jun 2023 16:34:20 +0000",
          "title" : "The match for Women's World Champion title: Celebration of China and Chess"
-      },
-      {
-         "description" : "To win Titled Tuesday, 9.5 points continue to be enough as GMs Dmitry Andreikin and Oleksandr Bortnyk won the June 27 renditions of the event, each on that score. Both needed the tiebreak score advantage over one other player in order to secure fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-bortnyk-win-titled-tuesday-june-27-2023",
-         "pubDate" : "Wed, 28 Jun 2023 08:49:00 -0700",
-         "title" : "Titled Tuesday Ties Go To Andreikin, Bortnyk"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101342951.cms\" />Magnus Carlsen, the five-time chess world champion said he is pleasantly surprised with the immense enthusiasm for the game in India. Carlsen believes that this surge of interest marks the commencement of a revolutionary era, an achievement primarily attributed to the legendary Viswanathan Anand. Carlsen, widely recognized as one of the most formidable players in chess, is currently representing the SG Alpine Warriors in the Global Chess League (GCL). He acknowledged that India's consistent production of Grandmasters holds promising prospects for t",
@@ -1640,38 +1664,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-pairs-blitz-chess-championship-2023-starts-in-krakow/",
          "pubDate" : "Sat, 17 Jun 2023 21:46:45 +0000",
          "title" : "European Pairs Blitz Chess Championship 2023 starts in Krakow"
-      },
-      {
-         "description" : " Adia Onyango is known as the &#8220;Chess Traveler&#8221; for her voyages to chess venues around the world. She frequents overseas locations but is also a mainstay in major U.S. tournaments. Long a chess promoter, she granted an interview with The Chess Drum during the 2023 Chicago Open and told us her chess story. A fun The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/\">Interview with Chess Connector, Adia Onyango</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/06/17/interview-with-chess-connector-adia-onyango/",
-         "pubDate" : "Sat, 17 Jun 2023 14:08:53 +0000",
-         "title" : "Interview with Chess Connector, Adia Onyango"
-      },
-      {
-         "description" : " Today at Street Chess I saw a pretty rare sight. King and 2 bishops actually mating a king. Normally when this position is reached the defending side will resign, which is why I don't recall ever seeing it in an actual game. In contrast KBN v K is often played right to the finish, as the defending side normally starts with the expectation that their will be some mistake that will save them, but when this turns out not to be so, will then give the opponent the 'satisfaction' of delivering mate. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/kbbvn.html",
-         "pubDate" : "Sat, 17 Jun 2023 13:32:00 +0000",
-         "title" : "KBBvN"
-      },
-      {
-         "description" : " Last week, we started our exploration of discovered and double discovered attacks. We looked at the great benefits that can be derived by employing this specific tactic. While the discovered and double discovered attack is a powerful tool, there is another form of this tactic that is even more powerful: The discovered or double discovered <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-five/\">A Foundation for Beginners Ninety Five</a> appeared first on <",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-five/",
-         "pubDate" : "Sat, 17 Jun 2023 12:49:12 +0000",
-         "title" : "A Foundation for Beginners Ninety Five"
-      },
-      {
-         "description" : "I love making mistakes. Yes, you read that correctly. I have come to realize that making mistakes is not only inevitable but also a powerful catalyst for growth. This might sound counterintuitive, but stick with me. In this article, I will reveal why embracing your chess mistakes can accelerate your progress and ultimately, transform your []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/making-mistakes-is-your-secret-weapon/",
-         "pubDate" : "Sat, 17 Jun 2023 12:00:00 +0000",
-         "title" : "Redefining Chess Mastery: Why Making Mistakes is Your Secret Weapon"
       }
    ]
 }
