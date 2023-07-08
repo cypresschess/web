@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi and Fabiano Caruana are tied in first place after nine rounds of rapid chess at the Grand Chess Tour in Zagreb. Former co-leader Vishy Anand failed to keep up with his colleagues, as he was defeated by Dommaraju Gukesh in their first-ever official confrontation. With 18 rounds of blitz to go, the one player standing a single point behind the leaders is Magnus Carlsen, who impressed on Friday by ending the rapid section with two consecutive, remarkable wins. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d3",
+         "pubDate" : "Sat, 08 Jul 2023 13:05:00 +0100",
+         "title" : "SuperUnited Croatia: Carlsen finds stunning move, climbs in the standings"
+      },
+      {
+         "description" : " This week, we're going to start transitioning into the endgame, which is perhaps the game phase most neglected by beginners. In the days of yore, chess teachers would often teach beginners how to play, starting with the endgame, working backwards towards the opening. This made great sense because you could teach pawn and piece coordination <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-seven/\">A Foundation for Beginners Ninety Seven</a> appeared first",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-seven/",
+         "pubDate" : "Sat, 08 Jul 2023 11:02:16 +0000",
+         "title" : "A Foundation for Beginners Ninety Seven"
+      },
+      {
+         "description" : "Magnus Carlsen likes to play with, and against the Dragon. Chris Ward found two recent games of the Norwegian GM, and shows us which variation the former World Champion chose to defeat the Sicilian, and how to counter the variation better. Furthermore, we dive into the win of Magnus, and what mistakes his strong opponent made. Remember, all the variations are available on Ward's Fritztrainers! | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-magnus-winning-against-and-with-the-dragon",
+         "pubDate" : "Sat, 08 Jul 2023 12:00:00 +0100",
+         "title" : "The Monthly Dragon - Magnus winning against, and with the Dragon"
+      },
+      {
          "description" : "From the diagram position, Black wins by force, with White's uncovered Bb7 giving him the decisive impulse. Eight moves later, by the way, bishop takes bishop - happy collecting!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-4-grandchesstour",
          "pubDate" : "Fri, 07 Jul 2023 14:29:25 +0000",
          "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 4 | #GrandChessTour"
-      },
-      {
-         "description" : "The final day of rapid at the SuperUnited Rapid & Blitz tournament will see an in-form Ian Nepomniachtchi facing Fabiano Caruana and Vishy Anand in rounds 8 and 9. Meanwhile, Magnus Carlsen will try to bounce back from a haphazard second day of play. Follow the games live and with commentary from the Saint Louis Chess Center. | Rounds start at 15:00, 16:30 and 18:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
-         "pubDate" : "Fri, 07 Jul 2023 14:45:00 +0100",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
       },
       {
          "description" : "The Dutch Championships and the Dutch Women's Championships are played in parallel, but in different modes. The Open is a knockout tournament with mini matches and has reached the semi-finals. In the women's tournament, Eline Roebers (pictured right) was the clear winner and became the new Dutch Women's Champion. Last Wednesday's hurricane also wreaked havoc on the women's championship. | Photos: Harry Gielen",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://www.europechess.org/grand-chess-tour-rapid-blitz-tour-starts-in-zagreb/",
          "pubDate" : "Sun, 02 Jul 2023 14:39:04 +0000",
          "title" : "Grand Chess Tour Rapid & Blitz Tour starts in Zagreb"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 132nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the skills and the legacy of Emanuel Lasker. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-14",
-         "pubDate" : "Sun, 02 Jul 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 132: Chess history in a nutshell (14)"
       },
       {
          "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/making-mistakes-is-your-secret-weapon/",
          "pubDate" : "Sat, 17 Jun 2023 12:00:00 +0000",
          "title" : "Redefining Chess Mastery: Why Making Mistakes is Your Secret Weapon"
-      },
-      {
-         "description" : "Freedom, if not outright revolution, was the watchword of German dramatist, poet and philosopher, Friedrich Schiller. Schiller notably formed the elite pair of German classical writers, along with his contemporary, Johann Wolfgang von Goethe. It was Goethe who described chess as \"the touchstone of the intellect.\" There is a link to a third Germanic genius, in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/liberty-or-libertinism-from-schiller-to-andrew-tate/",
-         "pubDate" : "Sat, 17 Jun 2023 11:12:40 +0000",
-         "title" : "Liberty or libertinism? From Schiller to Andrew Tate"
       }
    ]
 }
