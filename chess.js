@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 3. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-grand-chess-tour-world-cup-are-most-important-me-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i2ny2iAkt4I.jpg?itok=jBgvTrqn\" alt=\"\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-grand-chess-tour-world-cup-are-most-important-me-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
+         "title" : "Duda: Grand Chess Tour & World Cup Are Most Important To Me | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 2-0-1 on the third rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-lupulescus-kb2-so-disgusting-d3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QVSgmQ9vmjc.jpg?itok=pZ_X3LhS\" alt=\"\" /></a></div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-lupulescus-kb2-so-disgusting-d3-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
+         "title" : "Magnus: Lupulescu's Kb2 'So Disgusting!' | D3 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 1-0-2 on the third rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-little-bit-shaky-day-d3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-8rpaBy0uuk.jpg?itok=1lmn8KIZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-little-bit-shaky-day-d3-superunitedrapidblitzcroatia",
+         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
+         "title" : "Caruana: A Little Bit of a Shaky Day | D3 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the second blitz round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-5-grandchesstour",
+         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 5 | #GrandChessTour"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-3",
-         "pubDate" : "Fri, 07 Jul 2023 15:44:42 -0700",
-         "title" : "Prot&eacute;g&eacute; Defeats Legendary Mentor: Gukesh vs. Anand"
+         "pubDate" : "Fri, 07 Jul 2023 15:44:00 -0700",
+         "title" : "Protege Defeats Legendary Mentor: Gukesh vs. Anand"
       },
       {
          "description" : "",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/paravyan-lazavik-andreikin-erigaisi-win-2023-bcc-qualifiers-2-3",
-         "pubDate" : "Fri, 07 Jul 2023 15:06:48 -0700",
+         "pubDate" : "Fri, 07 Jul 2023 15:06:00 -0700",
          "title" : "Paravyan, Lazavik, Andreikin, Arjun Qualify For BCC Main Event"
       },
       {
@@ -58,7 +90,7 @@ news_feed (
          "title" : "Fabi: 'It was a little bit of a shaky day' | D3 #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : " Brewington Hardaway (Twitter) In a span of seven months, Brewington Hardaway secured three norms for the title of International Master. His last one came at the 2023 World Open where he scored a strong 6/9 including a key win over. GM Illia Nyzhnyk. &#8220;Brew&#8221; earned his first IM norm and the FM title in January The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/\">Brewington Hardaway gets 3rd/Final IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Brewington Hardaway (Twitter) In a span of seven months, Brewington Hardaway secured three norms for the title of International Master. His last one came at the 2023 World Open where he scored a strong 6/9 including a key win over GM Illia Nyzhnyk. &#8220;Brew&#8221; earned his first IM norm and the FM title in January The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/\">Brewington Hardaway gets 3rd/Final IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/",
@@ -258,44 +290,12 @@ news_feed (
          "title" : "Revenge of Nepomniachtchi: 3-0 Streak, Leads With Anand, Caruana"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasiya Karlovich knows the players of the SuperUnited Rapid &amp; Blitz Croatia are role models to the youth. What would the competitors like their impact on young fans to be? This aired during Day 2. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superunited-rapid-blitz-croatia-what-would-you-your-impact-be-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-what-would-you-your-impact-be-grandchesstour",
-         "pubDate" : "Thu, 06 Jul 2023 20:28:56 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: What Would You Like Your Impact to Be? #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after going 3-0 in the second rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-perfect-day-better-be-confident-not-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ykHdv73RC40.jpg?itok=7QJ6kA4Y\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepos-perfect-day-better-be-confident-not-d2-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 06 Jul 2023 20:28:56 +0000",
-         "title" : "Nepo's Perfect Day: Better to be Confident, Than Not! | D2 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after going 2-0-1 in the second rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh%E2%80%99s-gct-debut-%E2%80%98i-want-have-good-performance%E2%80%99-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XSzzVpnED_8.jpg?",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh%E2%80%99s-gct-debut-%E2%80%98i-want-have-good-performance%E2%80%99-d2-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 06 Jul 2023 20:28:56 +0000",
-         "title" : "Gukesh's GCT Debut! 'I Want to Have a Good Performance' | D2 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
          "description" : "GM Jose Martinez and IM Emin Ohanyan won the Qualifier 1 Winners and Losers brackets, respectively, to qualify for the&#38;nbsp;2023 Bullet Chess Championship main event, which begins on July 17. In the Winners Bracket, Martinez won a one-sided matc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-martinez-ohanyan-win-bcc-qualifier-1",
          "pubDate" : "Thu, 06 Jul 2023 13:22:00 -0700",
          "title" : "Martinez, Ohanyan Qualify For Bullet Chess Championship Main Event"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Carlsen in the fourth rapid game of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.06<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-surprising-na5-crumples-magnus-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/glLTGgHQ5EM.jpg?itok=DuNSrS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-surprising-na5-crumples-magnus-d2-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 06 Jul 2023 17:28:26 +0000",
-         "title" : "Caruana's Surprising Na5 Crumples Magnus! | D2 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "Challenger GM Lei Tingjie once again seized the initiative in game two of the 2023 FIDE Women&#39;s World Championship in Shanghai, but a lack of time, and precise defense from reigning champion GM Ju Wenjun, saw the game end in a 40-move draw. The sc...",
@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/rapport-richard-bats-for-rapid-chess-team-events/articleshow/101058584.cms",
          "pubDate" : "Sat, 17 Jun 2023 03:51:27 +0000",
          "title" : "Rapport Richard bats for rapid chess, team events"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2456",
-         "pubDate" : "Sat, 17 Jun 2023 01:39:30 +0000",
-         "title" : "FIDE World Cup 2023: Useful information for players"
       }
    ]
 }
