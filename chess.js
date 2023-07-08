@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The St. Veiter Jacques-Lemans-Open is taking place from 8&#x2013;15 July 2023 in St. Veit/Glan, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yevgeniy Roshka, Davor Rogic, Leon Mazi, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/st-veiter-jacques-lemans-open-2023-live/",
+         "pubDate" : "Sat, 08 Jul 2023 18:42:42 +0000",
+         "title" : "St. Veiter Jacques-Lemans-Open 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess photographer Lennart Ootes talks to Anastasiya Karlovich on his birthday during the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-lennart-ootes-man-behind-camera-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ry6losKWl0s.jpg?itok=lUZay-Fr\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-lennart-ootes-man-behind-camera-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 08 Jul 2023 17:30:15 +0000",
+         "title" : "EXCLUSIVE: Lennart Ootes, The Man Behind the Camera | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-playing-vishy-first-time-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rm2U-iVaPl4.jpg?itok=ATFPf7SE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-playing-vishy-first-time-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 08 Jul 2023 17:30:15 +0000",
+         "title" : "Gukesh: Playing Vishy for the First Time | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "Regular readers of my column will have observed my general aversion to cancel culture and the obliteration of memory. In TheArticle I have regularly inveighed against attempts to erase history, citing heinous examples, such as the Spanish conquistadors, a small group of heavily outnumbered activists, who exerted sufficient control to eradicate a nation's history, abolish its []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/damnatio-memoriae/",
+         "pubDate" : "Sat, 08 Jul 2023 15:33:46 +0000",
+         "title" : "Damnatio Memoriae"
+      },
+      {
+         "description" : "The St. Veiter Jacques-Lemans-Open is taking place from 8&#x2013;15 July 2023 in St. Veit/Glan, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yevgeniy Roshka, Davor Rogic, Leon Mazi, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/st-veiter-jacques-lemans-open-2023/",
+         "pubDate" : "Sat, 08 Jul 2023 14:33:00 +0000",
+         "title" : "St. Veiter Jacques-Lemans-Open 2023"
+      },
+      {
          "description" : "Women&#39;s World Champion GM Ju Wenjun was surprised in the opening but pounced on the chance to grab a central pawn, leaving challenger GM Lei Tingjie on the ropes in game three of the 2023 FIDE Women&#39;s World Championship in Shanghai. Lei held firm,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,6 +128,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/teenager-gm-gukesh-stuns-viswanathan-anand-on-grand-chess-tour/articleshow/101590560.cms",
          "pubDate" : "Sat, 08 Jul 2023 06:23:53 +0000",
          "title" : "Teenager Gukesh stuns Anand on Grand Chess Tour"
+      },
+      {
+         "description" : "The South Wales Open is taking place from 7&#x2013;12 July 2023 in Bridgend. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Boris Chatalbashev, Oleg Korneev, Jack Rudd, Daniel Kozusek, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-wales-open-2023-live/",
+         "pubDate" : "Sat, 08 Jul 2023 04:15:00 +0000",
+         "title" : "South Wales Open 2023 - LIVE"
+      },
+      {
+         "description" : "The South Wales Open is taking place from 7&#x2013;12 July 2023 in Bridgend. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Boris Chatalbashev, Oleg Korneev, Jack Rudd, Daniel Kozusek, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-wales-open-2023/",
+         "pubDate" : "Sat, 08 Jul 2023 03:25:00 +0000",
+         "title" : "South Wales Open 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 3. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-grand-chess-tour-world-cup-are-most-important-me-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i2ny2iAkt4I.jpg?itok=jBgvTrqn\" alt=\"\" ",
@@ -194,14 +250,6 @@ news_feed (
          "title" : "Anastasiya asks the players how it feels to be in Zagreb for #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiya-asks-duda-about-memories-he-has-croatia-2021-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i2ny2iAkt4I.jpg?itok=jBgvTrqn\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anastasiya-asks-duda-about-memories-he-has-croatia-2021-superunitedrapidblitzcroatia",
-         "pubDate" : "Fri, 07 Jul 2023 17:29:28 +0000",
-         "title" : "Anastasiya asks Duda about the memories he has from Croatia 2021 | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
          "description" : "In his new Power Play Show, GM Daniel King looks at the first game from the Women's World Championship match between Ju Wenjun and Lei Tingjie. It was a tense struggle, with a number of instructive positions to learn from! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-3-live/",
          "pubDate" : "Fri, 07 Jul 2023 16:10:00 +0000",
          "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 3 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the 4th SuperUnited Rapid &amp; Blitz Croatia is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko, Cristian Chirila, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. 2023.07.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superunited-rapid-blitz-croatia-day-4-grandchesstour",
-         "pubDate" : "Fri, 07 Jul 2023 14:29:25 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz Croatia: Day 4 | #GrandChessTour"
       },
       {
          "description" : "The Dutch Championships and the Dutch Women's Championships are played in parallel, but in different modes. The Open is a knockout tournament with mini matches and has reached the semi-finals. In the women's tournament, Eline Roebers (pictured right) was the clear winner and became the new Dutch Women's Champion. Last Wednesday's hurricane also wreaked havoc on the women's championship. | Photos: Harry Gielen",
@@ -330,14 +370,6 @@ news_feed (
          "title" : "50+ Senior Championship Saxony-Anhalt"
       },
       {
-         "description" : "The 1000GM New York Summer GM A is a 10-player Round-robin tournament, held from the 6th to the 10th of July in New York City, United States of America. Time control is 90 minutes for the entire game with a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-new-york-summer-gm-a/",
-         "pubDate" : "Fri, 07 Jul 2023 01:59:00 +0000",
-         "title" : "1000GM New York Summer GM A"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -418,28 +450,12 @@ news_feed (
          "title" : "WWC Match 2023: Lei Tingjie takes initiative once again but Ju holds her to a draw "
       },
       {
-         "description" : "The Paracin Open is taking place from 7&#x2013;15 July 2023 in Paracin, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ivan Ivanisevic, Bayarsaikhan Gundavaa, Pranesh M, Mikhail Bryakin, Petar G. Arnaudov, Zhen Yu Cyrus Low, Suat Atalik, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paracin-open-2023-live/",
-         "pubDate" : "Thu, 06 Jul 2023 12:41:09 +0000",
-         "title" : "Paracin Open 2023 - LIVE"
-      },
-      {
          "description" : "The Opening Encyclopaedia 2023 impresses with a huge scope and is the largest collection on opening theory with almost 1400 theory articles and 7,444 opening surveys. In 70 videos with a total running time of 29 hours the latest trends are presented by grandmasters. Vojko Mencinger has taken a look at the work, which is available at a special price this week in the Summer Special bundle with ChessBase 17.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-opening-encyclopaedia-2023-a-review",
          "pubDate" : "Thu, 06 Jul 2023 13:11:06 +0100",
          "title" : "The Opening Encyclopaedia 2023 - A review"
-      },
-      {
-         "description" : "The Paracin Open is taking place from 7&#x2013;15 July 2023 in Paracin, Serbia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ivan Ivanisevic, Bayarsaikhan Gundavaa, Pranesh M, Mikhail Bryakin, Petar G. Arnaudov, Zhen Yu Cyrus Low, Suat Atalik, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paracin-open-2023/",
-         "pubDate" : "Thu, 06 Jul 2023 12:10:00 +0000",
-         "title" : "Paracin Open 2023"
       },
       {
          "description" : "For five days, ten of the world's best chess players, including former world champions Magnus Carlsen and Vishy Anand, are playing rapid and blitz chess in Zagreb. The chess stars have been received with great enthusiasm in the Croatian capital. After the first day of rapid chess, living legend Anand has taken the lead. | Photo: Lennart Ootes",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
          "pubDate" : "Thu, 06 Jul 2023 05:10:55 +0000",
          "title" : "2023 Women's World Championship (Shanghai/ Chongqing, China)"
-      },
-      {
-         "description" : "The Open German Women's Championship is taking place from 5&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Petra Grabowski, Elina Heutling, Brigitte Von []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-german-womens-championship-2023-live/",
-         "pubDate" : "Thu, 06 Jul 2023 04:00:00 +0000",
-         "title" : "Open German Women's Championship 2023 - LIVE"
       },
       {
          "description" : "",
