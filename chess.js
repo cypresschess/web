@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The longest game of the match so far saw GM Ju Wenjun shrug off an opening surprise to torture GM Lei Tingjie for five hours in game four of the 2023 FIDE Women&#39;s World Championship. Lei didn&#39;t crack, however, so that the scores are still tied, at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-4",
+         "pubDate" : "Sun, 09 Jul 2023 07:52:12 -0700",
+         "title" : "Longest Game Drawn, As Ju Resists Lei's Pressure In Game 4"
+      },
+      {
+         "description" : "GM Hikaru Nakamura smashed records on Saturday when he scored 75 wins and 276 points to claim his fifth Bullet Brawl crown along with the $400 first prize. After falling short in the previous edition, he was nearly invincible in the two-hour, 106-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-2",
+         "pubDate" : "Sun, 09 Jul 2023 07:41:34 -0700",
+         "title" : "Nakamura Breaks Bullet Brawl Record With 75 Wins"
+      },
+      {
+         "description" : "In the current ChessBase Magazine #214 you'll find three opening videos with a total playing time of over an hour. Ivan Sokolov presents Gukesh's novelty and pawn sacrifice 9.Qc2 in the Catalan from the Menorca Open 2023 - \"excellent preparation by Gukesh!\" Sipke Ernst examines the novelty 8.h4 in the Ragozin Variation of the Queen's Gambit, which was discussed in the duel between his compatriots Van Foreest and Giri at the Tata Steel Tournament 2023. And Mihail Marin takes up the line 1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.Be2 Nc6 5.0-0, which came up on the board in the 12th game of the World Championship match between Ding Liren and Ian Nepomniachtchi, among others. You can watch an excerpt from Iva",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/compliment-to-gukesh",
+         "pubDate" : "Sun, 09 Jul 2023 15:00:00 +0100",
+         "title" : "\"Compliment to Gukesh!\""
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 133rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the skills and the legacy of Emanuel Lasker. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 09 Jul 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 133: Chess history in a nutshell (15)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2509",
+         "pubDate" : "Sun, 09 Jul 2023 13:48:25 +0000",
+         "title" : "WWC Match 2023: Lei's opening surprise meets Ju's endgame resurgence"
+      },
+      {
+         "description" : "The final day of action at the SuperUnited Rapid & Blitz tournament sees a host of strong players trying to keep up with Magnus Carlsen, who leads the standings after scoring a perfect 9/9 on Saturday. Follow the games live and with commentary from the Saint Louis Chess Center. | Rounds start at 15:00, 16:30 and 18:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
+         "pubDate" : "Sun, 09 Jul 2023 14:45:00 +0100",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
+      },
+      {
          "description" : "Kazakhstan, host of the World Championship match between Ian Nepomniachtchi and Ding Liren, has a lively and thriving chess scene and continues to organise attractive tournaments. The Uralsk Open (20-29 July) and the World Schools Team Championships in Aktau (3-8 August) are in the pipeline, but below is a report on the recently concluded Aktobe Open, which took place from 19-28 June and was won by Iranian grandmaster Daneshwar Bardiya. | Photo: The main square of Aktobe | Photo: Kazakhstan Travel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -570,7 +618,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; 1&frac12; Lei Tingjie &frac12; &frac12; &frac12; 1&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 2 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 2 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -826,36 +874,12 @@ news_feed (
          "title" : "Carlsen, Nakamura, Firouzja Line Up For Strongest Bullet Chess Championship Ever"
       },
       {
-         "description" : "The new ChessBase Magazine #214 offers various updates for your repertoire with eleven opening articles from the Dutch to King's Indian. 1.e4 players can be curious about Martin Lorenzini's article on the Scandinavian with 3...Qa5. For the GM from Argentina sees Black in great trouble in the line 4.d4 Nf6 5.Nf3 Bf5 6.Bd2 e6 7.Ne5!: \"The positions that the second player gets are passive, difficult to handle and practically aspire to only a draw\". Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-the-3-qa5-scandinavian-busted",
-         "pubDate" : "Mon, 03 Jul 2023 15:00:00 +0100",
-         "title" : "Is the 3...Qa5-Scandinavian busted?"
-      },
-      {
          "description" : " Chess photography is a popular (although not very lucrative) pastime. There is something about the settings, the personalities, and range of emotions that seem to attract photographers to the sport. For people like me (using my low res smart phone) it is to recognise people who come each weel to Street Chess. For more prolific photographers (with their better equipment) like Cathy Rogers or Dr Helen Milligan, it is a way of documenting the chess events they attend. But for some at the top, it is a way to make a living, as well as provide an insight into the world of top level chess. Courtesy of regular reader Jim, there is a <a href=\"https://edition.cnn.com/2023/06/19/sport/maria-emelianova",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/07/the-art-of-making-chess-art.html",
          "pubDate" : "Mon, 03 Jul 2023 13:06:00 +0000",
          "title" : "The art of making (chess) art"
-      },
-      {
-         "description" : "At the beginning of the month, FIDE published its new rating list. Magnus Carlsen, who lost 18 Elo points at Norway Chess in June, remains at the top of the list with 2835 points and is also the only player with an Elo rating above 2800. The Americans Hikaru Nakamura (2787, +12 at Norway Chess) and Fabiano Caruana (2782, +9 at Norway Chess) are in second and third place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-july-2023",
-         "pubDate" : "Mon, 03 Jul 2023 14:00:00 +0100",
-         "title" : "FIDE ratings July 2023"
-      },
-      {
-         "description" : "This is your chance! During our Summer Special weeks in July and August you will find attractive products and packages from our shop at special discount prices. We start with the essential software that every chess player needs - from the club amateur to the World Champion. ChessBase 17 and the unique Opening Encyclopedia will give a substantial boost to your playing strength. And you can get it for €50 less than the list price - for €229.90 instead of the list price of €279.80!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-2023-chessbase-17-opening-encyclopedia",
-         "pubDate" : "Mon, 03 Jul 2023 12:00:00 +0100",
-         "title" : "Summer Special 2023: ChessBase 17 + Opening Encyclopedia"
       },
       {
          "description" : "The Triveni Continental Kings completed their comeback story with a victory in the finals of the Tech Mahindra Global Chess League 2023 that went all the way down to sudden death. The 19-year-old GM Jonas Bjerre was the hero for the Kings as he to...",
@@ -1130,14 +1154,6 @@ news_feed (
          "title" : "PogChamps 5 Is Ready For Liftoff! Chess.com's Spectacular Battle Of The Creators Is Back"
       },
       {
-         "description" : "Day eight of the Tech Mahindra Global Chess League 2023 featured two combative matchups that came down to photo finishes. In a match of almost all decisive games, GM Levon Aronian defeated fellow icon, GM Jan-Krzysztof Duda, leading the Triveni ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-8",
-         "pubDate" : "Thu, 29 Jun 2023 06:53:00 -0700",
-         "title" : "Team Aronian, Team Anand Prevail In Photo Finish Matchups"
-      },
-      {
          "description" : " This terms Interschool competition finished up yesterday in Canberra, and it gives me a chance to write yet another post on \"rules kid's think are real\". NB I have probably mentioned a few of these before <ul style=\"text-align: left;\"><li>You can castle to avoid checkmate - \"Ummm, no\" \"Some people say you can\" \"OK, but I'm the arbiter and I'm telling you you can't castle out of check\" \"But some people say you can\" (Added bonus - he changed the score on the result sheet to show he had won)</li><li>Castling involves exchanging any two pieces on the back rank - To be fair, the player had never seen castling before and was attempting to copy what their opponent had just done</li><li>You both ge",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-koneru-humpy-bats-for-more-chess-tournaments-for-women-in-india/articleshow/101365810.cms",
          "pubDate" : "Thu, 29 Jun 2023 10:52:51 +0000",
          "title" : "GM Humpy bats for more chess tournaments for women in India"
-      },
-      {
-         "description" : "The ambitious crossover between gridiron and chess continued on Wednesday with BlitzChamps: Michigan and was won by Wolverines wide receiver Cornelius Johnson after he swept the offensive lineman Ladarius Henderson in the champions final with a sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-blitz-champs-michigan-cornelius-johnson-wins",
-         "pubDate" : "Wed, 28 Jun 2023 17:59:00 -0700",
-         "title" : "Johnson Scores Final Touchdown In BlitzChamps Michigan"
       },
       {
          "description" : "",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/a-constantly-evolving-work-of-art.html",
          "pubDate" : "Sun, 18 Jun 2023 15:59:00 +0000",
          "title" : "'A Constantly Evolving Work of Art' (*)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2463",
-         "pubDate" : "Sun, 18 Jun 2023 13:43:15 +0000",
-         "title" : "European Pair Blitz Championship kicks off in Krakow"
       }
    ]
 }
