@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sun, 09 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship - Live!"
+      },
+      {
+         "description" : " I'd say round about a quarter of the games I play in our club's weekly online tournament are decided in the ending. Which is why I keep on banging on about learning to play endings really well. Here's one from last week's blitz arena: I was Black against a slightly stronger opponent. It was White's <a href=\"https://chessimprover.com/imprisonment/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Imprisonment\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/imprisonment/\">Imprisonment</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/imprisonment/",
+         "pubDate" : "Sun, 09 Jul 2023 07:10:57 +0000",
+         "title" : "Imprisonment"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101609968.cms\" />Indian players Viswanathan Anand and young GM D Gukesh slipped on the first day of the Blitz segment in the 2023 SuperUnited Rapid and Blitz tournament, part of the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-d-gukesh-tied-6th-after-nine-games/articleshow/101609968.cms",
+         "pubDate" : "Sun, 09 Jul 2023 06:40:42 +0000",
+         "title" : "Grand Chess Tour: Anand, Gukesh tied 6th after nine games"
+      },
+      {
          "description" : "Magnus Carlsen obtained a 3-point lead going into the final day of action at the SuperUnited Rapid & Blitz tournament after scoring a magnificent 9 out of 9 in the first half of the blitz section. After beating all of his opponents, an elated Carlsen told Anastasiya Karlovich: \"I've had good days, but of course, this is something special\". Former co-leaders Ian Nepomniachtchi and Fabiano Caruana are now sharing second place with 17 points each. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/naroditsky-wins-2023-bullet-brawl-july-week-1",
          "pubDate" : "Sun, 02 Jul 2023 17:16:00 -0700",
          "title" : "Naroditsky Collects First Bullet Brawl Title Ahead Of Nakamura, Carlsen"
-      },
-      {
-         "description" : "The double check is sometimes characterised as the \"Atomic Bomb\" of the chessboard. Since the checks come from two different lines, these can't be blocked simultaneously by a single move, and therefore the king has to retreat. If there is no retreat square available, then it may be checkmate out of a clear sky! | Pictured: Aron Nimzowitsch",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-197",
-         "pubDate" : "Sun, 02 Jul 2023 23:45:00 +0100",
-         "title" : "The ultimate weapon"
       },
       {
          "description" : "",
