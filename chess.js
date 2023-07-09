@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shri Prabhakar Timble as a presiding Officer conducted the election of Goa Chess Association for the post of President, Secretary, Treasurer and 2 joint Secretaries",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mahesh-candolkar-and-ashesh-keni-elected-as-president-and-secretary-of-goa-chess-association/",
+         "pubDate" : "Sun, 09 Jul 2023 17:37:29 +0000",
+         "title" : "Mahesh Candolkar and Ashesh Keni elected as President and Secretary of Goa Chess Association"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Executive Director Michael Khodarkovsky talks to Cristian Chirila during the second blitz day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khodarkovsky-another-european-gct-event-soon-d5-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fXWARh3pMoE",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khodarkovsky-another-european-gct-event-soon-d5-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
+         "title" : "Khodarkovsky: Another European GCT Event Soon! | D5 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Croatian professional tennis player Borna Ćori&#263 talks to Anastasiya Karlovich during the second blitz day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/borna-%C4%87ori%C4%87-saric-my-favorite-chess-player-d5-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fRF",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/borna-%C4%87ori%C4%87-saric-my-favorite-chess-player-d5-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
+         "title" : "Borna Ćori&#263: Saric is My Favorite Chess Player | D5 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired on Day 5. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-shaped-hungary-serbia-romania-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W-dx67d_4f4.jpg?itok=XVoyli4c\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rapport-shaped-hungary-serbia-romania-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
+         "title" : "Rapport: Shaped by Hungary, Serbia, & Romania | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ivan Saric talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired on Day 5. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saric-chess-trending-worldwide-including-croatia-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qh8ygwt1CEA.jpg?itok=7Cv8Au2p\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saric-chess-trending-worldwide-including-croatia-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
+         "title" : "Saric: Chess is Trending Worldwide, Including Croatia | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen speaks to Cristian Chirila and receives his trophy from Grand Chess Tour Executive Director Michael Khodarkovsky and SuperUnited Organization Committee President Marin Maruši&#263 after the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-blitz-streak-sweeter-any-tournament-win-d5superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-blitz-streak-sweeter-any-tournament-win-d5superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
+         "title" : "Carlsen: Blitz Streak Sweeter Than Any Tournament Win | D5#SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "In the longest game of the Women's World Championship match so far, Lei Tingjie surprised Ju Wenjun in the opening. Ju struggled at first, but later got to put pressure on her opponent in the endgame. A fourth draw in Shanghai means the score remains tied in what has so far been a high-quality, tense confrontation. | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-4",
+         "pubDate" : "Sun, 09 Jul 2023 18:30:00 +0100",
+         "title" : "Women's World Championship: Another fighting draw"
+      },
+      {
+         "description" : "The SuperUnited Rapid and Blitz Croatia 2023 came to a close on Sunday with one clear winner, GM Magnus Carlsen. The former world champion kept up his formidable run and scored 6/9 on the second day of blitz to take his total to 26/36.&#38;nbsp; Not...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-2023-superunited-croatia-rapid-blitz",
+         "pubDate" : "Sun, 09 Jul 2023 10:04:00 -0700",
+         "title" : "Carlsen Captures Croatia Crown, Nepomniachtchi Surges Into Second (Flash Report)"
+      },
+      {
          "description" : "The longest game of the match so far saw GM Ju Wenjun shrug off an opening surprise to torture GM Lei Tingjie for five hours in game four of the 2023 FIDE Women&#39;s World Championship. Lei didn&#39;t crack, however, so that the scores are still tied, at...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,12 +130,12 @@ news_feed (
          "title" : "Humpy, Harika to spearhead India's challenge in Asian Games"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sun, 09 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship - Live!"
+         "description" : " The SuperUnited Rapid & Blitz, part of the Grand Chess Tour, took place in Zagreb Wed 5th to Mon 10th July 2023. The final results came from a combination of the scores in Rapid and Bltiz. Magnus Carlsen finished 3rd in the Rapid half a point behind Fabiano Caruana and Ian Nepomniachtchi. Carlsen then proceeded to score 9/9 on the first day of the blitz, he was then held to two draws before winning four more which decided the event. A couple of losses after the event was decided didn't take the gloss off a dominant performance. Final Standings: 1st Carlsen 26pts, 2nd Nepomniachtchi 22&frac12;pts, 3rd Firouzja 22pts, 4th Caruana 21&frac12;pts, 5th Gukesh D 19&frac12;pts, 6th Rapport 19pts, 7",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2023",
+         "pubDate" : "Sun, 9 Jul 2023 13:21:00 +0400",
+         "title" : "SuperUnited Rapid & Blitz 2023 - Games and Results"
       },
       {
          "description" : " I'd say round about a quarter of the games I play in our club's weekly online tournament are decided in the ending. Which is why I keep on banging on about learning to play endings really well. Here's one from last week's blitz arena: I was Black against a slightly stronger opponent. It was White's <a href=\"https://chessimprover.com/imprisonment/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Imprisonment\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/imprisonment/\">Imprisonment</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -168,22 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/st-veiter-jacques-lemans-open-2023-live/",
          "pubDate" : "Sat, 08 Jul 2023 18:42:42 +0000",
          "title" : "St. Veiter Jacques-Lemans-Open 2023 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess photographer Lennart Ootes talks to Anastasiya Karlovich on his birthday during the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-lennart-ootes-man-behind-camera-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ry6losKWl0s.jpg?itok=lUZay-Fr\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-lennart-ootes-man-behind-camera-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 08 Jul 2023 17:30:15 +0000",
-         "title" : "EXCLUSIVE: Lennart Ootes, The Man Behind the Camera | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-playing-vishy-first-time-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rm2U-iVaPl4.jpg?itok=ATFPf7SE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-playing-vishy-first-time-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 08 Jul 2023 17:30:15 +0000",
-         "title" : "Gukesh: Playing Vishy for the First Time | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "Regular readers of my column will have observed my general aversion to cancel culture and the obliteration of memory. In TheArticle I have regularly inveighed against attempts to erase history, citing heinous examples, such as the Spanish conquistadors, a small group of heavily outnumbered activists, who exerted sufficient control to eradicate a nation's history, abolish its []",
@@ -288,30 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/south-wales-open-2023/",
          "pubDate" : "Sat, 08 Jul 2023 03:25:00 +0000",
          "title" : "South Wales Open 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired during Day 3. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-grand-chess-tour-world-cup-are-most-important-me-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i2ny2iAkt4I.jpg?itok=jBgvTrqn\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-grand-chess-tour-world-cup-are-most-important-me-superunitedrapidblitzcroatia",
-         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
-         "title" : "Duda: Grand Chess Tour & World Cup Are Most Important To Me | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 2-0-1 on the third rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-lupulescus-kb2-so-disgusting-d3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QVSgmQ9vmjc.jpg?itok=pZ_X3LhS\" alt=\"\" /></a></div",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-lupulescus-kb2-so-disgusting-d3-superunitedrapidblitzcroatia",
-         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
-         "title" : "Magnus: Lupulescu's Kb2 'So Disgusting!' | D3 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 1-0-2 on the third rapid day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.07<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-little-bit-shaky-day-d3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-8rpaBy0uuk.jpg?itok=1lmn8KIZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-little-bit-shaky-day-d3-superunitedrapidblitzcroatia",
-         "pubDate" : "Fri, 07 Jul 2023 23:29:49 +0000",
-         "title" : "Caruana: A Little Bit of a Shaky Day | D3 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "The 2023 FIDE World Cup wild cards revealed"
       },
       {
-         "description" : " The SuperUnited Rapid & Blitz, part of the Grand Chess Tour, takes place in Zagreb Wed 5th to Mon 10th July 2023. Players: Magnus Carlsen, Ian Nepomniachtchi, Fabiano Caruana, Vishy Anand, Alireza Firouzja, Jan-Krzysztof Duda, Richard Rapport, Ivan Saric, D Gukesh and Constantin Lupulescu.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2023",
-         "pubDate" : "Tue, 4 Jul 2023 13:21:00 +0400",
-         "title" : "SuperUnited Rapid & Blitz 2023 - Games and Results"
-      },
-      {
          "description" : " &#8220;In theory there is no difference between theory and practice. In practice there is.&#8221; Yogi Berra These days playing online requires at minimum basic knowledge of your opening choice. First of all it is not that hard to learn a couple of important ideas. Secondly, there are countless choices where you can find them; even <a href=\"https://chessimprover.com/opening-blunders-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Blunders (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-blunders-2/\">Opening Blunders (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sara-khadem-lifts-triveni-continental-kings-ganges-grandmasters-reclaim-lead/articleshow/101373928.cms",
          "pubDate" : "Thu, 29 Jun 2023 17:14:31 +0000",
          "title" : "Sara Khadem lifts Triveni Continental Kings, Ganges Grandmasters reclaim lead"
-      },
-      {
-         "description" : "It&#38;rsquo;s the amateur event that fueled a massive chess boom, spawned a mountain of memes, and became one of the game&#38;rsquo;s biggest sensations ever. Now Chess.com is delighted to reveal that its celebrity-packed PogChamps tournament is back for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-pogchamps-5",
-         "pubDate" : "Thu, 29 Jun 2023 10:12:00 -0700",
-         "title" : "PogChamps 5 Is Ready For Liftoff! Chess.com's Spectacular Battle Of The Creators Is Back"
       },
       {
          "description" : " This terms Interschool competition finished up yesterday in Canberra, and it gives me a chance to write yet another post on \"rules kid's think are real\". NB I have probably mentioned a few of these before <ul style=\"text-align: left;\"><li>You can castle to avoid checkmate - \"Ummm, no\" \"Some people say you can\" \"OK, but I'm the arbiter and I'm telling you you can't castle out of check\" \"But some people say you can\" (Added bonus - he changed the score on the result sheet to show he had won)</li><li>Castling involves exchanging any two pieces on the back rank - To be fair, the player had never seen castling before and was attempting to copy what their opponent had just done</li><li>You both ge",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2464",
          "pubDate" : "Sun, 18 Jun 2023 22:17:42 +0000",
          "title" : "Frederik Svane wins Teplice Open 2023"
-      },
-      {
-         "description" : "Chess artist at work? There was no description on this photo, so I had to dig a little. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf18.jpg\" WIDTH=400 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/ciscommunity/52944080647/\">Art, Chess & Campagne | Design in the City Tour</A> &#169; Flickr user <I>Creative Industries Styria GmbH</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A>.<BR> <P> The Flickr user name leads to <A HREF=\"https://www.cis.at/\">Creative Industries Styria</A> (cis.at). The English version of the 'About' page explains, <BLOCKQUOTE> Founded in 2007 as a network society of the Province of Styria, Creative Indust",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/a-constantly-evolving-work-of-art.html",
-         "pubDate" : "Sun, 18 Jun 2023 15:59:00 +0000",
-         "title" : "'A Constantly Evolving Work of Art' (*)"
       }
    ]
 }
