@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kazakhstan, host of the World Championship match between Ian Nepomniachtchi and Ding Liren, has a lively and thriving chess scene and continues to organise attractive tournaments. The Uralsk Open (20-29 July) and the World Schools Team Championships in Aktau (3-8 August) are in the pipeline, but below is a report on the recently concluded Aktobe Open, which took place from 19-28 June and was won by Iranian grandmaster Daneshwar Bardiya. | Photo: The main square of Aktobe | Photo: Kazakhstan Travel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/17-year-old-daneshwar-bardiya-wins-aktobe-open-in-kazakhstan",
+         "pubDate" : "Sun, 09 Jul 2023 12:00:00 +0100",
+         "title" : "17-year old Daneshwar Bardiya wins Aktobe Open in Kazakhstan"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101613240.cms\" />India will send a formidable 10-member chess contingent to the upcoming Asian Games in Hangzhou in a bid to showcase their chess prowess on the international stage. Led by double Asian Games gold medallist Koneru Humpy and bronze medallist Dronavalli Harika, the Indian team is determined to make their mark in the continental games, scheduled to commence on September 23.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/humpy-harika-to-spearhead-indias-challenge-in-asian-games/articleshow/101613240.cms",
+         "pubDate" : "Sun, 09 Jul 2023 10:18:23 +0000",
+         "title" : "Humpy, Harika to spearhead India's challenge in Asian Games"
+      },
+      {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -858,14 +874,6 @@ news_feed (
          "title" : "European Corporate Chess Championship 2024 in Paris, France"
       },
       {
-         "description" : "Fabiano Caruana, Alexander Donchenko and Dinara Wagner were crowned champions of the No Castling Masters, the A-Open and the Sportland NRW Cup, respectively. Caruana and Donchenko scored wins on the final day of action to clinch their titles, while Wagner secured tournament victory by drawing Ruben K&ouml;llner with the black pieces. Wagner's performance gained her a GM norm, the second in her career. | Photo: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2023-d9",
-         "pubDate" : "Mon, 03 Jul 2023 07:00:00 +0100",
-         "title" : "Caruana, Donchenko and Wagner triumph in Dortmund"
-      },
-      {
          "description" : "GM Daniel Naroditsky outclassed the field in the first weekly Bullet Brawl and convincingly won the event ahead of GMs Hikaru Nakamura and Magnus Carlsen on Saturday. Naroditsky scored 242 points during the two-hour arena, playing out 67 wins, six...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2463",
          "pubDate" : "Sun, 18 Jun 2023 13:43:15 +0000",
          "title" : "European Pair Blitz Championship kicks off in Krakow"
-      },
-      {
-         "description" : " If you teach at novice/intermediate (0-1500) level you should be aware of the basic principles of instruction. Every lesson serves a specific purpose, with direct teaching and worked examples. Avoid cognitive load problems, which are caused by students trying to process too much information at the same time and getting confused. How do you deal <a href=\"https://chessimprover.com/teaching-the-openings/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teaching the Openings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teaching-the-openings/\">Teaching the Openings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/teaching-the-openings/",
-         "pubDate" : "Sun, 18 Jun 2023 07:58:22 +0000",
-         "title" : "Teaching the Openings"
       }
    ]
 }
