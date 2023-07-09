@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen obtained a 3-point lead going into the final day of action at the SuperUnited Rapid & Blitz tournament after scoring a magnificent 9 out of 9 in the first half of the blitz section. After beating all of his opponents, an elated Carlsen told Anastasiya Karlovich: \"I've had good days, but of course, this is something special\". Former co-leaders Ian Nepomniachtchi and Fabiano Caruana are now sharing second place with 17 points each. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d4",
+         "pubDate" : "Sun, 09 Jul 2023 03:05:00 +0100",
+         "title" : "SuperUnited Croatia: Carlsen scores 9 out of 9!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2508",
+         "pubDate" : "Sun, 09 Jul 2023 00:49:12 +0000",
+         "title" : "2023 SuperUnited Rapid & Blitz - Day 4 Recap"
+      },
+      {
+         "description" : "With an unbelievable perfect score on Saturday, GM Magnus Carlsen seized the lead by a three-point margin at the SuperUnited Rapid and Blitz Croatia 2023. His 9-0 blitz performance plus his victories in the last two rapid games add up to an 11-gam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-4",
+         "pubDate" : "Sat, 08 Jul 2023 16:25:00 -0700",
+         "title" : "Carlsen Towers Above Rivals With Perfect Score"
+      },
+      {
          "description" : "In the third game of the FIDE Women's World Championship on Saturday, defending champion Ju Wenjun, playing black, briefly got an edge, but it quickly evaporated. Challenger Lei Tingjie was able to regain a balanced position in which the draw could no longer be averted. All three games have ended drawn so far in Shanghai. The fourth game will take place on Sunday. | Photos: David Llada and Stev Bonhage (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +122,6 @@ news_feed (
          "title" : "Ju Grabs Pawn In Game 3 But Can't Break Deadlock"
       },
       {
-         "description" : "The final day of rapid at the SuperUnited Rapid & Blitz tournament will see an in-form Ian Nepomniachtchi facing Fabiano Caruana and Vishy Anand in rounds 8 and 9. Meanwhile, Magnus Carlsen will try to bounce back from a haphazard second day of play. Follow the games live and with commentary from the Saint Louis Chess Center. | Rounds start at 15:00, 16:30 and 18:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
-         "pubDate" : "Sat, 08 Jul 2023 14:45:00 +0100",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d3",
          "pubDate" : "Sat, 08 Jul 2023 08:55:00 +0100",
          "title" : "SuperUnited Croatia: Carlsen finds stunning move, climbs in the standings"
-      },
-      {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sat, 08 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101590560.cms\" />In a remarkable turn of events at the 2023 SuperUnited Rapid and Blitz tournament, young Indian Grandmaster D Gukesh achieved a memorable victory over his esteemed compatriot and idol, Viswanathan Anand, in the eighth round of the Rapid event.",
@@ -842,6 +850,14 @@ news_feed (
          "title" : "Naroditsky Collects First Bullet Brawl Title Ahead Of Nakamura, Carlsen"
       },
       {
+         "description" : "The double check is sometimes characterised as the \"Atomic Bomb\" of the chessboard. Since the checks come from two different lines, these can't be blocked simultaneously by a single move, and therefore the king has to retreat. If there is no retreat square available, then it may be checkmate out of a clear sky! | Pictured: Aron Nimzowitsch",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-197",
+         "pubDate" : "Sun, 02 Jul 2023 23:45:00 +0100",
+         "title" : "The ultimate weapon"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-blitz-champs-michigan-cornelius-johnson-wins",
          "pubDate" : "Wed, 28 Jun 2023 17:59:00 -0700",
          "title" : "Johnson Scores Final Touchdown In BlitzChamps Michigan"
-      },
-      {
-         "description" : "In a highly-anticipated rematch, GM Magnus Carlsen defeated GM Viswanathan Anand, leading the SG Alpine Warriors to an epic comeback victory and the top of the standings&#38;nbsp;on day seven of the Tech Mahindra Global Chess League 2023. Carlsen had ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-7",
-         "pubDate" : "Wed, 28 Jun 2023 14:41:00 -0700",
-         "title" : "Carlsen Wins Climactic Clash vs. Anand, Leads Team To Top"
       },
       {
          "description" : "",
