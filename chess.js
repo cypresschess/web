@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2510",
+         "pubDate" : "Sun, 09 Jul 2023 21:39:54 +0000",
+         "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
+      },
+      {
          "description" : "Shri Prabhakar Timble as a presiding Officer conducted the election of Goa Chess Association for the post of President, Secretary, Treasurer and 2 joint Secretaries",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -63,14 +71,14 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-2023-superunited-croatia-rapid-blitz",
          "pubDate" : "Sun, 09 Jul 2023 10:04:00 -0700",
-         "title" : "Carlsen Captures Croatia Crown, Nepomniachtchi Surges Into Second (Flash Report)"
+         "title" : "Carlsen Captures Croatia Crown, Nepomniachtchi Surges Into Second"
       },
       {
-         "description" : "The longest game of the match so far saw GM Ju Wenjun shrug off an opening surprise to torture GM Lei Tingjie for five hours in game four of the 2023 FIDE Women&#39;s World Championship. Lei didn&#39;t crack, however, so that the scores are still tied, at...",
+         "description" : "The longest game of the match so far saw GM Ju Wenjun shrug off an opening surprise to torture GM Lei Tingjie for five hours in game four of the 2023 FIDE Women&#39;s World Championship. Lei didn&#39;t crack, however, so the scores are still tied, at 2-2,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-4",
-         "pubDate" : "Sun, 09 Jul 2023 07:52:12 -0700",
+         "pubDate" : "Sun, 09 Jul 2023 07:52:00 -0700",
          "title" : "Longest Game Drawn, As Ju Resists Lei's Pressure In Game 4"
       },
       {
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/",
          "pubDate" : "Mon, 19 Jun 2023 03:39:51 +0000",
          "title" : "James Canty chats with The Chess Drum"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2464",
-         "pubDate" : "Sun, 18 Jun 2023 22:17:42 +0000",
-         "title" : "Frederik Svane wins Teplice Open 2023"
       }
    ]
 }
