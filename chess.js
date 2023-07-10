@@ -1696,14 +1696,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-and-exam-at-udaipur-2023/",
          "pubDate" : "Mon, 19 Jun 2023 09:41:58 +0000",
          "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
-      },
-      {
-         "description" : " James Canty III entered the fraternity of chess streamers during the pandemic and has not looked back since. He also has entered the world of chess commentary including the recent World Chess Championship. During Memorial Day weekend, The Chess Drum caught up with the social media star and he granted an interview updating the chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/\">James Canty chats with The Chess Drum</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/06/18/james-canty-chats-with-the-chess-drum/",
-         "pubDate" : "Mon, 19 Jun 2023 03:39:51 +0000",
-         "title" : "James Canty chats with The Chess Drum"
       }
    ]
 }
