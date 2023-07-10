@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2511",
+         "pubDate" : "Sun, 09 Jul 2023 23:50:51 +0000",
+         "title" : "Magnus Carlsen wins 2023 SuperUnited Rapid & Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2510",
          "pubDate" : "Sun, 09 Jul 2023 21:39:54 +0000",
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
