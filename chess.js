@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four times national women champion International Master Padmini Rout of Petroleum Sports Promotion Board added one more national women title to her illustrious career after",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/padmini-rout-national-women-champion/",
+         "pubDate" : "Mon, 10 Jul 2023 18:48:09 +0000",
+         "title" : "Padmini Rout National Women Champion"
+      },
+      {
          "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d5",
          "pubDate" : "Mon, 10 Jul 2023 16:25:00 +0100",
          "title" : "Carlsen wins SuperUnited Rapid & Blitz with three rounds to spare"
+      },
+      {
+         "description" : " The Aimchess Rapid takes place 10th to 14th July 2023. Part of the Champions Chess Tour it is hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2023",
+         "pubDate" : "Mon, 10 Jul 2023 18:41:00 +0400",
+         "title" : "Aimchess Rapid 2023 - Games and Results"
       },
       {
          "description" : "European Rapid Chess Champion Jaime Santos Latasa won the final against Boris Gelfand to become the winner of the 36th edition of the \"Magistral de Ajedrez Ciudad de Le&oacute;n\". Santos, is the second Spaniard to win the tournament after Paco Vallejo in 2012.",
@@ -58,6 +74,14 @@ news_feed (
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
       },
       {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jorden-van-foreest-magnus-carlsen-aimchess-rapid-div-1-winners-live/",
+         "pubDate" : "Mon, 10 Jul 2023 09:00:00 +0000",
+         "title" : "Jorden Van Foreest - Magnus Carlsen, Aimchess Rapid Div 1 Winners - LIVE"
+      },
+      {
          "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +90,44 @@ news_feed (
          "title" : "Ivan Sokolov: Understanding middlegame strategies"
       },
       {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-eduardo-iturrizaga-bonelli-aimchess-rapid-div-1-winners-live/",
+         "pubDate" : "Mon, 10 Jul 2023 08:00:00 +0000",
+         "title" : "Fabiano Caruana - Eduardo Iturrizaga Bonelli, Aimchess Rapid Div 1 Winners - LIVE"
+      },
+      {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised it's first Fair Play Orientation Workshop at Sanca International Hotel, New Delhi on 08-09",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-new-delhi/",
          "pubDate" : "Mon, 10 Jul 2023 07:31:38 +0000",
          "title" : "AICF's Fair Play Orientation Workshop, New Delhi"
+      },
+      {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladimir-fedoseev-levon-aronian-aimchess-rapid-div-1-winners-live/",
+         "pubDate" : "Mon, 10 Jul 2023 07:20:00 +0000",
+         "title" : "Vladimir Fedoseev - Levon Aronian, Aimchess Rapid Div 1 Winners - LIVE"
+      },
+      {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-wesleey-so-aimchess-rapid-div-1-winners-live/",
+         "pubDate" : "Mon, 10 Jul 2023 06:40:00 +0000",
+         "title" : "Nodirbek Abdusattorov - Wesleey So, Aimchess Rapid Div 1 Winners - LIVE"
+      },
+      {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-div-1-winners/",
+         "pubDate" : "Mon, 10 Jul 2023 06:09:00 +0000",
+         "title" : "Aimchess Rapid Div 1 Winners"
       },
       {
          "description" : "",
@@ -490,14 +546,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Ju and Lei's tense struggle"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-3-live/",
-         "pubDate" : "Fri, 07 Jul 2023 16:10:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 3 - LIVE"
-      },
-      {
          "description" : "The Dutch Championships and the Dutch Women's Championships are played in parallel, but in different modes. The Open is a knockout tournament with mini matches and has reached the semi-finals. In the women's tournament, Eline Roebers (pictured right) was the clear winner and became the new Dutch Women's Champion. Last Wednesday's hurricane also wreaked havoc on the women's championship. | Photos: Harry Gielen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -554,44 +602,12 @@ news_feed (
          "title" : "Grand Chess Tour: Anand has moderate day; Gukesh shines with twin wins"
       },
       {
-         "description" : "The Israeli Women's National League will take place from the 6th to the 8th of July in Ramat Gan, Israel as a 5-round team Swiss. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are Marsel Efroimski, Anastasiya Rakhmangulova, Dina Belenkaya, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/israeli-womens-national-league-2023-live/",
-         "pubDate" : "Fri, 07 Jul 2023 07:10:01 +0000",
-         "title" : "Israeli Women's National League 2023 - LIVE"
-      },
-      {
          "description" : " The final match in the new franchise-based league went down to a single combat blitz tiebreak and Jonas Bjerre caught Javokhir Sindarov with a snap mate Last Sunday's final of the $1m Global Chess League in Dubai went down to a single combat blitz game with an unlikely outcome. After several tiebreak stages failed to separate Triveni Continental Kings, led by Levon Aronian, and upGrad Mumba Masters, headed by Maxime Vachier-Lagrave, the match evolved to a 3+2 blitz game between Jonas Bjerre, 19, and Javokhir Sindarov, 17, where the Danish player, who had lost several previous games to the Uzbek, was the underdog. Sindarov pressed hard, but Bjerre kept the game going until both were blitzing",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jul/07/chess-checkmate-in-one-decides-finale-of-1m-global-league-in-dubai",
          "pubDate" : "Fri, 07 Jul 2023 07:00:25 +0000",
          "title" : "Chess: Checkmate in one decides finale of $1m Global League in Dubai"
-      },
-      {
-         "description" : "The Leon Masters is a 4-player knockout tournament, taking place from 7-9 July 2023 in Leon, Spain. Players receive 20 minutes for the entire game, plus a 10-second increment starting from move one. In case of a tie two blitz games (3+2) will be played, and if still tied an Armageddon game. All about FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/36th-leon-masters-2023/",
-         "pubDate" : "Fri, 07 Jul 2023 06:51:24 +0000",
-         "title" : "36th Leon Masters 2023"
-      },
-      {
-         "description" : "The 1000GM New York Summer GM A is a 10-player Round-robin tournament, held from the 6th to the 10th of July in New York City, United States of America. Time control is 90 minutes for the entire game with a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-new-york-summer-gm-a-live/",
-         "pubDate" : "Fri, 07 Jul 2023 05:02:00 +0000",
-         "title" : "1000GM New York Summer GM A - LIVE"
-      },
-      {
-         "description" : "The 50+ Senior Championship Saxony-Anhalt is taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Steffen Puschendorf, Paul Motwani, Richard Lilja, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50-senior-championship-saxony-anhalt-live/",
-         "pubDate" : "Fri, 07 Jul 2023 04:55:00 +0000",
-         "title" : "50+ Senior Championship Saxony-Anhalt - LIVE"
       },
       {
          "description" : "",
@@ -1642,14 +1658,6 @@ news_feed (
          "title" : "A Chess Enthusiast"
       },
       {
-         "description" : "Defending champion Nubairshah Shaikh retained his SACC Champions title at Kathmandu with an impressive performance of eight &#38; half points from possible nine while WIM",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-nubairshah-shaikh-and-sakshi-chitlange/",
-         "pubDate" : "Tue, 20 Jun 2023 17:23:18 +0000",
-         "title" : "Congratulations Nubairshah Shaikh and Sakshi Chitlange"
-      },
-      {
          "description" : "Another month has passed, so let's have another look at U.S. chess magazine covers from 50 and 25 years ago. Both magazines featured the winners of super strong U.S. Swiss-system tournaments of their respective eras. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Minasian Sweeps the New York Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Arthur Bisguier, who won the powerful Lone Pine Tournament in California, which included five grandmasters. Story [inside]. Photo by Burt Hochberg. </BLOCKQUOTE> <P> The story inside was titled 'Bisguier Wins at Lone Pine'. It started,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1672,22 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2466",
          "pubDate" : "Mon, 19 Jun 2023 22:19:10 +0000",
          "title" : "Armenia wins European Pair Blitz Chess Championship"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Richard Rapport emerged victorious in the Armageddon Championship Series, dominating the world's top players and winning the Europe & Africa qualifier. This victory secured his spot in the Grand Finale in September, where he will be joined by the tournament's runner-up, GM Jan-Krzysztof Duda. Alongside a formidable lineup of finalists including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, and Humpy Koneru, they will compete for the coveted prize of €200,000. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1-19.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> Photo: Max Avdeev The Armageddon Championship Ser",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/richard-rapport-and-jan-krzysztof-duda-are-the-winners-of-the-ar/",
-         "pubDate" : "Mon, 19 Jun 2023 17:27:31 +0000",
-         "title" : "Rapport Wins the Armageddon Series: Europe & Africa"
-      },
-      {
-         "description" : "The last time I posted about Chessify was <A HREF=\"https://chessforallages.blogspot.com/2023/03/chessify-resources.html\">Chessify Resources</A> (March 2023; 'Here are a few resources to help explore the Chessify service.'). Since then I've learned much about the service and one of these days might document most my recent experiences on this blog. <P> An important aspect that has eluded me is the Chessify price structure -- plans, coins, and combos. What is the difference between them and how do they work together? Although I had watched the video embedded below, it introduced so many new concepts that I had trouble understanding its basic point. <P> <iframe width=\"420\" height=\"236\" src=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/chessify-coins-and-combos.html",
-         "pubDate" : "Mon, 19 Jun 2023 15:46:00 +0000",
-         "title" : "Chessify Coins and Combos"
       }
    ]
 }
