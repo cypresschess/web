@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In about a week, on 15 July, the traditional Biel Chess Festival will begin. In a Grandmaster Triathlon eight top players will show their skills in classical, rapid and blitz chess, and this Grandmaster Tournament is embedded in a wide range of open tournaments for all tastes and playing levels. | Photo: Arjun Erigaisi | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-56-biel-chess-festival-will-begin-soon-with-arjun-erigaisi-and-vincent-keymer",
+         "pubDate" : "Mon, 10 Jul 2023 12:41:23 +0100",
+         "title" : "The 56. Biel Chess Festival will begin soon - with Arjun Erigaisi and Vincent Keymer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2512",
+         "pubDate" : "Mon, 10 Jul 2023 11:15:00 +0000",
+         "title" : "Hou Yifan on chess in China and the match for the 18th Women's World Champion"
+      },
+      {
+         "description" : "Simen Agdestein emerged as the winner of the 2023 Norwegian Championship Championship and took his ninth national title. Aged 56, Simen beat his own record set last year and again became the oldest Norwegian champion of all time. | Photo: Helge Brekke (tournament page)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norwegian-championship-simen-agdestein-clinches-ninth-title",
+         "pubDate" : "Mon, 10 Jul 2023 11:06:34 +0100",
+         "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
+      },
+      {
+         "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
+         "pubDate" : "Mon, 10 Jul 2023 09:54:51 +0100",
+         "title" : "Ivan Sokolov: Understanding middlegame strategies"
+      },
+      {
+         "description" : "All India Chess Federation along with AICF's Fair Play Committee organised it's first Fair Play Orientation Workshop at Sanca International Hotel, New Delhi on 08-09",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-new-delhi/",
+         "pubDate" : "Mon, 10 Jul 2023 07:31:38 +0000",
+         "title" : "AICF's Fair Play Orientation Workshop, New Delhi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -866,36 +906,12 @@ news_feed (
          "title" : "Backwards is the way forward"
       },
       {
-         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn the secret to annotating your games with variations, moves, colored arrows and more! It will turn you into a power user - and do wonders for your rating!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-annotate-like-a-pro",
-         "pubDate" : "Tue, 04 Jul 2023 07:35:00 +0100",
-         "title" : "ChessBase in Minutes: How to annotate like a pro"
-      },
-      {
          "description" : "GM Fabiano Caruana has been crowned the winner of the 2023 No Castling World Masters after scoring 4/6 in a double round-robin classical tournament in Dortmund, Germany, and finishing half a point ahead of GM Vladimir Kramnik. As part of the 50t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fabiano-caruana-wins-dortmund-sparkassen-chess-trophy",
          "pubDate" : "Mon, 03 Jul 2023 19:05:00 -0700",
          "title" : "Caruana Edges Out Kramnik In No Castling Masters Dortmund"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King looking at another wild Two Knights opening with 4.Ng5: a game from 2021 between Wesley So and Magnus Carlsen. If one plays this position, one needs to be keenly aware of how to fight against the opponent's initative, and not be too greedy! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-wild-two-knights-opening",
-         "pubDate" : "Mon, 03 Jul 2023 22:15:04 +0100",
-         "title" : "Daniel King's Power Play Show: A wild Two Knights opening"
-      },
-      {
-         "description" : "They are so much better than us. They solve the most complicated positions in seconds.And they are so available. Anyone can buy them and use them at home. And frankly, we all use them. Chess engines. These artificial beasts are very useful when used wisely. But frankly, most club players tend to rely on them too much and use them mindlessly. In the following article I would like to show you three typical mistakes you should avoid when using a chess engine. And to show that even the best sometimes fail to tame the engines, I have chosen the examples from games played by Magnus Carlsen and his super-GM opponents. | Graphic: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-19-typical-mistakes-when-analysing-with-an-engine",
-         "pubDate" : "Mon, 03 Jul 2023 20:00:00 +0100",
-         "title" : "The Winning Academy 19: Typical Mistakes when Analysing with an Engine"
       },
       {
          "description" : "Chess.com&#38;rsquo;s blistering Bullet Chess Championship is back with a star-studded posse of the fastest gunslingers in the game ready to duel. This year&#38;rsquo;s quickfire one-minute chess tournament, which runs July 17 to 21, boasts its strongest ...",
@@ -1688,14 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/near-miss-for-winkelman.html",
          "pubDate" : "Mon, 19 Jun 2023 13:42:00 +0000",
          "title" : "Near miss for Winkelman"
-      },
-      {
-         "description" : "Chess In Lakecity on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Rajasthan Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-and-exam-at-udaipur-2023/",
-         "pubDate" : "Mon, 19 Jun 2023 09:41:58 +0000",
-         "title" : "Final Report: SNA Seminar and Exam at Udaipur 2023"
       }
    ]
 }
