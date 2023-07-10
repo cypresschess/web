@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2514",
+         "pubDate" : "Mon, 10 Jul 2023 23:10:02 +0000",
+         "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Registration is open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2513",
+         "pubDate" : "Mon, 10 Jul 2023 21:26:23 +0000",
+         "title" : "Anish Giri and Eline Roebers win 2023 Dutch Championship"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Nodirbek Abdusattorov, and Levon Aronian move on to the Winners Bracket in Division I of the Champions Chess Tour Aimchess Rapid 2023 after winning their matches on the first day. Carlsen and Caruana beat the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-1",
+         "pubDate" : "Mon, 10 Jul 2023 13:44:00 -0700",
+         "title" : "Carlsen, Caruana Clinch Matches With Game To Spare; Abdusattorov Beats So On Demand"
+      },
+      {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-div-3-winners/",
+         "pubDate" : "Mon, 10 Jul 2023 20:18:43 +0000",
+         "title" : "Aimchess Rapid Div 3 Winners"
+      },
+      {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-div-1-losers/",
+         "pubDate" : "Mon, 10 Jul 2023 19:54:38 +0000",
+         "title" : "Aimchess Rapid Div 1 Losers"
+      },
+      {
          "description" : "Four times national women champion International Master Padmini Rout of Petroleum Sports Promotion Board added one more national women title to her illustrious career after",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,12 +50,36 @@ news_feed (
          "title" : "Padmini Rout National Women Champion"
       },
       {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-div-2-winners/",
+         "pubDate" : "Mon, 10 Jul 2023 17:57:00 +0000",
+         "title" : "Aimchess Rapid Div 2 Winners"
+      },
+      {
+         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-div-2-losers/",
+         "pubDate" : "Mon, 10 Jul 2023 17:05:00 +0000",
+         "title" : "Aimchess Rapid Div 2 Losers"
+      },
+      {
          "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
          "pubDate" : "Mon, 10 Jul 2023 16:45:00 +0100",
          "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
+         "pubDate" : "Mon, 10 Jul 2023 16:30:51 +0100",
+         "title" : "Ivan Sokolov: Understanding middlegame strategies"
       },
       {
          "description" : "After winning every single game on Saturday, Magnus Carlsen secured tournament victory at the SuperUnited Rapid & Blitz tournament by scoring 5 points in the first 6 rounds of the event's final day of action. With overall victory in the bag, Carlsen went on to lose his blitz-chess undefeated streak against Alireza Firouzja. Ian Nepomniachtchi and Firouzja finished second and third, respectively. | Photo: Lennart Ootes",
@@ -50,6 +114,14 @@ news_feed (
          "title" : "2023 NSW Rapid Championship"
       },
       {
+         "description" : "The Turkish Super League 2023 is an 12-team round-robin tournament taking place from 10&#x2013;20 July 2023 in Ankara. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/turkish-super-league-2023-live/",
+         "pubDate" : "Mon, 10 Jul 2023 11:48:00 +0000",
+         "title" : "Turkish Super League 2023 - LIVE"
+      },
+      {
          "description" : "In about a week, on 15 July, the traditional Biel Chess Festival will begin. In a Grandmaster Triathlon eight top players will show their skills in classical, rapid and blitz chess, and this Grandmaster Tournament is embedded in a wide range of open tournaments for all tastes and playing levels. | Photo: Arjun Erigaisi | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,20 +146,20 @@ news_feed (
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
       },
       {
+         "description" : "The Turkish Super League 2023 is an 12-team round-robin tournament taking place from 10&#x2013;20 July 2023 in Ankara. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;Chessdom.com will daily follow the live games. All about FIDE Women's World Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/turkish-super-league-2023/",
+         "pubDate" : "Mon, 10 Jul 2023 09:43:00 +0000",
+         "title" : "Turkish Super League 2023"
+      },
+      {
          "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/jorden-van-foreest-magnus-carlsen-aimchess-rapid-div-1-winners-live/",
          "pubDate" : "Mon, 10 Jul 2023 09:00:00 +0000",
          "title" : "Jorden Van Foreest - Magnus Carlsen, Aimchess Rapid Div 1 Winners - LIVE"
-      },
-      {
-         "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
-         "pubDate" : "Mon, 10 Jul 2023 09:54:51 +0100",
-         "title" : "Ivan Sokolov: Understanding middlegame strategies"
       },
       {
          "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
@@ -120,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nodirbek-abdusattorov-wesleey-so-aimchess-rapid-div-1-winners-live/",
          "pubDate" : "Mon, 10 Jul 2023 06:40:00 +0000",
          "title" : "Nodirbek Abdusattorov - Wesleey So, Aimchess Rapid Div 1 Winners - LIVE"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-div-1-winners/",
-         "pubDate" : "Mon, 10 Jul 2023 06:09:00 +0000",
-         "title" : "Aimchess Rapid Div 1 Winners"
       },
       {
          "description" : "",
@@ -258,14 +322,6 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz Croatia: Live"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-4-live/",
-         "pubDate" : "Sun, 09 Jul 2023 12:22:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 4 - LIVE"
-      },
-      {
          "description" : "Kazakhstan, host of the World Championship match between Ian Nepomniachtchi and Ding Liren, has a lively and thriving chess scene and continues to organise attractive tournaments. The Uralsk Open (20-29 July) and the World Schools Team Championships in Aktau (3-8 August) are in the pipeline, but below is a report on the recently concluded Aktobe Open, which took place from 19-28 June and was won by Iranian grandmaster Daneshwar Bardiya. | Photo: The main square of Aktobe | Photo: Kazakhstan Travel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -378,28 +434,12 @@ news_feed (
          "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 1"
       },
       {
-         "description" : "The St. Veiter Jacques-Lemans-Open is taking place from 8&#x2013;15 July 2023 in St. Veit/Glan, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yevgeniy Roshka, Davor Rogic, Leon Mazi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/st-veiter-jacques-lemans-open-2023-live/",
-         "pubDate" : "Sat, 08 Jul 2023 18:42:42 +0000",
-         "title" : "St. Veiter Jacques-Lemans-Open 2023 - LIVE"
-      },
-      {
          "description" : "Regular readers of my column will have observed my general aversion to cancel culture and the obliteration of memory. In TheArticle I have regularly inveighed against attempts to erase history, citing heinous examples, such as the Spanish conquistadors, a small group of heavily outnumbered activists, who exerted sufficient control to eradicate a nation's history, abolish its []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/damnatio-memoriae/",
          "pubDate" : "Sat, 08 Jul 2023 15:33:46 +0000",
          "title" : "Damnatio Memoriae"
-      },
-      {
-         "description" : "The St. Veiter Jacques-Lemans-Open is taking place from 8&#x2013;15 July 2023 in St. Veit/Glan, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yevgeniy Roshka, Davor Rogic, Leon Mazi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/st-veiter-jacques-lemans-open-2023/",
-         "pubDate" : "Sat, 08 Jul 2023 14:33:00 +0000",
-         "title" : "St. Veiter Jacques-Lemans-Open 2023"
       },
       {
          "description" : "Women&#39;s World Champion GM Ju Wenjun was surprised in the opening but pounced on the chance to grab a central pawn, leaving challenger GM Lei Tingjie on the ropes in game three of the 2023 FIDE Women&#39;s World Championship in Shanghai. Lei held firm,...",
@@ -472,22 +512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/teenager-gm-gukesh-stuns-viswanathan-anand-on-grand-chess-tour/articleshow/101590560.cms",
          "pubDate" : "Sat, 08 Jul 2023 06:23:53 +0000",
          "title" : "Teenager Gukesh stuns Anand on Grand Chess Tour"
-      },
-      {
-         "description" : "The South Wales Open is taking place from 7&#x2013;12 July 2023 in Bridgend. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Boris Chatalbashev, Oleg Korneev, Jack Rudd, Daniel Kozusek, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-wales-open-2023-live/",
-         "pubDate" : "Sat, 08 Jul 2023 04:15:00 +0000",
-         "title" : "South Wales Open 2023 - LIVE"
-      },
-      {
-         "description" : "The South Wales Open is taking place from 7&#x2013;12 July 2023 in Bridgend. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Boris Chatalbashev, Oleg Korneev, Jack Rudd, Daniel Kozusek, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-wales-open-2023/",
-         "pubDate" : "Sat, 08 Jul 2023 03:25:00 +0000",
-         "title" : "South Wales Open 2023"
       },
       {
          "description" : "",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "World Chess announces 3-year partnership with ITcom Domains"
       },
       {
-         "description" : "TwitchCon Paris takes place on July 8 and 9, 2023, and chess will be well-represented as one of the internet&#39;s most popular games.&#38;nbsp; Some of the biggest names in chess content creation will be present at the convention to meet their fans and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-descends-on-paris-for-twitchcon",
-         "pubDate" : "Thu, 29 Jun 2023 13:17:03 -0700",
-         "title" : "'Falling In Love With The Game': Chess.com Descends On Paris For TwitchCon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://www.europechess.org/armenia-wins-european-pairs-chess-championship-2023/",
          "pubDate" : "Tue, 20 Jun 2023 06:36:28 +0000",
          "title" : "Armenia wins European Pairs Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2466",
-         "pubDate" : "Mon, 19 Jun 2023 22:19:10 +0000",
-         "title" : "Armenia wins European Pair Blitz Chess Championship"
       }
    ]
 }
