@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
+         "pubDate" : "Mon, 10 Jul 2023 16:45:00 +0100",
+         "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : "After winning every single game on Saturday, Magnus Carlsen secured tournament victory at the SuperUnited Rapid & Blitz tournament by scoring 5 points in the first 6 rounds of the event's final day of action. With overall victory in the bag, Carlsen went on to lose his blitz-chess undefeated streak against Alireza Firouzja. Ian Nepomniachtchi and Firouzja finished second and third, respectively. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d5",
+         "pubDate" : "Mon, 10 Jul 2023 16:25:00 +0100",
+         "title" : "Carlsen wins SuperUnited Rapid & Blitz with three rounds to spare"
+      },
+      {
+         "description" : "European Rapid Chess Champion Jaime Santos Latasa won the final against Boris Gelfand to become the winner of the 36th edition of the \"Magistral de Ajedrez Ciudad de Le&oacute;n\". Santos, is the second Spaniard to win the tournament after Paco Vallejo in 2012.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/santos-beats-gelfand-and-wins-leon-magistral",
+         "pubDate" : "Mon, 10 Jul 2023 14:34:19 +0100",
+         "title" : "Santos beats Gelfand in final and wins Leon Magistral"
+      },
+      {
+         "description" : " Junior player Harvey Zhu was the surprise winner of the 2023 NSW Rapid Championship. Seeded 12th in the tournament he scored an impressive 6.5/7, finishing a full point clear of 2nd place. After a 2nd round draw, he reeled of 5 straight wins, beating IM George Xie in round 6 and FM Alexis Vargas Arteaga in the final round. In 2nd place were 12 players tied on 5.5/7, including Xie, Vargas Arteaga and top seed FM Jason Hu. Hu had a rough start, losing in round 1 after dropping a queen, and drawing his 4th round game. With the large field of 134 players, a single lost point was enough to drop players out of the running. Despite the size of the field the event ran quite smoothly. There were no ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-nsw-rapid-championship.html",
+         "pubDate" : "Mon, 10 Jul 2023 13:11:00 +0000",
+         "title" : "2023 NSW Rapid Championship"
+      },
+      {
          "description" : "In about a week, on 15 July, the traditional Biel Chess Festival will begin. In a Grandmaster Triathlon eight top players will show their skills in classical, rapid and blitz chess, and this Grandmaster Tournament is embedded in a wide range of open tournaments for all tastes and playing levels. | Photo: Arjun Erigaisi | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,6 +200,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
          "pubDate" : "Sun, 09 Jul 2023 14:45:00 +0100",
          "title" : "SuperUnited Rapid & Blitz Croatia: Live"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-4-live/",
+         "pubDate" : "Sun, 09 Jul 2023 12:22:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 4 - LIVE"
       },
       {
          "description" : "Kazakhstan, host of the World Championship match between Ian Nepomniachtchi and Ding Liren, has a lively and thriving chess scene and continues to organise attractive tournaments. The Uralsk Open (20-29 July) and the World Schools Team Championships in Aktau (3-8 August) are in the pipeline, but below is a report on the recently concluded Aktobe Open, which took place from 19-28 June and was won by Iranian grandmaster Daneshwar Bardiya. | Photo: The main square of Aktobe | Photo: Kazakhstan Travel",
@@ -554,14 +594,6 @@ news_feed (
          "title" : "50+ Senior Championship Saxony-Anhalt - LIVE"
       },
       {
-         "description" : "The 50+ Senior Championship Saxony-Anhalt is taking place from 3&#x2013;9 July 2023 in Magdeburg, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Steffen Puschendorf, Paul Motwani, Richard Lilja, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50-senior-championship-saxony-anhalt/",
-         "pubDate" : "Fri, 07 Jul 2023 02:52:00 +0000",
-         "title" : "50+ Senior Championship Saxony-Anhalt"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -818,14 +850,6 @@ news_feed (
          "title" : "An interview with Tshepiso Lopang - President of the African Chess Confederation"
       },
       {
-         "description" : "Svitlana recently played in the Canadian Transnational Tournament, where almost every opponent had a couple of hundred rating points more than her. Awonder Liang, Lazaro Bruzon, and Alexandr Lenderman were among the players in the tournament. The WIM was still able to show some smart moves, and even beat an IM with the Jobava-London. And due to this opening choice, Svitlana started a nice attack, which had some beautiful tactics.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-my-jobava-london-win-against-an-im",
-         "pubDate" : "Tue, 04 Jul 2023 18:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - My Jobava-London win against an IM"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -858,14 +882,6 @@ news_feed (
          "title" : "FIDE distributes €25,000 among chess veterans"
       },
       {
-         "description" : "As part of the chess festival in Bydgoszcz, Poland, two tournaments with an interesting format were played: six players took part in a round robin and competed in classical, rapid and blitz chess. Jorden van Foreest (pictured) won the open tournament, Meri Arabidze was first in the women's tournament. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jorden-van-foreest-and-meri-arabidze-win-at-chess-festival-in-bydgoszcz",
-         "pubDate" : "Tue, 04 Jul 2023 13:00:00 +0100",
-         "title" : "Jorden van Foreest and Meri Arabidze win at Chess Festival in Bydgoszcz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
          "pubDate" : "Tue, 4 Jul 2023 12:29:00 +0400",
          "title" : "Women's World Chess Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "Endgames, in which a rook fights against a bishop, can be complicated. In the diagram position Black is an exchange up and has a winning position. But what should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/backwards-is-the-way-forward",
-         "pubDate" : "Tue, 04 Jul 2023 09:00:00 +0100",
-         "title" : "Backwards is the way forward"
       },
       {
          "description" : "GM Fabiano Caruana has been crowned the winner of the 2023 No Castling World Masters after scoring 4/6 in a double round-robin classical tournament in Dortmund, Germany, and finishing half a point ahead of GM Vladimir Kramnik. As part of the 50t...",
@@ -1680,30 +1688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/chessify-coins-and-combos.html",
          "pubDate" : "Mon, 19 Jun 2023 15:46:00 +0000",
          "title" : "Chessify Coins and Combos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2465",
-         "pubDate" : "Mon, 19 Jun 2023 14:57:59 +0000",
-         "title" : "Richard Rapport and Jan-Krzysztof Duda advance to Armageddon Series Grand Finale"
-      },
-      {
-         "description" : "The link below opens an article by Ren&eacute; Butler covering recent successes by Stanley and Frankie Badacsonyi, who took part in the English Chess Championships...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/badacsonyi-brothers-at-the-world-youth-chess-championships/",
-         "pubDate" : "Mon, 19 Jun 2023 14:36:15 +0000",
-         "title" : "Badacsonyi brothers at the World Youth Chess Championships"
-      },
-      {
-         "description" : " Young Canberran FM Albert Winkelman is currently playing in Europe, after a stop over in the Middle East. He has just finished playing in the Teplice pen in the Czech Republic, and fell just sort of his first IM norm. After 7 rounds he was in with a good chance (over 2450 PR) but a loss to GM Vlastimil Babula in round 8 left him needing a win over IM Audi Ameya in round 9. Alas for Winkelman it was another loss, leaving him short of the required TPR. However it wasn't all bad news, as he did pick up 35 rating points, pushing him back towards his previous career peak of 2294. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/near-miss-for-winkelman.html",
-         "pubDate" : "Mon, 19 Jun 2023 13:42:00 +0000",
-         "title" : "Near miss for Winkelman"
       }
    ]
 }
