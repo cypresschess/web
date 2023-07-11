@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Whatever your idea of a traditional chess event is, it's probably nothing like London's ChessFest. While in most tournaments, the action takes place behind closed doors, accessible only to knowledgeable insiders and connoisseurs of the game, ChessFest turns all that upside down. This is chess writ large in the open air, performed in full public view, with mass participation the central goal. If you are in or anywhere near London, you should definitely pay ChessFest a visit. | Photos by Andrew Moss",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessfest-fun-in-trafalgar-square",
+         "pubDate" : "Tue, 11 Jul 2023 13:00:00 +0100",
+         "title" : "ChessFest Fun in Trafalgar Square"
+      },
+      {
+         "description" : "Anish Giri is the 2023 Dutch champion. He won the final against Jorden van Foreest, but only after a dramatic tiebreak. Bianca Muhren-De Jong, president of the Dutch federation, congratulates. | Photos: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-wins-dutch-championship",
+         "pubDate" : "Tue, 11 Jul 2023 12:18:56 +0100",
+         "title" : "Anish Giri wins Dutch Championship"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation allows for a deviation from the well known theory. It is considered drawish for White, reason why it is not very popular. Still, it could be used as <a href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\">Need sure points? Gr&u",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/",
+         "pubDate" : "Tue, 11 Jul 2023 09:11:24 +0000",
+         "title" : "Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2023 kicks off tomorrow in the city of Swidnica, Poland, and will be played from 12th-20th July. The event is played in two age categories: 50+ and 65+ with participation of 28 teams coming from 13 European federations. Women's events will be merged with the Open section with separate prizes for the best ranked women's teams. &#160;Each team consists of four players and optionally one reserve player. The teams may represent a National Federation []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-starts-in-poland/",
+         "pubDate" : "Tue, 11 Jul 2023 08:34:41 +0000",
+         "title" : "European Senior Team Chess Championship 2023 starts in Poland"
+      },
+      {
          "description" : "In the diagram position White is two pawns up, but Black seems to be close to a draw. However, knight endgames can be tricky. What can White do to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
          "pubDate" : "Tue, 11 Jul 2023 08:45:00 +0100",
          "title" : "Women's World Chess Championship, Game 5 - Live!"
+      },
+      {
+         "description" : "Submissions are open for this year's ECF Awards. The closing date for nominations has been extended to August 5th 2023 Details for this year's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
+         "pubDate" : "Tue, 11 Jul 2023 07:00:27 +0000",
+         "title" : "ECF Awards 2023 - closing date extended"
       },
       {
          "description" : "The organizers of Norway Chess recently announced their groundbreaking vision&#38;nbsp;to host an all-female super tournament in 2024 with conditions equal to their annual top-level competition. The minds behind &#34;the world&#39;s strongest chess tourname...",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2513",
          "pubDate" : "Mon, 10 Jul 2023 21:26:23 +0000",
          "title" : "Anish Giri and Eline Roebers win 2023 Dutch Championship"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Nodirbek Abdusattorov, and Levon Aronian move on to the Winners Bracket in Division I of the Champions Chess Tour Aimchess Rapid 2023 after winning their matches on the first day. Carlsen and Caruana beat the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-1",
-         "pubDate" : "Mon, 10 Jul 2023 13:44:00 -0700",
-         "title" : "Carlsen, Caruana Clinch Matches With Game To Spare; Abdusattorov Beats So On Demand"
       },
       {
          "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
@@ -192,6 +224,14 @@ news_feed (
          "link" : "https://www.chessdom.com/fabiano-caruana-eduardo-iturrizaga-bonelli-aimchess-rapid-div-1-winners-live/",
          "pubDate" : "Mon, 10 Jul 2023 08:00:00 +0000",
          "title" : "Fabiano Caruana - Eduardo Iturrizaga Bonelli, Aimchess Rapid Div 1 Winners - LIVE"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Nodirbek Abdusattorov, and Levon Aronian move on to the Winners Bracket in Division I of the Champions Chess Tour Aimchess Rapid 2023 after winning their matches on the first day. Carlsen and Caruana beat the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-1",
+         "pubDate" : "Mon, 10 Jul 2023 00:37:00 -0700",
+         "title" : "Carlsen, Caruana Clinch Matches With Game To Spare; Abdusattorov Beats So On Demand"
       },
       {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised it's first Fair Play Orientation Workshop at Sanca International Hotel, New Delhi on 08-09",
@@ -826,14 +866,6 @@ news_feed (
          "title" : "Brewington Hardaway Earns Last IM Norm, 10 Points Away From Title"
       },
       {
-         "description" : "In the recent 2023 World Championship Match, Ding Liren won Game 12 against Ian Nepomniachtchi using the Colle System to tie the score at six. The match remained tied after fourteen games, and Ding went on to beat Nepomniachti in the rapid tie-breaks to become the 17th World Champion. With the Colle System utilized in the World Championship Match, it is a fitting moment to remember the life and career Edgard Colle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-short-but-glorious-life-of-edgard-colle-may-18-1897-april-19-1932",
-         "pubDate" : "Wed, 05 Jul 2023 20:00:00 +0100",
-         "title" : "The Short but Glorious Life of Edgard Colle (May 18, 1897 - April 19, 1932)"
-      },
-      {
          "description" : "GM Magnus Carlsen became only the second player, and first in nearly two years, to score a perfect 11/11 in Titled Tuesday, achieving the feat in the late tournament on July 4, 2023. He won the event by two full points&#38;mdash;a half-point better th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -872,14 +904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2496",
          "pubDate" : "Wed, 05 Jul 2023 12:37:02 +0000",
          "title" : "World Schools Team Championship 2023: Registration deadline extended"
-      },
-      {
-         "description" : "The 36th edition of the \"Magistral Ciudad de Le&oacute;n\" will take place on July 6-10. Once again, a 4-player knockout will be the main attraction in the city located in the northwest of the Iberian Peninsula. Boris Gelfand will attempt to defend his title against Francisco Vallejo, Nikita Vitiugov and local star Jaime Santos. Gelfand defeated Vishy Anand in the final of last year's edition.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-masters-2023-preview",
-         "pubDate" : "Wed, 05 Jul 2023 13:00:00 +0100",
-         "title" : "Back in Le&oacute;n: Gelfand to look for third straight victory in 4-player knockout"
       },
       {
          "description" : "",
@@ -1416,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2476",
          "pubDate" : "Mon, 26 Jun 2023 09:05:32 +0000",
          "title" : "World Schools Team Championship 2023 in Aktau, Kazakhstan: Registration is open"
-      },
-      {
-         "description" : "Submissions are open for this year's ECF Awards. The closing date for nominations is July 7th Details for this year's ECF Awards are now...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
-         "pubDate" : "Mon, 26 Jun 2023 08:00:27 +0000",
-         "title" : "ECF Awards 2023 - nominations closing soon"
       },
       {
          "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
