@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov advance to the Winners Final in Division I of the Champions Chess Tour Aimchess Rapid 2023 after defeating GMs Fabiano Caruana and Levon Aronian, respectively, in four regular games and without armagedd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-2",
+         "pubDate" : "Tue, 11 Jul 2023 15:34:00 -0700",
+         "title" : "Carlsen, Abdusattorov Set Up Battle Of Youth Vs. Experience In Winners Final"
+      },
+      {
+         "description" : "He&#39;s a chess icon normally known for his fast play, not his fast food. But that could be about to change as GM Viswanathan Anand appears in a commercial for the restaurant giant Subway. Fresh from appearing in the inaugural Global Chess League, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/viswanathan-anand-appears-in-subway-restaurant-ad",
+         "pubDate" : "Tue, 11 Jul 2023 12:51:00 -0700",
+         "title" : "Check Please! Chess Legend Viswanathan Anand In Subway Restaurant Ad"
+      },
+      {
          "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "Triveni Continental Kings first team to qualify for Global Chess League finals"
       },
       {
-         "description" : "While humankind has yet to answer the age-old question &#34;Who let the dogs out,&#34; there&#39;s one thing we do know: You can now play chess against humans&#39; adorable best friends. Meet IM Levy Rozman&#39;s dog Benji, Wishboy, Buddy Buckets, Pinky, and GM Levon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dog-bots",
-         "pubDate" : "Sat, 01 Jul 2023 08:00:00 -0700",
-         "title" : "Hide Your Homework! The New Dog Bots Are Here"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/expensive-experiment/",
          "pubDate" : "Sat, 01 Jul 2023 10:21:00 +0100",
          "title" : "Expensive experiment"
-      },
-      {
-         "description" : "GM Levon Aronian and the Triveni Continental Kings stole the show on day nine of the Tech Mahindra Global Chess League 2023, winning vs. both the SG Alpine Warriors and Balan Alaskan Knights to join the tie for first. Aronian defeated fellow ico...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-9",
-         "pubDate" : "Fri, 30 Jun 2023 21:59:00 -0700",
-         "title" : "Team Aronian Rises: 2-0 vs. Carlsen, Nepomniachtchi"
       },
       {
          "description" : "",
@@ -1720,14 +1720,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
          "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
          "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
-      },
-      {
-         "description" : " &#8220;My friend told me that you are a chess enthusiast&#8221; A student These days we are interviewing students for the fall Coop term positions in engineering. They are doing their best, like any of us, to have a resume and cover letter that gives them a leg up on the competition. A few of them <a href=\"https://chessimprover.com/a-chess-enthusiast/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Chess Enthusiast\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-chess-enthusiast/\">A Chess Enthusiast</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-chess-enthusiast/",
-         "pubDate" : "Tue, 20 Jun 2023 22:55:56 +0000",
-         "title" : "A Chess Enthusiast"
       }
    ]
 }
