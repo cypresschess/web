@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
+         "pubDate" : "Tue, 11 Jul 2023 16:50:00 +0100",
+         "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : "Professionals today have tight schedules. There are many more tournaments in the world, with the extra addition of online events. After Norway Chess, the Global Chess League in Dubai and the Grand Chess Tour event in Zagreb, Magnus Carlsen is now playing in the Aimchess Rapid - with no signs of fatigue. Carlsen beat Jorden van Foreest, and will face Fabiano Caruana next. | Photos: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d1",
+         "pubDate" : "Tue, 11 Jul 2023 16:30:00 +0100",
+         "title" : "Aimchess Rapid: Carlsen's marathon"
+      },
+      {
+         "description" : "Evgeny Postny examines in the current ChessBase Magazine #214 the variation 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 (which, in contrast to the main continuation 6.Bf4, prevents the development of Black's bishop to g4) with the active advance 6...e5. From Postny's point of view a sound reaction, which \"offers Black adequate play in all variations\" even though an isolani on d5 will be involved.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/news-from-the-exchange-caro-kann",
+         "pubDate" : "Tue, 11 Jul 2023 16:00:00 +0100",
+         "title" : "News from the Exchange Caro-Kann"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2516",
+         "pubDate" : "Tue, 11 Jul 2023 14:50:30 +0000",
+         "title" : "WWC Match 2023: Lei Tingjie takes early lead with convincing win over Ju Wenjun"
+      },
+      {
+         "description" : "The Women's World Championship match between challenger Lei Tingjie and reigning champion Ju Wenjun started with four draws, but in game 5 Lei Tingjie scored the first win of the match. She defeated Wu Wenjun with a convincing positional game. | Photos: Stev Bonhage (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-world-championship-lei-tingjie-takes-the-lead",
+         "pubDate" : "Tue, 11 Jul 2023 15:46:42 +0100",
+         "title" : "Women's World Championship: Lei Tingjie takes the lead"
+      },
+      {
+         "description" : "<br /><br /><b>ACT Winter Open 2023</b><br /><br />28-30 July (One round Friday evening, three Saturday, two Sunday)<br /><br /><b>Format:</b> Open section and Under 1600 Section (ACF)<br /><br /><b>Time control:</b> 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule:</b> Round 1 Friday 28th 7PM, <br /><br />Round 2 Sat 29th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 30th 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee:</b> $80 ($60 concession) - GM, IM, WGM and WIM Free<br /><br /><b>Prizes:</b> $1000 1st Open, $400 1st Minor $3600 in total<br /><br /><b>Venue:</b> Campbell High School, Treloar Cres Campbell ACT<br /><br />Booking link: <a href=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-winter-cup-aka-anu-open.html",
+         "pubDate" : "Tue, 11 Jul 2023 14:23:00 +0000",
+         "title" : "2023 Winter Cup (AKA ANU Open)"
+      },
+      {
+         "description" : "Challenger GM Lei Tingjie overpowered the defending champion Ju Wenjun in game five of the 2023 FIDE Women&#39;s World Championship to take a 3-2 lead with just one game to go before the match switches from Shanghai to her home city of Chongqing.&#38;nbsp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-5",
+         "pubDate" : "Tue, 11 Jul 2023 06:56:00 -0700",
+         "title" : "Lei Tingjie Draws First Blood In Game 5 To Snatch Lead"
+      },
+      {
+         "description" : "For the third successive year there will be an all-play-all title norm tournament taking place in Stafford, the home town of the organiser Lawrence Cooper....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wood-green-invitational-14th-18th-july-2023/",
+         "pubDate" : "Tue, 11 Jul 2023 13:23:02 +0000",
+         "title" : "Wood Green Invitational 14th - 18th July 2023"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101672957.cms\" />Vedika Pal lived up to her billing with an unbeaten performance and emerged as the U-10 girls champion in Western Asian Youth Chess Championship which concluded at Kyrgyzstan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nagpurs-vedika-pal-is-u-10-girls-western-asia-chess-champion/articleshow/101672957.cms",
+         "pubDate" : "Tue, 11 Jul 2023 13:14:50 +0000",
+         "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
+      },
+      {
          "description" : "Whatever your idea of a traditional chess event is, it's probably nothing like London's ChessFest. While in most tournaments, the action takes place behind closed doors, accessible only to knowledgeable insiders and connoisseurs of the game, ChessFest turns all that upside down. This is chess writ large in the open air, performed in full public view, with mass participation the central goal. If you are in or anywhere near London, you should definitely pay ChessFest a visit. | Photos by Andrew Moss",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anish-giri-wins-dutch-championship",
          "pubDate" : "Tue, 11 Jul 2023 12:18:56 +0100",
          "title" : "Anish Giri wins Dutch Championship"
+      },
+      {
+         "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/peter-campbell-gibbs-1934-2023/",
+         "pubDate" : "Tue, 11 Jul 2023 11:16:33 +0000",
+         "title" : "Peter Campbell Gibbs 1934-2023"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation allows for a deviation from the well known theory. It is considered drawish for White, reason why it is not very popular. Still, it could be used as <a href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\">Need sure points? Gr&u",
@@ -61,8 +141,8 @@ news_feed (
          "description" : "The organizers of Norway Chess recently announced their groundbreaking vision&#38;nbsp;to host an all-female super tournament in 2024 with conditions equal to their annual top-level competition. The minds behind &#34;the world&#39;s strongest chess tourname...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-announces-vison-for-gender-equality-super-tournament",
-         "pubDate" : "Mon, 10 Jul 2023 21:45:39 -0700",
+         "link" : "https://www.chess.com/news/view/norway-chess-announces-vision-for-gender-equality-super-tournament",
+         "pubDate" : "Mon, 10 Jul 2023 21:45:00 -0700",
          "title" : "Norway Chess Announces Vision For Gender Equality Women's Tournament"
       },
       {
@@ -98,6 +178,14 @@ news_feed (
          "title" : "Aimchess Rapid Div 1 Losers"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2515",
+         "pubDate" : "Mon, 10 Jul 2023 19:32:05 +0000",
+         "title" : "Swedish Championship 2023: Vitalii Sivuk claims title"
+      },
+      {
          "description" : "Four times national women champion International Master Padmini Rout of Petroleum Sports Promotion Board added one more national women title to her illustrious career after",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -120,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/aimchess-rapid-div-2-losers/",
          "pubDate" : "Mon, 10 Jul 2023 17:05:00 +0000",
          "title" : "Aimchess Rapid Div 2 Losers"
-      },
-      {
-         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
-         "pubDate" : "Mon, 10 Jul 2023 16:45:00 +0100",
-         "title" : "Aimchess Rapid - Live!"
       },
       {
          "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
@@ -786,36 +866,12 @@ news_feed (
          "title" : "The Opening Encyclopaedia 2023 - A review"
       },
       {
-         "description" : "For five days, ten of the world's best chess players, including former world champions Magnus Carlsen and Vishy Anand, are playing rapid and blitz chess in Zagreb. The chess stars have been received with great enthusiasm in the Croatian capital. After the first day of rapid chess, living legend Anand has taken the lead. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d1",
-         "pubDate" : "Thu, 06 Jul 2023 12:50:00 +0100",
-         "title" : "SuperUnited Croatia: Formidable Anand grabs the lead"
-      },
-      {
          "description" : "The ECU E-Magazine June 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The June 2023 edition of the ECU E-Magazine can be read online with interactive links on&#160;the following link, or it can be downloaded in PDF format down below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2023/",
          "pubDate" : "Thu, 06 Jul 2023 11:03:43 +0000",
          "title" : "ECU E-Magazine June 2023"
-      },
-      {
-         "description" : "The column \"All in One\" was introduced in in ChessBase Magazine about four years ago. On the basis of a single, but very extensively annotated game, you learn everything you need to know about a specific opening line. A compact format with which you can improve your know-how without much effort. In the current ChessBase Magazine #214 Igor Stohl introduces you to the Hippopotamus setup, a system that can be used with Black against practically anything.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-and-his-hippopotamus",
-         "pubDate" : "Thu, 06 Jul 2023 12:00:00 +0100",
-         "title" : "Carlsen and his hippopotamus"
-      },
-      {
-         "description" : "In his Game of the Week show #575 Merijn van Delft takes a look at the Dutch Championships, in which Anish Giri once again impressed with fine play and superb preparation. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-575-a-giri-vs-b-bok",
-         "pubDate" : "Thu, 06 Jul 2023 11:58:41 +0100",
-         "title" : "Game of the Week #575: A. Giri vs B. Bok"
       },
       {
          "description" : "GM Viswanathan Anand emerged as the early leader, defeating GMs Richard Rapport and Constantin Lupulescu on day one of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Rapport himself beat GM Jan-Krzysztof Duda, the previous leader, in the la...",
@@ -834,7 +890,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 2 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 2 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 2 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 3 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -1176,14 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2485",
          "pubDate" : "Fri, 30 Jun 2023 20:40:51 +0000",
          "title" : "GCL Day 9: Triveni Continental Kings join the leaders"
-      },
-      {
-         "description" : "GM Ray Robson won the Prague Chess Festival Masters after finishing in shared first with GM Bogan-Daniel Deac on 5.5/9 points. In the blitz tiebreak, the American grandmaster won the first game with Black and then offered a draw in a winning posit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-prague-chess-festival-masters-robson-wins",
-         "pubDate" : "Fri, 30 Jun 2023 12:22:00 -0700",
-         "title" : "Robson Wins Prague Chess Festival Masters In Blitz Tiebreak, Bartel Wins Challengers"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
@@ -1650,14 +1698,6 @@ news_feed (
          "title" : "Staff member wins World Cup"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2468",
-         "pubDate" : "Wed, 21 Jun 2023 14:31:17 +0000",
-         "title" : "The Olympic Esports Series Chess Event Finals to start on June 23 in Singapore"
-      },
-      {
          "description" : "The first ever ASEAN Chess Confederation (ACC)-European Chess Union (ECU) Chess Symposium is being held from 19-24 June 2023 at the Asia Hotel Bangkok. Following introductions by arbiters seminar and trainer workshop leaders Takis Nikolopoulous and Artur Yusupov, ECU President Zurab Azmaiparasvili was invited by ACC President Ignatius Leong to make the opening remarks. Mr. Azmaiparashvili remembered his long friendship with Leong, thanking him for help in his difficult time, and congratulated ACC Deputy President and Thailand Chess Association President []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1688,14 +1728,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-chess-enthusiast/",
          "pubDate" : "Tue, 20 Jun 2023 22:55:56 +0000",
          "title" : "A Chess Enthusiast"
-      },
-      {
-         "description" : "Another month has passed, so let's have another look at U.S. chess magazine covers from 50 and 25 years ago. Both magazines featured the winners of super strong U.S. Swiss-system tournaments of their respective eras. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Minasian Sweeps the New York Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Arthur Bisguier, who won the powerful Lone Pine Tournament in California, which included five grandmasters. Story [inside]. Photo by Burt Hochberg. </BLOCKQUOTE> <P> The story inside was titled 'Bisguier Wins at Lone Pine'. It started,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 20 Jun 2023 15:02:00 +0000",
-         "title" : "June 1973 & 1998 'On the Cover'"
       }
    ]
 }
