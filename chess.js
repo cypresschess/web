@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White is two pawns up, but Black seems to be close to a draw. However, knight endgames can be tricky. What can White do to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tricky-knights-2",
+         "pubDate" : "Tue, 11 Jul 2023 09:00:00 +0100",
+         "title" : "Tricky knights"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Tue, 11 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 5 - Live!"
+      },
+      {
+         "description" : "The organizers of Norway Chess recently announced their groundbreaking vision&#38;nbsp;to host an all-female super tournament in 2024 with conditions equal to their annual top-level competition. The minds behind &#34;the world&#39;s strongest chess tourname...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-announces-vison-for-gender-equality-super-tournament",
+         "pubDate" : "Mon, 10 Jul 2023 21:45:39 -0700",
+         "title" : "Norway Chess Announces Vision For Gender Equality Women's Tournament"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -858,14 +882,6 @@ news_feed (
          "title" : "Back in Le&oacute;n: Gelfand to look for third straight victory in 4-player knockout"
       },
       {
-         "description" : "The first game of the Women's World Championship will be played today in Shanghai. Defending champion Ju Wenjun will take on challenger Lei Tingjie. The match consists of 12 games and lasts three weeks. It was officially opened with a press conference yesterday.| Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-women-s-world-championship-match-2023-commences-in-shanghai",
-         "pubDate" : "Wed, 05 Jul 2023 11:27:57 +0100",
-         "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-womens-world-championship-match-2023-starts-in-china/",
          "pubDate" : "Wed, 05 Jul 2023 07:08:48 +0000",
          "title" : "FIDE Women's World Championship Match 2023 starts in China"
-      },
-      {
-         "description" : "In an exclusive interview for ChessBase, IA and WIM Tshepiso Lopang talks to chess journalist Tatiana Flores about her beginnings in chess, her path to becoming a sought-after international arbiter and the first woman to be elected President of the African Chess Confederation. She also shares her ideas for improving chess around the world. | Photo: Courtesy of Tshepiso Lopang",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-interview-with-tshepiso-lopang-president-of-the-african-chess-confederation",
-         "pubDate" : "Wed, 05 Jul 2023 07:38:07 +0100",
-         "title" : "An interview with Tshepiso Lopang - President of the African Chess Confederation"
       },
       {
          "description" : "",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-prague-chess-festival-masters-robson-wins",
          "pubDate" : "Fri, 30 Jun 2023 12:22:00 -0700",
          "title" : "Robson Wins Prague Chess Festival Masters In Blitz Tiebreak, Bartel Wins Challengers"
-      },
-      {
-         "description" : "The US Chess Federation has published a list of members who have been sanctioned by the organization.&#38;nbsp; A total of 27 members have been sanctioned for a shorter or longer time period. Minors are not named, but their sanction is listed. Amo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/named-and-shamed-the-players-sanctioned-by-us-chess",
-         "pubDate" : "Fri, 30 Jun 2023 10:01:00 -0700",
-         "title" : "US Chess Releases List Of Sanctioned Players"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html",
          "pubDate" : "Tue, 20 Jun 2023 15:02:00 +0000",
          "title" : "June 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "The 1st European Pairs Chess Championship, an official side event of the European Games Krakow-Malopolska 2023, concluded yesterday in Poland! The event was held in two phases: qualification and playoffs, and the individual medalists were determined by the playoffs in each section (Open and Women's). The combined Pair medals were decided by the final position of the players of each team after the playoffs in each section (sum of points): 1st&#160;8-points, 2nd&#160;7-points, 3rd&#160;6-points, 4th&#160;5-points, 5th&#160;4-points, 6th&#160;3 points, 7th&#160;2-points, and 8th&#160;1-point.&#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/armenia-wins-european-pairs-chess-championship-2023/",
-         "pubDate" : "Tue, 20 Jun 2023 06:36:28 +0000",
-         "title" : "Armenia wins European Pairs Chess Championship 2023"
       }
    ]
 }
