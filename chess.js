@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After losing game 5, Ju Wenjun took no risks in the last encounter of the Women's World Chess Championship played in Shanghai. Ju's approach with white led to a quiet endgame after an early exchange of queens. The game ended in a draw on move 48. The World Championship now moves to Chongquin, where it will resume on Saturday. | Photos: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-6",
+         "pubDate" : "Wed, 12 Jul 2023 23:45:00 +0100",
+         "title" : "Women's World Championship: Halftime reached, Ju plays it safe"
+      },
+      {
+         "description" : "In his Game of the Week show #576 Merijn van Delft takes a look at an instructive game Richard Rapport won against Constantin Lupulescu at the Croatia Blitz & Rapid Grand Chess Tour Tournament in Zagreb. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-576-r-rapport-vs-c-lupulescu",
+         "pubDate" : "Wed, 12 Jul 2023 21:51:59 +0100",
+         "title" : "Game of the Week #576: R. Rapport vs C. Lupulescu"
+      },
+      {
+         "description" : "Momentarily, Ju Wenjun is fighting for the title against Lei Tingjie, Who just took the lead! Svitlana found one of Wenjun's most beautiful games against Kateryna Lagno, which was a big part of her winning the Women's World Championship in 2018. In the Sicilian Rossolimo, The Chinese GM played for the initiative, and found a convincing attack against Lagno, which is worth replaying.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ju-wenjun-s-best-game",
+         "pubDate" : "Wed, 12 Jul 2023 21:42:33 +0100",
+         "title" : "Svitlana's Smart Moves - Ju Wenjun's best game"
+      },
+      {
+         "description" : "GM Magnus Carlsen defeated GM Nodirbek Abdusattorov to secure his seat in the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. He won the first two games and, despite being down two pawns and dead lost in the third, found a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-3",
+         "pubDate" : "Wed, 12 Jul 2023 13:14:00 -0700",
+         "title" : "Carlsen To Play In Grand Final; Wesley So, Iturrizaga Win With Clean Sweeps In Losers"
+      },
+      {
+         "description" : " The Geza Hetenyi Memorial takes place in Budapest Tue 11th to Wed 19th Jul 2023. Players: Maghsoodloo, Sjugirov, Eljanov, Shevchenko, Praggnanandhaa, Tabatabaei, Wojtaszek, Matlakov, Prohaszka and Adam Kozak.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/geza-hetenyi-memorial-2023",
+         "pubDate" : "Wed, 12 Jul 2023 22:13:00 +0400",
+         "title" : "Geza Hetenyi Memorial 2023 - Games and Results"
+      },
+      {
          "description" : "Lukasz Nowak&#39;s movement off the board may be restricted, but on the chessboard, he can move better than most people. Last month the remarkable 25-year-old fulfilled all requirements for the IM title. Just months after his birth, FM Lukasz Nowak ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -22,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-chess-tour-live-final-toronto-canada",
-         "pubDate" : "Wed, 12 Jul 2023 08:07:45 -0700",
+         "pubDate" : "Wed, 12 Jul 2023 08:07:00 -0700",
          "title" : "$500,000 Champions Chess Tour Finals To Be Played Live In Toronto"
       },
       {
@@ -858,36 +898,12 @@ news_feed (
          "title" : "Eline Roebers wins Dutch Women's Championship"
       },
       {
-         "description" : "In his Fast & Furious show Robert Ris takes a look at a game between Gukesh and Magnus Carlsen, in which Carlsen shows Black's potential in a crucial line of the Sicilian Rossolimo. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-carlsen-shows-the-way-in-the-sicilian-rossolimo",
-         "pubDate" : "Fri, 07 Jul 2023 13:02:45 +0100",
-         "title" : "Robert Ris' Fast and Furious: Carlsen shows the way in the Sicilian Rossolimo"
-      },
-      {
-         "description" : "At the anniversary tournament, the organisers of the Dortmund Sparkassen Chess Trophy celebrated a record number of participants in the Open with almost 550 players, including several German national players. Vladimir Kramnik and Fabiano Caruana, runner-up at the 2018 World Championship, provided the glamour of world champions at the NC Masters. | Photo: Veterans of the Dortmund Chess Festival | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/50-dortmund-chess-festival-a-record-breaking-jubilee",
-         "pubDate" : "Fri, 07 Jul 2023 13:00:00 +0100",
-         "title" : "50. Dortmund Chess Festival: A record-breaking jubilee"
-      },
-      {
          "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands, in an event disrupted by a row over a freak &#34;code red&#34; storm that resulted in one player dropping out. Roebers won a double round...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dutch-women-chess-championship-roebers-wins-protest-van-weersel",
          "pubDate" : "Fri, 07 Jul 2023 02:44:00 -0700",
          "title" : "Row Over Freak Storm Mars Dutch Women's Championship; Roebers (17) Wins 1st Title"
-      },
-      {
-         "description" : "The finish of the 6th game of the World Championship match between Ding Liren and Ian Nepomniachtchi was impressive. In a tense and complicated position, Ding surprisingly advanced his d-pawn, and this small pawn advance was crucial to a spectacular mate that could have occurred in the game. The audience was impressed, the study composers were inspired. In his last \"Study of the Month\" column Siegfried Hornecker had a look at \"Ding's Theme\" in studies, in his current column he returns to this theme with further insights. | Photo: Ding Liren | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-more-about-ding-s-theme",
-         "pubDate" : "Fri, 07 Jul 2023 10:34:18 +0100",
-         "title" : "Study of the month - More about \"Ding's Theme\""
       },
       {
          "description" : "You can hear a British Chess Championships interview with BBC Radio Leicester's Ben Jackson, featuring the ECF's Home Director Nigel Towers and Paul Mottram, the...",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023",
          "pubDate" : "Wed, 05 Jul 2023 08:44:00 -0700",
          "title" : "Carlsen's Perfect 11/11 Tournament Matches Historic Record"
-      },
-      {
-         "description" : "Women&#39;s World Champion Ju Wenjun had to fight hard to hold a draw in game one of the 2023 FIDE Women&#39;s World Championship Match after challenger GM Lei Tingjie opened with an aggressive pawn sacrifice in her first-ever match at the very highest le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-1",
-         "pubDate" : "Wed, 05 Jul 2023 07:32:00 -0700",
-         "title" : "FIDE Women's World Championship Match Starts With Fighting Draw In Shanghai"
       },
       {
          "description" : "",
