@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lukasz Nowak&#39;s movement off the board may be restricted, but on the chessboard, he can move better than most people. Last month the remarkable 25-year-old fulfilled all requirements for the IM title. Just months after his birth, FM Lukasz Nowak ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lukasz-nowak-earns-im-title-overcomes-spinal-disease",
+         "pubDate" : "Wed, 12 Jul 2023 10:46:00 -0700",
+         "title" : "Lukasz Nowak Earns IM Title, Overcomes Spinal Disease"
+      },
+      {
          "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,6 +192,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2518",
          "pubDate" : "Tue, 11 Jul 2023 20:53:45 +0000",
          "title" : "FIDE World Championships 2024 call for bids: Two days to deadline "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2517",
+         "pubDate" : "Tue, 11 Jul 2023 20:30:56 +0000",
+         "title" : "Promoting Africa: CIE Awareness Campaign launched in Zimbabwe and Nigeria"
       },
       {
          "description" : "He&#39;s a chess icon normally known for his fast play, not his fast food. But that could be about to change as GM Viswanathan Anand appears in a commercial for the restaurant giant Subway. Fresh from appearing in the inaugural Global Chess League, ...",
@@ -1138,14 +1154,6 @@ news_feed (
          "title" : "Women's World Chess Championship 2023 - Games and Results"
       },
       {
-         "description" : "GM Fabiano Caruana has been crowned the winner of the 2023 No Castling World Masters after scoring 4/6 in a double round-robin classical tournament in Dortmund, Germany, and finishing half a point ahead of GM Vladimir Kramnik. As part of the 50t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fabiano-caruana-wins-dortmund-sparkassen-chess-trophy",
-         "pubDate" : "Mon, 03 Jul 2023 19:05:00 -0700",
-         "title" : "Caruana Edges Out Kramnik In No Castling Masters Dortmund"
-      },
-      {
          "description" : " Chess photography is a popular (although not very lucrative) pastime. There is something about the settings, the personalities, and range of emotions that seem to attract photographers to the sport. For people like me (using my low res smart phone) it is to recognise people who come each weel to Street Chess. For more prolific photographers (with their better equipment) like Cathy Rogers or Dr Helen Milligan, it is a way of documenting the chess events they attend. But for some at the top, it is a way to make a living, as well as provide an insight into the world of top level chess. Courtesy of regular reader Jim, there is a <a href=\"https://edition.cnn.com/2023/06/19/sport/maria-emelianova",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://www.thearticle.com/snakes-and-leaders/",
          "pubDate" : "Sat, 24 Jun 2023 07:58:38 +0000",
          "title" : "Snakes and Leaders"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2472",
-         "pubDate" : "Fri, 23 Jun 2023 22:11:32 +0000",
-         "title" : "Chess Legends face off: Anand and Carlsen headline the day"
       },
       {
          "description" : " The Global Chess League took place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, I",
