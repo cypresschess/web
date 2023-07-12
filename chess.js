@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
+         "pubDate" : "Wed, 12 Jul 2023 16:50:00 +0100",
+         "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : "You&#39;ve been watching as GM Magnus Carlsen won the Airthings Masters to kick off the 2023 Champions Chess Tour (CCT). You&#39;ve kept following to see GM Hikaru Nakamura take down the Chessable Masters. Then GM Nodirbek Abdusattorov won the ChessKid Cu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-live-final-toronto-canada",
+         "pubDate" : "Wed, 12 Jul 2023 08:07:45 -0700",
+         "title" : "$500,000 Champions Chess Tour Finals To Be Played Live In Toronto"
+      },
+      {
+         "description" : "For the second time ever, GMs Hikaru Nakamura and Magnus Carlsen won Titled Tuesday on the same day. It previously occurred on October 11, 2022. Just like last time, Nakamura won the early tournament and Carlsen the late event. Nakamura also finis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-july-11-2023",
+         "pubDate" : "Wed, 12 Jul 2023 07:29:52 -0700",
+         "title" : "Nakamura Nearly Perfect, Wins Early; Carlsen Wins Late"
+      },
+      {
+         "description" : "GM Lei Tingjie made an effortless draw with the black pieces against GM Ju Wenjun in game six of the 2023 FIDE Women&#39;s World Championship to lead 3.5-2.5 at the midway point. The players now move from Shanghai to another Chinese mega-city, Lei&#39;s b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-6",
+         "pubDate" : "Wed, 12 Jul 2023 06:13:00 -0700",
+         "title" : "Lei Tingjie Leads After Shanghai As Game 6 Ends In A Draw"
+      },
+      {
+         "description" : "Top American junior and senior chess players will return to Saint Louis for the 2023 U.S. Senior, Junior, and Girls' Junior Championships hosted by the Saint Louis Chess Club. From July 15-25, 2023, the top 10 players across three divisions - juniors, girls, and seniors - will travel to compete for more than $130,000 in prizes. | Pictured: Alex Shabalov, Jennifer Yu and Christopher Yoo, winners of the 2022 edition | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-preview",
+         "pubDate" : "Wed, 12 Jul 2023 14:00:00 +0100",
+         "title" : "Saint Louis Chess Club to host American legends and rising stars"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2520",
+         "pubDate" : "Wed, 12 Jul 2023 11:48:34 +0000",
+         "title" : "WWC Match 2023: Last game in Shanghai ends in a draw"
+      },
+      {
          "description" : "The V. Geza Hetenyi Memorial will take place from the 11th to the 19th of July 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It will be a 10-layer Round robin tournament []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -858,14 +906,6 @@ news_feed (
          "title" : "Winners crowned at the inaugural chess event of the XXIV Central American and Caribbean Games"
       },
       {
-         "description" : "Ian Nepomniachtchi, Fabiano Caruana and Vishy Anand are sharing the lead at the SuperUnited Rapid & Blitz tournament after two days of play. Anand finished day 1 as the sole leader, and saw Nepo and Caruana catching up with him thanks to outstanding performances in rounds 4-6. Nepo's three consecutive victories were particularly remarkable, as the Russian GM recovered from a winless Wednesday in Zagreb. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d2",
-         "pubDate" : "Fri, 07 Jul 2023 01:40:00 +0100",
-         "title" : "SuperUnited Croatia: Nepo and Caruana catch Anand"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -904,14 +944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2501",
          "pubDate" : "Thu, 06 Jul 2023 13:48:53 +0000",
          "title" : "Prize fund of World Senior Championship 2023 breaks the record"
-      },
-      {
-         "description" : "In the second game of the Women's World Championship match in China, the reigning World Champion Ju Wenjun had White, but couldn't get anything against the Tarrasch Variation of her challenger Lei Tingjie, who even managed to gain a slight initiative after the opening. The game ended in a draw after 41 moves. | Photo: Xu Qi, Deputy Director of the Shanghai Sports Bureau and KK Chan President of the Hong Kong Chess Federation, open the game. | Photos: Stev Bonhage (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-championship-game-2-also-ends-in-a-draw",
-         "pubDate" : "Thu, 06 Jul 2023 14:08:56 +0100",
-         "title" : "Women's World Championship: Game 2 also ends in a draw"
       },
       {
          "description" : " The 2023 Women's World Championship is already 2 games in, although both games have been drawn. It is an all Chinese matchup with Wenjun Ju playing Tingjie Lei. Most pundits have Ju as the favourite for this match, based on match experience. The first game was a Ruy Lopez Berlin variation, although it wasn't as drawish as the opening may indicate. In fact White sacrificed a pawn in the opening, but regained it with a better position. However, Jun was able to reach a rook and pawn ending, and by that stage it was definitely drawn. <br /> <br /> <b>Lei Tingjie (2554) - Ju Wenjun (2566) [C67]</b><br /> FIDE WOMEN'S WORLD CHAMPIONSHIP MATCH 20 SHANG HAI, China (1.1), 05.07.2023 <script> new Pgn",
@@ -954,7 +986,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 2 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 3 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; 2&frac12; Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; 3&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -1114,14 +1146,6 @@ news_feed (
          "title" : "Caruana Edges Out Kramnik In No Castling Masters Dortmund"
       },
       {
-         "description" : "Chess.com&#38;rsquo;s blistering Bullet Chess Championship is back with a star-studded posse of the fastest gunslingers in the game ready to duel. This year&#38;rsquo;s quickfire one-minute chess tournament, which runs July 17 to 21, boasts its strongest ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2023-bcc",
-         "pubDate" : "Mon, 03 Jul 2023 08:01:00 -0700",
-         "title" : "Carlsen, Nakamura, Firouzja Line Up For Strongest Bullet Chess Championship Ever"
-      },
-      {
          "description" : " Chess photography is a popular (although not very lucrative) pastime. There is something about the settings, the personalities, and range of emotions that seem to attract photographers to the sport. For people like me (using my low res smart phone) it is to recognise people who come each weel to Street Chess. For more prolific photographers (with their better equipment) like Cathy Rogers or Dr Helen Milligan, it is a way of documenting the chess events they attend. But for some at the top, it is a way to make a living, as well as provide an insight into the world of top level chess. Courtesy of regular reader Jim, there is a <a href=\"https://edition.cnn.com/2023/06/19/sport/maria-emelianova",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1130,28 +1154,12 @@ news_feed (
          "title" : "The art of making (chess) art"
       },
       {
-         "description" : "The Triveni Continental Kings completed their comeback story with a victory in the finals of the Tech Mahindra Global Chess League 2023 that went all the way down to sudden death. The 19-year-old GM Jonas Bjerre was the hero for the Kings as he to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-11",
-         "pubDate" : "Mon, 03 Jul 2023 02:49:00 -0700",
-         "title" : "Triveni Continental Kings Win Global Chess League, Bjerre Stars In Sudden Death"
-      },
-      {
          "description" : "The European Corporate Chess Championship 2024,will be organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match points is as follows: a match won is worth 3 match []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2024-in-paris-france/",
          "pubDate" : "Mon, 03 Jul 2023 07:08:43 +0000",
          "title" : "European Corporate Chess Championship 2024 in Paris, France"
-      },
-      {
-         "description" : "GM Daniel Naroditsky outclassed the field in the first weekly Bullet Brawl and convincingly won the event ahead of GMs Hikaru Nakamura and Magnus Carlsen on Saturday. Naroditsky scored 242 points during the two-hour arena, playing out 67 wins, six...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-wins-2023-bullet-brawl-july-week-1",
-         "pubDate" : "Sun, 02 Jul 2023 17:16:00 -0700",
-         "title" : "Naroditsky Collects First Bullet Brawl Title Ahead Of Nakamura, Carlsen"
       },
       {
          "description" : "",
@@ -1690,14 +1698,6 @@ news_feed (
          "title" : "Certificates of Online SNA"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2471",
-         "pubDate" : "Thu, 22 Jun 2023 21:01:39 +0000",
-         "title" : "Сhess revolution has started: Global Chess League kicked off with the first two matches"
-      },
-      {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1720,22 +1720,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/staff-member-wins-world-cup",
          "pubDate" : "Thu, 22 Jun 2023 08:00:00 +0100",
          "title" : "Staff member wins World Cup"
-      },
-      {
-         "description" : "The first ever ASEAN Chess Confederation (ACC)-European Chess Union (ECU) Chess Symposium is being held from 19-24 June 2023 at the Asia Hotel Bangkok. Following introductions by arbiters seminar and trainer workshop leaders Takis Nikolopoulous and Artur Yusupov, ECU President Zurab Azmaiparasvili was invited by ACC President Ignatius Leong to make the opening remarks. Mr. Azmaiparashvili remembered his long friendship with Leong, thanking him for help in his difficult time, and congratulated ACC Deputy President and Thailand Chess Association President []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/acc-ecu-chess-symposium-kicks-off-in-thailand/",
-         "pubDate" : "Wed, 21 Jun 2023 13:45:22 +0000",
-         "title" : "ACC - ECU Chess Symposium kicks off in Thailand"
-      },
-      {
-         "description" : " The diagram position is *not* from one of my games. However it is pretty close to the finish I played recently. The position of the pieces on the queenside are as played, but I have modified the kingside pawns for the purpose of making this post.<table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_gTpwxwU7mMyHwpWivQQ_ctuVjJvzWZeGQXkhTeK0uZzSyeg9jqJh2kybh9sFM-ijV_rxktBl9w_QJG2SRebcsUmhWlgXofbaenB8IhgAIws3emhbVGGv8kxD2DeDe9auDtZ7w8iguQsF8GYYIuv-0V3x-t2XUamVuIOYgY_5N-QmB0U8b_35B9gpRw/s680/preano4.png\" imageanchor=\"1\" style=\"clear: right; margin-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/increasing-levels-of-jerkitude.html",
-         "pubDate" : "Wed, 21 Jun 2023 12:48:00 +0000",
-         "title" : "Increasing levels of jerkitude?"
       }
    ]
 }
