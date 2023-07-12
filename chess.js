@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Nodirbek Abdusattorov advanced to the final match in the winners' bracket of the Aimchess Rapid online tournament by beating Fabiano Caruana and Levon Aronian respectively. Meanwhile, in the losers' bracket, Wesley So and Eduardo Iturrizaga both won their Tuesday matches in Armageddon. | Photo: Eric Rosen / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d3",
+         "pubDate" : "Wed, 12 Jul 2023 01:50:00 +0100",
+         "title" : "Aimchess Rapid: Carlsen and Abdusattorov reach winners' final"
+      },
+      {
          "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov advance to the Winners Final in Division I of the Champions Chess Tour Aimchess Rapid 2023 after defeating GMs Fabiano Caruana and Levon Aronian, respectively, in four regular games and without armagedd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,28 +18,20 @@ news_feed (
          "title" : "Carlsen, Abdusattorov Set Up Battle Of Youth Vs. Experience In Winners Final"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2518",
+         "pubDate" : "Tue, 11 Jul 2023 20:53:45 +0000",
+         "title" : "FIDE World Championships 2024 call for bids: Two days to deadline "
+      },
+      {
          "description" : "He&#39;s a chess icon normally known for his fast play, not his fast food. But that could be about to change as GM Viswanathan Anand appears in a commercial for the restaurant giant Subway. Fresh from appearing in the inaugural Global Chess League, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/viswanathan-anand-appears-in-subway-restaurant-ad",
          "pubDate" : "Tue, 11 Jul 2023 12:51:00 -0700",
          "title" : "Check Please! Chess Legend Viswanathan Anand In Subway Restaurant Ad"
-      },
-      {
-         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
-         "pubDate" : "Tue, 11 Jul 2023 16:50:00 +0100",
-         "title" : "Aimchess Rapid - Live!"
-      },
-      {
-         "description" : "Professionals today have tight schedules. There are many more tournaments in the world, with the extra addition of online events. After Norway Chess, the Global Chess League in Dubai and the Grand Chess Tour event in Zagreb, Magnus Carlsen is now playing in the Aimchess Rapid - with no signs of fatigue. Carlsen beat Jorden van Foreest, and will face Fabiano Caruana next. | Photos: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d1",
-         "pubDate" : "Tue, 11 Jul 2023 16:30:00 +0100",
-         "title" : "Aimchess Rapid: Carlsen's marathon"
       },
       {
          "description" : "Evgeny Postny examines in the current ChessBase Magazine #214 the variation 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 (which, in contrast to the main continuation 6.Bf4, prevents the development of Black's bishop to g4) with the active advance 6...e5. From Postny's point of view a sound reaction, which \"offers Black adequate play in all variations\" even though an isolani on d5 will be involved.",
@@ -96,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessfest-fun-in-trafalgar-square",
          "pubDate" : "Tue, 11 Jul 2023 13:00:00 +0100",
          "title" : "ChessFest Fun in Trafalgar Square"
+      },
+      {
+         "description" : "Professionals today have tight schedules. There are many more tournaments in the world, with the extra addition of online events. After Norway Chess, the Global Chess League in Dubai and the Grand Chess Tour event in Zagreb, Magnus Carlsen is now playing in the Aimchess Rapid - with no signs of fatigue. Carlsen beat Jorden van Foreest, and will face Fabiano Caruana next. | Photos: Lennart Ootes / Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d1",
+         "pubDate" : "Tue, 11 Jul 2023 12:55:00 +0100",
+         "title" : "Aimchess Rapid: Carlsen's marathon"
       },
       {
          "description" : "Anish Giri is the 2023 Dutch champion. He won the final against Jorden van Foreest, but only after a dramatic tiebreak. Bianca Muhren-De Jong, president of the Dutch federation, congratulates. | Photos: Harry Gielen",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2470",
          "pubDate" : "Thu, 22 Jun 2023 18:03:23 +0000",
          "title" : "National preparations for FIDE World Schools Team Championship go big around the Globe"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2469",
-         "pubDate" : "Thu, 22 Jun 2023 12:19:50 +0000",
-         "title" : "The Global Chess League makes its grand debut: \"A brand new revolution in an ancient sport\""
       },
       {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
