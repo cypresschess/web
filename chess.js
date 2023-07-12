@@ -146,14 +146,6 @@ news_feed (
          "title" : "Tricky knights"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Tue, 11 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 5 - Live!"
-      },
-      {
          "description" : "Submissions are open for this year's ECF Awards. The closing date for nominations has been extended to August 5th 2023 Details for this year's...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -888,6 +880,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-opening-encyclopaedia-2023-a-review",
          "pubDate" : "Thu, 06 Jul 2023 13:11:06 +0100",
          "title" : "The Opening Encyclopaedia 2023 - A review"
+      },
+      {
+         "description" : "For five days, ten of the world's best chess players, including former world champions Magnus Carlsen and Vishy Anand, are playing rapid and blitz chess in Zagreb. The chess stars have been received with great enthusiasm in the Croatian capital. After the first day of rapid chess, living legend Anand has taken the lead. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d1",
+         "pubDate" : "Thu, 06 Jul 2023 12:50:00 +0100",
+         "title" : "SuperUnited Croatia: Formidable Anand grabs the lead"
       },
       {
          "description" : "The ECU E-Magazine June 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The June 2023 edition of the ECU E-Magazine can be read online with interactive links on&#160;the following link, or it can be downloaded in PDF format down below.",
