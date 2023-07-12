@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The V. Geza Hetenyi Memorial will take place from the 11th to the 19th of July 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It will be a 10-layer Round robin tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/v-geza-hetenyi-memorial-super-gm-round-robin-tournament-2023-live/",
+         "pubDate" : "Wed, 12 Jul 2023 11:20:00 +0000",
+         "title" : "V. Geza Hetenyi Memorial Super GM Round Robin Tournament 2023 - LIVE"
+      },
+      {
+         "description" : "The V. Geza Hetenyi Memorial will take place from the 11th to the 19th of July 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It will be a 10-layer Round robin tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/v-geza-hetenyi-memorial-super-gm-round-robin-tournament-2023/",
+         "pubDate" : "Wed, 12 Jul 2023 11:04:46 +0000",
+         "title" : "V. Geza Hetenyi Memorial Super GM Round Robin Tournament 2023"
+      },
+      {
+         "description" : "The second English Women's Online Blitz Championship will be held during August 2023. The top finishing player will become the English Women's Online Blitz Champion...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2023/",
+         "pubDate" : "Wed, 12 Jul 2023 10:26:41 +0000",
+         "title" : "English Women's Online Blitz Championship 2023"
+      },
+      {
+         "description" : "South West Nigeria Chess Tournament is a 9 rounds Swiss tournament taking place 12 16 July 2023 in Lagos, Nigeria, under the auspices of Nigerian Chess Federation. Time control is 90 minutes for the whole game plus a 30 seconds increment starting from move 1. The top five rating players are Daniel Anwuli, Abdulrahman []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-west-nigeria-chess-tournament-2023-live/",
+         "pubDate" : "Wed, 12 Jul 2023 10:11:12 +0000",
+         "title" : "South West Nigeria Chess Tournament 2023 - LIVE"
+      },
+      {
+         "description" : "Since moving to the digital world we live in, a few parts of our lives continue to be a cross between tradition and the new, such as photography, newspapers, and most notably: books. There are many who are deeply reluctant to make the switch for reading, keen to bring up aspects of print that are absent in digital. But is it that simple? Enjoy this article and video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-wonderful-world-of-ereading",
+         "pubDate" : "Wed, 12 Jul 2023 11:00:00 +0100",
+         "title" : "The Wonderful World of ereading"
+      },
+      {
+         "description" : "Running alongside the British Chess Championships in Leicester we have a raft of events for players and visitors alike to enjoy, including simuls with GM...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcc2023-chess-festival-events-entry-form/",
+         "pubDate" : "Wed, 12 Jul 2023 09:37:12 +0000",
+         "title" : "BCC2023 Chess Festival events entry form"
+      },
+      {
+         "description" : "South West Nigeria Chess Tournament is a 9 rounds Swiss tournament taking place 12 16 July 2023 in Lagos, Nigeria, under the auspices of Nigerian Chess Federation. Time control is 90 minutes for the whole game plus a 30 seconds increment starting from move 1. The top five rating players are Daniel Anwuli, Abdulrahman []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-west-nigeria-chess-tournament-2023/",
+         "pubDate" : "Wed, 12 Jul 2023 09:15:00 +0000",
+         "title" : "South West Nigeria Chess Tournament 2023"
+      },
+      {
+         "description" : "Shreyas Royal was recently selected for training by the Kasparov Chess Foundation. He was first invited to a preliminary training camp in Vienna, as one...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/shreyas-royal-at-the-kasparov-chess-foundation/",
+         "pubDate" : "Wed, 12 Jul 2023 09:11:00 +0000",
+         "title" : "Shreyas Royal at the Kasparov Chess Foundation"
+      },
+      {
+         "description" : "The&#xA0;Astana Zhuldyzdary 2023 Tournament A&#xA0;is taking place from the 11th of July to the 18th in Astana, Kazakhstan. The A tournament is intended for the players rated 1800 or more, it is the 3rd stage of the Kazakhstan Cup. The total prize fund of the Festival is 40,000,000 Kazakhstani tenge (equal to $90,000). The time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/astana-zhuldyzdary-2023-a-live/",
+         "pubDate" : "Wed, 12 Jul 2023 08:30:00 +0000",
+         "title" : "Astana Zhuldyzdary 2023 A - LIVE"
+      },
+      {
+         "description" : "The&#xA0;Astana Zhuldyzdary 2023 Tournament A&#xA0;is taking place from the 11th of July to the 18th in Astana, Kazakhstan. The A tournament is intended for the players rated 1800 or more, it is the 3rd stage of the Kazakhstan Cup. The total prize fund of the Festival is 40,000,000 Kazakhstani tenge (equal to $90,000). The time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/astana-zhuldyzdary-2023-a/",
+         "pubDate" : "Wed, 12 Jul 2023 08:15:00 +0000",
+         "title" : "Astana Zhuldyzdary 2023 A"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-6-live/",
+         "pubDate" : "Wed, 12 Jul 2023 07:51:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 6 - LIVE"
+      },
+      {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,6 +234,14 @@ news_feed (
          "title" : "Peter Campbell Gibbs 1934-2023"
       },
       {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-5-live/",
+         "pubDate" : "Tue, 11 Jul 2023 09:49:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 5 - LIVE"
+      },
+      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation allows for a deviation from the well known theory. It is considered drawish for White, reason why it is not very popular. Still, it could be used as <a href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\">Need sure points? Gr&u",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -234,22 +330,6 @@ news_feed (
          "title" : "Padmini Rout National Women Champion"
       },
       {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-div-2-winners/",
-         "pubDate" : "Mon, 10 Jul 2023 17:57:00 +0000",
-         "title" : "Aimchess Rapid Div 2 Winners"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-div-2-losers/",
-         "pubDate" : "Mon, 10 Jul 2023 17:05:00 +0000",
-         "title" : "Aimchess Rapid Div 2 Losers"
-      },
-      {
          "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,14 +370,6 @@ news_feed (
          "title" : "2023 NSW Rapid Championship"
       },
       {
-         "description" : "The Turkish Super League 2023 is an 12-team round-robin tournament taking place from 10&#x2013;20 July 2023 in Ankara. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/turkish-super-league-2023-live/",
-         "pubDate" : "Mon, 10 Jul 2023 11:48:00 +0000",
-         "title" : "Turkish Super League 2023 - LIVE"
-      },
-      {
          "description" : "In about a week, on 15 July, the traditional Biel Chess Festival will begin. In a Grandmaster Triathlon eight top players will show their skills in classical, rapid and blitz chess, and this Grandmaster Tournament is embedded in a wide range of open tournaments for all tastes and playing levels. | Photo: Arjun Erigaisi | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -322,30 +394,6 @@ news_feed (
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
       },
       {
-         "description" : "The Turkish Super League 2023 is an 12-team round-robin tournament taking place from 10&#x2013;20 July 2023 in Ankara. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;Chessdom.com will daily follow the live games. All about FIDE Women's World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/turkish-super-league-2023/",
-         "pubDate" : "Mon, 10 Jul 2023 09:43:00 +0000",
-         "title" : "Turkish Super League 2023"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jorden-van-foreest-magnus-carlsen-aimchess-rapid-div-1-winners-live/",
-         "pubDate" : "Mon, 10 Jul 2023 09:00:00 +0000",
-         "title" : "Jorden Van Foreest - Magnus Carlsen, Aimchess Rapid Div 1 Winners - LIVE"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-eduardo-iturrizaga-bonelli-aimchess-rapid-div-1-winners-live/",
-         "pubDate" : "Mon, 10 Jul 2023 08:00:00 +0000",
-         "title" : "Fabiano Caruana - Eduardo Iturrizaga Bonelli, Aimchess Rapid Div 1 Winners - LIVE"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Fabiano Caruana, Nodirbek Abdusattorov, and Levon Aronian move on to the Winners Bracket in Division I of the Champions Chess Tour Aimchess Rapid 2023 after winning their matches on the first day. Carlsen and Caruana beat the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -360,22 +408,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-new-delhi/",
          "pubDate" : "Mon, 10 Jul 2023 07:31:38 +0000",
          "title" : "AICF's Fair Play Orientation Workshop, New Delhi"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-fedoseev-levon-aronian-aimchess-rapid-div-1-winners-live/",
-         "pubDate" : "Mon, 10 Jul 2023 07:20:00 +0000",
-         "title" : "Vladimir Fedoseev - Levon Aronian, Aimchess Rapid Div 1 Winners - LIVE"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-wesleey-so-aimchess-rapid-div-1-winners-live/",
-         "pubDate" : "Mon, 10 Jul 2023 06:40:00 +0000",
-         "title" : "Nodirbek Abdusattorov - Wesleey So, Aimchess Rapid Div 1 Winners - LIVE"
       },
       {
          "description" : "",
@@ -896,14 +928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2500",
          "pubDate" : "Thu, 06 Jul 2023 13:01:39 +0000",
          "title" : "WWC Match 2023: Lei Tingjie takes initiative once again but Ju holds her to a draw "
-      },
-      {
-         "description" : "The Opening Encyclopaedia 2023 impresses with a huge scope and is the largest collection on opening theory with almost 1400 theory articles and 7,444 opening surveys. In 70 videos with a total running time of 29 hours the latest trends are presented by grandmasters. Vojko Mencinger has taken a look at the work, which is available at a special price this week in the Summer Special bundle with ChessBase 17.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-opening-encyclopaedia-2023-a-review",
-         "pubDate" : "Thu, 06 Jul 2023 13:11:06 +0100",
-         "title" : "The Opening Encyclopaedia 2023 - A review"
       },
       {
          "description" : "The ECU E-Magazine June 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The June 2023 edition of the ECU E-Magazine can be read online with interactive links on&#160;the following link, or it can be downloaded in PDF format down below.",
@@ -1712,14 +1736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/increasing-levels-of-jerkitude.html",
          "pubDate" : "Wed, 21 Jun 2023 12:48:00 +0000",
          "title" : "Increasing levels of jerkitude?"
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
-         "pubDate" : "Wed, 21 Jun 2023 02:40:11 -0500",
-         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
       }
    ]
 }
