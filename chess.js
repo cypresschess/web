@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Wed, 12 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 6 - Live!"
+      },
+      {
+         "description" : "GM Simen Agdestein won his first Norwegian Championship as a 15-year-old in 1982. 41 years later, the veteran clinched his ninth title and extended his record as the oldest champion of all time. The 56-year-old emerged victorious in Oslo on Satu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/simen-agdestein-at-56-years-old-wins-9th-norwegian-title",
+         "pubDate" : "Tue, 11 Jul 2023 23:05:35 -0700",
+         "title" : "41 Years After His First Title in Norway Simen Agdestein Wins Again"
+      },
+      {
          "description" : "Magnus Carlsen and Nodirbek Abdusattorov advanced to the final match in the winners' bracket of the Aimchess Rapid online tournament by beating Fabiano Caruana and Levon Aronian respectively. Meanwhile, in the losers' bracket, Wesley So and Eduardo Iturrizaga both won their Tuesday matches in Armageddon. | Photo: Eric Rosen / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-2",
          "pubDate" : "Tue, 11 Jul 2023 15:34:00 -0700",
          "title" : "Carlsen, Abdusattorov Set Up Battle Of Youth Vs. Experience In Winners Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2519",
+         "pubDate" : "Tue, 11 Jul 2023 22:08:34 +0000",
+         "title" : "3rd Intercontinental Online Chess Championship for Prisoners announced"
       },
       {
          "description" : "",
@@ -882,14 +906,6 @@ news_feed (
          "title" : "The Opening Encyclopaedia 2023 - A review"
       },
       {
-         "description" : "For five days, ten of the world's best chess players, including former world champions Magnus Carlsen and Vishy Anand, are playing rapid and blitz chess in Zagreb. The chess stars have been received with great enthusiasm in the Croatian capital. After the first day of rapid chess, living legend Anand has taken the lead. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d1",
-         "pubDate" : "Thu, 06 Jul 2023 12:50:00 +0100",
-         "title" : "SuperUnited Croatia: Formidable Anand grabs the lead"
-      },
-      {
          "description" : "The ECU E-Magazine June 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The June 2023 edition of the ECU E-Magazine can be read online with interactive links on&#160;the following link, or it can be downloaded in PDF format down below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.europechess.org/grand-chess-tour-rapid-blitz-tour-starts-in-zagreb/",
          "pubDate" : "Sun, 02 Jul 2023 14:39:04 +0000",
          "title" : "Grand Chess Tour Rapid & Blitz Tour starts in Zagreb"
-      },
-      {
-         "description" : "On a blockbuster final day of the regular season of the Tech Mahindra Global Chess League 2023, GM Levon Aronian&#39;s Triveni Continental Kings and the GM Maxime Vachier-Lagrave-led UpGrad Mumba Masters stole the two finals spots on offer from the lo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tech-mahindra-global-chess-league-day-10",
-         "pubDate" : "Sat, 01 Jul 2023 18:01:00 -0700",
-         "title" : "Shocking Upsets As Team Aronian, Team Vachier-Lagrave Bag Finals Spots"
       },
       {
          "description" : "",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2471",
          "pubDate" : "Thu, 22 Jun 2023 21:01:39 +0000",
          "title" : "Сhess revolution has started: Global Chess League kicked off with the first two matches"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2470",
-         "pubDate" : "Thu, 22 Jun 2023 18:03:23 +0000",
-         "title" : "National preparations for FIDE World Schools Team Championship go big around the Globe"
       },
       {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
