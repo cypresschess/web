@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the SuperUnited Rapid & Blitz Croatia we saw a true masterpiece by Magnus Carlsen. The former World Champion played super accurate moves, while his Polish opponent showed poor understanding and a lack of knowledge of classical games of the Catalan. Learn more about this opening and the strategy behind it from chess trainer GM Efstratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-masterpiece-by-magnus",
+         "pubDate" : "Thu, 13 Jul 2023 10:00:00 +0100",
+         "title" : "Grivas: Masterpiece by Magnus"
+      },
+      {
          "description" : "Magnus Carlsen advanced to the Grand Final of the Aimchess Rapid online tournament by getting a clear victory over Nodirbek Abdusattorov. In the Grand Final, Carlsen will face the winner of the losers' bracket, where Wesley So and Eduardo Iturrizaga are set to face each other in a fight to get the right to play Abdusattorov. | Photo: Lennart Ootes / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ju-wenjun-s-best-game",
          "pubDate" : "Wed, 12 Jul 2023 21:42:33 +0100",
          "title" : "Svitlana's Smart Moves - Ju Wenjun's best game"
-      },
-      {
-         "description" : "GM Magnus Carlsen defeated GM Nodirbek Abdusattorov to secure his seat in the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. He won the first two games and, despite being down two pawns and dead lost in the third, found a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-3",
-         "pubDate" : "Wed, 12 Jul 2023 13:14:00 -0700",
-         "title" : "Carlsen To Play In Grand Final; Wesley So, Iturrizaga Win With Clean Sweeps In Losers"
       },
       {
          "description" : " The Geza Hetenyi Memorial takes place in Budapest Tue 11th to Wed 19th Jul 2023. Players: Maghsoodloo, Sjugirov, Eljanov, Shevchenko, Praggnanandhaa, Tabatabaei, Wojtaszek, Matlakov, Prohaszka and Adam Kozak.",
@@ -120,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/v-geza-hetenyi-memorial-super-gm-round-robin-tournament-2023/",
          "pubDate" : "Wed, 12 Jul 2023 11:04:46 +0000",
          "title" : "V. Geza Hetenyi Memorial Super GM Round Robin Tournament 2023"
+      },
+      {
+         "description" : "GM Magnus Carlsen defeated GM Nodirbek Abdusattorov to secure his seat in the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. He won the first two games and, despite being down two pawns and dead lost in the third, found a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-3",
+         "pubDate" : "Wed, 12 Jul 2023 04:03:00 -0700",
+         "title" : "Carlsen To Play In Grand Final; Wesley So, Iturrizaga Win With Clean Sweeps In Losers"
       },
       {
          "description" : "The second English Women's Online Blitz Championship will be held during August 2023. The top finishing player will become the English Women's Online Blitz Champion...",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ju-lei-tense-struggle",
          "pubDate" : "Fri, 07 Jul 2023 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Ju and Lei's tense struggle"
-      },
-      {
-         "description" : "The Dutch Championships and the Dutch Women's Championships are played in parallel, but in different modes. The Open is a knockout tournament with mini matches and has reached the semi-finals. In the women's tournament, Eline Roebers (pictured right) was the clear winner and became the new Dutch Women's Champion. Last Wednesday's hurricane also wreaked havoc on the women's championship. | Photos: Harry Gielen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eline-roebers-wins-dutch-women-s-championship",
-         "pubDate" : "Fri, 07 Jul 2023 14:04:48 +0100",
-         "title" : "Eline Roebers wins Dutch Women's Championship"
       },
       {
          "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands, in an event disrupted by a row over a freak &#34;code red&#34; storm that resulted in one player dropping out. Roebers won a double round...",
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
          "pubDate" : "Thu, 22 Jun 2023 07:06:51 -0500",
          "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
-      },
-      {
-         "description" : "At the kind invitation of the Lviv Chess Federation, the ECU Secretary General Theodoros Tsorbatzoglou visited the city of Lviv on Tuesday, June 20. Lviv is one of the most active and productive chess cities in World. More than 40 grandmasters were born in Lviv or lived there for several years. Among them Chess legends like Vasily Ivanchuk, Alexander Beliavsky, Adrian Mikhalchishin, women's world champions and top players like GMs Mariya and Anna Muzychuk. After his arrival in Lviv, Mr. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-visits-ukraine/",
-         "pubDate" : "Thu, 22 Jun 2023 10:17:44 +0000",
-         "title" : "ECU visits #Ukraine"
       }
    ]
 }
