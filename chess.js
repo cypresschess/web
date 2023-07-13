@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
+         "pubDate" : "Thu, 13 Jul 2023 16:50:00 +0100",
+         "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : "India won 15 individual medals which include 3 Gold, 7 Silver and 5 Bronze in the recently concluded Western Asian Chess Championship at Issykkul, Kyrgyzstan.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/15-individual-medals-for-india-in-western-asian-chess-championships-2023/",
+         "pubDate" : "Thu, 13 Jul 2023 15:04:05 +0000",
+         "title" : "15 Individual medals for India in Western Asian Chess Championships-2023"
+      },
+      {
+         "description" : "You can now play chess against the star player of the U.S. national soccer team, Christian Pulisic. A fast and creative player on the field, Pulisic is ready to show you what he&#39;s got over the board! Head to our Play Computer page to challenge the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/christian-pulisic-bot",
+         "pubDate" : "Thu, 13 Jul 2023 05:12:40 -0700",
+         "title" : "Play Chess Against Soccer Star Christian Pulisic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2521",
+         "pubDate" : "Thu, 13 Jul 2023 12:08:41 +0000",
+         "title" : "Infinite Chess Project: 3rd stage of ends with a Zoom meeting"
+      },
+      {
          "description" : "In the SuperUnited Rapid & Blitz Croatia we saw a true masterpiece by Magnus Carlsen. The former World Champion played super accurate moves, while his Polish opponent showed poor understanding and a lack of knowledge of classical games of the Catalan. Learn more about this opening and the strategy behind it from chess trainer GM Efstratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,20 +82,28 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Ju Wenjun's best game"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2519",
+         "pubDate" : "Wed, 12 Jul 2023 19:55:34 +0000",
+         "title" : "3rd Intercontinental Online Chess Championship for Prisoners announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2517",
+         "pubDate" : "Wed, 12 Jul 2023 18:30:56 +0000",
+         "title" : "Promoting Africa: CIE Awareness Campaign launched in Zimbabwe and Nigeria"
+      },
+      {
          "description" : " The Geza Hetenyi Memorial takes place in Budapest Tue 11th to Wed 19th Jul 2023. Players: Maghsoodloo, Sjugirov, Eljanov, Shevchenko, Praggnanandhaa, Tabatabaei, Wojtaszek, Matlakov, Prohaszka and Adam Kozak.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/geza-hetenyi-memorial-2023",
          "pubDate" : "Wed, 12 Jul 2023 22:13:00 +0400",
          "title" : "Geza Hetenyi Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : "Lukasz Nowak&#39;s movement off the board may be restricted, but on the chessboard, he can move better than most people. Last month the remarkable 25-year-old fulfilled all requirements for the IM title. Just months after his birth, FM Lukasz Nowak ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lukasz-nowak-earns-im-title-overcomes-spinal-disease",
-         "pubDate" : "Wed, 12 Jul 2023 10:46:00 -0700",
-         "title" : "Lukasz Nowak Earns IM Title, Overcomes Spinal Disease"
       },
       {
          "description" : "You&#39;ve been watching as GM Magnus Carlsen won the Airthings Masters to kick off the 2023 Champions Chess Tour (CCT). You&#39;ve kept following to see GM Hikaru Nakamura take down the Chessable Masters. Then GM Nodirbek Abdusattorov won the ChessKid Cu...",
@@ -80,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-july-11-2023",
          "pubDate" : "Wed, 12 Jul 2023 07:29:52 -0700",
          "title" : "Nakamura Nearly Perfect, Wins Early; Carlsen Wins Late"
+      },
+      {
+         "description" : "Lukasz Nowak&#39;s movement off the board may be restricted, but on the chessboard, he can move better than most people. Last month the remarkable 25-year-old fulfilled all requirements for the IM title. Just months after his birth, FM Lukasz Nowak ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lukasz-nowak-earns-im-title-overcomes-spinal-disease",
+         "pubDate" : "Wed, 12 Jul 2023 07:12:00 -0700",
+         "title" : "Lukasz Nowak Earns IM Title, Overcomes Spinal Disease"
       },
       {
          "description" : "GM Lei Tingjie made an effortless draw with the black pieces against GM Ju Wenjun in game six of the 2023 FIDE Women&#39;s World Championship to lead 3.5-2.5 at the midway point. The players now move from Shanghai to another Chinese mega-city, Lei&#39;s b...",
@@ -154,6 +202,14 @@ news_feed (
          "title" : "The Wonderful World of ereading"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2518",
+         "pubDate" : "Wed, 12 Jul 2023 09:53:45 +0000",
+         "title" : "FIDE World Championships 2024 call for bids: Two days to deadline "
+      },
+      {
          "description" : "Running alongside the British Chess Championships in Leicester we have a raft of events for players and visitors alike to enjoy, including simuls with GM...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -224,30 +280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-2",
          "pubDate" : "Tue, 11 Jul 2023 15:34:00 -0700",
          "title" : "Carlsen, Abdusattorov Set Up Battle Of Youth Vs. Experience In Winners Final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2519",
-         "pubDate" : "Tue, 11 Jul 2023 22:08:34 +0000",
-         "title" : "3rd Intercontinental Online Chess Championship for Prisoners announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2518",
-         "pubDate" : "Tue, 11 Jul 2023 20:53:45 +0000",
-         "title" : "FIDE World Championships 2024 call for bids: Two days to deadline "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2517",
-         "pubDate" : "Tue, 11 Jul 2023 20:30:56 +0000",
-         "title" : "Promoting Africa: CIE Awareness Campaign launched in Zimbabwe and Nigeria"
       },
       {
          "description" : "He&#39;s a chess icon normally known for his fast play, not his fast food. But that could be about to change as GM Viswanathan Anand appears in a commercial for the restaurant giant Subway. Fresh from appearing in the inaugural Global Chess League, ...",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "Brewington Hardaway gets 3rd/Final IM norm!"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King looks at the first game from the Women's World Championship match between Ju Wenjun and Lei Tingjie. It was a tense struggle, with a number of instructive positions to learn from! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ju-lei-tense-struggle",
-         "pubDate" : "Fri, 07 Jul 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Ju and Lei's tense struggle"
-      },
-      {
          "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands, in an event disrupted by a row over a freak &#34;code red&#34; storm that resulted in one player dropping out. Roebers won a double round...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-3rd-im-norm",
          "pubDate" : "Wed, 05 Jul 2023 14:06:00 -0700",
          "title" : "Brewington Hardaway Earns Last IM Norm, 10 Points Away From Title"
-      },
-      {
-         "description" : "GM Magnus Carlsen became only the second player, and first in nearly two years, to score a perfect 11/11 in Titled Tuesday, achieving the feat in the late tournament on July 4, 2023. He won the event by two full points&#38;mdash;a half-point better th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023",
-         "pubDate" : "Wed, 05 Jul 2023 08:44:00 -0700",
-         "title" : "Carlsen's Perfect 11/11 Tournament Matches Historic Record"
       },
       {
          "description" : "",
@@ -1658,14 +1674,6 @@ news_feed (
          "title" : "Udaipur SNA Certificates"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2467",
-         "pubDate" : "Sat, 24 Jun 2023 09:12:04 +0000",
-         "title" : "FIDE World Cup 2023: Official website is launched"
-      },
-      {
          "description" : "During his recent visit to the USA to cement relations with President Joe Biden, the Prime Minister, Rishi Sunak, was visibly impressed by the chess club in a Washington school. Pupils were not only actively involved in playing the game, but were also printing 3D sets in rather fetching blue and white livery. Sunak praised []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1696,22 +1704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-viswanathan-anand-yifan-power-ganges-grandmasters-to-huge-victory/articleshow/101214191.cms",
          "pubDate" : "Fri, 23 Jun 2023 09:04:55 +0000",
          "title" : "Global Chess League: Anand, Yifan power Ganges to huge victory"
-      },
-      {
-         "description" : "Online Senior National Arbiter Seminar Certificates, 26-27 May 2023 Link : https://aicf.online/SNA-online.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-online-sna/",
-         "pubDate" : "Fri, 23 Jun 2023 06:49:18 +0000",
-         "title" : "Certificates of Online SNA"
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
-         "pubDate" : "Thu, 22 Jun 2023 07:06:51 -0500",
-         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
       }
    ]
 }
