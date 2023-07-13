@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/christian-pulisic-bot",
-         "pubDate" : "Thu, 13 Jul 2023 05:12:40 -0700",
+         "pubDate" : "Thu, 13 Jul 2023 05:12:00 -0700",
          "title" : "Play Chess Against Soccer Star Christian Pulisic"
       },
       {
