@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show Robert Ris takes a look at a line of the Italian Four Knights (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3?!), which Nodirbek Abdusattorov used to win a fine game against Levon Aronian at the Aimchess Online Tournament. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventurous-abdusattorov",
+         "pubDate" : "Thu, 13 Jul 2023 20:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Adventurous Abdusattorov"
+      },
+      {
          "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
          "pubDate" : "Thu, 13 Jul 2023 16:50:00 +0100",
          "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2522",
+         "pubDate" : "Thu, 13 Jul 2023 15:41:57 +0000",
+         "title" : "Winners crowned at International Schools Chess Festival, Ploiești, Romania"
       },
       {
          "description" : "India won 15 individual medals which include 3 Gold, 7 Silver and 5 Bronze in the recently concluded Western Asian Chess Championship at Issykkul, Kyrgyzstan.",
@@ -858,14 +874,6 @@ news_feed (
          "title" : "Stray Bishop"
       },
       {
-         "description" : "Ian Nepomniachtchi and Fabiano Caruana are tied in first place after nine rounds of rapid chess at the Grand Chess Tour in Zagreb. Former co-leader Vishy Anand failed to keep up with his colleagues, as he was defeated by Dommaraju Gukesh in their first-ever official confrontation. With 18 rounds of blitz to go, the one player standing a single point behind the leaders is Magnus Carlsen, who impressed on Friday by ending the rapid section with two consecutive, remarkable wins. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d3",
-         "pubDate" : "Sat, 08 Jul 2023 08:55:00 +0100",
-         "title" : "SuperUnited Croatia: Carlsen finds stunning move, climbs in the standings"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101590560.cms\" />In a remarkable turn of events at the 2023 SuperUnited Rapid and Blitz tournament, young Indian Grandmaster D Gukesh achieved a memorable victory over his esteemed compatriot and idol, Viswanathan Anand, in the eighth round of the Rapid event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-ganges-grandmasters-maintain-dominance/articleshow/101245291.cms",
          "pubDate" : "Sat, 24 Jun 2023 16:44:46 +0000",
          "title" : "Global Chess League: Ganges Grandmasters maintain dominance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2473",
-         "pubDate" : "Sat, 24 Jun 2023 14:17:35 +0000",
-         "title" : "European Solving Championship: Polish solvers regain titles, Lithuanians keep rising"
       },
       {
          "description" : "We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question []",
