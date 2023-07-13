@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen advanced to the Grand Final of the Aimchess Rapid online tournament by getting a clear victory over Nodirbek Abdusattorov. In the Grand Final, Carlsen will face the winner of the losers' bracket, where Wesley So and Eduardo Iturrizaga are set to face each other in a fight to get the right to play Abdusattorov. | Photo: Lennart Ootes / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d3-2",
+         "pubDate" : "Thu, 13 Jul 2023 08:15:00 +0100",
+         "title" : "Aimchess Rapid: Carlsen in Grand Final, Iturrizaga knocks out Aronian"
+      },
+      {
+         "description" : "Leonid (Zvulon) Gofshtein was a Grandmaster and a strong player, who played an important role for chess in Israel. He was born 21 April 1953 in Kiev, Ukraine, but later moved to Israel, where he died from cancer on 25 December 2015. To remember and to honour Gofshtein, the Bat-Yam Chess Club organised a strong tournament, which was won by Evgeny Postny.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-leonid-zvulon-gofshtein",
+         "pubDate" : "Thu, 13 Jul 2023 08:00:00 +0100",
+         "title" : "Remembering Leonid (Zvulon) Gofshtein"
+      },
+      {
          "description" : "After losing game 5, Ju Wenjun took no risks in the last encounter of the Women's World Chess Championship played in Shanghai. Ju's approach with white led to a quiet endgame after an early exchange of queens. The game ended in a draw on move 48. The World Championship now moves to Chongquin, where it will resume on Saturday. | Photos: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lukasz-nowak-earns-im-title-overcomes-spinal-disease",
          "pubDate" : "Wed, 12 Jul 2023 10:46:00 -0700",
          "title" : "Lukasz Nowak Earns IM Title, Overcomes Spinal Disease"
-      },
-      {
-         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
-         "pubDate" : "Wed, 12 Jul 2023 16:50:00 +0100",
-         "title" : "Aimchess Rapid - Live!"
       },
       {
          "description" : "You&#39;ve been watching as GM Magnus Carlsen won the Airthings Masters to kick off the 2023 Champions Chess Tour (CCT). You&#39;ve kept following to see GM Hikaru Nakamura take down the Chessable Masters. Then GM Nodirbek Abdusattorov won the ChessKid Cu...",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-6-live/",
          "pubDate" : "Wed, 12 Jul 2023 07:51:00 +0000",
          "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 6 - LIVE"
-      },
-      {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Wed, 12 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 6 - Live!"
       },
       {
          "description" : "GM Simen Agdestein won his first Norwegian Championship as a 15-year-old in 1982. 41 years later, the veteran clinched his ninth title and extended his record as the oldest champion of all time. The 56-year-old emerged victorious in Oslo on Satu...",
@@ -1720,14 +1720,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-visits-ukraine/",
          "pubDate" : "Thu, 22 Jun 2023 10:17:44 +0000",
          "title" : "ECU visits #Ukraine"
-      },
-      {
-         "description" : "\"I am thrilled to share some exciting news with you,\" wrote us ChessBase sysop Angom Nongsha, who had just won the title. Not in chess, but in a related field. \"I have emerged victorious in both the Asian Chessboxing Championship and the Chessboxing World Cup 2023!\" he wrote. This sport has a long tradition (we have links to many reports). In this article Nongsha describes his success in the most recent events, in his own words.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/staff-member-wins-world-cup",
-         "pubDate" : "Thu, 22 Jun 2023 08:00:00 +0100",
-         "title" : "Staff member wins World Cup"
       }
    ]
 }
