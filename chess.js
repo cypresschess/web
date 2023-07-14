@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After scoring 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday and 9/9 in the Zagreb Grand Tour blitz, he now contends in the Aimchess Masters Magnus Carlsen's decision to abdicate the world crown he had held for a decade is looking like an inspired choice as the Norwegian, 32, has hit a rich vein of form in the past two weeks. Maximum tournament scores are rare, but Carlsen achieved 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday, only the second time this has been done <a href=\"https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023\">in the notoriously competitive event</a>, then a few days later notched up 9/9 against stronger",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jul/14/magnus-carlsen-hits-two-maximums-as-carefree-world-no-1-continues-his-surge",
+         "pubDate" : "Fri, 14 Jul 2023 07:00:04 +0000",
+         "title" : "Magnus Carlsen hits two maximums as carefree world No 1 continues his surge"
+      },
+      {
+         "description" : "Caiob&aacute; is a beach near the city of Matinhos, in the state of Paran&aacute;, in the south of Brazil. Matinhos has been the site of many important tournaments, most notably the 1994 U20 World Championship. In recent years, however, Caiob&aacute; has become better known among chess players due to the SESC Caiob&aacute; Chess Open, an important tournament in the Brazilian chess calendar since 2015, only missing in 2020/21 due to the covid pandemic. This year's edition was a great chess party, and the organisers promise that 2024 will be even better.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nice-weather-a-quiet-beach-and-exciting-chess-battles-in-brazil",
+         "pubDate" : "Fri, 14 Jul 2023 07:00:00 +0100",
+         "title" : "Nice weather, a quiet beach and exciting chess battles in Brazil"
+      },
+      {
          "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-magnus-winning-against-and-with-the-dragon",
          "pubDate" : "Sat, 08 Jul 2023 12:00:00 +0100",
          "title" : "The Monthly Dragon - Magnus winning against, and with the Dragon"
-      },
-      {
-         "description" : "From the diagram position, Black wins by force, with White's uncovered Bb7 giving him the decisive impulse. Eight moves later, by the way, bishop takes bishop - happy collecting!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stray-bishop",
-         "pubDate" : "Sat, 08 Jul 2023 09:00:00 +0100",
-         "title" : "Stray Bishop"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101590560.cms\" />In a remarkable turn of events at the 2023 SuperUnited Rapid and Blitz tournament, young Indian Grandmaster D Gukesh achieved a memorable victory over his esteemed compatriot and idol, Viswanathan Anand, in the eighth round of the Rapid event.",
