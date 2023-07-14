@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This is a flash report. The full report is coming soon. GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to win the Champions Chess Tour Aimchess Rapid 2023. Carlsen started the match with a dominating 2-0 score. Though So m...",
+         "description" : "The 2023 World Chess Software Championship was just held in Valencia, Spain, and impressively Fritz defended its title by winning it a second year straight. This event saw a very high number of draws, which might lead you to think it was a dull affair, but as you will see in one of them, it was a guns ablazing fight in OK Corral with two rook sacrifices spaced four moves apart no less!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-wins-2023-world-chess-software-championship",
+         "pubDate" : "Fri, 14 Jul 2023 22:00:00 +0100",
+         "title" : "Fritz wins 2023 World Chess Software Championship"
+      },
+      {
+         "description" : "The 2023 European Senior Team Chess Championship kicked off this Wednesday in the city of Swidnica, Poland. The event is played in two age categories 50+ and 65+, with separate prizes for Women's teams. The 50+ championship is played as a 9-round round-robin tournament, and the 65+ tournament is played according to the swiss system. A total of 28 teams from 13 European federations compete in the Championship, represented by 80 players. The Opening ceremony of the event took place []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-started-in-swidnica-poland/",
+         "pubDate" : "Fri, 14 Jul 2023 20:38:27 +0000",
+         "title" : "European Senior Team Chess Championship 2023 started in Swidnica, Poland"
+      },
+      {
+         "description" : "The Hungarian Amateur Championship 2023 is taking place from 14&#x2013;19 July 2023 in Budapest, Hungary. Players receive 60 minutes for the entire game, plus a 0,03-second increment starting from move one. It is a 9-round Swiss tournament with participation of Peter Polyik, Adam Szeberenyi, Agoston Juhasz, Tibor Bodi, Attila Jakab, Tibor Leviczky, Gabor Kun, Gellert []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hungarian-amateur-championship-2023-live/",
+         "pubDate" : "Fri, 14 Jul 2023 20:15:00 +0000",
+         "title" : "Hungarian Amateur Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Hungarian Amateur Championship 2023 is taking place from 14&#x2013;19 July 2023 in Budapest, Hungary. Players receive 60 minutes for the entire game, plus a 0,03-second increment starting from move one. It is a 9-round Swiss tournament with participation of Peter Polyik, Adam Szeberenyi, Agoston Juhasz, Tibor Bodi, Attila Jakab, Tibor Leviczky, Gabor Kun, Gellert []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hungarian-amateur-championship-2023/",
+         "pubDate" : "Fri, 14 Jul 2023 19:56:19 +0000",
+         "title" : "Hungarian Amateur Championship 2023"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-7-live/",
+         "pubDate" : "Fri, 14 Jul 2023 19:45:16 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 7 - LIVE"
+      },
+      {
+         "description" : "GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to clinch the Champions Chess Tour Aimchess Rapid 2023. After a 2-0 start by Carlsen, So made a stunning comeback by winning on demand with Black. In game four, Carlsen combined...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-5",
-         "pubDate" : "Fri, 14 Jul 2023 12:19:27 -0700",
-         "title" : "Flash Report: Carlsen Prevails vs. So, Wins Aimchess Rapid"
+         "pubDate" : "Fri, 14 Jul 2023 12:19:00 -0700",
+         "title" : "Carlsen Prevails vs. So, Winning Streak Grows With Aimchess Rapid"
       },
       {
          "description" : "In today's episode, Honorata shows us one of the most spectacular positional exchange sacrifices, played by Tigran Petrosian. In this famous game against Samuel Reshevsky, \"Iron Tigran\" made a slight mistake in the middlegame, and White's bishop pair was about to cause havoc. But Petrosian found a spectacular move, which most of you probably know already.",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/petrosian-s-stunning-sacrifice-honorata-s-harmony",
          "pubDate" : "Fri, 14 Jul 2023 20:00:00 +0100",
          "title" : "Petrosian's stunning sacrifice - Honorata's Harmony"
+      },
+      {
+         "description" : "The 56th Biel Chess Festival, one of the most traditional and beautiful chess tournaments, begins next Saturday, 15 July 2023. In his review, Eduard Frey presents ten surprising and interesting facts about the history of the tournament. | Photo courtesy of the organiser: Playing Hall, Congress Centre Biel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ten-trivia-about-the-biel-international-chess-festival",
+         "pubDate" : "Fri, 14 Jul 2023 18:35:00 +0100",
+         "title" : "Ten Trivia about the Biel International Chess Festival"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King uses a positional victory by Lei Tingjie in the Women's World Championship as the starting point to explore essential strategic masterpieces from the past. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -80,14 +128,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junioropen-girls-chess-championship-2023-from-07-16-september-2023-at-jamshedpur-jharkhand/",
          "pubDate" : "Fri, 14 Jul 2023 11:16:23 +0000",
          "title" : "Asian Junior(Open & Girls) Chess Championship 2023 from 07-16 September 2023 at Jamshedpur Jharkhand"
-      },
-      {
-         "description" : "The 56th Biel Chess Festival, one of the most traditional and beautiful chess tournaments, begins next Saturday, 15 July 2023. In his review, Eduard Frey presents ten surprising and interesting facts about the history of the tournament. | Photo courtesy of the organiser: Playing Hall, Congress Centre Biel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ten-trivia-about-the-biel-international-chess-festival",
-         "pubDate" : "Fri, 14 Jul 2023 12:00:00 +0100",
-         "title" : "Ten Trivia about the Biel International Chess Festival"
       },
       {
          "description" : "The Association of Chess Professionals is a non-profit organisation that was founded in 2003 to protect the rights of professional chess players. In the course of its existence the ACP managed to push through many important changes in the FIDE regulations, raising the prize funds and improving the financial conditions of the professional chess players. It also organised numerous tournaments. Now, after two decades, the ACP General Assembly has decided to dissolve the organisation. Here are all the details, in their press release.",
@@ -530,14 +570,6 @@ news_feed (
          "title" : "Peter Campbell Gibbs 1934-2023"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-5-live/",
-         "pubDate" : "Tue, 11 Jul 2023 09:49:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 5 - LIVE"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation allows for a deviation from the well known theory. It is considered drawish for White, reason why it is not very popular. Still, it could be used as <a href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\">Need sure points? Gr&u",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -592,22 +624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2513",
          "pubDate" : "Mon, 10 Jul 2023 21:26:23 +0000",
          "title" : "Anish Giri and Eline Roebers win 2023 Dutch Championship"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-div-3-winners/",
-         "pubDate" : "Mon, 10 Jul 2023 20:18:43 +0000",
-         "title" : "Aimchess Rapid Div 3 Winners"
-      },
-      {
-         "description" : "The Aimchess Rapid, the 4th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-div-1-losers/",
-         "pubDate" : "Mon, 10 Jul 2023 19:54:38 +0000",
-         "title" : "Aimchess Rapid Div 1 Losers"
       },
       {
          "description" : "",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-2",
          "pubDate" : "Sun, 09 Jul 2023 07:41:34 -0700",
          "title" : "Nakamura Breaks Bullet Brawl Record With 75 Wins"
-      },
-      {
-         "description" : "In the current ChessBase Magazine #214 you'll find three opening videos with a total playing time of over an hour. Ivan Sokolov presents Gukesh's novelty and pawn sacrifice 9.Qc2 in the Catalan from the Menorca Open 2023 - \"excellent preparation by Gukesh!\" Sipke Ernst examines the novelty 8.h4 in the Ragozin Variation of the Queen's Gambit, which was discussed in the duel between his compatriots Van Foreest and Giri at the Tata Steel Tournament 2023. And Mihail Marin takes up the line 1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.Be2 Nc6 5.0-0, which came up on the board in the 12th game of the World Championship match between Ding Liren and Ian Nepomniachtchi, among others. You can watch an excerpt from Iva",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/compliment-to-gukesh",
-         "pubDate" : "Sun, 09 Jul 2023 15:00:00 +0100",
-         "title" : "\"Compliment to Gukesh!\""
       },
       {
          "description" : "",
