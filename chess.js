@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. The full report is coming soon. GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to win the Champions Chess Tour Aimchess Rapid 2023. Carlsen started the match with a dominating 2-0 score. Though So m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-5",
+         "pubDate" : "Fri, 14 Jul 2023 12:19:27 -0700",
+         "title" : "Flash Report: Carlsen Prevails vs. So, Wins Aimchess Rapid"
+      },
+      {
+         "description" : "In today's episode, Honorata shows us one of the most spectacular positional exchange sacrifices, played by Tigran Petrosian. In this famous game against Samuel Reshevsky, \"Iron Tigran\" made a slight mistake in the middlegame, and White's bishop pair was about to cause havoc. But Petrosian found a spectacular move, which most of you probably know already.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/petrosian-s-stunning-sacrifice-honorata-s-harmony",
+         "pubDate" : "Fri, 14 Jul 2023 20:00:00 +0100",
+         "title" : "Petrosian's stunning sacrifice - Honorata's Harmony"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King uses a positional victory by Lei Tingjie in the Women's World Championship as the starting point to explore essential strategic masterpieces from the past. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-positional-classics",
+         "pubDate" : "Fri, 14 Jul 2023 18:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: Essential positional classics"
+      },
+      {
          "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen and Wesley So reached the event's Grand Final. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-eight/",
          "pubDate" : "Fri, 14 Jul 2023 15:26:58 +0000",
          "title" : "A Foundation for Beginners Ninety Eight"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2525",
+         "pubDate" : "Fri, 14 Jul 2023 15:11:51 +0000",
+         "title" : "FIDE World Schools Team Championship: Meet the teams"
       },
       {
          "description" : "Usually regarded as a separate phase of the game, the endgame bears a tight connection with the middlegame (and in some extreme cases, with the opening). The process of simplifying to an endgame implies a series of subtleties and principles, highlighted on this video course. Ignoring them, could result into losing the middlegame advantage or getting the worst of it. How, when and which piece to exchange are the main questions requiring an accurate answer.",
@@ -778,28 +810,12 @@ news_feed (
          "title" : "\"Compliment to Gukesh!\""
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 133rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to talk about the skills and the legacy of Emanuel Lasker. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 09 Jul 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 133: Chess history in a nutshell (15)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2509",
          "pubDate" : "Sun, 09 Jul 2023 13:48:25 +0000",
          "title" : "WWC Match 2023: Lei's opening surprise meets Ju's endgame resurgence"
-      },
-      {
-         "description" : "The final day of action at the SuperUnited Rapid & Blitz tournament sees a host of strong players trying to keep up with Magnus Carlsen, who leads the standings after scoring a perfect 9/9 on Saturday. Follow the games live and with commentary from the Saint Louis Chess Center. | Rounds start at 15:00, 16:30 and 18:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-rapid-blitz-croatia-live",
-         "pubDate" : "Sun, 09 Jul 2023 14:45:00 +0100",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101613240.cms\" />India will send a formidable 10-member chess contingent to the upcoming Asian Games in Hangzhou in a bid to showcase their chess prowess on the international stage. Led by double Asian Games gold medallist Koneru Humpy and bronze medallist Dronavalli Harika, the Indian team is determined to make their mark in the continental games, scheduled to commence on September 23.",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-2",
          "pubDate" : "Thu, 06 Jul 2023 15:14:00 -0700",
          "title" : "Revenge of Nepomniachtchi: 3-0 Streak, Leads With Anand, Caruana"
-      },
-      {
-         "description" : "GM Jose Martinez and IM Emin Ohanyan won the Qualifier 1 Winners and Losers brackets, respectively, to qualify for the&#38;nbsp;2023 Bullet Chess Championship main event, which begins on July 17. In the Winners Bracket, Martinez won a one-sided matc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-martinez-ohanyan-win-bcc-qualifier-1",
-         "pubDate" : "Thu, 06 Jul 2023 13:22:00 -0700",
-         "title" : "Martinez, Ohanyan Qualify For Bullet Chess Championship Main Event"
       },
       {
          "description" : "",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-taught-me-to-stay-patient-with-my-cricket-says-yuzvendra-chahal/articleshow/101280759.cms",
          "pubDate" : "Mon, 26 Jun 2023 11:03:04 +0000",
          "title" : "Chess has taught me to stay patient with my cricket: Chahal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2476",
-         "pubDate" : "Mon, 26 Jun 2023 09:05:32 +0000",
-         "title" : "World Schools Team Championship 2023 in Aktau, Kazakhstan: Registration is open"
       },
       {
          "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
