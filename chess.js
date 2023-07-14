@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact organizer directly. Payment mode: 1.Online:https://prs.aicf.in/pay",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junioropen-girls-chess-championship-2023-from-07-16-september-2023-at-jamshedpur-jharkhand/",
+         "pubDate" : "Fri, 14 Jul 2023 11:16:23 +0000",
+         "title" : "Asian Junior(Open & Girls) Chess Championship 2023 from 07-16 September 2023 at Jamshedpur Jharkhand"
+      },
+      {
+         "description" : "The 56th Biel Chess Festival, one of the most traditional and beautiful chess tournaments, begins next Saturday, 15 July 2023. In his review, Eduard Frey presents ten surprising and interesting facts about the history of the tournament. | Photo courtesy of the organiser: Playing Hall, Congress Centre Biel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ten-trivia-about-the-biel-international-chess-festival",
+         "pubDate" : "Fri, 14 Jul 2023 12:00:00 +0100",
+         "title" : "Ten Trivia about the Biel International Chess Festival"
+      },
+      {
+         "description" : "The Association of Chess Professionals is a non-profit organisation that was founded in 2003 to protect the rights of professional chess players. In the course of its existence the ACP managed to push through many important changes in the FIDE regulations, raising the prize funds and improving the financial conditions of the professional chess players. It also organised numerous tournaments. Now, after two decades, the ACP General Assembly has decided to dissolve the organisation. Here are all the details, in their press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dissolution-of-the-acp",
+         "pubDate" : "Fri, 14 Jul 2023 11:00:00 +0100",
+         "title" : "Dissolution of the ACP"
+      },
+      {
+         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
+         "pubDate" : "Fri, 14 Jul 2023 01:24:00 -0700",
+         "title" : "So Advances To Challenge Carlsen"
+      },
+      {
          "description" : " After scoring 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday and 9/9 in the Zagreb Grand Tour blitz, he now contends in the Aimchess Masters Magnus Carlsen's decision to abdicate the world crown he had held for a decade is looking like an inspired choice as the Norwegian, 32, has hit a rich vein of form in the past two weeks. Maximum tournament scores are rare, but Carlsen achieved 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday, only the second time this has been done <a href=\"https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023\">in the notoriously competitive event</a>, then a few days later notched up 9/9 against stronger",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nice-weather-a-quiet-beach-and-exciting-chess-battles-in-brazil",
          "pubDate" : "Fri, 14 Jul 2023 07:00:00 +0100",
          "title" : "Nice weather, a quiet beach and exciting chess battles in Brazil"
-      },
-      {
-         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
-         "pubDate" : "Thu, 13 Jul 2023 18:31:00 -0700",
-         "title" : "So Advances To Challenge Carlsen"
       },
       {
          "description" : "Torch is a brand-new chess engine built from the ground up by top chess engine developers. The team is composed of: Andrew Grant (Ethereal), Finn Eggers &#38;amp; Kim K&#38;aring;hre (Koivisto), Jay Honnold (Berserk), and Michael Whiteley &#38;amp; Dietrich K...",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "Carlsen Towers Above Rivals With Perfect Score"
       },
       {
-         "description" : "In the third game of the FIDE Women's World Championship on Saturday, defending champion Ju Wenjun, playing black, briefly got an edge, but it quickly evaporated. Challenger Lei Tingjie was able to regain a balanced position in which the draw could no longer be averted. All three games have ended drawn so far in Shanghai. The fourth game will take place on Sunday. | Photos: David Llada and Stev Bonhage (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-3",
-         "pubDate" : "Sat, 08 Jul 2023 23:50:00 +0100",
-         "title" : "Women's World Championship: Ju misses chance in game 3"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Constantin Lupulescu talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lupulescu-i-want-play-my-best-chess-top-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ceLiJI2UAio.jpg?itok=B0pvsEaR\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-seven/",
          "pubDate" : "Sat, 08 Jul 2023 11:02:16 +0000",
          "title" : "A Foundation for Beginners Ninety Seven"
-      },
-      {
-         "description" : "Magnus Carlsen likes to play with, and against the Dragon. Chris Ward found two recent games of the Norwegian GM, and shows us which variation the former World Champion chose to defeat the Sicilian, and how to counter the variation better. Furthermore, we dive into the win of Magnus, and what mistakes his strong opponent made. Remember, all the variations are available on Ward's Fritztrainers! | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-magnus-winning-against-and-with-the-dragon",
-         "pubDate" : "Sat, 08 Jul 2023 12:00:00 +0100",
-         "title" : "The Monthly Dragon - Magnus winning against, and with the Dragon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101590560.cms\" />In a remarkable turn of events at the 2023 SuperUnited Rapid and Blitz tournament, young Indian Grandmaster D Gukesh achieved a memorable victory over his esteemed compatriot and idol, Viswanathan Anand, in the eighth round of the Rapid event.",
@@ -1674,14 +1682,6 @@ news_feed (
          "title" : "Grandmaster Tips To Perform When You Are Not Feeling Great"
       },
       {
-         "description" : "Senior National Arbiter Udaipur, Rajasthan Certificates Download Link : Click Here!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/udaipur-sna-certificates/",
-         "pubDate" : "Sat, 24 Jun 2023 09:43:48 +0000",
-         "title" : "Udaipur SNA Certificates"
-      },
-      {
          "description" : "During his recent visit to the USA to cement relations with President Joe Biden, the Prime Minister, Rishi Sunak, was visibly impressed by the chess club in a Washington school. Pupils were not only actively involved in playing the game, but were also printing 3D sets in rather fetching blue and white livery. Sunak praised []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/summer-in-prague.html",
          "pubDate" : "Fri, 23 Jun 2023 13:06:00 +0000",
          "title" : "Summer in Prague"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101214191.cms\" />Former world champions Viswananthan Anand and Hou Yifan notched big victories to help Ganges Grandmasters begin the inaugural Global Chess League on a winning note.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-viswanathan-anand-yifan-power-ganges-grandmasters-to-huge-victory/articleshow/101214191.cms",
-         "pubDate" : "Fri, 23 Jun 2023 09:04:55 +0000",
-         "title" : "Global Chess League: Anand, Yifan power Ganges to huge victory"
       }
    ]
 }
