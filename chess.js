@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen and Wesley So reached the event's Grand Final. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
+         "pubDate" : "Fri, 14 Jul 2023 16:50:00 +0100",
+         "title" : "Aimchess Rapid - Live!"
+      },
+      {
+         "description" : " Last week, we talked about a few ideas to keep in mind while beginning your studies of the endgame. This week, we'll start delving deeper into one of those ideas, pawn structure. If you're wondering just how important pawns and pawn structure are in chess, do an online search of books written about pawns and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\">A Foundation for Beginners Ninety Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-eight/",
+         "pubDate" : "Fri, 14 Jul 2023 15:26:58 +0000",
+         "title" : "A Foundation for Beginners Ninety Eight"
+      },
+      {
+         "description" : "Usually regarded as a separate phase of the game, the endgame bears a tight connection with the middlegame (and in some extreme cases, with the opening). The process of simplifying to an endgame implies a series of subtleties and principles, highlighted on this video course. Ignoring them, could result into losing the middlegame advantage or getting the worst of it. How, when and which piece to exchange are the main questions requiring an accurate answer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mihail-marin-power-strategy-3-from-the-middlegame-to-the-endgame",
+         "pubDate" : "Fri, 14 Jul 2023 16:00:00 +0100",
+         "title" : "Mihail Marin: Power Strategy 3 - From the middlegame to the endgame"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2524",
+         "pubDate" : "Fri, 14 Jul 2023 12:37:52 +0000",
+         "title" : "Queens' Festival 2023 enters final phase"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2523",
+         "pubDate" : "Fri, 14 Jul 2023 11:27:53 +0000",
+         "title" : "Shawn Rodrigue-Lemieux is the new champion of La Francophonie 2023 "
+      },
+      {
          "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact organizer directly. Payment mode: 1.Online:https://prs.aicf.in/pay",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,15 +66,7 @@ news_feed (
          "title" : "Dissolution of the ACP"
       },
       {
-         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
-         "pubDate" : "Fri, 14 Jul 2023 01:24:00 -0700",
-         "title" : "So Advances To Challenge Carlsen"
-      },
-      {
-         "description" : " After scoring 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday and 9/9 in the Zagreb Grand Tour blitz, he now contends in the Aimchess Masters Magnus Carlsen's decision to abdicate the world crown he had held for a decade is looking like an inspired choice as the Norwegian, 32, has hit a rich vein of form in the past two weeks. Maximum tournament scores are rare, but Carlsen achieved 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday, only the second time this has been done <a href=\"https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023\">in the notoriously competitive event</a>, then a few days later notched up 9/9 against stronger",
+         "description" : " After scoring 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday and 9/9 in the Zagreb Grand Tour blitz, he now contends in the Aimchess Masters Magnus Carlsen's decision to abdicate the world crown he had held for a decade is looking like an inspired choice as the Norwegian, 32, has hit a rich vein of form in the past two weeks. Maximum tournament scores are rare, but Carlsen achieved 11/11 in <a href=\"http://chess.com/\" title=\"\">chess.com</a>'s Titled Tuesday, only the second time this has been done <a href=\"https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023\" title=\"\">in the notoriously competitive event</a>, then a few days later notched up 9/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jul/14/magnus-carlsen-hits-two-maximums-as-carefree-world-no-1-continues-his-surge",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nice-weather-a-quiet-beach-and-exciting-chess-battles-in-brazil",
          "pubDate" : "Fri, 14 Jul 2023 07:00:00 +0100",
          "title" : "Nice weather, a quiet beach and exciting chess battles in Brazil"
+      },
+      {
+         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
+         "pubDate" : "Thu, 13 Jul 2023 18:31:00 -0700",
+         "title" : "So Advances To Challenge Carlsen"
       },
       {
          "description" : "Torch is a brand-new chess engine built from the ground up by top chess engine developers. The team is composed of: Andrew Grant (Ethereal), Finn Eggers &#38;amp; Kim K&#38;aring;hre (Koivisto), Jay Honnold (Berserk), and Michael Whiteley &#38;amp; Dietrich K...",
@@ -762,14 +802,6 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz Croatia: Live"
       },
       {
-         "description" : "Kazakhstan, host of the World Championship match between Ian Nepomniachtchi and Ding Liren, has a lively and thriving chess scene and continues to organise attractive tournaments. The Uralsk Open (20-29 July) and the World Schools Team Championships in Aktau (3-8 August) are in the pipeline, but below is a report on the recently concluded Aktobe Open, which took place from 19-28 June and was won by Iranian grandmaster Daneshwar Bardiya. | Photo: The main square of Aktobe | Photo: Kazakhstan Travel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/17-year-old-daneshwar-bardiya-wins-aktobe-open-in-kazakhstan",
-         "pubDate" : "Sun, 09 Jul 2023 12:00:00 +0100",
-         "title" : "17-year old Daneshwar Bardiya wins Aktobe Open in Kazakhstan"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101613240.cms\" />India will send a formidable 10-member chess contingent to the upcoming Asian Games in Hangzhou in a bid to showcase their chess prowess on the international stage. Led by double Asian Games gold medallist Koneru Humpy and bronze medallist Dronavalli Harika, the Indian team is determined to make their mark in the continental games, scheduled to commence on September 23.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -800,14 +832,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-d-gukesh-tied-6th-after-nine-games/articleshow/101609968.cms",
          "pubDate" : "Sun, 09 Jul 2023 06:40:42 +0000",
          "title" : "Grand Chess Tour: Anand, Gukesh tied 6th after nine games"
-      },
-      {
-         "description" : "Magnus Carlsen obtained a 3-point lead going into the final day of action at the SuperUnited Rapid & Blitz tournament after scoring a magnificent 9 out of 9 in the first half of the blitz section. After beating all of his opponents, an elated Carlsen told Anastasiya Karlovich: \"I've had good days, but of course, this is something special\". Former co-leaders Ian Nepomniachtchi and Fabiano Caruana are now sharing second place with 17 points each. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d4",
-         "pubDate" : "Sun, 09 Jul 2023 03:05:00 +0100",
-         "title" : "SuperUnited Croatia: Carlsen scores 9 out of 9!"
       },
       {
          "description" : "",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "L&eacute;gal and Philidor"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2475",
-         "pubDate" : "Sun, 25 Jun 2023 21:46:56 +0000",
-         "title" : "Global Chess League Day 4: SG Alpine Warriors grab the lead"
-      },
-      {
          "description" : "In all the years that I've been running the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I've never mentioned memes. So here we go. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf25.jpg\" WIDTH=400 HEIGHT=150><BR> <B>Google Image search on 'chess memes'</B> <P> The last time I used the 'Google Image search' trick was <A HREF=\"https://chessforallages.blogspot.com/2022/11/election-special-2022.html\">Election Special 2022</A> (November 2022). At that time I had three rows of image thumbnails. Now I have two. Why the difference? Here's the election image... <P ALIGN=CENTER> <XMG SRC=\"http",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1650,14 +1666,6 @@ news_feed (
          "title" : "KCF European Trainers Conference #Zagreb 8 July"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2474",
-         "pubDate" : "Sat, 24 Jun 2023 19:27:34 +0000",
-         "title" : "Global Chess League Day 3: Ganges Grandmasters reign supreme"
-      },
-      {
          "description" : " We'll wrap up our examination of the discovered and double discovered attack this week. Out of all the tactics discussed thus far, this one has helped me the most. We'll look at another example this week. This example is a double discovered check, which is devastating for its victim, if you set it up correctly. <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\">A Foundation for Beginners Ninety Six</a> appeared first on <a rel=\"nofollow\" href=\"https://c",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1688,22 +1696,6 @@ news_feed (
          "link" : "https://www.thearticle.com/snakes-and-leaders/",
          "pubDate" : "Sat, 24 Jun 2023 07:58:38 +0000",
          "title" : "Snakes and Leaders"
-      },
-      {
-         "description" : " The Global Chess League took place in Dubai Wed 21st Jun 2023Sun 2nd Jul 2023. This rapid play competition has 6 very strong teams. Players: Magnus Carlsen, Jan-Krzysztof Duda, Maxime Vachier-Lagrave, Richard Rapport, Ian Nepomniachtchi, Levon Aronian, Yangyi Yu, Viswanathan Anand, Daniil Dubov, Alexander Grischuk, Yi Wei, Arjun Erigaisi, Leinier Dominguez Perez, Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Teimour Radjabov, Andrey Esipenko, Sarin Nihal, Santosh Gujrathi Vidit, D Gukesh, Javokhir Sindarov, R Praggnanandhaa, Raunak Sadhwani, Yifan Hou, Jonas Buhl Bjerre, Alexandra Kosteniuk, Zhongyi Tan, Kateryna Lagno, Humpy Koneru, Nana Dzagnidze, Dronavalli Harika, Bella Khotenashvili, I",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/global-chess-league-2023",
-         "pubDate" : "Fri, 23 Jun 2023 17:12:00 +0400",
-         "title" : "Global Chess League 2023 - Games and Results"
-      },
-      {
-         "description" : " There are a few Australian's enjoying chess in the northern hemisphere summer. FM Albert Winkelman has just finished an event in Teplice before moving onto an event in Slovakia next month. Meanwhile FM Fred Litchfield is playing in <a href=\"http://praguechessfestival.com/en/2023\">Prague International Chess Festival</a> (along with David Canon and Lillian Lu). This event has a couple of elite GM round robins plus a big open event. Litchfield started with a win in the first round, but is up against a 2400 rated IM in round 2. While all games were drawn in the top RR event, there was more excitement in the Challengers event, as the following game shows. <br /> <b>BARTEL,Mateusz (2609) - STALMA",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/summer-in-prague.html",
-         "pubDate" : "Fri, 23 Jun 2023 13:06:00 +0000",
-         "title" : "Summer in Prague"
       }
    ]
 }
