@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
+         "pubDate" : "Thu, 13 Jul 2023 18:31:00 -0700",
+         "title" : "So Advances To Challenge Carlsen"
+      },
+      {
+         "description" : "Torch is a brand-new chess engine built from the ground up by top chess engine developers. The team is composed of: Andrew Grant (Ethereal), Finn Eggers &#38;amp; Kim K&#38;aring;hre (Koivisto), Jay Honnold (Berserk), and Michael Whiteley &#38;amp; Dietrich K...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/torch-chess-engine",
+         "pubDate" : "Thu, 13 Jul 2023 18:17:26 -0700",
+         "title" : "Announcing Torch: New #2 Chess Engine"
+      },
+      {
+         "description" : "Wesley So scored back-to-back, dominant victories over Eduardo Iturrizaga and Nodirbek Abdusattorov to win the losers' bracket of the Aimchess Rapid online tournament. So will face Magnus Carlsen in Friday's Grand Final, played to the best of 4. If Carlsen loses, he will get a second chance against the same opponent, as he has yet to lose a match in the event. | Photo: Champions Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d4",
+         "pubDate" : "Fri, 14 Jul 2023 02:00:00 +0100",
+         "title" : "Aimchess Rapid: Dominant So makes it to the Grand Final"
+      },
+      {
+         "description" : "The main event of the 2023 Bullet Chess Championship (BCC) is almost here. Sixteen elite players, including bullet legends GMs Hikaru Nakamura, Magnus Carlsen, and Alireza Firouzja, are about to go toe-to-toe to see who&#39;s the fastest player on the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-chess-championship-2023-bracket-contest",
+         "pubDate" : "Thu, 13 Jul 2023 17:13:16 -0700",
+         "title" : "Win Prizes In The Upcoming 2023 Bullet Chess Championship"
+      },
+      {
          "description" : "In his Fast & Furious show Robert Ris takes a look at a line of the Italian Four Knights (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3?!), which Nodirbek Abdusattorov used to win a fine game against Levon Aronian at the Aimchess Online Tournament. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventurous-abdusattorov",
          "pubDate" : "Thu, 13 Jul 2023 20:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Adventurous Abdusattorov"
-      },
-      {
-         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen, Wesley So and Fabiano Caruana are the top seeds in the event. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
-         "pubDate" : "Thu, 13 Jul 2023 16:50:00 +0100",
-         "title" : "Aimchess Rapid - Live!"
       },
       {
          "description" : "",
@@ -994,14 +1018,6 @@ news_feed (
          "title" : "Martinez, Ohanyan Qualify For Bullet Chess Championship Main Event"
       },
       {
-         "description" : "Challenger GM Lei Tingjie once again seized the initiative in game two of the 2023 FIDE Women&#39;s World Championship in Shanghai, but a lack of time, and precise defense from reigning champion GM Ju Wenjun, saw the game end in a 40-move draw. The sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-2",
-         "pubDate" : "Thu, 06 Jul 2023 07:43:02 -0700",
-         "title" : "Lei Poses Questions, Ju Finds Answers In Women's World Championship Game 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "ECU E-Magazine June 2023"
       },
       {
-         "description" : "GM Viswanathan Anand emerged as the early leader, defeating GMs Richard Rapport and Constantin Lupulescu on day one of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Rapport himself beat GM Jan-Krzysztof Duda, the previous leader, in the la...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-1",
-         "pubDate" : "Thu, 06 Jul 2023 03:25:00 -0700",
-         "title" : "Anand Captures Early Lead"
-      },
-      {
          "description" : "FIDE World Youth Chess Championship 2023 Montesilvano (PE), Italy 12th to 25th November, 2023 3 Star Hotel 3 Star Superior Hotel 4 Star Hotel",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2498",
          "pubDate" : "Wed, 05 Jul 2023 21:24:07 +0000",
          "title" : "World Rapid Team Championship: Showdown in D&uuml;sseldorf"
-      },
-      {
-         "description" : "Fourteen-year-old FM Brewington Hardaway earned his third and last norm required for the international master title on Tuesday after finishing with 6/9 points at the World Open 2023. His approximately 2472.7 rating performance left him at a 2390.4...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-3rd-im-norm",
-         "pubDate" : "Wed, 05 Jul 2023 14:06:00 -0700",
-         "title" : "Brewington Hardaway Earns Last IM Norm, 10 Points Away From Title"
       },
       {
          "description" : "",
