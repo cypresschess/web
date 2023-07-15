@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With an expanded vision, The Gift of Chess has appointed Susan Namangale as its Global Head. Russell Makofsky&#8216;s vision to distribute chess sets in the New York area was part of a local initiative called The Gift of Chess. Since its inception in 2021, the mission added the incarcerated and most recently a global initiative. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/\">&#8220;The Gift of Chess&#8221; nabs Namangale as Global Head</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/",
+         "pubDate" : "Sat, 15 Jul 2023 15:21:15 +0000",
+         "title" : "\"The Gift of Chess\" nabs Namangale as Global Head"
+      },
+      {
+         "description" : "Defending Women&#39;s World Champion Ju Wenjun counterattacked and emerged two pawns up with a winning position as the second half of the 2023 FIDE Women&#39;s World Championship began. As time ran out, however, she took a safe option that allowed GM Lei ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-7",
+         "pubDate" : "Sat, 15 Jul 2023 08:15:08 -0700",
+         "title" : "Ju Wenjun Misses Golden Chance To Level Scores In Game 7"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2526",
+         "pubDate" : "Sat, 15 Jul 2023 14:53:10 +0000",
+         "title" : "WWC Match 2023: Ju Wenjun lets victory slip against Lei"
+      },
+      {
+         "description" : " One of the roles of any chess club, or chess tournament , is to help newer players improve their chess. In earlier days, this usually involved to gift of wisdom from a more experienced player at the competition of a game. As I have noted elsewhere, this has often been replaced by a quick trip to the laptop, so see how. many centi-pawns your first choice moves lost. However it is still possible to pick up some good training tips as events, even if some of them come out of left field. One such suggestion given to a new, but struggling player, was to watch the movie 'Karate Kid' , especially the 'wax on, wax off' scene. The intention was to demonstrate the importance making some chess concepts",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/wax-on-wax-off.html",
+         "pubDate" : "Sat, 15 Jul 2023 14:35:00 +0000",
+         "title" : "Wax on, wax off"
+      },
+      {
+         "description" : "Spassky is considered one of the most gifted players ever. A fine attacker and equally strong in the middlegame and endgame, the term universal style was coined for him. For CBM 214 we invited our authors to comment on their favourite Boris Spassky games. The result is a collection of 27 first-class annotated Spassky games from the period 1949 to 1989. You can take a look at two samples here. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-214-special-boris-spassky",
+         "pubDate" : "Sat, 15 Jul 2023 15:00:00 +0100",
+         "title" : "CBM #214 Special: Boris Spassky"
+      },
+      {
+         "description" : "Voil&agrave; un homme! (\"What a man!\") is how Napoleon enthused about Johann Wolfgang von Goethe at their meeting at Erfurt in 1808. Goethe reciprocated by recognising an irresistible daemonic force in the Emperor. By then Napoleon had already read The Sorrows of Young Werther seven times. He kept it under his pillow on campaign, much as Alexander []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/goethes-cosmic-game-of-chess/",
+         "pubDate" : "Sat, 15 Jul 2023 12:48:25 +0000",
+         "title" : "Goethe's cosmic game of chess"
+      },
+      {
+         "description" : "You might have heard of that program most professional Chess players use: ChessBase. It is a program that allows you to store games in databases, analyze, comment, and find games played by yourself or thousands of other chess players. The first version of Chessbase (Chessbase 1.0) was released back in 1987; the newest version is []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chessbase-17-review/",
+         "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0000",
+         "title" : "Chessbase 17 Review: Is It A Good Investment?"
+      },
+      {
          "description" : "While engines on powerful hardware are ever closer to chess perfection, draws tend to happen more and more. However, even perfection does not need to be dull, and at the 2023 World Computer Chess Championship, a spectacular game took place between Fritz running on 192 cores (!) and Stoofvlees using massive GPUs. See the video on this tactical slugfest!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -690,14 +746,6 @@ news_feed (
          "title" : "Aimchess Rapid 2023 - Games and Results"
       },
       {
-         "description" : "European Rapid Chess Champion Jaime Santos Latasa won the final against Boris Gelfand to become the winner of the 36th edition of the \"Magistral de Ajedrez Ciudad de Le&oacute;n\". Santos, is the second Spaniard to win the tournament after Paco Vallejo in 2012.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/santos-beats-gelfand-and-wins-leon-magistral",
-         "pubDate" : "Mon, 10 Jul 2023 14:34:19 +0100",
-         "title" : "Santos beats Gelfand in final and wins Leon Magistral"
-      },
-      {
          "description" : " Junior player Harvey Zhu was the surprise winner of the 2023 NSW Rapid Championship. Seeded 12th in the tournament he scored an impressive 6.5/7, finishing a full point clear of 2nd place. After a 2nd round draw, he reeled of 5 straight wins, beating IM George Xie in round 6 and FM Alexis Vargas Arteaga in the final round. In 2nd place were 12 players tied on 5.5/7, including Xie, Vargas Arteaga and top seed FM Jason Hu. Hu had a rough start, losing in round 1 after dropping a queen, and drawing his 4th round game. With the large field of 134 players, a single lost point was enough to drop players out of the running. Despite the size of the field the event ran quite smoothly. There were no ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1064,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2502",
          "pubDate" : "Fri, 07 Jul 2023 00:35:08 +0000",
          "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 2 Recap"
-      },
-      {
-         "description" : "After a winless day one, GM Ian Nepomniachtchi came back with a vengeance today, winning all three of his games to join GMs Viswanathan Anand and Fabiano Caruana in the lead at the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; Caruana also had...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-2",
-         "pubDate" : "Thu, 06 Jul 2023 15:14:00 -0700",
-         "title" : "Revenge of Nepomniachtchi: 3-0 Streak, Leads With Anand, Caruana"
       },
       {
          "description" : "",
@@ -1610,14 +1650,6 @@ news_feed (
          "title" : "Alexey Sarana is the Winner of the Inaugural Olympic Esports Series Chess Event"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2479",
-         "pubDate" : "Mon, 26 Jun 2023 11:13:53 +0000",
-         "title" : "PlusCity Grand Prix: All set for the strongest XXI century chess event in Austria"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1688,14 +1720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-ganges-grandmasters-maintain-dominance/articleshow/101245291.cms",
          "pubDate" : "Sat, 24 Jun 2023 16:44:46 +0000",
          "title" : "Global Chess League: Ganges Grandmasters maintain dominance"
-      },
-      {
-         "description" : "We all know these days. You sleep badly, are sick, have a migraine, or have any other physical problem that makes you feel bad. But just on that day, you have an important chess game to play. What is the best way to go about that game? Should you change anything? This is the question []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/when-you-arent-feeling-great/",
-         "pubDate" : "Sat, 24 Jun 2023 12:00:00 +0000",
-         "title" : "Grandmaster Tips To Perform When You Are Not Feeling Great"
       }
    ]
 }
