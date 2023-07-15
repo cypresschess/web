@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Wood Green Invitational is an 10-player round-robin tournament taking place from 14&#x2013;18 July 2023 in Stafford, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess Championship 2023 / Ju Wenjun &#x2013; Lei Tingjie , []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wood-green-invitational-2023-live/",
+         "pubDate" : "Sat, 15 Jul 2023 21:25:00 +0000",
+         "title" : "Wood Green Invitational 2023 - LIVE"
+      },
+      {
+         "description" : "The Wood Green Invitational is an 10-player round-robin tournament taking place from 14&#x2013;18 July 2023 in Stafford, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess Championship 2023 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wood-green-invitational-2023/",
+         "pubDate" : "Sat, 15 Jul 2023 21:01:40 +0000",
+         "title" : "Wood Green Invitational 2023"
+      },
+      {
+         "description" : "The US Junior Girls Championship is taking place in the Saint Louis Chess Club from July 15-25, 2023. The 10-player event has a $20,600 prize fund with $6,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u-s-girls-junior-championship-2023-live/",
+         "pubDate" : "Sat, 15 Jul 2023 20:55:00 +0000",
+         "title" : "U.S. Girls Junior Championship 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-2\"><img src=\"https://saintlouischessclub.or",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-2",
+         "pubDate" : "Sat, 15 Jul 2023 20:37:05 +0000",
+         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 2"
+      },
+      {
+         "description" : "The US Junior Girls Championship is taking place in the Saint Louis Chess Club from July 15-25, 2023. The 10-player event has a $20,600 prize fund with $6,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u-s-girls-junior-championship-2023/",
+         "pubDate" : "Sat, 15 Jul 2023 20:36:32 +0000",
+         "title" : "U.S. Girls Junior Championship 2023"
+      },
+      {
          "description" : " With an expanded vision, The Gift of Chess has appointed Susan Namangale as its Global Head. Russell Makofsky&#8216;s vision to distribute chess sets in the New York area was part of a local initiative called The Gift of Chess. Since its inception in 2021, the mission added the incarcerated and most recently a global initiative. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/\">&#8220;The Gift of Chess&#8221; nabs Namangale as Global Head</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -64,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/amazing-rook-sacrifice-in-fritz-game-at-wccc-video",
          "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0100",
          "title" : "Amazing rook sacrifice in Fritz game at WCCC (video)"
+      },
+      {
+         "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
+         "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0100",
+         "title" : "Ivan Sokolov: Understanding middlegame strategies"
       },
       {
          "description" : "The US Junior Championship is taking place in the St. Louis Chess Club from July 15-25 2023. The 10-player event has a $40,000 prize fund with $12,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end []",
@@ -144,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hungarian-amateur-championship-2023/",
          "pubDate" : "Fri, 14 Jul 2023 19:56:19 +0000",
          "title" : "Hungarian Amateur Championship 2023"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-7-live/",
-         "pubDate" : "Fri, 14 Jul 2023 19:45:16 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 7 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to clinch the Champions Chess Tour Aimchess Rapid 2023. After a 2-0 start by Carlsen, So made a stunning comeback by winning on demand with Black. In game four, Carlsen combined...",
@@ -458,22 +498,6 @@ news_feed (
          "title" : "WWC Match 2023: Last game in Shanghai ends in a draw"
       },
       {
-         "description" : "The V. Geza Hetenyi Memorial will take place from the 11th to the 19th of July 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It will be a 10-layer Round robin tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/v-geza-hetenyi-memorial-super-gm-round-robin-tournament-2023-live/",
-         "pubDate" : "Wed, 12 Jul 2023 11:20:00 +0000",
-         "title" : "V. Geza Hetenyi Memorial Super GM Round Robin Tournament 2023 - LIVE"
-      },
-      {
-         "description" : "The V. Geza Hetenyi Memorial will take place from the 11th to the 19th of July 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It will be a 10-layer Round robin tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/v-geza-hetenyi-memorial-super-gm-round-robin-tournament-2023/",
-         "pubDate" : "Wed, 12 Jul 2023 11:04:46 +0000",
-         "title" : "V. Geza Hetenyi Memorial Super GM Round Robin Tournament 2023"
-      },
-      {
          "description" : "GM Magnus Carlsen defeated GM Nodirbek Abdusattorov to secure his seat in the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. He won the first two games and, despite being down two pawns and dead lost in the third, found a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2023/",
          "pubDate" : "Wed, 12 Jul 2023 10:26:41 +0000",
          "title" : "English Women's Online Blitz Championship 2023"
-      },
-      {
-         "description" : "South West Nigeria Chess Tournament is a 9 rounds Swiss tournament taking place 12 16 July 2023 in Lagos, Nigeria, under the auspices of Nigerian Chess Federation. Time control is 90 minutes for the whole game plus a 30 seconds increment starting from move 1. The top five rating players are Daniel Anwuli, Abdulrahman []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-west-nigeria-chess-tournament-2023-live/",
-         "pubDate" : "Wed, 12 Jul 2023 10:11:12 +0000",
-         "title" : "South West Nigeria Chess Tournament 2023 - LIVE"
       },
       {
          "description" : "Since moving to the digital world we live in, a few parts of our lives continue to be a cross between tradition and the new, such as photography, newspapers, and most notably: books. There are many who are deeply reluctant to make the switch for reading, keen to bring up aspects of print that are absent in digital. But is it that simple? Enjoy this article and video!",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "Padmini Rout National Women Champion"
       },
       {
-         "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
-         "pubDate" : "Mon, 10 Jul 2023 16:30:51 +0100",
-         "title" : "Ivan Sokolov: Understanding middlegame strategies"
-      },
-      {
          "description" : "After winning every single game on Saturday, Magnus Carlsen secured tournament victory at the SuperUnited Rapid & Blitz tournament by scoring 5 points in the first 6 rounds of the event's final day of action. With overall victory in the bag, Carlsen went on to lose his blitz-chess undefeated streak against Alireza Firouzja. Ian Nepomniachtchi and Firouzja finished second and third, respectively. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-promo",
          "pubDate" : "Sat, 08 Jul 2023 20:30:29 +0000",
          "title" : "2023 U.S. Junior & U.S. Senior Championships | PROMO"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-1",
-         "pubDate" : "Sat, 08 Jul 2023 20:30:29 +0000",
-         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 1"
       },
       {
          "description" : "Regular readers of my column will have observed my general aversion to cancel culture and the obliteration of memory. In TheArticle I have regularly inveighed against attempts to erase history, citing heinous examples, such as the Spanish conquistadors, a small group of heavily outnumbered activists, who exerted sufficient control to eradicate a nation's history, abolish its []",
