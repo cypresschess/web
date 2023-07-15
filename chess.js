@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White found a number of power moves and crushed Black's position. The art of attacking &agrave; la Rustam Kasimdzhanov - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/skilful",
+         "pubDate" : "Sat, 15 Jul 2023 09:00:00 +0100",
+         "title" : "Skilful"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sat, 15 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 6 - Live!"
+      },
+      {
+         "description" : "The U.S. Senior Championship taking place July 15-25, 2023 in the St. Louis Chess Club, with a $75,000 prize fund and $20,000 for 1st place. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is a 10-player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u-s-senior-championship-2023/",
+         "pubDate" : "Sat, 15 Jul 2023 07:14:19 +0000",
+         "title" : "U.S. Senior Championship 2023"
+      },
+      {
          "description" : "The 2023 World Chess Software Championship was just held in Valencia, Spain, and impressively Fritz defended its title by winning it a second year straight. This event saw a very high number of draws, which might lead you to think it was a dull affair, but as you will see in one of them, it was a guns ablazing fight in OK Corral with two rook sacrifices spaced four moves apart no less!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -442,14 +466,6 @@ news_feed (
          "title" : "Astana Zhuldyzdary 2023 A"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-6-live/",
-         "pubDate" : "Wed, 12 Jul 2023 07:51:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 6 - LIVE"
-      },
-      {
          "description" : "GM Simen Agdestein won his first Norwegian Championship as a 15-year-old in 1982. 41 years later, the veteran clinched his ninth title and extended his record as the oldest champion of all time. The 56-year-old emerged victorious in Oslo on Satu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "Hou Yifan on chess in China and the match for the 18th Women's World Champion"
       },
       {
-         "description" : "Simen Agdestein emerged as the winner of the 2023 Norwegian Championship Championship and took his ninth national title. Aged 56, Simen beat his own record set last year and again became the oldest Norwegian champion of all time. | Photo: Helge Brekke (tournament page)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norwegian-championship-simen-agdestein-clinches-ninth-title",
-         "pubDate" : "Mon, 10 Jul 2023 11:06:34 +0100",
-         "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Fabiano Caruana, Nodirbek Abdusattorov, and Levon Aronian move on to the Winners Bracket in Division I of the Champions Chess Tour Aimchess Rapid 2023 after winning their matches on the first day. Carlsen and Caruana beat the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-blitz-streak-sweeter-any-tournament-win-d5superunitedrapidblitzcroatia",
          "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
          "title" : "Carlsen: Blitz Streak Sweeter Than Any Tournament Win | D5#SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "In the longest game of the Women's World Championship match so far, Lei Tingjie surprised Ju Wenjun in the opening. Ju struggled at first, but later got to put pressure on her opponent in the endgame. A fourth draw in Shanghai means the score remains tied in what has so far been a high-quality, tense confrontation. | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-4",
-         "pubDate" : "Sun, 09 Jul 2023 18:30:00 +0100",
-         "title" : "Women's World Championship: Another fighting draw"
       },
       {
          "description" : "The SuperUnited Rapid and Blitz Croatia 2023 came to a close on Sunday with one clear winner, GM Magnus Carlsen. The former world champion kept up his formidable run and scored 6/9 on the second day of blitz to take his total to 26/36.&#38;nbsp; Not...",
