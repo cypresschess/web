@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-7",
-         "pubDate" : "Sat, 15 Jul 2023 08:15:08 -0700",
+         "pubDate" : "Sat, 15 Jul 2023 08:15:00 -0700",
          "title" : "Ju Wenjun Misses Golden Chance To Level Scores In Game 7"
       },
       {
@@ -954,7 +954,7 @@ news_feed (
          "title" : "2023 U.S. Junior & U.S. Senior Championships | PROMO"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (listed below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.or",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-1",
@@ -1154,7 +1154,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; 2&frac12; Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; 3&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 3 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 4 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -1704,22 +1704,6 @@ news_feed (
          "link" : "https://www.europechess.org/kcf-european-trainers-conference/",
          "pubDate" : "Sun, 25 Jun 2023 07:32:40 +0000",
          "title" : "KCF European Trainers Conference #Zagreb 8 July"
-      },
-      {
-         "description" : " We'll wrap up our examination of the discovered and double discovered attack this week. Out of all the tactics discussed thus far, this one has helped me the most. We'll look at another example this week. This example is a double discovered check, which is devastating for its victim, if you set it up correctly. <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-six/\">A Foundation for Beginners Ninety Six</a> appeared first on <a rel=\"nofollow\" href=\"https://c",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-six/",
-         "pubDate" : "Sat, 24 Jun 2023 19:17:28 +0000",
-         "title" : "A Foundation for Beginners Ninety Six"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101245291.cms\" />The Ganges Grandmasters secured their third win on the trot to maintain their dominance at the top after day three of the Global Chess League on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-ganges-grandmasters-maintain-dominance/articleshow/101245291.cms",
-         "pubDate" : "Sat, 24 Jun 2023 16:44:46 +0000",
-         "title" : "Global Chess League: Ganges Grandmasters maintain dominance"
       }
    ]
 }
