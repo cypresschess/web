@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While engines on powerful hardware are ever closer to chess perfection, draws tend to happen more and more. However, even perfection does not need to be dull, and at the 2023 World Computer Chess Championship, a spectacular game took place between Fritz running on 192 cores (!) and Stoofvlees using massive GPUs. See the video on this tactical slugfest!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/amazing-rook-sacrifice-in-fritz-game-at-wccc-video",
+         "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0100",
+         "title" : "Amazing rook sacrifice in Fritz game at WCCC (video)"
+      },
+      {
+         "description" : "The US Junior Championship is taking place in the St. Louis Chess Club from July 15-25 2023. The 10-player event has a $40,000 prize fund with $12,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u-s-junior-championship-2023-live/",
+         "pubDate" : "Sat, 15 Jul 2023 09:20:00 +0000",
+         "title" : "U.S. Junior Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The US Junior Championship is taking place in the St. Louis Chess Club from July 15-25 2023. The 10-player event has a $40,000 prize fund with $12,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u-s-junior-championship-2023/",
+         "pubDate" : "Sat, 15 Jul 2023 08:53:21 +0000",
+         "title" : "U.S. Junior Championship 2023"
+      },
+      {
          "description" : "In the diagram position White found a number of power moves and crushed Black's position. The art of attacking &agrave; la Rustam Kasimdzhanov - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
          "pubDate" : "Sat, 15 Jul 2023 08:45:00 +0100",
          "title" : "Women's World Chess Championship, Game 6 - Live!"
+      },
+      {
+         "description" : "The U.S. Senior Championship taking place July 15-25, 2023 in the St. Louis Chess Club, with a $75,000 prize fund and $20,000 for 1st place. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is a 10-player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u-s-senior-championship-2023-live/",
+         "pubDate" : "Sat, 15 Jul 2023 07:35:00 +0000",
+         "title" : "U.S. Senior Championship 2023 - LIVE"
       },
       {
          "description" : "The U.S. Senior Championship taking place July 15-25, 2023 in the St. Louis Chess Club, with a $75,000 prize fund and $20,000 for 1st place. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is a 10-player []",
@@ -434,36 +466,12 @@ news_feed (
          "title" : "BCC2023 Chess Festival events entry form"
       },
       {
-         "description" : "South West Nigeria Chess Tournament is a 9 rounds Swiss tournament taking place 12 16 July 2023 in Lagos, Nigeria, under the auspices of Nigerian Chess Federation. Time control is 90 minutes for the whole game plus a 30 seconds increment starting from move 1. The top five rating players are Daniel Anwuli, Abdulrahman []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-west-nigeria-chess-tournament-2023/",
-         "pubDate" : "Wed, 12 Jul 2023 09:15:00 +0000",
-         "title" : "South West Nigeria Chess Tournament 2023"
-      },
-      {
          "description" : "Shreyas Royal was recently selected for training by the Kasparov Chess Foundation. He was first invited to a preliminary training camp in Vienna, as one...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/shreyas-royal-at-the-kasparov-chess-foundation/",
          "pubDate" : "Wed, 12 Jul 2023 09:11:00 +0000",
          "title" : "Shreyas Royal at the Kasparov Chess Foundation"
-      },
-      {
-         "description" : "The&#xA0;Astana Zhuldyzdary 2023 Tournament A&#xA0;is taking place from the 11th of July to the 18th in Astana, Kazakhstan. The A tournament is intended for the players rated 1800 or more, it is the 3rd stage of the Kazakhstan Cup. The total prize fund of the Festival is 40,000,000 Kazakhstani tenge (equal to $90,000). The time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/astana-zhuldyzdary-2023-a-live/",
-         "pubDate" : "Wed, 12 Jul 2023 08:30:00 +0000",
-         "title" : "Astana Zhuldyzdary 2023 A - LIVE"
-      },
-      {
-         "description" : "The&#xA0;Astana Zhuldyzdary 2023 Tournament A&#xA0;is taking place from the 11th of July to the 18th in Astana, Kazakhstan. The A tournament is intended for the players rated 1800 or more, it is the 3rd stage of the Kazakhstan Cup. The total prize fund of the Festival is 40,000,000 Kazakhstani tenge (equal to $90,000). The time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/astana-zhuldyzdary-2023-a/",
-         "pubDate" : "Wed, 12 Jul 2023 08:15:00 +0000",
-         "title" : "Astana Zhuldyzdary 2023 A"
       },
       {
          "description" : "GM Simen Agdestein won his first Norwegian Championship as a 15-year-old in 1982. 41 years later, the veteran clinched his ninth title and extended his record as the oldest champion of all time. The 56-year-old emerged victorious in Oslo on Satu...",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-nsw-rapid-championship.html",
          "pubDate" : "Mon, 10 Jul 2023 13:11:00 +0000",
          "title" : "2023 NSW Rapid Championship"
-      },
-      {
-         "description" : "In about a week, on 15 July, the traditional Biel Chess Festival will begin. In a Grandmaster Triathlon eight top players will show their skills in classical, rapid and blitz chess, and this Grandmaster Tournament is embedded in a wide range of open tournaments for all tastes and playing levels. | Photo: Arjun Erigaisi | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-56-biel-chess-festival-will-begin-soon-with-arjun-erigaisi-and-vincent-keymer",
-         "pubDate" : "Mon, 10 Jul 2023 12:41:23 +0100",
-         "title" : "The 56. Biel Chess Festival will begin soon - with Arjun Erigaisi and Vincent Keymer"
       },
       {
          "description" : "",
@@ -1696,14 +1696,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/when-you-arent-feeling-great/",
          "pubDate" : "Sat, 24 Jun 2023 12:00:00 +0000",
          "title" : "Grandmaster Tips To Perform When You Are Not Feeling Great"
-      },
-      {
-         "description" : "During his recent visit to the USA to cement relations with President Joe Biden, the Prime Minister, Rishi Sunak, was visibly impressed by the chess club in a Washington school. Pupils were not only actively involved in playing the game, but were also printing 3D sets in rather fetching blue and white livery. Sunak praised []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/snakes-and-leaders/",
-         "pubDate" : "Sat, 24 Jun 2023 07:58:38 +0000",
-         "title" : "Snakes and Leaders"
       }
    ]
 }
