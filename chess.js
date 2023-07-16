@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Just a few more hours, that's all the time you've got! You can still take advantage of our Summer Special offer and buy this Fritztrainer set for close to €60 below the list price. It consists of a course by Ivan Sokolov, a world elite player, and author of many popular chess books. Don't miss the opportunity to dramatically increase your middlegame strength with this very successful series.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
-         "pubDate" : "Sun, 16 Jul 2023 20:00:00 +0100",
-         "title" : "Ivan Sokolov: Understanding middlegame strategies"
-      },
-      {
          "description" : "Simen Agdestein recently won the Norwegian Chess Championship for a ninth time in his career. The 56-year-old outscored the likes of Aryan Tari and Jon Ludvig Hammer, but did not have to beat national hero and former student Magnus Carlsen, who does not participate in his country's championships. In his column this week, Jon Speelman analyses recent games by both the master and the student! | Photo: VG.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,6 +776,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nagpurs-vedika-pal-is-u-10-girls-western-asia-chess-champion/articleshow/101672957.cms",
          "pubDate" : "Tue, 11 Jul 2023 13:14:50 +0000",
          "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
+      },
+      {
+         "description" : "Whatever your idea of a traditional chess event is, it's probably nothing like London's ChessFest. While in most tournaments, the action takes place behind closed doors, accessible only to knowledgeable insiders and connoisseurs of the game, ChessFest turns all that upside down. This is chess writ large in the open air, performed in full public view, with mass participation the central goal. If you are in or anywhere near London, you should definitely pay ChessFest a visit. | Photos by Andrew Moss",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessfest-fun-in-trafalgar-square",
+         "pubDate" : "Tue, 11 Jul 2023 13:00:00 +0100",
+         "title" : "ChessFest Fun in Trafalgar Square"
       },
       {
          "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-taught-me-to-stay-patient-with-my-cricket-says-yuzvendra-chahal/articleshow/101280759.cms",
          "pubDate" : "Mon, 26 Jun 2023 11:03:04 +0000",
          "title" : "Chess has taught me to stay patient with my cricket: Chahal"
-      },
-      {
-         "description" : " I played nine games in last week's club online blitz tournament. I won one game with Philidor's Legacy and almost won another with L&eacute;gal's Mate. Here's the smothered mate, against a strong blitz player whose weakest point is his opening play. I'd seen this coming a few moves ago but now realised that 15.. Nf2+ <a href=\"https://chessimprover.com/legal-and-philidor/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"L&eacute;gal and Philidor\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/legal-and-philidor/\">L&eacute;gal and Philidor</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/legal-and-philidor/",
-         "pubDate" : "Sun, 25 Jun 2023 22:20:40 +0000",
-         "title" : "L&eacute;gal and Philidor"
       }
    ]
 }
