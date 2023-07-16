@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ju Wenjun is back! The Women&#39;s World Champion outplayed challenger GM Lei Tingjie in a complex middlegame and then ground out an endgame win to level the scores at 4-4 going into the final four games of the 2023 FIDE Women&#39;s World Championship ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-8",
+         "pubDate" : "Sun, 16 Jul 2023 08:02:00 -0700",
+         "title" : "Ju Wenjun Wins Game 8 To Tie World Championship Match"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 134th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and looks at the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-134-chess-history-in-a-nutshell-16",
+         "pubDate" : "Sun, 16 Jul 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 134: Chess history in a nutshell (16)"
+      },
+      {
+         "description" : " The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA), and the US Chess Federation, are pleased to invite all National Chess Federations of the Americas to the XXXIII Pan-American Youth Chess Festival Open and Girls, from August 11 - 18, 2023 in Chicago, Illinois, USA. It's that time The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/\">Regina Riberio to lead Brazil to Pan-Am Youth</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/",
+         "pubDate" : "Sun, 16 Jul 2023 13:02:20 +0000",
+         "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
+      },
+      {
+         "description" : "Just a few more hours, that's all the time you've got! You can still take advantage of our Summer Special offer and buy this Fritztrainer set for close to €60 below the list price. It consists of a course by Ivan Sokolov, a world elite player, and author of many popular chess books. Don't miss the opportunity to dramatically increase your middlegame strength with this very successful series.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
+         "pubDate" : "Sun, 16 Jul 2023 12:00:00 +0100",
+         "title" : "Ivan Sokolov: Understanding middlegame strategies"
+      },
+      {
          "description" : "What happens after a company sponsors a chess player? How does it find value in the sponsorship? This article puts down the story of Arjun Erigaisi and QuantBox. QuantBox is a High Frequency Trading company, which has made one of the biggest sponsorship deals in the history of Indian chess with Arjun. Recently Arjun met the members of QuantBox at their Bangalore office, and what happened is portrayed in the article below.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -266,14 +298,6 @@ news_feed (
          "title" : "Amazing rook sacrifice in Fritz game at WCCC (video)"
       },
       {
-         "description" : "Ivan Sokolov is a Dutch chess grandmaster, national champion in 1995 and 1998. For more than two decades he has been an elite player who has beaten many of the strongest players in the world. Sokolov is th4 author of many popular chess books, but also the trainer behind a very successful series of remarkable Fritztrainers. In our Summer Special you can, this week, get the full set for €119.90 - close to €60 below the list price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
-         "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0100",
-         "title" : "Ivan Sokolov: Understanding middlegame strategies"
-      },
-      {
          "description" : "In the diagram position White found a number of power moves and crushed Black's position. The art of attacking &agrave; la Rustam Kasimdzhanov - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -422,7 +446,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/torch-chess-engine",
-         "pubDate" : "Thu, 13 Jul 2023 18:17:26 -0700",
+         "pubDate" : "Thu, 13 Jul 2023 18:17:00 -0700",
          "title" : "Announcing Torch: New #2 Chess Engine"
       },
       {
@@ -746,14 +770,6 @@ news_feed (
          "title" : "ChessFest Fun in Trafalgar Square"
       },
       {
-         "description" : "Professionals today have tight schedules. There are many more tournaments in the world, with the extra addition of online events. After Norway Chess, the Global Chess League in Dubai and the Grand Chess Tour event in Zagreb, Magnus Carlsen is now playing in the Aimchess Rapid - with no signs of fatigue. Carlsen beat Jorden van Foreest, and will face Fabiano Caruana next. | Photos: Lennart Ootes / Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d1",
-         "pubDate" : "Tue, 11 Jul 2023 12:55:00 +0100",
-         "title" : "Aimchess Rapid: Carlsen's marathon"
-      },
-      {
          "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1050,14 +1066,6 @@ news_feed (
          "title" : "Queens' Festival: Malak Ismayil and Chadha Meddeb win continental qualifiers"
       },
       {
-         "description" : "All 16 participants in the 2023 Bullet Chess Championship are now determined. Along with 10 invited players, the six additional spots have been filled&#38;mdash;four of them on Friday. GMs David Paravyan and Denis Lazavik won in Qualifier 2, while G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paravyan-lazavik-andreikin-erigaisi-win-2023-bcc-qualifiers-2-3",
-         "pubDate" : "Fri, 07 Jul 2023 15:06:00 -0700",
-         "title" : "Paravyan, Lazavik, Andreikin, Arjun Qualify For BCC Main Event"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1154,7 +1162,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 3 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 4 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 4 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 4 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -1664,38 +1672,6 @@ news_feed (
          "link" : "https://chessimprover.com/legal-and-philidor/",
          "pubDate" : "Sun, 25 Jun 2023 22:20:40 +0000",
          "title" : "L&eacute;gal and Philidor"
-      },
-      {
-         "description" : "In all the years that I've been running the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I've never mentioned memes. So here we go. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nf25.jpg\" WIDTH=400 HEIGHT=150><BR> <B>Google Image search on 'chess memes'</B> <P> The last time I used the 'Google Image search' trick was <A HREF=\"https://chessforallages.blogspot.com/2022/11/election-special-2022.html\">Election Special 2022</A> (November 2022). At that time I had three rows of image thumbnails. Now I have two. Why the difference? Here's the election image... <P ALIGN=CENTER> <XMG SRC=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/the-sociology-of-memes.html",
-         "pubDate" : "Sun, 25 Jun 2023 15:13:00 +0000",
-         "title" : "The Sociology of Memes"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101260322.cms\" />Ganges Grandmasters suffered their first defeat after three consecutive victories in the Global Chess League, going down to upGrad Mumba Masters on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-anands-ganges-grandmasters-suffer-first-defeat-go-down-to-mumba-masters/articleshow/101260322.cms",
-         "pubDate" : "Sun, 25 Jun 2023 14:59:18 +0000",
-         "title" : "Global Chess League: Anand's Ganges Grandmasters suffer first defeat"
-      },
-      {
-         "description" : " Peter Myers has served as an officer in the Jamaica Chess Federation for more than 25 years and continues his work after being elected for a 2nd term on June 17th. Ten-time women's champion Deborah Richards-Porter was elected as Vice-President. It will take Myers a long time to match his 20+ years as Vice President. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/25/peter-myers-get-2nd-term-as-jamaicas-prez/\">Peter Myers get 2nd term as Jamaica's Prez!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/06/25/peter-myers-get-2nd-term-as-jamaicas-prez/",
-         "pubDate" : "Sun, 25 Jun 2023 13:45:05 +0000",
-         "title" : "Peter Myers get 2nd term as Jamaica's Prez!"
-      },
-      {
-         "description" : " The current big event running at the moment is the Global Chess League, from Dubai. It is a cross between tradition team events, and T20 Cricket leagues, with teams not so much representing countries or regions, but represent franchises. The new league has 8 teams and has attracted most of the worlds top players. On the plus side it is actually being played in person (rather than online), although the G/15m+5s time limit is geared towards instant gratification rather than slow contemplation. The most interesting feature is the scoring system - with a match win (over all 6 boards) earning a team 3 points, while drawn match is worth 1. However in the individual games a win for White is worth ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/major-league-chess.html",
-         "pubDate" : "Sun, 25 Jun 2023 13:14:00 +0000",
-         "title" : "Major League Chess"
       }
    ]
 }
