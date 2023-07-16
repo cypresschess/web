@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What happens after a company sponsors a chess player? How does it find value in the sponsorship? This article puts down the story of Arjun Erigaisi and QuantBox. QuantBox is a High Frequency Trading company, which has made one of the biggest sponsorship deals in the history of Indian chess with Arjun. Recently Arjun met the members of QuantBox at their Bangalore office, and what happened is portrayed in the article below.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-visits-his-mega-sponsor",
+         "pubDate" : "Sun, 16 Jul 2023 12:00:00 +0100",
+         "title" : "Arjun visits his mega-sponsor"
+      },
+      {
+         "description" : "The Semifinale CIA 2023 will take place from the 15th to the 22nd of July in Villesse, Italy. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It is a 9-round Swiss system tournament with participation of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/semifinale-cia-2023-live/",
+         "pubDate" : "Sun, 16 Jul 2023 09:30:00 +0000",
+         "title" : "Semifinale CIA 2023 - LIVE"
+      },
+      {
+         "description" : "The Semifinale CIA 2023 will take place from the 15th to the 22nd of July in Villesse, Italy as a 9-round Swiss. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1.Chessdom.com will daily follow the live games. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/semifinale-cia-2023/",
+         "pubDate" : "Sun, 16 Jul 2023 08:45:00 +0000",
+         "title" : "Semifinale CIA 2023"
+      },
+      {
+         "description" : "The Open Desko Liberec 2023 is taking place from the 15th to the 22nd of July in Liberec, Czech Republic. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move 1. It is a 9-round Swiss system tournament with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-desko-liberec-2023-live/",
+         "pubDate" : "Sun, 16 Jul 2023 08:30:00 +0000",
+         "title" : "Open Desko Liberec 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-8-live/",
+         "pubDate" : "Sun, 16 Jul 2023 08:07:16 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 8 - LIVE"
+      },
+      {
+         "description" : "The Open Desko Liberec 2023 is taking place from the 15th to the 22nd of July in Liberec, Czech Republic. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move 1. It is a 9-round Swiss system tournament with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-desko-liberec-2023/",
+         "pubDate" : "Sun, 16 Jul 2023 08:03:24 +0000",
+         "title" : "Open Desko Liberec 2023"
+      },
+      {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. Lei won the fifth encounter and has a 1-point lead going into game 8. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,44 +274,12 @@ news_feed (
          "title" : "Ivan Sokolov: Understanding middlegame strategies"
       },
       {
-         "description" : "The US Junior Championship is taking place in the St. Louis Chess Club from July 15-25 2023. The 10-player event has a $40,000 prize fund with $12,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u-s-junior-championship-2023-live/",
-         "pubDate" : "Sat, 15 Jul 2023 09:20:00 +0000",
-         "title" : "U.S. Junior Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The US Junior Championship is taking place in the St. Louis Chess Club from July 15-25 2023. The 10-player event has a $40,000 prize fund with $12,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u-s-junior-championship-2023/",
-         "pubDate" : "Sat, 15 Jul 2023 08:53:21 +0000",
-         "title" : "U.S. Junior Championship 2023"
-      },
-      {
          "description" : "In the diagram position White found a number of power moves and crushed Black's position. The art of attacking &agrave; la Rustam Kasimdzhanov - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/skilful",
          "pubDate" : "Sat, 15 Jul 2023 09:00:00 +0100",
          "title" : "Skilful"
-      },
-      {
-         "description" : "The U.S. Senior Championship taking place July 15-25, 2023 in the St. Louis Chess Club, with a $75,000 prize fund and $20,000 for 1st place. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is a 10-player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u-s-senior-championship-2023-live/",
-         "pubDate" : "Sat, 15 Jul 2023 07:35:00 +0000",
-         "title" : "U.S. Senior Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U.S. Senior Championship taking place July 15-25, 2023 in the St. Louis Chess Club, with a $75,000 prize fund and $20,000 for 1st place. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is a 10-player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u-s-senior-championship-2023/",
-         "pubDate" : "Sat, 15 Jul 2023 07:14:19 +0000",
-         "title" : "U.S. Senior Championship 2023"
       },
       {
          "description" : "The 2023 World Chess Software Championship was just held in Valencia, Spain, and impressively Fritz defended its title by winning it a second year straight. This event saw a very high number of draws, which might lead you to think it was a dull affair, but as you will see in one of them, it was a guns ablazing fight in OK Corral with two rook sacrifices spaced four moves apart no less!",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-started-in-swidnica-poland/",
          "pubDate" : "Fri, 14 Jul 2023 20:38:27 +0000",
          "title" : "European Senior Team Chess Championship 2023 started in Swidnica, Poland"
-      },
-      {
-         "description" : "The Hungarian Amateur Championship 2023 is taking place from 14&#x2013;19 July 2023 in Budapest, Hungary. Players receive 60 minutes for the entire game, plus a 0,03-second increment starting from move one. It is a 9-round Swiss tournament with participation of Peter Polyik, Adam Szeberenyi, Agoston Juhasz, Tibor Bodi, Attila Jakab, Tibor Leviczky, Gabor Kun, Gellert []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hungarian-amateur-championship-2023-live/",
-         "pubDate" : "Fri, 14 Jul 2023 20:15:00 +0000",
-         "title" : "Hungarian Amateur Championship 2023 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to clinch the Champions Chess Tour Aimchess Rapid 2023. After a 2-0 start by Carlsen, So made a stunning comeback by winning on demand with Black. In game four, Carlsen combined...",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d1",
          "pubDate" : "Tue, 11 Jul 2023 12:55:00 +0100",
          "title" : "Aimchess Rapid: Carlsen's marathon"
-      },
-      {
-         "description" : "Anish Giri is the 2023 Dutch champion. He won the final against Jorden van Foreest, but only after a dramatic tiebreak. Bianca Muhren-De Jong, president of the Dutch federation, congratulates. | Photos: Harry Gielen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-wins-dutch-championship",
-         "pubDate" : "Tue, 11 Jul 2023 12:18:56 +0100",
-         "title" : "Anish Giri wins Dutch Championship"
       },
       {
          "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
@@ -1696,14 +1696,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/major-league-chess.html",
          "pubDate" : "Sun, 25 Jun 2023 13:14:00 +0000",
          "title" : "Major League Chess"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation, in coperation with the European Chess Union Trainers Commission and European Chess Academy, present the first European conference for chess trainers. The event will take place during the SuperUnited Rapid &#38; Blitz tournament in Zagreb, the third stage of this year's Grand Chess Tour. Date:&#160;July 8, 2023 Time:&#160;9:30 14:00 Venue:&#160;Westin Hotel, Zagreb, Croatia Address:&#160;Krsnjagova 1, 10000&#160; Keynote speaker: Garry Kasparov on trainers' role in modern times Speakers: Michael Khodarkovsky (photo @Lennart Ootes Grand Chess Tour []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/kcf-european-trainers-conference/",
-         "pubDate" : "Sun, 25 Jun 2023 07:32:40 +0000",
-         "title" : "KCF European Trainers Conference #Zagreb 8 July"
       }
    ]
 }
