@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-3\"><img src=\"https://saintlouischessclub.or",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-3",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Joel Benjamin talks to Cristian Chirila after his draw with Dlugy in the first round of the 2023 U.S. Senior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/joel-benjamin-prepared-more-usual-r1-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2CDuzJkd6QM.jpg?itok=HgVHWesC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/joel-benjamin-prepared-more-usual-r1-usseniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Joel Benjamin: Prepared More Than Usual | R1 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Prasanna in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-excited-play-carissa-yip-she-was-one-my-idols-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/krrVcOnx940.jpg?itok=UmQeRjEf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-excited-play-carissa-yip-she-was-one-my-idols-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Alice Lee Excited to Play Carissa Yip: She Was One of My Idols | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Rochelle Wu talks to Cristian Chirila after defeating Iris Mou in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-just-wants-%E2%80%98-have-good-time%E2%80%99-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xNdt9L1urUU.jpg?itok=Z-eU1_TD\" alt=\"\" /></a></div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-just-wants-%E2%80%98-have-good-time%E2%80%99-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Rochelle Wu Just Wants 'to Have a Good Time' | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Arthur Xu talks to Cristian Chirila after defeating Daggupati in the first round of the 2023 U.S. Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/underdog-arthur-xu-surprises-first-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HIzyIcKvgpI.jpg?itok=28SUHXBq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/underdog-arthur-xu-surprises-first-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Underdog Arthur Xu Surprises in the First! | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Cristian Chirila after defeating Akopian in the first round of the 2023 U.S. Senior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-beats-hometown-acquaintance-akopian-r1-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2Y1zV-qJjnk.jpg?itok=rMtq-YfY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khachiyan-beats-hometown-acquaintance-akopian-r1-usseniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Khachiyan Beats Hometown Acquaintance Akopian | R1 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Brandon Jacobson talks to Cristian Chirila after defeating Jason Liang in the first round of the 2023 U.S. Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jacobson-now-my-shot-win-junior-title-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n_YEF_SOBLA.jpg?itok=tqsAZOcK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jacobson-now-my-shot-win-junior-title-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Jacobson: Now is My Shot to Win the Junior Title | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Shabalov talks to Cristian Chirila after defeating Douglas Root in the first round of the 2023 U.S. Senior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shabalov-studied-root-using-his-games-80s-r1-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/syRkGnojrr4.jpg?itok=c7hy_IKa\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shabalov-studied-root-using-his-games-80s-r1-usseniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Shabalov: Studied Root Using His Games from the 80s | R1 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Cristian Chirila after a draw with Kelsey Liu in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-first-round-disappointment-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JeNITVaZ7mU.jpg?itok=xX5ECY40\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-yip-first-round-disappointment-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Carissa Yip: First Round Disappointment | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Cristian Chirila after defeating Justin Wang in the first round of the 2023 U.S. Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hong-due-nerves-first-round-doesn%E2%80%99t-mean-much-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a6vcUwRke3I.jpg?itok=bekLg_nR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hong-due-nerves-first-round-doesn%E2%80%99t-mean-much-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
+         "title" : "Hong: Due to Nerves, First Round Doesn't Mean Much | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "In the Grand Final of the Aimchess Rapid, Magnus Carlsen defeated Wesley So by a 3-1 score on Friday. The 15+3 rapid tournament was the fourth event of the Champions Chess Tour and was played online. In the overall tour standings, Carlsen now has a 95-point lead over his closest chaser, Fabiano Caruana. Denis Lazavik won Division II, while Yu Yangyi prevailed in Division III.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d5",
+         "pubDate" : "Sun, 16 Jul 2023 03:00:00 +0100",
+         "title" : "Carlsen twice checkmates So, wins Aimchess Rapid"
+      },
+      {
+         "description" : "GM Hikaru Nakamura once again won Saturday&#39;s Bullet Brawl and claimed the $400 first prize after scoring 263 points in the two-hour arena. This victory follows his record-breaking 75-win run in the previous event. In the most stacked edition yet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-3",
+         "pubDate" : "Sat, 15 Jul 2023 18:10:00 -0700",
+         "title" : "Nakamura Reigns Supreme In Bullet Brawl, Claims 6th Title"
+      },
+      {
          "description" : "The Wood Green Invitational is an 10-player round-robin tournament taking place from 14&#x2013;18 July 2023 in Stafford, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess Championship 2023 / Ju Wenjun &#x2013; Lei Tingjie , []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -24,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/u-s-girls-junior-championship-2023-live/",
          "pubDate" : "Sat, 15 Jul 2023 20:55:00 +0000",
          "title" : "U.S. Girls Junior Championship 2023 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-2\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-2",
-         "pubDate" : "Sat, 15 Jul 2023 20:37:05 +0000",
-         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 2"
       },
       {
          "description" : "The US Junior Girls Championship is taking place in the Saint Louis Chess Club from July 15-25, 2023. The 10-player event has a $20,600 prize fund with $6,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the []",
@@ -738,14 +826,6 @@ news_feed (
          "title" : "Padmini Rout National Women Champion"
       },
       {
-         "description" : "After winning every single game on Saturday, Magnus Carlsen secured tournament victory at the SuperUnited Rapid & Blitz tournament by scoring 5 points in the first 6 rounds of the event's final day of action. With overall victory in the bag, Carlsen went on to lose his blitz-chess undefeated streak against Alireza Firouzja. Ian Nepomniachtchi and Firouzja finished second and third, respectively. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2023-d5",
-         "pubDate" : "Mon, 10 Jul 2023 16:25:00 +0100",
-         "title" : "Carlsen wins SuperUnited Rapid & Blitz with three rounds to spare"
-      },
-      {
          "description" : " The Aimchess Rapid takes place 10th to 14th July 2023. Part of the Champions Chess Tour it is hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -808,46 +888,6 @@ news_feed (
          "link" : "https://aicf.in/mahesh-candolkar-and-ashesh-keni-elected-as-president-and-secretary-of-goa-chess-association/",
          "pubDate" : "Sun, 09 Jul 2023 17:37:29 +0000",
          "title" : "Mahesh Candolkar and Ashesh Keni elected as President and Secretary of Goa Chess Association"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Executive Director Michael Khodarkovsky talks to Cristian Chirila during the second blitz day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khodarkovsky-another-european-gct-event-soon-d5-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fXWARh3pMoE",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khodarkovsky-another-european-gct-event-soon-d5-superunitedrapidblitzcroatia",
-         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
-         "title" : "Khodarkovsky: Another European GCT Event Soon! | D5 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Croatian professional tennis player Borna Ćori&#263 talks to Anastasiya Karlovich during the second blitz day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/borna-%C4%87ori%C4%87-saric-my-favorite-chess-player-d5-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fRF",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/borna-%C4%87ori%C4%87-saric-my-favorite-chess-player-d5-superunitedrapidblitzcroatia",
-         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
-         "title" : "Borna Ćori&#263: Saric is My Favorite Chess Player | D5 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired on Day 5. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-shaped-hungary-serbia-romania-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W-dx67d_4f4.jpg?itok=XVoyli4c\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-shaped-hungary-serbia-romania-superunitedrapidblitzcroatia",
-         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
-         "title" : "Rapport: Shaped by Hungary, Serbia, & Romania | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ivan Saric talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. This aired on Day 5. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saric-chess-trending-worldwide-including-croatia-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qh8ygwt1CEA.jpg?itok=7Cv8Au2p\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saric-chess-trending-worldwide-including-croatia-superunitedrapidblitzcroatia",
-         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
-         "title" : "Saric: Chess is Trending Worldwide, Including Croatia | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen speaks to Cristian Chirila and receives his trophy from Grand Chess Tour Executive Director Michael Khodarkovsky and SuperUnited Organization Committee President Marin Maruši&#263 after the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.09<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-blitz-streak-sweeter-any-tournament-win-d5superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-blitz-streak-sweeter-any-tournament-win-d5superunitedrapidblitzcroatia",
-         "pubDate" : "Sun, 09 Jul 2023 17:31:17 +0000",
-         "title" : "Carlsen: Blitz Streak Sweeter Than Any Tournament Win | D5#SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "The SuperUnited Rapid and Blitz Croatia 2023 came to a close on Sunday with one clear winner, GM Magnus Carlsen. The former world champion kept up his formidable run and scored 6/9 on the second day of blitz to take his total to 26/36.&#38;nbsp; Not...",
@@ -928,38 +968,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-4",
          "pubDate" : "Sat, 08 Jul 2023 16:25:00 -0700",
          "title" : "Carlsen Towers Above Rivals With Perfect Score"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Constantin Lupulescu talks to Anastasiya Karlovich before the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lupulescu-i-want-play-my-best-chess-top-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ceLiJI2UAio.jpg?itok=B0pvsEaR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lupulescu-i-want-play-my-best-chess-top-players-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 08 Jul 2023 20:30:29 +0000",
-         "title" : "Lupulescu: I Want To Play My Best Chess with the Top Players | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after going 6-2-1 on the first blitz day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-i%E2%80%99m-playing-2nd-place-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HjHX1T-2gZw.jpg?itok=YgQM7SdJ\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-i%E2%80%99m-playing-2nd-place-d4-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 08 Jul 2023 20:30:29 +0000",
-         "title" : "Firouzja: I'm Playing for 2nd Place! | D4 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Cristian Chirila after going 9-0, adopting the field, on the first blitz day of the 2023 SuperUnited Rapid &amp; Blitz Croatia. 2023.07.08<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-going-9-0-very-very-special-me-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E-_H53UVO8w.jpg?itok=5vboaJ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-going-9-0-very-very-special-me-d4-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 08 Jul 2023 20:30:29 +0000",
-         "title" : "Carlsen: Going 9-0 is Very, Very Special To Me | D4 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (listed below) compete in three concurrent round robin national championships for a total $150,000 prize fund. The Saint Louis Chess Campus era's 14th edition goes from July 15-25. USChessChamps.com U.S. JUNIOR<br /> Christopher Yoo<br /> Abhi Mishra<br /> Brandon Jacobson<br /> Andrew Hong<br /> Justin Wang<br /> Arthur Guo<br /> Balaji Daggupati<br /> Jason Liang<br /> Josiah Stearman<br /> Arthur Xu </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-promo",
-         "pubDate" : "Sat, 08 Jul 2023 20:30:29 +0000",
-         "title" : "2023 U.S. Junior & U.S. Senior Championships | PROMO"
       },
       {
          "description" : "Regular readers of my column will have observed my general aversion to cancel culture and the obliteration of memory. In TheArticle I have regularly inveighed against attempts to erase history, citing heinous examples, such as the Spanish conquistadors, a small group of heavily outnumbered activists, who exerted sufficient control to eradicate a nation's history, abolish its []",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/",
          "pubDate" : "Fri, 07 Jul 2023 19:42:02 +0000",
          "title" : "Brewington Hardaway gets 3rd/Final IM norm!"
-      },
-      {
-         "description" : "The 17-year-old IM Eline Roebers gained her first Dutch Women&#39;s Championship on Thursday in Utrecht, the Netherlands, in an event disrupted by a row over a freak &#34;code red&#34; storm that resulted in one player dropping out. Roebers won a double round...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dutch-women-chess-championship-roebers-wins-protest-van-weersel",
-         "pubDate" : "Fri, 07 Jul 2023 02:44:00 -0700",
-         "title" : "Row Over Freak Storm Mars Dutch Women's Championship; Roebers (17) Wins 1st Title"
       },
       {
          "description" : "You can hear a British Chess Championships interview with BBC Radio Leicester's Ben Jackson, featuring the ECF's Home Director Nigel Towers and Paul Mottram, the...",
