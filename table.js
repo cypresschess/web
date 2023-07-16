@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2023-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307157802 target='_blank'>CHESSPANDA07152023SATURDAY</a>",
+"CYPRESS","2023-07-14  - 07-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202307157332 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2023-07-14","33","<a href=http://www.uschess.org/msa/XtblMain.php?202307147312 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-07-08","117","<a href=http://www.uschess.org/msa/XtblMain.php?202307085022 target='_blank'>JULY 8TH 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-07-08","12","<a href=http://www.uschess.org/msa/XtblMain.php?202307084362 target='_blank'>CHESSPANDA07082023SATURDAY</a>",
 "CYPRESS","2023-07-07","34","<a href=http://www.uschess.org/msa/XtblMain.php?202307073662 target='_blank'>EVENT NAME MISSING</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2022-11-01  - 11-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202211291852 target='_blank'>NOV 2022 TUESDAY NIGHT SWISS</a>",
 "PEARLAND","2022-11-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202211291832 target='_blank'>RCC QUADS NOVEMBER 29, 2022</a>",
 "LEAGUE CITY","2022-11-07  - 11-28","6","<a href=http://www.uschess.org/msa/XtblMain.php?202211281072 target='_blank'>CLCC NOVEMBER MONDAYS</a>",
-"HOUSTON","2022-11-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202211271202 target='_blank'>NOVEMBER 27 SUNDAY SWISS</a>",
-"HOUSTON","2022-11-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202211261702 target='_blank'>F7 CHESS CLUB'S NOVEMBER SCHOLASTIC</a>",
-"SPRING","2022-11-25","16","<a href=http://www.uschess.org/msa/XtblMain.php?202211257992 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
