@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. Lei won the fifth encounter and has a 1-point lead going into game 8. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sun, 16 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 8 - Live!"
+      },
+      {
+         "description" : "Yangyi Yu won Biel GM Triathlon Chess960 with 5&#xBD;/7, while Bogdan-Daniel Deac and David Navara, both with 4&#xBD;/7 finished consequently second and third. The Biel Grandmaster Triathlon chess960 is an 8-player round-robin tournament taking place on 15 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yangyi-yu-won-biel-gm-triathlon-chess960/",
+         "pubDate" : "Sun, 16 Jul 2023 07:19:04 +0000",
+         "title" : "Yangyi Yu won Biel GM Triathlon Chess960"
+      },
+      {
+         "description" : "The protagonists of the Women's World Championship moved to Chongqing to play the second half of the all-Chinese match. Game 7 was played on Saturday. Challenger Lei Tingjie still has a 1-point lead over defending champion Ju Wenjun after the latter could not convert a clear advantage into a win while marshalling the black pieces. Lei had won game 5, the only decisive encounter of the match so far. | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-7",
+         "pubDate" : "Sun, 16 Jul 2023 04:20:00 +0100",
+         "title" : "Women's World Championship: Ju fails to convert big advantage"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-3\"><img src=\"https://saintlouischessclub.or",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -226,14 +250,6 @@ news_feed (
          "title" : "Skilful"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tinjie play a 12-game match for the Women's World Chess Championship. The first half of the match is taking place in Shanghai and the second half is set to take place in Chongqing. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sat, 15 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 6 - Live!"
-      },
-      {
          "description" : "The U.S. Senior Championship taking place July 15-25, 2023 in the St. Louis Chess Club, with a $75,000 prize fund and $20,000 for 1st place. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is a 10-player []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -272,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hungarian-amateur-championship-2023-live/",
          "pubDate" : "Fri, 14 Jul 2023 20:15:00 +0000",
          "title" : "Hungarian Amateur Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Hungarian Amateur Championship 2023 is taking place from 14&#x2013;19 July 2023 in Budapest, Hungary. Players receive 60 minutes for the entire game, plus a 0,03-second increment starting from move one. It is a 9-round Swiss tournament with participation of Peter Polyik, Adam Szeberenyi, Agoston Juhasz, Tibor Bodi, Attila Jakab, Tibor Leviczky, Gabor Kun, Gellert []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hungarian-amateur-championship-2023/",
-         "pubDate" : "Fri, 14 Jul 2023 19:56:19 +0000",
-         "title" : "Hungarian Amateur Championship 2023"
       },
       {
          "description" : "GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to clinch the Champions Chess Tour Aimchess Rapid 2023. After a 2-0 start by Carlsen, So made a stunning comeback by winning on demand with Black. In game four, Carlsen combined...",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-starts-in-poland/",
          "pubDate" : "Tue, 11 Jul 2023 08:34:41 +0000",
          "title" : "European Senior Team Chess Championship 2023 starts in Poland"
-      },
-      {
-         "description" : "In the diagram position White is two pawns up, but Black seems to be close to a draw. However, knight endgames can be tricky. What can White do to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tricky-knights-2",
-         "pubDate" : "Tue, 11 Jul 2023 09:00:00 +0100",
-         "title" : "Tricky knights"
       },
       {
          "description" : "Submissions are open for this year's ECF Awards. The closing date for nominations has been extended to August 5th 2023 Details for this year's...",
