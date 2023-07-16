@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just a few more hours, that's all the time you've got! You can still take advantage of our Summer Special offer and buy this Fritztrainer set for close to €60 below the list price. It consists of a course by Ivan Sokolov, a world elite player, and author of many popular chess books. Don't miss the opportunity to dramatically increase your middlegame strength with this very successful series.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
+         "pubDate" : "Sun, 16 Jul 2023 20:00:00 +0100",
+         "title" : "Ivan Sokolov: Understanding middlegame strategies"
+      },
+      {
+         "description" : "Simen Agdestein recently won the Norwegian Chess Championship for a ninth time in his career. The 56-year-old outscored the likes of Aryan Tari and Jon Ludvig Hammer, but did not have to beat national hero and former student Magnus Carlsen, who does not participate in his country's championships. In his column this week, Jon Speelman analyses recent games by both the master and the student! | Photo: VG.no",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-198",
+         "pubDate" : "Sun, 16 Jul 2023 19:20:00 +0100",
+         "title" : "Old and new"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2527",
+         "pubDate" : "Sun, 16 Jul 2023 15:23:28 +0000",
+         "title" : "WWC Match 2023: Ju Wenjun equalises after a long grueling battle"
+      },
+      {
          "description" : "GM Ju Wenjun is back! The Women&#39;s World Champion outplayed challenger GM Lei Tingjie in a complex middlegame and then ground out an endgame win to level the scores at 4-4 going into the final four games of the 2023 FIDE Women&#39;s World Championship ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-8",
          "pubDate" : "Sun, 16 Jul 2023 08:02:00 -0700",
          "title" : "Ju Wenjun Wins Game 8 To Tie World Championship Match"
+      },
+      {
+         "description" : " The Aimchess Rapid took place 10th to 14th July 2023. Part of the Champions Chess Tour it was hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga. Carlsen beat Wesley So in the final. Denis Lazavik just got past Sam Sevian to reach the next final, remarkably they drew all the games from all 3 of their matches with having black in the Armageddon being decisive each time.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2023",
+         "pubDate" : "Sun, 16 Jul 2023 18:41:00 +0400",
+         "title" : "Aimchess Rapid 2023 - Games and Results"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 134th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and looks at the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/",
          "pubDate" : "Sun, 16 Jul 2023 13:02:20 +0000",
          "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
-      },
-      {
-         "description" : "Just a few more hours, that's all the time you've got! You can still take advantage of our Summer Special offer and buy this Fritztrainer set for close to €60 below the list price. It consists of a course by Ivan Sokolov, a world elite player, and author of many popular chess books. Don't miss the opportunity to dramatically increase your middlegame strength with this very successful series.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies",
-         "pubDate" : "Sun, 16 Jul 2023 12:00:00 +0100",
-         "title" : "Ivan Sokolov: Understanding middlegame strategies"
       },
       {
          "description" : "What happens after a company sponsors a chess player? How does it find value in the sponsorship? This article puts down the story of Arjun Erigaisi and QuantBox. QuantBox is a High Frequency Trading company, which has made one of the biggest sponsorship deals in the history of Indian chess with Arjun. Recently Arjun met the members of QuantBox at their Bangalore office, and what happened is portrayed in the article below.",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
       },
       {
-         "description" : "Whatever your idea of a traditional chess event is, it's probably nothing like London's ChessFest. While in most tournaments, the action takes place behind closed doors, accessible only to knowledgeable insiders and connoisseurs of the game, ChessFest turns all that upside down. This is chess writ large in the open air, performed in full public view, with mass participation the central goal. If you are in or anywhere near London, you should definitely pay ChessFest a visit. | Photos by Andrew Moss",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessfest-fun-in-trafalgar-square",
-         "pubDate" : "Tue, 11 Jul 2023 13:00:00 +0100",
-         "title" : "ChessFest Fun in Trafalgar Square"
-      },
-      {
          "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://aicf.in/padmini-rout-national-women-champion/",
          "pubDate" : "Mon, 10 Jul 2023 18:48:09 +0000",
          "title" : "Padmini Rout National Women Champion"
-      },
-      {
-         "description" : " The Aimchess Rapid takes place 10th to 14th July 2023. Part of the Champions Chess Tour it is hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2023",
-         "pubDate" : "Mon, 10 Jul 2023 18:41:00 +0400",
-         "title" : "Aimchess Rapid 2023 - Games and Results"
       },
       {
          "description" : " Junior player Harvey Zhu was the surprise winner of the 2023 NSW Rapid Championship. Seeded 12th in the tournament he scored an impressive 6.5/7, finishing a full point clear of 2nd place. After a 2nd round draw, he reeled of 5 straight wins, beating IM George Xie in round 6 and FM Alexis Vargas Arteaga in the final round. In 2nd place were 12 players tied on 5.5/7, including Xie, Vargas Arteaga and top seed FM Jason Hu. Hu had a rough start, losing in round 1 after dropping a queen, and drawing his 4th round game. With the large field of 134 players, a single lost point was enough to drop players out of the running. Despite the size of the field the event ran quite smoothly. There were no ",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/stockfish-wins-tcec-dfrc2-ccc20-bullet.html",
          "pubDate" : "Mon, 26 Jun 2023 15:13:00 +0000",
          "title" : "Stockfish Wins TCEC DFRC2; CCC20 Bullet Underway"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2477",
-         "pubDate" : "Mon, 26 Jun 2023 14:33:40 +0000",
-         "title" : "Alexey Sarana is the Winner of the Inaugural Olympic Esports Series Chess Event"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
