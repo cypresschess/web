@@ -1656,14 +1656,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/06/stockfish-wins-tcec-dfrc2-ccc20-bullet.html",
          "pubDate" : "Mon, 26 Jun 2023 15:13:00 +0000",
          "title" : "Stockfish Wins TCEC DFRC2; CCC20 Bullet Underway"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101280759.cms\" />India leg-spinner Yuzvendra Chahal possesses a unique perspective on the correlation between chess and cricket. His expertise in both games has enabled him to develop a remarkable level of patience and resilience, proving instrumental in overcoming obstacles throughout his cricketing journey.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-has-taught-me-to-stay-patient-with-my-cricket-says-yuzvendra-chahal/articleshow/101280759.cms",
-         "pubDate" : "Mon, 26 Jun 2023 11:03:04 +0000",
-         "title" : "Chess has taught me to stay patient with my cricket: Chahal"
       }
    ]
 }
