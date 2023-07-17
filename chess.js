@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the eighth game of the FIDE Women's World Championship on Sunday, Ju Wenjun finally managed to score a win against challenger Lei Tingjie. A day earlier, the defending champion had failed to make the most of a big advantage in game 7. With four more games to go, the score is now tied. | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-8",
+         "pubDate" : "Mon, 17 Jul 2023 09:00:00 +0100",
+         "title" : "Women's World Championship: Ju levels the score"
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can, this week, get the full set for €59.90 - and save €20 in the deal.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Mon, 17 Jul 2023 08:00:00 +0100",
+         "title" : "Herman Grooten: Key concepts"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Rochelle Wu talks to Cristian Chirila after defeating Iris Mou in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-interview-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xNdt9L1urUU.jpg?itok=Z-eU1_TD\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/open-desko-liberec-2023/",
          "pubDate" : "Sun, 16 Jul 2023 08:03:24 +0000",
          "title" : "Open Desko Liberec 2023"
-      },
-      {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. Lei won the fifth encounter and has a 1-point lead going into game 8. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sun, 16 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 8 - Live!"
       },
       {
          "description" : "Yangyi Yu won Biel GM Triathlon Chess960 with 5&#xBD;/7, while Bogdan-Daniel Deac and David Navara, both with 4&#xBD;/7 finished consequently second and third. The Biel Grandmaster Triathlon chess960 is an 8-player round-robin tournament taking place on 15 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting []",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nagpurs-vedika-pal-is-u-10-girls-western-asia-chess-champion/articleshow/101672957.cms",
          "pubDate" : "Tue, 11 Jul 2023 13:14:50 +0000",
          "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
-      },
-      {
-         "description" : "Whatever your idea of a traditional chess event is, it's probably nothing like London's ChessFest. While in most tournaments, the action takes place behind closed doors, accessible only to knowledgeable insiders and connoisseurs of the game, ChessFest turns all that upside down. This is chess writ large in the open air, performed in full public view, with mass participation the central goal. If you are in or anywhere near London, you should definitely pay ChessFest a visit. | Photos by Andrew Moss",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessfest-fun-in-trafalgar-square",
-         "pubDate" : "Tue, 11 Jul 2023 13:00:00 +0100",
-         "title" : "ChessFest Fun in Trafalgar Square"
       },
       {
          "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
