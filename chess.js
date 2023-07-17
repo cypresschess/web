@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Mon, 17 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "Imagine a sun-filled day with an over-the-board game in a picturesque park such as Columbus Park in New York City. It&#38;rsquo;s a scene we all enjoy watching. Would you be surprised to see tennis great Roger Federer on one side of the chessboard fac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/roger-federer-tani-adewumi-chess-meeting-of-the-masters",
+         "pubDate" : "Mon, 17 Jul 2023 11:46:00 -0700",
+         "title" : "Tennis Legend Roger Federer Encounters Chess Prodigy Tani"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, mostly taken from games by wunderkind Alireza Firouzja! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-245-endgame-highlights-from-superunited-event",
+         "pubDate" : "Mon, 17 Jul 2023 19:15:00 +0100",
+         "title" : "Endgame Magic #245: Highlights from the SuperUnited event in Croatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Rochelle Wu talks to Cristian Chirila after defeating Iris Mou in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-im-giving-myself-zero-pressure-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xNdt9L1urUU.jpg?itok=Z-eU1_TD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-im-giving-myself-zero-pressure-r1-usjuniorschess",
+         "pubDate" : "Mon, 17 Jul 2023 17:38:45 +0000",
+         "title" : "Rochelle Wu: I'm Giving Myself Zero Pressure | R1 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Brandon Jacobson talks to Begim Tokhirjonova before the 2023 U.S. Junior &amp; U.S. Senior Championships. This aired during Round 2. 2023.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jacobson-i%E2%80%99ve-been-soul-searching-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LblAgqYdbBs.jpg?itok=FFj4Wz3O\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jacobson-i%E2%80%99ve-been-soul-searching-usjuniorschess",
+         "pubDate" : "Mon, 17 Jul 2023 17:38:45 +0000",
+         "title" : "Jacobson: I've Been Soul-Searching | #USJuniorsChess"
+      },
+      {
+         "description" : "Four games, four wins - that was Praggnanandhaa's tally at the start of Geza Hetenyi Memorial in Budapest. Pragg thus became the eighth Indian to break the 2700-elamark. However, the Indian speed train was stopped in the fifth round when he lost to Amin Tabatabaei. The prodigy returned to his winning ways the very next round, as he defeated Peter Prohazka with black on Sunday. | Photo: Zoltan F&uuml;l&ouml;p",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragnanandhaa-leader-geza-hetenyi-memorial",
+         "pubDate" : "Mon, 17 Jul 2023 18:20:00 +0100",
+         "title" : "Pragnanandhaa: Five wins and a miscalculation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2528",
+         "pubDate" : "Mon, 17 Jul 2023 15:27:35 +0000",
+         "title" : "FIDE World Championships 2024 Call for Bids is Closed"
+      },
+      {
          "description" : "Warning: The following clips contain an aggressive display of racial harassment, including multiple expletives and a slur. Chess streamer Alyssazhu was streaming live on Twitch from a park when her camera was knocked over before a racist rant ag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -224,22 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jacobson-now-my-shot-win-junior-title-r1-usjuniorschess",
          "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
          "title" : "Jacobson: Now is My Shot to Win the Junior Title | R1 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Shabalov talks to Cristian Chirila after defeating Douglas Root in the first round of the 2023 U.S. Senior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shabalov-studied-root-using-his-games-80s-r1-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/syRkGnojrr4.jpg?itok=c7hy_IKa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shabalov-studied-root-using-his-games-80s-r1-usseniorschess",
-         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
-         "title" : "Shabalov: Studied Root Using His Games from the 80s | R1 #USSeniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Cristian Chirila after a draw with Kelsey Liu in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-first-round-disappointment-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JeNITVaZ7mU.jpg?itok=xX5ECY40\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-yip-first-round-disappointment-r1-usjuniorschess",
-         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
-         "title" : "Carissa Yip: First Round Disappointment | R1 #USJuniorsChess"
       },
       {
          "description" : "In the Grand Final of the Aimchess Rapid, Magnus Carlsen defeated Wesley So by a 3-1 score on Friday. The 15+3 rapid tournament was the fourth event of the Champions Chess Tour and was played online. In the overall tour standings, Carlsen now has a 95-point lead over his closest chaser, Fabiano Caruana. Denis Lazavik won Division II, while Yu Yangyi prevailed in Division III.",
@@ -698,14 +738,6 @@ news_feed (
          "title" : "English Women's Online Blitz Championship 2023"
       },
       {
-         "description" : "Since moving to the digital world we live in, a few parts of our lives continue to be a cross between tradition and the new, such as photography, newspapers, and most notably: books. There are many who are deeply reluctant to make the switch for reading, keen to bring up aspects of print that are absent in digital. But is it that simple? Enjoy this article and video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-wonderful-world-of-ereading",
-         "pubDate" : "Wed, 12 Jul 2023 11:00:00 +0100",
-         "title" : "The Wonderful World of ereading"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "41 Years After His First Title in Norway Simen Agdestein Wins Again"
       },
       {
-         "description" : "Magnus Carlsen and Nodirbek Abdusattorov advanced to the final match in the winners' bracket of the Aimchess Rapid online tournament by beating Fabiano Caruana and Levon Aronian respectively. Meanwhile, in the losers' bracket, Wesley So and Eduardo Iturrizaga both won their Tuesday matches in Armageddon. | Photo: Eric Rosen / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d3",
-         "pubDate" : "Wed, 12 Jul 2023 01:50:00 +0100",
-         "title" : "Aimchess Rapid: Carlsen and Abdusattorov reach winners' final"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov advance to the Winners Final in Division I of the Champions Chess Tour Aimchess Rapid 2023 after defeating GMs Fabiano Caruana and Levon Aronian, respectively, in four regular games and without armagedd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/viswanathan-anand-appears-in-subway-restaurant-ad",
          "pubDate" : "Tue, 11 Jul 2023 12:51:00 -0700",
          "title" : "Check Please! Chess Legend Viswanathan Anand In Subway Restaurant Ad"
-      },
-      {
-         "description" : "Evgeny Postny examines in the current ChessBase Magazine #214 the variation 1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 (which, in contrast to the main continuation 6.Bf4, prevents the development of Black's bishop to g4) with the active advance 6...e5. From Postny's point of view a sound reaction, which \"offers Black adequate play in all variations\" even though an isolani on d5 will be involved.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/news-from-the-exchange-caro-kann",
-         "pubDate" : "Tue, 11 Jul 2023 16:00:00 +0100",
-         "title" : "News from the Exchange Caro-Kann"
       },
       {
          "description" : "",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://www.thearticle.com/damnatio-memoriae/",
          "pubDate" : "Sat, 08 Jul 2023 15:33:46 +0000",
          "title" : "Damnatio Memoriae"
-      },
-      {
-         "description" : "Women&#39;s World Champion GM Ju Wenjun was surprised in the opening but pounced on the chance to grab a central pawn, leaving challenger GM Lei Tingjie on the ropes in game three of the 2023 FIDE Women&#39;s World Championship in Shanghai. Lei held firm,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-3",
-         "pubDate" : "Sat, 08 Jul 2023 06:46:00 -0700",
-         "title" : "Ju Grabs Pawn In Game 3 But Can't Break Deadlock"
       },
       {
          "description" : "",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-congress-2023/",
          "pubDate" : "Tue, 27 Jun 2023 06:03:31 +0000",
          "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2478",
-         "pubDate" : "Mon, 26 Jun 2023 21:58:13 +0000",
-         "title" : "GCL Day 5: Triveni Continental Kings fail to stop Ganges Grandmasters' charge"
       }
    ]
 }
