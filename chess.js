@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"KISS\", which stands for \"Keep it simple, stupid!\", is a design principle first formulated by the US Navy in 1960, but which quickly caught on. KISS suggests that simplicity is preferable to complexity in most systems. Chess is no exception - Jan Markos knows more. | Photo: Jimee, Jackie, Tom & Asha on Flickr.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-20-simple-means-safe",
+         "pubDate" : "Mon, 17 Jul 2023 12:00:00 +0100",
+         "title" : "The Winning Academy 20: Simple means safe"
+      },
+      {
          "description" : "In the eighth game of the FIDE Women's World Championship on Sunday, Ju Wenjun finally managed to score a win against challenger Lei Tingjie. A day earlier, the defending champion had failed to make the most of a big advantage in game 7. With four more games to go, the score is now tied. | Photo: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Women's World Championship: Ju levels the score"
       },
       {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can, this week, get the full set for €59.90 - and save €20 in the deal.",
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2516",
          "pubDate" : "Tue, 11 Jul 2023 14:50:30 +0000",
          "title" : "WWC Match 2023: Lei Tingjie takes early lead with convincing win over Ju Wenjun"
-      },
-      {
-         "description" : "The Women's World Championship match between challenger Lei Tingjie and reigning champion Ju Wenjun started with four draws, but in game 5 Lei Tingjie scored the first win of the match. She defeated Wu Wenjun with a convincing positional game. | Photos: Stev Bonhage (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-world-championship-lei-tingjie-takes-the-lead",
-         "pubDate" : "Tue, 11 Jul 2023 15:46:42 +0100",
-         "title" : "Women's World Championship: Lei Tingjie takes the lead"
       },
       {
          "description" : "<br /><br /><b>ACT Winter Open 2023</b><br /><br />28-30 July (One round Friday evening, three Saturday, two Sunday)<br /><br /><b>Format:</b> Open section and Under 1600 Section (ACF)<br /><br /><b>Time control:</b> 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule:</b> Round 1 Friday 28th 7PM, <br /><br />Round 2 Sat 29th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 30th 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee:</b> $80 ($60 concession) - GM, IM, WGM and WIM Free<br /><br /><b>Prizes:</b> $1000 1st Open, $400 1st Minor $3600 in total<br /><br /><b>Venue:</b> Campbell High School, Treloar Cres Campbell ACT<br /><br />Booking link: <a href=\"htt",
