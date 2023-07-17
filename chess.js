@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Warning: The following clips contain an aggressive display of racial harassment, including multiple expletives and a slur. Chess streamer Alyssazhu was streaming live on Twitch from a park when her camera was knocked over before a racist rant ag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alyssazhus-chess-stream-interrupted-by-racist-rant",
+         "pubDate" : "Mon, 17 Jul 2023 08:06:05 -0700",
+         "title" : "Alyssazhu's Chess Stream Interrupted By Racist Rant"
+      },
+      {
+         "description" : " When trying to 'gamify' chess to small children, I usually tell them that the pawn has one hidden power, and one super power. The super power is the ability to transform into another, stronger piece when it reaches the end of the board. And the hidden power is that hs the weakest power of all the pieces. So anything it attacks is either more valuable or at worst, of equal value. And to demonstrate ... <br /> <b>Press,Shaun - Khadkar,Sameet [D77]</b><br /> Gungahlin Rapid ---, 11.07.2023 <script> new PgnViewer( { boardName: \"game1408\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 O-O 6.O-O e6 7.Nc3 dxc4 8.Ne5 c6 9.Nxc4 Nd5 10.e4 b5 11.exd5 bxc4 12.dxc6 Qc7 13.N",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/the-pawn-is-dead-long-live-pawn.html",
+         "pubDate" : "Mon, 17 Jul 2023 13:48:00 +0000",
+         "title" : "The pawn is dead, long live the pawn"
+      },
+      {
          "description" : "\"KISS\", which stands for \"Keep it simple, stupid!\", is a design principle first formulated by the US Navy in 1960, but which quickly caught on. KISS suggests that simplicity is preferable to complexity in most systems. Chess is no exception - Jan Markos knows more. | Photo: Jimee, Jackie, Tom & Asha on Flickr.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-winning-academy-20-simple-means-safe",
          "pubDate" : "Mon, 17 Jul 2023 12:00:00 +0100",
          "title" : "The Winning Academy 20: Simple means safe"
+      },
+      {
+         "description" : "The UK's largest chess event took place on Sunday 16th July in London's Trafalgar Square. Now in its third year, the annual open-air chess festival...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-is-back/",
+         "pubDate" : "Mon, 17 Jul 2023 10:59:05 +0000",
+         "title" : "ChessFest!"
       },
       {
          "description" : "In the eighth game of the FIDE Women's World Championship on Sunday, Ju Wenjun finally managed to score a win against challenger Lei Tingjie. A day earlier, the defending champion had failed to make the most of a big advantage in game 7. With four more games to go, the score is now tied. | Photo: Stev Bonhage / FIDE",
@@ -1058,14 +1082,6 @@ news_feed (
          "title" : "FIDE Circuit at midway point"
       },
       {
-         "description" : "In their first-ever tournament encounter, GM Gukesh D. defeated his mentor, GM Viswanathan Anand, on day three of the SuperUnited Rapid and Blitz Croatia 2023.&#38;nbsp; GMs Fabiano Caruana and Ian Nepomniachtchi shared first for the rapid segment, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-superunited-croatia-rapid-blitz-day-3",
-         "pubDate" : "Fri, 07 Jul 2023 15:44:00 -0700",
-         "title" : "Protege Defeats Legendary Mentor: Gukesh vs. Anand"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "Girls Club \"Chess for protection\" keeps growing"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/counties-championship-2023/#new_tab",
-         "pubDate" : "Wed, 28 Jun 2023 08:09:33 +0000",
-         "title" : "ECF Counties Championship Final - 1 July"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2478",
          "pubDate" : "Mon, 26 Jun 2023 21:58:13 +0000",
          "title" : "GCL Day 5: Triveni Continental Kings fail to stop Ganges Grandmasters' charge"
-      },
-      {
-         "description" : "In this continuing, fortnightly series on the world's top two engine vs. engine competitions, the previous post was <A HREF=\"https://chessforallages.blogspot.com/2023/06/tcec-frc6-ccc20-rapid-stockfish-wins.html\">TCEC FRC6, CCC20 Rapid; Stockfish Wins Both</A> (June 2023). Expanding that title produces the following summary:- <BLOCKQUOTE> TCEC: In the 'S24 FRC6 Final', Stockfish beat LCZero +15-12=23. The site then organized 'S24 DFRC2', which has reached 'League 1', the third of four stages. &#149; CCC: In the 'CCC20 Rapid Finals', Stockfish crushed Lc0 143.0-107.0, then crushed the Mystery engine 67.0-33.0 in an exhibition match. The site then launched the 'CCC20 Bullet Entry League'. </BL",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/06/stockfish-wins-tcec-dfrc2-ccc20-bullet.html",
-         "pubDate" : "Mon, 26 Jun 2023 15:13:00 +0000",
-         "title" : "Stockfish Wins TCEC DFRC2; CCC20 Bullet Underway"
       }
    ]
 }
