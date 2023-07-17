@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Rochelle Wu talks to Cristian Chirila after defeating Iris Mou in the first round of the 2023 U.S. Girls' Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-interview-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xNdt9L1urUU.jpg?itok=Z-eU1_TD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-interview-r1-usjuniorschess",
+         "pubDate" : "Sun, 16 Jul 2023 23:37:51 +0000",
+         "title" : "Rochelle Wu Interview | R1 #USJuniorsChess"
+      },
+      {
          "description" : "Simen Agdestein recently won the Norwegian Chess Championship for a ninth time in his career. The 56-year-old outscored the likes of Aryan Tari and Jon Ludvig Hammer, but did not have to beat national hero and former student Magnus Carlsen, who does not participate in his country's championships. In his column this week, Jon Speelman analyses recent games by both the master and the student! | Photo: VG.no",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carissa-yip-first-round-disappointment-r1-usjuniorschess",
          "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
          "title" : "Carissa Yip: First Round Disappointment | R1 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Cristian Chirila after defeating Justin Wang in the first round of the 2023 U.S. Junior Championship. 2023.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hong-due-nerves-first-round-doesn%E2%80%99t-mean-much-r1-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a6vcUwRke3I.jpg?itok=bekLg_nR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hong-due-nerves-first-round-doesn%E2%80%99t-mean-much-r1-usjuniorschess",
-         "pubDate" : "Sun, 16 Jul 2023 02:37:21 +0000",
-         "title" : "Hong: Due to Nerves, First Round Doesn't Mean Much | R1 #USJuniorsChess"
       },
       {
          "description" : "In the Grand Final of the Aimchess Rapid, Magnus Carlsen defeated Wesley So by a 3-1 score on Friday. The 15+3 rapid tournament was the fourth event of the Champions Chess Tour and was played online. In the overall tour standings, Carlsen now has a 95-point lead over his closest chaser, Fabiano Caruana. Denis Lazavik won Division II, while Yu Yangyi prevailed in Division III.",
