@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beautiful-breakthroughs",
+         "pubDate" : "Tue, 18 Jul 2023 09:00:00 +0100",
+         "title" : "Beautiful breakthroughs"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. Lei won the fifth encounter and has a 1-point lead going into game 8. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Tue, 18 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 9 - Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Cristian Chirila after defeating Kaidanov in the third round of the 2023 U.S. Senior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akopian-shakes-blunders-after-long-layoff-r3-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IXywq22ET_A.jpg?itok=96VlwpdK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Game of the Week #576: R. Rapport vs C. Lupulescu"
       },
       {
-         "description" : "Momentarily, Ju Wenjun is fighting for the title against Lei Tingjie, Who just took the lead! Svitlana found one of Wenjun's most beautiful games against Kateryna Lagno, which was a big part of her winning the Women's World Championship in 2018. In the Sicilian Rossolimo, The Chinese GM played for the initiative, and found a convincing attack against Lagno, which is worth replaying.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ju-wenjun-s-best-game",
-         "pubDate" : "Wed, 12 Jul 2023 21:42:33 +0100",
-         "title" : "Svitlana's Smart Moves - Ju Wenjun's best game"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-6",
          "pubDate" : "Wed, 12 Jul 2023 06:13:00 -0700",
          "title" : "Lei Tingjie Leads After Shanghai As Game 6 Ends In A Draw"
-      },
-      {
-         "description" : "Top American junior and senior chess players will return to Saint Louis for the 2023 U.S. Senior, Junior, and Girls' Junior Championships hosted by the Saint Louis Chess Club. From July 15-25, 2023, the top 10 players across three divisions - juniors, girls, and seniors - will travel to compete for more than $130,000 in prizes. | Pictured: Alex Shabalov, Jennifer Yu and Christopher Yoo, winners of the 2022 edition | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-preview",
-         "pubDate" : "Wed, 12 Jul 2023 14:00:00 +0100",
-         "title" : "Saint Louis Chess Club to host American legends and rising stars"
       },
       {
          "description" : "",
@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "https://aicf.in/1st-national-schools-team-under-12-under-18-chess-championships-2023-2/",
          "pubDate" : "Tue, 27 Jun 2023 11:13:22 +0000",
          "title" : "1st NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18 CHESS CHAMPIONSHIPS - 2023"
-      },
-      {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2023 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2023 to be held in Budva, Montenegro on Sunday 19th November 2023. The official venue of the ECU GA will be in Hotel MEDITERAN Conference Hall. The Assembly starts at 9.30 am. All the information about airports and hotels for the ECU General Assembly are included in the European Teams Championship 2023 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-congress-2023/",
-         "pubDate" : "Tue, 27 Jun 2023 06:03:31 +0000",
-         "title" : "ECU GENERAL ASSEMBLY & CONGRESS 2023"
       }
    ]
 }
