@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2023-07-03  - 07-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307177392 target='_blank'>CLCC JULY MONDAYS</a>",
 "HOUSTON","2023-07-15","15","<a href=http://www.uschess.org/msa/XtblMain.php?202307158372 target='_blank'>QUADS ALL AGES JULY 15</a>",
 "HOUSTON","2023-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307157802 target='_blank'>CHESSPANDA07152023SATURDAY</a>",
 "CYPRESS","2023-07-14  - 07-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202307157332 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2022-12-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212024252 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-12-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202212023102 target='_blank'>TOURNAMENTS/FBCC 2022 NATIONAL POPC</a>",
 "CYPRESS","2022-12-02","22","<a href=http://www.uschess.org/msa/XtblMain.php?202212023052 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-11-01  - 11-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202211291852 target='_blank'>NOV 2022 TUESDAY NIGHT SWISS</a>",
 ]);
