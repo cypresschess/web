@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Women's Rapid&#38;Blitz Chess Championship 2023 organised by the Federation Monegasque des Echecs under the auspices of the European Chess Union will be held from 11th-15th January 2024 (the dates moved from December 2023 to January 2024 due to venue commitment) in Monte Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2023 to be played on the 12th of January. The event will be played in 13 rounds, swiss system, with []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapidblitz-chess-championship-2023-official-invitation/",
+         "pubDate" : "Tue, 18 Jul 2023 11:03:25 +0000",
+         "title" : "European Women's Rapid&Blitz Chess Championship 2023 - Official invitation"
+      },
+      {
+         "description" : "There were three competitions in the British Chess Solving Championship. Chess problemist Brian Stephenson, who for twenty-five years directed the Championship, and has directed several World Chess Solving Championships, shows us three of the competition studies. It is your opportunity to join the competition and test your own solving skills. Or at least enjoy some very clever chess compositions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/studies-with-stephenson-2",
+         "pubDate" : "Tue, 18 Jul 2023 12:00:00 +0100",
+         "title" : "Studies with Stephenson"
+      },
+      {
+         "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23 and 15-16 July 23 at New",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
+         "pubDate" : "Tue, 18 Jul 2023 10:56:42 +0000",
+         "title" : "Fair Play Orientation Workshop : Qualified Participants"
+      },
+      {
+         "description" : "Six rounds have been already played at the European Senior Team Chess Championship 2023 in Swidnica, Poland, with only three rounds to go before the announcement of the winners. The team of Slovakia 65+ emerged as the sole leader in the 65+ section scoring all victories and perfect 12 match points. England 65+ follows with 10 match points, while three teams tie for the third place with 8 match points each: Hungary, Germany SC Kreuzberg e.V. and Polish Lower Silesia []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-round-6-report/",
+         "pubDate" : "Tue, 18 Jul 2023 09:27:30 +0000",
+         "title" : "European Senior Team Chess Championship 2023 - Round 6 report"
+      },
+      {
+         "description" : "49th National Women Chess Championship 2023, Gujarat. Certificates are out to download Link : https://aicf.online/National-Women-July-23k.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-women-2023-certificates/",
+         "pubDate" : "Tue, 18 Jul 2023 08:31:27 +0000",
+         "title" : "National Women 2023, Certificates."
+      },
+      {
          "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/beautiful-breakthroughs",
          "pubDate" : "Tue, 18 Jul 2023 09:00:00 +0100",
          "title" : "Beautiful breakthroughs"
+      },
+      {
+         "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-pune/",
+         "pubDate" : "Tue, 18 Jul 2023 07:46:07 +0000",
+         "title" : "AICF's Fair Play Orientation Workshop, Pune"
       },
       {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. Lei won the fifth encounter and has a 1-point lead going into game 8. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
@@ -656,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-6",
          "pubDate" : "Wed, 12 Jul 2023 23:45:00 +0100",
          "title" : "Women's World Championship: Halftime reached, Ju plays it safe"
-      },
-      {
-         "description" : "In his Game of the Week show #576 Merijn van Delft takes a look at an instructive game Richard Rapport won against Constantin Lupulescu at the Croatia Blitz & Rapid Grand Chess Tour Tournament in Zagreb. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-576-r-rapport-vs-c-lupulescu",
-         "pubDate" : "Wed, 12 Jul 2023 21:51:59 +0100",
-         "title" : "Game of the Week #576: R. Rapport vs C. Lupulescu"
       },
       {
          "description" : "",
@@ -1490,14 +1530,6 @@ news_feed (
          "title" : "Prague Chess Festival - Live!"
       },
       {
-         "description" : "On behalf of All India Chess Federation, Karnataka State Chess Association is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar &#38; Exam from 26-27 August 2023 at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-bangalore-from-26-27-august-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 08:52:34 +0000",
-         "title" : "Senior National Arbiter Seminar & Exam at Bangalore from 26-27 August 2023"
-      },
-      {
          "description" : " Alpine Warriors, led by Magnus Carlsen, and Ganges Grandmasters, headed by Vishy Anand, are among the front-runners in the six-team franchise chess league Magnus Carlsen's SG Alpine Warriors, where none of the six grandmasters represents an Alpine nation, and Vishy Anand's Ganges Grandmasters, where the Chennai legend is the only Indian, were joint leaders after six of the 10 qualifying rounds leading up to Sunday's final of the franchise-based Tech Mahindra Global Chess League (GCL), but the race remained close. Carlsen has appeared clean-shaven, assured and vigorous, a contrast to <a href=\"https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails\"",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1626,28 +1658,12 @@ news_feed (
          "title" : "Time to ditch NAPLAN"
       },
       {
-         "description" : "Sharm El Sheikh Egypt 14th to 27th October, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The additional",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cadets-chess-championships/",
-         "pubDate" : "Tue, 27 Jun 2023 12:02:49 +0000",
-         "title" : "FIDE WORLD CADET CHESS CHAMPIONSHIPS"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (69)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (69)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-69/",
          "pubDate" : "Tue, 27 Jun 2023 11:43:42 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (69)"
-      },
-      {
-         "description" : "1st NATIONAL SCHOOLS TEAM UNDER-12 &#38; UNDER-18 CHESS CHAMPIONSHIPS - 2023 was held at&#160; Amalorpavam Higher Sec. School Arumai Primary Building Vanarapet Pondicherry . This",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-national-schools-team-under-12-under-18-chess-championships-2023-2/",
-         "pubDate" : "Tue, 27 Jun 2023 11:13:22 +0000",
-         "title" : "1st NATIONAL SCHOOLS TEAM UNDER-12 & UNDER-18 CHESS CHAMPIONSHIPS - 2023"
       }
    ]
 }
