@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grandmaster Triathlon is the highlight of the 2023 Biel/Bienne International Chess Festival. The 8-player tournament takes place from 16-26 July in Biel/Bienne, Switzerland, with all three time formats counting towards the final score. For the classical games the players receive 100 minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-gm-triathlon-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 15:05:32 +0000",
+         "title" : "Biel GM Triathlon 2023 - LIVE"
+      },
+      {
+         "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/another-ending-another-low/",
+         "pubDate" : "Tue, 18 Jul 2023 13:58:30 +0000",
+         "title" : "Another Ending Another Low"
+      },
+      {
+         "description" : "Women&#39;s World Champion Ju Wenjun played the Sicilian Defense for the first time in the 2023 FIDE Women&#39;s World Championship and went on to make a comfortable draw with the black pieces, despite GM Lei Tingjie playing on until move 59.&#38;nbsp; The ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-9",
+         "pubDate" : "Tue, 18 Jul 2023 06:25:00 -0700",
+         "title" : "Ju Wenjun Plays Sicilian In Game 9 As Tension Builds"
+      },
+      {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess today and play the first round in GMT-Classical, the second discipline of their Grandmaster Triathlon. Live here with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Tue, 18 Jul 2023 14:00:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2529",
+         "pubDate" : "Tue, 18 Jul 2023 12:33:09 +0000",
+         "title" : "WWC Match 2023: A surprise and a counter-surprise, but game 9 ends in a draw"
+      },
+      {
          "description" : "The European Women's Rapid&#38;Blitz Chess Championship 2023 organised by the Federation Monegasque des Echecs under the auspices of the European Chess Union will be held from 11th-15th January 2024 (the dates moved from December 2023 to January 2024 due to venue commitment) in Monte Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2023 to be played on the 12th of January. The event will be played in 13 rounds, swiss system, with []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
          "pubDate" : "Tue, 18 Jul 2023 10:56:42 +0000",
          "title" : "Fair Play Orientation Workshop : Qualified Participants"
+      },
+      {
+         "description" : " The 56th Biel Chess Festival takes place Sat 15th to Sun 30th Jul 2023. The main event is the Grand Master Triathlon which is a mix of Classical, Rapid and Blitz sections with 8 players: Yu Yangyi, Le Quang Liem, Arjun Erigaisi, Bogdan-Daniel Deac, Vincent Keymer, Bassem Amin, David Navara and Jules Moussard. In addition there are three main opens, the Masters, HTO and ATO.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/56th-biel-chess-festival-2023",
+         "pubDate" : "Tue, 18 Jul 2023 13:38:00 +0400",
+         "title" : "56th Biel Chess Festival 2023 - Games and Results"
       },
       {
          "description" : "Six rounds have been already played at the European Senior Team Chess Championship 2023 in Swidnica, Poland, with only three rounds to go before the announcement of the winners. The team of Slovakia 65+ emerged as the sole leader in the 65+ section scoring all victories and perfect 12 match points. England 65+ follows with 10 match points, while three teams tie for the third place with 8 match points each: Hungary, Germany SC Kreuzberg e.V. and Polish Lower Silesia []",
@@ -64,6 +112,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
          "pubDate" : "Tue, 18 Jul 2023 08:45:00 +0100",
          "title" : "Women's World Chess Championship, Game 9 - Live!"
+      },
+      {
+         "description" : "The Biel Chess Festival MTO is taking place from 17&#x2013;27 July 2023 in Biel, Switzerland. Players receive 100 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Ngoc Truong Son Nguyen, Luis Ernesto []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-festival-mto-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 03:32:00 +0000",
+         "title" : "Biel Chess Festival MTO 2023 - LIVE"
+      },
+      {
+         "description" : "The Biel Chess Festival MTO is taking place from 17&#x2013;27 July 2023 in Biel, Switzerland. Players receive 100 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Ngoc Truong Son Nguyen, Luis Ernesto []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-festival-mto-2023/",
+         "pubDate" : "Tue, 18 Jul 2023 03:12:00 +0000",
+         "title" : "Biel Chess Festival MTO 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Cristian Chirila after defeating Kaidanov in the third round of the 2023 U.S. Senior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akopian-shakes-blunders-after-long-layoff-r3-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IXywq22ET_A.jpg?itok=96VlwpdK\" alt=\"\" /></a></div>",
@@ -202,6 +266,14 @@ news_feed (
          "title" : "Alyssazhu's Chess Stream Interrupted By Racist Rant"
       },
       {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-9-live/",
+         "pubDate" : "Mon, 17 Jul 2023 14:54:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 9 - LIVE"
+      },
+      {
          "description" : " When trying to 'gamify' chess to small children, I usually tell them that the pawn has one hidden power, and one super power. The super power is the ability to transform into another, stronger piece when it reaches the end of the board. And the hidden power is that hs the weakest power of all the pieces. So anything it attacks is either more valuable or at worst, of equal value. And to demonstrate ... <br /> <b>Press,Shaun - Khadkar,Sameet [D77]</b><br /> Gungahlin Rapid ---, 11.07.2023 <script> new PgnViewer( { boardName: \"game1408\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 O-O 6.O-O e6 7.Nc3 dxc4 8.Ne5 c6 9.Nxc4 Nd5 10.e4 b5 11.exd5 bxc4 12.dxc6 Qc7 13.N",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -338,12 +410,12 @@ news_feed (
          "title" : "Open Desko Liberec 2023"
       },
       {
-         "description" : "Yangyi Yu won Biel GM Triathlon Chess960 with 5&#xBD;/7, while Bogdan-Daniel Deac and David Navara, both with 4&#xBD;/7 finished consequently second and third. The Biel Grandmaster Triathlon chess960 is an 8-player round-robin tournament taking place on 15 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting []",
+         "description" : "Yangyi Yu won the classic control of Biel GM Triathlon Chess960 with 5&#xBD;/7, while Bogdan-Daniel Deac and David Navara, both with 4&#xBD;/7 finished consequently second and third. The Biel Grandmaster Triathlon chess960 is an 8-player round-robin tournament taking place on 15 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/yangyi-yu-won-biel-gm-triathlon-chess960/",
          "pubDate" : "Sun, 16 Jul 2023 07:19:04 +0000",
-         "title" : "Yangyi Yu won Biel GM Triathlon Chess960"
+         "title" : "Yangyi Yu won the classic control of Biel GM Triathlon Chess960"
       },
       {
          "description" : "The protagonists of the Women's World Championship moved to Chongqing to play the second half of the all-Chinese match. Game 7 was played on Saturday. Challenger Lei Tingjie still has a 1-point lead over defending champion Ju Wenjun after the latter could not convert a clear advantage into a win while marshalling the black pieces. Lei had won game 5, the only decisive encounter of the match so far. | Photo: Stev Bonhage / FIDE",
@@ -368,38 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-3",
          "pubDate" : "Sat, 15 Jul 2023 18:10:00 -0700",
          "title" : "Nakamura Reigns Supreme In Bullet Brawl, Claims 6th Title"
-      },
-      {
-         "description" : "The Wood Green Invitational is an 10-player round-robin tournament taking place from 14&#x2013;18 July 2023 in Stafford, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess Championship 2023 / Ju Wenjun &#x2013; Lei Tingjie , []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wood-green-invitational-2023-live/",
-         "pubDate" : "Sat, 15 Jul 2023 21:25:00 +0000",
-         "title" : "Wood Green Invitational 2023 - LIVE"
-      },
-      {
-         "description" : "The Wood Green Invitational is an 10-player round-robin tournament taking place from 14&#x2013;18 July 2023 in Stafford, England. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess Championship 2023 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wood-green-invitational-2023/",
-         "pubDate" : "Sat, 15 Jul 2023 21:01:40 +0000",
-         "title" : "Wood Green Invitational 2023"
-      },
-      {
-         "description" : "The US Junior Girls Championship is taking place in the Saint Louis Chess Club from July 15-25, 2023. The 10-player event has a $20,600 prize fund with $6,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u-s-girls-junior-championship-2023-live/",
-         "pubDate" : "Sat, 15 Jul 2023 20:55:00 +0000",
-         "title" : "U.S. Girls Junior Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The US Junior Girls Championship is taking place in the Saint Louis Chess Club from July 15-25, 2023. The 10-player event has a $20,600 prize fund with $6,000 for 1st place, while a sole winner will also gain a $10,000 academic scholarship. Players receive 90 minutes for 40 moves, followed by 30 minutes to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u-s-girls-junior-championship-2023/",
-         "pubDate" : "Sat, 15 Jul 2023 20:36:32 +0000",
-         "title" : "U.S. Girls Junior Championship 2023"
       },
       {
          "description" : " With an expanded vision, The Gift of Chess has appointed Susan Namangale as its Global Head. Russell Makofsky&#8216;s vision to distribute chess sets in the New York area was part of a local initiative called The Gift of Chess. Since its inception in 2021, the mission added the incarcerated and most recently a global initiative. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/\">&#8220;The Gift of Chess&#8221; nabs Namangale as Global Head</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -696,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-leonid-zvulon-gofshtein",
          "pubDate" : "Thu, 13 Jul 2023 08:00:00 +0100",
          "title" : "Remembering Leonid (Zvulon) Gofshtein"
-      },
-      {
-         "description" : "After losing game 5, Ju Wenjun took no risks in the last encounter of the Women's World Chess Championship played in Shanghai. Ju's approach with white led to a quiet endgame after an early exchange of queens. The game ended in a draw on move 48. The World Championship now moves to Chongquin, where it will resume on Saturday. | Photos: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-6",
-         "pubDate" : "Wed, 12 Jul 2023 23:45:00 +0100",
-         "title" : "Women's World Championship: Halftime reached, Ju plays it safe"
       },
       {
          "description" : "",
@@ -1016,14 +1048,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-4",
          "pubDate" : "Sun, 09 Jul 2023 07:52:00 -0700",
          "title" : "Longest Game Drawn, As Ju Resists Lei's Pressure In Game 4"
-      },
-      {
-         "description" : "GM Hikaru Nakamura smashed records on Saturday when he scored 75 wins and 276 points to claim his fifth Bullet Brawl crown along with the $400 first prize. After falling short in the previous edition, he was nearly invincible in the two-hour, 106-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-2",
-         "pubDate" : "Sun, 09 Jul 2023 07:41:34 -0700",
-         "title" : "Nakamura Breaks Bullet Brawl Record With 75 Wins"
       },
       {
          "description" : "",
@@ -1640,30 +1664,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/",
          "pubDate" : "Tue, 27 Jun 2023 22:58:26 +0000",
          "title" : "Niemann's $100m Lawsuit Dismissed&hellip; but stay tuned"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2480",
-         "pubDate" : "Tue, 27 Jun 2023 17:48:42 +0000",
-         "title" : "GCL Day 6: Chingari Gulf Titans & upGrad Mumba Masters score crucial victories"
-      },
-      {
-         "description" : " NAPLAN is a test the school kids in Australia have to do every 2nd year (odd numbered grades), and is supposed to measure whether schools are performing or not. In actuality the results are dependent upon the socio-economic level of the students, and are mainly used by parents and the media to 'rank' schools based on some imaginary scale. As you can guess, I really really, really hate NAPLAN. While abolishing all together is my preferred solution, I do offer an alternative. Replace NAPLAN with a nation wide interschool chess competition, divided into geographical zones. Results aren't necessarily based upon the scores in the tournament (although that is one factor), but instead on how many ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/time-to-ditch-naplan.html",
-         "pubDate" : "Tue, 27 Jun 2023 13:39:00 +0000",
-         "title" : "Time to ditch NAPLAN"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (69)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-69/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (69)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-69/",
-         "pubDate" : "Tue, 27 Jun 2023 11:43:42 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (69)"
       }
    ]
 }
