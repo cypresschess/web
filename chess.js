@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Tue, 18 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "The Swiss Championship Titled Seniors is an 8-player round-robin tournament taking place from 17&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-championship-titled-seniors-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 17:49:00 +0000",
+         "title" : "Swiss Championship Titled Seniors 2023 - LIVE"
+      },
+      {
+         "description" : "The Swiss Championship Titled Seniors is an 8-player round-robin tournament taking place from 17&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE Women's World Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-championship-titled-seniors-2023/",
+         "pubDate" : "Tue, 18 Jul 2023 17:33:17 +0000",
+         "title" : "Swiss Championship Titled Seniors 2023"
+      },
+      {
+         "description" : "In just five minutes, learn how grandmasters use ChessBase 17 to quickly get similar endgames so they can study deeper and learn from others. Whether an amateur or one of the world elite, these easy but powerful tools can help you raise your game and do wonders for your rating! Don't miss this lightning video lesson!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-learn-how-grandmasters-use-chessbase-to-study-endgames-video",
+         "pubDate" : "Tue, 18 Jul 2023 18:00:00 +0100",
+         "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
+      },
+      {
          "description" : "The Grandmaster Triathlon is the highlight of the 2023 Biel/Bienne International Chess Festival. The 8-player tournament takes place from 16-26 July in Biel/Bienne, Switzerland, with all three time formats counting towards the final score. For the classical games the players receive 100 minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-9",
          "pubDate" : "Tue, 18 Jul 2023 06:25:00 -0700",
          "title" : "Ju Wenjun Plays Sicilian In Game 9 As Tension Builds"
-      },
-      {
-         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess today and play the first round in GMT-Classical, the second discipline of their Grandmaster Triathlon. Live here with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Tue, 18 Jul 2023 14:00:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "",
@@ -98,6 +122,14 @@ news_feed (
          "title" : "Beautiful breakthroughs"
       },
       {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess today and play the first round in GMT-Classical, the second discipline of their Grandmaster Triathlon. Live here with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Tue, 18 Jul 2023 08:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -114,20 +146,60 @@ news_feed (
          "title" : "Women's World Chess Championship, Game 9 - Live!"
       },
       {
-         "description" : "The Biel Chess Festival MTO is taking place from 17&#x2013;27 July 2023 in Biel, Switzerland. Players receive 100 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Ngoc Truong Son Nguyen, Luis Ernesto []",
+         "description" : "The Swiss Championship Titled Open is an 10-player round-robin tournament taking place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-festival-mto-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 03:32:00 +0000",
-         "title" : "Biel Chess Festival MTO 2023 - LIVE"
+         "link" : "https://www.chessdom.com/swiss-championship-titled-open-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 06:46:00 +0000",
+         "title" : "Swiss Championship Titled Open 2023 - LIVE"
       },
       {
-         "description" : "The Biel Chess Festival MTO is taking place from 17&#x2013;27 July 2023 in Biel, Switzerland. Players receive 100 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-round Swiss tournament with participation of Ngoc Truong Son Nguyen, Luis Ernesto []",
+         "description" : "The Swiss Championship Titled Open is an 10-player round-robin tournament taking place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE Women's World Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-festival-mto-2023/",
-         "pubDate" : "Tue, 18 Jul 2023 03:12:00 +0000",
-         "title" : "Biel Chess Festival MTO 2023"
+         "link" : "https://www.chessdom.com/swiss-championship-titled-open-2023/",
+         "pubDate" : "Tue, 18 Jul 2023 06:12:00 +0000",
+         "title" : "Swiss Championship Titled Open 2023"
+      },
+      {
+         "description" : "The Swiss Championship Masters is place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament taking with participation of Li Min Peng, Bogdan Borsos, Maximilian Hofer, C&#xE9;dric []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-championship-masters-2023/",
+         "pubDate" : "Tue, 18 Jul 2023 06:11:00 +0000",
+         "title" : "Swiss Championship Masters 2023"
+      },
+      {
+         "description" : "The Swiss Championship Masters is place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament taking with participation of Li Min Peng, Bogdan Borsos, Maximilian Hofer, C&#xE9;dric []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-championship-masters-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 05:36:00 +0000",
+         "title" : "Swiss Championship Masters 2023 - LIVE"
+      },
+      {
+         "description" : "The Biel Chess Festival ATO is taking place from 17&#x2013;26 July 2023 in Biel, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Athanasios Zafeiridis, Nicola Schmid, Hans-Juergen Weyer, Dmitrii Titov, Daniel Baotic, Lothar Cordes, etc. All about []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-festival-ato-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 05:05:00 +0000",
+         "title" : "Biel Chess Festival ATO 2023 - LIVE"
+      },
+      {
+         "description" : "The Biel Chess Festival ATO is taking place from 17&#x2013;26 July 2023 in Biel, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Athanasios Zafeiridis, Nicola Schmid, Hans-Juergen Weyer, Dmitrii Titov, Daniel Baotic, Lothar Cordes, etc.Chessdom.com will daily []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-festival-ato-2023/",
+         "pubDate" : "Tue, 18 Jul 2023 04:34:00 +0000",
+         "title" : "Biel Chess Festival ATO 2023"
+      },
+      {
+         "description" : "The Biel Chess Festival HTO is taking place from 17&#x2013;26 July 2023 in Biel, Switzerland. Players receive 10 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Prokopios Mamalis, Alexey Khanabiev, Roland Dr. Arbinger, Miralem Novalic, Paul Koestinger, Michal Mirski,Wiesmann, Dominique Wiesmann, Felix []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-festival-hto-2023-live/",
+         "pubDate" : "Tue, 18 Jul 2023 04:19:00 +0000",
+         "title" : "Biel Chess Festival HTO 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Cristian Chirila after defeating Kaidanov in the third round of the 2023 U.S. Senior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akopian-shakes-blunders-after-long-layoff-r3-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IXywq22ET_A.jpg?itok=96VlwpdK\" alt=\"\" /></a></div>",
@@ -218,14 +290,6 @@ news_feed (
          "title" : "Arthur Guo: Being His Own Coach is Working Out! | R3 #USJuniorsChess"
       },
       {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Mon, 17 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
          "description" : "Imagine a sun-filled day with an over-the-board game in a picturesque park such as Columbus Park in New York City. It&#38;rsquo;s a scene we all enjoy watching. Would you be surprised to see tennis great Roger Federer on one side of the chessboard fac...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -264,14 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alyssazhus-chess-stream-interrupted-by-racist-rant",
          "pubDate" : "Mon, 17 Jul 2023 08:06:00 -0700",
          "title" : "Alyssazhu's Chess Stream Interrupted By Racist Rant"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-9-live/",
-         "pubDate" : "Mon, 17 Jul 2023 14:54:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 9 - LIVE"
       },
       {
          "description" : " When trying to 'gamify' chess to small children, I usually tell them that the pawn has one hidden power, and one super power. The super power is the ability to transform into another, stronger piece when it reaches the end of the board. And the hidden power is that hs the weakest power of all the pieces. So anything it attacks is either more valuable or at worst, of equal value. And to demonstrate ... <br /> <b>Press,Shaun - Khadkar,Sameet [D77]</b><br /> Gungahlin Rapid ---, 11.07.2023 <script> new PgnViewer( { boardName: \"game1408\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 O-O 6.O-O e6 7.Nc3 dxc4 8.Ne5 c6 9.Nxc4 Nd5 10.e4 b5 11.exd5 bxc4 12.dxc6 Qc7 13.N",
@@ -368,54 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-visits-his-mega-sponsor",
          "pubDate" : "Sun, 16 Jul 2023 12:00:00 +0100",
          "title" : "Arjun visits his mega-sponsor"
-      },
-      {
-         "description" : "The Semifinale CIA 2023 will take place from the 15th to the 22nd of July in Villesse, Italy. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1. It is a 9-round Swiss system tournament with participation of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/semifinale-cia-2023-live/",
-         "pubDate" : "Sun, 16 Jul 2023 09:30:00 +0000",
-         "title" : "Semifinale CIA 2023 - LIVE"
-      },
-      {
-         "description" : "The Semifinale CIA 2023 will take place from the 15th to the 22nd of July in Villesse, Italy as a 9-round Swiss. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game with a 30-second increment beginning from move 1.Chessdom.com will daily follow the live games. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/semifinale-cia-2023/",
-         "pubDate" : "Sun, 16 Jul 2023 08:45:00 +0000",
-         "title" : "Semifinale CIA 2023"
-      },
-      {
-         "description" : "The Open Desko Liberec 2023 is taking place from the 15th to the 22nd of July in Liberec, Czech Republic. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move 1. It is a 9-round Swiss system tournament with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-desko-liberec-2023-live/",
-         "pubDate" : "Sun, 16 Jul 2023 08:30:00 +0000",
-         "title" : "Open Desko Liberec 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-8-live/",
-         "pubDate" : "Sun, 16 Jul 2023 08:07:16 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 8 - LIVE"
-      },
-      {
-         "description" : "The Open Desko Liberec 2023 is taking place from the 15th to the 22nd of July in Liberec, Czech Republic. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move 1. It is a 9-round Swiss system tournament with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-desko-liberec-2023/",
-         "pubDate" : "Sun, 16 Jul 2023 08:03:24 +0000",
-         "title" : "Open Desko Liberec 2023"
-      },
-      {
-         "description" : "Yangyi Yu won the classic control of Biel GM Triathlon Chess960 with 5&#xBD;/7, while Bogdan-Daniel Deac and David Navara, both with 4&#xBD;/7 finished consequently second and third. The Biel Grandmaster Triathlon chess960 is an 8-player round-robin tournament taking place on 15 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yangyi-yu-won-biel-gm-triathlon-chess960/",
-         "pubDate" : "Sun, 16 Jul 2023 07:19:04 +0000",
-         "title" : "Yangyi Yu won the classic control of Biel GM Triathlon Chess960"
       },
       {
          "description" : "The protagonists of the Women's World Championship moved to Chongqing to play the second half of the all-Chinese match. Game 7 was played on Saturday. Challenger Lei Tingjie still has a 1-point lead over defending champion Ju Wenjun after the latter could not convert a clear advantage into a win while marshalling the black pieces. Lei had won game 5, the only decisive encounter of the match so far. | Photo: Stev Bonhage / FIDE",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d3-2",
          "pubDate" : "Thu, 13 Jul 2023 08:15:00 +0100",
          "title" : "Aimchess Rapid: Carlsen in Grand Final, Iturrizaga knocks out Aronian"
-      },
-      {
-         "description" : "Leonid (Zvulon) Gofshtein was a Grandmaster and a strong player, who played an important role for chess in Israel. He was born 21 April 1953 in Kiev, Ukraine, but later moved to Israel, where he died from cancer on 25 December 2015. To remember and to honour Gofshtein, the Bat-Yam Chess Club organised a strong tournament, which was won by Evgeny Postny.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-leonid-zvulon-gofshtein",
-         "pubDate" : "Thu, 13 Jul 2023 08:00:00 +0100",
-         "title" : "Remembering Leonid (Zvulon) Gofshtein"
       },
       {
          "description" : "",
