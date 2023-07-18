@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the ninth game of the Women's World Chess Championships, Lei Tingjie and Ju Wenjun showed a remarkable level of understanding both in the middlegame emerging from a Sicilian Defence and in the ensuing rook ending. The game ended in a draw after 59 moves. | Photos: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-9",
+         "pubDate" : "Tue, 18 Jul 2023 22:10:00 +0100",
+         "title" : "Women's World Championship: A tense draw, three games to go"
+      },
+      {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,6 +122,14 @@ news_feed (
          "title" : "National Women 2023, Certificates."
       },
       {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Tue, 18 Jul 2023 09:05:00 +0100",
+         "title" : "Herman Grooten: Key concepts"
+      },
+      {
          "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-pune/",
          "pubDate" : "Tue, 18 Jul 2023 07:46:07 +0000",
          "title" : "AICF's Fair Play Orientation Workshop, Pune"
-      },
-      {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. Lei won the fifth encounter and has a 1-point lead going into game 8. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Tue, 18 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 9 - Live!"
       },
       {
          "description" : "The Swiss Championship Titled Open is an 10-player round-robin tournament taking place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-8",
          "pubDate" : "Mon, 17 Jul 2023 09:00:00 +0100",
          "title" : "Women's World Championship: Ju levels the score"
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Mon, 17 Jul 2023 08:00:00 +0100",
-         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "Simen Agdestein recently won the Norwegian Chess Championship for a ninth time in his career. The 56-year-old outscored the likes of Aryan Tari and Jon Ludvig Hammer, but did not have to beat national hero and former student Magnus Carlsen, who does not participate in his country's championships. In his column this week, Jon Speelman analyses recent games by both the master and the student! | Photo: VG.no",
@@ -1656,14 +1656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-chess-com-beat-hans-niemanns-100-million-suit-over-cheating-scandal/articleshow/101325559.cms",
          "pubDate" : "Wed, 28 Jun 2023 03:48:23 +0000",
          "title" : "Carlsen, Chess.com beat Niemann's $100 mn suit over cheating scandal"
-      },
-      {
-         "description" : " Today a federal judge dismissed Hans Niemann's $100 million lawsuit (amended twice) against several high-profile figures in the chess community. GMs&#160;Magnus Carlsen,&#160;Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM&#160;Daniel Rensch were the targets of a lawsuit citing five different offenses against defendants: &#8220;(1) slander; (2) libel; (3) unlawful group boycott under the Sherman Act, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/\">Niemann's $100m Lawsuit Dismissed but stay tuned</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/06/27/niemanns-100m-lawsuit-dismissed-but-stay-tuned/",
-         "pubDate" : "Tue, 27 Jun 2023 22:58:26 +0000",
-         "title" : "Niemann's $100m Lawsuit Dismissed&hellip; but stay tuned"
       }
    ]
 }
