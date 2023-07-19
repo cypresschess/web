@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In just five minutes, learn how grandmasters use ChessBase 17 to quickly get similar endgames so they can study deeper and learn from others. Whether an amateur or one of the world elite, these easy but powerful tools can help you raise your game and do wonders for your rating! Don't miss this lightning video lesson!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-learn-how-grandmasters-use-chessbase-to-study-endgames-video",
+         "pubDate" : "Wed, 19 Jul 2023 09:00:00 +0100",
+         "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Wed, 19 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 10 - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Wed, 19 Jul 2023 08:00:00 +0100",
+         "title" : "Herman Grooten: Key concepts"
+      },
+      {
          "description" : "David Navara won his first classical game at the Biel Chess Festival to grab the early sole lead in the GM Triathlon. The Czech star defeated Bassem Amin, while Vincent Keymer, who entered the round as co-leader after the rapid, only managed a draw against Jules Moussard. The longest game of the day saw Arjun Erigaisi holding a draw with black against Yu Yangyi. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-2",
-         "pubDate" : "Tue, 18 Jul 2023 18:03:23 -0700",
+         "pubDate" : "Tue, 18 Jul 2023 18:03:00 -0700",
          "title" : "Naroditsky Defeats Ultrabullet Virtuoso, Matches Nakamura For Top Winning Margin"
       },
       {
@@ -130,14 +154,6 @@ news_feed (
          "title" : "Swiss Championship Titled Seniors 2023"
       },
       {
-         "description" : "In just five minutes, learn how grandmasters use ChessBase 17 to quickly get similar endgames so they can study deeper and learn from others. Whether an amateur or one of the world elite, these easy but powerful tools can help you raise your game and do wonders for your rating! Don't miss this lightning video lesson!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-learn-how-grandmasters-use-chessbase-to-study-endgames-video",
-         "pubDate" : "Tue, 18 Jul 2023 18:00:00 +0100",
-         "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
-      },
-      {
          "description" : "The Grandmaster Triathlon is the highlight of the 2023 Biel/Bienne International Chess Festival. The 8-player tournament takes place from 16-26 July in Biel/Bienne, Switzerland, with all three time formats counting towards the final score. For the classical games the players receive 100 minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://aicf.in/national-women-2023-certificates/",
          "pubDate" : "Tue, 18 Jul 2023 08:31:27 +0000",
          "title" : "National Women 2023, Certificates."
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Tue, 18 Jul 2023 09:05:00 +0100",
-         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/bullet-chess-championship-2023-bracket-contest",
          "pubDate" : "Thu, 13 Jul 2023 17:13:16 -0700",
          "title" : "Win Prizes In The Upcoming 2023 Bullet Chess Championship"
-      },
-      {
-         "description" : "In his Fast & Furious show Robert Ris takes a look at a line of the Italian Four Knights (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3?!), which Nodirbek Abdusattorov used to win a fine game against Levon Aronian at the Aimchess Online Tournament. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-adventurous-abdusattorov",
-         "pubDate" : "Thu, 13 Jul 2023 20:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Adventurous Abdusattorov"
       },
       {
          "description" : "",
@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2481",
          "pubDate" : "Wed, 28 Jun 2023 10:14:58 +0000",
          "title" : "Girls Club \"Chess for protection\" keeps growing"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101325559.cms\" />A Missouri federal court on Tuesday dismissed US chess prodigy Hans Niemann's $100 million defamation lawsuit alleging Norwegian grandmaster Magnus Carlsen and Chess.com falsely accused him of cheating, though his lawyers said they will pursue their claims in state court.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-chess-com-beat-hans-niemanns-100-million-suit-over-cheating-scandal/articleshow/101325559.cms",
-         "pubDate" : "Wed, 28 Jun 2023 03:48:23 +0000",
-         "title" : "Carlsen, Chess.com beat Niemann's $100 mn suit over cheating scandal"
       }
    ]
 }
