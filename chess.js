@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Navara won his first classical game at the Biel Chess Festival to grab the early sole lead in the GM Triathlon. The Czech star defeated Bassem Amin, while Vincent Keymer, who entered the round as co-leader after the rapid, only managed a draw against Jules Moussard. The longest game of the day saw Arjun Erigaisi holding a draw with black against Yu Yangyi. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-r1",
+         "pubDate" : "Wed, 19 Jul 2023 04:00:00 +0100",
+         "title" : "Biel: Navara the first sole leader"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.or",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-6",
+         "pubDate" : "Wed, 19 Jul 2023 02:39:45 +0000",
+         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Max Dlugy talks to Cristian Chirila after defeating Shabalov in the fourth round of the 2023 U.S. Senior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dlugy-keeps-pace-melik-r4-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FJMj5aFHUUU.jpg?itok=8pE0BwF5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dlugy-keeps-pace-melik-r4-usseniorschess",
+         "pubDate" : "Wed, 19 Jul 2023 02:39:45 +0000",
+         "title" : "Dlugy Keeps Pace with Melik | R4 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Brandon Jacobson talks to Cristian Chirila after defeating Arthur Xu in the fourth round of the 2023 U.S. Junior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jacobson-i%E2%80%99ve-found-my-footing-r4-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fLvbGsP6wyg.jpg?itok=5bvymOvZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jacobson-i%E2%80%99ve-found-my-footing-r4-usjuniorschess",
+         "pubDate" : "Wed, 19 Jul 2023 02:39:45 +0000",
+         "title" : "Jacobson: I've Found My Footing | R4 #USJuniorsChess"
+      },
+      {
+         "description" : "GMs Daniel Naroditsky and Hikaru Nakamura won their matches by the highest margins in the Winners Quarterfinals of the Bullet Chess Championship 2023 on Tuesday. They each defeated formidable grandmasters, Andrew Tang and Jose Martinez respectivel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-2",
+         "pubDate" : "Tue, 18 Jul 2023 18:03:23 -0700",
+         "title" : "Naroditsky Defeats Ultrabullet Virtuoso, Matches Nakamura For Top Winning Margin"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The overall Junior competitors share their thoughts about playing in Saint Louis. This aired during Round 4. 2023.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-championship-what%E2%80%99s-it-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1B-BXKUgm80.jpg?itok=0cWdnsJw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-championship-what%E2%80%99s-it-returning-saint-louis",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "2023 U.S. Junior Championship: What's It Like Returning to Saint Louis?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Igor Novikov talks to Cristian Chirila after a draw with Kaidanov in the fourth round of the 2023 U.S. Senior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/novikovs-quiet-game-kaidanov-r4-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0z7hjK9jnt8.jpg?itok=W6-F_Bwz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/novikovs-quiet-game-kaidanov-r4-usseniorschess",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "Novikov's Quiet Game with Kaidanov | R4 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Senior competitors share their thoughts about playing in Saint Louis. This aired during Round 4. 2023.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-senior-championship-what%E2%80%99s-it-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IE9WYjA_umI.jpg?itok=sNW3lRNT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-senior-championship-what%E2%80%99s-it-returning-saint-louis",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "2023 U.S. Senior Championship: What's It Like Returning to Saint Louis?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Balaji Daggupati talks to Cristian Chirila after defeating Stearman in the fourth round of the 2023 U.S. Junior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/daggupati-difficult-play-friend-josiah-r4-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qTyUMTACua8.jpg?itok=k2L53Oh0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/daggupati-difficult-play-friend-josiah-r4-usjuniorschess",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "Daggupati: Difficult to Play Friend Josiah | R4 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Cristian Chirila after defeating Gurevich in the fourth round of the 2023 U.S. Senior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-i%E2%80%99ve-found-balance-my-life-r4-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8lmFHr5aKwk.jpg?itok=ZtMYRmLI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khachiyan-i%E2%80%99ve-found-balance-my-life-r4-usseniorschess",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "Khachiyan: I've Found Balance in My Life | R4 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Zoey Tang in the fourth round of the 2023 U.S. Girls' Junior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-i%E2%80%99m-happy-my-play-so-far-r4-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lbT4ItJ423I.jpg?itok=TkBwd5NV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-i%E2%80%99m-happy-my-play-so-far-r4-usjuniorschess",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "Alice Lee: I'm Happy With My Play So Far! | R4 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Iris Mou talks to Cristian Chirila after defeating Atwell in the fourth round of the 2023 U.S. Girls' Junior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/iris-mou-wins-gains-confidence-r4-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v9IgTMFBfS0.jpg?itok=15lCVOQk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/iris-mou-wins-gains-confidence-r4-usjuniorschess",
+         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
+         "title" : "Iris Mou Wins & Gains Confidence | R4 #USJuniorsChess"
+      },
+      {
          "description" : "In the ninth game of the Women's World Chess Championships, Lei Tingjie and Ju Wenjun showed a remarkable level of understanding both in the middlegame emerging from a Sicilian Defence and in the ensuing rook ending. The game ended in a draw after 59 moves. | Photos: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,92 +306,12 @@ news_feed (
          "title" : "Biel Chess Festival HTO 2023 - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Cristian Chirila after defeating Kaidanov in the third round of the 2023 U.S. Senior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akopian-shakes-blunders-after-long-layoff-r3-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IXywq22ET_A.jpg?itok=96VlwpdK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akopian-shakes-blunders-after-long-layoff-r3-usseniorschess",
-         "pubDate" : "Tue, 18 Jul 2023 02:39:03 +0000",
-         "title" : "Akopian Shakes Off Blunders After Long Layoff | R3 #USSeniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Justin Wang talks to Cristian Chirila after defeating Jason Liang in the third round of the 2023 U.S. Junior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/junior-veteran-justin-wang%E2%80%99s-first-win-r3-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KOmuNwz8jQY.jpg?itok=m9GJCkV0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/junior-veteran-justin-wang%E2%80%99s-first-win-r3-usjuniorschess",
-         "pubDate" : "Tue, 18 Jul 2023 02:39:03 +0000",
-         "title" : "Junior Veteran Justin Wang's First Win | R3 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Josiah Stearman talks to Begim Tokhirjonova before the 2023 U.S. Junior &amp; U.S. Senior Championships. This aired during Round 3. 2023.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stearman-i%E2%80%99m-going-title-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YjivfUaDrv0.jpg?itok=99ZDCPmk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/stearman-i%E2%80%99m-going-title-usjuniorschess",
-         "pubDate" : "Tue, 18 Jul 2023 02:39:03 +0000",
-         "title" : "Stearman: I'm Going For The Title | #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-5\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-5",
-         "pubDate" : "Tue, 18 Jul 2023 02:39:03 +0000",
-         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 5"
-      },
-      {
          "description" : "The favorites swept the underdogs in the opening round of the Bullet Chess Championship 2023 on Monday. Debuting in the event, GM Magnus Carlsen won nearly every game vs. GM Eric Hansen.&#38;nbsp;GM Oleksandr Bortnyk fought off GM Fabiano Caruana&#39;s ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-1",
          "pubDate" : "Mon, 17 Jul 2023 19:05:00 -0700",
          "title" : "Matching Mocktails: Carlsen Defeats Chessbrah In Bullet Debut"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Begim Tokhirjonova before the 2023 U.S. Junior &amp; U.S. Senior Championships. This aired during Round 3. 2023.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-no-difference-between-2nd-10th-places-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZvKSwG7ZDW0.jpg?itok=mYy5-dAf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-no-difference-between-2nd-10th-places-usjuniorschess",
-         "pubDate" : "Mon, 17 Jul 2023 23:39:01 +0000",
-         "title" : "Mishra: No Difference Between 2nd-10th Places | #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Girls' Junior competitors share their thoughts about playing in Saint Louis. This aired during Round 3. 2023.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-girls%E2%80%99-junior-championship-what%E2%80%99s-it-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/an4-DciNvhQ.jpg?itok=fbxk2-Xv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-girls%E2%80%99-junior-championship-what%E2%80%99s-it-returning-saint-louis",
-         "pubDate" : "Mon, 17 Jul 2023 23:39:01 +0000",
-         "title" : "2023 U.S. Girls' Junior Championship: What's It Like Returning to Saint Louis?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Cristian Chirila after defeating Iris Mou in the third round of the 2023 U.S. Girls' Junior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-yip-%E2%80%98strong-clean-win%E2%80%99-over-mou-r3-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M1dCtPc-arg.jpg?itok=284B5MG5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carissa-yip-%E2%80%98strong-clean-win%E2%80%99-over-mou-r3-usjuniorschess",
-         "pubDate" : "Mon, 17 Jul 2023 23:39:01 +0000",
-         "title" : "Carissa Yip: A 'Strong, Clean Win' Over Mou | R3 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Josiah Stearman talks to Cristian Chirila after defeating Arthur Xu in the third round of the 2023 U.S. Junior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stearman-decent-chances-take-1st-r3-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ysk3napXdJU.jpg?itok=8ervQ2op\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/stearman-decent-chances-take-1st-r3-usjuniorschess",
-         "pubDate" : "Mon, 17 Jul 2023 23:39:01 +0000",
-         "title" : "Stearman: Decent Chances to Take 1st | R3 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Rose Atwell in the third round of the 2023 U.S. Girls' Junior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-yip-%E2%80%98definitely%E2%80%99-main-rival-r3-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VgGq6fDzVEY.jpg?itok=WOFDK_5E\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-yip-%E2%80%98definitely%E2%80%99-main-rival-r3-usjuniorschess",
-         "pubDate" : "Mon, 17 Jul 2023 23:39:01 +0000",
-         "title" : "Alice Lee: Yip is 'Definitely' Main Rival | R3 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arthur Guo talks to Cristian Chirila after defeating Daggupati in the third round of the 2023 U.S. Junior Championship. 2023.07.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/arthur-guo-being-his-own-coach-working-out-r3-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tQJWuIInNAA.jpg?itok=crdKBRNc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/arthur-guo-being-his-own-coach-working-out-r3-usjuniorschess",
-         "pubDate" : "Mon, 17 Jul 2023 23:39:01 +0000",
-         "title" : "Arthur Guo: Being His Own Coach is Working Out! | R3 #USJuniorsChess"
       },
       {
          "description" : "Imagine a sun-filled day with an over-the-board game in a picturesque park such as Columbus Park in New York City. It&#38;rsquo;s a scene we all enjoy watching. Would you be surprised to see tennis great Roger Federer on one side of the chessboard fac...",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Grivas: Masterpiece by Magnus"
       },
       {
-         "description" : "Magnus Carlsen advanced to the Grand Final of the Aimchess Rapid online tournament by getting a clear victory over Nodirbek Abdusattorov. In the Grand Final, Carlsen will face the winner of the losers' bracket, where Wesley So and Eduardo Iturrizaga are set to face each other in a fight to get the right to play Abdusattorov. | Photo: Lennart Ootes / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d3-2",
-         "pubDate" : "Thu, 13 Jul 2023 08:15:00 +0100",
-         "title" : "Aimchess Rapid: Carlsen in Grand Final, Iturrizaga knocks out Aronian"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-2023-superunited-croatia-rapid-blitz",
          "pubDate" : "Sun, 09 Jul 2023 10:04:00 -0700",
          "title" : "Carlsen Captures Croatia Crown, Nepomniachtchi Surges Into Second"
-      },
-      {
-         "description" : "The longest game of the match so far saw GM Ju Wenjun shrug off an opening surprise to torture GM Lei Tingjie for five hours in game four of the 2023 FIDE Women&#39;s World Championship. Lei didn&#39;t crack, however, so the scores are still tied, at 2-2,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-4",
-         "pubDate" : "Sun, 09 Jul 2023 07:52:00 -0700",
-         "title" : "Longest Game Drawn, As Ju Resists Lei's Pressure In Game 4"
       },
       {
          "description" : "",
