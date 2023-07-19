@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I bought an airplane ticket for the same July 13th flight that my husband Doug took to St. Louis for the 2023 U.S. Senior Championship. But I didn't join Doug on that flight. 'Chess' (the musical) was in St. Louis and my son William wanted to see it. | Photo: Municipal Theatre Association of St. Louis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-the-musical-1990-versus-2023",
+         "pubDate" : "Wed, 19 Jul 2023 13:00:00 +0100",
+         "title" : "Chess (the musical): 1990 versus 2023"
+      },
+      {
          "description" : "In just five minutes, learn how grandmasters use ChessBase 17 to quickly get similar endgames so they can study deeper and learn from others. Whether an amateur or one of the world elite, these easy but powerful tools can help you raise your game and do wonders for your rating! Don't miss this lightning video lesson!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/torch-chess-engine",
          "pubDate" : "Thu, 13 Jul 2023 18:17:00 -0700",
          "title" : "Announcing Torch: New #2 Chess Engine"
-      },
-      {
-         "description" : "Wesley So scored back-to-back, dominant victories over Eduardo Iturrizaga and Nodirbek Abdusattorov to win the losers' bracket of the Aimchess Rapid online tournament. So will face Magnus Carlsen in Friday's Grand Final, played to the best of 4. If Carlsen loses, he will get a second chance against the same opponent, as he has yet to lose a match in the event. | Photo: Champions Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d4",
-         "pubDate" : "Fri, 14 Jul 2023 02:00:00 +0100",
-         "title" : "Aimchess Rapid: Dominant So makes it to the Grand Final"
       },
       {
          "description" : "The main event of the 2023 Bullet Chess Championship (BCC) is almost here. Sixteen elite players, including bullet legends GMs Hikaru Nakamura, Magnus Carlsen, and Alireza Firouzja, are about to go toe-to-toe to see who&#39;s the fastest player on the...",
@@ -1640,14 +1640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/its-the-beginning-of-a-revolution-in-india-magnus-carlsen/articleshow/101342951.cms",
          "pubDate" : "Wed, 28 Jun 2023 12:50:02 +0000",
          "title" : "It's the beginning of a revolution in India: Magnus Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2481",
-         "pubDate" : "Wed, 28 Jun 2023 10:14:58 +0000",
-         "title" : "Girls Club \"Chess for protection\" keeps growing"
       }
    ]
 }
