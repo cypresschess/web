@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For the first time in over a decade, I have signed myself up for a Round Robin event. In the past I have done pretty well in this format, although I fear the run may soon come to an end. If my memory hasn't failed me, the last RR I played was in the Solomon Islands in 2009 (I did finish first). Probably the crucial game for me was the following win over FM Lee Jones. He missed my idea in the middle game, and the threat of taking on f3 meant he had to give me a lot of material, so he chose to resign instead. <br /> <b>Jones,Lee (2117) - Press,Shaun (2076) [D45]</b><br /> Solomon Islands Honiara (7), 27.09.2009 <script> new PgnViewer( { boardName: \"game1409\", movesFormat: \"default\", pgnString",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/the-round-robin.html",
+         "pubDate" : "Wed, 19 Jul 2023 14:30:00 +0000",
+         "title" : "The Round Robin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2531",
+         "pubDate" : "Wed, 19 Jul 2023 14:00:13 +0000",
+         "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
+      },
+      {
+         "description" : "Challenger GM Lei Tingjie briefly threatened to take over in game 10 of the 2023 FIDE Women&#39;s World Championship, but defending champion GM Ju Wenjun &#34;took back&#34; a questionable move and soon even had a nominal advantage before the game fizzled out...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-10",
+         "pubDate" : "Wed, 19 Jul 2023 06:35:14 -0700",
+         "title" : "Women's World Championship Tied 5-5 Before Final Weekend"
+      },
+      {
+         "description" : "The Italian Game has become popular again in top chess in recent years, not least because it often leads to interesting positions rich in content. In ChessBase Magazine #214 Sergey Grigoriants uses games by Nakamura, Carlsen, Kasimdzhanov and others to show a concept that promises Black \"relatively easy play\": with 10...Re8 Black prepares the exchange of the light-squared bishops on e6.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-italian-for-insiders",
+         "pubDate" : "Wed, 19 Jul 2023 14:00:00 +0100",
+         "title" : "The Italian for insiders"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2530",
+         "pubDate" : "Wed, 19 Jul 2023 12:29:55 +0000",
+         "title" : "Ju and Lei still levelled as WWC Match enters final phase"
+      },
+      {
          "description" : "I bought an airplane ticket for the same July 13th flight that my husband Doug took to St. Louis for the 2023 U.S. Senior Championship. But I didn't join Doug on that flight. 'Chess' (the musical) was in St. Louis and my son William wanted to see it. | Photo: Municipal Theatre Association of St. Louis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-learn-how-grandmasters-use-chessbase-to-study-endgames-video",
          "pubDate" : "Wed, 19 Jul 2023 09:00:00 +0100",
          "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
+      },
+      {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess today and play the first round in GMT-Classical, the second discipline of their Grandmaster Triathlon. Live here with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Wed, 19 Jul 2023 08:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
@@ -248,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/beautiful-breakthroughs",
          "pubDate" : "Tue, 18 Jul 2023 09:00:00 +0100",
          "title" : "Beautiful breakthroughs"
-      },
-      {
-         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess today and play the first round in GMT-Classical, the second discipline of their Grandmaster Triathlon. Live here with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Tue, 18 Jul 2023 08:55:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
@@ -674,14 +714,6 @@ news_feed (
          "title" : "Magnus Carlsen hits two maximums as carefree world No 1 continues his surge"
       },
       {
-         "description" : "Caiob&aacute; is a beach near the city of Matinhos, in the state of Paran&aacute;, in the south of Brazil. Matinhos has been the site of many important tournaments, most notably the 1994 U20 World Championship. In recent years, however, Caiob&aacute; has become better known among chess players due to the SESC Caiob&aacute; Chess Open, an important tournament in the Brazilian chess calendar since 2015, only missing in 2020/21 due to the covid pandemic. This year's edition was a great chess party, and the organisers promise that 2024 will be even better.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nice-weather-a-quiet-beach-and-exciting-chess-battles-in-brazil",
-         "pubDate" : "Fri, 14 Jul 2023 07:00:00 +0100",
-         "title" : "Nice weather, a quiet beach and exciting chess battles in Brazil"
-      },
-      {
          "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1040,14 +1072,6 @@ news_feed (
          "link" : "https://aicf.in/mahesh-candolkar-and-ashesh-keni-elected-as-president-and-secretary-of-goa-chess-association/",
          "pubDate" : "Sun, 09 Jul 2023 17:37:29 +0000",
          "title" : "Mahesh Candolkar and Ashesh Keni elected as President and Secretary of Goa Chess Association"
-      },
-      {
-         "description" : "The SuperUnited Rapid and Blitz Croatia 2023 came to a close on Sunday with one clear winner, GM Magnus Carlsen. The former world champion kept up his formidable run and scored 6/9 on the second day of blitz to take his total to 26/36.&#38;nbsp; Not...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-2023-superunited-croatia-rapid-blitz",
-         "pubDate" : "Sun, 09 Jul 2023 10:04:00 -0700",
-         "title" : "Carlsen Captures Croatia Crown, Nepomniachtchi Surges Into Second"
       },
       {
          "description" : "",
@@ -1624,22 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2454",
          "pubDate" : "Wed, 28 Jun 2023 18:09:08 +0000",
          "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2482",
-         "pubDate" : "Wed, 28 Jun 2023 16:34:20 +0000",
-         "title" : "The match for Women's World Champion title: Celebration of China and Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101342951.cms\" />Magnus Carlsen, the five-time chess world champion said he is pleasantly surprised with the immense enthusiasm for the game in India. Carlsen believes that this surge of interest marks the commencement of a revolutionary era, an achievement primarily attributed to the legendary Viswanathan Anand. Carlsen, widely recognized as one of the most formidable players in chess, is currently representing the SG Alpine Warriors in the Global Chess League (GCL). He acknowledged that India's consistent production of Grandmasters holds promising prospects for t",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/its-the-beginning-of-a-revolution-in-india-magnus-carlsen/articleshow/101342951.cms",
-         "pubDate" : "Wed, 28 Jun 2023 12:50:02 +0000",
-         "title" : "It's the beginning of a revolution in India: Magnus Carlsen"
       }
    ]
 }
