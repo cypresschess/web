@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Wed, 19 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "In his Game of the Week show #577, Merijn van Delft shares one of his games from the Science Park Tournament in Amsterdam. He and Murad Abdulla fought in a remarkably imbalanced position! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-577-abdulla-van-delft",
+         "pubDate" : "Wed, 19 Jul 2023 18:30:00 +0100",
+         "title" : "Game of the Week #577: M. Abdulla vs M. Van Delft"
+      },
+      {
+         "description" : "At the US Junior Championships in Saint Louis, some of the youngest players in the fields (open and girls') are showing remarkable performances. Alice Lee (photo), aged 13, took the lead in the girls' tournament, while Abhimnyu Mishra, aged 14, dethroned former leader Andrew Hong in the open. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r4",
+         "pubDate" : "Wed, 19 Jul 2023 18:15:00 +0100",
+         "title" : "US Juniors: The youngest on top"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101965825.cms\" />In a remarkable achievement, 17-year-old Indian Grandmaster R Praggnanandhaa emerged as the champion in the V Geza Hetenyi Memorial Super GM chess tournament 2023 held in Budapest, Hungary.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-praggnanandhaa-wins-super-gm-chess-tourney-in-hungary/articleshow/101965825.cms",
+         "pubDate" : "Wed, 19 Jul 2023 16:49:41 +0000",
+         "title" : "Indian GM Praggnanandhaa wins Super GM chess tourney in Hungary"
+      },
+      {
+         "description" : " &#8220;Errare humanum est&#8221; Seneca Below is an interesting position we reached as Black in one of our recently finished voting chess games. There is a lot to like about it. The isolated d5-pawn is one theoretical weaknesses. Everything else looks very good, from Be4 and Nc4 occupying the respective outposts, to the support provided by <a href=\"https://chessimprover.com/bad-ideas-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-8/\">Bad Ideas (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/bad-ideas-8/",
+         "pubDate" : "Wed, 19 Jul 2023 16:02:48 +0000",
+         "title" : "Bad Ideas (8)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2532",
+         "pubDate" : "Wed, 19 Jul 2023 14:59:56 +0000",
+         "title" : "Implementation of the C.07 Tie-Break Regulations postponed"
+      },
+      {
          "description" : " For the first time in over a decade, I have signed myself up for a Round Robin event. In the past I have done pretty well in this format, although I fear the run may soon come to an end. If my memory hasn't failed me, the last RR I played was in the Solomon Islands in 2009 (I did finish first). Probably the crucial game for me was the following win over FM Lee Jones. He missed my idea in the middle game, and the threat of taking on f3 meant he had to give me a lot of material, so he chose to resign instead. <br /> <b>Jones,Lee (2117) - Press,Shaun (2076) [D45]</b><br /> Solomon Islands Honiara (7), 27.09.2009 <script> new PgnViewer( { boardName: \"game1409\", movesFormat: \"default\", pgnString",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2531",
          "pubDate" : "Wed, 19 Jul 2023 14:00:13 +0000",
          "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
+      },
+      {
+         "description" : "I bought an airplane ticket for the same July 13th flight that my husband Doug took to St. Louis for the 2023 U.S. Senior Championship. But I didn't join Doug on that flight. 'Chess' (the musical) was in St. Louis and my son William wanted to see it. | Photo: Municipal Theatre Association of St. Louis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-the-musical-1990-versus-2023",
+         "pubDate" : "Wed, 19 Jul 2023 15:00:00 +0100",
+         "title" : "Chess (the musical): 1990 versus 2023"
       },
       {
          "description" : "Challenger GM Lei Tingjie briefly threatened to take over in game 10 of the 2023 FIDE Women&#39;s World Championship, but defending champion GM Ju Wenjun &#34;took back&#34; a questionable move and soon even had a nominal advantage before the game fizzled out...",
@@ -40,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2530",
          "pubDate" : "Wed, 19 Jul 2023 12:29:55 +0000",
          "title" : "Ju and Lei still levelled as WWC Match enters final phase"
-      },
-      {
-         "description" : "I bought an airplane ticket for the same July 13th flight that my husband Doug took to St. Louis for the 2023 U.S. Senior Championship. But I didn't join Doug on that flight. 'Chess' (the musical) was in St. Louis and my son William wanted to see it. | Photo: Municipal Theatre Association of St. Louis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-the-musical-1990-versus-2023",
-         "pubDate" : "Wed, 19 Jul 2023 13:00:00 +0100",
-         "title" : "Chess (the musical): 1990 versus 2023"
       },
       {
          "description" : "In just five minutes, learn how grandmasters use ChessBase 17 to quickly get similar endgames so they can study deeper and learn from others. Whether an amateur or one of the world elite, these easy but powerful tools can help you raise your game and do wonders for your rating! Don't miss this lightning video lesson!",
@@ -184,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-9",
          "pubDate" : "Tue, 18 Jul 2023 22:10:00 +0100",
          "title" : "Women's World Championship: A tense draw, three games to go"
-      },
-      {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Tue, 18 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "The Swiss Championship Titled Seniors is an 8-player round-robin tournament taking place from 17&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
@@ -666,14 +706,6 @@ news_feed (
          "title" : "FIDE World Schools Team Championship: Meet the teams"
       },
       {
-         "description" : "Usually regarded as a separate phase of the game, the endgame bears a tight connection with the middlegame (and in some extreme cases, with the opening). The process of simplifying to an endgame implies a series of subtleties and principles, highlighted on this video course. Ignoring them, could result into losing the middlegame advantage or getting the worst of it. How, when and which piece to exchange are the main questions requiring an accurate answer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mihail-marin-power-strategy-3-from-the-middlegame-to-the-endgame",
-         "pubDate" : "Fri, 14 Jul 2023 16:00:00 +0100",
-         "title" : "Mihail Marin: Power Strategy 3 - From the middlegame to the endgame"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junioropen-girls-chess-championship-2023-from-07-16-september-2023-at-jamshedpur-jharkhand/",
          "pubDate" : "Fri, 14 Jul 2023 11:16:23 +0000",
          "title" : "Asian Junior(Open & Girls) Chess Championship 2023 from 07-16 September 2023 at Jamshedpur Jharkhand"
-      },
-      {
-         "description" : "The Association of Chess Professionals is a non-profit organisation that was founded in 2003 to protect the rights of professional chess players. In the course of its existence the ACP managed to push through many important changes in the FIDE regulations, raising the prize funds and improving the financial conditions of the professional chess players. It also organised numerous tournaments. Now, after two decades, the ACP General Assembly has decided to dissolve the organisation. Here are all the details, in their press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dissolution-of-the-acp",
-         "pubDate" : "Fri, 14 Jul 2023 11:00:00 +0100",
-         "title" : "Dissolution of the ACP"
       },
       {
          "description" : " After scoring 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday and 9/9 in the Zagreb Grand Tour blitz, he now contends in the Aimchess Masters Magnus Carlsen's decision to abdicate the world crown he had held for a decade is looking like an inspired choice as the Norwegian, 32, has hit a rich vein of form in the past two weeks. Maximum tournament scores are rare, but Carlsen achieved 11/11 in <a href=\"http://chess.com/\" title=\"\">chess.com</a>'s Titled Tuesday, only the second time this has been done <a href=\"https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023\" title=\"\">in the notoriously competitive event</a>, then a few days later notched up 9/",
@@ -1282,7 +1306,7 @@ news_feed (
          "title" : "World Youth Chess Championship 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 4 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 4 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 &frac12; &frac12; 5 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 &frac12; &frac12; 5 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -1632,22 +1656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-koneru-humpy-bats-for-more-chess-tournaments-for-women-in-india/articleshow/101365810.cms",
          "pubDate" : "Thu, 29 Jun 2023 10:52:51 +0000",
          "title" : "GM Humpy bats for more chess tournaments for women in India"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2483",
-         "pubDate" : "Wed, 28 Jun 2023 18:32:08 +0000",
-         "title" : "GCL Day 7: Carlsen's spectacular victory over Anand lifts SG Alpine Warriors to the top "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2454",
-         "pubDate" : "Wed, 28 Jun 2023 18:09:08 +0000",
-         "title" : "Carlsen, Nepomniachtchi, and Ju Wenjun, among the participants of the FIDE World Cup"
       }
    ]
 }
