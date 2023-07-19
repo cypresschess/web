@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today (July 20th) is International Chess Day. This attracted the attention of the Canberra Times newspaper, and they did a feature story, with photo's, on the after school chess program at Kaleen Primary school (NB I am one of the coaches for this program). Interestingly, this is the same Canberra Times who just three weeks ago canned the weekly chess column that had been running for over 50 years. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/international-chess-day.html",
+         "pubDate" : "Wed, 19 Jul 2023 23:02:00 +0000",
+         "title" : "International Chess Day"
+      },
+      {
+         "description" : "17-year-old GM Praggnanandhaa Rameshbabu continues to climb the highest rungs of professional chess. On Wednesday, he won the V. Geza Hetenyi Memorial | GM, held in Budapest, and will cross the 2700-rating threshold on the next official FIDE list....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-breaks-2700-rating",
+         "pubDate" : "Wed, 19 Jul 2023 16:01:00 -0700",
+         "title" : "Praggnanandhaa Breaks 2700 Rating With Tournament Win In Budapest"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Cristian Chirila after drawing Jason Liang in the fifth round of the 2023 U.S. Junior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-i-need-stop-playing-forcing-lines-r5-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/plDKyMhqxb0.jpg?itok=aNTQ8Grg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mishra-i-need-stop-playing-forcing-lines-r5-usjuniorschess",
+         "pubDate" : "Wed, 19 Jul 2023 20:40:45 +0000",
+         "title" : "Mishra: I Need to Stop Playing Forcing Lines! | R5 #USJuniorsChess"
+      },
+      {
+         "description" : "Russian chess continues to lose its top players. Former Candidates player GM Kirill Alekseenko has now completed the transfer to Austria and becomes the country&#39;s highest-rated player.&#38;nbsp; The 26-year-old from St. Petersburg who was ranked amo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kirill-alekseenko-leaves-russia-joins-austria",
+         "pubDate" : "Wed, 19 Jul 2023 13:36:00 -0700",
+         "title" : "Kirill Alekseenko Leaves Russia, Becomes New Austrian Number One"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2533",
+         "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
+         "title" : "ChessFest takes over London"
+      },
+      {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,6 +170,38 @@ news_feed (
          "title" : "Herman Grooten: Key concepts"
       },
       {
+         "description" : "The Luis Eduardo Hernandez Fierro Memorial is taking place from 19&#x2013;23 July 2023 in Rivera-Huila, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of Roberto Garcia Pantoja, Jorge Samuel Bobadilla Viera, Henry Panesso Rivera, Anthony Javier Paredes Lagos, Josue []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/luis-eduardo-hernandez-fierro-memorial-2023/",
+         "pubDate" : "Wed, 19 Jul 2023 05:14:00 +0000",
+         "title" : "Luis Eduardo Hernandez Fierro Memorial 2023"
+      },
+      {
+         "description" : "The Luis Eduardo Hernandez Fierro Memorial is taking place from 19&#x2013;23 July 2023 in Rivera-Huila, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of Roberto Garcia Pantoja, Jorge Samuel Bobadilla Viera, Henry Panesso Rivera, Anthony Javier Paredes Lagos, Josue []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/luis-eduardo-hernandez-fierro-memorial-2023-live/",
+         "pubDate" : "Wed, 19 Jul 2023 04:34:00 +0000",
+         "title" : "Luis Eduardo Hernandez Fierro Memorial 2023 - LIVE"
+      },
+      {
+         "description" : "The Paleochora Open is taking place from 19&#x2013;26 July 2023 in Paleochora, Greece. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hristos Banikas, Surya Shekhar Ganguly, Baadur Jobava, Jinshi Bai, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/paleochora-open-2023-live/",
+         "pubDate" : "Wed, 19 Jul 2023 04:11:00 +0000",
+         "title" : "Paleochora Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Paleochora Open is taking place from 19&#x2013;26 July 2023 in Paleochora, Greece. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hristos Banikas, Surya Shekhar Ganguly, Baadur Jobava, Jinshi Bai, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/paleochora-open-2023/",
+         "pubDate" : "Wed, 19 Jul 2023 03:35:00 +0000",
+         "title" : "Paleochora Open 2023"
+      },
+      {
          "description" : "David Navara won his first classical game at the Biel Chess Festival to grab the early sole lead in the GM Triathlon. The Czech star defeated Bassem Amin, while Vincent Keymer, who entered the round as co-leader after the rapid, only managed a draw against Jules Moussard. The longest game of the day saw Arjun Erigaisi holding a draw with black against Yu Yangyi. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +232,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jacobson-i%E2%80%99ve-found-my-footing-r4-usjuniorschess",
          "pubDate" : "Wed, 19 Jul 2023 02:39:45 +0000",
          "title" : "Jacobson: I've Found My Footing | R4 #USJuniorsChess"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-10-live/",
+         "pubDate" : "Wed, 19 Jul 2023 02:33:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 10 - LIVE"
       },
       {
          "description" : "GMs Daniel Naroditsky and Hikaru Nakamura won their matches by the highest margins in the Winners Quarterfinals of the Bullet Chess Championship 2023 on Tuesday. They each defeated formidable grandmasters, Andrew Tang and Jose Martinez respectivel...",
@@ -216,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alice-lee-i%E2%80%99m-happy-my-play-so-far-r4-usjuniorschess",
          "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
          "title" : "Alice Lee: I'm Happy With My Play So Far! | R4 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Iris Mou talks to Cristian Chirila after defeating Atwell in the fourth round of the 2023 U.S. Girls' Junior Championship. 2023.07.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/iris-mou-wins-gains-confidence-r4-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v9IgTMFBfS0.jpg?itok=15lCVOQk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/iris-mou-wins-gains-confidence-r4-usjuniorschess",
-         "pubDate" : "Tue, 18 Jul 2023 23:39:47 +0000",
-         "title" : "Iris Mou Wins & Gains Confidence | R4 #USJuniorsChess"
       },
       {
          "description" : "In the ninth game of the Women's World Chess Championships, Lei Tingjie and Ju Wenjun showed a remarkable level of understanding both in the middlegame emerging from a Sicilian Defence and in the ensuing rook ending. The game ended in a draw after 59 moves. | Photos: Stev Bonhage / FIDE",
@@ -360,46 +432,6 @@ news_feed (
          "link" : "https://www.chessdom.com/swiss-championship-titled-open-2023/",
          "pubDate" : "Tue, 18 Jul 2023 06:12:00 +0000",
          "title" : "Swiss Championship Titled Open 2023"
-      },
-      {
-         "description" : "The Swiss Championship Masters is place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament taking with participation of Li Min Peng, Bogdan Borsos, Maximilian Hofer, C&#xE9;dric []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-masters-2023/",
-         "pubDate" : "Tue, 18 Jul 2023 06:11:00 +0000",
-         "title" : "Swiss Championship Masters 2023"
-      },
-      {
-         "description" : "The Swiss Championship Masters is place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament taking with participation of Li Min Peng, Bogdan Borsos, Maximilian Hofer, C&#xE9;dric []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-masters-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 05:36:00 +0000",
-         "title" : "Swiss Championship Masters 2023 - LIVE"
-      },
-      {
-         "description" : "The Biel Chess Festival ATO is taking place from 17&#x2013;26 July 2023 in Biel, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Athanasios Zafeiridis, Nicola Schmid, Hans-Juergen Weyer, Dmitrii Titov, Daniel Baotic, Lothar Cordes, etc. All about []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-festival-ato-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 05:05:00 +0000",
-         "title" : "Biel Chess Festival ATO 2023 - LIVE"
-      },
-      {
-         "description" : "The Biel Chess Festival ATO is taking place from 17&#x2013;26 July 2023 in Biel, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Athanasios Zafeiridis, Nicola Schmid, Hans-Juergen Weyer, Dmitrii Titov, Daniel Baotic, Lothar Cordes, etc.Chessdom.com will daily []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-festival-ato-2023/",
-         "pubDate" : "Tue, 18 Jul 2023 04:34:00 +0000",
-         "title" : "Biel Chess Festival ATO 2023"
-      },
-      {
-         "description" : "The Biel Chess Festival HTO is taking place from 17&#x2013;26 July 2023 in Biel, Switzerland. Players receive 10 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Prokopios Mamalis, Alexey Khanabiev, Roland Dr. Arbinger, Miralem Novalic, Paul Koestinger, Michal Mirski,Wiesmann, Dominique Wiesmann, Felix []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-festival-hto-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 04:19:00 +0000",
-         "title" : "Biel Chess Festival HTO 2023 - LIVE"
       },
       {
          "description" : "The favorites swept the underdogs in the opening round of the Bullet Chess Championship 2023 on Monday. Debuting in the event, GM Magnus Carlsen won nearly every game vs. GM Eric Hansen.&#38;nbsp;GM Oleksandr Bortnyk fought off GM Fabiano Caruana&#39;s ...",
@@ -1002,14 +1034,6 @@ news_feed (
          "title" : "ECF Awards 2023 - closing date extended"
       },
       {
-         "description" : "The organizers of Norway Chess recently announced their groundbreaking vision&#38;nbsp;to host an all-female super tournament in 2024 with conditions equal to their annual top-level competition. The minds behind &#34;the world&#39;s strongest chess tourname...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-announces-vision-for-gender-equality-super-tournament",
-         "pubDate" : "Mon, 10 Jul 2023 21:45:00 -0700",
-         "title" : "Norway Chess Announces Vision For Gender Equality Women's Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1056,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2512",
          "pubDate" : "Mon, 10 Jul 2023 11:15:00 +0000",
          "title" : "Hou Yifan on chess in China and the match for the 18th Women's World Champion"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Fabiano Caruana, Nodirbek Abdusattorov, and Levon Aronian move on to the Winners Bracket in Division I of the Champions Chess Tour Aimchess Rapid 2023 after winning their matches on the first day. Carlsen and Caruana beat the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-1",
-         "pubDate" : "Mon, 10 Jul 2023 00:37:00 -0700",
-         "title" : "Carlsen, Caruana Clinch Matches With Game To Spare; Abdusattorov Beats So On Demand"
       },
       {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised it's first Fair Play Orientation Workshop at Sanca International Hotel, New Delhi on 08-09",
