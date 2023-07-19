@@ -1,6 +1,7 @@
 jtable([
 "LEAGUE CITY","2023-07-03  - 07-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307177392 target='_blank'>CLCC JULY MONDAYS</a>",
 "HOUSTON","2023-07-15","15","<a href=http://www.uschess.org/msa/XtblMain.php?202307158372 target='_blank'>QUADS ALL AGES JULY 15</a>",
+"SUGAR LAND","2023-07-15","59","<a href=http://www.uschess.org/msa/XtblMain.php?202307158052 target='_blank'>FCA JULY 2023</a>",
 "HOUSTON","2023-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307157802 target='_blank'>CHESSPANDA07152023SATURDAY</a>",
 "CYPRESS","2023-07-14  - 07-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202307157332 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2023-07-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202307147542 target='_blank'>FORT BEND CLUB TOURNAMENT 7/14/23</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-12-03","341","<a href=http://www.uschess.org/msa/XtblMain.php?202212034072 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
 "SPRING","2022-12-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212024252 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-12-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202212023102 target='_blank'>TOURNAMENTS/FBCC 2022 NATIONAL POPC</a>",
-"CYPRESS","2022-12-02","22","<a href=http://www.uschess.org/msa/XtblMain.php?202212023052 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
