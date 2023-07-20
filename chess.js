@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show, Robert Ris analyses an outstanding game from the Geza Hetenyi Memorial. Eventual winner Praggnanandhaa lost with black against Amin Tabatabaei, as the rising stars fought in a wild middlegame out of a rare line in the Ruy Lopez. Unmissable! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-open-kings-ruy-lopez",
+         "pubDate" : "Thu, 20 Jul 2023 20:30:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Wide open kings out of a Ruy Lopez"
+      },
+      {
+         "description" : "The Austrian Chess Federation has a new top grandmaster representing their country. Kirill Alekseenko (photo) has joined the Austrian federation and with his 2674 rating is the new number one in the European country. The Spanish Chess Federation also reports a prominent addition, as Sara Khadem has completed her transfer. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/switching-federations",
+         "pubDate" : "Thu, 20 Jul 2023 19:10:00 +0100",
+         "title" : "Switching federations"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/khachiyan-i-wanted-play-solid-possible-r5-usjuniorschess",
          "pubDate" : "Thu, 20 Jul 2023 02:41:05 +0000",
          "title" : "Khachiyan: I Wanted to Play as Solid as Possible | R5 #USJuniorsChess"
-      },
-      {
-         "description" : "With swift and tricky play, GM Alireza Firouzja defeated GM Magnus Carlsen in the semifinals of the Bullet Chess Championship 2023 on Wednesday. GM Hikaru Nakamura bested GM Daniel Naroditsky in match loaded with dazzling tactics. Firouzja and Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-3",
-         "pubDate" : "Wed, 19 Jul 2023 18:45:00 -0700",
-         "title" : "Firouzja Outshines Carlsen: 'I Saw Myself As The Favorite'"
       },
       {
          "description" : "Le Quang Liem was the only player to score a victory in the second round of classical games at the Grandmaster Triathlon in Biel. Meanwhile, sole leader David Navara successfully defended an outstanding endgame with rook and pawn against six pawns in his game against Arjun Erigaisi. Le is now sharing second place with Vincent Keymer. | Photos: Official website",
@@ -200,6 +208,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
          "pubDate" : "Wed, 19 Jul 2023 20:00:00 +0100",
          "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "With swift and tricky play, GM Alireza Firouzja defeated GM Magnus Carlsen in the semifinals of the Bullet Chess Championship 2023 on Wednesday. GM Hikaru Nakamura bested GM Daniel Naroditsky in match loaded with dazzling tactics. Firouzja and Nak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-3",
+         "pubDate" : "Wed, 19 Jul 2023 11:16:00 -0700",
+         "title" : "Firouzja Outshines Carlsen: 'I Saw Myself As The Favorite'"
       },
       {
          "description" : "In his Game of the Week show #577, Merijn van Delft shares one of his games from the Science Park Tournament in Amsterdam. He and Murad Abdulla fought in a remarkably imbalanced position! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -768,22 +784,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/petrosian-s-stunning-sacrifice-honorata-s-harmony",
          "pubDate" : "Fri, 14 Jul 2023 20:00:00 +0100",
          "title" : "Petrosian's stunning sacrifice - Honorata's Harmony"
-      },
-      {
-         "description" : "The 56th Biel Chess Festival, one of the most traditional and beautiful chess tournaments, begins next Saturday, 15 July 2023. In his review, Eduard Frey presents ten surprising and interesting facts about the history of the tournament. | Photo courtesy of the organiser: Playing Hall, Congress Centre Biel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ten-trivia-about-the-biel-international-chess-festival",
-         "pubDate" : "Fri, 14 Jul 2023 18:35:00 +0100",
-         "title" : "Ten Trivia about the Biel International Chess Festival"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King uses a positional victory by Lei Tingjie in the Women's World Championship as the starting point to explore essential strategic masterpieces from the past. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-positional-classics",
-         "pubDate" : "Fri, 14 Jul 2023 18:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: Essential positional classics"
       },
       {
          "description" : " Last week, we talked about a few ideas to keep in mind while beginning your studies of the endgame. This week, we'll start delving deeper into one of those ideas, pawn structure. If you're wondering just how important pawns and pawn structure are in chess, do an online search of books written about pawns and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\">A Foundation for Beginners Ninety Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-announces-3-year-partnership-with-itcom-domains/",
          "pubDate" : "Fri, 30 Jun 2023 06:15:00 +0000",
          "title" : "World Chess announces 3-year partnership with ITcom Domains"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101373928.cms\" />Triveni Continental Kings secured a hard-fought 10-9 victory over Chingari Gulf Titans in a tense round eight match of the Global Chess League, with substitute player Sara Khadem registering a crucial win on Thursday. Ganges Grandmasters made an important comeback after two losses, defeating Balan Alaskan Knights 8-7 in a match decided by a game which lasted 114 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sara-khadem-lifts-triveni-continental-kings-ganges-grandmasters-reclaim-lead/articleshow/101373928.cms",
-         "pubDate" : "Thu, 29 Jun 2023 17:14:31 +0000",
-         "title" : "Sara Khadem lifts Triveni Continental Kings, Ganges Grandmasters reclaim lead"
       }
    ]
 }
