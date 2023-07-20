@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2535",
+         "pubDate" : "Thu, 20 Jul 2023 13:30:58 +0000",
+         "title" : "FIDE delegation visits China Qiyuan Hangzhou Branch"
+      },
+      {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After two rounds of classical chess, David Navara is the sole leader in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Thu, 20 Jul 2023 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/julius-baer-generation-cup-named-as-next-champions-chess-tour-event",
+         "pubDate" : "Thu, 20 Jul 2023 04:59:22 -0700",
+         "title" : "Julius Baer Generation Cup Named As Next Champions Chess Tour Event"
+      },
+      {
+         "description" : "Today is International Chess Day a fitting day for the 109th British Chess Championships to start. We kick off today at DMU in Leicester...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/109th-british-chess-championships/",
+         "pubDate" : "Thu, 20 Jul 2023 08:49:16 +0000",
+         "title" : "109th British Chess Championships"
+      },
+      {
          "description" : "All India Chess Federation wishes you a very Happy International Chess Day!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -202,14 +234,6 @@ news_feed (
          "title" : "Bad Ideas (8)"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2532",
-         "pubDate" : "Wed, 19 Jul 2023 14:59:56 +0000",
-         "title" : "Implementation of the C.07 Tie-Break Regulations postponed"
-      },
-      {
          "description" : " For the first time in over a decade, I have signed myself up for a Round Robin event. In the past I have done pretty well in this format, although I fear the run may soon come to an end. If my memory hasn't failed me, the last RR I played was in the Solomon Islands in 2009 (I did finish first). Probably the crucial game for me was the following win over FM Lee Jones. He missed my idea in the middle game, and the threat of taking on f3 meant he had to give me a lot of material, so he chose to resign instead. <br /> <b>Jones,Lee (2117) - Press,Shaun (2076) [D45]</b><br /> Solomon Islands Honiara (7), 27.09.2009 <script> new PgnViewer( { boardName: \"game1409\", movesFormat: \"default\", pgnString",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -248,6 +272,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2530",
          "pubDate" : "Wed, 19 Jul 2023 12:29:55 +0000",
          "title" : "Ju and Lei still levelled as WWC Match enters final phase"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2532",
+         "pubDate" : "Wed, 19 Jul 2023 12:00:56 +0000",
+         "title" : "Implementation of the C.07 Tie-Break Regulations postponed"
       },
       {
          "description" : "",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Essential positional classics"
       },
       {
-         "description" : "The Aimchess Rapid is the fourth event of the 2023 Champions Chess Tour. The tournament, taking place on July 10-14, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. Magnus Carlsen and Wesley So reached the event's Grand Final. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-live",
-         "pubDate" : "Fri, 14 Jul 2023 16:50:00 +0100",
-         "title" : "Aimchess Rapid - Live!"
-      },
-      {
          "description" : " Last week, we talked about a few ideas to keep in mind while beginning your studies of the endgame. This week, we'll start delving deeper into one of those ideas, pawn structure. If you're wondering just how important pawns and pawn structure are in chess, do an online search of books written about pawns and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\">A Foundation for Beginners Ninety Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -984,14 +1008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-2",
          "pubDate" : "Tue, 11 Jul 2023 15:34:00 -0700",
          "title" : "Carlsen, Abdusattorov Set Up Battle Of Youth Vs. Experience In Winners Final"
-      },
-      {
-         "description" : "He&#39;s a chess icon normally known for his fast play, not his fast food. But that could be about to change as GM Viswanathan Anand appears in a commercial for the restaurant giant Subway. Fresh from appearing in the inaugural Global Chess League, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/viswanathan-anand-appears-in-subway-restaurant-ad",
-         "pubDate" : "Tue, 11 Jul 2023 12:51:00 -0700",
-         "title" : "Check Please! Chess Legend Viswanathan Anand In Subway Restaurant Ad"
       },
       {
          "description" : "",
@@ -1394,14 +1410,6 @@ news_feed (
          "title" : "World Schools Team Championship 2023: Registration deadline extended"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/finals/#new_tab",
-         "pubDate" : "Wed, 05 Jul 2023 10:24:46 +0000",
-         "title" : "NSCC National Final 29 and 30 June 2023"
-      },
-      {
          "description" : "The 2023 FIDE Women's World Championship Match opened yesterday in Shanghai, China and will be played from 4-24 July in two cities: Shanghai and Chongquing. The match is played between Ju Wenjun, the defending Champion, and Lei Tingjie, the Challenger. The match will be played in 12 rounds, and the first player to reach 6.5 points will be crowned as the 2023 FIDE Women's World Chess Champion. The time control for each game is 90 minutes for the first 40 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1602,14 +1610,6 @@ news_feed (
          "title" : "Ray Robson wins 2023 Prague Chess Festival Masters"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2485",
-         "pubDate" : "Fri, 30 Jun 2023 20:40:51 +0000",
-         "title" : "GCL Day 9: Triveni Continental Kings join the leaders"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1656,22 +1656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sara-khadem-lifts-triveni-continental-kings-ganges-grandmasters-reclaim-lead/articleshow/101373928.cms",
          "pubDate" : "Thu, 29 Jun 2023 17:14:31 +0000",
          "title" : "Sara Khadem lifts Triveni Continental Kings, Ganges Grandmasters reclaim lead"
-      },
-      {
-         "description" : " This terms Interschool competition finished up yesterday in Canberra, and it gives me a chance to write yet another post on \"rules kid's think are real\". NB I have probably mentioned a few of these before <ul style=\"text-align: left;\"><li>You can castle to avoid checkmate - \"Ummm, no\" \"Some people say you can\" \"OK, but I'm the arbiter and I'm telling you you can't castle out of check\" \"But some people say you can\" (Added bonus - he changed the score on the result sheet to show he had won)</li><li>Castling involves exchanging any two pieces on the back rank - To be fair, the player had never seen castling before and was attempting to copy what their opponent had just done</li><li>You both ge",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/even-more-slightly-weird-kids-rules.html",
-         "pubDate" : "Thu, 29 Jun 2023 12:58:00 +0000",
-         "title" : "Even more slightly weird kids rules"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101366634.cms\" />Grandmaster Harika Dronavalli has expressed her concerns over disparity in men's and women's chess in India, emphasizing on the need for improvement to support country's talented young players. Harika, who has three World Championships bronze medals and emerged victorious in the FIDE Women's Grand Prix has played a crucial role in promoting women's chess in India.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/im-confused-why-there-is-huge-void-in-mens-and-womens-chess-in-india-harika-dronavalli/articleshow/101366634.cms",
-         "pubDate" : "Thu, 29 Jun 2023 11:31:42 +0000",
-         "title" : "I'm confused why there is huge void in men's and women's chess in India: Harika"
       }
    ]
 }
