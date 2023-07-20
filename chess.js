@@ -138,7 +138,7 @@ news_feed (
          "title" : "Mishra: I Need to Stop Playing Forcing Lines! | R5 #USJuniorsChess"
       },
       {
-         "description" : "Russian chess continues to lose its top players. Former Candidates player GM Kirill Alekseenko has now completed the transfer to Austria and becomes the country&#39;s highest-rated player.&#38;nbsp; The 26-year-old from St. Petersburg who was ranked amo...",
+         "description" : "Russian chess continues to lose its top players. Former Candidates participant GM Kirill Alekseenko has now completed the transfer to Austria and becomes the country&#39;s highest-rated player.&#38;nbsp; The 26-year-old from St. Petersburg who was ranke...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kirill-alekseenko-leaves-russia-joins-austria",
@@ -1672,14 +1672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/im-confused-why-there-is-huge-void-in-mens-and-womens-chess-in-india-harika-dronavalli/articleshow/101366634.cms",
          "pubDate" : "Thu, 29 Jun 2023 11:31:42 +0000",
          "title" : "I'm confused why there is huge void in men's and women's chess in India: Harika"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101365810.cms\" />Koneru Humpy, the former World Rapid Chess Champion from India, emphasised the importance of organising additional chess events specifically for women in the country with an aim to cultivate a larger pool of female players and promote gender equality in the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-koneru-humpy-bats-for-more-chess-tournaments-for-women-in-india/articleshow/101365810.cms",
-         "pubDate" : "Thu, 29 Jun 2023 10:52:51 +0000",
-         "title" : "GM Humpy bats for more chess tournaments for women in India"
       }
    ]
 }
