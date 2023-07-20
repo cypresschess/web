@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Melikset Khachiyan talks to Cristian Chirila after drawing Joel Benjamin in the fifth round of the 2023 U.S. Senior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-i-wanted-play-solid-possible-r5-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eOZ_HhwGuZU.jpg?itok=VlftE-Sn\" alt=\"\" /></a></div>",
+         "description" : "All India Chess Federation wishes you a very Happy International Chess Day!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-international-chess-day/",
+         "pubDate" : "Thu, 20 Jul 2023 07:08:12 +0000",
+         "title" : "Happy International Chess Day!!"
+      },
+      {
+         "description" : "International Chess Day is celebrated annually on 20 July, the day the International Chess Federation (FIDE) was found, in 1924. The idea to celebrate this day as the international chess day was proposed by UNESCO, and it has been celebrated as such since 1966. On 12 December, 2019, the UN General Assembly unanimously approved a resolution recognising the day. On the occasion of the day ECU President Zurab Azmaiparashvili visits the Tbilisi Dining Theatre teaches and plays Chess with special people with special taste! Chess can be []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/international-chess-day-2/",
+         "pubDate" : "Thu, 20 Jul 2023 06:27:52 +0000",
+         "title" : "International Chess Day"
+      },
+      {
+         "description" : "The tenth game of the Women's World Championshipe ended in a draw. Ju Wenjun followed in Vincent Keymer's footsteps in the opening, but failed to gain an advantage. The last two classical games will be played on Friday and Saturday, following a rest day. | Photos: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-10",
+         "pubDate" : "Thu, 20 Jul 2023 06:00:00 +0100",
+         "title" : "Women's World Championship: The calm before the storm?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Melikset Khachiyan talks to Cristian Chirila after defeating Maxim Dlugy in the fifth round of the 2023 U.S. Senior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-i-wanted-play-solid-possible-r5-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eOZ_HhwGuZU.jpg?itok=VlftE-Sn\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/khachiyan-i-wanted-play-solid-possible-r5-usjuniorschess",
          "pubDate" : "Thu, 20 Jul 2023 02:41:05 +0000",
-         "title" : "Khachiyan: I Wanted To Play as Solid as Possible | R5 #USJuniorsChess"
+         "title" : "Khachiyan: I Wanted to Play as Solid as Possible | R5 #USJuniorsChess"
       },
       {
          "description" : "With swift and tricky play, GM Alireza Firouzja defeated GM Magnus Carlsen in the semifinals of the Bullet Chess Championship 2023 on Wednesday. GM Hikaru Nakamura bested GM Daniel Naroditsky in match loaded with dazzling tactics. Firouzja and Nak...",
@@ -98,6 +122,14 @@ news_feed (
          "title" : "Praggnanandhaa Breaks 2700 Rating With Tournament Win In Budapest"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2534",
+         "pubDate" : "Wed, 19 Jul 2023 22:16:02 +0000",
+         "title" : "FIDE turns 99"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Cristian Chirila after drawing Jason Liang in the fifth round of the 2023 U.S. Junior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-i-need-stop-playing-forcing-lines-r5-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/plDKyMhqxb0.jpg?itok=aNTQ8Grg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -186,14 +218,6 @@ news_feed (
          "title" : "The Round Robin"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2531",
-         "pubDate" : "Wed, 19 Jul 2023 14:00:13 +0000",
-         "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
-      },
-      {
          "description" : "I bought an airplane ticket for the same July 13th flight that my husband Doug took to St. Louis for the 2023 U.S. Senior Championship. But I didn't join Doug on that flight. 'Chess' (the musical) was in St. Louis and my son William wanted to see it. | Photo: Municipal Theatre Association of St. Louis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,6 +248,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2530",
          "pubDate" : "Wed, 19 Jul 2023 12:29:55 +0000",
          "title" : "Ju and Lei still levelled as WWC Match enters final phase"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2531",
+         "pubDate" : "Wed, 19 Jul 2023 12:00:13 +0000",
+         "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
       },
       {
          "description" : "In just five minutes, learn how grandmasters use ChessBase 17 to quickly get similar endgames so they can study deeper and learn from others. Whether an amateur or one of the world elite, these easy but powerful tools can help you raise your game and do wonders for your rating! Don't miss this lightning video lesson!",
@@ -744,14 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2525",
          "pubDate" : "Fri, 14 Jul 2023 15:11:51 +0000",
          "title" : "FIDE World Schools Team Championship: Meet the teams"
-      },
-      {
-         "description" : "Usually regarded as a separate phase of the game, the endgame bears a tight connection with the middlegame (and in some extreme cases, with the opening). The process of simplifying to an endgame implies a series of subtleties and principles, highlighted on this video course. Ignoring them, could result into losing the middlegame advantage or getting the worst of it. How, when and which piece to exchange are the main questions requiring an accurate answer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mihail-marin-power-strategy-3-from-the-middlegame-to-the-endgame",
-         "pubDate" : "Fri, 14 Jul 2023 16:00:00 +0100",
-         "title" : "Mihail Marin: Power Strategy 3 - From the middlegame to the endgame"
       },
       {
          "description" : "",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "A quick prioritisation tool for chess"
       },
       {
-         "description" : "Kindly find attached live games link for the 49th National Women Chess Championships 2023 at Rajpath Club Ltd., Ahmedabad, Gujarat from 30th June 2023 to 10th July, 2023. Live games Link",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-of-49th-national-women-chess-championships-2023/",
-         "pubDate" : "Fri, 30 Jun 2023 10:02:15 +0000",
-         "title" : " LIVE GAMES of 49th National Women Chess Championships 2023"
-      },
-      {
          "description" : "The ninth and final round of the Prague Chess Festival starts at 11.00, four hours earlier than the previous rounds. In the Masters, Bogdan-Daniel Deac and Ray Robson are joint leaders with 5 out of 8 each, but their pursuers, including Vincent Keymer, still have a chance to secure joint first place. In the Challengers, Mateusz Bartel leads with 5.5 out of 8, but there is still plenty to play for. | Follow the games live with computer-assisted analysis starting at 11.00 CEST (5.00 ET, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1632,14 +1648,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-announces-3-year-partnership-with-itcom-domains/",
          "pubDate" : "Fri, 30 Jun 2023 06:15:00 +0000",
          "title" : "World Chess announces 3-year partnership with ITcom Domains"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2484",
-         "pubDate" : "Thu, 29 Jun 2023 18:26:38 +0000",
-         "title" : "GCL Day 8:Ganges Grandmasters reclaim the lead "
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101373928.cms\" />Triveni Continental Kings secured a hard-fought 10-9 victory over Chingari Gulf Titans in a tense round eight match of the Global Chess League, with substitute player Sara Khadem registering a crucial win on Thursday. Ganges Grandmasters made an important comeback after two losses, defeating Balan Alaskan Knights 8-7 in a match decided by a game which lasted 114 moves.",
