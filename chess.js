@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura sits atop the Winners Bracket after defeating GM Alireza Firouzja in an electrifying final at the Bullet Chess Championship 2023 on Thursday. He awaits the player who will fight their way out of the Losers Bracket to meet him in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-4",
+         "pubDate" : "Thu, 20 Jul 2023 15:24:19 -0700",
+         "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
+      },
+      {
+         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
+         "pubDate" : "Thu, 20 Jul 2023 22:30:00 +0100",
+         "title" : "Happy International Chess Day from The Gift of Chess!"
+      },
+      {
+         "description" : "Melikset Khachiyan, a former coach of Levon Aronian, won the clash of co-leaders in round 5 of the US Seniors Championship as he beat Maxim Dlugy with white to take the sole lead in the standings. In the Junior Championships the leaders could not extend their leads. To the contrary, the fields are now closer together, both in the open and the girls' sections. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r5",
+         "pubDate" : "Thu, 20 Jul 2023 21:30:00 +0100",
+         "title" : "US Seniors: Khachiyan prevails in duel of co-leaders"
+      },
+      {
+         "description" : "GM Gukesh D is expected to be the youngest player to have a published rating of 2750 in history when the next FIDE rating list comes out in 11 days (when he will be 17.17 years old). This news comes just off the heels of his countryman GM Praggnan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-youngest-player-to-break-2750",
+         "pubDate" : "Thu, 20 Jul 2023 13:12:21 -0700",
+         "title" : "Gukesh Breaks Record: Youngest Player To Cross 2750 Rating"
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris analyses an outstanding game from the Geza Hetenyi Memorial. Eventual winner Praggnanandhaa lost with black against Amin Tabatabaei, as the rising stars fought in a wild middlegame out of a rare line in the Ruy Lopez. Unmissable! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/switching-federations",
          "pubDate" : "Thu, 20 Jul 2023 19:10:00 +0100",
          "title" : "Switching federations"
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Thu, 20 Jul 2023 19:05:00 +0100",
+         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "",
@@ -192,14 +232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2533",
          "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
          "title" : "ChessFest takes over London"
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Wed, 19 Jul 2023 20:05:00 +0100",
-         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "Skilful"
       },
       {
-         "description" : "The 2023 World Chess Software Championship was just held in Valencia, Spain, and impressively Fritz defended its title by winning it a second year straight. This event saw a very high number of draws, which might lead you to think it was a dull affair, but as you will see in one of them, it was a guns ablazing fight in OK Corral with two rook sacrifices spaced four moves apart no less!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-wins-2023-world-chess-software-championship",
-         "pubDate" : "Fri, 14 Jul 2023 22:00:00 +0100",
-         "title" : "Fritz wins 2023 World Chess Software Championship"
-      },
-      {
          "description" : "The 2023 European Senior Team Chess Championship kicked off this Wednesday in the city of Swidnica, Poland. The event is played in two age categories 50+ and 65+, with separate prizes for Women's teams. The 50+ championship is played as a 9-round round-robin tournament, and the 65+ tournament is played according to the swiss system. A total of 28 teams from 13 European federations compete in the Championship, represented by 80 players. The Opening ceremony of the event took place []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -776,14 +800,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-5",
          "pubDate" : "Fri, 14 Jul 2023 12:19:00 -0700",
          "title" : "Carlsen Prevails vs. So, Winning Streak Grows With Aimchess Rapid"
-      },
-      {
-         "description" : "In today's episode, Honorata shows us one of the most spectacular positional exchange sacrifices, played by Tigran Petrosian. In this famous game against Samuel Reshevsky, \"Iron Tigran\" made a slight mistake in the middlegame, and White's bishop pair was about to cause havoc. But Petrosian found a spectacular move, which most of you probably know already.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/petrosian-s-stunning-sacrifice-honorata-s-harmony",
-         "pubDate" : "Fri, 14 Jul 2023 20:00:00 +0100",
-         "title" : "Petrosian's stunning sacrifice - Honorata's Harmony"
       },
       {
          "description" : " Last week, we talked about a few ideas to keep in mind while beginning your studies of the endgame. This week, we'll start delving deeper into one of those ideas, pawn structure. If you're wondering just how important pawns and pawn structure are in chess, do an online search of books written about pawns and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\">A Foundation for Beginners Ninety Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
@@ -992,22 +1008,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/shreyas-royal-at-the-kasparov-chess-foundation/",
          "pubDate" : "Wed, 12 Jul 2023 09:11:00 +0000",
          "title" : "Shreyas Royal at the Kasparov Chess Foundation"
-      },
-      {
-         "description" : "GM Simen Agdestein won his first Norwegian Championship as a 15-year-old in 1982. 41 years later, the veteran clinched his ninth title and extended his record as the oldest champion of all time. The 56-year-old emerged victorious in Oslo on Satu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/simen-agdestein-at-56-years-old-wins-9th-norwegian-title",
-         "pubDate" : "Tue, 11 Jul 2023 23:05:35 -0700",
-         "title" : "41 Years After His First Title in Norway Simen Agdestein Wins Again"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov advance to the Winners Final in Division I of the Champions Chess Tour Aimchess Rapid 2023 after defeating GMs Fabiano Caruana and Levon Aronian, respectively, in four regular games and without armagedd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-2",
-         "pubDate" : "Tue, 11 Jul 2023 15:34:00 -0700",
-         "title" : "Carlsen, Abdusattorov Set Up Battle Of Youth Vs. Experience In Winners Final"
       },
       {
          "description" : "",
