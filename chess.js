@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Fri, 21 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 11 - Live!"
+      },
+      {
          "description" : "GM Hikaru Nakamura sits atop the Winners Bracket after defeating GM Alireza Firouzja in an electrifying final at the Bullet Chess Championship 2023 on Thursday. He awaits the player who will fight their way out of the Losers Bracket to meet him in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -344,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-learn-how-grandmasters-use-chessbase-to-study-endgames-video",
          "pubDate" : "Wed, 19 Jul 2023 09:00:00 +0100",
          "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
-      },
-      {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Wed, 19 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 10 - Live!"
       },
       {
          "description" : "The Luis Eduardo Hernandez Fierro Memorial is taking place from 19&#x2013;23 July 2023 in Rivera-Huila, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of Roberto Garcia Pantoja, Jorge Samuel Bobadilla Viera, Henry Panesso Rivera, Anthony Javier Paredes Lagos, Josue []",
@@ -1632,22 +1632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
          "pubDate" : "Fri, 30 Jun 2023 10:50:00 +0100",
          "title" : "Prague Chess Festival - Live!"
-      },
-      {
-         "description" : " Alpine Warriors, led by Magnus Carlsen, and Ganges Grandmasters, headed by Vishy Anand, are among the front-runners in the six-team franchise chess league Magnus Carlsen's SG Alpine Warriors, where none of the six grandmasters represents an Alpine nation, and Vishy Anand's Ganges Grandmasters, where the Chennai legend is the only Indian, were joint leaders after six of the 10 qualifying rounds leading up to Sunday's final of the franchise-based Tech Mahindra Global Chess League (GCL), but the race remained close. Carlsen has appeared clean-shaven, assured and vigorous, a contrast to <a href=\"https://www.theguardian.com/sport/2023/jun/09/chess-fabiano-caruana-stavanger-magnus-carlsen-trails\"",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jun/30/magnus-carlsen-vishy-anand-teams-contest-global-chess-league",
-         "pubDate" : "Fri, 30 Jun 2023 07:00:37 +0000",
-         "title" : "Carlsen and Anand teams contest Global Chess League as final beckons"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation seeking to promote the mass market appeal of chess globally through the offering of different chess-related activities, is pleased to announce that it has signed a three-year partnership agreement (the \"Agreement\") with ITcom Domains LTD ('it.com') for its Armageddon Series. World Chess will receive more than €1.2 million over the course of the Agreement, aimed at opening the world of chess to wider audiences and supporting the chess community. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-06-30_09-34-45.jpg\" width=\"1280\" height=\"780\" alt=\"\" /> <div class=\"e2-text-caption\">P",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-announces-3-year-partnership-with-itcom-domains/",
-         "pubDate" : "Fri, 30 Jun 2023 06:15:00 +0000",
-         "title" : "World Chess announces 3-year partnership with ITcom Domains"
       }
    ]
 }
