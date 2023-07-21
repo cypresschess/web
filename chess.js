@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Fri, 21 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Zoey Tang talks to Cristian Chirila after defeating Rose Atwell in the fifth round of the 2023 U.S. Girls' Junior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tang-once-i-played-e4-i-thought-i-was-better-r5-usjuniorschess-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Bom6ye7EY6g.jpg?itok=LpR-t-Q4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tang-once-i-played-e4-i-thought-i-was-better-r5-usjuniorschess-0",
+         "pubDate" : "Fri, 21 Jul 2023 17:43:22 +0000",
+         "title" : "Tang: Once I Played e4, I Thought I Was Better! | R5 #USJuniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Cristian Chirila after defeating Dlugy in the fifth round of the 2023 U.S. Senior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-i-wanted-play-solid-possible-r5-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eOZ_HhwGuZU.jpg?itok=VlftE-Sn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khachiyan-i-wanted-play-solid-possible-r5-usseniorschess",
+         "pubDate" : "Fri, 21 Jul 2023 17:43:22 +0000",
+         "title" : "Khachiyan: I Wanted to Play as Solid as Possible | R5 #USSeniorsChess"
+      },
+      {
+         "description" : "On Thursday, the strong Isbank Turkish Super League, Turkey's team championship, came to an end in Ankara. The Turkish Airline Sports Club topped the standings. The best player on board one was Dommaraju Gukesh, who climbed to eleventh place in the live elite ratings list and became the youngest-ever player to cross the 2750-mark. | Photos: Turkish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/turkish-super-league-2023",
+         "pubDate" : "Fri, 21 Jul 2023 18:15:00 +0100",
+         "title" : "Gukesh outstanding at the Turkish Super League, reaches 2750"
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Fri, 21 Jul 2023 18:05:00 +0100",
+         "title" : "Herman Grooten: Key concepts"
+      },
+      {
+         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
+         "pubDate" : "Fri, 21 Jul 2023 16:45:00 +0100",
+         "title" : "Happy International Chess Day from The Gift of Chess!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-11",
-         "pubDate" : "Fri, 21 Jul 2023 07:43:21 -0700",
+         "pubDate" : "Fri, 21 Jul 2023 07:43:00 -0700",
          "title" : "Lei Tingjie's King Escapes In Game 11 Before Final Showdown"
       },
       {
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gms-surya-sekhar-ganguly-and-deep-sengupta-excel-in-european-tournaments/articleshow/102020438.cms",
          "pubDate" : "Fri, 21 Jul 2023 14:16:22 +0000",
          "title" : "Bengal GMs Surya Sekhar and Deep excel in European tournaments"
+      },
+      {
+         "description" : "Living legend Vasyl Ivanchuk received a wild card from FIDE to participate in the upcoming World Cup in Baku. According to current legislation, he needs permission from the Ministry of Youth and Sports to leave the country for sports purposes as he is under the age of 60. Such permission was not granted. To address this situation, some of the world's top GMs - including Magnus Carlsen and Vishy Anand - signed an open letter to the Minister of Youth and Sport of Ukraine, Mr. Vadym Gutzeit. | Photo: sunwaychessfestival.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/open-letter-ivanchuk-world-cup",
+         "pubDate" : "Fri, 21 Jul 2023 14:00:00 +0100",
+         "title" : "Top players sign an open letter in support of Vasyl Ivanchuk"
       },
       {
          "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After three rounds of classical chess, David Navara and Vincent Keymer are sharing the lead in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -40,22 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2537",
          "pubDate" : "Fri, 21 Jul 2023 12:30:25 +0000",
          "title" : "WWC Match 2023: Everything hangs on the final game"
-      },
-      {
-         "description" : "Living legend Vasyl Ivanchuk received a wild card from FIDE to participate in the upcoming World Cup in Baku. According to current legislation, he needs permission from the Ministry of Youth and Sports to leave the country for sports purposes as he is under the age of 60. Such permission was not granted. To address this situation, some of the world's top GMs - including Magnus Carlsen and Vishy Anand - signed an open letter to the Minister of Youth and Sport of Ukraine, Mr. Vadym Gutzeit. | Photo: sunwaychessfestival.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/open-letter-ivanchuk-world-cup",
-         "pubDate" : "Fri, 21 Jul 2023 12:50:00 +0100",
-         "title" : "Top players sign an open letter in support of Vasyl Ivanchuk"
-      },
-      {
-         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
-         "pubDate" : "Fri, 21 Jul 2023 12:45:00 +0100",
-         "title" : "Happy International Chess Day from The Gift of Chess!"
       },
       {
          "description" : "Vincent Keymer won the duel of pursuers in the Biel Grandmaster Tournament on International Chess Day, as he defeated Le Quang Liem with the white pieces. Keymer is now sharing the lead with David Navara. Bassem Amin also won in round 4, as he got the better of Arjun Erigaisi to claim 4 points for the standings (in the classical section of the Triathlon, wins grant 4 points while draws grant 1&frac12; points). | Photos: Official website",
@@ -106,14 +146,6 @@ news_feed (
          "title" : "European Senior Team Chess Champions crowned in Poland"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Fri, 21 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 11 - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/switching-federations",
          "pubDate" : "Thu, 20 Jul 2023 19:10:00 +0100",
          "title" : "Switching federations"
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Thu, 20 Jul 2023 19:05:00 +0100",
-         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "",
@@ -314,14 +338,6 @@ news_feed (
          "title" : "FIDE turns 99"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Cristian Chirila after drawing Jason Liang in the fifth round of the 2023 U.S. Junior Championship. 2023.07.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-i-need-stop-playing-forcing-lines-r5-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/plDKyMhqxb0.jpg?itok=aNTQ8Grg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-i-need-stop-playing-forcing-lines-r5-usjuniorschess",
-         "pubDate" : "Wed, 19 Jul 2023 20:40:45 +0000",
-         "title" : "Mishra: I Need to Stop Playing Forcing Lines! | R5 #USJuniorsChess"
-      },
-      {
          "description" : "Russian chess continues to lose its top players. Former Candidates participant GM Kirill Alekseenko has now completed the transfer to Austria and becomes the country&#39;s highest-rated player.&#38;nbsp; The 26-year-old from St. Petersburg who was ranke...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2533",
          "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
          "title" : "ChessFest takes over London"
-      },
-      {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Wed, 19 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "With swift and tricky play, GM Alireza Firouzja defeated GM Magnus Carlsen in the semifinals of the Bullet Chess Championship 2023 on Wednesday. GM Hikaru Nakamura bested GM Daniel Naroditsky in match loaded with dazzling tactics. Firouzja and Nak...",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2023-r1",
          "pubDate" : "Wed, 19 Jul 2023 04:00:00 +0100",
          "title" : "Biel: Navara the first sole leader"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, 30 of the best junior, senior, and girl chess players (pairings below) compete in three concurrent round robin national championships for a total $150,000 prize fund. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.07.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-6",
-         "pubDate" : "Wed, 19 Jul 2023 02:39:45 +0000",
-         "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 6"
       },
       {
          "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
@@ -1624,14 +1624,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/expensive-experiment/",
          "pubDate" : "Sat, 01 Jul 2023 10:21:00 +0100",
          "title" : "Expensive experiment"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aronian-beats-carlsen-to-lead-triveni-continental-kings-win-over-sg-alpine-warriors/articleshow/101401414.cms",
-         "pubDate" : "Fri, 30 Jun 2023 15:44:34 +0000",
-         "title" : "Aronian beats Carlsen to lead Triveni Continental Kings' win"
       }
    ]
 }
