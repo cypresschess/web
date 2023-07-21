@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-4",
-         "pubDate" : "Thu, 20 Jul 2023 15:24:19 -0700",
+         "pubDate" : "Thu, 20 Jul 2023 15:24:00 -0700",
          "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
       },
       {
