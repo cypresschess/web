@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Living legend Vasyl Ivanchuk received a wild card from FIDE to participate in the upcoming World Cup in Baku. According to current legislation, he needs permission from the Ministry of Youth and Sports to leave the country for sports purposes as he is under the age of 60. Such permission was not granted. To address this situation, some of the world's top GMs - including Magnus Carlsen and Vishy Anand - signed an open letter to the Minister of Youth and Sport of Ukraine, Mr. Vadym Gutzeit. | Photo: sunwaychessfestival.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/open-letter-ivanchuk-world-cup",
+         "pubDate" : "Fri, 21 Jul 2023 12:50:00 +0100",
+         "title" : "Top players sign an open letter in support of Vasyl Ivanchuk"
+      },
+      {
+         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
+         "pubDate" : "Fri, 21 Jul 2023 12:45:00 +0100",
+         "title" : "Happy International Chess Day from The Gift of Chess!"
+      },
+      {
+         "description" : "Vincent Keymer won the duel of pursuers in the Biel Grandmaster Tournament on International Chess Day, as he defeated Le Quang Liem with the white pieces. Keymer is now sharing the lead with David Navara. Bassem Amin also won in round 4, as he got the better of Arjun Erigaisi to claim 4 points for the standings (in the classical section of the Triathlon, wins grant 4 points while draws grant 1&frac12; points). | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-r3",
+         "pubDate" : "Fri, 21 Jul 2023 12:30:00 +0100",
+         "title" : "Biel: Keymer beats Le"
+      },
+      {
+         "description" : "In an open letter published on the FIDE website a&#38;nbsp;number of top grandmasters urge Ukraine&#39;s government to allow GM Vasyl Ivanchuk to leave the country and play the upcoming FIDE World Cup. The event begins in Baku, Azerbaijan on July 29 and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/open-letter-vasyl-ivanchuk-fide-world-cup",
+         "pubDate" : "Fri, 21 Jul 2023 04:27:43 -0700",
+         "title" : "Top GMs Sign Open Letter Urging Ukraine To Let Vasyl Ivanchuk Play FIDE World Cup"
+      },
+      {
+         "description" : "The Uralsk Open is taking place from 21&#x2013;28 July 2023 in Uralsk, Kazakhstan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Hans Moke Niemann, Mihail Nikitenko, Manuel Petrosyan, Samvel Ter-Sahakyan, Vladislav Kovalev, S.P. Sethuraman, etc. All about FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uralsk-open-2023-live/",
+         "pubDate" : "Fri, 21 Jul 2023 09:50:00 +0000",
+         "title" : "Uralsk Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Uralsk Open is taking place from 21&#x2013;28 July 2023 in Uralsk, Kazakhstan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Hans Moke Niemann, Mihail Nikitenko, Manuel Petrosyan, Samvel Ter-Sahakyan, Vladislav Kovalev, S.P. Sethuraman, etc.Chessdom.com will daily follow []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uralsk-open-2023/",
+         "pubDate" : "Fri, 21 Jul 2023 09:22:18 +0000",
+         "title" : "Uralsk Open 2023"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-11-live/",
+         "pubDate" : "Fri, 21 Jul 2023 09:15:17 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 11 - LIVE"
+      },
+      {
+         "description" : "European Senior Team Chess Championship 2023 concluded yesterday in the city of Swidnica, Poland, after the intense last round which determined the Winners in both 50+ and 65+ categories. Scoring all victories and perfect 16 match points, the teams of England 1 and Slovakia tied for first place in the 50+ section before the final round. The direct encounter between the leading duo was scheduled for round 9 and finished after the thrilling fight. England prevailed with a narrow 2.5-1.5 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-champions-crowned-in-poland/",
+         "pubDate" : "Fri, 21 Jul 2023 08:55:07 +0000",
+         "title" : "European Senior Team Chess Champions crowned in Poland"
+      },
+      {
          "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +74,20 @@ news_feed (
          "title" : "Women's World Chess Championship, Game 11 - Live!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2536",
+         "pubDate" : "Fri, 21 Jul 2023 07:41:58 +0000",
+         "title" : "Top players sign an open letter in support of GM Ivanchuk"
+      },
+      {
          "description" : "GM Hikaru Nakamura sits atop the Winners Bracket after defeating GM Alireza Firouzja in an electrifying final at the Bullet Chess Championship 2023 on Thursday. He awaits the player who will fight their way out of the Losers Bracket to meet him in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-4",
          "pubDate" : "Thu, 20 Jul 2023 15:24:00 -0700",
          "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
-      },
-      {
-         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
-         "pubDate" : "Thu, 20 Jul 2023 22:30:00 +0100",
-         "title" : "Happy International Chess Day from The Gift of Chess!"
       },
       {
          "description" : "Melikset Khachiyan, a former coach of Levon Aronian, won the clash of co-leaders in round 5 of the US Seniors Championship as he beat Maxim Dlugy with white to take the sole lead in the standings. In the Junior Championships the leaders could not extend their leads. To the contrary, the fields are now closer together, both in the open and the girls' sections. | Photo: Austin Fuller / Saint Louis Chess Club",
@@ -72,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2535",
          "pubDate" : "Thu, 20 Jul 2023 13:30:58 +0000",
          "title" : "FIDE delegation visits China Qiyuan Hangzhou Branch"
-      },
-      {
-         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After two rounds of classical chess, David Navara is the sole leader in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Thu, 20 Jul 2023 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
@@ -442,14 +498,6 @@ news_feed (
          "title" : "Swiss Championship Titled Seniors 2023"
       },
       {
-         "description" : "The Grandmaster Triathlon is the highlight of the 2023 Biel/Bienne International Chess Festival. The 8-player tournament takes place from 16-26 July in Biel/Bienne, Switzerland, with all three time formats counting towards the final score. For the classical games the players receive 100 minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-gm-triathlon-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 15:05:32 +0000",
-         "title" : "Biel GM Triathlon 2023 - LIVE"
-      },
-      {
          "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -536,22 +584,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-pune/",
          "pubDate" : "Tue, 18 Jul 2023 07:46:07 +0000",
          "title" : "AICF's Fair Play Orientation Workshop, Pune"
-      },
-      {
-         "description" : "The Swiss Championship Titled Open is an 10-player round-robin tournament taking place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-titled-open-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 06:46:00 +0000",
-         "title" : "Swiss Championship Titled Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Swiss Championship Titled Open is an 10-player round-robin tournament taking place from 15&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE Women's World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-titled-open-2023/",
-         "pubDate" : "Tue, 18 Jul 2023 06:12:00 +0000",
-         "title" : "Swiss Championship Titled Open 2023"
       },
       {
          "description" : "The favorites swept the underdogs in the opening round of the Bullet Chess Championship 2023 on Monday. Debuting in the event, GM Magnus Carlsen won nearly every game vs. GM Eric Hansen.&#38;nbsp;GM Oleksandr Bortnyk fought off GM Fabiano Caruana&#39;s ...",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Amazing rook sacrifice in Fritz game at WCCC (video)"
       },
       {
-         "description" : "In the diagram position White found a number of power moves and crushed Black's position. The art of attacking &agrave; la Rustam Kasimdzhanov - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/skilful",
-         "pubDate" : "Sat, 15 Jul 2023 09:00:00 +0100",
-         "title" : "Skilful"
-      },
-      {
          "description" : "The 2023 European Senior Team Chess Championship kicked off this Wednesday in the city of Swidnica, Poland. The event is played in two age categories 50+ and 65+, with separate prizes for Women's teams. The 50+ championship is played as a 9-round round-robin tournament, and the 65+ tournament is played according to the swiss system. A total of 28 teams from 13 European federations compete in the Championship, represented by 80 players. The Opening ceremony of the event took place []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -968,14 +992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2520",
          "pubDate" : "Wed, 12 Jul 2023 11:48:34 +0000",
          "title" : "WWC Match 2023: Last game in Shanghai ends in a draw"
-      },
-      {
-         "description" : "GM Magnus Carlsen defeated GM Nodirbek Abdusattorov to secure his seat in the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. He won the first two games and, despite being down two pawns and dead lost in the third, found a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-3",
-         "pubDate" : "Wed, 12 Jul 2023 04:03:00 -0700",
-         "title" : "Carlsen To Play In Grand Final; Wesley So, Iturrizaga Win With Clean Sweeps In Losers"
       },
       {
          "description" : "The second English Women's Online Blitz Championship will be held during August 2023. The top finishing player will become the English Women's Online Blitz Champion...",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "Expensive experiment"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2486",
-         "pubDate" : "Fri, 30 Jun 2023 22:46:36 +0000",
-         "title" : "Ray Robson wins 2023 Prague Chess Festival Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101401414.cms\" />World number one Magnus Carlsen lost to Levon Aronian following a huge blunder as Triveni Continental Kings beat SG Alpine Warriors on a day of upsets in the Global Chess League on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/06/a-quick-prioritisation-tool-for-chess.html",
          "pubDate" : "Fri, 30 Jun 2023 13:07:00 +0000",
          "title" : "A quick prioritisation tool for chess"
-      },
-      {
-         "description" : "The ninth and final round of the Prague Chess Festival starts at 11.00, four hours earlier than the previous rounds. In the Masters, Bogdan-Daniel Deac and Ray Robson are joint leaders with 5 out of 8 each, but their pursuers, including Vincent Keymer, still have a chance to secure joint first place. In the Challengers, Mateusz Bartel leads with 5.5 out of 8, but there is still plenty to play for. | Follow the games live with computer-assisted analysis starting at 11.00 CEST (5.00 ET, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2023-live",
-         "pubDate" : "Fri, 30 Jun 2023 10:50:00 +0100",
-         "title" : "Prague Chess Festival - Live!"
       }
    ]
 }
