@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2538",
+         "pubDate" : "Fri, 21 Jul 2023 15:21:42 +0000",
+         "title" : "FIDE seeks public discussion about proposed rating changes"
+      },
+      {
+         "description" : "Women&#39;s World Champion Ju Wenjun attacked with the black pieces in Game 11 of the 2023 FIDE Women&#39;s World Championship, but a creative king march saved the day for GM Lei Tingjie, leaving the scores tied at 5.5-5.5 going into the final classical g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-11",
+         "pubDate" : "Fri, 21 Jul 2023 07:43:21 -0700",
+         "title" : "Lei Tingjie's King Escapes In Game 11 Before Final Showdown"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102020438.cms\" />There's good news for the Bengal chess fraternity as the state's two Grandmasters ended on podiums in European tournaments. While GM Surya Sekhar Ganguly ended second at the La Plagne International Open in France, GM Deep Sengupta claimed the Warsaw International chess festival this week. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gms-surya-sekhar-ganguly-and-deep-sengupta-excel-in-european-tournaments/articleshow/102020438.cms",
+         "pubDate" : "Fri, 21 Jul 2023 14:16:22 +0000",
+         "title" : "Bengal GMs Surya Sekhar and Deep excel in European tournaments"
+      },
+      {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After three rounds of classical chess, David Navara and Vincent Keymer are sharing the lead in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Fri, 21 Jul 2023 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2537",
+         "pubDate" : "Fri, 21 Jul 2023 12:30:25 +0000",
+         "title" : "WWC Match 2023: Everything hangs on the final game"
+      },
+      {
          "description" : "Living legend Vasyl Ivanchuk received a wild card from FIDE to participate in the upcoming World Cup in Baku. According to current legislation, he needs permission from the Ministry of Youth and Sports to leave the country for sports purposes as he is under the age of 60. Such permission was not granted. To address this situation, some of the world's top GMs - including Magnus Carlsen and Vishy Anand - signed an open letter to the Minister of Youth and Sport of Ukraine, Mr. Vadym Gutzeit. | Photo: sunwaychessfestival.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/open-letter-vasyl-ivanchuk-fide-world-cup",
-         "pubDate" : "Fri, 21 Jul 2023 04:27:43 -0700",
+         "pubDate" : "Fri, 21 Jul 2023 04:27:00 -0700",
          "title" : "Top GMs Sign Open Letter Urging Ukraine To Let Vasyl Ivanchuk Play FIDE World Cup"
       },
       {
@@ -102,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-youngest-player-to-break-2750",
-         "pubDate" : "Thu, 20 Jul 2023 13:12:21 -0700",
+         "pubDate" : "Thu, 20 Jul 2023 13:12:00 -0700",
          "title" : "Gukesh Breaks Record: Youngest Player To Cross 2750 Rating"
       },
       {
@@ -802,14 +842,6 @@ news_feed (
          "title" : "Chessbase 17 Review: Is It A Good Investment?"
       },
       {
-         "description" : "While engines on powerful hardware are ever closer to chess perfection, draws tend to happen more and more. However, even perfection does not need to be dull, and at the 2023 World Computer Chess Championship, a spectacular game took place between Fritz running on 192 cores (!) and Stoofvlees using massive GPUs. See the video on this tactical slugfest!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/amazing-rook-sacrifice-in-fritz-game-at-wccc-video",
-         "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0100",
-         "title" : "Amazing rook sacrifice in Fritz game at WCCC (video)"
-      },
-      {
          "description" : "The 2023 European Senior Team Chess Championship kicked off this Wednesday in the city of Swidnica, Poland. The event is played in two age categories 50+ and 65+, with separate prizes for Women's teams. The 50+ championship is played as a 9-round round-robin tournament, and the 65+ tournament is played according to the swiss system. A total of 28 teams from 13 European federations compete in the Championship, represented by 80 players. The Opening ceremony of the event took place []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -976,14 +1008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lukasz-nowak-earns-im-title-overcomes-spinal-disease",
          "pubDate" : "Wed, 12 Jul 2023 07:12:00 -0700",
          "title" : "Lukasz Nowak Earns IM Title, Overcomes Spinal Disease"
-      },
-      {
-         "description" : "GM Lei Tingjie made an effortless draw with the black pieces against GM Ju Wenjun in game six of the 2023 FIDE Women&#39;s World Championship to lead 3.5-2.5 at the midway point. The players now move from Shanghai to another Chinese mega-city, Lei&#39;s b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-6",
-         "pubDate" : "Wed, 12 Jul 2023 06:13:00 -0700",
-         "title" : "Lei Tingjie Leads After Shanghai As Game 6 Ends In A Draw"
       },
       {
          "description" : "",
@@ -1570,28 +1594,12 @@ news_feed (
          "title" : "Triveni Continental Kings first team to qualify for Global Chess League finals"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2489",
-         "pubDate" : "Sat, 01 Jul 2023 14:19:10 +0000",
-         "title" : "FIDE June 2023 Rating List: Nakamura is back to #2"
-      },
-      {
          "description" : "For most people, chess is a fun and great hobby. If done right, it can be so much more than that. As I've written in my retirement announcement, chess has been the most incredible school of life I could ever imagine. I learned to: Be ambitious, plan ahead, reflect on my own actions, make decisions []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/chess-improvement/",
          "pubDate" : "Sat, 01 Jul 2023 14:00:00 +0000",
          "title" : "Chess Improvement: Key to a Better Life"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2487",
-         "pubDate" : "Sat, 01 Jul 2023 13:15:30 +0000",
-         "title" : "The rise of China as a chess power"
       },
       {
          "description" : " Street Chess continues to amuse, with a wide collection of the very best and the very worst of chess. Landing more in the former category than the latter is a game that was played in today's edition. Black quickly loses control of the squares around his king, enabling White to drag the king into the centre, and then finding one of the rarest checkmates. <br /> <b>Albert,Max - Rawat,Dhruv [B45]</b><br /> Street Chess ---, 01.07.2023 <script> new PgnViewer( { boardName: \"game1406\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.d4 e6 4.Nc3 cxd4 5.Nxd4 Nge7 6.Ndb5 d5 7.exd5 exd5 8.Bf4 d4 9.Nd6+ Kd7 10.Nxf7 Qe8 11.Qg4+ Nf5+ 12.Ne5+ Nxe5 13.Qxf5+ Qe6 14.Bb5+ Kd6 15.Ne4+ Kd5 16.c4+ dxc3 1",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aronian-beats-carlsen-to-lead-triveni-continental-kings-win-over-sg-alpine-warriors/articleshow/101401414.cms",
          "pubDate" : "Fri, 30 Jun 2023 15:44:34 +0000",
          "title" : "Aronian beats Carlsen to lead Triveni Continental Kings' win"
-      },
-      {
-         "description" : " (NB Shamelessly stolen from the original Eisenhower Matrix ) Start by thinking about the various skills involved with playing chess. The decide if you (a) Know/Don't know it and (b) it is important/not important Then prioritise according to the following Not important + Don't know - Ignore Important + Don't Know - Learn Not important + Know - Remember Important + Know - Practice The trick is moving these skill topics between categories. When you first start out, Checkmate with KQ or KR is important, so you firstly learn (Don't know -&gt; know), and then practice. After a while you can shift this from Important to Not Important (mainly to make room for more important items), when you simply ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/06/a-quick-prioritisation-tool-for-chess.html",
-         "pubDate" : "Fri, 30 Jun 2023 13:07:00 +0000",
-         "title" : "A quick prioritisation tool for chess"
       }
    ]
 }
