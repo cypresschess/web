@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black played 26...Qe2? and in the actual game he got away with it - but you would not let that go unpunished, would you?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/blind-spot",
+         "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
+         "title" : "Blind spot"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 08:45:00 +0100",
+         "title" : "Women's World Chess Championship, Game 12 - Live!"
+      },
+      {
+         "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/dedecus-et-tutamen-how-british-chess-protected-a-paedophile/",
+         "pubDate" : "Sat, 22 Jul 2023 07:26:41 +0000",
+         "title" : "'Dedecus et Tutamen': how British chess protected a paedophile"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102034046.cms\" />D Gukesh of Chennai touched Elo 2750 with two wins in the last two rounds of Turkish League on Thursday. With that, he broke Magnus Carlsen's record of being the youngest to touch this level of FIDE rating.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-d-gukesh-beats-magnus-carlsens-feat-of-youngest-to-reach-elo-2750/articleshow/102034046.cms",
+         "pubDate" : "Sat, 22 Jul 2023 07:17:31 +0000",
+         "title" : "Gukesh beats Carlsen's feat of youngest to reach Elo 2750"
+      },
+      {
+         "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2013 at Tashkent, Uzbekistan. Delhi",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/seven-gold-for-india-in-asian-school-chess-championships/",
+         "pubDate" : "Sat, 22 Jul 2023 04:46:11 +0000",
+         "title" : "Seven Gold for India in Asian School Chess Championships"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Rose Atwell talks to Cristian Chirila after a draw with Mangalam in the sixth round of the 2023 U.S. Girls' Junior Championship. 2023.07.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/atwell-each-game-separate-tournament-r6-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_w7p4DfA8bM.jpg?itok=GaNg4goN\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -786,22 +826,6 @@ news_feed (
          "title" : "Arjun visits his mega-sponsor"
       },
       {
-         "description" : "The protagonists of the Women's World Championship moved to Chongqing to play the second half of the all-Chinese match. Game 7 was played on Saturday. Challenger Lei Tingjie still has a 1-point lead over defending champion Ju Wenjun after the latter could not convert a clear advantage into a win while marshalling the black pieces. Lei had won game 5, the only decisive encounter of the match so far. | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-7",
-         "pubDate" : "Sun, 16 Jul 2023 04:20:00 +0100",
-         "title" : "Women's World Championship: Ju fails to convert big advantage"
-      },
-      {
-         "description" : "In the Grand Final of the Aimchess Rapid, Magnus Carlsen defeated Wesley So by a 3-1 score on Friday. The 15+3 rapid tournament was the fourth event of the Champions Chess Tour and was played online. In the overall tour standings, Carlsen now has a 95-point lead over his closest chaser, Fabiano Caruana. Denis Lazavik won Division II, while Yu Yangyi prevailed in Division III.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2023-d5",
-         "pubDate" : "Sun, 16 Jul 2023 03:00:00 +0100",
-         "title" : "Carlsen twice checkmates So, wins Aimchess Rapid"
-      },
-      {
          "description" : "GM Hikaru Nakamura once again won Saturday&#39;s Bullet Brawl and claimed the $400 first prize after scoring 263 points in the two-hour arena. This victory follows his record-breaking 75-win run in the previous event. In the most stacked edition yet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1400,14 +1424,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2023/",
          "pubDate" : "Thu, 06 Jul 2023 11:03:43 +0000",
          "title" : "ECU E-Magazine June 2023"
-      },
-      {
-         "description" : "FIDE World Youth Chess Championship 2023 Montesilvano (PE), Italy 12th to 25th November, 2023 3 Star Hotel 3 Star Superior Hotel 4 Star Hotel",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-chess-championship-2023/",
-         "pubDate" : "Thu, 06 Jul 2023 06:48:09 +0000",
-         "title" : "World Youth Chess Championship 2023"
       },
       {
          "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 &frac12; &frac12; 5 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 &frac12; &frac12; 5 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
