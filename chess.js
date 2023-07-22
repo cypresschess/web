@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2540",
+         "pubDate" : "Sat, 22 Jul 2023 14:15:00 +0000",
+         "title" : "Third edition of Queens' Festival goes big"
+      },
+      {
+         "description" : "Ju Wenjun claimed her fourth Women's World Champion title after clinching a crucial victory in the decisive, final, 12th game of the match against challenger Lei Tingjie. With this victory, Ju has now equalled the record set by her compatriot Hou Yifan, both having won the world crown four times. Apart from defending the title, Ju also won €300,000 in prize money, while €200,000 went to the runner-up Lei Tingjie.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 15:00:00 +0100",
+         "title" : "Ju Wenjun defends her title!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2539",
+         "pubDate" : "Sat, 22 Jul 2023 13:41:02 +0000",
+         "title" : "The Queen of the chess world: China's Ju Wenjun defends Women's World Championship title"
+      },
+      {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After three rounds of classical chess, David Navara and Vincent Keymer are sharing the lead in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "GM Ju Wenjun has won a wild final game of the 2023 FIDE Women&#39;s World Championship to claim her fourth title with a 6.5-5.5 victory over GM Lei Tingjie. The 17th women&#39;s world champion, who has held the title since 2018, also picks up the &#38;euro;30...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-12",
+         "pubDate" : "Sat, 22 Jul 2023 05:07:00 -0700",
+         "title" : "Ju Wenjun Wins 4th Women's World Championship Title"
+      },
+      {
+         "description" : "Endgames. Ugh, so boring you might think. I know this isn't the favorite phase of the game for many. But I hope after reading this article you will change your mind at least a little bit. Why? Because you will learn how to find a smart plan in any kind of endgame. And once you []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/plan-chess-endgames/",
+         "pubDate" : "Sat, 22 Jul 2023 12:00:00 +0000",
+         "title" : "How To Find A Plan In Chess Endgames"
+      },
+      {
          "description" : "The European Youth Team Chess Championship 2023 will kick off this Monday, and will be played from 24th-30th July in Iasi, Romania. The event will be played in two age categories: U12 and U18, open and girls sections separately. Each team in the Open sections are composed of four players and one reserve, and the teams in the girls' competitions are composed of two players and one reserve. The Championships will be played in 7 rounds, swiss system, with a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -18,12 +66,12 @@ news_feed (
          "title" : "European Senior Teams Chess Championship"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 09:05:00 +0100",
-         "title" : "Women's World Chess Championship, Game 12 - Live!"
+         "description" : " The Women's World Chess Championship match took place in Shanghai and Chongqing July 5th to 24th 2023. Defending Champion Ju Wenjun faced challenger Lei Tingjie in a 12 game match. <a href=\"https://fide.com/news/2482\">FIDE Event summary</a> Ju Wenjun won in a fitting finale in game 12 to win 6.5-5.5. This was a sharp fluctuating struggle that was settled in the run up to the first time control on move 40. Lei Tingjie will look back at missed opportunities in this match both earlier on and in the final game.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
+         "pubDate" : "Sat, 22 Jul 2023 12:29:00 +0400",
+         "title" : "Women's World Chess Championship 2023 - Games and Results"
       },
       {
          "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
@@ -66,7 +114,7 @@ news_feed (
          "title" : "Gukesh beats Carlsen's feat of youngest to reach Elo 2750"
       },
       {
-         "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2013 at Tashkent, Uzbekistan. Delhi",
+         "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2023 at Tashkent, Uzbekistan. Delhi",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/seven-gold-for-india-in-asian-school-chess-championships/",
@@ -237,6 +285,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2536",
+         "pubDate" : "Fri, 21 Jul 2023 12:35:58 +0000",
+         "title" : "Top players sign an open letter in support of GM Ivanchuk"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2535",
+         "pubDate" : "Fri, 21 Jul 2023 12:34:58 +0000",
+         "title" : "FIDE delegation visits China Qiyuan Hangzhou Branch"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2537",
          "pubDate" : "Fri, 21 Jul 2023 12:30:25 +0000",
          "title" : "WWC Match 2023: Everything hangs on the final game"
@@ -290,14 +354,6 @@ news_feed (
          "title" : "European Senior Team Chess Champions crowned in Poland"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2536",
-         "pubDate" : "Fri, 21 Jul 2023 07:41:58 +0000",
-         "title" : "Top players sign an open letter in support of GM Ivanchuk"
-      },
-      {
          "description" : "GM Hikaru Nakamura sits atop the Winners Bracket after defeating GM Alireza Firouzja in an electrifying final at the Bullet Chess Championship 2023 on Thursday. He awaits the player who will fight their way out of the Losers Bracket to meet him in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -336,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/switching-federations",
          "pubDate" : "Thu, 20 Jul 2023 19:10:00 +0100",
          "title" : "Switching federations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2535",
-         "pubDate" : "Thu, 20 Jul 2023 13:30:58 +0000",
-         "title" : "FIDE delegation visits China Qiyuan Hangzhou Branch"
       },
       {
          "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
@@ -834,14 +882,6 @@ news_feed (
          "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
       },
       {
-         "description" : "What happens after a company sponsors a chess player? How does it find value in the sponsorship? This article puts down the story of Arjun Erigaisi and QuantBox. QuantBox is a High Frequency Trading company, which has made one of the biggest sponsorship deals in the history of Indian chess with Arjun. Recently Arjun met the members of QuantBox at their Bangalore office, and what happened is portrayed in the article below.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-visits-his-mega-sponsor",
-         "pubDate" : "Sun, 16 Jul 2023 12:00:00 +0100",
-         "title" : "Arjun visits his mega-sponsor"
-      },
-      {
          "description" : "GM Hikaru Nakamura once again won Saturday&#39;s Bullet Brawl and claimed the $400 first prize after scoring 263 points in the two-hour arena. This victory follows his record-breaking 75-win run in the previous event. In the most stacked edition yet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1048,14 +1088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/champions-chess-tour-live-final-toronto-canada",
          "pubDate" : "Wed, 12 Jul 2023 08:07:00 -0700",
          "title" : "$500,000 Champions Chess Tour Finals To Be Played Live In Toronto"
-      },
-      {
-         "description" : "For the second time ever, GMs Hikaru Nakamura and Magnus Carlsen won Titled Tuesday on the same day. It previously occurred on October 11, 2022. Just like last time, Nakamura won the early tournament and Carlsen the late event. Nakamura also finis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-july-11-2023",
-         "pubDate" : "Wed, 12 Jul 2023 07:29:52 -0700",
-         "title" : "Nakamura Nearly Perfect, Wins Early; Carlsen Wins Late"
       },
       {
          "description" : "",
@@ -1442,7 +1474,7 @@ news_feed (
          "title" : "ECU E-Magazine June 2023"
       },
       {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 &frac12; &frac12; 5 Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 &frac12; &frac12; 5 Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 &frac12; &frac12; &frac12; 1 6&frac12; Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 &frac12; &frac12; &frac12; 0 5&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
@@ -1546,14 +1578,6 @@ news_feed (
          "title" : "Opening Blunders (2)"
       },
       {
-         "description" : " The Women's World Chess Championship match takes place in Shanghai and Chongqing July 5th to 24th 2023. Defending Champion Ju Wenjun faces challenger Lei Tingjie in a 12 game match. Games start at 15:00 local time which is 8am BST. Playing days in July: 5th-6th, 8th-9th, 11th-12th, (13th-14th travel to Chongqing and rest day), 15th-16th, 18th-19th, 21st-22nd then 23rd for tie-breaks if needed. <a href=\"https://fide.com/news/2482\">FIDE Event summary</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
-         "pubDate" : "Tue, 4 Jul 2023 12:29:00 +0400",
-         "title" : "Women's World Chess Championship 2023 - Games and Results"
-      },
-      {
          "description" : " Chess photography is a popular (although not very lucrative) pastime. There is something about the settings, the personalities, and range of emotions that seem to attract photographers to the sport. For people like me (using my low res smart phone) it is to recognise people who come each weel to Street Chess. For more prolific photographers (with their better equipment) like Cathy Rogers or Dr Helen Milligan, it is a way of documenting the chess events they attend. But for some at the top, it is a way to make a living, as well as provide an insight into the world of top level chess. Courtesy of regular reader Jim, there is a <a href=\"https://edition.cnn.com/2023/06/19/sport/maria-emelianova",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1578,28 +1602,12 @@ news_feed (
          "title" : "VAR in chess: New technologies will be used to help arbiters at 2023 Western Asia Youth Chess "
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2490",
-         "pubDate" : "Sun, 02 Jul 2023 20:53:28 +0000",
-         "title" : "Triveni Continental Kings win the inaugural Global Chess League"
-      },
-      {
          "description" : " Here's the conclusion of an online rapidplay game I played recently which resulted in an exciting rook ending with fluctuating fortunes. I lost it in the end, but really should have won it on two occasions. If you follow this lesson you can learn to play rook endings better than me (and my opponent)! We'll <a href=\"https://chessimprover.com/fluctuation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fluctuation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fluctuation/\">Fluctuation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/fluctuation/",
          "pubDate" : "Sun, 02 Jul 2023 17:31:48 +0000",
          "title" : "Fluctuation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2488",
-         "pubDate" : "Sat, 01 Jul 2023 21:25:58 +0000",
-         "title" : "GCL Day 10: Triveni Continental Kings to face upGrad Mumba Masters in the finals"
       },
       {
          "description" : " &#8220;Teaching young men to be the leaders they were born to be&#8221; &#8220;Coming of Kings&#8221; is a community organization based in Baltimore, Maryland is using chess as platform &#8220;to involve boys in positive interaction with positive successful men in preparation for adolescence and adulthood.&#8221; The group meets every Saturday for sessions on a wide range The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/01/coming-of-kings-empowerment-through-chess/\">Coming of Kings Empowerment through Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1616,30 +1624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/triveni-continental-kings-first-team-to-qualify-for-global-chess-league-finals/articleshow/101421470.cms",
          "pubDate" : "Sat, 01 Jul 2023 15:37:39 +0000",
          "title" : "Triveni Continental Kings first team to qualify for Global Chess League finals"
-      },
-      {
-         "description" : "For most people, chess is a fun and great hobby. If done right, it can be so much more than that. As I've written in my retirement announcement, chess has been the most incredible school of life I could ever imagine. I learned to: Be ambitious, plan ahead, reflect on my own actions, make decisions []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-improvement/",
-         "pubDate" : "Sat, 01 Jul 2023 14:00:00 +0000",
-         "title" : "Chess Improvement: Key to a Better Life"
-      },
-      {
-         "description" : " Street Chess continues to amuse, with a wide collection of the very best and the very worst of chess. Landing more in the former category than the latter is a game that was played in today's edition. Black quickly loses control of the squares around his king, enabling White to drag the king into the centre, and then finding one of the rarest checkmates. <br /> <b>Albert,Max - Rawat,Dhruv [B45]</b><br /> Street Chess ---, 01.07.2023 <script> new PgnViewer( { boardName: \"game1406\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.d4 e6 4.Nc3 cxd4 5.Nxd4 Nge7 6.Ndb5 d5 7.exd5 exd5 8.Bf4 d4 9.Nd6+ Kd7 10.Nxf7 Qe8 11.Qg4+ Nf5+ 12.Ne5+ Nxe5 13.Qxf5+ Qe6 14.Bb5+ Kd6 15.Ne4+ Kd5 16.c4+ dxc3 1",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/castles-for-mate.html",
-         "pubDate" : "Sat, 01 Jul 2023 12:28:00 +0000",
-         "title" : "Castles for mate"
-      },
-      {
-         "description" : "In my column Prelude to Armageddon, I dwelt on the abundance of Jewish chess masters from the second half of the 19th century, which continued well into the 20th century. Famous names proliferate, imbued with the rich cultural heritage of the Central European Jewish environment. Their names include: Johannes Zukertort, Wilhelm Steinitz, Emanuel Lasker, Siegbert Tarrasch, Jacques Mieses, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/rudolf-spielmann-chess-hero-and-nazi-victim/",
-         "pubDate" : "Sat, 01 Jul 2023 11:41:04 +0000",
-         "title" : "Rudolf Spielmann: chess hero and Nazi victim"
       }
    ]
 }
