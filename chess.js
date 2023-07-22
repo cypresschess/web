@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Team Chess Championship 2023 will kick off this Monday, and will be played from 24th-30th July in Iasi, Romania. The event will be played in two age categories: U12 and U18, open and girls sections separately. Each team in the Open sections are composed of four players and one reserve, and the teams in the girls' competitions are composed of two players and one reserve. The Championships will be played in 7 rounds, swiss system, with a []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2023-opens-in-iasi-romania/",
+         "pubDate" : "Sat, 22 Jul 2023 10:20:51 +0000",
+         "title" : "European Youth Team Chess Championship 2023 opens in Iasi, Romania"
+      },
+      {
+         "description" : "England had another successful tournament in the European Senior Teams Chess Championship, which finished in Swidnica in Poland on Thursday 20th July, winning two team...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-senior-teams-chess-championship/",
+         "pubDate" : "Sat, 22 Jul 2023 09:57:40 +0000",
+         "title" : "European Senior Teams Chess Championship"
+      },
+      {
+         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 09:05:00 +0100",
+         "title" : "Women's World Chess Championship, Game 12 - Live!"
+      },
+      {
+         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
+         "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
+         "title" : "Happy International Chess Day from The Gift of Chess!"
+      },
+      {
          "description" : "In the diagram position Black played 26...Qe2? and in the actual game he got away with it - but you would not let that go unpunished, would you?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Blind spot"
       },
       {
-         "description" : "Defending champion Ju Wenjun and her compatriot Lei Tingjie play a 12-game match for the Women's World Chess Championship. The first half of the match took place in Shanghai and the second half is taking place in Chongqing. The score is tied as three games remain to be played. | Follow the games live with expert commentary starting at 9.00 CEST (3.00 ET, 12.30 IST)",
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 08:45:00 +0100",
-         "title" : "Women's World Chess Championship, Game 12 - Live!"
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Sat, 22 Jul 2023 08:50:00 +0100",
+         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
@@ -162,28 +194,12 @@ news_feed (
          "title" : "Gukesh outstanding at the Turkish Super League, reaches 2750"
       },
       {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Fri, 21 Jul 2023 20:05:00 +0100",
-         "title" : "Herman Grooten: Key concepts"
-      },
-      {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
          "pubDate" : "Fri, 21 Jul 2023 20:00:00 +0100",
          "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
-         "pubDate" : "Fri, 21 Jul 2023 16:45:00 +0100",
-         "title" : "Happy International Chess Day from The Gift of Chess!"
       },
       {
          "description" : "",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "WWC Match 2023: Lei surprises Ju but game one ends in a draw"
       },
       {
-         "description" : "John Reyes &#8212; Election Address 2023 Gavin Cartwright&#8212; Election Address 2023 Julian Morrison &#8212; Election Address 2023",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/members-representatives-election-2023-election-addresses/",
-         "pubDate" : "Wed, 05 Jul 2023 13:25:43 +0000",
-         "title" : "Silver Members' Representatives Election 2023 - election addresses"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1586,14 +1594,6 @@ news_feed (
          "title" : "Fluctuation"
       },
       {
-         "description" : "The third event of the Grand Chess Tour 2023 series, the SuperUnited Rapid &#38; Blitz Croatia, takes place in Zagreb from 3-10 July. It is a 10-player round-robin tournament with 9 rounds in the rapid portion, and 18 rounds in the blitz portion of the event. Five-time World Chess Champion Magnus Carlsen headlines the field which includes Ian Nepomniachthi, Fabiano Caruana, Alireza Firouzja, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Dommaraju Gukesh, Ivan Saric and Constantin Lupulescu. The total prize fund []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/grand-chess-tour-rapid-blitz-tour-starts-in-zagreb/",
-         "pubDate" : "Sun, 02 Jul 2023 14:39:04 +0000",
-         "title" : "Grand Chess Tour Rapid & Blitz Tour starts in Zagreb"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1640,14 +1640,6 @@ news_feed (
          "link" : "https://www.thearticle.com/rudolf-spielmann-chess-hero-and-nazi-victim/",
          "pubDate" : "Sat, 01 Jul 2023 11:41:04 +0000",
          "title" : "Rudolf Spielmann: chess hero and Nazi victim"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian investors have put millions into the Global Chess League in Dubai. What can be learned? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2023-06-29-at-16-42.1920.jpeg\" title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? photo: Maria Emelianova / Global Chess League\" data-title=\"Will Anand Mahindra, CEO of Mahindra Tech and the biggest investor in the GCL, listen to our suggestions? (photo: Maria Emelianova / Global Chess League)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/expensive-experiment/",
-         "pubDate" : "Sat, 01 Jul 2023 10:21:00 +0100",
-         "title" : "Expensive experiment"
       }
    ]
 }
