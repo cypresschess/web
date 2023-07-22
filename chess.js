@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ju Wenjun won the twelfth and final classical game of her match against Lei Tingjie to successfully defend the Women's World Championship title. This is Ju's fourth victory in a fight for the biggest title in women's chess. The 32-year-old from Shanghai grabbed the women's crown for the first time in 2018 and is set to continue her reign for at least one more year. | Photos: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-12",
+         "pubDate" : "Sat, 22 Jul 2023 20:05:00 +0100",
+         "title" : "Ju Wenjun scores clutch win, defends World Championship title"
+      },
+      {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "Ju Wenjun (32) claimed her fourth Women&#x2019;s World Champion title after clinching a crucial victory in the decisive, final, 12th game of the match against challenger Lei Tingjie.With this victory, Ju has now equalled the record set by her compatriot Hou Yifan, both having won the world crown four times. Apart from defending the title, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-queen-of-the-chess-world-ju-wenjun-defends-womens-world-championship-title/",
+         "pubDate" : "Sat, 22 Jul 2023 18:10:03 +0000",
+         "title" : "The Queen of the chess world: Ju Wenjun defends Women's World Championship title"
+      },
+      {
+         "description" : "We are thrilled to announce major improvements to engines on Chess.com. Only weeks after the release of Stockfish 16, the newest version of the engine is now also available on our website. The engine is stronger than ever and brings a new evaluati...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/stockfish-16-on-chesscom",
+         "pubDate" : "Sat, 22 Jul 2023 09:00:00 -0700",
+         "title" : "Use The Latest And Most Powerful Version Of Stockfish Right On Chess.com"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,28 +42,12 @@ news_feed (
          "title" : "Third edition of Queens' Festival goes big"
       },
       {
-         "description" : "Ju Wenjun claimed her fourth Women's World Champion title after clinching a crucial victory in the decisive, final, 12th game of the match against challenger Lei Tingjie. With this victory, Ju has now equalled the record set by her compatriot Hou Yifan, both having won the world crown four times. Apart from defending the title, Ju also won €300,000 in prize money, while €200,000 went to the runner-up Lei Tingjie.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 15:00:00 +0100",
-         "title" : "Ju Wenjun defends her title!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2539",
          "pubDate" : "Sat, 22 Jul 2023 13:41:02 +0000",
          "title" : "The Queen of the chess world: China's Ju Wenjun defends Women's World Championship title"
-      },
-      {
-         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After three rounds of classical chess, David Navara and Vincent Keymer are sharing the lead in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "GM Ju Wenjun has won a wild final game of the 2023 FIDE Women&#39;s World Championship to claim her fourth title with a 6.5-5.5 victory over GM Lei Tingjie. The 17th women&#39;s world champion, who has held the title since 2018, also picks up the &#38;euro;30...",
@@ -50,6 +66,22 @@ news_feed (
          "title" : "How To Find A Plan In Chess Endgames"
       },
       {
+         "description" : "The British Championship is taking place from 22&#x2013;30 July 2023 in Leicester, England. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Michael Adams, Nicholas Pert, Daniel Howard Fernandez, Eldar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/british-championship-2023-live/",
+         "pubDate" : "Sat, 22 Jul 2023 10:47:00 +0000",
+         "title" : "British Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The British Championship is taking place from 22&#x2013;30 July 2023 in Leicester, England. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Michael Adams, Nicholas Pert, Daniel Howard Fernandez, Eldar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/british-championship-2023/",
+         "pubDate" : "Sat, 22 Jul 2023 10:22:00 +0000",
+         "title" : "British Championship 2023"
+      },
+      {
          "description" : "The European Youth Team Chess Championship 2023 will kick off this Monday, and will be played from 24th-30th July in Iasi, Romania. The event will be played in two age categories: U12 and U18, open and girls sections separately. Each team in the Open sections are composed of four players and one reserve, and the teams in the girls' competitions are composed of two players and one reserve. The Championships will be played in 7 rounds, swiss system, with a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -66,12 +98,28 @@ news_feed (
          "title" : "European Senior Teams Chess Championship"
       },
       {
+         "description" : "The Austrian Championship is taking place from 22&#x2013;30 July 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Stefan Kindermann, Georg Kilgus, Valentin Baidetskyi, Nikolaus Stanec, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/austrian-championship-2023-2/",
+         "pubDate" : "Sat, 22 Jul 2023 08:40:00 +0000",
+         "title" : "Austrian Championship 2023"
+      },
+      {
          "description" : " The Women's World Chess Championship match took place in Shanghai and Chongqing July 5th to 24th 2023. Defending Champion Ju Wenjun faced challenger Lei Tingjie in a 12 game match. <a href=\"https://fide.com/news/2482\">FIDE Event summary</a> Ju Wenjun won in a fitting finale in game 12 to win 6.5-5.5. This was a sharp fluctuating struggle that was settled in the run up to the first time control on move 40. Lei Tingjie will look back at missed opportunities in this match both earlier on and in the final game.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
          "pubDate" : "Sat, 22 Jul 2023 12:29:00 +0400",
          "title" : "Women's World Chess Championship 2023 - Games and Results"
+      },
+      {
+         "description" : "The Austrian Championship is taking place from 22&#x2013;30 July 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Stefan Kindermann, Georg Kilgus, Valentin Baidetskyi, Nikolaus Stanec, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/austrian-championship-2023/",
+         "pubDate" : "Sat, 22 Jul 2023 08:11:00 +0000",
+         "title" : "Austrian Championship 2023"
       },
       {
          "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
@@ -88,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/blind-spot",
          "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
          "title" : "Blind spot"
+      },
+      {
+         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After three rounds of classical chess, David Navara and Vincent Keymer are sharing the lead in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 08:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
@@ -114,6 +170,30 @@ news_feed (
          "title" : "Gukesh beats Carlsen's feat of youngest to reach Elo 2750"
       },
       {
+         "description" : "The new sole leader of the Grandmaster Triathlon in Biel is Vincent Keymer. The youngest participant in the competition beat top seed Yu Yangyi and was thus able to leave former co-leader Navara behind in the standings. The latter signed his third consecutive draw, this time against Bogdan-Daniel Deac. Le Quang Liem climbed to third place after beating Arjun Erigaisi. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-r4",
+         "pubDate" : "Sat, 22 Jul 2023 08:05:00 +0100",
+         "title" : "Biel: Keymer beats Yu, leads"
+      },
+      {
+         "description" : "Ju Wenjun claimed her fourth Women's World Champion title after clinching a crucial victory in the decisive, final, 12th game of the match against challenger Lei Tingjie. With this victory, Ju has now equalled the record set by her compatriot Hou Yifan, both having won the world crown four times. Apart from defending the title, Ju also won €300,000 in prize money, while €200,000 went to the runner-up Lei Tingjie.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
+         "pubDate" : "Sat, 22 Jul 2023 08:00:00 +0100",
+         "title" : "Women's World Championship - All games"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-12-live/",
+         "pubDate" : "Sat, 22 Jul 2023 05:59:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 12 - LIVE"
+      },
+      {
          "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2023 at Tashkent, Uzbekistan. Delhi",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -136,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-round-8",
          "pubDate" : "Sat, 22 Jul 2023 02:43:32 +0000",
          "title" : "2023 U.S. Junior & U.S. Senior Championships: Round 8"
-      },
-      {
-         "description" : "The new sole leader of the Grandmaster Triathlon in Biel is Vincent Keymer. The youngest participant in the competition beat top seed Yu Yangyi and was thus able to leave former co-leader Navara behind in the standings. The latter signed his third consecutive draw, this time against Bogdan-Daniel Deac. Le Quang Liem climbed to third place after beating Arjun Erigaisi. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r4",
-         "pubDate" : "Sat, 22 Jul 2023 02:20:00 +0100",
-         "title" : "Biel: Keymer beats Yu, leads"
       },
       {
          "description" : "<div class=\"body text-secondary\"> On the rest day of the 2023 U.S. Junior &amp; U.S. Senior Championships, the Saint Louis Chess Club celebrated its 15th anniversary with duck chess, ice cream, face paint, and even the chess magician &quot;The Great Todd.&quot; This aired during Round 6. 2023.07.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-club-15th-anniversary-celebration-usjuniorschess-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/file",
@@ -240,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/turkish-super-league-2023",
          "pubDate" : "Fri, 21 Jul 2023 20:10:00 +0100",
          "title" : "Gukesh outstanding at the Turkish Super League, reaches 2750"
-      },
-      {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Fri, 21 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "",
@@ -594,44 +658,12 @@ news_feed (
          "title" : "Luis Eduardo Hernandez Fierro Memorial 2023"
       },
       {
-         "description" : "The Luis Eduardo Hernandez Fierro Memorial is taking place from 19&#x2013;23 July 2023 in Rivera-Huila, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of Roberto Garcia Pantoja, Jorge Samuel Bobadilla Viera, Henry Panesso Rivera, Anthony Javier Paredes Lagos, Josue []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/luis-eduardo-hernandez-fierro-memorial-2023-live/",
-         "pubDate" : "Wed, 19 Jul 2023 04:34:00 +0000",
-         "title" : "Luis Eduardo Hernandez Fierro Memorial 2023 - LIVE"
-      },
-      {
-         "description" : "The Paleochora Open is taking place from 19&#x2013;26 July 2023 in Paleochora, Greece. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hristos Banikas, Surya Shekhar Ganguly, Baadur Jobava, Jinshi Bai, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paleochora-open-2023-live/",
-         "pubDate" : "Wed, 19 Jul 2023 04:11:00 +0000",
-         "title" : "Paleochora Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Paleochora Open is taking place from 19&#x2013;26 July 2023 in Paleochora, Greece. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Hristos Banikas, Surya Shekhar Ganguly, Baadur Jobava, Jinshi Bai, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paleochora-open-2023/",
-         "pubDate" : "Wed, 19 Jul 2023 03:35:00 +0000",
-         "title" : "Paleochora Open 2023"
-      },
-      {
          "description" : "David Navara won his first classical game at the Biel Chess Festival to grab the early sole lead in the GM Triathlon. The Czech star defeated Bassem Amin, while Vincent Keymer, who entered the round as co-leader after the rapid, only managed a draw against Jules Moussard. The longest game of the day saw Arjun Erigaisi holding a draw with black against Yu Yangyi. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2023-r1",
          "pubDate" : "Wed, 19 Jul 2023 04:00:00 +0100",
          "title" : "Biel: Navara the first sole leader"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-10-live/",
-         "pubDate" : "Wed, 19 Jul 2023 02:33:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 10 - LIVE"
       },
       {
          "description" : "GMs Daniel Naroditsky and Hikaru Nakamura won their matches by the highest margins in the Winners Quarterfinals of the Bullet Chess Championship 2023 on Tuesday. They each defeated formidable grandmasters, Andrew Tang and Jose Martinez respectivel...",
@@ -648,22 +680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-9",
          "pubDate" : "Tue, 18 Jul 2023 22:10:00 +0100",
          "title" : "Women's World Championship: A tense draw, three games to go"
-      },
-      {
-         "description" : "The Swiss Championship Titled Seniors is an 8-player round-robin tournament taking place from 17&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. All about FIDE Women's World Chess Championship : FIDE Women&#x2019;s World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-titled-seniors-2023-live/",
-         "pubDate" : "Tue, 18 Jul 2023 17:49:00 +0000",
-         "title" : "Swiss Championship Titled Seniors 2023 - LIVE"
-      },
-      {
-         "description" : "The Swiss Championship Titled Seniors is an 8-player round-robin tournament taking place from 17&#x2013;23 July 2023 in Leukerbad. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Chessdom.com will daily follow the live games. All about FIDE Women's World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-titled-seniors-2023/",
-         "pubDate" : "Tue, 18 Jul 2023 17:33:17 +0000",
-         "title" : "Swiss Championship Titled Seniors 2023"
       },
       {
          "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2023",
          "pubDate" : "Sun, 16 Jul 2023 18:41:00 +0400",
          "title" : "Aimchess Rapid 2023 - Games and Results"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 134th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and looks at the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-134-chess-history-in-a-nutshell-16",
-         "pubDate" : "Sun, 16 Jul 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 134: Chess history in a nutshell (16)"
       },
       {
          "description" : " The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA), and the US Chess Federation, are pleased to invite all National Chess Federations of the Americas to the XXXIII Pan-American Youth Chess Festival Open and Girls, from August 11 - 18, 2023 in Chicago, Illinois, USA. It's that time The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/\">Regina Riberio to lead Brazil to Pan-Am Youth</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/geza-hetenyi-memorial-2023",
          "pubDate" : "Wed, 12 Jul 2023 22:13:00 +0400",
          "title" : "Geza Hetenyi Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : "You&#39;ve been watching as GM Magnus Carlsen won the Airthings Masters to kick off the 2023 Champions Chess Tour (CCT). You&#39;ve kept following to see GM Hikaru Nakamura take down the Chessable Masters. Then GM Nodirbek Abdusattorov won the ChessKid Cu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-live-final-toronto-canada",
-         "pubDate" : "Wed, 12 Jul 2023 08:07:00 -0700",
-         "title" : "$500,000 Champions Chess Tour Finals To Be Played Live In Toronto"
       },
       {
          "description" : "",
@@ -1608,22 +1608,6 @@ news_feed (
          "link" : "https://chessimprover.com/fluctuation/",
          "pubDate" : "Sun, 02 Jul 2023 17:31:48 +0000",
          "title" : "Fluctuation"
-      },
-      {
-         "description" : " &#8220;Teaching young men to be the leaders they were born to be&#8221; &#8220;Coming of Kings&#8221; is a community organization based in Baltimore, Maryland is using chess as platform &#8220;to involve boys in positive interaction with positive successful men in preparation for adolescence and adulthood.&#8221; The group meets every Saturday for sessions on a wide range The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/01/coming-of-kings-empowerment-through-chess/\">Coming of Kings Empowerment through Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/01/coming-of-kings-empowerment-through-chess/",
-         "pubDate" : "Sat, 01 Jul 2023 16:00:04 +0000",
-         "title" : "Coming of Kings&hellip; Empowerment through Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101421470.cms\" />Triveni Continental Kings beat Ganges Grandmasters, led by five-time world champion Viswanathan Anand, 11-6 to become the first team to qualify for the finals of the inaugural edition of the Global Chess League here on Saturday. In the other match of the day, Chingari Gulf Titans defeated SG Alpine Warriors 8-7.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/triveni-continental-kings-first-team-to-qualify-for-global-chess-league-finals/articleshow/101421470.cms",
-         "pubDate" : "Sat, 01 Jul 2023 15:37:39 +0000",
-         "title" : "Triveni Continental Kings first team to qualify for Global Chess League finals"
       }
    ]
 }
