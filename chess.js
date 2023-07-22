@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three things in life seem to be a surety: death, taxes, and GM Hikaru Nakamura winning the $400 first prize in Bullet Brawl. Hours after securing victory for the fourth time in Chess.com&#39;s Bullet Chess Championship, Nakamura was back online again,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-4",
+         "pubDate" : "Sat, 22 Jul 2023 15:56:00 -0700",
+         "title" : "Death, Taxes, And Nakamura's Bullet Brawl Victories"
+      },
+      {
+         "description" : "Arjun Erigaisi, who came from struggling in classical chess at Biel's Grandmaster Triathlon, was the top scorer in the tournament's blitz section. The day's results also saw David Navara catchin Vincent Keymer in the lead of the event's overall standings. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-blitz",
+         "pubDate" : "Sat, 22 Jul 2023 23:10:00 +0100",
+         "title" : "Biel: Arjun wins Triathlon's blitz section"
+      },
+      {
          "description" : "Ju Wenjun won the twelfth and final classical game of her match against Lei Tingjie to successfully defend the Women's World Championship title. This is Ju's fourth victory in a fight for the biggest title in women's chess. The 32-year-old from Shanghai grabbed the women's crown for the first time in 2018 and is set to continue her reign for at least one more year. | Photos: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -850,14 +866,6 @@ news_feed (
          "title" : "Women's World Championship: Ju levels the score"
       },
       {
-         "description" : "Simen Agdestein recently won the Norwegian Chess Championship for a ninth time in his career. The 56-year-old outscored the likes of Aryan Tari and Jon Ludvig Hammer, but did not have to beat national hero and former student Magnus Carlsen, who does not participate in his country's championships. In his column this week, Jon Speelman analyses recent games by both the master and the student! | Photo: VG.no",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-198",
-         "pubDate" : "Sun, 16 Jul 2023 19:20:00 +0100",
-         "title" : "Old and new"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://aicf.in/15-individual-medals-for-india-in-western-asian-chess-championships-2023/",
          "pubDate" : "Thu, 13 Jul 2023 15:04:05 +0000",
          "title" : "15 Individual medals for India in Western Asian Chess Championships-2023"
-      },
-      {
-         "description" : "You can now play chess against the star player of the U.S. national soccer team, Christian Pulisic. A fast and creative player on the field, Pulisic is ready to show you what he&#39;s got over the board! Head to our Play Computer page to challenge the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/christian-pulisic-bot",
-         "pubDate" : "Thu, 13 Jul 2023 05:12:00 -0700",
-         "title" : "Play Chess Against Soccer Star Christian Pulisic"
       },
       {
          "description" : "",
