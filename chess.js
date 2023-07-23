@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 135th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look into the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-5",
+         "pubDate" : "Sun, 23 Jul 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 135: Chess history in a nutshell (17)"
+      },
+      {
+         "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-womens-world-championship_23.html",
+         "pubDate" : "Sun, 23 Jul 2023 13:47:00 +0000",
+         "title" : "2023 Women's World Championship "
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Sun, 23 Jul 2023 14:05:00 +0100",
+         "title" : "Just a few hours left! - Herman Grooten: Key concepts"
+      },
+      {
          "description" : "World Chess Day is celebrated annually on July 20. It is the date when FIDE was founded, 99 years ago. The idea to celebrate this was proposed by UNESCO, and its purpose is to raise awareness of the game and its benefits (improving cognitive skills, problem-solving abilities, and strategic thinking). In an article in a German science portal mathematics professor Christian Hesse, who has written quite extensively about chess, tells us how chess offers a profound intellectual duel with a surprising thrill factor. | Image S&uuml;leyman Kayaalp",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
-         "pubDate" : "Sun, 23 Jul 2023 09:00:00 +0100",
+         "pubDate" : "Sun, 23 Jul 2023 14:05:00 +0100",
          "title" : "Hesse on the World Chess Day"
+      },
+      {
+         "description" : "Sunday is a rest day in the Grandmaster Triathlon, which has David Navara and Vincent Keymer sharing the lead with three rounds of classical chess left to go. The open events, however, are being played. Bu Xiangzhi is leading the standings in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Sun, 23 Jul 2023 14:00:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : " The latest volume in my Chess Heroes series, designed to take students up to about 1500 strength, has just been published on Amazon. To refresh your memory about the structure, we start, if required, with an elementary book teaching the basics, which will take you up to about 500 strength. Then there are four parallel <a href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Puzzles Book 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\">Chess Heroes: Puzzles Book 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-heroes-puzzles-book-1/",
+         "pubDate" : "Sun, 23 Jul 2023 12:19:45 +0000",
+         "title" : "Chess Heroes: Puzzles Book 1"
+      },
+      {
+         "description" : "The Czech Open Pardubice is taking place from 21&#x2013;29 July 2023 in Pardubice. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Sergei Movsesian, G.N. Gopal, Jesper Sondergaard Thybo, Babu M []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-open-pardubice-2023/",
+         "pubDate" : "Sun, 23 Jul 2023 05:24:00 +0000",
+         "title" : "Czech Open Pardubice 2023"
+      },
+      {
+         "description" : "The Andorra Open is taking place from 22&#x2013;30 July 2023 in Andorra. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Johan-Sebastian Christiansen, Platon Galperin, Allan Stig Rasmussen, Jaime Alexander Cuartas, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andorra-open-2023-live/",
+         "pubDate" : "Sun, 23 Jul 2023 03:45:00 +0000",
+         "title" : "Andorra Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Andorra Open is taking place from 22&#x2013;30 July 2023 in Andorra. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Johan-Sebastian Christiansen, Platon Galperin, Allan Stig Rasmussen, Jaime Alexander Cuartas, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andorra-open-2023/",
+         "pubDate" : "Sun, 23 Jul 2023 03:17:00 +0000",
+         "title" : "Andorra Open 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Gregory Kaidanov talks to Cristian Chirila after a draw with Khachiyan in the seventh round of the 2023 U.S. Senior Championship. 2023.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kaidanov-melik-so-far-ahead-r7-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uZrkaSNMyW8.jpg?itok=7qTTGaDQ\" alt=\"\" /></a></div>",
@@ -98,20 +162,20 @@ news_feed (
          "title" : "Death, Taxes, And Nakamura's Bullet Brawl Victories"
       },
       {
+         "description" : "Ju Wenjun won the twelfth and final classical game of her match against Lei Tingjie to successfully defend the Women's World Championship title. This is Ju's fourth victory in a fight for the biggest title in women's chess. The 32-year-old from Shanghai grabbed the women's crown for the first time in 2018 and is set to continue her reign for at least one more year. | Photos: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-12",
+         "pubDate" : "Sat, 22 Jul 2023 23:15:00 +0100",
+         "title" : "Ju Wenjun scores clutch win, defends World Championship title"
+      },
+      {
          "description" : "Arjun Erigaisi, who came from struggling in classical chess at Biel's Grandmaster Triathlon, was the top scorer in the tournament's blitz section. The day's results also saw David Navara catchin Vincent Keymer in the lead of the event's overall standings. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2023-blitz",
          "pubDate" : "Sat, 22 Jul 2023 23:10:00 +0100",
          "title" : "Biel: Arjun wins Triathlon's blitz section"
-      },
-      {
-         "description" : "Ju Wenjun won the twelfth and final classical game of her match against Lei Tingjie to successfully defend the Women's World Championship title. This is Ju's fourth victory in a fight for the biggest title in women's chess. The 32-year-old from Shanghai grabbed the women's crown for the first time in 2018 and is set to continue her reign for at least one more year. | Photos: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-12",
-         "pubDate" : "Sat, 22 Jul 2023 20:05:00 +0100",
-         "title" : "Ju Wenjun scores clutch win, defends World Championship title"
       },
       {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
@@ -240,22 +304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/blind-spot",
          "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
          "title" : "Blind spot"
-      },
-      {
-         "description" : "After the start of the Master Open on Monday with close to a hundred participants, the players in the main event take up the fight in classical chess, the second discipline of their Grandmaster Triathlon. After three rounds of classical chess, David Navara and Vincent Keymer are sharing the lead in the standings. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 08:55:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Sat, 22 Jul 2023 08:50:00 +0100",
-         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
@@ -416,22 +464,6 @@ news_feed (
          "link" : "https://www.chessdom.com/uralsk-open-2023-live/",
          "pubDate" : "Fri, 21 Jul 2023 09:50:00 +0000",
          "title" : "Uralsk Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Uralsk Open is taking place from 21&#x2013;28 July 2023 in Uralsk, Kazakhstan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Hans Moke Niemann, Mihail Nikitenko, Manuel Petrosyan, Samvel Ter-Sahakyan, Vladislav Kovalev, S.P. Sethuraman, etc.Chessdom.com will daily follow []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uralsk-open-2023/",
-         "pubDate" : "Fri, 21 Jul 2023 09:22:18 +0000",
-         "title" : "Uralsk Open 2023"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Championship is a 12-game match between defending champion Ju Wenjun and her Chinese compatriot Lei Tingjie. The match runs July 5-23, with the first 6 games in Ju Wenjun's home city of Shanghai and the rest of the match in Lei Tingjie's Chongqing. The first player to 6.5 points wins []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-fide-womens-world-chess-championship-2023-game-11-live/",
-         "pubDate" : "Fri, 21 Jul 2023 09:15:17 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie , FIDE Women's World Chess Championship 2023 game 11 - LIVE"
       },
       {
          "description" : "European Senior Team Chess Championship 2023 concluded yesterday in the city of Swidnica, Poland, after the intense last round which determined the Winners in both 50+ and 65+ categories. Scoring all victories and perfect 16 match points, the teams of England 1 and Slovakia tied for first place in the 50+ section before the final round. The direct encounter between the leading duo was scheduled for round 9 and finished after the thrilling fight. England prevailed with a narrow 2.5-1.5 []",
@@ -674,14 +706,6 @@ news_feed (
          "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
       },
       {
-         "description" : "The Luis Eduardo Hernandez Fierro Memorial is taking place from 19&#x2013;23 July 2023 in Rivera-Huila, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of Roberto Garcia Pantoja, Jorge Samuel Bobadilla Viera, Henry Panesso Rivera, Anthony Javier Paredes Lagos, Josue []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/luis-eduardo-hernandez-fierro-memorial-2023/",
-         "pubDate" : "Wed, 19 Jul 2023 05:14:00 +0000",
-         "title" : "Luis Eduardo Hernandez Fierro Memorial 2023"
-      },
-      {
          "description" : "David Navara won his first classical game at the Biel Chess Festival to grab the early sole lead in the GM Triathlon. The Czech star defeated Bassem Amin, while Vincent Keymer, who entered the round as co-leader after the rapid, only managed a draw against Jules Moussard. The longest game of the day saw Arjun Erigaisi holding a draw with black against Yu Yangyi. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/the-pawn-is-dead-long-live-pawn.html",
          "pubDate" : "Mon, 17 Jul 2023 13:48:00 +0000",
          "title" : "The pawn is dead, long live the pawn"
-      },
-      {
-         "description" : "\"KISS\", which stands for \"Keep it simple, stupid!\", is a design principle first formulated by the US Navy in 1960, but which quickly caught on. KISS suggests that simplicity is preferable to complexity in most systems. Chess is no exception - Jan Markos knows more. | Photo: Jimee, Jackie, Tom & Asha on Flickr.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-20-simple-means-safe",
-         "pubDate" : "Mon, 17 Jul 2023 12:00:00 +0100",
-         "title" : "The Winning Academy 20: Simple means safe"
       },
       {
          "description" : "The UK's largest chess event took place on Sunday 16th July in London's Trafalgar Square. Now in its third year, the annual open-air chess festival...",
