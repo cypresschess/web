@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious, with Jonas Buhl Bjerre scoring the deciding win in an exciting tiebreaker. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here five instructive endings, all featuring women players! | Pictured: Nino Batsaishvili. | Photo: Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-endgames-women",
+         "pubDate" : "Sun, 23 Jul 2023 23:00:00 +0100",
+         "title" : "Endgames from the Global Chess League (women's edition)"
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Sun, 23 Jul 2023 22:30:00 +0100",
+         "title" : "Just an hour left! - Herman Grooten: Key concepts"
+      },
+      {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
          "pubDate" : "Sun, 23 Jul 2023 20:00:00 +0100",
          "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : "In the seventh round of the US Junior Championship played on Saturday, Arthur Guo (pictured) defeated Andrew Hong, who entered the round tied with him in first place. Since Abhimanyu Mishra, the third member of the former leading trio, had to settle for a draw against Justin Wang, Guo became the sole leader with two rounds to go. Melikset Khachiyan continues to lead the Seniors category, while Alice Lee extended her lead to a full point in the Girls' Championship. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r7",
-         "pubDate" : "Sun, 23 Jul 2023 19:00:00 +0100",
-         "title" : "US Juniors and Seniors: Lee, Guo and Khachiyan sole leaders"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 135th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look into the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "Understanding before Moving 135: Chess history in a nutshell (17)"
       },
       {
+         "description" : "In the seventh round of the US Junior Championship played on Saturday, Arthur Guo (pictured) defeated Andrew Hong, who entered the round tied with him in first place. Since Abhimanyu Mishra, the third member of the former leading trio, had to settle for a draw against Justin Wang, Guo became the sole leader with two rounds to go. Melikset Khachiyan continues to lead the Seniors category, while Alice Lee extended her lead to a full point in the Girls' Championship. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r7",
+         "pubDate" : "Sun, 23 Jul 2023 14:55:00 +0100",
+         "title" : "US Juniors and Seniors: Lee, Guo and Khachiyan sole leaders"
+      },
+      {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-womens-world-championship_23.html",
          "pubDate" : "Sun, 23 Jul 2023 13:47:00 +0000",
          "title" : "2023 Women's World Championship "
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Sun, 23 Jul 2023 14:05:00 +0100",
-         "title" : "Just a few hours left! - Herman Grooten: Key concepts"
       },
       {
          "description" : "World Chess Day is celebrated annually on July 20. It is the date when FIDE was founded, 99 years ago. The idea to celebrate this was proposed by UNESCO, and its purpose is to raise awareness of the game and its benefits (improving cognitive skills, problem-solving abilities, and strategic thinking). In an article in a German science portal mathematics professor Christian Hesse, who has written quite extensively about chess, tells us how chess offers a profound intellectual duel with a surprising thrill factor. | Image S&uuml;leyman Kayaalp",
@@ -842,14 +850,6 @@ news_feed (
          "title" : "Tennis Legend Roger Federer Encounters Chess Prodigy Tani"
       },
       {
-         "description" : "In this week's show, Karsten M&uuml;ller looks at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, mostly taken from games by wunderkind Alireza Firouzja! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-245-endgame-highlights-from-superunited-event",
-         "pubDate" : "Mon, 17 Jul 2023 19:15:00 +0100",
-         "title" : "Endgame Magic #245: Highlights from the SuperUnited event in Croatia"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1608,14 +1608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2024-in-paris-france/",
          "pubDate" : "Mon, 03 Jul 2023 07:08:43 +0000",
          "title" : "European Corporate Chess Championship 2024 in Paris, France"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2491",
-         "pubDate" : "Sun, 02 Jul 2023 21:37:07 +0000",
-         "title" : "VAR in chess: New technologies will be used to help arbiters at 2023 Western Asia Youth Chess "
       }
    ]
 }
