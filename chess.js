@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Day is celebrated annually on July 20. It is the date when FIDE was founded, 99 years ago. The idea to celebrate this was proposed by UNESCO, and its purpose is to raise awareness of the game and its benefits (improving cognitive skills, problem-solving abilities, and strategic thinking). In an article in a German science portal mathematics professor Christian Hesse, who has written quite extensively about chess, tells us how chess offers a profound intellectual duel with a surprising thrill factor. | Image S&uuml;leyman Kayaalp",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
+         "pubDate" : "Sun, 23 Jul 2023 09:00:00 +0100",
+         "title" : "Hesse on the World Chess Day"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Gregory Kaidanov talks to Cristian Chirila after a draw with Khachiyan in the seventh round of the 2023 U.S. Senior Championship. 2023.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kaidanov-melik-so-far-ahead-r7-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uZrkaSNMyW8.jpg?itok=7qTTGaDQ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-is-back/",
          "pubDate" : "Mon, 17 Jul 2023 10:59:05 +0000",
          "title" : "ChessFest!"
-      },
-      {
-         "description" : "In the eighth game of the FIDE Women's World Championship on Sunday, Ju Wenjun finally managed to score a win against challenger Lei Tingjie. A day earlier, the defending champion had failed to make the most of a big advantage in game 7. With four more games to go, the score is now tied. | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-8",
-         "pubDate" : "Mon, 17 Jul 2023 09:00:00 +0100",
-         "title" : "Women's World Championship: Ju levels the score"
       },
       {
          "description" : "",
