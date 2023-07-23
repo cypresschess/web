@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Sun, 23 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "In the seventh round of the US Junior Championship played on Saturday, Arthur Guo (pictured) defeated Andrew Hong, who entered the round tied with him in first place. Since Abhimanyu Mishra, the third member of the former leading trio, had to settle for a draw against Justin Wang, Guo became the sole leader with two rounds to go. Melikset Khachiyan continues to lead the Seniors category, while Alice Lee extended her lead to a full point in the Girls' Championship. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r7",
+         "pubDate" : "Sun, 23 Jul 2023 19:00:00 +0100",
+         "title" : "US Juniors and Seniors: Lee, Guo and Khachiyan sole leaders"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 135th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look into the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-puzzles-book-1/",
          "pubDate" : "Sun, 23 Jul 2023 12:19:45 +0000",
          "title" : "Chess Heroes: Puzzles Book 1"
+      },
+      {
+         "description" : "The Czech Open Pardubice is taking place from 21&#x2013;29 July 2023 in Pardubice. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Sergei Movsesian, G.N. Gopal, Jesper Sondergaard Thybo, Babu M []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-open-pardubice-2023-live/",
+         "pubDate" : "Sun, 23 Jul 2023 05:55:00 +0000",
+         "title" : "Czech Open Pardubice 2023 - LIVE"
       },
       {
          "description" : "The Czech Open Pardubice is taking place from 21&#x2013;29 July 2023 in Pardubice. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Sergei Movsesian, G.N. Gopal, Jesper Sondergaard Thybo, Babu M []",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2023-blitz",
          "pubDate" : "Sat, 22 Jul 2023 23:10:00 +0100",
          "title" : "Biel: Arjun wins Triathlon's blitz section"
-      },
-      {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "Ju Wenjun (32) claimed her fourth Women&#x2019;s World Champion title after clinching a crucial victory in the decisive, final, 12th game of the match against challenger Lei Tingjie.With this victory, Ju has now equalled the record set by her compatriot Hou Yifan, both having won the world crown four times. Apart from defending the title, []",
@@ -456,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/open-letter-vasyl-ivanchuk-fide-world-cup",
          "pubDate" : "Fri, 21 Jul 2023 04:27:00 -0700",
          "title" : "Top GMs Sign Open Letter Urging Ukraine To Let Vasyl Ivanchuk Play FIDE World Cup"
-      },
-      {
-         "description" : "The Uralsk Open is taking place from 21&#x2013;28 July 2023 in Uralsk, Kazakhstan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Hans Moke Niemann, Mihail Nikitenko, Manuel Petrosyan, Samvel Ter-Sahakyan, Vladislav Kovalev, S.P. Sethuraman, etc. All about FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uralsk-open-2023-live/",
-         "pubDate" : "Fri, 21 Jul 2023 09:50:00 +0000",
-         "title" : "Uralsk Open 2023 - LIVE"
       },
       {
          "description" : "European Senior Team Chess Championship 2023 concluded yesterday in the city of Swidnica, Poland, after the intense last round which determined the Winners in both 50+ and 65+ categories. Scoring all victories and perfect 16 match points, the teams of England 1 and Slovakia tied for first place in the 50+ section before the final round. The direct encounter between the leading duo was scheduled for round 9 and finished after the thrilling fight. England prevailed with a narrow 2.5-1.5 []",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-245-endgame-highlights-from-superunited-event",
          "pubDate" : "Mon, 17 Jul 2023 19:15:00 +0100",
          "title" : "Endgame Magic #245: Highlights from the SuperUnited event in Croatia"
-      },
-      {
-         "description" : "Four games, four wins - that was Praggnanandhaa's tally at the start of Geza Hetenyi Memorial in Budapest. Pragg thus became the eighth Indian to break the 2700-elamark. However, the Indian speed train was stopped in the fifth round when he lost to Amin Tabatabaei. The prodigy returned to his winning ways the very next round, as he defeated Peter Prohazka with black on Sunday. | Photo: Zoltan F&uuml;l&ouml;p",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragnanandhaa-leader-geza-hetenyi-memorial",
-         "pubDate" : "Mon, 17 Jul 2023 18:20:00 +0100",
-         "title" : "Pragnanandhaa: Five wins and a miscalculation"
       },
       {
          "description" : "",
@@ -1616,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2491",
          "pubDate" : "Sun, 02 Jul 2023 21:37:07 +0000",
          "title" : "VAR in chess: New technologies will be used to help arbiters at 2023 Western Asia Youth Chess "
-      },
-      {
-         "description" : " Here's the conclusion of an online rapidplay game I played recently which resulted in an exciting rook ending with fluctuating fortunes. I lost it in the end, but really should have won it on two occasions. If you follow this lesson you can learn to play rook endings better than me (and my opponent)! We'll <a href=\"https://chessimprover.com/fluctuation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Fluctuation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/fluctuation/\">Fluctuation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/fluctuation/",
-         "pubDate" : "Sun, 02 Jul 2023 17:31:48 +0000",
-         "title" : "Fluctuation"
       }
    ]
 }
