@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-07-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307221412 target='_blank'>CHESSPANDA07222023SATURDAY</a>",
 "HOUSTON","2023-07-21","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307211142 target='_blank'>REBECCA CHESS CLUB QUADS JULY 21, 2023</a>",
 "SUGAR LAND","2023-07-21","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307211112 target='_blank'>FBCC 2023 MOONWALK OPEN</a>",
 "LEAGUE CITY","2023-07-03  - 07-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307177392 target='_blank'>CLCC JULY MONDAYS</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2022-12-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202212096902 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-12-06","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212066002 target='_blank'>RCC QUADS  DECEMBER 6, 2022</a>",
 "HOUSTON","2022-12-03  - 12-04","37","<a href=http://www.uschess.org/msa/XtblMain.php?202212044792 target='_blank'>$2,500 HOUSTON CHESS STUDIO DECEMBE</a>",
-"HOUSTON","2022-12-03","341","<a href=http://www.uschess.org/msa/XtblMain.php?202212034072 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
 ]);
