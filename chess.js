@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop/",
-         "pubDate" : "Mon, 24 Jul 2023 08:30:50 +0000",
-         "title" : "AICF's Live Telecast Orientation Workshop"
+         "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, where there was no lack of instructive ending positions! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-246-endgame-highlights-from-superunited-event-2",
+         "pubDate" : "Mon, 24 Jul 2023 17:15:00 +0100",
+         "title" : "Endgame Magic #246: Highlights from the SuperUnited event in Croatia"
+      },
+      {
+         "description" : "Melikset Khachiyan and Alice Lee secured victories at the US Seniors Championship and the US Girls Championship respectively. In the Junior Championship, five players still have a chance to win the title. On July 20, the Saint Louis Chess Club celebrated its 15th anniversary with a big party. | Pictured: Alice Lee at the anniversary celebration | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r8",
+         "pubDate" : "Mon, 24 Jul 2023 17:00:00 +0100",
+         "title" : "US Seniors and Juniors: Khachiyan and Lee secure titles with a round to spare"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2542",
+         "pubDate" : "Mon, 24 Jul 2023 14:17:22 +0000",
+         "title" : "All eyes on Baku as the chess elite descends on Azerbaijan for the World Cup"
+      },
+      {
+         "description" : " The ACT chess community is mourning the passing of Oskar Hellman, who died on Sunday. An active participant in ACT events for as long as I had been involved in Canberra Chess, Hellman was a regular participant at Street Chess, making the 2 hour journey from his home near Wombeyan Caves to Canberra almost every weekend of the year. Since 2010 he played in 462 events, which was to most of any player during this time span. Born in 1935, Oskar was the oldest active player at Street Chess, but was happy to take on any opponent, especially the younger brigade. Prior to retiring to the Southern Highlands of NSW, he worked in the steel industry, and was an active player in Wollongong, Southern Sydn",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/oskar-hellman.html",
+         "pubDate" : "Mon, 24 Jul 2023 13:52:00 +0000",
+         "title" : "Oskar Hellman"
       },
       {
          "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Mon, 24 Jul 2023 09:00:00 +0100",
+         "pubDate" : "Mon, 24 Jul 2023 14:30:00 +0100",
          "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
+      },
+      {
+         "description" : "Of course, Viswanathan Anand isn't the topic at hand! But the Underdog Vignesh Anand Junior from the US was the player, who is more than 500 ELO points weaker than his opponent, GM Zaven Andriasian. In the Sicilian game, both players committed little errors that allowed the Armenian Grandmaster to gradually get the upper hand until everything went wrong. Yet another intriguing and fascinating instance of an underdog who shocked both his adversary and most likely himself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-anand-won-against-far-stronger-opponent",
+         "pubDate" : "Mon, 24 Jul 2023 14:15:00 +0100",
+         "title" : "How Anand won against a far stronger opponent ..."
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop/",
+         "pubDate" : "Mon, 24 Jul 2023 08:30:50 +0000",
+         "title" : "AICF's Live Telecast Orientation Workshop"
       },
       {
          "description" : "European Chess Union is delighted to announce ESET, as a sponsor of European Youth Rapid and Blitz Chess Championship in Terme, Catez, Slovenia 27-30 September 2023.&#160; ESET will provide to ECU 144 pcs of ESET Internet Security Licenses (duration 1 year) and additionally free branded merch with ESET Slovenia branding (eg sunglasses, mouse pads), as prizes and gifts to the winners of the European Championship in Slovenia. The 144 pcs free software will be provided to the 6 winners of []",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-seeks-proposals-rating-changes",
          "pubDate" : "Mon, 24 Jul 2023 06:30:00 +0100",
          "title" : "FIDE seeks public discussion about proposed rating changes"
+      },
+      {
+         "description" : "The last three rounds of classical chess in the Grandmaster Triathlon are taking place from Monday to Wendesday in Biel. After six rounds, David Navara and Vincent Keymer are sharing the lead. With each win in the classical portion worth 4 points, it is all to play for in the Swiss bilingual city. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Mon, 24 Jul 2023 06:25:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Gracy Prasanna talks to Cristian Chirila after defeating Atwell in the eighth round of the 2023 U.S. Girls' Junior Championship. 2023.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prasanna-just-glad-i-won-game-r8-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hs5cDPxTSY4.jpg?itok=5OD3-urr\" alt=\"\" /></a></div>",
@@ -120,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
          "pubDate" : "Sun, 23 Jul 2023 20:05:00 +0100",
          "title" : "Hesse on the World Chess Day"
-      },
-      {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Sun, 23 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 135th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look into the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
@@ -330,20 +370,20 @@ news_feed (
          "title" : "Austrian Championship 2023"
       },
       {
-         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
-         "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
-         "title" : "Happy International Chess Day from The Gift of Chess!"
-      },
-      {
          "description" : "In the diagram position Black played 26...Qe2? and in the actual game he got away with it - but you would not let that go unpunished, would you?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/blind-spot",
          "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
          "title" : "Blind spot"
+      },
+      {
+         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
+         "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
+         "title" : "Happy International Chess Day from The Gift of Chess!"
       },
       {
          "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
@@ -754,14 +794,6 @@ news_feed (
          "title" : "Naroditsky Defeats Ultrabullet Virtuoso, Matches Nakamura For Top Winning Margin"
       },
       {
-         "description" : "In the ninth game of the Women's World Chess Championships, Lei Tingjie and Ju Wenjun showed a remarkable level of understanding both in the middlegame emerging from a Sicilian Defence and in the ensuing rook ending. The game ended in a draw after 59 moves. | Photos: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-9",
-         "pubDate" : "Tue, 18 Jul 2023 22:10:00 +0100",
-         "title" : "Women's World Championship: A tense draw, three games to go"
-      },
-      {
          "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "European Women's Rapid&Blitz Chess Championship 2023 - Official invitation"
       },
       {
-         "description" : "There were three competitions in the British Chess Solving Championship. Chess problemist Brian Stephenson, who for twenty-five years directed the Championship, and has directed several World Chess Solving Championships, shows us three of the competition studies. It is your opportunity to join the competition and test your own solving skills. Or at least enjoy some very clever chess compositions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/studies-with-stephenson-2",
-         "pubDate" : "Tue, 18 Jul 2023 12:00:00 +0100",
-         "title" : "Studies with Stephenson"
-      },
-      {
          "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23 and 15-16 July 23 at New",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://aicf.in/national-women-2023-certificates/",
          "pubDate" : "Tue, 18 Jul 2023 08:31:27 +0000",
          "title" : "National Women 2023, Certificates."
-      },
-      {
-         "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beautiful-breakthroughs",
-         "pubDate" : "Tue, 18 Jul 2023 09:00:00 +0100",
-         "title" : "Beautiful breakthroughs"
       },
       {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
@@ -1600,14 +1616,6 @@ news_feed (
          "link" : "https://chessimprover.com/opening-blunders-2/",
          "pubDate" : "Tue, 04 Jul 2023 09:00:42 +0000",
          "title" : "Opening Blunders (2)"
-      },
-      {
-         "description" : " Chess photography is a popular (although not very lucrative) pastime. There is something about the settings, the personalities, and range of emotions that seem to attract photographers to the sport. For people like me (using my low res smart phone) it is to recognise people who come each weel to Street Chess. For more prolific photographers (with their better equipment) like Cathy Rogers or Dr Helen Milligan, it is a way of documenting the chess events they attend. But for some at the top, it is a way to make a living, as well as provide an insight into the world of top level chess. Courtesy of regular reader Jim, there is a <a href=\"https://edition.cnn.com/2023/06/19/sport/maria-emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/the-art-of-making-chess-art.html",
-         "pubDate" : "Mon, 03 Jul 2023 13:06:00 +0000",
-         "title" : "The art of making (chess) art"
       }
    ]
 }
