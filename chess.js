@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
+         "pubDate" : "Mon, 24 Jul 2023 20:00:00 +0100",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
+         "pubDate" : "Mon, 24 Jul 2023 17:30:00 +0100",
+         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
+      },
+      {
          "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, where there was no lack of instructive ending positions! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "Oskar Hellman"
       },
       {
-         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Mon, 24 Jul 2023 14:30:00 +0100",
-         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
-      },
-      {
          "description" : "Of course, Viswanathan Anand isn't the topic at hand! But the Underdog Vignesh Anand Junior from the US was the player, who is more than 500 ELO points weaker than his opponent, GM Zaven Andriasian. In the Sicilian game, both players committed little errors that allowed the Armenian Grandmaster to gradually get the upper hand until everything went wrong. Yet another intriguing and fascinating instance of an underdog who shocked both his adversary and most likely himself.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-anand-won-against-far-stronger-opponent",
          "pubDate" : "Mon, 24 Jul 2023 14:15:00 +0100",
          "title" : "How Anand won against a far stronger opponent ..."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2541",
+         "pubDate" : "Mon, 24 Jul 2023 12:25:05 +0000",
+         "title" : "Ju Wenjun crowned with her fourth World Championship Title: \"There are many memorable moments, and this is one of them\""
       },
       {
          "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
@@ -242,14 +258,6 @@ news_feed (
          "title" : "Kaidanov: Melik is so Far Ahead | R7 #USSeniorsChess"
       },
       {
-         "description" : "Three things in life seem to be a surety: death, taxes, and GM Hikaru Nakamura winning the $400 first prize in Bullet Brawl. Hours after securing victory for the fourth time in Chess.com&#39;s Bullet Chess Championship, Nakamura was back online again,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-4",
-         "pubDate" : "Sat, 22 Jul 2023 15:56:00 -0700",
-         "title" : "Death, Taxes, And Nakamura's Bullet Brawl Victories"
-      },
-      {
          "description" : "Ju Wenjun won the twelfth and final classical game of her match against Lei Tingjie to successfully defend the Women's World Championship title. This is Ju's fourth victory in a fight for the biggest title in women's chess. The 32-year-old from Shanghai grabbed the women's crown for the first time in 2018 and is set to continue her reign for at least one more year. | Photos: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,22 +282,6 @@ news_feed (
          "title" : "The Queen of the chess world: Ju Wenjun defends Women's World Championship title"
       },
       {
-         "description" : "We are thrilled to announce major improvements to engines on Chess.com. Only weeks after the release of Stockfish 16, the newest version of the engine is now also available on our website. The engine is stronger than ever and brings a new evaluati...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/stockfish-16-on-chesscom",
-         "pubDate" : "Sat, 22 Jul 2023 09:00:00 -0700",
-         "title" : "Use The Latest And Most Powerful Version Of Stockfish Right On Chess.com"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2540",
-         "pubDate" : "Sat, 22 Jul 2023 14:15:00 +0000",
-         "title" : "Third edition of Queens' Festival goes big"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -298,12 +290,12 @@ news_feed (
          "title" : "The Queen of the chess world: China's Ju Wenjun defends Women's World Championship title"
       },
       {
-         "description" : "GM Ju Wenjun has won a wild final game of the 2023 FIDE Women&#39;s World Championship to claim her fourth title with a 6.5-5.5 victory over GM Lei Tingjie. The 17th women&#39;s world champion, who has held the title since 2018, also picks up the &#38;euro;30...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-12",
-         "pubDate" : "Sat, 22 Jul 2023 05:07:00 -0700",
-         "title" : "Ju Wenjun Wins 4th Women's World Championship Title"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2536",
+         "pubDate" : "Sat, 22 Jul 2023 12:35:58 +0000",
+         "title" : "Top players sign an open letter in support of GM Ivanchuk"
       },
       {
          "description" : "Endgames. Ugh, so boring you might think. I know this isn't the favorite phase of the game for many. But I hope after reading this article you will change your mind at least a little bit. Why? Because you will learn how to find a smart plan in any kind of endgame. And once you []",
@@ -336,6 +328,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2023-opens-in-iasi-romania/",
          "pubDate" : "Sat, 22 Jul 2023 10:20:51 +0000",
          "title" : "European Youth Team Chess Championship 2023 opens in Iasi, Romania"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2540",
+         "pubDate" : "Sat, 22 Jul 2023 10:15:00 +0000",
+         "title" : "Third edition of Queens' Festival goes big"
       },
       {
          "description" : "England had another successful tournament in the European Senior Teams Chess Championship, which finished in Swidnica in Poland on Thursday 20th July, winning two team...",
@@ -450,14 +450,6 @@ news_feed (
          "title" : "Women's World Championship: Tense match tied with one game to go"
       },
       {
-         "description" : "GM Hikaru Nakamura clinched the Bullet Chess Championship 2023 on Friday, shutting down GM Magnus Carlsen&#39;s comeback in overtime in an epic Grand Final.&#38;nbsp; Back in Norway with his home setup, Carlsen switched into another gear and went on a t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-5",
-         "pubDate" : "Fri, 21 Jul 2023 13:56:00 -0700",
-         "title" : "Nakamura Halts Carlsen's Comeback, Clinches 4th Title"
-      },
-      {
          "description" : "On Thursday, the strong Isbank Turkish Super League, Turkey's team championship, came to an end in Ankara. The Turkish Airline Sports Club topped the standings. The best player on board one was Dommaraju Gukesh, who climbed to eleventh place in the live elite ratings list and became the youngest-ever player to cross the 2750-mark. | Photos: Turkish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -474,14 +466,6 @@ news_feed (
          "title" : "FIDE seeks public discussion about proposed rating changes"
       },
       {
-         "description" : "Women&#39;s World Champion Ju Wenjun attacked with the black pieces in Game 11 of the 2023 FIDE Women&#39;s World Championship, but a creative king march saved the day for GM Lei Tingjie, leaving the scores tied at 5.5-5.5 going into the final classical g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-11",
-         "pubDate" : "Fri, 21 Jul 2023 07:43:00 -0700",
-         "title" : "Lei Tingjie's King Escapes In Game 11 Before Final Showdown"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102020438.cms\" />There's good news for the Bengal chess fraternity as the state's two Grandmasters ended on podiums in European tournaments. While GM Surya Sekhar Ganguly ended second at the La Plagne International Open in France, GM Deep Sengupta claimed the Warsaw International chess festival this week. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -496,14 +480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/open-letter-ivanchuk-world-cup",
          "pubDate" : "Fri, 21 Jul 2023 14:00:00 +0100",
          "title" : "Top players sign an open letter in support of Vasyl Ivanchuk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2536",
-         "pubDate" : "Fri, 21 Jul 2023 12:35:58 +0000",
-         "title" : "Top players sign an open letter in support of GM Ivanchuk"
       },
       {
          "description" : "",
@@ -530,14 +506,6 @@ news_feed (
          "title" : "Biel: Keymer beats Le"
       },
       {
-         "description" : "In an open letter published on the FIDE website a&#38;nbsp;number of top grandmasters urge Ukraine&#39;s government to allow GM Vasyl Ivanchuk to leave the country and play the upcoming FIDE World Cup. The event begins in Baku, Azerbaijan on July 29 and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/open-letter-vasyl-ivanchuk-fide-world-cup",
-         "pubDate" : "Fri, 21 Jul 2023 04:27:00 -0700",
-         "title" : "Top GMs Sign Open Letter Urging Ukraine To Let Vasyl Ivanchuk Play FIDE World Cup"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2023 concluded yesterday in the city of Swidnica, Poland, after the intense last round which determined the Winners in both 50+ and 65+ categories. Scoring all victories and perfect 16 match points, the teams of England 1 and Slovakia tied for first place in the 50+ section before the final round. The direct encounter between the leading duo was scheduled for round 9 and finished after the thrilling fight. England prevailed with a narrow 2.5-1.5 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -546,28 +514,12 @@ news_feed (
          "title" : "European Senior Team Chess Champions crowned in Poland"
       },
       {
-         "description" : "GM Hikaru Nakamura sits atop the Winners Bracket after defeating GM Alireza Firouzja in an electrifying final at the Bullet Chess Championship 2023 on Thursday. He awaits the player who will fight their way out of the Losers Bracket to meet him in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-4",
-         "pubDate" : "Thu, 20 Jul 2023 15:24:00 -0700",
-         "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
-      },
-      {
          "description" : "Melikset Khachiyan, a former coach of Levon Aronian, won the clash of co-leaders in round 5 of the US Seniors Championship as he beat Maxim Dlugy with white to take the sole lead in the standings. In the Junior Championships the leaders could not extend their leads. To the contrary, the fields are now closer together, both in the open and the girls' sections. | Photo: Austin Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r5",
          "pubDate" : "Thu, 20 Jul 2023 21:30:00 +0100",
          "title" : "US Seniors: Khachiyan prevails in duel of co-leaders"
-      },
-      {
-         "description" : "GM Gukesh D is expected to be the youngest player to have a published rating of 2750 in history when the next FIDE rating list comes out in 11 days (when he will be 17.17 years old). This news comes just off the heels of his countryman GM Praggnan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-youngest-player-to-break-2750",
-         "pubDate" : "Thu, 20 Jul 2023 13:12:00 -0700",
-         "title" : "Gukesh Breaks Record: Youngest Player To Cross 2750 Rating"
       },
       {
          "description" : "In his Fast & Furious show, Robert Ris analyses an outstanding game from the Geza Hetenyi Memorial. Eventual winner Praggnanandhaa lost with black against Amin Tabatabaei, as the rising stars fought in a wild middlegame out of a rare line in the Ruy Lopez. Unmissable! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -584,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/switching-federations",
          "pubDate" : "Thu, 20 Jul 2023 19:10:00 +0100",
          "title" : "Switching federations"
-      },
-      {
-         "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/julius-baer-generation-cup-named-as-next-champions-chess-tour-event",
-         "pubDate" : "Thu, 20 Jul 2023 04:59:00 -0700",
-         "title" : "Julius Baer Generation Cup Named As Next Champions Chess Tour Event"
       },
       {
          "description" : "Today is International Chess Day a fitting day for the 109th British Chess Championships to start. We kick off today at DMU in Leicester...",
@@ -642,14 +586,6 @@ news_feed (
          "title" : "International Chess Day"
       },
       {
-         "description" : "17-year-old GM Praggnanandhaa Rameshbabu continues to climb the highest rungs of professional chess. On Wednesday, he won the V. Geza Hetenyi Memorial | GM, held in Budapest, and will cross the 2700-rating threshold on the next official FIDE list....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-breaks-2700-rating",
-         "pubDate" : "Wed, 19 Jul 2023 16:01:00 -0700",
-         "title" : "Praggnanandhaa Breaks 2700 Rating With Tournament Win In Budapest"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -658,28 +594,12 @@ news_feed (
          "title" : "FIDE turns 99"
       },
       {
-         "description" : "Russian chess continues to lose its top players. Former Candidates participant GM Kirill Alekseenko has now completed the transfer to Austria and becomes the country&#39;s highest-rated player.&#38;nbsp; The 26-year-old from St. Petersburg who was ranke...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kirill-alekseenko-leaves-russia-joins-austria",
-         "pubDate" : "Wed, 19 Jul 2023 13:36:00 -0700",
-         "title" : "Kirill Alekseenko Leaves Russia, Becomes New Austrian Number One"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2533",
          "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
          "title" : "ChessFest takes over London"
-      },
-      {
-         "description" : "With swift and tricky play, GM Alireza Firouzja defeated GM Magnus Carlsen in the semifinals of the Bullet Chess Championship 2023 on Wednesday. GM Hikaru Nakamura bested GM Daniel Naroditsky in match loaded with dazzling tactics. Firouzja and Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-3",
-         "pubDate" : "Wed, 19 Jul 2023 11:16:00 -0700",
-         "title" : "Firouzja Outshines Carlsen: 'I Saw Myself As The Favorite'"
       },
       {
          "description" : "In his Game of the Week show #577, Merijn van Delft shares one of his games from the Science Park Tournament in Amsterdam. He and Murad Abdulla fought in a remarkably imbalanced position! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -730,14 +650,6 @@ news_feed (
          "title" : "Chess (the musical): 1990 versus 2023"
       },
       {
-         "description" : "Challenger GM Lei Tingjie briefly threatened to take over in game 10 of the 2023 FIDE Women&#39;s World Championship, but defending champion GM Ju Wenjun &#34;took back&#34; a questionable move and soon even had a nominal advantage before the game fizzled out...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-10",
-         "pubDate" : "Wed, 19 Jul 2023 06:35:14 -0700",
-         "title" : "Women's World Championship Tied 5-5 Before Final Weekend"
-      },
-      {
          "description" : "The Italian Game has become popular again in top chess in recent years, not least because it often leads to interesting positions rich in content. In ChessBase Magazine #214 Sergey Grigoriants uses games by Nakamura, Carlsen, Kasimdzhanov and others to show a concept that promises Black \"relatively easy play\": with 10...Re8 Black prepares the exchange of the light-squared bishops on e6.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -778,36 +690,12 @@ news_feed (
          "title" : "ChessBase in Minutes! Learn how grandmasters use Chessbase to study endgames! (video)"
       },
       {
-         "description" : "David Navara won his first classical game at the Biel Chess Festival to grab the early sole lead in the GM Triathlon. The Czech star defeated Bassem Amin, while Vincent Keymer, who entered the round as co-leader after the rapid, only managed a draw against Jules Moussard. The longest game of the day saw Arjun Erigaisi holding a draw with black against Yu Yangyi. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r1",
-         "pubDate" : "Wed, 19 Jul 2023 04:00:00 +0100",
-         "title" : "Biel: Navara the first sole leader"
-      },
-      {
-         "description" : "GMs Daniel Naroditsky and Hikaru Nakamura won their matches by the highest margins in the Winners Quarterfinals of the Bullet Chess Championship 2023 on Tuesday. They each defeated formidable grandmasters, Andrew Tang and Jose Martinez respectivel...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-2",
-         "pubDate" : "Tue, 18 Jul 2023 18:03:00 -0700",
-         "title" : "Naroditsky Defeats Ultrabullet Virtuoso, Matches Nakamura For Top Winning Margin"
-      },
-      {
          "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/another-ending-another-low/",
          "pubDate" : "Tue, 18 Jul 2023 13:58:30 +0000",
          "title" : "Another Ending Another Low"
-      },
-      {
-         "description" : "Women&#39;s World Champion Ju Wenjun played the Sicilian Defense for the first time in the 2023 FIDE Women&#39;s World Championship and went on to make a comfortable draw with the black pieces, despite GM Lei Tingjie playing on until move 59.&#38;nbsp; The ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-9",
-         "pubDate" : "Tue, 18 Jul 2023 06:25:00 -0700",
-         "title" : "Ju Wenjun Plays Sicilian In Game 9 As Tension Builds"
       },
       {
          "description" : "",
@@ -866,36 +754,12 @@ news_feed (
          "title" : "AICF's Fair Play Orientation Workshop, Pune"
       },
       {
-         "description" : "The favorites swept the underdogs in the opening round of the Bullet Chess Championship 2023 on Monday. Debuting in the event, GM Magnus Carlsen won nearly every game vs. GM Eric Hansen.&#38;nbsp;GM Oleksandr Bortnyk fought off GM Fabiano Caruana&#39;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-1",
-         "pubDate" : "Mon, 17 Jul 2023 19:05:00 -0700",
-         "title" : "Matching Mocktails: Carlsen Defeats Chessbrah In Bullet Debut"
-      },
-      {
-         "description" : "Imagine a sun-filled day with an over-the-board game in a picturesque park such as Columbus Park in New York City. It&#38;rsquo;s a scene we all enjoy watching. Would you be surprised to see tennis great Roger Federer on one side of the chessboard fac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roger-federer-tani-adewumi-chess-meeting-of-the-masters",
-         "pubDate" : "Mon, 17 Jul 2023 11:46:00 -0700",
-         "title" : "Tennis Legend Roger Federer Encounters Chess Prodigy Tani"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2528",
          "pubDate" : "Mon, 17 Jul 2023 15:27:35 +0000",
          "title" : "FIDE World Championships 2024 Call for Bids is Closed"
-      },
-      {
-         "description" : "Warning: The following clips contain an aggressive display of racial harassment, including multiple expletives and a slur. Chess streamer Alyssazhu was streaming live on Twitch from a park when her camera was knocked over before a racist rant ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alyssazhus-chess-stream-interrupted-by-racist-rant",
-         "pubDate" : "Mon, 17 Jul 2023 08:06:00 -0700",
-         "title" : "Alyssazhu's Chess Stream Interrupted By Racist Rant"
       },
       {
          "description" : " When trying to 'gamify' chess to small children, I usually tell them that the pawn has one hidden power, and one super power. The super power is the ability to transform into another, stronger piece when it reaches the end of the board. And the hidden power is that hs the weakest power of all the pieces. So anything it attacks is either more valuable or at worst, of equal value. And to demonstrate ... <br /> <b>Press,Shaun - Khadkar,Sameet [D77]</b><br /> Gungahlin Rapid ---, 11.07.2023 <script> new PgnViewer( { boardName: \"game1408\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 O-O 6.O-O e6 7.Nc3 dxc4 8.Ne5 c6 9.Nxc4 Nd5 10.e4 b5 11.exd5 bxc4 12.dxc6 Qc7 13.N",
@@ -922,14 +786,6 @@ news_feed (
          "title" : "WWC Match 2023: Ju Wenjun equalises after a long grueling battle"
       },
       {
-         "description" : "GM Ju Wenjun is back! The Women&#39;s World Champion outplayed challenger GM Lei Tingjie in a complex middlegame and then ground out an endgame win to level the scores at 4-4 going into the final four games of the 2023 FIDE Women&#39;s World Championship ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-8",
-         "pubDate" : "Sun, 16 Jul 2023 08:02:00 -0700",
-         "title" : "Ju Wenjun Wins Game 8 To Tie World Championship Match"
-      },
-      {
          "description" : " The Aimchess Rapid took place 10th to 14th July 2023. Part of the Champions Chess Tour it was hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga. Carlsen beat Wesley So in the final. Denis Lazavik just got past Sam Sevian to reach the next final, remarkably they drew all the games from all 3 of their matches with having black in the Armageddon being decisive each time.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -946,28 +802,12 @@ news_feed (
          "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
       },
       {
-         "description" : "GM Hikaru Nakamura once again won Saturday&#39;s Bullet Brawl and claimed the $400 first prize after scoring 263 points in the two-hour arena. This victory follows his record-breaking 75-win run in the previous event. In the most stacked edition yet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-3",
-         "pubDate" : "Sat, 15 Jul 2023 18:10:00 -0700",
-         "title" : "Nakamura Reigns Supreme In Bullet Brawl, Claims 6th Title"
-      },
-      {
          "description" : " With an expanded vision, The Gift of Chess has appointed Susan Namangale as its Global Head. Russell Makofsky&#8216;s vision to distribute chess sets in the New York area was part of a local initiative called The Gift of Chess. Since its inception in 2021, the mission added the incarcerated and most recently a global initiative. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/\">&#8220;The Gift of Chess&#8221; nabs Namangale as Global Head</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/",
          "pubDate" : "Sat, 15 Jul 2023 15:21:15 +0000",
          "title" : "\"The Gift of Chess\" nabs Namangale as Global Head"
-      },
-      {
-         "description" : "Defending Women&#39;s World Champion Ju Wenjun counterattacked and emerged two pawns up with a winning position as the second half of the 2023 FIDE Women&#39;s World Championship began. As time ran out, however, she took a safe option that allowed GM Lei ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-7",
-         "pubDate" : "Sat, 15 Jul 2023 08:15:00 -0700",
-         "title" : "Ju Wenjun Misses Golden Chance To Level Scores In Game 7"
       },
       {
          "description" : "",
@@ -1008,14 +848,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-started-in-swidnica-poland/",
          "pubDate" : "Fri, 14 Jul 2023 20:38:27 +0000",
          "title" : "European Senior Team Chess Championship 2023 started in Swidnica, Poland"
-      },
-      {
-         "description" : "GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to clinch the Champions Chess Tour Aimchess Rapid 2023. After a 2-0 start by Carlsen, So made a stunning comeback by winning on demand with Black. In game four, Carlsen combined...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-5",
-         "pubDate" : "Fri, 14 Jul 2023 12:19:00 -0700",
-         "title" : "Carlsen Prevails vs. So, Winning Streak Grows With Aimchess Rapid"
       },
       {
          "description" : " Last week, we talked about a few ideas to keep in mind while beginning your studies of the endgame. This week, we'll start delving deeper into one of those ideas, pawn structure. If you're wondering just how important pawns and pawn structure are in chess, do an online search of books written about pawns and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\">A Foundation for Beginners Ninety Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
@@ -1064,30 +896,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/14/magnus-carlsen-hits-two-maximums-as-carefree-world-no-1-continues-his-surge",
          "pubDate" : "Fri, 14 Jul 2023 07:00:04 +0000",
          "title" : "Magnus Carlsen hits two maximums as carefree world No 1 continues his surge"
-      },
-      {
-         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
-         "pubDate" : "Thu, 13 Jul 2023 18:31:00 -0700",
-         "title" : "So Advances To Challenge Carlsen"
-      },
-      {
-         "description" : "Torch is a brand-new chess engine built from the ground up by top chess engine developers. The team is composed of: Andrew Grant (Ethereal), Finn Eggers &#38;amp; Kim K&#38;aring;hre (Koivisto), Jay Honnold (Berserk), and Michael Whiteley &#38;amp; Dietrich K...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/torch-chess-engine",
-         "pubDate" : "Thu, 13 Jul 2023 18:17:00 -0700",
-         "title" : "Announcing Torch: New #2 Chess Engine"
-      },
-      {
-         "description" : "The main event of the 2023 Bullet Chess Championship (BCC) is almost here. Sixteen elite players, including bullet legends GMs Hikaru Nakamura, Magnus Carlsen, and Alireza Firouzja, are about to go toe-to-toe to see who&#39;s the fastest player on the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-chess-championship-2023-bracket-contest",
-         "pubDate" : "Thu, 13 Jul 2023 17:13:16 -0700",
-         "title" : "Win Prizes In The Upcoming 2023 Bullet Chess Championship"
       },
       {
          "description" : "",
@@ -1600,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2494",
          "pubDate" : "Tue, 04 Jul 2023 11:58:15 +0000",
          "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2493",
-         "pubDate" : "Tue, 04 Jul 2023 11:36:10 +0000",
-         "title" : "The 2023 FIDE World Cup wild cards revealed"
       },
       {
          "description" : " &#8220;In theory there is no difference between theory and practice. In practice there is.&#8221; Yogi Berra These days playing online requires at minimum basic knowledge of your opening choice. First of all it is not that hard to learn a couple of important ideas. Secondly, there are countless choices where you can find them; even <a href=\"https://chessimprover.com/opening-blunders-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Blunders (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-blunders-2/\">Opening Blunders (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
