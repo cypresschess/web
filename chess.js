@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
+         "pubDate" : "Mon, 24 Jul 2023 09:00:00 +0100",
+         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
+      },
+      {
+         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
+         "pubDate" : "Mon, 24 Jul 2023 08:59:59 +0100",
+         "title" : "Herman Grooten: Key concepts"
+      },
+      {
+         "description" : "European Chess Union is delighted to announce ESET, as a sponsor of European Youth Rapid and Blitz Chess Championship in Terme, Catez, Slovenia 27-30 September 2023.&#160; ESET will provide to ECU 144 pcs of ESET Internet Security Licenses (duration 1 year) and additionally free branded merch with ESET Slovenia branding (eg sunglasses, mouse pads), as prizes and gifts to the winners of the European Championship in Slovenia. The 144 pcs free software will be provided to the 6 winners of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/sponsorship-announcement/",
+         "pubDate" : "Mon, 24 Jul 2023 07:10:55 +0000",
+         "title" : "Sponsorship announcement"
+      },
+      {
+         "description" : "One of the essential chess assets that FIDE oversees is FIDE ratings. In the past decade, certain innovations have caused rating deflation, a concern that has been raised by professional players and mathematicians and did not go unnoticed by FIDE. The International Federation encourages the chess community to express their thoughts on this proposal and send them comments, suggestions, ideas, and mathematical calculations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-seeks-proposals-rating-changes",
+         "pubDate" : "Mon, 24 Jul 2023 06:30:00 +0100",
+         "title" : "FIDE seeks public discussion about proposed rating changes"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Gracy Prasanna talks to Cristian Chirila after defeating Atwell in the eighth round of the 2023 U.S. Girls' Junior Championship. 2023.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prasanna-just-glad-i-won-game-r8-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hs5cDPxTSY4.jpg?itok=5OD3-urr\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,12 +114,12 @@ news_feed (
          "title" : "Endgames from the Global Chess League (women's edition)"
       },
       {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
+         "description" : "World Chess Day is celebrated annually on July 20. It is the date when FIDE was founded, 99 years ago. The idea to celebrate this was proposed by UNESCO, and its purpose is to raise awareness of the game and its benefits (improving cognitive skills, problem-solving abilities, and strategic thinking). In an article in a German science portal mathematics professor Christian Hesse, who has written quite extensively about chess, tells us how chess offers a profound intellectual duel with a surprising thrill factor. | Image S&uuml;leyman Kayaalp",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Sun, 23 Jul 2023 22:30:00 +0100",
-         "title" : "Just an hour left! - Herman Grooten: Key concepts"
+         "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
+         "pubDate" : "Sun, 23 Jul 2023 20:05:00 +0100",
+         "title" : "Hesse on the World Chess Day"
       },
       {
          "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Bryan Adams",
@@ -106,14 +138,6 @@ news_feed (
          "title" : "Understanding before Moving 135: Chess history in a nutshell (17)"
       },
       {
-         "description" : "In the seventh round of the US Junior Championship played on Saturday, Arthur Guo (pictured) defeated Andrew Hong, who entered the round tied with him in first place. Since Abhimanyu Mishra, the third member of the former leading trio, had to settle for a draw against Justin Wang, Guo became the sole leader with two rounds to go. Melikset Khachiyan continues to lead the Seniors category, while Alice Lee extended her lead to a full point in the Girls' Championship. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r7",
-         "pubDate" : "Sun, 23 Jul 2023 14:55:00 +0100",
-         "title" : "US Juniors and Seniors: Lee, Guo and Khachiyan sole leaders"
-      },
-      {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -122,20 +146,12 @@ news_feed (
          "title" : "2023 Women's World Championship "
       },
       {
-         "description" : "World Chess Day is celebrated annually on July 20. It is the date when FIDE was founded, 99 years ago. The idea to celebrate this was proposed by UNESCO, and its purpose is to raise awareness of the game and its benefits (improving cognitive skills, problem-solving abilities, and strategic thinking). In an article in a German science portal mathematics professor Christian Hesse, who has written quite extensively about chess, tells us how chess offers a profound intellectual duel with a surprising thrill factor. | Image S&uuml;leyman Kayaalp",
+         "description" : "In the seventh round of the US Junior Championship played on Saturday, Arthur Guo (pictured) defeated Andrew Hong, who entered the round tied with him in first place. Since Abhimanyu Mishra, the third member of the former leading trio, had to settle for a draw against Justin Wang, Guo became the sole leader with two rounds to go. Melikset Khachiyan continues to lead the Seniors category, while Alice Lee extended her lead to a full point in the Girls' Championship. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
-         "pubDate" : "Sun, 23 Jul 2023 14:05:00 +0100",
-         "title" : "Hesse on the World Chess Day"
-      },
-      {
-         "description" : "Sunday is a rest day in the Grandmaster Triathlon, which has David Navara and Vincent Keymer sharing the lead with three rounds of classical chess left to go. The open events, however, are being played. Bu Xiangzhi is leading the standings in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r7",
          "pubDate" : "Sun, 23 Jul 2023 14:00:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
+         "title" : "US Juniors and Seniors: Lee, Guo and Khachiyan sole leaders"
       },
       {
          "description" : " The latest volume in my Chess Heroes series, designed to take students up to about 1500 strength, has just been published on Amazon. To refresh your memory about the structure, we start, if required, with an elementary book teaching the basics, which will take you up to about 500 strength. Then there are four parallel <a href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Puzzles Book 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\">Chess Heroes: Puzzles Book 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/national-women-2023-certificates/",
          "pubDate" : "Tue, 18 Jul 2023 08:31:27 +0000",
          "title" : "National Women 2023, Certificates."
-      },
-      {
-         "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beautiful-breakthroughs",
-         "pubDate" : "Tue, 18 Jul 2023 09:00:00 +0100",
-         "title" : "Beautiful breakthroughs"
       },
       {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/the-art-of-making-chess-art.html",
          "pubDate" : "Mon, 03 Jul 2023 13:06:00 +0000",
          "title" : "The art of making (chess) art"
-      },
-      {
-         "description" : "The European Corporate Chess Championship 2024,will be organized by Asniere Le Grand Echiquier under the auspices of the European Chess Union from 22-23 November 2024 in the City Hall of Asnieres sur Seine, Paris, France. The event will be played in 9 rounds, swiss system, with time control of 15 minutes for the whole game, plus 5 seconds of an increment starting from move one. The system of match points is as follows: a match won is worth 3 match []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-corporate-chess-championship-2024-in-paris-france/",
-         "pubDate" : "Mon, 03 Jul 2023 07:08:43 +0000",
-         "title" : "European Corporate Chess Championship 2024 in Paris, France"
       }
    ]
 }
