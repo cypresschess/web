@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop/",
+         "pubDate" : "Mon, 24 Jul 2023 08:30:50 +0000",
+         "title" : "AICF's Live Telecast Orientation Workshop"
+      },
+      {
          "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
          "pubDate" : "Mon, 24 Jul 2023 09:00:00 +0100",
          "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
-      },
-      {
-         "description" : "Herman Grooten is an International Master from the Netherlands, a renowned trainer with over 35 years of experience and the author of several highly acclaimed books about chess training and chess strategy. In our Summer Special this week you can get the full set for €59.90 - and save €20 in the deal. Don't miss out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts",
-         "pubDate" : "Mon, 24 Jul 2023 08:59:59 +0100",
-         "title" : "Herman Grooten: Key concepts"
       },
       {
          "description" : "European Chess Union is delighted to announce ESET, as a sponsor of European Youth Rapid and Blitz Chess Championship in Terme, Catez, Slovenia 27-30 September 2023.&#160; ESET will provide to ECU 144 pcs of ESET Internet Security Licenses (duration 1 year) and additionally free branded merch with ESET Slovenia branding (eg sunglasses, mouse pads), as prizes and gifts to the winners of the European Championship in Slovenia. The 144 pcs free software will be provided to the 6 winners of []",
@@ -550,7 +550,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/julius-baer-generation-cup-named-as-next-champions-chess-tour-event",
-         "pubDate" : "Thu, 20 Jul 2023 04:59:22 -0700",
+         "pubDate" : "Thu, 20 Jul 2023 04:59:00 -0700",
          "title" : "Julius Baer Generation Cup Named As Next Champions Chess Tour Event"
       },
       {
@@ -832,6 +832,14 @@ news_feed (
          "link" : "https://aicf.in/national-women-2023-certificates/",
          "pubDate" : "Tue, 18 Jul 2023 08:31:27 +0000",
          "title" : "National Women 2023, Certificates."
+      },
+      {
+         "description" : "Pawn majorities can be used to organize a breakthrough. In the diagram position it is Black to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beautiful-breakthroughs",
+         "pubDate" : "Tue, 18 Jul 2023 09:00:00 +0100",
+         "title" : "Beautiful breakthroughs"
       },
       {
          "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2510",
          "pubDate" : "Sun, 09 Jul 2023 21:39:54 +0000",
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
-      },
-      {
-         "description" : "Shri Prabhakar Timble as a presiding Officer conducted the election of Goa Chess Association for the post of President, Secretary, Treasurer and 2 joint Secretaries",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mahesh-candolkar-and-ashesh-keni-elected-as-president-and-secretary-of-goa-chess-association/",
-         "pubDate" : "Sun, 09 Jul 2023 17:37:29 +0000",
-         "title" : "Mahesh Candolkar and Ashesh Keni elected as President and Secretary of Goa Chess Association"
       },
       {
          "description" : "",
