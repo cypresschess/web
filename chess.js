@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Team Chess Championship 2023 opened yesterday in Iasi, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU Treasurer Ion-Serban Dobronauteanu, the Vice President of the Romanian Chess Federation Alin Berescu, the Secretary General of the Romanian Chess Federation Gabriel Grecescu, Tournament Director Elena Cristian and the Chief Arbiter of the event Dinu-Ioan Nicula. The event is played in two age categories: U12 and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2023-started-in-iasi-romania/",
+         "pubDate" : "Tue, 25 Jul 2023 15:21:46 +0000",
+         "title" : "European Youth Team Chess Championship 2023 started in Iasi, Romania"
+      },
+      {
+         "description" : " The 2023 ANU Open is returning to the Australian national university, after arranging a venue on campus. The new venue is in the centre of the ANU, right next to eateries, coffee shops and the ANU Bar. The updated details for the tournament are <br /> <b>ANU Open 2023</b> 28-30 July (One round Friday evening, three Saturday, two Sunday) Format: Open section and Under 1600 Section (ACF) Time control: 60m+30s inc (FIDE Rated except for players 2400+) Schedule: Round 1 Friday 28th 7PM, Round 2 Sat 29th 10am, Rd 3 2pm, Round 4, 6pm Round 5 Sun 30th 10am, Round 6 2pm Prize giving 6pm Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Free Prizes: $1000 1st Open, $400 1st Minor $3600 in total ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-aka-winter-cup-updated.html",
+         "pubDate" : "Tue, 25 Jul 2023 13:21:00 +0000",
+         "title" : "2023 ANU Open (AKA Winter Cup) - Updated Venue"
+      },
+      {
+         "description" : "The last three rounds of classical chess in the Grandmaster Triathlon are taking place from Monday to Wendesday in Biel. After six rounds, David Navara and Vincent Keymer are sharing the lead. With each win in the classical portion worth 4 points, it is all to play for in the Swiss bilingual city. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Tue, 25 Jul 2023 14:00:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2543",
+         "pubDate" : "Tue, 25 Jul 2023 09:58:13 +0000",
+         "title" : "Grand Swiss and Women's Grand Swiss 2023: preliminary lineups and World Cup passes"
+      },
+      {
          "description" : "From 26th to 28th of August 2023, the German city of D&uuml;sseldorf will host a unique competition - the first World Team Rapid Chess Championship, organized by FIDE in partnership with WR Logistics GmbH. 43 teams from all over the world will compete for a €250,000 prize fund, and the best team will receive the first prize of €100,000. Participants include former world champions Viswanathan Anand, Vladimir Kramnik, Hou Yifan, Alexandra Kosteniuk, Mariya Muzychuk, as well as Ian Nepomniachtchi, Fabiano Caruana, Boris Gelfand, Levon Aronian, Peter Svidler, Jan-Krzysztof Duda Nodirbek Abdusattorov and Daniil Dubov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +50,20 @@ news_feed (
          "title" : "The stalemate cage"
       },
       {
+         "description" : "Defending champion Le Quang Liem took the lead at the Grandmaster Triathlon in after convincingly beating top seed Yu Yangyi with the black pieces. Le was the top scorer in classical chess last year, and is again impressing in that discipline this time around. The Vietnamese grandmaster has won four out of five classical games so far, two of them with the black pieces. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-r5",
+         "pubDate" : "Tue, 25 Jul 2023 08:55:00 +0100",
+         "title" : "Biel: Le wins again, grabs the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2543",
-         "pubDate" : "Tue, 25 Jul 2023 04:58:13 +0000",
-         "title" : "Grand Swiss and Women's Grand Swiss 2023: preliminary lineups and World Cup passes"
+         "link" : "https://www.fide.com/news/2544",
+         "pubDate" : "Tue, 25 Jul 2023 06:52:56 +0000",
+         "title" : "US Senior and Juniors' Championship 2023: Khachiyan, Mishra and Lee win titles"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Mangalam in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-win-means-lot-me-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E5ZJvz9mm6I.jpg?itok=mwKTXqWM\" alt=\"\" /></a></div>",
@@ -114,6 +154,14 @@ news_feed (
          "title" : "PogChamps 5 Lineup Revealed Feat. xQc, Tyler1, QTCinderella And More, Action Starts July 26"
       },
       {
+         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
+         "pubDate" : "Mon, 24 Jul 2023 22:05:00 +0100",
+         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
+      },
+      {
          "description" : "In the current issue of his column in Zeit Magazin, Helmut Pfleger reports on the rediscovery of Zukertort's grave. In 1886, Wilhelm Steinitz and Johannes Zukertort set in motion a tradition with their match for the world championship, a tradition that continues to this day. Zukertort's grave in London's Brompton Cemetery, however, was lost and forgotten. It has been found and restored.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
          "pubDate" : "Mon, 24 Jul 2023 20:00:00 +0100",
          "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Mon, 24 Jul 2023 17:30:00 +0100",
-         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, where there was no lack of instructive ending positions! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-seeks-proposals-rating-changes",
          "pubDate" : "Mon, 24 Jul 2023 06:30:00 +0100",
          "title" : "FIDE seeks public discussion about proposed rating changes"
-      },
-      {
-         "description" : "The last three rounds of classical chess in the Grandmaster Triathlon are taking place from Monday to Wendesday in Biel. After six rounds, David Navara and Vincent Keymer are sharing the lead. With each win in the classical portion worth 4 points, it is all to play for in the Swiss bilingual city. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Mon, 24 Jul 2023 06:25:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious, with Jonas Buhl Bjerre scoring the deciding win in an exciting tiebreaker. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here five instructive endings, all featuring women players! | Pictured: Nino Batsaishvili. | Photo: Maria Emelianova",
@@ -744,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-577-abdulla-van-delft",
          "pubDate" : "Wed, 19 Jul 2023 18:30:00 +0100",
          "title" : "Game of the Week #577: M. Abdulla vs M. Van Delft"
-      },
-      {
-         "description" : "At the US Junior Championships in Saint Louis, some of the youngest players in the fields (open and girls') are showing remarkable performances. Alice Lee (photo), aged 13, took the lead in the girls' tournament, while Abhimnyu Mishra, aged 14, dethroned former leader Andrew Hong in the open. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r4",
-         "pubDate" : "Wed, 19 Jul 2023 18:15:00 +0100",
-         "title" : "US Juniors: The youngest on top"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101965825.cms\" />In a remarkable achievement, 17-year-old Indian Grandmaster R Praggnanandhaa emerged as the champion in the V Geza Hetenyi Memorial Super GM chess tournament 2023 held in Budapest, Hungary.",
@@ -1570,44 +1594,12 @@ news_feed (
          "title" : "World Schools Team Championship 2023: Registration deadline extended"
       },
       {
-         "description" : "The 2023 FIDE Women's World Championship Match opened yesterday in Shanghai, China and will be played from 4-24 July in two cities: Shanghai and Chongquing. The match is played between Ju Wenjun, the defending Champion, and Lei Tingjie, the Challenger. The match will be played in 12 rounds, and the first player to reach 6.5 points will be crowned as the 2023 FIDE Women's World Chess Champion. The time control for each game is 90 minutes for the first 40 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-womens-world-championship-match-2023-starts-in-china/",
-         "pubDate" : "Wed, 05 Jul 2023 07:08:48 +0000",
-         "title" : "FIDE Women's World Championship Match 2023 starts in China"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2495",
          "pubDate" : "Tue, 04 Jul 2023 15:39:19 +0000",
          "title" : "2023 FIDE World Cup: Players lists and pairings announced"
-      },
-      {
-         "description" : "Tony Ballard is a Kansas prison inmate who turned a 25-year sentence into a passion for chess. He used the game to teach other inmates critical-thinking skills, and became the Director of Prison Outreach. Tony partnered with The Gift of Chess, an initiative that is set to distribute one million chess sets all over the world by 2030. To date they have manufactured over 80,000, sending most to African nations. Read this report and prepare to be inspired.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tony-ballard",
-         "pubDate" : "Tue, 04 Jul 2023 15:00:00 +0100",
-         "title" : "Tony Ballard and the Gift of Chess"
-      },
-      {
-         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3NjoYIpYnUI5JT2CHUJ1rVmsQVqSzw_R9ZyNs0j_7ZWnFaadngRihfBSrCjG9TvhnS4EMv2--bxCfxpTxtRM6M3xwXPqlV9jPg2DQbBMdbkeMHHpcgK5xX5P7y-6lYWwWuGSws8MUY0rzbJ-U-Xz-69Zzdpsp673qLHFxFg5-d3Rg4y37-cFBw_2cyg/s680/nemhos.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3NjoYIpYnUI5JT2CHUJ1rVmsQVqSzw_R9ZyNs0j_7ZWnFaadngRihfBSrCjG9T",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/taking-only-chance.html",
-         "pubDate" : "Tue, 04 Jul 2023 13:28:00 +0000",
-         "title" : "Taking the only chance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2492",
-         "pubDate" : "Tue, 04 Jul 2023 12:00:09 +0000",
-         "title" : "FIDE distributes €25,000 among chess veterans"
       }
    ]
 }
