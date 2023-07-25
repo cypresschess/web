@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 26th to 28th of August 2023, the German city of D&uuml;sseldorf will host a unique competition - the first World Team Rapid Chess Championship, organized by FIDE in partnership with WR Logistics GmbH. 43 teams from all over the world will compete for a €250,000 prize fund, and the best team will receive the first prize of €100,000. Participants include former world champions Viswanathan Anand, Vladimir Kramnik, Hou Yifan, Alexandra Kosteniuk, Mariya Muzychuk, as well as Ian Nepomniachtchi, Fabiano Caruana, Boris Gelfand, Levon Aronian, Peter Svidler, Jan-Krzysztof Duda Nodirbek Abdusattorov and Daniil Dubov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/star-studded-world-team-rapid-chess-championship",
+         "pubDate" : "Tue, 25 Jul 2023 10:00:00 +0100",
+         "title" : "Star-studded World Team Rapid Chess Championship"
+      },
+      {
          "description" : "Endings with opposite coloured bishops have large drawish tendencies. But in the diagram position it is White to move and win. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-stalemate-cage",
          "pubDate" : "Tue, 25 Jul 2023 09:00:00 +0100",
          "title" : "The stalemate cage"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2543",
+         "pubDate" : "Tue, 25 Jul 2023 04:58:13 +0000",
+         "title" : "Grand Swiss and Women's Grand Swiss 2023: preliminary lineups and World Cup passes"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Mangalam in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-win-means-lot-me-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E5ZJvz9mm6I.jpg?itok=mwKTXqWM\" alt=\"\" /></a></div>",
@@ -394,6 +410,14 @@ news_feed (
          "title" : "How To Find A Plan In Chess Endgames"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2538",
+         "pubDate" : "Sat, 22 Jul 2023 11:21:42 +0000",
+         "title" : "FIDE seeks public discussion about proposed rating changes"
+      },
+      {
          "description" : "The European Youth Team Chess Championship 2023 will kick off this Monday, and will be played from 24th-30th July in Iasi, Romania. The event will be played in two age categories: U12 and U18, open and girls sections separately. Each team in the Open sections are composed of four players and one reserve, and the teams in the girls' competitions are composed of two players and one reserve. The Championships will be played in 7 rounds, swiss system, with a []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/turkish-super-league-2023",
          "pubDate" : "Fri, 21 Jul 2023 20:10:00 +0100",
          "title" : "Gukesh outstanding at the Turkish Super League, reaches 2750"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2538",
-         "pubDate" : "Fri, 21 Jul 2023 15:21:42 +0000",
-         "title" : "FIDE seeks public discussion about proposed rating changes"
       },
       {
          "description" : "Women&#39;s World Champion Ju Wenjun attacked with the black pieces in Game 11 of the 2023 FIDE Women&#39;s World Championship, but a creative king march saved the day for GM Lei Tingjie, leaving the scores tied at 5.5-5.5 going into the final classical g...",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/the-round-robin.html",
          "pubDate" : "Wed, 19 Jul 2023 14:30:00 +0000",
          "title" : "The Round Robin"
-      },
-      {
-         "description" : "I bought an airplane ticket for the same July 13th flight that my husband Doug took to St. Louis for the 2023 U.S. Senior Championship. But I didn't join Doug on that flight. 'Chess' (the musical) was in St. Louis and my son William wanted to see it. | Photo: Municipal Theatre Association of St. Louis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-the-musical-1990-versus-2023",
-         "pubDate" : "Wed, 19 Jul 2023 15:00:00 +0100",
-         "title" : "Chess (the musical): 1990 versus 2023"
       },
       {
          "description" : "Challenger GM Lei Tingjie briefly threatened to take over in game 10 of the 2023 FIDE Women&#39;s World Championship, but defending champion GM Ju Wenjun &#34;took back&#34; a questionable move and soon even had a nominal advantage before the game fizzled out...",
@@ -1600,22 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2492",
          "pubDate" : "Tue, 04 Jul 2023 12:00:09 +0000",
          "title" : "FIDE distributes €25,000 among chess veterans"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2494",
-         "pubDate" : "Tue, 04 Jul 2023 11:58:15 +0000",
-         "title" : "FIDE Women's World Championship Match 2023 commences in Shanghai"
-      },
-      {
-         "description" : " &#8220;In theory there is no difference between theory and practice. In practice there is.&#8221; Yogi Berra These days playing online requires at minimum basic knowledge of your opening choice. First of all it is not that hard to learn a couple of important ideas. Secondly, there are countless choices where you can find them; even <a href=\"https://chessimprover.com/opening-blunders-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Blunders (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-blunders-2/\">Opening Blunders (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/opening-blunders-2/",
-         "pubDate" : "Tue, 04 Jul 2023 09:00:42 +0000",
-         "title" : "Opening Blunders (2)"
       }
    ]
 }
