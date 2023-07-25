@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-1",
+         "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
+         "title" : "2023 Summer Chess Classic: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Cristian Chirila after a draw with Shabalov in the ninth round of the 2023 U.S. Senior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-my-first-national-championship-r9-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_urkRjyeIvY.jpg?itok=sj9faMUK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khachiyan-my-first-national-championship-r9-usseniorschess",
+         "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
+         "title" : "Khachiyan: My First National Championship! | R9 #USSeniorsChess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Cristian Chirila during the ninth round of the 2023 U.S. Junior &amp; U.S. Senior Championships. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-club%E2%80%99s-15th-anniversary-r9-usjuniorschess-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kDhdMo5MeCU.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-club%E2%80%99s-15th-anniversary-r9-usjuniorschess-usseniorschess",
+         "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
+         "title" : "Rex Sinquefield on Club's 15th Anniversary | R9 #USJuniorsChess #USSeniorsChess"
+      },
+      {
          "description" : "The wait is nearly over&#38;mdash;PogChamps 5 is about to kick off, and now Chess.com can reveal its sparkling line-up for the most exciting amateur event in chess. The two-week tournament starting on July 26 at 4 p.m. ET/21:00 CEST,&#38;nbsp;will feature...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-line-up-revealed-16-amazing-names",
-         "pubDate" : "Mon, 24 Jul 2023 14:46:38 -0700",
+         "pubDate" : "Mon, 24 Jul 2023 14:46:00 -0700",
          "title" : "PogChamps 5 Lineup Revealed Feat. xQc, Tyler1, QTCinderella And More, Action Starts July 26"
       },
       {
@@ -218,22 +242,6 @@ news_feed (
          "title" : "Kelsey Liu: Shouldn't Be Disappointed | R8 #USJuniorsChess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Cristian Chirila after defeating Arthur Xu in the eighth round of the 2023 U.S. Junior Championship. 2023.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-his-post-game-analysis-method-r8-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PjI2iNPqnCg.jpg?itok=v9DNckWO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-his-post-game-analysis-method-r8-usjuniorschess",
-         "pubDate" : "Sun, 23 Jul 2023 23:46:04 +0000",
-         "title" : "Mishra & His Post-Game Analysis Method | R8 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Cristian Chirila after defeating Stearman in the eighth round of the 2023 U.S. Junior Championship. 2023.07.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hong-refuses-settle-draw-vs-josiah-r8-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RWuHFtZxmt4.jpg?itok=35T-ABeJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hong-refuses-settle-draw-vs-josiah-r8-usjuniorschess",
-         "pubDate" : "Sun, 23 Jul 2023 23:46:04 +0000",
-         "title" : "Hong Refuses to Settle for a Draw vs. Josiah | R8 #USJuniorsChess"
-      },
-      {
          "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious, with Jonas Buhl Bjerre scoring the deciding win in an exciting tiebreaker. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here five instructive endings, all featuring women players! | Pictured: Nino Batsaishvili. | Photo: Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,14 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/andorra-open-2023/",
          "pubDate" : "Sun, 23 Jul 2023 03:17:00 +0000",
          "title" : "Andorra Open 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gregory Kaidanov talks to Cristian Chirila after a draw with Khachiyan in the seventh round of the 2023 U.S. Senior Championship. 2023.07.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kaidanov-melik-so-far-ahead-r7-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uZrkaSNMyW8.jpg?itok=7qTTGaDQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kaidanov-melik-so-far-ahead-r7-usseniorschess",
-         "pubDate" : "Sun, 23 Jul 2023 02:45:01 +0000",
-         "title" : "Kaidanov: Melik is so Far Ahead | R7 #USSeniorsChess"
       },
       {
          "description" : "Three things in life seem to be a surety: death, taxes, and GM Hikaru Nakamura winning the $400 first prize in Bullet Brawl. Hours after securing victory for the fourth time in Chess.com&#39;s Bullet Chess Championship, Nakamura was back online again,...",
