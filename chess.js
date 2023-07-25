@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana, Amin Tabatabaei, and Pavel Eljanov emerged victorious in the 2023 Julius Baer Generation Cup Play-in on Tuesday. They will join GMs Magnus Carlsen, Wesley So, Nodirbek Abdusattorov, and Denis Lazavik, who claimed their spots i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-julius-baer-generation-cup-play-in-caruana-tabatabaei-eljanov",
+         "pubDate" : "Tue, 25 Jul 2023 15:24:00 -0700",
+         "title" : "Caruana Storms Back To Division I After Armageddon Win Vs. Dreev"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The U.S. Junior, U.S. Senior, and U.S. Girls&#039; Junior Championships are over. Abhi Mishra, Melik Khachiyan, and Alice Lee won the events respectively at the World Chess Hall of Fame. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-recap\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/clSGWRI2GSY.jpg?itok=uqnyrzDF\" alt=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-recap",
+         "pubDate" : "Tue, 25 Jul 2023 20:47:45 +0000",
+         "title" : "2023 U.S. Junior & U.S. Senior Championships | RECAP"
+      },
+      {
          "description" : "The closing ceremony of the Women's World Championship match was held at the grand hall of the Changshou District Office Service Centre, the same venue where just two days earlier, Ju Wenjun defeated challenger Lei Tingjie in the crucial twelfth game of the match. \"There are many memorable moments, and this is one of them\", said the world champion. | Photo: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/khachiyan-my-first-national-championship-r9-usseniorschess",
          "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
          "title" : "Khachiyan: My First National Championship! | R9 #USSeniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Cristian Chirila during the ninth round of the 2023 U.S. Junior &amp; U.S. Senior Championships. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-club%E2%80%99s-15th-anniversary-r9-usjuniorschess-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kDhdMo5MeCU.jp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-club%E2%80%99s-15th-anniversary-r9-usjuniorschess-usseniorschess",
-         "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
-         "title" : "Rex Sinquefield on Club's 15th Anniversary | R9 #USJuniorsChess #USSeniorsChess"
       },
       {
          "description" : "The wait is nearly over&#38;mdash;PogChamps 5 is about to kick off, and now Chess.com can reveal its sparkling line-up for the most exciting amateur event in chess. The two-week tournament starting on July 26 at 4 p.m. ET/21:00 CEST,&#38;nbsp;will feature...",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-started-in-swidnica-poland/",
          "pubDate" : "Fri, 14 Jul 2023 20:38:27 +0000",
          "title" : "European Senior Team Chess Championship 2023 started in Swidnica, Poland"
-      },
-      {
-         "description" : "GM Magnus Carlsen defeated GM Wesley So in the Division I Grand Final to clinch the Champions Chess Tour Aimchess Rapid 2023. After a 2-0 start by Carlsen, So made a stunning comeback by winning on demand with Black. In game four, Carlsen combined...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-5",
-         "pubDate" : "Fri, 14 Jul 2023 12:19:00 -0700",
-         "title" : "Carlsen Prevails vs. So, Winning Streak Grows With Aimchess Rapid"
       },
       {
          "description" : " Last week, we talked about a few ideas to keep in mind while beginning your studies of the endgame. This week, we'll start delving deeper into one of those ideas, pawn structure. If you're wondering just how important pawns and pawn structure are in chess, do an online search of books written about pawns and <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-eight/\">A Foundation for Beginners Ninety Eight</a> appeared first on <a rel=\"nofollow\" href=\"http",
