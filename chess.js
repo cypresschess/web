@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The closing ceremony of the Women's World Championship match was held at the grand hall of the Changshou District Office Service Centre, the same venue where just two days earlier, Ju Wenjun defeated challenger Lei Tingjie in the crucial twelfth game of the match. \"There are many memorable moments, and this is one of them\", said the world champion. | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ju-wenjun-world-championship-2023-closing",
+         "pubDate" : "Tue, 25 Jul 2023 21:00:00 +0100",
+         "title" : "Ju Wenjun crowned with her fourth women's world champion title"
+      },
+      {
+         "description" : "GM Melikset Khachiyan won the 2023 U.S. Senior Chess Championship, IM-elect&#38;nbsp;Alice Lee won the 2023 Girls&#39; Junior Chess Championship, and GM Abhimanyu Mishra won the 2023 U.S. Junior Chess Championship. Khachiyan and Lee clinched their first n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-national-championships-khachiyan-lee-mishra-win",
+         "pubDate" : "Tue, 25 Jul 2023 11:14:00 -0700",
+         "title" : "Khachiyan, Lee, Mishra Win National Titles In St. Louis"
+      },
+      {
+         "description" : "Melikset Khachiyan and Alice Lee won the US Senior US Girls' Championship with a round, which meant only one champion remained to be decided in Saint Louis. Going into the Junior Championship's final round, Arthur Guo and Abhimanyu were tied for first place. Guo lost his game in the final round, allowing Abhimanyu to be crowned as the national champion in his category. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r9",
+         "pubDate" : "Tue, 25 Jul 2023 18:00:00 +0100",
+         "title" : "Abhimanyu Mishra is the 2023 US Junior Champion"
+      },
+      {
+         "description" : "Jaylen Brown, the two-time All-Star for the Boston Celtics, is the latest star to join our ever-growing team of athletes and sports figures that you can tip off with at our bots page. Play the bot today! Chess.com is also collaborating with Brow...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-nba-all-star-jaylen-brown",
+         "pubDate" : "Tue, 25 Jul 2023 08:59:33 -0700",
+         "title" : "Play Chess Against NBA All-Star Jaylen Brown"
+      },
+      {
+         "description" : " &#8220;Errare humanum est&#8221; Seneca Last week we went over a bad sequence for White in one of our friendly voting games. You can read it again here. We stopped at our king move below: It was our turn to have a bad idea. After reviewing the discussions we had, I noticed we covered extensively just two <a href=\"https://chessimprover.com/bad-ideas-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-9/\">Bad Ideas (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/bad-ideas-9/",
+         "pubDate" : "Tue, 25 Jul 2023 15:41:19 +0000",
+         "title" : "Bad Ideas (9)"
+      },
+      {
          "description" : "The European Youth Team Chess Championship 2023 opened yesterday in Iasi, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU Treasurer Ion-Serban Dobronauteanu, the Vice President of the Romanian Chess Federation Alin Berescu, the Secretary General of the Romanian Chess Federation Gabriel Grecescu, Tournament Director Elena Cristian and the Chief Arbiter of the event Dinu-Ioan Nicula. The event is played in two age categories: U12 and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-aka-winter-cup-updated.html",
          "pubDate" : "Tue, 25 Jul 2023 13:21:00 +0000",
          "title" : "2023 ANU Open (AKA Winter Cup) - Updated Venue"
-      },
-      {
-         "description" : "The last three rounds of classical chess in the Grandmaster Triathlon are taking place from Monday to Wendesday in Biel. After six rounds, David Navara and Vincent Keymer are sharing the lead. With each win in the classical portion worth 4 points, it is all to play for in the Swiss bilingual city. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Tue, 25 Jul 2023 14:00:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "The stalemate cage"
       },
       {
+         "description" : "The last three rounds of classical chess in the Grandmaster Triathlon are taking place from Monday to Wendesday in Biel. After six rounds, David Navara and Vincent Keymer are sharing the lead. With each win in the classical portion worth 4 points, it is all to play for in the Swiss bilingual city. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Tue, 25 Jul 2023 08:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "Defending champion Le Quang Liem took the lead at the Grandmaster Triathlon in after convincingly beating top seed Yu Yangyi with the black pieces. Le was the top scorer in classical chess last year, and is again impressing in that discipline this time around. The Vietnamese grandmaster has won four out of five classical games so far, two of them with the black pieces. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +98,28 @@ news_feed (
          "title" : "Biel: Le wins again, grabs the lead"
       },
       {
+         "description" : "The Tabiya Alcoy Masters is taking place from 24-30 July 2023 in Alcoy, Spain. Players receive 90 minutes plus 30 seconds per move starting from move 1. It is a 9-round Robin tournament with participation of Eric Sos Andreu, H James Plaskett,&#xA0;Dexter Docampo Beltran, Antonio Granero Roca, Felix-Antonio Ilinca, Diego Del Rey, Rene Marcial &#xA0;Alonso []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tabiya-alcoy-masters-2023-live/",
+         "pubDate" : "Tue, 25 Jul 2023 07:17:00 +0000",
+         "title" : "Tabiya Alcoy Masters 2023 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2544",
          "pubDate" : "Tue, 25 Jul 2023 06:52:56 +0000",
          "title" : "US Senior and Juniors' Championship 2023: Khachiyan, Mishra and Lee win titles"
+      },
+      {
+         "description" : "The Tabiya Alcoy Masters is taking place from 24-30 July 2023 in Alcoy, Spain. Players receive 90 minutes plus 30 seconds per move starting from move 1. It is a 9-round Robin tournament. Chessdom.com will daily follow the live games. Parallel : Biel Chess Festival MTO 2023 / Biel GM Triathlon 2023 / Swiss Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tabiya-alcoy-masters-2023/",
+         "pubDate" : "Tue, 25 Jul 2023 06:50:00 +0000",
+         "title" : "Tabiya Alcoy Masters 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Mangalam in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-win-means-lot-me-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E5ZJvz9mm6I.jpg?itok=mwKTXqWM\" alt=\"\" /></a></div>",
@@ -170,12 +226,28 @@ news_feed (
          "title" : "Zukertort's grave discovered"
       },
       {
-         "description" : "Top American junior and senior chess players return to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - compete for more than $130,000 in prizes. Follow the games live with expert commentary by Yasser Seirawan, Cristian Chirila and Katerina Nemcova, starting at 20.00 CEST (14.00 ET, 23.30 IST) | Photo: Crystal Fuller",
+         "description" : "The Sitges Open is taking place from 22&#x2013;30 July 2023 in Sitges, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tim Janzelj, Alexander Kovchan, Dylan Isidro Berdayes Ason, Robert Aloma Vidal, Rokas Klabis, Brian Sebasti Escalante Ramirez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sitges-open-2023-live/",
+         "pubDate" : "Mon, 24 Jul 2023 19:13:00 +0000",
+         "title" : "Sitges Open 2023 - LIVE"
+      },
+      {
+         "description" : "Top American junior and senior chess players returned to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - competed for more than $130,000 in prizes. Replay all the games with computer-assisted analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
          "pubDate" : "Mon, 24 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Live!"
+         "title" : "US Senior and Junior Championships - Games and standings"
+      },
+      {
+         "description" : "The Sitges Open is taking place from 22&#x2013;30 July 2023 in Sitges, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tim Janzelj, Alexander Kovchan, Dylan Isidro Berdayes Ason, Robert Aloma Vidal, Rokas Klabis, Brian Sebasti Escalante Ramirez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sitges-open-2023/",
+         "pubDate" : "Mon, 24 Jul 2023 18:41:00 +0000",
+         "title" : "Sitges Open 2023"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, where there was no lack of instructive ending positions! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -344,38 +416,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-puzzles-book-1/",
          "pubDate" : "Sun, 23 Jul 2023 12:19:45 +0000",
          "title" : "Chess Heroes: Puzzles Book 1"
-      },
-      {
-         "description" : "The Czech Open Pardubice is taking place from 21&#x2013;29 July 2023 in Pardubice. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Sergei Movsesian, G.N. Gopal, Jesper Sondergaard Thybo, Babu M []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-open-pardubice-2023-live/",
-         "pubDate" : "Sun, 23 Jul 2023 05:55:00 +0000",
-         "title" : "Czech Open Pardubice 2023 - LIVE"
-      },
-      {
-         "description" : "The Czech Open Pardubice is taking place from 21&#x2013;29 July 2023 in Pardubice. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Sergei Movsesian, G.N. Gopal, Jesper Sondergaard Thybo, Babu M []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-open-pardubice-2023/",
-         "pubDate" : "Sun, 23 Jul 2023 05:24:00 +0000",
-         "title" : "Czech Open Pardubice 2023"
-      },
-      {
-         "description" : "The Andorra Open is taking place from 22&#x2013;30 July 2023 in Andorra. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Johan-Sebastian Christiansen, Platon Galperin, Allan Stig Rasmussen, Jaime Alexander Cuartas, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andorra-open-2023-live/",
-         "pubDate" : "Sun, 23 Jul 2023 03:45:00 +0000",
-         "title" : "Andorra Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Andorra Open is taking place from 22&#x2013;30 July 2023 in Andorra. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Johan-Sebastian Christiansen, Platon Galperin, Allan Stig Rasmussen, Jaime Alexander Cuartas, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andorra-open-2023/",
-         "pubDate" : "Sun, 23 Jul 2023 03:17:00 +0000",
-         "title" : "Andorra Open 2023"
       },
       {
          "description" : "Three things in life seem to be a surety: death, taxes, and GM Hikaru Nakamura winning the $400 first prize in Bullet Brawl. Hours after securing victory for the fourth time in Chess.com&#39;s Bullet Chess Championship, Nakamura was back online again,...",
@@ -714,14 +754,6 @@ news_feed (
          "title" : "Women's World Championship: The calm before the storm?"
       },
       {
-         "description" : "Le Quang Liem was the only player to score a victory in the second round of classical games at the Grandmaster Triathlon in Biel. Meanwhile, sole leader David Navara successfully defended an outstanding endgame with rook and pawn against six pawns in his game against Arjun Erigaisi. Le is now sharing second place with Vincent Keymer. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r2",
-         "pubDate" : "Thu, 20 Jul 2023 02:20:00 +0100",
-         "title" : "Biel: Le back in the race"
-      },
-      {
          "description" : " Today (July 20th) is International Chess Day. This attracted the attention of the Canberra Times newspaper, and they did a feature story, with photo's, on the after school chess program at Kaleen Primary school (NB I am one of the coaches for this program). Interestingly, this is the same Canberra Times who just three weeks ago canned the weekly chess column that had been running for over 50 years. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -768,14 +800,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-3",
          "pubDate" : "Wed, 19 Jul 2023 11:16:00 -0700",
          "title" : "Firouzja Outshines Carlsen: 'I Saw Myself As The Favorite'"
-      },
-      {
-         "description" : "In his Game of the Week show #577, Merijn van Delft shares one of his games from the Science Park Tournament in Amsterdam. He and Murad Abdulla fought in a remarkably imbalanced position! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-577-abdulla-van-delft",
-         "pubDate" : "Wed, 19 Jul 2023 18:30:00 +0100",
-         "title" : "Game of the Week #577: M. Abdulla vs M. Van Delft"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101965825.cms\" />In a remarkable achievement, 17-year-old Indian Grandmaster R Praggnanandhaa emerged as the champion in the V Geza Hetenyi Memorial Super GM chess tournament 2023 held in Budapest, Hungary.",
@@ -1112,22 +1136,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/14/magnus-carlsen-hits-two-maximums-as-carefree-world-no-1-continues-his-surge",
          "pubDate" : "Fri, 14 Jul 2023 07:00:04 +0000",
          "title" : "Magnus Carlsen hits two maximums as carefree world No 1 continues his surge"
-      },
-      {
-         "description" : "GM Wesley So has emerged out of the Losers Bracket victorious and will challenge GM Magnus Carlsen for the Division I Grand Final of the Champions Chess Tour Aimchess Rapid 2023. In a sacrifice-loaded match vs. GM Eduardo Iturrizaga, the America...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-aimchess-rapid-ko-day-4",
-         "pubDate" : "Thu, 13 Jul 2023 18:31:00 -0700",
-         "title" : "So Advances To Challenge Carlsen"
-      },
-      {
-         "description" : "Torch is a brand-new chess engine built from the ground up by top chess engine developers. The team is composed of: Andrew Grant (Ethereal), Finn Eggers &#38;amp; Kim K&#38;aring;hre (Koivisto), Jay Honnold (Berserk), and Michael Whiteley &#38;amp; Dietrich K...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/torch-chess-engine",
-         "pubDate" : "Thu, 13 Jul 2023 18:17:00 -0700",
-         "title" : "Announcing Torch: New #2 Chess Engine"
       },
       {
          "description" : "",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2496",
          "pubDate" : "Wed, 05 Jul 2023 12:37:02 +0000",
          "title" : "World Schools Team Championship 2023: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2495",
-         "pubDate" : "Tue, 04 Jul 2023 15:39:19 +0000",
-         "title" : "2023 FIDE World Cup: Players lists and pairings announced"
       }
    ]
 }
