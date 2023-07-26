@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura has had great success on the chess board recently, but everything appears to work out off the board as well. The world number-two confirmed to Chess.com that he married WGM Atousa Pourkashiyan. The chess world&#39;s newest super-c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-finds-his-queen-marries-pourkashiyan",
+         "pubDate" : "Wed, 26 Jul 2023 10:15:00 -0700",
+         "title" : "Hikaru Nakamura Finds His Queen, Marries Atousa Pourkashiyan"
+      },
+      {
+         "description" : "In his Game of the Week show #578, Merijn van Delft goes over a game that was as relevant theoretically as it was entertaining: a Sicilian Najdorf played by Arjun Erigaisi and David Navara in Biel! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-578-erigaisi-navara",
+         "pubDate" : "Wed, 26 Jul 2023 18:15:00 +0100",
+         "title" : "Game of the Week #578: A. Erigaisi vs D. Navara"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102147179.cms\" />Aditya S Samant, a 17-year-old chess prodigy from Maharashtra, achieved a momentous milestone by becoming India's 83rd chess Grandmaster on Wednesday. Prior to this achievement, he held the title of International Master.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-samant-becomes-indias-83rd-chess-grandmaster/articleshow/102147179.cms",
+         "pubDate" : "Wed, 26 Jul 2023 16:26:55 +0000",
+         "title" : "Aditya Samant becomes India's 83rd chess Grandmaster"
+      },
+      {
          "description" : "All eyes are on Baku as the chess elite descends on Azerbaijan for the World Cup. The event will feature an unprecedented prize fund of 2.5 million US dollars. For the first time, the top three players from both the Open and the Women's section, which will be held together at the same time, will qualify for the Candidates tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/azerbaijan-fide-world-cup",
          "pubDate" : "Wed, 26 Jul 2023 17:00:00 +0100",
          "title" : "Azerbaijan FIDE World Cup"
+      },
+      {
+         "description" : "On July 25, GM Maxime Vachier-Lagrave became the third player to win both ends of a Titled Tuesday, after GM Hikaru Nakamura (who has done it five times) and GM Wesley So. Nakamura himself prevented Vachier-Lagrave from joining him and GM Magnus C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-25-2023",
+         "pubDate" : "Wed, 26 Jul 2023 08:44:43 -0700",
+         "title" : "Vachier-Lagrave Sweeps Into Titled Tuesday, Wins Both Events"
+      },
+      {
+         "description" : "On Friday, the FIDE Qualification Commission and mathematician Jeff Sonas proposed several changes to the rating system aimed at counteracting deflation―so that FIDE ratings more accurately represent players&#39; strength. The commission is opening ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-mathematician-proposes-changes-to-improve-rating-accuracy",
+         "pubDate" : "Wed, 26 Jul 2023 08:35:00 -0700",
+         "title" : "FIDE Mathematician Proposes Changes To Improve Rating Accuracy"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102146065.cms\" />Spain on Wednesday announced that Sarasadat Khademalsharieh, an Iranian chess player who relocated to Spain in January, has been granted Spanish citizenship.",
@@ -34,6 +74,22 @@ news_feed (
          "title" : "Call of Interest for Arbiters in World Events 2024-2025"
       },
       {
+         "description" : "In a study just released, chess was shown to be one of the most useful strategies in helping to prevent dementia. The study followed over 10 thousand senior Australians and their habits, and spanned 10 years. The conclusion was that chess permitted 'higher efficiency in using brain networks'. Read on and watch the video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-shows-chess-is-a-powerful-tool-against-dementia-video",
+         "pubDate" : "Wed, 26 Jul 2023 14:10:00 +0100",
+         "title" : "Study shows chess is a powerful tool against dementia (video)"
+      },
+      {
+         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
+         "pubDate" : "Wed, 26 Jul 2023 14:05:00 +0100",
+         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
+      },
+      {
          "description" : "Going into the final round of the Grandmaster Triathlon, three players still have chances to win the event: Vincent Keymer, the sole leader, Le Quang Liem and David Navara. Two rounds are still left to go in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +112,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-tejas-tiwari-the-youngest-fide-rated-player-in-the-world/",
          "pubDate" : "Wed, 26 Jul 2023 10:48:46 +0000",
          "title" : "Congratulations Tejas Tiwari - The youngest FIDE Rated player in the World"
-      },
-      {
-         "description" : "In a study just released, chess was shown to be one of the most useful strategies in helping to prevent dementia. The study followed over 10 thousand senior Australians and their habits, and spanned 10 years. The conclusion was that chess permitted 'higher efficiency in using brain networks'. Read on and watch the video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-shows-chess-is-a-powerful-tool-against-dementia-video",
-         "pubDate" : "Wed, 26 Jul 2023 09:00:00 +0100",
-         "title" : "Study shows chess is a powerful tool against dementia (video)"
       },
       {
          "description" : "",
@@ -296,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-line-up-revealed-16-amazing-names",
          "pubDate" : "Mon, 24 Jul 2023 14:46:00 -0700",
          "title" : "PogChamps 5 Lineup Revealed Feat. xQc, Tyler1, QTCinderella And More, Action Starts July 26"
-      },
-      {
-         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Mon, 24 Jul 2023 22:05:00 +0100",
-         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
       },
       {
          "description" : "In the current issue of his column in Zeit Magazin, Helmut Pfleger reports on the rediscovery of Zukertort's grave. In 1886, Wilhelm Steinitz and Johannes Zukertort set in motion a tradition with their match for the world championship, a tradition that continues to this day. Zukertort's grave in London's Brompton Cemetery, however, was lost and forgotten. It has been found and restored.",
@@ -770,14 +810,6 @@ news_feed (
          "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
       },
       {
-         "description" : "Melikset Khachiyan, a former coach of Levon Aronian, won the clash of co-leaders in round 5 of the US Seniors Championship as he beat Maxim Dlugy with white to take the sole lead in the standings. In the Junior Championships the leaders could not extend their leads. To the contrary, the fields are now closer together, both in the open and the girls' sections. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r5",
-         "pubDate" : "Thu, 20 Jul 2023 21:30:00 +0100",
-         "title" : "US Seniors: Khachiyan prevails in duel of co-leaders"
-      },
-      {
          "description" : "GM Gukesh D is expected to be the youngest player to have a published rating of 2750 in history when the next FIDE rating list comes out in 11 days (when he will be 17.17 years old). This news comes just off the heels of his countryman GM Praggnan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1058,14 +1090,6 @@ news_feed (
          "title" : "WWC Match 2023: Ju Wenjun equalises after a long grueling battle"
       },
       {
-         "description" : "GM Ju Wenjun is back! The Women&#39;s World Champion outplayed challenger GM Lei Tingjie in a complex middlegame and then ground out an endgame win to level the scores at 4-4 going into the final four games of the 2023 FIDE Women&#39;s World Championship ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-8",
-         "pubDate" : "Sun, 16 Jul 2023 08:02:00 -0700",
-         "title" : "Ju Wenjun Wins Game 8 To Tie World Championship Match"
-      },
-      {
          "description" : " The Aimchess Rapid took place 10th to 14th July 2023. Part of the Champions Chess Tour it was hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga. Carlsen beat Wesley So in the final. Denis Lazavik just got past Sam Sevian to reach the next final, remarkably they drew all the games from all 3 of their matches with having black in the Armageddon being decisive each time.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1082,28 +1106,12 @@ news_feed (
          "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
       },
       {
-         "description" : "GM Hikaru Nakamura once again won Saturday&#39;s Bullet Brawl and claimed the $400 first prize after scoring 263 points in the two-hour arena. This victory follows his record-breaking 75-win run in the previous event. In the most stacked edition yet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-3",
-         "pubDate" : "Sat, 15 Jul 2023 18:10:00 -0700",
-         "title" : "Nakamura Reigns Supreme In Bullet Brawl, Claims 6th Title"
-      },
-      {
          "description" : " With an expanded vision, The Gift of Chess has appointed Susan Namangale as its Global Head. Russell Makofsky&#8216;s vision to distribute chess sets in the New York area was part of a local initiative called The Gift of Chess. Since its inception in 2021, the mission added the incarcerated and most recently a global initiative. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/\">&#8220;The Gift of Chess&#8221; nabs Namangale as Global Head</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/",
          "pubDate" : "Sat, 15 Jul 2023 15:21:15 +0000",
          "title" : "\"The Gift of Chess\" nabs Namangale as Global Head"
-      },
-      {
-         "description" : "Defending Women&#39;s World Champion Ju Wenjun counterattacked and emerged two pawns up with a winning position as the second half of the 2023 FIDE Women&#39;s World Championship began. As time ran out, however, she took a safe option that allowed GM Lei ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-7",
-         "pubDate" : "Sat, 15 Jul 2023 08:15:00 -0700",
-         "title" : "Ju Wenjun Misses Golden Chance To Level Scores In Game 7"
       },
       {
          "description" : "",
