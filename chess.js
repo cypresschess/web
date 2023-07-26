@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A few weeks ago, Fidel Corrales Jimenez won the 2023 World Open with an undefeated 7.5/9 beating out eight others (including GM Hans Niemann) by a half-point. A strong performance was put in by 17-year-old IM Justin Wang who earned a GM norm in the pack of players ending on 7/9. The World Open is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/\">After 2023 World Open, a new era unfolding</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/",
+         "pubDate" : "Wed, 26 Jul 2023 01:01:29 +0000",
+         "title" : "After 2023 World Open, a new era unfolding"
+      },
+      {
+         "description" : "Before the last day of play, three players still have chances to win the Grandmaster Triathlon in Biel: Vincent Keymer, Le Quang Lieam and David Navara. Thanks to his win over Bassem Amin, Keymer is now back atop the tournament standings. The 18-year-old German stands half a point ahead of Le and 2&frac12; points ahead of Navara. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-r6",
+         "pubDate" : "Wed, 26 Jul 2023 01:30:00 +0100",
+         "title" : "Biel: Keymer beats Amin to retake the lead"
+      },
+      {
          "description" : "GMs Fabiano Caruana, Amin Tabatabaei, and Pavel Eljanov emerged victorious in the 2023 Julius Baer Generation Cup Play-in on Tuesday. They will join GMs Magnus Carlsen, Wesley So, Nodirbek Abdusattorov, and Denis Lazavik, who claimed their spots i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-stalemate-cage",
          "pubDate" : "Tue, 25 Jul 2023 09:00:00 +0100",
          "title" : "The stalemate cage"
-      },
-      {
-         "description" : "The last three rounds of classical chess in the Grandmaster Triathlon are taking place from Monday to Wendesday in Biel. After six rounds, David Navara and Vincent Keymer are sharing the lead. With each win in the classical portion worth 4 points, it is all to play for in the Swiss bilingual city. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Tue, 25 Jul 2023 08:55:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "Defending champion Le Quang Liem took the lead at the Grandmaster Triathlon in after convincingly beating top seed Yu Yangyi with the black pieces. Le was the top scorer in classical chess last year, and is again impressing in that discipline this time around. The Vietnamese grandmaster has won four out of five classical games so far, two of them with the black pieces. | Photos: Official website",
