@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All eyes are on Baku as the chess elite descends on Azerbaijan for the World Cup. The event will feature an unprecedented prize fund of 2.5 million US dollars. For the first time, the top three players from both the Open and the Women's section, which will be held together at the same time, will qualify for the Candidates tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/azerbaijan-fide-world-cup",
+         "pubDate" : "Wed, 26 Jul 2023 17:00:00 +0100",
+         "title" : "Azerbaijan FIDE World Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102146065.cms\" />Spain on Wednesday announced that Sarasadat Khademalsharieh, an Iranian chess player who relocated to Spain in January, has been granted Spanish citizenship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/iranian-chess-player-sara-khadem-who-removed-hijab-gets-spanish-citizenship/articleshow/102146065.cms",
+         "pubDate" : "Wed, 26 Jul 2023 15:09:56 +0000",
+         "title" : "Iranian Sara Khadem who removed hijab gets Spanish citizenship"
+      },
+      {
+         "description" : "The ECF office recently completed an exercise within the membership system designed to prevent members with two active memberships from being reminded to renew twice,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/incorrect-membership-expiry-email/",
+         "pubDate" : "Wed, 26 Jul 2023 14:19:19 +0000",
+         "title" : "Incorrect membership expiry email"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2546",
+         "pubDate" : "Wed, 26 Jul 2023 13:57:48 +0000",
+         "title" : "Call of Interest for Arbiters in World Events 2024-2025"
+      },
+      {
+         "description" : "Going into the final round of the Grandmaster Triathlon, three players still have chances to win the event: Vincent Keymer, the sole leader, Le Quang Liem and David Navara. Two rounds are still left to go in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Wed, 26 Jul 2023 14:00:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "The 2023 FIDE World Chess Cup and the FIDE Women's World Chess Cup 2023 kick off this Saturday in Baku, Azerbaijan. The Open event is taking place from 29 July to 25 August, and the Women's tournament will be played from 29 July to 22 August in the same venue. The FIDE World Chess Cup will gather 206 players, and the top seeds are: Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov, Dommaraju Gukesh, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-chess-cup-fide-womens-world-chess-cup-2023-kick-off-in-baku/",
+         "pubDate" : "Wed, 26 Jul 2023 11:47:31 +0000",
+         "title" : "FIDE World Chess Cup & FIDE Women's World Chess Cup 2023 kick off in Baku"
+      },
+      {
          "description" : "The Uttarakhand lad Tejas Tiwari has become the youngest FIDE rated chess player among all FIDE rated players in the world. at the age of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -736,22 +784,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-youngest-player-to-break-2750",
          "pubDate" : "Thu, 20 Jul 2023 13:12:00 -0700",
          "title" : "Gukesh Breaks Record: Youngest Player To Cross 2750 Rating"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris analyses an outstanding game from the Geza Hetenyi Memorial. Eventual winner Praggnanandhaa lost with black against Amin Tabatabaei, as the rising stars fought in a wild middlegame out of a rare line in the Ruy Lopez. Unmissable! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-open-kings-ruy-lopez",
-         "pubDate" : "Thu, 20 Jul 2023 20:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Wide open kings out of a Ruy Lopez"
-      },
-      {
-         "description" : "The Austrian Chess Federation has a new top grandmaster representing their country. Kirill Alekseenko (photo) has joined the Austrian federation and with his 2674 rating is the new number one in the European country. The Spanish Chess Federation also reports a prominent addition, as Sara Khadem has completed her transfer. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/switching-federations",
-         "pubDate" : "Thu, 20 Jul 2023 19:10:00 +0100",
-         "title" : "Switching federations"
       },
       {
          "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
@@ -1506,14 +1538,6 @@ news_feed (
          "title" : "Brewington Hardaway gets 3rd/Final IM norm!"
       },
       {
-         "description" : "You can hear a British Chess Championships interview with BBC Radio Leicester's Ben Jackson, featuring the ECF's Home Director Nigel Towers and Paul Mottram, the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-on-the-bbc/",
-         "pubDate" : "Fri, 07 Jul 2023 09:32:11 +0000",
-         "title" : "British Chess Championships on the BBC"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101569397.cms\" />Indian maestro Viswanathan Anand had a moderate run on day two of the SuperUnited Rapid and Blitz chess tournament, part of the Grand Chess Tour, winning, drawing and losing a game each.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1570,14 +1594,6 @@ news_feed (
          "title" : "WWC Match 2023: Lei Tingjie takes initiative once again but Ju holds her to a draw "
       },
       {
-         "description" : "The ECU E-Magazine June 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The June 2023 edition of the ECU E-Magazine can be read online with interactive links on&#160;the following link, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-june-2023/",
-         "pubDate" : "Thu, 06 Jul 2023 11:03:43 +0000",
-         "title" : "ECU E-Magazine June 2023"
-      },
-      {
          "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 &frac12; &frac12; &frac12; 1 6&frac12; Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 &frac12; &frac12; &frac12; 0 5&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1600,22 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2498",
          "pubDate" : "Wed, 05 Jul 2023 21:24:07 +0000",
          "title" : "World Rapid Team Championship: Showdown in D&uuml;sseldorf"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2497",
-         "pubDate" : "Wed, 05 Jul 2023 13:27:17 +0000",
-         "title" : "WWC Match 2023: Lei surprises Ju but game one ends in a draw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2496",
-         "pubDate" : "Wed, 05 Jul 2023 12:37:02 +0000",
-         "title" : "World Schools Team Championship 2023: Registration deadline extended"
       }
    ]
 }
