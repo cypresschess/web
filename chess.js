@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " A few weeks ago, Fidel Corrales Jimenez won the 2023 World Open with an undefeated 7.5/9 beating out eight others (including GM Hans Niemann) by a half-point. A strong performance was put in by 17-year-old IM Justin Wang who earned a GM norm in the pack of players ending on 7/9. The World Open is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/\">After 2023 World Open, a new era unfolding</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "In a study just released, chess was shown to be one of the most useful strategies in helping to prevent dementia. The study followed over 10 thousand senior Australians and their habits, and spanned 10 years. The conclusion was that chess permitted 'higher efficiency in using brain networks'. Read on and watch the video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-shows-chess-is-a-powerful-tool-against-dementia-video",
+         "pubDate" : "Wed, 26 Jul 2023 09:00:00 +0100",
+         "title" : "Study shows chess is a powerful tool against dementia (video)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2545",
+         "pubDate" : "Wed, 26 Jul 2023 05:44:09 +0000",
+         "title" : "Chess for Refugees Project: Rohingya School Teachers Chess Training"
+      },
+      {
+         "description" : " A few weeks ago, Fidel Corrales Jimenez won the 2023 World Open with an undefeated 7.5/9 beating out eight others (including GM Hans Niemann) by a half-point. A strong performance was put in by 17-year-old IM Justin Wang who earned a GM norm in the pack of players ending on 7/9. The World Open is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/\">After 2023 World Open, a new chess era unfolding</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/",
          "pubDate" : "Wed, 26 Jul 2023 01:01:29 +0000",
-         "title" : "After 2023 World Open, a new era unfolding"
+         "title" : "After 2023 World Open, a new chess era unfolding"
       },
       {
          "description" : "Before the last day of play, three players still have chances to win the Grandmaster Triathlon in Biel: Vincent Keymer, Le Quang Lieam and David Navara. Thanks to his win over Bassem Amin, Keymer is now back atop the tournament standings. The 18-year-old German stands half a point ahead of Le and 2&frac12; points ahead of Navara. | Photos: Official website",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.europechess.org/international-chess-day-2/",
          "pubDate" : "Thu, 20 Jul 2023 06:27:52 +0000",
          "title" : "International Chess Day"
-      },
-      {
-         "description" : "The tenth game of the Women's World Championshipe ended in a draw. Ju Wenjun followed in Vincent Keymer's footsteps in the opening, but failed to gain an advantage. The last two classical games will be played on Friday and Saturday, following a rest day. | Photos: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-10",
-         "pubDate" : "Thu, 20 Jul 2023 06:00:00 +0100",
-         "title" : "Women's World Championship: The calm before the storm?"
       },
       {
          "description" : " Today (July 20th) is International Chess Day. This attracted the attention of the Canberra Times newspaper, and they did a feature story, with photo's, on the after school chess program at Kaleen Primary school (NB I am one of the coaches for this program). Interestingly, this is the same Canberra Times who just three weeks ago canned the weekly chess column that had been running for over 50 years. ",
