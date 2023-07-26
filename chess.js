@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Uttarakhand lad Tejas Tiwari has become the youngest FIDE rated chess player among all FIDE rated players in the world. at the age of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-tejas-tiwari-the-youngest-fide-rated-player-in-the-world/",
+         "pubDate" : "Wed, 26 Jul 2023 10:48:46 +0000",
+         "title" : "Congratulations Tejas Tiwari - The youngest FIDE Rated player in the World"
+      },
+      {
          "description" : "In a study just released, chess was shown to be one of the most useful strategies in helping to prevent dementia. The study followed over 10 thousand senior Australians and their habits, and spanned 10 years. The conclusion was that chess permitted 'higher efficiency in using brain networks'. Read on and watch the video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1352,14 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2512",
          "pubDate" : "Mon, 10 Jul 2023 11:15:00 +0000",
          "title" : "Hou Yifan on chess in China and the match for the 18th Women's World Champion"
-      },
-      {
-         "description" : "All India Chess Federation along with AICF's Fair Play Committee organised it's first Fair Play Orientation Workshop at Sanca International Hotel, New Delhi on 08-09",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-new-delhi/",
-         "pubDate" : "Mon, 10 Jul 2023 07:31:38 +0000",
-         "title" : "AICF's Fair Play Orientation Workshop, New Delhi"
       },
       {
          "description" : "",
