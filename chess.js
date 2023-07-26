@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite not having played a single rated game since his victory at the 2022 Grandmaster Triathlon in Biel, Le Quang Liem successfully defended his title in this year's edition of the Festival's main event. The Vietnamese star drew his game with David Navara and saw former sole leader Vincent Keymer losing against Arjun Erigaisi. Thanks to his 5/7 performance in the classical section of the event, Le climbed to the 16th spot in the live ratings list! | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-r7",
+         "pubDate" : "Thu, 27 Jul 2023 00:30:00 +0100",
+         "title" : "Biel: Le successfully defends title, Keymer falls just short"
+      },
+      {
          "description" : "GM Hikaru Nakamura has had great success on the chess board recently, but everything appears to work out off the board as well. The world number-two confirmed to Chess.com that he married WGM Atousa Pourkashiyan. The chess world&#39;s newest super-c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,14 +98,6 @@ news_feed (
          "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
       },
       {
-         "description" : "Going into the final round of the Grandmaster Triathlon, three players still have chances to win the event: Vincent Keymer, the sole leader, Le Quang Liem and David Navara. Two rounds are still left to go in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Wed, 26 Jul 2023 14:00:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
-      },
-      {
          "description" : "The 2023 FIDE World Chess Cup and the FIDE Women's World Chess Cup 2023 kick off this Saturday in Baku, Azerbaijan. The Open event is taking place from 29 July to 25 August, and the Women's tournament will be played from 29 July to 22 August in the same venue. The FIDE World Chess Cup will gather 206 players, and the top seeds are: Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov, Dommaraju Gukesh, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -112,6 +112,14 @@ news_feed (
          "link" : "https://aicf.in/congratulations-tejas-tiwari-the-youngest-fide-rated-player-in-the-world/",
          "pubDate" : "Wed, 26 Jul 2023 10:48:46 +0000",
          "title" : "Congratulations Tejas Tiwari - The youngest FIDE Rated player in the World"
+      },
+      {
+         "description" : " The 56th Biel Chess Festival took place Sat 15th to Sun 30th Jul 2023. The main event was the Grand Master Triathlon which is a mix of Classical, Rapid and Blitz sections with 8 players: Yu Yangyi, Le Quang Liem, Arjun Erigaisi, Bogdan-Daniel Deac, Vincent Keymer, Bassem Amin, David Navara and Jules Moussard. In addition there are three main opens, the Masters, HTO and ATO. Le Quang Liem defended the title he won last year, Vincent Keymer lost his final round game against Erigaisi in pursuit of first place but still finished second ahead of David Navara.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/56th-biel-chess-festival-2023",
+         "pubDate" : "Wed, 26 Jul 2023 13:38:00 +0400",
+         "title" : "56th Biel Chess Festival 2023 - Games and Results"
       },
       {
          "description" : "",
@@ -810,6 +818,14 @@ news_feed (
          "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
       },
       {
+         "description" : "Melikset Khachiyan, a former coach of Levon Aronian, won the clash of co-leaders in round 5 of the US Seniors Championship as he beat Maxim Dlugy with white to take the sole lead in the standings. In the Junior Championships the leaders could not extend their leads. To the contrary, the fields are now closer together, both in the open and the girls' sections. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r5",
+         "pubDate" : "Thu, 20 Jul 2023 21:30:00 +0100",
+         "title" : "US Seniors: Khachiyan prevails in duel of co-leaders"
+      },
+      {
          "description" : "GM Gukesh D is expected to be the youngest player to have a published rating of 2750 in history when the next FIDE rating list comes out in 11 days (when he will be 17.17 years old). This news comes just off the heels of his countryman GM Praggnan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
          "pubDate" : "Tue, 18 Jul 2023 10:56:42 +0000",
          "title" : "Fair Play Orientation Workshop : Qualified Participants"
-      },
-      {
-         "description" : " The 56th Biel Chess Festival takes place Sat 15th to Sun 30th Jul 2023. The main event is the Grand Master Triathlon which is a mix of Classical, Rapid and Blitz sections with 8 players: Yu Yangyi, Le Quang Liem, Arjun Erigaisi, Bogdan-Daniel Deac, Vincent Keymer, Bassem Amin, David Navara and Jules Moussard. In addition there are three main opens, the Masters, HTO and ATO.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/56th-biel-chess-festival-2023",
-         "pubDate" : "Tue, 18 Jul 2023 13:38:00 +0400",
-         "title" : "56th Biel Chess Festival 2023 - Games and Results"
       },
       {
          "description" : "Six rounds have been already played at the European Senior Team Chess Championship 2023 in Swidnica, Poland, with only three rounds to go before the announcement of the winners. The team of Slovakia 65+ emerged as the sole leader in the 65+ section scoring all victories and perfect 12 match points. England 65+ follows with 10 match points, while three teams tie for the third place with 8 match points each: Hungary, Germany SC Kreuzberg e.V. and Polish Lower Silesia []",
@@ -1608,22 +1616,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
          "pubDate" : "Thu, 06 Jul 2023 05:10:55 +0000",
          "title" : "2023 Women's World Championship (Shanghai/ Chongqing, China)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2499",
-         "pubDate" : "Wed, 05 Jul 2023 22:12:32 +0000",
-         "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2498",
-         "pubDate" : "Wed, 05 Jul 2023 21:24:07 +0000",
-         "title" : "World Rapid Team Championship: Showdown in D&uuml;sseldorf"
       }
    ]
 }
