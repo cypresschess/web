@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is a new celebrity chess couple: Atousa Pourkashiyan and Hikaru Nakamura announced their wedding and now join the list of prominent chess couples. Given their playing level, they are surely near the top of the unofficial couples' rating list. | Photo: Atousa Pourkashiyan's Instagram profile",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-couple-pourkashiyan-nakamura",
+         "pubDate" : "Thu, 27 Jul 2023 23:30:00 +0100",
+         "title" : "A new chess couple: Atousa Pourkashiyan and Hikaru Nakamura!"
+      },
+      {
          "description" : "As of July 27, the 28-year-old Russian-born GM Vladimir Fedoseev&#39;s federation transfer is complete and he will represent Slovenia in future chess tournaments. With a 2676 published rating, the &#34;Bigfish&#34; (from his username on Chess.com) is the Slov...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2023-r4",
          "pubDate" : "Sat, 22 Jul 2023 08:05:00 +0100",
          "title" : "Biel: Keymer beats Yu, leads"
-      },
-      {
-         "description" : "Ju Wenjun claimed her fourth Women's World Champion title after clinching a crucial victory in the decisive, final, 12th game of the match against challenger Lei Tingjie. With this victory, Ju has now equalled the record set by her compatriot Hou Yifan, both having won the world crown four times. Apart from defending the title, Ju also won €300,000 in prize money, while €200,000 went to the runner-up Lei Tingjie.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-world-championship-2023-live",
-         "pubDate" : "Sat, 22 Jul 2023 08:00:00 +0100",
-         "title" : "Women's World Championship - All games"
       },
       {
          "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2023 at Tashkent, Uzbekistan. Delhi",
