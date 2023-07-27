@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE had given Vasyl Ivanchuk a wildcard to take part in the upcoming World Cup, but the Ukrainian grandmaster did not, initially, receive permission from the Ministry of Sport to take part. Six top grandmasters, including former world champions Magnus Carlsen and Vishy Anand, signed a petition. Now the Ukrainian Ministry of Sport has granted permission - with conditions. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivanchuk-permission-world-cup",
+         "pubDate" : "Thu, 27 Jul 2023 16:00:00 +0100",
+         "title" : "Ivanchuk is granted permission to play in Baku, with conditions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102178214.cms\" />Tejas Tiwari, a young chess prodigy from India, has earned the prestigious title of being the world's youngest FIDE rated player. Remarkably, he accomplished this extraordinary feat at the incredibly tender age of five.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-5-year-old-tejas-tiwari-is-worlds-youngest-player-with-fide-rating/articleshow/102178214.cms",
+         "pubDate" : "Thu, 27 Jul 2023 14:33:41 +0000",
+         "title" : "India's 5-year old Tejas Tiwari is world's youngest player with FIDE rating"
+      },
+      {
+         "description" : "The junior chess championships of various age categories serve a very important purpose. The talented medal winners get the limelight they need - with the adequate amount of support, these kids can go on to do great things in the chess world! One such example is 2014-born Thehas Rithmitha Kiringoda, gold medallist in the Under-9 World Schools Championships 2023. Starting off as the 21st seed among 61 players, Thehas went on to score a dominating 7&frac12;/9 and win the event! In this article, we ask Thehas a few questions about his chess journey so far, his performance in the World Schools, future goals and much more. Get to know the mindset of a young chess talent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
+         "pubDate" : "Thu, 27 Jul 2023 14:00:00 +0100",
+         "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
+      },
+      {
          "description" : "The ECF Members' Representatives for 2023/24 will be &#8212; Life Members Stewart Reuben; Gerard Walsh Platinum Members Adrian Elwin; David Eustace Gold Members...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Members' Representatives for 2023/24"
       },
       {
-         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn how to download and install an outside engine into ChessBase and even set it as the new default. The example given in this video is with Stockfish 16!",
+         "description" : "Going into the final round of the Grandmaster Triathlon, three players still have chances to win the event: Vincent Keymer, the sole leader, Le Quang Liem and David Navara. Two rounds are still left to go in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-download-and-install-a-new-engine-video",
-         "pubDate" : "Thu, 27 Jul 2023 10:00:00 +0100",
-         "title" : "ChessBase in Minutes: How to download and install a new engine (video)"
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
+         "pubDate" : "Thu, 27 Jul 2023 09:55:00 +0100",
+         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2547",
          "pubDate" : "Thu, 27 Jul 2023 06:12:23 +0000",
          "title" : "Biel Grandmaster Triathlon 2023: Lê Quang Liêm defends his title "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2548",
+         "pubDate" : "Thu, 27 Jul 2023 05:34:01 +0000",
+         "title" : "D&uuml;sseldorf hosts the inaugural World Team Rapid Chess Championship"
       },
       {
          "description" : "The day is finally here. PogChamps 5, one of the most anticipated events of the year, welcomes 16 stars to the 64 squares. As fans barraged chat with emote walls and beautifully crafted copypastas, players fed the audience with hilarious moments a...",
@@ -802,14 +834,6 @@ news_feed (
          "title" : "Bengal GMs Surya Sekhar and Deep excel in European tournaments"
       },
       {
-         "description" : "Living legend Vasyl Ivanchuk received a wild card from FIDE to participate in the upcoming World Cup in Baku. According to current legislation, he needs permission from the Ministry of Youth and Sports to leave the country for sports purposes as he is under the age of 60. Such permission was not granted. To address this situation, some of the world's top GMs - including Magnus Carlsen and Vishy Anand - signed an open letter to the Minister of Youth and Sport of Ukraine, Mr. Vadym Gutzeit. | Photo: sunwaychessfestival.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/open-letter-ivanchuk-world-cup",
-         "pubDate" : "Fri, 21 Jul 2023 14:00:00 +0100",
-         "title" : "Top players sign an open letter in support of Vasyl Ivanchuk"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2537",
          "pubDate" : "Fri, 21 Jul 2023 12:30:25 +0000",
          "title" : "WWC Match 2023: Everything hangs on the final game"
-      },
-      {
-         "description" : "Vincent Keymer won the duel of pursuers in the Biel Grandmaster Tournament on International Chess Day, as he defeated Le Quang Liem with the white pieces. Keymer is now sharing the lead with David Navara. Bassem Amin also won in round 4, as he got the better of Arjun Erigaisi to claim 4 points for the standings (in the classical section of the Triathlon, wins grant 4 points while draws grant 1&frac12; points). | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r3",
-         "pubDate" : "Fri, 21 Jul 2023 12:30:00 +0100",
-         "title" : "Biel: Keymer beats Le"
       },
       {
          "description" : "In an open letter published on the FIDE website a&#38;nbsp;number of top grandmasters urge Ukraine&#39;s government to allow GM Vasyl Ivanchuk to leave the country and play the upcoming FIDE World Cup. The event begins in Baku, Azerbaijan on July 29 and...",
@@ -1600,30 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2502",
          "pubDate" : "Fri, 07 Jul 2023 00:35:08 +0000",
          "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2501",
-         "pubDate" : "Thu, 06 Jul 2023 13:48:53 +0000",
-         "title" : "Prize fund of World Senior Championship 2023 breaks the record"
-      },
-      {
-         "description" : " The 2023 Women's World Championship is already 2 games in, although both games have been drawn. It is an all Chinese matchup with Wenjun Ju playing Tingjie Lei. Most pundits have Ju as the favourite for this match, based on match experience. The first game was a Ruy Lopez Berlin variation, although it wasn't as drawish as the opening may indicate. In fact White sacrificed a pawn in the opening, but regained it with a better position. However, Jun was able to reach a rook and pawn ending, and by that stage it was definitely drawn. <br /> <br /> <b>Lei Tingjie (2554) - Ju Wenjun (2566) [C67]</b><br /> FIDE WOMEN'S WORLD CHAMPIONSHIP MATCH 20 SHANG HAI, China (1.1), 05.07.2023 <script> new Pgn",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-womens-world-championship.html",
-         "pubDate" : "Thu, 06 Jul 2023 13:04:00 +0000",
-         "title" : "2023 Women's World Championship "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2500",
-         "pubDate" : "Thu, 06 Jul 2023 13:01:39 +0000",
-         "title" : "WWC Match 2023: Lei Tingjie takes initiative once again but Ju holds her to a draw "
       }
    ]
 }
