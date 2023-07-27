@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2547",
+         "pubDate" : "Thu, 27 Jul 2023 06:12:23 +0000",
+         "title" : "Biel Grandmaster Triathlon 2023: Lê Quang Liêm defends his title "
+      },
+      {
          "description" : "The day is finally here. PogChamps 5, one of the most anticipated events of the year, welcomes 16 stars to the 64 squares. As fans barraged chat with emote walls and beautifully crafted copypastas, players fed the audience with hilarious moments a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-25-2023",
-         "pubDate" : "Wed, 26 Jul 2023 08:44:43 -0700",
+         "pubDate" : "Wed, 26 Jul 2023 08:44:00 -0700",
          "title" : "Vachier-Lagrave Sweeps Into Titled Tuesday, Wins Both Events"
       },
       {
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2500",
          "pubDate" : "Thu, 06 Jul 2023 13:01:39 +0000",
          "title" : "WWC Match 2023: Lei Tingjie takes initiative once again but Ju holds her to a draw "
-      },
-      {
-         "description" : " 2023 World Chess Championship Shanghai/Chongquing, China (July 4th-24th) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 pts. Ju Wenjun &frac12; &frac12; &frac12; &frac12; 0 &frac12; &frac12; 1 &frac12; &frac12; &frac12; 1 6&frac12; Lei Tingjie &frac12; &frac12; &frac12; &frac12; 1 &frac12; &frac12; 0 &frac12; &frac12; &frac12; 0 5&frac12; Official Site: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/\">2023 Women's World Championship (Shanghai/ Chongqing, China)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/06/2023-womens-world-championship-shanghai-chongqing-china/",
-         "pubDate" : "Thu, 06 Jul 2023 05:10:55 +0000",
-         "title" : "2023 Women's World Championship (Shanghai/ Chongqing, China)"
       }
    ]
 }
