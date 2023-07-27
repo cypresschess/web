@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF Members' Representatives for 2023/24 will be &#8212; Life Members Stewart Reuben; Gerard Walsh Platinum Members Adrian Elwin; David Eustace Gold Members...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/members-representatives-for-2023-24/",
+         "pubDate" : "Thu, 27 Jul 2023 10:57:48 +0000",
+         "title" : "Members' Representatives for 2023/24"
+      },
+      {
+         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn how to download and install an outside engine into ChessBase and even set it as the new default. The example given in this video is with Stockfish 16!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-download-and-install-a-new-engine-video",
+         "pubDate" : "Thu, 27 Jul 2023 10:00:00 +0100",
+         "title" : "ChessBase in Minutes: How to download and install a new engine (video)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
       },
       {
-         "description" : "Melikset Khachiyan, a former coach of Levon Aronian, won the clash of co-leaders in round 5 of the US Seniors Championship as he beat Maxim Dlugy with white to take the sole lead in the standings. In the Junior Championships the leaders could not extend their leads. To the contrary, the fields are now closer together, both in the open and the girls' sections. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r5",
-         "pubDate" : "Thu, 20 Jul 2023 21:30:00 +0100",
-         "title" : "US Seniors: Khachiyan prevails in duel of co-leaders"
-      },
-      {
          "description" : "GM Gukesh D is expected to be the youngest player to have a published rating of 2750 in history when the next FIDE rating list comes out in 11 days (when he will be 17.17 years old). This news comes just off the heels of his countryman GM Praggnan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1368,14 +1376,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-starts-in-poland/",
          "pubDate" : "Tue, 11 Jul 2023 08:34:41 +0000",
          "title" : "European Senior Team Chess Championship 2023 starts in Poland"
-      },
-      {
-         "description" : "Submissions are open for this year's ECF Awards. The closing date for nominations has been extended to August 5th 2023 Details for this year's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2023/",
-         "pubDate" : "Tue, 11 Jul 2023 07:00:27 +0000",
-         "title" : "ECF Awards 2023 - closing date extended"
       },
       {
          "description" : "",
