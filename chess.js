@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As of July 27, the 28-year-old Russian-born GM Vladimir Fedoseev&#39;s federation transfer is complete and he will represent Slovenia in future chess tournaments. With a 2676 published rating, the &#34;Bigfish&#34; (from his username on Chess.com) is the Slov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-transfers-federations-to-slovenia",
+         "pubDate" : "Thu, 27 Jul 2023 11:32:00 -0700",
+         "title" : "'Bigfish' Fedoseev To Play For Slovenia: 'I Have No Will To Represent Russia'"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong>SAINT LOUIS (July 27, 2023) -</strong> All eyes were on Saint Louis as tournament play for the 2023 <a href=\"https://www.uschesschamps.com/2023-us-national-championships/girls-junior\">U.S. Girls' Junior</a>, <a href=\"https://www.uschesschamps.com/2023-us-national-championships/junior\">U.S. Junior</a> and <a href=\"https://www.uschesschamps.com/2023-us-national-championships/senior\">U.S. Senior </a>Championships hosted by the <a href=\"https://saintlouischessclub.org/\">Saint Louis Chess Club</a> came to an exciting conclusion this week. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-elect-alice-lee-gm-abhimanyu-mishra-and-gm-melikset-khachiyan-crowned-winners-national",
+         "pubDate" : "Thu, 27 Jul 2023 17:39:24 +0000",
+         "title" : "IM Elect Alice Lee, GM Abhimanyu Mishra and GM Melikset Khachiyan Crowned Winners in National Junior and Senior Championships in Saint Louis"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris looks at 2...Nf6 in the Sicilian, the Nimzowitsch Variation. By analysing games played by Aleksandr Rakhmanov, we learn about Black's objectives - and how things could easily go wrong for White as well! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-nimzowitsch",
+         "pubDate" : "Thu, 27 Jul 2023 18:15:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The double-edged Nimzowitsch Sicilian"
+      },
+      {
+         "description" : "Explore the mysteries of the powerful Janowski Variation of the Queen's Gambit Declined with this brand-new video course! Immerse yourself in this fascinating chess opening and learn how to exploit it to destabilise your opponents. To approach the Janowski Variation, which arises after the moves 1.d4 d5 2.c4 e6 3.Nf3 (or 3.Nc3) a6, it is essential to understand the stakes of the position rather than accumulate a large amount of theory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabien-libiszewski-the-surprising-janowski-variation-3-a6-in-the-queen-s-gambit-declined",
+         "pubDate" : "Thu, 27 Jul 2023 18:00:00 +0100",
+         "title" : "Fabien Libiszewski: The surprising Janowski Variation (3...a6) in the Queen's Gambit Declined"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Cup is a 103-player knockout taking place in Baku, Azerbaijan from July 30 to August 21. The prize fund is almost $700k, with $50,000 for the winner, while the top three also qualify for the 2024 Women's Candidates Tournament. The top 25 players, including Women's World Champion Ju Wenjun, are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-cup-2023-live/",
+         "pubDate" : "Thu, 27 Jul 2023 15:41:51 +0000",
+         "title" : "FIDE Women's World Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 FIDE Women's World Cup is a 103-player knockout taking place in Baku, Azerbaijan from July 30 to August 21. The prize fund is almost $700k, with $50,000 for the winner, while the top three also qualify for the 2024 Women's Candidates Tournament. The top 25 players, including Women's World Champion Ju Wenjun, are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-cup-2023/",
+         "pubDate" : "Thu, 27 Jul 2023 15:39:42 +0000",
+         "title" : "FIDE Women's World Cup 2023"
+      },
+      {
+         "description" : "The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the 2024 Candidates Tournament. The top 50 players, who include world nos 1-3 Magnus Carlsen, Hikaru []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-2023-live/",
+         "pubDate" : "Thu, 27 Jul 2023 15:34:49 +0000",
+         "title" : "FIDE World Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the 2024 Candidates Tournament. The top 50 players, who include world nos 1-3 Magnus Carlsen, Hikaru []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-2023/",
+         "pubDate" : "Thu, 27 Jul 2023 15:32:21 +0000",
+         "title" : "FIDE World Cup 2023"
+      },
+      {
          "description" : "FIDE had given Vasyl Ivanchuk a wildcard to take part in the upcoming World Cup, but the Ukrainian grandmaster did not, initially, receive permission from the Ministry of Sport to take part. Six top grandmasters, including former world champions Magnus Carlsen and Vishy Anand, signed a petition. Now the Ukrainian Ministry of Sport has granted permission - with conditions. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,14 +474,6 @@ news_feed (
          "title" : "2023 Summer Chess Classic: Round 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Cristian Chirila after a draw with Shabalov in the ninth round of the 2023 U.S. Senior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-my-first-national-championship-r9-usseniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_urkRjyeIvY.jpg?itok=sj9faMUK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khachiyan-my-first-national-championship-r9-usseniorschess",
-         "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
-         "title" : "Khachiyan: My First National Championship! | R9 #USSeniorsChess"
-      },
-      {
          "description" : "The wait is nearly over&#38;mdash;PogChamps 5 is about to kick off, and now Chess.com can reveal its sparkling line-up for the most exciting amateur event in chess. The two-week tournament starting on July 26 at 4 p.m. ET/21:00 CEST,&#38;nbsp;will feature...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -520,38 +576,6 @@ news_feed (
          "link" : "https://www.chessdom.com/dutch-open-championship-2023/",
          "pubDate" : "Mon, 24 Jul 2023 11:14:00 +0000",
          "title" : "Dutch Open Championship 2023"
-      },
-      {
-         "description" : "The Pontevedra Open Masters is taking place from 24&#x2013;30 July 2023 in Pontevedra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Robert Ruck, Ermes Espinosa Veloz, Vignesh N R, Lennis Martinez Ramirez, Visakh N R, Alessio Valsecchi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pontevedra-open-masters-2023-live/",
-         "pubDate" : "Mon, 24 Jul 2023 10:19:00 +0000",
-         "title" : "Pontevedra Open Masters 2023 - LIVE"
-      },
-      {
-         "description" : "The Pontevedra Open Masters is taking place from 24&#x2013;30 July 2023 in Pontevedra, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Robert Ruck, Ermes Espinosa Veloz, Vignesh N R, Lennis Martinez Ramirez, Visakh N R, Alessio Valsecchi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pontevedra-open-masters-2023/",
-         "pubDate" : "Mon, 24 Jul 2023 10:02:00 +0000",
-         "title" : "Pontevedra Open Masters 2023"
-      },
-      {
-         "description" : "The Paul Keres Memorial (P&#xE4;rnu) is taking place from 24&#x2013;29 July 2023 in P&#xE4;rnu, Estonia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Paulius Pultinevicius, Erik Blomqvist, Toms Kantans, Oleg Korneev, Jung Min Seo, Aleksandr Volodin, etc. Parallel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paul-keres-memorial-parnu-2023-live/",
-         "pubDate" : "Mon, 24 Jul 2023 09:20:00 +0000",
-         "title" : "Paul Keres Memorial (P&auml;rnu) 2023 - LIVE"
-      },
-      {
-         "description" : "The Paul Keres Memorial (P&#xE4;rnu) is taking place from 24&#x2013;29 July 2023 in P&#xE4;rnu, Estonia. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Paulius Pultinevicius, Erik Blomqvist, Toms Kantans, Oleg Korneev, Jung Min Seo, Aleksandr Volodin, etc.Chessdom.com will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paul-keres-memorial-parnu-2023/",
-         "pubDate" : "Mon, 24 Jul 2023 09:03:00 +0000",
-         "title" : "Paul Keres Memorial (P&auml;rnu) 2023"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
@@ -794,28 +818,12 @@ news_feed (
          "title" : "Off the mark"
       },
       {
-         "description" : "Ju Wenjun and Lei Tingjie seem to be heading to a playoff at the Women's World Championship in China. Game 11 saw the contenders for the title signing the ninth draw of the match, which remains tied with one game to go. The twelfth and last classical game of the contest will be played on Saturday. | Photos: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-11",
-         "pubDate" : "Fri, 21 Jul 2023 22:00:00 +0100",
-         "title" : "Women's World Championship: Tense match tied with one game to go"
-      },
-      {
          "description" : "GM Hikaru Nakamura clinched the Bullet Chess Championship 2023 on Friday, shutting down GM Magnus Carlsen&#39;s comeback in overtime in an epic Grand Final.&#38;nbsp; Back in Norway with his home setup, Carlsen switched into another gear and went on a t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-5",
          "pubDate" : "Fri, 21 Jul 2023 13:56:00 -0700",
          "title" : "Nakamura Halts Carlsen's Comeback, Clinches 4th Title"
-      },
-      {
-         "description" : "On Thursday, the strong Isbank Turkish Super League, Turkey's team championship, came to an end in Ankara. The Turkish Airline Sports Club topped the standings. The best player on board one was Dommaraju Gukesh, who climbed to eleventh place in the live elite ratings list and became the youngest-ever player to cross the 2750-mark. | Photos: Turkish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/turkish-super-league-2023",
-         "pubDate" : "Fri, 21 Jul 2023 20:10:00 +0100",
-         "title" : "Gukesh outstanding at the Turkish Super League, reaches 2750"
       },
       {
          "description" : "Women&#39;s World Champion Ju Wenjun attacked with the black pieces in Game 11 of the 2023 FIDE Women&#39;s World Championship, but a creative king march saved the day for GM Lei Tingjie, leaving the scores tied at 5.5-5.5 going into the final classical g...",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-1",
          "pubDate" : "Mon, 17 Jul 2023 19:05:00 -0700",
          "title" : "Matching Mocktails: Carlsen Defeats Chessbrah In Bullet Debut"
-      },
-      {
-         "description" : "Imagine a sun-filled day with an over-the-board game in a picturesque park such as Columbus Park in New York City. It&#38;rsquo;s a scene we all enjoy watching. Would you be surprised to see tennis great Roger Federer on one side of the chessboard fac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roger-federer-tani-adewumi-chess-meeting-of-the-masters",
-         "pubDate" : "Mon, 17 Jul 2023 11:46:00 -0700",
-         "title" : "Tennis Legend Roger Federer Encounters Chess Prodigy Tani"
       },
       {
          "description" : "",
