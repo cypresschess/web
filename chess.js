@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The day is finally here. PogChamps 5, one of the most anticipated events of the year, welcomes 16 stars to the 64 squares. As fans barraged chat with emote walls and beautifully crafted copypastas, players fed the audience with hilarious moments a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-1",
+         "pubDate" : "Wed, 26 Jul 2023 18:37:00 -0700",
+         "title" : "Stalemate, Blunders, And Dance Moves: Welcome To PogChamps 5"
+      },
+      {
+         "description" : " The Riot Act is a Canberra institution, starting off as local discussion forum, before transforming itself into a local news platform. It was one of the sites I used to read regularly when I was working, although in retirement my readership is more sporadic. But I draw you attention to it, because they have just published a nice article on Street Chess (complete with pictures of me sporting my current beard). I even revealed some 'secret' chess moves that players might not know about ('Clickbait' warning. They are castling, en passant and promotion) So check out the article at <a href=\"https://the-riotact.com/more-popular-than-its-ever-been-why-chess-is-still-champion-in-canberra/686139\">ht",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/reading-riot-act.html",
+         "pubDate" : "Wed, 26 Jul 2023 23:53:00 +0000",
+         "title" : "Reading the Riot Act"
+      },
+      {
          "description" : "Despite not having played a single rated game since his victory at the 2022 Grandmaster Triathlon in Biel, Le Quang Liem successfully defended his title in this year's edition of the Festival's main event. The Vietnamese star drew his game with David Navara and saw former sole leader Vincent Keymer losing against Arjun Erigaisi. Thanks to his 5/7 performance in the classical section of the event, Le climbed to the 16th spot in the live ratings list! | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2528",
          "pubDate" : "Mon, 17 Jul 2023 15:27:35 +0000",
          "title" : "FIDE World Championships 2024 Call for Bids is Closed"
-      },
-      {
-         "description" : "Warning: The following clips contain an aggressive display of racial harassment, including multiple expletives and a slur. Chess streamer Alyssazhu was streaming live on Twitch from a park when her camera was knocked over before a racist rant ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alyssazhus-chess-stream-interrupted-by-racist-rant",
-         "pubDate" : "Mon, 17 Jul 2023 08:06:00 -0700",
-         "title" : "Alyssazhu's Chess Stream Interrupted By Racist Rant"
       },
       {
          "description" : " When trying to 'gamify' chess to small children, I usually tell them that the pawn has one hidden power, and one super power. The super power is the ability to transform into another, stronger piece when it reaches the end of the board. And the hidden power is that hs the weakest power of all the pieces. So anything it attacks is either more valuable or at worst, of equal value. And to demonstrate ... <br /> <b>Press,Shaun - Khadkar,Sameet [D77]</b><br /> Gungahlin Rapid ---, 11.07.2023 <script> new PgnViewer( { boardName: \"game1408\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 O-O 6.O-O e6 7.Nc3 dxc4 8.Ne5 c6 9.Nxc4 Nd5 10.e4 b5 11.exd5 bxc4 12.dxc6 Qc7 13.N",
