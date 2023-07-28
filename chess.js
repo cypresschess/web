@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The seven times champion Michael Adams, 51, is shares the lead in Leicester, while England's No 1 is preparing to meet the elite in the 206-player knockout in Azerbaijan Michael Adams, the seven-time British champion and still the England No 2 at 51, shares the lead approaching Sunday's final round of the 2023 championship at Leicester. All the games can be watched free and live on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>. Adams scored an important win in <a href=\"https://chess24.com/en/watch/live-tournaments/british-championship-2023/4/1/1\" title=\"\">Tuesday's fourth round</a> when he outplayed the No 3 seed, Dan Fernandez, 28, whose opening surprise with the rare Scandinav",
+         "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vidit-gujarathi-master-advanced-tactics",
+         "pubDate" : "Fri, 28 Jul 2023 10:00:00 +0100",
+         "title" : "Vidit Gujarathi: Master Advanced Tactics"
+      },
+      {
+         "description" : " The seven times champion Michael Adams, 51, shares the lead in Leicester, while England's No 1 is preparing to meet the elite in the 206-player knockout in Azerbaijan Michael Adams, the seven-time British champion and still the England No 2 at 51, shares the lead approaching Sunday's final round of the 2023 championship at Leicester. All the games can be watched free and live on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>. Adams scored an important win in <a href=\"https://chess24.com/en/watch/live-tournaments/british-championship-2023/4/1/1\" title=\"\">Tuesday's fourth round</a> when he outplayed the No 3 seed, Dan Fernandez, 28, whose opening surprise with the rare Scandinavian",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/blind-spot",
          "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
          "title" : "Blind spot"
-      },
-      {
-         "description" : "The game of chess can be used as an incredible tool for empowerment and opportunity globally. Unfortunately, due to a lack of chess sets, the communities that could benefit the most from chess do not have access to the game. That is why the organisation Gift of Chess celebrated International Chess Day, sharing their commitment to distribute 1,000,000 chess sets globally by 2030. Susan Namangale, the global head of the organisation, tells us about herself and about the plan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-international-chess-day-from-the-gift-of-chess",
-         "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
-         "title" : "Happy International Chess Day from The Gift of Chess!"
       },
       {
          "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
@@ -1592,14 +1592,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/",
          "pubDate" : "Fri, 07 Jul 2023 19:42:02 +0000",
          "title" : "Brewington Hardaway gets 3rd/Final IM norm!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101569397.cms\" />Indian maestro Viswanathan Anand had a moderate run on day two of the SuperUnited Rapid and Blitz chess tournament, part of the Grand Chess Tour, winning, drawing and losing a game each.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-has-moderate-day-gukesh-shines-with-twin-wins/articleshow/101569397.cms",
-         "pubDate" : "Fri, 07 Jul 2023 08:39:01 +0000",
-         "title" : "Grand Chess Tour: Anand has moderate day; Gukesh shines with twin wins"
       }
    ]
 }
