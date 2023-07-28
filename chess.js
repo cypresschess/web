@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King goes over a brilliant attacking game played by Michael Adams at the British Championship. Extreme precision was shown by the English star! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-attack-adams",
+         "pubDate" : "Fri, 28 Jul 2023 20:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Attacking with Mickey Adams"
+      },
+      {
+         "description" : "The 2023 FIDE World Cup is the biggest over-the-board knockout event of the year, and you can punch your ticket to amazing prizes just by predicting who wins! GMs Hikaru Nakamura, Fabiano Caruana, and Ian Nepomniachtchi are among the top contend...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-world-cup-bracket-contest",
+         "pubDate" : "Fri, 28 Jul 2023 11:34:06 -0700",
+         "title" : "Can You Predict The 2023 FIDE World Cup Winner?"
+      },
+      {
+         "description" : "Astronaut Woody Hoburg, a chess enthusiast, is currently on the International Space Station (ISS) with his team. Amid their dense schedule, they manage to find some time for chess. Hoburg plays a remote game against the control centre in Houston and sometimes against his Russian colleague Sergey Prokopyev. Never has it been so important for the pieces to be magnetic. | Photos: NASA",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-outer-space",
+         "pubDate" : "Fri, 28 Jul 2023 17:30:00 +0100",
+         "title" : "Chess in outer space"
+      },
+      {
          "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/le-quang-liem-wins-biel-international-chess-festival",
-         "pubDate" : "Fri, 28 Jul 2023 05:31:52 -0700",
+         "pubDate" : "Fri, 28 Jul 2023 05:31:00 -0700",
          "title" : "Liem Le Wins Biel International Grandmaster Triathlon"
       },
       {
@@ -722,14 +746,6 @@ news_feed (
          "title" : "Ju Wenjun scores clutch win, defends World Championship title"
       },
       {
-         "description" : "Arjun Erigaisi, who came from struggling in classical chess at Biel's Grandmaster Triathlon, was the top scorer in the tournament's blitz section. The day's results also saw David Navara catchin Vincent Keymer in the lead of the event's overall standings. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-blitz",
-         "pubDate" : "Sat, 22 Jul 2023 23:10:00 +0100",
-         "title" : "Biel: Arjun wins Triathlon's blitz section"
-      },
-      {
          "description" : "We are thrilled to announce major improvements to engines on Chess.com. Only weeks after the release of Stockfish 16, the newest version of the engine is now also available on our website. The engine is stronger than ever and brings a new evaluati...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
          "pubDate" : "Sat, 22 Jul 2023 12:29:00 +0400",
          "title" : "Women's World Chess Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "In the diagram position Black played 26...Qe2? and in the actual game he got away with it - but you would not let that go unpunished, would you?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/blind-spot",
-         "pubDate" : "Sat, 22 Jul 2023 09:00:00 +0100",
-         "title" : "Blind spot"
       },
       {
          "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2531",
          "pubDate" : "Wed, 19 Jul 2023 12:00:13 +0000",
          "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
-      },
-      {
-         "description" : "GMs Daniel Naroditsky and Hikaru Nakamura won their matches by the highest margins in the Winners Quarterfinals of the Bullet Chess Championship 2023 on Tuesday. They each defeated formidable grandmasters, Andrew Tang and Jose Martinez respectivel...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-2",
-         "pubDate" : "Tue, 18 Jul 2023 18:03:00 -0700",
-         "title" : "Naroditsky Defeats Ultrabullet Virtuoso, Matches Nakamura For Top Winning Margin"
       },
       {
          "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
