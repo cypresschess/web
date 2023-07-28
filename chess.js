@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The seven times champion Michael Adams, 51, is shares the lead in Leicester, while England's No 1 is preparing to meet the elite in the 206-player knockout in Azerbaijan Michael Adams, the seven-time British champion and still the England No 2 at 51, shares the lead approaching Sunday's final round of the 2023 championship at Leicester. All the games can be watched free and live on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>. Adams scored an important win in <a href=\"https://chess24.com/en/watch/live-tournaments/british-championship-2023/4/1/1\" title=\"\">Tuesday's fourth round</a> when he outplayed the No 3 seed, Dan Fernandez, 28, whose opening surprise with the rare Scandinav",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
+         "pubDate" : "Fri, 28 Jul 2023 07:00:04 +0000",
+         "title" : "Chess: British Championship nears final round as Howell readies for World Cup"
+      },
+      {
+         "description" : "The Z&#xFC;richsee Amateur Open is taking place from 27&#x2013;30 July 2023 in Pf&#xE4;ffikon SZ, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 6-round Swiss tournament with participation of Vadim Cernov, Benedict Hasenohr, Timur Kocharin, Kyrilo Zaitsev, Bogdan Borsos, Karlo Turk, Henrik Cernov, Johannes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zurichsee-amateur-open-2023/",
+         "pubDate" : "Fri, 28 Jul 2023 05:11:00 +0000",
+         "title" : "Z&uuml;richsee Amateur Open 2023"
+      },
+      {
+         "description" : "The Z&#xFC;richsee Amateur Open is taking place from 27&#x2013;30 July 2023 in Pf&#xE4;ffikon SZ, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#160; It is a 6-round Swiss tournament with participation of Vadim Cernov, Benedict Hasenohr, Timur Kocharin, Kyrilo Zaitsev, Bogdan Borsos, Karlo Turk, Henrik Cernov, Johannes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zurichsee-amateur-open-2023-live/",
+         "pubDate" : "Fri, 28 Jul 2023 04:41:00 +0000",
+         "title" : "Z&uuml;richsee Amateur Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Kavala Open is taking place from 28 July to 4 August 2023 in Kavala, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Maxime Lagarde, Dimitrios Mastrovasilis, Antonios []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kavala-open-2023-live/",
+         "pubDate" : "Fri, 28 Jul 2023 04:34:00 +0000",
+         "title" : "Kavala Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Kavala Open is taking place from 28 July to 4 August 2023 in Kavala, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Maxime Lagarde, Dimitrios Mastrovasilis, Antonios []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kavala-open-2023/",
+         "pubDate" : "Fri, 28 Jul 2023 04:08:00 +0000",
+         "title" : "Kavala Open 2023"
+      },
+      {
+         "description" : "The Cuenca Open U2200 is taking place from 28-30 July2023 in Cuenca, Spain. Players receive 60 minutes plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Javier Longa Yauca, Francisco Fernandez Aguilar, Jose Ponce Navalon, Teodoro Asensio Linan, Oliver Kevin Uran Bermudez, Pablo Aymerich Rosell, Carlos Fernandez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cuenca-open-u2200-live/",
+         "pubDate" : "Fri, 28 Jul 2023 03:10:00 +0000",
+         "title" : "Cuenca Open U2200 - LIVE"
+      },
+      {
          "description" : "In the end, the favourite prevailed. The top seed at the Biel Master Open, Chinese GM Bu Xiangzhi, won the strong 10-round tournament. In second place, half a point behind, finished GM Aryan Chopra from India. A group of eight players collected 7 points - the best tiebreak score was obtained by GM Liu Yan, Bu's compatriot, who thus completed the podium. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2023-mto",
          "pubDate" : "Fri, 28 Jul 2023 04:00:00 +0100",
          "title" : "Biel: Bu Xiangzhi wins the Masters Open Tournament"
+      },
+      {
+         "description" : "The Cuenca Open U2200 is taking place from 28-30 July2023 in Cuenca, Spain. Players receive 60 minutes plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Javier Longa Yauca, Francisco Fernandez Aguilar, Jose Ponce Navalon, Teodoro Asensio Linan, Oliver Kevin Uran Bermudez, Pablo Aymerich Rosell, Carlos Fernandez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cuenca-open-u2200/",
+         "pubDate" : "Fri, 28 Jul 2023 02:42:00 +0000",
+         "title" : "Cuenca Open U2200"
       },
       {
          "description" : "What a day it was for PogChamps 5. After two thrilling matches filled with plot twists and drama, I should probably consult with a heart doctor just to be safe.&#38;nbsp; Today, it was the CDawg from Virginia who won his match against Jarvis in the ...",
@@ -410,28 +466,12 @@ news_feed (
          "title" : "Biel: Le wins again, grabs the lead"
       },
       {
-         "description" : "The Tabiya Alcoy Masters is taking place from 24-30 July 2023 in Alcoy, Spain. Players receive 90 minutes plus 30 seconds per move starting from move 1. It is a 9-round Robin tournament with participation of Eric Sos Andreu, H James Plaskett,&#xA0;Dexter Docampo Beltran, Antonio Granero Roca, Felix-Antonio Ilinca, Diego Del Rey, Rene Marcial &#xA0;Alonso []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tabiya-alcoy-masters-2023-live/",
-         "pubDate" : "Tue, 25 Jul 2023 07:17:00 +0000",
-         "title" : "Tabiya Alcoy Masters 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2544",
          "pubDate" : "Tue, 25 Jul 2023 06:52:56 +0000",
          "title" : "US Senior and Juniors' Championship 2023: Khachiyan, Mishra and Lee win titles"
-      },
-      {
-         "description" : "The Tabiya Alcoy Masters is taking place from 24-30 July 2023 in Alcoy, Spain. Players receive 90 minutes plus 30 seconds per move starting from move 1. It is a 9-round Robin tournament. Chessdom.com will daily follow the live games. Parallel : Biel Chess Festival MTO 2023 / Biel GM Triathlon 2023 / Swiss Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tabiya-alcoy-masters-2023/",
-         "pubDate" : "Tue, 25 Jul 2023 06:50:00 +0000",
-         "title" : "Tabiya Alcoy Masters 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Mangalam in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-win-means-lot-me-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E5ZJvz9mm6I.jpg?itok=mwKTXqWM\" alt=\"\" /></a></div>",
@@ -514,28 +554,12 @@ news_feed (
          "title" : "Zukertort's grave discovered"
       },
       {
-         "description" : "The Sitges Open is taking place from 22&#x2013;30 July 2023 in Sitges, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tim Janzelj, Alexander Kovchan, Dylan Isidro Berdayes Ason, Robert Aloma Vidal, Rokas Klabis, Brian Sebasti Escalante Ramirez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sitges-open-2023-live/",
-         "pubDate" : "Mon, 24 Jul 2023 19:13:00 +0000",
-         "title" : "Sitges Open 2023 - LIVE"
-      },
-      {
          "description" : "Top American junior and senior chess players returned to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - competed for more than $130,000 in prizes. Replay all the games with computer-assisted analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
          "pubDate" : "Mon, 24 Jul 2023 20:00:00 +0100",
          "title" : "US Senior and Junior Championships - Games and standings"
-      },
-      {
-         "description" : "The Sitges Open is taking place from 22&#x2013;30 July 2023 in Sitges, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tim Janzelj, Alexander Kovchan, Dylan Isidro Berdayes Ason, Robert Aloma Vidal, Rokas Klabis, Brian Sebasti Escalante Ramirez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sitges-open-2023/",
-         "pubDate" : "Mon, 24 Jul 2023 18:41:00 +0000",
-         "title" : "Sitges Open 2023"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, where there was no lack of instructive ending positions! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -584,22 +608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2541",
          "pubDate" : "Mon, 24 Jul 2023 12:25:05 +0000",
          "title" : "Ju Wenjun crowned with her fourth World Championship Title: \"There are many memorable moments, and this is one of them\""
-      },
-      {
-         "description" : "The Dutch Open Championship is taking place from 25 July &#x2013; 3 August 2023 in Dieren, Netherlands. Players receive 90 minutes for 40 moves, then 30 minutes for the rest of the game plus 30 seconds per move starting from move 1. It is a 9-round Swiss open tournament with participation of Max Warmerdam, Erik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-open-championship-2023-live/",
-         "pubDate" : "Mon, 24 Jul 2023 11:40:00 +0000",
-         "title" : "Dutch Open Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Dutch Open Championship is taking place from 25 July &#x2013; 3 August 2023 in Dieren, Netherlands. Players receive 90 minutes for 40 moves, then 30 minutes for the rest of the game plus 30 seconds per move starting from move 1. It is a 9-round Swiss open tournament with participation of Max Warmerdam, Erik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-open-championship-2023/",
-         "pubDate" : "Mon, 24 Jul 2023 11:14:00 +0000",
-         "title" : "Dutch Open Championship 2023"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-has-moderate-day-gukesh-shines-with-twin-wins/articleshow/101569397.cms",
          "pubDate" : "Fri, 07 Jul 2023 08:39:01 +0000",
          "title" : "Grand Chess Tour: Anand has moderate day; Gukesh shines with twin wins"
-      },
-      {
-         "description" : " The final match in the new franchise-based league went down to a single combat blitz tiebreak and Jonas Bjerre caught Javokhir Sindarov with a snap mate Last Sunday's final of the $1m Global Chess League in Dubai went down to a single combat blitz game with an unlikely outcome. After several tiebreak stages failed to separate Triveni Continental Kings, led by Levon Aronian, and upGrad Mumba Masters, headed by Maxime Vachier-Lagrave, the match evolved to a 3+2 blitz game between Jonas Bjerre, 19, and Javokhir Sindarov, 17, where the Danish player, who had lost several previous games to the Uzbek, was the underdog. Sindarov pressed hard, but Bjerre kept the game going until both were blitzing",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jul/07/chess-checkmate-in-one-decides-finale-of-1m-global-league-in-dubai",
-         "pubDate" : "Fri, 07 Jul 2023 07:00:25 +0000",
-         "title" : "Chess: Checkmate in one decides finale of $1m Global League in Dubai"
       }
    ]
 }
