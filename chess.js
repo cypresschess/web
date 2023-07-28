@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/khadem-spains-number-1-after-gaining-citizenship",
+         "pubDate" : "Fri, 28 Jul 2023 12:56:24 -0700",
+         "title" : "Sara Khadem Leaves Iran, Gains Citizenship As Spain's New Number-1 Woman"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King goes over a brilliant attacking game played by Michael Adams at the British Championship. Extreme precision was shown by the English star! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Vidit Gujarathi: Master Advanced Tactics"
       },
       {
-         "description" : " The seven times champion Michael Adams, 51, shares the lead in Leicester, while England's No 1 is preparing to meet the elite in the 206-player knockout in Azerbaijan Michael Adams, the seven-time British champion and still the England No 2 at 51, shares the lead approaching Sunday's final round of the 2023 championship at Leicester. All the games can be watched free and live on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>. Adams scored an important win in <a href=\"https://chess24.com/en/watch/live-tournaments/british-championship-2023/4/1/1\" title=\"\">Tuesday's fourth round</a> when he outplayed the No 3 seed, Dan Fernandez, 28, whose opening surprise with the rare Scandinavian",
+         "description" : " The seven-time champion Michael Adams, 51, shares the lead in Leicester, while England's No 1 is preparing to meet the elite in the 206-player knockout in Azerbaijan Michael Adams, the seven-time British champion and still the England No 2 at 51, shares the lead with the No 3 seed GM Dan Fernandez, 28, before Sunday's final round (10am BST start) of the 2023 championship at Leicester. All the games can be watched free and live on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>. Adams won <a href=\"https://chess24.com/en/watch/live-tournaments/british-championship-2023/4/1/1\">his individual game against his rival</a> in Tuesday's fourth round. Fernandez's opening surprise with the r",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
@@ -1034,14 +1042,6 @@ news_feed (
          "title" : "The Round Robin"
       },
       {
-         "description" : "Challenger GM Lei Tingjie briefly threatened to take over in game 10 of the 2023 FIDE Women&#39;s World Championship, but defending champion GM Ju Wenjun &#34;took back&#34; a questionable move and soon even had a nominal advantage before the game fizzled out...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-10",
-         "pubDate" : "Wed, 19 Jul 2023 06:35:14 -0700",
-         "title" : "Women's World Championship Tied 5-5 Before Final Weekend"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1576,38 +1576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/teenager-gm-gukesh-stuns-viswanathan-anand-on-grand-chess-tour/articleshow/101590560.cms",
          "pubDate" : "Sat, 08 Jul 2023 06:23:53 +0000",
          "title" : "Teenager Gukesh stuns Anand on Grand Chess Tour"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2505",
-         "pubDate" : "Fri, 07 Jul 2023 23:02:18 +0000",
-         "title" : "FIDE Circuit at midway point"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2504",
-         "pubDate" : "Fri, 07 Jul 2023 22:09:00 +0000",
-         "title" : "Queens' Festival: Malak Ismayil and Chadha Meddeb win continental qualifiers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2507",
-         "pubDate" : "Fri, 07 Jul 2023 21:31:10 +0000",
-         "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 3 Recap"
-      },
-      {
-         "description" : " Brewington Hardaway (Twitter) In a span of seven months, Brewington Hardaway secured three norms for the title of International Master. His last one came at the 2023 World Open where he scored a strong 6/9 including a key win over GM Illia Nyzhnyk. &#8220;Brew&#8221; earned his first IM norm and the FM title in January The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/\">Brewington Hardaway gets 3rd/Final IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/07/brewington-hardaway-gets-3rd-final-im-norm/",
-         "pubDate" : "Fri, 07 Jul 2023 19:42:02 +0000",
-         "title" : "Brewington Hardaway gets 3rd/Final IM norm!"
       }
    ]
 }
