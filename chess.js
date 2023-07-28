@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-round-1.html",
+         "pubDate" : "Fri, 28 Jul 2023 13:25:00 +0000",
+         "title" : "2023 ANU Open - Round 1"
+      },
+      {
+         "description" : "GM Liem Le has been crowned as the winner of the Grandmaster Triathlon at the 2023 Biel International Chess Festival for the second year straight after a dominant classical performance. Following his 5/7 score and 2853 rating performance in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-quang-liem-wins-biel-international-chess-festival",
+         "pubDate" : "Fri, 28 Jul 2023 05:31:52 -0700",
+         "title" : "Liem Le Wins Biel International Grandmaster Triathlon"
+      },
+      {
          "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "Another Ending Another Low"
       },
       {
-         "description" : "Women&#39;s World Champion Ju Wenjun played the Sicilian Defense for the first time in the 2023 FIDE Women&#39;s World Championship and went on to make a comfortable draw with the black pieces, despite GM Lei Tingjie playing on until move 59.&#38;nbsp; The ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-9",
-         "pubDate" : "Tue, 18 Jul 2023 06:25:00 -0700",
-         "title" : "Ju Wenjun Plays Sicilian In Game 9 As Tension Builds"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1464,6 +1472,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2510",
          "pubDate" : "Sun, 09 Jul 2023 21:39:54 +0000",
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
+      },
+      {
+         "description" : "My routine for preparing the monthly post in the series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) always starts with preparing a short list of chess items sold in the previous month. Once in a while the same item -- or similar items -- appears twice on the short list. There is often a side story associated with this and the last time it happened was <A HREF=\"https://chessforallages.blogspot.com/2021/08/ebay-deja-vu.html\">eBay Deja Vu</A> (August 2021). <P> The composite image below shows two items from two different auctions. Both items were based on the title 'Blade Runner poster Laurent Durieux V",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/posters-for-blade-runner.html",
+         "pubDate" : "Sun, 09 Jul 2023 15:51:00 +0000",
+         "title" : "Posters for 'Blade Runner'"
       },
       {
          "description" : "",
