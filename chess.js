@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the end, the favourite prevailed. The top seed at the Biel Master Open, Chinese GM Bu Xiangzhi, won the strong 10-round tournament. In second place, half a point behind, finished GM Aryan Chopra from India. A group of eight players collected 7 points - the best tiebreak score was obtained by GM Liu Yan, Bu's compatriot, who thus completed the podium. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-mto",
+         "pubDate" : "Fri, 28 Jul 2023 04:00:00 +0100",
+         "title" : "Biel: Bu Xiangzhi wins the Masters Open Tournament"
+      },
+      {
+         "description" : "What a day it was for PogChamps 5. After two thrilling matches filled with plot twists and drama, I should probably consult with a heart doctor just to be safe.&#38;nbsp; Today, it was the CDawg from Virginia who won his match against Jarvis in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-2",
+         "pubDate" : "Thu, 27 Jul 2023 19:08:23 -0700",
+         "title" : "Plot Twists, Tiebreaks, And Cartwheels: CDawgVA And Ghastly Prevail"
+      },
+      {
          "description" : "There is a new celebrity chess couple: Atousa Pourkashiyan and Hikaru Nakamura announced their wedding and now join the list of prominent chess couples. Given their playing level, they are surely near the top of the unofficial couples' rating list. | Photo: Atousa Pourkashiyan's Instagram profile",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -794,14 +810,6 @@ news_feed (
          "title" : "Gukesh beats Carlsen's feat of youngest to reach Elo 2750"
       },
       {
-         "description" : "The new sole leader of the Grandmaster Triathlon in Biel is Vincent Keymer. The youngest participant in the competition beat top seed Yu Yangyi and was thus able to leave former co-leader Navara behind in the standings. The latter signed his third consecutive draw, this time against Bogdan-Daniel Deac. Le Quang Liem climbed to third place after beating Arjun Erigaisi. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r4",
-         "pubDate" : "Sat, 22 Jul 2023 08:05:00 +0100",
-         "title" : "Biel: Keymer beats Yu, leads"
-      },
-      {
          "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2023 at Tashkent, Uzbekistan. Delhi",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-pune/",
          "pubDate" : "Tue, 18 Jul 2023 07:46:07 +0000",
          "title" : "AICF's Fair Play Orientation Workshop, Pune"
-      },
-      {
-         "description" : "The favorites swept the underdogs in the opening round of the Bullet Chess Championship 2023 on Monday. Debuting in the event, GM Magnus Carlsen won nearly every game vs. GM Eric Hansen.&#38;nbsp;GM Oleksandr Bortnyk fought off GM Fabiano Caruana&#39;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-1",
-         "pubDate" : "Mon, 17 Jul 2023 19:05:00 -0700",
-         "title" : "Matching Mocktails: Carlsen Defeats Chessbrah In Bullet Debut"
       },
       {
          "description" : "",
@@ -1600,22 +1600,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/07/chess-checkmate-in-one-decides-finale-of-1m-global-league-in-dubai",
          "pubDate" : "Fri, 07 Jul 2023 07:00:25 +0000",
          "title" : "Chess: Checkmate in one decides finale of $1m Global League in Dubai"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2503",
-         "pubDate" : "Fri, 07 Jul 2023 00:42:44 +0000",
-         "title" : "Winners crowned at the inaugural chess event of the XXIV Central American and Caribbean Games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2502",
-         "pubDate" : "Fri, 07 Jul 2023 00:35:08 +0000",
-         "title" : "GCT SuperUnited Rapid and Blitz Croatia: Day 2 Recap"
       }
    ]
 }
