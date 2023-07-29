@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2549",
+         "pubDate" : "Sat, 29 Jul 2023 18:53:39 +0000",
+         "title" : "FIDE World Cup 2023: Opening ceremony and press conference"
+      },
+      {
+         "description" : " Last week, we looked at some basic concepts regarding the pawn and its place in the endgame. I wrote about the importance of maintaining a good pawn structure throughout the game. This week, we'll start to look at this idea in more detail. Let's dig in! I mentioned that pawns have perfect structure at the <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-nine/\">A Foundation for Beginners Ninety Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-nine/",
+         "pubDate" : "Sat, 29 Jul 2023 18:30:18 +0000",
+         "title" : "A Foundation for Beginners Ninety Nine"
+      },
+      {
+         "description" : "Two years ago, we had a collection of \"random\" endgame studies, a small kaleidoscope, in January, and then again in July. With the vast number of different possibilities in endgame studies, many creations wouldn't fit into a coherent article, so let us take this approach again. | Pictured: Mikhail Botvinnik during his match for the world crown against David Bronstein in 1951",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-kaleidoscope-iii",
+         "pubDate" : "Sat, 29 Jul 2023 18:40:00 +0100",
+         "title" : "Study of the Month: Kaleidoscope III"
+      },
+      {
+         "description" : " The FIDE World Cup takes place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he has never won the event and clearly sees this as something he would like to rectify. His leading rivals are Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside is an equally well represented women's field including World Champion Ju Wenjun. Play starts at 12pm BST or 15:00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
+         "pubDate" : "Sat, 29 Jul 2023 20:20:00 +0400",
+         "title" : "FIDE World Cup 2023 - Games and Results"
+      },
+      {
          "description" : " IM Junta Ikeda has taken the outright lead in the 2023 ANU Open. He scored another 3 wins today, including an important Round4 victory over third seed Harry Press. He is half a point ahead of 2nd seed FM Fred Litchfield, after Litchfield took a bye for the evening round. As Litchfield is the only player on 3.5, he faces Ikeda in the morning round. In third place are Press, Terrence Tang, Harvey Zhu and Leiming Yu. Yu has been the real surprise of this event, scoring 3/4 against players rated 500 points ahead of him. He faces Tang in round 5, and based on current form, has good chances to go into the final round on 4/5. In the Minor (Under 1600), it is the unrated players setting the pace. M",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -58,12 +90,44 @@ news_feed (
          "title" : "Islam, chess and the first grandmaster"
       },
       {
+         "description" : "The Swiss Championship Rapid is taking place on 30 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;It si a 9-round Swiss tournament with participation of Gabriel Gaehwiler, Roland Loetscher, Branko Filipovic, Fabian Baenziger, Aurelio Colmenares, Fabrizio Patuzzo, Oliver Sutter, Noah Fecker, Patrik []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-championship-rapid-live/",
+         "pubDate" : "Sat, 29 Jul 2023 06:30:00 +0000",
+         "title" : "Swiss Championship Rapid - LIVE"
+      },
+      {
          "description" : "With trash talk, surprise checkmates, and ruthless king hunts, the competitors went all out on day three of PogChamps 5. Franks-is-heres inspired himself into victory vs. the ever-calm Sykkuno, tying with CDawgVA for first in Group A. Sapnap def...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
          "pubDate" : "Fri, 28 Jul 2023 23:29:00 -0700",
          "title" : "Best Game Ever Or Worst Game Ever?: Papaplatte, Sapnap, Franks-is-heres Victorious"
+      },
+      {
+         "description" : "The Swiss Championship Rapid is taking place on 30 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;It si a 9-round Swiss tournament with participation of Gabriel Gaehwiler, Roland Loetscher, Branko Filipovic, Fabian Baenziger, Aurelio Colmenares, Fabrizio Patuzzo, Oliver Sutter, Noah Fecker, Patrik []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-championship-rapid/",
+         "pubDate" : "Sat, 29 Jul 2023 06:10:00 +0000",
+         "title" : "Swiss Championship Rapid"
+      },
+      {
+         "description" : "The U16 Spanish Rapid Championship is taking place from 29-30 July 2023 in Salobre&#xF1;a (Granada), Spain. Players receive 10 minutes for the entire game, plus a 5-second increment starting from move one. It is a 9-round tournament with participation of Albert Fernandez Climent, Diego Macias Pino, Javier Habans Aguerrea, Xulio Del Prado Rodriguez, Lorenzo Perea []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-spanish-championship-rapid-live/",
+         "pubDate" : "Sat, 29 Jul 2023 05:14:00 +0000",
+         "title" : "U16 Spanish Championship - Rapid - LIVE"
+      },
+      {
+         "description" : "The U16 Spanish Rapid Championship is taking place from 29-30 July 2023 in Salobre&#xF1;a (Granada), Spain. Players receive 10 minutes for the entire game, plus a 5-second increment starting from move one. It is a 9-round tournament with participation of Albert Fernandez Climent, Diego Macias Pino, Javier Habans Aguerrea, Xulio Del Prado Rodriguez, Lorenzo Perea []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-spanish-championship-rapid/",
+         "pubDate" : "Sat, 29 Jul 2023 04:43:00 +0000",
+         "title" : "U16 Spanish Championship - Rapid"
       },
       {
          "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
@@ -232,38 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fabien-libiszewski-the-surprising-janowski-variation-3-a6-in-the-queen-s-gambit-declined",
          "pubDate" : "Thu, 27 Jul 2023 18:00:00 +0100",
          "title" : "Fabien Libiszewski: The surprising Janowski Variation (3...a6) in the Queen's Gambit Declined"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Cup is a 103-player knockout taking place in Baku, Azerbaijan from July 30 to August 21. The prize fund is almost $700k, with $50,000 for the winner, while the top three also qualify for the 2024 Women's Candidates Tournament. The top 25 players, including Women's World Champion Ju Wenjun, are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-cup-2023-live/",
-         "pubDate" : "Thu, 27 Jul 2023 15:41:51 +0000",
-         "title" : "FIDE Women's World Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 FIDE Women's World Cup is a 103-player knockout taking place in Baku, Azerbaijan from July 30 to August 21. The prize fund is almost $700k, with $50,000 for the winner, while the top three also qualify for the 2024 Women's Candidates Tournament. The top 25 players, including Women's World Champion Ju Wenjun, are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-cup-2023/",
-         "pubDate" : "Thu, 27 Jul 2023 15:39:42 +0000",
-         "title" : "FIDE Women's World Cup 2023"
-      },
-      {
-         "description" : "The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the 2024 Candidates Tournament. The top 50 players, who include world nos 1-3 Magnus Carlsen, Hikaru []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-2023-live/",
-         "pubDate" : "Thu, 27 Jul 2023 15:34:49 +0000",
-         "title" : "FIDE World Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the 2024 Candidates Tournament. The top 50 players, who include world nos 1-3 Magnus Carlsen, Hikaru []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-2023/",
-         "pubDate" : "Thu, 27 Jul 2023 15:32:21 +0000",
-         "title" : "FIDE World Cup 2023"
       },
       {
          "description" : "FIDE had given Vasyl Ivanchuk a wildcard to take part in the upcoming World Cup, but the Ukrainian grandmaster did not, initially, receive permission from the Ministry of Sport to take part. Six top grandmasters, including former world champions Magnus Carlsen and Vishy Anand, signed a petition. Now the Ukrainian Ministry of Sport has granted permission - with conditions. | Photo: FIDE",
@@ -760,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
          "pubDate" : "Sun, 23 Jul 2023 20:05:00 +0100",
          "title" : "Hesse on the World Chess Day"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 135th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look into the legacy of Dr. Siegbert Tarrasch. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-132-chess-history-in-a-nutshell-5",
-         "pubDate" : "Sun, 23 Jul 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 135: Chess history in a nutshell (17)"
       },
       {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
@@ -1568,14 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2508",
          "pubDate" : "Sun, 09 Jul 2023 00:49:12 +0000",
          "title" : "2023 SuperUnited Rapid & Blitz - Day 4 Recap"
-      },
-      {
-         "description" : "Regular readers of my column will have observed my general aversion to cancel culture and the obliteration of memory. In TheArticle I have regularly inveighed against attempts to erase history, citing heinous examples, such as the Spanish conquistadors, a small group of heavily outnumbered activists, who exerted sufficient control to eradicate a nation's history, abolish its []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/damnatio-memoriae/",
-         "pubDate" : "Sat, 08 Jul 2023 15:33:46 +0000",
-         "title" : "Damnatio Memoriae"
       }
    ]
 }
