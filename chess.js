@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Packed to the brim with players, guests, officials and staff, the Baku Convention Centre hosted the festivities, including speeches, music, dance, as the 2023 edition of the FIDE World Cup was inaugurated in the capital of Azerbaijan. In the open section, Ivan Cheparinov, the top player starting in round 1, as well as Magnus Carlsen, the top player overall and joining in round 2, will start with white in the first game. | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-opening-ceremony",
+         "pubDate" : "Sat, 29 Jul 2023 22:30:00 +0100",
+         "title" : "FIDE World Cup: Opening ceremony and press conference"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-endgames-women",
          "pubDate" : "Sun, 23 Jul 2023 23:00:00 +0100",
          "title" : "Endgames from the Global Chess League (women's edition)"
-      },
-      {
-         "description" : "World Chess Day is celebrated annually on July 20. It is the date when FIDE was founded, 99 years ago. The idea to celebrate this was proposed by UNESCO, and its purpose is to raise awareness of the game and its benefits (improving cognitive skills, problem-solving abilities, and strategic thinking). In an article in a German science portal mathematics professor Christian Hesse, who has written quite extensively about chess, tells us how chess offers a profound intellectual duel with a surprising thrill factor. | Image S&uuml;leyman Kayaalp",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hesse-on-the-world-chess-day",
-         "pubDate" : "Sun, 23 Jul 2023 20:05:00 +0100",
-         "title" : "Hesse on the World Chess Day"
       },
       {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
