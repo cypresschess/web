@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
+         "pubDate" : "Sat, 29 Jul 2023 09:05:00 +0100",
+         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
+      },
+      {
          "description" : "In the diagram position 32.Bf6! seals the deal for White, but seeing in advance how she checkmates by force after 32...Bxf6 might well be a challenge. Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +31,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
          "pubDate" : "Fri, 28 Jul 2023 23:29:33 -0700",
-         "title" : "Best Game Ever Or Worst Game Ever?"
+         "title" : "Best Game Ever Or Worst Game Ever?: Papaplatte, Sapnap, Franks-is-heres Victorious"
       },
       {
          "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
@@ -384,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-shows-chess-is-a-powerful-tool-against-dementia-video",
          "pubDate" : "Wed, 26 Jul 2023 14:10:00 +0100",
          "title" : "Study shows chess is a powerful tool against dementia (video)"
-      },
-      {
-         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Wed, 26 Jul 2023 14:05:00 +0100",
-         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
       },
       {
          "description" : "The 2023 FIDE World Chess Cup and the FIDE Women's World Chess Cup 2023 kick off this Saturday in Baku, Azerbaijan. The Open event is taking place from 29 July to 25 August, and the Women's tournament will be played from 29 July to 22 August in the same venue. The FIDE World Chess Cup will gather 206 players, and the top seeds are: Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov, Dommaraju Gukesh, []",
@@ -1154,6 +1154,14 @@ news_feed (
          "title" : "ChessFest!"
       },
       {
+         "description" : "This month's short list for featured video had more clips than any month since November 2022, when the so-called Niemann affair was reaching its peak interest. This video, from Youtube channel <I>Athletic Interest</I>, was my favorite among many excellent choices. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/XXuBH7JM5aA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>How Chess Broke YouTube</B> (10:28) &#149; '[Published on] Jul 13, 2023' <P> What's <I>Athletic Interest</I>? The description for the clip explains, <BLOCKQUOTE> At",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-giddy.html",
+         "pubDate" : "Sun, 16 Jul 2023 15:41:00 +0000",
+         "title" : "Gotham Gets Giddy"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/adjusting-difficulty/",
          "pubDate" : "Sat, 08 Jul 2023 12:00:00 +0000",
          "title" : "Adjusting Difficulty for Optimal Chess Improvement"
-      },
-      {
-         "description" : " This week, we're going to start transitioning into the endgame, which is perhaps the game phase most neglected by beginners. In the days of yore, chess teachers would often teach beginners how to play, starting with the endgame, working backwards towards the opening. This made great sense because you could teach pawn and piece coordination <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-seven/\">A Foundation for Beginners Ninety Seven</a> appeared first",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-seven/",
-         "pubDate" : "Sat, 08 Jul 2023 11:02:16 +0000",
-         "title" : "A Foundation for Beginners Ninety Seven"
       }
    ]
 }
