@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Junta Ikeda has taken the outright lead in the 2023 ANU Open. He scored another 3 wins today, including an important Round4 victory over third seed Harry Press. He is half a point ahead of 2nd seed FM Fred Litchfield, after Litchfield took a bye for the evening round. As Litchfield is the only player on 3.5, he faces Ikeda in the morning round. In third place are Press, Terrence Tang, Harvey Zhu and Leiming Yu. Yu has been the real surprise of this event, scoring 3/4 against players rated 500 points ahead of him. He faces Tang in round 5, and based on current form, has good chances to go into the final round on 4/5. In the Minor (Under 1600), it is the unrated players setting the pace. M",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-days-2.html",
+         "pubDate" : "Sat, 29 Jul 2023 13:38:00 +0000",
+         "title" : "2023 ANU Open Days 2"
+      },
+      {
+         "description" : "Chess in India is at a good place. Yet that's only half the picture: women's chess in India lags quite behind the men's game",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38092691/chess-india-koneru-humpy-harika-dronavalli-bridging-gap-women-men?device=featurephone",
+         "pubDate" : "Sat, 29 Jul 2023 07:22:46 -0500",
+         "title" : "Chess in India: Humpy and Harika on bridging the gap between women and men"
+      },
+      {
+         "description" : "Johannes Zukertort played the first \"Competition for the World Chess Championship\" against Wilhelm Steinitz in 1886. He lost the match, fell ill during the match and never recovered. He died two years later in London. His grave in Brompton Cemetery in London was forgotten until Stuart Conquest rediscovered it. This is the story about it. | Photos: Stuart Conquest, Helmut Pfleger",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/visiting-johannes-zukertort-grave",
+         "pubDate" : "Sat, 29 Jul 2023 13:20:00 +0100",
+         "title" : "Visiting Johannes Zukertort's grave"
+      },
+      {
+         "description" : "We all want to have some fun. As you read this article on a chess improvement blog, you also want to improve your game. The problem is that the most fun things usually lead to the least improvement. Watching your favorite streamer, banter blitz against your friends, or watching a YouTube video are all fun []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/enjoyment-vs-training/",
+         "pubDate" : "Sat, 29 Jul 2023 12:00:00 +0000",
+         "title" : "Chess Enjoyment vs. Training: Striking the Right Balance"
+      },
+      {
          "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
-         "pubDate" : "Fri, 28 Jul 2023 23:29:33 -0700",
+         "pubDate" : "Fri, 28 Jul 2023 23:29:00 -0700",
          "title" : "Best Game Ever Or Worst Game Ever?: Papaplatte, Sapnap, Franks-is-heres Victorious"
       },
       {
@@ -744,14 +776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-womens-world-championship_23.html",
          "pubDate" : "Sun, 23 Jul 2023 13:47:00 +0000",
          "title" : "2023 Women's World Championship "
-      },
-      {
-         "description" : "In the seventh round of the US Junior Championship played on Saturday, Arthur Guo (pictured) defeated Andrew Hong, who entered the round tied with him in first place. Since Abhimanyu Mishra, the third member of the former leading trio, had to settle for a draw against Justin Wang, Guo became the sole leader with two rounds to go. Melikset Khachiyan continues to lead the Seniors category, while Alice Lee extended her lead to a full point in the Girls' Championship. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r7",
-         "pubDate" : "Sun, 23 Jul 2023 14:00:00 +0100",
-         "title" : "US Juniors and Seniors: Lee, Guo and Khachiyan sole leaders"
       },
       {
          "description" : " The latest volume in my Chess Heroes series, designed to take students up to about 1500 strength, has just been published on Amazon. To refresh your memory about the structure, we start, if required, with an elementary book teaching the basics, which will take you up to about 500 strength. Then there are four parallel <a href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Puzzles Book 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\">Chess Heroes: Puzzles Book 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
@@ -1552,30 +1576,6 @@ news_feed (
          "link" : "https://www.thearticle.com/damnatio-memoriae/",
          "pubDate" : "Sat, 08 Jul 2023 15:33:46 +0000",
          "title" : "Damnatio Memoriae"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2506",
-         "pubDate" : "Sat, 08 Jul 2023 13:03:19 +0000",
-         "title" : "WWC Match 2023: Ju gives Lei a break in a difficult position, ending in a draw"
-      },
-      {
-         "description" : " I saw a question on one of Facebook arbiters groups, asking how many rounds for a 16 player tournament. Most arbiters suggested 5 rounds (sqrt(n)+1 rounds, where n is the number of players) while the most imaginative answer was 15. This is technically correct as the original question did not specify a format. A few did suggest 4 rounds would do, factoring the chances that some games would be drawn. Whether the latter answer is correct will be put to the test at tomorrows NSW Rapid Championship. The event has a field of 142 and is scheduled for 7 rounds. The risk is that if all games are decisive there is a chance that 2 players may score 7/7, without playing each other. Of course this almos",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/how-many-rounds.html",
-         "pubDate" : "Sat, 08 Jul 2023 12:36:00 +0000",
-         "title" : "How many rounds?"
-      },
-      {
-         "description" : "A couple of years ago I talked to a seemingly very talented player, who invested a lot of time in chess training, but stagnated for a while. The big question was: Why are they not able to improve? At some point, we started talking about which books they worked on and I nearly fell off []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/adjusting-difficulty/",
-         "pubDate" : "Sat, 08 Jul 2023 12:00:00 +0000",
-         "title" : "Adjusting Difficulty for Optimal Chess Improvement"
       }
    ]
 }
