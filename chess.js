@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position 32.Bf6! seals the deal for White, but seeing in advance how she checkmates by force after 32...Bxf6 might well be a challenge. Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/trivial-pursuit",
+         "pubDate" : "Sat, 29 Jul 2023 09:00:00 +0100",
+         "title" : "Trivial pursuit"
+      },
+      {
+         "description" : "Through the medium of this column I have often inveighed against perversions of chess, such as so called Fischerrandom, Varied Baseline Chess, or Chess 960. In all of these heresies against the true faith, players are allotted a choice of nine hundred and sixty different start up positions for the pieces, rather than adhering to the traditional array. The ancestral template []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/islam-chess-and-the-first-grandmaster/",
+         "pubDate" : "Sat, 29 Jul 2023 06:36:14 +0000",
+         "title" : "Islam, chess and the first grandmaster"
+      },
+      {
+         "description" : "With trash talk, surprise checkmates, and ruthless king hunts, the competitors went all out on day three of PogChamps 5. Franks-is-heres inspired himself into victory vs. the ever-calm Sykkuno, tying with CDawgVA for first in Group A. Sapnap def...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
+         "pubDate" : "Fri, 28 Jul 2023 23:29:33 -0700",
+         "title" : "Best Game Ever Or Worst Game Ever?"
+      },
+      {
          "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -746,14 +770,6 @@ news_feed (
          "title" : "Death, Taxes, And Nakamura's Bullet Brawl Victories"
       },
       {
-         "description" : "Ju Wenjun won the twelfth and final classical game of her match against Lei Tingjie to successfully defend the Women's World Championship title. This is Ju's fourth victory in a fight for the biggest title in women's chess. The 32-year-old from Shanghai grabbed the women's crown for the first time in 2018 and is set to continue her reign for at least one more year. | Photos: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/womens-world-championship-2023-game-12",
-         "pubDate" : "Sat, 22 Jul 2023 23:15:00 +0100",
-         "title" : "Ju Wenjun scores clutch win, defends World Championship title"
-      },
-      {
          "description" : "We are thrilled to announce major improvements to engines on Chess.com. Only weeks after the release of Stockfish 16, the newest version of the engine is now also available on our website. The engine is stronger than ever and brings a new evaluati...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2533",
          "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
          "title" : "ChessFest takes over London"
-      },
-      {
-         "description" : "With swift and tricky play, GM Alireza Firouzja defeated GM Magnus Carlsen in the semifinals of the Bullet Chess Championship 2023 on Wednesday. GM Hikaru Nakamura bested GM Daniel Naroditsky in match loaded with dazzling tactics. Firouzja and Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-3",
-         "pubDate" : "Wed, 19 Jul 2023 11:16:00 -0700",
-         "title" : "Firouzja Outshines Carlsen: 'I Saw Myself As The Favorite'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101965825.cms\" />In a remarkable achievement, 17-year-old Indian Grandmaster R Praggnanandhaa emerged as the champion in the V Geza Hetenyi Memorial Super GM chess tournament 2023 held in Budapest, Hungary.",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-seven/",
          "pubDate" : "Sat, 08 Jul 2023 11:02:16 +0000",
          "title" : "A Foundation for Beginners Ninety Seven"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101590560.cms\" />In a remarkable turn of events at the 2023 SuperUnited Rapid and Blitz tournament, young Indian Grandmaster D Gukesh achieved a memorable victory over his esteemed compatriot and idol, Viswanathan Anand, in the eighth round of the Rapid event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/teenager-gm-gukesh-stuns-viswanathan-anand-on-grand-chess-tour/articleshow/101590560.cms",
-         "pubDate" : "Sat, 08 Jul 2023 06:23:53 +0000",
-         "title" : "Teenager Gukesh stuns Anand on Grand Chess Tour"
       }
    ]
 }
