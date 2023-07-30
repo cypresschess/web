@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ukraine&#39;s GM Oleksandr Bortnyk won July&#39;s final Bullet Brawl after chalking up 70 wins in the two-hour arena en route to an insurmountable 261 score. His journey to the top was marked by a 26-game win streak in the final 30 minutes of the event. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-july-week-4",
+         "pubDate" : "Sat, 29 Jul 2023 17:11:00 -0700",
+         "title" : "Bortnyk Blazes Bullet Brawl Field"
+      },
+      {
          "description" : "Packed to the brim with players, guests, officials and staff, the Baku Convention Centre hosted the festivities, including speeches, music, dance, as the 2023 edition of the FIDE World Cup was inaugurated in the capital of Azerbaijan. In the open section, Ivan Cheparinov, the top player starting in round 1, as well as Magnus Carlsen, the top player overall and joining in round 2, will start with white in the first game. | Photo: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1058,14 +1066,6 @@ news_feed (
          "title" : "FIDE turns 99"
       },
       {
-         "description" : "Russian chess continues to lose its top players. Former Candidates participant GM Kirill Alekseenko has now completed the transfer to Austria and becomes the country&#39;s highest-rated player.&#38;nbsp; The 26-year-old from St. Petersburg who was ranke...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kirill-alekseenko-leaves-russia-joins-austria",
-         "pubDate" : "Wed, 19 Jul 2023 13:36:00 -0700",
-         "title" : "Kirill Alekseenko Leaves Russia, Becomes New Austrian Number One"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1584,14 +1584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-d-gukesh-tied-6th-after-nine-games/articleshow/101609968.cms",
          "pubDate" : "Sun, 09 Jul 2023 06:40:42 +0000",
          "title" : "Grand Chess Tour: Anand, Gukesh tied 6th after nine games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2508",
-         "pubDate" : "Sun, 09 Jul 2023 00:49:12 +0000",
-         "title" : "2023 SuperUnited Rapid & Blitz - Day 4 Recap"
       }
    ]
 }
