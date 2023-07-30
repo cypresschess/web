@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The World Cup tournament will start tomorrow and all of the world's biggest stars will assemble in Baku, Azerbaijan for the massive knockout tournament. Just about everyone will be there including representatives nominated by smaller federations. There are a lot of headliners including Magnus Carlsen, Hikaru Nakamura (wildcard), Fabiano Caruana, and many of the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/\">World Chess Cup 2023 begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/",
+         "pubDate" : "Sun, 30 Jul 2023 14:14:47 +0000",
+         "title" : "World Chess Cup 2023 begins!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 136th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-136-chess-history-in-a-nutshell-18",
+         "pubDate" : "Sun, 30 Jul 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 136: Chess history in a nutshell (18)"
+      },
+      {
+         "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Harry Press in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Eshaan",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-ikeda-wins.html",
+         "pubDate" : "Sun, 30 Jul 2023 13:16:00 +0000",
+         "title" : "2023 ANU Open - Ikeda wins"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku, Azerbaijan. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: Stev Bonhage / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/cuenca-open-u2200-live/",
          "pubDate" : "Fri, 28 Jul 2023 03:10:00 +0000",
          "title" : "Cuenca Open U2200 - LIVE"
-      },
-      {
-         "description" : "In the end, the favourite prevailed. The top seed at the Biel Master Open, Chinese GM Bu Xiangzhi, won the strong 10-round tournament. In second place, half a point behind, finished GM Aryan Chopra from India. A group of eight players collected 7 points - the best tiebreak score was obtained by GM Liu Yan, Bu's compatriot, who thus completed the podium. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-mto",
-         "pubDate" : "Fri, 28 Jul 2023 04:00:00 +0100",
-         "title" : "Biel: Bu Xiangzhi wins the Masters Open Tournament"
       },
       {
          "description" : "The Cuenca Open U2200 is taking place from 28-30 July2023 in Cuenca, Spain. Players receive 60 minutes plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Javier Longa Yauca, Francisco Fernandez Aguilar, Jose Ponce Navalon, Teodoro Asensio Linan, Oliver Kevin Uran Bermudez, Pablo Aymerich Rosell, Carlos Fernandez []",
@@ -1552,14 +1568,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/posters-for-blade-runner.html",
          "pubDate" : "Sun, 09 Jul 2023 15:51:00 +0000",
          "title" : "Posters for 'Blade Runner'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2509",
-         "pubDate" : "Sun, 09 Jul 2023 13:48:25 +0000",
-         "title" : "WWC Match 2023: Lei's opening surprise meets Ju's endgame resurgence"
       }
    ]
 }
