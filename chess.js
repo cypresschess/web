@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "14-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns from Wedn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-1",
+         "pubDate" : "Sun, 30 Jul 2023 13:54:00 -0700",
+         "title" : "Stunning Start By Ediz Gurel, The World Cup's Youngest Player"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2550",
          "pubDate" : "Sun, 30 Jul 2023 19:02:13 +0000",
          "title" : "FIDE World Cup 2023: Round 1 Day 1 Report"
-      },
-      {
-         "description" : "... that's all that's left to take advantage of our special summer offer. Here's your chance to catch up with power users of ChessBase and Fritz - in fact adding the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Sun, 30 Jul 2023 19:00:00 +0100",
-         "title" : "Just a few more hours..."
       },
       {
          "description" : "John Jacob Loewenthal is largely remembered as a prominent character in the legend of Paul Morphy. The American champion defeated him twice in two continents: once when he was a boy in New Orleans, and then again when he was a young man during his famous tour in Europe. In his own right, however, Loewenthal was a great master who did more for chess than most of the luminaries of his time. His was a life given solely to the game. On the recent 147th anniversary of his passing, it is fitting to remember his life and career.",
@@ -58,7 +58,7 @@ news_feed (
          "title" : "Understanding before Moving 136: Chess history in a nutshell (18)"
       },
       {
-         "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Harry Press in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Eshaan",
+         "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Fred Litchfield in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Es",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-ikeda-wins.html",
@@ -834,6 +834,14 @@ news_feed (
          "title" : "Sponsorship announcement"
       },
       {
+         "description" : "One of the essential chess assets that FIDE oversees is FIDE ratings. In the past decade, certain innovations have caused rating deflation, a concern that has been raised by professional players and mathematicians and did not go unnoticed by FIDE. The International Federation encourages the chess community to express their thoughts on this proposal and send them comments, suggestions, ideas, and mathematical calculations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-seeks-proposals-rating-changes",
+         "pubDate" : "Mon, 24 Jul 2023 06:30:00 +0100",
+         "title" : "FIDE seeks public discussion about proposed rating changes"
+      },
+      {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/international-chess-day.html",
          "pubDate" : "Wed, 19 Jul 2023 23:02:00 +0000",
          "title" : "International Chess Day"
-      },
-      {
-         "description" : "17-year-old GM Praggnanandhaa Rameshbabu continues to climb the highest rungs of professional chess. On Wednesday, he won the V. Geza Hetenyi Memorial | GM, held in Budapest, and will cross the 2700-rating threshold on the next official FIDE list....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-breaks-2700-rating",
-         "pubDate" : "Wed, 19 Jul 2023 16:01:00 -0700",
-         "title" : "Praggnanandhaa Breaks 2700 Rating With Tournament Win In Budapest"
       },
       {
          "description" : "",
@@ -1568,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2511",
          "pubDate" : "Sun, 09 Jul 2023 23:50:51 +0000",
          "title" : "Magnus Carlsen wins 2023 SuperUnited Rapid & Blitz"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2510",
-         "pubDate" : "Sun, 09 Jul 2023 21:39:54 +0000",
-         "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
       }
    ]
 }
