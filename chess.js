@@ -1568,22 +1568,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2023",
          "pubDate" : "Sun, 9 Jul 2023 13:21:00 +0400",
          "title" : "SuperUnited Rapid & Blitz 2023 - Games and Results"
-      },
-      {
-         "description" : " I'd say round about a quarter of the games I play in our club's weekly online tournament are decided in the ending. Which is why I keep on banging on about learning to play endings really well. Here's one from last week's blitz arena: I was Black against a slightly stronger opponent. It was White's <a href=\"https://chessimprover.com/imprisonment/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Imprisonment\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/imprisonment/\">Imprisonment</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/imprisonment/",
-         "pubDate" : "Sun, 09 Jul 2023 07:10:57 +0000",
-         "title" : "Imprisonment"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101609968.cms\" />Indian players Viswanathan Anand and young GM D Gukesh slipped on the first day of the Blitz segment in the 2023 SuperUnited Rapid and Blitz tournament, part of the Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-viswanathan-anand-d-gukesh-tied-6th-after-nine-games/articleshow/101609968.cms",
-         "pubDate" : "Sun, 09 Jul 2023 06:40:42 +0000",
-         "title" : "Grand Chess Tour: Anand, Gukesh tied 6th after nine games"
       }
    ]
 }
