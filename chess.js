@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku, Azerbaijan. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sun, 30 Jul 2023 12:45:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "Ukraine&#39;s GM Oleksandr Bortnyk won July&#39;s final Bullet Brawl after chalking up 70 wins in the two-hour arena en route to an insurmountable 261 score. His journey to the top was marked by a 26-game win streak in the final 30 minutes of the event. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -794,14 +802,6 @@ news_feed (
          "title" : "FIDE seeks public discussion about proposed rating changes"
       },
       {
-         "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious, with Jonas Buhl Bjerre scoring the deciding win in an exciting tiebreaker. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here five instructive endings, all featuring women players! | Pictured: Nino Batsaishvili. | Photo: Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-endgames-women",
-         "pubDate" : "Sun, 23 Jul 2023 23:00:00 +0100",
-         "title" : "Endgames from the Global Chess League (women's edition)"
-      },
-      {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1120,6 +1120,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2531",
          "pubDate" : "Wed, 19 Jul 2023 12:00:13 +0000",
          "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
+      },
+      {
+         "description" : "When I posted <A HREF=\"https://chessforallages.blogspot.com/2023/05/2023-cja-awards-announcement.html\">2023 CJA Awards Announcement</A> (May 2023), I wrote, <BLOCKQUOTE> Since I'm gradually winding down by blogging activity, I don't know if I'll post [about the CJA] so many times this year, but I'll certainly do what I can. </BLOCKQUOTE> <P> Both out of curiosity and force of habit, I tried to look at the list of 2023 CJA (Chess Journalists of America) entries after it became available. The following image is a screen capture of the page I found. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng18.gif\" WIDTH=400 HEIGHT=270><BR> <A HREF=\"https://chessjournalism.org/2023-award-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html",
+         "pubDate" : "Tue, 18 Jul 2023 15:42:00 +0000",
+         "title" : "2023 CJA Award Entries"
       },
       {
          "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
@@ -1552,22 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2509",
          "pubDate" : "Sun, 09 Jul 2023 13:48:25 +0000",
          "title" : "WWC Match 2023: Lei's opening surprise meets Ju's endgame resurgence"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101613240.cms\" />India will send a formidable 10-member chess contingent to the upcoming Asian Games in Hangzhou in a bid to showcase their chess prowess on the international stage. Led by double Asian Games gold medallist Koneru Humpy and bronze medallist Dronavalli Harika, the Indian team is determined to make their mark in the continental games, scheduled to commence on September 23.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/humpy-harika-to-spearhead-indias-challenge-in-asian-games/articleshow/101613240.cms",
-         "pubDate" : "Sun, 09 Jul 2023 10:18:23 +0000",
-         "title" : "Humpy, Harika to spearhead India's challenge in Asian Games"
-      },
-      {
-         "description" : " The SuperUnited Rapid & Blitz, part of the Grand Chess Tour, took place in Zagreb Wed 5th to Mon 10th July 2023. The final results came from a combination of the scores in Rapid and Bltiz. Magnus Carlsen finished 3rd in the Rapid half a point behind Fabiano Caruana and Ian Nepomniachtchi. Carlsen then proceeded to score 9/9 on the first day of the blitz, he was then held to two draws before winning four more which decided the event. A couple of losses after the event was decided didn't take the gloss off a dominant performance. Final Standings: 1st Carlsen 26pts, 2nd Nepomniachtchi 22&frac12;pts, 3rd Firouzja 22pts, 4th Caruana 21&frac12;pts, 5th Gukesh D 19&frac12;pts, 6th Rapport 19pts, 7",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2023",
-         "pubDate" : "Sun, 9 Jul 2023 13:21:00 +0400",
-         "title" : "SuperUnited Rapid & Blitz 2023 - Games and Results"
       }
    ]
 }
