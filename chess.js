@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2550",
+         "pubDate" : "Sun, 30 Jul 2023 19:02:13 +0000",
+         "title" : "FIDE World Cup 2023: Round 1 Day 1 Report"
+      },
+      {
+         "description" : "... that's all that's left to take advantage of our special summer offer. Here's your chance to catch up with power users of ChessBase and Fritz - in fact adding the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
+         "pubDate" : "Sun, 30 Jul 2023 19:00:00 +0100",
+         "title" : "Just a few more hours..."
+      },
+      {
+         "description" : "John Jacob Loewenthal is largely remembered as a prominent character in the legend of Paul Morphy. The American champion defeated him twice in two continents: once when he was a boy in New Orleans, and then again when he was a young man during his famous tour in Europe. In his own right, however, Loewenthal was a great master who did more for chess than most of the luminaries of his time. His was a life given solely to the game. On the recent 147th anniversary of his passing, it is fitting to remember his life and career.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-john-jacob-loewenthal",
+         "pubDate" : "Sun, 30 Jul 2023 18:45:00 +0100",
+         "title" : "A life for chess: Remembering John Jacob Loewenthal"
+      },
+      {
+         "description" : " As I write this article, the British Championships are taking place at my Alma Mater: De Montfort University, Leicester. It was the City of Leicester Polytechnic when I was there, and, for a season and a half, we had a team in the Leicestershire League. It seems like a good opportunity to look at one <a href=\"https://chessimprover.com/leicester-folly/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Leicester Folly\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/leicester-folly/\">Leicester Folly</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/leicester-folly/",
+         "pubDate" : "Sun, 30 Jul 2023 15:57:21 +0000",
+         "title" : "Leicester Folly"
+      },
+      {
          "description" : " The World Cup tournament will start tomorrow and all of the world's biggest stars will assemble in Baku, Azerbaijan for the massive knockout tournament. Just about everyone will be there including representatives nominated by smaller federations. There are a lot of headliners including Magnus Carlsen, Hikaru Nakamura (wildcard), Fabiano Caruana, and many of the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/\">World Chess Cup 2023 begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/",
          "pubDate" : "Sun, 30 Jul 2023 14:14:47 +0000",
          "title" : "World Chess Cup 2023 begins!"
+      },
+      {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku, Azerbaijan. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: Stev Bonhage / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sun, 30 Jul 2023 15:05:00 +0100",
+         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 136th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
@@ -24,14 +64,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-ikeda-wins.html",
          "pubDate" : "Sun, 30 Jul 2023 13:16:00 +0000",
          "title" : "2023 ANU Open - Ikeda wins"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku, Azerbaijan. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 30 Jul 2023 12:45:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Ukraine&#39;s GM Oleksandr Bortnyk won July&#39;s final Bullet Brawl after chalking up 70 wins in the two-hour arena en route to an insurmountable 261 score. His journey to the top was marked by a 26-game win streak in the final 30 minutes of the event. ...",
@@ -74,7 +106,7 @@ news_feed (
          "title" : "Study of the Month: Kaleidoscope III"
       },
       {
-         "description" : " The FIDE World Cup takes place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he has never won the event and clearly sees this as something he would like to rectify. His leading rivals are Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside is an equally well represented women's field including World Champion Ju Wenjun. Play starts at 12pm BST or 15:00 local time.",
+         "description" : " The FIDE World Cup takes place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he has never won the event and clearly sees this as something he would like to rectify. His leading rivals are Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside is an equally well represented women's field including World Champion Ju Wenjun. Play starts at 12pm BST or 15:00 local time. The leading players join the event in round 2.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/enjoyment-vs-training/",
          "pubDate" : "Sat, 29 Jul 2023 12:00:00 +0000",
          "title" : "Chess Enjoyment vs. Training: Striking the Right Balance"
-      },
-      {
-         "description" : "Everyone uses ChessBase. But do you have version 17? And are you using all its advanced features? If not here's your chance to catch up with power users. And add the latest Fritz, which has just won the Computer World Championship, to your arsenal. This set will give a substantial boost to your playing strength. And you can get it for €60 less than the list price - for €159.90 for this special package!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ultimate-weapons-chessbase-17-power-fritz-18",
-         "pubDate" : "Sat, 29 Jul 2023 09:05:00 +0100",
-         "title" : "Ultimate weapons: ChessBase 17 + Power Fritz 18"
       },
       {
          "description" : "In the diagram position 32.Bf6! seals the deal for White, but seeing in advance how she checkmates by force after 32...Bxf6 might well be a challenge. Your call!",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://www.europechess.org/sponsorship-announcement/",
          "pubDate" : "Mon, 24 Jul 2023 07:10:55 +0000",
          "title" : "Sponsorship announcement"
-      },
-      {
-         "description" : "One of the essential chess assets that FIDE oversees is FIDE ratings. In the past decade, certain innovations have caused rating deflation, a concern that has been raised by professional players and mathematicians and did not go unnoticed by FIDE. The International Federation encourages the chess community to express their thoughts on this proposal and send them comments, suggestions, ideas, and mathematical calculations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-seeks-proposals-rating-changes",
-         "pubDate" : "Mon, 24 Jul 2023 06:30:00 +0100",
-         "title" : "FIDE seeks public discussion about proposed rating changes"
       },
       {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
@@ -1560,14 +1576,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2510",
          "pubDate" : "Sun, 09 Jul 2023 21:39:54 +0000",
          "title" : "Norwegian Championship: Simen Agdestein clinches ninth title"
-      },
-      {
-         "description" : "My routine for preparing the monthly post in the series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) always starts with preparing a short list of chess items sold in the previous month. Once in a while the same item -- or similar items -- appears twice on the short list. There is often a side story associated with this and the last time it happened was <A HREF=\"https://chessforallages.blogspot.com/2021/08/ebay-deja-vu.html\">eBay Deja Vu</A> (August 2021). <P> The composite image below shows two items from two different auctions. Both items were based on the title 'Blade Runner poster Laurent Durieux V",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/07/posters-for-blade-runner.html",
-         "pubDate" : "Sun, 09 Jul 2023 15:51:00 +0000",
-         "title" : "Posters for 'Blade Runner'"
       }
    ]
 }
