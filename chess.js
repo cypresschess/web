@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "14-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns from Wedn...",
+         "description" : "The 14-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns in We...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-1",
          "pubDate" : "Sun, 30 Jul 2023 13:54:00 -0700",
-         "title" : "Stunning Start By Ediz Gurel, The World Cup's Youngest Player"
+         "title" : "Stunning Start By Ediz Gurel, World Cup's Youngest Player"
       },
       {
          "description" : "",
@@ -1560,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2512",
          "pubDate" : "Mon, 10 Jul 2023 11:15:00 +0000",
          "title" : "Hou Yifan on chess in China and the match for the 18th Women's World Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2511",
-         "pubDate" : "Sun, 09 Jul 2023 23:50:51 +0000",
-         "title" : "Magnus Carlsen wins 2023 SuperUnited Rapid & Blitz"
       }
    ]
 }
