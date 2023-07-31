@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Mon, 31 Jul 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The tenth edition of the much-anticipated FIDE World Cup kicked off on Sunday in Baku. The 50 top seeds in the open and the 25 top seeds in the women's section received byes and will join the fray on Wednesday. The remaining 234 contenders (156 in the open and 78 in the women's) played their first classical encounters, though. There was no lack of surprises on the first day of action, with 14-year-old Ediz Gurel from Turkey (the youngest participant in the open) stunning Velimir Ivic in brilliant style. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d1",
+         "pubDate" : "Mon, 31 Jul 2023 12:35:00 +0100",
+         "title" : "World Cup: Ediz Gurel, aged 14, scores brilliant upset"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Mon, 31 Jul 2023 09:40:15 +0000",
+         "title" : "ECF Arbiter Course - September/October"
+      },
+      {
+         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail, and we shouldn't use the queen just for defence. This series will show you in great detail the specific qualities of each chess piece, so that you can maximize their effectiveness and thus improve your game. This week you can get both FritzTrainer volumes by Slovak chess grandmaster, coach, and author, for just €38.90, which is €20 below the regular list price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-marcos-middlegame-strategy",
+         "pubDate" : "Mon, 31 Jul 2023 10:29:14 +0100",
+         "title" : "Jan Markos: Middlegame strategy"
+      },
+      {
+         "description" : "Congratulation to Michael Adams on winning the British Chess Championships and to Lan Yao, winner of the British Women's Championship, who also gained a WGM...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcc-winners/",
+         "pubDate" : "Mon, 31 Jul 2023 08:45:48 +0000",
+         "title" : "BCC Winners!"
+      },
+      {
+         "description" : "The 2023 European Youth Team Chess Championship concluded yesterday in Iasi, Romania and Poland emerged as the winner of all competitions in the event, winning the unprecedented quadruple gold! Scoring 13 match points (6 victories and 1 draw), Poland convincingly clinched the Open U12 section. Turkey was second with 11 match points, while Israel and Germany tied for third scoring 9 match points. Having better tiebreaks (Olympiad Sonneborn Berger), Israel won bronze medal. With the same match score of 13 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/poland-wins-quadruple-gold-at-the-european-youth-team-chess-championship-2023/",
+         "pubDate" : "Mon, 31 Jul 2023 08:37:02 +0000",
+         "title" : "Poland wins quadruple gold at the European Youth Team Chess Championship 2023"
+      },
+      {
          "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn how to download and install an outside engine into ChessBase and even set it as the new default. The example given in this video is with Stockfish 16!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +104,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/",
          "pubDate" : "Sun, 30 Jul 2023 14:14:47 +0000",
          "title" : "World Chess Cup 2023 begins!"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku, Azerbaijan. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 30 Jul 2023 15:05:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 136th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
@@ -794,14 +834,6 @@ news_feed (
          "title" : "Endgame Magic #246: Highlights from the SuperUnited event in Croatia"
       },
       {
-         "description" : "Melikset Khachiyan and Alice Lee secured victories at the US Seniors Championship and the US Girls Championship respectively. In the Junior Championship, five players still have a chance to win the title. On July 20, the Saint Louis Chess Club celebrated its 15th anniversary with a big party. | Pictured: Alice Lee at the anniversary celebration | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r8",
-         "pubDate" : "Mon, 24 Jul 2023 17:00:00 +0100",
-         "title" : "US Seniors and Juniors: Khachiyan and Lee secure titles with a round to spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -816,14 +848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/oskar-hellman.html",
          "pubDate" : "Mon, 24 Jul 2023 13:52:00 +0000",
          "title" : "Oskar Hellman"
-      },
-      {
-         "description" : "Of course, Viswanathan Anand isn't the topic at hand! But the Underdog Vignesh Anand Junior from the US was the player, who is more than 500 ELO points weaker than his opponent, GM Zaven Andriasian. In the Sicilian game, both players committed little errors that allowed the Armenian Grandmaster to gradually get the upper hand until everything went wrong. Yet another intriguing and fascinating instance of an underdog who shocked both his adversary and most likely himself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-anand-won-against-far-stronger-opponent",
-         "pubDate" : "Mon, 24 Jul 2023 14:15:00 +0100",
-         "title" : "How Anand won against a far stronger opponent ..."
       },
       {
          "description" : "",
@@ -1056,6 +1080,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-youngest-player-to-break-2750",
          "pubDate" : "Thu, 20 Jul 2023 13:12:00 -0700",
          "title" : "Gukesh Breaks Record: Youngest Player To Cross 2750 Rating"
+      },
+      {
+         "description" : "A month after <A HREF=\"https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html\">June 1973 & 1998 'On the Cover'</A> (June 2023; 'the winners of super strong U.S. Swiss-system tournaments'), which players were featured on the covers of CL&R/CL 50 and 25 years ago? For the first time in a year -- <A HREF=\"https://chessforallages.blogspot.com/2022/06/june-1972-1997-on-cover.html\">June 1972 & 1997 'On the Cover'</A> (June 2022; Spassky and Kasparov) -- we find two foreign-born GMs dominating both covers. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Karpov at the National Open' <P> <B><I>Che",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/july-1973-1998-on-cover.html",
+         "pubDate" : "Thu, 20 Jul 2023 15:20:00 +0000",
+         "title" : "July 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
@@ -1482,14 +1514,6 @@ news_feed (
          "title" : "2023 Winter Cup (AKA ANU Open)"
       },
       {
-         "description" : "For the third successive year there will be an all-play-all title norm tournament taking place in Stafford, the home town of the organiser Lawrence Cooper....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wood-green-invitational-14th-18th-july-2023/",
-         "pubDate" : "Tue, 11 Jul 2023 13:23:02 +0000",
-         "title" : "Wood Green Invitational 14th - 18th July 2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101672957.cms\" />Vedika Pal lived up to her billing with an unbeaten performance and emerged as the U-10 girls champion in Western Asian Youth Chess Championship which concluded at Kyrgyzstan.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1498,28 +1522,12 @@ news_feed (
          "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
       },
       {
-         "description" : "The chess community is much saddened by the news of the death of former MCCU President Peter Gibbs. Peter was educated at Bradford Grammar School...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/peter-campbell-gibbs-1934-2023/",
-         "pubDate" : "Tue, 11 Jul 2023 11:16:33 +0000",
-         "title" : "Peter Campbell Gibbs 1934-2023"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation allows for a deviation from the well known theory. It is considered drawish for White, reason why it is not very popular. Still, it could be used as <a href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\">Need sure points? Gr&u",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/",
          "pubDate" : "Tue, 11 Jul 2023 09:11:24 +0000",
          "title" : "Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2023 kicks off tomorrow in the city of Swidnica, Poland, and will be played from 12th-20th July. The event is played in two age categories: 50+ and 65+ with participation of 28 teams coming from 13 European federations. Women's events will be merged with the Open section with separate prizes for the best ranked women's teams. &#160;Each team consists of four players and optionally one reserve player. The teams may represent a National Federation []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-starts-in-poland/",
-         "pubDate" : "Tue, 11 Jul 2023 08:34:41 +0000",
-         "title" : "European Senior Team Chess Championship 2023 starts in Poland"
       },
       {
          "description" : "",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-nsw-rapid-championship.html",
          "pubDate" : "Mon, 10 Jul 2023 13:11:00 +0000",
          "title" : "2023 NSW Rapid Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2512",
-         "pubDate" : "Mon, 10 Jul 2023 11:15:00 +0000",
-         "title" : "Hou Yifan on chess in China and the match for the 18th Women's World Champion"
       }
    ]
 }
