@@ -66,12 +66,12 @@ news_feed (
          "title" : "Michael Adams wins British Championship 2023"
       },
       {
-         "description" : "The 14-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns in We...",
+         "description" : "Fourteen-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-1",
          "pubDate" : "Sun, 30 Jul 2023 13:54:00 -0700",
-         "title" : "Stunning Start By Ediz Gurel, World Cup's Youngest Player"
+         "title" : "Stunning Start By Ediz Gurel, The World Cup's Youngest Player"
       },
       {
          "description" : "",
@@ -1560,14 +1560,6 @@ news_feed (
          "link" : "https://aicf.in/padmini-rout-national-women-champion/",
          "pubDate" : "Mon, 10 Jul 2023 18:48:09 +0000",
          "title" : "Padmini Rout National Women Champion"
-      },
-      {
-         "description" : " Junior player Harvey Zhu was the surprise winner of the 2023 NSW Rapid Championship. Seeded 12th in the tournament he scored an impressive 6.5/7, finishing a full point clear of 2nd place. After a 2nd round draw, he reeled of 5 straight wins, beating IM George Xie in round 6 and FM Alexis Vargas Arteaga in the final round. In 2nd place were 12 players tied on 5.5/7, including Xie, Vargas Arteaga and top seed FM Jason Hu. Hu had a rough start, losing in round 1 after dropping a queen, and drawing his 4th round game. With the large field of 134 players, a single lost point was enough to drop players out of the running. Despite the size of the field the event ran quite smoothly. There were no ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-nsw-rapid-championship.html",
-         "pubDate" : "Mon, 10 Jul 2023 13:11:00 +0000",
-         "title" : "2023 NSW Rapid Championship"
       }
    ]
 }
