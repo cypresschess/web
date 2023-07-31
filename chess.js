@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's show, Karsten M&uuml;ller goes over a number of outstanding endgame positions from the very strong Global Chess League. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-247-highlights-from-global-chess-league",
+         "pubDate" : "Mon, 31 Jul 2023 21:00:00 +0100",
+         "title" : "Endgame Magic #247: Highlights from the Global Chess League"
+      },
+      {
+         "description" : "Opposite-coloured bishops (OCB) are tricky beasts. In many (but not all!) endgames, they turn the fight on the board into a boring tea-party, mostly ending in a draw. Many club players therefore expect that in the middlegame they will behave similarly. However, nothing can be further from truth. | Photo: pixabay.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-21-the-sharpest-middlegame",
+         "pubDate" : "Mon, 31 Jul 2023 20:00:00 +0100",
+         "title" : "The Winning Academy 21: The Sharpest Middlegame"
+      },
+      {
+         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail, and we shouldn't use the queen just for defence. This series will show you in great detail the specific qualities of each chess piece, so that you can maximize their effectiveness and thus improve your game. This week you can get both FritzTrainer volumes by Slovak chess grandmaster, coach, and author, for just €38.90, which is €20 below the regular list price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-marcos-middlegame-strategy",
+         "pubDate" : "Mon, 31 Jul 2023 17:05:00 +0100",
+         "title" : "Jan Markos: Middlegame strategy"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +34,12 @@ news_feed (
          "title" : "FIDE World Cup - Live!"
       },
       {
-         "description" : "The tenth edition of the much-anticipated FIDE World Cup kicked off on Sunday in Baku. The 50 top seeds in the open and the 25 top seeds in the women's section received byes and will join the fray on Wednesday. The remaining 234 contenders (156 in the open and 78 in the women's) played their first classical encounters, though. There was no lack of surprises on the first day of action, with 14-year-old Ediz Gurel from Turkey (the youngest participant in the open) stunning Velimir Ivic in brilliant style. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d1",
-         "pubDate" : "Mon, 31 Jul 2023 12:35:00 +0100",
-         "title" : "World Cup: Ediz Gurel, aged 14, scores brilliant upset"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Mon, 31 Jul 2023 09:40:15 +0000",
          "title" : "ECF Arbiter Course - September/October"
-      },
-      {
-         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail, and we shouldn't use the queen just for defence. This series will show you in great detail the specific qualities of each chess piece, so that you can maximize their effectiveness and thus improve your game. This week you can get both FritzTrainer volumes by Slovak chess grandmaster, coach, and author, for just €38.90, which is €20 below the regular list price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-marcos-middlegame-strategy",
-         "pubDate" : "Mon, 31 Jul 2023 10:29:14 +0100",
-         "title" : "Jan Markos: Middlegame strategy"
       },
       {
          "description" : "Congratulation to Michael Adams on winning the British Chess Championships and to Lan Yao, winner of the British Women's Championship, who also gained a WGM...",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-download-and-install-a-new-engine-video",
          "pubDate" : "Mon, 31 Jul 2023 09:00:00 +0100",
          "title" : "ChessBase in Minutes: How to download and install a new engine (video)"
+      },
+      {
+         "description" : "The tenth edition of the much-anticipated FIDE World Cup kicked off on Sunday in Baku. The 50 top seeds in the open and the 25 top seeds in the women's section received byes and will join the fray on Wednesday. The remaining 234 contenders (156 in the open and 78 in the women's) played their first classical encounters, though. There was no lack of surprises on the first day of action, with 14-year-old Ediz Gurel from Turkey (the youngest participant in the open) stunning Velimir Ivic in brilliant style. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d1",
+         "pubDate" : "Mon, 31 Jul 2023 08:55:00 +0100",
+         "title" : "World Cup: Ediz Gurel, aged 14, scores brilliant upset"
       },
       {
          "description" : "",
@@ -818,22 +834,6 @@ news_feed (
          "title" : "Zukertort's grave discovered"
       },
       {
-         "description" : "Top American junior and senior chess players returned to Saint Louis. From July 15-25, the top 10 players across three divisions - juniors, girls, and seniors - competed for more than $130,000 in prizes. Replay all the games with computer-assisted analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-live",
-         "pubDate" : "Mon, 24 Jul 2023 20:00:00 +0100",
-         "title" : "US Senior and Junior Championships - Games and standings"
-      },
-      {
-         "description" : "In this week's show, Karsten M&uuml;ller continues to look at endgame highlights from the SuperUnited Rapid & Blitz tournament in Croatia, where there was no lack of instructive ending positions! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-246-endgame-highlights-from-superunited-event-2",
-         "pubDate" : "Mon, 24 Jul 2023 17:15:00 +0100",
-         "title" : "Endgame Magic #246: Highlights from the SuperUnited event in Croatia"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1552,14 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2515",
          "pubDate" : "Mon, 10 Jul 2023 19:32:05 +0000",
          "title" : "Swedish Championship 2023: Vitalii Sivuk claims title"
-      },
-      {
-         "description" : "Four times national women champion International Master Padmini Rout of Petroleum Sports Promotion Board added one more national women title to her illustrious career after",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/padmini-rout-national-women-champion/",
-         "pubDate" : "Mon, 10 Jul 2023 18:48:09 +0000",
-         "title" : "Padmini Rout National Women Champion"
       }
    ]
 }
