@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Peruvian IM Gianmarco Leiva survived a 136-move thriller to knock GM Anton Demchenko out of the 2023 FIDE World Cup, but that was a rare success for an underdog. The favorites hit back, including GM Velimir Ivic, who smoothly outplayed 14-year-old...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-2",
+         "pubDate" : "Mon, 31 Jul 2023 15:55:09 -0700",
+         "title" : "Favorites Strike Back As 33 Tiebreaks Await"
+      },
+      {
          "description" : "In this week's show, Karsten M&uuml;ller goes over a number of outstanding endgame positions from the very strong Global Chess League. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-247-highlights-from-global-chess-league",
          "pubDate" : "Mon, 31 Jul 2023 21:00:00 +0100",
          "title" : "Endgame Magic #247: Highlights from the Global Chess League"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2552",
+         "pubDate" : "Mon, 31 Jul 2023 19:17:18 +0000",
+         "title" : "Word Cup R01 Day 02: The favourites push forward"
       },
       {
          "description" : "Opposite-coloured bishops (OCB) are tricky beasts. In many (but not all!) endgames, they turn the fight on the board into a boring tea-party, mostly ending in a draw. Many club players therefore expect that in the middlegame they will behave similarly. However, nothing can be further from truth. | Photo: pixabay.",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "July 1973 & 1998 'On the Cover'"
       },
       {
-         "description" : "With the fourth leg of the $2 million Champions Chess Tour ending in a thrilling climax and International Chess Day celebrations now underway, Chess.com can reveal the title of its penultimate regular season event: the 2023 Julius Baer Generation ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/julius-baer-generation-cup-named-as-next-champions-chess-tour-event",
-         "pubDate" : "Thu, 20 Jul 2023 04:59:00 -0700",
-         "title" : "Julius Baer Generation Cup Named As Next Champions Chess Tour Event"
-      },
-      {
          "description" : "Today is International Chess Day a fitting day for the 109th British Chess Championships to start. We kick off today at DMU in Leicester...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1528,30 +1536,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/",
          "pubDate" : "Tue, 11 Jul 2023 09:11:24 +0000",
          "title" : "Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2514",
-         "pubDate" : "Mon, 10 Jul 2023 23:10:02 +0000",
-         "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2513",
-         "pubDate" : "Mon, 10 Jul 2023 21:26:23 +0000",
-         "title" : "Anish Giri and Eline Roebers win 2023 Dutch Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2515",
-         "pubDate" : "Mon, 10 Jul 2023 19:32:05 +0000",
-         "title" : "Swedish Championship 2023: Vitalii Sivuk claims title"
       }
    ]
 }
