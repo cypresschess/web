@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn how to download and install an outside engine into ChessBase and even set it as the new default. The example given in this video is with Stockfish 16!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-download-and-install-a-new-engine-video",
+         "pubDate" : "Mon, 31 Jul 2023 09:00:00 +0100",
+         "title" : "ChessBase in Minutes: How to download and install a new engine (video)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2551",
+         "pubDate" : "Mon, 31 Jul 2023 06:59:47 +0000",
+         "title" : "Michael Adams wins British Championship 2023"
+      },
+      {
          "description" : "The 14-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns in We...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Understanding before Moving 136: Chess history in a nutshell (18)"
       },
       {
-         "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Fred Litchfield in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Es",
+         "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Fred Litchfield in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Ol",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-ikeda-wins.html",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.europechess.org/sponsorship-announcement/",
          "pubDate" : "Mon, 24 Jul 2023 07:10:55 +0000",
          "title" : "Sponsorship announcement"
-      },
-      {
-         "description" : "One of the essential chess assets that FIDE oversees is FIDE ratings. In the past decade, certain innovations have caused rating deflation, a concern that has been raised by professional players and mathematicians and did not go unnoticed by FIDE. The International Federation encourages the chess community to express their thoughts on this proposal and send them comments, suggestions, ideas, and mathematical calculations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-seeks-proposals-rating-changes",
-         "pubDate" : "Mon, 24 Jul 2023 06:30:00 +0100",
-         "title" : "FIDE seeks public discussion about proposed rating changes"
       },
       {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
