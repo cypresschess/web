@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Michael Adams and Lan Yao (Women's Championship) are the new British National Chess Champions. This is Michael Adams' eighth National Championship, while Lan Yao not only won the title but also made a WGM norm. A big surprise is the second place of the untitled Steven Jones, who started as 32nd seed. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michael-adams-and-lan-yao-win-british-championships-2023",
+         "pubDate" : "Tue, 01 Aug 2023 15:00:00 +0100",
+         "title" : "Michael Adams and Lan Yao win British Championships 2023"
+      },
+      {
+         "description" : "Every month, there is a renaissance of sorts on Chess.com, when we release our new bots. Is chess an art? It will be when you play this month&#39;s artist bots! So grab a refreshment (a slice of pizza, perhaps?), take a seat on your art stool, and p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artist-bots",
+         "pubDate" : "Tue, 01 Aug 2023 06:45:47 -0700",
+         "title" : "Artist Bots Are Here For August"
+      },
+      {
+         "description" : " Conventional opening wisdom has White playing e4 and d4 in tandem. i.e. If you start with e4 then d4 is a desirable move to play, while if you start with 1.d4 then e4 becomes a goal. Of course how long between one and the other is open to debate. But once you have played it then d5-e5, and d6-e6 might even improve your position further! <br /> <b>Junta Ikeda - Terrence Tang [E16]</b><br /> Round 2: Junta Ikeda - Terrence Tang https://lichess.org/study/HkHW, 29.07.2023 <script> new PgnViewer( { boardName: \"game1413\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 b6 5.Bg2 Bb7 6.cxd5 exd5 7.O-O Bd6 8.Nc3 a6 9.Nh4 Qd7 10.Qd3 O-O 11.Nf5 Bb4 12.Bg5 Ne8 13.a3 Bxc3 14.bxc3 f6 15",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/playing-e4-and-d4.html",
+         "pubDate" : "Tue, 01 Aug 2023 13:13:00 +0000",
+         "title" : "Playing e4 and d4"
+      },
+      {
+         "description" : "Registration is now open&#38;nbsp;for the Fall 2023 season of the Collegiate Chess League! This event returns with the CCL&#39;s tried-and-tested 4 vs. 4 team format and a $25,000 prize fund. If you&#39;re a university student who loves chess and wants to r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-registration",
+         "pubDate" : "Tue, 01 Aug 2023 06:00:00 -0700",
+         "title" : "Register For The Collegiate Chess League Fall 2023 Season"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Grand Swiss and Women's Grand Swiss 2023: preliminary lineups and World Cup passes"
       },
       {
-         "description" : "From 26th to 28th of August 2023, the German city of D&uuml;sseldorf will host a unique competition - the first World Team Rapid Chess Championship, organized by FIDE in partnership with WR Logistics GmbH. 43 teams from all over the world will compete for a €250,000 prize fund, and the best team will receive the first prize of €100,000. Participants include former world champions Viswanathan Anand, Vladimir Kramnik, Hou Yifan, Alexandra Kosteniuk, Mariya Muzychuk, as well as Ian Nepomniachtchi, Fabiano Caruana, Boris Gelfand, Levon Aronian, Peter Svidler, Jan-Krzysztof Duda Nodirbek Abdusattorov and Daniil Dubov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/star-studded-world-team-rapid-chess-championship",
-         "pubDate" : "Tue, 25 Jul 2023 10:00:00 +0100",
-         "title" : "Star-studded World Team Rapid Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1082,28 +1106,12 @@ news_feed (
          "title" : "WWC Match 2023: Everything hangs on the final game"
       },
       {
-         "description" : "In an open letter published on the FIDE website a&#38;nbsp;number of top grandmasters urge Ukraine&#39;s government to allow GM Vasyl Ivanchuk to leave the country and play the upcoming FIDE World Cup. The event begins in Baku, Azerbaijan on July 29 and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/open-letter-vasyl-ivanchuk-fide-world-cup",
-         "pubDate" : "Fri, 21 Jul 2023 04:27:00 -0700",
-         "title" : "Top GMs Sign Open Letter Urging Ukraine To Let Vasyl Ivanchuk Play FIDE World Cup"
-      },
-      {
          "description" : "European Senior Team Chess Championship 2023 concluded yesterday in the city of Swidnica, Poland, after the intense last round which determined the Winners in both 50+ and 65+ categories. Scoring all victories and perfect 16 match points, the teams of England 1 and Slovakia tied for first place in the 50+ section before the final round. The direct encounter between the leading duo was scheduled for round 9 and finished after the thrilling fight. England prevailed with a narrow 2.5-1.5 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-senior-team-chess-champions-crowned-in-poland/",
          "pubDate" : "Fri, 21 Jul 2023 08:55:07 +0000",
          "title" : "European Senior Team Chess Champions crowned in Poland"
-      },
-      {
-         "description" : "GM Hikaru Nakamura sits atop the Winners Bracket after defeating GM Alireza Firouzja in an electrifying final at the Bullet Chess Championship 2023 on Thursday. He awaits the player who will fight their way out of the Losers Bracket to meet him in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-4",
-         "pubDate" : "Thu, 20 Jul 2023 15:24:00 -0700",
-         "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
       },
       {
          "description" : "A month after <A HREF=\"https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html\">June 1973 & 1998 'On the Cover'</A> (June 2023; 'the winners of super strong U.S. Swiss-system tournaments'), which players were featured on the covers of CL&R/CL 50 and 25 years ago? For the first time in a year -- <A HREF=\"https://chessforallages.blogspot.com/2022/06/june-1972-1997-on-cover.html\">June 1972 & 1997 'On the Cover'</A> (June 2022; Spassky and Kasparov) -- we find two foreign-born GMs dominating both covers. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Karpov at the National Open' <P> <B><I>Che",
@@ -1504,30 +1512,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcc2023-chess-festival-events-entry-form/",
          "pubDate" : "Wed, 12 Jul 2023 09:37:12 +0000",
          "title" : "BCC2023 Chess Festival events entry form"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2516",
-         "pubDate" : "Tue, 11 Jul 2023 14:50:30 +0000",
-         "title" : "WWC Match 2023: Lei Tingjie takes early lead with convincing win over Ju Wenjun"
-      },
-      {
-         "description" : "<br /><br /><b>ACT Winter Open 2023</b><br /><br />28-30 July (One round Friday evening, three Saturday, two Sunday)<br /><br /><b>Format:</b> Open section and Under 1600 Section (ACF)<br /><br /><b>Time control:</b> 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule:</b> Round 1 Friday 28th 7PM, <br /><br />Round 2 Sat 29th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 30th 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee:</b> $80 ($60 concession) - GM, IM, WGM and WIM Free<br /><br /><b>Prizes:</b> $1000 1st Open, $400 1st Minor $3600 in total<br /><br /><b>Venue:</b> Campbell High School, Treloar Cres Campbell ACT<br /><br />Booking link: <a href=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-winter-cup-aka-anu-open.html",
-         "pubDate" : "Tue, 11 Jul 2023 14:23:00 +0000",
-         "title" : "2023 Winter Cup (AKA ANU Open)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101672957.cms\" />Vedika Pal lived up to her billing with an unbeaten performance and emerged as the U-10 girls champion in Western Asian Youth Chess Championship which concluded at Kyrgyzstan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nagpurs-vedika-pal-is-u-10-girls-western-asia-chess-champion/articleshow/101672957.cms",
-         "pubDate" : "Tue, 11 Jul 2023 13:14:50 +0000",
-         "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
       }
    ]
 }
