@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the beginning of August FIDE published its new rating list. Magnus Carlsen remains the only player with a rating of more than 2800 and is still the clear number one. Hikaru Nakamura follows in second place, five points ahead of world number 3 Fabiano Caruana. Indian juniors Gukesh D. and Praggnanandhaa gained a lot of rating points in July and continue their way to the top.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-august-2023",
+         "pubDate" : "Tue, 01 Aug 2023 19:00:00 +0100",
+         "title" : "FIDE ratings August 2023"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation has made a comeback in recent years. About 15 years ago it was considered well known theory that brings nothing much to White. Of course this was a <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
+         "pubDate" : "Tue, 01 Aug 2023 17:30:27 +0000",
+         "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition"
+      },
+      {
          "description" : "Michael Adams and Lan Yao (Women's Championship) are the new British National Chess Champions. This is Michael Adams' eighth National Championship, while Lan Yao not only won the title but also made a WGM norm. A big surprise is the second place of the untitled Steven Jones, who started as 32nd seed. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Khachiyan, Lee, Mishra Win National Titles In St. Louis"
       },
       {
-         "description" : "Melikset Khachiyan and Alice Lee won the US Senior US Girls' Championship with a round, which meant only one champion remained to be decided in Saint Louis. Going into the Junior Championship's final round, Arthur Guo and Abhimanyu were tied for first place. Guo lost his game in the final round, allowing Abhimanyu to be crowned as the national champion in his category. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2023-r9",
-         "pubDate" : "Tue, 25 Jul 2023 18:00:00 +0100",
-         "title" : "Abhimanyu Mishra is the 2023 US Junior Champion"
-      },
-      {
          "description" : "Jaylen Brown, the two-time All-Star for the Boston Celtics, is the latest star to join our ever-growing team of athletes and sports figures that you can tip off with at our bots page. Play the bot today! Chess.com is also collaborating with Brow...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -874,7 +882,7 @@ news_feed (
          "title" : "Ghazarian Wanted a 'Chaotic, Stressful Game' | R9 #USJuniorsChess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a ",
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-1",
