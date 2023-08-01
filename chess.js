@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn races can be very sharp. And it is not always best to push the pawns. But what else can and should White do in the diagram position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pawn-waves",
+         "pubDate" : "Tue, 01 Aug 2023 09:00:00 +0100",
+         "title" : "Pawn waves"
+      },
+      {
+         "description" : "A few major upsets left rating favourites out of the World Cup in the first round of the multitudinous competition. In the open category, Gianmarco Leiva (Peru) and Pablo Salinas (Chile) gave the biggest surprises. In the women's section, Qianyun Gong (Singapore), Turmunkh Munkhzul (Mongolia) and Maili-Jade Ouellet (Canada) pulled off the biggest stunners. | Pictured: Nurgyul Salimova | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d2",
+         "pubDate" : "Tue, 01 Aug 2023 05:45:00 +0100",
+         "title" : "World Cup: Underdogs Leiva and Salinas reach round 2"
+      },
+      {
          "description" : "Another avalanche of unexpected plot twists marked the fourth day of PogChamps 5. Squeex defeated Jinnitty in his debut, later losing a close match with Tyler1. Like a superhero from any given movie, Sapnap defeated his overpowered opponent Wirt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Jan Markos: Middlegame strategy"
       },
       {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Mon, 31 Jul 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "ECF Arbiter Course - September/October"
       },
       {
-         "description" : "Congratulation to Michael Adams on winning the British Chess Championships and to Lan Yao, winner of the British Women's Championship, who also gained a WGM...",
+         "description" : "Congratulations to Michael Adams on winning the British Chess Championships and to Lan Yao, winner of the British Women's Championship, who also gained a WGM...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcc-winners/",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-line-up-revealed-16-amazing-names",
          "pubDate" : "Mon, 24 Jul 2023 14:46:00 -0700",
          "title" : "PogChamps 5 Lineup Revealed Feat. xQc, Tyler1, QTCinderella And More, Action Starts July 26"
-      },
-      {
-         "description" : "In the current issue of his column in Zeit Magazin, Helmut Pfleger reports on the rediscovery of Zukertort's grave. In 1886, Wilhelm Steinitz and Johannes Zukertort set in motion a tradition with their match for the world championship, a tradition that continues to this day. Zukertort's grave in London's Brompton Cemetery, however, was lost and forgotten. It has been found and restored.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zukertort-s-grave-discovered",
-         "pubDate" : "Mon, 24 Jul 2023 22:00:00 +0100",
-         "title" : "Zukertort's grave discovered"
       },
       {
          "description" : "",
