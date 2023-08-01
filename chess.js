@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Tue, 01 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Weird History is a YouTube channel that provides chronicles of history in a form never covered in high school. It looks at the extreme, the unexpected, the untold and the flat-out weird parts of history. \"Because as weird as people seem today, we don't hold a candle to history,\" they claim. They have 4.31 million subscribers and have registered over half a billion views. After posting over 700 videos they have descended on Bobby Fischer. Here is the video portrait, for what it is worth.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/facts-about-fisher",
+         "pubDate" : "Tue, 01 Aug 2023 11:00:00 +0100",
+         "title" : "Facts about Fischer"
+      },
+      {
          "description" : "Pawn races can be very sharp. And it is not always best to push the pawns. But what else can and should White do in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pawn-waves",
          "pubDate" : "Tue, 01 Aug 2023 09:00:00 +0100",
          "title" : "Pawn waves"
+      },
+      {
+         "description" : "The Northumbria Masters Congress (24-28 August, Newcastle upon Tyne) is happy to announce that players of all ratings are now welcome to play in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/northumbria-masters-open-all-ratings-now-welcome/",
+         "pubDate" : "Tue, 01 Aug 2023 07:48:18 +0000",
+         "title" : "Northumbria Masters Open - all ratings now welcome"
       },
       {
          "description" : "A few major upsets left rating favourites out of the World Cup in the first round of the multitudinous competition. In the open category, Gianmarco Leiva (Peru) and Pablo Salinas (Chile) gave the biggest surprises. In the women's section, Qianyun Gong (Singapore), Turmunkh Munkhzul (Mongolia) and Maili-Jade Ouellet (Canada) pulled off the biggest stunners. | Pictured: Nurgyul Salimova | Photo: chess.com / Maria Emelianova",
@@ -762,22 +786,6 @@ news_feed (
          "title" : "Star-studded World Team Rapid Chess Championship"
       },
       {
-         "description" : "Endings with opposite coloured bishops have large drawish tendencies. But in the diagram position it is White to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-stalemate-cage",
-         "pubDate" : "Tue, 25 Jul 2023 09:00:00 +0100",
-         "title" : "The stalemate cage"
-      },
-      {
-         "description" : "Defending champion Le Quang Liem took the lead at the Grandmaster Triathlon in after convincingly beating top seed Yu Yangyi with the black pieces. Le was the top scorer in classical chess last year, and is again impressing in that discipline this time around. The Vietnamese grandmaster has won four out of five classical games so far, two of them with the black pieces. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r5",
-         "pubDate" : "Tue, 25 Jul 2023 08:55:00 +0100",
-         "title" : "Biel: Le wins again, grabs the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1498,14 +1506,6 @@ news_feed (
          "title" : "BCC2023 Chess Festival events entry form"
       },
       {
-         "description" : "Shreyas Royal was recently selected for training by the Kasparov Chess Foundation. He was first invited to a preliminary training camp in Vienna, as one...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/shreyas-royal-at-the-kasparov-chess-foundation/",
-         "pubDate" : "Wed, 12 Jul 2023 09:11:00 +0000",
-         "title" : "Shreyas Royal at the Kasparov Chess Foundation"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1528,14 +1528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nagpurs-vedika-pal-is-u-10-girls-western-asia-chess-champion/articleshow/101672957.cms",
          "pubDate" : "Tue, 11 Jul 2023 13:14:50 +0000",
          "title" : "Nagpur's Vedika Pal is U-10 girls Western Asia chess champion"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation allows for a deviation from the well known theory. It is considered drawish for White, reason why it is not very popular. Still, it could be used as <a href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/\">Need sure points? Gr&u",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-grunfeld-defence-4-bf4-variation-edition/",
-         "pubDate" : "Tue, 11 Jul 2023 09:11:24 +0000",
-         "title" : "Need sure points? Gr&uuml;nfeld Defence, 4.Bf4 Variation Edition"
       }
    ]
 }
