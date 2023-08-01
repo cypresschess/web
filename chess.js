@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Another avalanche of unexpected plot twists marked the fourth day of PogChamps 5. Squeex defeated Jinnitty in his debut, later losing a close match with Tyler1. Like a superhero from any given movie, Sapnap defeated his overpowered opponent Wirt...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-4",
+         "pubDate" : "Mon, 31 Jul 2023 16:20:00 -0700",
+         "title" : "Better Than 'Hikiru,' Tyler1 Wins Alongside Squeex, Sapnap, Jarvis"
+      },
+      {
          "description" : "Peruvian IM Gianmarco Leiva survived a 136-move thriller to knock GM Anton Demchenko out of the 2023 FIDE World Cup, but that was a rare success for an underdog. The favorites hit back, including GM Velimir Ivic, who smoothly outplayed 14-year-old...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-2",
-         "pubDate" : "Mon, 31 Jul 2023 15:55:09 -0700",
+         "pubDate" : "Mon, 31 Jul 2023 15:55:00 -0700",
          "title" : "Favorites Strike Back As 33 Tiebreaks Await"
       },
       {
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-4",
          "pubDate" : "Thu, 20 Jul 2023 15:24:00 -0700",
          "title" : "Nakamura Outspeeds Firouzja, Eyes 4th Bullet Championship Title"
-      },
-      {
-         "description" : "GM Gukesh D is expected to be the youngest player to have a published rating of 2750 in history when the next FIDE rating list comes out in 11 days (when he will be 17.17 years old). This news comes just off the heels of his countryman GM Praggnan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-youngest-player-to-break-2750",
-         "pubDate" : "Thu, 20 Jul 2023 13:12:00 -0700",
-         "title" : "Gukesh Breaks Record: Youngest Player To Cross 2750 Rating"
       },
       {
          "description" : "A month after <A HREF=\"https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html\">June 1973 & 1998 'On the Cover'</A> (June 2023; 'the winners of super strong U.S. Swiss-system tournaments'), which players were featured on the covers of CL&R/CL 50 and 25 years ago? For the first time in a year -- <A HREF=\"https://chessforallages.blogspot.com/2022/06/june-1972-1997-on-cover.html\">June 1972 & 1997 'On the Cover'</A> (June 2022; Spassky and Kasparov) -- we find two foreign-born GMs dominating both covers. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Karpov at the National Open' <P> <B><I>Che",
