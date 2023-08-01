@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 1 is over at the World Cup in Baku. A total of 33 matches (24 in the open and 9 in the women's section) were decided in rapid and blitz tiebreaks. Now that the first round has been completed, all the players who received byes - the rating favourites - will join the fray on Wednesday. Magnus Carlsen will face Levan Pantsulaia (Georgia, 2564), while Ju Wenjun will face Eva Repkova (Slovakia, 2312) | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d3",
+         "pubDate" : "Wed, 02 Aug 2023 01:20:00 +0100",
+         "title" : "World Cup: All set for Carlsen and co. to join the fray"
+      },
+      {
+         "description" : "Top seeds GMs Magnus Carlsen, Hikaru Nakamura, and Ju Wenjun commence battle in the 2023 FIDE World Cup in Wednesday&#39;s round two, but first, there were 33 places to be decided in tiebreaks. It took six hours, with 18-year-old local star GM Aydin S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-3",
+         "pubDate" : "Tue, 01 Aug 2023 16:02:00 -0700",
+         "title" : "Suleymanli Wins Epic Tiebreak As Carlsen, Nakamura Gear Up For Action"
+      },
+      {
+         "description" : "The U20 Israeli Youth Championship is taking place from 2&#x2013;9 August 2023. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yeshaayahu Tzidkiya, Eytan Rozen, Yannay Ben Ari, Guy Levin, Yonathan Uritsky, Or Gavriely, Daniel Iliaguev, Michelle Katkov, Eyal []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-israeli-youth-championship-2023-live/",
+         "pubDate" : "Tue, 01 Aug 2023 21:34:56 +0000",
+         "title" : "U20 Israeli Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U20 Israeli Youth Championship is taking place from 2&#x2013;9 August 2023. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yeshaayahu Tzidkiya, Eytan Rozen, Yannay Ben Ari, Guy Levin, Yonathan Uritsky, Or Gavriely, Daniel Iliaguev, Michelle Katkov, Eyal []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-israeli-youth-championship-2023/",
+         "pubDate" : "Tue, 01 Aug 2023 21:10:00 +0000",
+         "title" : "U20 Israeli Youth Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2553",
+         "pubDate" : "Tue, 01 Aug 2023 20:10:54 +0000",
+         "title" : "FIDE World Cup 2023 Round 1 Tiebreaks: A lot of drama and a few upsets"
+      },
+      {
          "description" : "At the beginning of August FIDE published its new rating list. Magnus Carlsen remains the only player with a rating of more than 2800 and is still the clear number one. Hikaru Nakamura follows in second place, five points ahead of world number 3 Fabiano Caruana. Indian juniors Gukesh D. and Praggnanandhaa gained a lot of rating points in July and continue their way to the top.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +90,12 @@ news_feed (
          "title" : "Register For The Collegiate Chess League Fall 2023 Season"
       },
       {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Tue, 01 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
+         "description" : "The Krefeld Summer Open is taking place August 2-6, 2023 in Krefeld, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Christian Braun, Pascal Neukirchner, Stefan Schiffer, Rafael Sabirov, Mark Clijsen, etc. All about FIDE Wrold Cup 2023 : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/krefeld-summer-open-2023-live/",
+         "pubDate" : "Tue, 01 Aug 2023 10:26:00 +0000",
+         "title" : "Krefeld Summer Open 2023 - LIVE"
       },
       {
          "description" : "Weird History is a YouTube channel that provides chronicles of history in a form never covered in high school. It looks at the extreme, the unexpected, the untold and the flat-out weird parts of history. \"Because as weird as people seem today, we don't hold a candle to history,\" they claim. They have 4.31 million subscribers and have registered over half a billion views. After posting over 700 videos they have descended on Bobby Fischer. Here is the video portrait, for what it is worth.",
@@ -64,6 +104,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/facts-about-fisher",
          "pubDate" : "Tue, 01 Aug 2023 11:00:00 +0100",
          "title" : "Facts about Fischer"
+      },
+      {
+         "description" : "The Badalona Open is taking place from 2&#x2013;10 August 2023 in Badalona, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Dylan Isidro Berdayes Ason, Omar Almeida Quintana, Elier Miranda Mesa, Marc Narciso Dublan, Miguel Munoz, Subhayan Kundu, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/badalona-open-2023-2/",
+         "pubDate" : "Tue, 01 Aug 2023 09:40:00 +0000",
+         "title" : "Badalona Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Badalona Open is taking place from 2&#x2013;10 August 2023 in Badalona, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Dylan Isidro Berdayes Ason, Omar Almeida Quintana, Elier Miranda Mesa, Marc Narciso Dublan, Miguel Munoz, Subhayan Kundu, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/badalona-open-2023/",
+         "pubDate" : "Tue, 01 Aug 2023 09:15:00 +0000",
+         "title" : "Badalona Open 2023"
+      },
+      {
+         "description" : "The Krefeld Summer Open is taking place August 2-6, 2023 in Krefeld, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Christian &#xA0;Braun, Pascal &#xA0;Neukirchner,&#xA0; Stefan Schiffer, Rafael &#xA0;Sabirov, Mark &#xA0;Clijsen, etc.Chessdom.com will daily follow the live games. All []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/krefeld-summer-open-2023/",
+         "pubDate" : "Tue, 01 Aug 2023 09:11:00 +0000",
+         "title" : "Krefeld Summer Open 2023"
       },
       {
          "description" : "Pawn races can be very sharp. And it is not always best to push the pawns. But what else can and should White do in the diagram position?",
@@ -440,54 +504,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
          "pubDate" : "Fri, 28 Jul 2023 07:00:04 +0000",
          "title" : "Chess: British Championship nears final round as Howell readies for World Cup"
-      },
-      {
-         "description" : "The Z&#xFC;richsee Amateur Open is taking place from 27&#x2013;30 July 2023 in Pf&#xE4;ffikon SZ, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 6-round Swiss tournament with participation of Vadim Cernov, Benedict Hasenohr, Timur Kocharin, Kyrilo Zaitsev, Bogdan Borsos, Karlo Turk, Henrik Cernov, Johannes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zurichsee-amateur-open-2023/",
-         "pubDate" : "Fri, 28 Jul 2023 05:11:00 +0000",
-         "title" : "Z&uuml;richsee Amateur Open 2023"
-      },
-      {
-         "description" : "The Z&#xFC;richsee Amateur Open is taking place from 27&#x2013;30 July 2023 in Pf&#xE4;ffikon SZ, Switzerland. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#160; It is a 6-round Swiss tournament with participation of Vadim Cernov, Benedict Hasenohr, Timur Kocharin, Kyrilo Zaitsev, Bogdan Borsos, Karlo Turk, Henrik Cernov, Johannes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zurichsee-amateur-open-2023-live/",
-         "pubDate" : "Fri, 28 Jul 2023 04:41:00 +0000",
-         "title" : "Z&uuml;richsee Amateur Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Kavala Open is taking place from 28 July to 4 August 2023 in Kavala, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Maxime Lagarde, Dimitrios Mastrovasilis, Antonios []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kavala-open-2023-live/",
-         "pubDate" : "Fri, 28 Jul 2023 04:34:00 +0000",
-         "title" : "Kavala Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Kavala Open is taking place from 28 July to 4 August 2023 in Kavala, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Maxime Lagarde, Dimitrios Mastrovasilis, Antonios []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kavala-open-2023/",
-         "pubDate" : "Fri, 28 Jul 2023 04:08:00 +0000",
-         "title" : "Kavala Open 2023"
-      },
-      {
-         "description" : "The Cuenca Open U2200 is taking place from 28-30 July2023 in Cuenca, Spain. Players receive 60 minutes plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Javier Longa Yauca, Francisco Fernandez Aguilar, Jose Ponce Navalon, Teodoro Asensio Linan, Oliver Kevin Uran Bermudez, Pablo Aymerich Rosell, Carlos Fernandez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cuenca-open-u2200-live/",
-         "pubDate" : "Fri, 28 Jul 2023 03:10:00 +0000",
-         "title" : "Cuenca Open U2200 - LIVE"
-      },
-      {
-         "description" : "The Cuenca Open U2200 is taking place from 28-30 July2023 in Cuenca, Spain. Players receive 60 minutes plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Javier Longa Yauca, Francisco Fernandez Aguilar, Jose Ponce Navalon, Teodoro Asensio Linan, Oliver Kevin Uran Bermudez, Pablo Aymerich Rosell, Carlos Fernandez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cuenca-open-u2200/",
-         "pubDate" : "Fri, 28 Jul 2023 02:42:00 +0000",
-         "title" : "Cuenca Open U2200"
       },
       {
          "description" : "What a day it was for PogChamps 5. After two thrilling matches filled with plot twists and drama, I should probably consult with a heart doctor just to be safe.&#38;nbsp; Today, it was the CDawg from Virginia who won his match against Jarvis in the ...",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-5",
          "pubDate" : "Fri, 21 Jul 2023 13:56:00 -0700",
          "title" : "Nakamura Halts Carlsen's Comeback, Clinches 4th Title"
-      },
-      {
-         "description" : "Women&#39;s World Champion Ju Wenjun attacked with the black pieces in Game 11 of the 2023 FIDE Women&#39;s World Championship, but a creative king march saved the day for GM Lei Tingjie, leaving the scores tied at 5.5-5.5 going into the final classical g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-11",
-         "pubDate" : "Fri, 21 Jul 2023 07:43:00 -0700",
-         "title" : "Lei Tingjie's King Escapes In Game 11 Before Final Showdown"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102020438.cms\" />There's good news for the Bengal chess fraternity as the state's two Grandmasters ended on podiums in European tournaments. While GM Surya Sekhar Ganguly ended second at the La Plagne International Open in France, GM Deep Sengupta claimed the Warsaw International chess festival this week. ",
