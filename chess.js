@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2556",
+         "pubDate" : "Wed, 02 Aug 2023 15:14:38 +0000",
+         "title" : "Second FIDE Council Meeting of 2023 took place in Baku"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2555",
+         "pubDate" : "Wed, 02 Aug 2023 14:46:32 +0000",
+         "title" : "3rd Intercontinental Online Chess Championship for Prisoners: Registration continues"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the early Titled Tuesday event on August 1 and then finished second late. It was GM Alexander Grischuk who won the late event. Both of them are playing in the second round of the 2023 FIDE World Cup on Wednesday, but decided ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-grischuk-win-august-1-2023-titled-tuesday",
+         "pubDate" : "Wed, 02 Aug 2023 07:31:00 -0700",
+         "title" : "Carlsen Takes A Tuesday Warming Up For World Cup"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-5",
-         "pubDate" : "Wed, 02 Aug 2023 00:29:37 -0700",
+         "pubDate" : "Wed, 02 Aug 2023 00:29:00 -0700",
          "title" : "A Brilliancy Blunder, A Wine-Infused Shut Out, And Heaps Of Hanging Pieces"
       },
       {
@@ -1018,14 +1042,6 @@ news_feed (
          "title" : "Top players sign an open letter in support of GM Ivanchuk"
       },
       {
-         "description" : "GM Ju Wenjun has won a wild final game of the 2023 FIDE Women&#39;s World Championship to claim her fourth title with a 6.5-5.5 victory over GM Lei Tingjie. The 17th women&#39;s world champion, who has held the title since 2018, also picks up the &#38;euro;30...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-womens-world-championship-2023-game-12",
-         "pubDate" : "Sat, 22 Jul 2023 05:07:00 -0700",
-         "title" : "Ju Wenjun Wins 4th Women's World Championship Title"
-      },
-      {
          "description" : "Endgames. Ugh, so boring you might think. I know this isn't the favorite phase of the game for many. But I hope after reading this article you will change your mind at least a little bit. Why? Because you will learn how to find a smart plan in any kind of endgame. And once you []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1504,14 +1520,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/geza-hetenyi-memorial-2023",
          "pubDate" : "Wed, 12 Jul 2023 22:13:00 +0400",
          "title" : "Geza Hetenyi Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2520",
-         "pubDate" : "Wed, 12 Jul 2023 11:48:34 +0000",
-         "title" : "WWC Match 2023: Last game in Shanghai ends in a draw"
       }
    ]
 }
