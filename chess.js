@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Round 1 is over at the World Cup in Baku. A total of 33 matches (24 in the open and 9 in the women's section) were decided in rapid and blitz tiebreaks. Now that the first round has been completed, all the players who received byes - the rating favourites - will join the fray on Wednesday. Magnus Carlsen will face Levan Pantsulaia (Georgia, 2564), while Ju Wenjun will face Eva Repkova (Slovakia, 2312) | Photo: FIDE / Stev Bonhage",
+         "description" : "Round 1 is over at the World Cup in Baku. A total of 33 matches (24 in the open and 9 in the women's section) were decided in rapid and blitz tiebreaks. Now that the first round has been completed, all the players who received byes - the rating favourites - will join the fray on Wednesday. Magnus Carlsen will face Levan Pantsulaia (Georgia, 2564), while Ju Wenjun will face Eva Repkova (Slovakia, 2312). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d3",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-3",
          "pubDate" : "Tue, 01 Aug 2023 16:02:00 -0700",
          "title" : "Suleymanli Wins Epic Tiebreak As Carlsen, Nakamura Gear Up For Action"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2554",
+         "pubDate" : "Tue, 01 Aug 2023 23:01:21 +0000",
+         "title" : "FIDE August 2023 rating list: Gukesh, Le Quang Liem and Praggnanandhaa reach career-high"
       },
       {
          "description" : "The U20 Israeli Youth Championship is taking place from 2&#x2013;9 August 2023. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yeshaayahu Tzidkiya, Eytan Rozen, Yannay Ben Ari, Guy Levin, Yonathan Uritsky, Or Gavriely, Daniel Iliaguev, Michelle Katkov, Eyal []",
