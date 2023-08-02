@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine Extra is the ideal addition to ChessBase Magazine for all ambitious chess players who want to know more than their opponents. In the new issue, for example, the up-and-coming Indian grandmaster Leon Mendonca shows a tricky variation in the Queen's Gambit Declined (from White's point of view), while Romain Edouard continues his video course on the Dragon Variation, and Anish Giri comments on a brilliant game of his own. Plus much more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/neu-extra-214",
+         "pubDate" : "Wed, 02 Aug 2023 20:00:00 +0100",
+         "title" : "New: Extra 214"
+      },
+      {
+         "description" : "With a rating of only 1845, 17-year-old Velpula Sarayu from India scored one of the most sensational results in chess history, defeating masters rated more than 600 points higher. Teenagers such as GM Gukesh D, GM Arjun Erigaisi, GM Praggnanandh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/indian-1800-rated-17-year-old-with-sensational-result",
+         "pubDate" : "Wed, 02 Aug 2023 11:52:00 -0700",
+         "title" : "Indian 1800-Rated 17-Year-Old Scores Sensational Result In Spain"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -134,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/artist-bots",
-         "pubDate" : "Tue, 01 Aug 2023 06:45:47 -0700",
+         "pubDate" : "Tue, 01 Aug 2023 06:45:00 -0700",
          "title" : "Artist Bots Are Here For August"
       },
       {
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Call of Interest for Arbiters in World Events 2024-2025"
       },
       {
-         "description" : "In a study just released, chess was shown to be one of the most useful strategies in helping to prevent dementia. The study followed over 10 thousand senior Australians and their habits, and spanned 10 years. The conclusion was that chess permitted 'higher efficiency in using brain networks'. Read on and watch the video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-shows-chess-is-a-powerful-tool-against-dementia-video",
-         "pubDate" : "Wed, 26 Jul 2023 14:10:00 +0100",
-         "title" : "Study shows chess is a powerful tool against dementia (video)"
-      },
-      {
          "description" : "The 2023 FIDE World Chess Cup and the FIDE Women's World Chess Cup 2023 kick off this Saturday in Baku, Azerbaijan. The Open event is taking place from 29 July to 25 August, and the Women's tournament will be played from 29 July to 22 August in the same venue. The FIDE World Chess Cup will gather 206 players, and the top seeds are: Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov, Dommaraju Gukesh, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-4",
          "pubDate" : "Sat, 22 Jul 2023 15:56:00 -0700",
          "title" : "Death, Taxes, And Nakamura's Bullet Brawl Victories"
-      },
-      {
-         "description" : "We are thrilled to announce major improvements to engines on Chess.com. Only weeks after the release of Stockfish 16, the newest version of the engine is now also available on our website. The engine is stronger than ever and brings a new evaluati...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/stockfish-16-on-chesscom",
-         "pubDate" : "Sat, 22 Jul 2023 09:00:00 -0700",
-         "title" : "Use The Latest And Most Powerful Version Of Stockfish Right On Chess.com"
       },
       {
          "description" : "",
@@ -1504,22 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2519",
          "pubDate" : "Wed, 12 Jul 2023 19:55:34 +0000",
          "title" : "3rd Intercontinental Online Chess Championship for Prisoners announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2517",
-         "pubDate" : "Wed, 12 Jul 2023 18:30:56 +0000",
-         "title" : "Promoting Africa: CIE Awareness Campaign launched in Zimbabwe and Nigeria"
-      },
-      {
-         "description" : " The Geza Hetenyi Memorial takes place in Budapest Tue 11th to Wed 19th Jul 2023. Players: Maghsoodloo, Sjugirov, Eljanov, Shevchenko, Praggnanandhaa, Tabatabaei, Wojtaszek, Matlakov, Prohaszka and Adam Kozak.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/geza-hetenyi-memorial-2023",
-         "pubDate" : "Wed, 12 Jul 2023 22:13:00 +0400",
-         "title" : "Geza Hetenyi Memorial 2023 - Games and Results"
       }
    ]
 }
