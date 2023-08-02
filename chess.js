@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-2",
+         "pubDate" : "Wed, 02 Aug 2023 02:53:50 +0000",
+         "title" : "2023 Summer Chess Classic: Round 2"
+      },
+      {
          "description" : "Round 1 is over at the World Cup in Baku. A total of 33 matches (24 in the open and 9 in the women's section) were decided in rapid and blitz tiebreaks. Now that the first round has been completed, all the players who received byes - the rating favourites - will join the fray on Wednesday. Magnus Carlsen will face Levan Pantsulaia (Georgia, 2564), while Ju Wenjun will face Eva Repkova (Slovakia, 2312). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pawn-waves",
          "pubDate" : "Tue, 01 Aug 2023 09:00:00 +0100",
          "title" : "Pawn waves"
-      },
-      {
-         "description" : "The Northumbria Masters Congress (24-28 August, Newcastle upon Tyne) is happy to announce that players of all ratings are now welcome to play in the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/northumbria-masters-open-all-ratings-now-welcome/",
-         "pubDate" : "Tue, 01 Aug 2023 07:48:18 +0000",
-         "title" : "Northumbria Masters Open - all ratings now welcome"
       },
       {
          "description" : "A few major upsets left rating favourites out of the World Cup in the first round of the multitudinous competition. In the open category, Gianmarco Leiva (Peru) and Pablo Salinas (Chile) gave the biggest surprises. In the women's section, Qianyun Gong (Singapore), Turmunkh Munkhzul (Mongolia) and Maili-Jade Ouellet (Canada) pulled off the biggest stunners. | Pictured: Nurgyul Salimova | Photo: chess.com / Maria Emelianova",
@@ -906,14 +906,6 @@ news_feed (
          "title" : "Ghazarian Wanted a 'Chaotic, Stressful Game' | R9 #USJuniorsChess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-1",
-         "pubDate" : "Mon, 24 Jul 2023 23:47:03 +0000",
-         "title" : "2023 Summer Chess Classic: Round 1"
-      },
-      {
          "description" : "The wait is nearly over&#38;mdash;PogChamps 5 is about to kick off, and now Chess.com can reveal its sparkling line-up for the most exciting amateur event in chess. The two-week tournament starting on July 26 at 4 p.m. ET/21:00 CEST,&#38;nbsp;will feature...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -960,6 +952,14 @@ news_feed (
          "link" : "https://www.europechess.org/sponsorship-announcement/",
          "pubDate" : "Mon, 24 Jul 2023 07:10:55 +0000",
          "title" : "Sponsorship announcement"
+      },
+      {
+         "description" : "Chess as a symbol of war, chess as a symbol of peace. Two photos on the short list for this month's featured Flickr photo used a chess game to convey opposing messages. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng23.jpg\" WIDTH=400 HEIGHT=405><BR> <B>Top:</B> <A HREF=\"https://www.flickr.com/photos/frted/53053561809/\">Chess match USSR (Russia) vs USA</A> &#169; Flickr user <I>Ted</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc/2.0/\">Creative Commons</A><BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/nasa2explore/53057090831/\">Cosmonaut Sergey Prokopyev and Astronaut Woody Hoburg play chess</A> &#169; Flickr user <I>NASA Johnson</I> under <A HREF=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/chess-as-symbol.html",
+         "pubDate" : "Sun, 23 Jul 2023 15:36:00 +0000",
+         "title" : "Chess as a Symbol"
       },
       {
          "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
@@ -1536,6 +1536,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcc2023-chess-festival-events-entry-form/",
          "pubDate" : "Wed, 12 Jul 2023 09:37:12 +0000",
          "title" : "BCC2023 Chess Festival events entry form"
+      },
+      {
+         "description" : "Shreyas Royal was recently selected for training by the Kasparov Chess Foundation. He was first invited to a preliminary training camp in Vienna, as one...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/shreyas-royal-at-the-kasparov-chess-foundation/",
+         "pubDate" : "Wed, 12 Jul 2023 09:11:00 +0000",
+         "title" : "Shreyas Royal at the Kasparov Chess Foundation"
       }
    ]
 }
