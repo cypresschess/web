@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Wed, 02 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "FIDE has informed us that they have put the youngest chess player ever on their rating list. The lad has participate in five national tournaments and won a number of titles in his age category. Last March, for example, he won his stat's Under 8 Championship. Like to guess how old Tejas Tiwari is? Wrong, younger!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-youngest-fide-rated-player",
+         "pubDate" : "Wed, 02 Aug 2023 11:58:19 +0100",
+         "title" : "The youngest FIDE-rated player!"
+      },
+      {
+         "description" : "It was a day of mercilessness and confusion at PogChamps 5.&#38;nbsp; Most of the matches were 2-0 sweeps. I did a thing did tricky things to defeat Fuslie. CDawgVA daydrank as he beat Franks-is-heres. xQc gained winning positions by move eight in b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-5",
+         "pubDate" : "Wed, 02 Aug 2023 00:29:37 -0700",
+         "title" : "A Brilliancy Blunder, A Wine-Infused Shut Out, And Heaps Of Hanging Pieces"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "After 2023 World Open, a new chess era unfolding"
       },
       {
-         "description" : "Before the last day of play, three players still have chances to win the Grandmaster Triathlon in Biel: Vincent Keymer, Le Quang Lieam and David Navara. Thanks to his win over Bassem Amin, Keymer is now back atop the tournament standings. The 18-year-old German stands half a point ahead of Le and 2&frac12; points ahead of Navara. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r6",
-         "pubDate" : "Wed, 26 Jul 2023 01:30:00 +0100",
-         "title" : "Biel: Keymer beats Amin to retake the lead"
-      },
-      {
          "description" : "GMs Fabiano Caruana, Amin Tabatabaei, and Pavel Eljanov emerged victorious in the 2023 Julius Baer Generation Cup Play-in on Tuesday. They will join GMs Magnus Carlsen, Wesley So, Nodirbek Abdusattorov, and Denis Lazavik, who claimed their spots i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-recap",
          "pubDate" : "Tue, 25 Jul 2023 20:47:45 +0000",
          "title" : "2023 U.S. Junior & U.S. Senior Championships | RECAP"
-      },
-      {
-         "description" : "The closing ceremony of the Women's World Championship match was held at the grand hall of the Changshou District Office Service Centre, the same venue where just two days earlier, Ju Wenjun defeated challenger Lei Tingjie in the crucial twelfth game of the match. \"There are many memorable moments, and this is one of them\", said the world champion. | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ju-wenjun-world-championship-2023-closing",
-         "pubDate" : "Tue, 25 Jul 2023 21:00:00 +0100",
-         "title" : "Ju Wenjun crowned with her fourth women's world champion title"
       },
       {
          "description" : "GM Melikset Khachiyan won the 2023 U.S. Senior Chess Championship, IM-elect&#38;nbsp;Alice Lee won the 2023 Girls&#39; Junior Chess Championship, and GM Abhimanyu Mishra won the 2023 U.S. Junior Chess Championship. Khachiyan and Lee clinched their first n...",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/off-mark.html",
          "pubDate" : "Fri, 21 Jul 2023 22:55:00 +0000",
          "title" : "Off the mark"
-      },
-      {
-         "description" : "GM Hikaru Nakamura clinched the Bullet Chess Championship 2023 on Friday, shutting down GM Magnus Carlsen&#39;s comeback in overtime in an epic Grand Final.&#38;nbsp; Back in Norway with his home setup, Carlsen switched into another gear and went on a t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-bullet-chess-championship-ko-day-5",
-         "pubDate" : "Fri, 21 Jul 2023 13:56:00 -0700",
-         "title" : "Nakamura Halts Carlsen's Comeback, Clinches 4th Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102020438.cms\" />There's good news for the Bengal chess fraternity as the state's two Grandmasters ended on podiums in European tournaments. While GM Surya Sekhar Ganguly ended second at the La Plagne International Open in France, GM Deep Sengupta claimed the Warsaw International chess festival this week. ",
@@ -1512,38 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2520",
          "pubDate" : "Wed, 12 Jul 2023 11:48:34 +0000",
          "title" : "WWC Match 2023: Last game in Shanghai ends in a draw"
-      },
-      {
-         "description" : "The second English Women's Online Blitz Championship will be held during August 2023. The top finishing player will become the English Women's Online Blitz Champion...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2023/",
-         "pubDate" : "Wed, 12 Jul 2023 10:26:41 +0000",
-         "title" : "English Women's Online Blitz Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2518",
-         "pubDate" : "Wed, 12 Jul 2023 09:53:45 +0000",
-         "title" : "FIDE World Championships 2024 call for bids: Two days to deadline "
-      },
-      {
-         "description" : "Running alongside the British Chess Championships in Leicester we have a raft of events for players and visitors alike to enjoy, including simuls with GM...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcc2023-chess-festival-events-entry-form/",
-         "pubDate" : "Wed, 12 Jul 2023 09:37:12 +0000",
-         "title" : "BCC2023 Chess Festival events entry form"
-      },
-      {
-         "description" : "Shreyas Royal was recently selected for training by the Kasparov Chess Foundation. He was first invited to a preliminary training camp in Vienna, as one...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/shreyas-royal-at-the-kasparov-chess-foundation/",
-         "pubDate" : "Wed, 12 Jul 2023 09:11:00 +0000",
-         "title" : "Shreyas Royal at the Kasparov Chess Foundation"
       }
    ]
 }
