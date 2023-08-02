@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen, Fabiano Caruana, Ian Nepomniachtchi and Dommaraju Gukesh were the highest-rated players to start their participation at the FIDE World Cup with victories. Gukesh's win prompted him to join the world's top 10 in the live ratings list, while Praggnanandhaa and Wei Yi scored brilliant wins. In the women's section, more than half the games ended decisively, as most favourites failed to get more than half points in the first confrontations of round 2. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r2-d1",
+         "pubDate" : "Thu, 03 Aug 2023 01:10:00 +0100",
+         "title" : "World Cup: Shankland blunders, Gukesh enters world's top 10"
+      },
+      {
+         "description" : "World top-five GMs Magnus Carlsen, Fabiano Caruana, and Ian Nepomniachtchi all won, while Hikaru Nakamura was frustrated with a draw, as round two of the 2023 FIDE World Cup began. It was a good day for Indian chess, with GM Praggnanandhaa Rameshb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-1",
+         "pubDate" : "Wed, 02 Aug 2023 15:27:00 -0700",
+         "title" : "Carlsen, Caruana Start Fast, Praggnanandhaa Plays Masterpiece"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2557",
+         "pubDate" : "Wed, 02 Aug 2023 19:44:26 +0000",
+         "title" : "FIDE World Cup 2023 Round 2 Day 1: A lot of draws as top seeds enter the race"
+      },
+      {
          "description" : "ChessBase Magazine Extra is the ideal addition to ChessBase Magazine for all ambitious chess players who want to know more than their opponents. In the new issue, for example, the up-and-coming Indian grandmaster Leon Mendonca shows a tricky variation in the Queen's Gambit Declined (from White's point of view), while Romain Edouard continues his video course on the Dragon Variation, and Anish Giri comments on a brilliant game of his own. Plus much more!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "New: Extra 214"
       },
       {
-         "description" : "With a rating of only 1845, 17-year-old Velpula Sarayu from India scored one of the most sensational results in chess history, defeating masters rated more than 600 points higher. Teenagers such as GM Gukesh D, GM Arjun Erigaisi, GM Praggnanandh...",
+         "description" : "With a rating of only 1845, 17-year-old Velpula Sarayu from India scored one of the most sensational results in chess history, defeating masters rated more than 600 points higher. Teenagers such as GM Dommaraju Gukesh, GM Arjun Erigaisi, GM Prag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/indian-1800-rated-17-year-old-with-sensational-result",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-grischuk-win-august-1-2023-titled-tuesday",
          "pubDate" : "Wed, 02 Aug 2023 07:31:00 -0700",
          "title" : "Carlsen Takes A Tuesday Warming Up For World Cup"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Wed, 02 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "FIDE has informed us that they have put the youngest chess player ever on their rating list. The lad has participate in five national tournaments and won a number of titles in his age category. Last March, for example, he won his stat's Under 8 Championship. Like to guess how old Tejas Tiwari is? Wrong, younger!",
@@ -1018,14 +1034,6 @@ news_feed (
          "title" : "Chess Heroes: Puzzles Book 1"
       },
       {
-         "description" : "Three things in life seem to be a surety: death, taxes, and GM Hikaru Nakamura winning the $400 first prize in Bullet Brawl. Hours after securing victory for the fourth time in Chess.com&#39;s Bullet Chess Championship, Nakamura was back online again,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-july-week-4",
-         "pubDate" : "Sat, 22 Jul 2023 15:56:00 -0700",
-         "title" : "Death, Taxes, And Nakamura's Bullet Brawl Victories"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2521",
          "pubDate" : "Thu, 13 Jul 2023 12:08:41 +0000",
          "title" : "Infinite Chess Project: 3rd stage of ends with a Zoom meeting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2519",
-         "pubDate" : "Wed, 12 Jul 2023 19:55:34 +0000",
-         "title" : "3rd Intercontinental Online Chess Championship for Prisoners announced"
       }
    ]
 }
