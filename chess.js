@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102401852.cms\" />Teenaged Grandmaster D Gukesh posted a win over home favourite Misratdin Iskandarov in a second round match of the World Cup here on Tuesday and overtook his idol Viswanathan Anand in live world (FIDE) rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/teen-gm-gukesh-posts-win-in-2nd-round-of-world-cup-overtakes-viswanathan-anand-to-become-highest-indian-in-fide-rankings/articleshow/102401852.cms",
+         "pubDate" : "Thu, 03 Aug 2023 17:22:42 +0000",
+         "title" : "Gukesh overtakes Anand to become highest Indian in FIDE rankings"
+      },
+      {
          "description" : "The Bundesliga is one of the strongest team tournaments in the world. Next season, it will be even stronger: Hikaru Nakamura, popular streamer and current world number two, will try to help SC Viernheim beat perennial champion Baden-Baden and become German team champion in 2023/2024. | Photo: Stev Bonhage/FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1504,14 +1512,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/14/magnus-carlsen-hits-two-maximums-as-carefree-world-no-1-continues-his-surge",
          "pubDate" : "Fri, 14 Jul 2023 07:00:04 +0000",
          "title" : "Magnus Carlsen hits two maximums as carefree world No 1 continues his surge"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2522",
-         "pubDate" : "Thu, 13 Jul 2023 15:41:57 +0000",
-         "title" : "Winners crowned at International Schools Chess Festival, Ploiești, Romania"
       }
    ]
 }
