@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The sixth day of PogChamps 5 was full of mercilessness and confusion&#38;mdash;it also featured some of the most unbelievable moments in chess history. Wirtual defeated Daily Dose of Internet in a &#34;meaningless match.&#34; Papaplatte defeated Fuslie, and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-6",
+         "pubDate" : "Wed, 02 Aug 2023 19:13:47 -0700",
+         "title" : "QTCinderella Breaks Records, xQc Makes No Mistakes"
+      },
+      {
          "description" : "Magnus Carlsen, Fabiano Caruana, Ian Nepomniachtchi and Dommaraju Gukesh were the highest-rated players to start their participation at the FIDE World Cup with victories. Gukesh's win prompted him to join the world's top 10 in the live ratings list, while Praggnanandhaa and Wei Yi scored brilliant wins. In the women's section, more than half the games ended decisively, as most favourites failed to get more than half points in the first confrontations of round 2. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r2-d1",
          "pubDate" : "Thu, 03 Aug 2023 01:10:00 +0100",
          "title" : "World Cup: Shankland blunders, Gukesh enters world's top 10"
+      },
+      {
+         "description" : " In a hall of great splendor, players from 86 countries have trekked to Baku, Azerbaijan for the 2023 FIDE World Cup. A total of 206 players assembled for the open section and 103 for the women's section are competing for a record prize fund and three spots for the Candidates Tournament. Starting with the 2021 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/02/2023-fide-world-cup-round-1/\">2023 FIDE World Cup: Round 1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/02/2023-fide-world-cup-round-1/",
+         "pubDate" : "Wed, 02 Aug 2023 23:32:55 +0000",
+         "title" : "2023 FIDE World Cup: Round 1"
       },
       {
          "description" : "World top-five GMs Magnus Carlsen, Fabiano Caruana, and Ian Nepomniachtchi all won, while Hikaru Nakamura was frustrated with a draw, as round two of the 2023 FIDE World Cup began. It was a good day for Indian chess, with GM Praggnanandhaa Rameshb...",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ghazarian-wanted-%E2%80%98chaotic-stressful-game%E2%80%99-r9-usjuniorschess",
          "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
          "title" : "Ghazarian Wanted a 'Chaotic, Stressful Game' | R9 #USJuniorsChess"
-      },
-      {
-         "description" : "The wait is nearly over&#38;mdash;PogChamps 5 is about to kick off, and now Chess.com can reveal its sparkling line-up for the most exciting amateur event in chess. The two-week tournament starting on July 26 at 4 p.m. ET/21:00 CEST,&#38;nbsp;will feature...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-line-up-revealed-16-amazing-names",
-         "pubDate" : "Mon, 24 Jul 2023 14:46:00 -0700",
-         "title" : "PogChamps 5 Lineup Revealed Feat. xQc, Tyler1, QTCinderella And More, Action Starts July 26"
       },
       {
          "description" : "",
