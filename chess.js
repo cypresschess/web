@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102376128.cms\" />The battle of wits between two Asian women chess champions in the first game of second round in the FIDE World Cup ended in a draw in Baku, Azerbaijan, on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-hungarian-gm-in-game-1-of-round-two-with-black-in-chess-world-cup/articleshow/102376128.cms",
+         "pubDate" : "Thu, 03 Aug 2023 05:07:33 +0000",
+         "title" : "Divya holds Hungarian GM in Game 1 of round two at World Cup"
+      },
+      {
          "description" : "The sixth day of PogChamps 5 was full of mercilessness and confusion&#38;mdash;it also featured some of the most unbelievable moments in chess history. Wirtual defeated Daily Dose of Internet in a &#34;meaningless match.&#34; Papaplatte defeated Fuslie, and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
