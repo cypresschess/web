@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Thu, 03 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Gukesh is one of the most promising youngsters in the world of chess. He is no longer just a talent, but has confidently marched to the very top of the chess world, where he is currently ranked no. 11, with an Elo of 2751. In March 2023, Gukesh visited the ChessBase India studio in Mumbai and together with IM Sagar Shah they recorded a video course on how to attack like a super GM. The video course was well received - here are some reviews, from a strong IM to an unrated player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-fritztrainer-first-reviews-2",
+         "pubDate" : "Thu, 03 Aug 2023 09:32:56 +0100",
+         "title" : "Gukesh Fritztrainer: first reviews"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102376128.cms\" />The battle of wits between two Asian women chess champions in the first game of second round in the FIDE World Cup ended in a draw in Baku, Azerbaijan, on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -754,28 +770,12 @@ news_feed (
          "title" : "Hikaru Nakamura Finds His Queen, Marries Atousa Pourkashiyan"
       },
       {
-         "description" : "In his Game of the Week show #578, Merijn van Delft goes over a game that was as relevant theoretically as it was entertaining: a Sicilian Najdorf played by Arjun Erigaisi and David Navara in Biel! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-578-erigaisi-navara",
-         "pubDate" : "Wed, 26 Jul 2023 18:15:00 +0100",
-         "title" : "Game of the Week #578: A. Erigaisi vs D. Navara"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102147179.cms\" />Aditya S Samant, a 17-year-old chess prodigy from Maharashtra, achieved a momentous milestone by becoming India's 83rd chess Grandmaster on Wednesday. Prior to this achievement, he held the title of International Master.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-samant-becomes-indias-83rd-chess-grandmaster/articleshow/102147179.cms",
          "pubDate" : "Wed, 26 Jul 2023 16:26:55 +0000",
          "title" : "Aditya Samant becomes India's 83rd chess Grandmaster"
-      },
-      {
-         "description" : "All eyes are on Baku as the chess elite descends on Azerbaijan for the World Cup. The event will feature an unprecedented prize fund of 2.5 million US dollars. For the first time, the top three players from both the Open and the Women's section, which will be held together at the same time, will qualify for the Candidates tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/azerbaijan-fide-world-cup",
-         "pubDate" : "Wed, 26 Jul 2023 17:00:00 +0100",
-         "title" : "Azerbaijan FIDE World Cup"
       },
       {
          "description" : "On July 25, GM Maxime Vachier-Lagrave became the third player to win both ends of a Titled Tuesday, after GM Hikaru Nakamura (who has done it five times) and GM Wesley So. Nakamura himself prevented Vachier-Lagrave from joining him and GM Magnus C...",
