@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Bundesliga is one of the strongest team tournaments in the world. Next season, it will be even stronger: Hikaru Nakamura, popular streamer and current world number two, will try to help SC Viernheim beat perennial champion Baden-Baden and become German team champion in 2023/2024. | Photo: Stev Bonhage/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hikaru-nakamura-will-play-in-the-german-bundesliga",
+         "pubDate" : "Thu, 03 Aug 2023 14:43:54 +0100",
+         "title" : "Hikaru Nakamura will play in the German Bundesliga"
+      },
+      {
+         "description" : " The 2023 World Cup is underway in Baku. Australia started with 4 representatives (2 from the Oceania Zonal and 2 qualifying from the Olympiad), although that number dropped to 2 after Round 1. GM Bobby Cheng drew his round 1 match 1-1, but lost the playoff, while WGM Jillin Zhang went out in regulation. GM Temur Kuybokarov won his round 1 match, but is already down 1 game against Yu Yangi. He needs to win the 2nd game to send the match into overtime, but as I type this, he stands slightly worse going into the ending. Julia Ryjanova is holding her own in her round 2 match against higher rated Zhongyi Tan, having drawn the first game, and looking OK in a sharp position in the 2nd game. Of cou",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
+         "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
+         "title" : "2023 World Cup"
+      },
+      {
+         "description" : "The Nordh&#xE4;user Schachopen is taking place from 3&#x2013;6 August 2023 in Nordhausen, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Ferenc Langheinrich, Markus Hahn, Cliff&#xA0;Wichmann, Benedikt&#xA0;Huber, Tobias&#xA0;Becker, Daniel&#xA0;Woithe, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nordhauser-schachopen-2023-live/",
+         "pubDate" : "Thu, 03 Aug 2023 11:57:00 +0000",
+         "title" : "Nordh&auml;user Schachopen 2023 - LIVE"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,8 +54,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-6",
-         "pubDate" : "Wed, 02 Aug 2023 19:13:47 -0700",
+         "pubDate" : "Wed, 02 Aug 2023 19:13:00 -0700",
          "title" : "QTCinderella Breaks Records, xQc Makes No Mistakes"
+      },
+      {
+         "description" : "The Nordh&#xE4;user Schachopen is taking place from 3&#x2013;6 August 2023 in Nordhausen, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Ferenc Langheinrich, Markus Hahn, Cliff&#xA0;Wichmann, Benedikt&#xA0;Huber, Tobias&#xA0;Becker, Daniel&#xA0;Woithe, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nordhauser-schachopen-2023/",
+         "pubDate" : "Thu, 03 Aug 2023 00:53:00 +0000",
+         "title" : "Nordh&auml;user Schachopen 2023"
       },
       {
          "description" : "Magnus Carlsen, Fabiano Caruana, Ian Nepomniachtchi and Dommaraju Gukesh were the highest-rated players to start their participation at the FIDE World Cup with victories. Gukesh's win prompted him to join the world's top 10 in the live ratings list, while Praggnanandhaa and Wei Yi scored brilliant wins. In the women's section, more than half the games ended decisively, as most favourites failed to get more than half points in the first confrontations of round 2. | Photo: FIDE / Anna Shtourman",
@@ -554,22 +586,6 @@ news_feed (
          "title" : "Swiss Championship Rapid"
       },
       {
-         "description" : "The U16 Spanish Rapid Championship is taking place from 29-30 July 2023 in Salobre&#xF1;a (Granada), Spain. Players receive 10 minutes for the entire game, plus a 5-second increment starting from move one. It is a 9-round tournament with participation of Albert Fernandez Climent, Diego Macias Pino, Javier Habans Aguerrea, Xulio Del Prado Rodriguez, Lorenzo Perea []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-spanish-championship-rapid-live/",
-         "pubDate" : "Sat, 29 Jul 2023 05:14:00 +0000",
-         "title" : "U16 Spanish Championship - Rapid - LIVE"
-      },
-      {
-         "description" : "The U16 Spanish Rapid Championship is taking place from 29-30 July 2023 in Salobre&#xF1;a (Granada), Spain. Players receive 10 minutes for the entire game, plus a 5-second increment starting from move one. It is a 9-round tournament with participation of Albert Fernandez Climent, Diego Macias Pino, Javier Habans Aguerrea, Xulio Del Prado Rodriguez, Lorenzo Perea []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-spanish-championship-rapid/",
-         "pubDate" : "Sat, 29 Jul 2023 04:43:00 +0000",
-         "title" : "U16 Spanish Championship - Rapid"
-      },
-      {
          "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/reading-riot-act.html",
          "pubDate" : "Wed, 26 Jul 2023 23:53:00 +0000",
          "title" : "Reading the Riot Act"
-      },
-      {
-         "description" : "Despite not having played a single rated game since his victory at the 2022 Grandmaster Triathlon in Biel, Le Quang Liem successfully defended his title in this year's edition of the Festival's main event. The Vietnamese star drew his game with David Navara and saw former sole leader Vincent Keymer losing against Arjun Erigaisi. Thanks to his 5/7 performance in the classical section of the event, Le climbed to the 16th spot in the live ratings list! | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-r7",
-         "pubDate" : "Thu, 27 Jul 2023 00:30:00 +0100",
-         "title" : "Biel: Le successfully defends title, Keymer falls just short"
       },
       {
          "description" : "GM Hikaru Nakamura has had great success on the chess board recently, but everything appears to work out off the board as well. The world number-two confirmed to Chess.com that he married WGM Atousa Pourkashiyan. The chess world&#39;s newest super-c...",
@@ -1504,22 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2522",
          "pubDate" : "Thu, 13 Jul 2023 15:41:57 +0000",
          "title" : "Winners crowned at International Schools Chess Festival, Ploiești, Romania"
-      },
-      {
-         "description" : "India won 15 individual medals which include 3 Gold, 7 Silver and 5 Bronze in the recently concluded Western Asian Chess Championship at Issykkul, Kyrgyzstan.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/15-individual-medals-for-india-in-western-asian-chess-championships-2023/",
-         "pubDate" : "Thu, 13 Jul 2023 15:04:05 +0000",
-         "title" : "15 Individual medals for India in Western Asian Chess Championships-2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2521",
-         "pubDate" : "Thu, 13 Jul 2023 12:08:41 +0000",
-         "title" : "Infinite Chess Project: 3rd stage of ends with a Zoom meeting"
       }
    ]
 }
