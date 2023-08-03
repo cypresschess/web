@@ -2,12 +2,108 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Singapore&#39;s GM Tin Jingyao, seeded 120 in the 2023 FIDE World Cup, knocked out ninth seed GM Shakhriyar Mamedyarov in a dramatic day of round-two action. A dark horse to win the event, GM Nodirbek Abdusattorov, fell to 112th seed GM Vahap Sanal, w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-2",
+         "pubDate" : "Thu, 03 Aug 2023 15:54:41 -0700",
+         "title" : "Mamedyarov, Abdusattorov, Shankland Crash Out Of World Cup"
+      },
+      {
+         "description" : "Howard Staunton (April 1819 - June 22, 1874) stands as a controversial figure in chess. Not only did he establish himself as the strongest player in the 1840s, but also elevated the comprehension of the game as the most prominent analyst and author of his generation. His influence as a player and organizer contributed to the standardization of the chess pieces and to the development of international competition. Yet, he was also a complex character who made foes out of his competitors and friends alike. | Picture source: World Chess Hall of Fame.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament",
+         "pubDate" : "Thu, 03 Aug 2023 22:25:32 +0100",
+         "title" : "Remembering Howard Staunton on the 172nd Anniversary of the Great London 1851 Tournament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-3",
+         "pubDate" : "Thu, 03 Aug 2023 20:55:43 +0000",
+         "title" : "2023 Summer Chess Classic: Round 3"
+      },
+      {
+         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 August in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30.&#xA0; It is a 9-player round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summer-chess-classic-a-2023-live/",
+         "pubDate" : "Thu, 03 Aug 2023 20:52:44 +0000",
+         "title" : "Summer Chess Classic A 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 August in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30.&#xA0; It is a 9-player round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summer-chess-classic-a/",
+         "pubDate" : "Thu, 03 Aug 2023 20:00:00 +0000",
+         "title" : "Summer Chess Classic A 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2558",
+         "pubDate" : "Thu, 03 Aug 2023 19:44:58 +0000",
+         "title" : "FIDE Word Cup 2023 Round 2 Game 2: Surprising knockouts and intense battles"
+      },
+      {
+         "description" : "The Shopping Patio Pinda Festival is taking place from 4&#x2013;6 August 2023 in Pindamonhangaba, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 6-round Swiss tournament with participation of Felipe de Cresce El Debs, Diego Rafael&#xA0;Di Berardino, Darcy Lima, Everaldo&#xA0;Matsuura, Nathan Felipe&#xA0;Filgueiras, Alvaro Z.&#xA0;Aranha Filho, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shopping-patio-pinda-festival-2023-live/",
+         "pubDate" : "Thu, 03 Aug 2023 19:27:00 +0000",
+         "title" : "Shopping Patio Pinda Festival 2023 - LIVE"
+      },
+      {
+         "description" : "The Shopping Patio Pinda Festival is taking place from 4&#x2013;6 August 2023 in Pindamonhangaba, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 6-round Swiss tournament with participation of Felipe de Cresce El Debs, Diego Rafael&#xA0;Di Berardino, Darcy Lima, Everaldo&#xA0;Matsuura, Nathan Felipe&#xA0;Filgueiras, Alvaro Z.&#xA0;Aranha Filho, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shopping-patio-pinda-festival-2023/",
+         "pubDate" : "Thu, 03 Aug 2023 19:11:00 +0000",
+         "title" : "Shopping Patio Pinda Festival 2023"
+      },
+      {
+         "description" : "The Summer Prague Open is taking place from 4&#x2013;11 August 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gyula&#xA0;Pap, Marian&#xA0;Jurcik, Benedict&#xA0;Krause,&#xA0;Khuyagtsog tItgelt, Petr&#xA0;Neuman,&#xA0;Arhan Chethan Anand, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summer-prague-open-2023-live/",
+         "pubDate" : "Thu, 03 Aug 2023 17:54:00 +0000",
+         "title" : "Summer Prague Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Summer Prague Open is taking place from 4&#x2013;11 August 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gyula&#xA0;Pap, Marian&#xA0;Jurcik, Benedict&#xA0;Krause,&#xA0;Khuyagtsog tItgelt, Petr&#xA0;Neuman,&#xA0;Arhan Chethan Anand, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summer-prague-open-2023/",
+         "pubDate" : "Thu, 03 Aug 2023 17:30:00 +0000",
+         "title" : "Summer Prague Open 2023"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102401852.cms\" />Teenaged Grandmaster D Gukesh posted a win over home favourite Misratdin Iskandarov in a second round match of the World Cup here on Tuesday and overtook his idol Viswanathan Anand in live world (FIDE) rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/teen-gm-gukesh-posts-win-in-2nd-round-of-world-cup-overtakes-viswanathan-anand-to-become-highest-indian-in-fide-rankings/articleshow/102401852.cms",
          "pubDate" : "Thu, 03 Aug 2023 17:22:42 +0000",
          "title" : "Gukesh overtakes Anand to become highest Indian in FIDE rankings"
+      },
+      {
+         "description" : "The Feria de Las Flores is taking place from 3&#x2013;7 August 2023 in Medellin, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Luis Lazaro&#xA0;Aguero Jimenez, David&#xA0;Arenas, Henry&#xA0;Panesso Rivera, Jhon Edison&#xA0;Munoz Galvez, Josue&#xA0;Araujo Sanchez, Diego Saul Rodri&#xA0;Flores Quillas, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/feria-de-las-flores-2023-live/",
+         "pubDate" : "Thu, 03 Aug 2023 16:48:00 +0000",
+         "title" : "Feria de Las Flores 2023 - LIVE"
+      },
+      {
+         "description" : "The Feria de Las Flores is taking place from 3&#x2013;7 August 2023 in Medellin, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Luis Lazaro&#xA0;Aguero Jimenez, David&#xA0;Arenas, Henry&#xA0;Panesso Rivera, Jhon Edison&#xA0;Munoz Galvez, Josue&#xA0;Araujo Sanchez, Diego Saul Rodri&#xA0;Flores Quillas, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/feria-de-las-flores-2023/",
+         "pubDate" : "Thu, 03 Aug 2023 16:24:00 +0000",
+         "title" : "Feria de Las Flores 2023"
       },
       {
          "description" : "The Bundesliga is one of the strongest team tournaments in the world. Next season, it will be even stronger: Hikaru Nakamura, popular streamer and current world number two, will try to help SC Viernheim beat perennial champion Baden-Baden and become German team champion in 2023/2024. | Photo: Stev Bonhage/FIDE",
@@ -194,22 +290,6 @@ news_feed (
          "title" : "FIDE August 2023 rating list: Gukesh, Le Quang Liem and Praggnanandhaa reach career-high"
       },
       {
-         "description" : "The U20 Israeli Youth Championship is taking place from 2&#x2013;9 August 2023. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yeshaayahu Tzidkiya, Eytan Rozen, Yannay Ben Ari, Guy Levin, Yonathan Uritsky, Or Gavriely, Daniel Iliaguev, Michelle Katkov, Eyal []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-israeli-youth-championship-2023-live/",
-         "pubDate" : "Tue, 01 Aug 2023 21:34:56 +0000",
-         "title" : "U20 Israeli Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U20 Israeli Youth Championship is taking place from 2&#x2013;9 August 2023. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Yeshaayahu Tzidkiya, Eytan Rozen, Yannay Ben Ari, Guy Levin, Yonathan Uritsky, Or Gavriely, Daniel Iliaguev, Michelle Katkov, Eyal []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-israeli-youth-championship-2023/",
-         "pubDate" : "Tue, 01 Aug 2023 21:10:00 +0000",
-         "title" : "U20 Israeli Youth Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -266,44 +346,12 @@ news_feed (
          "title" : "Register For The Collegiate Chess League Fall 2023 Season"
       },
       {
-         "description" : "The Krefeld Summer Open is taking place August 2-6, 2023 in Krefeld, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Christian Braun, Pascal Neukirchner, Stefan Schiffer, Rafael Sabirov, Mark Clijsen, etc. All about FIDE Wrold Cup 2023 : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/krefeld-summer-open-2023-live/",
-         "pubDate" : "Tue, 01 Aug 2023 10:26:00 +0000",
-         "title" : "Krefeld Summer Open 2023 - LIVE"
-      },
-      {
          "description" : "Weird History is a YouTube channel that provides chronicles of history in a form never covered in high school. It looks at the extreme, the unexpected, the untold and the flat-out weird parts of history. \"Because as weird as people seem today, we don't hold a candle to history,\" they claim. They have 4.31 million subscribers and have registered over half a billion views. After posting over 700 videos they have descended on Bobby Fischer. Here is the video portrait, for what it is worth.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/facts-about-fisher",
          "pubDate" : "Tue, 01 Aug 2023 11:00:00 +0100",
          "title" : "Facts about Fischer"
-      },
-      {
-         "description" : "The Badalona Open is taking place from 2&#x2013;10 August 2023 in Badalona, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Dylan Isidro Berdayes Ason, Omar Almeida Quintana, Elier Miranda Mesa, Marc Narciso Dublan, Miguel Munoz, Subhayan Kundu, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/badalona-open-2023-2/",
-         "pubDate" : "Tue, 01 Aug 2023 09:40:00 +0000",
-         "title" : "Badalona Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Badalona Open is taking place from 2&#x2013;10 August 2023 in Badalona, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Dylan Isidro Berdayes Ason, Omar Almeida Quintana, Elier Miranda Mesa, Marc Narciso Dublan, Miguel Munoz, Subhayan Kundu, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/badalona-open-2023/",
-         "pubDate" : "Tue, 01 Aug 2023 09:15:00 +0000",
-         "title" : "Badalona Open 2023"
-      },
-      {
-         "description" : "The Krefeld Summer Open is taking place August 2-6, 2023 in Krefeld, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Christian &#xA0;Braun, Pascal &#xA0;Neukirchner,&#xA0; Stefan Schiffer, Rafael &#xA0;Sabirov, Mark &#xA0;Clijsen, etc.Chessdom.com will daily follow the live games. All []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/krefeld-summer-open-2023/",
-         "pubDate" : "Tue, 01 Aug 2023 09:11:00 +0000",
-         "title" : "Krefeld Summer Open 2023"
       },
       {
          "description" : "Pawn races can be very sharp. And it is not always best to push the pawns. But what else can and should White do in the diagram position?",
@@ -570,28 +618,12 @@ news_feed (
          "title" : "Islam, chess and the first grandmaster"
       },
       {
-         "description" : "The Swiss Championship Rapid is taking place on 30 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;It si a 9-round Swiss tournament with participation of Gabriel Gaehwiler, Roland Loetscher, Branko Filipovic, Fabian Baenziger, Aurelio Colmenares, Fabrizio Patuzzo, Oliver Sutter, Noah Fecker, Patrik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-rapid-live/",
-         "pubDate" : "Sat, 29 Jul 2023 06:30:00 +0000",
-         "title" : "Swiss Championship Rapid - LIVE"
-      },
-      {
          "description" : "With trash talk, surprise checkmates, and ruthless king hunts, the competitors went all out on day three of PogChamps 5. Franks-is-heres inspired himself into victory vs. the ever-calm Sykkuno, tying with CDawgVA for first in Group A. Sapnap def...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
          "pubDate" : "Fri, 28 Jul 2023 23:29:00 -0700",
          "title" : "Best Game Ever Or Worst Game Ever?: Papaplatte, Sapnap, Franks-is-heres Victorious"
-      },
-      {
-         "description" : "The Swiss Championship Rapid is taking place on 30 July 2023 in Biel, Switzerland. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;It si a 9-round Swiss tournament with participation of Gabriel Gaehwiler, Roland Loetscher, Branko Filipovic, Fabian Baenziger, Aurelio Colmenares, Fabrizio Patuzzo, Oliver Sutter, Noah Fecker, Patrik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-championship-rapid/",
-         "pubDate" : "Sat, 29 Jul 2023 06:10:00 +0000",
-         "title" : "Swiss Championship Rapid"
       },
       {
          "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/members-representatives-for-2023-24/",
          "pubDate" : "Thu, 27 Jul 2023 10:57:48 +0000",
          "title" : "Members' Representatives for 2023/24"
-      },
-      {
-         "description" : "Going into the final round of the Grandmaster Triathlon, three players still have chances to win the event: Vincent Keymer, the sole leader, Le Quang Liem and David Navara. Two rounds are still left to go in the Master Open. | Follow the games live with expert commentary from 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-live",
-         "pubDate" : "Thu, 27 Jul 2023 09:55:00 +0100",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "Khachiyan, Lee, Mishra Win National Titles In St. Louis"
       },
       {
-         "description" : "Jaylen Brown, the two-time All-Star for the Boston Celtics, is the latest star to join our ever-growing team of athletes and sports figures that you can tip off with at our bots page. Play the bot today! Chess.com is also collaborating with Brow...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-nba-all-star-jaylen-brown",
-         "pubDate" : "Tue, 25 Jul 2023 08:59:33 -0700",
-         "title" : "Play Chess Against NBA All-Star Jaylen Brown"
-      },
-      {
          "description" : " &#8220;Errare humanum est&#8221; Seneca Last week we went over a bad sequence for White in one of our friendly voting games. You can read it again here. We stopped at our king move below: It was our turn to have a bad idea. After reviewing the discussions we had, I noticed we covered extensively just two <a href=\"https://chessimprover.com/bad-ideas-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-9/\">Bad Ideas (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mishra-excited-play-america%E2%80%99s-best-october-r9-usjuniorschess",
          "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
          "title" : "Mishra Excited to Play America's Best in October! | R9 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kirk Ghazarian talks to Cristian Chirila after defeating Arthur Guo in the ninth round of the 2023 U.S. Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ghazarian-wanted-%E2%80%98chaotic-stressful-game%E2%80%99-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gaWHfuhR-BY.jpg?itok=E4CUUSNf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ghazarian-wanted-%E2%80%98chaotic-stressful-game%E2%80%99-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Ghazarian Wanted a 'Chaotic, Stressful Game' | R9 #USJuniorsChess"
       },
       {
          "description" : "",
