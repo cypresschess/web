@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Fri, 04 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The inaugural KCF European Trainers Conference brought together around 150 trainers from more than 25 countries. The distinguished speakers, including Michael Khodarkovsky, Ivan Sokolov, Adrian Mikhalchishin, and Garry Kasparov, shared their expertise, enriching the conference with valuable insights and experiences. | Photos: Lennart Ootes / Anastasiya Karlovich / Kasparov Chess Foundation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/insights-kcf-european-trainers-conference",
+         "pubDate" : "Fri, 04 Aug 2023 12:00:00 +0100",
+         "title" : "Insights from the first KCF European Trainers Conference"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris looks at two fascinating games from the World Cup, in which White and Black tried new ideas in the Sicilian Sveshnikov with 7.Nd5. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-in-the-sicilian-sveshnikov",
+         "pubDate" : "Fri, 04 Aug 2023 11:19:29 +0100",
+         "title" : "Robert Ris' Fast and Furious: New ideas in the Sicilian Sveshnikov"
+      },
+      {
          "description" : "Shocking results were seen on the fifth day of action at the FIDE World Cup in Baku. In the open, Nodirbek Abdusattorov and Shakhriyar Mamedyarov were knocked out by players in the 2500-2600 rating band - Vahap Sanal and Tin Jingyao (pictured) respectively - while sixth seed Wesley So barely escaped with a draw to take his match against Emre Can to tiebreaks. In the women's section, Yan Tianqi and Maili-Jade Ouellet surprisingly won on demand to even the score against Alexandra Kosteniuk and Irina Krush. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/shopping-patio-pinda-festival-2023/",
          "pubDate" : "Thu, 03 Aug 2023 19:11:00 +0000",
          "title" : "Shopping Patio Pinda Festival 2023"
+      },
+      {
+         "description" : "If he stays ahead of Anand till September 1, he will become the first Indian to surpass Anand since Pravin Thipsay in July 1986",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38128238/gukesh-d-moves-viswanathan-anand-fide-live-world-rankings?device=featurephone",
+         "pubDate" : "Thu, 3 Aug 2023 14:00:16 -0500",
+         "title" : "Gukesh D moves past Viswanathan Anand in FIDE live world rankings"
       },
       {
          "description" : "The Summer Prague Open is taking place from 4&#x2013;11 August 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gyula&#xA0;Pap, Marian&#xA0;Jurcik, Benedict&#xA0;Krause,&#xA0;Khuyagtsog tItgelt, Petr&#xA0;Neuman,&#xA0;Arhan Chethan Anand, []",
@@ -744,30 +776,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/im-elect-alice-lee-gm-abhimanyu-mishra-and-gm-melikset-khachiyan-crowned-winners-national",
          "pubDate" : "Thu, 27 Jul 2023 17:39:24 +0000",
          "title" : "IM Elect Alice Lee, GM Abhimanyu Mishra and GM Melikset Khachiyan Crowned Winners in National Junior and Senior Championships in Saint Louis"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris looks at 2...Nf6 in the Sicilian, the Nimzowitsch Variation. By analysing games played by Aleksandr Rakhmanov, we learn about Black's objectives - and how things could easily go wrong for White as well! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sicilian-nimzowitsch",
-         "pubDate" : "Thu, 27 Jul 2023 18:15:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The double-edged Nimzowitsch Sicilian"
-      },
-      {
-         "description" : "Explore the mysteries of the powerful Janowski Variation of the Queen's Gambit Declined with this brand-new video course! Immerse yourself in this fascinating chess opening and learn how to exploit it to destabilise your opponents. To approach the Janowski Variation, which arises after the moves 1.d4 d5 2.c4 e6 3.Nf3 (or 3.Nc3) a6, it is essential to understand the stakes of the position rather than accumulate a large amount of theory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabien-libiszewski-the-surprising-janowski-variation-3-a6-in-the-queen-s-gambit-declined",
-         "pubDate" : "Thu, 27 Jul 2023 18:00:00 +0100",
-         "title" : "Fabien Libiszewski: The surprising Janowski Variation (3...a6) in the Queen's Gambit Declined"
-      },
-      {
-         "description" : "FIDE had given Vasyl Ivanchuk a wildcard to take part in the upcoming World Cup, but the Ukrainian grandmaster did not, initially, receive permission from the Ministry of Sport to take part. Six top grandmasters, including former world champions Magnus Carlsen and Vishy Anand, signed a petition. Now the Ukrainian Ministry of Sport has granted permission - with conditions. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivanchuk-permission-world-cup",
-         "pubDate" : "Thu, 27 Jul 2023 16:00:00 +0100",
-         "title" : "Ivanchuk is granted permission to play in Baku, with conditions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102178214.cms\" />Tejas Tiwari, a young chess prodigy from India, has earned the prestigious title of being the world's youngest FIDE rated player. Remarkably, he accomplished this extraordinary feat at the incredibly tender age of five.",
@@ -1504,22 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2524",
          "pubDate" : "Fri, 14 Jul 2023 12:37:52 +0000",
          "title" : "Queens' Festival 2023 enters final phase"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2523",
-         "pubDate" : "Fri, 14 Jul 2023 11:27:53 +0000",
-         "title" : "Shawn Rodrigue-Lemieux is the new champion of La Francophonie 2023 "
-      },
-      {
-         "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact organizer directly. Payment mode: 1.Online:https://prs.aicf.in/pay",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junioropen-girls-chess-championship-2023-from-07-16-september-2023-at-jamshedpur-jharkhand/",
-         "pubDate" : "Fri, 14 Jul 2023 11:16:23 +0000",
-         "title" : "Asian Junior(Open & Girls) Chess Championship 2023 from 07-16 September 2023 at Jamshedpur Jharkhand"
       }
    ]
 }
