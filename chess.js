@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Warning: This article mentions instances of sexual abuse that may be triggering for readers. A group of women chess players are fed up with sexist behavior and sexual violence in the chess world and decided to send a strong message in an open le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/women-chess-players-publish-open-letter-denouncing-sexist-behavior",
+         "pubDate" : "Fri, 04 Aug 2023 12:12:14 -0700",
+         "title" : "'We Have Remained Silent For Too Long': Women Chess Players Denounce Sexist Behavior"
+      },
+      {
+         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 June in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30. It is a 9-player round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summer-chess-classic-b/",
+         "pubDate" : "Fri, 04 Aug 2023 19:05:00 +0000",
+         "title" : "Summer Chess Classic B"
+      },
+      {
+         "description" : "The FIDE World Cup is up and running. Svitlana took her time to find some of the most exciting tactics of the first rounds. For us, it is the challenge to not only find \"one move\" solutions, but actually think about the path to get to the actual tactics!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-most-exciting-tactics-of-the-world-cup",
+         "pubDate" : "Fri, 04 Aug 2023 19:46:21 +0100",
+         "title" : "Svitlana's Smart Moves - The most exciting tactics of the World Cup"
+      },
+      {
          "description" : " The much anticipated Press v Press clash in the LFG Invitational ended in a victory for youth. I didn't help my cause by blundering a pawn in the opening, although I received enough compensation for it that it could have been described as a pawn sacrifice. Where I really went wrong was not connecting a couple of separate plans together, to form one cohesive strategy. I looked at ideas around winning the c5 pawn with Rc1 and attacking the king with moves like d6. It turns out that if I played 16.d6! Black can only stop Plan B by allowing me to execute Plan A. Instead I just focussed on Plan B (which fails on its own) and eventually gave away most of my pieces! <br /> <b>Press,Shaun - Press,H",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-6",
          "pubDate" : "Wed, 02 Aug 2023 19:13:00 -0700",
          "title" : "QTCinderella Breaks Records, xQc Makes No Mistakes"
-      },
-      {
-         "description" : "The Nordh&#xE4;user Schachopen is taking place from 3&#x2013;6 August 2023 in Nordhausen, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Ferenc Langheinrich, Markus Hahn, Cliff&#xA0;Wichmann, Benedikt&#xA0;Huber, Tobias&#xA0;Becker, Daniel&#xA0;Woithe, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nordhauser-schachopen-2023/",
-         "pubDate" : "Thu, 03 Aug 2023 00:53:00 +0000",
-         "title" : "Nordh&auml;user Schachopen 2023"
       },
       {
          "description" : "Magnus Carlsen, Fabiano Caruana, Ian Nepomniachtchi and Dommaraju Gukesh were the highest-rated players to start their participation at the FIDE World Cup with victories. Gukesh's win prompted him to join the world's top 10 in the live ratings list, while Praggnanandhaa and Wei Yi scored brilliant wins. In the women's section, more than half the games ended decisively, as most favourites failed to get more than half points in the first confrontations of round 2. | Photo: FIDE / Anna Shtourman",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Plot Twists, Tiebreaks, And Cartwheels: CDawgVA And Ghastly Prevail"
       },
       {
-         "description" : "There is a new celebrity chess couple: Atousa Pourkashiyan and Hikaru Nakamura announced their wedding and now join the list of prominent chess couples. Given their playing level, they are surely near the top of the unofficial couples' rating list. | Photo: Atousa Pourkashiyan's Instagram profile",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-couple-pourkashiyan-nakamura",
-         "pubDate" : "Thu, 27 Jul 2023 23:30:00 +0100",
-         "title" : "A new chess couple: Atousa Pourkashiyan and Hikaru Nakamura!"
-      },
-      {
          "description" : "As of July 27, the 28-year-old Russian-born GM Vladimir Fedoseev&#39;s federation transfer is complete and he will represent Slovenia in future chess tournaments. With a 2676 published rating, the &#34;Bigfish&#34; (from his username on Chess.com) is the Slov...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/",
          "pubDate" : "Wed, 26 Jul 2023 01:01:29 +0000",
          "title" : "After 2023 World Open, a new chess era unfolding"
-      },
-      {
-         "description" : "GMs Fabiano Caruana, Amin Tabatabaei, and Pavel Eljanov emerged victorious in the 2023 Julius Baer Generation Cup Play-in on Tuesday. They will join GMs Magnus Carlsen, Wesley So, Nodirbek Abdusattorov, and Denis Lazavik, who claimed their spots i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-julius-baer-generation-cup-play-in-caruana-tabatabaei-eljanov",
-         "pubDate" : "Tue, 25 Jul 2023 15:24:00 -0700",
-         "title" : "Caruana Storms Back To Division I After Armageddon Win Vs. Dreev"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The U.S. Junior, U.S. Senior, and U.S. Girls&#039; Junior Championships are over. Abhi Mishra, Melik Khachiyan, and Alice Lee won the events respectively at the World Chess Hall of Fame. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-recap\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/clSGWRI2GSY.jpg?itok=uqnyrzDF\" alt=\"",
