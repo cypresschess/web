@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 3 of 2023 FIDE World Cup we are going to see a game between Ukrainian number 1 Vasyl Ivanchuk and the second best rated Chinesse Grandmaster Yi Wei.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yi-wei-vasyl-ivanchukfide-world-cup-2023-round-3-live/",
+         "pubDate" : "Fri, 04 Aug 2023 23:11:40 +0000",
+         "title" : "Yi Wei - Vasyl Ivanchuk,FIDE World Cup 2023 round 3 LIVE"
+      },
+      {
+         "description" : "In round 3 of 2023 FIDE World Cup we are going to see a Norwegian battle between Aryan Tari and world number 1 Magnus Carlsen. The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-aryan-tari-fide-world-cup-2023-round-3-live/",
+         "pubDate" : "Fri, 04 Aug 2023 22:59:25 +0000",
+         "title" : "Magnus Carlsen - Aryan Tari, FIDE World Cup 2023 round 3 LIVE"
+      },
+      {
+         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 June in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30. It is a 9-player round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summer-chess-classic-b-live/",
+         "pubDate" : "Fri, 04 Aug 2023 22:51:57 +0000",
+         "title" : "Summer Chess Classic B - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2560",
+         "pubDate" : "Fri, 04 Aug 2023 21:49:45 +0000",
+         "title" : "FIDE World Schools Team Championship commences in Aktau, Kazakhstan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2559",
+         "pubDate" : "Fri, 04 Aug 2023 19:58:27 +0000",
+         "title" : "FIDE World Cup 2023 Round 2 Tiebreaks: Alexander Grischuk and Kateryna Lagno eliminated"
+      },
+      {
          "description" : "Warning: This article mentions instances of sexual abuse that may be triggering for readers. A group of women chess players are fed up with sexist behavior and sexual violence in the chess world and decided to send a strong message in an open le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-in-the-sicilian-sveshnikov",
          "pubDate" : "Fri, 04 Aug 2023 11:19:29 +0100",
          "title" : "Robert Ris' Fast and Furious: New ideas in the Sicilian Sveshnikov"
+      },
+      {
+         "description" : "In round 3 of 2023 FIDE World Cup we are going to see a match between the highest rated English player David W L Howell and the world's number 36 Hao Wang.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-w-l-howell-hao-wang-fide-world-cup-2023-round-3-live/",
+         "pubDate" : "Fri, 04 Aug 2023 10:13:00 +0000",
+         "title" : "David W L Howell - Hao Wang, FIDE World Cup 2023 round 3 LIVE"
       },
       {
          "description" : "Shocking results were seen on the fifth day of action at the FIDE World Cup in Baku. In the open, Nodirbek Abdusattorov and Shakhriyar Mamedyarov were knocked out by players in the 2500-2600 rating band - Vahap Sanal and Tin Jingyao (pictured) respectively - while sixth seed Wesley So barely escaped with a draw to take his match against Emre Can to tiebreaks. In the women's section, Yan Tianqi and Maili-Jade Ouellet surprisingly won on demand to even the score against Alexandra Kosteniuk and Irina Krush. | Photo: chess.com / Maria Emelianova",
@@ -170,36 +218,12 @@ news_feed (
          "title" : "Summer Prague Open 2023 - LIVE"
       },
       {
-         "description" : "The Summer Prague Open is taking place from 4&#x2013;11 August 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gyula&#xA0;Pap, Marian&#xA0;Jurcik, Benedict&#xA0;Krause,&#xA0;Khuyagtsog tItgelt, Petr&#xA0;Neuman,&#xA0;Arhan Chethan Anand, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summer-prague-open-2023/",
-         "pubDate" : "Thu, 03 Aug 2023 17:30:00 +0000",
-         "title" : "Summer Prague Open 2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102401852.cms\" />Teenaged Grandmaster D Gukesh posted a win over home favourite Misratdin Iskandarov in a second round match of the World Cup here on Tuesday and overtook his idol Viswanathan Anand in live world (FIDE) rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/teen-gm-gukesh-posts-win-in-2nd-round-of-world-cup-overtakes-viswanathan-anand-to-become-highest-indian-in-fide-rankings/articleshow/102401852.cms",
          "pubDate" : "Thu, 03 Aug 2023 17:22:42 +0000",
          "title" : "Gukesh overtakes Anand to become highest Indian in FIDE rankings"
-      },
-      {
-         "description" : "The Feria de Las Flores is taking place from 3&#x2013;7 August 2023 in Medellin, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Luis Lazaro&#xA0;Aguero Jimenez, David&#xA0;Arenas, Henry&#xA0;Panesso Rivera, Jhon Edison&#xA0;Munoz Galvez, Josue&#xA0;Araujo Sanchez, Diego Saul Rodri&#xA0;Flores Quillas, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/feria-de-las-flores-2023-live/",
-         "pubDate" : "Thu, 03 Aug 2023 16:48:00 +0000",
-         "title" : "Feria de Las Flores 2023 - LIVE"
-      },
-      {
-         "description" : "The Feria de Las Flores is taking place from 3&#x2013;7 August 2023 in Medellin, Colombia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Luis Lazaro&#xA0;Aguero Jimenez, David&#xA0;Arenas, Henry&#xA0;Panesso Rivera, Jhon Edison&#xA0;Munoz Galvez, Josue&#xA0;Araujo Sanchez, Diego Saul Rodri&#xA0;Flores Quillas, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/feria-de-las-flores-2023/",
-         "pubDate" : "Thu, 03 Aug 2023 16:24:00 +0000",
-         "title" : "Feria de Las Flores 2023"
       },
       {
          "description" : "The Bundesliga is one of the strongest team tournaments in the world. Next season, it will be even stronger: Hikaru Nakamura, popular streamer and current world number two, will try to help SC Viernheim beat perennial champion Baden-Baden and become German team champion in 2023/2024. | Photo: Stev Bonhage/FIDE",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
          "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
          "title" : "2023 World Cup"
-      },
-      {
-         "description" : "The Nordh&#xE4;user Schachopen is taking place from 3&#x2013;6 August 2023 in Nordhausen, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Ferenc Langheinrich, Markus Hahn, Cliff&#xA0;Wichmann, Benedikt&#xA0;Huber, Tobias&#xA0;Becker, Daniel&#xA0;Woithe, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nordhauser-schachopen-2023-live/",
-         "pubDate" : "Thu, 03 Aug 2023 11:57:00 +0000",
-         "title" : "Nordh&auml;user Schachopen 2023 - LIVE"
       },
       {
          "description" : "Gukesh is one of the most promising youngsters in the world of chess. He is no longer just a talent, but has confidently marched to the very top of the chess world, where he is currently ranked no. 11, with an Elo of 2751. In March 2023, Gukesh visited the ChessBase India studio in Mumbai and together with IM Sagar Shah they recorded a video course on how to attack like a super GM. The video course was well received - here are some reviews, from a strong IM to an unrated player.",
@@ -1488,14 +1504,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chessbase-17-review/",
          "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0000",
          "title" : "Chessbase 17 Review: Is It A Good Investment?"
-      },
-      {
-         "description" : "The 2023 European Senior Team Chess Championship kicked off this Wednesday in the city of Swidnica, Poland. The event is played in two age categories 50+ and 65+, with separate prizes for Women's teams. The 50+ championship is played as a 9-round round-robin tournament, and the 65+ tournament is played according to the swiss system. A total of 28 teams from 13 European federations compete in the Championship, represented by 80 players. The Opening ceremony of the event took place []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-started-in-swidnica-poland/",
-         "pubDate" : "Fri, 14 Jul 2023 20:38:27 +0000",
-         "title" : "European Senior Team Chess Championship 2023 started in Swidnica, Poland"
       }
    ]
 }
