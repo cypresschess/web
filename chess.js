@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "PogChamps 5 continued with another action-packed day. QTCinderella fought for redemption by checkmating Papaplatte twice to win their match. xQc then proved that chess is harder than League of Legends as he defeated Tyler1 in a possible prequel ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-7",
+         "pubDate" : "Thu, 03 Aug 2023 17:54:25 -0700",
+         "title" : "xQc Beats Tyler1 Before Loudest Post-Match Interview In PogChamps History"
+      },
+      {
          "description" : "Singapore&#39;s GM Tin Jingyao, seeded 120 in the 2023 FIDE World Cup, knocked out ninth seed GM Shakhriyar Mamedyarov in a dramatic day of round-two action. A dark horse to win the event, GM Nodirbek Abdusattorov, fell to 112th seed GM Vahap Sanal, w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-2",
-         "pubDate" : "Thu, 03 Aug 2023 15:54:41 -0700",
+         "pubDate" : "Thu, 03 Aug 2023 15:54:00 -0700",
          "title" : "Mamedyarov, Abdusattorov, Shankland Crash Out Of World Cup"
       },
       {
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-recap",
          "pubDate" : "Tue, 25 Jul 2023 20:47:45 +0000",
          "title" : "2023 U.S. Junior & U.S. Senior Championships | RECAP"
-      },
-      {
-         "description" : "GM Melikset Khachiyan won the 2023 U.S. Senior Chess Championship, IM-elect&#38;nbsp;Alice Lee won the 2023 Girls&#39; Junior Chess Championship, and GM Abhimanyu Mishra won the 2023 U.S. Junior Chess Championship. Khachiyan and Lee clinched their first n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-national-championships-khachiyan-lee-mishra-win",
-         "pubDate" : "Tue, 25 Jul 2023 11:14:00 -0700",
-         "title" : "Khachiyan, Lee, Mishra Win National Titles In St. Louis"
       },
       {
          "description" : " &#8220;Errare humanum est&#8221; Seneca Last week we went over a bad sequence for White in one of our friendly voting games. You can read it again here. We stopped at our king move below: It was our turn to have a bad idea. After reviewing the discussions we had, I noticed we covered extensively just two <a href=\"https://chessimprover.com/bad-ideas-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-9/\">Bad Ideas (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
