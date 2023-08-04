@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shocking results were seen on the fifth day of action at the FIDE World Cup in Baku. In the open, Nodirbek Abdusattorov and Shakhriyar Mamedyarov were knocked out by players in the 2500-2600 rating band - Vahap Sanal and Tin Jingyao (pictured) respectively - while sixth seed Wesley So barely escaped with a draw to take his match against Emre Can to tiebreaks. In the women's section, Yan Tianqi and Maili-Jade Ouellet surprisingly won on demand to even the score against Alexandra Kosteniuk and Irina Krush. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r2-d2",
+         "pubDate" : "Fri, 04 Aug 2023 08:20:00 +0100",
+         "title" : "World Cup: So escapes, Tin and Sanal claim big scalps"
+      },
+      {
+         "description" : " There will be major support for England's international teams, plus a boost for teaching the game in state schools, and a plan to install 100 chess tables in public parks Rishi Sunak will announce &pound;500,000 funding for chess in the near future. The money will provide major support for England's men and women international chess teams, plus a boost for teaching the game in state schools along with a plan to install 100 chess tables in public parks. The prime minister's new move is set to be unveiled at a ceremony featuring a giant set and board on the lawn at 10 Downing Street. For English Chess Federation officials, it marks the successful end to an initiative first launched in the 199",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/aug/04/rishi-sunak-set-to-announce-500000-government-fund-for-chess",
+         "pubDate" : "Fri, 04 Aug 2023 07:00:07 +0000",
+         "title" : "Rishi Sunak set to announce &pound;500,000 government fund for chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-4",
+         "pubDate" : "Fri, 04 Aug 2023 02:55:48 +0000",
+         "title" : "2023 Summer Chess Classic: Round 4"
+      },
+      {
          "description" : "PogChamps 5 continued with another action-packed day. QTCinderella fought for redemption by checkmating Papaplatte twice to win their match. xQc then proved that chess is harder than League of Legends as he defeated Tyler1 in a possible prequel ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nordhauser-schachopen-2023-live/",
          "pubDate" : "Thu, 03 Aug 2023 11:57:00 +0000",
          "title" : "Nordh&auml;user Schachopen 2023 - LIVE"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Thu, 03 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Gukesh is one of the most promising youngsters in the world of chess. He is no longer just a talent, but has confidently marched to the very top of the chess world, where he is currently ranked no. 11, with an Elo of 2751. In March 2023, Gukesh visited the ChessBase India studio in Mumbai and together with IM Sagar Shah they recorded a video course on how to attack like a super GM. The video course was well received - here are some reviews, from a strong IM to an unrated player.",
@@ -1002,14 +1018,6 @@ news_feed (
          "title" : "Ruiyang: Miss Two Weeks of School for the U.S. Women's Championship? | R9 #USJuniorsChess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Cristian Chirila after clinching 1st after Ghazarian defeated Guo in the ninth round of the 2023 U.S. Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-excited-play-america%E2%80%99s-best-october-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0WVKeY6g52s.jpg?itok=74LU_t8O\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-excited-play-america%E2%80%99s-best-october-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Mishra Excited to Play America's Best in October! | R9 #USJuniorsChess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1512,14 +1520,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junioropen-girls-chess-championship-2023-from-07-16-september-2023-at-jamshedpur-jharkhand/",
          "pubDate" : "Fri, 14 Jul 2023 11:16:23 +0000",
          "title" : "Asian Junior(Open & Girls) Chess Championship 2023 from 07-16 September 2023 at Jamshedpur Jharkhand"
-      },
-      {
-         "description" : " After scoring 11/11 in <a href=\"http://chess.com/\">chess.com</a>'s Titled Tuesday and 9/9 in the Zagreb Grand Tour blitz, he now contends in the Aimchess Masters Magnus Carlsen's decision to abdicate the world crown he had held for a decade is looking like an inspired choice as the Norwegian, 32, has hit a rich vein of form in the past two weeks. Maximum tournament scores are rare, but Carlsen achieved 11/11 in <a href=\"http://chess.com/\" title=\"\">chess.com</a>'s Titled Tuesday, only the second time this has been done <a href=\"https://www.chess.com/news/view/korobov-carlsen-win-titled-tuesday-july-4-2023\" title=\"\">in the notoriously competitive event</a>, then a few days later notched up 9/",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jul/14/magnus-carlsen-hits-two-maximums-as-carefree-world-no-1-continues-his-surge",
-         "pubDate" : "Fri, 14 Jul 2023 07:00:04 +0000",
-         "title" : "Magnus Carlsen hits two maximums as carefree world No 1 continues his surge"
       }
    ]
 }
