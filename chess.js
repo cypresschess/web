@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From the diagram position White embarked on a brilliant idea to triumph on the dark squares. Will you be able to crack this tough nut?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-exclam",
+         "pubDate" : "Sat, 05 Aug 2023 09:00:00 +0100",
+         "title" : "Double exclam"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.06<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> GROUP A<br /> Illia Nyzhnyk vs. Pranav Venkatesh<br /> Aram Hakobyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-5",
+         "pubDate" : "Sat, 05 Aug 2023 05:56:45 +0000",
+         "title" : "2023 Summer Chess Classic: Round 5"
+      },
+      {
+         "description" : "It was a day that seesawed between inspiration and shock at PogChamps 5. As the players fought it out in their brackets, some rose from the ashes of their former selves to emerge victorious while others played their final moves of the event.&#38;nbsp;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-8",
+         "pubDate" : "Fri, 04 Aug 2023 20:32:09 -0700",
+         "title" : "Franks-Is-Heres Knocks Out Ghastly, Rise of Squeex and Daily Dose"
+      },
+      {
          "description" : "It was a bad day for the world&#39;s strongest chess couple as GMs Alexander Grischuk and Kateryna Lagno were both knocked out of the 2023 FIDE World Cup in round-two tiebreaks. Grischuk lost to 17-year-old Iranian GM Bardiya Daneshvar, while Women&#39;s ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "Can You Predict The 2023 FIDE World Cup Winner?"
       },
       {
-         "description" : "Astronaut Woody Hoburg, a chess enthusiast, is currently on the International Space Station (ISS) with his team. Amid their dense schedule, they manage to find some time for chess. Hoburg plays a remote game against the control centre in Houston and sometimes against his Russian colleague Sergey Prokopyev. Never has it been so important for the pieces to be magnetic. | Photos: NASA",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-outer-space",
-         "pubDate" : "Fri, 28 Jul 2023 17:30:00 +0100",
-         "title" : "Chess in outer space"
-      },
-      {
          "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-samant-becomes-indias-83rd-chess-grandmaster/articleshow/102147179.cms",
          "pubDate" : "Wed, 26 Jul 2023 16:26:55 +0000",
          "title" : "Aditya Samant becomes India's 83rd chess Grandmaster"
-      },
-      {
-         "description" : "On July 25, GM Maxime Vachier-Lagrave became the third player to win both ends of a Titled Tuesday, after GM Hikaru Nakamura (who has done it five times) and GM Wesley So. Nakamura himself prevented Vachier-Lagrave from joining him and GM Magnus C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-25-2023",
-         "pubDate" : "Wed, 26 Jul 2023 08:44:00 -0700",
-         "title" : "Vachier-Lagrave Sweeps Into Titled Tuesday, Wins Both Events"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102146065.cms\" />Spain on Wednesday announced that Sarasadat Khademalsharieh, an Iranian chess player who relocated to Spain in January, has been granted Spanish citizenship.",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mishra%E2%80%99s-%E2%80%98normal-game%E2%80%99-may-get-him-title-r9-usjuniorschess",
          "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
          "title" : "Mishra's 'Normal Game' May Get Him to The Title | R9 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ruiyang Yan talks to Cristian Chirila after defeating Gracy Prasanna in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ruiyang-miss-two-weeks-school-us-women%E2%80%99s-championship-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/20kwY4NwsfY.jpg?itok=qtvXPRXl\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ruiyang-miss-two-weeks-school-us-women%E2%80%99s-championship-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Ruiyang: Miss Two Weeks of School for the U.S. Women's Championship? | R9 #USJuniorsChess"
       },
       {
          "description" : "",
