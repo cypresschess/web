@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102455711.cms\" />Describing it as a \"historic\" accomplishment, chess legend Viswanathan Anand praised 17-year-old Grandmaster D Gukesh for becoming the highest-rated Indian player in FIDE rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-is-spearheading-indias-rise-anand-on-the-teenager-overtaking-him-in-fide-ranking/articleshow/102455711.cms",
+         "pubDate" : "Sat, 05 Aug 2023 14:33:21 +0000",
+         "title" : "Gukesh is spearheading India's rise: Anand"
+      },
+      {
+         "description" : " Gukesh: The New Indian #1 Lots of historic landmarks happened during the second round of the FIDE World Cup with the top players joining in on the action after getting a first-round bye. One of the top players not participating was the 5-time world champion Viswanathan Anand who spoke on Dommaraju Gukesh entering the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/\">2023 FIDE World Cup: Round 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/",
+         "pubDate" : "Sat, 05 Aug 2023 13:34:41 +0000",
+         "title" : "2023 FIDE World Cup: Round 2"
+      },
+      {
+         "description" : "Last month I succumbed to my inner pre-teenage girl and permitted myself the extravagance of watching the new Barbie film in my local cinema. To my astonishment, a pink chess set appeared in Barbieland - with pink-clad Barbies playing chess by a pinkish piscine. This is not the only implausible location for chess which I have recently observed, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-royal-game-or-rishi-to-the-rescue/",
+         "pubDate" : "Sat, 05 Aug 2023 12:54:37 +0000",
+         "title" : "The royal game, or: Rishi to the rescue"
+      },
+      {
+         "description" : "Imagine there is a pill that allows you to be happier, more productive, and more successful, all while being less stressed and focused on your day-to-day results. What would you pay for it? A lot, I guess. This magic pill doesn't exist. But you can get the same results by using a different mindset. You []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/achieving-happiness-in-chess/",
+         "pubDate" : "Sat, 05 Aug 2023 12:00:00 +0000",
+         "title" : "Embracing Ambition, Letting Go of Expectations"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-8",
-         "pubDate" : "Fri, 04 Aug 2023 20:32:09 -0700",
+         "pubDate" : "Fri, 04 Aug 2023 20:32:00 -0700",
          "title" : "Franks-Is-Heres Knocks Out Ghastly, Rise of Squeex and Daily Dose"
       },
       {
@@ -110,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/women-chess-players-publish-open-letter-denouncing-sexist-behavior",
-         "pubDate" : "Fri, 04 Aug 2023 12:12:14 -0700",
+         "pubDate" : "Fri, 04 Aug 2023 12:12:00 -0700",
          "title" : "'We Have Remained Silent For Too Long': Women Chess Players Denounce Sexist Behavior"
       },
       {
@@ -1480,46 +1512,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/",
          "pubDate" : "Sun, 16 Jul 2023 13:02:20 +0000",
          "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
-      },
-      {
-         "description" : " With an expanded vision, The Gift of Chess has appointed Susan Namangale as its Global Head. Russell Makofsky&#8216;s vision to distribute chess sets in the New York area was part of a local initiative called The Gift of Chess. Since its inception in 2021, the mission added the incarcerated and most recently a global initiative. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/\">&#8220;The Gift of Chess&#8221; nabs Namangale as Global Head</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/15/the-gift-of-chess-nabs-namangale-as-global-head/",
-         "pubDate" : "Sat, 15 Jul 2023 15:21:15 +0000",
-         "title" : "\"The Gift of Chess\" nabs Namangale as Global Head"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2526",
-         "pubDate" : "Sat, 15 Jul 2023 14:53:10 +0000",
-         "title" : "WWC Match 2023: Ju Wenjun lets victory slip against Lei"
-      },
-      {
-         "description" : " One of the roles of any chess club, or chess tournament , is to help newer players improve their chess. In earlier days, this usually involved to gift of wisdom from a more experienced player at the competition of a game. As I have noted elsewhere, this has often been replaced by a quick trip to the laptop, so see how. many centi-pawns your first choice moves lost. However it is still possible to pick up some good training tips as events, even if some of them come out of left field. One such suggestion given to a new, but struggling player, was to watch the movie 'Karate Kid' , especially the 'wax on, wax off' scene. The intention was to demonstrate the importance making some chess concepts",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/wax-on-wax-off.html",
-         "pubDate" : "Sat, 15 Jul 2023 14:35:00 +0000",
-         "title" : "Wax on, wax off"
-      },
-      {
-         "description" : "Voil&agrave; un homme! (\"What a man!\") is how Napoleon enthused about Johann Wolfgang von Goethe at their meeting at Erfurt in 1808. Goethe reciprocated by recognising an irresistible daemonic force in the Emperor. By then Napoleon had already read The Sorrows of Young Werther seven times. He kept it under his pillow on campaign, much as Alexander []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/goethes-cosmic-game-of-chess/",
-         "pubDate" : "Sat, 15 Jul 2023 12:48:25 +0000",
-         "title" : "Goethe's cosmic game of chess"
-      },
-      {
-         "description" : "You might have heard of that program most professional Chess players use: ChessBase. It is a program that allows you to store games in databases, analyze, comment, and find games played by yourself or thousands of other chess players. The first version of Chessbase (Chessbase 1.0) was released back in 1987; the newest version is []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chessbase-17-review/",
-         "pubDate" : "Sat, 15 Jul 2023 12:00:00 +0000",
-         "title" : "Chessbase 17 Review: Is It A Good Investment?"
       }
    ]
 }
