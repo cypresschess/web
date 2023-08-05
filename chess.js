@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a bad day for the world&#39;s strongest chess couple as GMs Alexander Grischuk and Kateryna Lagno were both knocked out of the 2023 FIDE World Cup in round-two tiebreaks. Grischuk lost to 17-year-old Iranian GM Bardiya Daneshvar, while Women&#39;s ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-3",
+         "pubDate" : "Fri, 04 Aug 2023 18:47:00 -0700",
+         "title" : "Grischuk, Lagno Exit World Cup As Nakamura, So Survive"
+      },
+      {
          "description" : "Top grandmasters continue to be left out of contention at the FIDE World Cup in Baku. In the open, Alexander Grischuk and David Anton were knocked out by Bardiya Daneshvar and Abdulla Gadimbayli in Friday's tiebreaks. Among the women, Mary Ann Gomes defeated Kateryna Lagno, while Klaudia Kulon got the better of Nana Dzagnidze. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-25-2023",
          "pubDate" : "Wed, 26 Jul 2023 08:44:00 -0700",
          "title" : "Vachier-Lagrave Sweeps Into Titled Tuesday, Wins Both Events"
-      },
-      {
-         "description" : "On Friday, the FIDE Qualification Commission and mathematician Jeff Sonas proposed several changes to the rating system aimed at counteracting deflation―so that FIDE ratings more accurately represent players&#39; strength. The commission is opening ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-mathematician-proposes-changes-to-improve-rating-accuracy",
-         "pubDate" : "Wed, 26 Jul 2023 08:35:00 -0700",
-         "title" : "FIDE Mathematician Proposes Changes To Improve Rating Accuracy"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102146065.cms\" />Spain on Wednesday announced that Sarasadat Khademalsharieh, an Iranian chess player who relocated to Spain in January, has been granted Spanish citizenship.",
