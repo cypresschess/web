@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Daniel Naroditsky won first place and $400 in August&#39;s first Bullet Brawl on Saturday after scoring 74 wins and amassing a score of 275 in the two-hour arena. Previous winners GMs Jose Martinez and Oleksandr Bortnyk, who finished in second and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-week-1",
+         "pubDate" : "Sat, 05 Aug 2023 16:01:50 -0700",
+         "title" : "Naroditsky Runs Riot In Bullet Brawl"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2562",
+         "pubDate" : "Sat, 05 Aug 2023 21:29:55 +0000",
+         "title" : "FIDE World Schools Team Championship: Schools from Turkey and India are in the lead after the second day"
+      },
+      {
+         "description" : "The Thessaloniki Open A is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ziaur Rahman, Vasilios Kotronias, Saha Neelash, Mohammad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/thessaloniki-open-a-2023-live/",
+         "pubDate" : "Sat, 05 Aug 2023 21:11:25 +0000",
+         "title" : "Thessaloniki Open A 2023 - LIVE"
+      },
+      {
+         "description" : "The Thessaloniki Open A is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ziaur Rahman, Vasilios Kotronias, Saha Neelash, Mohammad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/thessaloniki-open-a-2023/",
+         "pubDate" : "Sat, 05 Aug 2023 21:09:36 +0000",
+         "title" : "Thessaloniki Open A 2023"
+      },
+      {
+         "description" : "The Schackveckan IM is taking place from 5&#x2013;11 August 2023 in Gothenburg, Sweden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Hampus Sorensen, Nicolai Kistrup, Andreas Garberg Tryggestad, Nazar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/schackveckan-im-2023-live/",
+         "pubDate" : "Sat, 05 Aug 2023 21:05:11 +0000",
+         "title" : "Schackveckan IM 2023 - LIVE"
+      },
+      {
+         "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here four instructive endings, two featuring rising star Praggnanandhaa and two featuring endgame wizard Magnus Carlsen! | Photo: Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-endgames-pragg-carlsen",
+         "pubDate" : "Sat, 05 Aug 2023 22:00:00 +0100",
+         "title" : "Endgames from the Global Chess League: A Pragg & Carlsen special"
+      },
+      {
+         "description" : "Peter Svidler Jorden Van Foreest is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-svidler-jorden-van-foreest-fide-world-cup-2023-round-3-live/",
+         "pubDate" : "Sat, 05 Aug 2023 20:46:33 +0000",
+         "title" : "Peter Svidler - Jorden Van Foreest, FIDE World Cup 2023 round 3 LIVE"
+      },
+      {
+         "description" : "Ivan Cheparinov Jan-Krzysztof Duda is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ivan-cheparinov-jan-krzysztof-duda-fide-world-cup-2023-round-3-live/",
+         "pubDate" : "Sat, 05 Aug 2023 20:32:50 +0000",
+         "title" : "Ivan Cheparinov - Jan-Krzysztof Duda, FIDE World Cup 2023 round 3 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2561",
+         "pubDate" : "Sat, 05 Aug 2023 20:16:16 +0000",
+         "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
+      },
+      {
+         "description" : "The Schackveckan IM is taking place from 5&#x2013;11 August 2023 in Gothenburg, Sweden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Hampus Sorensen, Nicolai Kistrup, Andreas Garberg Tryggestad, Nazar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/schackveckan-im-2023/",
+         "pubDate" : "Sat, 05 Aug 2023 20:11:00 +0000",
+         "title" : "Schackveckan IM 2023"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102455711.cms\" />Describing it as a \"historic\" accomplishment, chess legend Viswanathan Anand praised 17-year-old Grandmaster D Gukesh for becoming the highest-rated Indian player in FIDE rankings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +136,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/double-exclam",
          "pubDate" : "Sat, 05 Aug 2023 09:00:00 +0100",
          "title" : "Double exclam"
+      },
+      {
+         "description" : "Rauf Mamedov Ian Nepomniachtchi is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rauf-mamedov-ian-nepomniachtchi-fide-world-cup-2023-round-3-live/",
+         "pubDate" : "Sat, 05 Aug 2023 07:52:00 +0000",
+         "title" : "Rauf Mamedov - Ian Nepomniachtchi, FIDE World Cup 2023 round 3 LIVE"
+      },
+      {
+         "description" : "Benjamin Gledura Hikaru Nakamura is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/benjamin-gledura-hikaru-nakamura-fide-world-cup-2023-round-3-live/",
+         "pubDate" : "Sat, 05 Aug 2023 06:47:00 +0000",
+         "title" : "Benjamin Gledura - Hikaru Nakamura, FIDE World Cup 2023 round 3 LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.06<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> GROUP A<br /> Illia Nyzhnyk vs. Pranav Venkatesh<br /> Aram Hakobyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
@@ -114,14 +210,6 @@ news_feed (
          "title" : "Magnus Carlsen - Aryan Tari, FIDE World Cup 2023 round 3 LIVE"
       },
       {
-         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 June in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30. It is a 9-player round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summer-chess-classic-b-live/",
-         "pubDate" : "Fri, 04 Aug 2023 22:51:57 +0000",
-         "title" : "Summer Chess Classic B - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -146,14 +234,6 @@ news_feed (
          "title" : "'We Have Remained Silent For Too Long': Women Chess Players Denounce Sexist Behavior"
       },
       {
-         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 June in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30. It is a 9-player round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summer-chess-classic-b/",
-         "pubDate" : "Fri, 04 Aug 2023 19:05:00 +0000",
-         "title" : "Summer Chess Classic B"
-      },
-      {
          "description" : " The much anticipated Press v Press clash in the LFG Invitational ended in a victory for youth. I didn't help my cause by blundering a pawn in the opening, although I received enough compensation for it that it could have been described as a pawn sacrifice. Where I really went wrong was not connecting a couple of separate plans together, to form one cohesive strategy. I looked at ideas around winning the c5 pawn with Rc1 and attacking the king with moves like d6. It turns out that if I played 16.d6! Black can only stop Plan B by allowing me to execute Plan A. Instead I just focussed on Plan B (which fails on its own) and eventually gave away most of my pieces! <br /> <b>Press,Shaun - Press,H",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -176,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-in-the-sicilian-sveshnikov",
          "pubDate" : "Fri, 04 Aug 2023 11:19:29 +0100",
          "title" : "Robert Ris' Fast and Furious: New ideas in the Sicilian Sveshnikov"
-      },
-      {
-         "description" : "In round 3 of 2023 FIDE World Cup we are going to see a match between the highest rated English player David W L Howell and the world's number 36 Hao Wang.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/david-w-l-howell-hao-wang-fide-world-cup-2023-round-3-live/",
-         "pubDate" : "Fri, 04 Aug 2023 10:13:00 +0000",
-         "title" : "David W L Howell - Hao Wang, FIDE World Cup 2023 round 3 LIVE"
       },
       {
          "description" : "Shocking results were seen on the fifth day of action at the FIDE World Cup in Baku. In the open, Nodirbek Abdusattorov and Shakhriyar Mamedyarov were knocked out by players in the 2500-2600 rating band - Vahap Sanal and Tin Jingyao (pictured) respectively - while sixth seed Wesley So barely escaped with a draw to take his match against Emre Can to tiebreaks. In the women's section, Yan Tianqi and Maili-Jade Ouellet surprisingly won on demand to even the score against Alexandra Kosteniuk and Irina Krush. | Photo: chess.com / Maria Emelianova",
@@ -242,22 +314,6 @@ news_feed (
          "title" : "2023 Summer Chess Classic: Round 3"
       },
       {
-         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 August in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30.&#xA0; It is a 9-player round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summer-chess-classic-a-2023-live/",
-         "pubDate" : "Thu, 03 Aug 2023 20:52:44 +0000",
-         "title" : "Summer Chess Classic A 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 Summer Chess Classic is taking place from 2-10 August in the St. Louis Chess Club. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, with a 30-second increment starting from move one. No draw offers are allowed before move 30.&#xA0; It is a 9-player round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summer-chess-classic-a/",
-         "pubDate" : "Thu, 03 Aug 2023 20:00:00 +0000",
-         "title" : "Summer Chess Classic A 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -266,36 +322,12 @@ news_feed (
          "title" : "FIDE Word Cup 2023 Round 2 Game 2: Surprising knockouts and intense battles"
       },
       {
-         "description" : "The Shopping Patio Pinda Festival is taking place from 4&#x2013;6 August 2023 in Pindamonhangaba, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 6-round Swiss tournament with participation of Felipe de Cresce El Debs, Diego Rafael&#xA0;Di Berardino, Darcy Lima, Everaldo&#xA0;Matsuura, Nathan Felipe&#xA0;Filgueiras, Alvaro Z.&#xA0;Aranha Filho, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shopping-patio-pinda-festival-2023-live/",
-         "pubDate" : "Thu, 03 Aug 2023 19:27:00 +0000",
-         "title" : "Shopping Patio Pinda Festival 2023 - LIVE"
-      },
-      {
-         "description" : "The Shopping Patio Pinda Festival is taking place from 4&#x2013;6 August 2023 in Pindamonhangaba, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 6-round Swiss tournament with participation of Felipe de Cresce El Debs, Diego Rafael&#xA0;Di Berardino, Darcy Lima, Everaldo&#xA0;Matsuura, Nathan Felipe&#xA0;Filgueiras, Alvaro Z.&#xA0;Aranha Filho, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shopping-patio-pinda-festival-2023/",
-         "pubDate" : "Thu, 03 Aug 2023 19:11:00 +0000",
-         "title" : "Shopping Patio Pinda Festival 2023"
-      },
-      {
          "description" : "If he stays ahead of Anand till September 1, he will become the first Indian to surpass Anand since Pravin Thipsay in July 1986",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/38128238/gukesh-d-moves-viswanathan-anand-fide-live-world-rankings?device=featurephone",
          "pubDate" : "Thu, 3 Aug 2023 14:00:16 -0500",
          "title" : "Gukesh D moves past Viswanathan Anand in FIDE live world rankings"
-      },
-      {
-         "description" : "The Summer Prague Open is taking place from 4&#x2013;11 August 2023 in Prague, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Gyula&#xA0;Pap, Marian&#xA0;Jurcik, Benedict&#xA0;Krause,&#xA0;Khuyagtsog tItgelt, Petr&#xA0;Neuman,&#xA0;Arhan Chethan Anand, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summer-prague-open-2023-live/",
-         "pubDate" : "Thu, 03 Aug 2023 17:54:00 +0000",
-         "title" : "Summer Prague Open 2023 - LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102401852.cms\" />Teenaged Grandmaster D Gukesh posted a win over home favourite Misratdin Iskandarov in a second round match of the World Cup here on Tuesday and overtook his idol Viswanathan Anand in live world (FIDE) rankings.",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Chess Enjoyment vs. Training: Striking the Right Balance"
       },
       {
-         "description" : "In the diagram position 32.Bf6! seals the deal for White, but seeing in advance how she checkmates by force after 32...Bxf6 might well be a challenge. Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/trivial-pursuit",
-         "pubDate" : "Sat, 29 Jul 2023 09:00:00 +0100",
-         "title" : "Trivial pursuit"
-      },
-      {
          "description" : "Through the medium of this column I have often inveighed against perversions of chess, such as so called Fischerrandom, Varied Baseline Chess, or Chess 960. In all of these heresies against the true faith, players are allotted a choice of nine hundred and sixty different start up positions for the pieces, rather than adhering to the traditional array. The ancestral template []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -936,14 +960,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/reading-riot-act.html",
          "pubDate" : "Wed, 26 Jul 2023 23:53:00 +0000",
          "title" : "Reading the Riot Act"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has had great success on the chess board recently, but everything appears to work out off the board as well. The world number-two confirmed to Chess.com that he married WGM Atousa Pourkashiyan. The chess world&#39;s newest super-c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-finds-his-queen-marries-pourkashiyan",
-         "pubDate" : "Wed, 26 Jul 2023 10:15:00 -0700",
-         "title" : "Hikaru Nakamura Finds His Queen, Marries Atousa Pourkashiyan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102147179.cms\" />Aditya S Samant, a 17-year-old chess prodigy from Maharashtra, achieved a momentous milestone by becoming India's 83rd chess Grandmaster on Wednesday. Prior to this achievement, he held the title of International Master.",
