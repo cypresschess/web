@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sat, 05 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : " Last week, we looked at the idea of trying to maintain good pawn structure from the game's start through the endgame. While it's impossible to maintain perfect pawn structure throughout the game, you can prevent pawn structure chaos! We looked at the isolated pawn last week and why it's such a problem. This week, we're <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred/\">A Foundation for Beginners One Hundred</a> appeared first on <a rel=\"nofollow\" hre",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred/",
+         "pubDate" : "Sat, 05 Aug 2023 11:21:12 +0000",
+         "title" : "A Foundation for Beginners One Hundred"
+      },
+      {
          "description" : "From the diagram position White embarked on a brilliant idea to triumph on the dark squares. Will you be able to crack this tough nut?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-3",
          "pubDate" : "Fri, 04 Aug 2023 18:47:00 -0700",
          "title" : "Grischuk, Lagno Exit World Cup As Nakamura, So Survive"
+      },
+      {
+         "description" : "The FIDE World Cup is up and running. Svitlana took her time to find some of the most exciting tactics of the first rounds. For us, it is the challenge to not only find \"one move\" solutions, but actually think about the path to get to the actual tactics!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-most-exciting-tactics-of-the-world-cup",
+         "pubDate" : "Sat, 05 Aug 2023 02:15:00 +0100",
+         "title" : "Svitlana's Smart Moves - The most exciting tactics of the World Cup"
       },
       {
          "description" : "Top grandmasters continue to be left out of contention at the FIDE World Cup in Baku. In the open, Alexander Grischuk and David Anton were knocked out by Bardiya Daneshvar and Abdulla Gadimbayli in Friday's tiebreaks. Among the women, Mary Ann Gomes defeated Kateryna Lagno, while Klaudia Kulon got the better of Nana Dzagnidze. | Photo: FIDE / Stev Bonhage",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/summer-chess-classic-b/",
          "pubDate" : "Fri, 04 Aug 2023 19:05:00 +0000",
          "title" : "Summer Chess Classic B"
-      },
-      {
-         "description" : "The FIDE World Cup is up and running. Svitlana took her time to find some of the most exciting tactics of the first rounds. For us, it is the challenge to not only find \"one move\" solutions, but actually think about the path to get to the actual tactics!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-most-exciting-tactics-of-the-world-cup",
-         "pubDate" : "Fri, 04 Aug 2023 19:46:21 +0100",
-         "title" : "Svitlana's Smart Moves - The most exciting tactics of the World Cup"
       },
       {
          "description" : " The much anticipated Press v Press clash in the LFG Invitational ended in a victory for youth. I didn't help my cause by blundering a pawn in the opening, although I received enough compensation for it that it could have been described as a pawn sacrifice. Where I really went wrong was not connecting a couple of separate plans together, to form one cohesive strategy. I looked at ideas around winning the c5 pawn with Rc1 and attacking the king with moves like d6. It turns out that if I played 16.d6! Black can only stop Plan B by allowing me to execute Plan A. Instead I just focussed on Plan B (which fails on its own) and eventually gave away most of my pieces! <br /> <b>Press,Shaun - Press,H",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "Sara Khadem Leaves Iran, Gains Citizenship As Spain's New Number-1 Woman"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King goes over a brilliant attacking game played by Michael Adams at the British Championship. Extreme precision was shown by the English star! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-attack-adams",
-         "pubDate" : "Fri, 28 Jul 2023 20:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Attacking with Mickey Adams"
-      },
-      {
          "description" : "The 2023 FIDE World Cup is the biggest over-the-board knockout event of the year, and you can punch your ticket to amazing prizes just by predicting who wins! GMs Hikaru Nakamura, Fabiano Caruana, and Ian Nepomniachtchi are among the top contend...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,6 +840,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/im-elect-alice-lee-gm-abhimanyu-mishra-and-gm-melikset-khachiyan-crowned-winners-national",
          "pubDate" : "Thu, 27 Jul 2023 17:39:24 +0000",
          "title" : "IM Elect Alice Lee, GM Abhimanyu Mishra and GM Melikset Khachiyan Crowned Winners in National Junior and Senior Championships in Saint Louis"
+      },
+      {
+         "description" : "The month of July 2023 is coming to an end, meaning that it's time for a roundup of the month's chess news, aka Yahoos. For a more precise definition of Yahoos, see the footnote below. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng27.gif\" WIDTH=200 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> I always start a post with a summary of the sources that reported the month's news, as shown in the chart on the left. This month we had nine sources with two or more stories, topped as usual by Chess.com. <P> Second was Chessbase, with double the count for the two sources tied for third. Last month Chessbase was missing from the list of sources with more than one story. In that post, <A HREF=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/blocks-of-yahoos.html",
+         "pubDate" : "Thu, 27 Jul 2023 15:33:00 +0000",
+         "title" : "Blocks of Yahoos"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102178214.cms\" />Tejas Tiwari, a young chess prodigy from India, has earned the prestigious title of being the world's youngest FIDE rated player. Remarkably, he accomplished this extraordinary feat at the incredibly tender age of five.",
