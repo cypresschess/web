@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2023-08-04","10","<a href=http://www.uschess.org/msa/XtblMain.php?202308049092 target='_blank'>CHOCOLATE CHIP COOKIE OPEN</a>",
 "HOUSTON","2023-07-30","11","<a href=http://www.uschess.org/msa/XtblMain.php?202307306342 target='_blank'>JULY 30TH 2023 SUNDAY SWISS</a>",
 "HOUSTON","2023-07-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307295522 target='_blank'>CHESSPANDA07292023SATURDAY</a>",
 "SUGAR LAND","2023-07-28","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307286082 target='_blank'>FORT BEND CLUB TOURNAMENT 7/28/23</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2022-12-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212234692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-12-23","18","<a href=http://www.uschess.org/msa/XtblMain.php?202212234642 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-12-20","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212203482 target='_blank'>RCC QUADS DECEMBER 20, 2022</a>",
-"HOUSTON","2022-12-18","27","<a href=http://www.uschess.org/msa/XtblMain.php?202212183252 target='_blank'>DEC 18  SUNDAY SWISS</a>",
 ]);
