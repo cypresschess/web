@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sun, 06 Aug 2023 15:05:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes another look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-136-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 06 Aug 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 137: Chess history in a nutshell (19)"
+      },
+      {
+         "description" : " <b>2023 ACT Women's and Girls' Chess Championship - 10 September</b> 7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List) Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am Lunch Break 1pm-1:30pm Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm Prizes - 1st $250 2nd $125 3rd $75 Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10 Max. two half-point byes available for Rounds 1-4. Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free. + Novices event for unrated players - Free entry with medals for 1st, 2nd and 3rd (Same schedule as Championship) Entries close Saturday 5pm ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/2023-act-womens-and-girls-chess.html",
+         "pubDate" : "Sun, 06 Aug 2023 12:32:00 +0000",
+         "title" : "2023 ACT Women's and Girls Chess Championship"
+      },
+      {
          "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Helmut Pfleger turns 80"
       },
       {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "description" : "Magnus Carlsen, Leinier Dominguez and Parham Maghsoodloo were the three 2700+ players who kicked off with a win in round 3 of the FIDE World Cup. Meanwhile, Daniele Vocaturo and Ivan Schitco upset higher-rated opponents, and Peter Svidler obtained a good-looking, 27-move win over Jorden van Foreest. Among the women, there were no big upsets, as the Muzychuk sisters had a good day - Mariya won and Anna escaped with a draw. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 06 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d1",
+         "pubDate" : "Sun, 06 Aug 2023 12:00:00 +0100",
+         "title" : "World Cup: Svidler crushes Van Foreest's Najdorf"
       },
       {
          "description" : "The Thessaloniki Open B is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolaos Apostolou, Konstantinos Zaganas, Michail Panagiotis Chalkias, []",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Sueca Open 2023"
       },
       {
-         "description" : "In a &#34;grandmaster-only&#34; round, GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents...",
+         "description" : "GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents in the third round of the 2023...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-1",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "Bortnyk Blazes Bullet Brawl Field"
       },
       {
-         "description" : "Packed to the brim with players, guests, officials and staff, the Baku Convention Centre hosted the festivities, including speeches, music, dance, as the 2023 edition of the FIDE World Cup was inaugurated in the capital of Azerbaijan. In the open section, Ivan Cheparinov, the top player starting in round 1, as well as Magnus Carlsen, the top player overall and joining in round 2, will start with white in the first game. | Photo: Stev Bonhage / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-opening-ceremony",
-         "pubDate" : "Sat, 29 Jul 2023 22:30:00 +0100",
-         "title" : "FIDE World Cup: Opening ceremony and press conference"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-nine/",
          "pubDate" : "Sat, 29 Jul 2023 18:30:18 +0000",
          "title" : "A Foundation for Beginners Ninety Nine"
-      },
-      {
-         "description" : "Two years ago, we had a collection of \"random\" endgame studies, a small kaleidoscope, in January, and then again in July. With the vast number of different possibilities in endgame studies, many creations wouldn't fit into a coherent article, so let us take this approach again. | Pictured: Mikhail Botvinnik during his match for the world crown against David Bronstein in 1951",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-kaleidoscope-iii",
-         "pubDate" : "Sat, 29 Jul 2023 18:40:00 +0100",
-         "title" : "Study of the Month: Kaleidoscope III"
       },
       {
          "description" : " The FIDE World Cup takes place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he has never won the event and clearly sees this as something he would like to rectify. His leading rivals are Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside is an equally well represented women's field including World Champion Ju Wenjun. Play starts at 12pm BST or 15:00 local time. The leading players join the event in round 2.",
@@ -1504,30 +1512,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-giddy.html",
          "pubDate" : "Sun, 16 Jul 2023 15:41:00 +0000",
          "title" : "Gotham Gets Giddy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2527",
-         "pubDate" : "Sun, 16 Jul 2023 15:23:28 +0000",
-         "title" : "WWC Match 2023: Ju Wenjun equalises after a long grueling battle"
-      },
-      {
-         "description" : " The Aimchess Rapid took place 10th to 14th July 2023. Part of the Champions Chess Tour it was hosted by Chess.com. Having missed the last tour event Carlsen had to qualify in June which he did comfortably enough. Division 1 players: Carlsen, So, Fedoseev, Caruana, Aronian, Abdusattorov, Jorden Van Foreest and Iturrizaga. Carlsen beat Wesley So in the final. Denis Lazavik just got past Sam Sevian to reach the next final, remarkably they drew all the games from all 3 of their matches with having black in the Armageddon being decisive each time.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2023",
-         "pubDate" : "Sun, 16 Jul 2023 18:41:00 +0400",
-         "title" : "Aimchess Rapid 2023 - Games and Results"
-      },
-      {
-         "description" : " The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA), and the US Chess Federation, are pleased to invite all National Chess Federations of the Americas to the XXXIII Pan-American Youth Chess Festival Open and Girls, from August 11 - 18, 2023 in Chicago, Illinois, USA. It's that time The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/\">Regina Riberio to lead Brazil to Pan-Am Youth</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/16/regina-riberio-to-lead-brazil-to-pan-am-youth/",
-         "pubDate" : "Sun, 16 Jul 2023 13:02:20 +0000",
-         "title" : "Regina Riberio to lead Brazil to Pan-Am Youth"
       }
    ]
 }
