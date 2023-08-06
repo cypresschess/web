@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/helmut-pfleger-turns-80",
+         "pubDate" : "Sun, 06 Aug 2023 22:48:08 +0100",
+         "title" : "Helmut Pfleger turns 80"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2564",
+         "pubDate" : "Sun, 06 Aug 2023 21:42:52 +0000",
+         "title" : "FIDE World Schools Team Championship: schools from Turkey and India lead with perfect score"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-6",
+         "pubDate" : "Sun, 06 Aug 2023 20:58:19 +0000",
+         "title" : "2023 Summer Chess Classic: Round 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2563",
+         "pubDate" : "Sun, 06 Aug 2023 20:21:09 +0000",
+         "title" : "FIDE World Cup Round 3 Game 2: Intense showdowns and surprises"
+      },
+      {
          "description" : "IM Brandon Clarke found a remarkable winning blow in one of his games from the Major Open in Leicester. The blow was a cross pin, a geometric nightmare for the victim - and surely a worthy topic for a Sunday column! | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-act-womens-and-girls-chess.html",
          "pubDate" : "Sun, 06 Aug 2023 12:32:00 +0000",
          "title" : "2023 ACT Women's and Girls Chess Championship"
-      },
-      {
-         "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/helmut-pfleger-turns-80",
-         "pubDate" : "Sun, 06 Aug 2023 13:00:00 +0100",
-         "title" : "Helmut Pfleger turns 80"
       },
       {
          "description" : "Magnus Carlsen, Leinier Dominguez and Parham Maghsoodloo were the three 2700+ players who kicked off with a win in round 3 of the FIDE World Cup. Meanwhile, Daniele Vocaturo and Ivan Schitco upset higher-rated opponents, and Peter Svidler obtained a good-looking, 27-move win over Jorden van Foreest. Among the women, there were no big upsets, as the Muzychuk sisters had a good day - Mariya won and Anna escaped with a draw. | Photo: FIDE / Stev Bonhage",
@@ -226,7 +250,7 @@ news_feed (
          "title" : "Double exclam"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.06<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> GROUP A<br /> Illia Nyzhnyk vs. Pranav Venkatesh<br /> Aram Hakobyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-5",
@@ -1120,14 +1144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/stearman-happy-finish-good-note-r9-usjuniorschess",
          "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
          "title" : "Stearman: Happy to Finish on a Good Note | R9 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Abhi Mishra talks to Cristian Chirila after a draw with Daggupati in the ninth round of the 2023 U.S. Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra%E2%80%99s-%E2%80%98normal-game%E2%80%99-may-get-him-title-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x-maCMWC2PM.jpg?itok=HGtZX7GP\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra%E2%80%99s-%E2%80%98normal-game%E2%80%99-may-get-him-title-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Mishra's 'Normal Game' May Get Him to The Title | R9 #USJuniorsChess"
       },
       {
          "description" : "",
