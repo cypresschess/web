@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a &#34;grandmaster-only&#34; round, GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-1",
+         "pubDate" : "Sat, 05 Aug 2023 18:09:00 -0700",
+         "title" : "Svidler, Carlsen Cruise to Victory; Roebers on Perfect Score"
+      },
+      {
          "description" : "GM Daniel Naroditsky won first place and $400 in August&#39;s first Bullet Brawl on Saturday after scoring 74 wins and amassing a score of 275 in the two-hour arena. Previous winners GMs Jose Martinez and Oleksandr Bortnyk, who finished in second and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2548",
          "pubDate" : "Thu, 27 Jul 2023 05:34:01 +0000",
          "title" : "D&uuml;sseldorf hosts the inaugural World Team Rapid Chess Championship"
-      },
-      {
-         "description" : "The day is finally here. PogChamps 5, one of the most anticipated events of the year, welcomes 16 stars to the 64 squares. As fans barraged chat with emote walls and beautifully crafted copypastas, players fed the audience with hilarious moments a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-1",
-         "pubDate" : "Wed, 26 Jul 2023 18:37:00 -0700",
-         "title" : "Stalemate, Blunders, And Dance Moves: Welcome To PogChamps 5"
       },
       {
          "description" : " The Riot Act is a Canberra institution, starting off as local discussion forum, before transforming itself into a local news platform. It was one of the sites I used to read regularly when I was working, although in retirement my readership is more sporadic. But I draw you attention to it, because they have just published a nice article on Street Chess (complete with pictures of me sporting my current beard). I even revealed some 'secret' chess moves that players might not know about ('Clickbait' warning. They are castling, en passant and promotion) So check out the article at <a href=\"https://the-riotact.com/more-popular-than-its-ever-been-why-chess-is-still-champion-in-canberra/686139\">ht",
