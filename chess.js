@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Brandon Clarke found a remarkable winning blow in one of his games from the Major Open in Leicester. The blow was a cross pin, a geometric nightmare for the victim - and surely a worthy topic for a Sunday column! | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-199",
+         "pubDate" : "Sun, 06 Aug 2023 21:00:00 +0100",
+         "title" : "Geometric nightmares"
+      },
+      {
+         "description" : " Some more fun from the Chess Teachers and Learners Facebook group. It seems like a great idea to have a Facebook group where learners can ask questions and teachers can answer them. Up to a point it works well, but there are a few problems. The main one is that questions are often answered by <a href=\"https://chessimprover.com/teachers-and-learners/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teachers and Learners\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teachers-and-learners/\">Teachers and Learners</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/teachers-and-learners/",
+         "pubDate" : "Sun, 06 Aug 2023 18:17:41 +0000",
+         "title" : "Teachers and Learners"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "World Chess Cup 2023 begins!"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 136th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-136-chess-history-in-a-nutshell-18",
-         "pubDate" : "Sun, 30 Jul 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 136: Chess history in a nutshell (18)"
-      },
-      {
          "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Fred Litchfield in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Ol",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1504,14 +1512,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-is-back/",
          "pubDate" : "Mon, 17 Jul 2023 10:59:05 +0000",
          "title" : "ChessFest!"
-      },
-      {
-         "description" : "This month's short list for featured video had more clips than any month since November 2022, when the so-called Niemann affair was reaching its peak interest. This video, from Youtube channel <I>Athletic Interest</I>, was my favorite among many excellent choices. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/XXuBH7JM5aA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>How Chess Broke YouTube</B> (10:28) &#149; '[Published on] Jul 13, 2023' <P> What's <I>Athletic Interest</I>? The description for the clip explains, <BLOCKQUOTE> At",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-giddy.html",
-         "pubDate" : "Sun, 16 Jul 2023 15:41:00 +0000",
-         "title" : "Gotham Gets Giddy"
       }
    ]
 }
