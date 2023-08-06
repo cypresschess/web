@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2023-08-05","5","<a href=http://www.uschess.org/msa/XtblMain.php?202308059362 target='_blank'>CHESSPANDA08052023SATURDAY</a>",
+"SPRING","2023-08-04","28","<a href=http://www.uschess.org/msa/XtblMain.php?202308049342 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2023-08-04","32","<a href=http://www.uschess.org/msa/XtblMain.php?202308049152 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2023-08-04","18","<a href=http://www.uschess.org/msa/XtblMain.php?202308049102 target='_blank'>REBECCA CHESS CLUB QUADS AUGUST 4, 2023</a>",
 "SUGAR LAND","2023-08-04","10","<a href=http://www.uschess.org/msa/XtblMain.php?202308049092 target='_blank'>CHOCOLATE CHIP COOKIE OPEN</a>",
 "HOUSTON","2023-07-30","11","<a href=http://www.uschess.org/msa/XtblMain.php?202307306342 target='_blank'>JULY 30TH 2023 SUNDAY SWISS</a>",
 "HOUSTON","2023-07-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307295522 target='_blank'>CHESSPANDA07292023SATURDAY</a>",
@@ -195,8 +199,4 @@ jtable([
 "CYPRESS","2023-01-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202301068742 target='_blank'>KOC01062023</a>",
 "SPRING","2022-12-30","29","<a href=http://www.uschess.org/msa/XtblMain.php?202212306612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-12-30","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212306562 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-12-06  - 12-27","15","<a href=http://www.uschess.org/msa/XtblMain.php?202212276532 target='_blank'>DEC 2022 TUESDAY NIGHT SWISS</a>",
-"SPRING","2022-12-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212234692 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-12-23","18","<a href=http://www.uschess.org/msa/XtblMain.php?202212234642 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"PEARLAND","2022-12-20","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212203482 target='_blank'>RCC QUADS DECEMBER 20, 2022</a>",
 ]);
