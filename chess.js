@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/helmut-pfleger-turns-80",
+         "pubDate" : "Sun, 06 Aug 2023 13:00:00 +0100",
+         "title" : "Helmut Pfleger turns 80"
+      },
+      {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sun, 06 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The Thessaloniki Open B is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolaos Apostolou, Konstantinos Zaganas, Michail Panagiotis Chalkias, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/thessaloniki-open-b-2023-live/",
+         "pubDate" : "Sun, 06 Aug 2023 09:10:01 +0000",
+         "title" : "Thessaloniki Open B 2023 - LIVE"
+      },
+      {
+         "description" : "The Thessaloniki Open B is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolaos Apostolou, Konstantinos Zaganas, Michail Panagiotis Chalkias, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/thessaloniki-open-b-2023/",
+         "pubDate" : "Sun, 06 Aug 2023 09:07:15 +0000",
+         "title" : "Thessaloniki Open B 2023"
+      },
+      {
+         "description" : "The Sueca Open is taking place from 7-13 August 2023 in Sueca, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Inigo Argandona Riveiro, Nahun&#xA0;Gavarrete, Vladimir&#xA0;Chernikov, Slobodan&#xA0;Kovacevic, Jorge&#xA0;Renteria, Juan Andres&#xA0;Fos Santacreu, Albert&#xA0;Deruelle Sala, etc. All about FIDE Wrold []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sueca-open-2023-live/",
+         "pubDate" : "Sun, 06 Aug 2023 08:44:46 +0000",
+         "title" : "Sueca Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Sueca Open is taking place from 7-13 August 2023 in Sueca, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Inigo Argandona Riveiro, Nahun&#xA0;Gavarrete, Vladimir&#xA0;Chernikov, Slobodan&#xA0;Kovacevic, Jorge&#xA0;Renteria, Juan Andres&#xA0;Fos Santacreu, Albert&#xA0;Deruelle Sala, etc.Chessdom.com will daily follow the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sueca-open-2023/",
+         "pubDate" : "Sun, 06 Aug 2023 08:09:00 +0000",
+         "title" : "Sueca Open 2023"
+      },
+      {
          "description" : "In a &#34;grandmaster-only&#34; round, GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -122,14 +170,6 @@ news_feed (
          "title" : "Embracing Ambition, Letting Go of Expectations"
       },
       {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sat, 05 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
-      },
-      {
          "description" : " Last week, we looked at the idea of trying to maintain good pawn structure from the game's start through the endgame. While it's impossible to maintain perfect pawn structure throughout the game, you can prevent pawn structure chaos! We looked at the isolated pawn last week and why it's such a problem. This week, we're <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred/\">A Foundation for Beginners One Hundred</a> appeared first on <a rel=\"nofollow\" hre",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -144,22 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/double-exclam",
          "pubDate" : "Sat, 05 Aug 2023 09:00:00 +0100",
          "title" : "Double exclam"
-      },
-      {
-         "description" : "Rauf Mamedov Ian Nepomniachtchi is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rauf-mamedov-ian-nepomniachtchi-fide-world-cup-2023-round-3-live/",
-         "pubDate" : "Sat, 05 Aug 2023 07:52:00 +0000",
-         "title" : "Rauf Mamedov - Ian Nepomniachtchi, FIDE World Cup 2023 round 3 LIVE"
-      },
-      {
-         "description" : "Benjamin Gledura Hikaru Nakamura is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/benjamin-gledura-hikaru-nakamura-fide-world-cup-2023-round-3-live/",
-         "pubDate" : "Sat, 05 Aug 2023 06:47:00 +0000",
-         "title" : "Benjamin Gledura - Hikaru Nakamura, FIDE World Cup 2023 round 3 LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.06<br /> USChessChamps.com ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> GROUP A<br /> Illia Nyzhnyk vs. Pranav Venkatesh<br /> Aram Hakobyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
@@ -200,22 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2023-r2-d3",
          "pubDate" : "Sat, 05 Aug 2023 02:10:00 +0100",
          "title" : "World Cup: Daneshvar knocks out Grischuk, Naka wins thrilling match"
-      },
-      {
-         "description" : "In round 3 of 2023 FIDE World Cup we are going to see a game between Ukrainian number 1 Vasyl Ivanchuk and the second best rated Chinesse Grandmaster Yi Wei.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yi-wei-vasyl-ivanchukfide-world-cup-2023-round-3-live/",
-         "pubDate" : "Fri, 04 Aug 2023 23:11:40 +0000",
-         "title" : "Yi Wei - Vasyl Ivanchuk,FIDE World Cup 2023 round 3 LIVE"
-      },
-      {
-         "description" : "In round 3 of 2023 FIDE World Cup we are going to see a Norwegian battle between Aryan Tari and world number 1 Magnus Carlsen. The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-aryan-tari-fide-world-cup-2023-round-3-live/",
-         "pubDate" : "Fri, 04 Aug 2023 22:59:25 +0000",
-         "title" : "Magnus Carlsen - Aryan Tari, FIDE World Cup 2023 round 3 LIVE"
       },
       {
          "description" : "",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38092691/chess-india-koneru-humpy-harika-dronavalli-bridging-gap-women-men?device=featurephone",
          "pubDate" : "Sat, 29 Jul 2023 07:22:46 -0500",
          "title" : "Chess in India: Humpy and Harika on bridging the gap between women and men"
-      },
-      {
-         "description" : "Johannes Zukertort played the first \"Competition for the World Chess Championship\" against Wilhelm Steinitz in 1886. He lost the match, fell ill during the match and never recovered. He died two years later in London. His grave in Brompton Cemetery in London was forgotten until Stuart Conquest rediscovered it. This is the story about it. | Photos: Stuart Conquest, Helmut Pfleger",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/visiting-johannes-zukertort-grave",
-         "pubDate" : "Sat, 29 Jul 2023 13:20:00 +0100",
-         "title" : "Visiting Johannes Zukertort's grave"
       },
       {
          "description" : "We all want to have some fun. As you read this article on a chess improvement blog, you also want to improve your game. The problem is that the most fun things usually lead to the least improvement. Watching your favorite streamer, banter blitz against your friends, or watching a YouTube video are all fun []",
