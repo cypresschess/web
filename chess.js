@@ -74,6 +74,14 @@ news_feed (
          "title" : "2023 Summer Chess Classic: Round 7"
       },
       {
+         "description" : "IM Brandon Clarke found a remarkable winning blow in one of his games from the Major Open in Leicester. The blow was a cross pin, a geometric nightmare for the victim - and surely a worthy topic for a Sunday column! | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-199",
+         "pubDate" : "Sun, 06 Aug 2023 23:00:00 +0100",
+         "title" : "Geometric nightmares"
+      },
+      {
          "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2563",
          "pubDate" : "Sun, 06 Aug 2023 20:21:09 +0000",
          "title" : "FIDE World Cup Round 3 Game 2: Intense showdowns and surprises"
-      },
-      {
-         "description" : "IM Brandon Clarke found a remarkable winning blow in one of his games from the Major Open in Leicester. The blow was a cross pin, a geometric nightmare for the victim - and surely a worthy topic for a Sunday column! | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-199",
-         "pubDate" : "Sun, 06 Aug 2023 21:00:00 +0100",
-         "title" : "Geometric nightmares"
       },
       {
          "description" : " Some more fun from the Chess Teachers and Learners Facebook group. It seems like a great idea to have a Facebook group where learners can ask questions and teachers can answer them. Up to a point it works well, but there are a few problems. The main one is that questions are often answered by <a href=\"https://chessimprover.com/teachers-and-learners/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teachers and Learners\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teachers-and-learners/\">Teachers and Learners</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
