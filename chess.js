@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Mon, 07 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Velammal MHS Mogappair school wins Inaugural WSTCC 2023 Under-12, at Aktau, Kazakhstan, with round to spare. The Velammal MHS Mogappair school wins the inaugural World",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-school-team-chess-championship-2023-at-aktau-kazakhstan/",
+         "pubDate" : "Mon, 07 Aug 2023 08:52:49 +0000",
+         "title" : "World School Team Chess Championship 2023 , at Aktau, Kazakhstan,"
+      },
+      {
+         "description" : "The ECU Magazine July 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The July 2023 edition of the ECU E-Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-july-2023/",
+         "pubDate" : "Mon, 07 Aug 2023 08:10:27 +0000",
+         "title" : "ECU E-Magazine July 2023"
+      },
+      {
          "description" : "Ris is an International Master from The Netherlands, who is popular on his Fast & Furious shows on the PlayChess server. There he explains sharp opening lines are useful for a wider audience. The courses we are recommending feature a black repertoire against 1.d4, 1.Nf3 and 1.c4, with lines that are easy to learn and not difficult to remember, but also pose White serious challenges. This week you can save twenty Euros and get the full package for just €39.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Let Robert Ris make you fast and furious"
       },
       {
-         "description" : "British chess is being given a massive boost in a move that is said to be &#34;potentially transformational&#34; for a nation where chess has struggled to gain attention for years. &#34;The Great British Chess Revival&#34; could begin this month, as U.K Prime M...",
+         "description" : "Chess in England is being given a massive boost in a move that is said to be &#34;potentially transformational&#34; for a nation where chess has struggled to gain attention for years. &#34;The Great British Chess Revival&#34; could begin this month, as U.K Prim...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/uk-chess-transformational-funding",
          "pubDate" : "Sun, 06 Aug 2023 20:09:27 -0700",
-         "title" : "'Potentially Transformational' Boost For U.K. Chess, Prime Minister To Announce Funding"
+         "title" : "'Potentially Transformational' Boost: U.K Prime Minister To Announce Chess Funding"
       },
       {
          "description" : "In a dramatic affair, GM Javokhir Sindarov knocked GM Maxime Vachier-Lagrave out of the 2023 FIDE World Cup in the second game of round three, while GM Fabiano Caruana and Women&#39;s World Champion GM Ju Wenjun came dangerously close to exiting the e...",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://chessimprover.com/teachers-and-learners/",
          "pubDate" : "Sun, 06 Aug 2023 18:17:41 +0000",
          "title" : "Teachers and Learners"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 06 Aug 2023 15:05:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes another look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
@@ -1520,14 +1536,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/the-pawn-is-dead-long-live-pawn.html",
          "pubDate" : "Mon, 17 Jul 2023 13:48:00 +0000",
          "title" : "The pawn is dead, long live the pawn"
-      },
-      {
-         "description" : "The UK's largest chess event took place on Sunday 16th July in London's Trafalgar Square. Now in its third year, the annual open-air chess festival...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-is-back/",
-         "pubDate" : "Mon, 17 Jul 2023 10:59:05 +0000",
-         "title" : "ChessFest!"
       }
    ]
 }
