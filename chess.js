@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ris is an International Master from The Netherlands, who is popular on his Fast & Furious shows on the PlayChess server. There he explains sharp opening lines are useful for a wider audience. The courses we are recommending feature a black repertoire against 1.d4, 1.Nf3 and 1.c4, with lines that are easy to learn and not difficult to remember, but also pose White serious challenges. This week you can save twenty Euros and get the full package for just €39.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/let-robert-ris-make-you-fast-and-furious",
+         "pubDate" : "Mon, 07 Aug 2023 09:00:00 +0100",
+         "title" : "Let Robert Ris make you fast and furious"
+      },
+      {
          "description" : "British chess is being given a massive boost in a move that is said to be &#34;potentially transformational&#34; for a nation where chess has struggled to gain attention for years. &#34;The Great British Chess Revival&#34; could begin this month, as U.K Prime M...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2550",
          "pubDate" : "Sun, 30 Jul 2023 19:02:13 +0000",
          "title" : "FIDE World Cup 2023: Round 1 Day 1 Report"
-      },
-      {
-         "description" : "John Jacob Loewenthal is largely remembered as a prominent character in the legend of Paul Morphy. The American champion defeated him twice in two continents: once when he was a boy in New Orleans, and then again when he was a young man during his famous tour in Europe. In his own right, however, Loewenthal was a great master who did more for chess than most of the luminaries of his time. His was a life given solely to the game. On the recent 147th anniversary of his passing, it is fitting to remember his life and career.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-john-jacob-loewenthal",
-         "pubDate" : "Sun, 30 Jul 2023 18:45:00 +0100",
-         "title" : "A life for chess: Remembering John Jacob Loewenthal"
       },
       {
          "description" : " As I write this article, the British Championships are taking place at my Alma Mater: De Montfort University, Leicester. It was the City of Leicester Polytechnic when I was there, and, for a season and a half, we had a team in the Leicestershire League. It seems like a good opportunity to look at one <a href=\"https://chessimprover.com/leicester-folly/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Leicester Folly\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/leicester-folly/\">Leicester Folly</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
