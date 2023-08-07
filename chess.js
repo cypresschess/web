@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today saw the North Canberra Secondary Zone event for 2023. This followed on from the South Canberra Zone held earlier in the year. The event was won by Radford College with 23.5/28, half a point ahead of the Lyneham High No. 1 team. The 3rd place team was the Lyneham High No 2 team. The most remarkable thing about todays event was that there were 170 players taking part, which I believe is the largest school event ever held in Canberra. With the South Canberra Zone attracting 91 players, this is almost 1% of the total secondary school enrolment playing in this years interschool event. The other important fact to note was the number of high-ish rated players taking part. The top 10 seeds we",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/secondary-chess-in-canberra-2023.html",
+         "pubDate" : "Mon, 07 Aug 2023 13:03:00 +0000",
+         "title" : "Secondary Chess in Canberra 2023"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Mon, 07 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen, Hikaru Nakamura and Dommaraju Gukesh were among the players who advanced to round 4 after two classical games at the FIDE World Cup in Baku. The biggest upset of the round was achieved by Javokhir Sindarov, who knocked out Maxime Vachier-Lagrave by winning with black on Sunday. In the women's section, world champion Ju Wenjun was inches away from being eliminated - however, she not only survived, but ended up winning against Ulviyya Fataliyeva. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d2",
+         "pubDate" : "Mon, 07 Aug 2023 12:35:00 +0100",
+         "title" : "World Cup: Sindarov knocks out MVL, Ju escapes and wins"
       },
       {
          "description" : "Velammal MHS Mogappair school wins Inaugural WSTCC 2023 Under-12, at Aktau, Kazakhstan, with round to spare. The Velammal MHS Mogappair school wins the inaugural World",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/uk-chess-transformational-funding",
-         "pubDate" : "Sun, 06 Aug 2023 20:09:27 -0700",
+         "pubDate" : "Sun, 06 Aug 2023 20:09:00 -0700",
          "title" : "'Potentially Transformational' Boost: U.K Prime Minister To Announce Chess Funding"
       },
       {
@@ -778,14 +794,6 @@ news_feed (
          "title" : "Poland wins quadruple gold at the European Youth Team Chess Championship 2023"
       },
       {
-         "description" : "In this series of lightning videos, learn everything from the basics to mastery of ChessBase in bite-sized lessons with crystal clear explanations and demonstrations. In this lesson you will learn how to download and install an outside engine into ChessBase and even set it as the new default. The example given in this video is with Stockfish 16!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-in-minutes-how-to-download-and-install-a-new-engine-video",
-         "pubDate" : "Mon, 31 Jul 2023 09:00:00 +0100",
-         "title" : "ChessBase in Minutes: How to download and install a new engine (video)"
-      },
-      {
          "description" : "The tenth edition of the much-anticipated FIDE World Cup kicked off on Sunday in Baku. The 50 top seeds in the open and the 25 top seeds in the women's section received byes and will join the fray on Wednesday. The remaining 234 contenders (156 in the open and 78 in the women's) played their first classical encounters, though. There was no lack of surprises on the first day of action, with 14-year-old Ediz Gurel from Turkey (the youngest participant in the open) stunning Velimir Ivic in brilliant style. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,22 +1528,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-pune/",
          "pubDate" : "Tue, 18 Jul 2023 07:46:07 +0000",
          "title" : "AICF's Fair Play Orientation Workshop, Pune"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2528",
-         "pubDate" : "Mon, 17 Jul 2023 15:27:35 +0000",
-         "title" : "FIDE World Championships 2024 Call for Bids is Closed"
-      },
-      {
-         "description" : " When trying to 'gamify' chess to small children, I usually tell them that the pawn has one hidden power, and one super power. The super power is the ability to transform into another, stronger piece when it reaches the end of the board. And the hidden power is that hs the weakest power of all the pieces. So anything it attacks is either more valuable or at worst, of equal value. And to demonstrate ... <br /> <b>Press,Shaun - Khadkar,Sameet [D77]</b><br /> Gungahlin Rapid ---, 11.07.2023 <script> new PgnViewer( { boardName: \"game1408\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 O-O 6.O-O e6 7.Nc3 dxc4 8.Ne5 c6 9.Nxc4 Nd5 10.e4 b5 11.exd5 bxc4 12.dxc6 Qc7 13.N",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/the-pawn-is-dead-long-live-pawn.html",
-         "pubDate" : "Mon, 17 Jul 2023 13:48:00 +0000",
-         "title" : "The pawn is dead, long live the pawn"
       }
    ]
 }
