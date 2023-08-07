@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2566",
+         "pubDate" : "Mon, 07 Aug 2023 22:26:08 +0000",
+         "title" : "Istanbul ENKA High School (Turkey) and Velammal MHS Mogappair (India) win FIDE World Schools Team Championship"
+      },
+      {
+         "description" : "Magnus Carlsen Vincent Keymer is a game from round 4 of 2023 FIDE World Cup. The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap SanalThe 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vincent-keymer-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 22:21:37 +0000",
+         "title" : "Magnus Carlsen - Vincent Keymer, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Vasyl Ivanchuk Vahap Sanal is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap SanalThe 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vasyl-ivanchuk-vahap-sanal-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 22:05:00 +0000",
+         "title" : "Vasyl Ivanchuk - Vahap Sanal, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Nino Batsiashvili Aleksandra Goryachkina is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nino-batsiashvili-aleksandra-goryachkina-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 22:00:05 +0000",
+         "title" : "Nino Batsiashvili - Aleksandra Goryachkina, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "Wenjun Ju Elisabeth Paehtz is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wenjun-ju-elisabeth-paehtz-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 21:37:51 +0000",
+         "title" : "Wenjun Ju - Elisabeth Paehtz, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "Jiner Zhu Zhongyi Tan is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jiner-zhu-zhongyi-tan-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 20:52:00 +0000",
+         "title" : "Jiner Zhu - Zhongyi Tan, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "Eline Roebers Harika Dronavalli is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/eline-roebers-harika-dronavalli-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 20:35:00 +0000",
+         "title" : "Eline Roebers - Harika Dronavalli, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "Humpy Koneru Bella Khotenashvili is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/humpy-koneru-bella-khotenashvili-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 20:17:00 +0000",
+         "title" : "Humpy Koneru - Bella Khotenashvili, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "Nurgyul Salimova Medina Warda Aulia is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nurgyul-salimova-medina-warda-aulia-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 19:57:00 +0000",
+         "title" : "Nurgyul Salimova - Medina Warda Aulia, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2565",
+         "pubDate" : "Mon, 07 Aug 2023 19:47:11 +0000",
+         "title" : "FIDE World Cup Round 3 Tiebreaks: A day of the underdogs"
+      },
+      {
+         "description" : "Teodora Injac Polina Shuvalova is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/teodora-injac-polina-shuvalova-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 19:38:00 +0000",
+         "title" : "Teodora Injac - Polina Shuvalova, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
+         "description" : "Anna Muzychuk Mariya Muzychuk is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-muzychuk-mariya-muzychuk-fide-womens-world-cup-round-4-live/",
+         "pubDate" : "Mon, 07 Aug 2023 19:19:00 +0000",
+         "title" : "Anna Muzychuk - Mariya Muzychuk, FIDE Women's World Cup round 4 - LIVE"
+      },
+      {
          "description" : " Today saw the North Canberra Secondary Zone event for 2023. This followed on from the South Canberra Zone held earlier in the year. The event was won by Radford College with 23.5/28, half a point ahead of the Lyneham High No. 1 team. The 3rd place team was the Lyneham High No 2 team. The most remarkable thing about todays event was that there were 170 players taking part, which I believe is the largest school event ever held in Canberra. With the South Canberra Zone attracting 91 players, this is almost 1% of the total secondary school enrolment playing in this years interschool event. The other important fact to note was the number of high-ish rated players taking part. The top 10 seeds we",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -146,38 +242,6 @@ news_feed (
          "title" : "World Cup: Svidler crushes Van Foreest's Najdorf"
       },
       {
-         "description" : "The Thessaloniki Open B is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolaos Apostolou, Konstantinos Zaganas, Michail Panagiotis Chalkias, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/thessaloniki-open-b-2023-live/",
-         "pubDate" : "Sun, 06 Aug 2023 09:10:01 +0000",
-         "title" : "Thessaloniki Open B 2023 - LIVE"
-      },
-      {
-         "description" : "The Thessaloniki Open B is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolaos Apostolou, Konstantinos Zaganas, Michail Panagiotis Chalkias, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/thessaloniki-open-b-2023/",
-         "pubDate" : "Sun, 06 Aug 2023 09:07:15 +0000",
-         "title" : "Thessaloniki Open B 2023"
-      },
-      {
-         "description" : "The Sueca Open is taking place from 7-13 August 2023 in Sueca, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Inigo Argandona Riveiro, Nahun&#xA0;Gavarrete, Vladimir&#xA0;Chernikov, Slobodan&#xA0;Kovacevic, Jorge&#xA0;Renteria, Juan Andres&#xA0;Fos Santacreu, Albert&#xA0;Deruelle Sala, etc. All about FIDE Wrold []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sueca-open-2023-live/",
-         "pubDate" : "Sun, 06 Aug 2023 08:44:46 +0000",
-         "title" : "Sueca Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Sueca Open is taking place from 7-13 August 2023 in Sueca, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Inigo Argandona Riveiro, Nahun&#xA0;Gavarrete, Vladimir&#xA0;Chernikov, Slobodan&#xA0;Kovacevic, Jorge&#xA0;Renteria, Juan Andres&#xA0;Fos Santacreu, Albert&#xA0;Deruelle Sala, etc.Chessdom.com will daily follow the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sueca-open-2023/",
-         "pubDate" : "Sun, 06 Aug 2023 08:09:00 +0000",
-         "title" : "Sueca Open 2023"
-      },
-      {
          "description" : "GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents in the third round of the 2023...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -202,30 +266,6 @@ news_feed (
          "title" : "FIDE World Schools Team Championship: Schools from Turkey and India are in the lead after the second day"
       },
       {
-         "description" : "The Thessaloniki Open A is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ziaur Rahman, Vasilios Kotronias, Saha Neelash, Mohammad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/thessaloniki-open-a-2023-live/",
-         "pubDate" : "Sat, 05 Aug 2023 21:11:25 +0000",
-         "title" : "Thessaloniki Open A 2023 - LIVE"
-      },
-      {
-         "description" : "The Thessaloniki Open A is taking place from 5&#x2013;12 August 2023 in Thessaloniki, Greece. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Ziaur Rahman, Vasilios Kotronias, Saha Neelash, Mohammad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/thessaloniki-open-a-2023/",
-         "pubDate" : "Sat, 05 Aug 2023 21:09:36 +0000",
-         "title" : "Thessaloniki Open A 2023"
-      },
-      {
-         "description" : "The Schackveckan IM is taking place from 5&#x2013;11 August 2023 in Gothenburg, Sweden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Hampus Sorensen, Nicolai Kistrup, Andreas Garberg Tryggestad, Nazar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/schackveckan-im-2023-live/",
-         "pubDate" : "Sat, 05 Aug 2023 21:05:11 +0000",
-         "title" : "Schackveckan IM 2023 - LIVE"
-      },
-      {
          "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here four instructive endings, two featuring rising star Praggnanandhaa and two featuring endgame wizard Magnus Carlsen! | Photo: Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,36 +274,12 @@ news_feed (
          "title" : "Endgames from the Global Chess League: A Pragg & Carlsen special"
       },
       {
-         "description" : "Peter Svidler Jorden Van Foreest is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-svidler-jorden-van-foreest-fide-world-cup-2023-round-3-live/",
-         "pubDate" : "Sat, 05 Aug 2023 20:46:33 +0000",
-         "title" : "Peter Svidler - Jorden Van Foreest, FIDE World Cup 2023 round 3 LIVE"
-      },
-      {
-         "description" : "Ivan Cheparinov Jan-Krzysztof Duda is a game from round 3 of 2023 FIDE World Cup.The 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize fund is almost $1.9m, with $110,000 for the winner, while the top 3 players also qualify for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ivan-cheparinov-jan-krzysztof-duda-fide-world-cup-2023-round-3-live/",
-         "pubDate" : "Sat, 05 Aug 2023 20:32:50 +0000",
-         "title" : "Ivan Cheparinov - Jan-Krzysztof Duda, FIDE World Cup 2023 round 3 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2561",
          "pubDate" : "Sat, 05 Aug 2023 20:16:16 +0000",
          "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
-      },
-      {
-         "description" : "The Schackveckan IM is taking place from 5&#x2013;11 August 2023 in Gothenburg, Sweden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Hampus Sorensen, Nicolai Kistrup, Andreas Garberg Tryggestad, Nazar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/schackveckan-im-2023/",
-         "pubDate" : "Sat, 05 Aug 2023 20:11:00 +0000",
-         "title" : "Schackveckan IM 2023"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102455711.cms\" />Describing it as a \"historic\" accomplishment, chess legend Viswanathan Anand praised 17-year-old Grandmaster D Gukesh for becoming the highest-rated Indian player in FIDE rankings.",
