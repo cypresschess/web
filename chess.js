@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "British chess is being given a massive boost in a move that is said to be &#34;potentially transformational&#34; for a nation where chess has struggled to gain attention for years. &#34;The Great British Chess Revival&#34; could begin this month, as U.K Prime M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uk-chess-transformational-funding",
+         "pubDate" : "Sun, 06 Aug 2023 20:09:27 -0700",
+         "title" : "'Potentially Transformational' Boost For U.K. Chess, Prime Minister To Announce Funding"
+      },
+      {
+         "description" : "In a dramatic affair, GM Javokhir Sindarov knocked GM Maxime Vachier-Lagrave out of the 2023 FIDE World Cup in the second game of round three, while GM Fabiano Caruana and Women&#39;s World Champion GM Ju Wenjun came dangerously close to exiting the e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-2",
+         "pubDate" : "Sun, 06 Aug 2023 17:40:00 -0700",
+         "title" : "MVL Exits World Cup; Close Calls For Caruana, Ju"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-7",
+         "pubDate" : "Sun, 06 Aug 2023 23:58:35 +0000",
+         "title" : "2023 Summer Chess Classic: Round 7"
+      },
+      {
          "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -922,22 +946,6 @@ news_feed (
          "title" : "Chess: British Championship nears final round as Howell readies for World Cup"
       },
       {
-         "description" : "What a day it was for PogChamps 5. After two thrilling matches filled with plot twists and drama, I should probably consult with a heart doctor just to be safe.&#38;nbsp; Today, it was the CDawg from Virginia who won his match against Jarvis in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-2",
-         "pubDate" : "Thu, 27 Jul 2023 19:08:23 -0700",
-         "title" : "Plot Twists, Tiebreaks, And Cartwheels: CDawgVA And Ghastly Prevail"
-      },
-      {
-         "description" : "As of July 27, the 28-year-old Russian-born GM Vladimir Fedoseev&#39;s federation transfer is complete and he will represent Slovenia in future chess tournaments. With a 2676 published rating, the &#34;Bigfish&#34; (from his username on Chess.com) is the Slov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-transfers-federations-to-slovenia",
-         "pubDate" : "Thu, 27 Jul 2023 11:32:00 -0700",
-         "title" : "'Bigfish' Fedoseev To Play For Slovenia: 'I Have No Will To Represent Russia'"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong>SAINT LOUIS (July 27, 2023) -</strong> All eyes were on Saint Louis as tournament play for the 2023 <a href=\"https://www.uschesschamps.com/2023-us-national-championships/girls-junior\">U.S. Girls' Junior</a>, <a href=\"https://www.uschesschamps.com/2023-us-national-championships/junior\">U.S. Junior</a> and <a href=\"https://www.uschesschamps.com/2023-us-national-championships/senior\">U.S. Senior </a>Championships hosted by the <a href=\"https://saintlouischessclub.org/\">Saint Louis Chess Club</a> came to an exciting conclusion this week. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/yip-not-best-end-my-juniors-career-r9-usjuniorschess",
          "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
          "title" : "Yip: Not The Best End to My Juniors Career | R9 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Josiah Stearman talks to Cristian Chirila after defeating Jason Liang in the ninth round of the 2023 U.S. Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stearman-happy-finish-good-note-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g1KtTwWCupk.jpg?itok=hzCMuzTY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/stearman-happy-finish-good-note-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Stearman: Happy to Finish on a Good Note | R9 #USJuniorsChess"
       },
       {
          "description" : "",
