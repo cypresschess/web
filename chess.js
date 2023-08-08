@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a day of sad goodbyes as five players were eliminated from PogChamps 5. xQc won a tight match against Papaplatte, followed by three not-so-close match wins by Wirtual, QTCinderella, and I did a thing against Sykkuno, Jinnitty, and Tyler1 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-9",
+         "pubDate" : "Mon, 07 Aug 2023 20:02:40 -0700",
+         "title" : "Certified Juicer Moment Takes xQc Closer To Finals, CDawgVA To Face I Did A Thing"
+      },
+      {
+         "description" : "The round three tiebreaks led to an unpleasant day for many of the higher-rated players in the 2023 FIDE World Cup, especially for GM Anish Giri, who was knocked out of the event by GM Nijat Abasov. GM Teimour Radjabov also fell at the hands of GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-3",
+         "pubDate" : "Mon, 07 Aug 2023 17:42:03 -0700",
+         "title" : "Giri Gone, So Survives, Kosteniuk Knocked Out On Tense Day Of Tiebreaks"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -946,28 +962,12 @@ news_feed (
          "title" : "Sara Khadem Leaves Iran, Gains Citizenship As Spain's New Number-1 Woman"
       },
       {
-         "description" : "The 2023 FIDE World Cup is the biggest over-the-board knockout event of the year, and you can punch your ticket to amazing prizes just by predicting who wins! GMs Hikaru Nakamura, Fabiano Caruana, and Ian Nepomniachtchi are among the top contend...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-cup-bracket-contest",
-         "pubDate" : "Fri, 28 Jul 2023 11:34:06 -0700",
-         "title" : "Can You Predict The 2023 FIDE World Cup Winner?"
-      },
-      {
          "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-round-1.html",
          "pubDate" : "Fri, 28 Jul 2023 13:25:00 +0000",
          "title" : "2023 ANU Open - Round 1"
-      },
-      {
-         "description" : "GM Liem Le has been crowned as the winner of the Grandmaster Triathlon at the 2023 Biel International Chess Festival for the second year straight after a dominant classical performance. Following his 5/7 score and 2853 rating performance in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-quang-liem-wins-biel-international-chess-festival",
-         "pubDate" : "Fri, 28 Jul 2023 05:31:00 -0700",
-         "title" : "Liem Le Wins Biel International Grandmaster Triathlon"
       },
       {
          "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
