@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The big celebration of scholastic chess - the FIDE World Schools Team Championship 2023 - has ended. Istanbul ENKA High School (Turkey) in the U18 section and Velammal MHS Mogappair (India) in the U12 were unstoppable! Both winning teams won all eight matches and deservingly claimed gold medals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/istanbul-enka-high-school-and-velammal-mhs-mogappair-win-fide-wstc",
+         "pubDate" : "Tue, 08 Aug 2023 12:51:33 +0100",
+         "title" : "Istanbul ENKA High School and Velammal MHS Mogappair win FIDE WSTC"
+      },
+      {
+         "description" : "In his Game of the Week show #579, Merijn van Delft looks at an amazing attacking game the young Indian Grandmaster Praggnanandhaa played in round 2 of the World Cup in Baku. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-578-erigaisi-navara-2",
+         "pubDate" : "Tue, 08 Aug 2023 11:00:00 +0100",
+         "title" : "Game of the Week #579: M. Lagarde - Praggnanandhaa"
+      },
+      {
          "description" : "Stalemates can often save the defender in endgames. However, they are difficult to spot. In the diagram position, it is Black to move and draw. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -794,28 +810,12 @@ news_feed (
          "title" : "Favorites Strike Back As 33 Tiebreaks Await"
       },
       {
-         "description" : "In this week's show, Karsten M&uuml;ller goes over a number of outstanding endgame positions from the very strong Global Chess League. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-247-highlights-from-global-chess-league",
-         "pubDate" : "Mon, 31 Jul 2023 21:00:00 +0100",
-         "title" : "Endgame Magic #247: Highlights from the Global Chess League"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2552",
          "pubDate" : "Mon, 31 Jul 2023 19:17:18 +0000",
          "title" : "Word Cup R01 Day 02: The favourites push forward"
-      },
-      {
-         "description" : "Opposite-coloured bishops (OCB) are tricky beasts. In many (but not all!) endgames, they turn the fight on the board into a boring tea-party, mostly ending in a draw. Many club players therefore expect that in the middlegame they will behave similarly. However, nothing can be further from truth. | Photo: pixabay.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-21-the-sharpest-middlegame",
-         "pubDate" : "Mon, 31 Jul 2023 20:00:00 +0100",
-         "title" : "The Winning Academy 21: The Sharpest Middlegame"
       },
       {
          "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail, and we shouldn't use the queen just for defence. This series will show you in great detail the specific qualities of each chess piece, so that you can maximize their effectiveness and thus improve your game. This week you can get both FritzTrainer volumes by Slovak chess grandmaster, coach, and author, for just €38.90, which is €20 below the regular list price.",
@@ -880,6 +880,14 @@ news_feed (
          "link" : "https://chessimprover.com/leicester-folly/",
          "pubDate" : "Sun, 30 Jul 2023 15:57:21 +0000",
          "title" : "Leicester Folly"
+      },
+      {
+         "description" : "This latest post on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), echoes this month's featured video <A HREF=\"https://chessforallages.blogspot.com/2023/07/gotham-gets-giddy.html\">Gotham Gets Giddy</A> (July 2023), including the title. That's not really fair, because the entire clip is a reasoned summary of the current chess boom by one of its main beneficiaries. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/YBwpJUcXFgY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-gaga.html",
+         "pubDate" : "Sun, 30 Jul 2023 15:38:00 +0000",
+         "title" : "Gotham Gets Gaga"
       },
       {
          "description" : " The World Cup tournament will start tomorrow and all of the world's biggest stars will assemble in Baku, Azerbaijan for the massive knockout tournament. Just about everyone will be there including representatives nominated by smaller federations. There are a lot of headliners including Magnus Carlsen, Hikaru Nakamura (wildcard), Fabiano Caruana, and many of the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/\">World Chess Cup 2023 begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1504,46 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2529",
          "pubDate" : "Tue, 18 Jul 2023 12:33:09 +0000",
          "title" : "WWC Match 2023: A surprise and a counter-surprise, but game 9 ends in a draw"
-      },
-      {
-         "description" : "The European Women's Rapid&#38;Blitz Chess Championship 2023 organised by the Federation Monegasque des Echecs under the auspices of the European Chess Union will be held from 11th-15th January 2024 (the dates moved from December 2023 to January 2024 due to venue commitment) in Monte Carlo, Monaco. The first event on the schedule will be the European Women's Blitz Chess Championship 2023 to be played on the 12th of January. The event will be played in 13 rounds, swiss system, with []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapidblitz-chess-championship-2023-official-invitation/",
-         "pubDate" : "Tue, 18 Jul 2023 11:03:25 +0000",
-         "title" : "European Women's Rapid&Blitz Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23 and 15-16 July 23 at New",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
-         "pubDate" : "Tue, 18 Jul 2023 10:56:42 +0000",
-         "title" : "Fair Play Orientation Workshop : Qualified Participants"
-      },
-      {
-         "description" : "Six rounds have been already played at the European Senior Team Chess Championship 2023 in Swidnica, Poland, with only three rounds to go before the announcement of the winners. The team of Slovakia 65+ emerged as the sole leader in the 65+ section scoring all victories and perfect 12 match points. England 65+ follows with 10 match points, while three teams tie for the third place with 8 match points each: Hungary, Germany SC Kreuzberg e.V. and Polish Lower Silesia []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-round-6-report/",
-         "pubDate" : "Tue, 18 Jul 2023 09:27:30 +0000",
-         "title" : "European Senior Team Chess Championship 2023 - Round 6 report"
-      },
-      {
-         "description" : "49th National Women Chess Championship 2023, Gujarat. Certificates are out to download Link : https://aicf.online/National-Women-July-23k.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-women-2023-certificates/",
-         "pubDate" : "Tue, 18 Jul 2023 08:31:27 +0000",
-         "title" : "National Women 2023, Certificates."
-      },
-      {
-         "description" : "All India Chess Federation along with AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Deccan Gymkhana, Pune on 15-16 July 2023. The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-pune/",
-         "pubDate" : "Tue, 18 Jul 2023 07:46:07 +0000",
-         "title" : "AICF's Fair Play Orientation Workshop, Pune"
       }
    ]
 }
