@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two players from the top 10 rating-wise in Baku were eliminated in the tiebreaks of round 3 at the open section of the World Cup. Nijat Abasov knocked out Anish Giri, while Jaime Santos left Teimour Radjabov out of contention. Meanwhile, the lowest-rated player still going is Turkish GM Vahap Sanal, who got the better of Anton Korobov on Monday. In the women's section, the one upset of the day saw Teodora Injac from Serbia knocking out Alexandra Kosteniuk. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d3",
+         "pubDate" : "Tue, 08 Aug 2023 20:40:00 +0100",
+         "title" : "World Cup: Asabov and Santos leave Giri and Radjabov out"
+      },
+      {
+         "description" : "A 16-year-old Indian player has catapulted himself into the world elite and become an international master in a matter of just two months in what is described as an &#34;exceptional&#34; feat. Aaditya Dhingra from Gurugram, a city southwest of New Delhi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aaditya-dhingra-jumps-to-2600",
+         "pubDate" : "Tue, 08 Aug 2023 11:56:56 -0700",
+         "title" : "Indian 16-Year-Old Jumps From 2000 To 2600 In Two Months"
+      },
+      {
+         "description" : "There are chess positions, puzzles, which are not just clever. They can be very entertaining. An expert in such positions is Gauri Shankar, a chess trainer from Chicago, who has a great talent for finding such positions, and for explaining the results in instructive style. Today we how you three positions, which you can try to solve, and let Gauri show you how, if you fail to work out how.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gauri-chess-puzzles",
+         "pubDate" : "Tue, 08 Aug 2023 18:40:22 +0100",
+         "title" : "Gauri chess puzzles"
+      },
+      {
          "description" : "The big celebration of scholastic chess - the FIDE World Schools Team Championship 2023 - has ended. Istanbul ENKA High School (Turkey) in the U18 section and Velammal MHS Mogappair (India) in the U12 were unstoppable! Both winning teams won all eight matches and deservingly claimed gold medals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/secondary-chess-in-canberra-2023.html",
          "pubDate" : "Mon, 07 Aug 2023 13:03:00 +0000",
          "title" : "Secondary Chess in Canberra 2023"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Mon, 07 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Magnus Carlsen, Hikaru Nakamura and Dommaraju Gukesh were among the players who advanced to round 4 after two classical games at the FIDE World Cup in Baku. The biggest upset of the round was achieved by Javokhir Sindarov, who knocked out Maxime Vachier-Lagrave by winning with black on Sunday. In the women's section, world champion Ju Wenjun was inches away from being eliminated - however, she not only survived, but ended up winning against Ulviyya Fataliyeva. | Photo: chess.com / Maria Emelianova",
@@ -786,14 +802,6 @@ news_feed (
          "title" : "Pawn waves"
       },
       {
-         "description" : "A few major upsets left rating favourites out of the World Cup in the first round of the multitudinous competition. In the open category, Gianmarco Leiva (Peru) and Pablo Salinas (Chile) gave the biggest surprises. In the women's section, Qianyun Gong (Singapore), Turmunkh Munkhzul (Mongolia) and Maili-Jade Ouellet (Canada) pulled off the biggest stunners. | Pictured: Nurgyul Salimova | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d2",
-         "pubDate" : "Tue, 01 Aug 2023 05:45:00 +0100",
-         "title" : "World Cup: Underdogs Leiva and Salinas reach round 2"
-      },
-      {
          "description" : "Another avalanche of unexpected plot twists marked the fourth day of PogChamps 5. Squeex defeated Jinnitty in his debut, later losing a close match with Tyler1. Like a superhero from any given movie, Sapnap defeated his overpowered opponent Wirt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
          "pubDate" : "Fri, 28 Jul 2023 23:29:00 -0700",
          "title" : "Best Game Ever Or Worst Game Ever?: Papaplatte, Sapnap, Franks-is-heres Victorious"
-      },
-      {
-         "description" : "IM Sarasadat Khademalsharieh, more commonly known as Sara Khadem, gained Spanish citizenship on Wednesday. The 26-year-old international master, who left her native country Iran in January and transferred chess federations in July, is the number-o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/khadem-spains-number-1-after-gaining-citizenship",
-         "pubDate" : "Fri, 28 Jul 2023 12:56:24 -0700",
-         "title" : "Sara Khadem Leaves Iran, Gains Citizenship As Spain's New Number-1 Woman"
       },
       {
          "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
@@ -1488,14 +1488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2531",
          "pubDate" : "Wed, 19 Jul 2023 12:00:13 +0000",
          "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
-      },
-      {
-         "description" : "When I posted <A HREF=\"https://chessforallages.blogspot.com/2023/05/2023-cja-awards-announcement.html\">2023 CJA Awards Announcement</A> (May 2023), I wrote, <BLOCKQUOTE> Since I'm gradually winding down by blogging activity, I don't know if I'll post [about the CJA] so many times this year, but I'll certainly do what I can. </BLOCKQUOTE> <P> Both out of curiosity and force of habit, I tried to look at the list of 2023 CJA (Chess Journalists of America) entries after it became available. The following image is a screen capture of the page I found. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng18.gif\" WIDTH=400 HEIGHT=270><BR> <A HREF=\"https://chessjournalism.org/2023-award-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html",
-         "pubDate" : "Tue, 18 Jul 2023 15:42:00 +0000",
-         "title" : "2023 CJA Award Entries"
       }
    ]
 }
