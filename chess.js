@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-9",
-         "pubDate" : "Mon, 07 Aug 2023 20:02:40 -0700",
+         "pubDate" : "Mon, 07 Aug 2023 20:02:00 -0700",
          "title" : "Certified Juicer Moment Takes xQc Closer To Finals, CDawgVA To Face I Did A Thing"
       },
       {
@@ -1496,22 +1496,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html",
          "pubDate" : "Tue, 18 Jul 2023 15:42:00 +0000",
          "title" : "2023 CJA Award Entries"
-      },
-      {
-         "description" : " Another online club tournament, and, inevitably, another pawn ending. I was White against a slightly lower rated opponent, who, like me, was eager to trade everything off very quickly. We reached this pawn ending after my 25th move. How would you assess it? I was right to be optimistic about my chances here: a much <a href=\"https://chessimprover.com/another-ending-another-low/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Another Ending Another Low\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/another-ending-another-low/\">Another Ending Another Low</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/another-ending-another-low/",
-         "pubDate" : "Tue, 18 Jul 2023 13:58:30 +0000",
-         "title" : "Another Ending Another Low"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2529",
-         "pubDate" : "Tue, 18 Jul 2023 12:33:09 +0000",
-         "title" : "WWC Match 2023: A surprise and a counter-surprise, but game 9 ends in a draw"
       }
    ]
 }
