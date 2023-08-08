@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 U.S. Open ran from July 29 to August 6 in Grand Rapids, Michigan. It offered nine-day, six-day, and four-day schedules, which merged in round 7. The U.S. Open Champion is GM Andrew Tang. WIM Alexey Root attended meetings, visited the Gerald R. Ford Presidential Museum, and interviewed the U.S. Open Champion (and the champ's father). | Photo: Daniel Day / U.S. Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2023-us-open-report-grand-rapids",
+         "pubDate" : "Wed, 09 Aug 2023 01:00:00 +0100",
+         "title" : "2023 U.S. Open: Grand Rapids, Grandmasters, and Grand Meetings"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-70/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (70)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-70/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (70)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-70/",
+         "pubDate" : "Tue, 08 Aug 2023 20:13:24 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (70)"
+      },
+      {
          "description" : "Two players from the top 10 rating-wise in Baku were eliminated in the tiebreaks of round 3 at the open section of the World Cup. Nijat Abasov knocked out Anish Giri, while Jaime Santos left Teimour Radjabov out of contention. Meanwhile, the lowest-rated player still going is Turkish GM Vahap Sanal, who got the better of Anton Korobov on Monday. In the women's section, the one upset of the day saw Teodora Injac from Serbia knocking out Alexandra Kosteniuk. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/facts-about-fisher",
          "pubDate" : "Tue, 01 Aug 2023 11:00:00 +0100",
          "title" : "Facts about Fischer"
-      },
-      {
-         "description" : "Pawn races can be very sharp. And it is not always best to push the pawns. But what else can and should White do in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pawn-waves",
-         "pubDate" : "Tue, 01 Aug 2023 09:00:00 +0100",
-         "title" : "Pawn waves"
       },
       {
          "description" : "Another avalanche of unexpected plot twists marked the fourth day of PogChamps 5. Squeex defeated Jinnitty in his debut, later losing a close match with Tyler1. Like a superhero from any given movie, Sapnap defeated his overpowered opponent Wirt...",
