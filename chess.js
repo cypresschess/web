@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stalemates can often save the defender in endgames. However, they are difficult to spot. In the diagram position, it is Black to move and draw. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stalemate",
+         "pubDate" : "Tue, 08 Aug 2023 09:00:00 +0100",
+         "title" : "Stalemate"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from TBD, Before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrap",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-ultimate-moves",
+         "pubDate" : "Tue, 08 Aug 2023 05:59:50 +0000",
+         "title" : "2023 Chess 9LX: Ultimate Moves"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-8",
+         "pubDate" : "Tue, 08 Aug 2023 05:59:50 +0000",
+         "title" : "2023 Summer Chess Classic: Round 8"
+      },
+      {
          "description" : "It was a day of sad goodbyes as five players were eliminated from PogChamps 5. xQc won a tight match against Papaplatte, followed by three not-so-close match wins by Wirtual, QTCinderella, and I did a thing against Sykkuno, Jinnitty, and Tyler1 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-3",
-         "pubDate" : "Mon, 07 Aug 2023 17:42:03 -0700",
+         "pubDate" : "Mon, 07 Aug 2023 17:42:00 -0700",
          "title" : "Giri Gone, So Survives, Kosteniuk Knocked Out On Tense Day Of Tiebreaks"
       },
       {
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Poland wins quadruple gold at the European Youth Team Chess Championship 2023"
       },
       {
-         "description" : "The tenth edition of the much-anticipated FIDE World Cup kicked off on Sunday in Baku. The 50 top seeds in the open and the 25 top seeds in the women's section received byes and will join the fray on Wednesday. The remaining 234 contenders (156 in the open and 78 in the women's) played their first classical encounters, though. There was no lack of surprises on the first day of action, with 14-year-old Ediz Gurel from Turkey (the youngest participant in the open) stunning Velimir Ivic in brilliant style. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d1",
-         "pubDate" : "Mon, 31 Jul 2023 08:55:00 +0100",
-         "title" : "World Cup: Ediz Gurel, aged 14, scores brilliant upset"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,22 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2544",
          "pubDate" : "Tue, 25 Jul 2023 06:52:56 +0000",
          "title" : "US Senior and Juniors' Championship 2023: Khachiyan, Mishra and Lee win titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Mangalam in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-win-means-lot-me-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E5ZJvz9mm6I.jpg?itok=mwKTXqWM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-win-means-lot-me-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Alice Lee: To Win This Means a Lot to Me! | R9 #USJuniorsChess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to Cristian Chirila after defeating Rochelle Wu in the ninth round of the 2023 U.S. Girls' Junior Championship. 2023.07.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yip-not-best-end-my-juniors-career-r9-usjuniorschess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tY1bXFqwfcI.jpg?itok=0HMymukg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yip-not-best-end-my-juniors-career-r9-usjuniorschess",
-         "pubDate" : "Tue, 25 Jul 2023 02:47:08 +0000",
-         "title" : "Yip: Not The Best End to My Juniors Career | R9 #USJuniorsChess"
       },
       {
          "description" : "",
