@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Wed, 09 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2023/08/Starter-Solutions-Submitted-2023.pdf#new_tab",
+         "pubDate" : "Wed, 09 Aug 2023 10:10:30 +0000",
+         "title" : "Winton British Chess Solving Championship 2023-2024 - solutions"
+      },
+      {
+         "description" : "You don't have to be a millionaire to own a Premier Division football club, so for the 2023/24 Fantasy Premier League why don't you join...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2023/",
+         "pubDate" : "Wed, 09 Aug 2023 09:45:52 +0000",
+         "title" : "Premier League Fantasy Football 2023"
+      },
+      {
          "description" : "The wait is finally over&#38;mdash;we finally know the pairings of the live in-person Finals of PogChamps 5. QTCinderella and Wirtual are the Consolation Bracket finalists, having defeated Daily Dose of Internet and Squeex. In the Championship Brack...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -816,14 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-registration",
          "pubDate" : "Tue, 01 Aug 2023 06:00:00 -0700",
          "title" : "Register For The Collegiate Chess League Fall 2023 Season"
-      },
-      {
-         "description" : "Weird History is a YouTube channel that provides chronicles of history in a form never covered in high school. It looks at the extreme, the unexpected, the untold and the flat-out weird parts of history. \"Because as weird as people seem today, we don't hold a candle to history,\" they claim. They have 4.31 million subscribers and have registered over half a billion views. After posting over 700 videos they have descended on Bobby Fischer. Here is the video portrait, for what it is worth.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/facts-about-fisher",
-         "pubDate" : "Tue, 01 Aug 2023 11:00:00 +0100",
-         "title" : "Facts about Fischer"
       },
       {
          "description" : "Another avalanche of unexpected plot twists marked the fourth day of PogChamps 5. Squeex defeated Jinnitty in his debut, later losing a close match with Tyler1. Like a superhero from any given movie, Sapnap defeated his overpowered opponent Wirt...",
