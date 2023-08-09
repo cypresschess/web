@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer beat Magnus Carlsen for the first time in his career and now only needs a draw on Thursday to knock the world number one out of the World Cup. The other big upset of the day saw Alexey Sarana brilliantly defeating Wesley So with the black pieces. In the women's section, 7 out of 8 games finished drawn. Bella Khotenashvili scored the one win of the day, as she beat third seed Humpy Koneru. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r4-d1",
+         "pubDate" : "Thu, 10 Aug 2023 00:05:00 +0100",
+         "title" : "World Cup: Keymer stuns Carlsen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2567",
+         "pubDate" : "Wed, 09 Aug 2023 20:21:14 +0000",
+         "title" : "FIDE World Cup Round 4 Game 1: Magnus Carlsen loses to 18-year-old prodigy Vincent Keymer"
+      },
+      {
+         "description" : "WIM Sabrina Chevannes is exposing sexual harassment and misogyny in the chess world and says it caused her to quit playing the game professionally. A group of women players last week published a powerful message in an open letter where they say ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chevannes-speaks-against-sexual-assault-misogyny",
+         "pubDate" : "Wed, 09 Aug 2023 12:25:00 -0700",
+         "title" : "The Reason I Quit: WIM Chevannes Speaks Against Sexual Assault, Misogyny"
+      },
+      {
          "description" : " Top Three Seeds Go Through, but a Few Surprises In a trend where the youngest stars are shining at the World Cup, some of the veterans are still showing that experience is an enduring quality in the knockout system. Besides Magnus Carlsen and Hikaru Nakamura winning their matches, both Peter Svidler and Vasyl Ivanchuk, both The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/\">2023 FIDE World Cup: Round 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2023/",
          "pubDate" : "Wed, 09 Aug 2023 12:40:56 +0000",
          "title" : "UK Open Blitz Championships 2023"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Wed, 09 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "NATIONAL U-7 OPEN &#38; GIRLS CHESS CHAMPIONSHIP WILL BE HELD FROM 21 TO 25 SEPTEMBER, 2023 IN KOLKATA. HOWEVER, THE VENUE WILL BE CHANGED. THE",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (70)"
       },
       {
-         "description" : "Two players from the top 10 rating-wise in Baku were eliminated in the tiebreaks of round 3 at the open section of the World Cup. Nijat Abasov knocked out Anish Giri, while Jaime Santos left Teimour Radjabov out of contention. Meanwhile, the lowest-rated player still going is Turkish GM Vahap Sanal, who got the better of Anton Korobov on Monday. In the women's section, the one upset of the day saw Teodora Injac from Serbia knocking out Alexandra Kosteniuk. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d3",
-         "pubDate" : "Tue, 08 Aug 2023 20:40:00 +0100",
-         "title" : "World Cup: Asabov and Santos leave Giri and Radjabov out"
-      },
-      {
          "description" : "A 16-year-old Indian player has catapulted himself into the world elite and become an international master in a matter of just two months in what is described as an &#34;exceptional&#34; feat. Aaditya Dhingra from Gurugram, a city southwest of New Delhi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -120,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gauri-chess-puzzles",
          "pubDate" : "Tue, 08 Aug 2023 18:40:22 +0100",
          "title" : "Gauri chess puzzles"
+      },
+      {
+         "description" : "Two players from the top 10 rating-wise in Baku were eliminated in the tiebreaks of round 3 at the open section of the World Cup. Nijat Abasov knocked out Anish Giri, while Jaime Santos left Teimour Radjabov out of contention. Meanwhile, the lowest-rated player still going is Turkish GM Vahap Sanal, who got the better of Anton Korobov on Monday. In the women's section, the one upset of the day saw Teodora Injac from Serbia knocking out Alexandra Kosteniuk. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d3",
+         "pubDate" : "Tue, 08 Aug 2023 18:00:00 +0100",
+         "title" : "World Cup: Asabov and Santos leave Giri and Radjabov out"
       },
       {
          "description" : "The big celebration of scholastic chess - the FIDE World Schools Team Championship 2023 - has ended. Istanbul ENKA High School (Turkey) in the U18 section and Velammal MHS Mogappair (India) in the U12 were unstoppable! Both winning teams won all eight matches and deservingly claimed gold medals.",
@@ -946,14 +962,6 @@ news_feed (
          "title" : "Michael Adams wins British Championship 2023"
       },
       {
-         "description" : "Fourteen-year-old IM Ediz Gurel found a brilliant sacrifice to take down GM Velimir Ivic as the 2023 FIDE World Cup kicked off in Baku. Top seeds such as GMs Magnus Carlsen, Fabiano Caruana, Hikaru Nakamura, and Ju Wenjun start their campaigns in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-1",
-         "pubDate" : "Sun, 30 Jul 2023 13:54:00 -0700",
-         "title" : "Stunning Start By Ediz Gurel, The World Cup's Youngest Player"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1472,30 +1480,6 @@ news_feed (
          "link" : "https://www.europechess.org/international-chess-day-2/",
          "pubDate" : "Thu, 20 Jul 2023 06:27:52 +0000",
          "title" : "International Chess Day"
-      },
-      {
-         "description" : " Today (July 20th) is International Chess Day. This attracted the attention of the Canberra Times newspaper, and they did a feature story, with photo's, on the after school chess program at Kaleen Primary school (NB I am one of the coaches for this program). Interestingly, this is the same Canberra Times who just three weeks ago canned the weekly chess column that had been running for over 50 years. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/international-chess-day.html",
-         "pubDate" : "Wed, 19 Jul 2023 23:02:00 +0000",
-         "title" : "International Chess Day"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2534",
-         "pubDate" : "Wed, 19 Jul 2023 22:16:02 +0000",
-         "title" : "FIDE turns 99"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2533",
-         "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
-         "title" : "ChessFest takes over London"
       }
    ]
 }
