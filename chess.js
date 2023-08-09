@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Top Three Seeds Go Through, but a Few Surprises In a trend where the youngest stars are shining at the World Cup, some of the veterans are still showing that experience is an enduring quality in the knockout system. Besides Magnus Carlsen and Hikaru Nakamura winning their matches, both Peter Svidler and Vasyl Ivanchuk, both The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/\">2023 FIDE World Cup: Round 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/",
+         "pubDate" : "Wed, 09 Aug 2023 15:50:27 +0000",
+         "title" : "2023 FIDE World Cup: Round 3"
+      },
+      {
          "description" : "What do GM Dmitry Andreikin, GM Denis Lazavik, GM Fabiano Caruana, GM Magnus Carlsen, GM Maksim Chigaev, GM Vladimir Fedoseev, GM Jose Martinez, FM Ivan Yeletsky, GM Levon Aronian, GM Alexey Sarana, GM David Paravyan, and IM Mahdi Gholami Orimi ha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1488,22 +1496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2533",
          "pubDate" : "Wed, 19 Jul 2023 20:00:09 +0000",
          "title" : "ChessFest takes over London"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/101965825.cms\" />In a remarkable achievement, 17-year-old Indian Grandmaster R Praggnanandhaa emerged as the champion in the V Geza Hetenyi Memorial Super GM chess tournament 2023 held in Budapest, Hungary.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-praggnanandhaa-wins-super-gm-chess-tourney-in-hungary/articleshow/101965825.cms",
-         "pubDate" : "Wed, 19 Jul 2023 16:49:41 +0000",
-         "title" : "Indian GM Praggnanandhaa wins Super GM chess tourney in Hungary"
-      },
-      {
-         "description" : " &#8220;Errare humanum est&#8221; Seneca Below is an interesting position we reached as Black in one of our recently finished voting chess games. There is a lot to like about it. The isolated d5-pawn is one theoretical weaknesses. Everything else looks very good, from Be4 and Nc4 occupying the respective outposts, to the support provided by <a href=\"https://chessimprover.com/bad-ideas-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-8/\">Bad Ideas (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/bad-ideas-8/",
-         "pubDate" : "Wed, 19 Jul 2023 16:02:48 +0000",
-         "title" : "Bad Ideas (8)"
       }
    ]
 }
