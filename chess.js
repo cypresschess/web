@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aaditya-dhingra-jumps-to-2600",
-         "pubDate" : "Tue, 08 Aug 2023 11:56:56 -0700",
+         "pubDate" : "Tue, 08 Aug 2023 11:56:00 -0700",
          "title" : "Indian 16-Year-Old Jumps From 2000 To 2600 In Two Months"
       },
       {
