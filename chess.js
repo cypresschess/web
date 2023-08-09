@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The wait is finally over&#38;mdash;we finally know the pairings of the live in-person Finals of PogChamps 5. QTCinderella and Wirtual are the Consolation Bracket finalists, having defeated Daily Dose of Internet and Squeex. In the Championship Brack...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-day-10",
+         "pubDate" : "Tue, 08 Aug 2023 19:18:00 -0700",
+         "title" : "Voice Experts CDawgVA And Frank Go To Finals; Wirtual Wins Plane Ticket, QTCinderella Wins Uber Ride"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-9",
+         "pubDate" : "Wed, 09 Aug 2023 00:00:43 +0000",
+         "title" : "2023 Summer Chess Classic: Round 9"
+      },
+      {
          "description" : "The 2023 U.S. Open ran from July 29 to August 6 in Grand Rapids, Michigan. It offered nine-day, six-day, and four-day schedules, which merged in round 7. The U.S. Open Champion is GM Andrew Tang. WIM Alexey Root attended meetings, visited the Gerald R. Ford Presidential Museum, and interviewed the U.S. Open Champion (and the champ's father). | Photo: Daniel Day / U.S. Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "Islam, chess and the first grandmaster"
       },
       {
-         "description" : "With trash talk, surprise checkmates, and ruthless king hunts, the competitors went all out on day three of PogChamps 5. Franks-is-heres inspired himself into victory vs. the ever-calm Sykkuno, tying with CDawgVA for first in Group A. Sapnap def...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-3",
-         "pubDate" : "Fri, 28 Jul 2023 23:29:00 -0700",
-         "title" : "Best Game Ever Or Worst Game Ever?: Papaplatte, Sapnap, Franks-is-heres Victorious"
-      },
-      {
          "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/",
          "pubDate" : "Wed, 26 Jul 2023 01:01:29 +0000",
          "title" : "After 2023 World Open, a new chess era unfolding"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The U.S. Junior, U.S. Senior, and U.S. Girls&#039; Junior Championships are over. Abhi Mishra, Melik Khachiyan, and Alice Lee won the events respectively at the World Chess Hall of Fame. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-junior-us-senior-championships-recap\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/clSGWRI2GSY.jpg?itok=uqnyrzDF\" alt=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-junior-us-senior-championships-recap",
-         "pubDate" : "Tue, 25 Jul 2023 20:47:45 +0000",
-         "title" : "2023 U.S. Junior & U.S. Senior Championships | RECAP"
       },
       {
          "description" : " &#8220;Errare humanum est&#8221; Seneca Last week we went over a bad sequence for White in one of our friendly voting games. You can read it again here. We stopped at our king move below: It was our turn to have a bad idea. After reviewing the discussions we had, I noticed we covered extensively just two <a href=\"https://chessimprover.com/bad-ideas-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-9/\">Bad Ideas (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
