@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What do GM Dmitry Andreikin, GM Denis Lazavik, GM Fabiano Caruana, GM Magnus Carlsen, GM Maksim Chigaev, GM Vladimir Fedoseev, GM Jose Martinez, FM Ivan Yeletsky, GM Levon Aronian, GM Alexey Sarana, GM David Paravyan, and IM Mahdi Gholami Orimi ha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/12-player-pileup-rocks-crowded-early-tuesday",
+         "pubDate" : "Wed, 09 Aug 2023 08:19:44 -0700",
+         "title" : "12-Player Pileup Rocks Crowded Early Tuesday"
+      },
+      {
+         "description" : " The FIDE Qualification Commission is inviting comments on proposed changes to the FIDE Rating System. The details fo the changes are at <a href=\"https://fide.com/news/2538\">https://fide.com/news/2538</a> and you can send your comments to qualification@fide.com (NB As Secretary of the FIDE QC, I do get to read them). We have already received a number of submissions, but you have until the end of September to comment. After this date QC will go through the submissions and see if there are important ideas we may have missed. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/have-your-say-on-ratings.html",
+         "pubDate" : "Wed, 09 Aug 2023 13:56:00 +0000",
+         "title" : "Have your say on ratings"
+      },
+      {
+         "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2023/",
+         "pubDate" : "Wed, 09 Aug 2023 12:40:56 +0000",
+         "title" : "UK Open Blitz Championships 2023"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Wed, 09 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "NATIONAL U-7 OPEN &#38; GIRLS CHESS CHAMPIONSHIP WILL BE HELD FROM 21 TO 25 SEPTEMBER, 2023 IN KOLKATA. HOWEVER, THE VENUE WILL BE CHANGED. THE",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/noticenational-under-07-chess-championship-2023/",
+         "pubDate" : "Wed, 09 Aug 2023 11:44:43 +0000",
+         "title" : "Notice:National Under 07 Chess Championship 2023"
       },
       {
          "description" : "",
@@ -954,14 +986,6 @@ news_feed (
          "title" : "2023 ANU Open - Ikeda wins"
       },
       {
-         "description" : "Ukraine&#39;s GM Oleksandr Bortnyk won July&#39;s final Bullet Brawl after chalking up 70 wins in the two-hour arena en route to an insurmountable 261 score. His journey to the top was marked by a 26-game win streak in the final 30 minutes of the event. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-july-week-4",
-         "pubDate" : "Sat, 29 Jul 2023 17:11:00 -0700",
-         "title" : "Bortnyk Blazes Bullet Brawl Field"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1480,38 +1504,6 @@ news_feed (
          "link" : "https://chessimprover.com/bad-ideas-8/",
          "pubDate" : "Wed, 19 Jul 2023 16:02:48 +0000",
          "title" : "Bad Ideas (8)"
-      },
-      {
-         "description" : " For the first time in over a decade, I have signed myself up for a Round Robin event. In the past I have done pretty well in this format, although I fear the run may soon come to an end. If my memory hasn't failed me, the last RR I played was in the Solomon Islands in 2009 (I did finish first). Probably the crucial game for me was the following win over FM Lee Jones. He missed my idea in the middle game, and the threat of taking on f3 meant he had to give me a lot of material, so he chose to resign instead. <br /> <b>Jones,Lee (2117) - Press,Shaun (2076) [D45]</b><br /> Solomon Islands Honiara (7), 27.09.2009 <script> new PgnViewer( { boardName: \"game1409\", movesFormat: \"default\", pgnString",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/the-round-robin.html",
-         "pubDate" : "Wed, 19 Jul 2023 14:30:00 +0000",
-         "title" : "The Round Robin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2530",
-         "pubDate" : "Wed, 19 Jul 2023 12:29:55 +0000",
-         "title" : "Ju and Lei still levelled as WWC Match enters final phase"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2532",
-         "pubDate" : "Wed, 19 Jul 2023 12:00:56 +0000",
-         "title" : "Implementation of the C.07 Tie-Break Regulations postponed"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2531",
-         "pubDate" : "Wed, 19 Jul 2023 12:00:13 +0000",
-         "title" : "FIDE Education Commission announces its 9th Preparation of Teachers course"
       }
    ]
 }
