@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-final-round",
+         "pubDate" : "Thu, 10 Aug 2023 18:01:57 +0000",
+         "title" : "2023 Summer Chess Classic: Final Round"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2569",
+         "pubDate" : "Thu, 10 Aug 2023 17:59:26 +0000",
+         "title" : "World Cup: Carlsen remains in the race, but Wesley So is out"
+      },
+      {
+         "description" : "GM Aleksandar Matanovic, the oldest living chess grandmaster, one of the great players during the golden age of Serbian chess, and co-founder of Chess Informant, died on Wednesday at the age of 93. Matanovic was born on May 23, 1930 in Belgrade,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aleksandar-matanovic-1930-2023",
+         "pubDate" : "Thu, 10 Aug 2023 08:31:33 -0700",
+         "title" : "Aleksandar Matanovic (1930-2023)"
+      },
+      {
          "description" : " Tallahassee hosted its fourth Capital City Open rapid chess tournament within the past year with Jacob Sperber leading the initiative. With the temperatures soaring into the upper-90s, Florida got a welcome rain shower on the day of the tournament, but it may have deterred some from making the trip. The tournament did not feature any The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/\">Capital City Open IV (Tallahassee, Florida)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -930,14 +954,6 @@ news_feed (
          "title" : "Register For The Collegiate Chess League Fall 2023 Season"
       },
       {
-         "description" : "Another avalanche of unexpected plot twists marked the fourth day of PogChamps 5. Squeex defeated Jinnitty in his debut, later losing a close match with Tyler1. Like a superhero from any given movie, Sapnap defeated his overpowered opponent Wirt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-4",
-         "pubDate" : "Mon, 31 Jul 2023 16:20:00 -0700",
-         "title" : "Better Than 'Hikiru,' Tyler1 Wins Alongside Squeex, Sapnap, Jarvis"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
          "pubDate" : "Fri, 28 Jul 2023 07:00:04 +0000",
          "title" : "Chess: British Championship nears final round as Howell readies for World Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong>SAINT LOUIS (July 27, 2023) -</strong> All eyes were on Saint Louis as tournament play for the 2023 <a href=\"https://www.uschesschamps.com/2023-us-national-championships/girls-junior\">U.S. Girls' Junior</a>, <a href=\"https://www.uschesschamps.com/2023-us-national-championships/junior\">U.S. Junior</a> and <a href=\"https://www.uschesschamps.com/2023-us-national-championships/senior\">U.S. Senior </a>Championships hosted by the <a href=\"https://saintlouischessclub.org/\">Saint Louis Chess Club</a> came to an exciting conclusion this week. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-elect-alice-lee-gm-abhimanyu-mishra-and-gm-melikset-khachiyan-crowned-winners-national",
-         "pubDate" : "Thu, 27 Jul 2023 17:39:24 +0000",
-         "title" : "IM Elect Alice Lee, GM Abhimanyu Mishra and GM Melikset Khachiyan Crowned Winners in National Junior and Senior Championships in Saint Louis"
       },
       {
          "description" : "The month of July 2023 is coming to an end, meaning that it's time for a roundup of the month's chess news, aka Yahoos. For a more precise definition of Yahoos, see the footnote below. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng27.gif\" WIDTH=200 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> I always start a post with a summary of the sources that reported the month's news, as shown in the chart on the left. This month we had nine sources with two or more stories, topped as usual by Chess.com. <P> Second was Chessbase, with double the count for the two sources tied for third. Last month Chessbase was missing from the list of sources with more than one story. In that post, <A HREF=\"https:/",
