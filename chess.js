@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tallahassee hosted its fourth Capital City Open rapid chess tournament within the past year with Jacob Sperber leading the initiative. With the temperatures soaring into the upper-90s, Florida got a welcome rain shower on the day of the tournament, but it may have deterred some from making the trip. The tournament did not feature any The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/\">Capital City Open IV (Tallahassee, Florida)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/",
+         "pubDate" : "Thu, 10 Aug 2023 13:21:45 +0000",
+         "title" : "Capital City Open IV (Tallahassee, Florida)"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-champions-crowned-in-poland/",
          "pubDate" : "Fri, 21 Jul 2023 08:55:07 +0000",
          "title" : "European Senior Team Chess Champions crowned in Poland"
-      },
-      {
-         "description" : "A month after <A HREF=\"https://chessforallages.blogspot.com/2023/06/may-1973-1998-on-cover.html\">June 1973 & 1998 'On the Cover'</A> (June 2023; 'the winners of super strong U.S. Swiss-system tournaments'), which players were featured on the covers of CL&R/CL 50 and 25 years ago? For the first time in a year -- <A HREF=\"https://chessforallages.blogspot.com/2022/06/june-1972-1997-on-cover.html\">June 1972 & 1997 'On the Cover'</A> (June 2022; Spassky and Kasparov) -- we find two foreign-born GMs dominating both covers. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng20.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Karpov at the National Open' <P> <B><I>Che",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/07/july-1973-1998-on-cover.html",
-         "pubDate" : "Thu, 20 Jul 2023 15:20:00 +0000",
-         "title" : "July 1973 & 1998 'On the Cover'"
       }
    ]
 }
