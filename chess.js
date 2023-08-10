@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World number-one Magnus Carlsen won on demand to keep his 2023 FIDE World Cup hopes alive despite gifting GM Vincent Keymer a huge chance to seal their match. GM Wesley So is out after failing to mount a comeback against GM Alexey Sarana, while GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-2",
+         "pubDate" : "Thu, 10 Aug 2023 16:03:00 -0700",
+         "title" : "Carlsen Strikes Back, Caruana In Last 16"
+      },
+      {
+         "description" : "The renowned Yugoslav/Serbian Grandmaster Aleksandar Matanovic passed away in Belgrade on August 9, two months after celebrating his 93rd birthday. Following the passing of Yuri Averbakh in May 2022, Matanovic was the world's oldest living Grandmaster. A eulogy by Milan Dinic. | Pictured: Matanovic playing a tournament in Australia in 1970 / Matanovic with his wife Vesna in 1960. | Photos: Family Archive / Serbian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aleksandar-matanovic-dies-at-93",
+         "pubDate" : "Thu, 10 Aug 2023 23:50:00 +0100",
+         "title" : "GM Aleksandar Matanovic dies at 93"
+      },
+      {
+         "description" : "Six players have already reached the round-of-16 in the open section of the FIDE World Cup, including Fabiano Caruana, who beat Ray Robson, and Alexey Sarana, who knocked out sixth seed Wesley So. The remaining ten spots will be decided in Friday's tiebreaks, with Magnus Carlsen reaching that stage after bouncing back in his match against Vincent Keymer. In the women's section, three players secured their spots in quarterfinals: Aleksandra Goryachkina, Tan Zhongyi and Polina Shuvalova. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r4-d2",
+         "pubDate" : "Thu, 10 Aug 2023 22:50:00 +0100",
+         "title" : "World Cup: Caruana advances, Carlsen bounces back"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2570",
+         "pubDate" : "Thu, 10 Aug 2023 20:24:45 +0000",
+         "title" : "GM Aleksandar Matanovic dies at 93"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,14 +64,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/",
          "pubDate" : "Thu, 10 Aug 2023 13:21:45 +0000",
          "title" : "Capital City Open IV (Tallahassee, Florida)"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Thu, 10 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "In his Game of the Week show #580, Merijn Van Delft continues the tradition of presenting his losses and shows an interesting and highly tactical game he lost against GM Liam Vrolijk at the Bad Vlissingen tournament. A real slugfest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "Carlsen Takes A Tuesday Warming Up For World Cup"
       },
       {
-         "description" : "FIDE has informed us that they have put the youngest chess player ever on their rating list. The lad has participate in five national tournaments and won a number of titles in his age category. Last March, for example, he won his stat's Under 8 Championship. Like to guess how old Tejas Tiwari is? Wrong, younger!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-youngest-fide-rated-player",
-         "pubDate" : "Wed, 02 Aug 2023 11:58:19 +0100",
-         "title" : "The youngest FIDE-rated player!"
-      },
-      {
          "description" : "It was a day of mercilessness and confusion at PogChamps 5.&#38;nbsp; Most of the matches were 2-0 sweeps. I did a thing did tricky things to defeat Fuslie. CDawgVA daydrank as he beat Franks-is-heres. xQc gained winning positions by move eight in b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/playing-e4-and-d4.html",
          "pubDate" : "Tue, 01 Aug 2023 13:13:00 +0000",
          "title" : "Playing e4 and d4"
-      },
-      {
-         "description" : "Registration is now open&#38;nbsp;for the Fall 2023 season of the Collegiate Chess League! This event returns with the CCL&#39;s tried-and-tested 4 vs. 4 team format and a $25,000 prize fund. If you&#39;re a university student who loves chess and wants to r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-registration",
-         "pubDate" : "Tue, 01 Aug 2023 06:00:00 -0700",
-         "title" : "Register For The Collegiate Chess League Fall 2023 Season"
       },
       {
          "description" : "",
