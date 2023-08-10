@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Thu, 10 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "In his Game of the Week show #580, Merijn Van Delft continues the tradition of presenting his losses and shows an interesting and highly tactical game he lost against GM Liam Vrolijk at the Bad Vlissingen tournament. A real slugfest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-580-l-vrolijk-vs-m-van-delft",
+         "pubDate" : "Thu, 10 Aug 2023 11:18:30 +0100",
+         "title" : "Game of the Week #580: L. Vrolijk vs M. Van Delft"
+      },
+      {
+         "description" : "One of the greatest Serbian chess players, GM Aleksandar Matanovic, died yesterday in Belgrade, at the age of 93. Aleksandar Matanovic was born in Belgrade, on May 23rd, 1930. After becoming the Yugoslav Junior Chess Champion in 1948, he joined the Yugoslavian representation in 1950 playing the radio-match against the USA team. Aged 25, Matanovic became the grandmaster in 1955 and won the Yugoslavian National Championship three times (1962, 1969, 1978). He was a member of the Yugoslavian Olympic team []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/in-memoriam-aleksandar-matanovic-1930-2023/",
+         "pubDate" : "Thu, 10 Aug 2023 09:57:29 +0000",
+         "title" : "IN MEMORIAM - Aleksandar Matanovic (1930-2023)"
+      },
+      {
          "description" : "One of the most exciting events in the chess calendar, the FIDE World Cup, is taking place in Baku. Players try to show their best as they fight for spots in the next edition of the Candidates Tournaments, both in the open and in the women's section. Robert Ris, a successful coach and a fantastic analyst, has been publishing videos with highlights from the much-anticipated tournament. Not to be missed!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -842,14 +866,6 @@ news_feed (
          "title" : "2023 Summer Chess Classic: Round 2"
       },
       {
-         "description" : "Round 1 is over at the World Cup in Baku. A total of 33 matches (24 in the open and 9 in the women's section) were decided in rapid and blitz tiebreaks. Now that the first round has been completed, all the players who received byes - the rating favourites - will join the fray on Wednesday. Magnus Carlsen will face Levan Pantsulaia (Georgia, 2564), while Ju Wenjun will face Eva Repkova (Slovakia, 2312). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r1-d3",
-         "pubDate" : "Wed, 02 Aug 2023 01:20:00 +0100",
-         "title" : "World Cup: All set for Carlsen and co. to join the fray"
-      },
-      {
          "description" : "Top seeds GMs Magnus Carlsen, Hikaru Nakamura, and Ju Wenjun commence battle in the 2023 FIDE World Cup in Wednesday&#39;s round two, but first, there were 33 places to be decided in tiebreaks. It took six hours, with 18-year-old local star GM Aydin S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2553",
          "pubDate" : "Tue, 01 Aug 2023 20:10:54 +0000",
          "title" : "FIDE World Cup 2023 Round 1 Tiebreaks: A lot of drama and a few upsets"
-      },
-      {
-         "description" : "At the beginning of August FIDE published its new rating list. Magnus Carlsen remains the only player with a rating of more than 2800 and is still the clear number one. Hikaru Nakamura follows in second place, five points ahead of world number 3 Fabiano Caruana. Indian juniors Gukesh D. and Praggnanandhaa gained a lot of rating points in July and continue their way to the top.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-august-2023",
-         "pubDate" : "Tue, 01 Aug 2023 19:00:00 +0100",
-         "title" : "FIDE ratings August 2023"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation has made a comeback in recent years. About 15 years ago it was considered well known theory that brings nothing much to White. Of course this was a <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/july-1973-1998-on-cover.html",
          "pubDate" : "Thu, 20 Jul 2023 15:20:00 +0000",
          "title" : "July 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "Today is International Chess Day a fitting day for the 109th British Chess Championships to start. We kick off today at DMU in Leicester...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/109th-british-chess-championships/",
-         "pubDate" : "Thu, 20 Jul 2023 08:49:16 +0000",
-         "title" : "109th British Chess Championships"
       }
    ]
 }
