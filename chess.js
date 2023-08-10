@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen is in danger of tumbling out of the 2023 FIDE World Cup after 18-year-old GM Vincent Keymer pounced on a blunder to beat the world number-one for the first time. GM Wesley So is also in a must-win position in Thursday&#39;s second ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-1",
+         "pubDate" : "Wed, 09 Aug 2023 17:07:00 -0700",
+         "title" : "Carlsen, So On Brink Of World Cup Exit"
+      },
+      {
          "description" : "Vincent Keymer beat Magnus Carlsen for the first time in his career and now only needs a draw on Thursday to knock the world number one out of the World Cup. The other big upset of the day saw Alexey Sarana brilliantly defeating Wesley So with the black pieces. In the women's section, 7 out of 8 games finished drawn. Bella Khotenashvili scored the one win of the day, as she beat third seed Humpy Koneru. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-4",
          "pubDate" : "Mon, 31 Jul 2023 16:20:00 -0700",
          "title" : "Better Than 'Hikiru,' Tyler1 Wins Alongside Squeex, Sapnap, Jarvis"
-      },
-      {
-         "description" : "Peruvian IM Gianmarco Leiva survived a 136-move thriller to knock GM Anton Demchenko out of the 2023 FIDE World Cup, but that was a rare success for an underdog. The favorites hit back, including GM Velimir Ivic, who smoothly outplayed 14-year-old...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-1-2",
-         "pubDate" : "Mon, 31 Jul 2023 15:55:00 -0700",
-         "title" : "Favorites Strike Back As 33 Tiebreaks Await"
       },
       {
          "description" : "",
