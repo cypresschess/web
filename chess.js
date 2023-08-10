@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most exciting events in the chess calendar, the FIDE World Cup, is taking place in Baku. Players try to show their best as they fight for spots in the next edition of the Candidates Tournaments, both in the open and in the women's section. Robert Ris, a successful coach and a fantastic analyst, has been publishing videos with highlights from the much-anticipated tournament. Not to be missed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-analyses-world-cup-1",
+         "pubDate" : "Thu, 10 Aug 2023 07:30:00 +0100",
+         "title" : "Fantastic battles from the World Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2568",
+         "pubDate" : "Thu, 10 Aug 2023 05:44:04 +0000",
+         "title" : "Ready to start: everything you need to know about FIDE World Youth U16 Chess Olympiad"
+      },
+      {
          "description" : "GM Magnus Carlsen is in danger of tumbling out of the 2023 FIDE World Cup after 18-year-old GM Vincent Keymer pounced on a blunder to beat the world number-one for the first time. GM Wesley So is also in a must-win position in Thursday&#39;s second ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -874,14 +890,6 @@ news_feed (
          "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition"
       },
       {
-         "description" : "Michael Adams and Lan Yao (Women's Championship) are the new British National Chess Champions. This is Michael Adams' eighth National Championship, while Lan Yao not only won the title but also made a WGM norm. A big surprise is the second place of the untitled Steven Jones, who started as 32nd seed. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michael-adams-and-lan-yao-win-british-championships-2023",
-         "pubDate" : "Tue, 01 Aug 2023 15:00:00 +0100",
-         "title" : "Michael Adams and Lan Yao win British Championships 2023"
-      },
-      {
          "description" : "Every month, there is a renaissance of sorts on Chess.com, when we release our new bots. Is chess an art? It will be when you play this month&#39;s artist bots! So grab a refreshment (a slice of pizza, perhaps?), take a seat on your art stool, and p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1464,22 +1472,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/109th-british-chess-championships/",
          "pubDate" : "Thu, 20 Jul 2023 08:49:16 +0000",
          "title" : "109th British Chess Championships"
-      },
-      {
-         "description" : "All India Chess Federation wishes you a very Happy International Chess Day!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-international-chess-day/",
-         "pubDate" : "Thu, 20 Jul 2023 07:08:12 +0000",
-         "title" : "Happy International Chess Day!!"
-      },
-      {
-         "description" : "International Chess Day is celebrated annually on 20 July, the day the International Chess Federation (FIDE) was found, in 1924. The idea to celebrate this day as the international chess day was proposed by UNESCO, and it has been celebrated as such since 1966. On 12 December, 2019, the UN General Assembly unanimously approved a resolution recognising the day. On the occasion of the day ECU President Zurab Azmaiparashvili visits the Tbilisi Dining Theatre teaches and plays Chess with special people with special taste! Chess can be []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/international-chess-day-2/",
-         "pubDate" : "Thu, 20 Jul 2023 06:27:52 +0000",
-         "title" : "International Chess Day"
       }
    ]
 }
