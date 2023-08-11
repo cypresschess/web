@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 English Women's Online Blitz Championship is now in progress with qualifiers complete and the finals starting at 3.00pm on Saturday 12th August. The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2023-english-womens-online-blitz-championship/",
+         "pubDate" : "Fri, 11 Aug 2023 15:08:20 +0000",
+         "title" : "2023 English Women's Online Blitz Championship"
+      },
+      {
+         "description" : "IM Adam Hunt and GM Danny Gormally's commentary for all nine rounds of the British Chess Championships is now available on the ECF's YouTube channel...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcc-2023-commentary-on-youtube/",
+         "pubDate" : "Fri, 11 Aug 2023 15:01:15 +0000",
+         "title" : "BCC 2023 commentary on YouTube"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102655005.cms\" />The young and talented Grandmaster R Praggnanandhaa secured a remarkable victory by winning both rapid games, resulting in the elimination of the second-seeded Hikaru Nakamura on Friday. This victory propelled Praggnanandhaa into the last 16 of the FIDE World Cup chess tournament in Baku.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-r-praggnanandhaa-stuns-no-2-seed-hikaru-nakamura-to-enter-last-16/articleshow/102655005.cms",
+         "pubDate" : "Fri, 11 Aug 2023 14:56:21 +0000",
+         "title" : "World Cup: Praggnanandhaa stuns Nakamura to enter last 16"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2572",
+         "pubDate" : "Fri, 11 Aug 2023 13:39:40 +0000",
+         "title" : "FIDE against sexism and sexual abuse in chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2571",
+         "pubDate" : "Fri, 11 Aug 2023 11:51:24 +0000",
+         "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Free accommodation available"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1480,30 +1520,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/off-mark.html",
          "pubDate" : "Fri, 21 Jul 2023 22:55:00 +0000",
          "title" : "Off the mark"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102020438.cms\" />There's good news for the Bengal chess fraternity as the state's two Grandmasters ended on podiums in European tournaments. While GM Surya Sekhar Ganguly ended second at the La Plagne International Open in France, GM Deep Sengupta claimed the Warsaw International chess festival this week. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gms-surya-sekhar-ganguly-and-deep-sengupta-excel-in-european-tournaments/articleshow/102020438.cms",
-         "pubDate" : "Fri, 21 Jul 2023 14:16:22 +0000",
-         "title" : "Bengal GMs Surya Sekhar and Deep excel in European tournaments"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2535",
-         "pubDate" : "Fri, 21 Jul 2023 12:34:58 +0000",
-         "title" : "FIDE delegation visits China Qiyuan Hangzhou Branch"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2537",
-         "pubDate" : "Fri, 21 Jul 2023 12:30:25 +0000",
-         "title" : "WWC Match 2023: Everything hangs on the final game"
       }
    ]
 }
