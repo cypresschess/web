@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Fri, 11 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "It can be very challenging to recognize one's mistakes much less own up to them with objectivity. We wiggle and we squirm as we seek to place the blame on outside factors, so imagine what it is like if you are asked to explain your 'crushing defeat' in front of a large audience. This is what happened to Mikhail Tal, but don't miss his priceless reply!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/I-was-winning",
+         "pubDate" : "Fri, 11 Aug 2023 11:00:00 +0100",
+         "title" : "\"I was winning!\""
+      },
+      {
+         "description" : "Please find the selected persons for subject seminar and considering the numbers, there will be two separate batches that will undergo the seminar and examination on the same dates. You",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-2023-at-bangalore/",
+         "pubDate" : "Fri, 11 Aug 2023 08:56:32 +0000",
+         "title" : "Senior National Arbiter Seminar 2023 at Bangalore"
+      },
+      {
          "description" : " No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but ground his way to 62-move victory in second Magnus Carlsen, Norway's world No 1, faces a speed tiebreak at midday on Friday as his mini-match against Germany's Vincent Keymer, 18, is tied at 1-1 after two epic endgames at the $1.8m World Cup in Baku, Azerbaijan. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters have seized one of their few opportunities to upstage the elite who monopolise the richly rewarded invitation tournaments. <a href=\"https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup\">Continue readi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -514,6 +538,14 @@ news_feed (
          "title" : "Teachers and Learners"
       },
       {
+         "description" : "After so many years of the series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I sometimes can't be sure whether I've already featured an item or not. The item in the image below is a good example. <P> Titled 'Charming Vienna Bronze two Dachshunds playing chess at a table', it apparently sold for $425.00. Ebay has changed the look of its auctions since I last posted about 'Top Chess Items' and I'm not sure how to interpret the info correctly. The index of items returned said, <BLOCKQUOTE> 1 bid<BR> Best offer accepted </BLOCKQUOTE> <P> The auction itself said, <BLOCKQUOTE> 1 bid<BR> Ended 08/02, 11:0",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html",
+         "pubDate" : "Sun, 06 Aug 2023 15:45:00 +0000",
+         "title" : "Dachshunds Play Chess"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes another look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -834,14 +866,6 @@ news_feed (
          "title" : "QTCinderella Breaks Records, xQc Makes No Mistakes"
       },
       {
-         "description" : "Magnus Carlsen, Fabiano Caruana, Ian Nepomniachtchi and Dommaraju Gukesh were the highest-rated players to start their participation at the FIDE World Cup with victories. Gukesh's win prompted him to join the world's top 10 in the live ratings list, while Praggnanandhaa and Wei Yi scored brilliant wins. In the women's section, more than half the games ended decisively, as most favourites failed to get more than half points in the first confrontations of round 2. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r2-d1",
-         "pubDate" : "Thu, 03 Aug 2023 01:10:00 +0100",
-         "title" : "World Cup: Shankland blunders, Gukesh enters world's top 10"
-      },
-      {
          "description" : " In a hall of great splendor, players from 86 countries have trekked to Baku, Azerbaijan for the 2023 FIDE World Cup. A total of 206 players assembled for the open section and 103 for the women's section are competing for a record prize fund and three spots for the Candidates Tournament. Starting with the 2021 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/02/2023-fide-world-cup-round-1/\">2023 FIDE World Cup: Round 1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -864,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2557",
          "pubDate" : "Wed, 02 Aug 2023 19:44:26 +0000",
          "title" : "FIDE World Cup 2023 Round 2 Day 1: A lot of draws as top seeds enter the race"
-      },
-      {
-         "description" : "ChessBase Magazine Extra is the ideal addition to ChessBase Magazine for all ambitious chess players who want to know more than their opponents. In the new issue, for example, the up-and-coming Indian grandmaster Leon Mendonca shows a tricky variation in the Queen's Gambit Declined (from White's point of view), while Romain Edouard continues his video course on the Dragon Variation, and Anish Giri comments on a brilliant game of his own. Plus much more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/neu-extra-214",
-         "pubDate" : "Wed, 02 Aug 2023 20:00:00 +0100",
-         "title" : "New: Extra 214"
       },
       {
          "description" : "With a rating of only 1845, 17-year-old Velpula Sarayu from India scored one of the most sensational results in chess history, defeating masters rated more than 600 points higher. Teenagers such as GM Dommaraju Gukesh, GM Arjun Erigaisi, GM Prag...",
@@ -1488,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2537",
          "pubDate" : "Fri, 21 Jul 2023 12:30:25 +0000",
          "title" : "WWC Match 2023: Everything hangs on the final game"
-      },
-      {
-         "description" : "European Senior Team Chess Championship 2023 concluded yesterday in the city of Swidnica, Poland, after the intense last round which determined the Winners in both 50+ and 65+ categories. Scoring all victories and perfect 16 match points, the teams of England 1 and Slovakia tied for first place in the 50+ section before the final round. The direct encounter between the leading duo was scheduled for round 9 and finished after the thrilling fight. England prevailed with a narrow 2.5-1.5 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-champions-crowned-in-poland/",
-         "pubDate" : "Fri, 21 Jul 2023 08:55:07 +0000",
-         "title" : "European Senior Team Chess Champions crowned in Poland"
       }
    ]
 }
