@@ -2,7 +2,79 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Aleksandra Goryachkina Harika Dronavalli is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
+         "description" : "One day after turning 18 years old, Praggnanandhaa Rameshbabu got to knock Hikaru Nakamura out of the FIDE World Cup. Other players who advanced to the round-of-16 by winning Friday's tiebreakers were Magnus Carlsen, Ian Nepomniachtchi and fan favourite Vasyl Ivanchuk. In the women's section, Elisabeth Paehtz left world champion Ju Wenjun out of contention. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r4-d3",
+         "pubDate" : "Fri, 11 Aug 2023 23:10:00 +0100",
+         "title" : "World Cup: Pragg bests Naka, Carlsen to face Ivanchuk"
+      },
+      {
+         "description" : "Ferenc Berkes Praggnanandhaa R is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ferenc-berkes-praggnanandhaa-r-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 19:56:34 +0000",
+         "title" : "Ferenc Berkes - Praggnanandhaa R, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Erigaisi Arjun Nils Grandelius is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/erigaisi-arjun-nils-grandelius-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 19:54:08 +0000",
+         "title" : "Erigaisi Arjun - Nils Grandelius, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2573",
+         "pubDate" : "Fri, 11 Aug 2023 19:49:27 +0000",
+         "title" : "World Cup Round 4 Tiebreaks: Hikaru Nakamura and Ju Wenjun are out"
+      },
+      {
+         "description" : "Magnus Carlsen -Vasyl Ivanchuk is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vasyl-ivanchuk-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 19:38:44 +0000",
+         "title" : "Magnus Carlsen -Vasyl Ivanchuk, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Hao Wang D Gukesh is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hao-wang-d-gukesh-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 19:16:00 +0000",
+         "title" : "Hao Wang - D Gukesh, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Nijat Abasov A.R. Saleh Salem is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nijat-abasov-a-r-saleh-salem-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 19:00:00 +0000",
+         "title" : "Nijat Abasov - A.R. Saleh Salem, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Fabiano Caruana Jan-Krzysztof Duda is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-jan-krzysztof-duda-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 18:47:00 +0000",
+         "title" : "Fabiano Caruana - Jan-Krzysztof Duda, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Santosh Gujrathi Vidit Ian Nepomniachtchi is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/santosh-gujrathi-vidit-ian-nepomniachtchi-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 18:44:00 +0000",
+         "title" : "Santosh Gujrathi Vidit - Ian Nepomniachtchi, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Aleksandra Goryachkina Harika Dronavalli is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli FIDE World Cup round 1/8 : []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/aleksandra-goryachkina-harika-dronavalli-fide-womens-world-cup-2023-1-4-final-live/",
@@ -10,7 +82,15 @@ news_feed (
          "title" : "Aleksandra Goryachkina - Harika Dronavalli, FIDE Women's World Cup 2023 1/4 final - LIVE"
       },
       {
-         "description" : "Zhongyi Tan Bella Khotenashvili is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
+         "description" : "Leinier Dominguez Perez Alexey Sarana is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/leinier-dominguez-perez-alexey-sarana-fide-world-cup-2023-1-8-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 18:09:00 +0000",
+         "title" : "Leinier Dominguez Perez - Alexey Sarana, FIDE World Cup 2023 1/8 final - LIVE"
+      },
+      {
+         "description" : "Zhongyi Tan Bella Khotenashvili is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli FIDE World Cup round 1/8 : []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/zhongyi-tan-bella-khotenashvili-fide-womens-world-cup-2023-1-4-final-live/",
@@ -24,22 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-in-the-catalan",
          "pubDate" : "Fri, 11 Aug 2023 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A model game in the Catalan"
-      },
-      {
-         "description" : "Polina Shuvalova Nurgyul Salimova is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polina-shuvalova-nurgyul-salimova-fide-womens-world-cup-2023-1-4-final-live/",
-         "pubDate" : "Fri, 11 Aug 2023 16:16:00 +0000",
-         "title" : "Polina Shuvalova - Nurgyul Salimova, FIDE Women's World Cup 2023 1/4 final - LIVE"
-      },
-      {
-         "description" : "Elisabeth Paehtz Anna Muzychuk is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elisabeth-paehtz-anna-muzychuk-fide-womens-world-cup-2023-1-4-final-live/",
-         "pubDate" : "Fri, 11 Aug 2023 15:56:00 +0000",
-         "title" : "Elisabeth Paehtz - Anna Muzychuk, FIDE Women's World Cup 2023 1/4 final - LIVE"
       },
       {
          "description" : "The 2023 English Women's Online Blitz Championship is now in progress with qualifiers complete and the finals starting at 3.00pm on Saturday 12th August. The...",
@@ -82,14 +146,6 @@ news_feed (
          "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Free accommodation available"
       },
       {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Fri, 11 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
-      },
-      {
          "description" : "It can be very challenging to recognize one's mistakes much less own up to them with objectivity. We wiggle and we squirm as we seek to place the blame on outside factors, so imagine what it is like if you are asked to explain your 'crushing defeat' in front of a large audience. This is what happened to Mikhail Tal, but don't miss his priceless reply!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,12 +162,12 @@ news_feed (
          "title" : "Senior National Arbiter Seminar 2023 at Bangalore"
       },
       {
-         "description" : " No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but ground his way to 62-move victory in second , and finally won 3.5-2.5 after speed tiebreaks Magnus Carlsen, Norway's world No 1, edged into the last 16 at the $1.8m World Cup in Baku, Azerbaijan, on Friday with a 3.5-2.5 margin over Germany's Vincent Keymer, 18, who scored a shock win in the opening game. Their tiebreak took four hours to resolve, as Keymer put up tough resistance, while Carlsen missed wins in three epic endgames. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters seized one of their few opportunities to upstage the elite who monopolise the richly rewarde",
+         "description" : " World No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but finally won 3.5-2.5 after speed tiebreaks Magnus Carlsen, Norway's world No 1, edged into the last 16 at the $1.8m World Cup in Baku, Azerbaijan, on Friday with a 3.5-2.5 margin over Germany's Vincent Keymer, 18, who scored a shock win in the opening game. Their tiebreak took four hours to resolve, as Keymer put up tough resistance, while Carlsen missed wins in three epic endgames. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters seized one of their few opportunities to upstage the elite who monopolise the richly rewarded invitation tournaments. <a href=\"https://w",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup",
          "pubDate" : "Fri, 11 Aug 2023 07:00:31 +0000",
-         "title" : "Chess: Magnus Carlsen escapes from the brink of defeat at the World Cup"
+         "title" : "Chess: Magnus Carlsen escapes after flirting with defeat at World Cup"
       },
       {
          "description" : "World number-one Magnus Carlsen won on demand to keep his 2023 FIDE World Cup hopes alive despite gifting GM Vincent Keymer a huge chance to seal their match. GM Wesley So is out after failing to mount a comeback against GM Alexey Sarana, while GM...",
@@ -282,30 +338,6 @@ news_feed (
          "title" : "Notice:National Under 07 Chess Championship 2023"
       },
       {
-         "description" : "Hikaru Nakamura Praggnanandhaa R is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-praggnanandhaa-r-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 11:42:00 +0000",
-         "title" : "Hikaru Nakamura - Praggnanandhaa R, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Ruslan Ponomariov Ferenc Berkes is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ruslan-ponomariov-ferenc-berkes-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 10:57:00 +0000",
-         "title" : "Ruslan Ponomariov - Ferenc Berkes, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Erigaisi Arjun Javokhir Sindarov is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/erigaisi-arjun-javokhir-sindarov-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 10:35:00 +0000",
-         "title" : "Erigaisi Arjun - Javokhir Sindarov, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -320,30 +352,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2023/",
          "pubDate" : "Wed, 09 Aug 2023 09:45:52 +0000",
          "title" : "Premier League Fantasy Football 2023"
-      },
-      {
-         "description" : "Nils Grandelius Jaime Santos Latasa is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nils-grandelius-jaime-santos-latasa-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 09:12:00 +0000",
-         "title" : "Nils Grandelius - Jaime Santos Latasa, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Wesley So Alexey Sarana is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-alexey-sarana-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 08:09:00 +0000",
-         "title" : "Wesley So - Alexey Sarana, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Radoslaw Wojtaszek Leinier Dominguez Perez is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/radoslaw-wojtaszek-leinier-dominguez-perez-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 07:28:00 +0000",
-         "title" : "Radoslaw Wojtaszek - Leinier Dominguez Perez, FIDE World Cup 2023 round 4 - LIVE"
       },
       {
          "description" : "The wait is finally over&#38;mdash;we finally know the pairings of the live in-person Finals of PogChamps 5. QTCinderella and Wirtual are the Consolation Bracket finalists, having defeated Daily Dose of Internet and Squeex. In the Championship Brack...",
@@ -1512,14 +1520,6 @@ news_feed (
          "link" : "https://aicf.in/seven-gold-for-india-in-asian-school-chess-championships/",
          "pubDate" : "Sat, 22 Jul 2023 04:46:11 +0000",
          "title" : "Seven Gold for India in Asian School Chess Championships"
-      },
-      {
-         "description" : " International Arbiter Lee Forace is organising a new round robin event in Canberra. With the support of Looking for Gamers (located at Kambah Village), the 10 player round robin has attracted a field of players rated between 1600 and 2300. The other point of interest is the international nature of the field, with 4 federations represented (Australia, Italy, Libya, and Papua New Guinea). I'm seeded 5th in the event, and started the tournament with a win over Jordan Brown. He probably missed a couple of chances to equalise in the opening (and I did not play it as well as I should), but I was able to build up a space advantage. When he tried to activate his pieces, it created a couple of other",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/off-mark.html",
-         "pubDate" : "Fri, 21 Jul 2023 22:55:00 +0000",
-         "title" : "Off the mark"
       }
    ]
 }
