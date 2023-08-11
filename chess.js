@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Aleksandra Goryachkina Harika Dronavalli is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-harika-dronavalli-fide-womens-world-cup-2023-1-4-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 18:09:46 +0000",
+         "title" : "Aleksandra Goryachkina - Harika Dronavalli, FIDE Women's World Cup 2023 1/4 final - LIVE"
+      },
+      {
+         "description" : "Zhongyi Tan Bella Khotenashvili is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhongyi-tan-bella-khotenashvili-fide-womens-world-cup-2023-1-4-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 17:03:00 +0000",
+         "title" : "Zhongyi Tan - Bella Khotenashvili, FIDE Women's World Cup 2023 1/4 final - LIVE"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris looks at a model game in the Catalan, which Hakobyan and Bok played at the Summer Chess Classic-A 2023 in Saint Louis. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-in-the-catalan",
+         "pubDate" : "Fri, 11 Aug 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A model game in the Catalan"
+      },
+      {
+         "description" : "Polina Shuvalova Nurgyul Salimova is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polina-shuvalova-nurgyul-salimova-fide-womens-world-cup-2023-1-4-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 16:16:00 +0000",
+         "title" : "Polina Shuvalova - Nurgyul Salimova, FIDE Women's World Cup 2023 1/4 final - LIVE"
+      },
+      {
+         "description" : "Elisabeth Paehtz Anna Muzychuk is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli The 2023 FIDE World Cup is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elisabeth-paehtz-anna-muzychuk-fide-womens-world-cup-2023-1-4-final-live/",
+         "pubDate" : "Fri, 11 Aug 2023 15:56:00 +0000",
+         "title" : "Elisabeth Paehtz - Anna Muzychuk, FIDE Women's World Cup 2023 1/4 final - LIVE"
+      },
+      {
          "description" : "The 2023 English Women's Online Blitz Championship is now in progress with qualifiers complete and the finals starting at 3.00pm on Saturday 12th August. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -66,7 +106,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar 2023 at Bangalore"
       },
       {
-         "description" : " No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but ground his way to 62-move victory in second Magnus Carlsen, Norway's world No 1, faces a speed tiebreak at midday on Friday as his mini-match against Germany's Vincent Keymer, 18, is tied at 1-1 after two epic endgames at the $1.8m World Cup in Baku, Azerbaijan. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters have seized one of their few opportunities to upstage the elite who monopolise the richly rewarded invitation tournaments. <a href=\"https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup\">Continue readi",
+         "description" : " No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but ground his way to 62-move victory in second , and finally won 3.5-2.5 after speed tiebreaks Magnus Carlsen, Norway's world No 1, edged into the last 16 at the $1.8m World Cup in Baku, Azerbaijan, on Friday with a 3.5-2.5 margin over Germany's Vincent Keymer, 18, who scored a shock win in the opening game. Their tiebreak took four hours to resolve, as Keymer put up tough resistance, while Carlsen missed wins in three epic endgames. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters seized one of their few opportunities to upstage the elite who monopolise the richly rewarde",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup",
@@ -304,38 +344,6 @@ news_feed (
          "link" : "https://www.chessdom.com/radoslaw-wojtaszek-leinier-dominguez-perez-fide-world-cup-2023-round-4-live/",
          "pubDate" : "Wed, 09 Aug 2023 07:28:00 +0000",
          "title" : "Radoslaw Wojtaszek - Leinier Dominguez Perez, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Parham Maghsoodloo Jan-Krzysztof Duda is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/parham-maghsoodloo-jan-krzysztof-duda-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 07:11:00 +0000",
-         "title" : "Parham Maghsoodloo - Jan-Krzysztof Duda, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Ray Robson Fabiano Caruana is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ray-robson-fabiano-caruana-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 06:48:00 +0000",
-         "title" : "Ray Robson - Fabiano Caruana, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Ian Nepomniachtchi Nihal Sarin is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-nihal-sarin-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 06:13:00 +0000",
-         "title" : "Ian Nepomniachtchi - Nihal Sarin, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Etienne Bacrot Santosh Gujrathi Vidit is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/etienne-bacrot-santosh-gujrathi-vidit-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Wed, 09 Aug 2023 05:54:00 +0000",
-         "title" : "Etienne Bacrot - Santosh Gujrathi Vidit, FIDE World Cup 2023 round 4 - LIVE"
       },
       {
          "description" : "The wait is finally over&#38;mdash;we finally know the pairings of the live in-person Finals of PogChamps 5. QTCinderella and Wirtual are the Consolation Bracket finalists, having defeated Daily Dose of Internet and Squeex. In the Championship Brack...",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
          "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
          "title" : "2023 World Cup"
-      },
-      {
-         "description" : "Gukesh is one of the most promising youngsters in the world of chess. He is no longer just a talent, but has confidently marched to the very top of the chess world, where he is currently ranked no. 11, with an Elo of 2751. In March 2023, Gukesh visited the ChessBase India studio in Mumbai and together with IM Sagar Shah they recorded a video course on how to attack like a super GM. The video course was well received - here are some reviews, from a strong IM to an unrated player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-fritztrainer-first-reviews-2",
-         "pubDate" : "Thu, 03 Aug 2023 09:32:56 +0100",
-         "title" : "Gukesh Fritztrainer: first reviews"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102376128.cms\" />The battle of wits between two Asian women chess champions in the first game of second round in the FIDE World Cup ended in a draw in Baku, Azerbaijan, on Wednesday.",
