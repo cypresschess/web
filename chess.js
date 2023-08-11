@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but ground his way to 62-move victory in second Magnus Carlsen, Norway's world No 1, faces a speed tiebreak at midday on Friday as his mini-match against Germany's Vincent Keymer, 18, is tied at 1-1 after two epic endgames at the $1.8m World Cup in Baku, Azerbaijan. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters have seized one of their few opportunities to upstage the elite who monopolise the richly rewarded invitation tournaments. <a href=\"https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup\">Continue readi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup",
+         "pubDate" : "Fri, 11 Aug 2023 07:00:31 +0000",
+         "title" : "Chess: Magnus Carlsen escapes from the brink of defeat at the World Cup"
+      },
+      {
          "description" : "World number-one Magnus Carlsen won on demand to keep his 2023 FIDE World Cup hopes alive despite gifting GM Vincent Keymer a huge chance to seal their match. GM Wesley So is out after failing to mount a comeback against GM Alexey Sarana, while GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/aleksandar-matanovic-1930-2023",
-         "pubDate" : "Thu, 10 Aug 2023 08:31:33 -0700",
+         "pubDate" : "Thu, 10 Aug 2023 08:31:00 -0700",
          "title" : "Aleksandar Matanovic (1930-2023)"
       },
       {
@@ -170,6 +178,30 @@ news_feed (
          "title" : "Notice:National Under 07 Chess Championship 2023"
       },
       {
+         "description" : "Hikaru Nakamura Praggnanandhaa R is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-praggnanandhaa-r-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 11:42:00 +0000",
+         "title" : "Hikaru Nakamura - Praggnanandhaa R, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Ruslan Ponomariov Ferenc Berkes is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ruslan-ponomariov-ferenc-berkes-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 10:57:00 +0000",
+         "title" : "Ruslan Ponomariov - Ferenc Berkes, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Erigaisi Arjun Javokhir Sindarov is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/erigaisi-arjun-javokhir-sindarov-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 10:35:00 +0000",
+         "title" : "Erigaisi Arjun - Javokhir Sindarov, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -184,6 +216,62 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2023/",
          "pubDate" : "Wed, 09 Aug 2023 09:45:52 +0000",
          "title" : "Premier League Fantasy Football 2023"
+      },
+      {
+         "description" : "Nils Grandelius Jaime Santos Latasa is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nils-grandelius-jaime-santos-latasa-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 09:12:00 +0000",
+         "title" : "Nils Grandelius - Jaime Santos Latasa, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Wesley So Alexey Sarana is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-alexey-sarana-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 08:09:00 +0000",
+         "title" : "Wesley So - Alexey Sarana, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Radoslaw Wojtaszek Leinier Dominguez Perez is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/radoslaw-wojtaszek-leinier-dominguez-perez-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 07:28:00 +0000",
+         "title" : "Radoslaw Wojtaszek - Leinier Dominguez Perez, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Parham Maghsoodloo Jan-Krzysztof Duda is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/parham-maghsoodloo-jan-krzysztof-duda-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 07:11:00 +0000",
+         "title" : "Parham Maghsoodloo - Jan-Krzysztof Duda, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Ray Robson Fabiano Caruana is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ray-robson-fabiano-caruana-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 06:48:00 +0000",
+         "title" : "Ray Robson - Fabiano Caruana, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Ian Nepomniachtchi Nihal Sarin is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. Saleh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-nihal-sarin-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 06:13:00 +0000",
+         "title" : "Ian Nepomniachtchi - Nihal Sarin, FIDE World Cup 2023 round 4 - LIVE"
+      },
+      {
+         "description" : "Etienne Bacrot Santosh Gujrathi Vidit is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap Sanal / Rasmus Svane &#x2013; Hao Wang / Andrey Esipenko D Gukesh / Nijat Abasov Peter Svidler / A.R. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/etienne-bacrot-santosh-gujrathi-vidit-fide-world-cup-2023-round-4-live/",
+         "pubDate" : "Wed, 09 Aug 2023 05:54:00 +0000",
+         "title" : "Etienne Bacrot - Santosh Gujrathi Vidit, FIDE World Cup 2023 round 4 - LIVE"
       },
       {
          "description" : "The wait is finally over&#38;mdash;we finally know the pairings of the live in-person Finals of PogChamps 5. QTCinderella and Wirtual are the Consolation Bracket finalists, having defeated Daily Dose of Internet and Squeex. In the Championship Brack...",
@@ -306,92 +394,12 @@ news_feed (
          "title" : "Istanbul ENKA High School (Turkey) and Velammal MHS Mogappair (India) win FIDE World Schools Team Championship"
       },
       {
-         "description" : "Magnus Carlsen Vincent Keymer is a game from round 4 of 2023 FIDE World Cup. The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap SanalThe 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vincent-keymer-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 22:21:37 +0000",
-         "title" : "Magnus Carlsen - Vincent Keymer, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Vasyl Ivanchuk Vahap Sanal is a game from round 4 of 2023 FIDE World Cup.The other games from round 4 are : Magnus Carlsen Vincent Keymer / Vasyl Ivanchuk Vahap SanalThe 2023 FIDE World Cup is a 206-player knockout taking place in Baku, Azerbaijan from July 30 to August 24. The prize []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vasyl-ivanchuk-vahap-sanal-fide-world-cup-2023-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 22:05:00 +0000",
-         "title" : "Vasyl Ivanchuk - Vahap Sanal, FIDE World Cup 2023 round 4 - LIVE"
-      },
-      {
-         "description" : "Nino Batsiashvili Aleksandra Goryachkina is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nino-batsiashvili-aleksandra-goryachkina-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 22:00:05 +0000",
-         "title" : "Nino Batsiashvili - Aleksandra Goryachkina, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
-         "description" : "Wenjun Ju Elisabeth Paehtz is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wenjun-ju-elisabeth-paehtz-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 21:37:51 +0000",
-         "title" : "Wenjun Ju - Elisabeth Paehtz, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
-         "description" : "Jiner Zhu Zhongyi Tan is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jiner-zhu-zhongyi-tan-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 20:52:00 +0000",
-         "title" : "Jiner Zhu - Zhongyi Tan, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
-         "description" : "Eline Roebers Harika Dronavalli is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/eline-roebers-harika-dronavalli-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 20:35:00 +0000",
-         "title" : "Eline Roebers - Harika Dronavalli, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
-         "description" : "Humpy Koneru Bella Khotenashvili is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/humpy-koneru-bella-khotenashvili-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 20:17:00 +0000",
-         "title" : "Humpy Koneru - Bella Khotenashvili, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
-         "description" : "Nurgyul Salimova Medina Warda Aulia is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nurgyul-salimova-medina-warda-aulia-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 19:57:00 +0000",
-         "title" : "Nurgyul Salimova - Medina Warda Aulia, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2565",
          "pubDate" : "Mon, 07 Aug 2023 19:47:11 +0000",
          "title" : "FIDE World Cup Round 3 Tiebreaks: A day of the underdogs"
-      },
-      {
-         "description" : "Teodora Injac Polina Shuvalova is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/teodora-injac-polina-shuvalova-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 19:38:00 +0000",
-         "title" : "Teodora Injac - Polina Shuvalova, FIDE Women's World Cup round 4 - LIVE"
-      },
-      {
-         "description" : "Anna Muzychuk Mariya Muzychuk is a game from round 4 of 2023 FIDE Women's World Cup.The other games from round 4 are : Wenjun Ju &#x2013; Elisabeth Paehtz / Anna Muzychuk &#x2013; Mariya Muzychuk / Teodora Injac &#x2013; Polina Shuvalova / Nurgyul Salimova &#x2013; Medina Warda Aulia / Humpy Koneru Bella Khotenashvili / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-muzychuk-mariya-muzychuk-fide-womens-world-cup-round-4-live/",
-         "pubDate" : "Mon, 07 Aug 2023 19:19:00 +0000",
-         "title" : "Anna Muzychuk - Mariya Muzychuk, FIDE Women's World Cup round 4 - LIVE"
       },
       {
          "description" : " Today saw the North Canberra Secondary Zone event for 2023. This followed on from the South Canberra Zone held earlier in the year. The event was won by Radford College with 23.5/28, half a point ahead of the Lyneham High No. 1 team. The 3rd place team was the Lyneham High No 2 team. The most remarkable thing about todays event was that there were 170 players taking part, which I believe is the largest school event ever held in Canberra. With the South Canberra Zone attracting 91 players, this is almost 1% of the total secondary school enrolment playing in this years interschool event. The other important fact to note was the number of high-ish rated players taking part. The top 10 seeds we",
