@@ -266,7 +266,7 @@ news_feed (
          "title" : "Stalemate"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from TBD, Before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrap",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-ultimate-moves",
