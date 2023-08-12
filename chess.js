@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this typical gambit position White must prove that his development advantage and pressure on the queenside are worth two pawns. He has only one convincing move - can you find it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/catalan-compensation",
+         "pubDate" : "Sat, 12 Aug 2023 09:00:00 +0100",
+         "title" : "Catalan compensation"
+      },
+      {
          "description" : "World number-two GM Hikaru Nakamura is out of the 2023 FIDE World Cup after losing to GM Praggnanandhaa Rameshbabu in round four tiebreaks. The event is also over for Women&#39;s World Champion GM Ju Wenjun after she missed a trick against GM Elisabet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -858,14 +866,6 @@ news_feed (
          "title" : "Mamedyarov, Abdusattorov, Shankland Crash Out Of World Cup"
       },
       {
-         "description" : "Howard Staunton (April 1819 - June 22, 1874) stands as a controversial figure in chess. Not only did he establish himself as the strongest player in the 1840s, but also elevated the comprehension of the game as the most prominent analyst and author of his generation. His influence as a player and organizer contributed to the standardization of the chess pieces and to the development of international competition. Yet, he was also a complex character who made foes out of his competitors and friends alike. | Picture source: World Chess Hall of Fame.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament",
-         "pubDate" : "Thu, 03 Aug 2023 22:25:32 +0100",
-         "title" : "Remembering Howard Staunton on the 172nd Anniversary of the Great London 1851 Tournament"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1496,30 +1496,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/womens-world-chess-championship-2023",
          "pubDate" : "Sat, 22 Jul 2023 12:29:00 +0400",
          "title" : "Women's World Chess Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "The ready availability of social platforms on which to disclose historical impropriety and especially, behaviour of sexual control, abuse and cover up, has quite properly led of late, to a healthy sub-culture of identification disclosure. Such a feed is hungrily foraged by the voracious news industry and duly despatched to our desks, mobiles or other platform of choice. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/dedecus-et-tutamen-how-british-chess-protected-a-paedophile/",
-         "pubDate" : "Sat, 22 Jul 2023 07:26:41 +0000",
-         "title" : "'Dedecus et Tutamen': how British chess protected a paedophile"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102034046.cms\" />D Gukesh of Chennai touched Elo 2750 with two wins in the last two rounds of Turkish League on Thursday. With that, he broke Magnus Carlsen's record of being the youngest to touch this level of FIDE rating.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-d-gukesh-beats-magnus-carlsens-feat-of-youngest-to-reach-elo-2750/articleshow/102034046.cms",
-         "pubDate" : "Sat, 22 Jul 2023 07:17:31 +0000",
-         "title" : "Gukesh beats Carlsen's feat of youngest to reach Elo 2750"
-      },
-      {
-         "description" : "India secured a total of 13 Medals which includes 7 Gold in the in the recently concluded Asian School Chess Championships-2023 at Tashkent, Uzbekistan. Delhi",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/seven-gold-for-india-in-asian-school-chess-championships/",
-         "pubDate" : "Sat, 22 Jul 2023 04:46:11 +0000",
-         "title" : "Seven Gold for India in Asian School Chess Championships"
       }
    ]
 }
