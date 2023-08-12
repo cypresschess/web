@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2023-08-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202308112602 target='_blank'>FBCC 2023 BACK TO SCHOOL OPEN</a>",
+"HOUSTON","2023-08-11","22","<a href=http://www.uschess.org/msa/XtblMain.php?202308112592 target='_blank'>REBECCA CHESS CLUB QUADS AUGUST 11, 2023</a>",
 "HOUSTON","2023-08-04  - 08-06","46","<a href=http://www.uschess.org/msa/XtblMain.php?202308060152 target='_blank'>$2500AUGUSTCHAMPIONSHIP</a>",
 "HOUSTON","2023-08-05","5","<a href=http://www.uschess.org/msa/XtblMain.php?202308059362 target='_blank'>CHESSPANDA08052023SATURDAY</a>",
 "SPRING","2023-08-04","28","<a href=http://www.uschess.org/msa/XtblMain.php?202308049342 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-01-07","98","<a href=http://www.uschess.org/msa/XtblMain.php?202301079102 target='_blank'>TCR: HOUSTON WINTER SCHOLASTIC 2023</a>",
 "SPRING","2023-01-06","26","<a href=http://www.uschess.org/msa/XtblMain.php?202301068792 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-01-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202301068772 target='_blank'>FBCC 2023 HOWDY 2023</a>",
-"CYPRESS","2023-01-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202301068742 target='_blank'>KOC01062023</a>",
-"SPRING","2022-12-30","29","<a href=http://www.uschess.org/msa/XtblMain.php?202212306612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
