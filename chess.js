@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World number-two GM Hikaru Nakamura is out of the 2023 FIDE World Cup after losing to GM Praggnanandhaa Rameshbabu in round four tiebreaks. The event is also over for Women&#39;s World Champion GM Ju Wenjun after she missed a trick against GM Elisabet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-3",
+         "pubDate" : "Fri, 11 Aug 2023 17:37:00 -0700",
+         "title" : "18-Year-Old Praggnanandhaa Knocks Nakamura Out Of World Cup"
+      },
+      {
+         "description" : "During the FIDE World Cup, Magnus Carlsen and Humpy Koneru fought back brilliantly, and moved to the tiebreaks instead of taking the next flight home. How do world-class players actually manage to achieve such great comebacks? Svitlana shows us the three golden rules of how you can strike back in a \"must-win\" situation!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-develop-a-winning-mindset-like-carlsen-or-koneru",
+         "pubDate" : "Sat, 12 Aug 2023 01:30:00 +0100",
+         "title" : "Svitlana's Smart Moves - Develop a winning mindset like Carlsen or Koneru"
+      },
+      {
          "description" : "One day after turning 18 years old, Praggnanandhaa Rameshbabu got to knock Hikaru Nakamura out of the FIDE World Cup. Other players who advanced to the round-of-16 by winning Friday's tiebreakers were Magnus Carlsen, Ian Nepomniachtchi and fan favourite Vasyl Ivanchuk. In the women's section, Elisabeth Paehtz left world champion Ju Wenjun out of contention. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,6 +106,14 @@ news_feed (
          "title" : "Leinier Dominguez Perez - Alexey Sarana, FIDE World Cup 2023 1/8 final - LIVE"
       },
       {
+         "description" : "It can be very challenging to recognize one's mistakes much less own up to them with objectivity. We wiggle and we squirm as we seek to place the blame on outside factors, so imagine what it is like if you are asked to explain your 'crushing defeat' in front of a large audience. This is what happened to Mikhail Tal, but don't miss his priceless reply!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/I-was-winning",
+         "pubDate" : "Fri, 11 Aug 2023 18:05:00 +0100",
+         "title" : "\"I was winning!\""
+      },
+      {
          "description" : "Zhongyi Tan Bella Khotenashvili is a 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of the tournament are : Elisabeth Paehtz Anna Muzychuk / Polina Shuvalova Nurgyul Salimova / Zhongyi Tan Bella Khotenashvili / Aleksandra Goryachkina Harika Dronavalli FIDE World Cup round 1/8 : []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2571",
          "pubDate" : "Fri, 11 Aug 2023 11:51:24 +0000",
          "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Free accommodation available"
-      },
-      {
-         "description" : "It can be very challenging to recognize one's mistakes much less own up to them with objectivity. We wiggle and we squirm as we seek to place the blame on outside factors, so imagine what it is like if you are asked to explain your 'crushing defeat' in front of a large audience. This is what happened to Mikhail Tal, but don't miss his priceless reply!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/I-was-winning",
-         "pubDate" : "Fri, 11 Aug 2023 11:00:00 +0100",
-         "title" : "\"I was winning!\""
       },
       {
          "description" : "Please find the selected persons for subject seminar and considering the numbers, there will be two separate batches that will undergo the seminar and examination on the same dates. You",
@@ -882,14 +898,6 @@ news_feed (
          "title" : "Gukesh overtakes Anand to become highest Indian in FIDE rankings"
       },
       {
-         "description" : "The Bundesliga is one of the strongest team tournaments in the world. Next season, it will be even stronger: Hikaru Nakamura, popular streamer and current world number two, will try to help SC Viernheim beat perennial champion Baden-Baden and become German team champion in 2023/2024. | Photo: Stev Bonhage/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hikaru-nakamura-will-play-in-the-german-bundesliga",
-         "pubDate" : "Thu, 03 Aug 2023 14:43:54 +0100",
-         "title" : "Hikaru Nakamura will play in the German Bundesliga"
-      },
-      {
          "description" : " The 2023 World Cup is underway in Baku. Australia started with 4 representatives (2 from the Oceania Zonal and 2 qualifying from the Olympiad), although that number dropped to 2 after Round 1. GM Bobby Cheng drew his round 1 match 1-1, but lost the playoff, while WGM Jillin Zhang went out in regulation. GM Temur Kuybokarov won his round 1 match, but is already down 1 game against Yu Yangi. He needs to win the 2nd game to send the match into overtime, but as I type this, he stands slightly worse going into the ending. Julia Ryjanova is holding her own in her round 2 match against higher rated Zhongyi Tan, having drawn the first game, and looking OK in a sharp position in the 2nd game. Of cou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
          "pubDate" : "Tue, 01 Aug 2023 17:30:27 +0000",
          "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition"
-      },
-      {
-         "description" : "Every month, there is a renaissance of sorts on Chess.com, when we release our new bots. Is chess an art? It will be when you play this month&#39;s artist bots! So grab a refreshment (a slice of pizza, perhaps?), take a seat on your art stool, and p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/artist-bots",
-         "pubDate" : "Tue, 01 Aug 2023 06:45:00 -0700",
-         "title" : "Artist Bots Are Here For August"
       },
       {
          "description" : " Conventional opening wisdom has White playing e4 and d4 in tandem. i.e. If you start with e4 then d4 is a desirable move to play, while if you start with 1.d4 then e4 becomes a goal. Of course how long between one and the other is open to debate. But once you have played it then d5-e5, and d6-e6 might even improve your position further! <br /> <b>Junta Ikeda - Terrence Tang [E16]</b><br /> Round 2: Junta Ikeda - Terrence Tang https://lichess.org/study/HkHW, 29.07.2023 <script> new PgnViewer( { boardName: \"game1413\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 b6 5.Bg2 Bb7 6.cxd5 exd5 7.O-O Bd6 8.Nc3 a6 9.Nh4 Qd7 10.Qd3 O-O 11.Nf5 Bb4 12.Bg5 Ne8 13.a3 Bxc3 14.bxc3 f6 15",
