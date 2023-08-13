@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2577",
+         "pubDate" : "Sun, 13 Aug 2023 21:50:04 +0000",
+         "title" : "FIDE World Youth Olympiad 2023: Day 1 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2576",
+         "pubDate" : "Sun, 13 Aug 2023 21:09:03 +0000",
+         "title" : "FIDE World Cup Round 5 Game 2: Decisive outcomes and missed opportunities"
+      },
+      {
+         "description" : " Endings with rooks against passed pawns are often exciting and difficult to get right. I chanced upon this game from the first round of the Major Open in Leicester, between Jonathan Nelson (2175) and John Garnett (1831). We'll join them here, at the start of the rook ending, with Black to make his 43rd move. <a href=\"https://chessimprover.com/half-nelson/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Half Nelson\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/half-nelson/\">Half Nelson</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/half-nelson/",
+         "pubDate" : "Sun, 13 Aug 2023 20:26:14 +0000",
+         "title" : "Half Nelson"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102702265.cms\" />In a remarkable display of talent, three Indian chess prodigies - D Gukesh, R Praggnanandhaa, and Arjun Erigaisi - advanced to the quarterfinals of the prestigious FIDE World Cup chess tournament in Baku on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
