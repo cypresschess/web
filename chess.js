@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 56th edition of the Biel Chess Festival saw Le Quang Liem successfully defending his title in the Grandmaster Triathlon, an innovative event featuring classical, rapid and blitz sections. As ever, GM Karsten M&uuml;ller attentively followed the action, and found outstanding endgame positions to share with us. Find here six instructive endings from the unique event! | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2023-endgames-triathlon",
+         "pubDate" : "Sun, 13 Aug 2023 17:00:00 +0100",
+         "title" : "Endgames from the Biel Triathlon"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-138-chess-history-in-a-nutshell-20",
+         "pubDate" : "Sun, 13 Aug 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 138: Chess history in a nutshell (20)"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,6 +312,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2568",
          "pubDate" : "Thu, 10 Aug 2023 05:44:04 +0000",
          "title" : "Ready to start: everything you need to know about FIDE World Youth U16 Chess Olympiad"
+      },
+      {
+         "description" : " Tallahassee hosted its fourth Capital City Open rapid tournament within the past year with Jacob Sperber leading the initiative. With the temperatures soaring into the upper-90s, Florida got a welcome rain shower on the day of the tournament, but it may have deterred some from making the trip. The tournament did not feature any of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/\">Capital City Open IV (Tallahassee, Florida)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/",
+         "pubDate" : "Thu, 10 Aug 2023 04:00:00 +0000",
+         "title" : "Capital City Open IV (Tallahassee, Florida)"
       },
       {
          "description" : "GM Magnus Carlsen is in danger of tumbling out of the 2023 FIDE World Cup after 18-year-old GM Vincent Keymer pounced on a blunder to beat the world number-one for the first time. GM Wesley So is also in a must-win position in Thursday&#39;s second ga...",
@@ -768,22 +792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-3",
          "pubDate" : "Fri, 04 Aug 2023 18:47:00 -0700",
          "title" : "Grischuk, Lagno Exit World Cup As Nakamura, So Survive"
-      },
-      {
-         "description" : "The FIDE World Cup is up and running. Svitlana took her time to find some of the most exciting tactics of the first rounds. For us, it is the challenge to not only find \"one move\" solutions, but actually think about the path to get to the actual tactics!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-most-exciting-tactics-of-the-world-cup",
-         "pubDate" : "Sat, 05 Aug 2023 02:15:00 +0100",
-         "title" : "Svitlana's Smart Moves - The most exciting tactics of the World Cup"
-      },
-      {
-         "description" : "Top grandmasters continue to be left out of contention at the FIDE World Cup in Baku. In the open, Alexander Grischuk and David Anton were knocked out by Bardiya Daneshvar and Abdulla Gadimbayli in Friday's tiebreaks. Among the women, Mary Ann Gomes defeated Kateryna Lagno, while Klaudia Kulon got the better of Nana Dzagnidze. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r2-d3",
-         "pubDate" : "Sat, 05 Aug 2023 02:10:00 +0100",
-         "title" : "World Cup: Daneshvar knocks out Grischuk, Naka wins thrilling match"
       },
       {
          "description" : "",
@@ -1384,22 +1392,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/chess-as-symbol.html",
          "pubDate" : "Sun, 23 Jul 2023 15:36:00 +0000",
          "title" : "Chess as a Symbol"
-      },
-      {
-         "description" : " Ju Wenjun has retained her Women's World Championship title after a last game win over challenger Lei Tingjie. The match was tied at 5.5 each (1 win each and 9 draws), before the final game. Although the 12th game started with the Colle System, it game soon heated up, when Wenjun decided to create a pair of passed pans on the queenside. A sequence of moves that left Wenjun with two knights for a rook looked to be good for Lei, but the ending proved to be better for the knights, and Wenjun won the game, and the match. <br /> <b>Wenjun Ju (2564) - Tingjie Lei (2554) [D04]</b><br /> FIDE Women's World Championship Shanghai/Chongqing CHN (12.1), 22.07.2023 <script> new PgnViewer( { boardName: \"",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-womens-world-championship_23.html",
-         "pubDate" : "Sun, 23 Jul 2023 13:47:00 +0000",
-         "title" : "2023 Women's World Championship "
-      },
-      {
-         "description" : " The latest volume in my Chess Heroes series, designed to take students up to about 1500 strength, has just been published on Amazon. To refresh your memory about the structure, we start, if required, with an elementary book teaching the basics, which will take you up to about 500 strength. Then there are four parallel <a href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Puzzles Book 1\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-puzzles-book-1/\">Chess Heroes: Puzzles Book 1</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-heroes-puzzles-book-1/",
-         "pubDate" : "Sun, 23 Jul 2023 12:19:45 +0000",
-         "title" : "Chess Heroes: Puzzles Book 1"
       }
    ]
 }
