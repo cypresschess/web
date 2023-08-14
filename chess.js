@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Favorites ousted (not Carlsen) Indian prodigies soar There were some shocking outcomes at the 2023 World Cup with both Hikaru Nakamura and Ju Wenjun being eliminated from the competition. Wesley So was also upset by Alexander Sarana ending what seemed to be a tournament where the Filipino-American was off-form. While Magnus Carlsen endured an intense The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/\">2023 FIDE World Cup: Round 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/",
+         "pubDate" : "Mon, 14 Aug 2023 13:44:50 +0000",
+         "title" : "2023 FIDE World Cup: Round 4"
+      },
+      {
+         "description" : " The World Under 16 Olympiad has begun, with Australia fielding 2 teams. The top team almost pulled of an upset, narrowly going down to top seed Kazakhstan 1.5-25, scoring draws on the top 3 boards. Australia 2 had a tougher time, losing to Ukraine 2 0.5-3.5. However Round 2 saw both teams bounce back with good results. Australia 1 beat Uganda 4-0, while Australia 2 beat South Africa 2 3-1. The top Australian team now plays the 3rd team from Kazakhstan (they have 5 in total!) while team 2 plays the third team from The Netherlands. The official website is <a href=\"https://youtholympiad2023.fide.com/\">here</a>, where you can all the details, results and live coverage. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/world-under-16-olympiad.html",
+         "pubDate" : "Mon, 14 Aug 2023 13:32:00 +0000",
+         "title" : "World Under 16 Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open/#new_tab",
+         "pubDate" : "Mon, 14 Aug 2023 13:12:37 +0000",
+         "title" : "2nd Cambridge International Open"
+      },
+      {
+         "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-chessbase17-august-2023-optimizing-the-screen",
+         "pubDate" : "Mon, 14 Aug 2023 13:42:18 +0100",
+         "title" : "ChessBase 17 Tutorial: Optimizing the screen"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Mon, 14 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
+         "pubDate" : "Mon, 14 Aug 2023 12:45:00 +0100",
+         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "The FIDE World Youth Olympiad! It often gets overshadowed by the World Cup, but is actually one of the bigger tournaments at the youth level. This year, it's being hosted in Eindhoven, the Netherlands. 63 teams from all around the world are competing, each with four young players. Report by Bram Klapwijk.",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/im-norm-news/",
          "pubDate" : "Mon, 14 Aug 2023 08:23:32 +0000",
          "title" : "IM norm news"
-      },
-      {
-         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
-         "pubDate" : "Mon, 14 Aug 2023 09:00:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "The FIDE World Youth Olympiad 2023 kicked off Sunday at Eindhoven's High Tech Campus in the Netherlands. Indian team seeded 16th has started well in",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "Geometric nightmares"
       },
       {
-         "description" : "He is one of our earliest friends in chess, a personality that has done more for German chess than anyone we know. He started as the country's most talented young player, became a grandmaster, a medical doctor, but continued to promote the game in numerous chess columns and TV shows. Today he turns eighty, and is still going strong. In our article we also include some unique problems that another octogenarian composed for his coeval colleague. | Photo Nadja Wittmann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/helmut-pfleger-turns-80",
-         "pubDate" : "Sun, 06 Aug 2023 22:48:08 +0100",
-         "title" : "Helmut Pfleger turns 80"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1178,14 +1202,6 @@ news_feed (
          "title" : "ECF Arbiter Course - September/October"
       },
       {
-         "description" : "Congratulations to Michael Adams on winning the British Chess Championships and to Lan Yao, winner of the British Women's Championship, who also gained a WGM...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcc-winners/",
-         "pubDate" : "Mon, 31 Jul 2023 08:45:48 +0000",
-         "title" : "BCC Winners!"
-      },
-      {
          "description" : "The 2023 European Youth Team Chess Championship concluded yesterday in Iasi, Romania and Poland emerged as the winner of all competitions in the event, winning the unprecedented quadruple gold! Scoring 13 match points (6 victories and 1 draw), Poland convincingly clinched the Open U12 section. Turkey was second with 11 match points, while Israel and Germany tied for third scoring 9 match points. Having better tiebreaks (Olympiad Sonneborn Berger), Israel won bronze medal. With the same match score of 13 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1472,30 +1488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2544",
          "pubDate" : "Tue, 25 Jul 2023 06:52:56 +0000",
          "title" : "US Senior and Juniors' Championship 2023: Khachiyan, Mishra and Lee win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2542",
-         "pubDate" : "Mon, 24 Jul 2023 14:17:22 +0000",
-         "title" : "All eyes on Baku as the chess elite descends on Azerbaijan for the World Cup"
-      },
-      {
-         "description" : " The ACT chess community is mourning the passing of Oskar Hellman, who died on Sunday. An active participant in ACT events for as long as I had been involved in Canberra Chess, Hellman was a regular participant at Street Chess, making the 2 hour journey from his home near Wombeyan Caves to Canberra almost every weekend of the year. Since 2010 he played in 462 events, which was to most of any player during this time span. Born in 1935, Oskar was the oldest active player at Street Chess, but was happy to take on any opponent, especially the younger brigade. Prior to retiring to the Southern Highlands of NSW, he worked in the steel industry, and was an active player in Wollongong, Southern Sydn",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/oskar-hellman.html",
-         "pubDate" : "Mon, 24 Jul 2023 13:52:00 +0000",
-         "title" : "Oskar Hellman"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2541",
-         "pubDate" : "Mon, 24 Jul 2023 12:25:05 +0000",
-         "title" : "Ju Wenjun crowned with her fourth World Championship Title: \"There are many memorable moments, and this is one of them\""
       }
    ]
 }
