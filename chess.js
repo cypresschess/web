@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Mon, 14 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The FIDE World Youth Olympiad! It often gets overshadowed by the World Cup, but is actually one of the bigger tournaments at the youth level. This year, it's being hosted in Eindhoven, the Netherlands. 63 teams from all around the world are competing, each with four young players. Report by Bram Klapwijk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-youth-u16-chess-olympiad",
+         "pubDate" : "Mon, 14 Aug 2023 12:32:36 +0100",
+         "title" : "World Youth U16 Chess Olympiad"
+      },
+      {
+         "description" : "One opening variation in the Sicilian Dragon is getting more and more popular. The Hungarian Dragon! A somewhat \"safer\" Dragon than usual, with a twisty idea to push h5 forward very soon, and avoid all of White's pawn rushes better. Dragon tamer Chris Ward shows us a game by Richard Rapport, where our Dragon bishop causes some havoc on h3, instead of g2!| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-dragon",
+         "pubDate" : "Mon, 14 Aug 2023 11:27:46 +0100",
+         "title" : "The Monthly Dragon - Introducing: The Hungarian Dragon!"
+      },
+      {
+         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-2023-call-for-nominations/",
+         "pubDate" : "Mon, 14 Aug 2023 09:02:49 +0000",
+         "title" : "ECF AGM 2023 - call for nominations"
+      },
+      {
+         "description" : "The 2023 Annual General Meeting will be held on Saturday 14th October 2023 and will meet at 1 Spinningfields Square, Manchester M3 3AP with access...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions-2/",
+         "pubDate" : "Mon, 14 Aug 2023 09:00:40 +0000",
+         "title" : "ECF AGM 2023 - call for motions"
+      },
+      {
+         "description" : "Pictured is the young English player, Aaravamudhan Balaji, receiving the winner's trophy from Satish Gaekwad at the inaugural Psyon Chess Masters IM Invitational tournament. Aaravamudhan's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/im-norm-news/",
+         "pubDate" : "Mon, 14 Aug 2023 08:23:32 +0000",
+         "title" : "IM norm news"
+      },
+      {
          "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-138-chess-history-in-a-nutshell-20",
          "pubDate" : "Sun, 13 Aug 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 138: Chess history in a nutshell (20)"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 13 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "GM Daniel Naroditsky won Saturday&#39;s Bullet Brawl and the $400 first prize for the second week in a row ahead of a stacked field of titled players after scoring 63 wins, nine draws, and 13 losses (226 points). His closest rivals were unsurprisingly...",
@@ -802,28 +842,12 @@ news_feed (
          "title" : "Dachshunds Play Chess"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes another look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-136-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 06 Aug 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 137: Chess history in a nutshell (19)"
-      },
-      {
          "description" : " <b>2023 ACT Women's and Girls' Chess Championship - 10 September</b> 7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List) Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am Lunch Break 1pm-1:30pm Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm Prizes - 1st $250 2nd $125 3rd $75 Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10 Max. two half-point byes available for Rounds 1-4. Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free. + Novices event for unrated players - Free entry with medals for 1st, 2nd and 3rd (Same schedule as Championship) Entries close Saturday 5pm ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-act-womens-and-girls-chess.html",
          "pubDate" : "Sun, 06 Aug 2023 12:32:00 +0000",
          "title" : "2023 ACT Women's and Girls Chess Championship"
-      },
-      {
-         "description" : "Magnus Carlsen, Leinier Dominguez and Parham Maghsoodloo were the three 2700+ players who kicked off with a win in round 3 of the FIDE World Cup. Meanwhile, Daniele Vocaturo and Ivan Schitco upset higher-rated opponents, and Peter Svidler obtained a good-looking, 27-move win over Jorden van Foreest. Among the women, there were no big upsets, as the Muzychuk sisters had a good day - Mariya won and Anna escaped with a draw. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d1",
-         "pubDate" : "Sun, 06 Aug 2023 12:00:00 +0100",
-         "title" : "World Cup: Svidler crushes Van Foreest's Najdorf"
       },
       {
          "description" : "GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents in the third round of the 2023...",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
       },
       {
-         "description" : "The ECF Members' Representatives for 2023/24 will be &#8212; Life Members Stewart Reuben; Gerard Walsh Platinum Members Adrian Elwin; David Eustace Gold Members...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/members-representatives-for-2023-24/",
-         "pubDate" : "Thu, 27 Jul 2023 10:57:48 +0000",
-         "title" : "Members' Representatives for 2023/24"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/iranian-chess-player-sara-khadem-who-removed-hijab-gets-spanish-citizenship/articleshow/102146065.cms",
          "pubDate" : "Wed, 26 Jul 2023 15:09:56 +0000",
          "title" : "Iranian Sara Khadem who removed hijab gets Spanish citizenship"
-      },
-      {
-         "description" : "The ECF office recently completed an exercise within the membership system designed to prevent members with two active memberships from being reminded to renew twice,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/incorrect-membership-expiry-email/",
-         "pubDate" : "Wed, 26 Jul 2023 14:19:19 +0000",
-         "title" : "Incorrect membership expiry email"
       },
       {
          "description" : "",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2541",
          "pubDate" : "Mon, 24 Jul 2023 12:25:05 +0000",
          "title" : "Ju Wenjun crowned with her fourth World Championship Title: \"There are many memorable moments, and this is one of them\""
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Guwahati from 26-27 Aug 23, at New Delhi from 30 Sep",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop/",
-         "pubDate" : "Mon, 24 Jul 2023 08:30:50 +0000",
-         "title" : "AICF's Live Telecast Orientation Workshop"
       }
    ]
 }
