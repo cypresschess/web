@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
+         "pubDate" : "Mon, 14 Aug 2023 09:00:00 +0100",
+         "title" : "Sicilian Dragon: The Real Deal!"
+      },
+      {
+         "description" : "The FIDE World Youth Olympiad 2023 kicked off Sunday at Eindhoven's High Tech Campus in the Netherlands. Indian team seeded 16th has started well in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-u16-chess-olympiad-started-in-netherlands/",
+         "pubDate" : "Mon, 14 Aug 2023 04:13:44 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad started in Netherlands"
+      },
+      {
          "description" : "Three Indian players&#38;mdash;GMs Rameshbabu Praggnanandhaa, Dommaraju Gukesh, and Arjun Erigaisi&#38;mdash;will play in the quarterfinals of the 2023 FIDE World Cup after scoring 1.5/2 in their respective round-five matches on Sunday. The trio will be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-2",
-         "pubDate" : "Sun, 13 Aug 2023 16:53:42 -0700",
+         "pubDate" : "Sun, 13 Aug 2023 16:53:00 -0700",
          "title" : "Praggnanandhaa, Gukesh, Arjun Make History For India"
       },
       {
@@ -834,14 +850,6 @@ news_feed (
          "title" : "FIDE World Schools Team Championship: Schools from Turkey and India are in the lead after the second day"
       },
       {
-         "description" : "The inaugural edition of the Global Chess League took place last month in Dubai. The Triveni Continental Kings, led by Levon Aronian, emerged victorious. GM Karsten M&uuml;ller followed the games closely, looking for interesting positions to analyse. Find here four instructive endings, two featuring rising star Praggnanandhaa and two featuring endgame wizard Magnus Carlsen! | Photo: Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-endgames-pragg-carlsen",
-         "pubDate" : "Sat, 05 Aug 2023 22:00:00 +0100",
-         "title" : "Endgames from the Global Chess League: A Pragg & Carlsen special"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop/",
          "pubDate" : "Mon, 24 Jul 2023 08:30:50 +0000",
          "title" : "AICF's Live Telecast Orientation Workshop"
-      },
-      {
-         "description" : "European Chess Union is delighted to announce ESET, as a sponsor of European Youth Rapid and Blitz Chess Championship in Terme, Catez, Slovenia 27-30 September 2023.&#160; ESET will provide to ECU 144 pcs of ESET Internet Security Licenses (duration 1 year) and additionally free branded merch with ESET Slovenia branding (eg sunglasses, mouse pads), as prizes and gifts to the winners of the European Championship in Slovenia. The 144 pcs free software will be provided to the 6 winners of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/sponsorship-announcement/",
-         "pubDate" : "Mon, 24 Jul 2023 07:10:55 +0000",
-         "title" : "Sponsorship announcement"
       }
    ]
 }
