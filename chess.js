@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102731149.cms\" />In a remarkable feat, Indian Grandmaster Vidit Gujrathi pulled off a stunning upset on Monday in the FIDE Chess World Cup in Baku.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-vidit-gujrathi-shocks-nepomniachtchi-reaches-world-cup-quarterfinals/articleshow/102731149.cms",
+         "pubDate" : "Mon, 14 Aug 2023 16:32:28 +0000",
+         "title" : "Vidit Gujrathi shocks Nepomniachtchi, reaches World Cup quarterfinals"
+      },
+      {
          "description" : " Favorites ousted (not Carlsen) Indian prodigies soar There were some shocking outcomes at the 2023 World Cup with both Hikaru Nakamura and Ju Wenjun being eliminated from the competition. Wesley So was also upset by Alexander Sarana ending what seemed to be a tournament where the Filipino-American was off-form. While Magnus Carlsen endured an intense The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/\">2023 FIDE World Cup: Round 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -58,6 +66,14 @@ news_feed (
          "title" : "World Youth U16 Chess Olympiad"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2578",
+         "pubDate" : "Mon, 14 Aug 2023 10:40:16 +0000",
+         "title" : "FIDE Fair Play Seminar in Durrës, Albania, announced"
+      },
+      {
          "description" : "One opening variation in the Sicilian Dragon is getting more and more popular. The Hungarian Dragon! A somewhat \"safer\" Dragon than usual, with a twisty idea to push h5 forward very soon, and avoid all of White's pawn rushes better. Dragon tamer Chris Ward shows us a game by Richard Rapport, where our Dragon bishop causes some havoc on h3, instead of g2!| Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/im-norm-news/",
          "pubDate" : "Mon, 14 Aug 2023 08:23:32 +0000",
          "title" : "IM norm news"
+      },
+      {
+         "description" : "Praggnanandhaa and Fabiano Caruana scored wins on Sunday to knock out Ferenc Berkes and Jan-Krzysztof Duda respectively. While Pragg is set to face Arjun Erigaisi in an all-Indian quarterfinal, Caruana will play Leinier Dominguez in a duel of US grandmasters. Gukesh and Magnus Carlsen also secured their spots in the next stage when they will face each other. In the women's section, three out of four quarterinal matchups will be decided in tiebreaks, as only Tan Zhongyi has secured a spot in the semifinals. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r5-d2",
+         "pubDate" : "Mon, 14 Aug 2023 08:55:00 +0100",
+         "title" : "World Cup: Pragg and Caruana win, reach quarterfinals"
       },
       {
          "description" : "The FIDE World Youth Olympiad 2023 kicked off Sunday at Eindhoven's High Tech Campus in the Netherlands. Indian team seeded 16th has started well in",
@@ -816,14 +840,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-7",
          "pubDate" : "Sun, 06 Aug 2023 23:58:35 +0000",
          "title" : "2023 Summer Chess Classic: Round 7"
-      },
-      {
-         "description" : "IM Brandon Clarke found a remarkable winning blow in one of his games from the Major Open in Leicester. The blow was a cross pin, a geometric nightmare for the victim - and surely a worthy topic for a Sunday column! | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-199",
-         "pubDate" : "Sun, 06 Aug 2023 23:00:00 +0100",
-         "title" : "Geometric nightmares"
       },
       {
          "description" : "",
