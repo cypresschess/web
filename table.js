@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-08-13","10","<a href=http://www.uschess.org/msa/XtblMain.php?202308133862 target='_blank'>AUGUST 13TH 2023 SUNDAY SWISS</a>",
 "HOUSTON","2023-08-12","35","<a href=http://www.uschess.org/msa/XtblMain.php?202308123012 target='_blank'>AUGUST 12TH 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-08-12","8","<a href=http://www.uschess.org/msa/XtblMain.php?202308122872 target='_blank'>CHESSPANDA08122023SATURDAY</a>",
 "SPRING","2023-08-11","36","<a href=http://www.uschess.org/msa/XtblMain.php?202308112612 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-01-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202301131902 target='_blank'>REBECCA CHESS CLUB QUADS JAN 13, 2023</a>",
 "CYPRESS","2023-01-13","21","<a href=http://www.uschess.org/msa/XtblMain.php?202301131812 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-01-07  - 01-08","106","<a href=http://www.uschess.org/msa/XtblMain.php?202301089832 target='_blank'>TCR: HOUSTON WINTER CHAMPIONSHIP 2023</a>",
-"HOUSTON","2023-01-07","16","<a href=http://www.uschess.org/msa/XtblMain.php?202301079562 target='_blank'>SATURDAY QUADS - JAN 7</a>",
 ]);
