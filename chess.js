@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three Indian players&#38;mdash;GMs Rameshbabu Praggnanandhaa, Dommaraju Gukesh, and Arjun Erigaisi&#38;mdash;will play in the quarterfinals of the 2023 FIDE World Cup after scoring 1.5/2 in their respective round-five matches on Sunday. The trio will be...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-2",
+         "pubDate" : "Sun, 13 Aug 2023 16:53:42 -0700",
+         "title" : "Praggnanandhaa, Gukesh, Arjun Make History For India"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2555",
          "pubDate" : "Wed, 02 Aug 2023 14:46:32 +0000",
          "title" : "3rd Intercontinental Online Chess Championship for Prisoners: Registration continues"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the early Titled Tuesday event on August 1 and then finished second late. It was GM Alexander Grischuk who won the late event. Both of them are playing in the second round of the 2023 FIDE World Cup on Wednesday, but decided ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-grischuk-win-august-1-2023-titled-tuesday",
-         "pubDate" : "Wed, 02 Aug 2023 07:31:00 -0700",
-         "title" : "Carlsen Takes A Tuesday Warming Up For World Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
