@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Vidit Gujrathi outplayed number-four seed GM Ian Nepomniachtchi in round-five tiebreaks to reach the quarterfinals of the 2023 FIDE World Cup, so that half of the remaining field now hails from the rising chess powerhouse of India. IM Nurgyul...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-3",
+         "pubDate" : "Mon, 14 Aug 2023 15:53:30 -0700",
+         "title" : "Vidit Beats Nepomniachtchi As 4 Indian Players Reach World Cup Quarterfinals"
+      },
+      {
+         "description" : "GM Alan Pichot, Latin America&#39;s strongest player for years, has moved from Argentina and become Spain&#39;s fifth-highest-ranked player. On his way out, he criticized the Argentinian Chess Federation and its president for the lack of financial support...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pichot-moves-to-spain-attacks-argentinian-chess-federation",
+         "pubDate" : "Mon, 14 Aug 2023 14:17:27 -0700",
+         "title" : "GM Pichot Moves To Spain, Slams Argentinian Chess Federation On The Way"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2580",
+         "pubDate" : "Mon, 14 Aug 2023 20:14:55 +0000",
+         "title" : "2nd FIDE Council Meeting 2023: List of decisions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2579",
+         "pubDate" : "Mon, 14 Aug 2023 19:54:11 +0000",
+         "title" : "FIDE World Cup Round 5 Tiebreaks: Ian Nepomniachtchi is out of the World Cup"
+      },
+      {
+         "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38190699/record-india-magnus-carlsen-d-gukesh-chess-world-cup-headline-quarterfinals-praggnanandhaa-arjun-erigaisi-vidit-gujrathi?device=featurephone",
+         "pubDate" : "Mon, 14 Aug 2023 12:08:30 -0500",
+         "title" : "Magnus vs Gukesh headlines India's record-breaking Chess World Cup quarters"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102731149.cms\" />In a remarkable feat, Indian Grandmaster Vidit Gujrathi pulled off a stunning upset on Monday in the FIDE Chess World Cup in Baku.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1114,28 +1154,12 @@ news_feed (
          "title" : "2023 FIDE World Cup: Round 1"
       },
       {
-         "description" : "World top-five GMs Magnus Carlsen, Fabiano Caruana, and Ian Nepomniachtchi all won, while Hikaru Nakamura was frustrated with a draw, as round two of the 2023 FIDE World Cup began. It was a good day for Indian chess, with GM Praggnanandhaa Rameshb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-1",
-         "pubDate" : "Wed, 02 Aug 2023 15:27:00 -0700",
-         "title" : "Carlsen, Caruana Start Fast, Praggnanandhaa Plays Masterpiece"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2557",
          "pubDate" : "Wed, 02 Aug 2023 19:44:26 +0000",
          "title" : "FIDE World Cup 2023 Round 2 Day 1: A lot of draws as top seeds enter the race"
-      },
-      {
-         "description" : "With a rating of only 1845, 17-year-old Velpula Sarayu from India scored one of the most sensational results in chess history, defeating masters rated more than 600 points higher. Teenagers such as GM Dommaraju Gukesh, GM Arjun Erigaisi, GM Prag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/indian-1800-rated-17-year-old-with-sensational-result",
-         "pubDate" : "Wed, 02 Aug 2023 11:52:00 -0700",
-         "title" : "Indian 1800-Rated 17-Year-Old Scores Sensational Result In Spain"
       },
       {
          "description" : "",
