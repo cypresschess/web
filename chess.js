@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The duel knight against bishop can be complicated. The knight often wants static positions while the bishop likes dynamics. In the diagram position Black is a pawn down, but has problems to solve. White's h-pawn is dangerous and White's king threatens to invade. However, Black can save the draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/king-invasion",
+         "pubDate" : "Tue, 15 Aug 2023 09:00:00 +0100",
+         "title" : "King invasion"
+      },
+      {
          "description" : "Four out of the eight players who reached the quarterfinals in the open section of the FIDE World Cup are Indian, as Vidit Gujrathi joined Praggnanandhaa, Arjun and Gukesh by beating Ian Nepomniachtchi in the tiebreaks of the round-of-16. In the women's section, Aleksandra Goryachkina, Anna Muzychuk and Nurgyul Salimova advanced to the semifinals. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2579",
          "pubDate" : "Mon, 14 Aug 2023 19:54:11 +0000",
          "title" : "FIDE World Cup Round 5 Tiebreaks: Ian Nepomniachtchi is out of the World Cup"
+      },
+      {
+         "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38190699/record-india-magnus-carlsen-d-gukesh-chess-world-cup-headline-quarterfinals-praggnanandhaa-arjun-erigaisi-vidit-gujrathi?device=featurephone",
+         "pubDate" : "Mon, 14 Aug 2023 13:07:24 -0500",
+         "title" : "Magnus vs Gukesh headlines India's record-breaking Chess World Cup quarters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102731149.cms\" />In a remarkable feat, Indian Grandmaster Vidit Gujrathi pulled off a stunning upset on Monday in the FIDE Chess World Cup in Baku.",
@@ -850,14 +866,6 @@ news_feed (
          "title" : "ECU E-Magazine July 2023"
       },
       {
-         "description" : "Ris is an International Master from The Netherlands, who is popular on his Fast & Furious shows on the PlayChess server. There he explains sharp opening lines are useful for a wider audience. The courses we are recommending feature a black repertoire against 1.d4, 1.Nf3 and 1.c4, with lines that are easy to learn and not difficult to remember, but also pose White serious challenges. This week you can save twenty Euros and get the full package for just €39.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-robert-ris-make-you-fast-and-furious",
-         "pubDate" : "Mon, 07 Aug 2023 09:00:00 +0100",
-         "title" : "Let Robert Ris make you fast and furious"
-      },
-      {
          "description" : "Chess in England is being given a massive boost in a move that is said to be &#34;potentially transformational&#34; for a nation where chess has struggled to gain attention for years. &#34;The Great British Chess Revival&#34; could begin this month, as U.K Prim...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2543",
          "pubDate" : "Tue, 25 Jul 2023 09:58:13 +0000",
          "title" : "Grand Swiss and Women's Grand Swiss 2023: preliminary lineups and World Cup passes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2544",
-         "pubDate" : "Tue, 25 Jul 2023 06:52:56 +0000",
-         "title" : "US Senior and Juniors' Championship 2023: Khachiyan, Mishra and Lee win titles"
       }
    ]
 }
