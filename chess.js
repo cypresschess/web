@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four out of the eight players who reached the quarterfinals in the open section of the FIDE World Cup are Indian, as Vidit Gujrathi joined Praggnanandhaa, Arjun and Gukesh by beating Ian Nepomniachtchi in the tiebreaks of the round-of-16. In the women's section, Aleksandra Goryachkina, Anna Muzychuk and Nurgyul Salimova advanced to the semifinals. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r5-d3",
+         "pubDate" : "Tue, 15 Aug 2023 02:15:00 +0100",
+         "title" : "World Cup: Vidit knocks out Nepo, four Indians in quarterfinals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2581",
+         "pubDate" : "Mon, 14 Aug 2023 23:47:36 +0000",
+         "title" : "FIDE World Youth Olympiad 2023: Day 2 Recap"
+      },
+      {
          "description" : "GM Vidit Gujrathi outplayed number-four seed GM Ian Nepomniachtchi in round-five tiebreaks to reach the quarterfinals of the 2023 FIDE World Cup, so that half of the remaining field now hails from the rising chess powerhouse of India. IM Nurgyul...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-3",
-         "pubDate" : "Mon, 14 Aug 2023 15:53:30 -0700",
+         "pubDate" : "Mon, 14 Aug 2023 15:53:00 -0700",
          "title" : "Vidit Beats Nepomniachtchi As 4 Indian Players Reach World Cup Quarterfinals"
       },
       {
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2579",
          "pubDate" : "Mon, 14 Aug 2023 19:54:11 +0000",
          "title" : "FIDE World Cup Round 5 Tiebreaks: Ian Nepomniachtchi is out of the World Cup"
-      },
-      {
-         "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38190699/record-india-magnus-carlsen-d-gukesh-chess-world-cup-headline-quarterfinals-praggnanandhaa-arjun-erigaisi-vidit-gujrathi?device=featurephone",
-         "pubDate" : "Mon, 14 Aug 2023 12:08:30 -0500",
-         "title" : "Magnus vs Gukesh headlines India's record-breaking Chess World Cup quarters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102731149.cms\" />In a remarkable feat, Indian Grandmaster Vidit Gujrathi pulled off a stunning upset on Monday in the FIDE Chess World Cup in Baku.",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tutorial-chessbase17-august-2023-optimizing-the-screen",
          "pubDate" : "Mon, 14 Aug 2023 13:42:18 +0100",
          "title" : "ChessBase 17 Tutorial: Optimizing the screen"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Mon, 14 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
