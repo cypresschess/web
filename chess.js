@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\"> 2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/",
+         "pubDate" : "Tue, 15 Aug 2023 22:03:13 +0000",
+         "title" : " 2023 FIDE World Cup: Round 5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2584",
+         "pubDate" : "Tue, 15 Aug 2023 20:45:07 +0000",
+         "title" : "FIDE World Cup Round 6 Game 1: Goryachkina wins, Caruana makes a lucky escape"
+      },
+      {
          "description" : "Structures with \"Hanging Pawns\" can occur in many openings and it helps to know how to play these structures. In the following article Jan Markos gives some general guidelines, but focuses on one piece in particular: the \"Restless Knight\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
