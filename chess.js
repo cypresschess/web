@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;Lord, I was born a ramblin' man Tryin' to make a livin' and doin' the best I can And when it's time for leavin' I hope you'll understand That I was born a ramblin' man&#8221; The Allman Brothers Band The rook endgames are the ultimate test of chess knowledge. They appear on the chessboard very <a href=\"https://chessimprover.com/the-rambling-rook-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Rambling Rook (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-rambling-rook-2/\">The Rambling Rook (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-rambling-rook-2/",
+         "pubDate" : "Tue, 15 Aug 2023 13:47:09 +0000",
+         "title" : "The Rambling Rook (2)"
+      },
+      {
+         "description" : "Chess.com&#38;rsquo;s flagship Speed Chess Championship presented by Coinbase, the stellar event to find the world&#38;rsquo;s top player over fast time controls, will kick off next month with GM Hikaru Nakamura gunning for an incredible sixth title in a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-and-nakamuras-rivalry-returns-for-2023-speed-chess-championship-presented-by-coinbase",
+         "pubDate" : "Tue, 15 Aug 2023 04:58:00 -0700",
+         "title" : "Nakamura And Carlsen's Rivalry Returns For 2023 Speed Chess Championship Presented By Coinbase"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1146,14 +1162,6 @@ news_feed (
          "title" : "Divya holds Hungarian GM in Game 1 of round two at World Cup"
       },
       {
-         "description" : "The sixth day of PogChamps 5 was full of mercilessness and confusion&#38;mdash;it also featured some of the most unbelievable moments in chess history. Wirtual defeated Daily Dose of Internet in a &#34;meaningless match.&#34; Papaplatte defeated Fuslie, and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-6",
-         "pubDate" : "Wed, 02 Aug 2023 19:13:00 -0700",
-         "title" : "QTCinderella Breaks Records, xQc Makes No Mistakes"
-      },
-      {
          "description" : " In a hall of great splendor, players from 86 countries have trekked to Baku, Azerbaijan for the 2023 FIDE World Cup. A total of 206 players assembled for the open section and 103 for the women's section are competing for a record prize fund and three spots for the Candidates Tournament. Starting with the 2021 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/02/2023-fide-world-cup-round-1/\">2023 FIDE World Cup: Round 1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1504,22 +1512,6 @@ news_feed (
          "link" : "https://chessimprover.com/bad-ideas-9/",
          "pubDate" : "Tue, 25 Jul 2023 15:41:19 +0000",
          "title" : "Bad Ideas (9)"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2023 opened yesterday in Iasi, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU Treasurer Ion-Serban Dobronauteanu, the Vice President of the Romanian Chess Federation Alin Berescu, the Secretary General of the Romanian Chess Federation Gabriel Grecescu, Tournament Director Elena Cristian and the Chief Arbiter of the event Dinu-Ioan Nicula. The event is played in two age categories: U12 and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2023-started-in-iasi-romania/",
-         "pubDate" : "Tue, 25 Jul 2023 15:21:46 +0000",
-         "title" : "European Youth Team Chess Championship 2023 started in Iasi, Romania"
-      },
-      {
-         "description" : " The 2023 ANU Open is returning to the Australian national university, after arranging a venue on campus. The new venue is in the centre of the ANU, right next to eateries, coffee shops and the ANU Bar. The updated details for the tournament are <br /> <b>ANU Open 2023</b> 28-30 July (One round Friday evening, three Saturday, two Sunday) Format: Open section and Under 1600 Section (ACF) Time control: 60m+30s inc (FIDE Rated except for players 2400+) Schedule: Round 1 Friday 28th 7PM, Round 2 Sat 29th 10am, Rd 3 2pm, Round 4, 6pm Round 5 Sun 30th 10am, Round 6 2pm Prize giving 6pm Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Free Prizes: $1000 1st Open, $400 1st Minor $3600 in total ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-aka-winter-cup-updated.html",
-         "pubDate" : "Tue, 25 Jul 2023 13:21:00 +0000",
-         "title" : "2023 ANU Open (AKA Winter Cup) - Updated Venue"
       }
    ]
 }
