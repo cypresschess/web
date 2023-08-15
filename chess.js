@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Structures with \"Hanging Pawns\" can occur in many openings and it helps to know how to play these structures. In the following article Jan Markos gives some general guidelines, but focuses on one piece in particular: the \"Restless Knight\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-22-the-restless-knight",
+         "pubDate" : "Tue, 15 Aug 2023 21:00:00 +0100",
+         "title" : "The Winning Academy 22: The Restless Knight"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2583",
+         "pubDate" : "Tue, 15 Aug 2023 19:01:37 +0000",
+         "title" : "FIDE Chess Olympiad 2028 - Call for bids"
+      },
+      {
+         "description" : "Recently the 3rd Chess Olympiad for Pre-school Children took place at the Faculty of Mining, Engineering and Industrial Automation of the Silesian University of Technology in Gliwice, Poland. Honorary patrons of the tournament were Arkadiusz Mężyk, Rector of the Silesian University of Technology, Franciszek Plewa, Dean of the Faculty, and Piotr Pyzik from the Ministry of State Property. The event was organised by the Hetman Gliwice Chess School, Anna Kohut, and in cooperation with the Faculty of the Silesian University of Technology. Anna Kohut prepared an illustrated report and a video of the event. | Photo: Anna with some of her preschooler-champions | Photo: Magdalena Tomczyk",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2023-in-Gliwice-Poland-for-prescoolers-by-anna-kohut",
+         "pubDate" : "Tue, 15 Aug 2023 20:00:00 +0100",
+         "title" : "Chess Olympiad for Preschoolers"
+      },
+      {
          "description" : " &#8220;Lord, I was born a ramblin' man Tryin' to make a livin' and doin' the best I can And when it's time for leavin' I hope you'll understand That I was born a ramblin' man&#8221; The Allman Brothers Band The rook endgames are the ultimate test of chess knowledge. They appear on the chessboard very <a href=\"https://chessimprover.com/the-rambling-rook-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Rambling Rook (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-rambling-rook-2/\">The Rambling Rook (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -794,22 +818,6 @@ news_feed (
          "title" : "Istanbul ENKA High School and Velammal MHS Mogappair win FIDE WSTC"
       },
       {
-         "description" : "In his Game of the Week show #579, Merijn van Delft looks at an amazing attacking game the young Indian Grandmaster Praggnanandhaa played in round 2 of the World Cup in Baku. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-578-erigaisi-navara-2",
-         "pubDate" : "Tue, 08 Aug 2023 11:00:00 +0100",
-         "title" : "Game of the Week #579: M. Lagarde - Praggnanandhaa"
-      },
-      {
-         "description" : "Stalemates can often save the defender in endgames. However, they are difficult to spot. In the diagram position, it is Black to move and draw. What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stalemate",
-         "pubDate" : "Tue, 08 Aug 2023 09:00:00 +0100",
-         "title" : "Stalemate"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1504,14 +1512,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/",
          "pubDate" : "Wed, 26 Jul 2023 01:01:29 +0000",
          "title" : "After 2023 World Open, a new chess era unfolding"
-      },
-      {
-         "description" : " &#8220;Errare humanum est&#8221; Seneca Last week we went over a bad sequence for White in one of our friendly voting games. You can read it again here. We stopped at our king move below: It was our turn to have a bad idea. After reviewing the discussions we had, I noticed we covered extensively just two <a href=\"https://chessimprover.com/bad-ideas-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bad Ideas (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bad-ideas-9/\">Bad Ideas (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/bad-ideas-9/",
-         "pubDate" : "Tue, 25 Jul 2023 15:41:19 +0000",
-         "title" : "Bad Ideas (9)"
       }
    ]
 }
