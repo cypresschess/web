@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen staved off a formidable challenge from GM Dommaraju Gukesh and held the draw he needed, while GM Nijat Abasov and GM Fabiano Caruana defeated GM Vidit Gujrathi and GM Leinier Dominguez, respectively, to advance to the semifinals ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-2",
+         "pubDate" : "Wed, 16 Aug 2023 15:50:33 -0700",
+         "title" : "Abasov Continues Miracle Run On Home Soil To Join Carlsen, Caruana In Semifinals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2589",
+         "pubDate" : "Wed, 16 Aug 2023 21:52:03 +0000",
+         "title" : "FIDE World Youth Olympiad 2023: Day 4 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2588",
+         "pubDate" : "Wed, 16 Aug 2023 21:00:24 +0000",
+         "title" : "FIDE World Cup R6 Game 2: Goryachkina advances to Women's finals"
+      },
+      {
+         "description" : "On Wednesday August 16th, in the Hotel Dlouhe Strane in Kouty nad Desnou in the Czech Republic, the 21st European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2023 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. Boys and girls in each category play the same tournament. Eventually boys and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/21st-eu-youth-chess-championship-kicked-off-in-czech-republic/",
+         "pubDate" : "Wed, 16 Aug 2023 20:26:21 +0000",
+         "title" : "21st EU Youth Chess Championship kicked off in Czech Republic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2587",
+         "pubDate" : "Wed, 16 Aug 2023 19:14:43 +0000",
+         "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
+      },
+      {
          "description" : "Chess.com and Lichess will halt their relationships with St. Louis Chess Club and no longer provide support for or cover any of their tournaments in the wake of allegations of sexual misconduct, The Wall Street Journal revealed on Wednesday. In ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wsj-chess-servers-end-support-for-saint-louis-tournaments",
          "pubDate" : "Wed, 16 Aug 2023 11:52:50 -0700",
-         "title" : "WSJ: Chess Servers Halt Relationships With Saint Louis Chess Club"
+         "title" : "WSJ: Chess Platforms Halt Relationships With Saint Louis Chess Club"
+      },
+      {
+         "description" : "D Gukesh and Vidit Gujrathi went down to Magnus Carlsen and Nijat Abasov respectively on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
+         "pubDate" : "Wed, 16 Aug 2023 12:58:23 -0500",
+         "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102780283.cms\" />Indian Grandmasters D Gukesh and Vidit Santosh Gujrathi bowed out of the FIDE World Cup chess tournament after losing to Norwegian Magnus Carlsen and Azerbaijan's Nijat Abasov respectively here on Wednesday. R Pragganandhaa, however, bounced back after losing the first game of the two-game classical series against fellow Indian Arjun Erigaisi to force a tie-break, which will be played on Thursday to decide who advances to the last four.",
@@ -64,6 +112,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/the-raging-rook.html",
          "pubDate" : "Wed, 16 Aug 2023 12:37:00 +0000",
          "title" : "The raging rook"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2582",
+         "pubDate" : "Wed, 16 Aug 2023 12:12:04 +0000",
+         "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
       },
       {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2584",
          "pubDate" : "Tue, 15 Aug 2023 20:45:07 +0000",
          "title" : "FIDE World Cup Round 6 Game 1: Goryachkina wins, Caruana makes a lucky escape"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2582",
-         "pubDate" : "Tue, 15 Aug 2023 20:12:04 +0000",
-         "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
       },
       {
          "description" : "Structures with \"Hanging Pawns\" can occur in many openings and it helps to know how to play these structures. In the following article Jan Markos gives some general guidelines, but focuses on one piece in particular: the \"Restless Knight\".",
@@ -1192,14 +1240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-8",
          "pubDate" : "Fri, 04 Aug 2023 20:32:00 -0700",
          "title" : "Franks-Is-Heres Knocks Out Ghastly, Rise of Squeex and Daily Dose"
-      },
-      {
-         "description" : "It was a bad day for the world&#39;s strongest chess couple as GMs Alexander Grischuk and Kateryna Lagno were both knocked out of the 2023 FIDE World Cup in round-two tiebreaks. Grischuk lost to 17-year-old Iranian GM Bardiya Daneshvar, while Women&#39;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-3",
-         "pubDate" : "Fri, 04 Aug 2023 18:47:00 -0700",
-         "title" : "Grischuk, Lagno Exit World Cup As Nakamura, So Survive"
       },
       {
          "description" : "",
