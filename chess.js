@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Last night I played a game that was almost a brilliancy. Utilising my rook, I managed to organise quite a good attack on my opponents king. Unfortunately, when the time came to find the knockout blow, I bailed out. Instead of rewarding my rook sacrifice with a win, I decided that half a point was reward enough. Even after the game I didn't see the correct move, which only became clear with some silicon help. <br /> <b>Press,Shaun - Radisich,Matt [E66]</b><br /> LFG --- (4), 15.08.2023 <script> new PgnViewer( { boardName: \"game1416\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 c5 3.c4 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O d6 7.Nc3 Nc6 8.d5 Nb8 9.h3 Na6 10.e4 Bd7 11.e5 Ne8 12.Bf4 h6 13.Ne4 Bf5 14",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/the-raging-rook.html",
+         "pubDate" : "Wed, 16 Aug 2023 12:37:00 +0000",
+         "title" : "The raging rook"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Wed, 16 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Please find the link for live games for 60th National Chess Championship 2023 https://live.followchess.com/%23!60th-ind-national-chp-2023",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-60th-national-chess-championship-2023/",
+         "pubDate" : "Wed, 16 Aug 2023 11:30:21 +0000",
+         "title" : "Live Games link for 60th National Chess Championship 2023"
       },
       {
          "description" : "Magnus Carlsen and Arjun Erigaisi both won with black to take a 1-point lead in their quarterfinal matches against Dommaraju Gukesh and Praggnanandhaa, respectively. Leinier Dominguez got winning chances but failed to find precise continuations against Fabiano Caruana, while Vidit Gujrathi and Nijat Abasov signed a 109-move draw on Tuesday. In the women's section, Aleksandra Goryachkina defeated Tan Zhongyi, also with black. | Photo: FIDE / Stev Bonhage",
@@ -1536,30 +1552,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-samant-becomes-indias-83rd-chess-grandmaster/articleshow/102147179.cms",
          "pubDate" : "Wed, 26 Jul 2023 16:26:55 +0000",
          "title" : "Aditya Samant becomes India's 83rd chess Grandmaster"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102146065.cms\" />Spain on Wednesday announced that Sarasadat Khademalsharieh, an Iranian chess player who relocated to Spain in January, has been granted Spanish citizenship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/iranian-chess-player-sara-khadem-who-removed-hijab-gets-spanish-citizenship/articleshow/102146065.cms",
-         "pubDate" : "Wed, 26 Jul 2023 15:09:56 +0000",
-         "title" : "Iranian Sara Khadem who removed hijab gets Spanish citizenship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2546",
-         "pubDate" : "Wed, 26 Jul 2023 13:57:48 +0000",
-         "title" : "Call of Interest for Arbiters in World Events 2024-2025"
-      },
-      {
-         "description" : "The 2023 FIDE World Chess Cup and the FIDE Women's World Chess Cup 2023 kick off this Saturday in Baku, Azerbaijan. The Open event is taking place from 29 July to 25 August, and the Women's tournament will be played from 29 July to 22 August in the same venue. The FIDE World Chess Cup will gather 206 players, and the top seeds are: Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov, Dommaraju Gukesh, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-chess-cup-fide-womens-world-chess-cup-2023-kick-off-in-baku/",
-         "pubDate" : "Wed, 26 Jul 2023 11:47:31 +0000",
-         "title" : "FIDE World Chess Cup & FIDE Women's World Chess Cup 2023 kick off in Baku"
       }
    ]
 }
