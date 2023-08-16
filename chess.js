@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/",
+         "pubDate" : "Wed, 16 Aug 2023 02:08:07 +0000",
+         "title" : "Colorful vibes at Pan-American Youth Chess Festival"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Arjun Erigaisi won in their typical styles against GM Dommaraju Gukesh and GM Rameshbabu Praggnanandhaa in the first game of the quarterfinals of the 2023 FIDE World Cup Open section. While Carlsen outwitted his young oppo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-1",
+         "pubDate" : "Tue, 15 Aug 2023 17:32:00 -0700",
+         "title" : "Carlsen, Arjun, Goryachkina Score In Day Of Big Fights And Black Wins"
+      },
+      {
          "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\"> 2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "xQc Beats Tyler1 Before Loudest Post-Match Interview In PogChamps History"
       },
       {
-         "description" : "Singapore&#39;s GM Tin Jingyao, seeded 120 in the 2023 FIDE World Cup, knocked out ninth seed GM Shakhriyar Mamedyarov in a dramatic day of round-two action. A dark horse to win the event, GM Nodirbek Abdusattorov, fell to 112th seed GM Vahap Sanal, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-2-2",
-         "pubDate" : "Thu, 03 Aug 2023 15:54:00 -0700",
-         "title" : "Mamedyarov, Abdusattorov, Shankland Crash Out Of World Cup"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2545",
          "pubDate" : "Wed, 26 Jul 2023 05:44:09 +0000",
          "title" : "Chess for Refugees Project: Rohingya School Teachers Chess Training"
-      },
-      {
-         "description" : " A few weeks ago, Fidel Corrales Jimenez won the 2023 World Open with an undefeated 7.5/9 beating out eight others (including GM Hans Niemann) by a half-point. A strong performance was put in by 17-year-old IM Justin Wang who earned a GM norm in the pack of players ending on 7/9. The World Open is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/\">After 2023 World Open, a new chess era unfolding</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/25/after-2023-world-open-new-era-unfolding/",
-         "pubDate" : "Wed, 26 Jul 2023 01:01:29 +0000",
-         "title" : "After 2023 World Open, a new chess era unfolding"
       }
    ]
 }
