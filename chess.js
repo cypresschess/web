@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Wed, 16 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen and Arjun Erigaisi both won with black to take a 1-point lead in their quarterfinal matches against Dommaraju Gukesh and Praggnanandhaa, respectively. Leinier Dominguez got winning chances but failed to find precise continuations against Fabiano Caruana, while Vidit Gujrathi and Nijat Abasov signed a 109-move draw on Tuesday. In the women's section, Aleksandra Goryachkina defeated Tan Zhongyi, also with black. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d1",
+         "pubDate" : "Wed, 16 Aug 2023 12:00:00 +0100",
+         "title" : "World Cup: Carlsen and Arjun score with black"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2585",
+         "pubDate" : "Wed, 16 Aug 2023 09:05:13 +0000",
+         "title" : "Important changes in FIDE Regulations for the Appointment of Arbiters in World Events"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2586",
+         "pubDate" : "Wed, 16 Aug 2023 08:07:27 +0000",
+         "title" : "FIDE World Youth Olympiad 2023: Day 3 Recap"
+      },
+      {
          "description" : "It was a historic moment for Indian chess since 4 out of 8 participants were Indians! GUKESH-CARLSEN &#160;&#160;&#160;0-1 Gukesh started with the London system where",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/fide-world-youth-u16-chess-olympiadreport-round-4-5/",
          "pubDate" : "Wed, 16 Aug 2023 06:43:40 +0000",
          "title" : "FIDE World Youth U16 Chess Olympiad:Report Round 4 & 5"
+      },
+      {
+         "description" : "India's chess contingent held their own in the quarterfinals, while Fabiano Caruana drew with Leinier Dominguez Perez in the other quarterfinal.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38200344/2023-chess-world-cup-quarterfinals-magnus-carlsen-leads-d-gukesh-arjun-erigaisi-beats-r-praggnanandhaa-vidit-gujrathi-contention?device=featurephone",
+         "pubDate" : "Wed, 16 Aug 2023 01:07:33 -0500",
+         "title" : "2023 Chess World Cup QFs: Magnus leads Gukesh, Erigaisi beats Praggnanandhaa, Vidit in contention"
       },
       {
          "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -50,6 +90,14 @@ news_feed (
          "title" : "FIDE World Cup Round 6 Game 1: Goryachkina wins, Caruana makes a lucky escape"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2582",
+         "pubDate" : "Tue, 15 Aug 2023 20:12:04 +0000",
+         "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
+      },
+      {
          "description" : "Structures with \"Hanging Pawns\" can occur in many openings and it helps to know how to play these structures. In the following article Jan Markos gives some general guidelines, but focuses on one piece in particular: the \"Restless Knight\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,6 +130,14 @@ news_feed (
          "title" : "The Rambling Rook (2)"
       },
       {
+         "description" : "The German Women's Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Kateryna Dolzhykova, Lara Schulze, Carmen Voicu-Jagodzinsky, Annemarie Meier, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-womens-championship-2023-live/",
+         "pubDate" : "Tue, 15 Aug 2023 11:58:00 +0000",
+         "title" : "German Women's Championship 2023 - LIVE"
+      },
+      {
          "description" : "Chess.com&#38;rsquo;s flagship Speed Chess Championship presented by Coinbase, the stellar event to find the world&#38;rsquo;s top player over fast time controls, will kick off next month with GM Hikaru Nakamura gunning for an incredible sixth title in a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,12 +146,12 @@ news_feed (
          "title" : "Nakamura And Carlsen's Rivalry Returns For 2023 Speed Chess Championship Presented By Coinbase"
       },
       {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Tue, 15 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
+         "description" : "The German Women's Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Kateryna Dolzhykova, Lara Schulze, Carmen Voicu-Jagodzinsky, Annemarie Meier, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-womens-championship-2023/",
+         "pubDate" : "Tue, 15 Aug 2023 11:34:00 +0000",
+         "title" : "German Women's Championship 2023"
       },
       {
          "description" : "D Gukesh Magnus Carlsen is 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of 2023 FIDE World Cup are : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez Fabiano Caruana / Praggnanandhaa R Arjun Erigaisi FIDE Women's World []",
@@ -130,6 +186,14 @@ news_feed (
          "title" : "Santosh Gujrathi Vidit - Nijat Abasov, FIDE World Cup 2023 1/4 final - LIVE"
       },
       {
+         "description" : "The German Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is s a 9-round Swiss tournament with participation of Daniel Fridman, Alexander Graf, Vitaly Kunin, Hagen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-championship-2023-live/",
+         "pubDate" : "Tue, 15 Aug 2023 09:45:00 +0000",
+         "title" : "German Championship 2023 - LIVE"
+      },
+      {
          "description" : "Leinier Dominguez Perez Fabiano Caruana is 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of 2023 FIDE World Cup are : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez Fabiano Caruana / Praggnanandhaa R Arjun Erigaisi FIDE Women's []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -144,6 +208,14 @@ news_feed (
          "link" : "https://www.chessdom.com/praggnanandhaa-r-arjun-erigaisi-fide-world-cup-2023-1-4-final-live/",
          "pubDate" : "Tue, 15 Aug 2023 08:42:00 +0000",
          "title" : "Praggnanandhaa R - Arjun Erigaisi, FIDE World Cup 2023 1/4 final - LIVE"
+      },
+      {
+         "description" : "The German Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is s a 9-round Swiss tournament with participation of Daniel Fridman, Alexander Graf, Vitaly Kunin, Hagen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-championship-2023/",
+         "pubDate" : "Tue, 15 Aug 2023 08:25:00 +0000",
+         "title" : "German Championship 2023"
       },
       {
          "description" : "The duel knight against bishop can be complicated. The knight often wants static positions while the bishop likes dynamics. In the diagram position Black is a pawn down, but has problems to solve. White's h-pawn is dangerous and White's king threatens to invade. However, Black can save the draw. How?",
@@ -386,6 +458,14 @@ news_feed (
          "title" : "Endgames from the Biel Triathlon"
       },
       {
+         "description" : "GM Rogoff has made occasional appearances on this blog since the first, featured mention in <A HREF=\"https://chessforallages.blogspot.com/2012/02/kenny-rogoff-as-youve-never-seen-him.html\">Kenny Rogoff as You've Never Seen Him</A> (February 2012), where he had a full head of hair. Here he weighs in on the top computer topic of the 2020s. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2_x4PKTRaKc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>How AI makes Chess 'more interesting': International Grandmaster</B> (3:43) &#149; '[Publ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/at-center-of-ai-research.html",
+         "pubDate" : "Sun, 13 Aug 2023 15:07:00 +0000",
+         "title" : "'At the Center of AI Research'"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -506,44 +586,12 @@ news_feed (
          "title" : "World Cup: Pragg bests Naka, Carlsen to face Ivanchuk"
       },
       {
-         "description" : "Ferenc Berkes Praggnanandhaa R is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ferenc-berkes-praggnanandhaa-r-fide-world-cup-2023-1-8-final-live/",
-         "pubDate" : "Fri, 11 Aug 2023 19:56:34 +0000",
-         "title" : "Ferenc Berkes - Praggnanandhaa R, FIDE World Cup 2023 1/8 final - LIVE"
-      },
-      {
-         "description" : "Erigaisi Arjun Nils Grandelius is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/erigaisi-arjun-nils-grandelius-fide-world-cup-2023-1-8-final-live/",
-         "pubDate" : "Fri, 11 Aug 2023 19:54:08 +0000",
-         "title" : "Erigaisi Arjun - Nils Grandelius, FIDE World Cup 2023 1/8 final - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2573",
          "pubDate" : "Fri, 11 Aug 2023 19:49:27 +0000",
          "title" : "World Cup Round 4 Tiebreaks: Hikaru Nakamura and Ju Wenjun are out"
-      },
-      {
-         "description" : "Magnus Carlsen -Vasyl Ivanchuk is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vasyl-ivanchuk-fide-world-cup-2023-1-8-final-live/",
-         "pubDate" : "Fri, 11 Aug 2023 19:38:44 +0000",
-         "title" : "Magnus Carlsen -Vasyl Ivanchuk, FIDE World Cup 2023 1/8 final - LIVE"
-      },
-      {
-         "description" : "Hao Wang D Gukesh is 1/8 final game of 2023 FIDE World Cup.The other games from 1/8 final stage of the tournament are : Magnus Carlsen -Vasyl Ivanchuk / Hao Wang D Gukesh / Nijat Abasov A.R. Saleh Salem / Santosh Gujrathi Vidit Ian Nepomniachtchi / Fabiano Caruana Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hao-wang-d-gukesh-fide-world-cup-2023-1-8-final-live/",
-         "pubDate" : "Fri, 11 Aug 2023 19:16:00 +0000",
-         "title" : "Hao Wang - D Gukesh, FIDE World Cup 2023 1/8 final - LIVE"
       },
       {
          "description" : "It can be very challenging to recognize one's mistakes much less own up to them with objectivity. We wiggle and we squirm as we seek to place the blame on outside factors, so imagine what it is like if you are asked to explain your 'crushing defeat' in front of a large audience. This is what happened to Mikhail Tal, but don't miss his priceless reply!",
@@ -856,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d3",
          "pubDate" : "Tue, 08 Aug 2023 18:00:00 +0100",
          "title" : "World Cup: Asabov and Santos leave Giri and Radjabov out"
-      },
-      {
-         "description" : "The big celebration of scholastic chess - the FIDE World Schools Team Championship 2023 - has ended. Istanbul ENKA High School (Turkey) in the U18 section and Velammal MHS Mogappair (India) in the U12 were unstoppable! Both winning teams won all eight matches and deservingly claimed gold medals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/istanbul-enka-high-school-and-velammal-mhs-mogappair-win-fide-wstc",
-         "pubDate" : "Tue, 08 Aug 2023 12:51:33 +0100",
-         "title" : "Istanbul ENKA High School and Velammal MHS Mogappair win FIDE WSTC"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fiel",
@@ -1520,22 +1560,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-chess-cup-fide-womens-world-chess-cup-2023-kick-off-in-baku/",
          "pubDate" : "Wed, 26 Jul 2023 11:47:31 +0000",
          "title" : "FIDE World Chess Cup & FIDE Women's World Chess Cup 2023 kick off in Baku"
-      },
-      {
-         "description" : "The Uttarakhand lad Tejas Tiwari has become the youngest FIDE rated chess player among all FIDE rated players in the world. at the age of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-tejas-tiwari-the-youngest-fide-rated-player-in-the-world/",
-         "pubDate" : "Wed, 26 Jul 2023 10:48:46 +0000",
-         "title" : "Congratulations Tejas Tiwari - The youngest FIDE Rated player in the World"
-      },
-      {
-         "description" : " The 56th Biel Chess Festival took place Sat 15th to Sun 30th Jul 2023. The main event was the Grand Master Triathlon which is a mix of Classical, Rapid and Blitz sections with 8 players: Yu Yangyi, Le Quang Liem, Arjun Erigaisi, Bogdan-Daniel Deac, Vincent Keymer, Bassem Amin, David Navara and Jules Moussard. In addition there are three main opens, the Masters, HTO and ATO. Le Quang Liem defended the title he won last year, Vincent Keymer lost his final round game against Erigaisi in pursuit of first place but still finished second ahead of David Navara.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/56th-biel-chess-festival-2023",
-         "pubDate" : "Wed, 26 Jul 2023 13:38:00 +0400",
-         "title" : "56th Biel Chess Festival 2023 - Games and Results"
       }
    ]
 }
