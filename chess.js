@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a historic moment for Indian chess since 4 out of 8 participants were Indians! GUKESH-CARLSEN &#160;&#160;&#160;0-1 Gukesh started with the London system where",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cup-quarter-finals/",
+         "pubDate" : "Wed, 16 Aug 2023 07:00:42 +0000",
+         "title" : "FIDE WORLD CUP QUARTER FINALS"
+      },
+      {
+         "description" : "India held higher seed Romania in the fifth round in the ongoing World Youth Chess Olympiad held at World's smartest square High Tech Campus in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-u16-chess-olympiadreport-round-4-5/",
+         "pubDate" : "Wed, 16 Aug 2023 06:43:40 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad:Report Round 4 & 5"
+      },
+      {
          "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1520,14 +1536,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/56th-biel-chess-festival-2023",
          "pubDate" : "Wed, 26 Jul 2023 13:38:00 +0400",
          "title" : "56th Biel Chess Festival 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2545",
-         "pubDate" : "Wed, 26 Jul 2023 05:44:09 +0000",
-         "title" : "Chess for Refugees Project: Rohingya School Teachers Chess Training"
       }
    ]
 }
