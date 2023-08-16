@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com and Lichess will halt their relationships with St. Louis Chess Club and no longer provide support for or cover any of their tournaments in the wake of allegations of sexual misconduct, The Wall Street Journal revealed on Wednesday. In ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wsj-chess-servers-end-support-for-saint-louis-tournaments",
+         "pubDate" : "Wed, 16 Aug 2023 11:52:50 -0700",
+         "title" : "WSJ: Chess Servers Halt Relationships With Saint Louis Chess Club"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102780283.cms\" />Indian Grandmasters D Gukesh and Vidit Santosh Gujrathi bowed out of the FIDE World Cup chess tournament after losing to Norwegian Magnus Carlsen and Azerbaijan's Nijat Abasov respectively here on Wednesday. R Pragganandhaa, however, bounced back after losing the first game of the two-game classical series against fellow Indian Arjun Erigaisi to force a tie-break, which will be played on Thursday to decide who advances to the last four.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-cup-chess-d-gukesh-vidit-gujrathi-bow-out-r-praggnanandhaa-forces-tie-breaker-against-arjun-erigaisi/articleshow/102780283.cms",
+         "pubDate" : "Wed, 16 Aug 2023 17:22:29 +0000",
+         "title" : "World Cup chess: Gukesh, Gujrathi bow out; Praggnanandhaa forces tie-breaker against Erigaisi"
+      },
+      {
+         "description" : "Hans Niemann scored 7&frac12;/9 points to win the Uralsk Open 2023 in Kazakhstan. He finished a full point ahead of a five-player chasing pack consisting of GM Sethuraman S P, GM Manuel Petrosyan, GM Samvel Ter-Sahakyan, GM Boris Savchenko and Valery Sviridov. Niemann entered the tournament as the rating favourite. The US youngster lost his round-2 game and bounced back in style, scoring 6&frac12;/7 from that point on, with five consecutive wins in rounds 5 to 9. | Photos: Kazakh Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-wins-uralsk-open-2023",
+         "pubDate" : "Wed, 16 Aug 2023 18:15:00 +0100",
+         "title" : "Hans Niemann scores five wins in a row, clinches Uralsk Open"
+      },
+      {
+         "description" : "GM Alireza Firouzja beat out GM Levon Aronian on tiebreaks in the early Titled Tuesday on August 15, before GM Aram Hakobyan won the late event with the first 10/11 score in two weeks. For both Firouzja and Hakobyan, it was their second Titled Tue...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-hakobyan-win-titled-tuesday-august-15-2023",
+         "pubDate" : "Wed, 16 Aug 2023 10:07:09 -0700",
+         "title" : "Firouzja Edges Out Aronian In Early Titled Tuesday"
+      },
+      {
+         "description" : "In his Game of the Week show #581, Merijn Van Delft shares a fantastic attacking game. Playing white against Ferenc Berkes, Indian prodigy Praggnanandhaa combined great opening prep with imagination and a keen tactical eye! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-581-pragg-berkes",
+         "pubDate" : "Wed, 16 Aug 2023 17:30:00 +0100",
+         "title" : "Game of the Week #581: R. Praggnanandhaa vs F. Berkes"
+      },
+      {
+         "description" : " The Chess Drum visited the Pan-Am Youth Chess Festival held in Chicago and was able to have a chat with FM Warren Elliott, part of the Jamaica delegation. During this brief discussion, he mentioned his reason for being at the event, the current state of chess in Jamaica, the future of Jamaican chess, and the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/\">Drum chats with FM Warren Elliott</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/",
+         "pubDate" : "Wed, 16 Aug 2023 15:56:38 +0000",
+         "title" : "Drum chats with FM Warren Elliott"
+      },
+      {
+         "description" : "The ECF is aware of historical and serious allegations which have recently been made public by a female chess player regarding highly inappropriate behaviour from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/recent-allegations-made-online/",
+         "pubDate" : "Wed, 16 Aug 2023 15:36:42 +0000",
+         "title" : "Recent allegations made online"
+      },
+      {
          "description" : " Last night I played a game that was almost a brilliancy. Utilising my rook, I managed to organise quite a good attack on my opponents king. Unfortunately, when the time came to find the knockout blow, I bailed out. Instead of rewarding my rook sacrifice with a win, I decided that half a point was reward enough. Even after the game I didn't see the correct move, which only became clear with some silicon help. <br /> <b>Press,Shaun - Radisich,Matt [E66]</b><br /> LFG --- (4), 15.08.2023 <script> new PgnViewer( { boardName: \"game1416\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 c5 3.c4 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O d6 7.Nc3 Nc6 8.d5 Nb8 9.h3 Na6 10.e4 Bd7 11.e5 Ne8 12.Bf4 h6 13.Ne4 Bf5 14",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -234,6 +290,22 @@ news_feed (
          "title" : "German Championship 2023"
       },
       {
+         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
+         "pubDate" : "Tue, 15 Aug 2023 09:10:00 +0100",
+         "title" : "Sicilian Dragon: The Real Deal!"
+      },
+      {
+         "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-chessbase17-august-2023-optimizing-the-screen",
+         "pubDate" : "Tue, 15 Aug 2023 09:05:00 +0100",
+         "title" : "ChessBase 17 Tutorial: Optimizing the screen"
+      },
+      {
          "description" : "The duel knight against bishop can be complicated. The knight often wants static positions while the bishop likes dynamics. In the diagram position Black is a pawn down, but has problems to solve. White's h-pawn is dangerous and White's king threatens to invade. However, Black can save the draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,22 +400,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open/#new_tab",
          "pubDate" : "Mon, 14 Aug 2023 13:12:37 +0000",
          "title" : "2nd Cambridge International Open"
-      },
-      {
-         "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-chessbase17-august-2023-optimizing-the-screen",
-         "pubDate" : "Mon, 14 Aug 2023 13:42:18 +0100",
-         "title" : "ChessBase 17 Tutorial: Optimizing the screen"
-      },
-      {
-         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
-         "pubDate" : "Mon, 14 Aug 2023 12:45:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "The FIDE World Youth Olympiad! It often gets overshadowed by the World Cup, but is actually one of the bigger tournaments at the youth level. This year, it's being hosted in Eindhoven, the Netherlands. 63 teams from all around the world are competing, each with four young players. Report by Bram Klapwijk.",
@@ -906,22 +962,6 @@ news_feed (
          "title" : "Indian 16-Year-Old Jumps From 2000 To 2600 In Two Months"
       },
       {
-         "description" : "There are chess positions, puzzles, which are not just clever. They can be very entertaining. An expert in such positions is Gauri Shankar, a chess trainer from Chicago, who has a great talent for finding such positions, and for explaining the results in instructive style. Today we how you three positions, which you can try to solve, and let Gauri show you how, if you fail to work out how.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gauri-chess-puzzles",
-         "pubDate" : "Tue, 08 Aug 2023 18:40:22 +0100",
-         "title" : "Gauri chess puzzles"
-      },
-      {
-         "description" : "Two players from the top 10 rating-wise in Baku were eliminated in the tiebreaks of round 3 at the open section of the World Cup. Nijat Abasov knocked out Anish Giri, while Jaime Santos left Teimour Radjabov out of contention. Meanwhile, the lowest-rated player still going is Turkish GM Vahap Sanal, who got the better of Anton Korobov on Monday. In the women's section, the one upset of the day saw Teodora Injac from Serbia knocking out Alexandra Kosteniuk. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r3-d3",
-         "pubDate" : "Tue, 08 Aug 2023 18:00:00 +0100",
-         "title" : "World Cup: Asabov and Santos leave Giri and Radjabov out"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1178,14 +1218,6 @@ news_feed (
          "title" : "FIDE World Cup 2023 Round 2 Tiebreaks: Alexander Grischuk and Kateryna Lagno eliminated"
       },
       {
-         "description" : "Warning: This article mentions instances of sexual abuse that may be triggering for readers. A group of women chess players are fed up with sexist behavior and sexual violence in the chess world and decided to send a strong message in an open le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-chess-players-publish-open-letter-denouncing-sexist-behavior",
-         "pubDate" : "Fri, 04 Aug 2023 12:12:00 -0700",
-         "title" : "'We Have Remained Silent For Too Long': Women Chess Players Denounce Sexist Behavior"
-      },
-      {
          "description" : " The much anticipated Press v Press clash in the LFG Invitational ended in a victory for youth. I didn't help my cause by blundering a pawn in the opening, although I received enough compensation for it that it could have been described as a pawn sacrifice. Where I really went wrong was not connecting a couple of separate plans together, to form one cohesive strategy. I looked at ideas around winning the c5 pawn with Rc1 and attacking the king with moves like d6. It turns out that if I played 16.d6! Black can only stop Plan B by allowing me to execute Plan A. Instead I just focussed on Plan B (which fails on its own) and eventually gave away most of my pieces! <br /> <b>Press,Shaun - Press,H",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1208,14 +1240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-4",
          "pubDate" : "Fri, 04 Aug 2023 02:55:48 +0000",
          "title" : "2023 Summer Chess Classic: Round 4"
-      },
-      {
-         "description" : "PogChamps 5 continued with another action-packed day. QTCinderella fought for redemption by checkmating Papaplatte twice to win their match. xQc then proved that chess is harder than League of Legends as he defeated Tyler1 in a possible prequel ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-7",
-         "pubDate" : "Thu, 03 Aug 2023 17:54:25 -0700",
-         "title" : "xQc Beats Tyler1 Before Loudest Post-Match Interview In PogChamps History"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
@@ -1352,14 +1376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jan-marcos-middlegame-strategy",
          "pubDate" : "Mon, 31 Jul 2023 17:05:00 +0100",
          "title" : "Jan Markos: Middlegame strategy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
-         "pubDate" : "Mon, 31 Jul 2023 09:40:15 +0000",
-         "title" : "ECF Arbiter Course - September/October"
       },
       {
          "description" : "The 2023 European Youth Team Chess Championship concluded yesterday in Iasi, Romania and Poland emerged as the winner of all competitions in the event, winning the unprecedented quadruple gold! Scoring 13 match points (6 victories and 1 draw), Poland convincingly clinched the Open U12 section. Turkey was second with 11 match points, while Israel and Germany tied for third scoring 9 match points. Having better tiebreaks (Olympiad Sonneborn Berger), Israel won bronze medal. With the same match score of 13 []",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/reading-riot-act.html",
          "pubDate" : "Wed, 26 Jul 2023 23:53:00 +0000",
          "title" : "Reading the Riot Act"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102147179.cms\" />Aditya S Samant, a 17-year-old chess prodigy from Maharashtra, achieved a momentous milestone by becoming India's 83rd chess Grandmaster on Wednesday. Prior to this achievement, he held the title of International Master.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-samant-becomes-indias-83rd-chess-grandmaster/articleshow/102147179.cms",
-         "pubDate" : "Wed, 26 Jul 2023 16:26:55 +0000",
-         "title" : "Aditya Samant becomes India's 83rd chess Grandmaster"
       }
    ]
 }
