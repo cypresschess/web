@@ -1592,14 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2548",
          "pubDate" : "Thu, 27 Jul 2023 05:34:01 +0000",
          "title" : "D&uuml;sseldorf hosts the inaugural World Team Rapid Chess Championship"
-      },
-      {
-         "description" : " The Riot Act is a Canberra institution, starting off as local discussion forum, before transforming itself into a local news platform. It was one of the sites I used to read regularly when I was working, although in retirement my readership is more sporadic. But I draw you attention to it, because they have just published a nice article on Street Chess (complete with pictures of me sporting my current beard). I even revealed some 'secret' chess moves that players might not know about ('Clickbait' warning. They are castling, en passant and promotion) So check out the article at <a href=\"https://the-riotact.com/more-popular-than-its-ever-been-why-chess-is-still-champion-in-canberra/686139\">ht",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/reading-riot-act.html",
-         "pubDate" : "Wed, 26 Jul 2023 23:53:00 +0000",
-         "title" : "Reading the Riot Act"
       }
    ]
 }
