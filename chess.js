@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Levy Rozman&#39;s first chess book is months away from being released, but it has already sold more than 12,000 copies and made it to #1 on Amazon&#39;s best-seller lists. The online chess streamer, popularly known as GothamChess, is the world&#39;s bigg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-tops-amazon-lists-with-first-book",
+         "pubDate" : "Thu, 17 Aug 2023 11:43:00 -0700",
+         "title" : "'GothamChess' Tops Amazon Lists More Than Two Months Before Release Of First Book"
+      },
+      {
+         "description" : "Over the course of his career, Daniel King has written many books that have been chess bestsellers! This time, the world-famous grandmaster, writer, commentator and coach has come up with another book: \"How to Win at Chess: From First Moves to Checkmate\". The short, 54-page book is ideal for someone who is just starting out in chess. Before examining tactics like forks, pins, and skewers, it describes each piece and its movements and clarifies fundamental concepts like check and how to open a game. We recently had a conversation with Daniel about his new book, his writing process, and more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-how-to-win-at-chess",
+         "pubDate" : "Thu, 17 Aug 2023 19:35:00 +0100",
+         "title" : "Daniel King's new book: How to Win at Chess"
+      },
+      {
+         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
+         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102811425.cms\" />Indian Grandmaster R Praggnanandhaa defeated compatriot Arjun Erigaisi 5-4 via the sudden death tie-break to enter the semifinals of the FIDE World Cup chess tournament here on Thursday. With the win, the 17-year old Praggnanandhaa booked a place in the semifinals against American ace Fabiano Caruana and almost secured a spot in next year's Candidates event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/wc-chess-r-praggnanandhaa-ousts-arjun-erigaisi-in-sudden-death-tie-break-enters-last-4/articleshow/102811425.cms",
+         "pubDate" : "Thu, 17 Aug 2023 16:54:29 +0000",
+         "title" : "WC Chess: Praggnanandhaa ousts Erigaisi in sudden death tie-break, enters last 4"
+      },
+      {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/samunenkos-gurel-wild-cards-grand-swiss-2023",
          "pubDate" : "Thu, 17 Aug 2023 08:00:00 +0100",
          "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
+      },
+      {
+         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
+         "pubDate" : "Thu, 17 Aug 2023 06:30:00 +0100",
+         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "Nijat Abasov, the 69th seed in the open section of the FIDE World Cup, has all but secured a spot in the next edition of the Candidates Tournament, as he beat Vidit Gujrathi with white to knock him out of the event. Since Magnus Carlsen, his next opponent, also reached the semifinals and is very likely to skip the Candidates, the Azerbaijani will not even need to finish among the top-3 to reach the 8-player World Championship qualifier. Fabiano Caruana also advanced to the semifinals, while Praggnanandhaa bounced back in his match against Arjun Erigaisi. Among the women, Aleksandra Goryachkina drew Tan Zhongyi and made it through to the final. | Photo: FIDE / Stev Bonhage",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
          "pubDate" : "Wed, 16 Aug 2023 12:58:23 -0500",
          "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
-      },
-      {
-         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
-         "pubDate" : "Wed, 16 Aug 2023 18:30:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102780283.cms\" />Indian Grandmasters D Gukesh and Vidit Santosh Gujrathi bowed out of the FIDE World Cup chess tournament after losing to Norwegian Magnus Carlsen and Azerbaijan's Nijat Abasov respectively here on Wednesday. R Pragganandhaa, however, bounced back after losing the first game of the two-game classical series against fellow Indian Arjun Erigaisi to force a tie-break, which will be played on Thursday to decide who advances to the last four.",
@@ -914,14 +946,6 @@ news_feed (
          "title" : "IN MEMORIAM - Aleksandar Matanovic (1930-2023)"
       },
       {
-         "description" : "One of the most exciting events in the chess calendar, the FIDE World Cup, is taking place in Baku. Players try to show their best as they fight for spots in the next edition of the Candidates Tournaments, both in the open and in the women's section. Robert Ris, a successful coach and a fantastic analyst, has been publishing videos with highlights from the much-anticipated tournament. Not to be missed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-analyses-world-cup-1",
-         "pubDate" : "Thu, 10 Aug 2023 07:30:00 +0100",
-         "title" : "Fantastic battles from the World Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1274,14 +1298,6 @@ news_feed (
          "title" : "2023 Summer Chess Classic: Round 5"
       },
       {
-         "description" : "It was a day that seesawed between inspiration and shock at PogChamps 5. As the players fought it out in their brackets, some rose from the ashes of their former selves to emerge victorious while others played their final moves of the event.&#38;nbsp;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-8",
-         "pubDate" : "Fri, 04 Aug 2023 20:32:00 -0700",
-         "title" : "Franks-Is-Heres Knocks Out Ghastly, Rise of Squeex and Daily Dose"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1592,14 +1608,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
          "pubDate" : "Fri, 28 Jul 2023 07:00:04 +0000",
          "title" : "Chess: British Championship nears final round as Howell readies for World Cup"
-      },
-      {
-         "description" : "The month of July 2023 is coming to an end, meaning that it's time for a roundup of the month's chess news, aka Yahoos. For a more precise definition of Yahoos, see the footnote below. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ng27.gif\" WIDTH=200 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> I always start a post with a summary of the sources that reported the month's news, as shown in the chart on the left. This month we had nine sources with two or more stories, topped as usual by Chess.com. <P> Second was Chessbase, with double the count for the two sources tied for third. Last month Chessbase was missing from the list of sources with more than one story. In that post, <A HREF=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/07/blocks-of-yahoos.html",
-         "pubDate" : "Thu, 27 Jul 2023 15:33:00 +0000",
-         "title" : "Blocks of Yahoos"
       }
    ]
 }
