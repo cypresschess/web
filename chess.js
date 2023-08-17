@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The world's strongest Swiss-system chess event, the FIDE Grand Swiss, is set to be played on the Isle of Man from October 23 to November 6, 2023. At the end of July, FIDE announced that 100 players had already confirmed their participation in the Grand Swiss and 40 players in the Women's Grand Swiss. However, wild cards are still being distributed, and it was just announced that two of them will go to the exceptional young talents, IMs Ihor Samunenkov from Ukraine and Ediz Gurel (pictured) from Turkey. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/samunenkos-gurel-wild-cards-grand-swiss-2023",
+         "pubDate" : "Thu, 17 Aug 2023 08:00:00 +0100",
+         "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
+      },
+      {
+         "description" : "Nijat Abasov, the 69th seed in the open section of the FIDE World Cup, has all but secured a spot in the next edition of the Candidates Tournament, as he beat Vidit Gujrathi with white to knock him out of the event. Since Magnus Carlsen, his next opponent, also reached the semifinals and is very likely to skip the Candidates, the Azerbaijani will not even need to finish among the top-3 to reach the 8-player World Championship qualifier. Fabiano Caruana also advanced to the semifinals, while Praggnanandhaa bounced back in his match against Arjun Erigaisi. Among the women, Aleksandra Goryachkina drew Tan Zhongyi and made it through to the final. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d2",
+         "pubDate" : "Thu, 17 Aug 2023 06:15:00 +0100",
+         "title" : "World Cup: Abasov's dream run continues"
+      },
+      {
          "description" : "GM Magnus Carlsen staved off a formidable challenge from GM Dommaraju Gukesh and held the draw he needed, while GM Nijat Abasov and GM Fabiano Caruana defeated GM Vidit Gujrathi and GM Leinier Dominguez, respectively, to advance to the semifinals ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-2",
-         "pubDate" : "Wed, 16 Aug 2023 15:50:33 -0700",
+         "pubDate" : "Wed, 16 Aug 2023 15:50:00 -0700",
          "title" : "Abasov Continues Miracle Run On Home Soil To Join Carlsen, Caruana In Semifinals"
       },
       {
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
          "pubDate" : "Wed, 16 Aug 2023 12:58:23 -0500",
          "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
+      },
+      {
+         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
+         "pubDate" : "Wed, 16 Aug 2023 18:30:00 +0100",
+         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102780283.cms\" />Indian Grandmasters D Gukesh and Vidit Santosh Gujrathi bowed out of the FIDE World Cup chess tournament after losing to Norwegian Magnus Carlsen and Azerbaijan's Nijat Abasov respectively here on Wednesday. R Pragganandhaa, however, bounced back after losing the first game of the two-game classical series against fellow Indian Arjun Erigaisi to force a tie-break, which will be played on Thursday to decide who advances to the last four.",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2582",
          "pubDate" : "Wed, 16 Aug 2023 12:12:04 +0000",
          "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Wed, 16 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Please find the link for live games for 60th National Chess Championship 2023 https://live.followchess.com/%23!60th-ind-national-chp-2023",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://www.chessdom.com/german-championship-2023/",
          "pubDate" : "Tue, 15 Aug 2023 08:25:00 +0000",
          "title" : "German Championship 2023"
-      },
-      {
-         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
-         "pubDate" : "Tue, 15 Aug 2023 09:10:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
@@ -986,14 +994,6 @@ news_feed (
          "title" : "2023 Summer Chess Classic: Round 9"
       },
       {
-         "description" : "The 2023 U.S. Open ran from July 29 to August 6 in Grand Rapids, Michigan. It offered nine-day, six-day, and four-day schedules, which merged in round 7. The U.S. Open Champion is GM Andrew Tang. WIM Alexey Root attended meetings, visited the Gerald R. Ford Presidential Museum, and interviewed the U.S. Open Champion (and the champ's father). | Photo: Daniel Day / U.S. Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2023-us-open-report-grand-rapids",
-         "pubDate" : "Wed, 09 Aug 2023 01:00:00 +0100",
-         "title" : "2023 U.S. Open: Grand Rapids, Grandmasters, and Grand Meetings"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-70/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (70)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-70/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (70)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1576,22 +1576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
          "pubDate" : "Thu, 27 Jul 2023 14:00:00 +0100",
          "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2547",
-         "pubDate" : "Thu, 27 Jul 2023 06:12:23 +0000",
-         "title" : "Biel Grandmaster Triathlon 2023: Lê Quang Liêm defends his title "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2548",
-         "pubDate" : "Thu, 27 Jul 2023 05:34:01 +0000",
-         "title" : "D&uuml;sseldorf hosts the inaugural World Team Rapid Chess Championship"
       }
    ]
 }
