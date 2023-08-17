@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/chess-in-far-far-future.html",
+         "pubDate" : "Thu, 17 Aug 2023 11:52:00 +0000",
+         "title" : "Chess in the far far future"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1592,22 +1600,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/blocks-of-yahoos.html",
          "pubDate" : "Thu, 27 Jul 2023 15:33:00 +0000",
          "title" : "Blocks of Yahoos"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102178214.cms\" />Tejas Tiwari, a young chess prodigy from India, has earned the prestigious title of being the world's youngest FIDE rated player. Remarkably, he accomplished this extraordinary feat at the incredibly tender age of five.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-5-year-old-tejas-tiwari-is-worlds-youngest-player-with-fide-rating/articleshow/102178214.cms",
-         "pubDate" : "Thu, 27 Jul 2023 14:33:41 +0000",
-         "title" : "India's 5-year old Tejas Tiwari is world's youngest player with FIDE rating"
-      },
-      {
-         "description" : "The junior chess championships of various age categories serve a very important purpose. The talented medal winners get the limelight they need - with the adequate amount of support, these kids can go on to do great things in the chess world! One such example is 2014-born Thehas Rithmitha Kiringoda, gold medallist in the Under-9 World Schools Championships 2023. Starting off as the 21st seed among 61 players, Thehas went on to score a dominating 7&frac12;/9 and win the event! In this article, we ask Thehas a few questions about his chess journey so far, his performance in the World Schools, future goals and much more. Get to know the mindset of a young chess talent.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/thehas-rithmitha-big-thing-in-sri-lanka",
-         "pubDate" : "Thu, 27 Jul 2023 14:00:00 +0100",
-         "title" : "The next big thing in Sri Lankan Chess: Thehas Rithmitha"
       }
    ]
 }
