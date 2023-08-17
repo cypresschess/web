@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Praggnanandhaa Rameshbabu and GM Arjun Erigaisi were engaged in 1-1 deadlocks in three sets of tiebreak games at the 2023 FIDE World Cup. After two draws in the 25+10 rapid tiebreaks, Praggnanandhaa twice took the lead by winning the first game...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-3",
+         "pubDate" : "Thu, 17 Aug 2023 16:05:36 -0700",
+         "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2592",
+         "pubDate" : "Thu, 17 Aug 2023 22:04:38 +0000",
+         "title" : "Revised Tie-break Regulations come to force on September 1, 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2591",
+         "pubDate" : "Thu, 17 Aug 2023 21:11:13 +0000",
+         "title" : "World Cup Round 6 Tiebreaks: Salimova in the Women's finals, Praggnanandhaa in the Open semis"
+      },
+      {
          "description" : "IM Levy Rozman&#39;s first chess book is months away from being released, but it has already sold more than 12,000 copies and made it to #1 on Amazon&#39;s best-seller lists. The online chess streamer, popularly known as GothamChess, is the world&#39;s bigg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -290,12 +314,12 @@ news_feed (
          "title" : "Carlsen, Arjun, Goryachkina Score In Day Of Big Fights And Black Wins"
       },
       {
-         "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\"> 2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\">2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/",
          "pubDate" : "Tue, 15 Aug 2023 22:03:13 +0000",
-         "title" : " 2023 FIDE World Cup: Round 5"
+         "title" : "2023 FIDE World Cup: Round 5"
       },
       {
          "description" : "",
@@ -1216,22 +1240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-act-womens-and-girls-chess.html",
          "pubDate" : "Sun, 06 Aug 2023 12:32:00 +0000",
          "title" : "2023 ACT Women's and Girls Chess Championship"
-      },
-      {
-         "description" : "GM Peter Svidler glided to victory over GM Jorden van Foreest, GM Magnus Carlsen displayed his incredible endgame skills, and GMs Daniele Vocaturo and Ivan Schitco pulled off wins against their higher-rated opponents in the third round of the 2023...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-1",
-         "pubDate" : "Sat, 05 Aug 2023 18:09:00 -0700",
-         "title" : "Svidler, Carlsen Cruise to Victory; Roebers on Perfect Score"
-      },
-      {
-         "description" : "GM Daniel Naroditsky won first place and $400 in August&#39;s first Bullet Brawl on Saturday after scoring 74 wins and amassing a score of 275 in the two-hour arena. Previous winners GMs Jose Martinez and Oleksandr Bortnyk, who finished in second and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-week-1",
-         "pubDate" : "Sat, 05 Aug 2023 16:01:50 -0700",
-         "title" : "Naroditsky Runs Riot In Bullet Brawl"
       },
       {
          "description" : "",
