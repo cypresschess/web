@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Thu, 17 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2590",
+         "pubDate" : "Thu, 17 Aug 2023 09:29:05 +0000",
+         "title" : "21st European Union Youth Championship kicks off in Kouty nad Desnou, Czech Republic "
+      },
+      {
+         "description" : "The 8th edition of the European Small Nations Team Championship will be held from 28th October 2023 (arrival) to 5th November 2023 (departure) in the Pomme d'Or Hotel, St Helier, Jersey. The main supporter of the event is the European Chess Union which annually supports the major event of European Small Nations. The event is played as a 10-team round-robin event with the participation of the following teams: Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2023-official-regulations/",
+         "pubDate" : "Thu, 17 Aug 2023 09:21:16 +0000",
+         "title" : "European Small Nations Team Chess Championship 2023 - Official regulations"
+      },
+      {
+         "description" : "CARLSEN-GUKESH DRAW Carlsen needed a draw to qualify for the semi finals,he opted for the Alapin variation against the Sicilian.He got slight edge out of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cup-2023qf-report-6-2/",
+         "pubDate" : "Thu, 17 Aug 2023 08:48:02 +0000",
+         "title" : "Fide World Cup 2023:QF REPORT 6.2"
+      },
+      {
          "description" : "The world's strongest Swiss-system chess event, the FIDE Grand Swiss, is set to be played on the Isle of Man from October 23 to November 6, 2023. At the end of July, FIDE announced that 100 players had already confirmed their participation in the Grand Swiss and 40 players in the Women's Grand Swiss. However, wild cards are still being distributed, and it was just announced that two of them will go to the exceptional young talents, IMs Ihor Samunenkov from Ukraine and Ediz Gurel (pictured) from Turkey. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,6 +288,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2023-in-Gliwice-Poland-for-prescoolers-by-anna-kohut",
          "pubDate" : "Tue, 15 Aug 2023 20:00:00 +0100",
          "title" : "Chess Olympiad for Preschoolers"
+      },
+      {
+         "description" : "In last month's post for the 'On the Cover' series, titled <A HREF=\"https://chessforallages.blogspot.com/2023/07/july-1973-1998-on-cover.html\">July 1973 & 1998 'On the Cover'</A> (July 2023), I observed, 'we find two foreign-born GMs dominating both covers'. This month is mostly about the World Chess Championship both 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh15.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Shirov to Challenge Kasparov' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Robert Byrne, who finished 3rd at the Leningrad Interzonal and thus qualified for the Candidates' Matches, relaxing after his re",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/august-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 15 Aug 2023 15:54:00 +0000",
+         "title" : "August 1973 & 1998 'On the Cover'"
       },
       {
          "description" : " &#8220;Lord, I was born a ramblin' man Tryin' to make a livin' and doin' the best I can And when it's time for leavin' I hope you'll understand That I was born a ramblin' man&#8221; The Allman Brothers Band The rook endgames are the ultimate test of chess knowledge. They appear on the chessboard very <a href=\"https://chessimprover.com/the-rambling-rook-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Rambling Rook (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-rambling-rook-2/\">The Rambling Rook (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -896,14 +936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-1",
          "pubDate" : "Wed, 09 Aug 2023 17:07:00 -0700",
          "title" : "Carlsen, So On Brink Of World Cup Exit"
-      },
-      {
-         "description" : "Vincent Keymer beat Magnus Carlsen for the first time in his career and now only needs a draw on Thursday to knock the world number one out of the World Cup. The other big upset of the day saw Alexey Sarana brilliantly defeating Wesley So with the black pieces. In the women's section, 7 out of 8 games finished drawn. Bella Khotenashvili scored the one win of the day, as she beat third seed Humpy Koneru. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r4-d1",
-         "pubDate" : "Thu, 10 Aug 2023 00:05:00 +0100",
-         "title" : "World Cup: Keymer stuns Carlsen"
       },
       {
          "description" : "",
