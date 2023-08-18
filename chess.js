@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In July, Svitlana participated in the open section of the 2023 Canadian Junior Chess Championship, and faced some tough opponents. Impressively, she managed to reach the overall third place and added one more trophy to her collection. In addition, she will travel to Mexico for the World Junior Championship!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-another-trophy-for-svitlana",
+         "pubDate" : "Fri, 18 Aug 2023 16:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Another trophy for Svitlana"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,14 +82,6 @@ news_feed (
          "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
       },
       {
-         "description" : "FIDE, the International Chess Federation, has released a new policy banning transgender women from competing in women's chess events.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 17:45:38 -0500",
-         "title" : "FIDE bans trans women from women's chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-how-to-win-at-chess",
          "pubDate" : "Thu, 17 Aug 2023 19:35:00 +0100",
          "title" : "Daniel King's new book: How to Win at Chess"
-      },
-      {
-         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
-         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
       },
       {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
@@ -170,7 +162,7 @@ news_feed (
          "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
       },
       {
-         "description" : "Chris Ward' A series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "description" : "Chris Ward's series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
@@ -1018,14 +1010,6 @@ news_feed (
          "title" : "Aleksandar Matanovic (1930-2023)"
       },
       {
-         "description" : "In his Game of the Week show #580, Merijn Van Delft continues the tradition of presenting his losses and shows an interesting and highly tactical game he lost against GM Liam Vrolijk at the Bad Vlissingen tournament. A real slugfest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-580-l-vrolijk-vs-m-van-delft",
-         "pubDate" : "Thu, 10 Aug 2023 11:18:30 +0100",
-         "title" : "Game of the Week #580: L. Vrolijk vs M. Van Delft"
-      },
-      {
          "description" : "One of the greatest Serbian chess players, GM Aleksandar Matanovic, died yesterday in Belgrade, at the age of 93. Aleksandar Matanovic was born in Belgrade, on May 23rd, 1930. After becoming the Yugoslav Junior Chess Champion in 1948, he joined the Yugoslavian representation in 1950 playing the radio-match against the USA team. Aged 25, Matanovic became the grandmaster in 1955 and won the Yugoslavian National Championship three times (1962, 1969, 1978). He was a member of the Yugoslavian Olympic team []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1640,14 +1624,6 @@ news_feed (
          "link" : "https://www.thearticle.com/islam-chess-and-the-first-grandmaster/",
          "pubDate" : "Sat, 29 Jul 2023 06:36:14 +0000",
          "title" : "Islam, chess and the first grandmaster"
-      },
-      {
-         "description" : " The 2023 ANU Open and Minor (Under 1600) tournaments began today, with a total of 67 players. The Open section has 31 players, with IM Junta Ikeda as the top seed. While the top 5 seeds all scored wins against their lower rated opponents, there were a few upsets further down. Leiming Yu, Jonah Gear and Dev Raichura all score upset wins, while Masaki Horikawa held his higher rated opponent to a draw. The Minor (Under 1600) had 36 players, and once again almost all games went according to rating. Paul Dunn lost to unrated Matthew Dwyer, while experienced junior player Eshaan Extross escaped with a draw against debutant Andrew Blakers. The return to the Australian National University was welco",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-round-1.html",
-         "pubDate" : "Fri, 28 Jul 2023 13:25:00 +0000",
-         "title" : "2023 ANU Open - Round 1"
       }
    ]
 }
