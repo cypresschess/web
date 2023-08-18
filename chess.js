@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Strategy fans take note&#38;mdash;a unique star-studded multi-game crossover event that pits big names in chess against stars of Clash of Clans and Clash Royale is coming to Chess.com. IM Levy Rozman and WFM Alexandra Botez, two of the most followed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-clash-the-unique-event-featuring-clash-of-clans-clash-royale",
+         "pubDate" : "Fri, 18 Aug 2023 15:46:06 -0700",
+         "title" : "Launching Chess Clash: The Unique Event Featuring Clash of Clans, Clash Royale And A Galaxy Of Stars"
+      },
+      {
+         "description" : "The FIDE World Youth U16 Chess Olympiad concluded today in Eindhoven, Netherlands with China emerging as the sole Winner of the event. China scored 8 victories and one draw 17 match points in total to clinch the gold medal. The team showed dominance against all the opponents except from Armenia which managed to tie the match to 2-2 score. &#160;Out of the 36 games played, China scored a total of 31 board points.&#160; The defending champions, Turkey, won silver []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-youth-u16-olympiad-concluded-in-eindhoven-netherlands/",
+         "pubDate" : "Fri, 18 Aug 2023 20:01:05 +0000",
+         "title" : "FIDE World Youth U16 Olympiad concluded in Eindhoven, Netherlands"
+      },
+      {
          "description" : "The FIDE World Cup is taking place in Baku. We decided to do a short tour of the Azerbaijani capital before the important event commenced. After reading a lot about must-see places in Baku and getting info from the locals, Icherisheher (Old City) seemed to be the perfect place to venture. In a little over three hours, I visited The Palace of Shirvanshahs, the award-winning Miniature Book Museum, Maiden Tower and Nizami Street. Let us have a look at what piqued my interest on a day when I walked 16230 steps - my longest walk of the year! | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1232,14 +1248,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-july-2023/",
          "pubDate" : "Mon, 07 Aug 2023 08:10:27 +0000",
          "title" : "ECU E-Magazine July 2023"
-      },
-      {
-         "description" : "Chess in England is being given a massive boost in a move that is said to be &#34;potentially transformational&#34; for a nation where chess has struggled to gain attention for years. &#34;The Great British Chess Revival&#34; could begin this month, as U.K Prim...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/uk-chess-transformational-funding",
-         "pubDate" : "Sun, 06 Aug 2023 20:09:00 -0700",
-         "title" : "'Potentially Transformational' Boost: U.K Prime Minister To Announce Chess Funding"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
