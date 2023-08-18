@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup is taking place in Baku. We decided to do a short tour of the Azerbaijani capital before the important event commenced. After reading a lot about must-see places in Baku and getting info from the locals, Icherisheher (Old City) seemed to be the perfect place to venture. In a little over three hours, I visited The Palace of Shirvanshahs, the award-winning Miniature Book Museum, Maiden Tower and Nizami Street. Let us have a look at what piqued my interest on a day when I walked 16230 steps - my longest walk of the year! | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/visiting-beautiful-baku",
+         "pubDate" : "Fri, 18 Aug 2023 20:00:00 +0100",
+         "title" : "Visiting beautiful Baku"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King jumps on the World Cup wagon, as he shares a selection of entertaining yet very instructive tactical patterns from the event in Baku. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-world-cup-checkmates",
+         "pubDate" : "Fri, 18 Aug 2023 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: World Cup checkmates"
+      },
+      {
+         "description" : "FIDE has come under heavy criticism after publishing a new policy that states that transgender women are banned from taking part in official female-only events until the federation conducts &#34;further analysis&#34; that can last up to two years. The c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-publishes-controversial-new-transgender-policy",
+         "pubDate" : "Fri, 18 Aug 2023 08:55:01 -0700",
+         "title" : "FIDE Publishes Controversial New Transgender Policy"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu beat his good friend Arjun Erigaisi in a series of tense rapid and blitz tiebreaks to reach the semifinals of the FIDE World Cup. The 18-year-old all but secured a spot in the next edition of the Candidates Tournament. Meanwhile, in the women's category, Nurgyul Salimova upset Anna Muzychuk to reach the final of the event. Salimova thus qualified to the Women's Candidates, while Muzychuk will face Tan Zhongyi for a spot in the all-important event. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d3",
+         "pubDate" : "Fri, 18 Aug 2023 16:05:00 +0100",
+         "title" : "World Cup: Pragg and Salimova win tiebreakers"
+      },
+      {
          "description" : "In July, Svitlana participated in the open section of the 2023 Canadian Junior Chess Championship, and faced some tough opponents. Impressively, she managed to reach the overall third place and added one more trophy to her collection. In addition, she will travel to Mexico for the World Junior Championship!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-another-trophy-for-svitlana",
          "pubDate" : "Fri, 18 Aug 2023 16:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Another trophy for Svitlana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2594",
+         "pubDate" : "Fri, 18 Aug 2023 14:54:48 +0000",
+         "title" : "China Wins FIDE World Youth U16 Olympiad in Eindhoven, the Netherlands"
       },
       {
          "description" : "",
@@ -32,14 +72,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/18/chess-carlsen-edges-closer-to-world-cup-as-indians-shine-and-russians-fail",
          "pubDate" : "Fri, 18 Aug 2023 07:00:43 +0000",
          "title" : "Chess: Carlsen edges closer to World Cup as Indians shine and Russians fail"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu beat his good friend Arjun Erigaisi in a series of tense rapid and blitz tiebreaks to reach the semifinals of the FIDE World Cup. The 18-year-old all but secured a spot in the next edition of the Candidates Tournament. Meanwhile, in the women's category, Nurgyul Salimova upset Anna Muzychuk to reach the final of the event. Salimova thus qualified to the Women's Candidates, while Muzychuk will face Tan Zhongyi for a spot in the all-important event. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d3",
-         "pubDate" : "Fri, 18 Aug 2023 07:05:00 +0100",
-         "title" : "World Cup: Pragg and Salimova win tiebreakers"
       },
       {
          "description" : "As intimated earlier ,please find the venue for National Under 07 Chess Championship 2023 hereunder Hotel The Stadel Vivekananda Yuba Bharati Krirangan,Salt Lake Stadium, Gate",
@@ -82,6 +114,14 @@ news_feed (
          "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
       },
       {
+         "description" : "FIDE, the International Chess Federation, has released a new policy banning transgender women from competing in women's chess events.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 17:45:38 -0500",
+         "title" : "FIDE bans trans women from women's chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-how-to-win-at-chess",
          "pubDate" : "Thu, 17 Aug 2023 19:35:00 +0100",
          "title" : "Daniel King's new book: How to Win at Chess"
+      },
+      {
+         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
+         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
       },
       {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
@@ -962,22 +1010,6 @@ news_feed (
          "title" : "Carlsen Strikes Back, Caruana In Last 16"
       },
       {
-         "description" : "The renowned Yugoslav/Serbian Grandmaster Aleksandar Matanovic passed away in Belgrade on August 9, two months after celebrating his 93rd birthday. Following the passing of Yuri Averbakh in May 2022, Matanovic was the world's oldest living Grandmaster. A eulogy by Milan Dinic. | Pictured: Matanovic playing a tournament in Australia in 1970 / Matanovic with his wife Vesna in 1960. | Photos: Family Archive / Serbian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aleksandar-matanovic-dies-at-93",
-         "pubDate" : "Thu, 10 Aug 2023 23:50:00 +0100",
-         "title" : "GM Aleksandar Matanovic dies at 93"
-      },
-      {
-         "description" : "Six players have already reached the round-of-16 in the open section of the FIDE World Cup, including Fabiano Caruana, who beat Ray Robson, and Alexey Sarana, who knocked out sixth seed Wesley So. The remaining ten spots will be decided in Friday's tiebreaks, with Magnus Carlsen reaching that stage after bouncing back in his match against Vincent Keymer. In the women's section, three players secured their spots in quarterfinals: Aleksandra Goryachkina, Tan Zhongyi and Polina Shuvalova. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r4-d2",
-         "pubDate" : "Thu, 10 Aug 2023 22:50:00 +0100",
-         "title" : "World Cup: Caruana advances, Carlsen bounces back"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1208,14 +1240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/uk-chess-transformational-funding",
          "pubDate" : "Sun, 06 Aug 2023 20:09:00 -0700",
          "title" : "'Potentially Transformational' Boost: U.K Prime Minister To Announce Chess Funding"
-      },
-      {
-         "description" : "In a dramatic affair, GM Javokhir Sindarov knocked GM Maxime Vachier-Lagrave out of the 2023 FIDE World Cup in the second game of round three, while GM Fabiano Caruana and Women&#39;s World Champion GM Ju Wenjun came dangerously close to exiting the e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-2",
-         "pubDate" : "Sun, 06 Aug 2023 17:40:00 -0700",
-         "title" : "MVL Exits World Cup; Close Calls For Caruana, Ju"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
