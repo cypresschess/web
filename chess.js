@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102816817.cms\" />After losing to Carlsen in the World Cup quarterfinals, Gukesh missed the chance to qualify for the Candidates. The top three finishers in Azerbaijan will play the eight-player double round-robin Candidates tournament scheduled in April next year at Toronto, Canada.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-prodigy-gukesh-strong-enough-to-play-candidates-says-world-no-1-magnus-carlsen/articleshow/102816817.cms",
+         "pubDate" : "Fri, 18 Aug 2023 02:40:22 +0000",
+         "title" : "Indian prodigy Gukesh strong enough to play Candidates, says Carlsen"
+      },
+      {
          "description" : "GM Praggnanandhaa Rameshbabu and GM Arjun Erigaisi were engaged in 1-1 deadlocks in three sets of tiebreak games at the 2023 FIDE World Cup. After two draws in the 25+10 rapid tiebreaks, Praggnanandhaa twice took the lead by winning the first game...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2592",
          "pubDate" : "Thu, 17 Aug 2023 22:04:38 +0000",
          "title" : "Revised Tie-break Regulations come to force on September 1, 2023"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102813351.cms\" />R Praggnanandhaa defeated his friend Erigaisi Arjun in the quarterfinals of the World Cup chess tournament in Baku. However, Arjun managed to secure a spot in the Candidates Tournament in 2024. Praggnanandhaa will face Fabiano Caruana in the semifinals, while in the women's semifinal, Nurguyl Salimova of Bulgaria defeated Anna Muzhychuk of Ukraine. Salimova will go on to play Aleksandra Goryachkina in the two-game title clash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-first-indian-after-viswanathan-anand-to-enter-world-cup-semis/articleshow/102813351.cms",
+         "pubDate" : "Thu, 17 Aug 2023 22:02:00 +0000",
+         "title" : "Praggu first Indian after Anand to enter World Cup semis"
       },
       {
          "description" : "",
@@ -40,22 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-how-to-win-at-chess",
          "pubDate" : "Thu, 17 Aug 2023 19:35:00 +0100",
          "title" : "Daniel King's new book: How to Win at Chess"
-      },
-      {
-         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
-         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102811425.cms\" />Indian Grandmaster R Praggnanandhaa defeated compatriot Arjun Erigaisi 5-4 via the sudden death tie-break to enter the semifinals of the FIDE World Cup chess tournament here on Thursday. With the win, the 17-year old Praggnanandhaa booked a place in the semifinals against American ace Fabiano Caruana and almost secured a spot in next year's Candidates event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/wc-chess-r-praggnanandhaa-ousts-arjun-erigaisi-in-sudden-death-tie-break-enters-last-4/articleshow/102811425.cms",
-         "pubDate" : "Thu, 17 Aug 2023 16:54:29 +0000",
-         "title" : "WC Chess: Praggnanandhaa ousts Erigaisi in sudden death tie-break, enters last 4"
       },
       {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
