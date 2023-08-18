@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 faces the little-known Nijat Abasov in this weekend's semi-final, while there were four Indian quarter-finalists and no Russians The World Cup knockout is the only major individual chess event that Magnus Carlsen has never won, but this weekend the Norwegian, 32, looks poised to reach the final of the $1.8m, 206-player competition at Baku, Azerbaijan. Carlsen's opponent in the semi-final on Saturday and Sunday, (midday BST start, free live commentary on major chess websites) with possible speed tiebreaks on Monday, is the little-known Azerbaijani Nijat Abasov, 28. The hometown favourite has had the performance of his life, defeating all six of his opponents including the Neth",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/aug/18/chess-carlsen-edges-closer-to-world-cup-as-indians-shine-and-russians-fail",
+         "pubDate" : "Fri, 18 Aug 2023 07:00:43 +0000",
+         "title" : "Chess: Carlsen edges closer to World Cup as Indians shine and Russians fail"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu beat his good friend Arjun Erigaisi in a series of tense rapid and blitz tiebreaks to reach the semifinals of the FIDE World Cup. The 18-year-old all but secured a spot in the next edition of the Candidates Tournament. Meanwhile, in the women's category, Nurgyul Salimova upset Anna Muzychuk to reach the final of the event. Salimova thus qualified to the Women's Candidates, while Muzychuk will face Tan Zhongyi for a spot in the all-important event. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d3",
+         "pubDate" : "Fri, 18 Aug 2023 07:05:00 +0100",
+         "title" : "World Cup: Pragg and Salimova win tiebreakers"
+      },
+      {
+         "description" : "As intimated earlier ,please find the venue for National Under 07 Chess Championship 2023 hereunder Hotel The Stadel Vivekananda Yuba Bharati Krirangan,Salt Lake Stadium, Gate",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-07-chess-championship-2023venue-details/",
+         "pubDate" : "Fri, 18 Aug 2023 05:49:28 +0000",
+         "title" : "National Under 07 Chess Championship 2023:Venue details"
+      },
+      {
+         "description" : "India succumbed to 3.5-0.5defeat to Uzbekistan in 6th round of World Youth Chess Olympiad in Eindhoven, Netherlands. Ashwath on first board drew against Begmuratov Khumoyun",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-chess-olympiad-2023round-7-8/",
+         "pubDate" : "Fri, 18 Aug 2023 05:32:30 +0000",
+         "title" : "World Youth Chess Olympiad 2023:Round 7 & 8"
+      },
+      {
+         "description" : "In a nail-biting tie break match, Grandmaster R Praggnandhaa outwitted compatriot Arjun Erigaisi to seal his berth in the semi final of World Cup at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cup-chess-praggnanandhaa-through-to-the-semi-final/",
+         "pubDate" : "Fri, 18 Aug 2023 05:22:06 +0000",
+         "title" : "World Cup Chess - Praggnanandhaa through to the Semi Final"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102816817.cms\" />After losing to Carlsen in the World Cup quarterfinals, Gukesh missed the chance to qualify for the Candidates. The top three finishers in Azerbaijan will play the eight-player double round-robin Candidates tournament scheduled in April next year at Toronto, Canada.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -14,8 +54,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-3",
-         "pubDate" : "Thu, 17 Aug 2023 16:05:36 -0700",
+         "pubDate" : "Thu, 17 Aug 2023 16:05:00 -0700",
          "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
+      },
+      {
+         "description" : "FIDE, the International Chess Federation, has released a new policy banning transgender women from competing in women's chess events.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 17:45:38 -0500",
+         "title" : "FIDE bans trans women from women's chess"
       },
       {
          "description" : "",
@@ -58,20 +106,20 @@ news_feed (
          "title" : "Daniel King's new book: How to Win at Chess"
       },
       {
+         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
+         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
+      },
+      {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/chess-in-far-far-future.html",
          "pubDate" : "Thu, 17 Aug 2023 11:52:00 +0000",
          "title" : "Chess in the far far future"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Thu, 17 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "",
@@ -1042,14 +1090,6 @@ news_feed (
          "title" : "UK Open Blitz Championships 2023"
       },
       {
-         "description" : "NATIONAL U-7 OPEN &#38; GIRLS CHESS CHAMPIONSHIP WILL BE HELD FROM 21 TO 25 SEPTEMBER, 2023 IN KOLKATA. HOWEVER, THE VENUE WILL BE CHANGED. THE",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/noticenational-under-07-chess-championship-2023/",
-         "pubDate" : "Wed, 09 Aug 2023 11:44:43 +0000",
-         "title" : "Notice:National Under 07 Chess Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1152,14 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/secondary-chess-in-canberra-2023.html",
          "pubDate" : "Mon, 07 Aug 2023 13:03:00 +0000",
          "title" : "Secondary Chess in Canberra 2023"
-      },
-      {
-         "description" : "Velammal MHS Mogappair school wins Inaugural WSTCC 2023 Under-12, at Aktau, Kazakhstan, with round to spare. The Velammal MHS Mogappair school wins the inaugural World",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-school-team-chess-championship-2023-at-aktau-kazakhstan/",
-         "pubDate" : "Mon, 07 Aug 2023 08:52:49 +0000",
-         "title" : "World School Team Chess Championship 2023 , at Aktau, Kazakhstan,"
       },
       {
          "description" : "The ECU Magazine July 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The July 2023 edition of the ECU E-Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format down below.",
@@ -1608,14 +1640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vidit-gujarathi-master-advanced-tactics",
          "pubDate" : "Fri, 28 Jul 2023 10:00:00 +0100",
          "title" : "Vidit Gujarathi: Master Advanced Tactics"
-      },
-      {
-         "description" : " The seven-time champion Michael Adams, 51, shares the lead in Leicester, while England's No 1 is preparing to meet the elite in the 206-player knockout in Azerbaijan Michael Adams, the seven-time British champion and still the England No 2 at 51, shares the lead with the No 3 seed GM Dan Fernandez, 28, before Sunday's final round (10am BST start) of the 2023 championship at Leicester. All the games can be watched free and live on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>. Adams won <a href=\"https://chess24.com/en/watch/live-tournaments/british-championship-2023/4/1/1\">his individual game against his rival</a> in Tuesday's fourth round. Fernandez's opening surprise with the r",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jul/28/chess-british-championship-nears-final-round-as-howell-readies-for-world-cup",
-         "pubDate" : "Fri, 28 Jul 2023 07:00:04 +0000",
-         "title" : "Chess: British Championship nears final round as Howell readies for World Cup"
       }
    ]
 }
