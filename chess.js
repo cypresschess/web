@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2593",
+         "pubDate" : "Fri, 18 Aug 2023 10:10:50 +0000",
+         "title" : "FIDE World Youth Olympiad 2023: Day 5 Recap"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102825287.cms\" />The International Chess Federation (FIDE) said it has banned transgender women from competing in its official women's events while it conducts a \"thorough analysis\" of developments, a process that could take up to two years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-federation-bars-transgender-players-from-womens-events/articleshow/102825287.cms",
+         "pubDate" : "Fri, 18 Aug 2023 07:02:22 +0000",
+         "title" : "World chess federation bars transgender players from women's events"
+      },
+      {
          "description" : " The world No 1 faces the little-known Nijat Abasov in this weekend's semi-final, while there were four Indian quarter-finalists and no Russians The World Cup knockout is the only major individual chess event that Magnus Carlsen has never won, but this weekend the Norwegian, 32, looks poised to reach the final of the $1.8m, 206-player competition at Baku, Azerbaijan. Carlsen's opponent in the semi-final on Saturday and Sunday, (midday BST start, free live commentary on major chess websites) with possible speed tiebreaks on Monday, is the little-known Azerbaijani Nijat Abasov, 28. The hometown favourite has had the performance of his life, defeating all six of his opponents including the Neth",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1632,14 +1648,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-round-1.html",
          "pubDate" : "Fri, 28 Jul 2023 13:25:00 +0000",
          "title" : "2023 ANU Open - Round 1"
-      },
-      {
-         "description" : "... and calculations like a Super Grandmaster - which he is. Vidit Santosh Gujrathi, born 1994, attained the GM title at the age of nineteen. In August 2022 he became the second highest rated player in India (behind Viswanathan Anand), crossing the Elo rating threshold of 2700. Today we are releasing his latest Fritztrainer, one in which he shares his secrets of success at the pinnacle of the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vidit-gujarathi-master-advanced-tactics",
-         "pubDate" : "Fri, 28 Jul 2023 10:00:00 +0100",
-         "title" : "Vidit Gujarathi: Master Advanced Tactics"
       }
    ]
 }
