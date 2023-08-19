@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen took the lead in his semifinal match against Nijat Abasov after winning an absolutely thrilling game with the white pieces. In the other semi, Praggnanandhaa was under pressure throughout the game but managed to hold Fabiano Caruana to a draw. Meanwhile, the first game of the final in the women's section finished drawn, unlike what happened in the match for third place, where Anna Muzychuk showed great technique to beat Tan Zhongyi with white. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d1",
+         "pubDate" : "Sun, 20 Aug 2023 00:25:00 +0100",
+         "title" : "World Cup: Carlsen wins wild game, Abasov misses huge chance"
+      },
+      {
+         "description" : "After surviving 12 games of classical games against some of the world&#39;s best players without a single loss, GM Nijat Abasov finally fell at the hands of GM Magnus Carlsen on Saturday at the 2023 FIDE World Cup. Though the world number one secured ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-1",
+         "pubDate" : "Sat, 19 Aug 2023 15:09:00 -0700",
+         "title" : "Carlsen On The Brink Of First World Cup Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2595",
+         "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
+         "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102862423.cms\" />Indian Grandmaster R Praggnanandhaa held fancied American player Fabiano Caruana to a draw in the first game of the semifinals of the FIDE World Cup chess tournament on Saturday. The 17-year old Praggnanandhaa waged a gritty battle against the American to share the honours in 78 moves.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/boost-your-chess-performance-the-unexpected-power-of-rest/",
          "pubDate" : "Sat, 19 Aug 2023 12:00:00 +0000",
          "title" : "Boost Your Chess Performance: The Unexpected Power of Breaks & Rest"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sat, 19 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : " One of the advantage of Round Robin play is you cn prep for a specific opponent, or prepare a set of openings. Capablanca famously used to choose a set of openings to use in an event, usually sticking with those openings until the end. In yet another game from the <i>Looking For Gamers</i> round robin, Harry Press chooses to push the d pawn in the Ruy Lopez, without playing c3 first. While this does not give White any particular advantage, it has the benefit of throwing off an equally well prepared opponent. <br /> <b>Press,Harry - Badrinarayan,Sankeertan [C88]</b><br /> LFG, 18.08.2023 <script> new PgnViewer( { boardName: \"game1417\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.B",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-8",
          "pubDate" : "Tue, 08 Aug 2023 05:59:50 +0000",
          "title" : "2023 Summer Chess Classic: Round 8"
-      },
-      {
-         "description" : "It was a day of sad goodbyes as five players were eliminated from PogChamps 5. xQc won a tight match against Papaplatte, followed by three not-so-close match wins by Wirtual, QTCinderella, and I did a thing against Sykkuno, Jinnitty, and Tyler1 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-9",
-         "pubDate" : "Mon, 07 Aug 2023 20:02:00 -0700",
-         "title" : "Certified Juicer Moment Takes xQc Closer To Finals, CDawgVA To Face I Did A Thing"
       },
       {
          "description" : "",
