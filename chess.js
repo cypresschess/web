@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals, the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches would...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pogchamps-5-finals",
+         "pubDate" : "Fri, 18 Aug 2023 19:44:40 -0700",
+         "title" : "CDawgVA Delivers Swindle Of The Century To Become The Fifth PogChampion"
+      },
+      {
+         "description" : "The 29th edition of the Abu Dhabi Masters is taking place on August 16-24 at the Radisson Blu Hotel & Resort. The 9-round Swiss open has Vladislav Artemiev, David Anton and Maxim Matlakov as the top seeds. After three rounds, none of the top-3 are in the leading pack. Five players are sharing first place with 3 out of 3: Vladimir Fedoseev, Xu Xiangyu, Alisher Suleymenov, Rathanvel V S and Abtin Atakhan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abu-dhabi-masters-2023-r3",
+         "pubDate" : "Sat, 19 Aug 2023 03:00:00 +0100",
+         "title" : "Abu Dhabi Masters: Five players start with 3 out of 3"
+      },
+      {
+         "description" : " Semifinals set Carlsen-Caruana favorites Goryachkina faces phenom We are winding down the World Cup and it's been an exciting ride. Only four players remain in the Open section and the top two players in the world are still in the hunt. In fact, Magnus Carlsen and Fabiano Caruana and headed for a showdown if they The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/\">2023 FIDE World Cup: Quarterfinals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/",
+         "pubDate" : "Sat, 19 Aug 2023 00:26:07 +0000",
+         "title" : "2023 FIDE World Cup: Quarterfinals"
+      },
+      {
          "description" : "Strategy fans take note&#38;mdash;a unique star-studded multi-game crossover event that pits big names in chess against stars of Clash of Clans and Clash Royale is coming to Chess.com. IM Levy Rozman and WFM Alexandra Botez, two of the most followed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "\"I was winning!\""
       },
       {
-         "description" : "In his Fast & Furious show, Robert Ris looks at a model game in the Catalan, which Hakobyan and Bok played at the Summer Chess Classic-A 2023 in Saint Louis. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-in-the-catalan",
-         "pubDate" : "Fri, 11 Aug 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A model game in the Catalan"
-      },
-      {
          "description" : "The 2023 English Women's Online Blitz Championship is now in progress with qualifiers complete and the finals starting at 3.00pm on Saturday 12th August. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1208,14 +1224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/pogchamps-5-day-9",
          "pubDate" : "Mon, 07 Aug 2023 20:02:00 -0700",
          "title" : "Certified Juicer Moment Takes xQc Closer To Finals, CDawgVA To Face I Did A Thing"
-      },
-      {
-         "description" : "The round three tiebreaks led to an unpleasant day for many of the higher-rated players in the 2023 FIDE World Cup, especially for GM Anish Giri, who was knocked out of the event by GM Nijat Abasov. GM Teimour Radjabov also fell at the hands of GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-3-3",
-         "pubDate" : "Mon, 07 Aug 2023 17:42:00 -0700",
-         "title" : "Giri Gone, So Survives, Kosteniuk Knocked Out On Tense Day Of Tiebreaks"
       },
       {
          "description" : "",
