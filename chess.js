@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals, the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches would...",
+         "description" : "Attacking is usually easier than defending, especially with short time controls. In the diagram position White kept on pressing until Black finally blundered, a typical rapid drama - I wish you fast entertainment!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vishy-and-the-initiative",
+         "pubDate" : "Sat, 19 Aug 2023 09:00:00 +0100",
+         "title" : "Vishy and the initiative"
+      },
+      {
+         "description" : "Indian Team finished on 15th Position in World Youth Chess Olympiad. Indian team drew their last round against 5th seed Hungary and finished on 15th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-9-report-world-youth-olympaid-2023/",
+         "pubDate" : "Sat, 19 Aug 2023 07:30:03 +0000",
+         "title" : "Round 9 report- World Youth Olympaid 2023"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102849065.cms\" />Fabiano Caruana is the only World Chess Championship challenger and losing finalist in history who did not lose a single classical game in the title match. He himself could not win a classical game in that 2018 match with Magnus Carlsen and lost in rapid tiebreaks. The American failed to get another crack at the World title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-fabiano-caruana-stop-r-praggnanandhaas-rapid-strides/articleshow/102849065.cms",
+         "pubDate" : "Sat, 19 Aug 2023 04:01:34 +0000",
+         "title" : "Can Fabiano Caruana stop R Praggnanandhaa's rapid strides?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102845511.cms\" />There are four Indian juniors in the World Open top 50. Gukesh is at No.8 (live rating of 2758.4), No.23 is R Praggnanandhaa (2720.8), Arjun Erigaisi (2712) is at No.30 and Nihal Sarin at No.42 (2694.2). Along with Raunak Sadhwani, Leon Luke Mendonca and Aaditya Dhingra, there are seven Indians among the world's top 20 juniors.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/charge-of-the-knight-brigade-indian-teens-storm-global-chess/articleshow/102845511.cms",
+         "pubDate" : "Sat, 19 Aug 2023 03:38:06 +0000",
+         "title" : "Charge of the knight brigade: Indian teens storm global chess"
+      },
+      {
+         "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals&#38;mdash;the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pogchamps-5-finals",
-         "pubDate" : "Fri, 18 Aug 2023 19:44:40 -0700",
+         "pubDate" : "Fri, 18 Aug 2023 19:44:00 -0700",
          "title" : "CDawgVA Delivers Swindle Of The Century To Become The Fifth PogChampion"
       },
       {
@@ -970,14 +1002,6 @@ news_feed (
          "title" : "World Cup Round 4 Tiebreaks: Hikaru Nakamura and Ju Wenjun are out"
       },
       {
-         "description" : "It can be very challenging to recognize one's mistakes much less own up to them with objectivity. We wiggle and we squirm as we seek to place the blame on outside factors, so imagine what it is like if you are asked to explain your 'crushing defeat' in front of a large audience. This is what happened to Mikhail Tal, but don't miss his priceless reply!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/I-was-winning",
-         "pubDate" : "Fri, 11 Aug 2023 18:05:00 +0100",
-         "title" : "\"I was winning!\""
-      },
-      {
          "description" : "The 2023 English Women's Online Blitz Championship is now in progress with qualifiers complete and the finals starting at 3.00pm on Saturday 12th August. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1016,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2571",
          "pubDate" : "Fri, 11 Aug 2023 11:51:24 +0000",
          "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Free accommodation available"
-      },
-      {
-         "description" : "Please find the selected persons for subject seminar and considering the numbers, there will be two separate batches that will undergo the seminar and examination on the same dates. You",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-2023-at-bangalore/",
-         "pubDate" : "Fri, 11 Aug 2023 08:56:32 +0000",
-         "title" : "Senior National Arbiter Seminar 2023 at Bangalore"
       },
       {
          "description" : " World No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but finally won 3.5-2.5 after speed tiebreaks Magnus Carlsen, Norway's world No 1, edged into the last 16 at the $1.8m World Cup in Baku, Azerbaijan, on Friday with a 3.5-2.5 margin over Germany's Vincent Keymer, 18, who scored a shock win in the opening game. Their tiebreak took four hours to resolve, as Keymer put up tough resistance, while Carlsen missed wins in three epic endgames. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters seized one of their few opportunities to upstage the elite who monopolise the richly rewarded invitation tournaments. <a href=\"https://w",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/enjoyment-vs-training/",
          "pubDate" : "Sat, 29 Jul 2023 12:00:00 +0000",
          "title" : "Chess Enjoyment vs. Training: Striking the Right Balance"
-      },
-      {
-         "description" : "Through the medium of this column I have often inveighed against perversions of chess, such as so called Fischerrandom, Varied Baseline Chess, or Chess 960. In all of these heresies against the true faith, players are allotted a choice of nine hundred and sixty different start up positions for the pieces, rather than adhering to the traditional array. The ancestral template []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/islam-chess-and-the-first-grandmaster/",
-         "pubDate" : "Sat, 29 Jul 2023 06:36:14 +0000",
-         "title" : "Islam, chess and the first grandmaster"
       }
    ]
 }
