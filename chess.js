@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana Praggnanandhaa R is semifinal game of 2023 FIDE World Cup. The other semifinal game is Magnus Carlsen Nijat Abasov . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Aleksandra Goryachkina Zhongyi Tan The 2023 FIDE World Cup is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-praggnanandhaa-r-fide-world-cup-2023-1-2-final-live/",
+         "pubDate" : "Sat, 19 Aug 2023 12:46:05 +0000",
+         "title" : "Fabiano Caruana - Praggnanandhaa R, FIDE World Cup 2023 1/2 final - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen Nijat Abasov is semifinal game of 2023 FIDE World Cup. The other semifinal game is Fabiano Caruana Praggnanandhaa R . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Aleksandra Goryachkina Zhongyi Tan The 2023 FIDE World Cup is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-nijat-abasov-fide-world-cup-2023-1-2-final-live/",
+         "pubDate" : "Sat, 19 Aug 2023 12:40:22 +0000",
+         "title" : "Magnus Carlsen - Nijat Abasov, FIDE World Cup 2023 1/2 final - LIVE"
+      },
+      {
+         "description" : "Anna Muzychuk Zhongyi Tan is a game for the third place of 2023 FIDE Women&#x2019;s World Cup. while in the big final Nurgyul Salimova will face Aleksandra Goryachkina. FIDE World Cup round 1/2 : Magnus Carlsen Nijat Abasov / Fabiano Caruana Praggnanandhaa R The 2023 FIDE World Cup is a 206-player knockout []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-muzychuk-zhongyi-tan-fide-womens-world-cup-2023-third-palce-match-live/",
+         "pubDate" : "Sat, 19 Aug 2023 12:32:11 +0000",
+         "title" : "Anna Muzychuk - Zhongyi Tan, FIDE Women's World Cup 2023 third palce match - LIVE"
+      },
+      {
+         "description" : "Aleksandra Goryachkina Nurgyul Salimova is the big final of the 2023 FIDE Women&#x2019;s World Cup. Nurgyul Salimova won against Anna Muzychuk with 3,5 2,5 after two tie-breaks, while Aleksandra Goryachkina qualified for the final after 1,5-0,5 won against Zhongyi Tan.You can also see the game for third place : Anna Muzychuk Zhongyi []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-nurgyul-salimova-fide-womens-world-cup-2023-final-live/",
+         "pubDate" : "Sat, 19 Aug 2023 12:26:20 +0000",
+         "title" : "Aleksandra Goryachkina - Nurgyul Salimova, FIDE Women's World Cup 2023 final - LIVE"
+      },
+      {
+         "description" : "Many chess players struggle with solving tactics, remembering opening lines, analyzing their losses, you name it. But some have difficulty with something seemingly super easy: taking a rest. In this article, I want to show you how important rest is for your health &#38; improvement and how you rest the right way. The Power of []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/boost-your-chess-performance-the-unexpected-power-of-rest/",
+         "pubDate" : "Sat, 19 Aug 2023 12:00:00 +0000",
+         "title" : "Boost Your Chess Performance: The Unexpected Power of Breaks & Rest"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Sat, 19 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : " One of the advantage of Round Robin play is you cn prep for a specific opponent, or prepare a set of openings. Capablanca famously used to choose a set of openings to use in an event, usually sticking with those openings until the end. In yet another game from the <i>Looking For Gamers</i> round robin, Harry Press chooses to push the d pawn in the Ruy Lopez, without playing c3 first. While this does not give White any particular advantage, it has the benefit of throwing off an equally well prepared opponent. <br /> <b>Press,Harry - Badrinarayan,Sankeertan [C88]</b><br /> LFG, 18.08.2023 <script> new PgnViewer( { boardName: \"game1417\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.B",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/prep-pays-off.html",
+         "pubDate" : "Sat, 19 Aug 2023 11:44:00 +0000",
+         "title" : "Prep pays off"
+      },
+      {
+         "description" : "With the advent of Soviet hegemony in chess, instances of cheating and collusion became easier both to implement and to disguise, given the proliferation of Soviet Grandmasters in official tournaments. The 1962 Candidates Tournament to decide the challenger for the world championship provided one of the most flagrant examples of such Soviet collusion. The top three, all []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-universal-history-of-infamy-in-chess/",
+         "pubDate" : "Sat, 19 Aug 2023 11:32:14 +0000",
+         "title" : "A universal history of infamy in chess"
       },
       {
          "description" : "Attacking is usually easier than defending, especially with short time controls. In the diagram position White kept on pressing until Black finally blundered, a typical rapid drama - I wish you fast entertainment!",
@@ -616,38 +672,6 @@ news_feed (
          "link" : "https://www.chessdom.com/santosh-gujrathi-vidit-nijat-abasov-fide-world-cup-2023-1-4-final-live/",
          "pubDate" : "Tue, 15 Aug 2023 09:47:00 +0000",
          "title" : "Santosh Gujrathi Vidit - Nijat Abasov, FIDE World Cup 2023 1/4 final - LIVE"
-      },
-      {
-         "description" : "The German Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is s a 9-round Swiss tournament with participation of Daniel Fridman, Alexander Graf, Vitaly Kunin, Hagen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-championship-2023-live/",
-         "pubDate" : "Tue, 15 Aug 2023 09:45:00 +0000",
-         "title" : "German Championship 2023 - LIVE"
-      },
-      {
-         "description" : "Leinier Dominguez Perez Fabiano Caruana is 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of 2023 FIDE World Cup are : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez Fabiano Caruana / Praggnanandhaa R Arjun Erigaisi FIDE Women's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/leinier-dominguez-perez-fabiano-caruana-fide-world-cup-2023-1-4-final-live/",
-         "pubDate" : "Tue, 15 Aug 2023 09:18:00 +0000",
-         "title" : "Leinier Dominguez Perez - Fabiano Caruana, FIDE World Cup 2023 1/4 final - LIVE"
-      },
-      {
-         "description" : "Praggnanandhaa R Arjun Erigaisi is 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of 2023 FIDE World Cup are : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez Fabiano Caruana / Praggnanandhaa R Arjun Erigaisi FIDE Women's World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-r-arjun-erigaisi-fide-world-cup-2023-1-4-final-live/",
-         "pubDate" : "Tue, 15 Aug 2023 08:42:00 +0000",
-         "title" : "Praggnanandhaa R - Arjun Erigaisi, FIDE World Cup 2023 1/4 final - LIVE"
-      },
-      {
-         "description" : "The German Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is s a 9-round Swiss tournament with participation of Daniel Fridman, Alexander Graf, Vitaly Kunin, Hagen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-championship-2023/",
-         "pubDate" : "Tue, 15 Aug 2023 08:25:00 +0000",
-         "title" : "German Championship 2023"
       },
       {
          "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
@@ -1656,30 +1680,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
          "pubDate" : "Sat, 29 Jul 2023 20:20:00 +0400",
          "title" : "FIDE World Cup 2023 - Games and Results"
-      },
-      {
-         "description" : " IM Junta Ikeda has taken the outright lead in the 2023 ANU Open. He scored another 3 wins today, including an important Round4 victory over third seed Harry Press. He is half a point ahead of 2nd seed FM Fred Litchfield, after Litchfield took a bye for the evening round. As Litchfield is the only player on 3.5, he faces Ikeda in the morning round. In third place are Press, Terrence Tang, Harvey Zhu and Leiming Yu. Yu has been the real surprise of this event, scoring 3/4 against players rated 500 points ahead of him. He faces Tang in round 5, and based on current form, has good chances to go into the final round on 4/5. In the Minor (Under 1600), it is the unrated players setting the pace. M",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-days-2.html",
-         "pubDate" : "Sat, 29 Jul 2023 13:38:00 +0000",
-         "title" : "2023 ANU Open Days 2"
-      },
-      {
-         "description" : "Chess in India is at a good place. Yet that's only half the picture: women's chess in India lags quite behind the men's game",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38092691/chess-india-koneru-humpy-harika-dronavalli-bridging-gap-women-men?device=featurephone",
-         "pubDate" : "Sat, 29 Jul 2023 07:22:46 -0500",
-         "title" : "Chess in India: Humpy and Harika on bridging the gap between women and men"
-      },
-      {
-         "description" : "We all want to have some fun. As you read this article on a chess improvement blog, you also want to improve your game. The problem is that the most fun things usually lead to the least improvement. Watching your favorite streamer, banter blitz against your friends, or watching a YouTube video are all fun []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/enjoyment-vs-training/",
-         "pubDate" : "Sat, 29 Jul 2023 12:00:00 +0000",
-         "title" : "Chess Enjoyment vs. Training: Striking the Right Balance"
       }
    ]
 }
