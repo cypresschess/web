@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sat, 19 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "Attacking is usually easier than defending, especially with short time controls. In the diagram position White kept on pressing until Black finally blundered, a typical rapid drama - I wish you fast entertainment!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,6 +248,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
          "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
          "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
+      },
+      {
+         "description" : "A month after posting about the <A HREF=\"https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html\">2023 CJA Award Entries</A> (July 2023; Chess Journalists of America), I'm ready to do a short series on the awards themselves. In that post I wanted 'to collect all of the entries across all of the categories', but I ran into an obstacle:- <BLOCKQUOTE> The data behind the page is embedded on the page's HTML, so it should be possible to extract the entries using straightforward text tools. That would require more work than I have time for right now. I might come back to it later, but I wouldn't bet any money on that happening soon. The winners will be announced next month. </BLOC",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html",
+         "pubDate" : "Thu, 17 Aug 2023 15:04:00 +0000",
+         "title" : "2023 CJA Awards - Part 1"
       },
       {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-develop-a-winning-mindset-like-carlsen-or-koneru",
          "pubDate" : "Sat, 12 Aug 2023 01:30:00 +0100",
          "title" : "Svitlana's Smart Moves - Develop a winning mindset like Carlsen or Koneru"
-      },
-      {
-         "description" : "One day after turning 18 years old, Praggnanandhaa Rameshbabu got to knock Hikaru Nakamura out of the FIDE World Cup. Other players who advanced to the round-of-16 by winning Friday's tiebreakers were Magnus Carlsen, Ian Nepomniachtchi and fan favourite Vasyl Ivanchuk. In the women's section, Elisabeth Paehtz left world champion Ju Wenjun out of contention. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r4-d3",
-         "pubDate" : "Fri, 11 Aug 2023 23:10:00 +0100",
-         "title" : "World Cup: Pragg bests Naka, Carlsen to face Ivanchuk"
       },
       {
          "description" : "",
