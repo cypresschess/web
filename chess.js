@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102862423.cms\" />Indian Grandmaster R Praggnanandhaa held fancied American player Fabiano Caruana to a draw in the first game of the semifinals of the FIDE World Cup chess tournament on Saturday. The 17-year old Praggnanandhaa waged a gritty battle against the American to share the honours in 78 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-cup-praggnanandhaa-draws-nakamura-in-first-game-of-semi-finals/articleshow/102862423.cms",
+         "pubDate" : "Sat, 19 Aug 2023 16:33:56 +0000",
+         "title" : "World Cup: Praggnanandhaa draws Nakamura in first game of semi-finals"
+      },
+      {
          "description" : "Fabiano Caruana Praggnanandhaa R is semifinal game of 2023 FIDE World Cup. The other semifinal game is Magnus Carlsen Nijat Abasov . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Aleksandra Goryachkina Zhongyi Tan The 2023 FIDE World Cup is []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chessdom.com/aleksandra-goryachkina-nurgyul-salimova-fide-womens-world-cup-2023-final-live/",
          "pubDate" : "Sat, 19 Aug 2023 12:26:20 +0000",
          "title" : "Aleksandra Goryachkina - Nurgyul Salimova, FIDE Women's World Cup 2023 final - LIVE"
+      },
+      {
+         "description" : "Chris Ward's series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
+         "pubDate" : "Sat, 19 Aug 2023 13:05:00 +0100",
+         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "Many chess players struggle with solving tactics, remembering opening lines, analyzing their losses, you name it. But some have difficulty with something seemingly super easy: taking a rest. In this article, I want to show you how important rest is for your health &#38; improvement and how you rest the right way. The Power of []",
@@ -352,14 +368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/samunenkos-gurel-wild-cards-grand-swiss-2023",
          "pubDate" : "Thu, 17 Aug 2023 08:00:00 +0100",
          "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
-      },
-      {
-         "description" : "Chris Ward's series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
-         "pubDate" : "Thu, 17 Aug 2023 06:30:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "Nijat Abasov, the 69th seed in the open section of the FIDE World Cup, has all but secured a spot in the next edition of the Candidates Tournament, as he beat Vidit Gujrathi with white to knock him out of the event. Since Magnus Carlsen, his next opponent, also reached the semifinals and is very likely to skip the Candidates, the Azerbaijani will not even need to finish among the top-3 to reach the 8-player World Championship qualifier. Fabiano Caruana also advanced to the semifinals, while Praggnanandhaa bounced back in his match against Arjun Erigaisi. Among the women, Aleksandra Goryachkina drew Tan Zhongyi and made it through to the final. | Photo: FIDE / Stev Bonhage",
@@ -1656,30 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-ikeda-wins.html",
          "pubDate" : "Sun, 30 Jul 2023 13:16:00 +0000",
          "title" : "2023 ANU Open - Ikeda wins"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2549",
-         "pubDate" : "Sat, 29 Jul 2023 18:53:39 +0000",
-         "title" : "FIDE World Cup 2023: Opening ceremony and press conference"
-      },
-      {
-         "description" : " Last week, we looked at some basic concepts regarding the pawn and its place in the endgame. I wrote about the importance of maintaining a good pawn structure throughout the game. This week, we'll start to look at this idea in more detail. Let's dig in! I mentioned that pawns have perfect structure at the <a href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Ninety Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-ninety-nine/\">A Foundation for Beginners Ninety Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-ninety-nine/",
-         "pubDate" : "Sat, 29 Jul 2023 18:30:18 +0000",
-         "title" : "A Foundation for Beginners Ninety Nine"
-      },
-      {
-         "description" : " The FIDE World Cup takes place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he has never won the event and clearly sees this as something he would like to rectify. His leading rivals are Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside is an equally well represented women's field including World Champion Ju Wenjun. Play starts at 12pm BST or 15:00 local time. The leading players join the event in round 2.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
-         "pubDate" : "Sat, 29 Jul 2023 20:20:00 +0400",
-         "title" : "FIDE World Cup 2023 - Games and Results"
       }
    ]
 }
