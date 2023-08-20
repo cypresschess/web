@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Greetings! I'm Inez Kelley, sister to Armand Kelley a member of the NYC chess community. For those who know, Armand passed in 2019. Since that time we've organized chess events in his memory. This year and with the collaboration of Aggrey Duncan and CHESS ON THE MOVE we are excited to present &#8216;Battle of The The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/\">Battle of the Masters: NYC Blitz Chess Match!!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/",
+         "pubDate" : "Sun, 20 Aug 2023 02:52:25 +0000",
+         "title" : "Battle of the Masters: NYC Blitz Chess Match!!"
+      },
+      {
          "description" : "Magnus Carlsen took the lead in his semifinal match against Nijat Abasov after winning an absolutely thrilling game with the white pieces. In the other semi, Praggnanandhaa was under pressure throughout the game but managed to hold Fabiano Caruana to a draw. Meanwhile, the first game of the final in the women's section finished drawn, unlike what happened in the match for third place, where Anna Muzychuk showed great technique to beat Tan Zhongyi with white. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-gaga.html",
          "pubDate" : "Sun, 30 Jul 2023 15:38:00 +0000",
          "title" : "Gotham Gets Gaga"
-      },
-      {
-         "description" : " The World Cup tournament will start tomorrow and all of the world's biggest stars will assemble in Baku, Azerbaijan for the massive knockout tournament. Just about everyone will be there including representatives nominated by smaller federations. There are a lot of headliners including Magnus Carlsen, Hikaru Nakamura (wildcard), Fabiano Caruana, and many of the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/\">World Chess Cup 2023 begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/07/30/world-chess-cup-2023-begins/",
-         "pubDate" : "Sun, 30 Jul 2023 14:14:47 +0000",
-         "title" : "World Chess Cup 2023 begins!"
       },
       {
          "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Fred Litchfield in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Ol",
