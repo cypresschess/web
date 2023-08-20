@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sun, 20 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "The Indian Championship is taking place from 16&#x2013;26 August 2023 in Pune, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of S.P.&#xA0;Sethuraman, Vignesh N R, Deep&#xA0;Sengupta, Guha&#xA0;Mitrabha,&#xA0;Neelash Saha, Abhimanyu&#xA0;Puranik, etc. FIDE World Cup round 1/2 : Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/indian-championship-2023-live/",
+         "pubDate" : "Sun, 20 Aug 2023 11:14:57 +0000",
+         "title" : "Indian Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Indian Championship is taking place from 16&#x2013;26 August 2023 in Pune, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of S.P.&#xA0;Sethuraman, Vignesh N R, Deep&#xA0;Sengupta, Guha&#xA0;Mitrabha,&#xA0;Neelash Saha, Abhimanyu&#xA0;Puranik, etc.Chessdom.com will daily follow the live games. FIDE World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/indian-championship-2023/",
+         "pubDate" : "Sun, 20 Aug 2023 11:12:32 +0000",
+         "title" : "Indian Championship 2023"
+      },
+      {
+         "description" : "The 2023 &#8220;Summer Cup&#8221; tournament takes place in Rhodes, Greece, from 21-29 August. The event is a 9-round Swiss tournament with a time control of 90&#8242; for the entire game and an increment of 30&#8243; per move. The top ten seeds are Gergely Antal, Peter&#xA0;Prohaszka, Angelo&#xA0;Damia, Leonardo&#xA0;Loiacono, Michiel&#xA0;Van Wissen, Martin&#xA0;Roobol, Jolanta&#xA0;Zawadzka, Pedro Gil Ferreira Da&#xA0;Silva, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rhodes-international-open-summer-cup-2023-live/",
+         "pubDate" : "Sun, 20 Aug 2023 10:50:48 +0000",
+         "title" : "Rhodes International Open \"Summer Cup\" 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 &#8220;Summer Cup&#8221; tournament takes place in Rhodes, Greece, from 21-29 August. The event is a 9-round Swiss tournament with a time control of 90&#8242; for the entire game and an increment of 30&#8243; per move. The top ten seeds are Gergely Antal, Peter&#xA0;Prohaszka, Angelo&#xA0;Damia, Leonardo&#xA0;Loiacono, Michiel&#xA0;Van Wissen, Martin&#xA0;Roobol, Jolanta&#xA0;Zawadzka, Pedro Gil Ferreira Da&#xA0;Silva, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rhodes-international-open-summer-cup-2023/",
+         "pubDate" : "Sun, 20 Aug 2023 10:48:17 +0000",
+         "title" : "Rhodes International Open \"Summer Cup\" 2023"
+      },
+      {
+         "description" : "The FIDE World Cup is coming to an end. One of the most exciting events in the chess calendar, it features an open section and a women's section, with spots in the Candidates up for grabs in both events. The ever-curious GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five instructive endgames from the women's category! | Pictured: Divya Deshmukh | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-endgames-women",
+         "pubDate" : "Sun, 20 Aug 2023 11:45:00 +0100",
+         "title" : "Notable endgames from the Women's World Cup"
+      },
+      {
          "description" : "83 wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-placed GM Nih...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -50,7 +98,7 @@ news_feed (
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
       },
       {
-         "description" : "Fabiano Caruana Praggnanandhaa R is semifinal game of 2023 FIDE World Cup. The other semifinal game is Magnus Carlsen Nijat Abasov . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Aleksandra Goryachkina Zhongyi Tan The 2023 FIDE World Cup is []",
+         "description" : "Fabiano Caruana Praggnanandhaa R is semifinal game of 2023 FIDE World Cup. The other semifinal game is Magnus Carlsen Nijat Abasov . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Anna Muzychuk Zhongyi Tan The 2023 FIDE World Cup is []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fabiano-caruana-praggnanandhaa-r-fide-world-cup-2023-1-2-final-live/",
@@ -58,7 +106,7 @@ news_feed (
          "title" : "Fabiano Caruana - Praggnanandhaa R, FIDE World Cup 2023 1/2 final - LIVE"
       },
       {
-         "description" : "Magnus Carlsen Nijat Abasov is semifinal game of 2023 FIDE World Cup. The other semifinal game is Fabiano Caruana Praggnanandhaa R . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Aleksandra Goryachkina Zhongyi Tan The 2023 FIDE World Cup is []",
+         "description" : "Magnus Carlsen Nijat Abasov is semifinal game of 2023 FIDE World Cup. The other semifinal game is Fabiano Caruana Praggnanandhaa R . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Anna Muzychuk Zhongyi Tan The 2023 FIDE World Cup is []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-nijat-abasov-fide-world-cup-2023-1-2-final-live/",
@@ -174,7 +222,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-clash-the-unique-event-featuring-clash-of-clans-clash-royale",
-         "pubDate" : "Fri, 18 Aug 2023 15:46:06 -0700",
+         "pubDate" : "Fri, 18 Aug 2023 15:46:00 -0700",
          "title" : "Launching Chess Clash: The Unique Event Featuring Clash of Clans, Clash Royale And A Galaxy Of Stars"
       },
       {
@@ -208,6 +256,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-publishes-controversial-new-transgender-policy",
          "pubDate" : "Fri, 18 Aug 2023 08:55:01 -0700",
          "title" : "FIDE Publishes Controversial New Transgender Policy"
+      },
+      {
+         "description" : "Earlier this year, in <A HREF=\"https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html\">TGIF on CFAA</A> (June 2023), I wrote, <BLOCKQUOTE> Some of my blog posts are basically notes to myself. This is one of them. </BLOCKQUOTE> <P> This current post is another. To parrot the thought process introduced in the TGIF post, <BLOCKQUOTE> I took three weeks off at the beginning of July and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 21 posts in 25 days and am now caught up. </BLOCKQUOTE> <P> In addition to the actions mentioned in the TGIF post, I need to catch up with new actions from Google ('Your wish",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html",
+         "pubDate" : "Fri, 18 Aug 2023 15:55:00 +0000",
+         "title" : "Adsense on CFAA++"
       },
       {
          "description" : "Praggnanandhaa Rameshbabu beat his good friend Arjun Erigaisi in a series of tense rapid and blitz tiebreaks to reach the semifinals of the FIDE World Cup. The 18-year-old all but secured a spot in the next edition of the Candidates Tournament. Meanwhile, in the women's category, Nurgyul Salimova upset Anna Muzychuk to reach the final of the event. Salimova thus qualified to the Women's Candidates, while Muzychuk will face Tan Zhongyi for a spot in the all-important event. | Photo: FIDE / Stev Bonhage",
@@ -682,38 +738,6 @@ news_feed (
          "title" : "German Women's Championship 2023"
       },
       {
-         "description" : "D Gukesh Magnus Carlsen is 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of 2023 FIDE World Cup are : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez Fabiano Caruana / Praggnanandhaa R Arjun Erigaisi FIDE Women's World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/d-gukesh-magnus-carlsen-fide-world-cup-2023-1-4-final-live/",
-         "pubDate" : "Tue, 15 Aug 2023 10:46:14 +0000",
-         "title" : "D Gukesh - Magnus Carlsen, FIDE World Cup 2023 1/4 final - LIVE"
-      },
-      {
-         "description" : "Anna Muzychuk Nurgyul Salimova is a 1/2 final game of 2023 FIDE Women&#x2019;s World Cup, white the other game in the battle for final is between Aleksandra Goryachkina Zhongyi Tan. FIDE World Cup round 1/4 : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-muzychuk-nurgyul-salimova-fide-womens-world-cup-2023-1-2-final-live/",
-         "pubDate" : "Tue, 15 Aug 2023 10:39:47 +0000",
-         "title" : "Anna Muzychuk - Nurgyul Salimova, FIDE Women's World Cup 2023 1/2 final - LIVE"
-      },
-      {
-         "description" : "Aleksandra Goryachkina Zhongyi Tan is a 1/2 final game of 2023 FIDE Women&#x2019;s World Cup, white the other game in the battle for final is between Anna Muzychuk Nurgyul Salimova. FIDE World Cup round 1/4 : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-zhongyi-tan-fide-womens-world-cup-2023-1-2-final-live/",
-         "pubDate" : "Tue, 15 Aug 2023 10:12:00 +0000",
-         "title" : "Aleksandra Goryachkina - Zhongyi Tan, FIDE Women's World Cup 2023 1/2 final - LIVE"
-      },
-      {
-         "description" : "Santosh Gujrathi Vidit Nijat Abasov is 1/4 final game of 2023 FIDE World Cup.The other games from 1/4 final stage of 2023 FIDE World Cup are : D Gukesh Magnus Carlsen / Santosh Gujrathi Vidit Nijat Abasov / Leinier Dominguez Perez Fabiano Caruana / Praggnanandhaa R Arjun Erigaisi FIDE Women's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/santosh-gujrathi-vidit-nijat-abasov-fide-world-cup-2023-1-4-final-live/",
-         "pubDate" : "Tue, 15 Aug 2023 09:47:00 +0000",
-         "title" : "Santosh Gujrathi Vidit - Nijat Abasov, FIDE World Cup 2023 1/4 final - LIVE"
-      },
-      {
          "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1042,28 +1066,12 @@ news_feed (
          "title" : "FIDE World Senior Team Championships 2023: Registration deadline extended"
       },
       {
-         "description" : "In this typical gambit position White must prove that his development advantage and pressure on the queenside are worth two pawns. He has only one convincing move - can you find it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/catalan-compensation",
-         "pubDate" : "Sat, 12 Aug 2023 09:00:00 +0100",
-         "title" : "Catalan compensation"
-      },
-      {
          "description" : "World number-two GM Hikaru Nakamura is out of the 2023 FIDE World Cup after losing to GM Praggnanandhaa Rameshbabu in round four tiebreaks. The event is also over for Women&#39;s World Champion GM Ju Wenjun after she missed a trick against GM Elisabet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-3",
          "pubDate" : "Fri, 11 Aug 2023 17:37:00 -0700",
          "title" : "18-Year-Old Praggnanandhaa Knocks Nakamura Out Of World Cup"
-      },
-      {
-         "description" : "During the FIDE World Cup, Magnus Carlsen and Humpy Koneru fought back brilliantly, and moved to the tiebreaks instead of taking the next flight home. How do world-class players actually manage to achieve such great comebacks? Svitlana shows us the three golden rules of how you can strike back in a \"must-win\" situation!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-develop-a-winning-mindset-like-carlsen-or-koneru",
-         "pubDate" : "Sat, 12 Aug 2023 01:30:00 +0100",
-         "title" : "Svitlana's Smart Moves - Develop a winning mindset like Carlsen or Koneru"
       },
       {
          "description" : "",
