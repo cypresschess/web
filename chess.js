@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "83 wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-placed GM Nih...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-week-3",
+         "pubDate" : "Sat, 19 Aug 2023 22:46:07 -0700",
+         "title" : "Nakamura Sets New Bullet Brawl Record With 83 Wins"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102868456.cms\" />R Praggnanandhaa defended his slightly minus position against Fabiano Caruana with precision but Nijat Abasov could not land a punch that could have helped him floor Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-semifinals-praggnanandhaa-holds-fabiano-caruana-magnus-carlsen-escapes-with-a-win/articleshow/102868456.cms",
+         "pubDate" : "Sun, 20 Aug 2023 03:25:40 +0000",
+         "title" : "Chess WC semis: Praggu holds Caruana, Carlsen escapes with a win"
+      },
+      {
          "description" : " Greetings! I'm Inez Kelley, sister to Armand Kelley a member of the NYC chess community. For those who know, Armand passed in 2019. Since that time we've organized chess events in his memory. This year and with the collaboration of Aggrey Duncan and CHESS ON THE MOVE we are excited to present &#8216;Battle of The The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/\">Battle of the Masters: NYC Blitz Chess Match!!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2595",
          "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102862423.cms\" />Indian Grandmaster R Praggnanandhaa held fancied American player Fabiano Caruana to a draw in the first game of the semifinals of the FIDE World Cup chess tournament on Saturday. The 17-year old Praggnanandhaa waged a gritty battle against the American to share the honours in 78 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-cup-praggnanandhaa-draws-nakamura-in-first-game-of-semi-finals/articleshow/102862423.cms",
-         "pubDate" : "Sat, 19 Aug 2023 16:33:56 +0000",
-         "title" : "World Cup: Praggnanandhaa draws Nakamura in first game of semi-finals"
       },
       {
          "description" : "Fabiano Caruana Praggnanandhaa R is semifinal game of 2023 FIDE World Cup. The other semifinal game is Magnus Carlsen Nijat Abasov . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Aleksandra Goryachkina Zhongyi Tan The 2023 FIDE World Cup is []",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-70/",
          "pubDate" : "Tue, 08 Aug 2023 20:13:24 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (70)"
-      },
-      {
-         "description" : "A 16-year-old Indian player has catapulted himself into the world elite and become an international master in a matter of just two months in what is described as an &#34;exceptional&#34; feat. Aaditya Dhingra from Gurugram, a city southwest of New Delhi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aaditya-dhingra-jumps-to-2600",
-         "pubDate" : "Tue, 08 Aug 2023 11:56:00 -0700",
-         "title" : "Indian 16-Year-Old Jumps From 2000 To 2600 In Two Months"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fiel",
