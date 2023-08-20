@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week's column happens to be the two hundredth in a series stemming back to April 2016. This time, in honour of the round number, I thought we might span the centuries with some games from round about 1823. I'm no chess historian, so make no particular claim for the games I've chosen, but they do illustrate some aspects of how the game has developed! | Pictured: Alexander Alekhine with his wife and Efim Bogoljubow | Photo: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-200",
+         "pubDate" : "Sun, 20 Aug 2023 20:00:00 +0100",
+         "title" : "Jon Speelman: Over the centuries"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102880240.cms\" />Indian Grandmaster R Praggnanandhaa tied the two-match classical series against American GM Fabiano Caruana 1-1, sending the match to a tie-break. The two players will compete in a tie-break on Monday to advance to the final against world No. 1 Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-vs-caruana-semifinal-heads-to-tie-break/articleshow/102880240.cms",
+         "pubDate" : "Sun, 20 Aug 2023 17:09:27 +0000",
+         "title" : "WC: Praggnanandhaa vs Caruana semifinal heads to tie-break"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2596",
+         "pubDate" : "Sun, 20 Aug 2023 16:33:13 +0000",
+         "title" : "5th FIDE World Championship for People with Disabilities starts in Lublin, Poland"
+      },
+      {
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Sun, 20 Aug 2023 15:05:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 139th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chessdom.com/manchester-summer-congress-harry-lamb-memorial-live/",
          "pubDate" : "Sun, 20 Aug 2023 11:56:34 +0000",
          "title" : "Manchester Summer Congress | Harry Lamb Memorial - LIVE"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 20 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "The Indian Championship is taking place from 16&#x2013;26 August 2023 in Pune, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of S.P.&#xA0;Sethuraman, Vignesh N R, Deep&#xA0;Sengupta, Guha&#xA0;Mitrabha,&#xA0;Neelash Saha, Abhimanyu&#xA0;Puranik, etc. FIDE World Cup round 1/2 : Magnus Carlsen []",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Naroditsky Doubles Down On Bullet Brawl Crown"
       },
       {
-         "description" : "Five out of eight games ended decisively at the start of the round-of-16 in the open section of the World Cup. Rating favourites Magnus Carlsen, Dommaraju Gukesh, Leinier Dominguez and Arjun Erigaisi all won, while Nijat Abasov was the one rating underdog to grab a full point. In the quarterfinals of the women's section, Tan Zhongyi and Nurgyul Salimova obtained wins on Saturday. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r5-d1",
-         "pubDate" : "Sun, 13 Aug 2023 00:25:00 +0100",
-         "title" : "World Cup: Carlsen wins brilliantly, Gukesh up to world number 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1656,30 +1672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2551",
          "pubDate" : "Mon, 31 Jul 2023 06:59:47 +0000",
          "title" : "Michael Adams wins British Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2550",
-         "pubDate" : "Sun, 30 Jul 2023 19:02:13 +0000",
-         "title" : "FIDE World Cup 2023: Round 1 Day 1 Report"
-      },
-      {
-         "description" : " As I write this article, the British Championships are taking place at my Alma Mater: De Montfort University, Leicester. It was the City of Leicester Polytechnic when I was there, and, for a season and a half, we had a team in the Leicestershire League. It seems like a good opportunity to look at one <a href=\"https://chessimprover.com/leicester-folly/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Leicester Folly\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/leicester-folly/\">Leicester Folly</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/leicester-folly/",
-         "pubDate" : "Sun, 30 Jul 2023 15:57:21 +0000",
-         "title" : "Leicester Folly"
-      },
-      {
-         "description" : "This latest post on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), echoes this month's featured video <A HREF=\"https://chessforallages.blogspot.com/2023/07/gotham-gets-giddy.html\">Gotham Gets Giddy</A> (July 2023), including the title. That's not really fair, because the entire clip is a reasoned summary of the current chess boom by one of its main beneficiaries. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/YBwpJUcXFgY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-gaga.html",
-         "pubDate" : "Sun, 30 Jul 2023 15:38:00 +0000",
-         "title" : "Gotham Gets Gaga"
       }
    ]
 }
