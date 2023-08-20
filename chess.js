@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2597",
+         "pubDate" : "Sun, 20 Aug 2023 20:29:12 +0000",
+         "title" : "FIDE World Cup Round 7 Day 2: Anna Muzychuk wins bronze "
+      },
+      {
          "description" : "This week's column happens to be the two hundredth in a series stemming back to April 2016. This time, in honour of the round number, I thought we might span the centuries with some games from round about 1823. I'm no chess historian, so make no particular claim for the games I've chosen, but they do illustrate some aspects of how the game has developed! | Pictured: Alexander Alekhine with his wife and Efim Bogoljubow | Photo: Europe Echecs",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
