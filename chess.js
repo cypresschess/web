@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 139th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-139-chess-history-in-a-nutshell-21",
+         "pubDate" : "Sun, 20 Aug 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 139: Chess history in a nutshell (21)"
+      },
+      {
+         "description" : " 48 years ago, my late friend Mike Fox and I were discussing starting a junior chess club. This would become Richmond Junior Chess Club, which is still going strong today, although I no longer have any connection with it. If you're in my part of the world and are looking for a professionally run centre <a href=\"https://chessimprover.com/a-new-chess-club-for-children/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A New Chess Club for Children\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-new-chess-club-for-children/\">A New Chess Club for Children</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-new-chess-club-for-children/",
+         "pubDate" : "Sun, 20 Aug 2023 12:27:49 +0000",
+         "title" : "A New Chess Club for Children"
+      },
+      {
+         "description" : "The Manchester Summer Congress &#124; Harry Lamb Memorial is taking place August 18-20, 2023 in Horwich, England. Players receive 110 minutes for the entire game, plus a 10-second increment starting from move one. It is a 5-round Swiss tournament with participation of Bogdan Lalic, Paul Macklin, Edward Jackson, Mike J Surtees, Keith C Arkell, Sean []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/manchester-summer-congress-harry-lamb-memorial-live/",
+         "pubDate" : "Sun, 20 Aug 2023 11:56:34 +0000",
+         "title" : "Manchester Summer Congress | Harry Lamb Memorial - LIVE"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Notable endgames from the Women's World Cup"
       },
       {
-         "description" : "83 wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-placed GM Nih...",
+         "description" : "Eighty-three wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-week-3",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "Nakamura And Carlsen's Rivalry Returns For 2023 Speed Chess Championship Presented By Coinbase"
       },
       {
-         "description" : "The German Women's Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Kateryna Dolzhykova, Lara Schulze, Carmen Voicu-Jagodzinsky, Annemarie Meier, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-womens-championship-2023/",
-         "pubDate" : "Tue, 15 Aug 2023 11:34:00 +0000",
-         "title" : "German Women's Championship 2023"
-      },
-      {
          "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2575",
          "pubDate" : "Sat, 12 Aug 2023 17:46:41 +0000",
          "title" : "World Cup Round 5 Game 1: Multiple victories and surprises in Baku"
-      },
-      {
-         "description" : "For almost 30 years, the pioneering chess resource The Week in Chess has pushed out its weekly content, even before the internet was readily available in numerous major countries. Founded and spearheaded by Mark Crowther, it has managed to survive the decades of change and evolution, always fighting the good fight, and this week reached the milestone 1500th issue. Our warmest congratulations!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-week-in-chess-reaches-1500th-issue",
-         "pubDate" : "Sat, 12 Aug 2023 18:30:00 +0100",
-         "title" : "The Week in Chess reaches 1500th issue"
       },
       {
          "description" : "This is to inform you that AICF Delhi Office will be closed on 14 August 2023 and 15 August 2023 on the occasion of Independence",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/07/gotham-gets-gaga.html",
          "pubDate" : "Sun, 30 Jul 2023 15:38:00 +0000",
          "title" : "Gotham Gets Gaga"
-      },
-      {
-         "description" : " IM Junta Ikeda has added yet another title to his large collection, winning the 2023 ANU Open. Starting the day on 4/4 he defeated Fred Litchfield in round 5, before playing a 95 move draw against the rapidly improving Harvey Zhu. Harry Press (4.5) tied for second with CM Lalit Prasad, after Prasad scored an upset win over FM Fred Litchfield. Harvey Zhu and Terrance Tang shared the 1600-2000 rating prize, while Leiming Yu capped a fantastic tournament by winning the Under 1600 prize. Matthew Dwyer scored 6 ins from 6 games to finish first in the Minor event. However he had to be content with the Best Unrated prize as he does not currently have a ACF/FIDE rating. This left Larry Cheng and Ol",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/07/2023-anu-open-ikeda-wins.html",
-         "pubDate" : "Sun, 30 Jul 2023 13:16:00 +0000",
-         "title" : "2023 ANU Open - Ikeda wins"
       }
    ]
 }
