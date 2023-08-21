@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week you can save a whopping 190 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €89.70). Don't miss these massive savings - only this week!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
+         "pubDate" : "Mon, 21 Aug 2023 09:00:00 +0100",
+         "title" : "Master Class 1-15 and Fabiano!"
+      },
+      {
          "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1034,14 +1042,6 @@ news_feed (
          "title" : "'At the Center of AI Research'"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 137th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to look at the groundbreaking positional ideas of Aron Nimzowitsch. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-138-chess-history-in-a-nutshell-20",
-         "pubDate" : "Sun, 13 Aug 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 138: Chess history in a nutshell (20)"
-      },
-      {
          "description" : "GM Daniel Naroditsky won Saturday&#39;s Bullet Brawl and the $400 first prize for the second week in a row ahead of a stacked field of titled players after scoring 63 wins, nine draws, and 13 losses (226 points). His closest rivals were unsurprisingly...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1672,14 +1672,6 @@ news_feed (
          "link" : "https://www.europechess.org/poland-wins-quadruple-gold-at-the-european-youth-team-chess-championship-2023/",
          "pubDate" : "Mon, 31 Jul 2023 08:37:02 +0000",
          "title" : "Poland wins quadruple gold at the European Youth Team Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2551",
-         "pubDate" : "Mon, 31 Jul 2023 06:59:47 +0000",
-         "title" : "Michael Adams wins British Championship 2023"
       }
    ]
 }
