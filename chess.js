@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "China emerged victorious in the FIDE World Youth U16 Olympiad held in Eindhoven, the Netherlands. The team dominated the competition, securing an impressive 17 out of 18 match points. Turkey, the last year's champions, finished second, while Greece claimed the bronze medal. FIDE report, >1000 games, plus beautiful pictorial impressions by Frans Peeters and Lennart Ootes.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/china-wins-fide-world-u16-olympiad",
+         "pubDate" : "Mon, 21 Aug 2023 16:00:00 +0100",
+         "title" : "China Wins FIDE World U16 Olympiad"
+      },
+      {
+         "description" : "The English Chess Federation's (ECF) position is clear. We do not exclude trans women and this position will not change, despite FIDE's new policy. Trans...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/response-to-fides-new-trans-regulations/",
+         "pubDate" : "Mon, 21 Aug 2023 14:45:55 +0000",
+         "title" : "Response to FIDE's new trans regulations"
+      },
+      {
          "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Mon, 21 Aug 2023 12:50:00 +0100",
+         "pubDate" : "Mon, 21 Aug 2023 15:05:00 +0100",
          "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "In today's episode, Honorata shows us how an attack is set for success if all pieces work together. Emanuel Lasker's game was considered one of the most beautiful attacks in chess history, and you are about to find out why. We want to point out that Svitlana Demchenko also made an episode about this sacrifice, which we added to our links - so you can watch two experts analysing the same game!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lasker-s-legendary-double-sacrifice-honorata-s-harmony",
+         "pubDate" : "Mon, 21 Aug 2023 15:00:00 +0100",
+         "title" : "Lasker's legendary double sacrifice - Honorata's Harmony"
       },
       {
          "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
@@ -1010,28 +1034,12 @@ news_feed (
          "title" : "D Gukesh to face Magnus Carlsen in FIDE World Cup quarters"
       },
       {
-         "description" : "It is always frustrating to learn of a shot or move that you missed in a game but that was well within your ability to find. It happens to everyone, of course, but the question is how can we reduce this. In this article we will look at a strategy to help fight some of these misses.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/knowing-when-to-insist",
-         "pubDate" : "Sun, 13 Aug 2023 19:00:00 +0100",
-         "title" : "Knowing when to insist"
-      },
-      {
          "description" : "On the first day of round five of the 2023 FIDE World Cup, GMs&#38;nbsp;Dommaraju Gukesh&#38;nbsp;and Arjun Erigaisi led the way for India&#39;s young stars after both scored wins with Black over GMs Wang Hao and Nils Grandelius, respectively. GMs Magnus Carl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-1",
          "pubDate" : "Sun, 13 Aug 2023 10:33:00 -0700",
          "title" : "Carlsen, Gukesh Strike Again; Quarterfinal Showdown Looms"
-      },
-      {
-         "description" : "The 56th edition of the Biel Chess Festival saw Le Quang Liem successfully defending his title in the Grandmaster Triathlon, an innovative event featuring classical, rapid and blitz sections. As ever, GM Karsten M&uuml;ller attentively followed the action, and found outstanding endgame positions to share with us. Find here six instructive endings from the unique event! | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2023-endgames-triathlon",
-         "pubDate" : "Sun, 13 Aug 2023 17:00:00 +0100",
-         "title" : "Endgames from the Biel Triathlon"
       },
       {
          "description" : "GM Rogoff has made occasional appearances on this blog since the first, featured mention in <A HREF=\"https://chessforallages.blogspot.com/2012/02/kenny-rogoff-as-youve-never-seen-him.html\">Kenny Rogoff as You've Never Seen Him</A> (February 2012), where he had a full head of hair. Here he weighs in on the top computer topic of the 2020s. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2_x4PKTRaKc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>How AI makes Chess 'more interesting': International Grandmaster</B> (3:43) &#149; '[Publ",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/wp-content/uploads/2023/08/Starter-Solutions-Submitted-2023.pdf#new_tab",
          "pubDate" : "Wed, 09 Aug 2023 10:10:30 +0000",
          "title" : "Winton British Chess Solving Championship 2023-2024 - solutions"
-      },
-      {
-         "description" : "You don't have to be a millionaire to own a Premier Division football club, so for the 2023/24 Fantasy Premier League why don't you join...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2023/",
-         "pubDate" : "Wed, 09 Aug 2023 09:45:52 +0000",
-         "title" : "Premier League Fantasy Football 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
