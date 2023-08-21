@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This week you can save a whopping 190 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €89.70). Don't miss these massive savings - only this week!",
+         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Mon, 21 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup - Live!"
+      },
+      {
+         "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2596",
          "pubDate" : "Sun, 20 Aug 2023 16:33:13 +0000",
          "title" : "5th FIDE World Championship for People with Disabilities starts in Lublin, Poland"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Sun, 20 Aug 2023 15:05:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 139th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jan-marcos-middlegame-strategy",
          "pubDate" : "Mon, 31 Jul 2023 17:05:00 +0100",
          "title" : "Jan Markos: Middlegame strategy"
-      },
-      {
-         "description" : "The 2023 European Youth Team Chess Championship concluded yesterday in Iasi, Romania and Poland emerged as the winner of all competitions in the event, winning the unprecedented quadruple gold! Scoring 13 match points (6 victories and 1 draw), Poland convincingly clinched the Open U12 section. Turkey was second with 11 match points, while Israel and Germany tied for third scoring 9 match points. Having better tiebreaks (Olympiad Sonneborn Berger), Israel won bronze medal. With the same match score of 13 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/poland-wins-quadruple-gold-at-the-european-youth-team-chess-championship-2023/",
-         "pubDate" : "Mon, 31 Jul 2023 08:37:02 +0000",
-         "title" : "Poland wins quadruple gold at the European Youth Team Chess Championship 2023"
       }
    ]
 }
