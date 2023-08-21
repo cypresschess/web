@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2599",
+         "pubDate" : "Mon, 21 Aug 2023 22:42:38 +0000",
+         "title" : "Clash of chess titans in D&uuml;sseldorf: World Rapid Team Championship preview"
+      },
+      {
+         "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-3",
+         "pubDate" : "Mon, 21 Aug 2023 15:00:00 -0700",
+         "title" : "Praggnanandhaa-Carlsen In Final; Goryachkina Takes Women's Title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2598",
+         "pubDate" : "Mon, 21 Aug 2023 19:58:08 +0000",
+         "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
+      },
+      {
          "description" : "In a move that is sure to cause a significant stir, FIDE announced that it would be setting restrictions on transgenders participating in official FIDE Women events, specifying that any such restrictions pertain exclusively to man to women transgenders. These regulations come into effect on August 21. See the statement and share your thoughts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1288,14 +1312,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/",
          "pubDate" : "Wed, 09 Aug 2023 15:50:27 +0000",
          "title" : "2023 FIDE World Cup: Round 3"
-      },
-      {
-         "description" : "What do GM Dmitry Andreikin, GM Denis Lazavik, GM Fabiano Caruana, GM Magnus Carlsen, GM Maksim Chigaev, GM Vladimir Fedoseev, GM Jose Martinez, FM Ivan Yeletsky, GM Levon Aronian, GM Alexey Sarana, GM David Paravyan, and IM Mahdi Gholami Orimi ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/12-player-pileup-rocks-crowded-early-tuesday",
-         "pubDate" : "Wed, 09 Aug 2023 08:19:44 -0700",
-         "title" : "12-Player Pileup Rocks Crowded Early Tuesday"
       },
       {
          "description" : " The FIDE Qualification Commission is inviting comments on proposed changes to the FIDE Rating System. The details fo the changes are at <a href=\"https://fide.com/news/2538\">https://fide.com/news/2538</a> and you can send your comments to qualification@fide.com (NB As Secretary of the FIDE QC, I do get to read them). We have already received a number of submissions, but you have until the end of September to comment. After this date QC will go through the submissions and see if there are important ideas we may have missed. ",
