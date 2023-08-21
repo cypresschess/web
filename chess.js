@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-2",
+         "pubDate" : "Sun, 20 Aug 2023 16:53:00 -0700",
+         "title" : "Carlsen Books Spot In Final; Salimova Misses Chance To Claim Women's Crown"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2023/",
          "pubDate" : "Wed, 09 Aug 2023 09:45:52 +0000",
          "title" : "Premier League Fantasy Football 2023"
-      },
-      {
-         "description" : "The wait is finally over&#38;mdash;we finally know the pairings of the live in-person Finals of PogChamps 5. QTCinderella and Wirtual are the Consolation Bracket finalists, having defeated Daily Dose of Internet and Squeex. In the Championship Brack...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-day-10",
-         "pubDate" : "Tue, 08 Aug 2023 19:18:00 -0700",
-         "title" : "Voice Experts CDawgVA And Frank Go To Finals; Wirtual Wins Plane Ticket, QTCinderella Wins Uber Ride"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
