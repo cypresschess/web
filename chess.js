@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a move that is sure to cause a significant stir, FIDE announced that it would be setting restrictions on transgenders participating in official FIDE Women events, specifying that any such restrictions pertain exclusively to man to women transgenders. These regulations come into effect on August 21. See the statement and share your thoughts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-bans-transgenders-from-women-events",
+         "pubDate" : "Mon, 21 Aug 2023 17:35:00 +0100",
+         "title" : "FIDE bans transgenders from Women events"
+      },
+      {
+         "description" : "An instructive example sent by Jorge Baules reminded Karsten M&uuml;ller of a victory he obtained back in 1999. Bishops of opposite colours favour the attacker! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-248-opposite-coloured-bishops-favour-the-attacker",
+         "pubDate" : "Mon, 21 Aug 2023 17:30:00 +0100",
+         "title" : "Endgame Magic #248: Bishops of opposite colours favour the attacker"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102916116.cms\" />In a remarkable display of skill and determination, Indian Grandmaster R Praggnanandhaa secured a stunning victory over World No. 3 Fabiano Caruana with a score of 3.5-2.5 in the tie-breaker round of the FIDE World Cup chess tournament held in Baku, Azerbaijan on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-shocks-caruana-meets-carlsen-in-final/articleshow/102916116.cms",
+         "pubDate" : "Mon, 21 Aug 2023 16:05:38 +0000",
+         "title" : "World Cup: Praggnanandhaa shocks Caruana, meets Carlsen in final"
+      },
+      {
          "description" : "China emerged victorious in the FIDE World Youth U16 Olympiad held in Eindhoven, the Netherlands. The team dominated the competition, securing an impressive 17 out of 18 match points. Turkey, the last year's champions, finished second, while Greece claimed the bronze medal. FIDE report, >1000 games, plus beautiful pictorial impressions by Frans Peeters and Lennart Ootes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,6 +192,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/",
          "pubDate" : "Sun, 20 Aug 2023 02:52:25 +0000",
          "title" : "Battle of the Masters: NYC Blitz Chess Match!!"
+      },
+      {
+         "description" : "The Chess Federation of Canada disagrees with and is disappointed by the FIDE decision to ban transgender women from competing in women&rsquo;s chess events. We disagree with the way it was implemented, involving the banning of transgender women and subsequently studying the issue to arrive at a final decision. This decision came as a surprise, with no prior discussion or indication that this action was being considered. There were no exigent circumstances that we are aware of that would require such a drastic action.",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2023/08/20/cfc-responds-to-the-fide-ban/",
+         "pubDate" : "Sun, 20 Aug 2023 00:00:00 +0000",
+         "title" : "CFC Response to the FIDE Ban on Transgender Women Competing in Women's Events"
       },
       {
          "description" : "Magnus Carlsen took the lead in his semifinal match against Nijat Abasov after winning an absolutely thrilling game with the white pieces. In the other semi, Praggnanandhaa was under pressure throughout the game but managed to hold Fabiano Caruana to a draw. Meanwhile, the first game of the final in the women's section finished drawn, unlike what happened in the match for third place, where Anna Muzychuk showed great technique to beat Tan Zhongyi with white. | Photo: FIDE / Stev Bonhage",
@@ -946,14 +978,6 @@ news_feed (
          "title" : "FIDE Fair Play Seminar in Durrës, Albania, announced"
       },
       {
-         "description" : "One opening variation in the Sicilian Dragon is getting more and more popular. The Hungarian Dragon! A somewhat \"safer\" Dragon than usual, with a twisty idea to push h5 forward very soon, and avoid all of White's pawn rushes better. Dragon tamer Chris Ward shows us a game, probably inspired by Richard Rapport, where our Dragon bishop causes some havoc on h3, instead of g2!| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-dragon",
-         "pubDate" : "Mon, 14 Aug 2023 11:27:46 +0100",
-         "title" : "The Monthly Dragon - Introducing: The Hungarian Dragon!"
-      },
-      {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/im-norm-news/",
          "pubDate" : "Mon, 14 Aug 2023 08:23:32 +0000",
          "title" : "IM norm news"
-      },
-      {
-         "description" : "Praggnanandhaa and Fabiano Caruana scored wins on Sunday to knock out Ferenc Berkes and Jan-Krzysztof Duda respectively. While Pragg is set to face Arjun Erigaisi in an all-Indian quarterfinal, Caruana will play Leinier Dominguez in a duel of US grandmasters. Gukesh and Magnus Carlsen also secured their spots in the next stage when they will face each other. In the women's section, three out of four quarterinal matchups will be decided in tiebreaks, as only Tan Zhongyi has secured a spot in the semifinals. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r5-d2",
-         "pubDate" : "Mon, 14 Aug 2023 08:55:00 +0100",
-         "title" : "World Cup: Pragg and Caruana win, reach quarterfinals"
       },
       {
          "description" : "The FIDE World Youth Olympiad 2023 kicked off Sunday at Eindhoven's High Tech Campus in the Netherlands. Indian team seeded 16th has started well in",
@@ -1648,22 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/playing-e4-and-d4.html",
          "pubDate" : "Tue, 01 Aug 2023 13:13:00 +0000",
          "title" : "Playing e4 and d4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2552",
-         "pubDate" : "Mon, 31 Jul 2023 19:17:18 +0000",
-         "title" : "Word Cup R01 Day 02: The favourites push forward"
-      },
-      {
-         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail, and we shouldn't use the queen just for defence. This series will show you in great detail the specific qualities of each chess piece, so that you can maximize their effectiveness and thus improve your game. This week you can get both FritzTrainer volumes by Slovak chess grandmaster, coach, and author, for just €38.90, which is €20 below the regular list price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-marcos-middlegame-strategy",
-         "pubDate" : "Mon, 31 Jul 2023 17:05:00 +0100",
-         "title" : "Jan Markos: Middlegame strategy"
       }
    ]
 }
