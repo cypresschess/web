@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in Qualifier 1 on Tuesday. Yu finished second in the Swiss on day one and, on the second day, won two m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-1-yu-vidit-win",
+         "pubDate" : "Tue, 22 Aug 2023 12:05:12 -0700",
+         "title" : "Armageddon Wins In Both Finals: Vidit, Yu Qualify For SCC 2023 Presented By Coinbase"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2601",
+         "pubDate" : "Tue, 22 Aug 2023 18:03:27 +0000",
+         "title" : "EDU Commission announces its 10th Preparation of Teachers course"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2600",
+         "pubDate" : "Tue, 22 Aug 2023 17:28:51 +0000",
+         "title" : "FIDE World Cup: Carlsen and Praggnanandhaa draw in the first game of the finals"
+      },
+      {
+         "description" : " Praggnanandhaa beats Caruana, will play Carlsen in the Final! This World Cup tournament has been one of big upsets, but Magnus Carlsen and Fabiano Caruana were headed on a collision course as the two highest seeds from each bracket. That is until one of the Indian prodigies had other ideas. Rameshbabu Praggnanandhaa had already ousted The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/\">2023 FIDE World Cup: Semifinals/Finals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/",
+         "pubDate" : "Tue, 22 Aug 2023 16:28:02 +0000",
+         "title" : "2023 FIDE World Cup: Semifinals/Finals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102952919.cms\" />Indian Grandmaster R Praggnanandhaa showcased his prowess by holding his ground against the reigning World No.1 Magnus Carlsen, ultimately securing a draw in the opening classical game of the FIDE World Cup chess final in Baku, Azerbaijan.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,20 +58,20 @@ news_feed (
          "title" : "Pragg v Carlsen"
       },
       {
+         "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
+         "pubDate" : "Tue, 22 Aug 2023 12:55:00 +0100",
+         "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
+      },
+      {
          "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Tue, 22 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup Final - Live!"
-      },
-      {
-         "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
-         "pubDate" : "Tue, 22 Aug 2023 12:45:00 +0100",
-         "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102947134.cms\" />R Praggnanandhaa's ability to defend seamlessly in pressure situations and the deductive mind to quickly gauge his opponent's weakness is the hallmark of a world class player, national coach GM M Shyam Sundar said on Tuesday.",
@@ -1362,14 +1394,6 @@ news_feed (
          "title" : "FIDE World Cup Round 4 Game 1: Magnus Carlsen loses to 18-year-old prodigy Vincent Keymer"
       },
       {
-         "description" : "WIM Sabrina Chevannes is exposing sexual harassment and misogyny in the chess world and says it caused her to quit playing the game professionally. A group of women players last week published a powerful message in an open letter where they say ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chevannes-speaks-against-sexual-assault-misogyny",
-         "pubDate" : "Wed, 09 Aug 2023 12:25:00 -0700",
-         "title" : "The Reason I Quit: WIM Chevannes Speaks Against Sexual Assault, Misogyny"
-      },
-      {
          "description" : " Top Three Seeds Go Through, but a Few Surprises In a trend where the youngest stars are shining at the World Cup, some of the veterans are still showing that experience is an enduring quality in the knockout system. Besides Magnus Carlsen and Hikaru Nakamura winning their matches, both Peter Svidler and Vasyl Ivanchuk, both The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/\">2023 FIDE World Cup: Round 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "Divya holds Hungarian GM in Game 1 of round two at World Cup"
       },
       {
-         "description" : " In a hall of great splendor, players from 86 countries have trekked to Baku, Azerbaijan for the 2023 FIDE World Cup. A total of 206 players assembled for the open section and 103 for the women's section are competing for a record prize fund and three spots for the Candidates Tournament. Starting with the 2021 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/02/2023-fide-world-cup-round-1/\">2023 FIDE World Cup: Round 1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/02/2023-fide-world-cup-round-1/",
-         "pubDate" : "Wed, 02 Aug 2023 23:32:55 +0000",
-         "title" : "2023 FIDE World Cup: Round 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1720,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2553",
          "pubDate" : "Tue, 01 Aug 2023 20:10:54 +0000",
          "title" : "FIDE World Cup 2023 Round 1 Tiebreaks: A lot of drama and a few upsets"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen This variation has made a comeback in recent years. About 15 years ago it was considered well known theory that brings nothing much to White. Of course this was a <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
-         "pubDate" : "Tue, 01 Aug 2023 17:30:27 +0000",
-         "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition"
       }
    ]
 }
