@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in Qualifier 1 on Tuesday. Yu finished second in the Swiss on day one and, on the second day, won two m...",
+         "description" : "Neither player made progress toward their first World Cup victory as GM Magnus Carlsen held GM Praggnanandhaa Rameshbabu to a draw in the first game of the 2023 FIDE World Cup final.&#38;nbsp; A well-prepared Praggnanandhaa posed some problems to the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
+         "pubDate" : "Tue, 22 Aug 2023 14:29:52 -0700",
+         "title" : "Abasov's Attack Reaps Rewards vs. Caruana As Praggnanandhaa-Carlsen Draw"
+      },
+      {
+         "description" : "The first-ever World Rapid Team Championship will take place in D&uuml;sseldorf on August 26-28. Forty teams from all corners of the world are registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Richard Rapport. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, will represent the humorously named 'Chess Pensioners' team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-preview",
+         "pubDate" : "Tue, 22 Aug 2023 21:40:00 +0100",
+         "title" : "Clash of titans in D&uuml;sseldorf: World Rapid Team Championship"
+      },
+      {
+         "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in the first Qualifier on Tuesday. Yu finished second in the Swiss on day one and, on the second day, w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-1-yu-vidit-win",
-         "pubDate" : "Tue, 22 Aug 2023 12:05:12 -0700",
+         "pubDate" : "Tue, 22 Aug 2023 12:05:00 -0700",
          "title" : "Armageddon Wins In Both Finals: Vidit, Yu Qualify For SCC 2023 Presented By Coinbase"
       },
       {
@@ -58,20 +74,20 @@ news_feed (
          "title" : "Pragg v Carlsen"
       },
       {
-         "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
-         "pubDate" : "Tue, 22 Aug 2023 12:55:00 +0100",
-         "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
-      },
-      {
          "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Tue, 22 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup Final - Live!"
+      },
+      {
+         "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
+         "pubDate" : "Tue, 22 Aug 2023 12:45:00 +0100",
+         "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102947134.cms\" />R Praggnanandhaa's ability to defend seamlessly in pressure situations and the deductive mind to quickly gauge his opponent's weakness is the hallmark of a world class player, national coach GM M Shyam Sundar said on Tuesday.",
@@ -1002,14 +1018,6 @@ news_feed (
          "title" : "Nakamura And Carlsen's Rivalry Returns For 2023 Speed Chess Championship Presented By Coinbase"
       },
       {
-         "description" : "The flexibility of ChessBase shows in the variety of functions. It starts with the recording of games and continues with the analysis of games, the building of an opening repertoire or the preparation for an opponent. And sometimes you want to work no engine, sometimes with one, sometimes with two engines at the same time. Whatever you do, you want to see it on the screen. This tutorial shows you how to master your screen with the help of ChessBase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-chessbase17-august-2023-optimizing-the-screen",
-         "pubDate" : "Tue, 15 Aug 2023 09:05:00 +0100",
-         "title" : "ChessBase 17 Tutorial: Optimizing the screen"
-      },
-      {
          "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1378,14 +1386,6 @@ news_feed (
          "title" : "Capital City Open IV (Tallahassee, Florida)"
       },
       {
-         "description" : "GM Magnus Carlsen is in danger of tumbling out of the 2023 FIDE World Cup after 18-year-old GM Vincent Keymer pounced on a blunder to beat the world number-one for the first time. GM Wesley So is also in a must-win position in Thursday&#39;s second ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-1",
-         "pubDate" : "Wed, 09 Aug 2023 17:07:00 -0700",
-         "title" : "Carlsen, So On Brink Of World Cup Exit"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1720,22 +1720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-2",
          "pubDate" : "Wed, 02 Aug 2023 02:53:50 +0000",
          "title" : "2023 Summer Chess Classic: Round 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2554",
-         "pubDate" : "Tue, 01 Aug 2023 23:01:21 +0000",
-         "title" : "FIDE August 2023 rating list: Gukesh, Le Quang Liem and Praggnanandhaa reach career-high"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2553",
-         "pubDate" : "Tue, 01 Aug 2023 20:10:54 +0000",
-         "title" : "FIDE World Cup 2023 Round 1 Tiebreaks: A lot of drama and a few upsets"
       }
    ]
 }
