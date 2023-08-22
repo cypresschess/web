@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-08-19  - 08-20","70","<a href=http://www.uschess.org/msa/XtblMain.php?202308208042 target='_blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-08-19","88","<a href=http://www.uschess.org/msa/XtblMain.php?202308196472 target='_blank'>TCR: HOUSTON SUMMER SCHOLASTIC 2023</a>",
 "HOUSTON","2023-08-19","4","<a href=http://www.uschess.org/msa/XtblMain.php?202308196332 target='_blank'>CHESSPANDA08192023SATURDAY</a>",
 "SPRING","2023-08-18","40","<a href=http://www.uschess.org/msa/XtblMain.php?202308187302 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2023-01-20","28","<a href=http://www.uschess.org/msa/XtblMain.php?202301206122 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-01-20","37","<a href=http://www.uschess.org/msa/XtblMain.php?202301206062 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-01-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202301205922 target='_blank'>RCC QUADS JANUARY 20, 2023</a>",
-"HOUSTON","2023-01-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202301153292 target='_blank'>JAN  15  SUNDAY SWISS</a>",
 ]);
