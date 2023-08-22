@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102952919.cms\" />Indian Grandmaster R Praggnanandhaa showcased his prowess by holding his ground against the reigning World No.1 Magnus Carlsen, ultimately securing a draw in the opening classical game of the FIDE World Cup chess final in Baku, Azerbaijan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-game-1-between-r-praggnanandhaa-and-magnus-carlsen-ends-in-a-draw/articleshow/102952919.cms",
+         "pubDate" : "Tue, 22 Aug 2023 14:45:09 +0000",
+         "title" : "World Cup Final: Praggnanandhaa-Carlsen settle for draw in Game 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023/",
+         "pubDate" : "Tue, 22 Aug 2023 13:17:41 +0000",
+         "title" : "ECF National Club Championships 2023"
+      },
+      {
+         "description" : " The World Cup Final is under way with Praggnanandhaa playing Carlsen. Pragg was the surprise winner of the semi final match against Caruana, while Carlsen beat Abasov. Although Pragg has had a fantastic run throughout the event, I expect Carlsen will win without much difficulty. Nonetheless I do have a soft spot for Pragg, as he was very briefly a neighbour of mine during the 2016-17 Hastings International. He was in the room next to mine at my hotel, and even at that stage he showed the tenacity required to become one of the worlds top GM's. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/pragg-v-carlsen.html",
+         "pubDate" : "Tue, 22 Aug 2023 13:07:00 +0000",
+         "title" : "Pragg v Carlsen"
+      },
+      {
          "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
          "pubDate" : "Tue, 22 Aug 2023 12:45:00 +0100",
          "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102947134.cms\" />R Praggnanandhaa's ability to defend seamlessly in pressure situations and the deductive mind to quickly gauge his opponent's weakness is the hallmark of a world class player, national coach GM M Shyam Sundar said on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ability-to-defend-in-precarious-game-situations-is-hallmark-of-praggnanandhaas-talent-india-coach-m-shyam-sundar/articleshow/102947134.cms",
+         "pubDate" : "Tue, 22 Aug 2023 11:36:58 +0000",
+         "title" : "'Ability to defend in precarious game situations is hallmark of Praggnanandhaa's talent'"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102946593.cms\" />Not totally surprising that a person named Praggnanandhaa (let's call him Prag henceforth) is giving joy to millions of chess followers, majority of them Indians, through his imagination, intelligence and giant-killing run in the World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-the-knight-who-will-be-the-king/articleshow/102946593.cms",
+         "pubDate" : "Tue, 22 Aug 2023 11:23:56 +0000",
+         "title" : "India's new chess star Praggnanandhaa: The knight who will be king"
       },
       {
          "description" : "EU Youth Chess Championship 2023 is underway. The level of the event is very good in category U8 is leading Atanas Taskov (BUL, 6 points out of 6 rounds!), in U10 with 5,5 points Vladimir Sofronie (ROU), in U12 Alexandru Ioan Constantinoiu (ROU, 6 points!) and in U14 Louis Auribault (FRA, 5,5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Henri Rouanet (FRA), []",
@@ -1354,14 +1394,6 @@ news_feed (
          "title" : "UK Open Blitz Championships 2023"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2023/08/Starter-Solutions-Submitted-2023.pdf#new_tab",
-         "pubDate" : "Wed, 09 Aug 2023 10:10:30 +0000",
-         "title" : "Winton British Chess Solving Championship 2023-2024 - solutions"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1696,14 +1728,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-bb5-variation-edition/",
          "pubDate" : "Tue, 01 Aug 2023 17:30:27 +0000",
          "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Bb5+ Variation Edition"
-      },
-      {
-         "description" : " Conventional opening wisdom has White playing e4 and d4 in tandem. i.e. If you start with e4 then d4 is a desirable move to play, while if you start with 1.d4 then e4 becomes a goal. Of course how long between one and the other is open to debate. But once you have played it then d5-e5, and d6-e6 might even improve your position further! <br /> <b>Junta Ikeda - Terrence Tang [E16]</b><br /> Round 2: Junta Ikeda - Terrence Tang https://lichess.org/study/HkHW, 29.07.2023 <script> new PgnViewer( { boardName: \"game1413\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 b6 5.Bg2 Bb7 6.cxd5 exd5 7.O-O Bd6 8.Nc3 a6 9.Nh4 Qd7 10.Qd3 O-O 11.Nf5 Bb4 12.Bg5 Ne8 13.a3 Bxc3 14.bxc3 f6 15",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/playing-e4-and-d4.html",
-         "pubDate" : "Tue, 01 Aug 2023 13:13:00 +0000",
-         "title" : "Playing e4 and d4"
       }
    ]
 }
