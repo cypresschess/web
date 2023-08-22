@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa reached the final of the FIDE World Cup after knocking out Fabiano Caruana in tiebreaks. An incredibly level-headed teenager, Pragg thus confirmed his qualification to the Candidates Tournament. In the final, the Indian prodigy is set to face Magnus Carlsen, who got the better of local hero Nijat Abasov by a 1&frac12;-&frac12; score in the classical phase of their semifinal match. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d3",
+         "pubDate" : "Tue, 22 Aug 2023 01:20:00 +0100",
+         "title" : "World Cup: Pragg stuns Caruana, will face Carlsen in eye-catching final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2598",
          "pubDate" : "Mon, 21 Aug 2023 19:58:08 +0000",
          "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
+      },
+      {
+         "description" : "Only the second Indian after Anand to reach the semifinals of the World Cup, Pragg also booked a spot in the Candidates event in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38233706/2023-chess-world-cup-r-praggnanandhaa-play-magnus-carlsen-stuns-fabiano-caruana?device=featurephone",
+         "pubDate" : "Mon, 21 Aug 2023 13:26:04 -0500",
+         "title" : "Chess WC: Pragg stuns Caruana to reach final vs Carlsen"
       },
       {
          "description" : "In a move that is sure to cause a significant stir, FIDE announced that it would be setting restrictions on transgenders participating in official FIDE Women events, specifying that any such restrictions pertain exclusively to man to women transgenders. These regulations come into effect on August 21. See the statement and share your thoughts.",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/response-to-fides-new-trans-regulations/",
          "pubDate" : "Mon, 21 Aug 2023 14:45:55 +0000",
          "title" : "Response to FIDE's new trans regulations"
-      },
-      {
-         "description" : "For the second time, a Women's World Cup is being played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST). | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Mon, 21 Aug 2023 15:05:00 +0100",
-         "title" : "FIDE World Cup - Live!"
       },
       {
          "description" : "In today's episode, Honorata shows us how an attack is set for success if all pieces work together. Emanuel Lasker's game was considered one of the most beautiful attacks in chess history, and you are about to find out why. We want to point out that Svitlana Demchenko also made an episode about this sacrifice, which we added to our links - so you can watch two experts analysing the same game!",
