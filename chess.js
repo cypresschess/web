@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Tue, 22 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup Final - Live!"
+      },
+      {
+         "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
+         "pubDate" : "Tue, 22 Aug 2023 12:45:00 +0100",
+         "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
+      },
+      {
+         "description" : "EU Youth Chess Championship 2023 is underway. The level of the event is very good in category U8 is leading Atanas Taskov (BUL, 6 points out of 6 rounds!), in U10 with 5,5 points Vladimir Sofronie (ROU), in U12 Alexandru Ioan Constantinoiu (ROU, 6 points!) and in U14 Louis Auribault (FRA, 5,5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Henri Rouanet (FRA), []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-2023/",
+         "pubDate" : "Tue, 22 Aug 2023 10:21:37 +0000",
+         "title" : "21st European Union Youth Chess Championship 2023 -"
+      },
+      {
          "description" : "This attacking guideline from the middlegame is also valid in the endgame and helped White to win in the diagram position. What did he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,6 +168,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2596",
          "pubDate" : "Sun, 20 Aug 2023 16:33:13 +0000",
          "title" : "5th FIDE World Championship for People with Disabilities starts in Lublin, Poland"
+      },
+      {
+         "description" : "For this month's Flickr favorite, I had another AI image on the short list, <A HREF=\"https://www.flickr.com/photos/ryfont/53091099421/\">DALL-E 2023-02-04 23.17.22 - A picture of two AIs playing chess</A> (flickr.com), which came with another half-dozen images in the same series. This latest DALL-E example wasn't nearly as compelling as the previous examples, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023), so I went with a different composite. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh20.jpg\" WIDTH=400 HEIGHT=220><BR> <B>Upper right:</B> <A HREF=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/chess-sets-are-real-deal.html",
+         "pubDate" : "Sun, 20 Aug 2023 15:31:00 +0000",
+         "title" : "Chess Sets Are the Real Deal"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 139th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
@@ -906,28 +938,12 @@ news_feed (
          "title" : "ChessBase 17 Tutorial: Optimizing the screen"
       },
       {
-         "description" : "The duel knight against bishop can be complicated. The knight often wants static positions while the bishop likes dynamics. In the diagram position Black is a pawn down, but has problems to solve. White's h-pawn is dangerous and White's king threatens to invade. However, Black can save the draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/king-invasion",
-         "pubDate" : "Tue, 15 Aug 2023 09:00:00 +0100",
-         "title" : "King invasion"
-      },
-      {
          "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/38190699/record-india-magnus-carlsen-d-gukesh-chess-world-cup-headline-quarterfinals-praggnanandhaa-arjun-erigaisi-vidit-gujrathi?device=featurephone",
          "pubDate" : "Tue, 15 Aug 2023 02:41:18 -0500",
          "title" : "Magnus vs Gukesh headlines India's record-breaking Chess World Cup quarters"
-      },
-      {
-         "description" : "Four out of the eight players who reached the quarterfinals in the open section of the FIDE World Cup are Indian, as Vidit Gujrathi joined Praggnanandhaa, Arjun and Gukesh by beating Ian Nepomniachtchi in the tiebreaks of the round-of-16. In the women's section, Aleksandra Goryachkina, Anna Muzychuk and Nurgyul Salimova advanced to the semifinals. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r5-d3",
-         "pubDate" : "Tue, 15 Aug 2023 02:15:00 +0100",
-         "title" : "World Cup: Vidit knocks out Nepo, four Indians in quarterfinals"
       },
       {
          "description" : "",
