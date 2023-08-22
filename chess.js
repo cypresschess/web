@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This attacking guideline from the middlegame is also valid in the endgame and helped White to win in the diagram position. What did he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/invite-everyone-to-the-party",
+         "pubDate" : "Tue, 22 Aug 2023 09:00:00 +0100",
+         "title" : "Invite everyone to the party"
+      },
+      {
          "description" : "Praggnanandhaa reached the final of the FIDE World Cup after knocking out Fabiano Caruana in tiebreaks. An incredibly level-headed teenager, Pragg thus confirmed his qualification to the Candidates Tournament. In the final, the Indian prodigy is set to face Magnus Carlsen, who got the better of local hero Nijat Abasov by a 1&frac12;-&frac12; score in the classical phase of their semifinal match. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open/#new_tab",
          "pubDate" : "Mon, 14 Aug 2023 13:12:37 +0000",
          "title" : "2nd Cambridge International Open"
-      },
-      {
-         "description" : "The FIDE World Youth Olympiad! It often gets overshadowed by the World Cup, but is actually one of the bigger tournaments at the youth level. This year, it's being hosted in Eindhoven, the Netherlands. 63 teams from all around the world are competing, each with four young players. Report by Bram Klapwijk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-youth-u16-chess-olympiad",
-         "pubDate" : "Mon, 14 Aug 2023 12:32:36 +0100",
-         "title" : "World Youth U16 Chess Olympiad"
       },
       {
          "description" : "",
