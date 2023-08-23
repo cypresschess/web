@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From coding instructor to chessboxer, there is nothing that this talented 24-year-old cannot do. Sneha has won many laurels in the world of ChessBoxing. Within a few years, she has established her name in this highly athletic and booming sport. Sneha is the current national champion of India and has proudly represented India and secured a gold medal at the 2023 Asian ChessBoxing Championships 2023 and a silver medal at the 2022 World Championships. Through this article, we want to acquaint you with the life of this fighting athlete, and how she is trying to pursue her passion in spite of all the hurdles.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sneha-waykar-profile-2023",
+         "pubDate" : "Wed, 23 Aug 2023 22:25:00 +0100",
+         "title" : "From coding instructor to chessboxer: Sneha Waykar"
+      },
+      {
+         "description" : "The last classical games of the 2023 FIDE World Cup could not have been more different from each other. In the final between GM Magnus Carlsen and GM Praggnanandhaa Rameshbabu, the drawn outcome was predicted as early as move five, while in the th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-2",
+         "pubDate" : "Wed, 23 Aug 2023 13:51:00 -0700",
+         "title" : "Caruana Wins, Carlsen-Praggnanandhaa Draw: Both Matches Move To Tiebreaks"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,11 +26,19 @@ news_feed (
          "title" : "World Cup winner and third place to be decided in tiebreaks"
       },
       {
+         "description" : "Praggnanandhaa vs Carlsen will now be decided on tie-breaks after the duo played out a second consecutive draw on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38244191/2023-chess-world-cup-final-r-praggnanandhaa-vs-magnus-carlsen-decided-tie-breaks?device=featurephone",
+         "pubDate" : "Wed, 23 Aug 2023 12:13:13 -0500",
+         "title" : "Chess WC: Pragg vs Carlsen to be decided on tie-breaks"
+      },
+      {
          "description" : "After GM Hikaru Nakamura scored the first 11/11 in&#38;nbsp;Titled Tuesday history on August 17, 2021, it took 98 weeks for someone to repeat the feat until GM Magnus Carlsen finally did so on July 4, 2023. But audiences only had to wait seven weeks f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-august-22-2023",
-         "pubDate" : "Wed, 23 Aug 2023 09:05:01 -0700",
+         "pubDate" : "Wed, 23 Aug 2023 09:05:00 -0700",
          "title" : "Nakamura Perfect On Tuesday Once Again"
       },
       {
@@ -46,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesspunks-champs",
-         "pubDate" : "Wed, 23 Aug 2023 07:08:27 -0700",
+         "pubDate" : "Wed, 23 Aug 2023 07:08:00 -0700",
          "title" : "Chess.com Supports First ChessPunks Champs Tournament For Adult Improvers"
       },
       {
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Live Games link for 60th National Chess Championship 2023"
       },
       {
-         "description" : "Magnus Carlsen and Arjun Erigaisi both won with black to take a 1-point lead in their quarterfinal matches against Dommaraju Gukesh and Praggnanandhaa, respectively. Leinier Dominguez got winning chances but failed to find precise continuations against Fabiano Caruana, while Vidit Gujrathi and Nijat Abasov signed a 109-move draw on Tuesday. In the women's section, Aleksandra Goryachkina defeated Tan Zhongyi, also with black. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d1",
-         "pubDate" : "Wed, 16 Aug 2023 12:00:00 +0100",
-         "title" : "World Cup: Carlsen and Arjun score with black"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/at-center-of-ai-research.html",
          "pubDate" : "Sun, 13 Aug 2023 15:07:00 +0000",
          "title" : "'At the Center of AI Research'"
-      },
-      {
-         "description" : "GM Daniel Naroditsky won Saturday&#39;s Bullet Brawl and the $400 first prize for the second week in a row ahead of a stacked field of titled players after scoring 63 wins, nine draws, and 13 losses (226 points). His closest rivals were unsurprisingly...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-week-2",
-         "pubDate" : "Sat, 12 Aug 2023 18:41:00 -0700",
-         "title" : "Naroditsky Doubles Down On Bullet Brawl Crown"
       },
       {
          "description" : "",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
          "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
          "title" : "2023 World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2557",
-         "pubDate" : "Wed, 02 Aug 2023 19:44:26 +0000",
-         "title" : "FIDE World Cup 2023 Round 2 Day 1: A lot of draws as top seeds enter the race"
       }
    ]
 }
