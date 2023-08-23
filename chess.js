@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102967884.cms\" />Rameshbabu Praggnanandhaa's sensational run to the final of the Chess World Cup has drawn praise from several quarters, including legends like Viswanathan Anand and Garry Kasparov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/imagine-the-joy-if-praggnanandhaa-wins-when-chandrayaan-lands-on-moon-viswanathan-anand/articleshow/102967884.cms",
+         "pubDate" : "Wed, 23 Aug 2023 04:59:59 +0000",
+         "title" : "Imagine the joy if Prag wins when Chandrayaan lands on moon: Anand"
+      },
+      {
+         "description" : "Praggnanandhaa forced a stalemate in 35 moves, playing with white pieces in the first classical game of the 2023 Chess World Cup final.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38242409/2023-chess-world-cup-final-r-praggnanandhaa-ekes-draw-magnus-carlsen-opening-game?device=featurephone",
+         "pubDate" : "Tue, 22 Aug 2023 23:10:20 -0500",
+         "title" : "Chess WC: Praggnanandhaa ekes out draw against Carlsen in opening game"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102963759.cms\" />World No. 1 Magnus Carlsen and No. 23 R Praggnanandhaa tested each other's ambition - largely by observing the body language rather than aggressive moves - before settling for a draw in the first classical game of their two-game match on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-will-win-if-he-triumphs-against-magnus-carlsen-today/articleshow/102963759.cms",
+         "pubDate" : "Wed, 23 Aug 2023 03:29:26 +0000",
+         "title" : "Praggnanandhaa will win if he triumphs against Carlsen today"
+      },
+      {
          "description" : "Neither player made progress toward their first World Cup victory as GM Magnus Carlsen held GM Praggnanandhaa Rameshbabu to a draw in the first game of the 2023 FIDE World Cup final.&#38;nbsp; A well-prepared Praggnanandhaa posed some problems to the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
          "pubDate" : "Tue, 22 Aug 2023 14:29:52 -0700",
          "title" : "Abasov Beats Caruana As Carlsen Holds Off Praggnanandhaa"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2602",
+         "pubDate" : "Tue, 22 Aug 2023 21:16:41 +0000",
+         "title" : "FIDE World Fischer Random Chess Championship - Call for Bids"
       },
       {
          "description" : "The first-ever World Rapid Team Championship will take place in D&uuml;sseldorf on August 26-28. Forty teams from all corners of the world are registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Richard Rapport. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, will represent the humorously named 'Chess Pensioners' team.",
@@ -1680,14 +1712,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
          "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
          "title" : "2023 World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102376128.cms\" />The battle of wits between two Asian women chess champions in the first game of second round in the FIDE World Cup ended in a draw in Baku, Azerbaijan, on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-hungarian-gm-in-game-1-of-round-two-with-black-in-chess-world-cup/articleshow/102376128.cms",
-         "pubDate" : "Thu, 03 Aug 2023 05:07:33 +0000",
-         "title" : "Divya holds Hungarian GM in Game 1 of round two at World Cup"
       },
       {
          "description" : "",
