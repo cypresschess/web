@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
          "pubDate" : "Tue, 22 Aug 2023 14:29:52 -0700",
-         "title" : "Abasov's Attack Reaps Rewards vs. Caruana As Praggnanandhaa-Carlsen Draw"
+         "title" : "Abasov Beats Caruana As Carlsen Holds Off Praggnanandhaa"
       },
       {
          "description" : "The first-ever World Rapid Team Championship will take place in D&uuml;sseldorf on August 26-28. Forty teams from all corners of the world are registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Richard Rapport. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, will represent the humorously named 'Chess Pensioners' team.",
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2555",
          "pubDate" : "Wed, 02 Aug 2023 14:46:32 +0000",
          "title" : "3rd Intercontinental Online Chess Championship for Prisoners: Registration continues"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-2",
-         "pubDate" : "Wed, 02 Aug 2023 02:53:50 +0000",
-         "title" : "2023 Summer Chess Classic: Round 2"
       }
    ]
 }
