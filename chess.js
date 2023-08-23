@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102993217.cms\" />India's R Paggnanandhaa is ready to face World No.1 Magnus Carlsen in the FIDE Chess World Cup final tie-breaks, after drawing two classical games. The winner will be determined by two tie-breaks on Thursday. The second game ended in a 30-move draw on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/now-i-can-just-give-everything-tomorrow-praggnanandhaa-on-tie-breaks-vs-magnus-carlsen/articleshow/102993217.cms",
+         "pubDate" : "Wed, 23 Aug 2023 15:17:15 +0000",
+         "title" : "'Now I can just give everything tomorrow': Praggnanandhaa on tie-breaks"
+      },
+      {
+         "description" : "In mid-August, the Women's Chess Commission hosted its inaugural Online Blitz Tournament on the ChessBase Playchess platform. Under the leadership of Chairperson Regina Pokorna, the event was organized to further spotlight women's chess. Eleven female competitors took part in this intimate online blitz event, where they had the chance to challenge the formidable IM Stavroula Tsolakidou. The top Greek female player clinched the title with a flawless score of 10/10!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-perfect-score-stavroula-tsolakidou-dominates-women-s-chess-blitz-event",
+         "pubDate" : "Wed, 23 Aug 2023 16:15:00 +0100",
+         "title" : "A perfect score: Stavroula Tsolakidou dominates women's chess blitz event"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102992320.cms\" />World No.1 Magnus Carlsen praised Indian teen R Praggnanandhaa's strong tie-break skills in the ongoing FIDE Chess World Cup final. The second game of the final ended in a draw after 30 moves on Wednesday. The winner will be determined by two tie-breaks on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-has-already-played-a-lot-of-tie-breaks-he-is-very-strong-magnus-carlsen/articleshow/102992320.cms",
+         "pubDate" : "Wed, 23 Aug 2023 14:48:59 +0000",
+         "title" : "Praggnanandhaa is very strong in tie-breaks: Magnus Carlsen"
+      },
+      {
+         "description" : "Go ahead ChessPunk, make my day! Now that the superb PogChamps 5 tournament is over, Chess.com is delighted to announce another exciting amateur event kicking off next month. ChessPunks Champs is the new PogChamps-style event for all of us norma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesspunks-champs",
+         "pubDate" : "Wed, 23 Aug 2023 07:08:27 -0700",
+         "title" : "Chess.com Supports First ChessPunks Champs Tournament For Adult Improvers"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102989661.cms\" />Indian chess prodigy R Praggnanandhaa held his ground against world No.1 Magnus Carlsen in a thrilling FIDE World Cup final, forcing a draw in the second classical game of the series. The strategic duel between the two giants has captivated fans worldwide, with the championship's fate still in the balance. The balanced position led to a peaceful draw after just 30 moves. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-praggnanandhaa-holds-magnus-carlsen-to-draw-in-second-game/articleshow/102989661.cms",
+         "pubDate" : "Wed, 23 Aug 2023 13:05:37 +0000",
+         "title" : "Chess WC Final: Praggnanandhaa holds Carlsen to draw in Game 2"
+      },
+      {
          "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Wed, 23 Aug 2023 12:50:00 +0100",
          "title" : "FIDE World Cup Final - Live!"
+      },
+      {
+         "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
+         "pubDate" : "Wed, 23 Aug 2023 12:40:00 +0100",
+         "title" : "Master Class 1-15 and Fabiano!"
       },
       {
          "description" : "The first game of the FIDE World Cup final ended drawn, as Praggnanandhaa could not get much of an advantage with the white pieces against Magnus Carlsen. In the match for third place, on the other hand, underdog Nijat Abasov managed to upset Fabiano Caruana, after the latter blundered in a sharp middlegame emerging from a Catalan Opening. | Photo: chess.com / Maria Emelianova",
@@ -120,14 +168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/pragg-v-carlsen.html",
          "pubDate" : "Tue, 22 Aug 2023 13:07:00 +0000",
          "title" : "Pragg v Carlsen"
-      },
-      {
-         "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
-         "pubDate" : "Tue, 22 Aug 2023 12:50:00 +0100",
-         "title" : "Master Class 1-15 and Fabiano!"
       },
       {
          "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
@@ -1002,14 +1042,6 @@ news_feed (
          "title" : "FIDE World Cup Round 6 Game 1: Goryachkina wins, Caruana makes a lucky escape"
       },
       {
-         "description" : "Structures with \"Hanging Pawns\" can occur in many openings and it helps to know how to play these structures. In the following article Jan Markos gives some general guidelines, but focuses on one piece in particular: the \"Restless Knight\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-22-the-restless-knight",
-         "pubDate" : "Tue, 15 Aug 2023 21:00:00 +0100",
-         "title" : "The Winning Academy 22: The Restless Knight"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1354,14 +1386,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen escapes after flirting with defeat at World Cup"
       },
       {
-         "description" : "World number-one Magnus Carlsen won on demand to keep his 2023 FIDE World Cup hopes alive despite gifting GM Vincent Keymer a huge chance to seal their match. GM Wesley So is out after failing to mount a comeback against GM Alexey Sarana, while GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-2",
-         "pubDate" : "Thu, 10 Aug 2023 16:03:00 -0700",
-         "title" : "Carlsen Strikes Back, Caruana In Last 16"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2569",
          "pubDate" : "Thu, 10 Aug 2023 17:59:26 +0000",
          "title" : "World Cup: Carlsen remains in the race, but Wesley So is out"
-      },
-      {
-         "description" : "GM Aleksandar Matanovic, the oldest living chess grandmaster, one of the great players during the golden age of Serbian chess, and co-founder of Chess Informant, died on Wednesday at the age of 93. Matanovic was born on May 23, 1930 in Belgrade,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aleksandar-matanovic-1930-2023",
-         "pubDate" : "Thu, 10 Aug 2023 08:31:00 -0700",
-         "title" : "Aleksandar Matanovic (1930-2023)"
       },
       {
          "description" : "One of the greatest Serbian chess players, GM Aleksandar Matanovic, died yesterday in Belgrade, at the age of 93. Aleksandar Matanovic was born in Belgrade, on May 23rd, 1930. After becoming the Yugoslav Junior Chess Champion in 1948, he joined the Yugoslavian representation in 1950 playing the radio-match against the USA team. Aged 25, Matanovic became the grandmaster in 1955 and won the Yugoslavian National Championship three times (1962, 1969, 1978). He was a member of the Yugoslavian Olympic team []",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Gukesh D moves past Viswanathan Anand in FIDE live world rankings"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102401852.cms\" />Teenaged Grandmaster D Gukesh posted a win over home favourite Misratdin Iskandarov in a second round match of the World Cup here on Tuesday and overtook his idol Viswanathan Anand in live world (FIDE) rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/teen-gm-gukesh-posts-win-in-2nd-round-of-world-cup-overtakes-viswanathan-anand-to-become-highest-indian-in-fide-rankings/articleshow/102401852.cms",
-         "pubDate" : "Thu, 03 Aug 2023 17:22:42 +0000",
-         "title" : "Gukesh overtakes Anand to become highest Indian in FIDE rankings"
-      },
-      {
          "description" : " The 2023 World Cup is underway in Baku. Australia started with 4 representatives (2 from the Oceania Zonal and 2 qualifying from the Olympiad), although that number dropped to 2 after Round 1. GM Bobby Cheng drew his round 1 match 1-1, but lost the playoff, while WGM Jillin Zhang went out in regulation. GM Temur Kuybokarov won his round 1 match, but is already down 1 game against Yu Yangi. He needs to win the 2nd game to send the match into overtime, but as I type this, he stands slightly worse going into the ending. Julia Ryjanova is holding her own in her round 2 match against higher rated Zhongyi Tan, having drawn the first game, and looking OK in a sharp position in the 2nd game. Of cou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1706,36 +1714,12 @@ news_feed (
          "title" : "2023 World Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102376128.cms\" />The battle of wits between two Asian women chess champions in the first game of second round in the FIDE World Cup ended in a draw in Baku, Azerbaijan, on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-hungarian-gm-in-game-1-of-round-two-with-black-in-chess-world-cup/articleshow/102376128.cms",
-         "pubDate" : "Thu, 03 Aug 2023 05:07:33 +0000",
-         "title" : "Divya holds Hungarian GM in Game 1 of round two at World Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2557",
          "pubDate" : "Wed, 02 Aug 2023 19:44:26 +0000",
          "title" : "FIDE World Cup 2023 Round 2 Day 1: A lot of draws as top seeds enter the race"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2556",
-         "pubDate" : "Wed, 02 Aug 2023 15:14:38 +0000",
-         "title" : "Second FIDE Council Meeting of 2023 took place in Baku"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2555",
-         "pubDate" : "Wed, 02 Aug 2023 14:46:32 +0000",
-         "title" : "3rd Intercontinental Online Chess Championship for Prisoners: Registration continues"
       }
    ]
 }
