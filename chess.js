@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Wed, 23 Aug 2023 12:50:00 +0100",
+         "title" : "FIDE World Cup Final - Live!"
+      },
+      {
+         "description" : "The first game of the FIDE World Cup final ended drawn, as Praggnanandhaa could not get much of an advantage with the white pieces against Magnus Carlsen. In the match for third place, on the other hand, underdog Nijat Abasov managed to upset Fabiano Caruana, after the latter blundered in a sharp middlegame emerging from a Catalan Opening. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d1",
+         "pubDate" : "Wed, 23 Aug 2023 12:25:00 +0100",
+         "title" : "World Cup: All square in the final, Abasov beats Caruana"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://chessarena.com/armageddon\">The Armageddon Championship Series Finale</a> is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9608.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> Top-tier chess players, including luminaries such as <b>Wesley So</b>, <b>Sam Shankland</b>,<b> Gukesh D</b>, <b>Nodirbek Abdusattorov</b>, ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/armageddon-championship-finale-to-start-in-berlin/",
+         "pubDate" : "Wed, 23 Aug 2023 09:28:20 +0000",
+         "title" : "Armageddon Championship Finale to Start In Berlin"
+      },
+      {
+         "description" : "The ECF is delighted that the Department of Culture, Media and Sport has announced a combined package of measures worth almost &pound;1 million that will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/dcms-funding/",
+         "pubDate" : "Wed, 23 Aug 2023 09:09:13 +0000",
+         "title" : "Government funding for chess from DCMS, DLUHC and DfE"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102967884.cms\" />Rameshbabu Praggnanandhaa's sensational run to the final of the Chess World Cup has drawn praise from several quarters, including legends like Viswanathan Anand and Garry Kasparov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,19 +50,11 @@ news_feed (
          "title" : "Chess WC: Praggnanandhaa ekes out draw against Carlsen in opening game"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102963759.cms\" />World No. 1 Magnus Carlsen and No. 23 R Praggnanandhaa tested each other's ambition - largely by observing the body language rather than aggressive moves - before settling for a draw in the first classical game of their two-game match on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-will-win-if-he-triumphs-against-magnus-carlsen-today/articleshow/102963759.cms",
-         "pubDate" : "Wed, 23 Aug 2023 03:29:26 +0000",
-         "title" : "Praggnanandhaa will win if he triumphs against Carlsen today"
-      },
-      {
          "description" : "Neither player made progress toward their first World Cup victory as GM Magnus Carlsen held GM Praggnanandhaa Rameshbabu to a draw in the first game of the 2023 FIDE World Cup final.&#38;nbsp; A well-prepared Praggnanandhaa posed some problems to the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
-         "pubDate" : "Tue, 22 Aug 2023 14:29:52 -0700",
+         "pubDate" : "Tue, 22 Aug 2023 14:29:00 -0700",
          "title" : "Abasov Beats Caruana As Carlsen Holds Off Praggnanandhaa"
       },
       {
@@ -82,14 +106,6 @@ news_feed (
          "title" : "2023 FIDE World Cup: Semifinals/Finals"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102952919.cms\" />Indian Grandmaster R Praggnanandhaa showcased his prowess by holding his ground against the reigning World No.1 Magnus Carlsen, ultimately securing a draw in the opening classical game of the FIDE World Cup chess final in Baku, Azerbaijan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-game-1-between-r-praggnanandhaa-and-magnus-carlsen-ends-in-a-draw/articleshow/102952919.cms",
-         "pubDate" : "Tue, 22 Aug 2023 14:45:09 +0000",
-         "title" : "World Cup Final: Praggnanandhaa-Carlsen settle for draw in Game 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -106,12 +122,12 @@ news_feed (
          "title" : "Pragg v Carlsen"
       },
       {
-         "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
+         "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
          "pubDate" : "Tue, 22 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup Final - Live!"
+         "title" : "Master Class 1-15 and Fabiano!"
       },
       {
          "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-s-legendary-double-sacrifice-honorata-s-harmony",
          "pubDate" : "Mon, 21 Aug 2023 15:00:00 +0100",
          "title" : "Lasker's legendary double sacrifice - Honorata's Harmony"
-      },
-      {
-         "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
-         "pubDate" : "Mon, 21 Aug 2023 09:00:00 +0100",
-         "title" : "Master Class 1-15 and Fabiano!"
       },
       {
          "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
@@ -1010,14 +1018,6 @@ news_feed (
          "title" : "FIDE Chess Olympiad 2028 - Call for bids"
       },
       {
-         "description" : "Recently the 3rd Chess Olympiad for Pre-school Children took place at the Faculty of Mining, Engineering and Industrial Automation of the Silesian University of Technology in Gliwice, Poland. Honorary patrons of the tournament were Arkadiusz Mężyk, Rector of the Silesian University of Technology, Franciszek Plewa, Dean of the Faculty, and Piotr Pyzik from the Ministry of State Property. The event was organised by the Hetman Gliwice Chess School, Anna Kohut, and in cooperation with the Faculty of the Silesian University of Technology. Anna Kohut prepared an illustrated report and a video of the event. | Photo: Anna with some of her preschooler-champions | Photo: Magdalena Tomczyk",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2023-in-Gliwice-Poland-for-prescoolers-by-anna-kohut",
-         "pubDate" : "Tue, 15 Aug 2023 20:00:00 +0100",
-         "title" : "Chess Olympiad for Preschoolers"
-      },
-      {
          "description" : "In last month's post for the 'On the Cover' series, titled <A HREF=\"https://chessforallages.blogspot.com/2023/07/july-1973-1998-on-cover.html\">July 1973 & 1998 'On the Cover'</A> (July 2023), I observed, 'we find two foreign-born GMs dominating both covers'. This month is mostly about the World Chess Championship both 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh15.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Shirov to Challenge Kasparov' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Robert Byrne, who finished 3rd at the Leningrad Interzonal and thus qualified for the Candidates' Matches, relaxing after his re",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1442,14 +1442,6 @@ news_feed (
          "title" : "Have your say on ratings"
       },
       {
-         "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2023/",
-         "pubDate" : "Wed, 09 Aug 2023 12:40:56 +0000",
-         "title" : "UK Open Blitz Championships 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1712,6 +1704,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
          "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
          "title" : "2023 World Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102376128.cms\" />The battle of wits between two Asian women chess champions in the first game of second round in the FIDE World Cup ended in a draw in Baku, Azerbaijan, on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-hungarian-gm-in-game-1-of-round-two-with-black-in-chess-world-cup/articleshow/102376128.cms",
+         "pubDate" : "Thu, 03 Aug 2023 05:07:33 +0000",
+         "title" : "Divya holds Hungarian GM in Game 1 of round two at World Cup"
       },
       {
          "description" : "",
