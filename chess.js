@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2603",
+         "pubDate" : "Wed, 23 Aug 2023 17:32:34 +0000",
+         "title" : "World Cup winner and third place to be decided in tiebreaks"
+      },
+      {
+         "description" : "After GM Hikaru Nakamura scored the first 11/11 in&#38;nbsp;Titled Tuesday history on August 17, 2021, it took 98 weeks for someone to repeat the feat until GM Magnus Carlsen finally did so on July 4, 2023. But audiences only had to wait seven weeks f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-august-22-2023",
+         "pubDate" : "Wed, 23 Aug 2023 09:05:01 -0700",
+         "title" : "Nakamura Perfect On Tuesday Once Again"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102993217.cms\" />India's R Paggnanandhaa is ready to face World No.1 Magnus Carlsen in the FIDE Chess World Cup final tie-breaks, after drawing two classical games. The winner will be determined by two tie-breaks on Thursday. The second game ended in a 30-move draw on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2574",
          "pubDate" : "Sat, 12 Aug 2023 08:17:30 +0000",
          "title" : "FIDE World Senior Team Championships 2023: Registration deadline extended"
-      },
-      {
-         "description" : "World number-two GM Hikaru Nakamura is out of the 2023 FIDE World Cup after losing to GM Praggnanandhaa Rameshbabu in round four tiebreaks. The event is also over for Women&#39;s World Champion GM Ju Wenjun after she missed a trick against GM Elisabet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-4-3",
-         "pubDate" : "Fri, 11 Aug 2023 17:37:00 -0700",
-         "title" : "18-Year-Old Praggnanandhaa Knocks Nakamura Out Of World Cup"
       },
       {
          "description" : "",
