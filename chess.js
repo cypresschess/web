@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103003145.cms\" />R Praggnanandhaa has begun the soft landing towards the World Cup chess title in the knockout format, drawing the second classical game against world No. 1 Magnus Carlsen on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-battle-continues-as-praggnanandhaa-takes-magnus-carlsen-to-tie-breaks/articleshow/103003145.cms",
-         "pubDate" : "Thu, 24 Aug 2023 03:21:43 +0000",
-         "title" : "Battle continues as Praggnanandhaa takes Carlsen to tie-breaks"
+         "description" : "In his Game of the Week show #582, Merijn Van Delft looks at a crucial game Praggnanandhaa won against Fabiano Caruana in the World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-582-praggnanandhaa-vs-caruana",
+         "pubDate" : "Thu, 24 Aug 2023 13:11:02 +0100",
+         "title" : "Game of the Week #582: Praggnanandhaa vs Caruana"
+      },
+      {
+         "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Thu, 24 Aug 2023 11:50:00 +0100",
+         "title" : "FIDE World Cup Final - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2605",
+         "pubDate" : "Thu, 24 Aug 2023 09:45:00 +0000",
+         "title" : "FIDE World Junior U20 Championship: Registration extended"
+      },
+      {
+         "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
+         "pubDate" : "Thu, 24 Aug 2023 09:35:16 +0000",
+         "title" : "ECF Membership System: Options for Change"
+      },
+      {
+         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
+         "pubDate" : "Thu, 24 Aug 2023 10:00:00 +0100",
+         "title" : "Armageddon Grand Final"
+      },
+      {
+         "description" : "Chess is the most delightful and truly comes to live, when you can sit across from each other, engaging in a face-to-face match with a physical chessboard in between. The thrill of an evening at the club, playing blitz chess, maneuver the pieces, and indulge in lively conversation with your club-mates, surpasses the quiet solitude of playing online, isolated in front of a computer screen. However, the Playchess chess server offers a refreshing alternative. It introduces video and audio features that can be effortlessly activated, bringing the essence of in-person play to the virtual realm. With just one click, you can generate a private virtual gaming space, packaged as a simple URL, and swi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-august-2023-playing-chess-on-playchess-with-videochat",
+         "pubDate" : "Thu, 24 Aug 2023 09:59:39 +0100",
+         "title" : "How to play online on Playchess with video"
       },
       {
          "description" : "",
@@ -874,22 +914,6 @@ news_feed (
          "title" : "Fide World Cup 2023:QF REPORT 6.2"
       },
       {
-         "description" : "The world's strongest Swiss-system chess event, the FIDE Grand Swiss, is set to be played on the Isle of Man from October 23 to November 6, 2023. At the end of July, FIDE announced that 100 players had already confirmed their participation in the Grand Swiss and 40 players in the Women's Grand Swiss. However, wild cards are still being distributed, and it was just announced that two of them will go to the exceptional young talents, IMs Ihor Samunenkov from Ukraine and Ediz Gurel (pictured) from Turkey. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/samunenkos-gurel-wild-cards-grand-swiss-2023",
-         "pubDate" : "Thu, 17 Aug 2023 08:00:00 +0100",
-         "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
-      },
-      {
-         "description" : "Nijat Abasov, the 69th seed in the open section of the FIDE World Cup, has all but secured a spot in the next edition of the Candidates Tournament, as he beat Vidit Gujrathi with white to knock him out of the event. Since Magnus Carlsen, his next opponent, also reached the semifinals and is very likely to skip the Candidates, the Azerbaijani will not even need to finish among the top-3 to reach the 8-player World Championship qualifier. Fabiano Caruana also advanced to the semifinals, while Praggnanandhaa bounced back in his match against Arjun Erigaisi. Among the women, Aleksandra Goryachkina drew Tan Zhongyi and made it through to the final. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d2",
-         "pubDate" : "Thu, 17 Aug 2023 06:15:00 +0100",
-         "title" : "World Cup: Abasov's dream run continues"
-      },
-      {
          "description" : "GM Magnus Carlsen staved off a formidable challenge from GM Dommaraju Gukesh and held the draw he needed, while GM Nijat Abasov and GM Fabiano Caruana defeated GM Vidit Gujrathi and GM Leinier Dominguez, respectively, to advance to the semifinals ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -954,28 +978,12 @@ news_feed (
          "title" : "World Cup chess: Gukesh, Gujrathi bow out; Praggnanandhaa forces tie-breaker against Erigaisi"
       },
       {
-         "description" : "Hans Niemann scored 7&frac12;/9 points to win the Uralsk Open 2023 in Kazakhstan. He finished a full point ahead of a five-player chasing pack consisting of GM Sethuraman S P, GM Manuel Petrosyan, GM Samvel Ter-Sahakyan, GM Boris Savchenko and Valery Sviridov. Niemann entered the tournament as the rating favourite. The US youngster lost his round-2 game and bounced back in style, scoring 6&frac12;/7 from that point on, with five consecutive wins in rounds 5 to 9. | Photos: Kazakh Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-wins-uralsk-open-2023",
-         "pubDate" : "Wed, 16 Aug 2023 18:15:00 +0100",
-         "title" : "Hans Niemann scores five wins in a row, clinches Uralsk Open"
-      },
-      {
          "description" : "GM Alireza Firouzja beat out GM Levon Aronian on tiebreaks in the early Titled Tuesday on August 15, before GM Aram Hakobyan won the late event with the first 10/11 score in two weeks. For both Firouzja and Hakobyan, it was their second Titled Tue...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-hakobyan-win-titled-tuesday-august-15-2023",
          "pubDate" : "Wed, 16 Aug 2023 10:07:09 -0700",
          "title" : "Firouzja Edges Out Aronian In Early Titled Tuesday"
-      },
-      {
-         "description" : "In his Game of the Week show #581, Merijn Van Delft shares a fantastic attacking game. Playing white against Ferenc Berkes, Indian prodigy Praggnanandhaa combined great opening prep with imagination and a keen tactical eye! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-581-pragg-berkes",
-         "pubDate" : "Wed, 16 Aug 2023 17:30:00 +0100",
-         "title" : "Game of the Week #581: R. Praggnanandhaa vs F. Berkes"
       },
       {
          "description" : " The Chess Drum visited the Pan-Am Youth Chess Festival held in Chicago and was able to have a chat with FM Warren Elliott, part of the Jamaica delegation. During this brief discussion, he mentioned his reason for being at the event, the current state of chess in Jamaica, the future of Jamaican chess, and the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/\">Drum chats with FM Warren Elliott</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1378,14 +1386,6 @@ news_feed (
          "title" : "2023 English Women's Online Blitz Championship"
       },
       {
-         "description" : "IM Adam Hunt and GM Danny Gormally's commentary for all nine rounds of the British Chess Championships is now available on the ECF's YouTube channel...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcc-2023-commentary-on-youtube/",
-         "pubDate" : "Fri, 11 Aug 2023 15:01:15 +0000",
-         "title" : "BCC 2023 commentary on YouTube"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102655005.cms\" />The young and talented Grandmaster R Praggnanandhaa secured a remarkable victory by winning both rapid games, resulting in the elimination of the second-seeded Hikaru Nakamura on Friday. This victory propelled Praggnanandhaa into the last 16 of the FIDE World Cup chess tournament in Baku.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1624,6 +1624,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2561",
          "pubDate" : "Sat, 05 Aug 2023 20:16:16 +0000",
          "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102455711.cms\" />Describing it as a \"historic\" accomplishment, chess legend Viswanathan Anand praised 17-year-old Grandmaster D Gukesh for becoming the highest-rated Indian player in FIDE rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-is-spearheading-indias-rise-anand-on-the-teenager-overtaking-him-in-fide-ranking/articleshow/102455711.cms",
+         "pubDate" : "Sat, 05 Aug 2023 14:33:21 +0000",
+         "title" : "Gukesh is spearheading India's rise: Anand"
       },
       {
          "description" : " Gukesh: The New Indian #1 Lots of historic landmarks happened during the second round of the FIDE World Cup with the top players joining in on the action after getting a first-round bye. One of the top players not participating was the 5-time world champion Viswanathan Anand who spoke on Dommaraju Gukesh entering the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/\">2023 FIDE World Cup: Round 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
