@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103033338.cms\" />Humble to the core, teen sensation R Praggnanandhaa was far from realising the enormity of his achievement in the FIDE World Cup but reckoned his incredible run could force people to \"start noticing\" Indian chess. It needed the sheer brilliance of Magnus Carlsen to stop the 18-year-old Praggnanandhaa's march as he finished second best after losing in the final on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-think-people-will-start-to-notice-indian-chess-r-praggnanandhaa/articleshow/103033338.cms",
+         "pubDate" : "Thu, 24 Aug 2023 17:16:14 +0000",
+         "title" : "I think people will start to notice Indian chess: R Praggnanandhaa"
+      },
+      {
+         "description" : "The Arkhangelsk Variation of the Ruy Lopez is a dangerous weapon. For both sides - Black can lose quickly, if he does not know what he is doing. In his Fast & Furious show, Robert Ris shows you a nice opening trap in this popular line. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-why-it-s-good-to-be-prepared",
+         "pubDate" : "Thu, 24 Aug 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Why it's good to be prepared"
+      },
+      {
          "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -58,12 +74,12 @@ news_feed (
          "title" : "R Praggnanandhaa's historic road to FIDE World Cup final"
       },
       {
-         "description" : "GM Magnus Carlsen can now say that he has won every significant chess title that he&#39;s set his sights on. The five-time world champion won his first World Cup crown by defeating GM Praggnanandhaa Rameshbabu 1.5-0.5 in the rapid tiebreaks of the 202...",
+         "description" : "GM Magnus Carlsen can now say that he has won every significant classical chess title that he&#39;s set his sights on. The five-time world champion won his first World Cup crown by defeating GM Praggnanandhaa Rameshbabu 1.5-0.5 in the rapid tiebreaks ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-3",
          "pubDate" : "Thu, 24 Aug 2023 05:33:00 -0700",
-         "title" : "Flash Report: Carlsen Wins 1st World Cup, Caruana Places 3rd"
+         "title" : "Carlsen Wins 1st World Cup, Caruana Places 3rd"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103027144.cms\" />Rameshbabu Praggnanandhaa lost to world No. 1 chess player Magnus Carlsen in a thrilling final showdown at the FIDE World Cup. Carlsen emerged victorious at 1.5-0.5, securing his first-ever World Cup triumph and adding to his impressive five World Chess Championship titles. Praggnanandhaa's valiant effort was deemed valiant.",
@@ -938,14 +954,6 @@ news_feed (
          "title" : "'GothamChess' Tops Amazon Lists More Than Two Months Before Release Of First Book"
       },
       {
-         "description" : "Over the course of his career, Daniel King has written many books that have been chess bestsellers! This time, the world-famous grandmaster, writer, commentator and coach has come up with another book: \"How to Win at Chess: From First Moves to Checkmate\". The short, 54-page book is ideal for someone who is just starting out in chess. Before examining tactics like forks, pins, and skewers, it describes each piece and its movements and clarifies fundamental concepts like check and how to open a game. We recently had a conversation with Daniel about his new book, his writing process, and more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-how-to-win-at-chess",
-         "pubDate" : "Thu, 17 Aug 2023 19:35:00 +0100",
-         "title" : "Daniel King's new book: How to Win at Chess"
-      },
-      {
          "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
          "pubDate" : "Wed, 16 Aug 2023 12:58:23 -0500",
          "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102780283.cms\" />Indian Grandmasters D Gukesh and Vidit Santosh Gujrathi bowed out of the FIDE World Cup chess tournament after losing to Norwegian Magnus Carlsen and Azerbaijan's Nijat Abasov respectively here on Wednesday. R Pragganandhaa, however, bounced back after losing the first game of the two-game classical series against fellow Indian Arjun Erigaisi to force a tie-break, which will be played on Thursday to decide who advances to the last four.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-cup-chess-d-gukesh-vidit-gujrathi-bow-out-r-praggnanandhaa-forces-tie-breaker-against-arjun-erigaisi/articleshow/102780283.cms",
-         "pubDate" : "Wed, 16 Aug 2023 17:22:29 +0000",
-         "title" : "World Cup chess: Gukesh, Gujrathi bow out; Praggnanandhaa forces tie-breaker against Erigaisi"
       },
       {
          "description" : "GM Alireza Firouzja beat out GM Levon Aronian on tiebreaks in the early Titled Tuesday on August 15, before GM Aram Hakobyan won the late event with the first 10/11 score in two weeks. For both Firouzja and Hakobyan, it was their second Titled Tue...",
@@ -1760,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2558",
          "pubDate" : "Thu, 03 Aug 2023 19:44:58 +0000",
          "title" : "FIDE Word Cup 2023 Round 2 Game 2: Surprising knockouts and intense battles"
-      },
-      {
-         "description" : "If he stays ahead of Anand till September 1, he will become the first Indian to surpass Anand since Pravin Thipsay in July 1986",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38128238/gukesh-d-moves-viswanathan-anand-fide-live-world-rankings?device=featurephone",
-         "pubDate" : "Thu, 3 Aug 2023 14:00:16 -0500",
-         "title" : "Gukesh D moves past Viswanathan Anand in FIDE live world rankings"
       }
    ]
 }
