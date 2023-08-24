@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38249897/r-praggnanandhaa-silver-2023-chess-world-cup-gold-standard-indian-chess?device=featurephone",
+         "pubDate" : "Thu, 24 Aug 2023 10:51:00 -0500",
+         "title" : "Praggnanandhaa's World Cup silver shows he can meet the gold standard"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031562.cms\" />Indian Grandmaster R Praggnanandhaa went down fighting to world no.1 Magnus Carlsen in the FIDE World Cup Final in Baku on Thursday but the 18-year-old chess prodigy garnered huge praise and appreciation for his sensational run in the tournament. Praggnanandhaa lost to Carlsen in the tie-breaks after the classical games in the final ended in a stalemate.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-proud-pm-narendra-modi-lauds-chess-prodigy-praggnanandhaa/articleshow/103031562.cms",
+         "pubDate" : "Thu, 24 Aug 2023 14:58:05 +0000",
+         "title" : "'We are proud': PM Narendra Modi lauds chess prodigy Praggnanandhaa"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031019.cms\" />For someone, who took to chess just because his parents wanted him and his sister to wean away from watching television, R Praggnanandhaa has charted his own path to glory and is closer to greatness than ever. The 18-year old wonderboy has long been seen as a possible successor to the five-time world champion Viswanathan Anand and is certainly on the path to be a chess great.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-from-wonderkid-to-a-chess-great-in-the-waiting/articleshow/103031019.cms",
+         "pubDate" : "Thu, 24 Aug 2023 14:27:57 +0000",
+         "title" : "Praggnanandhaa: From wonderkid to a chess great in the waiting"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2606",
+         "pubDate" : "Thu, 24 Aug 2023 13:44:15 +0000",
+         "title" : "Magnus Carlsen secures first World Cup victory, Prag finishes second, Caruana third"
+      },
+      {
+         "description" : "Praggnanandhaa lost 1.5 - 2.5 to Carlsen after he lost the first rapid tie-break before only managing a draw in the second.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1?device=featurephone",
+         "pubDate" : "Thu, 24 Aug 2023 08:38:09 -0500",
+         "title" : "Carlsen wins World Cup after beating Pragg in tie-breaks"
+      },
+      {
+         "description" : " Magnus Carlsen has defeat Pragganandhaa 1.5-0.5 in the rapid playoffs to win the 2023 FIDE World Cup. Although the event qualifies the top 3 place getters for the upcoming candidates series, Carlsen's prior decision to not play in the upcoming World Championship cycle means his victory was all about winning one title he has not won yet. Unburdened by the pressure of further progress, Carlsen instead demonstrated why he is still the best player in the world, scoring a number of seemingly effortless wins on the way to fist place. He did of course lose a game early on the Vincent Keymar, but after rebounding in the must win second game of that match, seemed to have everything under control (al",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/carlsen-wins-world-cup.html",
+         "pubDate" : "Thu, 24 Aug 2023 13:10:00 +0000",
+         "title" : "Carlsen wins World Cup"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103028568.cms\" />Grandmaster R Praggnanandhaa on Thursday lost to World no.1 Magnus Carlsen in the FIDE World Cup final in Baku but despite that the teenage prodigy scripted a golden chapter in Indian chess history, becoming the youngest player from the country and only the second to Viswanathan Anand, to compete in the final. The 18-year-old unfortunately went down in the summit clash to Norwegian in the tie-breaks.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaas-historic-road-to-fide-world-cup-final/articleshow/103028568.cms",
+         "pubDate" : "Thu, 24 Aug 2023 12:48:41 +0000",
+         "title" : "R Praggnanandhaa's historic road to FIDE World Cup final"
+      },
+      {
+         "description" : "GM Magnus Carlsen can now say that he has won every significant chess title that he&#39;s set his sights on. The five-time world champion won his first World Cup crown by defeating GM Praggnanandhaa Rameshbabu 1.5-0.5 in the rapid tiebreaks of the 202...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-3",
+         "pubDate" : "Thu, 24 Aug 2023 05:33:00 -0700",
+         "title" : "Flash Report: Carlsen Wins 1st World Cup, Caruana Places 3rd"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103027144.cms\" />Rameshbabu Praggnanandhaa lost to world No. 1 chess player Magnus Carlsen in a thrilling final showdown at the FIDE World Cup. Carlsen emerged victorious at 1.5-0.5, securing his first-ever World Cup triumph and adding to his impressive five World Chess Championship titles. Praggnanandhaa's valiant effort was deemed valiant.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-praggnanandhaa-loses-to-magnus-carlsen-in-final/articleshow/103027144.cms",
+         "pubDate" : "Thu, 24 Aug 2023 12:20:26 +0000",
+         "title" : "FIDE Chess World Cup: Praggnanandhaa loses to Magnus Carlsen in final"
+      },
+      {
          "description" : "In his Game of the Week show #582, Merijn Van Delft looks at a crucial game Praggnanandhaa won against Fabiano Caruana in the World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +82,20 @@ news_feed (
          "title" : "Game of the Week #582: Praggnanandhaa vs Caruana"
       },
       {
-         "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103025326.cms\" />Indian Grandmaster R Praggnanandhaa is making remarkable strides in the ongoing Chess World Cup, consistently beating opponents with higher ratings. To go with the impressive performances, the 18-year-old has been self-reliant when it comes to navigating the intricacies of the game. Currently in Baku, Azerbaijan, Praggnanandhaa finds himself without the presence of his personal coach RB Ramesh, who is currently in another country.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-is-his-own-man-hes-handling-himself-mostly-coach-ramesh/articleshow/103025326.cms",
+         "pubDate" : "Thu, 24 Aug 2023 11:37:28 +0000",
+         "title" : "R Praggnanandhaa is his own man, he's handling himself mostly: Coach Ramesh"
+      },
+      {
+         "description" : "Former World Champion Magnus Carlsen has accomplished a significant milestone in his illustrious chess career by capturing his inaugural World Cup title, the only tournament that was missing from his immense collection of victories. All three top-placed players have qualified for the 2024 Candidates tournament, which is due to take place next April in Canada. Full report to follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Thu, 24 Aug 2023 11:50:00 +0100",
-         "title" : "FIDE World Cup Final - Live!"
+         "title" : "Magnus victorious"
       },
       {
          "description" : "",
@@ -1186,14 +1266,6 @@ news_feed (
          "title" : "FIDE World Cup Round 5 Tiebreaks: Ian Nepomniachtchi is out of the World Cup"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102731149.cms\" />In a remarkable feat, Indian Grandmaster Vidit Gujrathi pulled off a stunning upset on Monday in the FIDE Chess World Cup in Baku.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-vidit-gujrathi-shocks-nepomniachtchi-reaches-world-cup-quarterfinals/articleshow/102731149.cms",
-         "pubDate" : "Mon, 14 Aug 2023 16:32:28 +0000",
-         "title" : "Vidit Gujrathi shocks Nepomniachtchi, reaches World Cup quarterfinals"
-      },
-      {
          "description" : " Favorites ousted (not Carlsen) Indian prodigies soar There were some shocking outcomes at the 2023 World Cup with both Hikaru Nakamura and Ju Wenjun being eliminated from the competition. Wesley So was also upset by Alexander Sarana ending what seemed to be a tournament where the Filipino-American was off-form. While Magnus Carlsen endured an intense The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/\">2023 FIDE World Cup: Round 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1290,22 +1362,6 @@ news_feed (
          "title" : "Half Nelson"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102702265.cms\" />In a remarkable display of talent, three Indian chess prodigies - D Gukesh, R Praggnanandhaa, and Arjun Erigaisi - advanced to the quarterfinals of the prestigious FIDE World Cup chess tournament in Baku on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-to-face-magnus-carlsen-in-fide-world-cup-quarters-praggnanandhaa-erigaisi-set-up-all-indian-clash/articleshow/102702265.cms",
-         "pubDate" : "Sun, 13 Aug 2023 18:00:44 +0000",
-         "title" : "D Gukesh to face Magnus Carlsen in FIDE World Cup quarters"
-      },
-      {
-         "description" : "On the first day of round five of the 2023 FIDE World Cup, GMs&#38;nbsp;Dommaraju Gukesh&#38;nbsp;and Arjun Erigaisi led the way for India&#39;s young stars after both scored wins with Black over GMs Wang Hao and Nils Grandelius, respectively. GMs Magnus Carl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-1",
-         "pubDate" : "Sun, 13 Aug 2023 10:33:00 -0700",
-         "title" : "Carlsen, Gukesh Strike Again; Quarterfinal Showdown Looms"
-      },
-      {
          "description" : "GM Rogoff has made occasional appearances on this blog since the first, featured mention in <A HREF=\"https://chessforallages.blogspot.com/2012/02/kenny-rogoff-as-youve-never-seen-him.html\">Kenny Rogoff as You've Never Seen Him</A> (February 2012), where he had a full head of hair. Here he weighs in on the top computer topic of the 2020s. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2_x4PKTRaKc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>How AI makes Chess 'more interesting': International Grandmaster</B> (3:43) &#149; '[Publ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1336,14 +1392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/another-nice-lfg-win.html",
          "pubDate" : "Sat, 12 Aug 2023 13:44:00 +0000",
          "title" : "Another nice LFG win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102680281.cms\" />As young GM R Praggnanandhaa on Friday stunned second-seeded Hikaru Nakamura to enter the last 16 of the FIDE World Cup chess tournament in Baku, world no.1 Magnus Carlsen, in a delightful gesture, congratulated the teenage Indian prodigy while his match was still on. In the viral video, Carlsen can be seen walking across to Praggnanandhaa while his own game was still going on and congratulated the Indian.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-world-no-1-magnus-carlsen-walks-across-mid-match-to-congratulate-r-praggnanandhaa/articleshow/102680281.cms",
-         "pubDate" : "Sat, 12 Aug 2023 12:02:21 +0000",
-         "title" : "Watch: World no.1 Carlsen walks across mid match to congratulate Praggnanandhaa"
       },
       {
          "description" : "Much of my professional career in chess has been involved with organising world chess championships in London: namely, those of 1986, between Garry Kasparov and Anatoly Karpov, 1993, which saw Britain's Nigel Short fail in his challenge to Kasparov, and 2000, when Vladimir Kramnik finally terminated Kasparov's 15-year reign as champion. As a corollary, hoc opus hic []",
@@ -1384,14 +1432,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2023-english-womens-online-blitz-championship/",
          "pubDate" : "Fri, 11 Aug 2023 15:08:20 +0000",
          "title" : "2023 English Women's Online Blitz Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102655005.cms\" />The young and talented Grandmaster R Praggnanandhaa secured a remarkable victory by winning both rapid games, resulting in the elimination of the second-seeded Hikaru Nakamura on Friday. This victory propelled Praggnanandhaa into the last 16 of the FIDE World Cup chess tournament in Baku.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-cup-r-praggnanandhaa-stuns-no-2-seed-hikaru-nakamura-to-enter-last-16/articleshow/102655005.cms",
-         "pubDate" : "Fri, 11 Aug 2023 14:56:21 +0000",
-         "title" : "World Cup: Praggnanandhaa stuns Nakamura to enter last 16"
       },
       {
          "description" : "",
@@ -1626,14 +1666,6 @@ news_feed (
          "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102455711.cms\" />Describing it as a \"historic\" accomplishment, chess legend Viswanathan Anand praised 17-year-old Grandmaster D Gukesh for becoming the highest-rated Indian player in FIDE rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-is-spearheading-indias-rise-anand-on-the-teenager-overtaking-him-in-fide-ranking/articleshow/102455711.cms",
-         "pubDate" : "Sat, 05 Aug 2023 14:33:21 +0000",
-         "title" : "Gukesh is spearheading India's rise: Anand"
-      },
-      {
          "description" : " Gukesh: The New Indian #1 Lots of historic landmarks happened during the second round of the FIDE World Cup with the top players joining in on the action after getting a first-round bye. One of the top players not participating was the 5-time world champion Viswanathan Anand who spoke on Dommaraju Gukesh entering the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/\">2023 FIDE World Cup: Round 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1736,14 +1768,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38128238/gukesh-d-moves-viswanathan-anand-fide-live-world-rankings?device=featurephone",
          "pubDate" : "Thu, 3 Aug 2023 14:00:16 -0500",
          "title" : "Gukesh D moves past Viswanathan Anand in FIDE live world rankings"
-      },
-      {
-         "description" : " The 2023 World Cup is underway in Baku. Australia started with 4 representatives (2 from the Oceania Zonal and 2 qualifying from the Olympiad), although that number dropped to 2 after Round 1. GM Bobby Cheng drew his round 1 match 1-1, but lost the playoff, while WGM Jillin Zhang went out in regulation. GM Temur Kuybokarov won his round 1 match, but is already down 1 game against Yu Yangi. He needs to win the 2nd game to send the match into overtime, but as I type this, he stands slightly worse going into the ending. Julia Ryjanova is holding her own in her round 2 match against higher rated Zhongyi Tan, having drawn the first game, and looking OK in a sharp position in the 2nd game. Of cou",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/2023-world-cup.html",
-         "pubDate" : "Thu, 03 Aug 2023 13:31:00 +0000",
-         "title" : "2023 World Cup"
       }
    ]
 }
