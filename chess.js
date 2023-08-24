@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in Qualifier 2 on Thursday. Sarana had the best event of anybody, placing fir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-2-sarana-andreikin-win",
+         "pubDate" : "Thu, 24 Aug 2023 14:52:28 -0700",
+         "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
+      },
+      {
+         "description" : "Magnus Carlsen has won it all. The world number one beat Praggnanandhaa Rameshbabu in tiebreaks to win the FIDE World Cup for the first time in his career. After his victory, the Norwegian noted that he will not attempt to recover the World Championship title unless there is a major change in the format, especially regarding the shortening of time controls. Meanwhile, third seed Fabiano Caruana beat Nijat Abasov in the match for third place to secure a spot in the 2024 Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d3",
+         "pubDate" : "Thu, 24 Aug 2023 21:30:00 +0100",
+         "title" : "Magnus Carlsen \"completes\" chess, as he bags World Cup title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2607",
+         "pubDate" : "Thu, 24 Aug 2023 19:59:16 +0000",
+         "title" : "5th FIDE World Championship for People with Disabilities crosses midpoint"
+      },
+      {
+         "description" : " The FIDE World Cup took place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he had never won the event and clearly saw this as something he would like to rectify. His leading rivals were Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside was an equally well represented women's field including World Champion Ju Wenjun. Magnus Carlsen won the event playing a lot of the younger generation on his way to the title. Carlsen was almost eli",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
+         "pubDate" : "Thu, 24 Aug 2023 22:19:00 +0400",
+         "title" : "FIDE World Cup 2023 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103033338.cms\" />Humble to the core, teen sensation R Praggnanandhaa was far from realising the enormity of his achievement in the FIDE World Cup but reckoned his incredible run could force people to \"start noticing\" Indian chess. It needed the sheer brilliance of Magnus Carlsen to stop the 18-year-old Praggnanandhaa's march as he finished second best after losing in the final on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -834,14 +866,6 @@ news_feed (
          "title" : "World Cup: Pragg and Salimova win tiebreakers"
       },
       {
-         "description" : "In July, Svitlana participated in the open section of the 2023 Canadian Junior Chess Championship, and faced some tough opponents. Impressively, she managed to reach the overall third place and added one more trophy to her collection. In addition, she will travel to Mexico for the World Junior Championship!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-another-trophy-for-svitlana",
-         "pubDate" : "Fri, 18 Aug 2023 16:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Another trophy for Svitlana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1330,14 +1354,6 @@ news_feed (
          "title" : "FIDE World Youth U16 Chess Olympiad started in Netherlands"
       },
       {
-         "description" : "Three Indian players&#38;mdash;GMs Rameshbabu Praggnanandhaa, Dommaraju Gukesh, and Arjun Erigaisi&#38;mdash;will play in the quarterfinals of the 2023 FIDE World Cup after scoring 1.5/2 in their respective round-five matches on Sunday. The trio will be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-2",
-         "pubDate" : "Sun, 13 Aug 2023 16:53:00 -0700",
-         "title" : "Praggnanandhaa, Gukesh, Arjun Make History For India"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,22 +1760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-4",
          "pubDate" : "Fri, 04 Aug 2023 02:55:48 +0000",
          "title" : "2023 Summer Chess Classic: Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-3",
-         "pubDate" : "Thu, 03 Aug 2023 20:55:43 +0000",
-         "title" : "2023 Summer Chess Classic: Round 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2558",
-         "pubDate" : "Thu, 03 Aug 2023 19:44:58 +0000",
-         "title" : "FIDE Word Cup 2023 Round 2 Game 2: Surprising knockouts and intense battles"
       }
    ]
 }
