@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103003145.cms\" />R Praggnanandhaa has begun the soft landing towards the World Cup chess title in the knockout format, drawing the second classical game against world No. 1 Magnus Carlsen on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-battle-continues-as-praggnanandhaa-takes-magnus-carlsen-to-tie-breaks/articleshow/103003145.cms",
+         "pubDate" : "Thu, 24 Aug 2023 03:21:43 +0000",
+         "title" : "Battle continues as Praggnanandhaa takes Carlsen to tie-breaks"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2604",
+         "pubDate" : "Wed, 23 Aug 2023 23:37:27 +0000",
+         "title" : "Aleksandra Goryachkina: \"I try to imitate Alexandra Kosteniuk in knockouts\""
+      },
+      {
+         "description" : "Both the final and the match for third place will be decided in tiebreaks at the FIDE World Cup in Baku. While Magnus Carlsen played it safe with white against Praggnanandhaa Rameshbabu to secure a second draw in the final, Fabiano Caruana bounced back from a disastrous showing on Tuesday to keep his chances of reaching the podium alive. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d2",
+         "pubDate" : "Thu, 24 Aug 2023 00:01:45 +0100",
+         "title" : "World Cup: Caruana strikes back, Carlsen opts for quick draw"
+      },
+      {
          "description" : "From coding instructor to chessboxer, there is nothing that this talented 24-year-old cannot do. Sneha has won many laurels in the world of ChessBoxing. Within a few years, she has established her name in this highly athletic and booming sport. Sneha is the current national champion of India and has proudly represented India and secured a gold medal at the 2023 Asian ChessBoxing Championships 2023 and a silver medal at the 2022 World Championships. Through this article, we want to acquaint you with the life of this fighting athlete, and how she is trying to pursue her passion in spite of all the hurdles.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,14 +106,6 @@ news_feed (
          "title" : "Chess WC Final: Praggnanandhaa holds Carlsen to draw in Game 2"
       },
       {
-         "description" : "For the second time, a Women's World Cup was played concurrently with the already traditional massive, biennial World Cup. The knockout events are held from July 30 to August 27 at the Marriott Hotel Boulevard in Baku. Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 15.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Wed, 23 Aug 2023 12:50:00 +0100",
-         "title" : "FIDE World Cup Final - Live!"
-      },
-      {
          "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-preview",
          "pubDate" : "Tue, 22 Aug 2023 21:40:00 +0100",
          "title" : "Clash of titans in D&uuml;sseldorf: World Rapid Team Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2599",
+         "pubDate" : "Tue, 22 Aug 2023 19:42:38 +0000",
+         "title" : "Clash of chess titans in D&uuml;sseldorf: World Rapid Team Championship preview"
       },
       {
          "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in the first Qualifier on Tuesday. Yu finished second in the Swiss on day one and, on the second day, w...",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d3",
          "pubDate" : "Tue, 22 Aug 2023 01:20:00 +0100",
          "title" : "World Cup: Pragg stuns Caruana, will face Carlsen in eye-catching final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2599",
-         "pubDate" : "Mon, 21 Aug 2023 22:42:38 +0000",
-         "title" : "Clash of chess titans in D&uuml;sseldorf: World Rapid Team Championship preview"
       },
       {
          "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
@@ -1608,14 +1624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2561",
          "pubDate" : "Sat, 05 Aug 2023 20:16:16 +0000",
          "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102455711.cms\" />Describing it as a \"historic\" accomplishment, chess legend Viswanathan Anand praised 17-year-old Grandmaster D Gukesh for becoming the highest-rated Indian player in FIDE rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-is-spearheading-indias-rise-anand-on-the-teenager-overtaking-him-in-fide-ranking/articleshow/102455711.cms",
-         "pubDate" : "Sat, 05 Aug 2023 14:33:21 +0000",
-         "title" : "Gukesh is spearheading India's rise: Anand"
       },
       {
          "description" : " Gukesh: The New Indian #1 Lots of historic landmarks happened during the second round of the FIDE World Cup with the top players joining in on the action after getting a first-round bye. One of the top players not participating was the 5-time world champion Viswanathan Anand who spoke on Dommaraju Gukesh entering the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/\">2023 FIDE World Cup: Round 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
