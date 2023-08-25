@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2609",
+         "pubDate" : "Fri, 25 Aug 2023 11:23:44 +0000",
+         "title" : "Winners crowned at 21st European Union Youth Chess Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103057369.cms\" />Indian prodigy R Praggnanandhaa lost to World No. 1 Magnus Carlsen 1.5-0.5 in the tie-break in the FIDE World Cup final at Baku on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-how-magnus-carlsen-plotted-praggnanandhaas-downfall/articleshow/103057369.cms",
+         "pubDate" : "Fri, 25 Aug 2023 09:45:52 +0000",
+         "title" : "Chess World Cup: How Carlsen plotted Praggnanandhaa's downfall"
+      },
+      {
+         "description" : "The World Cup in Baku produced some exciting games and surprising results. But also a number of remarkable engames which it is well to study. What better way than to receive the assistance of a great trainer who shows us were some of the players went wrong, and what was needed to get a positive result. Learn more about the endgame from the instructive commentary provided to us by grandmaster Efstratios Grivas. Enjoy and learn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-endgames-in-baku-1",
+         "pubDate" : "Fri, 25 Aug 2023 10:00:00 +0100",
+         "title" : "Grivas: Endgames in Baku - (1)"
+      },
+      {
          "description" : " Norway's world No 1 beat the 18-year-old 2.5-1.5 after playing cautiously in the first two games due to food poisoning Magnus Carlsen has finally won the biennial World Cup, the only major individual honour to have eluded him. Norway's World No 1 defeated India's 18-year-old Rameshbabu Praggnanandhaa 2.5-1.5 in the final. Carlsen's first prize was $110,000 and Praggnanandhaa's $80,000. Carlsen contracted food poisoning after his semi-final win last weekend and he was still recovering during the first two days of the final, where he played in an untypically cautious style, aiming for draws. <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
          "pubDate" : "Fri, 25 Aug 2023 07:00:03 +0000",
-         "title" : "Chess: Sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
+         "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103047153.cms\" />After winning his maiden World Cup title on Thursday, Magnus Carlsen said in an interview, \"Chess is in good hands for the future. I think this generation of players born between 1990-94 really have dominated for a long time and finally now with these youngsters born 2003+, we have a generation that's worthy of succeeding us when the time comes and the time could be fairly soon.\"",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-2-sarana-andreikin-win",
          "pubDate" : "Thu, 24 Aug 2023 14:52:00 -0700",
          "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2608",
+         "pubDate" : "Thu, 24 Aug 2023 21:49:48 +0000",
+         "title" : "FIDE World Rapid and Blitz Championships 2024 - Call for bids"
       },
       {
          "description" : "Magnus Carlsen has won it all. The world number one beat Praggnanandhaa Rameshbabu in tiebreaks to win the FIDE World Cup for the first time in his career. After his victory, the Norwegian noted that he will not attempt to recover the World Championship title unless there is a major change in the format, especially regarding the shortening of time controls. Meanwhile, third seed Fabiano Caruana beat Nijat Abasov in the match for third place to secure a spot in the 2024 Candidates Tournament. | Photo: FIDE / Stev Bonhage",
@@ -810,14 +842,6 @@ news_feed (
          "title" : "Can Fabiano Caruana stop R Praggnanandhaa's rapid strides?"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102845511.cms\" />There are four Indian juniors in the World Open top 50. Gukesh is at No.8 (live rating of 2758.4), No.23 is R Praggnanandhaa (2720.8), Arjun Erigaisi (2712) is at No.30 and Nihal Sarin at No.42 (2694.2). Along with Raunak Sadhwani, Leon Luke Mendonca and Aaditya Dhingra, there are seven Indians among the world's top 20 juniors.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/charge-of-the-knight-brigade-indian-teens-storm-global-chess/articleshow/102845511.cms",
-         "pubDate" : "Sat, 19 Aug 2023 03:38:06 +0000",
-         "title" : "Charge of the knight brigade: Indian teens storm global chess"
-      },
-      {
          "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals&#38;mdash;the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -888,14 +912,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html",
          "pubDate" : "Fri, 18 Aug 2023 15:55:00 +0000",
          "title" : "Adsense on CFAA++"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu beat his good friend Arjun Erigaisi in a series of tense rapid and blitz tiebreaks to reach the semifinals of the FIDE World Cup. The 18-year-old all but secured a spot in the next edition of the Candidates Tournament. Meanwhile, in the women's category, Nurgyul Salimova upset Anna Muzychuk to reach the final of the event. Salimova thus qualified to the Women's Candidates, while Muzychuk will face Tan Zhongyi for a spot in the all-important event. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r6-d3",
-         "pubDate" : "Fri, 18 Aug 2023 16:05:00 +0100",
-         "title" : "World Cup: Pragg and Salimova win tiebreakers"
       },
       {
          "description" : "",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2560",
          "pubDate" : "Fri, 04 Aug 2023 21:49:45 +0000",
          "title" : "FIDE World Schools Team Championship commences in Aktau, Kazakhstan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2559",
-         "pubDate" : "Fri, 04 Aug 2023 19:58:27 +0000",
-         "title" : "FIDE World Cup 2023 Round 2 Tiebreaks: Alexander Grischuk and Kateryna Lagno eliminated"
       },
       {
          "description" : " The much anticipated Press v Press clash in the LFG Invitational ended in a victory for youth. I didn't help my cause by blundering a pawn in the opening, although I received enough compensation for it that it could have been described as a pawn sacrifice. Where I really went wrong was not connecting a couple of separate plans together, to form one cohesive strategy. I looked at ideas around winning the c5 pawn with Rc1 and attacking the king with moves like d6. It turns out that if I played 16.d6! Black can only stop Plan B by allowing me to execute Plan A. Instead I just focussed on Plan B (which fails on its own) and eventually gave away most of my pieces! <br /> <b>Press,Shaun - Press,H",
