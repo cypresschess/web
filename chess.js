@@ -2,11 +2,11 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in Qualifier 2 on Thursday. Sarana had the best event of anybody, placing fir...",
+         "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-2-sarana-andreikin-win",
-         "pubDate" : "Thu, 24 Aug 2023 14:52:28 -0700",
+         "pubDate" : "Thu, 24 Aug 2023 14:52:00 -0700",
          "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
       },
       {
@@ -1752,14 +1752,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/04/rishi-sunak-set-to-announce-500000-government-fund-for-chess",
          "pubDate" : "Fri, 04 Aug 2023 07:00:07 +0000",
          "title" : "Rishi Sunak set to announce &pound;500,000 government fund for chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-4",
-         "pubDate" : "Fri, 04 Aug 2023 02:55:48 +0000",
-         "title" : "2023 Summer Chess Classic: Round 4"
       }
    ]
 }
