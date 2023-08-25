@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In May 2022 the then world's oldest grandmaster, Yuri Averbakh, died at the age of 100. Since then, until two weeks ago, the 'title' of the world's oldest grandmaster was held by Aleksandar Matanovic. On 9 August 2023 Matanovic, one of the leading players of the Yugoslav golden era, died in Belgrade at the age of 93. Diana Mihajlova honours a man who gave his life to chess. | Photo: Serbian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-aleksandar-matanovic-1930-2023",
+         "pubDate" : "Fri, 25 Aug 2023 15:24:06 +0100",
+         "title" : "Remembering Aleksandar Matanovic (1930-2023)"
+      },
+      {
+         "description" : " Magnus Carlsen added another accolade to his already storied career by winning the World Cup. He overcame a wonderful performance by Rameshbabu Praggnanandhaa who defeated both Hikaru Nakamura and Fabiano Caruana to qualify for the final. As a result, he became the youngest player to have made a World Cup final and one of the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/\">Carlsen wins 2023 FIDE World Cup!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
+         "pubDate" : "Fri, 25 Aug 2023 12:36:05 +0000",
+         "title" : "Carlsen wins 2023 FIDE World Cup!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103064782.cms\" />Viswanathan Anand, once the dominant figure in Indian chess, has seen a shift in recent years, with numerous talented players emerging, making the country a formidable force globally, including the current golden generation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/as-praggnanandhaa-and-gukesh-shine-is-india-the-new-talent-churning-machine-in-chess/articleshow/103064782.cms",
+         "pubDate" : "Fri, 25 Aug 2023 12:33:59 +0000",
+         "title" : "As Praggnanandhaa and Gukesh shine, is India the new talent-churning machine in chess?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103062530.cms\" />R Nagalakshmi, mother of teen chess prodigy R Praggnanandhaa, on Friday expressed her joy as her son secured a place in the Candidates Tournament. Nagalakshmi mentioned despite the remarkable achievement of her 18-year-old son, he still has a 'long was to go'. The Candidates Tournament holds significant importance as it determines the contender who will challenge the reigning world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/elated-that-praggnanandhaa-has-sealed-a-candidates-berth-mother-nagalakshmi/articleshow/103062530.cms",
+         "pubDate" : "Fri, 25 Aug 2023 11:35:05 +0000",
+         "title" : "Elated that Praggnanandhaa has sealed a Candidates berth: Mother Nagalakshmi"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "Candidates challenge looms as Praggnanandhaa follows in Anand's footsteps"
       },
       {
+         "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38249897/r-praggnanandhaa-silver-2023-chess-world-cup-gold-standard-indian-chess?device=featurephone",
+         "pubDate" : "Thu, 24 Aug 2023 23:13:00 -0500",
+         "title" : "Praggnanandhaa's World Cup silver shows he can meet the gold standard"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103040974.cms\" />Trust Magnus Carlsen to be a great spoiler. R Praggnanandhaa's superb run to the World Cup chess final was almost too good to be true. The Norwegian world No. 1 outplayed the Indian teen in tiebreaks to win the only title missing from his kitty at Baku on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -82,14 +122,6 @@ news_feed (
          "title" : "Magnus Carlsen \"completes\" chess, as he bags World Cup title"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2607",
-         "pubDate" : "Thu, 24 Aug 2023 19:59:16 +0000",
-         "title" : "5th FIDE World Championship for People with Disabilities crosses midpoint"
-      },
-      {
          "description" : " The FIDE World Cup took place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he had never won the event and clearly saw this as something he would like to rectify. His leading rivals were Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside was an equally well represented women's field including World Champion Ju Wenjun. Magnus Carlsen won the event playing a lot of the younger generation on his way to the title. Carlsen was almost eli",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-why-it-s-good-to-be-prepared",
          "pubDate" : "Thu, 24 Aug 2023 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Why it's good to be prepared"
-      },
-      {
-         "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38249897/r-praggnanandhaa-silver-2023-chess-world-cup-gold-standard-indian-chess?device=featurephone",
-         "pubDate" : "Thu, 24 Aug 2023 10:51:00 -0500",
-         "title" : "Praggnanandhaa's World Cup silver shows he can meet the gold standard"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031562.cms\" />Indian Grandmaster R Praggnanandhaa went down fighting to world no.1 Magnus Carlsen in the FIDE World Cup Final in Baku on Thursday but the 18-year-old chess prodigy garnered huge praise and appreciation for his sensational run in the tournament. Praggnanandhaa lost to Carlsen in the tie-breaks after the classical games in the final ended in a stalemate.",
@@ -240,6 +264,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tutorial-august-2023-playing-chess-on-playchess-with-videochat",
          "pubDate" : "Thu, 24 Aug 2023 09:59:39 +0100",
          "title" : "How to play online on Playchess with video"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2607",
+         "pubDate" : "Thu, 24 Aug 2023 08:59:16 +0000",
+         "title" : "5th FIDE World Championship for People with Disabilities crosses midpoint"
       },
       {
          "description" : "",
@@ -706,14 +738,6 @@ news_feed (
          "title" : "Nakamura Sets New Bullet Brawl Record With 83 Wins"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102868456.cms\" />R Praggnanandhaa defended his slightly minus position against Fabiano Caruana with precision but Nijat Abasov could not land a punch that could have helped him floor Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-semifinals-praggnanandhaa-holds-fabiano-caruana-magnus-carlsen-escapes-with-a-win/articleshow/102868456.cms",
-         "pubDate" : "Sun, 20 Aug 2023 03:25:40 +0000",
-         "title" : "Chess WC semis: Praggu holds Caruana, Carlsen escapes with a win"
-      },
-      {
          "description" : " Greetings! I'm Inez Kelley, sister to Armand Kelley a member of the NYC chess community. For those who know, Armand passed in 2019. Since that time we've organized chess events in his memory. This year and with the collaboration of Aggrey Duncan and CHESS ON THE MOVE we are excited to present &#8216;Battle of The The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/\">Battle of the Masters: NYC Blitz Chess Match!!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -834,14 +858,6 @@ news_feed (
          "title" : "Round 9 report- World Youth Olympaid 2023"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102849065.cms\" />Fabiano Caruana is the only World Chess Championship challenger and losing finalist in history who did not lose a single classical game in the title match. He himself could not win a classical game in that 2018 match with Magnus Carlsen and lost in rapid tiebreaks. The American failed to get another crack at the World title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-fabiano-caruana-stop-r-praggnanandhaas-rapid-strides/articleshow/102849065.cms",
-         "pubDate" : "Sat, 19 Aug 2023 04:01:34 +0000",
-         "title" : "Can Fabiano Caruana stop R Praggnanandhaa's rapid strides?"
-      },
-      {
          "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals&#38;mdash;the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/visiting-beautiful-baku",
          "pubDate" : "Fri, 18 Aug 2023 20:00:00 +0100",
          "title" : "Visiting beautiful Baku"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King jumps on the World Cup wagon, as he shares a selection of entertaining yet very instructive tactical patterns from the event in Baku. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-world-cup-checkmates",
-         "pubDate" : "Fri, 18 Aug 2023 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: World Cup checkmates"
       },
       {
          "description" : "FIDE has come under heavy criticism after publishing a new policy that states that transgender women are banned from taking part in official female-only events until the federation conducts &#34;further analysis&#34; that can last up to two years. The c...",
@@ -1706,14 +1714,6 @@ news_feed (
          "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
       },
       {
-         "description" : " Gukesh: The New Indian #1 Lots of historic landmarks happened during the second round of the FIDE World Cup with the top players joining in on the action after getting a first-round bye. One of the top players not participating was the 5-time world champion Viswanathan Anand who spoke on Dommaraju Gukesh entering the top The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/\">2023 FIDE World Cup: Round 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/05/2023-fide-world-cup-round-2/",
-         "pubDate" : "Sat, 05 Aug 2023 13:34:41 +0000",
-         "title" : "2023 FIDE World Cup: Round 2"
-      },
-      {
          "description" : "Last month I succumbed to my inner pre-teenage girl and permitted myself the extravagance of watching the new Barbie film in my local cinema. To my astonishment, a pink chess set appeared in Barbieland - with pink-clad Barbies playing chess by a pinkish piscine. This is not the only implausible location for chess which I have recently observed, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1752,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2560",
          "pubDate" : "Fri, 04 Aug 2023 21:49:45 +0000",
          "title" : "FIDE World Schools Team Championship commences in Aktau, Kazakhstan"
-      },
-      {
-         "description" : " The much anticipated Press v Press clash in the LFG Invitational ended in a victory for youth. I didn't help my cause by blundering a pawn in the opening, although I received enough compensation for it that it could have been described as a pawn sacrifice. Where I really went wrong was not connecting a couple of separate plans together, to form one cohesive strategy. I looked at ideas around winning the c5 pawn with Rc1 and attacking the king with moves like d6. It turns out that if I played 16.d6! Black can only stop Plan B by allowing me to execute Plan A. Instead I just focussed on Plan B (which fails on its own) and eventually gave away most of my pieces! <br /> <b>Press,Shaun - Press,H",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/back-to-50.html",
-         "pubDate" : "Fri, 04 Aug 2023 13:46:00 +0000",
-         "title" : "Back to 50%"
       }
    ]
 }
