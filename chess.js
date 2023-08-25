@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian-born, recently Slovenian GM Vladimir Fedoseev won the Abu Dhabi Chess Festival 2023 | Masters, which concluded on Thursday. Undefeated, he finished ahead of 40 other grandmasters (and 142 titled players total) with seven points in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-wins-2023-abu-dhabi-chess-festival-masters",
+         "pubDate" : "Fri, 25 Aug 2023 13:25:57 -0700",
+         "title" : "Fedoseev Wins Abu Dhabi Chess Festival Masters, Tops Field Of 41 Grandmasters"
+      },
+      {
          "description" : "In May 2022 the then world's oldest grandmaster, Yuri Averbakh, died at the age of 100. Since then, until two weeks ago, the 'title' of the world's oldest grandmaster was held by Aleksandar Matanovic. On 9 August 2023 Matanovic, one of the leading players of the Yugoslav golden era, died in Belgrade at the age of 93. Diana Mihajlova honours a man who gave his life to chess. | Photo: Serbian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -119,7 +127,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d3",
          "pubDate" : "Thu, 24 Aug 2023 21:30:00 +0100",
-         "title" : "Magnus Carlsen \"completes\" chess, as he bags World Cup title"
+         "title" : "Magnus Carlsen \"completes\" chess as he bags World Cup title"
       },
       {
          "description" : " The FIDE World Cup took place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he had never won the event and clearly saw this as something he would like to rectify. His leading rivals were Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside was an equally well represented women's field including World Champion Ju Wenjun. Magnus Carlsen won the event playing a lot of the younger generation on his way to the title. Carlsen was almost eli",
@@ -1298,14 +1306,6 @@ news_feed (
          "title" : "Vidit Beats Nepomniachtchi As 4 Indian Players Reach World Cup Quarterfinals"
       },
       {
-         "description" : "GM Alan Pichot, Latin America&#39;s strongest player for years, has moved from Argentina and become Spain&#39;s fifth-highest-ranked player. On his way out, he criticized the Argentinian Chess Federation and its president for the lack of financial support...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pichot-moves-to-spain-attacks-argentinian-chess-federation",
-         "pubDate" : "Mon, 14 Aug 2023 14:17:27 -0700",
-         "title" : "GM Pichot Moves To Spain, Slams Argentinian Chess Federation On The Way"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,14 +1744,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-5",
          "pubDate" : "Sat, 05 Aug 2023 05:56:45 +0000",
          "title" : "2023 Summer Chess Classic: Round 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2560",
-         "pubDate" : "Fri, 04 Aug 2023 21:49:45 +0000",
-         "title" : "FIDE World Schools Team Championship commences in Aktau, Kazakhstan"
       }
    ]
 }
