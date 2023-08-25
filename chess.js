@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Norway's world No 1 beat the 18-year-old 2.5-1.5 after playing cautiously in the first two games due to food poisoning Magnus Carlsen has finally won the biennial World Cup, the only major individual honour to have eluded him. Norway's World No 1 defeated India's 18-year-old Rameshbabu Praggnanandhaa 2.5-1.5 in the final. Carlsen's first prize was $110,000 and Praggnanandhaa's $80,000. Carlsen contracted food poisoning after his semi-final win last weekend and he was still recovering during the first two days of the final, where he played in an untypically cautious style, aiming for draws. <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
+         "pubDate" : "Fri, 25 Aug 2023 07:00:03 +0000",
+         "title" : "Chess: Sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103047153.cms\" />After winning his maiden World Cup title on Thursday, Magnus Carlsen said in an interview, \"Chess is in good hands for the future. I think this generation of players born between 1990-94 really have dominated for a long time and finally now with these youngsters born 2003+, we have a generation that's worthy of succeeding us when the time comes and the time could be fairly soon.\"",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-in-good-hands-for-the-future-says-magnus-carlsen-after-winning-his-first-chess-world-cup-title/articleshow/103047153.cms",
+         "pubDate" : "Fri, 25 Aug 2023 05:43:31 +0000",
+         "title" : "Chess is in good hands for the future: Magnus Carlsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103044116.cms\" />Alexander Khalifman. Ruslan Ponomariov. Rustam Kasimdzhanov. Levon Aronian. Gata Kamsky. Peter Svidler. Teimour Radjabov. Jan Duda. These players have either won the FIDE World Cup chess title or FIDE knockout World Championship title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-challenge-looms-as-praggnanandhaa-follows-in-vishwanathan-anands-footsteps/articleshow/103044116.cms",
+         "pubDate" : "Fri, 25 Aug 2023 04:35:38 +0000",
+         "title" : "Candidates challenge looms as Praggnanandhaa follows in Anand's footsteps"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103040974.cms\" />Trust Magnus Carlsen to be a great spoiler. R Praggnanandhaa's superb run to the World Cup chess final was almost too good to be true. The Norwegian world No. 1 outplayed the Indian teen in tiebreaks to win the only title missing from his kitty at Baku on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-praggnanandhaa-checks-out-with-pride-next-stop-is-candidates/articleshow/103040974.cms",
+         "pubDate" : "Fri, 25 Aug 2023 03:20:58 +0000",
+         "title" : "Praggnanandhaa checks out of Chess World Cup final with pride"
+      },
+      {
          "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -882,14 +914,6 @@ news_feed (
          "title" : "FIDE World Youth Olympiad 2023: Day 5 Recap"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102825287.cms\" />The International Chess Federation (FIDE) said it has banned transgender women from competing in its official women's events while it conducts a \"thorough analysis\" of developments, a process that could take up to two years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-chess-federation-bars-transgender-players-from-womens-events/articleshow/102825287.cms",
-         "pubDate" : "Fri, 18 Aug 2023 07:02:22 +0000",
-         "title" : "World chess federation bars transgender players from women's events"
-      },
-      {
          "description" : " The world No 1 faces the little-known Nijat Abasov in this weekend's semi-final, while there were four Indian quarter-finalists and no Russians The World Cup knockout is the only major individual chess event that Magnus Carlsen has never won, but this weekend the Norwegian, 32, looks poised to reach the final of the $1.8m, 206-player competition at Baku, Azerbaijan. Carlsen's opponent in the semi-final on Saturday and Sunday, (midday BST start, free live commentary on major chess websites) with possible speed tiebreaks on Monday, is the little-known Azerbaijani Nijat Abasov, 28. The hometown favourite has had the performance of his life, defeating all six of his opponents including the Neth",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -922,14 +946,6 @@ news_feed (
          "title" : "World Cup Chess - Praggnanandhaa through to the Semi Final"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102816817.cms\" />After losing to Carlsen in the World Cup quarterfinals, Gukesh missed the chance to qualify for the Candidates. The top three finishers in Azerbaijan will play the eight-player double round-robin Candidates tournament scheduled in April next year at Toronto, Canada.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-prodigy-gukesh-strong-enough-to-play-candidates-says-world-no-1-magnus-carlsen/articleshow/102816817.cms",
-         "pubDate" : "Fri, 18 Aug 2023 02:40:22 +0000",
-         "title" : "Indian prodigy Gukesh strong enough to play Candidates, says Carlsen"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu and GM Arjun Erigaisi were engaged in 1-1 deadlocks in three sets of tiebreak games at the 2023 FIDE World Cup. After two draws in the 25+10 rapid tiebreaks, Praggnanandhaa twice took the lead by winning the first game...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2592",
          "pubDate" : "Thu, 17 Aug 2023 22:04:38 +0000",
          "title" : "Revised Tie-break Regulations come to force on September 1, 2023"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102813351.cms\" />R Praggnanandhaa defeated his friend Erigaisi Arjun in the quarterfinals of the World Cup chess tournament in Baku. However, Arjun managed to secure a spot in the Candidates Tournament in 2024. Praggnanandhaa will face Fabiano Caruana in the semifinals, while in the women's semifinal, Nurguyl Salimova of Bulgaria defeated Anna Muzhychuk of Ukraine. Salimova will go on to play Aleksandra Goryachkina in the two-game title clash.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-first-indian-after-viswanathan-anand-to-enter-world-cup-semis/articleshow/102813351.cms",
-         "pubDate" : "Thu, 17 Aug 2023 22:02:00 +0000",
-         "title" : "Praggu first Indian after Anand to enter World Cup semis"
       },
       {
          "description" : "",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/back-to-50.html",
          "pubDate" : "Fri, 04 Aug 2023 13:46:00 +0000",
          "title" : "Back to 50%"
-      },
-      {
-         "description" : " There will be major support for England's international teams, plus a boost for teaching the game in state schools, and a plan to install 100 chess tables in public parks Rishi Sunak will announce &pound;500,000 funding for chess in the near future. The money will provide major support for England's men and women international chess teams, plus a boost for teaching the game in state schools along with a plan to install 100 chess tables in public parks. The prime minister's new move is set to be unveiled at a ceremony featuring a giant set and board on the lawn at 10 Downing Street. For English Chess Federation officials, it marks the successful end to an initiative first launched in the 199",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/aug/04/rishi-sunak-set-to-announce-500000-government-fund-for-chess",
-         "pubDate" : "Fri, 04 Aug 2023 07:00:07 +0000",
-         "title" : "Rishi Sunak set to announce &pound;500,000 government fund for chess"
       }
    ]
 }
