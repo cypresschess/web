@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2610",
+         "pubDate" : "Sat, 26 Aug 2023 21:45:48 +0000",
+         "title" : "FIDE World Rapid Team Championship: WR Chess on top after four rounds"
+      },
+      {
          "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1720,22 +1728,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/2023-act-womens-and-girls-chess.html",
          "pubDate" : "Sun, 06 Aug 2023 12:32:00 +0000",
          "title" : "2023 ACT Women's and Girls Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2562",
-         "pubDate" : "Sat, 05 Aug 2023 21:29:55 +0000",
-         "title" : "FIDE World Schools Team Championship: Schools from Turkey and India are in the lead after the second day"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2561",
-         "pubDate" : "Sat, 05 Aug 2023 20:16:16 +0000",
-         "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
       }
    ]
 }
