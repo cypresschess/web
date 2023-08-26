@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Rapid Team Championship - Live!"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103089136.cms\" />The Indian men's chess team, including World Cup silver medalist Rameshbabu Praggnanandhaa and three quarter-finalists, will have a four-day tactical camp in Kolkata starting on August 30. The Hangzhou-bound squad includes Grandmasters Vidit Gujarathi, Arjun Erigaisi, R Gukesh, and veteran Pentala Harikrishna, led by head coach Boris Gelfand and assistant coaches Srinath Narayanan and Vaibhav Suri.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-gukesh-in-asian-games-camp-from-august-30/articleshow/103089136.cms",
+         "pubDate" : "Sat, 26 Aug 2023 12:06:49 +0000",
+         "title" : "Praggnanandhaa, Gukesh in Asian Games camp from August 30"
+      },
+      {
          "description" : "The Senior National Arbiter Seminar organized by All India Chess Federation got off to a rousing start at Bengaluru today .Professor IA Rathinam Anantharam",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-248-opposite-coloured-bishops-favour-the-attacker",
          "pubDate" : "Mon, 21 Aug 2023 17:30:00 +0100",
          "title" : "Endgame Magic #248: Bishops of opposite colours favour the attacker"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102916116.cms\" />In a remarkable display of skill and determination, Indian Grandmaster R Praggnanandhaa secured a stunning victory over World No. 3 Fabiano Caruana with a score of 3.5-2.5 in the tie-breaker round of the FIDE World Cup chess tournament held in Baku, Azerbaijan on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-shocks-caruana-meets-carlsen-in-final/articleshow/102916116.cms",
-         "pubDate" : "Mon, 21 Aug 2023 16:05:38 +0000",
-         "title" : "World Cup: Praggnanandhaa shocks Caruana, meets Carlsen in final"
       },
       {
          "description" : "China emerged victorious in the FIDE World Youth U16 Olympiad held in Eindhoven, the Netherlands. The team dominated the competition, securing an impressive 17 out of 18 match points. Turkey, the last year's champions, finished second, while Greece claimed the bronze medal. FIDE report, >1000 games, plus beautiful pictorial impressions by Frans Peeters and Lennart Ootes.",
@@ -1736,22 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2561",
          "pubDate" : "Sat, 05 Aug 2023 20:16:16 +0000",
          "title" : "FIDE World Cup Round 3 Game 1: A round of draws"
-      },
-      {
-         "description" : "Last month I succumbed to my inner pre-teenage girl and permitted myself the extravagance of watching the new Barbie film in my local cinema. To my astonishment, a pink chess set appeared in Barbieland - with pink-clad Barbies playing chess by a pinkish piscine. This is not the only implausible location for chess which I have recently observed, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-royal-game-or-rishi-to-the-rescue/",
-         "pubDate" : "Sat, 05 Aug 2023 12:54:37 +0000",
-         "title" : "The royal game, or: Rishi to the rescue"
-      },
-      {
-         "description" : "Imagine there is a pill that allows you to be happier, more productive, and more successful, all while being less stressed and focused on your day-to-day results. What would you pay for it? A lot, I guess. This magic pill doesn't exist. But you can get the same results by using a different mindset. You []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/achieving-happiness-in-chess/",
-         "pubDate" : "Sat, 05 Aug 2023 12:00:00 +0000",
-         "title" : "Embracing Ambition, Letting Go of Expectations"
       }
    ]
 }
