@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
+         "pubDate" : "Sat, 26 Aug 2023 13:15:00 +0100",
+         "title" : "World Rapid Team Championship - Live!"
+      },
+      {
+         "description" : "The Senior National Arbiter Seminar organized by All India Chess Federation got off to a rousing start at Bengaluru today .Professor IA Rathinam Anantharam",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/dual-senior-national-arbiter-seminar-starts-in-bengaluru-from-26-27-august-2023/",
+         "pubDate" : "Sat, 26 Aug 2023 10:16:16 +0000",
+         "title" : "Dual Senior National Arbiter Seminar starts in Bengaluru from 26-27 August 2023"
+      },
+      {
+         "description" : "Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet to be cancelled. No armies of wokistas demonstrating in front of the raised drawbridge of Castle Keene, no strident sans culottes barricading the streets, screaming Ray &agrave; la lanterne, not one lecture or simultaneous []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/unfair-play-from-jk-rowling-to-sharron-davies/",
+         "pubDate" : "Sat, 26 Aug 2023 08:36:04 +0000",
+         "title" : "Unfair play: from JK Rowling to Sharron Davies"
+      },
+      {
          "description" : "In the diagram position White mates by force after 18.Nf6+ Ke7 19.Re1! Nxf5. Do you see how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -882,14 +906,6 @@ news_feed (
          "title" : "A universal history of infamy in chess"
       },
       {
-         "description" : "Attacking is usually easier than defending, especially with short time controls. In the diagram position White kept on pressing until Black finally blundered, a typical rapid drama - I wish you fast entertainment!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vishy-and-the-initiative",
-         "pubDate" : "Sat, 19 Aug 2023 09:00:00 +0100",
-         "title" : "Vishy and the initiative"
-      },
-      {
          "description" : "Indian Team finished on 15th Position in World Youth Chess Olympiad. Indian team drew their last round against 5th seed Hungary and finished on 15th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "World Cup Round 5 Game 1: Multiple victories and surprises in Baku"
       },
       {
-         "description" : "This is to inform you that AICF Delhi Office will be closed on 14 August 2023 and 15 August 2023 on the occasion of Independence",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-office-closed-till-15-08-2023/",
-         "pubDate" : "Sat, 12 Aug 2023 13:48:50 +0000",
-         "title" : "AICF Delhi office closed till 15.08.2023"
-      },
-      {
          "description" : " The current LFG invitational has seen the field break into 3 groups. At the top are the tournament favourites (Press H, Litchfield and Magrini), the players in the middle who are aiming for a plus score, and a few at the bottom looking for their first points. I'm probably at the bottom of the middle group (now on 1/3), but hope to move up before I get to the top seeds. Here is a nice win from Fred Litchfield of Matthew Radisich, which demonstrates the difference in strength between some of the tournament players. <br /> <b>Litchfield,Frederick (2134) - Radisich,Matt (1677) [D30]</b><br /> Looking for Gamers Invitational (8.3), 04.08.2023 <script> new PgnViewer( { boardName: \"game1415\", move",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/achieving-happiness-in-chess/",
          "pubDate" : "Sat, 05 Aug 2023 12:00:00 +0000",
          "title" : "Embracing Ambition, Letting Go of Expectations"
-      },
-      {
-         "description" : " Last week, we looked at the idea of trying to maintain good pawn structure from the game's start through the endgame. While it's impossible to maintain perfect pawn structure throughout the game, you can prevent pawn structure chaos! We looked at the isolated pawn last week and why it's such a problem. This week, we're <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred/\">A Foundation for Beginners One Hundred</a> appeared first on <a rel=\"nofollow\" hre",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred/",
-         "pubDate" : "Sat, 05 Aug 2023 11:21:12 +0000",
-         "title" : "A Foundation for Beginners One Hundred"
       }
    ]
 }
