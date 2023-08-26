@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White mates by force after 18.Nf6+ Ke7 19.Re1! Nxf5. Do you see how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/short-and-sweet-2",
+         "pubDate" : "Sat, 26 Aug 2023 09:00:00 +0100",
+         "title" : "Short and sweet"
+      },
+      {
+         "description" : "From Saturday to Monday, the first edition of the World Rapid Team Championship will take place in D&uuml;sseldorf. More than 80 grandmasters, including many big names - but also numerous amateurs - are taking part. Four former world champions will participate: Vladimir Kramnik, Vishy Anand, Hou Yifan and Alexandra Kosteniuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-teams",
+         "pubDate" : "Sat, 26 Aug 2023 08:30:00 +0100",
+         "title" : "So, Aronian and Caruana top seeds in D&uuml;sseldorf"
+      },
+      {
+         "description" : "The fights for the EU Youth Chess Championship 2023 winning throne culminated on Thursday, August 24th in Kouty nad Desnou (CZE). The last rounds were full of fights and tension. In category Boys U8 took the first place Atanas Taskov (BUL, 9 out of 9!), the second place Jean Desfosses (FRA) and the third Kyriakos Skouroupathis (CYP). In category Girls U8 took the first place Karina Ser (LTU), the second place Agathe Gastaldo (FRA) and the third Melania-Cristina Grigore (ROU). []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-21st-eu-youth-chess-championship-2023-concluded-in-czech-republic/",
+         "pubDate" : "Sat, 26 Aug 2023 06:37:08 +0000",
+         "title" : "The 21st EU Youth Chess Championship 2023 concluded in Czech Republic"
+      },
+      {
+         "description" : "Getting better at chess is pretty straightforward. If you spend time on a few things that really matter, you will be able to improve your chess rather quickly. In this article, I will share my simple philosophy for chess improvement. It worked for me, 300+ course students, and thousands of readers. It will work for []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/how-to-get-better-at-chess/",
+         "pubDate" : "Sat, 26 Aug 2023 06:00:00 +0000",
+         "title" : "How to get better at Chess: A Grandmaster Guide"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103079291.cms\" />Youngest World Cup chess finalist R Praggnanandhaa has reached a new high in his budding career. The 18-year-old has jumped nine places to achieve a career-high 20th rank in the world and has become India's new No. 3 behind his Chennai mates D Gukesh and mentor Viswanathan Anand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-takes-a-giant-leap-achieves-career-high-2727-2-rating-to-become-india-no-3-world-no-20/articleshow/103079291.cms",
+         "pubDate" : "Sat, 26 Aug 2023 04:06:30 +0000",
+         "title" : "Praggnanandhaa achieves career-high 2727.2 rating to become India No. 3"
+      },
+      {
          "description" : "The Russian-born, recently Slovenian GM Vladimir Fedoseev won the Abu Dhabi Chess Festival 2023 | Masters, which concluded on Thursday. Undefeated, he finished ahead of 40 other grandmasters (and 142 titled players total) with seven points in the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -650,14 +690,6 @@ news_feed (
          "title" : "Jon Speelman: Over the centuries"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102880240.cms\" />Indian Grandmaster R Praggnanandhaa tied the two-match classical series against American GM Fabiano Caruana 1-1, sending the match to a tie-break. The two players will compete in a tie-break on Monday to advance to the final against world No. 1 Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-praggnanandhaa-vs-caruana-semifinal-heads-to-tie-break/articleshow/102880240.cms",
-         "pubDate" : "Sun, 20 Aug 2023 17:09:27 +0000",
-         "title" : "WC: Praggnanandhaa vs Caruana semifinal heads to tie-break"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -874,14 +906,6 @@ news_feed (
          "title" : "CDawgVA Delivers Swindle Of The Century To Become The Fifth PogChampion"
       },
       {
-         "description" : "The 29th edition of the Abu Dhabi Masters is taking place on August 16-24 at the Radisson Blu Hotel & Resort. The 9-round Swiss open has Vladislav Artemiev, David Anton and Maxim Matlakov as the top seeds. After three rounds, none of the top-3 are in the leading pack. Five players are sharing first place with 3 out of 3: Vladimir Fedoseev, Xu Xiangyu, Alisher Suleymenov, Rathanvel V S and Abtin Atakhan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abu-dhabi-masters-2023-r3",
-         "pubDate" : "Sat, 19 Aug 2023 03:00:00 +0100",
-         "title" : "Abu Dhabi Masters: Five players start with 3 out of 3"
-      },
-      {
          "description" : " Semifinals set Carlsen-Caruana favorites Goryachkina faces phenom We are winding down the World Cup and it's been an exciting ride. Only four players remain in the Open section and the top two players in the world are still in the hunt. In fact, Magnus Carlsen and Fabiano Caruana and headed for a showdown if they The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/\">2023 FIDE World Cup: Quarterfinals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -904,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-youth-u16-olympiad-concluded-in-eindhoven-netherlands/",
          "pubDate" : "Fri, 18 Aug 2023 20:01:05 +0000",
          "title" : "FIDE World Youth U16 Olympiad concluded in Eindhoven, Netherlands"
-      },
-      {
-         "description" : "The FIDE World Cup is taking place in Baku. We decided to do a short tour of the Azerbaijani capital before the important event commenced. After reading a lot about must-see places in Baku and getting info from the locals, Icherisheher (Old City) seemed to be the perfect place to venture. In a little over three hours, I visited The Palace of Shirvanshahs, the award-winning Miniature Book Museum, Maiden Tower and Nizami Street. Let us have a look at what piqued my interest on a day when I walked 16230 steps - my longest walk of the year! | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/visiting-beautiful-baku",
-         "pubDate" : "Fri, 18 Aug 2023 20:00:00 +0100",
-         "title" : "Visiting beautiful Baku"
       },
       {
          "description" : "FIDE has come under heavy criticism after publishing a new policy that states that transgender women are banned from taking part in official female-only events until the federation conducts &#34;further analysis&#34; that can last up to two years. The c...",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred/",
          "pubDate" : "Sat, 05 Aug 2023 11:21:12 +0000",
          "title" : "A Foundation for Beginners One Hundred"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-5",
-         "pubDate" : "Sat, 05 Aug 2023 05:56:45 +0000",
-         "title" : "2023 Summer Chess Classic: Round 5"
       }
    ]
 }
