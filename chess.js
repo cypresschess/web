@@ -1736,22 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2563",
          "pubDate" : "Sun, 06 Aug 2023 20:21:09 +0000",
          "title" : "FIDE World Cup Round 3 Game 2: Intense showdowns and surprises"
-      },
-      {
-         "description" : " Some more fun from the Chess Teachers and Learners Facebook group. It seems like a great idea to have a Facebook group where learners can ask questions and teachers can answer them. Up to a point it works well, but there are a few problems. The main one is that questions are often answered by <a href=\"https://chessimprover.com/teachers-and-learners/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Teachers and Learners\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/teachers-and-learners/\">Teachers and Learners</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/teachers-and-learners/",
-         "pubDate" : "Sun, 06 Aug 2023 18:17:41 +0000",
-         "title" : "Teachers and Learners"
-      },
-      {
-         "description" : "After so many years of the series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I sometimes can't be sure whether I've already featured an item or not. The item in the image below is a good example. <P> Titled 'Charming Vienna Bronze two Dachshunds playing chess at a table', it apparently sold for $425.00. Ebay has changed the look of its auctions since I last posted about 'Top Chess Items' and I'm not sure how to interpret the info correctly. The index of items returned said, <BLOCKQUOTE> 1 bid<BR> Best offer accepted </BLOCKQUOTE> <P> The auction itself said, <BLOCKQUOTE> 1 bid<BR> Ended 08/02, 11:0",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html",
-         "pubDate" : "Sun, 06 Aug 2023 15:45:00 +0000",
-         "title" : "Dachshunds Play Chess"
       }
    ]
 }
