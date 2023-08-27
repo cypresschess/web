@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2612",
+         "pubDate" : "Sun, 27 Aug 2023 20:57:33 +0000",
+         "title" : "FIDE World Rapid Team Championship: WR Chess continues dominance with perfect streak"
+      },
+      {
          "description" : "The Greek Team Championship is taking place from 25&#x2013;30 August 2023 in Athens. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of 34 teams. Chessdom.com will daily follow the live []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1712,30 +1720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-7",
          "pubDate" : "Sun, 06 Aug 2023 23:58:35 +0000",
          "title" : "2023 Summer Chess Classic: Round 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2564",
-         "pubDate" : "Sun, 06 Aug 2023 21:42:52 +0000",
-         "title" : "FIDE World Schools Team Championship: schools from Turkey and India lead with perfect score"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-6",
-         "pubDate" : "Sun, 06 Aug 2023 20:58:19 +0000",
-         "title" : "2023 Summer Chess Classic: Round 6"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2563",
-         "pubDate" : "Sun, 06 Aug 2023 20:21:09 +0000",
-         "title" : "FIDE World Cup Round 3 Game 2: Intense showdowns and surprises"
       }
    ]
 }
