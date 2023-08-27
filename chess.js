@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former Asian Champion Grandmaster S P Sethuraman of Petroleum Sports Promotion Board reclaimed the National Champion title after 8 years at the 60th edition of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sethuraman-national-champion/",
+         "pubDate" : "Sun, 27 Aug 2023 07:01:26 +0000",
+         "title" : "Sethuraman National Champion"
+      },
+      {
          "description" : "The first edition of the World Rapid Team Championship kicked off on Saturday in D&uuml;sseldorf. Amid a relaxed environment, a few of the strongest GMs in the field suffered upsets. After the first four rounds, WR Chess, Wadim Rosenstein's team, is the only squad with a perfect 8/8 score. Ian Nepomniachtchi was the strongest performer in the leading team, as he beat four lower-rated opponents in a row. | Pictured: The Chess Pensioners | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -110,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fedoseev-wins-2023-abu-dhabi-chess-festival-masters",
-         "pubDate" : "Fri, 25 Aug 2023 13:25:57 -0700",
+         "pubDate" : "Fri, 25 Aug 2023 13:25:00 -0700",
          "title" : "Fedoseev Wins Abu Dhabi Chess Festival Masters, Tops Field Of 41 Grandmasters"
       },
       {
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/im-norm-news/",
          "pubDate" : "Mon, 14 Aug 2023 08:23:32 +0000",
          "title" : "IM norm news"
-      },
-      {
-         "description" : "The FIDE World Youth Olympiad 2023 kicked off Sunday at Eindhoven's High Tech Campus in the Netherlands. Indian team seeded 16th has started well in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-youth-u16-chess-olympiad-started-in-netherlands/",
-         "pubDate" : "Mon, 14 Aug 2023 04:13:44 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad started in Netherlands"
       },
       {
          "description" : "",
