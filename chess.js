@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
+         "pubDate" : "Sun, 27 Aug 2023 13:15:00 +0100",
+         "title" : "World Rapid Team Championship - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103103469.cms\" />All India Chess Federation (AICF) president Sanjay Kapoor said Indian chess has entered the \"golden era\" and the country will have over a hundred Grandmasters within two years.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-has-entered-golden-era-of-chess-we-will-have-100-gms-soon-aicf-chief-sanjay-kapoor/articleshow/103103469.cms",
+         "pubDate" : "Sun, 27 Aug 2023 09:10:13 +0000",
+         "title" : "India has entered golden era of chess, we will have 100 GMs soon: AICF chief Sanjay Kapoor"
+      },
+      {
+         "description" : "There are chess puzzles, which are not just clever. They can be very entertaining. An expert in such positions is Gauri Shankar, a chess trainer from Chicago, who has a great talent for finding pretty examples, and for explaining the results in instructive style. Today we how you three new positions, which you can try to solve. You can let Gauri explain them, if you fail to find out everything yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gauri-chess-puzzles-2",
+         "pubDate" : "Sun, 27 Aug 2023 10:00:00 +0100",
+         "title" : "Gauri chess puzzles - (2)"
+      },
+      {
          "description" : "Former Asian Champion Grandmaster S P Sethuraman of Petroleum Sports Promotion Board reclaimed the National Champion title after 8 years at the 60th edition of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-1",
-         "pubDate" : "Sat, 26 Aug 2023 19:12:01 -0700",
+         "pubDate" : "Sat, 26 Aug 2023 19:12:00 -0700",
          "title" : "Powerhouse WR Chess Takes Early Lead"
       },
       {
@@ -120,6 +144,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fedoseev-wins-2023-abu-dhabi-chess-festival-masters",
          "pubDate" : "Fri, 25 Aug 2023 13:25:00 -0700",
          "title" : "Fedoseev Wins Abu Dhabi Chess Festival Masters, Tops Field Of 41 Grandmasters"
+      },
+      {
+         "description" : "In last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> (August 2023), I concluded with:- <BLOCKQUOTE> Adsense is once again increasing the volume of its commanding voice: 'New Consent Management Platform [CMP] requirements for serving ads in the EEA and UK'. &#149; TBD. Watch this space... </BLOCKQUOTE> <P> My WCC index page, shown below, is a typical example of how I handle ads across the site. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh25.gif\" WIDTH=400 HEIGHT=215><BR> <A HREF=\"https://www.mark-weeks.com/chess/wcc-indx.htm\">Index : World Chess Championship</A> <P> The ad ('Download de whitepaper'; that'",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html",
+         "pubDate" : "Fri, 25 Aug 2023 15:17:00 +0000",
+         "title" : "Adsense and the GDPR"
       },
       {
          "description" : "In May 2022 the then world's oldest grandmaster, Yuri Averbakh, died at the age of 100. Since then, until two weeks ago, the 'title' of the world's oldest grandmaster was held by Aleksandar Matanovic. On 9 August 2023 Matanovic, one of the leading players of the Yugoslav golden era, died in Belgrade at the age of 93. Diana Mihajlova honours a man who gave his life to chess. | Photo: Serbian Chess Federation",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102947134.cms\" />R Praggnanandhaa's ability to defend seamlessly in pressure situations and the deductive mind to quickly gauge his opponent's weakness is the hallmark of a world class player, national coach GM M Shyam Sundar said on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ability-to-defend-in-precarious-game-situations-is-hallmark-of-praggnanandhaas-talent-india-coach-m-shyam-sundar/articleshow/102947134.cms",
-         "pubDate" : "Tue, 22 Aug 2023 11:36:58 +0000",
-         "title" : "'Ability to defend in precarious game situations is hallmark of Praggnanandhaa's talent'"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102946593.cms\" />Not totally surprising that a person named Praggnanandhaa (let's call him Prag henceforth) is giving joy to millions of chess followers, majority of them Indians, through his imagination, intelligence and giant-killing run in the World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Rhodes International Open \"Summer Cup\" 2023"
       },
       {
-         "description" : "The FIDE World Cup is coming to an end. One of the most exciting events in the chess calendar, it features an open section and a women's section, with spots in the Candidates up for grabs in both events. The ever-curious GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five instructive endgames from the women's category! | Pictured: Divya Deshmukh | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-endgames-women",
-         "pubDate" : "Sun, 20 Aug 2023 11:45:00 +0100",
-         "title" : "Notable endgames from the Women's World Cup"
-      },
-      {
          "description" : "Eighty-three wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2023/08/20/cfc-responds-to-the-fide-ban/",
          "pubDate" : "Sun, 20 Aug 2023 00:00:00 +0000",
          "title" : "CFC Response to the FIDE Ban on Transgender Women Competing in Women's Events"
-      },
-      {
-         "description" : "Magnus Carlsen took the lead in his semifinal match against Nijat Abasov after winning an absolutely thrilling game with the white pieces. In the other semi, Praggnanandhaa was under pressure throughout the game but managed to hold Fabiano Caruana to a draw. Meanwhile, the first game of the final in the women's section finished drawn, unlike what happened in the match for third place, where Anna Muzychuk showed great technique to beat Tan Zhongyi with white. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d1",
-         "pubDate" : "Sun, 20 Aug 2023 00:25:00 +0100",
-         "title" : "World Cup: Carlsen wins wild game, Abasov misses huge chance"
       },
       {
          "description" : "After surviving 12 games of classical games against some of the world&#39;s best players without a single loss, GM Nijat Abasov finally fell at the hands of GM Magnus Carlsen on Saturday at the 2023 FIDE World Cup. Though the world number one secured ...",
