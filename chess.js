@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Greek Team Championship is taking place from 25&#x2013;30 August 2023 in Athens. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of 34 teams. Chessdom.com will daily follow the live []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/greek-team-championship-2023/",
+         "pubDate" : "Sun, 27 Aug 2023 14:34:32 +0000",
+         "title" : "Greek Team Championship 2023"
+      },
+      {
+         "description" : "The Greek Team Championship is taking place from 25&#x2013;30 August 2023 in Athens. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of 34 teams. Parallel : Niter&#xF3;i Open / Ottakring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/greek-team-championship-2023-live/",
+         "pubDate" : "Sun, 27 Aug 2023 14:20:00 +0000",
+         "title" : "Greek Team Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 140th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-140-chess-history-in-a-nutshell-22",
+         "pubDate" : "Sun, 27 Aug 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 140: Chess history in a nutshell (22)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103107863.cms\" />The stunning progress of teen prodigies R Praggnanandhaa and D Gukesh in international chess has encouraged several parents to consider the sport as a serious 'career option' for their children. Praggnanandhaa caught the imagination of the country when he reached the final of the FIDE World Cup after a sterling run through the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/minimum-investment-deep-dedication-chess-now-offers-a-workable-career-path-for-children/articleshow/103107863.cms",
+         "pubDate" : "Sun, 27 Aug 2023 13:31:29 +0000",
+         "title" : "Minimum investment, deep dedication: Chess now offers a workable career path"
+      },
+      {
+         "description" : " The international chess calendar is becoming increasingly crowded, with one event finishing and another starting almost immediately. The World Cup finished late last week, and a number of players headed off to Germany to play the newly created World Rapid Teams Championship. It looks as though anyone could enter a team, and while there are some incredibly strong teams at the top, there are a number of club teams at the tail end of the field. Sitting somewhere in the middle is a team representing the FIDE Management Board, containing 4 GM's an IM, one WFM, and the FIDE President as the reserve player. He has only played 1 game but has a 100% score. He is listed on the team sheet as a FID pla",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/word-teams-rapid.html",
+         "pubDate" : "Sun, 27 Aug 2023 12:59:00 +0000",
+         "title" : "Word Teams Rapid"
+      },
+      {
          "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
          "pubDate" : "Sun, 27 Aug 2023 13:15:00 +0100",
          "title" : "World Rapid Team Championship - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2611",
+         "pubDate" : "Sun, 27 Aug 2023 11:51:26 +0000",
+         "title" : "Sethuraman wins Indian Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103103469.cms\" />All India Chess Federation (AICF) president Sanjay Kapoor said Indian chess has entered the \"golden era\" and the country will have over a hundred Grandmasters within two years.",
@@ -34,6 +82,38 @@ news_feed (
          "title" : "Sethuraman National Champion"
       },
       {
+         "description" : "The San Christobal de la Laguna is taking place from 26 August to 2 September 2023 in San Crist&#xF3;bal de La Laguna, Tenerife, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Fernando Peralta, Tomas Sosa, Merab Gagunashvili, Bojan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023/",
+         "pubDate" : "Sun, 27 Aug 2023 05:51:00 +0000",
+         "title" : "San Christobal de la Laguna 2023"
+      },
+      {
+         "description" : "The Carballo Open 2023 takes place August 25-September 1, 2023, in Carballo, Spain. The format is a nine-round Swiss. The time control is 90 minutes for the entire game plus a 30-second increment starting on move one. In the tournament will participate Neuris Delgado Ramirez, Aleksa Strikovic, Lennis Martinez Ramirez, Vladimir Petkov, Arian Gonzalez Perez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carballo-open-2023-live/",
+         "pubDate" : "Sun, 27 Aug 2023 05:04:00 +0000",
+         "title" : "Carballo Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Carballo Open 2023 takes place August 25-September 1, 2023, in Carballo, Spain. The format is a nine-round Swiss. The time control is 90 minutes for the entire game plus a 30-second increment starting on move one. In the tournament will participate Neuris Delgado Ramirez, Aleksa Strikovic, Lennis Martinez Ramirez, Vladimir Petkov, Arian Gonzalez Perez, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carballo-open-2023/",
+         "pubDate" : "Sun, 27 Aug 2023 04:42:00 +0000",
+         "title" : "Carballo Open 2023"
+      },
+      {
+         "description" : "The San Christobal de la Laguna is taking place from 26 August to 2 September 2023 in San Crist&#xF3;bal de La Laguna, Tenerife, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Fernando Peralta, Tomas Sosa, Merab Gagunashvili, Bojan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023-live/",
+         "pubDate" : "Sun, 27 Aug 2023 03:30:00 +0000",
+         "title" : "San Christobal de la Laguna 2023 - LIVE"
+      },
+      {
          "description" : "The first edition of the World Rapid Team Championship kicked off on Saturday in D&uuml;sseldorf. Amid a relaxed environment, a few of the strongest GMs in the field suffered upsets. After the first four rounds, WR Chess, Wadim Rosenstein's team, is the only squad with a perfect 8/8 score. Ian Nepomniachtchi was the strongest performer in the leading team, as he beat four lower-rated opponents in a row. | Pictured: The Chess Pensioners | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +122,44 @@ news_feed (
          "title" : "D&uuml;sseldorf: The fun begins, WR Chess perfect after four rounds"
       },
       {
+         "description" : "The Ottakring Open is taking place from 26 August to 3 September 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Evgeny:Romanov, Nikita Meshkovs, Felix Blohberger, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ottakring-open-2023-live/",
+         "pubDate" : "Sun, 27 Aug 2023 02:38:00 +0000",
+         "title" : "Ottakring Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Ottakring Open is taking place from 26 August to 3 September 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Evgeny:Romanov, Nikita Meshkovs, Felix Blohberger, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ottakring-open-2023/",
+         "pubDate" : "Sun, 27 Aug 2023 02:18:00 +0000",
+         "title" : "Ottakring Open 2023"
+      },
+      {
          "description" : "WR Chess, led by GM Wesley So, rose to clear first on&#38;nbsp;day one of the World Rapid Team Championship 2023, winning all of their matches so far. The top seed, GM Viswanathan Anand&#39;s Freedom, had a rocky fourth round, nearly losing to GM Pental...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-1",
          "pubDate" : "Sat, 26 Aug 2023 19:12:00 -0700",
          "title" : "Powerhouse WR Chess Takes Early Lead"
+      },
+      {
+         "description" : "The Niter&#xF3;i Open is taking place from 4&#x2013;10 September 2023 in Niter&#xF3;i, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier,&#xA0;Neuris Delgado Ramirez, Krikor Sevag&#xA0;Mekhitarian, Renato R.&#xA0;Quintiliano Pinto, Evandro Amorim Barbosa, Diego Rafael&#xA0;Di Berardino, Victor&#xA0;Shumyatsky, Yago []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niteroi-open-2023-live/",
+         "pubDate" : "Sun, 27 Aug 2023 01:59:00 +0000",
+         "title" : "Niter&oacute;i Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Niter&#xF3;i Open is taking place from 4&#x2013;10 September 2023 in Niter&#xF3;i, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier,&#xA0;Neuris Delgado Ramirez, Krikor Sevag&#xA0;Mekhitarian, Renato R.&#xA0;Quintiliano Pinto, Evandro Amorim Barbosa, Diego Rafael&#xA0;Di Berardino, Victor&#xA0;Shumyatsky, Yago []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niteroi-open-2023/",
+         "pubDate" : "Sun, 27 Aug 2023 01:41:00 +0000",
+         "title" : "Niter&oacute;i Open 2023"
       },
       {
          "description" : "GM Daniel Naroditsky finished ahead of GMs Hikaru Nakamura and Andrew Tang in Saturday&#39;s Bullet Brawl after scoring 70 wins en route to amassing a 275 score. Following a loss to Nakamura in his first game, Naroditsky ran rampant and procured a 26-...",
@@ -658,14 +770,6 @@ news_feed (
          "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102946593.cms\" />Not totally surprising that a person named Praggnanandhaa (let's call him Prag henceforth) is giving joy to millions of chess followers, majority of them Indians, through his imagination, intelligence and giant-killing run in the World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-the-knight-who-will-be-the-king/articleshow/102946593.cms",
-         "pubDate" : "Tue, 22 Aug 2023 11:23:56 +0000",
-         "title" : "India's new chess star Praggnanandhaa: The knight who will be king"
-      },
-      {
          "description" : "EU Youth Chess Championship 2023 is underway. The level of the event is very good in category U8 is leading Atanas Taskov (BUL, 6 points out of 6 rounds!), in U10 with 5,5 points Vladimir Sofronie (ROU), in U12 Alexandru Ioan Constantinoiu (ROU, 6 points!) and in U14 Louis Auribault (FRA, 5,5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Henri Rouanet (FRA), []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -794,60 +898,12 @@ news_feed (
          "title" : "Chess Sets Are the Real Deal"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 139th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-139-chess-history-in-a-nutshell-21",
-         "pubDate" : "Sun, 20 Aug 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 139: Chess history in a nutshell (21)"
-      },
-      {
          "description" : " 48 years ago, my late friend Mike Fox and I were discussing starting a junior chess club. This would become Richmond Junior Chess Club, which is still going strong today, although I no longer have any connection with it. If you're in my part of the world and are looking for a professionally run centre <a href=\"https://chessimprover.com/a-new-chess-club-for-children/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A New Chess Club for Children\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-new-chess-club-for-children/\">A New Chess Club for Children</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-new-chess-club-for-children/",
          "pubDate" : "Sun, 20 Aug 2023 12:27:49 +0000",
          "title" : "A New Chess Club for Children"
-      },
-      {
-         "description" : "The Manchester Summer Congress &#124; Harry Lamb Memorial is taking place August 18-20, 2023 in Horwich, England. Players receive 110 minutes for the entire game, plus a 10-second increment starting from move one. It is a 5-round Swiss tournament with participation of Bogdan Lalic, Paul Macklin, Edward Jackson, Mike J Surtees, Keith C Arkell, Sean []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/manchester-summer-congress-harry-lamb-memorial-live/",
-         "pubDate" : "Sun, 20 Aug 2023 11:56:34 +0000",
-         "title" : "Manchester Summer Congress | Harry Lamb Memorial - LIVE"
-      },
-      {
-         "description" : "The Indian Championship is taking place from 16&#x2013;26 August 2023 in Pune, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of S.P.&#xA0;Sethuraman, Vignesh N R, Deep&#xA0;Sengupta, Guha&#xA0;Mitrabha,&#xA0;Neelash Saha, Abhimanyu&#xA0;Puranik, etc. FIDE World Cup round 1/2 : Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/indian-championship-2023-live/",
-         "pubDate" : "Sun, 20 Aug 2023 11:14:57 +0000",
-         "title" : "Indian Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Indian Championship is taking place from 16&#x2013;26 August 2023 in Pune, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament with participation of S.P.&#xA0;Sethuraman, Vignesh N R, Deep&#xA0;Sengupta, Guha&#xA0;Mitrabha,&#xA0;Neelash Saha, Abhimanyu&#xA0;Puranik, etc.Chessdom.com will daily follow the live games. FIDE World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/indian-championship-2023/",
-         "pubDate" : "Sun, 20 Aug 2023 11:12:32 +0000",
-         "title" : "Indian Championship 2023"
-      },
-      {
-         "description" : "The 2023 &#8220;Summer Cup&#8221; tournament takes place in Rhodes, Greece, from 21-29 August. The event is a 9-round Swiss tournament with a time control of 90&#8242; for the entire game and an increment of 30&#8243; per move. The top ten seeds are Gergely Antal, Peter&#xA0;Prohaszka, Angelo&#xA0;Damia, Leonardo&#xA0;Loiacono, Michiel&#xA0;Van Wissen, Martin&#xA0;Roobol, Jolanta&#xA0;Zawadzka, Pedro Gil Ferreira Da&#xA0;Silva, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rhodes-international-open-summer-cup-2023-live/",
-         "pubDate" : "Sun, 20 Aug 2023 10:50:48 +0000",
-         "title" : "Rhodes International Open \"Summer Cup\" 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 &#8220;Summer Cup&#8221; tournament takes place in Rhodes, Greece, from 21-29 August. The event is a 9-round Swiss tournament with a time control of 90&#8242; for the entire game and an increment of 30&#8243; per move. The top ten seeds are Gergely Antal, Peter&#xA0;Prohaszka, Angelo&#xA0;Damia, Leonardo&#xA0;Loiacono, Michiel&#xA0;Van Wissen, Martin&#xA0;Roobol, Jolanta&#xA0;Zawadzka, Pedro Gil Ferreira Da&#xA0;Silva, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rhodes-international-open-summer-cup-2023/",
-         "pubDate" : "Sun, 20 Aug 2023 10:48:17 +0000",
-         "title" : "Rhodes International Open \"Summer Cup\" 2023"
       },
       {
          "description" : "Eighty-three wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-pla...",
@@ -888,38 +944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2595",
          "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
-      },
-      {
-         "description" : "Fabiano Caruana Praggnanandhaa R is semifinal game of 2023 FIDE World Cup. The other semifinal game is Magnus Carlsen Nijat Abasov . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Anna Muzychuk Zhongyi Tan The 2023 FIDE World Cup is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-praggnanandhaa-r-fide-world-cup-2023-1-2-final-live/",
-         "pubDate" : "Sat, 19 Aug 2023 12:46:05 +0000",
-         "title" : "Fabiano Caruana - Praggnanandhaa R, FIDE World Cup 2023 1/2 final - LIVE"
-      },
-      {
-         "description" : "Magnus Carlsen Nijat Abasov is semifinal game of 2023 FIDE World Cup. The other semifinal game is Fabiano Caruana Praggnanandhaa R . FIDE Women's World Cup round 1/2 final : Aleksandra Goryachkina Nurgyul SalimovaFIDE Women's World Cup third place game : Anna Muzychuk Zhongyi Tan The 2023 FIDE World Cup is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-nijat-abasov-fide-world-cup-2023-1-2-final-live/",
-         "pubDate" : "Sat, 19 Aug 2023 12:40:22 +0000",
-         "title" : "Magnus Carlsen - Nijat Abasov, FIDE World Cup 2023 1/2 final - LIVE"
-      },
-      {
-         "description" : "Anna Muzychuk Zhongyi Tan is a game for the third place of 2023 FIDE Women&#x2019;s World Cup. while in the big final Nurgyul Salimova will face Aleksandra Goryachkina. FIDE World Cup round 1/2 : Magnus Carlsen Nijat Abasov / Fabiano Caruana Praggnanandhaa R The 2023 FIDE World Cup is a 206-player knockout []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-muzychuk-zhongyi-tan-fide-womens-world-cup-2023-third-palce-match-live/",
-         "pubDate" : "Sat, 19 Aug 2023 12:32:11 +0000",
-         "title" : "Anna Muzychuk - Zhongyi Tan, FIDE Women's World Cup 2023 third palce match - LIVE"
-      },
-      {
-         "description" : "Aleksandra Goryachkina Nurgyul Salimova is the big final of the 2023 FIDE Women&#x2019;s World Cup. Nurgyul Salimova won against Anna Muzychuk with 3,5 2,5 after two tie-breaks, while Aleksandra Goryachkina qualified for the final after 1,5-0,5 won against Zhongyi Tan.You can also see the game for third place : Anna Muzychuk Zhongyi []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-nurgyul-salimova-fide-womens-world-cup-2023-final-live/",
-         "pubDate" : "Sat, 19 Aug 2023 12:26:20 +0000",
-         "title" : "Aleksandra Goryachkina - Nurgyul Salimova, FIDE Women's World Cup 2023 final - LIVE"
       },
       {
          "description" : "Chris Ward's series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
@@ -1346,14 +1370,6 @@ news_feed (
          "title" : "The Rambling Rook (2)"
       },
       {
-         "description" : "The German Women's Championship 2023 is taking place from 14&#x2013;20 August 2023 in Ostfildern. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Kateryna Dolzhykova, Lara Schulze, Carmen Voicu-Jagodzinsky, Annemarie Meier, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-womens-championship-2023-live/",
-         "pubDate" : "Tue, 15 Aug 2023 11:58:00 +0000",
-         "title" : "German Women's Championship 2023 - LIVE"
-      },
-      {
          "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html",
          "pubDate" : "Sun, 06 Aug 2023 15:45:00 +0000",
          "title" : "Dachshunds Play Chess"
-      },
-      {
-         "description" : " <b>2023 ACT Women's and Girls' Chess Championship - 10 September</b> 7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List) Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am Lunch Break 1pm-1:30pm Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm Prizes - 1st $250 2nd $125 3rd $75 Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10 Max. two half-point byes available for Rounds 1-4. Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free. + Novices event for unrated players - Free entry with medals for 1st, 2nd and 3rd (Same schedule as Championship) Entries close Saturday 5pm ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/2023-act-womens-and-girls-chess.html",
-         "pubDate" : "Sun, 06 Aug 2023 12:32:00 +0000",
-         "title" : "2023 ACT Women's and Girls Chess Championship"
       }
    ]
 }
