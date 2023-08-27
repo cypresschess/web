@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first edition of the World Rapid Team Championship kicked off on Saturday in D&uuml;sseldorf. Amid a relaxed environment, a few of the strongest GMs in the field suffered upsets. After the first four rounds, WR Chess, Wadim Rosenstein's team, is the only squad with a perfect 8/8 score. Ian Nepomniachtchi was the strongest performer in the leading team, as he beat four lower-rated opponents in a row. | Pictured: The Chess Pensioners | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d1",
+         "pubDate" : "Sun, 27 Aug 2023 04:15:00 +0100",
+         "title" : "D&uuml;sseldorf: The fun begins, WR Chess perfect after four rounds"
+      },
+      {
+         "description" : "WR Chess, led by GM Wesley So, rose to clear first on&#38;nbsp;day one of the World Rapid Team Championship 2023, winning all of their matches so far. The top seed, GM Viswanathan Anand&#39;s Freedom, had a rocky fourth round, nearly losing to GM Pental...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-1",
+         "pubDate" : "Sat, 26 Aug 2023 19:12:01 -0700",
+         "title" : "Powerhouse WR Chess Takes Early Lead"
+      },
+      {
+         "description" : "GM Daniel Naroditsky finished ahead of GMs Hikaru Nakamura and Andrew Tang in Saturday&#39;s Bullet Brawl after scoring 70 wins en route to amassing a 275 score. Following a loss to Nakamura in his first game, Naroditsky ran rampant and procured a 26-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-26-2023",
+         "pubDate" : "Sat, 26 Aug 2023 18:07:50 -0700",
+         "title" : "Narodistky Claims 4th Bullet Brawl Title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "FIDE World Rapid Team Championship: WR Chess on top after four rounds"
       },
       {
-         "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
-         "pubDate" : "Sat, 26 Aug 2023 13:15:00 +0100",
-         "title" : "World Rapid Team Championship - Live!"
+         "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-team-championship-2023",
+         "pubDate" : "Sun, 27 Aug 2023 01:28:00 +0400",
+         "title" : "World Rapid Team Championship 2023 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103089136.cms\" />The Indian men's chess team, including World Cup silver medalist Rameshbabu Praggnanandhaa and three quarter-finalists, will have a four-day tactical camp in Kolkata starting on August 30. The Hangzhou-bound squad includes Grandmasters Vidit Gujarathi, Arjun Erigaisi, R Gukesh, and veteran Pentala Harikrishna, led by head coach Boris Gelfand and assistant coaches Srinath Narayanan and Vaibhav Suri.",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "German Women's Championship 2023 - LIVE"
       },
       {
-         "description" : "Chess.com&#38;rsquo;s flagship Speed Chess Championship presented by Coinbase, the stellar event to find the world&#38;rsquo;s top player over fast time controls, will kick off next month with GM Hikaru Nakamura gunning for an incredible sixth title in a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-and-nakamuras-rivalry-returns-for-2023-speed-chess-championship-presented-by-coinbase",
-         "pubDate" : "Tue, 15 Aug 2023 04:58:00 -0700",
-         "title" : "Nakamura And Carlsen's Rivalry Returns For 2023 Speed Chess Championship Presented By Coinbase"
-      },
-      {
          "description" : "Gukesh, Praggnanandhaa, Erigaisi and Vidit have made it 4 Indians out of the 8 men's quarterfinalists. Meanwhile, Harika lost her quarterfinal match on the women's side.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1336,14 +1352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2581",
          "pubDate" : "Mon, 14 Aug 2023 23:47:36 +0000",
          "title" : "FIDE World Youth Olympiad 2023: Day 2 Recap"
-      },
-      {
-         "description" : "GM Vidit Gujrathi outplayed number-four seed GM Ian Nepomniachtchi in round-five tiebreaks to reach the quarterfinals of the 2023 FIDE World Cup, so that half of the remaining field now hails from the rising chess powerhouse of India. IM Nurgyul...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-5-3",
-         "pubDate" : "Mon, 14 Aug 2023 15:53:00 -0700",
-         "title" : "Vidit Beats Nepomniachtchi As 4 Indian Players Reach World Cup Quarterfinals"
       },
       {
          "description" : "",
