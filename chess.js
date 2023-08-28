@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Speed Chess Championship is sprinting towards us, with only a week left before the main event begins! Sixteen of the game&#39;s quickest thinkers will compete to see who can make it over the finish line and be crowned as this year&#39;s Speed Che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/scc-bracket-contest-2023",
+         "pubDate" : "Mon, 28 Aug 2023 12:19:20 -0700",
+         "title" : "The 2023 Speed Chess Championship Prediction Bracket Is Here"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2615",
+         "pubDate" : "Mon, 28 Aug 2023 19:08:22 +0000",
+         "title" : "5th FIDE World Championship for People with Disabilities: Tazbir and Egeman win titles "
+      },
+      {
+         "description" : "After having the lawsuit leveraged by Hans Niemann against his accusers being announced as dismissed, many thought this was the end of the debacle, but it was not so. Only the anti-trust charges had been judged upon, and a new round of litigation in state court was immediately promised. Discussions were undertaken and an out-of-court agreement was reached. | Photo: Lennart Ootes/Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-com-and-hans-niemann-reach-agreement",
+         "pubDate" : "Mon, 28 Aug 2023 19:40:00 +0100",
+         "title" : "Chess.com and Hans Niemann reach agreement"
+      },
+      {
+         "description" : "In the Endgame Magic Show #249 Karsten M&uuml;ller and Arne K&auml;hler look at endgame highlights from the tournament in Biel, with particular attention to endgames, in which bishops fight against knights and knights against bishops - often an interesting battle. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-249-bishops-vs-knights",
+         "pubDate" : "Mon, 28 Aug 2023 18:30:00 +0100",
+         "title" : "Endgame Magic #249: Bishops vs knights"
+      },
+      {
+         "description" : "Chess has been given a major boost in England after the U.K. government announced a combined package worth almost &#38;pound;1 million ($1.25 million) to fund the English Chess Federation (ECF). The funding will support children playing chess and impr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uk-government-announces-1-25m-dollar-investment-to-transform-english-chess",
+         "pubDate" : "Mon, 28 Aug 2023 09:56:23 -0700",
+         "title" : "UK Government Announces 1.25M Dollar Investment To Transform English Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2614",
+         "pubDate" : "Mon, 28 Aug 2023 16:41:27 +0000",
+         "title" : "FIDE World Senior Championship 2023: Registration deadline extended"
+      },
+      {
          "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -231,7 +279,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-26-2023",
          "pubDate" : "Sat, 26 Aug 2023 18:07:50 -0700",
-         "title" : "Narodistky Claims 4th Bullet Brawl Title"
+         "title" : "Naroditsky Claims 4th Bullet Brawl Title"
       },
       {
          "description" : "",
@@ -906,14 +954,6 @@ news_feed (
          "title" : "Response to FIDE's new trans regulations"
       },
       {
-         "description" : "In today's episode, Honorata shows us how an attack is set for success if all pieces work together. Emanuel Lasker's game was considered one of the most beautiful attacks in chess history, and you are about to find out why. We want to point out that Svitlana Demchenko also made an episode about this sacrifice, which we added to our links - so you can watch two experts analysing the same game!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lasker-s-legendary-double-sacrifice-honorata-s-harmony",
-         "pubDate" : "Mon, 21 Aug 2023 15:00:00 +0100",
-         "title" : "Lasker's legendary double sacrifice - Honorata's Harmony"
-      },
-      {
          "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -928,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2597",
          "pubDate" : "Sun, 20 Aug 2023 20:29:12 +0000",
          "title" : "FIDE World Cup Round 7 Day 2: Anna Muzychuk wins bronze "
-      },
-      {
-         "description" : "This week's column happens to be the two hundredth in a series stemming back to April 2016. This time, in honour of the round number, I thought we might span the centuries with some games from round about 1823. I'm no chess historian, so make no particular claim for the games I've chosen, but they do illustrate some aspects of how the game has developed! | Pictured: Alexander Alekhine with his wife and Efim Bogoljubow | Photo: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-200",
-         "pubDate" : "Sun, 20 Aug 2023 20:00:00 +0100",
-         "title" : "Jon Speelman: Over the centuries"
       },
       {
          "description" : "",
@@ -1258,28 +1290,12 @@ news_feed (
          "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
       },
       {
-         "description" : "Chess.com and Lichess will halt their relationships with St. Louis Chess Club and no longer provide support for or cover any of their tournaments in the wake of allegations of sexual misconduct, The Wall Street Journal revealed on Wednesday. In ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wsj-chess-servers-end-support-for-saint-louis-tournaments",
-         "pubDate" : "Wed, 16 Aug 2023 11:52:50 -0700",
-         "title" : "WSJ: Chess Platforms Halt Relationships With Saint Louis Chess Club"
-      },
-      {
          "description" : "D Gukesh and Vidit Gujrathi went down to Magnus Carlsen and Nijat Abasov respectively on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
          "pubDate" : "Wed, 16 Aug 2023 12:58:23 -0500",
          "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
-      },
-      {
-         "description" : "GM Alireza Firouzja beat out GM Levon Aronian on tiebreaks in the early Titled Tuesday on August 15, before GM Aram Hakobyan won the late event with the first 10/11 score in two weeks. For both Firouzja and Hakobyan, it was their second Titled Tue...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-hakobyan-win-titled-tuesday-august-15-2023",
-         "pubDate" : "Wed, 16 Aug 2023 10:07:09 -0700",
-         "title" : "Firouzja Edges Out Aronian In Early Titled Tuesday"
       },
       {
          "description" : " The Chess Drum visited the Pan-Am Youth Chess Festival held in Chicago and was able to have a chat with FM Warren Elliott, part of the Jamaica delegation. During this brief discussion, he mentioned his reason for being at the event, the current state of chess in Jamaica, the future of Jamaican chess, and the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/\">Drum chats with FM Warren Elliott</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1720,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2566",
          "pubDate" : "Mon, 07 Aug 2023 22:26:08 +0000",
          "title" : "Istanbul ENKA High School (Turkey) and Velammal MHS Mogappair (India) win FIDE World Schools Team Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2565",
-         "pubDate" : "Mon, 07 Aug 2023 19:47:11 +0000",
-         "title" : "FIDE World Cup Round 3 Tiebreaks: A day of the underdogs"
       }
    ]
 }
