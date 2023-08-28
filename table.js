@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2023-08-26","160","<a href=http://www.uschess.org/msa/XtblMain.php?202308261892 target='_blank'>KLEIN BACK-TO-SCHOOL SCHOLASTIC</a>",
 "HOUSTON","2023-08-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202308261242 target='_blank'>CHESSPANDA08262023SATURDAY</a>",
 "CYPRESS","2023-08-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202308250952 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-08-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202308250832 target='_blank'>REBECCA CHESS CLUB QUADS AUGUST 25, 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-01-28","385","<a href=http://www.uschess.org/msa/XtblMain.php?202301281852 target='_blank'>23RD KLEIN WINTER SCHOLASTIC</a>",
 "CYPRESS","2023-01-27","24","<a href=http://www.uschess.org/msa/XtblMain.php?202301270242 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-01-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202301270222 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-01-27","4","<a href=http://www.uschess.org/msa/XtblMain.php?202301270172 target='_blank'>FBCC 2023 FREEZING POINT OPEN</a>",
 ]);
