@@ -63,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-2",
          "pubDate" : "Sun, 27 Aug 2023 18:19:00 -0700",
-         "title" : "Perfect Scores By Praggnanandhaa And Hou Make WR Chess Unstoppable"
+         "title" : "Perfect Scores By Praggnanandhaa, Hou Make WR Chess Unstoppable"
       },
       {
          "description" : "",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2565",
          "pubDate" : "Mon, 07 Aug 2023 19:47:11 +0000",
          "title" : "FIDE World Cup Round 3 Tiebreaks: A day of the underdogs"
-      },
-      {
-         "description" : " Today saw the North Canberra Secondary Zone event for 2023. This followed on from the South Canberra Zone held earlier in the year. The event was won by Radford College with 23.5/28, half a point ahead of the Lyneham High No. 1 team. The 3rd place team was the Lyneham High No 2 team. The most remarkable thing about todays event was that there were 170 players taking part, which I believe is the largest school event ever held in Canberra. With the South Canberra Zone attracting 91 players, this is almost 1% of the total secondary school enrolment playing in this years interschool event. The other important fact to note was the number of high-ish rated players taking part. The top 10 seeds we",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/secondary-chess-in-canberra-2023.html",
-         "pubDate" : "Mon, 07 Aug 2023 13:03:00 +0000",
-         "title" : "Secondary Chess in Canberra 2023"
       }
    ]
 }
