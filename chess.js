@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two thirds into the first edition of the World Rapid Team Championship, WR Chess continues its dominating run. The team has a perfect 16/16 score after eight rounds, with Ian Nepomniachtchi, Jan-Krzysztof Duda, Praggnanandhaa and Hou Yifan (pictured) excelling on their respective boards. Freedom, the squad with the highest average rating, stands in sole second place 3 match points behind the leaders. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d2",
+         "pubDate" : "Mon, 28 Aug 2023 03:20:00 +0100",
+         "title" : "D&uuml;sseldorf: WR Chess beats direct contenders, leads"
+      },
+      {
+         "description" : "After two days, WR Chess soars ahead of the field at the World Rapid Team Championship. Led by perfect scores from GMs&#38;nbsp;Praggnanandhaa Rameshbabu and Hou Yifan, this star-studded team has won eight matches in a row to gain a three-point margin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-2",
+         "pubDate" : "Sun, 27 Aug 2023 18:19:00 -0700",
+         "title" : "Perfect Scores By Praggnanandhaa And Hou Make WR Chess Unstoppable"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/word-teams-rapid.html",
          "pubDate" : "Sun, 27 Aug 2023 12:59:00 +0000",
          "title" : "Word Teams Rapid"
-      },
-      {
-         "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
-         "pubDate" : "Sun, 27 Aug 2023 13:15:00 +0100",
-         "title" : "World Rapid Team Championship - Live!"
       },
       {
          "description" : "",
@@ -1330,14 +1338,6 @@ news_feed (
          "title" : "Colorful vibes at Pan-American Youth Chess Festival"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Arjun Erigaisi won in their typical styles against GM Dommaraju Gukesh and GM Rameshbabu Praggnanandhaa in the first game of the quarterfinals of the 2023 FIDE World Cup Open section. While Carlsen outwitted his young oppo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-1",
-         "pubDate" : "Tue, 15 Aug 2023 17:32:00 -0700",
-         "title" : "Carlsen, Arjun, Goryachkina Score In Day Of Big Fights And Black Wins"
-      },
-      {
          "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\">2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-july-2023/",
          "pubDate" : "Mon, 07 Aug 2023 08:10:27 +0000",
          "title" : "ECU E-Magazine July 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-7",
-         "pubDate" : "Sun, 06 Aug 2023 23:58:35 +0000",
-         "title" : "2023 Summer Chess Classic: Round 7"
       }
    ]
 }
