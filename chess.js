@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
+         "pubDate" : "Mon, 28 Aug 2023 13:15:00 +0100",
+         "title" : "World Rapid Team Championship - Live!"
+      },
+      {
+         "description" : "New &pound;1 million package will support children attending schools in disadvantaged areas across England to learn and play chess, improve visibility and availability of the game and fund elite playing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/major-investment-to-transform-future-of-english-chess-announced",
+         "pubDate" : "Mon, 28 Aug 2023 12:45:00 +0100",
+         "title" : "Major investment to transform future of English chess announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2613",
+         "pubDate" : "Mon, 28 Aug 2023 10:56:50 +0000",
+         "title" : "French Championship: Yannick Gozzoli and Mitra Hejazipour clinch titles"
+      },
+      {
+         "description" : " If you had a friend or a pupil who was just starting to play competitive chess, what openings would you advise them to play? To the best of my understanding, the old Soviet system required you to start with gambit play. You'd choose the King's Gambit with white, and meet 1. e4 with <a href=\"https://chessimprover.com/opening-selection/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Selection\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-selection/\">Opening Selection</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/opening-selection/",
+         "pubDate" : "Mon, 28 Aug 2023 09:09:33 +0000",
+         "title" : "Opening Selection"
+      },
+      {
+         "description" : " For the next few weeks, we're going to start looking at some basic endgame positions involving pawns. Our starting point will be the classic King and pawn against lone King. For beginners, this is an extremely important starting point for their endgame studies. Having just a single pawn while your opponent has no pawns is <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred and Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/\">A Foundation for Beginners One Hundred and Two</a> appe",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/",
+         "pubDate" : "Mon, 28 Aug 2023 09:01:33 +0000",
+         "title" : "A Foundation for Beginners One Hundred and Two"
+      },
+      {
+         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
+         "pubDate" : "Mon, 28 Aug 2023 09:34:42 +0100",
+         "title" : "Kasim: Play the French Defence"
+      },
+      {
          "description" : "Two thirds into the first edition of the World Rapid Team Championship, WR Chess continues its dominating run. The team has a perfect 16/16 score after eight rounds, with Ian Nepomniachtchi, Jan-Krzysztof Duda, Praggnanandhaa and Hou Yifan (pictured) excelling on their respective boards. Freedom, the squad with the highest average rating, stands in sole second place 3 match points behind the leaders. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -650,14 +698,6 @@ news_feed (
          "title" : "Chess WC Final: Praggnanandhaa holds Carlsen to draw in Game 2"
       },
       {
-         "description" : "This week you can save a whopping 160 Euros - and increase your understanding of chess in the progress! In the ChessBase MasterClass, leading experts and trainers reveal the secrets of the world's greatest chess players. We are offering you the full package or 15 video courses for just €199.90 (instead of the list price €359.90). You can also get the three-part Ruy Lopez by top grandmaster Fabiano Caruana for the Summer Special price of just €49.90 (instead of €79.90). Don't miss these massive savings - only this week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-1-15-and-fabio",
-         "pubDate" : "Wed, 23 Aug 2023 12:40:00 +0100",
-         "title" : "Master Class 1-15 and Fabiano!"
-      },
-      {
          "description" : "The first game of the FIDE World Cup final ended drawn, as Praggnanandhaa could not get much of an advantage with the white pieces against Magnus Carlsen. In the match for third place, on the other hand, underdog Nijat Abasov managed to upset Fabiano Caruana, after the latter blundered in a sharp middlegame emerging from a Catalan Opening. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -960,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2595",
          "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
-      },
-      {
-         "description" : "Chris Ward's series takes a look at Black's most aggressive response to 1.e4, from both a principled and theoretical perspective. You can make use of his experience to brush up on your Sicilian Dragon during the closing months of summer. This week you can save twenty Euros and get the full package of all three parts for just €59.90! Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal",
-         "pubDate" : "Sat, 19 Aug 2023 13:05:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
          "description" : "Many chess players struggle with solving tactics, remembering opening lines, analyzing their losses, you name it. But some have difficulty with something seemingly super easy: taking a rest. In this article, I want to show you how important rest is for your health &#38; improvement and how you rest the right way. The Power of []",
@@ -1704,14 +1736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/secondary-chess-in-canberra-2023.html",
          "pubDate" : "Mon, 07 Aug 2023 13:03:00 +0000",
          "title" : "Secondary Chess in Canberra 2023"
-      },
-      {
-         "description" : "The ECU Magazine July 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The July 2023 edition of the ECU E-Magazine can be read online together with interactive links and videos through the following link, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-july-2023/",
-         "pubDate" : "Mon, 07 Aug 2023 08:10:27 +0000",
-         "title" : "ECU E-Magazine July 2023"
       }
    ]
 }
