@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The WR Chess team went into the third and final day of action at the first-ever World Rapid Team Championship with a 3-point lead and had little trouble keeping the top spot in the standings. Two wins and two draws were enough to get a clear victory. Freedom and Team MGD1 finished second and third respectively. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d3",
+         "pubDate" : "Tue, 29 Aug 2023 21:00:00",
+         "title" : "WR Chess becomes first World Rapid Team champion!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fischer Random chess, the world's most unpredictable variant, is back! Chess 9LX makes its return to the chess capital of America, Saint Louis, Mo. From September 8-10, ten players (listed below) will compete for a $150,000 prize fund. With 960 different starting positions, even the best in the world don't know what's coming! Featuring Garry Kasparov, Hikaru Nakamura, and returning champion Fabiano Caruana, this is an event you won't want to miss. Plus, see the \"Ultimate Moves\" team exhibition on September 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -98,6 +106,14 @@ news_feed (
          "title" : "Opposition"
       },
       {
+         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
+         "pubDate" : "Mon, 28 Aug 2023 22:15:00",
+         "title" : "Kasim: Play the French Defence"
+      },
+      {
          "description" : "After arriving from Baku and resting the first day, R Praggnanandhaa continued where he left off at the FIDE World Cup 2023. The sensational teenager scored four wins in-a-row for WR Chess at FIDE World Rapid Teams 2023. Meanwhile GM D Gukesh (Kompetenzakademie Allstars, 2629) faced the 14th world champion, GM Vladimir Kramnik (Chess Pensioners, 2739) for the first time in an over-the-board rated game. He made the most out of his opportunity and won comfortably. Impressions from D&uuml;sseldorf with videos by Sagar Shah.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/uk-government-announces-1-25m-dollar-investment-to-transform-english-chess",
          "pubDate" : "Mon, 28 Aug 2023 09:56:23",
          "title" : "UK Government Announces 1.25M Dollar Investment To Transform English Chess"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
-         "pubDate" : "Mon, 28 Aug 2023 09:34:42",
-         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : " If you had a friend or a pupil who was just starting to play competitive chess, what openings would you advise them to play? To the best of my understanding, the old Soviet system required you to start with gambit play. You'd choose the King's Gambit with white, and meet 1. e4 with <a href=\"https://chessimprover.com/opening-selection/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Selection\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-selection/\">Opening Selection</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -994,14 +1002,6 @@ news_feed (
          "title" : "Invite everyone to the party"
       },
       {
-         "description" : "Praggnanandhaa reached the final of the FIDE World Cup after knocking out Fabiano Caruana in tiebreaks. An incredibly level-headed teenager, Pragg thus confirmed his qualification to the Candidates Tournament. In the final, the Indian prodigy is set to face Magnus Carlsen, who got the better of local hero Nijat Abasov by a 1&frac12;-&frac12; score in the classical phase of their semifinal match. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d3",
-         "pubDate" : "Tue, 22 Aug 2023 01:20:00",
-         "title" : "World Cup: Pragg stuns Caruana, will face Carlsen in eye-catching final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-9",
          "pubDate" : "Wed, 09 Aug 2023 00:00:43",
          "title" : "2023 Summer Chess Classic: Round 9"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-70/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (70)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-70/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (70)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-70/",
-         "pubDate" : "Tue, 08 Aug 2023 20:13:24",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (70)"
       }
    ]
 }
