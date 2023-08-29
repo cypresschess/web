@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fischer Random chess, the world's most unpredictable variant, is back! Chess 9LX makes its return to the chess capital of America, Saint Louis, Mo. From September 8-10, ten players (listed below) will compete for a $150,000 prize fund. With 960 different starting positions, even the best in the world don't know what's coming! Featuring Garry Kasparov, Hikaru Nakamura, and returning champion Fabiano Caruana, this is an event you won't want to miss. Plus, see the \"Ultimate Moves\" team exhibition on September 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-promo",
+         "pubDate" : "Tue, 29 Aug 2023 18:24:05",
+         "title" : "2023 Chess 9LX | PROMO"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (roster below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.08<br /> USChessChamps.com ROUND 1 | 20 Min. Incr. 5 Sec. ROUND 2 | 20 Min. Incr. 5 Sec. ROUND 3 | 20 Min. Incr. 5 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-chess-9lx",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-1",
+         "pubDate" : "Tue, 29 Aug 2023 18:24:05",
+         "title" : "2023 Chess 9LX: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to learn from chess games played by strong players. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-master-games-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/go_oNXrjXrY.jpg?itok=hAvFwKh4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-master-games-beginner-breakdown",
+         "pubDate" : "Tue, 29 Aug 2023 18:24:05",
+         "title" : "Learn from Master Games | Beginner Breakdown"
+      },
+      {
          "description" : " The dispute between chess.com and Hans Neimann seems to have come to a sudden end, with both parties agreeing to 'move on'. chess.com have reinstated Neimann's access to the platform, and while they stand by the results of their previous investigations, are allowing Neimann to return with full access rights to the server, and to events they host. As an added bonus, Magnus Carlsen, who sparked the whole issue when he withdrew from the 2022 Sinquefeld Cup after losing to Neimann, has also stated that he is happy to play against Neimann if their paths cross in future events. My uneducated guess is no money changed hands as part of the resolution, although I assume both parties did run up some ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
