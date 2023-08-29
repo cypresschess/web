@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five-time World Chess Champion and World No.1 on the FIDE rating list GM Magnus Carlsen (NOR, 2835) emerged as the Winner of the FIDE World Chess Cup for the first time in his career! Magnus Carlsen won the event after defeating 18-year-old GM Praggnanandhaa R (IND, 2690) in the exciting finals. The first two classical games were concluded in a draw, and the Winner of the event got to be determined in the tiebreaks. Carlsen found his advantage in the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/magnus-carlsen-clinches-fide-world-chess-cup-2023/",
+         "pubDate" : "Tue, 29 Aug 2023 10:43:51",
+         "title" : "Magnus Carlsen clinches FIDE World Chess Cup 2023"
+      },
+      {
+         "description" : "The FIDE Women's World Chess Cup 2023 took place from 29th July to 22nd August in Baku, Azerbaijan, gathering 103 players who fought for the total prize fund of 676.250 USD and three qualification spots for the Women's Candidates Tournament 2024. GM Aleksandra Goryachkina (FIDE, 2557) emerged as the Winner of the event after defeating 20-year-old IM Nurgyul Salimova (BUL, 2409) in the thrilling final match. After both classical games finished in a draw, despite Salimova having the winning chances []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/aleksandra-goryachkina-wins-fide-womens-world-chess-cup-2023/",
+         "pubDate" : "Tue, 29 Aug 2023 10:43:33",
+         "title" : "Aleksandra Goryachkina wins FIDE Women's World Chess Cup 2023"
+      },
+      {
+         "description" : "The Chess Mind U18 is taking place from 2&#x2013;3 September 2023 in Rabat, Morocco. Players receive 45 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Roaa&#xA0;Laamim,&#xA0;Elachhab walid,&#xA0;Kozizi youssef,&#xA0;ELHARRAK AHMED, Youssef&#xA0;Elharrak,&#xA0;Chemaou lilya, etc. Parallel : Niter&#xF3;i Open / Ottakring Ope / Carballo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-mind-u18-live/",
+         "pubDate" : "Tue, 29 Aug 2023 10:38:55",
+         "title" : "Chess Mind U18 - LIVE"
+      },
+      {
+         "description" : "The Montseerat Open is a 9-round Swiss tournament taking place from 28 August to 2 September 2023 in Montserrat, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Parallel : Niter&#xF3;i Open / Ottakring Ope / Carballo Open 2023 / San Christobal de la Laguna &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/montserrat-open-2023-live/",
+         "pubDate" : "Tue, 29 Aug 2023 10:17:36",
+         "title" : "Montserrat Open 2023 - LIVE"
+      },
+      {
+         "description" : "Readers may remember when the Hans Niemann controversy broke out that the then world's richest man, Elon Musk (currently no.2), decided to dip into his vast fount of wisdom and offer his own explanation. But this was neither the first nor last time he would proffer opinions for the chess world, and has suggested ideas to revolutionize the millenary game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-is-too-simple-says-elon-musk",
+         "pubDate" : "Tue, 29 Aug 2023 10:15:00",
+         "title" : "\"Chess is too simple\", says Elon Musk"
+      },
+      {
+         "description" : "The Chess Mind U18 is taking place from 2&#x2013;3 September 2023 in Rabat, Morocco. Players receive 45 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Roaa&#xA0;Laamim,&#xA0;Elachhab walid,&#xA0;Kozizi youssef,&#xA0;ELHARRAK AHMED, Youssef&#xA0;Elharrak,&#xA0;Chemaou lilya, etc.Chessdom.com will daily follow the live games. Parallel : Niter&#xF3;i []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-mind-u18/",
+         "pubDate" : "Tue, 29 Aug 2023 10:11:00",
+         "title" : "Chess Mind U18"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It is good to review from time to time important lines such as the 8.Rb1 variation. If there is something you can bet on, it is that your opponents will <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\">Need sure",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/",
+         "pubDate" : "Tue, 29 Aug 2023 09:24:14",
+         "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition"
+      },
+      {
          "description" : "In pawn endings the opposition is crucial. In the diagrammed position White is a pawn down, but he can still save the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +114,7 @@ news_feed (
          "title" : "FIDE World Senior Championship 2023: Registration deadline extended"
       },
       {
-         "description" : "On the last day, WR Chess completed their phenomenal run at the World Rapid Team Championship, clinching first with a round to spare. It was truly a team victory as every member contributed, and several players turned in dazzling performances. G...",
+         "description" : "On the last day, WR Chess completed their phenomenal run at the World Rapid Team Championship, clinching first with a round to spare. It was truly a team victory as every member contributed, with several players turning in dazzling performances....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-3-wr-chess-wins",
@@ -152,6 +208,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-2",
          "pubDate" : "Sun, 27 Aug 2023 18:19:00",
          "title" : "Perfect Scores By Praggnanandhaa, Hou Make WR Chess Unstoppable"
+      },
+      {
+         "description" : "After so many years of posting on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), it finally occurred to me to ask the question, 'What is the difference between a sociologist and a historian?' Google pointed me to <A HREF=\"https://byjusexamprep.com/upsc-exam/difference-between-sociology-and-history\">Difference Between Sociology and History</A> (byjusexamprep.com), where I learned, <BLOCKQUOTE> The key difference between sociology and history is that sociology is a social science that focuses on the contemporary social environment. However, history deals with the past and examines previous societies. Sociology is a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/the-arab-chess-federation.html",
+         "pubDate" : "Sun, 27 Aug 2023 15:22:00",
+         "title" : "The Arab Chess Federation"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 140th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
@@ -272,30 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ottakring-open-2023-live/",
          "pubDate" : "Sun, 27 Aug 2023 02:38:00",
          "title" : "Ottakring Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Ottakring Open is taking place from 26 August to 3 September 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Evgeny:Romanov, Nikita Meshkovs, Felix Blohberger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ottakring-open-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 02:18:00",
-         "title" : "Ottakring Open 2023"
-      },
-      {
-         "description" : "The Niter&#xF3;i Open is taking place from 4&#x2013;10 September 2023 in Niter&#xF3;i, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier,&#xA0;Neuris Delgado Ramirez, Krikor Sevag&#xA0;Mekhitarian, Renato R.&#xA0;Quintiliano Pinto, Evandro Amorim Barbosa, Diego Rafael&#xA0;Di Berardino, Victor&#xA0;Shumyatsky, Yago []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niteroi-open-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 01:59:00",
-         "title" : "Niter&oacute;i Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Niter&#xF3;i Open is taking place from 4&#x2013;10 September 2023 in Niter&#xF3;i, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier,&#xA0;Neuris Delgado Ramirez, Krikor Sevag&#xA0;Mekhitarian, Renato R.&#xA0;Quintiliano Pinto, Evandro Amorim Barbosa, Diego Rafael&#xA0;Di Berardino, Victor&#xA0;Shumyatsky, Yago []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niteroi-open-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 01:41:00",
-         "title" : "Niter&oacute;i Open 2023"
       },
       {
          "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
@@ -936,14 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2598",
          "pubDate" : "Mon, 21 Aug 2023 19:58:08 +0000",
          "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
-      },
-      {
-         "description" : "In a move that is sure to cause a significant stir, FIDE announced that it would be setting restrictions on transgenders participating in official FIDE Women events, specifying that any such restrictions pertain exclusively to man to women transgenders. These regulations come into effect on August 21. See the statement and share your thoughts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-bans-transgenders-from-women-events",
-         "pubDate" : "Mon, 21 Aug 2023 17:35:00",
-         "title" : "FIDE bans transgenders from Women events"
       },
       {
          "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
