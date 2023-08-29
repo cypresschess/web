@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2023 Speed Chess Championship is sprinting towards us, with only a week left before the main event begins! Sixteen of the game&#39;s quickest thinkers will compete to see who can make it over the finish line and be crowned as this year&#39;s Speed Che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/scc-bracket-contest-2023",
-         "pubDate" : "Mon, 28 Aug 2023 12:19:20 -0700",
-         "title" : "The 2023 Speed Chess Championship Prediction Bracket Is Here"
+         "description" : "After arriving from Baku and resting the first day, R Praggnanandhaa continued where he left off at the FIDE World Cup 2023. The sensational teenager scored four wins in-a-row for WR Chess at FIDE World Rapid Teams 2023. Meanwhile GM D Gukesh (Kompetenzakademie Allstars, 2629) faced the 14th world champion, GM Vladimir Kramnik (Chess Pensioners, 2739) for the first time in an over-the-board rated game. He made the most out of his opportunity and won comfortably. Impressions from D&uuml;sseldorf with videos by Sagar Shah.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragg-started-with-4-0-impressions-from-duesseldorf",
+         "pubDate" : "Mon, 28 Aug 2023 22:00:00",
+         "title" : "Pragg started with 4-0 - Impressions from D&uuml;sseldorf"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2616",
+         "pubDate" : "Mon, 28 Aug 2023 21:51:19 +0000",
+         "title" : "WR Chess triumphs as inaugural FIDE World Rapid Team Champions"
+      },
+      {
+         "description" : "After having the lawsuit leveraged by Hans Niemann against his accusers being announced as dismissed, many thought this was the end of the debacle, but it was not so. Only the anti-trust charges had been judged upon, and a new round of litigation in state court was immediately promised. Discussions were undertaken and an out-of-court agreement was reached. | Photo: Lennart Ootes/Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-com-and-hans-niemann-reach-agreement",
+         "pubDate" : "Mon, 28 Aug 2023 19:40:00",
+         "title" : "Chess.com and Hans Niemann reach agreement"
       },
       {
          "description" : "",
@@ -18,28 +34,12 @@ news_feed (
          "title" : "5th FIDE World Championship for People with Disabilities: Tazbir and Egeman win titles "
       },
       {
-         "description" : "After having the lawsuit leveraged by Hans Niemann against his accusers being announced as dismissed, many thought this was the end of the debacle, but it was not so. Only the anti-trust charges had been judged upon, and a new round of litigation in state court was immediately promised. Discussions were undertaken and an out-of-court agreement was reached. | Photo: Lennart Ootes/Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-com-and-hans-niemann-reach-agreement",
-         "pubDate" : "Mon, 28 Aug 2023 19:40:00 +0100",
-         "title" : "Chess.com and Hans Niemann reach agreement"
-      },
-      {
          "description" : "In the Endgame Magic Show #249 Karsten M&uuml;ller and Arne K&auml;hler look at endgame highlights from the tournament in Biel, with particular attention to endgames, in which bishops fight against knights and knights against bishops - often an interesting battle. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-249-bishops-vs-knights",
-         "pubDate" : "Mon, 28 Aug 2023 18:30:00 +0100",
+         "pubDate" : "Mon, 28 Aug 2023 18:30:00",
          "title" : "Endgame Magic #249: Bishops vs knights"
-      },
-      {
-         "description" : "Chess has been given a major boost in England after the U.K. government announced a combined package worth almost &#38;pound;1 million ($1.25 million) to fund the English Chess Federation (ECF). The funding will support children playing chess and impr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/uk-government-announces-1-25m-dollar-investment-to-transform-english-chess",
-         "pubDate" : "Mon, 28 Aug 2023 09:56:23 -0700",
-         "title" : "UK Government Announces 1.25M Dollar Investment To Transform English Chess"
       },
       {
          "description" : "",
@@ -50,11 +50,19 @@ news_feed (
          "title" : "FIDE World Senior Championship 2023: Registration deadline extended"
       },
       {
+         "description" : "On the last day, WR Chess completed their phenomenal run at the World Rapid Team Championship, clinching first with a round to spare. It was truly a team victory as every member contributed, and several players turned in dazzling performances. G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-3-wr-chess-wins",
+         "pubDate" : "Mon, 28 Aug 2023 14:04:37",
+         "title" : "WR Chess Clinches Gold In Penultimate Round"
+      },
+      {
          "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
-         "pubDate" : "Mon, 28 Aug 2023 13:15:00 +0100",
+         "pubDate" : "Mon, 28 Aug 2023 13:15:00",
          "title" : "World Rapid Team Championship - Live!"
       },
       {
@@ -62,8 +70,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/major-investment-to-transform-future-of-english-chess-announced",
-         "pubDate" : "Mon, 28 Aug 2023 12:45:00 +0100",
+         "pubDate" : "Mon, 28 Aug 2023 12:45:00",
          "title" : "Major investment to transform future of English chess announced"
+      },
+      {
+         "description" : "The 2023 Speed Chess Championship is sprinting towards us, with only a week left before the main event begins! Sixteen of the game&#39;s quickest thinkers will compete to see who can make it over the finish line and be crowned as this year&#39;s Speed Che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/scc-bracket-contest-2023",
+         "pubDate" : "Mon, 28 Aug 2023 12:19:20",
+         "title" : "The 2023 Speed Chess Championship Prediction Bracket Is Here"
       },
       {
          "description" : "",
@@ -74,11 +90,27 @@ news_feed (
          "title" : "French Championship: Yannick Gozzoli and Mitra Hejazipour clinch titles"
       },
       {
+         "description" : "Chess has been given a major boost in England after the U.K. government announced a combined package worth almost &#38;pound;1 million ($1.25 million) to fund the English Chess Federation (ECF). The funding will support children playing chess and impr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/uk-government-announces-1-25m-dollar-investment-to-transform-english-chess",
+         "pubDate" : "Mon, 28 Aug 2023 09:56:23",
+         "title" : "UK Government Announces 1.25M Dollar Investment To Transform English Chess"
+      },
+      {
+         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
+         "pubDate" : "Mon, 28 Aug 2023 09:34:42",
+         "title" : "Kasim: Play the French Defence"
+      },
+      {
          "description" : " If you had a friend or a pupil who was just starting to play competitive chess, what openings would you advise them to play? To the best of my understanding, the old Soviet system required you to start with gambit play. You'd choose the King's Gambit with white, and meet 1. e4 with <a href=\"https://chessimprover.com/opening-selection/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Selection\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-selection/\">Opening Selection</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/opening-selection/",
-         "pubDate" : "Mon, 28 Aug 2023 09:09:33 +0000",
+         "pubDate" : "Mon, 28 Aug 2023 09:09:33",
          "title" : "Opening Selection"
       },
       {
@@ -86,32 +118,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/",
-         "pubDate" : "Mon, 28 Aug 2023 09:01:33 +0000",
+         "pubDate" : "Mon, 28 Aug 2023 09:01:33",
          "title" : "A Foundation for Beginners One Hundred and Two"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
-         "pubDate" : "Mon, 28 Aug 2023 09:34:42 +0100",
-         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : "Two thirds into the first edition of the World Rapid Team Championship, WR Chess continues its dominating run. The team has a perfect 16/16 score after eight rounds, with Ian Nepomniachtchi, Jan-Krzysztof Duda, Praggnanandhaa and Hou Yifan (pictured) excelling on their respective boards. Freedom, the squad with the highest average rating, stands in sole second place 3 match points behind the leaders. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d2",
-         "pubDate" : "Mon, 28 Aug 2023 03:20:00 +0100",
+         "pubDate" : "Mon, 28 Aug 2023 03:20:00",
          "title" : "D&uuml;sseldorf: WR Chess beats direct contenders, leads"
-      },
-      {
-         "description" : "After two days, WR Chess soars ahead of the field at the World Rapid Team Championship. Led by perfect scores from GMs&#38;nbsp;Praggnanandhaa Rameshbabu and Hou Yifan, this star-studded team has won eight matches in a row to gain a three-point margin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-2",
-         "pubDate" : "Sun, 27 Aug 2023 18:19:00 -0700",
-         "title" : "Perfect Scores By Praggnanandhaa, Hou Make WR Chess Unstoppable"
       },
       {
          "description" : "",
@@ -122,11 +138,27 @@ news_feed (
          "title" : "FIDE World Rapid Team Championship: WR Chess continues dominance with perfect streak"
       },
       {
+         "description" : "After two days, WR Chess soars ahead of the field at the World Rapid Team Championship. Led by perfect scores from GMs&#38;nbsp;Praggnanandhaa Rameshbabu and Hou Yifan, this star-studded team has won eight matches in a row to gain a three-point margin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-2",
+         "pubDate" : "Sun, 27 Aug 2023 18:19:00",
+         "title" : "Perfect Scores By Praggnanandhaa, Hou Make WR Chess Unstoppable"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 140th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-140-chess-history-in-a-nutshell-22",
+         "pubDate" : "Sun, 27 Aug 2023 15:00:00",
+         "title" : "Understanding before Moving 140: Chess history in a nutshell (22)"
+      },
+      {
          "description" : "The Greek Team Championship is taking place from 25&#x2013;30 August 2023 in Athens. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of 34 teams. Chessdom.com will daily follow the live []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/greek-team-championship-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 14:34:32 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 14:34:32",
          "title" : "Greek Team Championship 2023"
       },
       {
@@ -134,16 +166,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/greek-team-championship-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 14:20:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 14:20:00",
          "title" : "Greek Team Championship 2023 - LIVE"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 140th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-140-chess-history-in-a-nutshell-22",
-         "pubDate" : "Sun, 27 Aug 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 140: Chess history in a nutshell (22)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103107863.cms\" />The stunning progress of teen prodigies R Praggnanandhaa and D Gukesh in international chess has encouraged several parents to consider the sport as a serious 'career option' for their children. Praggnanandhaa caught the imagination of the country when he reached the final of the FIDE World Cup after a sterling run through the tournament.",
@@ -158,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/word-teams-rapid.html",
-         "pubDate" : "Sun, 27 Aug 2023 12:59:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 12:59:00",
          "title" : "Word Teams Rapid"
       },
       {
@@ -170,6 +194,14 @@ news_feed (
          "title" : "Sethuraman wins Indian Championship"
       },
       {
+         "description" : "There are chess puzzles, which are not just clever. They can be very entertaining. An expert in such positions is Gauri Shankar, a chess trainer from Chicago, who has a great talent for finding pretty examples, and for explaining the results in instructive style. Today we how you three new positions, which you can try to solve. You can let Gauri explain them, if you fail to find out everything yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gauri-chess-puzzles-2",
+         "pubDate" : "Sun, 27 Aug 2023 10:00:00",
+         "title" : "Gauri chess puzzles - (2)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103103469.cms\" />All India Chess Federation (AICF) president Sanjay Kapoor said Indian chess has entered the \"golden era\" and the country will have over a hundred Grandmasters within two years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -178,19 +210,11 @@ news_feed (
          "title" : "India has entered golden era of chess, we will have 100 GMs soon: AICF chief Sanjay Kapoor"
       },
       {
-         "description" : "There are chess puzzles, which are not just clever. They can be very entertaining. An expert in such positions is Gauri Shankar, a chess trainer from Chicago, who has a great talent for finding pretty examples, and for explaining the results in instructive style. Today we how you three new positions, which you can try to solve. You can let Gauri explain them, if you fail to find out everything yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gauri-chess-puzzles-2",
-         "pubDate" : "Sun, 27 Aug 2023 10:00:00 +0100",
-         "title" : "Gauri chess puzzles - (2)"
-      },
-      {
          "description" : "Former Asian Champion Grandmaster S P Sethuraman of Petroleum Sports Promotion Board reclaimed the National Champion title after 8 years at the 60th edition of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sethuraman-national-champion/",
-         "pubDate" : "Sun, 27 Aug 2023 07:01:26 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 07:01:26",
          "title" : "Sethuraman National Champion"
       },
       {
@@ -198,7 +222,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 05:51:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 05:51:00",
          "title" : "San Christobal de la Laguna 2023"
       },
       {
@@ -206,7 +230,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carballo-open-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 05:04:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 05:04:00",
          "title" : "Carballo Open 2023 - LIVE"
       },
       {
@@ -214,31 +238,31 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carballo-open-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 04:42:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 04:42:00",
          "title" : "Carballo Open 2023"
-      },
-      {
-         "description" : "The San Christobal de la Laguna is taking place from 26 August to 2 September 2023 in San Crist&#xF3;bal de La Laguna, Tenerife, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Fernando Peralta, Tomas Sosa, Merab Gagunashvili, Bojan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 03:30:00 +0000",
-         "title" : "San Christobal de la Laguna 2023 - LIVE"
       },
       {
          "description" : "The first edition of the World Rapid Team Championship kicked off on Saturday in D&uuml;sseldorf. Amid a relaxed environment, a few of the strongest GMs in the field suffered upsets. After the first four rounds, WR Chess, Wadim Rosenstein's team, is the only squad with a perfect 8/8 score. Ian Nepomniachtchi was the strongest performer in the leading team, as he beat four lower-rated opponents in a row. | Pictured: The Chess Pensioners | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d1",
-         "pubDate" : "Sun, 27 Aug 2023 04:15:00 +0100",
+         "pubDate" : "Sun, 27 Aug 2023 04:15:00",
          "title" : "D&uuml;sseldorf: The fun begins, WR Chess perfect after four rounds"
+      },
+      {
+         "description" : "The San Christobal de la Laguna is taking place from 26 August to 2 September 2023 in San Crist&#xF3;bal de La Laguna, Tenerife, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Fernando Peralta, Tomas Sosa, Merab Gagunashvili, Bojan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023-live/",
+         "pubDate" : "Sun, 27 Aug 2023 03:30:00",
+         "title" : "San Christobal de la Laguna 2023 - LIVE"
       },
       {
          "description" : "The Ottakring Open is taking place from 26 August to 3 September 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Evgeny:Romanov, Nikita Meshkovs, Felix Blohberger, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/ottakring-open-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 02:38:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 02:38:00",
          "title" : "Ottakring Open 2023 - LIVE"
       },
       {
@@ -246,23 +270,15 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/ottakring-open-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 02:18:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 02:18:00",
          "title" : "Ottakring Open 2023"
-      },
-      {
-         "description" : "WR Chess, led by GM Wesley So, rose to clear first on&#38;nbsp;day one of the World Rapid Team Championship 2023, winning all of their matches so far. The top seed, GM Viswanathan Anand&#39;s Freedom, had a rocky fourth round, nearly losing to GM Pental...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-1",
-         "pubDate" : "Sat, 26 Aug 2023 19:12:00 -0700",
-         "title" : "Powerhouse WR Chess Takes Early Lead"
       },
       {
          "description" : "The Niter&#xF3;i Open is taking place from 4&#x2013;10 September 2023 in Niter&#xF3;i, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier,&#xA0;Neuris Delgado Ramirez, Krikor Sevag&#xA0;Mekhitarian, Renato R.&#xA0;Quintiliano Pinto, Evandro Amorim Barbosa, Diego Rafael&#xA0;Di Berardino, Victor&#xA0;Shumyatsky, Yago []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/niteroi-open-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 01:59:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 01:59:00",
          "title" : "Niter&oacute;i Open 2023 - LIVE"
       },
       {
@@ -270,16 +286,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/niteroi-open-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 01:41:00 +0000",
+         "pubDate" : "Sun, 27 Aug 2023 01:41:00",
          "title" : "Niter&oacute;i Open 2023"
       },
       {
-         "description" : "GM Daniel Naroditsky finished ahead of GMs Hikaru Nakamura and Andrew Tang in Saturday&#39;s Bullet Brawl after scoring 70 wins en route to amassing a 275 score. Following a loss to Nakamura in his first game, Naroditsky ran rampant and procured a 26-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-26-2023",
-         "pubDate" : "Sat, 26 Aug 2023 18:07:50 -0700",
-         "title" : "Naroditsky Claims 4th Bullet Brawl Title"
+         "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-team-championship-2023",
+         "pubDate" : "Sun, 27 Aug 2023 01:28:00",
+         "title" : "World Rapid Team Championship 2023 - Games and Results"
       },
       {
          "description" : "",
@@ -290,12 +306,20 @@ news_feed (
          "title" : "FIDE World Rapid Team Championship: WR Chess on top after four rounds"
       },
       {
-         "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-team-championship-2023",
-         "pubDate" : "Sun, 27 Aug 2023 01:28:00 +0400",
-         "title" : "World Rapid Team Championship 2023 - Games and Results"
+         "description" : "WR Chess, led by GM Wesley So, rose to clear first on&#38;nbsp;day one of the World Rapid Team Championship 2023, winning all of their matches so far. The top seed, GM Viswanathan Anand&#39;s Freedom, had a rocky fourth round, nearly losing to GM Pental...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-1",
+         "pubDate" : "Sat, 26 Aug 2023 19:12:00",
+         "title" : "Powerhouse WR Chess Takes Early Lead"
+      },
+      {
+         "description" : "GM Daniel Naroditsky finished ahead of GMs Hikaru Nakamura and Andrew Tang in Saturday&#39;s Bullet Brawl after scoring 70 wins en route to amassing a 275 score. Following a loss to Nakamura in his first game, Naroditsky ran rampant and procured a 26-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-26-2023",
+         "pubDate" : "Sat, 26 Aug 2023 18:07:50",
+         "title" : "Naroditsky Claims 4th Bullet Brawl Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103089136.cms\" />The Indian men's chess team, including World Cup silver medalist Rameshbabu Praggnanandhaa and three quarter-finalists, will have a four-day tactical camp in Kolkata starting on August 30. The Hangzhou-bound squad includes Grandmasters Vidit Gujarathi, Arjun Erigaisi, R Gukesh, and veteran Pentala Harikrishna, led by head coach Boris Gelfand and assistant coaches Srinath Narayanan and Vaibhav Suri.",
@@ -310,31 +334,31 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/dual-senior-national-arbiter-seminar-starts-in-bengaluru-from-26-27-august-2023/",
-         "pubDate" : "Sat, 26 Aug 2023 10:16:16 +0000",
+         "pubDate" : "Sat, 26 Aug 2023 10:16:16",
          "title" : "Dual Senior National Arbiter Seminar starts in Bengaluru from 26-27 August 2023"
-      },
-      {
-         "description" : "Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet to be cancelled. No armies of wokistas demonstrating in front of the raised drawbridge of Castle Keene, no strident sans culottes barricading the streets, screaming Ray &agrave; la lanterne, not one lecture or simultaneous []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/unfair-play-from-jk-rowling-to-sharron-davies/",
-         "pubDate" : "Sat, 26 Aug 2023 08:36:04 +0000",
-         "title" : "Unfair play: from JK Rowling to Sharron Davies"
       },
       {
          "description" : "In the diagram position White mates by force after 18.Nf6+ Ke7 19.Re1! Nxf5. Do you see how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/short-and-sweet-2",
-         "pubDate" : "Sat, 26 Aug 2023 09:00:00 +0100",
+         "pubDate" : "Sat, 26 Aug 2023 09:00:00",
          "title" : "Short and sweet"
+      },
+      {
+         "description" : "Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet to be cancelled. No armies of wokistas demonstrating in front of the raised drawbridge of Castle Keene, no strident sans culottes barricading the streets, screaming Ray &agrave; la lanterne, not one lecture or simultaneous []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/unfair-play-from-jk-rowling-to-sharron-davies/",
+         "pubDate" : "Sat, 26 Aug 2023 08:36:04",
+         "title" : "Unfair play: from JK Rowling to Sharron Davies"
       },
       {
          "description" : "From Saturday to Monday, the first edition of the World Rapid Team Championship will take place in D&uuml;sseldorf. More than 80 grandmasters, including many big names - but also numerous amateurs - are taking part. Four former world champions will participate: Vladimir Kramnik, Vishy Anand, Hou Yifan and Alexandra Kosteniuk.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-teams",
-         "pubDate" : "Sat, 26 Aug 2023 08:30:00 +0100",
+         "pubDate" : "Sat, 26 Aug 2023 08:30:00",
          "title" : "So, Aronian and Caruana top seeds in D&uuml;sseldorf"
       },
       {
@@ -342,7 +366,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/the-21st-eu-youth-chess-championship-2023-concluded-in-czech-republic/",
-         "pubDate" : "Sat, 26 Aug 2023 06:37:08 +0000",
+         "pubDate" : "Sat, 26 Aug 2023 06:37:08",
          "title" : "The 21st EU Youth Chess Championship 2023 concluded in Czech Republic"
       },
       {
@@ -350,7 +374,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/how-to-get-better-at-chess/",
-         "pubDate" : "Sat, 26 Aug 2023 06:00:00 +0000",
+         "pubDate" : "Sat, 26 Aug 2023 06:00:00",
          "title" : "How to get better at Chess: A Grandmaster Guide"
       },
       {
@@ -362,35 +386,35 @@ news_feed (
          "title" : "Praggnanandhaa achieves career-high 2727.2 rating to become India No. 3"
       },
       {
-         "description" : "The Russian-born, recently Slovenian GM Vladimir Fedoseev won the Abu Dhabi Chess Festival 2023 | Masters, which concluded on Thursday. Undefeated, he finished ahead of 40 other grandmasters (and 142 titled players total) with seven points in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-wins-2023-abu-dhabi-chess-festival-masters",
-         "pubDate" : "Fri, 25 Aug 2023 13:25:00 -0700",
-         "title" : "Fedoseev Wins Abu Dhabi Chess Festival Masters, Tops Field Of 41 Grandmasters"
+         "description" : "In May 2022 the then world's oldest grandmaster, Yuri Averbakh, died at the age of 100. Since then, until two weeks ago, the 'title' of the world's oldest grandmaster was held by Aleksandar Matanovic. On 9 August 2023 Matanovic, one of the leading players of the Yugoslav golden era, died in Belgrade at the age of 93. Diana Mihajlova honours a man who gave his life to chess. | Photo: Serbian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-aleksandar-matanovic-1930-2023",
+         "pubDate" : "Fri, 25 Aug 2023 15:24:06",
+         "title" : "Remembering Aleksandar Matanovic (1930-2023)"
       },
       {
          "description" : "In last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> (August 2023), I concluded with:- <BLOCKQUOTE> Adsense is once again increasing the volume of its commanding voice: 'New Consent Management Platform [CMP] requirements for serving ads in the EEA and UK'. &#149; TBD. Watch this space... </BLOCKQUOTE> <P> My WCC index page, shown below, is a typical example of how I handle ads across the site. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh25.gif\" WIDTH=400 HEIGHT=215><BR> <A HREF=\"https://www.mark-weeks.com/chess/wcc-indx.htm\">Index : World Chess Championship</A> <P> The ad ('Download de whitepaper'; that'",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html",
-         "pubDate" : "Fri, 25 Aug 2023 15:17:00 +0000",
+         "pubDate" : "Fri, 25 Aug 2023 15:17:00",
          "title" : "Adsense and the GDPR"
       },
       {
-         "description" : "In May 2022 the then world's oldest grandmaster, Yuri Averbakh, died at the age of 100. Since then, until two weeks ago, the 'title' of the world's oldest grandmaster was held by Aleksandar Matanovic. On 9 August 2023 Matanovic, one of the leading players of the Yugoslav golden era, died in Belgrade at the age of 93. Diana Mihajlova honours a man who gave his life to chess. | Photo: Serbian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-aleksandar-matanovic-1930-2023",
-         "pubDate" : "Fri, 25 Aug 2023 15:24:06 +0100",
-         "title" : "Remembering Aleksandar Matanovic (1930-2023)"
+         "description" : "The Russian-born, recently Slovenian GM Vladimir Fedoseev won the Abu Dhabi Chess Festival 2023 | Masters, which concluded on Thursday. Undefeated, he finished ahead of 40 other grandmasters (and 142 titled players total) with seven points in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-wins-2023-abu-dhabi-chess-festival-masters",
+         "pubDate" : "Fri, 25 Aug 2023 13:25:00",
+         "title" : "Fedoseev Wins Abu Dhabi Chess Festival Masters, Tops Field Of 41 Grandmasters"
       },
       {
          "description" : " Magnus Carlsen added another accolade to his already storied career by winning the World Cup. He overcame a wonderful performance by Rameshbabu Praggnanandhaa who defeated both Hikaru Nakamura and Fabiano Caruana to qualify for the final. As a result, he became the youngest player to have made a World Cup final and one of the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/\">Carlsen wins 2023 FIDE World Cup!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
-         "pubDate" : "Fri, 25 Aug 2023 12:36:05 +0000",
+         "pubDate" : "Fri, 25 Aug 2023 12:36:05",
          "title" : "Carlsen wins 2023 FIDE World Cup!"
       },
       {
@@ -418,6 +442,14 @@ news_feed (
          "title" : "Winners crowned at 21st European Union Youth Chess Championship"
       },
       {
+         "description" : "The World Cup in Baku produced some exciting games and surprising results. But also a number of remarkable engames which it is well to study. What better way than to receive the assistance of a great trainer who shows us were some of the players went wrong, and what was needed to get a positive result. Learn more about the endgame from the instructive commentary provided to us by grandmaster Efstratios Grivas. Enjoy and learn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-endgames-in-baku-1",
+         "pubDate" : "Fri, 25 Aug 2023 10:00:00",
+         "title" : "Grivas: Endgames in Baku - (1)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103057369.cms\" />Indian prodigy R Praggnanandhaa lost to World No. 1 Magnus Carlsen 1.5-0.5 in the tie-break in the FIDE World Cup final at Baku on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -426,19 +458,11 @@ news_feed (
          "title" : "Chess World Cup: How Carlsen plotted Praggnanandhaa's downfall"
       },
       {
-         "description" : "The World Cup in Baku produced some exciting games and surprising results. But also a number of remarkable engames which it is well to study. What better way than to receive the assistance of a great trainer who shows us were some of the players went wrong, and what was needed to get a positive result. Learn more about the endgame from the instructive commentary provided to us by grandmaster Efstratios Grivas. Enjoy and learn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-endgames-in-baku-1",
-         "pubDate" : "Fri, 25 Aug 2023 10:00:00 +0100",
-         "title" : "Grivas: Endgames in Baku - (1)"
-      },
-      {
          "description" : " Norway's world No 1 beat the 18-year-old 2.5-1.5 after playing cautiously in the first two games due to food poisoning Magnus Carlsen has finally won the biennial World Cup, the only major individual honour to have eluded him. Norway's World No 1 defeated India's 18-year-old Rameshbabu Praggnanandhaa 2.5-1.5 in the final. Carlsen's first prize was $110,000 and Praggnanandhaa's $80,000. Carlsen contracted food poisoning after his semi-final win last weekend and he was still recovering during the first two days of the final, where he played in an untypically cautious style, aiming for draws. <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
-         "pubDate" : "Fri, 25 Aug 2023 07:00:03 +0000",
+         "pubDate" : "Fri, 25 Aug 2023 07:00:03",
          "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
       },
       {
@@ -458,14 +482,6 @@ news_feed (
          "title" : "Candidates challenge looms as Praggnanandhaa follows in Anand's footsteps"
       },
       {
-         "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38249897/r-praggnanandhaa-silver-2023-chess-world-cup-gold-standard-indian-chess?device=featurephone",
-         "pubDate" : "Thu, 24 Aug 2023 23:13:00 -0500",
-         "title" : "Praggnanandhaa's World Cup silver shows he can meet the gold standard"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103040974.cms\" />Trust Magnus Carlsen to be a great spoiler. R Praggnanandhaa's superb run to the World Cup chess final was almost too good to be true. The Norwegian world No. 1 outplayed the Indian teen in tiebreaks to win the only title missing from his kitty at Baku on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -474,12 +490,20 @@ news_feed (
          "title" : "Praggnanandhaa checks out of Chess World Cup final with pride"
       },
       {
-         "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-2-sarana-andreikin-win",
-         "pubDate" : "Thu, 24 Aug 2023 14:52:00 -0700",
-         "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
+         "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38249897/r-praggnanandhaa-silver-2023-chess-world-cup-gold-standard-indian-chess?device=featurephone",
+         "pubDate" : "Thu, 24 Aug 2023 23:13:00",
+         "title" : "Praggnanandhaa's World Cup silver shows he can meet the gold standard"
+      },
+      {
+         "description" : " The FIDE World Cup took place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he had never won the event and clearly saw this as something he would like to rectify. His leading rivals were Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside was an equally well represented women's field including World Champion Ju Wenjun. Magnus Carlsen won the event playing a lot of the younger generation on his way to the title. Carlsen was almost eli",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
+         "pubDate" : "Thu, 24 Aug 2023 22:19:00",
+         "title" : "FIDE World Cup 2023 - Games and Results"
       },
       {
          "description" : "",
@@ -494,16 +518,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d3",
-         "pubDate" : "Thu, 24 Aug 2023 21:30:00 +0100",
+         "pubDate" : "Thu, 24 Aug 2023 21:30:00",
          "title" : "Magnus Carlsen \"completes\" chess as he bags World Cup title"
       },
       {
-         "description" : " The FIDE World Cup took place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he had never won the event and clearly saw this as something he would like to rectify. His leading rivals were Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside was an equally well represented women's field including World Champion Ju Wenjun. Magnus Carlsen won the event playing a lot of the younger generation on his way to the title. Carlsen was almost eli",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
-         "pubDate" : "Thu, 24 Aug 2023 22:19:00 +0400",
-         "title" : "FIDE World Cup 2023 - Games and Results"
+         "description" : "The Arkhangelsk Variation of the Ruy Lopez is a dangerous weapon. For both sides - Black can lose quickly, if he does not know what he is doing. In his Fast & Furious show, Robert Ris shows you a nice opening trap in this popular line. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-why-it-s-good-to-be-prepared",
+         "pubDate" : "Thu, 24 Aug 2023 18:00:00",
+         "title" : "Robert Ris' Fast and Furious: Why it's good to be prepared"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103033338.cms\" />Humble to the core, teen sensation R Praggnanandhaa was far from realising the enormity of his achievement in the FIDE World Cup but reckoned his incredible run could force people to \"start noticing\" Indian chess. It needed the sheer brilliance of Magnus Carlsen to stop the 18-year-old Praggnanandhaa's march as he finished second best after losing in the final on Thursday.",
@@ -514,20 +538,20 @@ news_feed (
          "title" : "I think people will start to notice Indian chess: R Praggnanandhaa"
       },
       {
-         "description" : "The Arkhangelsk Variation of the Ruy Lopez is a dangerous weapon. For both sides - Black can lose quickly, if he does not know what he is doing. In his Fast & Furious show, Robert Ris shows you a nice opening trap in this popular line. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-why-it-s-good-to-be-prepared",
-         "pubDate" : "Thu, 24 Aug 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Why it's good to be prepared"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031562.cms\" />Indian Grandmaster R Praggnanandhaa went down fighting to world no.1 Magnus Carlsen in the FIDE World Cup Final in Baku on Thursday but the 18-year-old chess prodigy garnered huge praise and appreciation for his sensational run in the tournament. Praggnanandhaa lost to Carlsen in the tie-breaks after the classical games in the final ended in a stalemate.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-proud-pm-narendra-modi-lauds-chess-prodigy-praggnanandhaa/articleshow/103031562.cms",
          "pubDate" : "Thu, 24 Aug 2023 14:58:05 +0000",
          "title" : "'We are proud': PM Narendra Modi lauds chess prodigy Praggnanandhaa"
+      },
+      {
+         "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-2-sarana-andreikin-win",
+         "pubDate" : "Thu, 24 Aug 2023 14:52:00",
+         "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031019.cms\" />For someone, who took to chess just because his parents wanted him and his sister to wean away from watching television, R Praggnanandhaa has charted his own path to glory and is closer to greatness than ever. The 18-year old wonderboy has long been seen as a possible successor to the five-time world champion Viswanathan Anand and is certainly on the path to be a chess great.",
@@ -546,19 +570,19 @@ news_feed (
          "title" : "Magnus Carlsen secures first World Cup victory, Prag finishes second, Caruana third"
       },
       {
-         "description" : "Praggnanandhaa lost 1.5 - 2.5 to Carlsen after he lost the first rapid tie-break before only managing a draw in the second.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1?device=featurephone",
-         "pubDate" : "Thu, 24 Aug 2023 08:38:09 -0500",
-         "title" : "Carlsen wins World Cup after beating Pragg in tie-breaks"
+         "description" : "In his Game of the Week show #582, Merijn Van Delft looks at a crucial game Praggnanandhaa won against Fabiano Caruana in the World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-582-praggnanandhaa-vs-caruana",
+         "pubDate" : "Thu, 24 Aug 2023 13:11:02",
+         "title" : "Game of the Week #582: Praggnanandhaa vs Caruana"
       },
       {
          "description" : " Magnus Carlsen has defeat Pragganandhaa 1.5-0.5 in the rapid playoffs to win the 2023 FIDE World Cup. Although the event qualifies the top 3 place getters for the upcoming candidates series, Carlsen's prior decision to not play in the upcoming World Championship cycle means his victory was all about winning one title he has not won yet. Unburdened by the pressure of further progress, Carlsen instead demonstrated why he is still the best player in the world, scoring a number of seemingly effortless wins on the way to fist place. He did of course lose a game early on the Vincent Keymar, but after rebounding in the must win second game of that match, seemed to have everything under control (al",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/carlsen-wins-world-cup.html",
-         "pubDate" : "Thu, 24 Aug 2023 13:10:00 +0000",
+         "pubDate" : "Thu, 24 Aug 2023 13:10:00",
          "title" : "Carlsen wins World Cup"
       },
       {
@@ -570,14 +594,6 @@ news_feed (
          "title" : "R Praggnanandhaa's historic road to FIDE World Cup final"
       },
       {
-         "description" : "GM Magnus Carlsen can now say that he has won every significant classical chess title that he&#39;s set his sights on. The five-time world champion won his first World Cup crown by defeating GM Praggnanandhaa Rameshbabu 1.5-0.5 in the rapid tiebreaks ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-3",
-         "pubDate" : "Thu, 24 Aug 2023 05:33:00 -0700",
-         "title" : "Carlsen Wins 1st World Cup, Caruana Places 3rd"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103027144.cms\" />Rameshbabu Praggnanandhaa lost to world No. 1 chess player Magnus Carlsen in a thrilling final showdown at the FIDE World Cup. Carlsen emerged victorious at 1.5-0.5, securing his first-ever World Cup triumph and adding to his impressive five World Chess Championship titles. Praggnanandhaa's valiant effort was deemed valiant.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -586,12 +602,12 @@ news_feed (
          "title" : "FIDE Chess World Cup: Praggnanandhaa loses to Magnus Carlsen in final"
       },
       {
-         "description" : "In his Game of the Week show #582, Merijn Van Delft looks at a crucial game Praggnanandhaa won against Fabiano Caruana in the World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "Former World Champion Magnus Carlsen has accomplished a significant milestone in his illustrious chess career by capturing his inaugural World Cup title, the only tournament that was missing from his immense collection of victories. All three top-placed players have qualified for the 2024 Candidates tournament, which is due to take place next April in Canada. Full report to follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-582-praggnanandhaa-vs-caruana",
-         "pubDate" : "Thu, 24 Aug 2023 13:11:02 +0100",
-         "title" : "Game of the Week #582: Praggnanandhaa vs Caruana"
+         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
+         "pubDate" : "Thu, 24 Aug 2023 11:50:00",
+         "title" : "Magnus victorious"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103025326.cms\" />Indian Grandmaster R Praggnanandhaa is making remarkable strides in the ongoing Chess World Cup, consistently beating opponents with higher ratings. To go with the impressive performances, the 18-year-old has been self-reliant when it comes to navigating the intricacies of the game. Currently in Baku, Azerbaijan, Praggnanandhaa finds himself without the presence of his personal coach RB Ramesh, who is currently in another country.",
@@ -602,12 +618,20 @@ news_feed (
          "title" : "R Praggnanandhaa is his own man, he's handling himself mostly: Coach Ramesh"
       },
       {
-         "description" : "Former World Champion Magnus Carlsen has accomplished a significant milestone in his illustrious chess career by capturing his inaugural World Cup title, the only tournament that was missing from his immense collection of victories. All three top-placed players have qualified for the 2024 Candidates tournament, which is due to take place next April in Canada. Full report to follow.",
+         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Thu, 24 Aug 2023 11:50:00 +0100",
-         "title" : "Magnus victorious"
+         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
+         "pubDate" : "Thu, 24 Aug 2023 10:00:00",
+         "title" : "Armageddon Grand Final"
+      },
+      {
+         "description" : "Chess is the most delightful and truly comes to live, when you can sit across from each other, engaging in a face-to-face match with a physical chessboard in between. The thrill of an evening at the club, playing blitz chess, maneuver the pieces, and indulge in lively conversation with your club-mates, surpasses the quiet solitude of playing online, isolated in front of a computer screen. However, the Playchess chess server offers a refreshing alternative. It introduces video and audio features that can be effortlessly activated, bringing the essence of in-person play to the virtual realm. With just one click, you can generate a private virtual gaming space, packaged as a simple URL, and swi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-august-2023-playing-chess-on-playchess-with-videochat",
+         "pubDate" : "Thu, 24 Aug 2023 09:59:39",
+         "title" : "How to play online on Playchess with video"
       },
       {
          "description" : "",
@@ -622,24 +646,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
-         "pubDate" : "Thu, 24 Aug 2023 09:35:16 +0000",
+         "pubDate" : "Thu, 24 Aug 2023 09:35:16",
          "title" : "ECF Membership System: Options for Change"
-      },
-      {
-         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
-         "pubDate" : "Thu, 24 Aug 2023 10:00:00 +0100",
-         "title" : "Armageddon Grand Final"
-      },
-      {
-         "description" : "Chess is the most delightful and truly comes to live, when you can sit across from each other, engaging in a face-to-face match with a physical chessboard in between. The thrill of an evening at the club, playing blitz chess, maneuver the pieces, and indulge in lively conversation with your club-mates, surpasses the quiet solitude of playing online, isolated in front of a computer screen. However, the Playchess chess server offers a refreshing alternative. It introduces video and audio features that can be effortlessly activated, bringing the essence of in-person play to the virtual realm. With just one click, you can generate a private virtual gaming space, packaged as a simple URL, and swi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-august-2023-playing-chess-on-playchess-with-videochat",
-         "pubDate" : "Thu, 24 Aug 2023 09:59:39 +0100",
-         "title" : "How to play online on Playchess with video"
       },
       {
          "description" : "",
@@ -650,6 +658,30 @@ news_feed (
          "title" : "5th FIDE World Championship for People with Disabilities crosses midpoint"
       },
       {
+         "description" : "Praggnanandhaa lost 1.5 - 2.5 to Carlsen after he lost the first rapid tie-break before only managing a draw in the second.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1?device=featurephone",
+         "pubDate" : "Thu, 24 Aug 2023 08:38:09",
+         "title" : "Carlsen wins World Cup after beating Pragg in tie-breaks"
+      },
+      {
+         "description" : "GM Magnus Carlsen can now say that he has won every significant classical chess title that he&#39;s set his sights on. The five-time world champion won his first World Cup crown by defeating GM Praggnanandhaa Rameshbabu 1.5-0.5 in the rapid tiebreaks ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-3",
+         "pubDate" : "Thu, 24 Aug 2023 05:33:00",
+         "title" : "Carlsen Wins 1st World Cup, Caruana Places 3rd"
+      },
+      {
+         "description" : "Both the final and the match for third place will be decided in tiebreaks at the FIDE World Cup in Baku. While Magnus Carlsen played it safe with white against Praggnanandhaa Rameshbabu to secure a second draw in the final, Fabiano Caruana bounced back from a disastrous showing on Tuesday to keep his chances of reaching the podium alive. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d2",
+         "pubDate" : "Thu, 24 Aug 2023 00:01:45",
+         "title" : "World Cup: Caruana strikes back, Carlsen opts for quick draw"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -658,28 +690,12 @@ news_feed (
          "title" : "Aleksandra Goryachkina: \"I try to imitate Alexandra Kosteniuk in knockouts\""
       },
       {
-         "description" : "Both the final and the match for third place will be decided in tiebreaks at the FIDE World Cup in Baku. While Magnus Carlsen played it safe with white against Praggnanandhaa Rameshbabu to secure a second draw in the final, Fabiano Caruana bounced back from a disastrous showing on Tuesday to keep his chances of reaching the podium alive. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d2",
-         "pubDate" : "Thu, 24 Aug 2023 00:01:45 +0100",
-         "title" : "World Cup: Caruana strikes back, Carlsen opts for quick draw"
-      },
-      {
          "description" : "From coding instructor to chessboxer, there is nothing that this talented 24-year-old cannot do. Sneha has won many laurels in the world of ChessBoxing. Within a few years, she has established her name in this highly athletic and booming sport. Sneha is the current national champion of India and has proudly represented India and secured a gold medal at the 2023 Asian ChessBoxing Championships 2023 and a silver medal at the 2022 World Championships. Through this article, we want to acquaint you with the life of this fighting athlete, and how she is trying to pursue her passion in spite of all the hurdles.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sneha-waykar-profile-2023",
-         "pubDate" : "Wed, 23 Aug 2023 22:25:00 +0100",
+         "pubDate" : "Wed, 23 Aug 2023 22:25:00",
          "title" : "From coding instructor to chessboxer: Sneha Waykar"
-      },
-      {
-         "description" : "The last classical games of the 2023 FIDE World Cup could not have been more different from each other. In the final between GM Magnus Carlsen and GM Praggnanandhaa Rameshbabu, the drawn outcome was predicted as early as move five, while in the th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-2",
-         "pubDate" : "Wed, 23 Aug 2023 13:51:00 -0700",
-         "title" : "Caruana Wins, Carlsen-Praggnanandhaa Draw: Both Matches Move To Tiebreaks"
       },
       {
          "description" : "",
@@ -690,20 +706,12 @@ news_feed (
          "title" : "World Cup winner and third place to be decided in tiebreaks"
       },
       {
-         "description" : "Praggnanandhaa vs Carlsen will now be decided on tie-breaks after the duo played out a second consecutive draw on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38244191/2023-chess-world-cup-final-r-praggnanandhaa-vs-magnus-carlsen-decided-tie-breaks?device=featurephone",
-         "pubDate" : "Wed, 23 Aug 2023 12:13:13 -0500",
-         "title" : "Chess WC: Pragg vs Carlsen to be decided on tie-breaks"
-      },
-      {
-         "description" : "After GM Hikaru Nakamura scored the first 11/11 in&#38;nbsp;Titled Tuesday history on August 17, 2021, it took 98 weeks for someone to repeat the feat until GM Magnus Carlsen finally did so on July 4, 2023. But audiences only had to wait seven weeks f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-august-22-2023",
-         "pubDate" : "Wed, 23 Aug 2023 09:05:00 -0700",
-         "title" : "Nakamura Perfect On Tuesday Once Again"
+         "description" : "In mid-August, the Women's Chess Commission hosted its inaugural Online Blitz Tournament on the ChessBase Playchess platform. Under the leadership of Chairperson Regina Pokorna, the event was organized to further spotlight women's chess. Eleven female competitors took part in this intimate online blitz event, where they had the chance to challenge the formidable IM Stavroula Tsolakidou. The top Greek female player clinched the title with a flawless score of 10/10!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-perfect-score-stavroula-tsolakidou-dominates-women-s-chess-blitz-event",
+         "pubDate" : "Wed, 23 Aug 2023 16:15:00",
+         "title" : "A perfect score: Stavroula Tsolakidou dominates women's chess blitz event"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102993217.cms\" />India's R Paggnanandhaa is ready to face World No.1 Magnus Carlsen in the FIDE Chess World Cup final tie-breaks, after drawing two classical games. The winner will be determined by two tie-breaks on Thursday. The second game ended in a 30-move draw on Wednesday.",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "'Now I can just give everything tomorrow': Praggnanandhaa on tie-breaks"
       },
       {
-         "description" : "In mid-August, the Women's Chess Commission hosted its inaugural Online Blitz Tournament on the ChessBase Playchess platform. Under the leadership of Chairperson Regina Pokorna, the event was organized to further spotlight women's chess. Eleven female competitors took part in this intimate online blitz event, where they had the chance to challenge the formidable IM Stavroula Tsolakidou. The top Greek female player clinched the title with a flawless score of 10/10!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-perfect-score-stavroula-tsolakidou-dominates-women-s-chess-blitz-event",
-         "pubDate" : "Wed, 23 Aug 2023 16:15:00 +0100",
-         "title" : "A perfect score: Stavroula Tsolakidou dominates women's chess blitz event"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102992320.cms\" />World No.1 Magnus Carlsen praised Indian teen R Praggnanandhaa's strong tie-break skills in the ongoing FIDE Chess World Cup final. The second game of the final ended in a draw after 30 moves on Wednesday. The winner will be determined by two tie-breaks on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -730,12 +730,12 @@ news_feed (
          "title" : "Praggnanandhaa is very strong in tie-breaks: Magnus Carlsen"
       },
       {
-         "description" : "Go ahead ChessPunk, make my day! Now that the superb PogChamps 5 tournament is over, Chess.com is delighted to announce another exciting amateur event kicking off next month. ChessPunks Champs is the new PogChamps-style event for all of us norma...",
+         "description" : "The last classical games of the 2023 FIDE World Cup could not have been more different from each other. In the final between GM Magnus Carlsen and GM Praggnanandhaa Rameshbabu, the drawn outcome was predicted as early as move five, while in the th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesspunks-champs",
-         "pubDate" : "Wed, 23 Aug 2023 07:08:00 -0700",
-         "title" : "Chess.com Supports First ChessPunks Champs Tournament For Adult Improvers"
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-2",
+         "pubDate" : "Wed, 23 Aug 2023 13:51:00",
+         "title" : "Caruana Wins, Carlsen-Praggnanandhaa Draw: Both Matches Move To Tiebreaks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102989661.cms\" />Indian chess prodigy R Praggnanandhaa held his ground against world No.1 Magnus Carlsen in a thrilling FIDE World Cup final, forcing a draw in the second classical game of the series. The strategic duel between the two giants has captivated fans worldwide, with the championship's fate still in the balance. The balanced position led to a peaceful draw after just 30 moves. ",
@@ -750,15 +750,23 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d1",
-         "pubDate" : "Wed, 23 Aug 2023 12:25:00 +0100",
+         "pubDate" : "Wed, 23 Aug 2023 12:25:00",
          "title" : "World Cup: All square in the final, Abasov beats Caruana"
+      },
+      {
+         "description" : "Praggnanandhaa vs Carlsen will now be decided on tie-breaks after the duo played out a second consecutive draw on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38244191/2023-chess-world-cup-final-r-praggnanandhaa-vs-magnus-carlsen-decided-tie-breaks?device=featurephone",
+         "pubDate" : "Wed, 23 Aug 2023 12:13:13",
+         "title" : "Chess WC: Pragg vs Carlsen to be decided on tie-breaks"
       },
       {
          "description" : " <p class=\"lead\"><a href=\"https://chessarena.com/armageddon\">The Armageddon Championship Series Finale</a> is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9608.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> Top-tier chess players, including luminaries such as <b>Wesley So</b>, <b>Sam Shankland</b>,<b> Gukesh D</b>, <b>Nodirbek Abdusattorov</b>, ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/armageddon-championship-finale-to-start-in-berlin/",
-         "pubDate" : "Wed, 23 Aug 2023 09:28:20 +0000",
+         "pubDate" : "Wed, 23 Aug 2023 09:28:20",
          "title" : "Armageddon Championship Finale to Start In Berlin"
       },
       {
@@ -766,8 +774,24 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/dcms-funding/",
-         "pubDate" : "Wed, 23 Aug 2023 09:09:13 +0000",
+         "pubDate" : "Wed, 23 Aug 2023 09:09:13",
          "title" : "Government funding for chess from DCMS, DLUHC and DfE"
+      },
+      {
+         "description" : "After GM Hikaru Nakamura scored the first 11/11 in&#38;nbsp;Titled Tuesday history on August 17, 2021, it took 98 weeks for someone to repeat the feat until GM Magnus Carlsen finally did so on July 4, 2023. But audiences only had to wait seven weeks f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-august-22-2023",
+         "pubDate" : "Wed, 23 Aug 2023 09:05:00",
+         "title" : "Nakamura Perfect On Tuesday Once Again"
+      },
+      {
+         "description" : "Go ahead ChessPunk, make my day! Now that the superb PogChamps 5 tournament is over, Chess.com is delighted to announce another exciting amateur event kicking off next month. ChessPunks Champs is the new PogChamps-style event for all of us norma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesspunks-champs",
+         "pubDate" : "Wed, 23 Aug 2023 07:08:00",
+         "title" : "Chess.com Supports First ChessPunks Champs Tournament For Adult Improvers"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102967884.cms\" />Rameshbabu Praggnanandhaa's sensational run to the final of the Chess World Cup has drawn praise from several quarters, including legends like Viswanathan Anand and Garry Kasparov.",
@@ -782,16 +806,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/38242409/2023-chess-world-cup-final-r-praggnanandhaa-ekes-draw-magnus-carlsen-opening-game?device=featurephone",
-         "pubDate" : "Tue, 22 Aug 2023 23:10:20 -0500",
+         "pubDate" : "Tue, 22 Aug 2023 23:10:20",
          "title" : "Chess WC: Praggnanandhaa ekes out draw against Carlsen in opening game"
       },
       {
-         "description" : "Neither player made progress toward their first World Cup victory as GM Magnus Carlsen held GM Praggnanandhaa Rameshbabu to a draw in the first game of the 2023 FIDE World Cup final.&#38;nbsp; A well-prepared Praggnanandhaa posed some problems to the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
-         "pubDate" : "Tue, 22 Aug 2023 14:29:00 -0700",
-         "title" : "Abasov Beats Caruana As Carlsen Holds Off Praggnanandhaa"
+         "description" : "The first-ever World Rapid Team Championship will take place in D&uuml;sseldorf on August 26-28. Forty teams from all corners of the world are registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Richard Rapport. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, will represent the humorously named 'Chess Pensioners' team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-preview",
+         "pubDate" : "Tue, 22 Aug 2023 21:40:00",
+         "title" : "Clash of titans in D&uuml;sseldorf: World Rapid Team Championship"
       },
       {
          "description" : "",
@@ -802,28 +826,12 @@ news_feed (
          "title" : "FIDE World Fischer Random Chess Championship - Call for Bids"
       },
       {
-         "description" : "The first-ever World Rapid Team Championship will take place in D&uuml;sseldorf on August 26-28. Forty teams from all corners of the world are registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Richard Rapport. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, will represent the humorously named 'Chess Pensioners' team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-preview",
-         "pubDate" : "Tue, 22 Aug 2023 21:40:00 +0100",
-         "title" : "Clash of titans in D&uuml;sseldorf: World Rapid Team Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2599",
          "pubDate" : "Tue, 22 Aug 2023 19:42:38 +0000",
          "title" : "Clash of chess titans in D&uuml;sseldorf: World Rapid Team Championship preview"
-      },
-      {
-         "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in the first Qualifier on Tuesday. Yu finished second in the Swiss on day one and, on the second day, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-1-yu-vidit-win",
-         "pubDate" : "Tue, 22 Aug 2023 12:05:00 -0700",
-         "title" : "Armageddon Wins In Both Finals: Vidit, Yu Qualify For SCC 2023 Presented By Coinbase"
       },
       {
          "description" : "",
@@ -846,15 +854,23 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/",
-         "pubDate" : "Tue, 22 Aug 2023 16:28:02 +0000",
+         "pubDate" : "Tue, 22 Aug 2023 16:28:02",
          "title" : "2023 FIDE World Cup: Semifinals/Finals"
+      },
+      {
+         "description" : "Neither player made progress toward their first World Cup victory as GM Magnus Carlsen held GM Praggnanandhaa Rameshbabu to a draw in the first game of the 2023 FIDE World Cup final.&#38;nbsp; A well-prepared Praggnanandhaa posed some problems to the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
+         "pubDate" : "Tue, 22 Aug 2023 14:29:00",
+         "title" : "Abasov Beats Caruana As Carlsen Holds Off Praggnanandhaa"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023/",
-         "pubDate" : "Tue, 22 Aug 2023 13:17:41 +0000",
+         "pubDate" : "Tue, 22 Aug 2023 13:17:41",
          "title" : "ECF National Club Championships 2023"
       },
       {
@@ -862,7 +878,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/pragg-v-carlsen.html",
-         "pubDate" : "Tue, 22 Aug 2023 13:07:00 +0000",
+         "pubDate" : "Tue, 22 Aug 2023 13:07:00",
          "title" : "Pragg v Carlsen"
       },
       {
@@ -870,15 +886,23 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
-         "pubDate" : "Tue, 22 Aug 2023 12:45:00 +0100",
+         "pubDate" : "Tue, 22 Aug 2023 12:45:00",
          "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
+      },
+      {
+         "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in the first Qualifier on Tuesday. Yu finished second in the Swiss on day one and, on the second day, w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-1-yu-vidit-win",
+         "pubDate" : "Tue, 22 Aug 2023 12:05:00",
+         "title" : "Armageddon Wins In Both Finals: Vidit, Yu Qualify For SCC 2023 Presented By Coinbase"
       },
       {
          "description" : "EU Youth Chess Championship 2023 is underway. The level of the event is very good in category U8 is leading Atanas Taskov (BUL, 6 points out of 6 rounds!), in U10 with 5,5 points Vladimir Sofronie (ROU), in U12 Alexandru Ioan Constantinoiu (ROU, 6 points!) and in U14 Louis Auribault (FRA, 5,5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Henri Rouanet (FRA), []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-2023/",
-         "pubDate" : "Tue, 22 Aug 2023 10:21:37 +0000",
+         "pubDate" : "Tue, 22 Aug 2023 10:21:37",
          "title" : "21st European Union Youth Chess Championship 2023 -"
       },
       {
@@ -886,7 +910,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/invite-everyone-to-the-party",
-         "pubDate" : "Tue, 22 Aug 2023 09:00:00 +0100",
+         "pubDate" : "Tue, 22 Aug 2023 09:00:00",
          "title" : "Invite everyone to the party"
       },
       {
@@ -894,16 +918,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d3",
-         "pubDate" : "Tue, 22 Aug 2023 01:20:00 +0100",
+         "pubDate" : "Tue, 22 Aug 2023 01:20:00",
          "title" : "World Cup: Pragg stuns Caruana, will face Carlsen in eye-catching final"
-      },
-      {
-         "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-3",
-         "pubDate" : "Mon, 21 Aug 2023 15:00:00 -0700",
-         "title" : "Praggnanandhaa-Carlsen In Final; Goryachkina Takes Women's Title"
       },
       {
          "description" : "",
@@ -914,19 +930,11 @@ news_feed (
          "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
       },
       {
-         "description" : "Only the second Indian after Anand to reach the semifinals of the World Cup, Pragg also booked a spot in the Candidates event in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38233706/2023-chess-world-cup-r-praggnanandhaa-play-magnus-carlsen-stuns-fabiano-caruana?device=featurephone",
-         "pubDate" : "Mon, 21 Aug 2023 13:26:04 -0500",
-         "title" : "Chess WC: Pragg stuns Caruana to reach final vs Carlsen"
-      },
-      {
          "description" : "In a move that is sure to cause a significant stir, FIDE announced that it would be setting restrictions on transgenders participating in official FIDE Women events, specifying that any such restrictions pertain exclusively to man to women transgenders. These regulations come into effect on August 21. See the statement and share your thoughts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-bans-transgenders-from-women-events",
-         "pubDate" : "Mon, 21 Aug 2023 17:35:00 +0100",
+         "pubDate" : "Mon, 21 Aug 2023 17:35:00",
          "title" : "FIDE bans transgenders from Women events"
       },
       {
@@ -934,32 +942,32 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-248-opposite-coloured-bishops-favour-the-attacker",
-         "pubDate" : "Mon, 21 Aug 2023 17:30:00 +0100",
+         "pubDate" : "Mon, 21 Aug 2023 17:30:00",
          "title" : "Endgame Magic #248: Bishops of opposite colours favour the attacker"
       },
       {
-         "description" : "China emerged victorious in the FIDE World Youth U16 Olympiad held in Eindhoven, the Netherlands. The team dominated the competition, securing an impressive 17 out of 18 match points. Turkey, the last year's champions, finished second, while Greece claimed the bronze medal. FIDE report, >1000 games, plus beautiful pictorial impressions by Frans Peeters and Lennart Ootes.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/china-wins-fide-world-u16-olympiad",
-         "pubDate" : "Mon, 21 Aug 2023 16:00:00 +0100",
-         "title" : "China Wins FIDE World U16 Olympiad"
+         "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-3",
+         "pubDate" : "Mon, 21 Aug 2023 15:00:00",
+         "title" : "Praggnanandhaa-Carlsen In Final; Goryachkina Takes Women's Title"
       },
       {
          "description" : "The English Chess Federation's (ECF) position is clear. We do not exclude trans women and this position will not change, despite FIDE's new policy. Trans...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/response-to-fides-new-trans-regulations/",
-         "pubDate" : "Mon, 21 Aug 2023 14:45:55 +0000",
+         "pubDate" : "Mon, 21 Aug 2023 14:45:55",
          "title" : "Response to FIDE's new trans regulations"
       },
       {
-         "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-2",
-         "pubDate" : "Sun, 20 Aug 2023 16:53:00 -0700",
-         "title" : "Carlsen Books Spot In Final; Salimova Misses Chance To Claim Women's Crown"
+         "description" : "Only the second Indian after Anand to reach the semifinals of the World Cup, Pragg also booked a spot in the Candidates event in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38233706/2023-chess-world-cup-r-praggnanandhaa-play-magnus-carlsen-stuns-fabiano-caruana?device=featurephone",
+         "pubDate" : "Mon, 21 Aug 2023 13:26:04",
+         "title" : "Chess WC: Pragg stuns Caruana to reach final vs Carlsen"
       },
       {
          "description" : "",
@@ -968,6 +976,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2597",
          "pubDate" : "Sun, 20 Aug 2023 20:29:12 +0000",
          "title" : "FIDE World Cup Round 7 Day 2: Anna Muzychuk wins bronze "
+      },
+      {
+         "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-2",
+         "pubDate" : "Sun, 20 Aug 2023 16:53:00",
+         "title" : "Carlsen Books Spot In Final; Salimova Misses Chance To Claim Women's Crown"
       },
       {
          "description" : "",
@@ -982,7 +998,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/08/chess-sets-are-real-deal.html",
-         "pubDate" : "Sun, 20 Aug 2023 15:31:00 +0000",
+         "pubDate" : "Sun, 20 Aug 2023 15:31:00",
          "title" : "Chess Sets Are the Real Deal"
       },
       {
@@ -990,23 +1006,15 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-new-chess-club-for-children/",
-         "pubDate" : "Sun, 20 Aug 2023 12:27:49 +0000",
+         "pubDate" : "Sun, 20 Aug 2023 12:27:49",
          "title" : "A New Chess Club for Children"
-      },
-      {
-         "description" : "Eighty-three wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-week-3",
-         "pubDate" : "Sat, 19 Aug 2023 22:46:07 -0700",
-         "title" : "Nakamura Sets New Bullet Brawl Record With 83 Wins"
       },
       {
          "description" : " Greetings! I'm Inez Kelley, sister to Armand Kelley a member of the NYC chess community. For those who know, Armand passed in 2019. Since that time we've organized chess events in his memory. This year and with the collaboration of Aggrey Duncan and CHESS ON THE MOVE we are excited to present &#8216;Battle of The The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/\">Battle of the Masters: NYC Blitz Chess Match!!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/",
-         "pubDate" : "Sun, 20 Aug 2023 02:52:25 +0000",
+         "pubDate" : "Sun, 20 Aug 2023 02:52:25",
          "title" : "Battle of the Masters: NYC Blitz Chess Match!!"
       },
       {
@@ -1014,16 +1022,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/canada2.png",
          "iconName" : "Canadian<br>Chess",
          "link" : "https://www.chess.ca/en/news/2023/08/20/cfc-responds-to-the-fide-ban/",
-         "pubDate" : "Sun, 20 Aug 2023 00:00:00 +0000",
+         "pubDate" : "Sun, 20 Aug 2023 00:00:00",
          "title" : "CFC Response to the FIDE Ban on Transgender Women Competing in Women's Events"
       },
       {
-         "description" : "After surviving 12 games of classical games against some of the world&#39;s best players without a single loss, GM Nijat Abasov finally fell at the hands of GM Magnus Carlsen on Saturday at the 2023 FIDE World Cup. Though the world number one secured ...",
+         "description" : "Eighty-three wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-1",
-         "pubDate" : "Sat, 19 Aug 2023 15:09:00 -0700",
-         "title" : "Carlsen On The Brink Of First World Cup Final"
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-week-3",
+         "pubDate" : "Sat, 19 Aug 2023 22:46:07",
+         "title" : "Nakamura Sets New Bullet Brawl Record With 83 Wins"
       },
       {
          "description" : "",
@@ -1034,11 +1042,19 @@ news_feed (
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
       },
       {
+         "description" : "After surviving 12 games of classical games against some of the world&#39;s best players without a single loss, GM Nijat Abasov finally fell at the hands of GM Magnus Carlsen on Saturday at the 2023 FIDE World Cup. Though the world number one secured ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-1",
+         "pubDate" : "Sat, 19 Aug 2023 15:09:00",
+         "title" : "Carlsen On The Brink Of First World Cup Final"
+      },
+      {
          "description" : "Many chess players struggle with solving tactics, remembering opening lines, analyzing their losses, you name it. But some have difficulty with something seemingly super easy: taking a rest. In this article, I want to show you how important rest is for your health &#38; improvement and how you rest the right way. The Power of []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/boost-your-chess-performance-the-unexpected-power-of-rest/",
-         "pubDate" : "Sat, 19 Aug 2023 12:00:00 +0000",
+         "pubDate" : "Sat, 19 Aug 2023 12:00:00",
          "title" : "Boost Your Chess Performance: The Unexpected Power of Breaks & Rest"
       },
       {
@@ -1046,7 +1062,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/prep-pays-off.html",
-         "pubDate" : "Sat, 19 Aug 2023 11:44:00 +0000",
+         "pubDate" : "Sat, 19 Aug 2023 11:44:00",
          "title" : "Prep pays off"
       },
       {
@@ -1054,7 +1070,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/a-universal-history-of-infamy-in-chess/",
-         "pubDate" : "Sat, 19 Aug 2023 11:32:14 +0000",
+         "pubDate" : "Sat, 19 Aug 2023 11:32:14",
          "title" : "A universal history of infamy in chess"
       },
       {
@@ -1062,56 +1078,48 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/round-9-report-world-youth-olympaid-2023/",
-         "pubDate" : "Sat, 19 Aug 2023 07:30:03 +0000",
+         "pubDate" : "Sat, 19 Aug 2023 07:30:03",
          "title" : "Round 9 report- World Youth Olympaid 2023"
-      },
-      {
-         "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals&#38;mdash;the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-finals",
-         "pubDate" : "Fri, 18 Aug 2023 19:44:00 -0700",
-         "title" : "CDawgVA Delivers Swindle Of The Century To Become The Fifth PogChampion"
       },
       {
          "description" : " Semifinals set Carlsen-Caruana favorites Goryachkina faces phenom We are winding down the World Cup and it's been an exciting ride. Only four players remain in the Open section and the top two players in the world are still in the hunt. In fact, Magnus Carlsen and Fabiano Caruana and headed for a showdown if they The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/\">2023 FIDE World Cup: Quarterfinals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/",
-         "pubDate" : "Sat, 19 Aug 2023 00:26:07 +0000",
+         "pubDate" : "Sat, 19 Aug 2023 00:26:07",
          "title" : "2023 FIDE World Cup: Quarterfinals"
-      },
-      {
-         "description" : "Strategy fans take note&#38;mdash;a unique star-studded multi-game crossover event that pits big names in chess against stars of Clash of Clans and Clash Royale is coming to Chess.com. IM Levy Rozman and WFM Alexandra Botez, two of the most followed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-clash-the-unique-event-featuring-clash-of-clans-clash-royale",
-         "pubDate" : "Fri, 18 Aug 2023 15:46:00 -0700",
-         "title" : "Launching Chess Clash: The Unique Event Featuring Clash of Clans, Clash Royale And A Galaxy Of Stars"
       },
       {
          "description" : "The FIDE World Youth U16 Chess Olympiad concluded today in Eindhoven, Netherlands with China emerging as the sole Winner of the event. China scored 8 victories and one draw 17 match points in total to clinch the gold medal. The team showed dominance against all the opponents except from Armenia which managed to tie the match to 2-2 score. &#160;Out of the 36 games played, China scored a total of 31 board points.&#160; The defending champions, Turkey, won silver []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/fide-world-youth-u16-olympiad-concluded-in-eindhoven-netherlands/",
-         "pubDate" : "Fri, 18 Aug 2023 20:01:05 +0000",
+         "pubDate" : "Fri, 18 Aug 2023 20:01:05",
          "title" : "FIDE World Youth U16 Olympiad concluded in Eindhoven, Netherlands"
       },
       {
-         "description" : "FIDE has come under heavy criticism after publishing a new policy that states that transgender women are banned from taking part in official female-only events until the federation conducts &#34;further analysis&#34; that can last up to two years. The c...",
+         "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals&#38;mdash;the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-publishes-controversial-new-transgender-policy",
-         "pubDate" : "Fri, 18 Aug 2023 08:55:01 -0700",
-         "title" : "FIDE Publishes Controversial New Transgender Policy"
+         "link" : "https://www.chess.com/news/view/pogchamps-5-finals",
+         "pubDate" : "Fri, 18 Aug 2023 19:44:00",
+         "title" : "CDawgVA Delivers Swindle Of The Century To Become The Fifth PogChampion"
       },
       {
          "description" : "Earlier this year, in <A HREF=\"https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html\">TGIF on CFAA</A> (June 2023), I wrote, <BLOCKQUOTE> Some of my blog posts are basically notes to myself. This is one of them. </BLOCKQUOTE> <P> This current post is another. To parrot the thought process introduced in the TGIF post, <BLOCKQUOTE> I took three weeks off at the beginning of July and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 21 posts in 25 days and am now caught up. </BLOCKQUOTE> <P> In addition to the actions mentioned in the TGIF post, I need to catch up with new actions from Google ('Your wish",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html",
-         "pubDate" : "Fri, 18 Aug 2023 15:55:00 +0000",
+         "pubDate" : "Fri, 18 Aug 2023 15:55:00",
          "title" : "Adsense on CFAA++"
+      },
+      {
+         "description" : "Strategy fans take note&#38;mdash;a unique star-studded multi-game crossover event that pits big names in chess against stars of Clash of Clans and Clash Royale is coming to Chess.com. IM Levy Rozman and WFM Alexandra Botez, two of the most followed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-clash-the-unique-event-featuring-clash-of-clans-clash-royale",
+         "pubDate" : "Fri, 18 Aug 2023 15:46:00",
+         "title" : "Launching Chess Clash: The Unique Event Featuring Clash of Clans, Clash Royale And A Galaxy Of Stars"
       },
       {
          "description" : "",
@@ -1130,11 +1138,19 @@ news_feed (
          "title" : "FIDE World Youth Olympiad 2023: Day 5 Recap"
       },
       {
+         "description" : "FIDE has come under heavy criticism after publishing a new policy that states that transgender women are banned from taking part in official female-only events until the federation conducts &#34;further analysis&#34; that can last up to two years. The c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-publishes-controversial-new-transgender-policy",
+         "pubDate" : "Fri, 18 Aug 2023 08:55:01",
+         "title" : "FIDE Publishes Controversial New Transgender Policy"
+      },
+      {
          "description" : " The world No 1 faces the little-known Nijat Abasov in this weekend's semi-final, while there were four Indian quarter-finalists and no Russians The World Cup knockout is the only major individual chess event that Magnus Carlsen has never won, but this weekend the Norwegian, 32, looks poised to reach the final of the $1.8m, 206-player competition at Baku, Azerbaijan. Carlsen's opponent in the semi-final on Saturday and Sunday, (midday BST start, free live commentary on major chess websites) with possible speed tiebreaks on Monday, is the little-known Azerbaijani Nijat Abasov, 28. The hometown favourite has had the performance of his life, defeating all six of his opponents including the Neth",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/aug/18/chess-carlsen-edges-closer-to-world-cup-as-indians-shine-and-russians-fail",
-         "pubDate" : "Fri, 18 Aug 2023 07:00:43 +0000",
+         "pubDate" : "Fri, 18 Aug 2023 07:00:43",
          "title" : "Chess: Carlsen edges closer to World Cup as Indians shine and Russians fail"
       },
       {
@@ -1142,7 +1158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-under-07-chess-championship-2023venue-details/",
-         "pubDate" : "Fri, 18 Aug 2023 05:49:28 +0000",
+         "pubDate" : "Fri, 18 Aug 2023 05:49:28",
          "title" : "National Under 07 Chess Championship 2023:Venue details"
       },
       {
@@ -1150,7 +1166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/world-youth-chess-olympiad-2023round-7-8/",
-         "pubDate" : "Fri, 18 Aug 2023 05:32:30 +0000",
+         "pubDate" : "Fri, 18 Aug 2023 05:32:30",
          "title" : "World Youth Chess Olympiad 2023:Round 7 & 8"
       },
       {
@@ -1158,24 +1174,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/world-cup-chess-praggnanandhaa-through-to-the-semi-final/",
-         "pubDate" : "Fri, 18 Aug 2023 05:22:06 +0000",
+         "pubDate" : "Fri, 18 Aug 2023 05:22:06",
          "title" : "World Cup Chess - Praggnanandhaa through to the Semi Final"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu and GM Arjun Erigaisi were engaged in 1-1 deadlocks in three sets of tiebreak games at the 2023 FIDE World Cup. After two draws in the 25+10 rapid tiebreaks, Praggnanandhaa twice took the lead by winning the first game...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-3",
-         "pubDate" : "Thu, 17 Aug 2023 16:05:00 -0700",
-         "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
-      },
-      {
-         "description" : "FIDE, the International Chess Federation, has released a new policy banning transgender women from competing in women's chess events.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 17:45:38 -0500",
-         "title" : "FIDE bans trans women from women's chess"
       },
       {
          "description" : "",
@@ -1194,36 +1194,52 @@ news_feed (
          "title" : "World Cup Round 6 Tiebreaks: Salimova in the Women's finals, Praggnanandhaa in the Open semis"
       },
       {
-         "description" : "IM Levy Rozman&#39;s first chess book is months away from being released, but it has already sold more than 12,000 copies and made it to #1 on Amazon&#39;s best-seller lists. The online chess streamer, popularly known as GothamChess, is the world&#39;s bigg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-tops-amazon-lists-with-first-book",
-         "pubDate" : "Thu, 17 Aug 2023 11:43:00 -0700",
-         "title" : "'GothamChess' Tops Amazon Lists More Than Two Months Before Release Of First Book"
-      },
-      {
-         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
+         "description" : "FIDE, the International Chess Federation, has released a new policy banning transgender women from competing in women's chess events.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 12:54:53 -0500",
-         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
+         "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 17:45:38",
+         "title" : "FIDE bans trans women from women's chess"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu and GM Arjun Erigaisi were engaged in 1-1 deadlocks in three sets of tiebreak games at the 2023 FIDE World Cup. After two draws in the 25+10 rapid tiebreaks, Praggnanandhaa twice took the lead by winning the first game...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-3",
+         "pubDate" : "Thu, 17 Aug 2023 16:05:00",
+         "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
       },
       {
          "description" : "A month after posting about the <A HREF=\"https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html\">2023 CJA Award Entries</A> (July 2023; Chess Journalists of America), I'm ready to do a short series on the awards themselves. In that post I wanted 'to collect all of the entries across all of the categories', but I ran into an obstacle:- <BLOCKQUOTE> The data behind the page is embedded on the page's HTML, so it should be possible to extract the entries using straightforward text tools. That would require more work than I have time for right now. I might come back to it later, but I wouldn't bet any money on that happening soon. The winners will be announced next month. </BLOC",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html",
-         "pubDate" : "Thu, 17 Aug 2023 15:04:00 +0000",
+         "pubDate" : "Thu, 17 Aug 2023 15:04:00",
          "title" : "2023 CJA Awards - Part 1"
+      },
+      {
+         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
+         "pubDate" : "Thu, 17 Aug 2023 12:54:53",
+         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
       },
       {
          "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/chess-in-far-far-future.html",
-         "pubDate" : "Thu, 17 Aug 2023 11:52:00 +0000",
+         "pubDate" : "Thu, 17 Aug 2023 11:52:00",
          "title" : "Chess in the far far future"
+      },
+      {
+         "description" : "IM Levy Rozman&#39;s first chess book is months away from being released, but it has already sold more than 12,000 copies and made it to #1 on Amazon&#39;s best-seller lists. The online chess streamer, popularly known as GothamChess, is the world&#39;s bigg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-tops-amazon-lists-with-first-book",
+         "pubDate" : "Thu, 17 Aug 2023 11:43:00",
+         "title" : "'GothamChess' Tops Amazon Lists More Than Two Months Before Release Of First Book"
       },
       {
          "description" : "",
@@ -1238,7 +1254,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2023-official-regulations/",
-         "pubDate" : "Thu, 17 Aug 2023 09:21:16 +0000",
+         "pubDate" : "Thu, 17 Aug 2023 09:21:16",
          "title" : "European Small Nations Team Chess Championship 2023 - Official regulations"
       },
       {
@@ -1246,16 +1262,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-cup-2023qf-report-6-2/",
-         "pubDate" : "Thu, 17 Aug 2023 08:48:02 +0000",
+         "pubDate" : "Thu, 17 Aug 2023 08:48:02",
          "title" : "Fide World Cup 2023:QF REPORT 6.2"
-      },
-      {
-         "description" : "GM Magnus Carlsen staved off a formidable challenge from GM Dommaraju Gukesh and held the draw he needed, while GM Nijat Abasov and GM Fabiano Caruana defeated GM Vidit Gujrathi and GM Leinier Dominguez, respectively, to advance to the semifinals ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-2",
-         "pubDate" : "Wed, 16 Aug 2023 15:50:00 -0700",
-         "title" : "Abasov Continues Miracle Run On Home Soil To Join Carlsen, Caruana In Semifinals"
       },
       {
          "description" : "",
@@ -1278,7 +1286,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/21st-eu-youth-chess-championship-kicked-off-in-czech-republic/",
-         "pubDate" : "Wed, 16 Aug 2023 20:26:21 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 20:26:21",
          "title" : "21st EU Youth Chess Championship kicked off in Czech Republic"
       },
       {
@@ -1290,19 +1298,11 @@ news_feed (
          "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
       },
       {
-         "description" : "D Gukesh and Vidit Gujrathi went down to Magnus Carlsen and Nijat Abasov respectively on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
-         "pubDate" : "Wed, 16 Aug 2023 12:58:23 -0500",
-         "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
-      },
-      {
          "description" : " The Chess Drum visited the Pan-Am Youth Chess Festival held in Chicago and was able to have a chat with FM Warren Elliott, part of the Jamaica delegation. During this brief discussion, he mentioned his reason for being at the event, the current state of chess in Jamaica, the future of Jamaican chess, and the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/\">Drum chats with FM Warren Elliott</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/",
-         "pubDate" : "Wed, 16 Aug 2023 15:56:38 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 15:56:38",
          "title" : "Drum chats with FM Warren Elliott"
       },
       {
@@ -1310,15 +1310,23 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/recent-allegations-made-online/",
-         "pubDate" : "Wed, 16 Aug 2023 15:36:42 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 15:36:42",
          "title" : "Recent allegations made online"
+      },
+      {
+         "description" : "D Gukesh and Vidit Gujrathi went down to Magnus Carlsen and Nijat Abasov respectively on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
+         "pubDate" : "Wed, 16 Aug 2023 12:58:23",
+         "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
       },
       {
          "description" : " Last night I played a game that was almost a brilliancy. Utilising my rook, I managed to organise quite a good attack on my opponents king. Unfortunately, when the time came to find the knockout blow, I bailed out. Instead of rewarding my rook sacrifice with a win, I decided that half a point was reward enough. Even after the game I didn't see the correct move, which only became clear with some silicon help. <br /> <b>Press,Shaun - Radisich,Matt [E66]</b><br /> LFG --- (4), 15.08.2023 <script> new PgnViewer( { boardName: \"game1416\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 c5 3.c4 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O d6 7.Nc3 Nc6 8.d5 Nb8 9.h3 Na6 10.e4 Bd7 11.e5 Ne8 12.Bf4 h6 13.Ne4 Bf5 14",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/the-raging-rook.html",
-         "pubDate" : "Wed, 16 Aug 2023 12:37:00 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 12:37:00",
          "title" : "The raging rook"
       },
       {
@@ -1334,7 +1342,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-games-link-for-60th-national-chess-championship-2023/",
-         "pubDate" : "Wed, 16 Aug 2023 11:30:21 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 11:30:21",
          "title" : "Live Games link for 60th National Chess Championship 2023"
       },
       {
@@ -1358,7 +1366,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-cup-quarter-finals/",
-         "pubDate" : "Wed, 16 Aug 2023 07:00:42 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 07:00:42",
          "title" : "FIDE WORLD CUP QUARTER FINALS"
       },
       {
@@ -1366,31 +1374,31 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-youth-u16-chess-olympiadreport-round-4-5/",
-         "pubDate" : "Wed, 16 Aug 2023 06:43:40 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 06:43:40",
          "title" : "FIDE World Youth U16 Chess Olympiad:Report Round 4 & 5"
-      },
-      {
-         "description" : "India's chess contingent held their own in the quarterfinals, while Fabiano Caruana drew with Leinier Dominguez Perez in the other quarterfinal.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38200344/2023-chess-world-cup-quarterfinals-magnus-carlsen-leads-d-gukesh-arjun-erigaisi-beats-r-praggnanandhaa-vidit-gujrathi-contention?device=featurephone",
-         "pubDate" : "Wed, 16 Aug 2023 01:07:33 -0500",
-         "title" : "2023 Chess World Cup QFs: Magnus leads Gukesh, Erigaisi beats Praggnanandhaa, Vidit in contention"
       },
       {
          "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/",
-         "pubDate" : "Wed, 16 Aug 2023 02:08:07 +0000",
+         "pubDate" : "Wed, 16 Aug 2023 02:08:07",
          "title" : "Colorful vibes at Pan-American Youth Chess Festival"
+      },
+      {
+         "description" : "India's chess contingent held their own in the quarterfinals, while Fabiano Caruana drew with Leinier Dominguez Perez in the other quarterfinal.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38200344/2023-chess-world-cup-quarterfinals-magnus-carlsen-leads-d-gukesh-arjun-erigaisi-beats-r-praggnanandhaa-vidit-gujrathi-contention?device=featurephone",
+         "pubDate" : "Wed, 16 Aug 2023 01:07:33",
+         "title" : "2023 Chess World Cup QFs: Magnus leads Gukesh, Erigaisi beats Praggnanandhaa, Vidit in contention"
       },
       {
          "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\">2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/",
-         "pubDate" : "Tue, 15 Aug 2023 22:03:13 +0000",
+         "pubDate" : "Tue, 15 Aug 2023 22:03:13",
          "title" : "2023 FIDE World Cup: Round 5"
       },
       {
@@ -1414,7 +1422,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/08/august-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 15 Aug 2023 15:54:00 +0000",
+         "pubDate" : "Tue, 15 Aug 2023 15:54:00",
          "title" : "August 1973 & 1998 'On the Cover'"
       },
       {
@@ -1422,7 +1430,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/the-rambling-rook-2/",
-         "pubDate" : "Tue, 15 Aug 2023 13:47:09 +0000",
+         "pubDate" : "Tue, 15 Aug 2023 13:47:09",
          "title" : "The Rambling Rook (2)"
       },
       {
@@ -1430,7 +1438,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/38190699/record-india-magnus-carlsen-d-gukesh-chess-world-cup-headline-quarterfinals-praggnanandhaa-arjun-erigaisi-vidit-gujrathi?device=featurephone",
-         "pubDate" : "Tue, 15 Aug 2023 02:41:18 -0500",
+         "pubDate" : "Tue, 15 Aug 2023 02:41:18",
          "title" : "Magnus vs Gukesh headlines India's record-breaking Chess World Cup quarters"
       },
       {
@@ -1462,7 +1470,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/",
-         "pubDate" : "Mon, 14 Aug 2023 13:44:50 +0000",
+         "pubDate" : "Mon, 14 Aug 2023 13:44:50",
          "title" : "2023 FIDE World Cup: Round 4"
       },
       {
@@ -1470,7 +1478,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/world-under-16-olympiad.html",
-         "pubDate" : "Mon, 14 Aug 2023 13:32:00 +0000",
+         "pubDate" : "Mon, 14 Aug 2023 13:32:00",
          "title" : "World Under 16 Olympiad"
       },
       {
@@ -1478,7 +1486,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open/#new_tab",
-         "pubDate" : "Mon, 14 Aug 2023 13:12:37 +0000",
+         "pubDate" : "Mon, 14 Aug 2023 13:12:37",
          "title" : "2nd Cambridge International Open"
       },
       {
@@ -1494,7 +1502,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-agm-2023-call-for-nominations/",
-         "pubDate" : "Mon, 14 Aug 2023 09:02:49 +0000",
+         "pubDate" : "Mon, 14 Aug 2023 09:02:49",
          "title" : "ECF AGM 2023 - call for nominations"
       },
       {
@@ -1502,7 +1510,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions-2/",
-         "pubDate" : "Mon, 14 Aug 2023 09:00:40 +0000",
+         "pubDate" : "Mon, 14 Aug 2023 09:00:40",
          "title" : "ECF AGM 2023 - call for motions"
       },
       {
@@ -1510,7 +1518,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/im-norm-news/",
-         "pubDate" : "Mon, 14 Aug 2023 08:23:32 +0000",
+         "pubDate" : "Mon, 14 Aug 2023 08:23:32",
          "title" : "IM norm news"
       },
       {
@@ -1534,7 +1542,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/half-nelson/",
-         "pubDate" : "Sun, 13 Aug 2023 20:26:14 +0000",
+         "pubDate" : "Sun, 13 Aug 2023 20:26:14",
          "title" : "Half Nelson"
       },
       {
@@ -1542,7 +1550,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/08/at-center-of-ai-research.html",
-         "pubDate" : "Sun, 13 Aug 2023 15:07:00 +0000",
+         "pubDate" : "Sun, 13 Aug 2023 15:07:00",
          "title" : "'At the Center of AI Research'"
       },
       {
@@ -1558,7 +1566,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/another-nice-lfg-win.html",
-         "pubDate" : "Sat, 12 Aug 2023 13:44:00 +0000",
+         "pubDate" : "Sat, 12 Aug 2023 13:44:00",
          "title" : "Another nice LFG win"
       },
       {
@@ -1566,7 +1574,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/believing-the-impossible/",
-         "pubDate" : "Sat, 12 Aug 2023 10:11:24 +0000",
+         "pubDate" : "Sat, 12 Aug 2023 10:11:24",
          "title" : "Believing the impossible "
       },
       {
@@ -1574,7 +1582,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/mastering-chess-puzzles-comprehensive-guide-to-effective-problem-solving/",
-         "pubDate" : "Sat, 12 Aug 2023 09:07:00 +0000",
+         "pubDate" : "Sat, 12 Aug 2023 09:07:00",
          "title" : "Mastering Chess Puzzles: The Comprehensive Guide to Effective Problem Solving"
       },
       {
@@ -1598,7 +1606,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2023-english-womens-online-blitz-championship/",
-         "pubDate" : "Fri, 11 Aug 2023 15:08:20 +0000",
+         "pubDate" : "Fri, 11 Aug 2023 15:08:20",
          "title" : "2023 English Women's Online Blitz Championship"
       },
       {
@@ -1622,7 +1630,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup",
-         "pubDate" : "Fri, 11 Aug 2023 07:00:31 +0000",
+         "pubDate" : "Fri, 11 Aug 2023 07:00:31",
          "title" : "Chess: Magnus Carlsen escapes after flirting with defeat at World Cup"
       },
       {
@@ -1638,7 +1646,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-final-round",
-         "pubDate" : "Thu, 10 Aug 2023 18:01:57 +0000",
+         "pubDate" : "Thu, 10 Aug 2023 18:01:57",
          "title" : "2023 Summer Chess Classic: Final Round"
       },
       {
@@ -1654,7 +1662,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/in-memoriam-aleksandar-matanovic-1930-2023/",
-         "pubDate" : "Thu, 10 Aug 2023 09:57:29 +0000",
+         "pubDate" : "Thu, 10 Aug 2023 09:57:29",
          "title" : "IN MEMORIAM - Aleksandar Matanovic (1930-2023)"
       },
       {
@@ -1670,7 +1678,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/",
-         "pubDate" : "Thu, 10 Aug 2023 04:00:00 +0000",
+         "pubDate" : "Thu, 10 Aug 2023 04:00:00",
          "title" : "Capital City Open IV (Tallahassee, Florida)"
       },
       {
@@ -1686,7 +1694,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/",
-         "pubDate" : "Wed, 09 Aug 2023 15:50:27 +0000",
+         "pubDate" : "Wed, 09 Aug 2023 15:50:27",
          "title" : "2023 FIDE World Cup: Round 3"
       },
       {
@@ -1694,7 +1702,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/08/have-your-say-on-ratings.html",
-         "pubDate" : "Wed, 09 Aug 2023 13:56:00 +0000",
+         "pubDate" : "Wed, 09 Aug 2023 13:56:00",
          "title" : "Have your say on ratings"
       },
       {
@@ -1702,7 +1710,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-9",
-         "pubDate" : "Wed, 09 Aug 2023 00:00:43 +0000",
+         "pubDate" : "Wed, 09 Aug 2023 00:00:43",
          "title" : "2023 Summer Chess Classic: Round 9"
       },
       {
@@ -1710,7 +1718,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-70/",
-         "pubDate" : "Tue, 08 Aug 2023 20:13:24 +0000",
+         "pubDate" : "Tue, 08 Aug 2023 20:13:24",
          "title" : "\"What Say You?\" The 1 Minute Challenge (70)"
       },
       {
@@ -1718,7 +1726,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-ultimate-moves",
-         "pubDate" : "Tue, 08 Aug 2023 05:59:50 +0000",
+         "pubDate" : "Tue, 08 Aug 2023 05:59:50",
          "title" : "2023 Chess 9LX: Ultimate Moves"
       },
       {
@@ -1726,16 +1734,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-8",
-         "pubDate" : "Tue, 08 Aug 2023 05:59:50 +0000",
+         "pubDate" : "Tue, 08 Aug 2023 05:59:50",
          "title" : "2023 Summer Chess Classic: Round 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2566",
-         "pubDate" : "Mon, 07 Aug 2023 22:26:08 +0000",
-         "title" : "Istanbul ENKA High School (Turkey) and Velammal MHS Mogappair (India) win FIDE World Schools Team Championship"
       }
    ]
 }
