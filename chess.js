@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In pawn endings the opposition is crucial. In the diagrammed position White is a pawn down, but he can still save the game. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opposition",
+         "pubDate" : "Tue, 29 Aug 2023 09:00:00",
+         "title" : "Opposition"
+      },
+      {
          "description" : "After arriving from Baku and resting the first day, R Praggnanandhaa continued where he left off at the FIDE World Cup 2023. The sensational teenager scored four wins in-a-row for WR Chess at FIDE World Rapid Teams 2023. Meanwhile GM D Gukesh (Kompetenzakademie Allstars, 2629) faced the 14th world champion, GM Vladimir Kramnik (Chess Pensioners, 2739) for the first time in an over-the-board rated game. He made the most out of his opportunity and won comfortably. Impressions from D&uuml;sseldorf with videos by Sagar Shah.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-3-wr-chess-wins",
-         "pubDate" : "Mon, 28 Aug 2023 14:04:37",
+         "pubDate" : "Mon, 28 Aug 2023 14:04:00",
          "title" : "WR Chess Clinches Gold In Penultimate Round"
       },
       {
@@ -938,14 +946,6 @@ news_feed (
          "title" : "FIDE bans transgenders from Women events"
       },
       {
-         "description" : "An instructive example sent by Jorge Baules reminded Karsten M&uuml;ller of a victory he obtained back in 1999. Bishops of opposite colours favour the attacker! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-248-opposite-coloured-bishops-favour-the-attacker",
-         "pubDate" : "Mon, 21 Aug 2023 17:30:00",
-         "title" : "Endgame Magic #248: Bishops of opposite colours favour the attacker"
-      },
-      {
          "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1720,22 +1720,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-70/",
          "pubDate" : "Tue, 08 Aug 2023 20:13:24",
          "title" : "\"What Say You?\" The 1 Minute Challenge (70)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, before Chess 9LX, it&#039;s time for team standard chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent TBA draft the world&#039;s best players to join them on their teams. Join GM Cristian Chirila for the move-by-move. 2023.09.07<br /> USChessChamps.com Best-of-4 games | G/10+5 TEAM REX: ??? TEAM TBA: ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-ultimate-moves",
-         "pubDate" : "Tue, 08 Aug 2023 05:59:50",
-         "title" : "2023 Chess 9LX: Ultimate Moves"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-8",
-         "pubDate" : "Tue, 08 Aug 2023 05:59:50",
-         "title" : "2023 Summer Chess Classic: Round 8"
       }
    ]
 }
