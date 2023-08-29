@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The dispute between chess.com and Hans Neimann seems to have come to a sudden end, with both parties agreeing to 'move on'. chess.com have reinstated Neimann's access to the platform, and while they stand by the results of their previous investigations, are allowing Neimann to return with full access rights to the server, and to events they host. As an added bonus, Magnus Carlsen, who sparked the whole issue when he withdrew from the 2022 Sinquefeld Cup after losing to Neimann, has also stated that he is happy to play against Neimann if their paths cross in future events. My uneducated guess is no money changed hands as part of the resolution, although I assume both parties did run up some ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/boy-that-de-escalated-quickly.html",
+         "pubDate" : "Tue, 29 Aug 2023 12:42:00",
+         "title" : "Boy, that de-escalated quickly"
+      },
+      {
          "description" : "Five-time World Chess Champion and World No.1 on the FIDE rating list GM Magnus Carlsen (NOR, 2835) emerged as the Winner of the FIDE World Chess Cup for the first time in his career! Magnus Carlsen won the event after defeating 18-year-old GM Praggnanandhaa R (IND, 2690) in the exciting finals. The first two classical games were concluded in a draw, and the Winner of the event got to be determined in the tiebreaks. Carlsen found his advantage in the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Montserrat Open 2023 - LIVE"
       },
       {
-         "description" : "Readers may remember when the Hans Niemann controversy broke out that the then world's richest man, Elon Musk (currently no.2), decided to dip into his vast fount of wisdom and offer his own explanation. But this was neither the first nor last time he would proffer opinions for the chess world, and has suggested ideas to revolutionize the millenary game.",
+         "description" : "Readers may remember when the Hans Niemann controversy broke out that the world's richest man, Elon Musk, decided to dip into his vast fount of wisdom and offer his own explanation. But this was neither the first nor last time he would proffer opinions for the chess world, and has suggested ideas to revolutionize the millenary game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-is-too-simple-says-elon-musk",
