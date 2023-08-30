@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XoDO08Ym6I.",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok",
+         "pubDate" : "Wed, 30 Aug 2023 00:24:36",
+         "title" : "Bok at the 2023 Saint Louis Chess Classics | Grandmaster's Choice - GM Benjamin Bok"
+      },
+      {
          "description" : "The WR Chess team went into the third and final day of action at the first-ever World Rapid Team Championship with a 3-point lead and had little trouble keeping the top spot in the standings. Two wins and two draws were enough to get a clear victory. Freedom and Team MGD1 finished second and third respectively. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1768,14 +1776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/have-your-say-on-ratings.html",
          "pubDate" : "Wed, 09 Aug 2023 13:56:00",
          "title" : "Have your say on ratings"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-round-9",
-         "pubDate" : "Wed, 09 Aug 2023 00:00:43",
-         "title" : "2023 Summer Chess Classic: Round 9"
       }
    ]
 }
