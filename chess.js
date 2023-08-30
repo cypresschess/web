@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners/",
+         "pubDate" : "Wed, 30 Aug 2023 15:27:18",
+         "title" : "Julius Baer Generation Cup Div 2 Winners"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners-live/",
+         "pubDate" : "Wed, 30 Aug 2023 15:17:00",
+         "title" : "Julius Baer Generation Cup Div 2 Winners - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen -M. Amin Tabatabaei is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-m-amin-tabatabaei-julius-baer-generation-cup-div-1-winners-quaterfinal/",
+         "pubDate" : "Wed, 30 Aug 2023 15:03:28",
+         "title" : "Magnus Carlsen -M. Amin Tabatabaei, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-winners-live/",
+         "pubDate" : "Wed, 30 Aug 2023 14:59:51",
+         "title" : "Julius Baer Generation Cup Div 1 Winners - LIVE"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov Alireza Firouzja is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-alireza-firouzja-julius-baer-generation-cup-div-1-winners-quaterfinal/",
+         "pubDate" : "Wed, 30 Aug 2023 13:45:00",
+         "title" : "Nodirbek Abdusattorov - Alireza Firouzja, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
+      },
+      {
+         "description" : "Wesley So Pavel Eljanov is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-pavel-eljanov-julius-baer-generation-cup-div-1-winners-quaterfinal/",
+         "pubDate" : "Wed, 30 Aug 2023 13:22:00",
+         "title" : "Wesley So - Pavel Eljanov, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103213056.cms\" />The young Indian chess prodigy Rameshbabu Praggnanandhaa expressed his delight to see the progress chess is making in the nation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-growing-and-i-am-very-happy-to-see-that-r-praggnanandhaa/articleshow/103213056.cms",
+         "pubDate" : "Wed, 30 Aug 2023 11:27:52 +0000",
+         "title" : "'Chess is growing and I am very happy to see that': R Praggnanandhaa"
+      },
+      {
          "description" : "The Short List this year contains four books covering widely differing aspects of chess, but also in differing sizes ranging from the compact to very...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-2/",
          "pubDate" : "Wed, 30 Aug 2023 10:54:40",
          "title" : "ECF Book of the Year Shortlist"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-winners/",
+         "pubDate" : "Wed, 30 Aug 2023 10:50:00",
+         "title" : "Julius Baer Generation Cup Div 1 Winners"
       },
       {
          "description" : "60th National Chess Championshipn2023 Certificates are available to download Link : https://aicf.online/National-2023.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -48,6 +112,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/zugzwang-torture-spring-chess-classic-grandmasters-choice-gm-benjamin-bok",
          "pubDate" : "Wed, 30 Aug 2023 03:24:45",
          "title" : "Zugzwang Torture at the Spring Chess Classic! | Grandmaster's Choice - GM Benjamin Bok"
+      },
+      {
+         "description" : "Denis Lazavik Fabiano Caruana is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/denis-lazavik-fabiano-caruana-julius-baer-generation-cup-div-1-winners-quaterfinal/",
+         "pubDate" : "Wed, 30 Aug 2023 01:06:00",
+         "title" : "Denis Lazavik - Fabiano Caruana, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XoDO08Ym6I.",
@@ -144,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-is-too-simple-says-elon-musk",
          "pubDate" : "Tue, 29 Aug 2023 10:15:00",
          "title" : "\"Chess is too simple\", says Elon Musk"
-      },
-      {
-         "description" : "The Chess Mind U18 is taking place from 2&#x2013;3 September 2023 in Rabat, Morocco. Players receive 45 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Roaa&#xA0;Laamim,&#xA0;Elachhab walid,&#xA0;Kozizi youssef,&#xA0;ELHARRAK AHMED, Youssef&#xA0;Elharrak,&#xA0;Chemaou lilya, etc.Chessdom.com will daily follow the live games. Parallel : Niter&#xF3;i []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-mind-u18/",
-         "pubDate" : "Tue, 29 Aug 2023 10:11:00",
-         "title" : "Chess Mind U18"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It is good to review from time to time important lines such as the 8.Rb1 variation. If there is something you can bet on, it is that your opponents will <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\">Need sure",
@@ -330,22 +394,6 @@ news_feed (
          "title" : "Understanding before Moving 140: Chess history in a nutshell (22)"
       },
       {
-         "description" : "The Greek Team Championship is taking place from 25&#x2013;30 August 2023 in Athens. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of 34 teams. Chessdom.com will daily follow the live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/greek-team-championship-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 14:34:32",
-         "title" : "Greek Team Championship 2023"
-      },
-      {
-         "description" : "The Greek Team Championship is taking place from 25&#x2013;30 August 2023 in Athens. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of 34 teams. Parallel : Niter&#xF3;i Open / Ottakring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/greek-team-championship-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 14:20:00",
-         "title" : "Greek Team Championship 2023 - LIVE"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103107863.cms\" />The stunning progress of teen prodigies R Praggnanandhaa and D Gukesh in international chess has encouraged several parents to consider the sport as a serious 'career option' for their children. Praggnanandhaa caught the imagination of the country when he reached the final of the FIDE World Cup after a sterling run through the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -394,52 +442,12 @@ news_feed (
          "title" : "Sethuraman National Champion"
       },
       {
-         "description" : "The San Christobal de la Laguna is taking place from 26 August to 2 September 2023 in San Crist&#xF3;bal de La Laguna, Tenerife, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Fernando Peralta, Tomas Sosa, Merab Gagunashvili, Bojan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 05:51:00",
-         "title" : "San Christobal de la Laguna 2023"
-      },
-      {
-         "description" : "The Carballo Open 2023 takes place August 25-September 1, 2023, in Carballo, Spain. The format is a nine-round Swiss. The time control is 90 minutes for the entire game plus a 30-second increment starting on move one. In the tournament will participate Neuris Delgado Ramirez, Aleksa Strikovic, Lennis Martinez Ramirez, Vladimir Petkov, Arian Gonzalez Perez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carballo-open-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 05:04:00",
-         "title" : "Carballo Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Carballo Open 2023 takes place August 25-September 1, 2023, in Carballo, Spain. The format is a nine-round Swiss. The time control is 90 minutes for the entire game plus a 30-second increment starting on move one. In the tournament will participate Neuris Delgado Ramirez, Aleksa Strikovic, Lennis Martinez Ramirez, Vladimir Petkov, Arian Gonzalez Perez, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carballo-open-2023/",
-         "pubDate" : "Sun, 27 Aug 2023 04:42:00",
-         "title" : "Carballo Open 2023"
-      },
-      {
          "description" : "The first edition of the World Rapid Team Championship kicked off on Saturday in D&uuml;sseldorf. Amid a relaxed environment, a few of the strongest GMs in the field suffered upsets. After the first four rounds, WR Chess, Wadim Rosenstein's team, is the only squad with a perfect 8/8 score. Ian Nepomniachtchi was the strongest performer in the leading team, as he beat four lower-rated opponents in a row. | Pictured: The Chess Pensioners | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d1",
          "pubDate" : "Sun, 27 Aug 2023 04:15:00",
          "title" : "D&uuml;sseldorf: The fun begins, WR Chess perfect after four rounds"
-      },
-      {
-         "description" : "The San Christobal de la Laguna is taking place from 26 August to 2 September 2023 in San Crist&#xF3;bal de La Laguna, Tenerife, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Fernando Peralta, Tomas Sosa, Merab Gagunashvili, Bojan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/san-christobal-de-la-laguna-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 03:30:00",
-         "title" : "San Christobal de la Laguna 2023 - LIVE"
-      },
-      {
-         "description" : "The Ottakring Open is taking place from 26 August to 3 September 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Evgeny:Romanov, Nikita Meshkovs, Felix Blohberger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ottakring-open-2023-live/",
-         "pubDate" : "Sun, 27 Aug 2023 02:38:00",
-         "title" : "Ottakring Open 2023 - LIVE"
       },
       {
          "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
@@ -522,7 +530,7 @@ news_feed (
          "title" : "The 21st EU Youth Chess Championship 2023 concluded in Czech Republic"
       },
       {
-         "description" : "Getting better at chess is pretty straightforward. If you spend time on a few things that really matter, you will be able to improve your chess rather quickly. In this article, I will share my simple philosophy for chess improvement. It worked for me, 300+ course students, and thousands of readers. It will work for []",
+         "description" : "Getting better at chess is pretty straightforward. If you spend time on a few things that really matter, you will be able to improve your chess rather quickly. In this article, I will share my simple philosophy for chess improvement. It worked for me, 400+ course students, and thousands of readers. It will work for []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/how-to-get-better-at-chess/",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/now-i-can-just-give-everything-tomorrow-praggnanandhaa-on-tie-breaks-vs-magnus-carlsen/articleshow/102993217.cms",
          "pubDate" : "Wed, 23 Aug 2023 15:17:15 +0000",
          "title" : "'Now I can just give everything tomorrow': Praggnanandhaa on tie-breaks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102992320.cms\" />World No.1 Magnus Carlsen praised Indian teen R Praggnanandhaa's strong tie-break skills in the ongoing FIDE Chess World Cup final. The second game of the final ended in a draw after 30 moves on Wednesday. The winner will be determined by two tie-breaks on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-has-already-played-a-lot-of-tie-breaks-he-is-very-strong-magnus-carlsen/articleshow/102992320.cms",
-         "pubDate" : "Wed, 23 Aug 2023 14:48:59 +0000",
-         "title" : "Praggnanandhaa is very strong in tie-breaks: Magnus Carlsen"
       },
       {
          "description" : "The last classical games of the 2023 FIDE World Cup could not have been more different from each other. In the final between GM Magnus Carlsen and GM Praggnanandhaa Rameshbabu, the drawn outcome was predicted as early as move five, while in the th...",
@@ -1784,14 +1784,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/",
          "pubDate" : "Wed, 09 Aug 2023 15:50:27",
          "title" : "2023 FIDE World Cup: Round 3"
-      },
-      {
-         "description" : " The FIDE Qualification Commission is inviting comments on proposed changes to the FIDE Rating System. The details fo the changes are at <a href=\"https://fide.com/news/2538\">https://fide.com/news/2538</a> and you can send your comments to qualification@fide.com (NB As Secretary of the FIDE QC, I do get to read them). We have already received a number of submissions, but you have until the end of September to comment. After this date QC will go through the submissions and see if there are important ideas we may have missed. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/have-your-say-on-ratings.html",
-         "pubDate" : "Wed, 09 Aug 2023 13:56:00",
-         "title" : "Have your say on ratings"
       }
    ]
 }
