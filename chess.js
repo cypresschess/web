@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Federation of Russia has lost another top player. Nikita Vitiugov, who played under the FIDE flag after Russia's invasion of Ukraine, has transferred to the English Chess Federation, where he now occupies the first place in the federation's ratings list.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nikita-vitiugov-transfers-english-chess-federation",
+         "pubDate" : "Wed, 30 Aug 2023 19:00:00",
+         "title" : "Nikita Vitiugov transfers to the English Chess Federation"
+      },
+      {
+         "description" : "In the last episode, Chris introduced the Hungarian Dragon. This time, the British GM will continue with some deviations of the popular variation. Beware, the following game is intense! It is definitely worth it to check out the full analysis. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-deviation",
+         "pubDate" : "Wed, 30 Aug 2023 16:55:00",
+         "title" : "The Monthly Dragon - Introducing: The Hungarian Deviation!"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Wed, 30 Aug 2023 16:50:00",
+         "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
+         "description" : "Alexey Sarana Nihal Sarin is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexey-sarana-nihal-sarin-julius-baer-generation-cup-div-2-winners/",
+         "pubDate" : "Wed, 30 Aug 2023 15:53:07",
+         "title" : "Alexey Sarana - Nihal Sarin, Julius Baer Generation Cup Div 2 Winners"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103219924.cms\" />Grandmaster Koneru Humpy believes Indian chess is in good hands as she lauded R Praggnandhaa's feat of reaching the final of the World Cup recently. \"I feel these youngsters are a very talented bunch.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-is-in-good-hands-koneru-humpy/articleshow/103219924.cms",
+         "pubDate" : "Wed, 30 Aug 2023 15:44:04 +0000",
+         "title" : "Indian chess is in good hands: Koneru Humpy"
+      },
+      {
          "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,12 +122,12 @@ news_feed (
          "title" : "60th National Chess Championship 2023, Certificates"
       },
       {
-         "description" : "Last episode, Chris introduced the Hungarian Dragon to you. This time, the British GM will continue with some deviations of the popular variation. Be aware, the following game is intense! It is worthy, checking out the full analysis of Chris Ward. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-deviation",
-         "pubDate" : "Wed, 30 Aug 2023 10:14:20",
-         "title" : "The Monthly Dragon - Introducing: The Hungarian Deviation!"
+         "description" : "GM Alireza Firouzja has become the fourth player to sweep both ends of a Titled Tuesday, joining GMs Hikaru Nakamura, Wesley So, and Maxime Vachier-Lagrave in accomplishing the feat. Firouzja won the early event on August 29 with 9.5 points, then ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-august-29-2023",
+         "pubDate" : "Wed, 30 Aug 2023 08:25:00",
+         "title" : "Firouzja Joins Tuesday Sweep Club"
       },
       {
          "description" : "The Indian edition of the Tata Steel Chess Tournament returns for a much-anticipated fifth edition. Once again, a women's event and a men's event will take place one after the other. World champion Ju Wenjun will head the women's field, while five international grandmasters will face the likes of Gukesh and Praggnanandhaa in the men's tournament.",
@@ -98,12 +138,28 @@ news_feed (
          "title" : "Top-notch rapid and blitz action in Kolkata!"
       },
       {
+         "description" : "Rauf Mamedov Levon Aronian is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rauf-mamedov-levon-aronian-julius-baer-generation-cup-div-2-winners/",
+         "pubDate" : "Wed, 30 Aug 2023 06:49:00",
+         "title" : "Rauf Mamedov - Levon Aronian, Julius Baer Generation Cup Div 2 Winners"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103198303.cms\" />Indian chess prodigy R Praggnanandhaa, who won the 2023 FIDE World Cup silver medal and FIDE Candidates tournament, received an enthusiastic reception upon his arrival. State sports department officials welcomed him with flower crowns, shawls, and bouquets. Traditional Tamil Nadu folk dances, including Karagattam and Oyilattam, added to the celebratory atmosphere.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-praggnanandhaa-receives-heros-welcome-after-fide-world-cup-success/articleshow/103198303.cms",
          "pubDate" : "Wed, 30 Aug 2023 06:00:51 +0000",
-         "title" : "WATCH: Praggnanandhaa receives hero's welcome after FIDE World Cup success"
+         "title" : "WATCH: Praggnanandhaa receives hero's welcome after WC success"
+      },
+      {
+         "description" : "Vladislav Artemiev Evgeny Alekseev is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladislav-artemiev-evgeny-alekseev-julius-baer-generation-cup-div-2-winners/",
+         "pubDate" : "Wed, 30 Aug 2023 05:15:00",
+         "title" : "Vladislav Artemiev - Evgeny Alekseev, Julius Baer Generation Cup Div 2 Winners"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29<br /> Benjamin Bok vs. Sam Sevian, 2023: E04 Catalan, open, 5.Nf3<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4408148\">https://www.365chess.com/game.php?back=1&amp;gid=4408148</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zugzwang-torture-sp",
@@ -112,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/zugzwang-torture-spring-chess-classic-grandmasters-choice-gm-benjamin-bok",
          "pubDate" : "Wed, 30 Aug 2023 03:24:45",
          "title" : "Zugzwang Torture at the Spring Chess Classic! | Grandmaster's Choice - GM Benjamin Bok"
-      },
-      {
-         "description" : "Denis Lazavik Fabiano Caruana is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/denis-lazavik-fabiano-caruana-julius-baer-generation-cup-div-1-winners-quaterfinal/",
-         "pubDate" : "Wed, 30 Aug 2023 01:06:00",
-         "title" : "Denis Lazavik - Fabiano Caruana, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XoDO08Ym6I.",
@@ -192,22 +240,6 @@ news_feed (
          "link" : "https://www.europechess.org/aleksandra-goryachkina-wins-fide-womens-world-chess-cup-2023/",
          "pubDate" : "Tue, 29 Aug 2023 10:43:33",
          "title" : "Aleksandra Goryachkina wins FIDE Women's World Chess Cup 2023"
-      },
-      {
-         "description" : "The Chess Mind U18 is taking place from 2&#x2013;3 September 2023 in Rabat, Morocco. Players receive 45 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Roaa&#xA0;Laamim,&#xA0;Elachhab walid,&#xA0;Kozizi youssef,&#xA0;ELHARRAK AHMED, Youssef&#xA0;Elharrak,&#xA0;Chemaou lilya, etc. Parallel : Niter&#xF3;i Open / Ottakring Ope / Carballo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-mind-u18-live/",
-         "pubDate" : "Tue, 29 Aug 2023 10:38:55",
-         "title" : "Chess Mind U18 - LIVE"
-      },
-      {
-         "description" : "The Montseerat Open is a 9-round Swiss tournament taking place from 28 August to 2 September 2023 in Montserrat, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. Parallel : Niter&#xF3;i Open / Ottakring Ope / Carballo Open 2023 / San Christobal de la Laguna &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/montserrat-open-2023-live/",
-         "pubDate" : "Tue, 29 Aug 2023 10:17:36",
-         "title" : "Montserrat Open 2023 - LIVE"
       },
       {
          "description" : "Readers may remember when the Hans Niemann controversy broke out that the world's richest man, Elon Musk, decided to dip into his vast fount of wisdom and offer his own explanation. But this was neither the first nor last time he would proffer opinions for the chess world, and has suggested ideas to revolutionize the millenary game.",
@@ -898,22 +930,6 @@ news_feed (
          "title" : "Caruana Wins, Carlsen-Praggnanandhaa Draw: Both Matches Move To Tiebreaks"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102989661.cms\" />Indian chess prodigy R Praggnanandhaa held his ground against world No.1 Magnus Carlsen in a thrilling FIDE World Cup final, forcing a draw in the second classical game of the series. The strategic duel between the two giants has captivated fans worldwide, with the championship's fate still in the balance. The balanced position led to a peaceful draw after just 30 moves. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-praggnanandhaa-holds-magnus-carlsen-to-draw-in-second-game/articleshow/102989661.cms",
-         "pubDate" : "Wed, 23 Aug 2023 13:05:37 +0000",
-         "title" : "Chess WC Final: Praggnanandhaa holds Carlsen to draw in Game 2"
-      },
-      {
-         "description" : "The first game of the FIDE World Cup final ended drawn, as Praggnanandhaa could not get much of an advantage with the white pieces against Magnus Carlsen. In the match for third place, on the other hand, underdog Nijat Abasov managed to upset Fabiano Caruana, after the latter blundered in a sharp middlegame emerging from a Catalan Opening. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d1",
-         "pubDate" : "Wed, 23 Aug 2023 12:25:00",
-         "title" : "World Cup: All square in the final, Abasov beats Caruana"
-      },
-      {
          "description" : "Praggnanandhaa vs Carlsen will now be decided on tie-breaks after the duo played out a second consecutive draw on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -960,14 +976,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38242409/2023-chess-world-cup-final-r-praggnanandhaa-ekes-draw-magnus-carlsen-opening-game?device=featurephone",
          "pubDate" : "Tue, 22 Aug 2023 23:10:20",
          "title" : "Chess WC: Praggnanandhaa ekes out draw against Carlsen in opening game"
-      },
-      {
-         "description" : "The first-ever World Rapid Team Championship will take place in D&uuml;sseldorf on August 26-28. Forty teams from all corners of the world are registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Richard Rapport. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, will represent the humorously named 'Chess Pensioners' team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-preview",
-         "pubDate" : "Tue, 22 Aug 2023 21:40:00",
-         "title" : "Clash of titans in D&uuml;sseldorf: World Rapid Team Championship"
       },
       {
          "description" : "",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/chess-in-far-far-future.html",
          "pubDate" : "Thu, 17 Aug 2023 11:52:00",
          "title" : "Chess in the far far future"
-      },
-      {
-         "description" : "IM Levy Rozman&#39;s first chess book is months away from being released, but it has already sold more than 12,000 copies and made it to #1 on Amazon&#39;s best-seller lists. The online chess streamer, popularly known as GothamChess, is the world&#39;s bigg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-tops-amazon-lists-with-first-book",
-         "pubDate" : "Thu, 17 Aug 2023 11:43:00",
-         "title" : "'GothamChess' Tops Amazon Lists More Than Two Months Before Release Of First Book"
       },
       {
          "description" : "",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2567",
          "pubDate" : "Wed, 09 Aug 2023 20:21:14 +0000",
          "title" : "FIDE World Cup Round 4 Game 1: Magnus Carlsen loses to 18-year-old prodigy Vincent Keymer"
-      },
-      {
-         "description" : " Top Three Seeds Go Through, but a Few Surprises In a trend where the youngest stars are shining at the World Cup, some of the veterans are still showing that experience is an enduring quality in the knockout system. Besides Magnus Carlsen and Hikaru Nakamura winning their matches, both Peter Svidler and Vasyl Ivanchuk, both The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/\">2023 FIDE World Cup: Round 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/09/2023-fide-world-cup-round-3/",
-         "pubDate" : "Wed, 09 Aug 2023 15:50:27",
-         "title" : "2023 FIDE World Cup: Round 3"
       }
    ]
 }
