@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yannick Gozzoli and Mitra Hejazipour are the new champions of France. Both won their maiden national titles. The French Championships 2023, 16-player knockout tournaments held in open and women's sections, took place on August 18-27 in Alpe d'Huez. Gozzoli beat Romain Edouard in the final of the open, while Iranian-born Hejazipour got the better of Deimante Daulyte-Cornette among the women.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/french-championships-2023-report",
+         "pubDate" : "Wed, 30 Aug 2023 21:30:00",
+         "title" : "French Championships: Gozzoli and Hejazipour clinch titles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tournament to Feature Ten of the Top Chess Players including Legendary World Champion Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-host-champions-showdown-chess-9lx",
+         "pubDate" : "Wed, 30 Aug 2023 20:33:02",
+         "title" : "Saint Louis Chess Club To Host Champions Showdown: Chess 9LX"
+      },
+      {
          "description" : "The Chess Federation of Russia has lost another top player. Nikita Vitiugov, who played under the FIDE flag after Russia's invasion of Ukraine, has transferred to the English Chess Federation, where he now occupies the first place in the federation's ratings list.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +66,14 @@ news_feed (
          "title" : "Julius Baer Generation Cup Div 2 Winners"
       },
       {
+         "description" : "GMs&#38;nbsp;Magnus Carlsen, Fabiano Caruana, Alireza Firouzja, and Wesley So move on to the Division I Winners Semifinals of the 2023 Julius Baer Generation Cup after winning their matches on day one. Carlsen, Firouzja, and So all won their matches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-1",
+         "pubDate" : "Wed, 30 Aug 2023 15:27:00",
+         "title" : "Caruana Survives Near-Upset; Carlsen, Firouzja, So Win Matches In 3 Games"
+      },
+      {
          "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://www.chessdom.com/nodirbek-abdusattorov-alireza-firouzja-julius-baer-generation-cup-div-1-winners-quaterfinal/",
          "pubDate" : "Wed, 30 Aug 2023 13:45:00",
          "title" : "Nodirbek Abdusattorov - Alireza Firouzja, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
+      },
+      {
+         "description" : "The Tata Steel Rapid &#38;amp; Blitz Women&#39;s tournament was inaugurated at Kolkata, India, on Wednesday, August 30, 2023, with a short ceremony and drawing of lots. The event pits five of the best Indian women players against five invited global stars...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-inauguration",
+         "pubDate" : "Wed, 30 Aug 2023 13:24:27",
+         "title" : "Star Players Kick Off Tata Steel Chess India"
       },
       {
          "description" : "Wesley So Pavel Eljanov is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
@@ -906,14 +938,6 @@ news_feed (
          "title" : "World Cup winner and third place to be decided in tiebreaks"
       },
       {
-         "description" : "In mid-August, the Women's Chess Commission hosted its inaugural Online Blitz Tournament on the ChessBase Playchess platform. Under the leadership of Chairperson Regina Pokorna, the event was organized to further spotlight women's chess. Eleven female competitors took part in this intimate online blitz event, where they had the chance to challenge the formidable IM Stavroula Tsolakidou. The top Greek female player clinched the title with a flawless score of 10/10!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-perfect-score-stavroula-tsolakidou-dominates-women-s-chess-blitz-event",
-         "pubDate" : "Wed, 23 Aug 2023 16:15:00",
-         "title" : "A perfect score: Stavroula Tsolakidou dominates women's chess blitz event"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102993217.cms\" />India's R Paggnanandhaa is ready to face World No.1 Magnus Carlsen in the FIDE Chess World Cup final tie-breaks, after drawing two classical games. The winner will be determined by two tie-breaks on Thursday. The second game ended in a 30-move draw on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1320,14 +1344,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
          "pubDate" : "Thu, 17 Aug 2023 17:45:38",
          "title" : "FIDE bans trans women from women's chess"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu and GM Arjun Erigaisi were engaged in 1-1 deadlocks in three sets of tiebreak games at the 2023 FIDE World Cup. After two draws in the 25+10 rapid tiebreaks, Praggnanandhaa twice took the lead by winning the first game...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-6-3",
-         "pubDate" : "Thu, 17 Aug 2023 16:05:00",
-         "title" : "Praggnanandhaa Prevails In Dramatic Tiebreak; Salimova Continues Dream Run"
       },
       {
          "description" : "A month after posting about the <A HREF=\"https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html\">2023 CJA Award Entries</A> (July 2023; Chess Journalists of America), I'm ready to do a short series on the awards themselves. In that post I wanted 'to collect all of the entries across all of the categories', but I ran into an obstacle:- <BLOCKQUOTE> The data behind the page is embedded on the page's HTML, so it should be possible to extract the entries using straightforward text tools. That would require more work than I have time for right now. I might come back to it later, but I wouldn't bet any money on that happening soon. The winners will be announced next month. </BLOC",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/",
          "pubDate" : "Thu, 10 Aug 2023 04:00:00",
          "title" : "Capital City Open IV (Tallahassee, Florida)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2567",
-         "pubDate" : "Wed, 09 Aug 2023 20:21:14 +0000",
-         "title" : "FIDE World Cup Round 4 Game 1: Magnus Carlsen loses to 18-year-old prodigy Vincent Keymer"
       }
    ]
 }
