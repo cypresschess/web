@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Indian edition of the Tata Steel Chess Tournament returns for a much-anticipated fifth edition. Once again, a women's event and a men's event will take place one after the other. World champion Ju Wenjun will head the women's field, while five international grandmasters will face the likes of Gukesh and Praggnanandhaa in the men's tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-preview",
+         "pubDate" : "Wed, 30 Aug 2023 07:30:00",
+         "title" : "Top-notch rapid and blitz action in Kolkata!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103198303.cms\" />Indian chess prodigy R Praggnanandhaa, who won the 2023 FIDE World Cup silver medal and FIDE Candidates tournament, received an enthusiastic reception upon his arrival. State sports department officials welcomed him with flower crowns, shawls, and bouquets. Traditional Tamil Nadu folk dances, including Karagattam and Oyilattam, added to the celebratory atmosphere.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-praggnanandhaa-receives-heros-welcome-after-fide-world-cup-success/articleshow/103198303.cms",
+         "pubDate" : "Wed, 30 Aug 2023 06:00:51 +0000",
+         "title" : "WATCH: Praggnanandhaa receives hero's welcome after FIDE World Cup success"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29<br /> Benjamin Bok vs. Sam Sevian, 2023: E04 Catalan, open, 5.Nf3<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4408148\">https://www.365chess.com/game.php?back=1&amp;gid=4408148</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zugzwang-torture-sp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zugzwang-torture-spring-chess-classic-grandmasters-choice-gm-benjamin-bok",
+         "pubDate" : "Wed, 30 Aug 2023 03:24:45",
+         "title" : "Zugzwang Torture at the Spring Chess Classic! | Grandmaster's Choice - GM Benjamin Bok"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XoDO08Ym6I.",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -522,6 +546,14 @@ news_feed (
          "title" : "As Praggnanandhaa and Gukesh shine, is India the new talent-churning machine in chess?"
       },
       {
+         "description" : "1st National School Under-12, 18 Chess Championship Certificates available to download Link U-12 : https://aicf.online/National-School-Team-12.html Link U-18 : https://aicf.online/National-School-Team-18.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-national-school-under-12-18-chess-championship-certificates/",
+         "pubDate" : "Fri, 25 Aug 2023 12:19:02",
+         "title" : "1st National School Under-12, 18 Chess Championship Certificates"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103062530.cms\" />R Nagalakshmi, mother of teen chess prodigy R Praggnanandhaa, on Friday expressed her joy as her son secured a place in the Candidates Tournament. Nagalakshmi mentioned despite the remarkable achievement of her 18-year-old son, he still has a 'long was to go'. The Candidates Tournament holds significant importance as it determines the contender who will challenge the reigning world champion.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "Chess.com Supports First ChessPunks Champs Tournament For Adult Improvers"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102967884.cms\" />Rameshbabu Praggnanandhaa's sensational run to the final of the Chess World Cup has drawn praise from several quarters, including legends like Viswanathan Anand and Garry Kasparov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/imagine-the-joy-if-praggnanandhaa-wins-when-chandrayaan-lands-on-moon-viswanathan-anand/articleshow/102967884.cms",
-         "pubDate" : "Wed, 23 Aug 2023 04:59:59 +0000",
-         "title" : "Imagine the joy if Prag wins when Chandrayaan lands on moon: Anand"
-      },
-      {
          "description" : "Praggnanandhaa forced a stalemate in 35 moves, playing with white pieces in the first classical game of the 2023 Chess World Cup final.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1000,14 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-2023/",
          "pubDate" : "Tue, 22 Aug 2023 10:21:37",
          "title" : "21st European Union Youth Chess Championship 2023 -"
-      },
-      {
-         "description" : "This attacking guideline from the middlegame is also valid in the endgame and helped White to win in the diagram position. What did he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/invite-everyone-to-the-party",
-         "pubDate" : "Tue, 22 Aug 2023 09:00:00",
-         "title" : "Invite everyone to the party"
       },
       {
          "description" : "",
@@ -1440,14 +1456,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cup-quarter-finals/",
          "pubDate" : "Wed, 16 Aug 2023 07:00:42",
          "title" : "FIDE WORLD CUP QUARTER FINALS"
-      },
-      {
-         "description" : "India held higher seed Romania in the fifth round in the ongoing World Youth Chess Olympiad held at World's smartest square High Tech Campus in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-youth-u16-chess-olympiadreport-round-4-5/",
-         "pubDate" : "Wed, 16 Aug 2023 06:43:40",
-         "title" : "FIDE World Youth U16 Chess Olympiad:Report Round 4 & 5"
       },
       {
          "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
