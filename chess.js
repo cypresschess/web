@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Short List this year contains four books covering widely differing aspects of chess, but also in differing sizes ranging from the compact to very...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-2/",
+         "pubDate" : "Wed, 30 Aug 2023 10:54:40",
+         "title" : "ECF Book of the Year Shortlist"
+      },
+      {
+         "description" : "60th National Chess Championshipn2023 Certificates are available to download Link : https://aicf.online/National-2023.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/60th-national-chess-championship-2023-certificates/",
+         "pubDate" : "Wed, 30 Aug 2023 10:29:13",
+         "title" : "60th National Chess Championship 2023, Certificates"
+      },
+      {
+         "description" : "Last episode, Chris introduced the Hungarian Dragon to you. This time, the British GM will continue with some deviations of the popular variation. Be aware, the following game is intense! It is worthy, checking out the full analysis of Chris Ward. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-deviation",
+         "pubDate" : "Wed, 30 Aug 2023 10:14:20",
+         "title" : "The Monthly Dragon - Introducing: The Hungarian Deviation!"
+      },
+      {
          "description" : "The Indian edition of the Tata Steel Chess Tournament returns for a much-anticipated fifth edition. Once again, a women's event and a men's event will take place one after the other. World champion Ju Wenjun will head the women's field, while five international grandmasters will face the likes of Gukesh and Praggnanandhaa in the men's tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/learn-master-games-beginner-breakdown",
          "pubDate" : "Tue, 29 Aug 2023 18:24:05",
          "title" : "Learn from Master Games | Beginner Breakdown"
+      },
+      {
+         "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-2.html",
+         "pubDate" : "Tue, 29 Aug 2023 15:13:00",
+         "title" : "2023 CJA Awards - Part 2"
       },
       {
          "description" : " The dispute between chess.com and Hans Neimann seems to have come to a sudden end, with both parties agreeing to 'move on'. chess.com have reinstated Neimann's access to the platform, and while they stand by the results of their previous investigations, are allowing Neimann to return with full access rights to the server, and to events they host. As an added bonus, Magnus Carlsen, who sparked the whole issue when he withdrew from the 2022 Sinquefeld Cup after losing to Neimann, has also stated that he is happy to play against Neimann if their paths cross in future events. My uneducated guess is no money changed hands as part of the resolution, although I assume both parties did run up some ",
@@ -1002,14 +1034,6 @@ news_feed (
          "title" : "Pragg v Carlsen"
       },
       {
-         "description" : "Aleksandra Goryachkina clinched gold at the 2023 Women's World Cup in Baku after beating Nurgyul Salimova in rapid tiebreaks. The Russian grandmaster entered the tournament as the second seed, and needed to show great technique to take down the over-performing Bulgarian underdog. Anna Muzychuk also reached the podium, as she beat Tan Zhongyi in the match for third place. Thanks to this win, Muzychuk gained a spot in the 2024 Women's Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r7-d2-2",
-         "pubDate" : "Tue, 22 Aug 2023 12:45:00",
-         "title" : "Goryachkina wins Women's World Cup, Muzychuk reaches Candidates"
-      },
-      {
          "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in the first Qualifier on Tuesday. Yu finished second in the Swiss on day one and, on the second day, w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1450,14 +1474,6 @@ news_feed (
          "title" : "FIDE World Youth Olympiad 2023: Day 3 Recap"
       },
       {
-         "description" : "It was a historic moment for Indian chess since 4 out of 8 participants were Indians! GUKESH-CARLSEN &#160;&#160;&#160;0-1 Gukesh started with the London system where",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cup-quarter-finals/",
-         "pubDate" : "Wed, 16 Aug 2023 07:00:42",
-         "title" : "FIDE WORLD CUP QUARTER FINALS"
-      },
-      {
          "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2573",
          "pubDate" : "Fri, 11 Aug 2023 19:49:27 +0000",
          "title" : "World Cup Round 4 Tiebreaks: Hikaru Nakamura and Ju Wenjun are out"
-      },
-      {
-         "description" : "The 2023 English Women's Online Blitz Championship is now in progress with qualifiers complete and the finals starting at 3.00pm on Saturday 12th August. The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2023-english-womens-online-blitz-championship/",
-         "pubDate" : "Fri, 11 Aug 2023 15:08:20",
-         "title" : "2023 English Women's Online Blitz Championship"
       },
       {
          "description" : "",
