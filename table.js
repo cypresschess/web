@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-08-01  - 08-29","25","<a href=http://www.uschess.org/msa/XtblMain.php?202308293732 target='_blank'>AUGUST 2023 TUESDAY NIGHT SWISS</a>",
+"HOUSTON","2023-08-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202308263482 target='_blank'>ADULT SWISS AUG 26</a>",
 "SPRING","2023-08-26","160","<a href=http://www.uschess.org/msa/XtblMain.php?202308261892 target='_blank'>KLEIN BACK-TO-SCHOOL SCHOLASTIC</a>",
 "HOUSTON","2023-08-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202308261242 target='_blank'>CHESSPANDA08262023SATURDAY</a>",
 "SPRING","2023-08-25","31","<a href=http://www.uschess.org/msa/XtblMain.php?202308252932 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-01-03  - 01-31","13","<a href=http://www.uschess.org/msa/XtblMain.php?202301313282 target='_blank'>JAN 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-01-09  - 01-30","9","<a href=http://www.uschess.org/msa/XtblMain.php?202301308962 target='_blank'>CLCC JANUARY MONDAYS</a>",
 "HOUSTON","2023-01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202301284232 target='_blank'>JAN 2023 SCHOLASTIC</a>",
-"SPRING","2023-01-28","385","<a href=http://www.uschess.org/msa/XtblMain.php?202301281852 target='_blank'>23RD KLEIN WINTER SCHOLASTIC</a>",
-"CYPRESS","2023-01-27","24","<a href=http://www.uschess.org/msa/XtblMain.php?202301270242 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
