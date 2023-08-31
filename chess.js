@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Thu, 31 Aug 2023 11:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "Yannick Gozzoli and Mitra Hejazipour are the new champions of France. Both won their maiden national titles. The French Championships 2023, 16-player knockout tournaments held in open and women's sections, took place on August 18-27 in Alpe d'Huez. Gozzoli beat Romain Edouard in the final of the open, while Iranian-born Hejazipour got the better of Deimante Daulyte-Cornette among the women.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -922,14 +930,6 @@ news_feed (
          "title" : "Aleksandra Goryachkina: \"I try to imitate Alexandra Kosteniuk in knockouts\""
       },
       {
-         "description" : "From coding instructor to chessboxer, there is nothing that this talented 24-year-old cannot do. Sneha has won many laurels in the world of ChessBoxing. Within a few years, she has established her name in this highly athletic and booming sport. Sneha is the current national champion of India and has proudly represented India and secured a gold medal at the 2023 Asian ChessBoxing Championships 2023 and a silver medal at the 2022 World Championships. Through this article, we want to acquaint you with the life of this fighting athlete, and how she is trying to pursue her passion in spite of all the hurdles.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sneha-waykar-profile-2023",
-         "pubDate" : "Wed, 23 Aug 2023 22:25:00",
-         "title" : "From coding instructor to chessboxer: Sneha Waykar"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1760,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2569",
          "pubDate" : "Thu, 10 Aug 2023 17:59:26 +0000",
          "title" : "World Cup: Carlsen remains in the race, but Wesley So is out"
-      },
-      {
-         "description" : "One of the greatest Serbian chess players, GM Aleksandar Matanovic, died yesterday in Belgrade, at the age of 93. Aleksandar Matanovic was born in Belgrade, on May 23rd, 1930. After becoming the Yugoslav Junior Chess Champion in 1948, he joined the Yugoslavian representation in 1950 playing the radio-match against the USA team. Aged 25, Matanovic became the grandmaster in 1955 and won the Yugoslavian National Championship three times (1962, 1969, 1978). He was a member of the Yugoslavian Olympic team []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/in-memoriam-aleksandar-matanovic-1930-2023/",
-         "pubDate" : "Thu, 10 Aug 2023 09:57:29",
-         "title" : "IN MEMORIAM - Aleksandar Matanovic (1930-2023)"
       }
    ]
 }
