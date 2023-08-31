@@ -2,12 +2,124 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Thu, 31 Aug 2023 16:45:00",
+         "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
+         "description" : "World-class chess explained in video: Dorian Rogozenco shows two wins of Hikaru Nakamura from Norway Chess 2023, including the decisive last-round game against Fabiano Caruana - Sharjah Masters 2023: Analyses by tournament winner Arjun Erigaisi as well as Ivan Cheparinov, Grigoriy Oparin, Thai Dai Van Ngyuen and Samvel Ter-Sahakyan - \"Special\" on Hikaru Nakamura: exclusive collection of 19 encounters with detailed commentary from 2007 to 2023 - Action in the centre: Christian Braun's Anti-Sicilian recipe 1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5!? - \"Nakamura's strategy in practice\": Mihail Marin sheds light on the US American's skills, incl. two interactive videos and a large collection of exercises ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-215",
+         "pubDate" : "Thu, 31 Aug 2023 15:00:00",
+         "title" : "New: ChessBase Magazine #215"
+      },
+      {
+         "description" : "Wesley So Alireza Firouzja is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-alireza-firouzja-julius-baer-generation-cup-div-1-winners/",
+         "pubDate" : "Thu, 31 Aug 2023 14:45:29",
+         "title" : "Wesley So - Alireza Firouzja, Julius Baer Generation Cup Div 1 Winners"
+      },
+      {
+         "description" : "Fabiano Caruana Magnus Carlsen is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-magnus-carlsen-julius-baer-generation-cup-div-1-winners/",
+         "pubDate" : "Thu, 31 Aug 2023 14:42:31",
+         "title" : "Fabiano Caruana - Magnus Carlsen, Julius Baer Generation Cup Div 1 Winners"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103254236.cms\" />India's teen chess sensation, Rameshbabu Praggnanandhaa met with Prime Minister Narendra Modi at his official residence in Delhi. Pragg, who recently competed against world No. 1 Magnus Carlsen in the World Cup final, expressed his gratitude for the Prime Minister's encouragement and support.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/you-personify-passion-and-perseverance-pm-modi-meets-chess-prodigy-praggnanandhaa/articleshow/103254236.cms",
+         "pubDate" : "Thu, 31 Aug 2023 14:38:26 +0000",
+         "title" : "'You personify passion and perseverance': PM Modi meets Praggnanandhaa"
+      },
+      {
+         "description" : "Pavel Eljanov Nodirbek Abdusattorov is a Round 1 game from Julius Baer Generation Cup Div 1 Losers.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pavel-eljanov-nodirbek-abdusattorov-julius-baer-generation-cup-div-1-losers/",
+         "pubDate" : "Thu, 31 Aug 2023 14:00:00",
+         "title" : "Pavel Eljanov - Nodirbek Abdusattorov, Julius Baer Generation Cup Div 1 Losers"
+      },
+      {
+         "description" : " Under the FIDE Title regulations, you cannot 'arrange' the order of rounds in a tournament to benefit a particular player (or players). This mainly applied to Round Robin events, where an event might not have the correct mix of foreign players but a norm might be achieved if the player plays the right mix over a shorter set of rounds eg claiming a 9 game norm from an 11 round event (NB Even this is no longer possible as all rounds must be counted for a RR norm). However, it is the case that norms do count if the rounds are ordered randomly. Historically, this used to be a thing, with the idea that it made it harder to prepare for an opponent. One famous example was the 1924 New York Interna",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/08/random-rounds.html",
+         "pubDate" : "Thu, 31 Aug 2023 13:58:00",
+         "title" : "Random Rounds"
+      },
+      {
+         "description" : " The Julius Baer Generation Cup takes place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. This event is awfully complicated to cover. Will eventually start to get the games up later today.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2023",
+         "pubDate" : "Thu, 31 Aug 2023 13:55:00",
+         "title" : "Julius Baer Generation Cup 2023 - Games and Results"
+      },
+      {
+         "description" : " The Tata Steel India Rapid & Blitz 2023 is split into separate Women's and then Men's event that are not held simultaneously. The women's event takes place Thu 31st Aug to Mon 4th Sep 2023. Players: Wenjun Ju, Humpy Koneru, Harika Dronavalli, Irina Krush, Anna Ushenina, Nino Batsiashvili, Polina Shuvalova, Agrawal Vantika, Shri B Savitha and Deshmukh Divya.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-women-2023",
+         "pubDate" : "Thu, 31 Aug 2023 13:42:00",
+         "title" : "Tata Steel India Rapid & Blitz Women 2023 - Games and Results"
+      },
+      {
+         "description" : "M. Amin Tabatabaei Denis Lazavik is a Round 1 game from Julius Baer Generation Cup Div 1 Losers. The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/m-amin-tabatabaei-denis-lazavik-julius-baer-generation-cup-div-1-losers/",
+         "pubDate" : "Thu, 31 Aug 2023 13:39:00",
+         "title" : "M. Amin Tabatabaei - Denis Lazavik, Julius Baer Generation Cup Div 1 Losers"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers-live/",
+         "pubDate" : "Thu, 31 Aug 2023 13:17:00",
+         "title" : "Julius Baer Generation Cup Div 1 Losers - LIVE"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers/",
+         "pubDate" : "Thu, 31 Aug 2023 13:02:00",
+         "title" : "Julius Baer Generation Cup Div 1 Losers"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
          "pubDate" : "Thu, 31 Aug 2023 11:20:00",
          "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "Raids, counter-raids and lots of loot: that&#38;rsquo;s what fans of Chess.com, Clash of Clans and Clash Royale can look forward to in September as two giant gaming empires get together for a month of cross-platform battles. Chess.com and Supercell,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/clash-joins-chess-com",
+         "pubDate" : "Thu, 31 Aug 2023 08:07:00",
+         "title" : "When Two Worlds Collide: Clash Joins Chess.com For Month Of Strategy Battles"
+      },
+      {
+         "description" : "Chess.com is excited to launch the Variants Community Series (VCS), a series of events and competitions for streamers and our dedicated and growing variants community. Every two months, we&#39;ll be featuring a different variant for you to discover, l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-variants-community-series-chesscom",
+         "pubDate" : "Thu, 31 Aug 2023 07:00:35",
+         "title" : "Introducing The Variants Community Series"
       },
       {
          "description" : "Yannick Gozzoli and Mitra Hejazipour are the new champions of France. Both won their maiden national titles. The French Championships 2023, 16-player knockout tournaments held in open and women's sections, took place on August 18-27 in Alpe d'Huez. Gozzoli beat Romain Edouard in the final of the open, while Iranian-born Hejazipour got the better of Deimante Daulyte-Cornette among the women.",
@@ -34,20 +146,20 @@ news_feed (
          "title" : "Nikita Vitiugov transfers to the English Chess Federation"
       },
       {
+         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-3-winners-live/",
+         "pubDate" : "Wed, 30 Aug 2023 18:26:00",
+         "title" : "Julius Baer Generation Cup Div 3 Winners - LIVE"
+      },
+      {
          "description" : "In the last episode, Chris introduced the Hungarian Dragon. This time, the British GM will continue with some deviations of the popular variation. Beware, the following game is intense! It is definitely worth it to check out the full analysis. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-deviation",
          "pubDate" : "Wed, 30 Aug 2023 16:55:00",
          "title" : "The Monthly Dragon - Introducing: The Hungarian Deviation!"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Wed, 30 Aug 2023 16:50:00",
-         "title" : "Julius Baer Generation Cup - Live!"
       },
       {
          "description" : "Alexey Sarana Nihal Sarin is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
@@ -90,44 +202,12 @@ news_feed (
          "title" : "Julius Baer Generation Cup Div 2 Winners - LIVE"
       },
       {
-         "description" : "Magnus Carlsen -M. Amin Tabatabaei is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-m-amin-tabatabaei-julius-baer-generation-cup-div-1-winners-quaterfinal/",
-         "pubDate" : "Wed, 30 Aug 2023 15:03:28",
-         "title" : "Magnus Carlsen -M. Amin Tabatabaei, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-winners-live/",
-         "pubDate" : "Wed, 30 Aug 2023 14:59:51",
-         "title" : "Julius Baer Generation Cup Div 1 Winners - LIVE"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov Alireza Firouzja is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-alireza-firouzja-julius-baer-generation-cup-div-1-winners-quaterfinal/",
-         "pubDate" : "Wed, 30 Aug 2023 13:45:00",
-         "title" : "Nodirbek Abdusattorov - Alireza Firouzja, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
-      },
-      {
          "description" : "The Tata Steel Rapid &#38;amp; Blitz Women&#39;s tournament was inaugurated at Kolkata, India, on Wednesday, August 30, 2023, with a short ceremony and drawing of lots. The event pits five of the best Indian women players against five invited global stars...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-inauguration",
          "pubDate" : "Wed, 30 Aug 2023 13:24:27",
          "title" : "Star Players Kick Off Tata Steel Chess India"
-      },
-      {
-         "description" : "Wesley So Pavel Eljanov is a Quarterfinal game from Julius Baer Generation Cup Div 1 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-pavel-eljanov-julius-baer-generation-cup-div-1-winners-quaterfinal/",
-         "pubDate" : "Wed, 30 Aug 2023 13:22:00",
-         "title" : "Wesley So - Pavel Eljanov, Julius Baer Generation Cup Div 1 Winners Quaterfinal"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103213056.cms\" />The young Indian chess prodigy Rameshbabu Praggnanandhaa expressed his delight to see the progress chess is making in the nation.",
@@ -144,14 +224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-2/",
          "pubDate" : "Wed, 30 Aug 2023 10:54:40",
          "title" : "ECF Book of the Year Shortlist"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-winners/",
-         "pubDate" : "Wed, 30 Aug 2023 10:50:00",
-         "title" : "Julius Baer Generation Cup Div 1 Winners"
       },
       {
          "description" : "60th National Chess Championshipn2023 Certificates are available to download Link : https://aicf.online/National-2023.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -178,28 +250,12 @@ news_feed (
          "title" : "Top-notch rapid and blitz action in Kolkata!"
       },
       {
-         "description" : "Rauf Mamedov Levon Aronian is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rauf-mamedov-levon-aronian-julius-baer-generation-cup-div-2-winners/",
-         "pubDate" : "Wed, 30 Aug 2023 06:49:00",
-         "title" : "Rauf Mamedov - Levon Aronian, Julius Baer Generation Cup Div 2 Winners"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103198303.cms\" />Indian chess prodigy R Praggnanandhaa, who won the 2023 FIDE World Cup silver medal and FIDE Candidates tournament, received an enthusiastic reception upon his arrival. State sports department officials welcomed him with flower crowns, shawls, and bouquets. Traditional Tamil Nadu folk dances, including Karagattam and Oyilattam, added to the celebratory atmosphere.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-praggnanandhaa-receives-heros-welcome-after-fide-world-cup-success/articleshow/103198303.cms",
          "pubDate" : "Wed, 30 Aug 2023 06:00:51 +0000",
          "title" : "WATCH: Praggnanandhaa receives hero's welcome after WC success"
-      },
-      {
-         "description" : "Vladislav Artemiev Evgeny Alekseev is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladislav-artemiev-evgeny-alekseev-julius-baer-generation-cup-div-2-winners/",
-         "pubDate" : "Wed, 30 Aug 2023 05:15:00",
-         "title" : "Vladislav Artemiev - Evgeny Alekseev, Julius Baer Generation Cup Div 2 Winners"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at his fifth round game against Sam Sevian from the 2023 Spring Chess Classic tournament in Saint Louis. Bok went on to win the event after an unprecedented five-way playoff. 2023.08.29<br /> Benjamin Bok vs. Sam Sevian, 2023: E04 Catalan, open, 5.Nf3<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4408148\">https://www.365chess.com/game.php?back=1&amp;gid=4408148</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zugz",
@@ -914,14 +970,6 @@ news_feed (
          "title" : "Carlsen Wins 1st World Cup, Caruana Places 3rd"
       },
       {
-         "description" : "Both the final and the match for third place will be decided in tiebreaks at the FIDE World Cup in Baku. While Magnus Carlsen played it safe with white against Praggnanandhaa Rameshbabu to secure a second draw in the final, Fabiano Caruana bounced back from a disastrous showing on Tuesday to keep his chances of reaching the podium alive. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d2",
-         "pubDate" : "Thu, 24 Aug 2023 00:01:45",
-         "title" : "World Cup: Caruana strikes back, Carlsen opts for quick draw"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -936,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2603",
          "pubDate" : "Wed, 23 Aug 2023 17:32:34 +0000",
          "title" : "World Cup winner and third place to be decided in tiebreaks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/102993217.cms\" />India's R Paggnanandhaa is ready to face World No.1 Magnus Carlsen in the FIDE Chess World Cup final tie-breaks, after drawing two classical games. The winner will be determined by two tie-breaks on Thursday. The second game ended in a 30-move draw on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/now-i-can-just-give-everything-tomorrow-praggnanandhaa-on-tie-breaks-vs-magnus-carlsen/articleshow/102993217.cms",
-         "pubDate" : "Wed, 23 Aug 2023 15:17:15 +0000",
-         "title" : "'Now I can just give everything tomorrow': Praggnanandhaa on tie-breaks"
       },
       {
          "description" : "The last classical games of the 2023 FIDE World Cup could not have been more different from each other. In the final between GM Magnus Carlsen and GM Praggnanandhaa Rameshbabu, the drawn outcome was predicted as early as move five, while in the th...",
@@ -1258,14 +1298,6 @@ news_feed (
          "title" : "Adsense on CFAA++"
       },
       {
-         "description" : "Strategy fans take note&#38;mdash;a unique star-studded multi-game crossover event that pits big names in chess against stars of Clash of Clans and Clash Royale is coming to Chess.com. IM Levy Rozman and WFM Alexandra Botez, two of the most followed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-clash-the-unique-event-featuring-clash-of-clans-clash-royale",
-         "pubDate" : "Fri, 18 Aug 2023 15:46:00",
-         "title" : "Launching Chess Clash: The Unique Event Featuring Clash of Clans, Clash Royale And A Galaxy Of Stars"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1280,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2593",
          "pubDate" : "Fri, 18 Aug 2023 10:10:50 +0000",
          "title" : "FIDE World Youth Olympiad 2023: Day 5 Recap"
-      },
-      {
-         "description" : "FIDE has come under heavy criticism after publishing a new policy that states that transgender women are banned from taking part in official female-only events until the federation conducts &#34;further analysis&#34; that can last up to two years. The c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-publishes-controversial-new-transgender-policy",
-         "pubDate" : "Fri, 18 Aug 2023 08:55:01",
-         "title" : "FIDE Publishes Controversial New Transgender Policy"
       },
       {
          "description" : " The world No 1 faces the little-known Nijat Abasov in this weekend's semi-final, while there were four Indian quarter-finalists and no Russians The World Cup knockout is the only major individual chess event that Magnus Carlsen has never won, but this weekend the Norwegian, 32, looks poised to reach the final of the $1.8m, 206-player competition at Baku, Azerbaijan. Carlsen's opponent in the semi-final on Saturday and Sunday, (midday BST start, free live commentary on major chess websites) with possible speed tiebreaks on Monday, is the little-known Azerbaijani Nijat Abasov, 28. The hometown favourite has had the performance of his life, defeating all six of his opponents including the Neth",
