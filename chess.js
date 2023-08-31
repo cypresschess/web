@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daringly, Ian Nepomniachtchi played the King's Gambit against Peter Svidler at the World Rapid Team Championship - and he managed to score a full point! In his Fast & Furious show, Robert Ris analyses Nepo's crushing victory. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nepomniachtchi-kings-gambit",
+         "pubDate" : "Thu, 31 Aug 2023 21:30:00",
+         "title" : "Robert Ris' Fast and Furious: Nepo plays the King's Gambit!"
+      },
+      {
          "description" : "We talked a few times about Genrikh Kasparyan already, this time we delve a bit into his book \"Domination in 2545 Endgame Studies\". At the time, the book served as a great anthology and also a small theoretical introduction to the theme. | Photo: Midjourney AI",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-some-classical-dominations",
-         "pubDate" : "Thu, 31 Aug 2023 19:27:10",
+         "pubDate" : "Thu, 31 Aug 2023 19:30:00",
          "title" : "Study of the Month: Some classical dominations"
       },
       {
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Indian youngsters shine on opening day of Tata Chess"
       },
       {
-         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Thu, 31 Aug 2023 16:45:00",
-         "title" : "Julius Baer Generation Cup - Live!"
+         "description" : "GMs Magnus Carlsen and Alireza Firouzja will throw down in the Division I Winners Final of the 2023 Julius Baer Generation Cup after defeating, respectively, GMs Fabiano Caruana&#38;nbsp;and Wesley So. Carlsen won the first two games with ease, essayi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-2",
+         "pubDate" : "Thu, 31 Aug 2023 15:59:35",
+         "title" : "Carlsen Beats Caruana To Play Firouzja In Winners Final"
       },
       {
          "description" : "World-class chess explained in video: Dorian Rogozenco shows two wins of Hikaru Nakamura from Norway Chess 2023, including the decisive last-round game against Fabiano Caruana - Sharjah Masters 2023: Analyses by tournament winner Arjun Erigaisi as well as Ivan Cheparinov, Grigoriy Oparin, Thai Dai Van Ngyuen and Samvel Ter-Sahakyan - \"Special\" on Hikaru Nakamura: exclusive collection of 19 encounters with detailed commentary from 2007 to 2023 - Action in the centre: Christian Braun's Anti-Sicilian recipe 1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5!? - \"Nakamura's strategy in practice\": Mihail Marin sheds light on the US American's skills, incl. two interactive videos and a large collection of exercises ",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-215",
          "pubDate" : "Thu, 31 Aug 2023 15:00:00",
          "title" : "New: ChessBase Magazine #215"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Thu, 31 Aug 2023 14:55:00",
+         "title" : "Julius Baer Generation Cup - Live!"
       },
       {
          "description" : "Wesley So Alireza Firouzja is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/you-personify-passion-and-perseverance-pm-modi-meets-chess-prodigy-praggnanandhaa/articleshow/103254236.cms",
          "pubDate" : "Thu, 31 Aug 2023 14:38:26 +0000",
          "title" : "'You personify passion and perseverance': PM Modi meets Praggnanandhaa"
+      },
+      {
+         "description" : "Youngsters WGM Divya Deshmukh and WGM Vantika Agrawal powered through the opposition on their way to the joint lead with 2.5 points apiece after three rounds of the Tata Steel Chess India Women&#39;s Rapid tournament in a day of exciting clashes at Ko...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day1",
+         "pubDate" : "Thu, 31 Aug 2023 14:05:00",
+         "title" : "Deshmukh, Agrawal Leading With Powerplay"
       },
       {
          "description" : "Pavel Eljanov Nodirbek Abdusattorov is a Round 1 game from Julius Baer Generation Cup Div 1 Losers.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you []",
@@ -120,6 +144,22 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers/",
          "pubDate" : "Thu, 31 Aug 2023 13:02:00",
          "title" : "Julius Baer Generation Cup Div 1 Losers"
+      },
+      {
+         "description" : "What a fortnight it has been for the Indian chess prodigy GM Praggnanandhaa Rameshbabu and his family. First, the 18-year-old made chess history by storming to his first World Cup final in Baku, Azerbaijan, where he suffered a heartbreaking loss t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandaas-exploits-rewarded-indian-star-given-ev-car-and-audience-with-p-m-modi",
+         "pubDate" : "Thu, 31 Aug 2023 12:48:56",
+         "title" : "Hero's Welcome, Audience With Modi And A New Car: Praggnanandaa's Reward For World Cup Exploits"
+      },
+      {
+         "description" : "In a match that came down to the wire, IM Alice Lee defeated FM Tani Adewumi in the fifth edition of Tani vs. The World. Down four points with barely enough time left for as many games, Lee pulled off an unbelievable comeback to win in overtime. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tani-vs-the-world-match-5-lee-wins",
+         "pubDate" : "Thu, 31 Aug 2023 12:43:00",
+         "title" : "Alice Lee Prevails vs. Tani Adewumi With Stunning Bullet Comeback"
       },
       {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
@@ -890,14 +930,6 @@ news_feed (
          "title" : "Magnus Carlsen secures first World Cup victory, Prag finishes second, Caruana third"
       },
       {
-         "description" : "In his Game of the Week show #582, Merijn Van Delft looks at a crucial game Praggnanandhaa won against Fabiano Caruana in the World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-582-praggnanandhaa-vs-caruana",
-         "pubDate" : "Thu, 24 Aug 2023 13:11:02",
-         "title" : "Game of the Week #582: Praggnanandhaa vs Caruana"
-      },
-      {
          "description" : " Magnus Carlsen has defeat Pragganandhaa 1.5-0.5 in the rapid playoffs to win the 2023 FIDE World Cup. Although the event qualifies the top 3 place getters for the upcoming candidates series, Carlsen's prior decision to not play in the upcoming World Championship cycle means his victory was all about winning one title he has not won yet. Unburdened by the pressure of further progress, Carlsen instead demonstrated why he is still the best player in the world, scoring a number of seemingly effortless wins on the way to fist place. He did of course lose a game early on the Vincent Keymar, but after rebounding in the must win second game of that match, seemed to have everything under control (al",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1162,14 +1194,6 @@ news_feed (
          "title" : "FIDE World Cup Round 7 Day 2: Anna Muzychuk wins bronze "
       },
       {
-         "description" : "GM Magnus Carlsen has booked his spot in the 2023 FIDE World Cup final after winning his match against GM Nijat Abasov by a margin of 1.5/2. Abasov fought valiantly to keep his world cup hopes alive and played a near-perfect game on Sunday however...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-2",
-         "pubDate" : "Sun, 20 Aug 2023 16:53:00",
-         "title" : "Carlsen Books Spot In Final; Salimova Misses Chance To Claim Women's Crown"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1210,28 +1234,12 @@ news_feed (
          "title" : "CFC Response to the FIDE Ban on Transgender Women Competing in Women's Events"
       },
       {
-         "description" : "Eighty-three wins, five draws, and three losses was the astounding scorecard posted by GM Hikaru Nakamura in August&#39;s third Bullet Brawl, resulting in a record-breaking 313 score. The rampage, which saw him finish 73 points ahead of the second-pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-week-3",
-         "pubDate" : "Sat, 19 Aug 2023 22:46:07",
-         "title" : "Nakamura Sets New Bullet Brawl Record With 83 Wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2595",
          "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
-      },
-      {
-         "description" : "After surviving 12 games of classical games against some of the world&#39;s best players without a single loss, GM Nijat Abasov finally fell at the hands of GM Magnus Carlsen on Saturday at the 2023 FIDE World Cup. Though the world number one secured ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-1",
-         "pubDate" : "Sat, 19 Aug 2023 15:09:00",
-         "title" : "Carlsen On The Brink Of First World Cup Final"
       },
       {
          "description" : "Many chess players struggle with solving tactics, remembering opening lines, analyzing their losses, you name it. But some have difficulty with something seemingly super easy: taking a rest. In this article, I want to show you how important rest is for your health &#38; improvement and how you rest the right way. The Power of []",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-youth-u16-olympiad-concluded-in-eindhoven-netherlands/",
          "pubDate" : "Fri, 18 Aug 2023 20:01:05",
          "title" : "FIDE World Youth U16 Olympiad concluded in Eindhoven, Netherlands"
-      },
-      {
-         "description" : "Drama, plot twists, and illegal moves marked the live PogChamps 5 Finals&#38;mdash;the first in-person Pog event in history. As the remaining four creators gathered in Los Angeles to play for PogChamps glory, no one could&#39;ve predicted how the matches ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pogchamps-5-finals",
-         "pubDate" : "Fri, 18 Aug 2023 19:44:00",
-         "title" : "CDawgVA Delivers Swindle Of The Century To Become The Fifth PogChampion"
       },
       {
          "description" : "Earlier this year, in <A HREF=\"https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html\">TGIF on CFAA</A> (June 2023), I wrote, <BLOCKQUOTE> Some of my blog posts are basically notes to myself. This is one of them. </BLOCKQUOTE> <P> This current post is another. To parrot the thought process introduced in the TGIF post, <BLOCKQUOTE> I took three weeks off at the beginning of July and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 21 posts in 25 days and am now caught up. </BLOCKQUOTE> <P> In addition to the actions mentioned in the TGIF post, I need to catch up with new actions from Google ('Your wish",
@@ -1760,14 +1760,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup",
          "pubDate" : "Fri, 11 Aug 2023 07:00:31",
          "title" : "Chess: Magnus Carlsen escapes after flirting with defeat at World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2570",
-         "pubDate" : "Thu, 10 Aug 2023 20:24:45 +0000",
-         "title" : "GM Aleksandar Matanovic dies at 93"
       }
    ]
 }
