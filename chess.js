@@ -194,7 +194,7 @@ news_feed (
          "title" : "Vladislav Artemiev - Evgeny Alekseev, Julius Baer Generation Cup Div 2 Winners"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29<br /> Benjamin Bok vs. Sam Sevian, 2023: E04 Catalan, open, 5.Nf3<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4408148\">https://www.365chess.com/game.php?back=1&amp;gid=4408148</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zugzwang-torture-sp",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at his fifth round game against Sam Sevian from the 2023 Spring Chess Classic tournament in Saint Louis. Bok went on to win the event after an unprecedented five-way playoff. 2023.08.29<br /> Benjamin Bok vs. Sam Sevian, 2023: E04 Catalan, open, 5.Nf3<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4408148\">https://www.365chess.com/game.php?back=1&amp;gid=4408148</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zugz",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/zugzwang-torture-spring-chess-classic-grandmasters-choice-gm-benjamin-bok",
@@ -1768,22 +1768,6 @@ news_feed (
          "link" : "https://www.europechess.org/in-memoriam-aleksandar-matanovic-1930-2023/",
          "pubDate" : "Thu, 10 Aug 2023 09:57:29",
          "title" : "IN MEMORIAM - Aleksandar Matanovic (1930-2023)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2568",
-         "pubDate" : "Thu, 10 Aug 2023 05:44:04 +0000",
-         "title" : "Ready to start: everything you need to know about FIDE World Youth U16 Chess Olympiad"
-      },
-      {
-         "description" : " Tallahassee hosted its fourth Capital City Open rapid tournament within the past year with Jacob Sperber leading the initiative. With the temperatures soaring into the upper-90s, Florida got a welcome rain shower on the day of the tournament, but it may have deterred some from making the trip. The tournament did not feature any of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/\">Capital City Open IV (Tallahassee, Florida)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/10/capital-city-open-iv-tallahassee-florida/",
-         "pubDate" : "Thu, 10 Aug 2023 04:00:00",
-         "title" : "Capital City Open IV (Tallahassee, Florida)"
       }
    ]
 }
