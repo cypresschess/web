@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We talked a few times about Genrikh Kasparyan already, this time we delve a bit into his book \"Domination in 2545 Endgame Studies\". At the time, the book served as a great anthology and also a small theoretical introduction to the theme. | Photo: Midjourney AI",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-some-classical-dominations",
+         "pubDate" : "Thu, 31 Aug 2023 19:27:10",
+         "title" : "Study of the Month: Some classical dominations"
+      },
+      {
+         "description" : "The FIDE World Cup was a complete success, as top players fought for spots in the Candidates, both in the open and in the women's section. Magnus Carlsen and Aleksandra Goryachkina were the winners. As ever, GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five instructive endgames from the open category! | Pictured: Praggnanandhaa Rameshbabu | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-endgames-1",
+         "pubDate" : "Thu, 31 Aug 2023 18:10:00",
+         "title" : "World Cup: A selection of outstanding endgames (1)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103256772.cms\" />Indian youngsters continue to make waves as just days after 18-year-old Grandmaster R Praggnanandhaa qualified for the Candidates meet, 17-year-old Divya Deshmukh and 20-year-old Vantika Agarwal ended Day I of the women's rapid section of Tata Steel Chess India tournament on the top of table with 2.5 points after three rounds on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-youngsters-shine-on-opening-day-of-tata-chess/articleshow/103256772.cms",
+         "pubDate" : "Thu, 31 Aug 2023 17:11:09 +0000",
+         "title" : "Indian youngsters shine on opening day of Tata Chess"
+      },
+      {
          "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -906,30 +930,6 @@ news_feed (
          "title" : "Magnus victorious"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103025326.cms\" />Indian Grandmaster R Praggnanandhaa is making remarkable strides in the ongoing Chess World Cup, consistently beating opponents with higher ratings. To go with the impressive performances, the 18-year-old has been self-reliant when it comes to navigating the intricacies of the game. Currently in Baku, Azerbaijan, Praggnanandhaa finds himself without the presence of his personal coach RB Ramesh, who is currently in another country.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-is-his-own-man-hes-handling-himself-mostly-coach-ramesh/articleshow/103025326.cms",
-         "pubDate" : "Thu, 24 Aug 2023 11:37:28 +0000",
-         "title" : "R Praggnanandhaa is his own man, he's handling himself mostly: Coach Ramesh"
-      },
-      {
-         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
-         "pubDate" : "Thu, 24 Aug 2023 10:00:00",
-         "title" : "Armageddon Grand Final"
-      },
-      {
-         "description" : "Chess is the most delightful and truly comes to live, when you can sit across from each other, engaging in a face-to-face match with a physical chessboard in between. The thrill of an evening at the club, playing blitz chess, maneuver the pieces, and indulge in lively conversation with your club-mates, surpasses the quiet solitude of playing online, isolated in front of a computer screen. However, the Playchess chess server offers a refreshing alternative. It introduces video and audio features that can be effortlessly activated, bringing the essence of in-person play to the virtual realm. With just one click, you can generate a private virtual gaming space, packaged as a simple URL, and swi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-august-2023-playing-chess-on-playchess-with-videochat",
-         "pubDate" : "Thu, 24 Aug 2023 09:59:39",
-         "title" : "How to play online on Playchess with video"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,22 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2570",
          "pubDate" : "Thu, 10 Aug 2023 20:24:45 +0000",
          "title" : "GM Aleksandar Matanovic dies at 93"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Summer Chess Classic is comprised of two 10-player round robin tournaments (pairings below). The Classic series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Yasser Seirawan and WGM Begim Tokhirjonova for abbreviated coverage. 2023.08.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-summer-chess-classic-final-round",
-         "pubDate" : "Thu, 10 Aug 2023 18:01:57",
-         "title" : "2023 Summer Chess Classic: Final Round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2569",
-         "pubDate" : "Thu, 10 Aug 2023 17:59:26 +0000",
-         "title" : "World Cup: Carlsen remains in the race, but Wesley So is out"
       }
    ]
 }
