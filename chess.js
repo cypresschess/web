@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Fri, 01 Sep 2023 16:50:00",
+         "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +66,28 @@ news_feed (
          "title" : "Game of the Week #583: Praggnanandhaa vs. Carlsen"
       },
       {
+         "description" : "Sound the war drums! A hoard of giants, goblins, P.E.K.K.A., and other magical creatures has invaded Chess.com. Get your army ready and prepare to storm the castle of the new Clash of Clan bots on our Play Computer page.&#38;nbsp; Fight your way ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/clash-chess-bots",
+         "pubDate" : "Fri, 01 Sep 2023 07:01:12",
+         "title" : "Get Ready To Battle The New Clash Of Clans Bots"
+      },
+      {
          "description" : " The 20-year-old had a subdued return at Titled Tuesday, but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/sep/01/chess-niemann-back-in-action-after-100m-lawsuit-against-carlsen-is-settled",
          "pubDate" : "Fri, 01 Sep 2023 07:00:08",
          "title" : "Chess: Niemann back in action after $100m lawsuit against Carlsen is settled"
+      },
+      {
+         "description" : "D Gukesh has overtaken Viswanathan Anand as India's no.1 chess player - ending a spell that began when Anand overtook Pravin Thipsay in July 1986.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38303895/37-years-how-world-changed-viswanathan-anand-stayed-constant-top-indian-chess-d-gukesh?device=featurephone",
+         "pubDate" : "Fri, 1 Sep 2023 05:54:46",
+         "title" : "37 years - How the world changed as Anand stayed constant on top of Indian chess"
       },
       {
          "description" : "Two young Indian players outscored the rating favourites on the first day of action at the Tata Steel Rapid tournament in Kolkata. Divya Deshmukh (pictured) - who was included in the lineup as Vaishali Rameshbabu's late replacement - and Vantika Agrawal are leading the standings with 2&frac12;/3 points each. Women's world champion Ju Wenjun stands in sole third place, a half point behind. | Photo: Vivek Sohani",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-215",
          "pubDate" : "Thu, 31 Aug 2023 15:00:00",
          "title" : "New: ChessBase Magazine #215"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Thu, 31 Aug 2023 14:55:00",
-         "title" : "Julius Baer Generation Cup - Live!"
       },
       {
          "description" : "Wesley So Alireza Firouzja is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
       },
       {
-         "description" : "Indian sensation GM Praggnanandhaa Rameshbabu will play world number-one GM Magnus Carlsen in the final of the&#38;nbsp;2023 FIDE World Cup after the 18-year-old defeated GM Fabiano Caruana 3.5-2.5 in a semifinal decided by a single tiebreak win. GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-round-7-3",
-         "pubDate" : "Mon, 21 Aug 2023 15:00:00",
-         "title" : "Praggnanandhaa-Carlsen In Final; Goryachkina Takes Women's Title"
-      },
-      {
          "description" : "The English Chess Federation's (ECF) position is clear. We do not exclude trans women and this position will not change, despite FIDE's new policy. Trans...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1776,22 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2573",
          "pubDate" : "Fri, 11 Aug 2023 19:49:27 +0000",
          "title" : "World Cup Round 4 Tiebreaks: Hikaru Nakamura and Ju Wenjun are out"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2572",
-         "pubDate" : "Fri, 11 Aug 2023 13:39:40 +0000",
-         "title" : "FIDE against sexism and sexual abuse in chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2571",
-         "pubDate" : "Fri, 11 Aug 2023 11:51:24 +0000",
-         "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Free accommodation available"
       }
    ]
 }
