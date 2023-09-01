@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Fri, 01 Sep 2023 11:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2023 kicks off on Tuesday, 5th of September, in Mamaia, Romania. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately), from 5-14 September, at the Ceremony Hall Dorna. Each category will feature 9 rounds played in the swiss system, with the time control of 90 minutes + 30 seconds increment for each move, starting from the move one. More than 900 players coming []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-starts-in-mamaia-romania/",
+         "pubDate" : "Fri, 01 Sep 2023 10:40:35",
+         "title" : "European Youth Chess Championship 2023 starts in Mamaia, Romania"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103278620.cms\" />Buoyed by his World Cup silver medal, GM R Praggnanandhaa is confident of the Indian team's chances of winning gold at the upcoming Asian Games in Hangzhou.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-felicitates-gm-praggnanandhaa-chess-ace-confident-of-winning-asiad-gold/articleshow/103278620.cms",
+         "pubDate" : "Fri, 01 Sep 2023 09:01:31 +0000",
+         "title" : "Anurag Thakur felicitates GM Praggnanandhaa, chess ace confident of winning Asiad gold"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103277876.cms\" />In a historic shift, 17-year-old Grandmaster D Gukesh has taken over the mantle as India's top chess player, ending Viswanathan Anand's remarkable reign that spanned over three decades.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-replaces-anand-as-indias-top-chess-player-after-37-years/articleshow/103277876.cms",
+         "pubDate" : "Fri, 01 Sep 2023 08:41:47 +0000",
+         "title" : "Gukesh replaces Anand as India's top chess player after 37 years"
+      },
+      {
          "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
          "pubDate" : "Fri, 01 Sep 2023 08:15:00",
          "title" : "Kasim: Play the French Defence"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2617",
+         "pubDate" : "Fri, 01 Sep 2023 07:55:13 +0000",
+         "title" : "FIDE September 2023 rating list: Gukesh debuts in top 10, Praggnanandhaa enters top 20"
       },
       {
          "description" : "In his Game of the Week show #583, Merijn Van Delft analyses one of the wins that gave Magnus Carlsen his first-ever triumph in a World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "Game of the Week #583: Praggnanandhaa vs. Carlsen"
       },
       {
-         "description" : " The 20-year-old had a subdued return at Titled Tuesday but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in o",
+         "description" : " The 20-year-old had a subdued return at Titled Tuesday, but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/sep/01/chess-niemann-back-in-action-after-100m-lawsuit-against-carlsen-is-settled",
@@ -82,6 +122,14 @@ news_feed (
          "title" : "Carlsen Beats Caruana, Will Play Firouzja In Winners Final"
       },
       {
+         "description" : "I can start this month's post on Yahoos [see the footnote for an explanation of 'Yahoos'] by repeating a sentence from last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/07/blocks-of-yahoos.html\">Blocks of Yahoos</A> (July 2023):- <BLOCKQUOTE> For this current post Google News again 'returned blocks of stories on two specific chess topics' [note to self: find out what Google calls these sections]. Before I look at those, let's have the usual statistics. </BLOCKQUOTE> <P> Change 'two' to 'three' and the sentence becomes 100% accurate. First, here are the stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh31.gif\" WIDTH=200 HEIGHT=220 ALIGN=LEFT VSPACE=5 HSPACE=5> Thi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html",
+         "pubDate" : "Thu, 31 Aug 2023 15:02:00",
+         "title" : "Top Yahoos: Niemann, WRTC, and Pragg"
+      },
+      {
          "description" : "World-class chess explained in video: Dorian Rogozenco shows two wins of Hikaru Nakamura from Norway Chess 2023, including the decisive last-round game against Fabiano Caruana - Sharjah Masters 2023: Analyses by tournament winner Arjun Erigaisi as well as Ivan Cheparinov, Grigoriy Oparin, Thai Dai Van Ngyuen and Samvel Ter-Sahakyan - \"Special\" on Hikaru Nakamura: exclusive collection of 19 encounters with detailed commentary from 2007 to 2023 - Action in the centre: Christian Braun's Anti-Sicilian recipe 1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5!? - \"Nakamura's strategy in practice\": Mihail Marin sheds light on the US American's skills, incl. two interactive videos and a large collection of exercises ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,12 +170,12 @@ news_feed (
          "title" : "'You personify passion and perseverance': PM Modi meets Praggnanandhaa"
       },
       {
-         "description" : "Youngsters WGM Divya Deshmukh and WGM Vantika Agrawal powered through the opposition on their way to joint lead with 2.5 points apiece after three rounds of the Tata Steel Chess India Women&#39;s Rapid tournament in a day of exciting clashes at Kolkat...",
+         "description" : "Youngsters WGM Divya Deshmukh and IM Vantika Agrawal powered through the opposition on their way to joint lead with 2.5 points apiece after three rounds of the Tata Steel Chess India Women&#39;s Rapid tournament in a day of exciting clashes at Kolkata...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day1",
          "pubDate" : "Thu, 31 Aug 2023 14:05:00",
-         "title" : "Deshmukh, Agrawal Leading With Powerplay"
+         "title" : "Divya, Vantika Leading With Powerplay"
       },
       {
          "description" : "Pavel Eljanov Nodirbek Abdusattorov is a Round 1 game from Julius Baer Generation Cup Div 1 Losers.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you []",
@@ -898,28 +946,12 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Championships 2024 - Call for bids"
       },
       {
-         "description" : "Magnus Carlsen has won it all. The world number one beat Praggnanandhaa Rameshbabu in tiebreaks to win the FIDE World Cup for the first time in his career. After his victory, the Norwegian noted that he will not attempt to recover the World Championship title unless there is a major change in the format, especially regarding the shortening of time controls. Meanwhile, third seed Fabiano Caruana beat Nijat Abasov in the match for third place to secure a spot in the 2024 Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d3",
-         "pubDate" : "Thu, 24 Aug 2023 21:30:00",
-         "title" : "Magnus Carlsen \"completes\" chess as he bags World Cup title"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103033338.cms\" />Humble to the core, teen sensation R Praggnanandhaa was far from realising the enormity of his achievement in the FIDE World Cup but reckoned his incredible run could force people to \"start noticing\" Indian chess. It needed the sheer brilliance of Magnus Carlsen to stop the 18-year-old Praggnanandhaa's march as he finished second best after losing in the final on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-think-people-will-start-to-notice-indian-chess-r-praggnanandhaa/articleshow/103033338.cms",
          "pubDate" : "Thu, 24 Aug 2023 17:16:14 +0000",
          "title" : "I think people will start to notice Indian chess: R Praggnanandhaa"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031562.cms\" />Indian Grandmaster R Praggnanandhaa went down fighting to world no.1 Magnus Carlsen in the FIDE World Cup Final in Baku on Thursday but the 18-year-old chess prodigy garnered huge praise and appreciation for his sensational run in the tournament. Praggnanandhaa lost to Carlsen in the tie-breaks after the classical games in the final ended in a stalemate.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-are-proud-pm-narendra-modi-lauds-chess-prodigy-praggnanandhaa/articleshow/103031562.cms",
-         "pubDate" : "Thu, 24 Aug 2023 14:58:05 +0000",
-         "title" : "'We are proud': PM Narendra Modi lauds chess prodigy Praggnanandhaa"
       },
       {
          "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
@@ -952,14 +984,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/carlsen-wins-world-cup.html",
          "pubDate" : "Thu, 24 Aug 2023 13:10:00",
          "title" : "Carlsen wins World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103028568.cms\" />Grandmaster R Praggnanandhaa on Thursday lost to World no.1 Magnus Carlsen in the FIDE World Cup final in Baku but despite that the teenage prodigy scripted a golden chapter in Indian chess history, becoming the youngest player from the country and only the second to Viswanathan Anand, to compete in the final. The 18-year-old unfortunately went down in the summit clash to Norwegian in the tie-breaks.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaas-historic-road-to-fide-world-cup-final/articleshow/103028568.cms",
-         "pubDate" : "Thu, 24 Aug 2023 12:48:41 +0000",
-         "title" : "R Praggnanandhaa's historic road to FIDE World Cup final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103027144.cms\" />Rameshbabu Praggnanandhaa lost to world No. 1 chess player Magnus Carlsen in a thrilling final showdown at the FIDE World Cup. Carlsen emerged victorious at 1.5-0.5, securing his first-ever World Cup triumph and adding to his impressive five World Chess Championship titles. Praggnanandhaa's valiant effort was deemed valiant.",
