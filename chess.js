@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King, an expert on the King's Gambit, looks at the exciting opening by analysing Ian Nepomniachtchi's recent victory over Peter Svidler from the World Rapid Team Championship in D&uuml;sseldorf. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nepo-kings-gambit",
+         "pubDate" : "Fri, 01 Sep 2023 23:35:00",
+         "title" : "Daniel King's Power Play Show: Nepo strikes with the King's Gambit"
+      },
+      {
+         "description" : "In a wide-ranging interview, Casto Abundo talks about his lengthy career as a chess organiser, his work alongside Florencio Campomanes and the time he spent with Bobby Fischer in the Philippines. Abundo shares: \"I had to play racquetball with Bobby, swim with him far into the open seas, go on long nightly walks discussing chess, arrange a date with a Filipina national chess team member he liked, drive him to the yacht of President Marcos, and watch as he replayed games from Chess Informant every night\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/casto-abundo-interview-2023",
+         "pubDate" : "Fri, 01 Sep 2023 22:40:00",
+         "title" : "Casto Abundo: \"I got to stay with Bobby Fischer for a whole month\""
+      },
+      {
+         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
+         "pubDate" : "Fri, 01 Sep 2023 17:00:00",
+         "title" : "Kasim: Play the French Defence"
+      },
+      {
          "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
          "pubDate" : "Fri, 01 Sep 2023 16:50:00",
          "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
+         "description" : "GM&#38;nbsp;Magnus Carlsen reached the Division I Grand Final of the 2023 Julius Baer Generation Cup after defeating GM Alireza Firouzja with a hat trick, 3-0 with no fourth game. By stark contrast, youth beat experience in the Losers Bracket. GM No...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-3",
+         "pubDate" : "Fri, 01 Sep 2023 15:18:24",
+         "title" : "Carlsen Sweeps Firouzja 3-0: 'It's Just Me Against The Kids Now!'"
+      },
+      {
+         "description" : "WGM Divya Deshmukh bulldozed over the field with three impressive victories in three games on day two to take the sole lead with a score of 5.5/6 in the Tata Steel Chess India Women&#39;s Rapid tournament. Women&#39;s World Champion Ju Wenjun had another ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day2",
+         "pubDate" : "Fri, 01 Sep 2023 12:59:00",
+         "title" : "Divya Deshmukh's Dazzling Day"
       },
       {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-replaces-anand-as-indias-top-chess-player-after-37-years/articleshow/103277876.cms",
          "pubDate" : "Fri, 01 Sep 2023 08:41:47 +0000",
          "title" : "Gukesh replaces Anand as India's top chess player after 37 years"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
-         "pubDate" : "Fri, 01 Sep 2023 08:15:00",
-         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : "",
@@ -834,14 +866,6 @@ news_feed (
          "title" : "Praggnanandhaa achieves career-high 2727.2 rating to become India No. 3"
       },
       {
-         "description" : "In May 2022 the then world's oldest grandmaster, Yuri Averbakh, died at the age of 100. Since then, until two weeks ago, the 'title' of the world's oldest grandmaster was held by Aleksandar Matanovic. On 9 August 2023 Matanovic, one of the leading players of the Yugoslav golden era, died in Belgrade at the age of 93. Diana Mihajlova honours a man who gave his life to chess. | Photo: Serbian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-aleksandar-matanovic-1930-2023",
-         "pubDate" : "Fri, 25 Aug 2023 15:24:06",
-         "title" : "Remembering Aleksandar Matanovic (1930-2023)"
-      },
-      {
          "description" : "In last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> (August 2023), I concluded with:- <BLOCKQUOTE> Adsense is once again increasing the volume of its commanding voice: 'New Consent Management Platform [CMP] requirements for serving ads in the EEA and UK'. &#149; TBD. Watch this space... </BLOCKQUOTE> <P> My WCC index page, shown below, is a typical example of how I handle ads across the site. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh25.gif\" WIDTH=400 HEIGHT=215><BR> <A HREF=\"https://www.mark-weeks.com/chess/wcc-indx.htm\">Index : World Chess Championship</A> <P> The ad ('Download de whitepaper'; that'",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -896,14 +920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2609",
          "pubDate" : "Fri, 25 Aug 2023 11:23:44 +0000",
          "title" : "Winners crowned at 21st European Union Youth Chess Championship"
-      },
-      {
-         "description" : "The World Cup in Baku produced some exciting games and surprising results. But also a number of remarkable engames which it is well to study. What better way than to receive the assistance of a great trainer who shows us were some of the players went wrong, and what was needed to get a positive result. Learn more about the endgame from the instructive commentary provided to us by grandmaster Efstratios Grivas. Enjoy and learn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-endgames-in-baku-1",
-         "pubDate" : "Fri, 25 Aug 2023 10:00:00",
-         "title" : "Grivas: Endgames in Baku - (1)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103057369.cms\" />Indian prodigy R Praggnanandhaa lost to World No. 1 Magnus Carlsen 1.5-0.5 in the tie-break in the FIDE World Cup final at Baku on Thursday.",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/",
          "pubDate" : "Tue, 22 Aug 2023 16:28:02",
          "title" : "2023 FIDE World Cup: Semifinals/Finals"
-      },
-      {
-         "description" : "Neither player made progress toward their first World Cup victory as GM Magnus Carlsen held GM Praggnanandhaa Rameshbabu to a draw in the first game of the 2023 FIDE World Cup final.&#38;nbsp; A well-prepared Praggnanandhaa posed some problems to the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-1",
-         "pubDate" : "Tue, 22 Aug 2023 14:29:00",
-         "title" : "Abasov Beats Caruana As Carlsen Holds Off Praggnanandhaa"
       },
       {
          "description" : "",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2574",
          "pubDate" : "Sat, 12 Aug 2023 08:17:30 +0000",
          "title" : "FIDE World Senior Team Championships 2023: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2573",
-         "pubDate" : "Fri, 11 Aug 2023 19:49:27 +0000",
-         "title" : "World Cup Round 4 Tiebreaks: Hikaru Nakamura and Ju Wenjun are out"
       }
    ]
 }
