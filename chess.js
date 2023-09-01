@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two young Indian players outscored the rating favourites on the first day of action at the Tata Steel Rapid tournament in Kolkata. Divya Deshmukh (pictured) - who was included in the lineup as Vaishali Rameshbabu's late replacement - and Vantika Agrawal are leading the standings with 2&frac12;/3 points each. Women's world champion Ju Wenjun stands in sole third place, a half point behind. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d1",
+         "pubDate" : "Fri, 01 Sep 2023 03:05:00",
+         "title" : "Tata Steel India: Divya and Vantika lead as favourites stumble"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class about the preparation of top tournament chess players. 2023.08.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7I7CjBB6Guk.jpg?itok=LNHHNCSj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok",
+         "pubDate" : "Fri, 01 Sep 2023 00:26:02",
+         "title" : "How Top Chess Players Prepare | Prepare Like A Pro - GM Benjamin Bok"
+      },
+      {
          "description" : "Daringly, Ian Nepomniachtchi played the King's Gambit against Peter Svidler at the World Rapid Team Championship - and he managed to score a full point! In his Fast & Furious show, Robert Ris analyses Nepo's crushing victory. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,8 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-2",
-         "pubDate" : "Thu, 31 Aug 2023 15:59:35",
-         "title" : "Carlsen Beats Caruana To Play Firouzja In Winners Final"
+         "pubDate" : "Thu, 31 Aug 2023 15:59:00",
+         "title" : "Carlsen Beats Caruana, Will Play Firouzja In Winners Final"
       },
       {
          "description" : "World-class chess explained in video: Dorian Rogozenco shows two wins of Hikaru Nakamura from Norway Chess 2023, including the decisive last-round game against Fabiano Caruana - Sharjah Masters 2023: Analyses by tournament winner Arjun Erigaisi as well as Ivan Cheparinov, Grigoriy Oparin, Thai Dai Van Ngyuen and Samvel Ter-Sahakyan - \"Special\" on Hikaru Nakamura: exclusive collection of 19 encounters with detailed commentary from 2007 to 2023 - Action in the centre: Christian Braun's Anti-Sicilian recipe 1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5!? - \"Nakamura's strategy in practice\": Mihail Marin sheds light on the US American's skills, incl. two interactive videos and a large collection of exercises ",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/tani-vs-the-world-match-5-lee-wins",
          "pubDate" : "Thu, 31 Aug 2023 12:43:00",
          "title" : "Alice Lee Prevails vs. Tani Adewumi With Stunning Bullet Comeback"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Thu, 31 Aug 2023 11:20:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "Raids, counter-raids and lots of loot: that&#38;rsquo;s what fans of Chess.com, Clash of Clans and Clash Royale can look forward to in September as two giant gaming empires get together for a month of cross-platform battles. Chess.com and Supercell,...",
