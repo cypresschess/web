@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
+         "pubDate" : "Fri, 01 Sep 2023 08:15:00",
+         "title" : "Kasim: Play the French Defence"
+      },
+      {
+         "description" : "In his Game of the Week show #583, Merijn Van Delft analyses one of the wins that gave Magnus Carlsen his first-ever triumph in a World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-583-praggnanandhaa-carlsen",
+         "pubDate" : "Fri, 01 Sep 2023 07:15:00",
+         "title" : "Game of the Week #583: Praggnanandhaa vs. Carlsen"
+      },
+      {
+         "description" : " The 20-year-old had a subdued return at Titled Tuesday but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in o",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/sep/01/chess-niemann-back-in-action-after-100m-lawsuit-against-carlsen-is-settled",
+         "pubDate" : "Fri, 01 Sep 2023 07:00:08",
+         "title" : "Chess: Niemann back in action after $100m lawsuit against Carlsen is settled"
+      },
+      {
          "description" : "Two young Indian players outscored the rating favourites on the first day of action at the Tata Steel Rapid tournament in Kolkata. Divya Deshmukh (pictured) - who was included in the lineup as Vaishali Rameshbabu's late replacement - and Vantika Agrawal are leading the standings with 2&frac12;/3 points each. Women's world champion Ju Wenjun stands in sole third place, a half point behind. | Photo: Vivek Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +34,12 @@ news_feed (
          "title" : "Tata Steel India: Divya and Vantika lead as favourites stumble"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class about the preparation of top tournament chess players. 2023.08.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7I7CjBB6Guk.jpg?itok=LNHHNCSj\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class about the preparation of top tournament chess players. 2023.08.31<br /> Anish Giri vs Dommaraju Gukesh, Tata Steel Masters (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2453794\">https://www.chessgames.com/perl/chessgame?gid=2453794</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok\"><img",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok",
          "pubDate" : "Fri, 01 Sep 2023 00:26:02",
          "title" : "How Top Chess Players Prepare | Prepare Like A Pro - GM Benjamin Bok"
-      },
-      {
-         "description" : "Daringly, Ian Nepomniachtchi played the King's Gambit against Peter Svidler at the World Rapid Team Championship - and he managed to score a full point! In his Fast & Furious show, Robert Ris analyses Nepo's crushing victory. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nepomniachtchi-kings-gambit",
-         "pubDate" : "Thu, 31 Aug 2023 21:30:00",
-         "title" : "Robert Ris' Fast and Furious: Nepo plays the King's Gambit!"
       },
       {
          "description" : "We talked a few times about Genrikh Kasparyan already, this time we delve a bit into his book \"Domination in 2545 Endgame Studies\". At the time, the book served as a great anthology and also a small theoretical introduction to the theme. | Photo: Midjourney AI",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-some-classical-dominations",
          "pubDate" : "Thu, 31 Aug 2023 19:30:00",
          "title" : "Study of the Month: Some classical dominations"
+      },
+      {
+         "description" : "Daringly, Ian Nepomniachtchi played the King's Gambit against Peter Svidler at the World Rapid Team Championship - and he managed to score a full point! In his Fast & Furious show, Robert Ris analyses Nepo's crushing victory. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nepomniachtchi-kings-gambit",
+         "pubDate" : "Thu, 31 Aug 2023 19:25:00",
+         "title" : "Robert Ris' Fast and Furious: Nepo plays the King's Gambit!"
       },
       {
          "description" : "The FIDE World Cup was a complete success, as top players fought for spots in the Candidates, both in the open and in the women's section. Magnus Carlsen and Aleksandra Goryachkina were the winners. As ever, GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five instructive endgames from the open category! | Pictured: Praggnanandhaa Rameshbabu | Photo: Stev Bonhage",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "'You personify passion and perseverance': PM Modi meets Praggnanandhaa"
       },
       {
-         "description" : "Youngsters WGM Divya Deshmukh and WGM Vantika Agrawal powered through the opposition on their way to the joint lead with 2.5 points apiece after three rounds of the Tata Steel Chess India Women&#39;s Rapid tournament in a day of exciting clashes at Ko...",
+         "description" : "Youngsters WGM Divya Deshmukh and WGM Vantika Agrawal powered through the opposition on their way to joint lead with 2.5 points apiece after three rounds of the Tata Steel Chess India Women&#39;s Rapid tournament in a day of exciting clashes at Kolkat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day1",
@@ -432,14 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opposition",
          "pubDate" : "Tue, 29 Aug 2023 09:00:00",
          "title" : "Opposition"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
-         "pubDate" : "Mon, 28 Aug 2023 22:15:00",
-         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : "After arriving from Baku and resting the first day, R Praggnanandhaa continued where he left off at the FIDE World Cup 2023. The sensational teenager scored four wins in-a-row for WR Chess at FIDE World Rapid Teams 2023. Meanwhile GM D Gukesh (Kompetenzakademie Allstars, 2629) faced the 14th world champion, GM Vladimir Kramnik (Chess Pensioners, 2739) for the first time in an over-the-board rated game. He made the most out of his opportunity and won comfortably. Impressions from D&uuml;sseldorf with videos by Sagar Shah.",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2023-r8-d3",
          "pubDate" : "Thu, 24 Aug 2023 21:30:00",
          "title" : "Magnus Carlsen \"completes\" chess as he bags World Cup title"
-      },
-      {
-         "description" : "The Arkhangelsk Variation of the Ruy Lopez is a dangerous weapon. For both sides - Black can lose quickly, if he does not know what he is doing. In his Fast & Furious show, Robert Ris shows you a nice opening trap in this popular line. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-why-it-s-good-to-be-prepared",
-         "pubDate" : "Thu, 24 Aug 2023 18:00:00",
-         "title" : "Robert Ris' Fast and Furious: Why it's good to be prepared"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103033338.cms\" />Humble to the core, teen sensation R Praggnanandhaa was far from realising the enormity of his achievement in the FIDE World Cup but reckoned his incredible run could force people to \"start noticing\" Indian chess. It needed the sheer brilliance of Magnus Carlsen to stop the 18-year-old Praggnanandhaa's march as he finished second best after losing in the final on Thursday.",
@@ -1760,14 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2571",
          "pubDate" : "Fri, 11 Aug 2023 11:51:24 +0000",
          "title" : "FIDE World Junior Rapid & Blitz U20 Championship: Free accommodation available"
-      },
-      {
-         "description" : " World No 1 lost first game to Germany's Vincent Keymer through endgame blunder, but finally won 3.5-2.5 after speed tiebreaks Magnus Carlsen, Norway's world No 1, edged into the last 16 at the $1.8m World Cup in Baku, Azerbaijan, on Friday with a 3.5-2.5 margin over Germany's Vincent Keymer, 18, who scored a shock win in the opening game. Their tiebreak took four hours to resolve, as Keymer put up tough resistance, while Carlsen missed wins in three epic endgames. The format of the 206-player knockout is brutal and unforgiving, as lower ranked grandmasters seized one of their few opportunities to upstage the elite who monopolise the richly rewarded invitation tournaments. <a href=\"https://w",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/aug/11/chess-magnus-carlsen-escapes-from-the-brink-of-defeat-at-the-world-cup",
-         "pubDate" : "Fri, 11 Aug 2023 07:00:31",
-         "title" : "Chess: Magnus Carlsen escapes after flirting with defeat at World Cup"
       }
    ]
 }
