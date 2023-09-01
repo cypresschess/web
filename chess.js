@@ -34,6 +34,14 @@ news_feed (
          "title" : "Anurag Thakur felicitates GM Praggnanandhaa, chess ace confident of winning Asiad gold"
       },
       {
+         "description" : "For 37 years, Indian chess has had one unwavering constant: the legendary GM Viswanathan Anand is king. With the release of FIDE&#39;s latest official rating list on Friday, that has now changed. There is a new kid on the block. GM Gukesh D, the 17-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-ends-anands-37-year-reign",
+         "pubDate" : "Fri, 01 Sep 2023 08:48:48",
+         "title" : "Gukesh Ends Anand's 37-Year Reign As India's Official Number 1"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103277876.cms\" />In a historic shift, 17-year-old Grandmaster D Gukesh has taken over the mantle as India's top chess player, ending Viswanathan Anand's remarkable reign that spanned over three decades.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -254,7 +262,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/praggnanandaas-exploits-rewarded-indian-star-given-ev-car-and-audience-with-p-m-modi",
-         "pubDate" : "Thu, 31 Aug 2023 12:48:56",
+         "pubDate" : "Thu, 31 Aug 2023 12:48:00",
          "title" : "Hero's Welcome, Audience With Modi And A New Car: Praggnanandaa's Reward For World Cup Exploits"
       },
       {
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/pragg-v-carlsen.html",
          "pubDate" : "Tue, 22 Aug 2023 13:07:00",
          "title" : "Pragg v Carlsen"
-      },
-      {
-         "description" : "GMs Yu Yangyi and Vidit Gujrathi have made it into the 2023 Chess.com Speed Chess Championship Presented by Coinbase after claiming two spots in the first Qualifier on Tuesday. Yu finished second in the Swiss on day one and, on the second day, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-1-yu-vidit-win",
-         "pubDate" : "Tue, 22 Aug 2023 12:05:00",
-         "title" : "Armageddon Wins In Both Finals: Vidit, Yu Qualify For SCC 2023 Presented By Coinbase"
       },
       {
          "description" : "EU Youth Chess Championship 2023 is underway. The level of the event is very good in category U8 is leading Atanas Taskov (BUL, 6 points out of 6 rounds!), in U10 with 5,5 points Vladimir Sofronie (ROU), in U12 Alexandru Ioan Constantinoiu (ROU, 6 points!) and in U14 Louis Auribault (FRA, 5,5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Henri Rouanet (FRA), []",
