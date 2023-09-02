@@ -18,6 +18,14 @@ news_feed (
          "title" : "Casto Abundo: \"I got to stay with Bobby Fischer for a whole month\""
       },
       {
+         "description" : "Chess.com is excited to announce the third edition of Chessable&#39;s annual Create Your Own Course contest. Registrations are open from September 1 to November 30 to all Chessable PRO members who want to participate.&#38;nbsp; This is the perfect oppor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessable-create-your-own-course-2023",
+         "pubDate" : "Fri, 01 Sep 2023 17:31:52",
+         "title" : "Announcing The 2023 Create Your Own Course Contest With GM Maurice Ashley"
+      },
+      {
          "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-3",
-         "pubDate" : "Fri, 01 Sep 2023 15:18:24",
+         "pubDate" : "Fri, 01 Sep 2023 15:18:00",
          "title" : "Carlsen Sweeps Firouzja 3-0: 'It's Just Me Against The Kids Now!'"
       },
       {
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-august-22-2023",
          "pubDate" : "Wed, 23 Aug 2023 09:05:00",
          "title" : "Nakamura Perfect On Tuesday Once Again"
-      },
-      {
-         "description" : "Go ahead ChessPunk, make my day! Now that the superb PogChamps 5 tournament is over, Chess.com is delighted to announce another exciting amateur event kicking off next month. ChessPunks Champs is the new PogChamps-style event for all of us norma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesspunks-champs",
-         "pubDate" : "Wed, 23 Aug 2023 07:08:00",
-         "title" : "Chess.com Supports First ChessPunks Champs Tournament For Adult Improvers"
       },
       {
          "description" : "Praggnanandhaa forced a stalemate in 35 moves, playing with white pieces in the first classical game of the 2023 Chess World Cup final.",
