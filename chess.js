@@ -26,6 +26,14 @@ news_feed (
          "title" : "Julius Baer Generation Cup - Live!"
       },
       {
+         "description" : "GM Hikaru Nakamura claimed his ninth title and the $400 prize for first place in September&#39;s first Bullet Brawl after a tense battle with GMs Daniel Naroditsky and Andrew Tang, who finished second and third respectively. GMs Oleksandr Bortnyk and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-2-2023",
+         "pubDate" : "Sat, 02 Sep 2023 16:01:00",
+         "title" : "Nakamura Closes In On 10th Bullet Brawl Title"
+      },
+      {
          "description" : " To commemorate the late Oskar Hellman, a special Father's Day weekend event was held at Street Chess today. Thanks to the generous support of tournament regulars Lee Forace and Harry Johnson, we were able to award a number of extra prizes. These prizes included both a Senior and Junior prize (1st and 2nd place), and a Best Female prize. But as an added bonus, there was a prize for players who scored points with the Blackmar-Diemar Gambit (3 winners here), and a prize for the Best Father. With 38 players taking part, the tournament resulted in a lot pf happy players, who were a little surprised they went home with more money than they turned up with! <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.thearticle.com/laudator-temporis-acti-ancients-and-moderns-in-chess/",
          "pubDate" : "Sat, 02 Sep 2023 14:01:41",
          "title" : "'Laudator Temporis Acti': ancients and moderns in chess"
+      },
+      {
+         "description" : "The Tata Steel Chess India Women&#39;s Rapid&#38;nbsp;saw a nerve-wracking final round where title chances alternatively swung in favor of WGM Divya Deshmukh and Women&#39;s World Champion GM Ju Wenjun before the former emerged as the winner by a half-a-point...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day-3-rapid",
+         "pubDate" : "Sat, 02 Sep 2023 13:58:29",
+         "title" : "Divya Winner After Nerve-Wracking Finale"
       },
       {
          "description" : "Opening courses are everywhere. The prospect of playing the same line as a Top Player is just too tempting to resist. Some Chess fans seem to buy an opening course more frequently than they change their underwear. But is it sensible for amateur chess improvers to buy and study Opening courses from (Grand)Masters? I have []",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "World Cup winner and third place to be decided in tiebreaks"
       },
       {
-         "description" : "The last classical games of the 2023 FIDE World Cup could not have been more different from each other. In the final between GM Magnus Carlsen and GM Praggnanandhaa Rameshbabu, the drawn outcome was predicted as early as move five, while in the th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-2",
-         "pubDate" : "Wed, 23 Aug 2023 13:51:00",
-         "title" : "Caruana Wins, Carlsen-Praggnanandhaa Draw: Both Matches Move To Tiebreaks"
-      },
-      {
          "description" : "Praggnanandhaa vs Carlsen will now be decided on tie-breaks after the duo played out a second consecutive draw on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/dcms-funding/",
          "pubDate" : "Wed, 23 Aug 2023 09:09:13",
          "title" : "Government funding for chess from DCMS, DLUHC and DfE"
-      },
-      {
-         "description" : "After GM Hikaru Nakamura scored the first 11/11 in&#38;nbsp;Titled Tuesday history on August 17, 2021, it took 98 weeks for someone to repeat the feat until GM Magnus Carlsen finally did so on July 4, 2023. But audiences only had to wait seven weeks f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-nakamura-win-titled-tuesday-august-22-2023",
-         "pubDate" : "Wed, 23 Aug 2023 09:05:00",
-         "title" : "Nakamura Perfect On Tuesday Once Again"
       },
       {
          "description" : "Praggnanandhaa forced a stalemate in 35 moves, playing with white pieces in the first classical game of the 2023 Chess World Cup final.",
