@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2023-09-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309014822 target='_blank'>FBCC 2023 LABOR DAY OPE</a>",
+"CYPRESS","2023-09-01","28","<a href=http://www.uschess.org/msa/XtblMain.php?202309014802 target='_blank'>KNIGHTS OFCYPRESS</a>",
 "HOUSTON","2023-08-01  - 08-29","25","<a href=http://www.uschess.org/msa/XtblMain.php?202308293732 target='_blank'>AUGUST 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-08-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202308263482 target='_blank'>ADULT SWISS AUG 26</a>",
 "SPRING","2023-08-26","160","<a href=http://www.uschess.org/msa/XtblMain.php?202308261892 target='_blank'>KLEIN BACK-TO-SCHOOL SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-02-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202302034422 target='_blank'>REBECCA CHESS CLUB QUADS FEB 3, 2023</a>",
 "CYPRESS","2023-02-03","32","<a href=http://www.uschess.org/msa/XtblMain.php?202302034402 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-01-03  - 01-31","13","<a href=http://www.uschess.org/msa/XtblMain.php?202301313282 target='_blank'>JAN 2023 TUESDAY NIGHT SWISS</a>",
-"LEAGUE CITY","2023-01-09  - 01-30","9","<a href=http://www.uschess.org/msa/XtblMain.php?202301308962 target='_blank'>CLCC JANUARY MONDAYS</a>",
-"HOUSTON","2023-01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202301284232 target='_blank'>JAN 2023 SCHOLASTIC</a>",
 ]);
