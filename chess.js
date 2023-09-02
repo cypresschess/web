@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Sat, 02 Sep 2023 11:20:00",
-         "title" : "Tata Steel Chess India - Live!"
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Sat, 02 Sep 2023 16:50:00",
+         "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
+         "description" : " To commemorate the late Oskar Hellman, a special Father's Day weekend event was held at Street Chess today. Thanks to the generous support of tournament regulars Lee Forace and Harry Johnson, we were able to award a number of extra prizes. These prizes included both a Senior and Junior prize (1st and 2nd place), and a Best Female prize. But as an added bonus, there was a prize for players who scored points with the Blackmar-Diemar Gambit (3 winners here), and a prize for the Best Father. With 38 players taking part, the tournament resulted in a lot pf happy players, who were a little surprised they went home with more money than they turned up with! <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/fathers-day-special.html",
+         "pubDate" : "Sat, 02 Sep 2023 14:35:00",
+         "title" : "Father's Day Special"
+      },
+      {
+         "description" : "Magnus Carlsen won the winners' final of the Julius Baer Generation Cup with a smooth 3-0 victory over Alireza Firouzja. The Norwegian has thus reached the Grand Final set to take place on Sunday. His opponent will be the winner of the losers' bracket, where Denis Lazavik and Nodirbek Abdusattorov will first play in the semifinals on Saturday; the winner will then face Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-d3",
+         "pubDate" : "Sat, 02 Sep 2023 14:30:00",
+         "title" : "Generation Cup: Carlsen overpowers Firouzja"
+      },
+      {
+         "description" : "I have received a communication from my old friend Nick Patterson, former Irish Chess Champion and top board for Ireland in the 1970 Siegen Chess Olympiad. He was also a leading light of Cambridge University chess while I was studying there and sharing digs with our future King Charles III at Trinity College. In a previous []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/laudator-temporis-acti-ancients-and-moderns-in-chess/",
+         "pubDate" : "Sat, 02 Sep 2023 14:01:41",
+         "title" : "'Laudator Temporis Acti': ancients and moderns in chess"
+      },
+      {
+         "description" : "Opening courses are everywhere. The prospect of playing the same line as a Top Player is just too tempting to resist. Some Chess fans seem to buy an opening course more frequently than they change their underwear. But is it sensible for amateur chess improvers to buy and study Opening courses from (Grand)Masters? I have []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-opening-courses/",
+         "pubDate" : "Sat, 02 Sep 2023 12:00:22",
+         "title" : "Chess Opening Courses: Are They Worth Buying?"
       },
       {
          "description" : "After 11...b6? (diagram) pieces will be traded on the queenside - but not the way Black might have imagined! Do you see how White gets an advantage?",
@@ -26,20 +58,28 @@ news_feed (
          "title" : "Tata Steel Asian Junior Open and Girls Chess Championship kicks off from September 7"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King, an expert on the King's Gambit, looks at the exciting opening by analysing Ian Nepomniachtchi's recent victory over Peter Svidler from the World Rapid Team Championship in D&uuml;sseldorf. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nepo-kings-gambit",
-         "pubDate" : "Fri, 01 Sep 2023 23:35:00",
-         "title" : "Daniel King's Power Play Show: Nepo strikes with the King's Gambit"
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Sat, 02 Sep 2023 08:55:00",
+         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "In a wide-ranging interview, Casto Abundo talks about his lengthy career as a chess organiser, his work alongside Florencio Campomanes and the time he spent with Bobby Fischer in the Philippines. Abundo shares: \"I had to play racquetball with Bobby, swim with him far into the open seas, go on long nightly walks discussing chess, arrange a date with a Filipina national chess team member he liked, drive him to the yacht of President Marcos, and watch as he replayed games from Chess Informant every night\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/casto-abundo-interview-2023",
-         "pubDate" : "Fri, 01 Sep 2023 22:40:00",
+         "pubDate" : "Fri, 01 Sep 2023 23:40:00",
          "title" : "Casto Abundo: \"I got to stay with Bobby Fischer for a whole month\""
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King, an expert on the King's Gambit, looks at the exciting opening by analysing Ian Nepomniachtchi's recent victory over Peter Svidler from the World Rapid Team Championship in D&uuml;sseldorf. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nepo-kings-gambit",
+         "pubDate" : "Fri, 01 Sep 2023 23:35:00",
+         "title" : "Daniel King's Power Play Show: Nepo strikes with the King's Gambit"
       },
       {
          "description" : "Chess.com is excited to announce the third edition of Chessable&#39;s annual Create Your Own Course contest. Registrations are open from September 1 to November 30 to all Chessable PRO members who want to participate.&#38;nbsp; This is the perfect oppor...",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
          "pubDate" : "Fri, 01 Sep 2023 17:00:00",
          "title" : "Kasim: Play the French Defence"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Fri, 01 Sep 2023 16:50:00",
-         "title" : "Julius Baer Generation Cup - Live!"
       },
       {
          "description" : "GM&#38;nbsp;Magnus Carlsen reached the Division I Grand Final of the 2023 Julius Baer Generation Cup after defeating GM Alireza Firouzja with a hat trick, 3-0 with no fourth game. By stark contrast, youth beat experience in the Losers Bracket. GM No...",
@@ -826,6 +858,14 @@ news_feed (
          "title" : "Naroditsky Claims 4th Bullet Brawl Title"
       },
       {
+         "description" : " I mentioned that we would look at some examples of pawn structure, both their strengths and weaknesses, within game positions. This week, we're going to start doing just that. However, I want you to try a training method I use with my beginning students to get them used to employing and maintaining good pawn structure. <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/\">A Foundation for Beginners One Hundred One</a> appeared first on <a re",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/",
+         "pubDate" : "Sat, 26 Aug 2023 14:46:09",
+         "title" : "A Foundation for Beginners One Hundred One"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103089136.cms\" />The Indian men's chess team, including World Cup silver medalist Rameshbabu Praggnanandhaa and three quarter-finalists, will have a four-day tactical camp in Kolkata starting on August 30. The Hangzhou-bound squad includes Grandmasters Vidit Gujarathi, Arjun Erigaisi, R Gukesh, and veteran Pentala Harikrishna, led by head coach Boris Gelfand and assistant coaches Srinath Narayanan and Vaibhav Suri.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -840,14 +880,6 @@ news_feed (
          "link" : "https://aicf.in/dual-senior-national-arbiter-seminar-starts-in-bengaluru-from-26-27-august-2023/",
          "pubDate" : "Sat, 26 Aug 2023 10:16:16",
          "title" : "Dual Senior National Arbiter Seminar starts in Bengaluru from 26-27 August 2023"
-      },
-      {
-         "description" : "In the diagram position White mates by force after 18.Nf6+ Ke7 19.Re1! Nxf5. Do you see how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/short-and-sweet-2",
-         "pubDate" : "Sat, 26 Aug 2023 09:00:00",
-         "title" : "Short and sweet"
       },
       {
          "description" : "Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet to be cancelled. No armies of wokistas demonstrating in front of the raised drawbridge of Castle Keene, no strident sans culottes barricading the streets, screaming Ray &agrave; la lanterne, not one lecture or simultaneous []",
@@ -1752,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2575",
          "pubDate" : "Sat, 12 Aug 2023 17:46:41 +0000",
          "title" : "World Cup Round 5 Game 1: Multiple victories and surprises in Baku"
-      },
-      {
-         "description" : " The current LFG invitational has seen the field break into 3 groups. At the top are the tournament favourites (Press H, Litchfield and Magrini), the players in the middle who are aiming for a plus score, and a few at the bottom looking for their first points. I'm probably at the bottom of the middle group (now on 1/3), but hope to move up before I get to the top seeds. Here is a nice win from Fred Litchfield of Matthew Radisich, which demonstrates the difference in strength between some of the tournament players. <br /> <b>Litchfield,Frederick (2134) - Radisich,Matt (1677) [D30]</b><br /> Looking for Gamers Invitational (8.3), 04.08.2023 <script> new PgnViewer( { boardName: \"game1415\", move",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/another-nice-lfg-win.html",
-         "pubDate" : "Sat, 12 Aug 2023 13:44:00",
-         "title" : "Another nice LFG win"
       }
    ]
 }
