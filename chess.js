@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2618",
+         "pubDate" : "Sat, 02 Sep 2023 18:55:45 +0000",
+         "title" : " ­Georgia and USA, main favourites in Poland"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103314414.cms\" />Divya Deshmukh knows how to grab an opportunity with both hands. The 17-year-old Women's Grandmaster, who was only a last-minute inclusion after India's latest chess sensation R Praggnanandhaa's sister WGM MR Vaishali pulled out, ended up claiming the women's rapid title of Tata Steel Chess India tournament at the Bhasha Bhawan in the National Library of India campus on Saturday. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-divya-deshmukh-claims-rapid-title/articleshow/103314414.cms",
+         "pubDate" : "Sat, 02 Sep 2023 17:14:03 +0000",
+         "title" : "Tata Steel Chess India: Divya Deshmukh claims rapid title"
+      },
+      {
          "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Championships 2024 - Call for bids"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103033338.cms\" />Humble to the core, teen sensation R Praggnanandhaa was far from realising the enormity of his achievement in the FIDE World Cup but reckoned his incredible run could force people to \"start noticing\" Indian chess. It needed the sheer brilliance of Magnus Carlsen to stop the 18-year-old Praggnanandhaa's march as he finished second best after losing in the final on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-think-people-will-start-to-notice-indian-chess-r-praggnanandhaa/articleshow/103033338.cms",
-         "pubDate" : "Thu, 24 Aug 2023 17:16:14 +0000",
-         "title" : "I think people will start to notice Indian chess: R Praggnanandhaa"
-      },
-      {
          "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/at-center-of-ai-research.html",
          "pubDate" : "Sun, 13 Aug 2023 15:07:00",
          "title" : "'At the Center of AI Research'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2575",
-         "pubDate" : "Sat, 12 Aug 2023 17:46:41 +0000",
-         "title" : "World Cup Round 5 Game 1: Multiple victories and surprises in Baku"
       }
    ]
 }
