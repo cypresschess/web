@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 11...b6? (diagram) pieces will be traded on the queenside - but not the way Black might have imagined! Do you see how White gets an advantage?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/exchange-variation",
+         "pubDate" : "Sat, 02 Sep 2023 09:00:00",
+         "title" : "Exchange variation"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King, an expert on the King's Gambit, looks at the exciting opening by analysing Ian Nepomniachtchi's recent victory over Peter Svidler from the World Rapid Team Championship in D&uuml;sseldorf. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.thearticle.com/unfair-play-from-jk-rowling-to-sharron-davies/",
          "pubDate" : "Sat, 26 Aug 2023 08:36:04",
          "title" : "Unfair play: from JK Rowling to Sharron Davies"
-      },
-      {
-         "description" : "From Saturday to Monday, the first edition of the World Rapid Team Championship will take place in D&uuml;sseldorf. More than 80 grandmasters, including many big names - but also numerous amateurs - are taking part. Four former world champions will participate: Vladimir Kramnik, Vishy Anand, Hou Yifan and Alexandra Kosteniuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-teams",
-         "pubDate" : "Sat, 26 Aug 2023 08:30:00",
-         "title" : "So, Aronian and Caruana top seeds in D&uuml;sseldorf"
       },
       {
          "description" : "The fights for the EU Youth Chess Championship 2023 winning throne culminated on Thursday, August 24th in Kouty nad Desnou (CZE). The last rounds were full of fights and tension. In category Boys U8 took the first place Atanas Taskov (BUL, 9 out of 9!), the second place Jean Desfosses (FRA) and the third Kyriakos Skouroupathis (CYP). In category Girls U8 took the first place Karina Ser (LTU), the second place Agathe Gastaldo (FRA) and the third Melania-Cristina Grigore (ROU). []",
