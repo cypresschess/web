@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Sat, 02 Sep 2023 11:20:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "After 11...b6? (diagram) pieces will be traded on the queenside - but not the way Black might have imagined! Do you see how White gets an advantage?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/exchange-variation",
          "pubDate" : "Sat, 02 Sep 2023 09:00:00",
          "title" : "Exchange variation"
+      },
+      {
+         "description" : "Jamshedpur, September 1, 2023:&#160;Tata Steel Asian Junior Open and Girls Chess Championship 2023 will be organised between September 7 to 15 at&#160;JRD Tata Sports Complex.&#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tata-steel-asian-junior-open-and-girls-chess-championship-kicks-off-from-september-7/",
+         "pubDate" : "Sat, 02 Sep 2023 08:59:14",
+         "title" : "Tata Steel Asian Junior Open and Girls Chess Championship kicks off from September 7"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King, an expert on the King's Gambit, looks at the exciting opening by analysing Ian Nepomniachtchi's recent victory over Peter Svidler from the World Rapid Team Championship in D&uuml;sseldorf. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day2",
          "pubDate" : "Fri, 01 Sep 2023 12:59:00",
          "title" : "Divya Deshmukh's Dazzling Day"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Fri, 01 Sep 2023 11:20:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "The European Youth Chess Championship 2023 kicks off on Tuesday, 5th of September, in Mamaia, Romania. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately), from 5-14 September, at the Ceremony Hall Dorna. Each category will feature 9 rounds played in the swiss system, with the time control of 90 minutes + 30 seconds increment for each move, starting from the move one. More than 900 players coming []",
@@ -1546,14 +1554,6 @@ news_feed (
          "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
       },
       {
-         "description" : "Please find the link for live games for 60th National Chess Championship 2023 https://live.followchess.com/%23!60th-ind-national-chp-2023",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-60th-national-chess-championship-2023/",
-         "pubDate" : "Wed, 16 Aug 2023 11:30:21",
-         "title" : "Live Games link for 60th National Chess Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1760,30 +1760,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/another-nice-lfg-win.html",
          "pubDate" : "Sat, 12 Aug 2023 13:44:00",
          "title" : "Another nice LFG win"
-      },
-      {
-         "description" : "Much of my professional career in chess has been involved with organising world chess championships in London: namely, those of 1986, between Garry Kasparov and Anatoly Karpov, 1993, which saw Britain's Nigel Short fail in his challenge to Kasparov, and 2000, when Vladimir Kramnik finally terminated Kasparov's 15-year reign as champion. As a corollary, hoc opus hic []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/believing-the-impossible/",
-         "pubDate" : "Sat, 12 Aug 2023 10:11:24",
-         "title" : "Believing the impossible "
-      },
-      {
-         "description" : "I often get emails from blog readers who seemingly solve most Chess puzzles correctly but can't find the right moves during the game. What is their problem? Mostly their definition of 'correct solution' differs widely from mine. They either solve Chess puzzles in a way they can't during a game (try &#38; error), or they []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/mastering-chess-puzzles-comprehensive-guide-to-effective-problem-solving/",
-         "pubDate" : "Sat, 12 Aug 2023 09:07:00",
-         "title" : "Mastering Chess Puzzles: The Comprehensive Guide to Effective Problem Solving"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2574",
-         "pubDate" : "Sat, 12 Aug 2023 08:17:30 +0000",
-         "title" : "FIDE World Senior Team Championships 2023: Registration deadline extended"
       }
    ]
 }
