@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "2...d6 is Black's favourite Sicilian. In the new CBM #215 Christian Braun presents a concept for White with 3.Nc3 Nf6 4.e5!? that is attractive in various respects: White immediately forces the pace, leads the game into terrain that is often unknown to the opponent and gets \"dynamic and powerful play\" with little risk of his own. You don't need to learn too many variations by heart in this straightforward system either. Take a look at the article in CBM #215 and then do a first practical test on the chess server right away!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/instant-action-in-the-centre",
+         "pubDate" : "Sun, 03 Sep 2023 12:30:00",
+         "title" : "Instant action in the centre!"
+      },
+      {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 10.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Sun, 03 Sep 2023 10:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "Presented by the Saint Louis Chess Club, the highly anticipated '2023 Champions Showdown: Chess 9LX' returns this September 8-10, 2023 at the World Chess Hall of Fame with another exciting line-up featuring the top players from the United States, including World No. 3 and reigning World 960 Champion GM Hikaru Nakamura and World No. 2 GM Fabiano Caruana competing alongside legendary former World Champion Garry Kasparov. | Photo: Lennart Ootes (2022)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-3",
          "pubDate" : "Fri, 01 Sep 2023 15:18:00",
          "title" : "Carlsen Sweeps Firouzja 3-0: 'It's Just Me Against The Kids Now!'"
+      },
+      {
+         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> (August 2023), I wrote, <BLOCKQUOTE> Ads are related to cookies. It's been eight years since the last time I looked at the European cookie monster. [...] Since then, the European Union has introduced the GDPR, which stands for <I>General Data Protection Regulation</I> (wikipedia.org). The CMP requirements are a response to the GDPR. What does that entail for small web sites like mine? I'll look at that in the next post. </BLOCKQUOTE> <P> A few months ago Google introduced a new requirement. <UL> <LI> 2023-05-16: <A HREF=\"https://blog.google/products/admanager/new-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html",
+         "pubDate" : "Fri, 01 Sep 2023 15:07:00",
+         "title" : "Adsense and the CMP"
       },
       {
          "description" : "WGM Divya Deshmukh bulldozed over the field with three impressive victories in three games on day two to take the sole lead with a score of 5.5/6 in the Tata Steel Chess India Women&#39;s Rapid tournament. Women&#39;s World Champion Ju Wenjun had another ...",
@@ -834,14 +858,6 @@ news_feed (
          "title" : "Sethuraman wins Indian Championship"
       },
       {
-         "description" : "There are chess puzzles, which are not just clever. They can be very entertaining. An expert in such positions is Gauri Shankar, a chess trainer from Chicago, who has a great talent for finding pretty examples, and for explaining the results in instructive style. Today we how you three new positions, which you can try to solve. You can let Gauri explain them, if you fail to find out everything yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gauri-chess-puzzles-2",
-         "pubDate" : "Sun, 27 Aug 2023 10:00:00",
-         "title" : "Gauri chess puzzles - (2)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103103469.cms\" />All India Chess Federation (AICF) president Sanjay Kapoor said Indian chess has entered the \"golden era\" and the country will have over a hundred Grandmasters within two years.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://aicf.in/sethuraman-national-champion/",
          "pubDate" : "Sun, 27 Aug 2023 07:01:26",
          "title" : "Sethuraman National Champion"
-      },
-      {
-         "description" : "The first edition of the World Rapid Team Championship kicked off on Saturday in D&uuml;sseldorf. Amid a relaxed environment, a few of the strongest GMs in the field suffered upsets. After the first four rounds, WR Chess, Wadim Rosenstein's team, is the only squad with a perfect 8/8 score. Ian Nepomniachtchi was the strongest performer in the leading team, as he beat four lower-rated opponents in a row. | Pictured: The Chess Pensioners | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d1",
-         "pubDate" : "Sun, 27 Aug 2023 04:15:00",
-         "title" : "D&uuml;sseldorf: The fun begins, WR Chess perfect after four rounds"
       },
       {
          "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
