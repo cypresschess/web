@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " It was with a feeling of modified rapture that I greeted the recent news of government funding for chess in England. Increased money for our national teams? Great, as long as it's used wisely. I'm not complaining about that. Chess boards in parks? A pointless gimmick designed to grab headlines which serves little purpose. All <a href=\"https://chessimprover.com/modified-rapture/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Modified Rapture\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/modified-rapture/\">Modified Rapture</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/modified-rapture/",
+         "pubDate" : "Sun, 03 Sep 2023 20:21:56",
+         "title" : "Modified Rapture"
+      },
+      {
          "description" : "In this week's column, violence and subtlety are presented side by side - violence from the D&uuml;sseldorf Rapid Team Championship, and subtlety from the sophisticated concept of zugzwang. Find here examples from games by Dommaraju Gukesh and Nihal Sarin, plus remarkable zugzwang positions, including the 'Immortal Zugzwang Game'. | Photos: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Tata Steel Chess India: Harika, Humpy stage comebacks"
       },
       {
+         "description" : "This is a flash report. Full report coming soon. GM Magnus Carlsen defeated GM Alireza Firouzja in the Grand Final of the 2023 Julius Baer Generation Cup to clinch his third tournament victory on the Champions Chess Tour. Though both players wer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-5",
+         "pubDate" : "Sun, 03 Sep 2023 15:47:56",
+         "title" : "Flash Report: Triumph On A Choppy Day: Carlsen Defeats Firoujza Again"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 141st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2023-preview",
          "pubDate" : "Sun, 03 Sep 2023 14:55:00",
          "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
+      },
+      {
+         "description" : " The Julius Baer Generation Cup took place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. Magnus Carlsen beat Alireza Firouzja 3-0 in the winners final and in an Armageddon in the Grand Final. Ian Nepomniachtchi won Division 2 and Sam Sevian Division 3 after beating Shakhriyar Mamedyarov in a final reset match. Mamedyarov beat him in the Winners final but lost the Grand Final setting up the finale. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2023",
+         "pubDate" : "Sun, 3 Sep 2023 13:55:00",
+         "title" : "Julius Baer Generation Cup 2023 - Games and Results"
+      },
+      {
+         "description" : "GM Harika Dronavalli and GM Ju Wenjun are in the joint lead with 6.5 points from nine games at the end of the first day of the Tata Steel Chess India Women&#39;s Blitz. No player could escape defeat on an exciting day of blitz with high-quality games,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day-4-blitz",
+         "pubDate" : "Sun, 03 Sep 2023 13:47:28",
+         "title" : "Harika, Ju Lead After Tumultuous Day"
       },
       {
          "description" : "2...d6 is Black's favourite Sicilian. In the new CBM #215 Christian Braun presents a concept for White with 3.Nc3 Nf6 4.e5!? that is attractive in various respects: White immediately forces the pace, leads the game into terrain that is often unknown to the opponent and gets \"dynamic and powerful play\" with little risk of his own. You don't need to learn too many variations by heart in this straightforward system either. Take a look at the article in CBM #215 and then do a first practical test on the chess server right away!",
@@ -278,7 +310,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/clash-chess-bots",
-         "pubDate" : "Fri, 01 Sep 2023 07:01:12",
+         "pubDate" : "Fri, 01 Sep 2023 07:01:00",
          "title" : "Get Ready To Battle The New Clash Of Clans Bots"
       },
       {
@@ -416,14 +448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/random-rounds.html",
          "pubDate" : "Thu, 31 Aug 2023 13:58:00",
          "title" : "Random Rounds"
-      },
-      {
-         "description" : " The Julius Baer Generation Cup takes place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. This event is awfully complicated to cover. Will eventually start to get the games up later today.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2023",
-         "pubDate" : "Thu, 31 Aug 2023 13:55:00",
-         "title" : "Julius Baer Generation Cup 2023 - Games and Results"
       },
       {
          "description" : " The Tata Steel India Rapid & Blitz 2023 is split into separate Women's and then Men's event that are not held simultaneously. The women's event takes place Thu 31st Aug to Mon 4th Sep 2023. Players: Wenjun Ju, Humpy Koneru, Harika Dronavalli, Irina Krush, Anna Ushenina, Nino Batsiashvili, Polina Shuvalova, Agrawal Vantika, Shri B Savitha and Deshmukh Divya.",
@@ -994,14 +1018,6 @@ news_feed (
          "title" : "Adsense and the GDPR"
       },
       {
-         "description" : "The Russian-born, recently Slovenian GM Vladimir Fedoseev won the Abu Dhabi Chess Festival 2023 | Masters, which concluded on Thursday. Undefeated, he finished ahead of 40 other grandmasters (and 142 titled players total) with seven points in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-wins-2023-abu-dhabi-chess-festival-masters",
-         "pubDate" : "Fri, 25 Aug 2023 13:25:00",
-         "title" : "Fedoseev Wins Abu Dhabi Chess Festival Masters, Tops Field Of 41 Grandmasters"
-      },
-      {
          "description" : " Magnus Carlsen added another accolade to his already storied career by winning the World Cup. He overcame a wonderful performance by Rameshbabu Praggnanandhaa who defeated both Hikaru Nakamura and Fabiano Caruana to qualify for the final. As a result, he became the youngest player to have made a World Cup final and one of the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/\">Carlsen wins 2023 FIDE World Cup!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2608",
          "pubDate" : "Thu, 24 Aug 2023 21:49:48 +0000",
          "title" : "FIDE World Rapid and Blitz Championships 2024 - Call for bids"
-      },
-      {
-         "description" : "GMs Alexey Sarana and Dmitry Andreikin claimed the last spots in the 2023 Chess.com Speed Chess Championship Presented by Coinbase by winning their respective brackets in the SCC Qualifier 2 on Thursday. Sarana had the best event of anybody, pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-main-event-qualifier-2-sarana-andreikin-win",
-         "pubDate" : "Thu, 24 Aug 2023 14:52:00",
-         "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
       },
       {
          "description" : "",
@@ -1760,30 +1768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/im-norm-news/",
          "pubDate" : "Mon, 14 Aug 2023 08:23:32",
          "title" : "IM norm news"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2577",
-         "pubDate" : "Sun, 13 Aug 2023 21:50:04 +0000",
-         "title" : "FIDE World Youth Olympiad 2023: Day 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2576",
-         "pubDate" : "Sun, 13 Aug 2023 21:09:03 +0000",
-         "title" : "FIDE World Cup Round 5 Game 2: Decisive outcomes and missed opportunities"
-      },
-      {
-         "description" : " Endings with rooks against passed pawns are often exciting and difficult to get right. I chanced upon this game from the first round of the Major Open in Leicester, between Jonathan Nelson (2175) and John Garnett (1831). We'll join them here, at the start of the rook ending, with Black to make his 43rd move. <a href=\"https://chessimprover.com/half-nelson/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Half Nelson\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/half-nelson/\">Half Nelson</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/half-nelson/",
-         "pubDate" : "Sun, 13 Aug 2023 20:26:14",
-         "title" : "Half Nelson"
       }
    ]
 }
