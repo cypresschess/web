@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this week's column, violence and subtlety are presented side by side - violence from the D&uuml;sseldorf Rapid Team Championship, and subtlety from the sophisticated concept of zugzwang. Find here examples from games by Dommaraju Gukesh and Nihal Sarin, plus remarkable zugzwang positions, including the 'Immortal Zugzwang Game'. | Photos: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-201",
+         "pubDate" : "Sun, 03 Sep 2023 20:00:00",
+         "title" : "Jon Speelman: Violence and subtlety"
+      },
+      {
          "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
          "pubDate" : "Sun, 03 Sep 2023 16:50:00",
          "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103331622.cms\" />It's difficult to keep seasoned campaigners down for long. Grandmasters D Harika and Koneru Humpy proved just that as India's top two women players bounced back in the blitz section of the Tata Steel Chess India tournament after a not-so-good rapid tournament at the Bhasha Bhawan in the National Library of India campus on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-harika-humpy-stage-comebacks/articleshow/103331622.cms",
+         "pubDate" : "Sun, 03 Sep 2023 16:45:33 +0000",
+         "title" : "Tata Steel Chess India: Harika, Humpy stage comebacks"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 141st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "World Rapid Team Championship - Live!"
       },
       {
-         "description" : "New &pound;1 million package will support children attending schools in disadvantaged areas across England to learn and play chess, improve visibility and availability of the game and fund elite playing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/major-investment-to-transform-future-of-english-chess-announced",
-         "pubDate" : "Mon, 28 Aug 2023 12:45:00",
-         "title" : "Major investment to transform future of English chess announced"
-      },
-      {
          "description" : "The 2023 Speed Chess Championship is sprinting towards us, with only a week left before the main event begins! Sixteen of the game&#39;s quickest thinkers will compete to see who can make it over the finish line and be crowned as this year&#39;s Speed Che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
          "pubDate" : "Fri, 25 Aug 2023 07:00:03",
          "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103047153.cms\" />After winning his maiden World Cup title on Thursday, Magnus Carlsen said in an interview, \"Chess is in good hands for the future. I think this generation of players born between 1990-94 really have dominated for a long time and finally now with these youngsters born 2003+, we have a generation that's worthy of succeeding us when the time comes and the time could be fairly soon.\"",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-in-good-hands-for-the-future-says-magnus-carlsen-after-winning-his-first-chess-world-cup-title/articleshow/103047153.cms",
-         "pubDate" : "Fri, 25 Aug 2023 05:43:31 +0000",
-         "title" : "Chess is in good hands for the future: Magnus Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103044116.cms\" />Alexander Khalifman. Ruslan Ponomariov. Rustam Kasimdzhanov. Levon Aronian. Gata Kamsky. Peter Svidler. Teimour Radjabov. Jan Duda. These players have either won the FIDE World Cup chess title or FIDE knockout World Championship title.",
