@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Presented by the Saint Louis Chess Club, the highly anticipated '2023 Champions Showdown: Chess 9LX' returns this September 8-10, 2023 at the World Chess Hall of Fame with another exciting line-up featuring the top players from the United States, including World No. 3 and reigning World 960 Champion GM Hikaru Nakamura and World No. 2 GM Fabiano Caruana competing alongside legendary former World Champion Garry Kasparov. | Photo: Lennart Ootes (2022)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2023-preview",
+         "pubDate" : "Sun, 03 Sep 2023 03:05:00",
+         "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
+      },
+      {
+         "description" : "Divya Deshmukh, a late replacement and the lowest-rated player in the field, won the rapid section of the Tata Steel India tournament. The 17-year-old from Maharashtra outscored some of the strongest women players in the world to finish in sole first place with 7 out of 9 points. Ju Wenjun, who entered the last round tied for first with Divya, grabbed second place. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d3",
+         "pubDate" : "Sun, 03 Sep 2023 01:20:00",
+         "title" : "Divya wins Tata Steel Rapid with splendid performance"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Tata Steel Chess India: Divya Deshmukh claims rapid title"
       },
       {
-         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Sat, 02 Sep 2023 16:50:00",
-         "title" : "Julius Baer Generation Cup - Live!"
+         "description" : "GM Alireza Firouzja has earned a rematch vs. GM Magnus Carlsen in the Grand Final of the 2023 Julius Baer Generation Cup by winning the Losers Final vs. GM Denis Lazavik. Despite having a losing position for most of their second game, Firouzja pul...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-4",
+         "pubDate" : "Sat, 02 Sep 2023 16:46:00",
+         "title" : "Firouzja Earns Rematch vs. Carlsen, Knocks Out Wonderboy Lazavik"
       },
       {
          "description" : "GM Hikaru Nakamura claimed his ninth title and the $400 prize for first place in September&#39;s first Bullet Brawl after a tense battle with GMs Daniel Naroditsky and Andrew Tang, who finished second and third respectively. GMs Oleksandr Bortnyk and ...",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/generation-cup-2023-d3",
          "pubDate" : "Sat, 02 Sep 2023 14:30:00",
          "title" : "Generation Cup: Carlsen overpowers Firouzja"
+      },
+      {
+         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
+         "pubDate" : "Sat, 02 Sep 2023 14:25:00",
+         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : "I have received a communication from my old friend Nick Patterson, former Irish Chess Champion and top board for Ireland in the 1970 Siegen Chess Olympiad. He was also a leading light of Cambridge University chess while I was studying there and sharing digs with our future King Charles III at Trinity College. In a previous []",
@@ -90,14 +114,6 @@ news_feed (
          "title" : "Tata Steel Asian Junior Open and Girls Chess Championship kicks off from September 7"
       },
       {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Sat, 02 Sep 2023 08:55:00",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
          "description" : "In a wide-ranging interview, Casto Abundo talks about his lengthy career as a chess organiser, his work alongside Florencio Campomanes and the time he spent with Bobby Fischer in the Philippines. Abundo shares: \"I had to play racquetball with Bobby, swim with him far into the open seas, go on long nightly walks discussing chess, arrange a date with a Filipina national chess team member he liked, drive him to the yacht of President Marcos, and watch as he replayed games from Chess Informant every night\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chessable-create-your-own-course-2023",
          "pubDate" : "Fri, 01 Sep 2023 17:31:52",
          "title" : "Announcing The 2023 Create Your Own Course Contest With GM Maurice Ashley"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
-         "pubDate" : "Fri, 01 Sep 2023 17:00:00",
-         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : "GM&#38;nbsp;Magnus Carlsen reached the Division I Grand Final of the 2023 Julius Baer Generation Cup after defeating GM Alireza Firouzja with a hat trick, 3-0 with no fourth game. By stark contrast, youth beat experience in the Losers Bracket. GM No...",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1?device=featurephone",
          "pubDate" : "Thu, 24 Aug 2023 08:38:09",
          "title" : "Carlsen wins World Cup after beating Pragg in tie-breaks"
-      },
-      {
-         "description" : "GM Magnus Carlsen can now say that he has won every significant classical chess title that he&#39;s set his sights on. The five-time world champion won his first World Cup crown by defeating GM Praggnanandhaa Rameshbabu 1.5-0.5 in the rapid tiebreaks ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-cup-2023-finals-game-3",
-         "pubDate" : "Thu, 24 Aug 2023 05:33:00",
-         "title" : "Carlsen Wins 1st World Cup, Caruana Places 3rd"
       },
       {
          "description" : "",
