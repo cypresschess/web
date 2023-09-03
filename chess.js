@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Sun, 03 Sep 2023 16:50:00",
+         "title" : "Julius Baer Generation Cup - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 141st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-141-chess-history-in-a-nutshell-23",
+         "pubDate" : "Sun, 03 Sep 2023 15:00:00",
+         "title" : "Understanding before Moving 141: Chess history in a nutshell (23)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103330396.cms\" />India's R Praggnanandhaa, the 18-year-old chess sensation, may have fallen short of his World Cup title dreams after losing to Magnus Carlsen in the final. Despite losing, Praggnanandhaa emphasized that Carlsen was \"far from invincible.\" He qualified for the Candidates tournament in 2024, where the winner will face China's Ding Liren in the World Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-is-not-invincible-says-praggnanandhaa/articleshow/103330396.cms",
+         "pubDate" : "Sun, 03 Sep 2023 14:55:00 +0000",
+         "title" : "Magnus Carlsen is not invincible, says Praggnanandhaa"
+      },
+      {
+         "description" : "Presented by the Saint Louis Chess Club, the highly anticipated '2023 Champions Showdown: Chess 9LX' returns this September 8-10, 2023 at the World Chess Hall of Fame with another exciting line-up featuring the top players from the United States, including World No. 3 and reigning World 960 Champion GM Hikaru Nakamura and World No. 2 GM Fabiano Caruana competing alongside legendary former World Champion Garry Kasparov. | Photo: Lennart Ootes (2022)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2023-preview",
+         "pubDate" : "Sun, 03 Sep 2023 14:55:00",
+         "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
+      },
+      {
          "description" : "2...d6 is Black's favourite Sicilian. In the new CBM #215 Christian Braun presents a concept for White with 3.Nc3 Nf6 4.e5!? that is attractive in various respects: White immediately forces the pace, leads the game into terrain that is often unknown to the opponent and gets \"dynamic and powerful play\" with little risk of his own. You don't need to learn too many variations by heart in this straightforward system either. Take a look at the article in CBM #215 and then do a first practical test on the chess server right away!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +42,20 @@ news_feed (
          "title" : "Instant action in the centre!"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103327558.cms\" />A day after D Gukesh dethroned Viswanathan Anand, ending the latter's 37-year reign as India's No.1 chess player, the 17-year-old looked committed to refining his game. Gukesh, currently in Kolkata for the Asian Games training camp, revealed on Saturday that he has successfully moved past the disappointment of his recent defeat to Norway's Magnus Carlsen in the World Cup quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-aims-to-keep-improving-after-becoming-india-no-1-without-sponsorship-support/articleshow/103327558.cms",
+         "pubDate" : "Sun, 03 Sep 2023 11:30:02 +0000",
+         "title" : "Gukesh aims to keep improving after becoming India No.1"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 10.30 CEST (4.30 ET, 14.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
          "pubDate" : "Sun, 03 Sep 2023 10:15:00",
          "title" : "Tata Steel Chess India - Live!"
-      },
-      {
-         "description" : "Presented by the Saint Louis Chess Club, the highly anticipated '2023 Champions Showdown: Chess 9LX' returns this September 8-10, 2023 at the World Chess Hall of Fame with another exciting line-up featuring the top players from the United States, including World No. 3 and reigning World 960 Champion GM Hikaru Nakamura and World No. 2 GM Fabiano Caruana competing alongside legendary former World Champion Garry Kasparov. | Photo: Lennart Ootes (2022)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2023-preview",
-         "pubDate" : "Sun, 03 Sep 2023 03:05:00",
-         "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
       },
       {
          "description" : "Divya Deshmukh, a late replacement and the lowest-rated player in the field, won the rapid section of the Tata Steel India tournament. The 17-year-old from Maharashtra outscored some of the strongest women players in the world to finish in sole first place with 7 out of 9 points. Ju Wenjun, who entered the last round tied for first with Divya, grabbed second place. | Photo: Vivek Sohani",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "A Foundation for Beginners One Hundred and Two"
       },
       {
-         "description" : "Two thirds into the first edition of the World Rapid Team Championship, WR Chess continues its dominating run. The team has a perfect 16/16 score after eight rounds, with Ian Nepomniachtchi, Jan-Krzysztof Duda, Praggnanandhaa and Hou Yifan (pictured) excelling on their respective boards. Freedom, the squad with the highest average rating, stands in sole second place 3 match points behind the leaders. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d2",
-         "pubDate" : "Mon, 28 Aug 2023 03:20:00",
-         "title" : "D&uuml;sseldorf: WR Chess beats direct contenders, leads"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/the-arab-chess-federation.html",
          "pubDate" : "Sun, 27 Aug 2023 15:22:00",
          "title" : "The Arab Chess Federation"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 140th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Richard Reti. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-140-chess-history-in-a-nutshell-22",
-         "pubDate" : "Sun, 27 Aug 2023 15:00:00",
-         "title" : "Understanding before Moving 140: Chess history in a nutshell (22)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103107863.cms\" />The stunning progress of teen prodigies R Praggnanandhaa and D Gukesh in international chess has encouraged several parents to consider the sport as a serious 'career option' for their children. Praggnanandhaa caught the imagination of the country when he reached the final of the FIDE World Cup after a sterling run through the tournament.",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "Andreikin Mounts Spectacular Comeback, Qualifies With Sarana"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103031019.cms\" />For someone, who took to chess just because his parents wanted him and his sister to wean away from watching television, R Praggnanandhaa has charted his own path to glory and is closer to greatness than ever. The 18-year old wonderboy has long been seen as a possible successor to the five-time world champion Viswanathan Anand and is certainly on the path to be a chess great.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-from-wonderkid-to-a-chess-great-in-the-waiting/articleshow/103031019.cms",
-         "pubDate" : "Thu, 24 Aug 2023 14:27:57 +0000",
-         "title" : "Praggnanandhaa: From wonderkid to a chess great in the waiting"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/carlsen-wins-world-cup.html",
          "pubDate" : "Thu, 24 Aug 2023 13:10:00",
          "title" : "Carlsen wins World Cup"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103027144.cms\" />Rameshbabu Praggnanandhaa lost to world No. 1 chess player Magnus Carlsen in a thrilling final showdown at the FIDE World Cup. Carlsen emerged victorious at 1.5-0.5, securing his first-ever World Cup triumph and adding to his impressive five World Chess Championship titles. Praggnanandhaa's valiant effort was deemed valiant.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-world-cup-praggnanandhaa-loses-to-magnus-carlsen-in-final/articleshow/103027144.cms",
-         "pubDate" : "Thu, 24 Aug 2023 12:20:26 +0000",
-         "title" : "FIDE Chess World Cup: Praggnanandhaa loses to Magnus Carlsen in final"
       },
       {
          "description" : "Former World Champion Magnus Carlsen has accomplished a significant milestone in his illustrious chess career by capturing his inaugural World Cup title, the only tournament that was missing from his immense collection of victories. All three top-placed players have qualified for the 2024 Candidates tournament, which is due to take place next April in Canada. Full report to follow.",
@@ -1784,14 +1784,6 @@ news_feed (
          "link" : "https://chessimprover.com/half-nelson/",
          "pubDate" : "Sun, 13 Aug 2023 20:26:14",
          "title" : "Half Nelson"
-      },
-      {
-         "description" : "GM Rogoff has made occasional appearances on this blog since the first, featured mention in <A HREF=\"https://chessforallages.blogspot.com/2012/02/kenny-rogoff-as-youve-never-seen-him.html\">Kenny Rogoff as You've Never Seen Him</A> (February 2012), where he had a full head of hair. Here he weighs in on the top computer topic of the 2020s. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2_x4PKTRaKc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>How AI makes Chess 'more interesting': International Grandmaster</B> (3:43) &#149; '[Publ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/at-center-of-ai-research.html",
-         "pubDate" : "Sun, 13 Aug 2023 15:07:00",
-         "title" : "'At the Center of AI Research'"
       }
    ]
 }
