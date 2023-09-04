@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After beating Alireza Firouzja by a convincing 3-0 score in the winners' bracket final of the Generation Cup, Magnus Carlsen saw the youngster setting up a rematch by winning the losers' bracket. In the Grand Final, a much more hard-fought encounter was also won by Carlsen, who defeated Firouzja with black in the Armageddon decider.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-d5",
+         "pubDate" : "Mon, 04 Sep 2023 08:10:00",
+         "title" : "Carlsen beats Firouzja in tough match, wins Generation Cup"
+      },
+      {
          "description" : " It was with a feeling of modified rapture that I greeted the recent news of government funding for chess in England. Increased money for our national teams? Great, as long as it's used wisely. I'm not complaining about that. Chess boards in parks? A pointless gimmick designed to grab headlines which serves little purpose. All <a href=\"https://chessimprover.com/modified-rapture/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Modified Rapture\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/modified-rapture/\">Modified Rapture</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "Jon Speelman: Violence and subtlety"
       },
       {
-         "description" : "The Julius Baer Generation Cup is the fifth event of the 2023 Champions Chess Tour. The tournament, taking place from August 30 to September 3, features three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Sun, 03 Sep 2023 16:50:00",
-         "title" : "Julius Baer Generation Cup - Live!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103331622.cms\" />It's difficult to keep seasoned campaigners down for long. Grandmasters D Harika and Koneru Humpy proved just that as India's top two women players bounced back in the blitz section of the Tata Steel Chess India tournament after a not-so-good rapid tournament at the Bhasha Bhawan in the National Library of India campus on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -39,7 +39,15 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-5",
          "pubDate" : "Sun, 03 Sep 2023 15:47:00",
-         "title" : "Triumph On A Choppy Day: Carlsen Defeats Firoujza Again"
+         "title" : "Triumph On A Choppy Day: Carlsen Defeats Firouzja Again"
+      },
+      {
+         "description" : "In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshunds Play Chess</A> (August 2023), the latest for the long-running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I wrote, <BLOCKQUOTE> After so many years of <I>Top eBay Chess Items</I>, I sometimes can't be sure whether I've already featured an item or not. </BLOCKQUOTE> <P> This month I was sure that I had featured the item(s) pictured below, but when? It turned out that half of the current auction appeared in <A HREF=\"https://chessforallages.blogspot.com/2017/04/mrs-piatigorskys-auto",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/1963-and-1966-piatigorsky-cups.html",
+         "pubDate" : "Sun, 03 Sep 2023 15:24:00",
+         "title" : "1963 and 1966 Piatigorsky Cups"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 141st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2023-preview",
          "pubDate" : "Sun, 03 Sep 2023 14:55:00",
          "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup was the fifth event of the 2023 Champions Chess Tour. The tournament, which took place from August 30 to September 3, featured three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Replay the games and find brackets for each of the three divisions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
+         "pubDate" : "Sun, 03 Sep 2023 14:50:00",
+         "title" : "Julius Baer Generation Cup - Games and brackets"
       },
       {
          "description" : " The Julius Baer Generation Cup took place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. Magnus Carlsen beat Alireza Firouzja 3-0 in the winners final and in an Armageddon in the Grand Final. Ian Nepomniachtchi won Division 2 and Sam Sevian Division 3 after beating Shakhriyar Mamedyarov in a final reset match. Mamedyarov beat him in the Winners final but lost the Grand Final setting up the finale. ",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-aims-to-keep-improving-after-becoming-india-no-1-without-sponsorship-support/articleshow/103327558.cms",
          "pubDate" : "Sun, 03 Sep 2023 11:30:02 +0000",
          "title" : "Gukesh aims to keep improving after becoming India No.1"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 10.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Sun, 03 Sep 2023 10:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "Divya Deshmukh, a late replacement and the lowest-rated player in the field, won the rapid section of the Tata Steel India tournament. The 17-year-old from Maharashtra outscored some of the strongest women players in the world to finish in sole first place with 7 out of 9 points. Ju Wenjun, who entered the last round tied for first with Divya, grabbed second place. | Photo: Vivek Sohani",
