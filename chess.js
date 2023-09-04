@@ -2,20 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Dommaraju Gukesh is currently world number eight, with an Elo of 2758. The most amazing thing is that he has just turned seventeen years old! His strongest points are the attack and deep calculation. Vidit Gujrathi, who won the U14 World Championship in 2008, is currently rated 2716. His strengths are similarly advanced tactics and calculations. Both these Indian Super-Grandmasters have produced Fritztrainers for ChessBase, which you can get for a special summer price this week: €64.90 instead of €79.80 for both packages.",
+         "description" : "Dommaraju Gukesh is currently world number eight, with an Elo of 2758. The most amazing thing is that he has just turned seventeen years old! His strongest points are the attack and deep calculation. Vidit Gujrathi, who won the U14 World Championship in 2008, is currently rated 2716. His strengths are advanced tactics and calculations. Both these Indian Super-Grandmasters have produced Fritztrainers for ChessBase, which you can get for a special summer price this week: €64.90 instead of €79.80 for both packages.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/indian-summer-special",
          "pubDate" : "Mon, 04 Sep 2023 18:27:43",
          "title" : "Indian Summer Special"
-      },
-      {
-         "description" : " Almost a week ago, Chess.com released a statement announcing the reinstatement of Hans Niemann on chess.com and an end to the legal dispute that gripped the chess world for the past year. The revelation raises some questions about how the matter unfolded and whether there was an out-of-court settlement. However, the terms of the agreement The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/\">Aftermath of Niemann/Chess.com/Carlsen agreement</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/",
-         "pubDate" : "Mon, 04 Sep 2023 18:14:14",
-         "title" : "Aftermath of Niemann/Chess.com/Carlsen agreement"
       },
       {
          "description" : "The league stage of the Top Chess Engine Championship (Season 25) reaches the pinnacle of the event the Premier Division. The defending champion Stockfish will meet its main competitor Leela Chess Zero, as well as six more of the strongest chess engines: four seeded participants KomodoDragon, Ethereal, Stoofvlees, Slowchess and the two []",
@@ -40,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-september-2023",
          "pubDate" : "Mon, 04 Sep 2023 17:15:01",
          "title" : "FIDE ratings September 2023"
+      },
+      {
+         "description" : "GM Nikita Vitiugov, the Russian Champion in 2021 and current world number 25, became the most significant transfer from Russia since the invasion of Ukraine, as his switch to England was officially confirmed by FIDE last week. Vitiugov, who hail...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vitiugov-transfers-from-russia-to-become-new-england-number-one",
+         "pubDate" : "Mon, 04 Sep 2023 15:17:00",
+         "title" : "Vitiugov Transfers From Russia To Become England's New Number One"
+      },
+      {
+         "description" : "Women&#39;s World Champion Ju Wenjun secured the title of the 2023 Tata Steel Chess India Women&#39;s Blitz with 12.5 points after 18 rounds, outwitting her pursuers GM Harika Dronavalli, GM Humpy Koneru, and WGM Divya Deshmukh in the final two rounds. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2023-tata-steel-chess-india-womens-day-5-blitz",
+         "pubDate" : "Mon, 04 Sep 2023 14:13:00",
+         "title" : "Ju Wenjun Wins Dramatic Four-Horse Race To Secure Blitz Title"
       },
       {
          "description" : "On August 6th, to celebrate GM Helmut Pfleger's eightieth birthday, octogenarian puzzle master Werner Keym submitted two very clever little problems in two German newspapers. The puzzles, which had a unique form of birthday greetings encoded into them, were not at all easy to work out. Today we bring you the solutions.",
@@ -978,22 +986,6 @@ news_feed (
          "title" : "FIDE World Rapid Team Championship: WR Chess on top after four rounds"
       },
       {
-         "description" : "WR Chess, led by GM Wesley So, rose to clear first on&#38;nbsp;day one of the World Rapid Team Championship 2023, winning all of their matches so far. The top seed, GM Viswanathan Anand&#39;s Freedom, had a rocky fourth round, nearly losing to GM Pental...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-1",
-         "pubDate" : "Sat, 26 Aug 2023 19:12:00",
-         "title" : "Powerhouse WR Chess Takes Early Lead"
-      },
-      {
-         "description" : "GM Daniel Naroditsky finished ahead of GMs Hikaru Nakamura and Andrew Tang in Saturday&#39;s Bullet Brawl after scoring 70 wins en route to amassing a 275 score. Following a loss to Nakamura in his first game, Naroditsky ran rampant and procured a 26-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-26-2023",
-         "pubDate" : "Sat, 26 Aug 2023 18:07:50",
-         "title" : "Naroditsky Claims 4th Bullet Brawl Title"
-      },
-      {
          "description" : " I mentioned that we would look at some examples of pawn structure, both their strengths and weaknesses, within game positions. This week, we're going to start doing just that. However, I want you to try a training method I use with my beginning students to get them used to employing and maintaining good pawn structure. <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/\">A Foundation for Beginners One Hundred One</a> appeared first on <a re",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1720,22 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2581",
          "pubDate" : "Mon, 14 Aug 2023 23:47:36 +0000",
          "title" : "FIDE World Youth Olympiad 2023: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2580",
-         "pubDate" : "Mon, 14 Aug 2023 20:14:55 +0000",
-         "title" : "2nd FIDE Council Meeting 2023: List of decisions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2579",
-         "pubDate" : "Mon, 14 Aug 2023 19:54:11 +0000",
-         "title" : "FIDE World Cup Round 5 Tiebreaks: Ian Nepomniachtchi is out of the World Cup"
       }
    ]
 }
