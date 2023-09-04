@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 1st September FIDE published its new rating list. Magnus Carlsen is still the clear number one, although he only gained 4 rating points by winning the prestigious World Cup. Carlsen tops the list with a rating of 2839 points, 53 points ahead of Fabiano Caruana, who has replaced Hikaru Nakamura as world number 2.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-september-2023",
+         "pubDate" : "Mon, 04 Sep 2023 17:15:01",
+         "title" : "FIDE ratings September 2023"
+      },
+      {
+         "description" : "On August 6th, to celebrate GM Helmut Pfleger's eightieth birthday, octogenarian puzzle master Werner Keym submitted two very clever little problems in two German newspapers. The puzzles, which had a unique form of birthday greetings encoded into them, were not at all easy to work out. Today we bring you the solutions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/birthday-problem-solutions",
+         "pubDate" : "Mon, 04 Sep 2023 14:00:00",
+         "title" : "Birthday problem solutions"
+      },
+      {
+         "description" : " One of the reasons why my blog posts have become infrequent is due to a lot of high level chess being played online. Pre-covid there were a lot of high level events running OTB, but now, a lot of top players clash in online events, with fast time limits. While this is entertaining for the online audience (which is of course the point), it does leave me a little cold. And I'm not convinced the players are taking it seriously either, as shown in the latest outburst of silliness. The newly reinstated Hans Neimann was playing against Kramnik at chessc.om (NB it wasn't part of an organised tournament). After Neimann won with the Black pieces, a second game was played. The first few moves (Neiman",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/more-silliness.html",
+         "pubDate" : "Mon, 04 Sep 2023 13:08:00",
+         "title" : "More silliness"
+      },
+      {
          "description" : "A Senior National Arbiter seminar followed by an examination was organized by Karnataka State Chess Association, on behalf of All India Chess Federation on 26th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -794,28 +818,12 @@ news_feed (
          "title" : "WR Chess triumphs as inaugural FIDE World Rapid Team Champions"
       },
       {
-         "description" : "After having the lawsuit leveraged by Hans Niemann against his accusers being announced as dismissed, many thought this was the end of the debacle, but it was not so. Only the anti-trust charges had been judged upon, and a new round of litigation in state court was immediately promised. Discussions were undertaken and an out-of-court agreement was reached. | Photo: Lennart Ootes/Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-com-and-hans-niemann-reach-agreement",
-         "pubDate" : "Mon, 28 Aug 2023 19:40:00",
-         "title" : "Chess.com and Hans Niemann reach agreement"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2615",
          "pubDate" : "Mon, 28 Aug 2023 19:08:22 +0000",
          "title" : "5th FIDE World Championship for People with Disabilities: Tazbir and Egeman win titles "
-      },
-      {
-         "description" : "In the Endgame Magic Show #249 Karsten M&uuml;ller and Arne K&auml;hler look at endgame highlights from the tournament in Biel, with particular attention to endgames, in which bishops fight against knights and knights against bishops - often an interesting battle. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-249-bishops-vs-knights",
-         "pubDate" : "Mon, 28 Aug 2023 18:30:00",
-         "title" : "Endgame Magic #249: Bishops vs knights"
       },
       {
          "description" : "",
@@ -1720,30 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2579",
          "pubDate" : "Mon, 14 Aug 2023 19:54:11 +0000",
          "title" : "FIDE World Cup Round 5 Tiebreaks: Ian Nepomniachtchi is out of the World Cup"
-      },
-      {
-         "description" : " Favorites ousted (not Carlsen) Indian prodigies soar There were some shocking outcomes at the 2023 World Cup with both Hikaru Nakamura and Ju Wenjun being eliminated from the competition. Wesley So was also upset by Alexander Sarana ending what seemed to be a tournament where the Filipino-American was off-form. While Magnus Carlsen endured an intense The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/\">2023 FIDE World Cup: Round 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/14/2023-fide-world-cup-round-4/",
-         "pubDate" : "Mon, 14 Aug 2023 13:44:50",
-         "title" : "2023 FIDE World Cup: Round 4"
-      },
-      {
-         "description" : " The World Under 16 Olympiad has begun, with Australia fielding 2 teams. The top team almost pulled of an upset, narrowly going down to top seed Kazakhstan 1.5-25, scoring draws on the top 3 boards. Australia 2 had a tougher time, losing to Ukraine 2 0.5-3.5. However Round 2 saw both teams bounce back with good results. Australia 1 beat Uganda 4-0, while Australia 2 beat South Africa 2 3-1. The top Australian team now plays the 3rd team from Kazakhstan (they have 5 in total!) while team 2 plays the third team from The Netherlands. The official website is <a href=\"https://youtholympiad2023.fide.com/\">here</a>, where you can all the details, results and live coverage. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/world-under-16-olympiad.html",
-         "pubDate" : "Mon, 14 Aug 2023 13:32:00",
-         "title" : "World Under 16 Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open/#new_tab",
-         "pubDate" : "Mon, 14 Aug 2023 13:12:37",
-         "title" : "2nd Cambridge International Open"
       }
    ]
 }
