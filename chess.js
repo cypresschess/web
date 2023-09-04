@@ -34,12 +34,12 @@ news_feed (
          "title" : "Tata Steel Chess India: Harika, Humpy stage comebacks"
       },
       {
-         "description" : "This is a flash report. Full report coming soon. GM Magnus Carlsen defeated GM Alireza Firouzja in the Grand Final of the 2023 Julius Baer Generation Cup to clinch his third tournament victory on the Champions Chess Tour. Though both players wer...",
+         "description" : "GM Magnus Carlsen defeated GM Alireza Firouzja in the Grand Final of the 2023 Julius Baer Generation Cup to clinch his third tournament victory on the Champions Chess Tour. Though both players were in imperfect form, their fighting nature shined t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-5",
-         "pubDate" : "Sun, 03 Sep 2023 15:47:56",
-         "title" : "Flash Report: Triumph On A Choppy Day: Carlsen Defeats Firoujza Again"
+         "pubDate" : "Sun, 03 Sep 2023 15:47:00",
+         "title" : "Triumph On A Choppy Day: Carlsen Defeats Firoujza Again"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 141st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
