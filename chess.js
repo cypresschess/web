@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dommaraju Gukesh is currently world number eight, with an Elo of 2758. The most amazing thing is that he has just turned seventeen years old! His strongest points are the attack and deep calculation. Vidit Gujrathi, who won the U14 World Championship in 2008, is currently rated 2716. His strengths are similarly advanced tactics and calculations. Both these Indian Super-Grandmasters have produced Fritztrainers for ChessBase, which you can get for a special summer price this week: €64.90 instead of €79.80 for both packages.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-summer-special",
+         "pubDate" : "Mon, 04 Sep 2023 18:27:43",
+         "title" : "Indian Summer Special"
+      },
+      {
+         "description" : " Almost a week ago, Chess.com released a statement announcing the reinstatement of Hans Niemann on chess.com and an end to the legal dispute that gripped the chess world for the past year. The revelation raises some questions about how the matter unfolded and whether there was an out-of-court settlement. However, the terms of the agreement The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/\">Aftermath of Niemann/Chess.com/Carlsen agreement</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/",
+         "pubDate" : "Mon, 04 Sep 2023 18:14:14",
+         "title" : "Aftermath of Niemann/Chess.com/Carlsen agreement"
+      },
+      {
+         "description" : "The league stage of the Top Chess Engine Championship (Season 25) reaches the pinnacle of the event the Premier Division. The defending champion Stockfish will meet its main competitor Leela Chess Zero, as well as six more of the strongest chess engines: four seeded participants KomodoDragon, Ethereal, Stoofvlees, Slowchess and the two []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rubichess-wins-tcec-league-1-convincingly/",
+         "pubDate" : "Mon, 04 Sep 2023 17:55:04",
+         "title" : "Rubichess wins TCEC League 1 convincingly"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103367909.cms\" />randmaster Ju Wenjun was finally rewarded for playing the most consistent chess over the past five days. Two days after finishing second behind India's Divya Deshmukh in the women's rapid meet, she ended her maiden visit to India on a memorable note claiming the blitz title of Tata Steel Chess India tournament at the Bhasha Bhawan in the National Library of India campus on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ju-wenjun-pips-koneru-humpy-for-tata-steel-chess-blitz-title/articleshow/103367909.cms",
+         "pubDate" : "Mon, 04 Sep 2023 17:34:18 +0000",
+         "title" : "Ju Wenjun pips Koneru Humpy for Tata Steel Chess blitz title"
+      },
+      {
          "description" : "On 1st September FIDE published its new rating list. Magnus Carlsen is still the clear number one, although he only gained 4 rating points by winning the prestigious World Cup. Carlsen tops the list with a rating of 2839 points, 53 points ahead of Fabiano Caruana, who has replaced Hikaru Nakamura as world number 2.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +66,20 @@ news_feed (
          "title" : "Final Report :Senior National Arbiter Examination, Bangalore 26th and 27th August 2023"
       },
       {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 10.30 CEST (4.30 ET, 14.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Mon, 04 Sep 2023 10:15:00",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
          "description" : "After beating Alireza Firouzja by a convincing 3-0 score in the winners' bracket final of the Generation Cup, Magnus Carlsen saw the youngster setting up a rematch by winning the losers' bracket. In the Grand Final, a much more hard-fought encounter was also won by Carlsen, who defeated Firouzja with black in the Armageddon decider.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/generation-cup-2023-d5",
          "pubDate" : "Mon, 04 Sep 2023 08:10:00",
          "title" : "Carlsen beats Firouzja in tough match, wins Generation Cup"
+      },
+      {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 10.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Mon, 04 Sep 2023 08:05:00",
+         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : " It was with a feeling of modified rapture that I greeted the recent news of government funding for chess in England. Increased money for our national teams? Great, as long as it's used wisely. I'm not complaining about that. Chess boards in parks? A pointless gimmick designed to grab headlines which serves little purpose. All <a href=\"https://chessimprover.com/modified-rapture/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Modified Rapture\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/modified-rapture/\">Modified Rapture</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -634,14 +666,6 @@ news_feed (
          "title" : "Caruana Survives Near-Upset; Carlsen, Firouzja, So Win Matches In 3 Games"
       },
       {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners-live/",
-         "pubDate" : "Wed, 30 Aug 2023 15:17:00",
-         "title" : "Julius Baer Generation Cup Div 2 Winners - LIVE"
-      },
-      {
          "description" : "The Tata Steel Rapid &#38;amp; Blitz Women&#39;s tournament was inaugurated at Kolkata, India, on Wednesday, August 30, 2023, with a short ceremony and drawing of lots. The event pits five of the best Indian women players against five invited global stars...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opposition",
          "pubDate" : "Tue, 29 Aug 2023 09:00:00",
          "title" : "Opposition"
-      },
-      {
-         "description" : "After arriving from Baku and resting the first day, R Praggnanandhaa continued where he left off at the FIDE World Cup 2023. The sensational teenager scored four wins in-a-row for WR Chess at FIDE World Rapid Teams 2023. Meanwhile GM D Gukesh (Kompetenzakademie Allstars, 2629) faced the 14th world champion, GM Vladimir Kramnik (Chess Pensioners, 2739) for the first time in an over-the-board rated game. He made the most out of his opportunity and won comfortably. Impressions from D&uuml;sseldorf with videos by Sagar Shah.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragg-started-with-4-0-impressions-from-duesseldorf",
-         "pubDate" : "Mon, 28 Aug 2023 22:00:00",
-         "title" : "Pragg started with 4-0 - Impressions from D&uuml;sseldorf"
       },
       {
          "description" : "",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
          "pubDate" : "Fri, 25 Aug 2023 07:00:03",
          "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103044116.cms\" />Alexander Khalifman. Ruslan Ponomariov. Rustam Kasimdzhanov. Levon Aronian. Gata Kamsky. Peter Svidler. Teimour Radjabov. Jan Duda. These players have either won the FIDE World Cup chess title or FIDE knockout World Championship title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-challenge-looms-as-praggnanandhaa-follows-in-vishwanathan-anands-footsteps/articleshow/103044116.cms",
-         "pubDate" : "Fri, 25 Aug 2023 04:35:38 +0000",
-         "title" : "Candidates challenge looms as Praggnanandhaa follows in Anand's footsteps"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103040974.cms\" />Trust Magnus Carlsen to be a great spoiler. R Praggnanandhaa's superb run to the World Cup chess final was almost too good to be true. The Norwegian world No. 1 outplayed the Indian teen in tiebreaks to win the only title missing from his kitty at Baku on Thursday.",
