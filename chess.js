@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A Senior National Arbiter seminar followed by an examination was organized by Karnataka State Chess Association, on behalf of All India Chess Federation on 26th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-senior-national-arbiter-examination-bangalore-26th-and-27th-august-2023/",
+         "pubDate" : "Mon, 04 Sep 2023 10:42:04",
+         "title" : "Final Report :Senior National Arbiter Examination, Bangalore 26th and 27th August 2023"
+      },
+      {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the women's event is being played from Thursday to Saturday, with Ju Wenjun, Humpy Koneru and Harika Dronavalli as the top seeds. | Follow the games live with expert commentary starting at 10.30 CEST (4.30 ET, 14.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Mon, 04 Sep 2023 10:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "After beating Alireza Firouzja by a convincing 3-0 score in the winners' bracket final of the Generation Cup, Magnus Carlsen saw the youngster setting up a rematch by winning the losers' bracket. In the Grand Final, a much more hard-fought encounter was also won by Carlsen, who defeated Firouzja with black in the Armageddon decider.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "WR Chess Clinches Gold In Penultimate Round"
       },
       {
-         "description" : "The first-ever World Rapid Team Championship is taking place in D&uuml;sseldorf on August 26-28. Forty teams registered to take part in the tournament. The list of contenders includes the likes of Wesley So, Levon Aronian and Fabiano Caruana. In addition, two former world champions, Vishy Anand and Vladimir Kramnik, are participating. | Follow the games live with expert commentary starting at 13.30 CEST (6.30 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-live",
-         "pubDate" : "Mon, 28 Aug 2023 13:15:00",
-         "title" : "World Rapid Team Championship - Live!"
-      },
-      {
          "description" : "The 2023 Speed Chess Championship is sprinting towards us, with only a week left before the main event begins! Sixteen of the game&#39;s quickest thinkers will compete to see who can make it over the finish line and be crowned as this year&#39;s Speed Che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1538,14 +1546,6 @@ news_feed (
          "title" : "European Small Nations Team Chess Championship 2023 - Official regulations"
       },
       {
-         "description" : "CARLSEN-GUKESH DRAW Carlsen needed a draw to qualify for the semi finals,he opted for the Alapin variation against the Sicilian.He got slight edge out of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cup-2023qf-report-6-2/",
-         "pubDate" : "Thu, 17 Aug 2023 08:48:02",
-         "title" : "Fide World Cup 2023:QF REPORT 6.2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,38 +1744,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open/#new_tab",
          "pubDate" : "Mon, 14 Aug 2023 13:12:37",
          "title" : "2nd Cambridge International Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2578",
-         "pubDate" : "Mon, 14 Aug 2023 10:40:16 +0000",
-         "title" : "FIDE Fair Play Seminar in Durrës, Albania, announced"
-      },
-      {
-         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 14th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-2023-call-for-nominations/",
-         "pubDate" : "Mon, 14 Aug 2023 09:02:49",
-         "title" : "ECF AGM 2023 - call for nominations"
-      },
-      {
-         "description" : "The 2023 Annual General Meeting will be held on Saturday 14th October 2023 and will meet at 1 Spinningfields Square, Manchester M3 3AP with access...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions-2/",
-         "pubDate" : "Mon, 14 Aug 2023 09:00:40",
-         "title" : "ECF AGM 2023 - call for motions"
-      },
-      {
-         "description" : "Pictured is the young English player, Aaravamudhan Balaji, receiving the winner's trophy from Satish Gaekwad at the inaugural Psyon Chess Masters IM Invitational tournament. Aaravamudhan's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/im-norm-news/",
-         "pubDate" : "Mon, 14 Aug 2023 08:23:32",
-         "title" : "IM norm news"
       }
    ]
 }
