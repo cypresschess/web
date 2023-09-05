@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In endgames, the king is indeed a powerful piece. In the diagram position it is Black to move and he found a way to show the strength of his king and to win the game. What did Black do to let his king rule?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-king-rules",
+         "pubDate" : "Tue, 05 Sep 2023 09:00:00",
+         "title" : "The king rules"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103380168.cms\" />R Praggnanandhaa qualified for the Candidates by finishing runner-up in the World Cup. He is now set to represent India at the highest level of world chess. Praggnanandhaa expressed his confidence in his potential to become a world champion and highlighted his fighting quality as his main weapon for success. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-the-potential-to-become-world-champion-praggnanandhaa/articleshow/103380168.cms",
+         "pubDate" : "Tue, 05 Sep 2023 05:49:06 +0000",
+         "title" : "I have the potential to become world champion: Praggnanandhaa"
+      },
+      {
          "description" : "In the rapid section of the Tata Steel India Tournament, Ju Wenjun was outscored by Divya Deshmukh. In blitz, however, the women's world champion was the strongest and won with 12&frac12;/ out of 18 points, finishing ahead of Humpy Koneru and Harika Dronavalli. | Photo: Vivek Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -850,14 +866,6 @@ news_feed (
          "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition"
       },
       {
-         "description" : "In pawn endings the opposition is crucial. In the diagrammed position White is a pawn down, but he can still save the game. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opposition",
-         "pubDate" : "Tue, 29 Aug 2023 09:00:00",
-         "title" : "Opposition"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
          "pubDate" : "Fri, 25 Aug 2023 07:00:03",
          "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103040974.cms\" />Trust Magnus Carlsen to be a great spoiler. R Praggnanandhaa's superb run to the World Cup chess final was almost too good to be true. The Norwegian world No. 1 outplayed the Indian teen in tiebreaks to win the only title missing from his kitty at Baku on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-praggnanandhaa-checks-out-with-pride-next-stop-is-candidates/articleshow/103040974.cms",
-         "pubDate" : "Fri, 25 Aug 2023 03:20:58 +0000",
-         "title" : "Praggnanandhaa checks out of Chess World Cup final with pride"
       },
       {
          "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
