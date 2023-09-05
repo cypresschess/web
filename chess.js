@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players are sharing the lead with 2 out of 3 points after the first day of rapid games in the men's section of the Tata Steel India tournament. Dommaraju Gukesh, Teimour Radjabov, Maxime Vachier-Lagrave (pictured) and Vincent Keymer are the co-leaders. Remarkably, 18-year-old Keymer beat two of his contemporaries, Arjun Erigaisi and Praggnanandhaa Rameshbabu. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d6",
+         "pubDate" : "Tue, 05 Sep 2023 19:10:00",
+         "title" : "Tata Steel India: Four co-leaders, Keymer starts strong"
+      },
+      {
+         "description" : "1993 was a particularly memorable year in chess history. Short and Kasparov had decided to leave FIDE and organise their World Championship match on their own, and FIDE, with its then President Campomanes, then organised an alternative World Championship match with Karpov and Timman. But this was not under a good star. During the opening ceremony pyrotechnics set fire to a banner on the stage.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/30-years-ago-two-world-championship-matches-in-the-same-year",
+         "pubDate" : "Tue, 05 Sep 2023 17:52:16",
+         "title" : "30 years ago: Two World Championship matches in the same year"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103405005.cms\" />The focus was on the rising superstars of Indian chess, but Grandmasters R Praggnanandhaa and Arjun Erigaisi failed to shine on the opening day of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-among-leaders-hari-vidit-struggle-in-tata-steel-chess/articleshow/103405005.cms",
+         "pubDate" : "Tue, 05 Sep 2023 17:17:58 +0000",
+         "title" : "D Gukesh among leaders; Hari, Vidit struggle in Tata Steel Chess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2619",
          "pubDate" : "Tue, 05 Sep 2023 11:31:36 +0000",
          "title" : "Vitaly Sivuk wins 2023 Malaysian Open"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Tue, 05 Sep 2023 11:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "Tuesday is the official start of the Women's World Cup in Bydgoszcz. The first two rounds will be played on Wednesday. 12 teams are taking part and the tournament will be played with a preliminary round in two groups, followed by a knockout system. FIDE has announced the line-ups and the draw for the groups.",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "Ju Wenjun pips Koneru Humpy for Tata Steel Chess blitz title"
       },
       {
-         "description" : "&#34;He&#39;s finishing up his bingo card!&#34; said GM Eric Hansen as GM Hikaru Nakamura managed to play 14 of the 16 possible first pawn moves for White on the way to beating GM Yu Yangyi 19-9 in the Round of 16 of the 2023 Chess.com Speed Chess Championshi...",
+         "description" : "&#34;He&#39;s finishing up his bingo card!&#34; said GM Eric Hansen as GM Hikaru Nakamura managed to play 14 of the 16 possible first pawn moves for White on the way to beating GM Yu Yangyi 19-9 in the round of 16 of the 2023 Chess.com Speed Chess Championshi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nakamura-yu",
@@ -160,6 +176,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/more-silliness.html",
          "pubDate" : "Mon, 04 Sep 2023 13:08:00",
          "title" : "More silliness"
+      },
+      {
+         "description" : "The summer holidays are coming to an end, and school is about to start again (or already has!). For parents and educators (or anyone with a chess-loving kid in their family), ChessKid is the best resource you can use to give them an extraordinary ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-2023-back-to-school-sale",
+         "pubDate" : "Mon, 04 Sep 2023 10:57:00",
+         "title" : "ChessKid's 2023 Back To School Sale Starts Now!"
       },
       {
          "description" : "A Senior National Arbiter seminar followed by an examination was organized by Karnataka State Chess Association, on behalf of All India Chess Federation on 26th",
@@ -495,7 +519,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/clash-chess-bots",
          "pubDate" : "Fri, 01 Sep 2023 07:01:00",
-         "title" : "Get Ready To Battle The New Clash Of Clans Bots"
+         "title" : "Battle The New Clash Of Clans Bots"
       },
       {
          "description" : " The 20-year-old had a subdued return at Titled Tuesday, but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in ",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "Firouzja Joins Tuesday Sweep Club"
       },
       {
-         "description" : "The Indian edition of the Tata Steel Chess Tournament returns for a much-anticipated fifth edition. Once again, a women's event and a men's event will take place one after the other. World champion Ju Wenjun will head the women's field, while five international grandmasters will face the likes of Gukesh and Praggnanandhaa in the men's tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-preview",
-         "pubDate" : "Wed, 30 Aug 2023 07:30:00",
-         "title" : "Top-notch rapid and blitz action in Kolkata!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103198303.cms\" />Indian chess prodigy R Praggnanandhaa, who won the 2023 FIDE World Cup silver medal and FIDE Candidates tournament, received an enthusiastic reception upon his arrival. State sports department officials welcomed him with flower crowns, shawls, and bouquets. Traditional Tamil Nadu folk dances, including Karagattam and Oyilattam, added to the celebratory atmosphere.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2613",
          "pubDate" : "Mon, 28 Aug 2023 10:56:50 +0000",
          "title" : "French Championship: Yannick Gozzoli and Mitra Hejazipour clinch titles"
-      },
-      {
-         "description" : "Chess has been given a major boost in England after the U.K. government announced a combined package worth almost &#38;pound;1 million ($1.25 million) to fund the English Chess Federation (ECF). The funding will support children playing chess and impr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/uk-government-announces-1-25m-dollar-investment-to-transform-english-chess",
-         "pubDate" : "Mon, 28 Aug 2023 09:56:23",
-         "title" : "UK Government Announces 1.25M Dollar Investment To Transform English Chess"
       },
       {
          "description" : " If you had a friend or a pupil who was just starting to play competitive chess, what openings would you advise them to play? To the best of my understanding, the old Soviet system required you to start with gambit play. You'd choose the King's Gambit with white, and meet 1. e4 with <a href=\"https://chessimprover.com/opening-selection/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Selection\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-selection/\">Opening Selection</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2609",
          "pubDate" : "Fri, 25 Aug 2023 11:23:44 +0000",
          "title" : "Winners crowned at 21st European Union Youth Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103057369.cms\" />Indian prodigy R Praggnanandhaa lost to World No. 1 Magnus Carlsen 1.5-0.5 in the tie-break in the FIDE World Cup final at Baku on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-cup-final-how-magnus-carlsen-plotted-praggnanandhaas-downfall/articleshow/103057369.cms",
-         "pubDate" : "Fri, 25 Aug 2023 09:45:52 +0000",
-         "title" : "Chess World Cup: How Carlsen plotted Praggnanandhaa's downfall"
       },
       {
          "description" : " Norway's world No 1 beat the 18-year-old 2.5-1.5 after playing cautiously in the first two games due to food poisoning Magnus Carlsen has finally won the biennial World Cup, the only major individual honour to have eluded him. Norway's World No 1 defeated India's 18-year-old Rameshbabu Praggnanandhaa 2.5-1.5 in the final. Carlsen's first prize was $110,000 and Praggnanandhaa's $80,000. Carlsen contracted food poisoning after his semi-final win last weekend and he was still recovering during the first two days of the final, where he played in an untypically cautious style, aiming for draws. <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-",
@@ -1712,22 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2584",
          "pubDate" : "Tue, 15 Aug 2023 20:45:07 +0000",
          "title" : "FIDE World Cup Round 6 Game 1: Goryachkina wins, Caruana makes a lucky escape"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2583",
-         "pubDate" : "Tue, 15 Aug 2023 19:01:37 +0000",
-         "title" : "FIDE Chess Olympiad 2028 - Call for bids"
-      },
-      {
-         "description" : "In last month's post for the 'On the Cover' series, titled <A HREF=\"https://chessforallages.blogspot.com/2023/07/july-1973-1998-on-cover.html\">July 1973 & 1998 'On the Cover'</A> (July 2023), I observed, 'we find two foreign-born GMs dominating both covers'. This month is mostly about the World Chess Championship both 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh15.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Shirov to Challenge Kasparov' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Robert Byrne, who finished 3rd at the Leningrad Interzonal and thus qualified for the Candidates' Matches, relaxing after his re",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/august-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 15 Aug 2023 15:54:00",
-         "title" : "August 1973 & 1998 'On the Cover'"
       }
    ]
 }
