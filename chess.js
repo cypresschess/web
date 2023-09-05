@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MxvMGHR0E_o.jpg?itok=mbb3NOyP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-benjamin-bok",
+         "pubDate" : "Tue, 05 Sep 2023 21:31:20",
+         "title" : "Grandmaster's Choice - GM Benjamin Bok"
+      },
+      {
          "description" : "Four players are sharing the lead with 2 out of 3 points after the first day of rapid games in the men's section of the Tata Steel India tournament. Dommaraju Gukesh, Teimour Radjabov, Maxime Vachier-Lagrave (pictured) and Vincent Keymer are the co-leaders. Remarkably, 18-year-old Keymer beat two of his contemporaries, Arjun Erigaisi and Praggnanandhaa Rameshbabu. | Photo: Vivek Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-among-leaders-hari-vidit-struggle-in-tata-steel-chess/articleshow/103405005.cms",
          "pubDate" : "Tue, 05 Sep 2023 17:17:58 +0000",
          "title" : "D Gukesh among leaders; Hari, Vidit struggle in Tata Steel Chess"
+      },
+      {
+         "description" : "GM Wesley So won a surprisingly one-sided match against GM Levon Aronian in the round of 16 of the&#38;nbsp;2023 Chess.com Speed Chess Championship Presented by Coinbase. The final score was 15.5-12.5, but the margin was greater than five points for m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-aronian-wesley-so",
+         "pubDate" : "Tue, 05 Sep 2023 15:56:00",
+         "title" : "Wesley So Eliminates Aronian After Starting With 5-Game Streak"
+      },
+      {
+         "description" : "GMs Teimour Radjabov, Maxime Vachier-Lagrave, Vincent Keymer and Gukesh D lead with two points from three rounds at the end of an intensely fought first day of the 2023 Tata Steel Chess India Open Rapid being held in Kolkata, India. GMs Praggnanan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-1-rapid",
+         "pubDate" : "Tue, 05 Sep 2023 14:54:43",
+         "title" : "Four-Way Tie At Top After Combative 1st Day"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
@@ -938,22 +962,6 @@ news_feed (
          "title" : "FIDE World Senior Championship 2023: Registration deadline extended"
       },
       {
-         "description" : "On the last day, WR Chess completed their phenomenal run at the World Rapid Team Championship, clinching first with a round to spare. It was truly a team victory as every member contributed, with several players turning in dazzling performances....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-world-rapid-team-championship-day-3-wr-chess-wins",
-         "pubDate" : "Mon, 28 Aug 2023 14:04:00",
-         "title" : "WR Chess Clinches Gold In Penultimate Round"
-      },
-      {
-         "description" : "The 2023 Speed Chess Championship is sprinting towards us, with only a week left before the main event begins! Sixteen of the game&#39;s quickest thinkers will compete to see who can make it over the finish line and be crowned as this year&#39;s Speed Che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/scc-bracket-contest-2023",
-         "pubDate" : "Mon, 28 Aug 2023 12:19:20",
-         "title" : "The 2023 Speed Chess Championship Prediction Bracket Is Here"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1696,22 +1704,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38200344/2023-chess-world-cup-quarterfinals-magnus-carlsen-leads-d-gukesh-arjun-erigaisi-beats-r-praggnanandhaa-vidit-gujrathi-contention?device=featurephone",
          "pubDate" : "Wed, 16 Aug 2023 01:07:33",
          "title" : "2023 Chess World Cup QFs: Magnus leads Gukesh, Erigaisi beats Praggnanandhaa, Vidit in contention"
-      },
-      {
-         "description" : " Carlsen, Caruana through four Indians make the quarterfinals In the fifth round of the World Cup, Magnus Carlsen and Fabiano Caruana the two top-rated players on the live list advanced to the quarterfinals. Both are in different brackets and could possibly meet in the final. However, a lot is being made of the Indian prodigies The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/\">2023 FIDE World Cup: Round 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/15/2023-fide-world-cup-round-5/",
-         "pubDate" : "Tue, 15 Aug 2023 22:03:13",
-         "title" : "2023 FIDE World Cup: Round 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2584",
-         "pubDate" : "Tue, 15 Aug 2023 20:45:07 +0000",
-         "title" : "FIDE World Cup Round 6 Game 1: Goryachkina wins, Caruana makes a lucky escape"
       }
    ]
 }
