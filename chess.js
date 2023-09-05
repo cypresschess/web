@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Tue, 05 Sep 2023 11:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "Tuesday is the official start of the Women's World Cup in Bydgoszcz. The first two rounds will be played on Wednesday. 12 teams are taking part and the tournament will be played with a preliminary round in two groups, followed by a knockout system. FIDE has announced the line-ups and the draw for the groups.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fide-world-women-s-team-championship-starts-in-bydgoszcz",
+         "pubDate" : "Tue, 05 Sep 2023 09:30:16",
+         "title" : "The FIDE World Women's Team Championship starts in Bydgoszcz"
+      },
+      {
+         "description" : " The Tata Steel India Rapid & Blitz takes place 5th to 9th September 2023. Players: Maxime Vachier-Lagrave, Nodirbek Abdusattorov, Alexander Grischuk, R Praggnanandhaa, Santosh Gujrathi Vidit, Teimour Radjabov, Arjun Erigaisi, D Gukesh, Pentala Harikrishna and Vincent Keymer. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-open-2023",
+         "pubDate" : "Tue, 5 Sep 2023 09:30:00",
+         "title" : "Tata Steel India Rapid & Blitz Open 2023 - Games and Results"
+      },
+      {
          "description" : "In endgames, the king is indeed a powerful piece. In the diagram position it is Black to move and he found a way to show the strength of his king and to win the game. What did Black do to let his king rule?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-king-rules",
          "pubDate" : "Tue, 05 Sep 2023 09:00:00",
          "title" : "The king rules"
+      },
+      {
+         "description" : " \"Do not go where the path may lead, go instead where there is no path and leave a trail.\" Ralph Waldo Emerson The beginning of a new correspondence chess tournament is of great importance. You need to prepare for all games because they all start in the same time. It is a good idea to <a href=\"https://chessimprover.com/the-closed-sicilian/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Closed Sicilian\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-closed-sicilian/\">The Closed Sicilian</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-closed-sicilian/",
+         "pubDate" : "Tue, 05 Sep 2023 08:00:17",
+         "title" : "The Closed Sicilian"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103380168.cms\" />R Praggnanandhaa qualified for the Candidates by finishing runner-up in the World Cup. He is now set to represent India at the highest level of world chess. Praggnanandhaa expressed his confidence in his potential to become a world champion and highlighted his fighting quality as his main weapon for success. ",
@@ -66,7 +98,7 @@ news_feed (
          "title" : "Ju Wenjun pips Koneru Humpy for Tata Steel Chess blitz title"
       },
       {
-         "description" : "&#34;He&#39;s finishing up his bingo card!&#34; said GM Eric Hansen as GM Hikaru Nakamura managed to play 14 of the 16 possible pawn pushes with the white pieces on move 1 on the way to beating GM Yu Yangyi 19-9 in the Round of 16 of the 2023 Chess.com Speed ...",
+         "description" : "&#34;He&#39;s finishing up his bingo card!&#34; said GM Eric Hansen as GM Hikaru Nakamura managed to play 14 of the 16 possible first pawn moves for White on the way to beating GM Yu Yangyi 19-9 in the Round of 16 of the 2023 Chess.com Speed Chess Championshi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nakamura-yu",
@@ -120,6 +152,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-senior-national-arbiter-examination-bangalore-26th-and-27th-august-2023/",
          "pubDate" : "Mon, 04 Sep 2023 10:42:04",
          "title" : "Final Report :Senior National Arbiter Examination, Bangalore 26th and 27th August 2023"
+      },
+      {
+         "description" : " The Tata Steel India Rapid & Blitz Women's section took place 31st August to 4th September. Deshmukh Divya won the rapid with 7/9 and Ju Wenjun the blitz with 12.5/18, 17 year old Divya won the combined title. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-women-2023",
+         "pubDate" : "Mon, 4 Sep 2023 09:39:00",
+         "title" : "Tata Steel India Rapid & Blitz Women 2023 - Games and Results"
       },
       {
          "description" : "After beating Alireza Firouzja by a convincing 3-0 score in the winners' bracket final of the Generation Cup, Magnus Carlsen saw the youngster setting up a rematch by winning the losers' bracket. In the Grand Final, a much more hard-fought encounter was also won by Carlsen, who defeated Firouzja with black in the Armageddon decider.",
@@ -578,14 +618,6 @@ news_feed (
          "title" : "Random Rounds"
       },
       {
-         "description" : " The Tata Steel India Rapid & Blitz 2023 is split into separate Women's and then Men's event that are not held simultaneously. The women's event takes place Thu 31st Aug to Mon 4th Sep 2023. Players: Wenjun Ju, Humpy Koneru, Harika Dronavalli, Irina Krush, Anna Ushenina, Nino Batsiashvili, Polina Shuvalova, Agrawal Vantika, Shri B Savitha and Deshmukh Divya.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-women-2023",
-         "pubDate" : "Thu, 31 Aug 2023 13:42:00",
-         "title" : "Tata Steel India Rapid & Blitz Women 2023 - Games and Results"
-      },
-      {
          "description" : "M. Amin Tabatabaei Denis Lazavik is a Round 1 game from Julius Baer Generation Cup Div 1 Losers. The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -786,14 +818,6 @@ news_feed (
          "title" : "Bok at the 2023 Saint Louis Chess Classics | Grandmaster's Choice - GM Benjamin Bok"
       },
       {
-         "description" : "The WR Chess team went into the third and final day of action at the first-ever World Rapid Team Championship with a 3-point lead and had little trouble keeping the top spot in the standings. Two wins and two draws were enough to get a clear victory. Freedom and Team MGD1 finished second and third respectively. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-teams-2023-d3",
-         "pubDate" : "Tue, 29 Aug 2023 21:00:00",
-         "title" : "WR Chess becomes first World Rapid Team champion!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Fischer Random chess, the world's most unpredictable variant, is back! Chess 9LX makes its return to the chess capital of America, Saint Louis, Mo. From September 8-10, ten players (listed below) will compete for a $150,000 prize fund. With 960 different starting positions, even the best in the world don't know what's coming! Featuring Garry Kasparov, Hikaru Nakamura, and returning champion Fabiano Caruana, this is an event you won't want to miss. Plus, see the \"Ultimate Moves\" team exhibition on September 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "https://www.europechess.org/aleksandra-goryachkina-wins-fide-womens-world-chess-cup-2023/",
          "pubDate" : "Tue, 29 Aug 2023 10:43:33",
          "title" : "Aleksandra Goryachkina wins FIDE Women's World Chess Cup 2023"
-      },
-      {
-         "description" : "Readers may remember when the Hans Niemann controversy broke out that the world's richest man, Elon Musk, decided to dip into his vast fount of wisdom and offer his own explanation. But this was neither the first nor last time he would proffer opinions for the chess world, and has suggested ideas to revolutionize the millenary game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-is-too-simple-says-elon-musk",
-         "pubDate" : "Tue, 29 Aug 2023 10:15:00",
-         "title" : "\"Chess is too simple\", says Elon Musk"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It is good to review from time to time important lines such as the 8.Rb1 variation. If there is something you can bet on, it is that your opponents will <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\">Need sure",
