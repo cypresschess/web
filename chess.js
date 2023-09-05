@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/couldnt-have-asked-for-a-better-indian-chess-team-for-asian-games-viswanathan-anand/articleshow/103401941.cms",
+         "pubDate" : "Tue, 05 Sep 2023 14:04:35 +0000",
+         "title" : "Couldn't have asked for a better team for Asian Games: Anand"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2619",
+         "pubDate" : "Tue, 05 Sep 2023 11:31:36 +0000",
+         "title" : "Vitaly Sivuk wins 2023 Malaysian Open"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1098,14 +1114,6 @@ news_feed (
          "title" : "Carlsen wins 2023 FIDE World Cup!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103064782.cms\" />Viswanathan Anand, once the dominant figure in Indian chess, has seen a shift in recent years, with numerous talented players emerging, making the country a formidable force globally, including the current golden generation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/as-praggnanandhaa-and-gukesh-shine-is-india-the-new-talent-churning-machine-in-chess/articleshow/103064782.cms",
-         "pubDate" : "Fri, 25 Aug 2023 12:33:59 +0000",
-         "title" : "As Praggnanandhaa and Gukesh shine, is India the new talent-churning machine in chess?"
-      },
-      {
          "description" : "1st National School Under-12, 18 Chess Championship Certificates available to download Link U-12 : https://aicf.online/National-School-Team-12.html Link U-18 : https://aicf.online/National-School-Team-18.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/august-1973-1998-on-cover.html",
          "pubDate" : "Tue, 15 Aug 2023 15:54:00",
          "title" : "August 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : " &#8220;Lord, I was born a ramblin' man Tryin' to make a livin' and doin' the best I can And when it's time for leavin' I hope you'll understand That I was born a ramblin' man&#8221; The Allman Brothers Band The rook endgames are the ultimate test of chess knowledge. They appear on the chessboard very <a href=\"https://chessimprover.com/the-rambling-rook-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Rambling Rook (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-rambling-rook-2/\">The Rambling Rook (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-rambling-rook-2/",
-         "pubDate" : "Tue, 15 Aug 2023 13:47:09",
-         "title" : "The Rambling Rook (2)"
       }
    ]
 }
