@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Cup had it's fair share of underdog surprises in the first round. Robert Ris decided to pick a game from round three, though! Anish Giri faced Nijat Abasov, and in the tiebreaker, the GM from Azerbaijan played aggressive moves, which caused a lot of trouble for Giri. Ris shows us exactly, how the 150 points weaker player won impressively.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/giri-s-world-cup-struggle-the-underdog",
+         "pubDate" : "Wed, 06 Sep 2023 18:43:19",
+         "title" : "Giri's World Cup Struggle - The Underdog"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103442226.cms\" />India's new No. 1 player D Gukesh slipped as Maxime Vachier-Lagrave grabbed the sole lead at the end of Day II of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-slips-maxime-vachier-lagrave-takes-sole-lead-in-tata-steel-chess-rapid-tournament/articleshow/103442226.cms",
+         "pubDate" : "Wed, 06 Sep 2023 16:38:55 +0000",
+         "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
+      },
+      {
          "description" : "Apart from Kirill Alexeenko (to Austria) and Nikita Vitiugov (to England), the FIDE transfer list shows several other prominent Russian grandmasters who have left their federation after Russia invaded Ukraine. Evgeny Alekseev now plays for Israel and Sanan Sjugirov is the new number one in Hungary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +698,6 @@ news_feed (
          "title" : "How Top Chess Players Prepare | Prepare Like A Pro - GM Benjamin Bok"
       },
       {
-         "description" : "We talked a few times about Genrikh Kasparyan already, this time we delve a bit into his book \"Domination in 2545 Endgame Studies\". At the time, the book served as a great anthology and also a small theoretical introduction to the theme. | Photo: Midjourney AI",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-some-classical-dominations",
-         "pubDate" : "Thu, 31 Aug 2023 19:30:00",
-         "title" : "Study of the Month: Some classical dominations"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103256772.cms\" />Indian youngsters continue to make waves as just days after 18-year-old Grandmaster R Praggnanandhaa qualified for the Candidates meet, 17-year-old Divya Deshmukh and 20-year-old Vantika Agarwal ended Day I of the women's rapid section of Tata Steel Chess India tournament on the top of table with 2.5 points after three rounds on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/how-to-get-better-at-chess/",
          "pubDate" : "Sat, 26 Aug 2023 06:00:00",
          "title" : "How to get better at Chess: A Grandmaster Guide"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103079291.cms\" />Youngest World Cup chess finalist R Praggnanandhaa has reached a new high in his budding career. The 18-year-old has jumped nine places to achieve a career-high 20th rank in the world and has become India's new No. 3 behind his Chennai mates D Gukesh and mentor Viswanathan Anand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-takes-a-giant-leap-achieves-career-high-2727-2-rating-to-become-india-no-3-world-no-20/articleshow/103079291.cms",
-         "pubDate" : "Sat, 26 Aug 2023 04:06:30 +0000",
-         "title" : "Praggnanandhaa achieves career-high 2727.2 rating to become India No. 3"
       },
       {
          "description" : "In last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> (August 2023), I concluded with:- <BLOCKQUOTE> Adsense is once again increasing the volume of its commanding voice: 'New Consent Management Platform [CMP] requirements for serving ads in the EEA and UK'. &#149; TBD. Watch this space... </BLOCKQUOTE> <P> My WCC index page, shown below, is a typical example of how I handle ads across the site. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh25.gif\" WIDTH=400 HEIGHT=215><BR> <A HREF=\"https://www.mark-weeks.com/chess/wcc-indx.htm\">Index : World Chess Championship</A> <P> The ad ('Download de whitepaper'; that'",
@@ -1648,30 +1648,6 @@ news_feed (
          "link" : "https://www.europechess.org/21st-eu-youth-chess-championship-kicked-off-in-czech-republic/",
          "pubDate" : "Wed, 16 Aug 2023 20:26:21",
          "title" : "21st EU Youth Chess Championship kicked off in Czech Republic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2587",
-         "pubDate" : "Wed, 16 Aug 2023 19:14:43 +0000",
-         "title" : "Samunenkov and Gurel receive wild cards for FIDE Grand Swiss 2023"
-      },
-      {
-         "description" : " The Chess Drum visited the Pan-Am Youth Chess Festival held in Chicago and was able to have a chat with FM Warren Elliott, part of the Jamaica delegation. During this brief discussion, he mentioned his reason for being at the event, the current state of chess in Jamaica, the future of Jamaican chess, and the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/\">Drum chats with FM Warren Elliott</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/16/drum-chats-with-fm-warren-elliott/",
-         "pubDate" : "Wed, 16 Aug 2023 15:56:38",
-         "title" : "Drum chats with FM Warren Elliott"
-      },
-      {
-         "description" : "The ECF is aware of historical and serious allegations which have recently been made public by a female chess player regarding highly inappropriate behaviour from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/recent-allegations-made-online/",
-         "pubDate" : "Wed, 16 Aug 2023 15:36:42",
-         "title" : "Recent allegations made online"
       }
    ]
 }
