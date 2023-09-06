@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first two rounds of the Women's Team World Championship get underway this afternoon in Bydgoszcz. The tournament starts with two groups of six teams each. The top four teams will progress to the knockout stage. The event was officially opened yesterday. | Photos: Michal Walusza (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-women-s-team-championship-2023-starts-in-bydgoszcz-poland",
+         "pubDate" : "Wed, 06 Sep 2023 11:51:36",
+         "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
+      },
+      {
+         "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will available for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/g20-summitaicf-delhi-office-staff-to-work-from-home/",
+         "pubDate" : "Wed, 06 Sep 2023 11:21:49",
+         "title" : "G20 Summit:AICF Delhi office staff to work from home."
+      },
+      {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Wed, 06 Sep 2023 11:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "The 2023 European Youth Chess Championship kicked off yesterday in Mamaia, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Romanian Chess Federation Mr. Vlad Ardeleanu, the President of the Romanian Olympic and Sports Committee Mr. Mihai Covaliu, Superbet Foundation Executive Director Mr. Cristian Gheorghita, State Secretary of the Foreign Ministry Mr. Andrei Novac and other distinguished guests. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-opened-in-mamaia-romania/",
+         "pubDate" : "Wed, 06 Sep 2023 08:26:31",
+         "title" : "European Youth Chess Championship 2023 opened in Mamaia, Romania"
+      },
+      {
          "description" : "There has been an official announcement from the UK Government of a package of measures that will support the England teams, our best juniors, new tournaments and our deaf and blind players. This is the culmination of a 25-year quest and a 12-month-long campaign. Initiator Malcolm Pein tells us how it all came about and what it means for the future of British chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-1-rapid",
-         "pubDate" : "Tue, 05 Sep 2023 14:54:43",
+         "pubDate" : "Tue, 05 Sep 2023 14:54:00",
          "title" : "Four-Way Tie At Top After Combative 1st Day"
       },
       {
@@ -778,28 +810,12 @@ news_feed (
          "title" : "Introducing The Variants Community Series"
       },
       {
-         "description" : "Yannick Gozzoli and Mitra Hejazipour are the new champions of France. Both won their maiden national titles. The French Championships 2023, 16-player knockout tournaments held in open and women's sections, took place on August 18-27 in Alpe d'Huez. Gozzoli beat Romain Edouard in the final of the open, while Iranian-born Hejazipour got the better of Deimante Daulyte-Cornette among the women.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championships-2023-report",
-         "pubDate" : "Wed, 30 Aug 2023 21:30:00",
-         "title" : "French Championships: Gozzoli and Hejazipour clinch titles"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Tournament to Feature Ten of the Top Chess Players including Legendary World Champion Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-host-champions-showdown-chess-9lx",
          "pubDate" : "Wed, 30 Aug 2023 20:33:02",
          "title" : "Saint Louis Chess Club To Host Champions Showdown: Chess 9LX"
-      },
-      {
-         "description" : "The Chess Federation of Russia has lost another top player. Nikita Vitiugov, who played under the FIDE flag after Russia's invasion of Ukraine, has transferred to the English Chess Federation, where he now occupies the first place in the federation's ratings list.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nikita-vitiugov-transfers-english-chess-federation",
-         "pubDate" : "Wed, 30 Aug 2023 19:00:00",
-         "title" : "Nikita Vitiugov transfers to the English Chess Federation"
       },
       {
          "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
@@ -1546,14 +1562,6 @@ news_feed (
          "title" : "World Youth Chess Olympiad 2023:Round 7 & 8"
       },
       {
-         "description" : "In a nail-biting tie break match, Grandmaster R Praggnandhaa outwitted compatriot Arjun Erigaisi to seal his berth in the semi final of World Cup at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cup-chess-praggnanandhaa-through-to-the-semi-final/",
-         "pubDate" : "Fri, 18 Aug 2023 05:22:06",
-         "title" : "World Cup Chess - Praggnanandhaa through to the Semi Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1688,22 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2582",
          "pubDate" : "Wed, 16 Aug 2023 12:12:04 +0000",
          "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2585",
-         "pubDate" : "Wed, 16 Aug 2023 09:05:13 +0000",
-         "title" : "Important changes in FIDE Regulations for the Appointment of Arbiters in World Events"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2586",
-         "pubDate" : "Wed, 16 Aug 2023 08:07:27 +0000",
-         "title" : "FIDE World Youth Olympiad 2023: Day 3 Recap"
       }
    ]
 }
