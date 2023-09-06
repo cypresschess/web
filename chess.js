@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Apart from Kirill Alexeenko (to Austria) and Nikita Vitiugov (to England), the FIDE transfer list shows several other prominent Russian grandmasters who have left their federation after Russia invaded Ukraine. Evgeny Alekseev now plays for Israel and Sanan Sjugirov is the new number one in Hungary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-exodus-of-russian-grandmasters-continues",
+         "pubDate" : "Wed, 06 Sep 2023 16:00:00",
+         "title" : "The exodus of Russian grandmasters continues"
+      },
+      {
+         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
+         "pubDate" : "Wed, 06 Sep 2023 14:50:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : "The new ChessBase Magazine #215 offers, among other things, 36 extensively annotated games. More than half of them build the \"Special\" of this issue: an exclusive collection of outstanding games by Hikaru Nakamura! In addition, Anish Giri, Grigoriy Oparin, Ivan Cheparinov, Thai Dai Van Nguyen et al. provide analyses from Norway Chess 2023 and Sharjah Masters 2023. Arjun Erigaisi played a brilliancy against Vladislav Kovalev in Sharjah - you can find an abridged version of his analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigiaisi-one-of-my-best-games",
+         "pubDate" : "Wed, 06 Sep 2023 14:00:00",
+         "title" : "Arjun Erigaisi: \"One of my best games\""
+      },
+      {
+         "description" : "There has been an official announcement from the UK Government of a package of measures that will support the England teams, our best juniors, new tournaments and our deaf and blind players. This is the culmination of a 25-year quest and a 12-month-long campaign. Initiator Malcolm Pein tells us how it all came about and what it means for the future of British chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-future-of-english-chess",
+         "pubDate" : "Wed, 06 Sep 2023 11:55:00",
+         "title" : "The future of English chess"
+      },
+      {
          "description" : "The first two rounds of the Women's Team World Championship get underway this afternoon in Bydgoszcz. The tournament starts with two groups of six teams each. The top four teams will progress to the knockout stage. The event was officially opened yesterday. | Photos: Michal Walusza (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
       },
       {
-         "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will available for",
+         "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/g20-summitaicf-delhi-office-staff-to-work-from-home/",
@@ -34,12 +66,12 @@ news_feed (
          "title" : "European Youth Chess Championship 2023 opened in Mamaia, Romania"
       },
       {
-         "description" : "There has been an official announcement from the UK Government of a package of measures that will support the England teams, our best juniors, new tournaments and our deaf and blind players. This is the culmination of a 25-year quest and a 12-month-long campaign. Initiator Malcolm Pein tells us how it all came about and what it means for the future of British chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-future-of-english-chess",
-         "pubDate" : "Wed, 06 Sep 2023 08:22:55",
-         "title" : "The future of English chess"
+         "description" : "GM Alireza Firouzja won his third Titled Tuesday in the last two weeks on September 5, taking the late event with a score of 10/11 to follow up his sweep last week. GM Vugar Rasulov took home the early honors, scoring 9.5 points and winning on tie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rasulov-firouzja-win-titled-tuesday-september-5-2023",
+         "pubDate" : "Wed, 06 Sep 2023 08:08:39",
+         "title" : "Firouzja's Strong Tuesdays Continue"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103416307.cms\" />Viswanathan Anand, the five-time World champion, is enjoying his new roles as a mentor and administrator in the chess world. He is happy to see India being well represented in tournaments and the game growing. Anand is impressed with the crop of young Indian players making their mark, but believes they still have a long way to go. He emphasizes the importance of consistency and raising one's level to succeed at the highest stage. ",
@@ -534,7 +566,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chessable-create-your-own-course-2023",
-         "pubDate" : "Fri, 01 Sep 2023 17:31:52",
+         "pubDate" : "Fri, 01 Sep 2023 17:31:00",
          "title" : "Announcing The 2023 Create Your Own Course Contest With GM Maurice Ashley"
       },
       {
@@ -658,22 +690,6 @@ news_feed (
          "title" : "Study of the Month: Some classical dominations"
       },
       {
-         "description" : "Daringly, Ian Nepomniachtchi played the King's Gambit against Peter Svidler at the World Rapid Team Championship - and he managed to score a full point! In his Fast & Furious show, Robert Ris analyses Nepo's crushing victory. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nepomniachtchi-kings-gambit",
-         "pubDate" : "Thu, 31 Aug 2023 19:25:00",
-         "title" : "Robert Ris' Fast and Furious: Nepo plays the King's Gambit!"
-      },
-      {
-         "description" : "The FIDE World Cup was a complete success, as top players fought for spots in the Candidates, both in the open and in the women's section. Magnus Carlsen and Aleksandra Goryachkina were the winners. As ever, GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five instructive endgames from the open category! | Pictured: Praggnanandhaa Rameshbabu | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-endgames-1",
-         "pubDate" : "Thu, 31 Aug 2023 18:10:00",
-         "title" : "World Cup: A selection of outstanding endgames (1)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103256772.cms\" />Indian youngsters continue to make waves as just days after 18-year-old Grandmaster R Praggnanandhaa qualified for the Candidates meet, 17-year-old Divya Deshmukh and 20-year-old Vantika Agarwal ended Day I of the women's rapid section of Tata Steel Chess India tournament on the top of table with 2.5 points after three rounds on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html",
          "pubDate" : "Thu, 31 Aug 2023 15:02:00",
          "title" : "Top Yahoos: Niemann, WRTC, and Pragg"
-      },
-      {
-         "description" : "World-class chess explained in video: Dorian Rogozenco shows two wins of Hikaru Nakamura from Norway Chess 2023, including the decisive last-round game against Fabiano Caruana - Sharjah Masters 2023: Analyses by tournament winner Arjun Erigaisi as well as Ivan Cheparinov, Grigoriy Oparin, Thai Dai Van Ngyuen and Samvel Ter-Sahakyan - \"Special\" on Hikaru Nakamura: exclusive collection of 19 encounters with detailed commentary from 2007 to 2023 - Action in the centre: Christian Braun's Anti-Sicilian recipe 1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.e5!? - \"Nakamura's strategy in practice\": Mihail Marin sheds light on the US American's skills, incl. two interactive videos and a large collection of exercises ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-215",
-         "pubDate" : "Thu, 31 Aug 2023 15:00:00",
-         "title" : "New: ChessBase Magazine #215"
       },
       {
          "description" : "Wesley So Alireza Firouzja is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://aicf.in/60th-national-chess-championship-2023-certificates/",
          "pubDate" : "Wed, 30 Aug 2023 10:29:13",
          "title" : "60th National Chess Championship 2023, Certificates"
-      },
-      {
-         "description" : "GM Alireza Firouzja has become the fourth player to sweep both ends of a Titled Tuesday, joining GMs Hikaru Nakamura, Wesley So, and Maxime Vachier-Lagrave in accomplishing the feat. Firouzja won the early event on August 29 with 9.5 points, then ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-august-29-2023",
-         "pubDate" : "Wed, 30 Aug 2023 08:25:00",
-         "title" : "Firouzja Joins Tuesday Sweep Club"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103198303.cms\" />Indian chess prodigy R Praggnanandhaa, who won the 2023 FIDE World Cup silver medal and FIDE Candidates tournament, received an enthusiastic reception upon his arrival. State sports department officials welcomed him with flower crowns, shawls, and bouquets. Traditional Tamil Nadu folk dances, including Karagattam and Oyilattam, added to the celebratory atmosphere.",
@@ -1672,30 +1672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/recent-allegations-made-online/",
          "pubDate" : "Wed, 16 Aug 2023 15:36:42",
          "title" : "Recent allegations made online"
-      },
-      {
-         "description" : "D Gukesh and Vidit Gujrathi went down to Magnus Carlsen and Nijat Abasov respectively on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38203203/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-arjun-erigaisi-tie-breaks-magnus-carlsen-beats-gukesh-vidit-gujrathi-out?device=featurephone",
-         "pubDate" : "Wed, 16 Aug 2023 12:58:23",
-         "title" : "2023 Chess WC Q/Fs: Pragg takes Erigaisi to tie-breaks; Gukesh, Vidit out"
-      },
-      {
-         "description" : " Last night I played a game that was almost a brilliancy. Utilising my rook, I managed to organise quite a good attack on my opponents king. Unfortunately, when the time came to find the knockout blow, I bailed out. Instead of rewarding my rook sacrifice with a win, I decided that half a point was reward enough. Even after the game I didn't see the correct move, which only became clear with some silicon help. <br /> <b>Press,Shaun - Radisich,Matt [E66]</b><br /> LFG --- (4), 15.08.2023 <script> new PgnViewer( { boardName: \"game1416\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 c5 3.c4 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O d6 7.Nc3 Nc6 8.d5 Nb8 9.h3 Na6 10.e4 Bd7 11.e5 Ne8 12.Bf4 h6 13.Ne4 Bf5 14",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/the-raging-rook.html",
-         "pubDate" : "Wed, 16 Aug 2023 12:37:00",
-         "title" : "The raging rook"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2582",
-         "pubDate" : "Wed, 16 Aug 2023 12:12:04 +0000",
-         "title" : "Interview with FIDE Chief Executive Officer GM Emil Sutovsky"
       }
    ]
 }
