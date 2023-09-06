@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-09-01  - 09-04","389","<a href=http://www.uschess.org/msa/XtblMain.php?202309046512 target='_blank'>89TH ANNUAL SOUTHWEST OPEN</a>",
 "SPRING","2023-09-01","30","<a href=http://www.uschess.org/msa/XtblMain.php?202309014872 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-09-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309014822 target='_blank'>FBCC 2023 LABOR DAY OPE</a>",
 "CYPRESS","2023-09-01","28","<a href=http://www.uschess.org/msa/XtblMain.php?202309014802 target='_blank'>KNIGHTS OFCYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2023-02-04","78","<a href=http://www.uschess.org/msa/XtblMain.php?202302045112 target='_blank'>FELLOWSHIP CHRISTIAN ACADEMY</a>",
 "SPRING","2023-02-03","31","<a href=http://www.uschess.org/msa/XtblMain.php?202302034472 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-02-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202302034422 target='_blank'>REBECCA CHESS CLUB QUADS FEB 3, 2023</a>",
-"CYPRESS","2023-02-03","32","<a href=http://www.uschess.org/msa/XtblMain.php?202302034402 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
