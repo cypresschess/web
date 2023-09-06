@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/outplay-your-opponent-middle-game-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MxvMGHR0E_o.jpg?itok=mbb3NOyP\" alt=\"\" /></a></div>",
+         "description" : "There has been an official announcement from the UK Government of a package of measures that will support the England teams, our best juniors, new tournaments and our deaf and blind players. This is the culmination of a 25-year quest and a 12-month-long campaign. Initiator Malcolm Pein tells us how it all came about and what it means for the future of British chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-future-of-english-chess",
+         "pubDate" : "Wed, 06 Sep 2023 08:22:55",
+         "title" : "The future of English chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103416307.cms\" />Viswanathan Anand, the five-time World champion, is enjoying his new roles as a mentor and administrator in the chess world. He is happy to see India being well represented in tournaments and the game growing. Anand is impressed with the crop of young Indian players making their mark, but believes they still have a long way to go. He emphasizes the importance of consistency and raising one's level to succeed at the highest stage. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-hopes-for-consistent-show-from-youngsters/articleshow/103416307.cms",
+         "pubDate" : "Wed, 06 Sep 2023 04:35:25 +0000",
+         "title" : "Anand hopes for consistent show from youngsters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05<br /> Benjamin Bok vs Dariusz Swiercz, Summer Chess Classic (2023): E06 Catalan, closed, 5.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2558990\">https://www.chessgames.com/perl/chessgame?gid=2558990</a><br /> Yasser Quesada vs. Benjamin Bok, 2023: C77 Ruy Lopez, Anderssen variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4409772\">https://www.365chess.com/game.php?back=1&amp;gid=4409772</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/outplay-your-opponent-middle-game-grandmasters-choice-gm-benjamin-bok",
@@ -794,14 +810,6 @@ news_feed (
          "title" : "Julius Baer Generation Cup Div 3 Winners - LIVE"
       },
       {
-         "description" : "In the last episode, Chris introduced the Hungarian Dragon. This time, the British GM will continue with some deviations of the popular variation. Beware, the following game is intense! It is definitely worth it to check out the full analysis. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-introducing-the-hungarian-deviation",
-         "pubDate" : "Wed, 30 Aug 2023 16:55:00",
-         "title" : "The Monthly Dragon - Introducing: The Hungarian Deviation!"
-      },
-      {
          "description" : "Alexey Sarana Nihal Sarin is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://aicf.in/1st-national-school-under-12-18-chess-championship-certificates/",
          "pubDate" : "Fri, 25 Aug 2023 12:19:02",
          "title" : "1st National School Under-12, 18 Chess Championship Certificates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103062530.cms\" />R Nagalakshmi, mother of teen chess prodigy R Praggnanandhaa, on Friday expressed her joy as her son secured a place in the Candidates Tournament. Nagalakshmi mentioned despite the remarkable achievement of her 18-year-old son, he still has a 'long was to go'. The Candidates Tournament holds significant importance as it determines the contender who will challenge the reigning world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/elated-that-praggnanandhaa-has-sealed-a-candidates-berth-mother-nagalakshmi/articleshow/103062530.cms",
-         "pubDate" : "Fri, 25 Aug 2023 11:35:05 +0000",
-         "title" : "Elated that Praggnanandhaa has sealed a Candidates berth: Mother Nagalakshmi"
       },
       {
          "description" : "",
