@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Out of the four players who were sharing the lead after the first day of action at Tata Steel India Rapid tournament, Maxime Vachier-Lagrave recorded the best score in rounds 4-6. The Frenchman is now the sole leader in Kolkata with 4&frac12; out of 6 points. Teimour Radjabov stands in sole second place, a half point back. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d7",
+         "pubDate" : "Wed, 06 Sep 2023 22:10:00",
+         "title" : "Tata Steel India: Vachier-Lagrave grabs the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2621",
+         "pubDate" : "Wed, 06 Sep 2023 22:06:03 +0000",
+         "title" : "World Women's Team Championship: USA, China and Kazakhstan lead after Day 1"
+      },
+      {
          "description" : "The World Cup had it's fair share of underdog surprises in the first round. Robert Ris decided to pick a game from round three, though! Anish Giri faced Nijat Abasov, and in the tiebreaker, the GM from Azerbaijan played aggressive moves, which caused a lot of trouble for Giri. Ris shows us exactly, how the 150 points weaker player won impressively.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,28 @@ news_feed (
          "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
       },
       {
+         "description" : "WGM Jennifer Shahade says she was greeted with &#34;hostility instead of support&#34; and &#34;constantly minimized or ignored&#34; by US Chess when she came forward with allegations of sexual assault. The former U.S. Women&#39;s Chess Champion resigned as the Direct...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jennifer-shahade-leaves-us-chess",
+         "pubDate" : "Wed, 06 Sep 2023 16:24:53",
+         "title" : "Jennifer Shahade Leaves Director Position At US Chess"
+      },
+      {
          "description" : "Apart from Kirill Alexeenko (to Austria) and Nikita Vitiugov (to England), the FIDE transfer list shows several other prominent Russian grandmasters who have left their federation after Russia invaded Ukraine. Evgeny Alekseev now plays for Israel and Sanan Sjugirov is the new number one in Hungary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-exodus-of-russian-grandmasters-continues",
          "pubDate" : "Wed, 06 Sep 2023 16:00:00",
          "title" : "The exodus of Russian grandmasters continues"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave played imaginatively to surge into the sole lead with 4.5 out of six points at the end of the second day of the 2023 Tata Steel Chess India Open Rapid. GM Teimour Radjabov was in the lead until he was outplayed by GM Vidi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-rapid",
+         "pubDate" : "Wed, 06 Sep 2023 15:57:48",
+         "title" : "Vachier-Lagrave Sole Leader Courtesy Of King And Knights"
       },
       {
          "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -34,12 +66,28 @@ news_feed (
          "title" : "World Women's Team Championship - Live!"
       },
       {
+         "description" : "CM Aaron Mendes won the 4th ChessKid Youth Speed Chess Championship, defeating Antoni Radzimski in a riveting final between two rising talents. Throughout their clash, both prodigies displayed vast tactical expertise. Ultimately, it was Mendes&#39;s p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-chesskid-youth-speed-chess-championship-final",
+         "pubDate" : "Wed, 06 Sep 2023 14:49:00",
+         "title" : "Rising Talents, Tactical Masterminds: Mendes Wins ChessKid YSCC"
+      },
+      {
          "description" : "The new ChessBase Magazine #215 offers, among other things, 36 extensively annotated games. More than half of them build the \"Special\" of this issue: an exclusive collection of outstanding games by Hikaru Nakamura! In addition, Anish Giri, Grigoriy Oparin, Ivan Cheparinov, Thai Dai Van Nguyen et al. provide analyses from Norway Chess 2023 and Sharjah Masters 2023. Arjun Erigaisi played a brilliancy against Vladislav Kovalev in Sharjah - you can find an abridged version of his analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arjun-erigiaisi-one-of-my-best-games",
          "pubDate" : "Wed, 06 Sep 2023 14:00:00",
          "title" : "Arjun Erigaisi: \"One of my best games\""
+      },
+      {
+         "description" : "GM Nihal Sarin is through to the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. He defeated GM Alexey Sarana with a final score of 16-10 after winning all three segments despite a brief internet connectivity sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nihal-sarana",
+         "pubDate" : "Wed, 06 Sep 2023 13:28:00",
+         "title" : "Nihal Beats Sarana, Wins All 3 Segments With 16-10 Final Score"
       },
       {
          "description" : "There has been an official announcement from the UK Government of a package of measures that will support the England teams, our best juniors, new tournaments and our deaf and blind players. This is the culmination of a 25-year quest and a 12-month-long campaign. Initiator Malcolm Pein tells us how it all came about and what it means for the future of British chess.",
@@ -64,14 +112,6 @@ news_feed (
          "link" : "https://aicf.in/g20-summitaicf-delhi-office-staff-to-work-from-home/",
          "pubDate" : "Wed, 06 Sep 2023 11:21:49",
          "title" : "G20 Summit:AICF Delhi office staff to work from home."
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Wed, 06 Sep 2023 11:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "The 2023 European Youth Chess Championship kicked off yesterday in Mamaia, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Romanian Chess Federation Mr. Vlad Ardeleanu, the President of the Romanian Olympic and Sports Committee Mr. Mihai Covaliu, Superbet Foundation Executive Director Mr. Cristian Gheorghita, State Secretary of the Foreign Ministry Mr. Andrei Novac and other distinguished guests. []",
@@ -810,22 +850,6 @@ news_feed (
          "title" : "Alice Lee Prevails vs. Tani Adewumi With Stunning Bullet Comeback"
       },
       {
-         "description" : "Raids, counter-raids and lots of loot: that&#38;rsquo;s what fans of Chess.com, Clash of Clans and Clash Royale can look forward to in September as two giant gaming empires get together for a month of cross-platform battles. Chess.com and Supercell,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/clash-joins-chess-com",
-         "pubDate" : "Thu, 31 Aug 2023 08:07:00",
-         "title" : "When Two Worlds Collide: Clash Joins Chess.com For Month Of Strategy Battles"
-      },
-      {
-         "description" : "Chess.com is excited to launch the Variants Community Series (VCS), a series of events and competitions for streamers and our dedicated and growing variants community. Every two months, we&#39;ll be featuring a different variant for you to discover, l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-variants-community-series-chesscom",
-         "pubDate" : "Thu, 31 Aug 2023 07:00:35",
-         "title" : "Introducing The Variants Community Series"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Tournament to Feature Ten of the Top Chess Players including Legendary World Champion Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -864,22 +888,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners/",
          "pubDate" : "Wed, 30 Aug 2023 15:27:18",
          "title" : "Julius Baer Generation Cup Div 2 Winners"
-      },
-      {
-         "description" : "GMs&#38;nbsp;Magnus Carlsen, Fabiano Caruana, Alireza Firouzja, and Wesley So move on to the Division I Winners Semifinals of the 2023 Julius Baer Generation Cup after winning their matches on day one. Carlsen, Firouzja, and So all won their matches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-1",
-         "pubDate" : "Wed, 30 Aug 2023 15:27:00",
-         "title" : "Caruana Survives Near-Upset; Carlsen, Firouzja, So Win Matches In 3 Games"
-      },
-      {
-         "description" : "The Tata Steel Rapid &#38;amp; Blitz Women&#39;s tournament was inaugurated at Kolkata, India, on Wednesday, August 30, 2023, with a short ceremony and drawing of lots. The event pits five of the best Indian women players against five invited global stars...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-inauguration",
-         "pubDate" : "Wed, 30 Aug 2023 13:24:27",
-         "title" : "Star Players Kick Off Tata Steel Chess India"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103213056.cms\" />The young Indian chess prodigy Rameshbabu Praggnanandhaa expressed his delight to see the progress chess is making in the nation.",
@@ -1624,30 +1632,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2023-official-regulations/",
          "pubDate" : "Thu, 17 Aug 2023 09:21:16",
          "title" : "European Small Nations Team Chess Championship 2023 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2589",
-         "pubDate" : "Wed, 16 Aug 2023 21:52:03 +0000",
-         "title" : "FIDE World Youth Olympiad 2023: Day 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2588",
-         "pubDate" : "Wed, 16 Aug 2023 21:00:24 +0000",
-         "title" : "FIDE World Cup R6 Game 2: Goryachkina advances to Women's finals"
-      },
-      {
-         "description" : "On Wednesday August 16th, in the Hotel Dlouhe Strane in Kouty nad Desnou in the Czech Republic, the 21st European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2023 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. Boys and girls in each category play the same tournament. Eventually boys and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/21st-eu-youth-chess-championship-kicked-off-in-czech-republic/",
-         "pubDate" : "Wed, 16 Aug 2023 20:26:21",
-         "title" : "21st EU Youth Chess Championship kicked off in Czech Republic"
       }
    ]
 }
