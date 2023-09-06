@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/outplay-your-opponent-middle-game-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MxvMGHR0E_o.jpg?itok=mbb3NOyP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/outplay-your-opponent-middle-game-grandmasters-choice-gm-benjamin-bok",
+         "pubDate" : "Wed, 06 Sep 2023 00:31:15",
+         "title" : "Outplay Your Opponent in the Middle Game | Grandmaster's Choice - GM Benjamin Bok"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class.<br /> Understand the values of space, color complexes, and subtle moves. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-master-games-beginner-breakdown-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X4kI9cOuc4o.jpg?itok=ZMNivcY7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-master-games-beginner-breakdown-0",
+         "pubDate" : "Wed, 06 Sep 2023 00:31:15",
+         "title" : "Learn From Master Games! | Beginner Breakdown"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2620",
+         "pubDate" : "Tue, 05 Sep 2023 23:55:57 +0000",
+         "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MxvMGHR0E_o.jpg?itok=mbb3NOyP\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -39,10 +63,10 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-aronian-wesley-so",
          "pubDate" : "Tue, 05 Sep 2023 15:56:00",
-         "title" : "Wesley So Eliminates Aronian After Starting With 5-Game Streak"
+         "title" : "Wesley So Eliminates Aronian After Starting With 5-Game Winning Streak"
       },
       {
-         "description" : "GMs Teimour Radjabov, Maxime Vachier-Lagrave, Vincent Keymer and Gukesh D lead with two points from three rounds at the end of an intensely fought first day of the 2023 Tata Steel Chess India Open Rapid being held in Kolkata, India. GMs Praggnanan...",
+         "description" : "GMs Teimour Radjabov, Maxime Vachier-Lagrave, Vincent Keymer, and Dommaraju Gukesh&#38;nbsp;lead with two points from three rounds at the end of an intensely fought first day of the 2023 Tata Steel Chess India Open Rapid being held in Kolkata, India. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-1-rapid",
@@ -890,14 +914,6 @@ news_feed (
          "title" : "2023 Chess 9LX: Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to learn from chess games played by strong players. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-master-games-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/go_oNXrjXrY.jpg?itok=hAvFwKh4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-master-games-beginner-breakdown",
-         "pubDate" : "Tue, 29 Aug 2023 18:24:05",
-         "title" : "Learn from Master Games | Beginner Breakdown"
-      },
-      {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1688,22 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2586",
          "pubDate" : "Wed, 16 Aug 2023 08:07:27 +0000",
          "title" : "FIDE World Youth Olympiad 2023: Day 3 Recap"
-      },
-      {
-         "description" : " Players from around the western hemisphere are in Chicago for the 2023 Pan-American Youth Chess Festival. Delegations are coming from as far as Chile to vie for age championships and titles. According to the official website, The Renaissance Knights Chess Foundation, the International Chess School, the Confederation of Chess for America (CCA) and the US The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/\">Colorful vibes at Pan-American Youth Chess Festival</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/15/colorful-vibes-at-pan-american-youth-chess-festival/",
-         "pubDate" : "Wed, 16 Aug 2023 02:08:07",
-         "title" : "Colorful vibes at Pan-American Youth Chess Festival"
-      },
-      {
-         "description" : "India's chess contingent held their own in the quarterfinals, while Fabiano Caruana drew with Leinier Dominguez Perez in the other quarterfinal.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38200344/2023-chess-world-cup-quarterfinals-magnus-carlsen-leads-d-gukesh-arjun-erigaisi-beats-r-praggnanandhaa-vidit-gujrathi-contention?device=featurephone",
-         "pubDate" : "Wed, 16 Aug 2023 01:07:33",
-         "title" : "2023 Chess World Cup QFs: Magnus leads Gukesh, Erigaisi beats Praggnanandhaa, Vidit in contention"
       }
    ]
 }
