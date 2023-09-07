@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 215 is just out. Here our columnist, Nagesh Havanur takes a look at a recent issue. 162 games (41 annotated), decisive encounters from World Championship deeply annotated. 12 opening surveys, 3 opening videos, 9 demo lectures and several exercises for training. Annotators include Anish Giri, Boris Gelfand and Peter Svidler among others. The icing on the cake is a feature on Boris Spassky with 27 annotated games. | Photo: Ding Liren vs Nepomniachtchi, WCH 2023, FIDE/Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-214-a-world-championship-special",
+         "pubDate" : "Thu, 07 Sep 2023 17:00:00",
+         "title" : "CBM 214 : A World Championship Special"
+      },
+      {
+         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
+         "pubDate" : "Thu, 07 Sep 2023 14:50:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : " For some strange reason, I had not one, but two beginners ask me if pawns could move 1 square forward and then take diagonally on the same move (basically a knight move). Of course I said no, but it did get me thinking. If a pawn can move 2 squares forward on the first move, why can't it take by moving 2 squares diagonally on the first move. 'Because' is probably the best answer, although it may make the game a little different if it could. I assume that such a variant does already exists, although the closest I could find was Berolina Chess, which isn't the same thing. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/an-outbreak-of-knight-moving-pawns.html",
+         "pubDate" : "Thu, 07 Sep 2023 14:01:00",
+         "title" : "An outbreak of knight moving pawns"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,28 +642,12 @@ news_feed (
          "title" : "Chess Opening Courses: Are They Worth Buying?"
       },
       {
-         "description" : "After 11...b6? (diagram) pieces will be traded on the queenside - but not the way Black might have imagined! Do you see how White gets an advantage?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/exchange-variation",
-         "pubDate" : "Sat, 02 Sep 2023 09:00:00",
-         "title" : "Exchange variation"
-      },
-      {
          "description" : "Jamshedpur, September 1, 2023:&#160;Tata Steel Asian Junior Open and Girls Chess Championship 2023 will be organised between September 7 to 15 at&#160;JRD Tata Sports Complex.&#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/tata-steel-asian-junior-open-and-girls-chess-championship-kicks-off-from-september-7/",
          "pubDate" : "Sat, 02 Sep 2023 08:59:14",
          "title" : "Tata Steel Asian Junior Open and Girls Chess Championship kicks off from September 7"
-      },
-      {
-         "description" : "In a wide-ranging interview, Casto Abundo talks about his lengthy career as a chess organiser, his work alongside Florencio Campomanes and the time he spent with Bobby Fischer in the Philippines. Abundo shares: \"I had to play racquetball with Bobby, swim with him far into the open seas, go on long nightly walks discussing chess, arrange a date with a Filipina national chess team member he liked, drive him to the yacht of President Marcos, and watch as he replayed games from Chess Informant every night\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/casto-abundo-interview-2023",
-         "pubDate" : "Fri, 01 Sep 2023 23:40:00",
-         "title" : "Casto Abundo: \"I got to stay with Bobby Fischer for a whole month\""
       },
       {
          "description" : "Chess.com is excited to announce the third edition of Chessable&#39;s annual Create Your Own Course contest. Registrations are open from September 1 to November 30 to all Chessable PRO members who want to participate.&#38;nbsp; This is the perfect oppor...",
@@ -1600,30 +1608,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
          "pubDate" : "Thu, 17 Aug 2023 17:45:38",
          "title" : "FIDE bans trans women from women's chess"
-      },
-      {
-         "description" : "A month after posting about the <A HREF=\"https://chessforallages.blogspot.com/2023/07/2023-cja-award-entries.html\">2023 CJA Award Entries</A> (July 2023; Chess Journalists of America), I'm ready to do a short series on the awards themselves. In that post I wanted 'to collect all of the entries across all of the categories', but I ran into an obstacle:- <BLOCKQUOTE> The data behind the page is embedded on the page's HTML, so it should be possible to extract the entries using straightforward text tools. That would require more work than I have time for right now. I might come back to it later, but I wouldn't bet any money on that happening soon. The winners will be announced next month. </BLOC",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html",
-         "pubDate" : "Thu, 17 Aug 2023 15:04:00",
-         "title" : "2023 CJA Awards - Part 1"
-      },
-      {
-         "description" : "A topsy-turvy tie-break was finally decided in the three-minute blitz game after Praggnanandhaa and Arjun Erigaisi traded four wins with black pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38208984/2023-chess-world-cup-quarterfinals-r-praggnanandhaa-beat-arjun-erigaisi-qualify-semifinal?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 12:54:53",
-         "title" : "Pragg beats Erigaisi to qualify for Chess WC semifinal"
-      },
-      {
-         "description" : " I am currently \"hate-watching\" the second season of Foundation, and chess gets a mention in the third episode. As the series is set a long way into the future, it is a little surprising they went with chess, and not some invented game. The actual reference involves a 'castling device' which allows 2 bodies to swap positions, in almost the same way as a king and a rook can. It is employed by Hober Mallow, initially to pull of a robbery, and then eventually to cheat death. Note: the term \"hate-watching\" refers to watching a tv show or movie that you know is complete garbage, but you feel compelled to watch it any way. This definitely applies to the Foundation tv series. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/chess-in-far-far-future.html",
-         "pubDate" : "Thu, 17 Aug 2023 11:52:00",
-         "title" : "Chess in the far far future"
       }
    ]
 }
