@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Thu, 07 Sep 2023 11:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "A new facility to inspect the Calculation of Voting Entitlement for Council Members is available in the Council Database here. This enables Council representatives and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/voting-calculations-for-the-year-september-2023-to-august-2024/",
+         "pubDate" : "Thu, 07 Sep 2023 10:54:35",
+         "title" : "Voting calculations for the year September 2023 to August 2024"
+      },
+      {
+         "description" : "In his Game of the Week show #584, Merijn Van Delft takes a look at a game Jan-Krzysztof Duda and Gukesh played at the FIDE World Rapid Team Championships in D&uuml;sseldorf, a fine example of defense and counterattack. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-584-duda-vs-gukesh",
+         "pubDate" : "Thu, 07 Sep 2023 10:40:23",
+         "title" : "Game of the Week #584: Duda vs. Gukesh"
+      },
+      {
+         "description" : "Jennifer Shahade herself founded the women's program in the US Chess Federation, but is now stepping down as its director. In a Facebook post, Shahade cited the way the chess federation reacted - or failed to react - after Shahade accused GM Alejandro Ramirez, who was then working as a coach for the federation, of sexually harassing women and minors as the reason for the decision. | Photo: Jennifer Shahade",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jennifer-shahade-resigns-from-her-post-as-women-s-program-director-of-us-chess",
+         "pubDate" : "Thu, 07 Sep 2023 09:30:14",
+         "title" : "Jennifer Shahade resigns from her post as Women's Program Director of US Chess"
+      },
+      {
          "description" : "Day 1 of the World Women's Team Championship saw two rounds played in each pool. Three teams scored back-to-back wins - Kazakhstan is the only squad in pool A with 4/4 match points before round 3, while the United States and China are sharing first place with perfect scores in pool B. The pool stage will run until Friday, when four teams per group will move on to the knockout stage. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-rapid",
-         "pubDate" : "Wed, 06 Sep 2023 15:57:48",
+         "pubDate" : "Wed, 06 Sep 2023 15:57:00",
          "title" : "Vachier-Lagrave Sole Leader Courtesy Of King And Knights"
       },
       {
@@ -610,14 +642,6 @@ news_feed (
          "title" : "Casto Abundo: \"I got to stay with Bobby Fischer for a whole month\""
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King, an expert on the King's Gambit, looks at the exciting opening by analysing Ian Nepomniachtchi's recent victory over Peter Svidler from the World Rapid Team Championship in D&uuml;sseldorf. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nepo-kings-gambit",
-         "pubDate" : "Fri, 01 Sep 2023 23:35:00",
-         "title" : "Daniel King's Power Play Show: Nepo strikes with the King's Gambit"
-      },
-      {
          "description" : "Chess.com is excited to announce the third edition of Chessable&#39;s annual Create Your Own Course contest. Registrations are open from September 1 to November 30 to all Chessable PRO members who want to participate.&#38;nbsp; This is the perfect oppor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "FIDE September 2023 rating list: Gukesh debuts in top 10, Praggnanandhaa enters top 20"
       },
       {
-         "description" : "In his Game of the Week show #583, Merijn Van Delft analyses one of the wins that gave Magnus Carlsen his first-ever triumph in a World Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-583-praggnanandhaa-carlsen",
-         "pubDate" : "Fri, 01 Sep 2023 07:15:00",
-         "title" : "Game of the Week #583: Praggnanandhaa vs. Carlsen"
-      },
-      {
          "description" : "Sound the war drums! A hoard of giants, goblins, P.E.K.K.A., and other magical creatures has invaded Chess.com. Get your army ready and prepare to storm the castle of the new Clash of Clan bots on our Play Computer page.&#38;nbsp; Fight your way ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38303895/37-years-how-world-changed-viswanathan-anand-stayed-constant-top-indian-chess-d-gukesh?device=featurephone",
          "pubDate" : "Fri, 1 Sep 2023 05:54:46",
          "title" : "37 years - How the world changed as Anand stayed constant on top of Indian chess"
-      },
-      {
-         "description" : "Two young Indian players outscored the rating favourites on the first day of action at the Tata Steel Rapid tournament in Kolkata. Divya Deshmukh (pictured) - who was included in the lineup as Vaishali Rameshbabu's late replacement - and Vantika Agrawal are leading the standings with 2&frac12;/3 points each. Women's world champion Ju Wenjun stands in sole third place, a half point behind. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d1",
-         "pubDate" : "Fri, 01 Sep 2023 03:05:00",
-         "title" : "Tata Steel India: Divya and Vantika lead as favourites stumble"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class about the preparation of top tournament chess players. 2023.08.31<br /> Anish Giri vs Dommaraju Gukesh, Tata Steel Masters (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2453794\">https://www.chessgames.com/perl/chessgame?gid=2453794</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok\"><img",
@@ -1616,22 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/chess-in-far-far-future.html",
          "pubDate" : "Thu, 17 Aug 2023 11:52:00",
          "title" : "Chess in the far far future"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2590",
-         "pubDate" : "Thu, 17 Aug 2023 09:29:05 +0000",
-         "title" : "21st European Union Youth Championship kicks off in Kouty nad Desnou, Czech Republic "
-      },
-      {
-         "description" : "The 8th edition of the European Small Nations Team Championship will be held from 28th October 2023 (arrival) to 5th November 2023 (departure) in the Pomme d'Or Hotel, St Helier, Jersey. The main supporter of the event is the European Chess Union which annually supports the major event of European Small Nations. The event is played as a 10-team round-robin event with the participation of the following teams: Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2023-official-regulations/",
-         "pubDate" : "Thu, 17 Aug 2023 09:21:16",
-         "title" : "European Small Nations Team Chess Championship 2023 - Official regulations"
       }
    ]
 }
