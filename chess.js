@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 1 of the World Women's Team Championship saw two rounds played in each pool. Three teams scored back-to-back wins - Kazakhstan is the only squad in pool A with 4/4 match points before round 3, while the United States and China are sharing first place with perfect scores in pool B. The pool stage will run until Friday, when four teams per group will move on to the knockout stage. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-d1",
+         "pubDate" : "Thu, 07 Sep 2023 07:40:00",
+         "title" : "World Women's Team Ch: USA and Kazakhstan impress"
+      },
+      {
          "description" : "Out of the four players who were sharing the lead after the first day of action at Tata Steel India Rapid tournament, Maxime Vachier-Lagrave recorded the best score in rounds 4-6. The Frenchman is now the sole leader in Kolkata with 4&frac12; out of 6 points. Teimour Radjabov stands in sole second place, a half point back. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,8 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jennifer-shahade-leaves-us-chess",
-         "pubDate" : "Wed, 06 Sep 2023 16:24:53",
-         "title" : "Jennifer Shahade Leaves Director Position At US Chess"
+         "pubDate" : "Wed, 06 Sep 2023 16:24:00",
+         "title" : "Jennifer Shahade Resigns Director Position At US Chess"
       },
       {
          "description" : "Apart from Kirill Alexeenko (to Austria) and Nikita Vitiugov (to England), the FIDE transfer list shows several other prominent Russian grandmasters who have left their federation after Russia invaded Ukraine. Evgeny Alekseev now plays for Israel and Sanan Sjugirov is the new number one in Hungary.",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-rapid",
          "pubDate" : "Wed, 06 Sep 2023 15:57:48",
          "title" : "Vachier-Lagrave Sole Leader Courtesy Of King And Knights"
-      },
-      {
-         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
-         "pubDate" : "Wed, 06 Sep 2023 14:50:00",
-         "title" : "World Women's Team Championship - Live!"
       },
       {
          "description" : "CM Aaron Mendes won the 4th ChessKid Youth Speed Chess Championship, defeating Antoni Radzimski in a riveting final between two rising talents. Throughout their clash, both prodigies displayed vast tactical expertise. Ultimately, it was Mendes&#39;s p...",
