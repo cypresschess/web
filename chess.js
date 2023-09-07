@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2622",
+         "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
+         "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (roster below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com ROUND 4 | 20 Min. Incr. 5 Sec.<br /> Sam Shankland vs.<br /> Leinier Dominguez<br /> Fabiano Caruana<br /> vs. Hikaru Nakamura Sam Sevian<br /> vs. Wesley So<br /> Levon Aronian vs.<br /> Garry Kasparov<br /> Jeffery Xiong<br /> vs. Ray Robson </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-2",
+         "pubDate" : "Thu, 07 Sep 2023 21:33:20",
+         "title" : "2023 Chess 9LX: Day 2"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave won the Tata Steel Chess India Rapid with 7 points and an undefeated performance. The Frenchman distanced himself from the rest of the field by 1&frac12; points with a round to spare. Teimour Radjabov finished in sole second place with 5&frac12; points, while Praggnanandha Rameshbabu, Alexander Grischuk and Vidit Gujrathi scored 5 points each. | Photo: Vivek Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
          "pubDate" : "Thu, 07 Sep 2023 14:50:00",
          "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave scored another 2.5 points on the last day of the 2023 Tata Steel Chess India Open Rapid, winning the event with a round to spare and scoring seven points out of a possible nine. GM Teimour Radjabov was placed second with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-3-rapid",
+         "pubDate" : "Thu, 07 Sep 2023 14:33:28",
+         "title" : "Smooth Round-To-Spare Rapid Title For Vachier-Lagrave"
       },
       {
          "description" : " For some strange reason, I had not one, but two beginners ask me if pawns could move 1 square forward and then take diagonally on the same move (basically a knight move). Of course I said no, but it did get me thinking. If a pawn can move 2 squares forward on the first move, why can't it take by moving 2 squares diagonally on the first move. 'Because' is probably the best answer, although it may make the game a little different if it could. I assume that such a variant does already exists, although the closest I could find was Berolina Chess, which isn't the same thing. ",
@@ -890,14 +914,6 @@ news_feed (
          "title" : "Hero's Welcome, Audience With Modi And A New Car: Praggnanandaa's Reward For World Cup Exploits"
       },
       {
-         "description" : "In a match that came down to the wire, IM Alice Lee defeated FM Tani Adewumi in the fifth edition of Tani vs. The World. Down four points with barely enough time left for as many games, Lee pulled off an unbelievable comeback to win in overtime. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tani-vs-the-world-match-5-lee-wins",
-         "pubDate" : "Thu, 31 Aug 2023 12:43:00",
-         "title" : "Alice Lee Prevails vs. Tani Adewumi With Stunning Bullet Comeback"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Tournament to Feature Ten of the Top Chess Players including Legendary World Champion Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok",
          "pubDate" : "Wed, 30 Aug 2023 00:24:36",
          "title" : "Bok at the 2023 Saint Louis Chess Classics | Grandmaster's Choice - GM Benjamin Bok"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fischer Random chess, the world's most unpredictable variant, is back! Chess 9LX makes its return to the chess capital of America, Saint Louis, Mo. From September 8-10, ten players (listed below) will compete for a $150,000 prize fund. With 960 different starting positions, even the best in the world don't know what's coming! Featuring Garry Kasparov, Hikaru Nakamura, and returning champion Fabiano Caruana, this is an event you won't want to miss. Plus, see the \"Ultimate Moves\" team exhibition on September 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-promo",
-         "pubDate" : "Tue, 29 Aug 2023 18:24:05",
-         "title" : "2023 Chess 9LX | PROMO"
       },
       {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
@@ -1592,22 +1600,6 @@ news_feed (
          "link" : "https://aicf.in/national-under-07-chess-championship-2023venue-details/",
          "pubDate" : "Fri, 18 Aug 2023 05:49:28",
          "title" : "National Under 07 Chess Championship 2023:Venue details"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2592",
-         "pubDate" : "Thu, 17 Aug 2023 22:04:38 +0000",
-         "title" : "Revised Tie-break Regulations come to force on September 1, 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2591",
-         "pubDate" : "Thu, 17 Aug 2023 21:11:13 +0000",
-         "title" : "World Cup Round 6 Tiebreaks: Salimova in the Women's finals, Praggnanandhaa in the Open semis"
       }
    ]
 }
