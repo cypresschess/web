@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave won the Tata Steel Chess India Rapid with 7 points and an undefeated performance. The Frenchman distanced himself from the rest of the field by 1&frac12; points with a round to spare. Teimour Radjabov finished in sole second place with 5&frac12; points, while Praggnanandha Rameshbabu, Alexander Grischuk and Vidit Gujrathi scored 5 points each. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d8",
+         "pubDate" : "Thu, 07 Sep 2023 20:00:00",
+         "title" : "MVL wins Tata Steel India Rapid with a round to spare"
+      },
+      {
+         "description" : "In the latest edition of his Fast & Furious series, Robert Ris takes a look at a double-edged opening that at first glance seems rather dubious: the Norwegian Rat (1.e4 g6 2.d4 Nf6 3.e5 Nh5), which Carlsen and other strong players have tried with surprising success. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-creative-the-norwegian-rat",
+         "pubDate" : "Thu, 07 Sep 2023 20:00:00",
+         "title" : "Robert Ris' Fast and Furious: Creative - The Norwegian Rat"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/ultimate-moves/round-1/MzzC1jzs\">https://lichess.org/broadcast/ultimate-moves/round-1/MzzC1jzs</a> Live from the World Chess Hall of Fame, before Chess 9LX, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent, Edward Jones Financial Advisor Alex Kerford, draft the world's best players (rosters below) to join them on their teams. Join GM Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/team-chess-nakamura-caruana-kasparov-more-2023-chess-9lx-ultimate-moves",
+         "pubDate" : "Thu, 07 Sep 2023 18:33:18",
+         "title" : "Team Chess! Nakamura, Caruana, Kasparov, & More! | 2023 Chess 9LX: Ultimate Moves"
+      },
+      {
+         "description" : "On Friday 8 September, the best players in the USA and Garry Kasparov will begin to explore the depths of Fischer Random Chess (Chess 960 or \"Chess 9LX\") in Saint Louis. They will be competing for a prize fund of no less than $150,000. Before the tournament, however, the players and sponsor Rex Sinquefield want to have some fun with \"Ultimate Moves\". If you want to join in the fun, check out the live video. | The action starts at 13.00 ET (19.00 CEST, 17.00 GMT).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-ultimate-moves",
+         "pubDate" : "Thu, 07 Sep 2023 18:00:00",
+         "title" : "Chess 9LX: Ultimate Moves"
+      },
+      {
+         "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1.&#160;&#160;&#160;&#160;&#160; Chennai : 16 - 21 Oct 23 2.&#160;&#160;&#160;&#160;&#160; Pollachi",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/im-norm-round-robin-tournaments/",
+         "pubDate" : "Thu, 07 Sep 2023 17:09:04",
+         "title" : "IM Norm Round Robin Tournaments"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 215 is just out. Here our columnist, Nagesh Havanur takes a look at a recent issue. 162 games (41 annotated), decisive encounters from World Championship deeply annotated. 12 opening surveys, 3 opening videos, 9 demo lectures and several exercises for training. Annotators include Anish Giri, Boris Gelfand and Peter Svidler among others. The icing on the cake is a feature on Boris Spassky with 27 annotated games. | Photo: Ding Liren vs Nepomniachtchi, WCH 2023, FIDE/Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-214-a-world-championship-special",
          "pubDate" : "Thu, 07 Sep 2023 17:00:00",
          "title" : "CBM 214 : A World Championship Special"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103479311.cms\" />India's chess sensation R Praggnanandhaa finished third but former World Blitz champion Maxime Vachier-Lagrave continued his dominance with two more wins to claim the 'Tata Steel Chess India 2023' rapid title, here on Thursday. The Frenchman, who was on his maiden visit to India, finished on top with seven points, way ahead of Azerbaijan's 2019 World Cup winner Teimour Radjabov (5.5).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/maxime-vachier-lagrave-emerges-rapid-champion-r-praggnanandhaa-ends-joint-third-in-tata-steel-chess-india/articleshow/103479311.cms",
+         "pubDate" : "Thu, 07 Sep 2023 16:01:26 +0000",
+         "title" : "Maxime emerges rapid champion; Pragg ends joint third in Tata Steel Chess"
+      },
+      {
+         "description" : "Chess in Schools &#38; Communities is excited to announce a series of junior rapidplay tournaments with free entry, open to all aged under 18, with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/csc-junior-rapidplay-tournaments/",
+         "pubDate" : "Thu, 07 Sep 2023 15:58:37",
+         "title" : "CSC Junior Rapidplay Tournaments"
+      },
+      {
+         "description" : "Jennifer Shahade herself founded the women's program in the US Chess Federation, but is now stepping down as its director. In a Facebook post, Shahade cited the way the chess federation reacted - or failed to react - after Shahade accused GM Alejandro Ramirez, who was then working as a coach for the federation, of sexually harassing women and minors as the reason for the decision. | Photo: Jennifer Shahade",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jennifer-shahade-resigns-from-her-post-as-women-s-program-director-of-us-chess",
+         "pubDate" : "Thu, 07 Sep 2023 15:00:00",
+         "title" : "Jennifer Shahade resigns from her post as Women's Program Director of US Chess"
       },
       {
          "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -48,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-584-duda-vs-gukesh",
          "pubDate" : "Thu, 07 Sep 2023 10:40:23",
          "title" : "Game of the Week #584: Duda vs. Gukesh"
-      },
-      {
-         "description" : "Jennifer Shahade herself founded the women's program in the US Chess Federation, but is now stepping down as its director. In a Facebook post, Shahade cited the way the chess federation reacted - or failed to react - after Shahade accused GM Alejandro Ramirez, who was then working as a coach for the federation, of sexually harassing women and minors as the reason for the decision. | Photo: Jennifer Shahade",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jennifer-shahade-resigns-from-her-post-as-women-s-program-director-of-us-chess",
-         "pubDate" : "Thu, 07 Sep 2023 09:30:14",
-         "title" : "Jennifer Shahade resigns from her post as Women's Program Director of US Chess"
       },
       {
          "description" : "Day 1 of the World Women's Team Championship saw two rounds played in each pool. Three teams scored back-to-back wins - Kazakhstan is the only squad in pool A with 4/4 match points before round 3, while the United States and China are sharing first place with perfect scores in pool B. The pool stage will run until Friday, when four teams per group will move on to the knockout stage. | Photo: Michal Walusza",
@@ -554,14 +610,6 @@ news_feed (
          "title" : "Gukesh aims to keep improving after becoming India No.1"
       },
       {
-         "description" : "Divya Deshmukh, a late replacement and the lowest-rated player in the field, won the rapid section of the Tata Steel India tournament. The 17-year-old from Maharashtra outscored some of the strongest women players in the world to finish in sole first place with 7 out of 9 points. Ju Wenjun, who entered the last round tied for first with Divya, grabbed second place. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d3",
-         "pubDate" : "Sun, 03 Sep 2023 01:20:00",
-         "title" : "Divya wins Tata Steel Rapid with splendid performance"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -600,22 +648,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/fathers-day-special.html",
          "pubDate" : "Sat, 02 Sep 2023 14:35:00",
          "title" : "Father's Day Special"
-      },
-      {
-         "description" : "Magnus Carlsen won the winners' final of the Julius Baer Generation Cup with a smooth 3-0 victory over Alireza Firouzja. The Norwegian has thus reached the Grand Final set to take place on Sunday. His opponent will be the winner of the losers' bracket, where Denis Lazavik and Nodirbek Abdusattorov will first play in the semifinals on Saturday; the winner will then face Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-d3",
-         "pubDate" : "Sat, 02 Sep 2023 14:30:00",
-         "title" : "Generation Cup: Carlsen overpowers Firouzja"
-      },
-      {
-         "description" : "The French Defence is one of the most popular openings - for club players to grandmasters. It's a very solid opening against 1.e4, but leaves room for counterplay and initiative. In this two-volume video course former world-champion and startrainer Rustam Kasimdzhanov shows you the ins and outs of the hugely complex opening. This week you can save 20 Euros - the Summer Special price is just €39.90 (instead of list €59.80). Don't miss the chance of improving your chess understanding!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasim-play-the-french-defence",
-         "pubDate" : "Sat, 02 Sep 2023 14:25:00",
-         "title" : "Kasim: Play the French Defence"
       },
       {
          "description" : "I have received a communication from my old friend Nick Patterson, former Irish Chess Champion and top board for Ireland in the 1970 Siegen Chess Olympiad. He was also a leading light of Cambridge University chess while I was studying there and sharing digs with our future King Charles III at Trinity College. In a previous []",
@@ -962,14 +994,6 @@ news_feed (
          "title" : "2023 Chess 9LX | PROMO"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (roster below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.08<br /> USChessChamps.com ROUND 1 | 20 Min. Incr. 5 Sec. ROUND 2 | 20 Min. Incr. 5 Sec. ROUND 3 | 20 Min. Incr. 5 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-chess-9lx",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-1",
-         "pubDate" : "Tue, 29 Aug 2023 18:24:05",
-         "title" : "2023 Chess 9LX: Day 1"
-      },
-      {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1136,14 +1160,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/",
          "pubDate" : "Sat, 26 Aug 2023 14:46:09",
          "title" : "A Foundation for Beginners One Hundred One"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103089136.cms\" />The Indian men's chess team, including World Cup silver medalist Rameshbabu Praggnanandhaa and three quarter-finalists, will have a four-day tactical camp in Kolkata starting on August 30. The Hangzhou-bound squad includes Grandmasters Vidit Gujarathi, Arjun Erigaisi, R Gukesh, and veteran Pentala Harikrishna, led by head coach Boris Gelfand and assistant coaches Srinath Narayanan and Vaibhav Suri.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-gukesh-in-asian-games-camp-from-august-30/articleshow/103089136.cms",
-         "pubDate" : "Sat, 26 Aug 2023 12:06:49 +0000",
-         "title" : "Praggnanandhaa, Gukesh in Asian Games camp from August 30"
       },
       {
          "description" : "The Senior National Arbiter Seminar organized by All India Chess Federation got off to a rousing start at Bengaluru today .Professor IA Rathinam Anantharam",
@@ -1578,14 +1594,6 @@ news_feed (
          "title" : "National Under 07 Chess Championship 2023:Venue details"
       },
       {
-         "description" : "India succumbed to 3.5-0.5defeat to Uzbekistan in 6th round of World Youth Chess Olympiad in Eindhoven, Netherlands. Ashwath on first board drew against Begmuratov Khumoyun",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-chess-olympiad-2023round-7-8/",
-         "pubDate" : "Fri, 18 Aug 2023 05:32:30",
-         "title" : "World Youth Chess Olympiad 2023:Round 7 & 8"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2591",
          "pubDate" : "Thu, 17 Aug 2023 21:11:13 +0000",
          "title" : "World Cup Round 6 Tiebreaks: Salimova in the Women's finals, Praggnanandhaa in the Open semis"
-      },
-      {
-         "description" : "FIDE, the International Chess Federation, has released a new policy banning transgender women from competing in women's chess events.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/38210181/fide-bans-transgender-women-women-chess-events?device=featurephone",
-         "pubDate" : "Thu, 17 Aug 2023 17:45:38",
-         "title" : "FIDE bans trans women from women's chess"
       }
    ]
 }
