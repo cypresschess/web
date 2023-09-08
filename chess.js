@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Champions Showdown 9LX takes place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest is the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I'm very limited in the coverage I can mount as I can't display Chess960 games, but I can provide a download.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2023",
+         "pubDate" : "Fri, 8 Sep 2023 21:21:00",
+         "title" : "Champions Showdown 9LX 2023 - Games and Results"
+      },
+      {
          "description" : "In 2004, Vladimir Kramnik and Peter Leko played a match for the World Championship. After a nail-biting series of games, the match ended in a 7-7 draw, with Kramnik retaining his title by winning the 14th game on demand. But Svitlana shows us one of the two wins by Leko (who, incidentally, is celebrating his birthday today!) - a fascinating game with an interesting side story.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-blitz-praggnanandhaa-scores-five-successive-wins-to-lead-with-6-5-points/articleshow/103517149.cms",
          "pubDate" : "Fri, 08 Sep 2023 16:21:06 +0000",
          "title" : "Praggnanandhaa scores five successive wins to lead with 6.5 points"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu got off to a flying start, winning his first five games, and ultimately ended with 6.5 points from nine games to be the sole leader at the end of the first day of the 2023 Tata Steel Chess India Open Blitz. Following t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-1-blitz",
+         "pubDate" : "Fri, 08 Sep 2023 15:09:00",
+         "title" : "Praggnanandhaa Leads Blitz After 5/5 Start"
       },
       {
          "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -930,14 +946,6 @@ news_feed (
          "title" : "'You personify passion and perseverance': PM Modi meets Praggnanandhaa"
       },
       {
-         "description" : "Youngsters WGM Divya Deshmukh and IM Vantika Agrawal powered through the opposition on their way to joint lead with 2.5 points apiece after three rounds of the Tata Steel Chess India Women&#39;s Rapid tournament in a day of exciting clashes at Kolkata...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day1",
-         "pubDate" : "Thu, 31 Aug 2023 14:05:00",
-         "title" : "Divya, Vantika Leading With Powerplay"
-      },
-      {
          "description" : "Pavel Eljanov Nodirbek Abdusattorov is a Round 1 game from Julius Baer Generation Cup Div 1 Losers.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/",
          "pubDate" : "Sat, 19 Aug 2023 00:26:07",
          "title" : "2023 FIDE World Cup: Quarterfinals"
-      },
-      {
-         "description" : "The FIDE World Youth U16 Chess Olympiad concluded today in Eindhoven, Netherlands with China emerging as the sole Winner of the event. China scored 8 victories and one draw 17 match points in total to clinch the gold medal. The team showed dominance against all the opponents except from Armenia which managed to tie the match to 2-2 score. &#160;Out of the 36 games played, China scored a total of 31 board points.&#160; The defending champions, Turkey, won silver []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-youth-u16-olympiad-concluded-in-eindhoven-netherlands/",
-         "pubDate" : "Fri, 18 Aug 2023 20:01:05",
-         "title" : "FIDE World Youth U16 Olympiad concluded in Eindhoven, Netherlands"
       }
    ]
 }
