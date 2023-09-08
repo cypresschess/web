@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
+         "pubDate" : "Fri, 08 Sep 2023 14:50:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7cxomEZF5OqDQ9POJBOMl8RRf3puPfNklN1uPxSRMqyiDhg-hslIH7A0PamEV46UZmXgbMsggLBh7wjGWlXXyZZslPXJ6Dh5l0UukurwTPiM8_u8pIImeUiDxLJivYKvludYUd3eFw-ZeEnmDEocTbeePQt3BeOAKhebXVHf4rOJP5vpu6w3KjOipDg/s580/m_611d6996ff7c5a200f1f6002.jpeg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"580\" data-original-width=\"580\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7cxomEZF5OqDQ9POJBOMl8RRf3puPfNklN1uPxSRMqyiDhg-hslIH7A0PamEV46UZmXgbMsggLBh7wjGWlXXyZZslPXJ6Dh5l0Uuk",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/championship-chessmate.html",
+         "pubDate" : "Fri, 08 Sep 2023 13:56:00",
+         "title" : "Championship Chessmate"
+      },
+      {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The blitz section of the men's event is being played from Friday to Saturday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
          "pubDate" : "Fri, 08 Sep 2023 11:15:00",
          "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "With a round to go in the pool stage, four teams have already secured their spots in the knockout of the World Women's Team Championship. Kazakhstan, the only team that won all four of their matches so far, and Georgia advanced from Pool A, while the USA and Poland made it to the next stage in Pool B. Besides Egypt, all the remaining squads still have chances to qualify after Friday's fifth round. | Pictured: Alua Nurmanova | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-d2",
+         "pubDate" : "Fri, 08 Sep 2023 11:05:00",
+         "title" : "World Women's Team Ch: Kazakhstan still perfect, USA beat China"
       },
       {
          "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
       },
       {
-         "description" : "The Julius Baer Generation Cup was the fifth event of the 2023 Champions Chess Tour. The tournament, which took place from August 30 to September 3, featured three divisions, each a double-elimination knockout, where if you lose one match you drop to a lower bracket and can still win the tournament. | Replay the games and find brackets for each of the three divisions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-live",
-         "pubDate" : "Sun, 03 Sep 2023 14:50:00",
-         "title" : "Julius Baer Generation Cup - Games and brackets"
-      },
-      {
          "description" : " The Julius Baer Generation Cup took place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. Magnus Carlsen beat Alireza Firouzja 3-0 in the winners final and in an Armageddon in the Grand Final. Ian Nepomniachtchi won Division 2 and Sam Sevian Division 3 after beating Shakhriyar Mamedyarov in a final reset match. Mamedyarov beat him in the Winners final but lost the Grand Final setting up the finale. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day-4-blitz",
          "pubDate" : "Sun, 03 Sep 2023 13:47:28",
          "title" : "Harika, Ju Lead After Tumultuous Day"
-      },
-      {
-         "description" : "2...d6 is Black's favourite Sicilian. In the new CBM #215 Christian Braun presents a concept for White with 3.Nc3 Nf6 4.e5!? that is attractive in various respects: White immediately forces the pace, leads the game into terrain that is often unknown to the opponent and gets \"dynamic and powerful play\" with little risk of his own. You don't need to learn too many variations by heart in this straightforward system either. Take a look at the article in CBM #215 and then do a first practical test on the chess server right away!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/instant-action-in-the-centre",
-         "pubDate" : "Sun, 03 Sep 2023 12:30:00",
-         "title" : "Instant action in the centre!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103327558.cms\" />A day after D Gukesh dethroned Viswanathan Anand, ending the latter's 37-year reign as India's No.1 chess player, the 17-year-old looked committed to refining his game. Gukesh, currently in Kolkata for the Asian Games training camp, revealed on Saturday that he has successfully moved past the disappointment of his recent defeat to Norway's Magnus Carlsen in the World Cup quarterfinals.",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html",
          "pubDate" : "Fri, 18 Aug 2023 15:55:00",
          "title" : "Adsense on CFAA++"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2594",
-         "pubDate" : "Fri, 18 Aug 2023 14:54:48 +0000",
-         "title" : "China Wins FIDE World Youth U16 Olympiad in Eindhoven, the Netherlands"
       }
    ]
 }
