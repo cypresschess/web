@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Not much time, but every now and then you want to get your chess brain working at full speed? In his new YouTube series 'Chess Treats' Oliver Reeh presents explosive positions that require tactical solutions - short, sweet and challenging. Have a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/short-but-sweet-chess-treats-with-oliver-reeh",
+         "pubDate" : "Fri, 08 Sep 2023 08:00:00",
+         "title" : "Short but sweet - chess treats with Oliver Reeh"
+      },
+      {
+         "description" : " The Norwegian, 32, follows up his World Cup victory in Baku by winning the latest leg of the online ChampionsTour, while the former world champion Vladimir Kramnik is displeased at losing to Niemann Magnus Carlsen kept up his current winning run last weekend by taking the $30,000 first prize in the Julius Baer Generation Cup, his third victory on the $2m Champions Tour which ends at Toronto in December. The result follows swiftly on the 32-year-old's <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa\" title=\"\">over-the-board success</a> in last month's knockout World Cup, the only major individual competition he had n",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/sep/08/chess-carlsen-increases-lead-while-niemann-is-involved-in-new-controversy",
+         "pubDate" : "Fri, 08 Sep 2023 07:00:48",
+         "title" : "Chess: Carlsen increases lead while Niemann is involved in new controversy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103494102.cms\" />It took more than 36 years for India to get a new No. 1 player in chess as D Gukesh replaced five-time world champion Viswanathan Anand from the perch last month. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-hopes-to-be-world-chess-champion-one-day/articleshow/103494102.cms",
+         "pubDate" : "Fri, 08 Sep 2023 05:41:50 +0000",
+         "title" : "Gukesh hopes to be world chess champion one day"
+      },
+      {
+         "description" : "~121 players from seven countries to take part at JRD Tata Steel Complex from tomorrow~ Jamshedpur, September 7, 2023: Tata Steel Asian Junior Open and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tata-steel-asian-junior-open-and-girls-chess-championship-declared-open-by-chess-grandmaster-viswanathan-anand/",
+         "pubDate" : "Fri, 08 Sep 2023 04:09:15",
+         "title" : "Tata Steel Asian Junior Open and Girls Chess Championship declared open by Chess Grandmaster Viswanathan Anand"
+      },
+      {
+         "description" : "Live Link Page for TATA Steel Asian Open and Girls Rapid Chess Championship 2023 Open Rapid Chess- Results Link :&#160;https://chess-results.com/tnr812150.aspx?lan=1&#38;art=0&#38;flag=30 Girls Rapid Chess Results",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-tata-steel-asian-open-and-girls-rapid-chess-championship-2023/",
+         "pubDate" : "Fri, 08 Sep 2023 03:54:09",
+         "title" : "Live Games Link for Tata Steel Asian Open and Girls Rapid Chess Championship 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -186,7 +226,7 @@ news_feed (
          "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
       },
       {
-         "description" : "WGM Jennifer Shahade says she was greeted with &#34;hostility instead of support&#34; and &#34;constantly minimized or ignored&#34; by US Chess when she came forward with allegations of sexual assault. The former U.S. Women&#39;s Chess Champion resigned as the Direct...",
+         "description" : "WGM Jennifer Shahade says she was greeted with &#34;hostility instead of support&#34; and &#34;consistently minimized or ignored&#34; by US Chess when she came forward with allegations of sexual assault. The former U.S. Women&#39;s Chess Champion resigned as the Dire...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jennifer-shahade-leaves-us-chess",
@@ -640,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-aims-to-keep-improving-after-becoming-india-no-1-without-sponsorship-support/articleshow/103327558.cms",
          "pubDate" : "Sun, 03 Sep 2023 11:30:02 +0000",
          "title" : "Gukesh aims to keep improving after becoming India No.1"
-      },
-      {
-         "description" : "Divya Deshmukh, a late replacement and the lowest-rated player in the field, won the rapid section of the Tata Steel India tournament. The 17-year-old from Maharashtra outscored some of the strongest women players in the world to finish in sole first place with 7 out of 9 points. Ju Wenjun, who entered the last round tied for first with Divya, grabbed second place. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d3",
-         "pubDate" : "Sun, 03 Sep 2023 01:20:00",
-         "title" : "Divya wins Tata Steel Rapid with splendid performance"
       },
       {
          "description" : "",
@@ -1138,14 +1170,6 @@ news_feed (
          "title" : "Sethuraman wins Indian Championship"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103103469.cms\" />All India Chess Federation (AICF) president Sanjay Kapoor said Indian chess has entered the \"golden era\" and the country will have over a hundred Grandmasters within two years.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-has-entered-golden-era-of-chess-we-will-have-100-gms-soon-aicf-chief-sanjay-kapoor/articleshow/103103469.cms",
-         "pubDate" : "Sun, 27 Aug 2023 09:10:13 +0000",
-         "title" : "India has entered golden era of chess, we will have 100 GMs soon: AICF chief Sanjay Kapoor"
-      },
-      {
          "description" : "Former Asian Champion Grandmaster S P Sethuraman of Petroleum Sports Promotion Board reclaimed the National Champion title after 8 years at the 60th edition of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "A universal history of infamy in chess"
       },
       {
-         "description" : "Indian Team finished on 15th Position in World Youth Chess Olympiad. Indian team drew their last round against 5th seed Hungary and finished on 15th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-9-report-world-youth-olympaid-2023/",
-         "pubDate" : "Sat, 19 Aug 2023 07:30:03",
-         "title" : "Round 9 report- World Youth Olympaid 2023"
-      },
-      {
          "description" : " Semifinals set Carlsen-Caruana favorites Goryachkina faces phenom We are winding down the World Cup and it's been an exciting ride. Only four players remain in the Open section and the top two players in the world are still in the hunt. In fact, Magnus Carlsen and Fabiano Caruana and headed for a showdown if they The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/\">2023 FIDE World Cup: Quarterfinals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1592,22 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2593",
          "pubDate" : "Fri, 18 Aug 2023 10:10:50 +0000",
          "title" : "FIDE World Youth Olympiad 2023: Day 5 Recap"
-      },
-      {
-         "description" : " The world No 1 faces the little-known Nijat Abasov in this weekend's semi-final, while there were four Indian quarter-finalists and no Russians The World Cup knockout is the only major individual chess event that Magnus Carlsen has never won, but this weekend the Norwegian, 32, looks poised to reach the final of the $1.8m, 206-player competition at Baku, Azerbaijan. Carlsen's opponent in the semi-final on Saturday and Sunday, (midday BST start, free live commentary on major chess websites) with possible speed tiebreaks on Monday, is the little-known Azerbaijani Nijat Abasov, 28. The hometown favourite has had the performance of his life, defeating all six of his opponents including the Neth",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/aug/18/chess-carlsen-edges-closer-to-world-cup-as-indians-shine-and-russians-fail",
-         "pubDate" : "Fri, 18 Aug 2023 07:00:43",
-         "title" : "Chess: Carlsen edges closer to World Cup as Indians shine and Russians fail"
-      },
-      {
-         "description" : "As intimated earlier ,please find the venue for National Under 07 Chess Championship 2023 hereunder Hotel The Stadel Vivekananda Yuba Bharati Krirangan,Salt Lake Stadium, Gate",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-07-chess-championship-2023venue-details/",
-         "pubDate" : "Fri, 18 Aug 2023 05:49:28",
-         "title" : "National Under 07 Chess Championship 2023:Venue details"
       }
    ]
 }
