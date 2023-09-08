@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 2004, Vladimir Kramnik and Peter Leko played a match for the World Championship. After a nail-biting series of games, the match ended in a 7-7 draw, with Kramnik retaining his title by winning the 14th game on demand. But Svitlana shows us one of the two wins by Leko (who, incidentally, is celebrating his birthday today!) - a fascinating game with an interesting side story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-epic-world-cup-duel-of-kramnik-and-leko",
+         "pubDate" : "Fri, 08 Sep 2023 21:00:00",
+         "title" : "Svitlana's Smart Moves - The epic World Cup duel of Kramnik and Leko"
+      },
+      {
          "description" : "Today, the nine best players of the USA and Garry Kasparov are starting to show their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
          "pubDate" : "Fri, 08 Sep 2023 19:30:00",
          "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2624",
+         "pubDate" : "Fri, 08 Sep 2023 19:13:51 +0000",
+         "title" : "WWTC 2023: A big upset for India, a huge miracle for Germany"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King focuses on one of Magnus Carlsen's favourite strategies, which he has used with great success throughout his career: asking his opponents uncomfortable questions while remaining safe himself. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-women-2023",
          "pubDate" : "Mon, 4 Sep 2023 09:39:00",
          "title" : "Tata Steel India Rapid & Blitz Women 2023 - Games and Results"
-      },
-      {
-         "description" : "After beating Alireza Firouzja by a convincing 3-0 score in the winners' bracket final of the Generation Cup, Magnus Carlsen saw the youngster setting up a rematch by winning the losers' bracket. In the Grand Final, a much more hard-fought encounter was also won by Carlsen, who defeated Firouzja with black in the Armageddon decider.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2023-d5",
-         "pubDate" : "Mon, 04 Sep 2023 08:10:00",
-         "title" : "Carlsen beats Firouzja in tough match, wins Generation Cup"
       },
       {
          "description" : " It was with a feeling of modified rapture that I greeted the recent news of government funding for chess in England. Increased money for our national teams? Great, as long as it's used wisely. I'm not complaining about that. Chess boards in parks? A pointless gimmick designed to grab headlines which serves little purpose. All <a href=\"https://chessimprover.com/modified-rapture/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Modified Rapture\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/modified-rapture/\">Modified Rapture</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
