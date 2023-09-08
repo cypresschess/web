@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The blitz section of the men's event is being played from Friday to Saturday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Fri, 08 Sep 2023 11:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
+         "pubDate" : "Fri, 08 Sep 2023 08:00:16",
+         "title" : "ECF Membership System: Options for Change - update"
+      },
+      {
          "description" : "Not much time, but every now and then you want to get your chess brain working at full speed? In his new YouTube series 'Chess Treats' Oliver Reeh presents explosive positions that require tactical solutions - short, sweet and challenging. Have a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jennifer-shahade-resigns-from-her-post-as-women-s-program-director-of-us-chess",
          "pubDate" : "Thu, 07 Sep 2023 15:00:00",
          "title" : "Jennifer Shahade resigns from her post as Women's Program Director of US Chess"
-      },
-      {
-         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
-         "pubDate" : "Thu, 07 Sep 2023 14:50:00",
-         "title" : "World Women's Team Championship - Live!"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave scored another 2.5 points on the last day of the 2023 Tata Steel Chess India Open Rapid, winning the event with a round to spare and scoring seven points out of a possible nine. GM Teimour Radjabov was placed second with ...",
@@ -1330,14 +1338,6 @@ news_feed (
          "title" : "FIDE World Junior U20 Championship: Registration extended"
       },
       {
-         "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
-         "pubDate" : "Thu, 24 Aug 2023 09:35:16",
-         "title" : "ECF Membership System: Options for Change"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1600,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2594",
          "pubDate" : "Fri, 18 Aug 2023 14:54:48 +0000",
          "title" : "China Wins FIDE World Youth U16 Olympiad in Eindhoven, the Netherlands"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2593",
-         "pubDate" : "Fri, 18 Aug 2023 10:10:50 +0000",
-         "title" : "FIDE World Youth Olympiad 2023: Day 5 Recap"
       }
    ]
 }
