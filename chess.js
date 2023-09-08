@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, the nine best players of the USA and Garry Kasparov are starting to show their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
+         "pubDate" : "Fri, 08 Sep 2023 19:30:00",
+         "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King focuses on one of Magnus Carlsen's favourite strategies, which he has used with great success throughout his career: asking his opponents uncomfortable questions while remaining safe himself. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-learn-from-carlsen",
+         "pubDate" : "Fri, 08 Sep 2023 18:00:00",
+         "title" : "Daniel King's Power Play Show: Learn from Carlsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103517149.cms\" />Indian Grandmaster R Praggnanandhaa won five consecutive matches in the 'Tata Steel Chess India Blitz 2023', securing a commanding lead of 6.5 points. This impressive performance followed his joint third-place finish in the 'Tata Steel Chess India Rapid 2023'. However, his winning streak was temporarily halted by Russian Grandmaster Alexander Grischuk, who secured a draw in the sixth round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-blitz-praggnanandhaa-scores-five-successive-wins-to-lead-with-6-5-points/articleshow/103517149.cms",
+         "pubDate" : "Fri, 08 Sep 2023 16:21:06 +0000",
+         "title" : "Praggnanandhaa scores five successive wins to lead with 6.5 points"
+      },
+      {
          "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Short but sweet - chess treats with Oliver Reeh"
       },
       {
-         "description" : " The Norwegian, 32, follows up his World Cup victory in Baku by winning the latest leg of the online ChampionsTour, while the former world champion Vladimir Kramnik is displeased at losing to Niemann Magnus Carlsen kept up his current winning run last weekend by taking the $30,000 first prize in the Julius Baer Generation Cup, his third victory on the $2m Champions Tour which ends at Toronto in December. The result follows swiftly on the 32-year-old's <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa\" title=\"\">over-the-board success</a> in last month's knockout World Cup, the only major individual competition he had n",
+         "description" : " The Norwegian, 32, follows up his World Cup victory in Baku by winning the latest leg of the online ChampionsTour, while the former world champion Vladimir Kramnik is displeased at losing to Niemann Magnus Carlsen kept up his current winning run last weekend by taking the $30,000 first prize in the Julius Baer Generation Cup, his third victory on the $2m Champions Tour, which ends at Toronto in December. The result follows swiftly on from the 32-year-old's <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa\" title=\"\">over-the-board success</a> in last month's knockout World Cup, the only major individual competition he",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/sep/08/chess-carlsen-increases-lead-while-niemann-is-involved-in-new-controversy",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "Modified Rapture"
       },
       {
-         "description" : "In this week's column, violence and subtlety are presented side by side - violence from the D&uuml;sseldorf Rapid Team Championship, and subtlety from the sophisticated concept of zugzwang. Find here examples from games by Dommaraju Gukesh and Nihal Sarin, plus remarkable zugzwang positions, including the 'Immortal Zugzwang Game'. | Photos: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-201",
-         "pubDate" : "Sun, 03 Sep 2023 20:00:00",
-         "title" : "Jon Speelman: Violence and subtlety"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103331622.cms\" />It's difficult to keep seasoned campaigners down for long. Grandmasters D Harika and Koneru Humpy proved just that as India's top two women players bounced back in the blitz section of the Tata Steel Chess India tournament after a not-so-good rapid tournament at the Bhasha Bhawan in the National Library of India campus on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -650,28 +666,12 @@ news_feed (
          "title" : "1963 and 1966 Piatigorsky Cups"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 141st instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-141-chess-history-in-a-nutshell-23",
-         "pubDate" : "Sun, 03 Sep 2023 15:00:00",
-         "title" : "Understanding before Moving 141: Chess history in a nutshell (23)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103330396.cms\" />India's R Praggnanandhaa, the 18-year-old chess sensation, may have fallen short of his World Cup title dreams after losing to Magnus Carlsen in the final. Despite losing, Praggnanandhaa emphasized that Carlsen was \"far from invincible.\" He qualified for the Candidates tournament in 2024, where the winner will face China's Ding Liren in the World Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-is-not-invincible-says-praggnanandhaa/articleshow/103330396.cms",
          "pubDate" : "Sun, 03 Sep 2023 14:55:00 +0000",
          "title" : "Magnus Carlsen is not invincible, says Praggnanandhaa"
-      },
-      {
-         "description" : "Presented by the Saint Louis Chess Club, the highly anticipated '2023 Champions Showdown: Chess 9LX' returns this September 8-10, 2023 at the World Chess Hall of Fame with another exciting line-up featuring the top players from the United States, including World No. 3 and reigning World 960 Champion GM Hikaru Nakamura and World No. 2 GM Fabiano Caruana competing alongside legendary former World Champion Garry Kasparov. | Photo: Lennart Ootes (2022)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2023-preview",
-         "pubDate" : "Sun, 03 Sep 2023 14:55:00",
-         "title" : "Chess 9LX: Kasparov amid stellar lineup in Saint Louis"
       },
       {
          "description" : " The Julius Baer Generation Cup took place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. Magnus Carlsen beat Alireza Firouzja 3-0 in the winners final and in an Armageddon in the Grand Final. Ian Nepomniachtchi won Division 2 and Sam Sevian Division 3 after beating Shakhriyar Mamedyarov in a final reset match. Mamedyarov beat him in the Winners final but lost the Grand Final setting up the finale. ",
@@ -1162,14 +1162,6 @@ news_feed (
          "title" : "The Arab Chess Federation"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103107863.cms\" />The stunning progress of teen prodigies R Praggnanandhaa and D Gukesh in international chess has encouraged several parents to consider the sport as a serious 'career option' for their children. Praggnanandhaa caught the imagination of the country when he reached the final of the FIDE World Cup after a sterling run through the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/minimum-investment-deep-dedication-chess-now-offers-a-workable-career-path-for-children/articleshow/103107863.cms",
-         "pubDate" : "Sun, 27 Aug 2023 13:31:29 +0000",
-         "title" : "Minimum investment, deep dedication: Chess now offers a workable career path"
-      },
-      {
          "description" : " The international chess calendar is becoming increasingly crowded, with one event finishing and another starting almost immediately. The World Cup finished late last week, and a number of players headed off to Germany to play the newly created World Rapid Teams Championship. It looks as though anyone could enter a team, and while there are some incredibly strong teams at the top, there are a number of club teams at the tail end of the field. Sitting somewhere in the middle is a team representing the FIDE Management Board, containing 4 GM's an IM, one WFM, and the FIDE President as the reserve player. He has only played 1 game but has a 100% score. He is listed on the team sheet as a FID pla",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1592,14 +1584,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-youth-u16-olympiad-concluded-in-eindhoven-netherlands/",
          "pubDate" : "Fri, 18 Aug 2023 20:01:05",
          "title" : "FIDE World Youth U16 Olympiad concluded in Eindhoven, Netherlands"
-      },
-      {
-         "description" : "Earlier this year, in <A HREF=\"https://chessforallages.blogspot.com/2023/06/tgif-on-cfaa.html\">TGIF on CFAA</A> (June 2023), I wrote, <BLOCKQUOTE> Some of my blog posts are basically notes to myself. This is one of them. </BLOCKQUOTE> <P> This current post is another. To parrot the thought process introduced in the TGIF post, <BLOCKQUOTE> I took three weeks off at the beginning of July and have been scrambling since then to get my blogs back on track. Although you can't see it easily from the dates on the posts, I wrote 21 posts in 25 days and am now caught up. </BLOCKQUOTE> <P> In addition to the actions mentioned in the TGIF post, I need to catch up with new actions from Google ('Your wish",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html",
-         "pubDate" : "Fri, 18 Aug 2023 15:55:00",
-         "title" : "Adsense on CFAA++"
       }
    ]
 }
