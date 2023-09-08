@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2623",
+         "pubDate" : "Fri, 08 Sep 2023 00:27:52 +0000",
+         "title" : "Cape Verde Women's Championship: C&eacute;lia Rodriguez retains title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2622",
          "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
          "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/team-chess-nakamura-caruana-kasparov-more-2023-chess-9lx-ultimate-moves",
          "pubDate" : "Thu, 07 Sep 2023 18:33:18",
          "title" : "Team Chess! Nakamura, Caruana, Kasparov, & More! | 2023 Chess 9LX: Ultimate Moves"
+      },
+      {
+         "description" : "Who knew that the light-hearted Chess Clash event would almost bring the downfall of Chess.com? After CCO Danny Rensch irresponsibly bet the company&#39;s ownership on clan Barbarian&#39;s win, clan King emerged with a victory, giving Ludwig the right to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-clash-2023-recap",
+         "pubDate" : "Thu, 07 Sep 2023 18:27:00",
+         "title" : "$50,000 Donated To Charity As King Clan Wins Chess Clash"
       },
       {
          "description" : "On Friday 8 September, the best players in the USA and Garry Kasparov will begin to explore the depths of Fischer Random Chess (Chess 960 or \"Chess 9LX\") in Saint Louis. They will be competing for a prize fund of no less than $150,000. Before the tournament, however, the players and sponsor Rex Sinquefield want to have some fun with \"Ultimate Moves\". If you want to join in the fun, check out the live video. | The action starts at 13.00 ET (19.00 CEST, 17.00 GMT).",
@@ -102,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-3-rapid",
-         "pubDate" : "Thu, 07 Sep 2023 14:33:28",
+         "pubDate" : "Thu, 07 Sep 2023 14:33:00",
          "title" : "Smooth Round-To-Spare Rapid Title For Vachier-Lagrave"
       },
       {
@@ -112,14 +128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/an-outbreak-of-knight-moving-pawns.html",
          "pubDate" : "Thu, 07 Sep 2023 14:01:00",
          "title" : "An outbreak of knight moving pawns"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The rapid section of the men's event is being played from Tuesday to Thursday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Thu, 07 Sep 2023 11:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "A new facility to inspect the Calculation of Voting Entitlement for Council Members is available in the Council Database here. This enables Council representatives and...",
@@ -634,6 +642,14 @@ news_feed (
          "title" : "Gukesh aims to keep improving after becoming India No.1"
       },
       {
+         "description" : "Divya Deshmukh, a late replacement and the lowest-rated player in the field, won the rapid section of the Tata Steel India tournament. The 17-year-old from Maharashtra outscored some of the strongest women players in the world to finish in sole first place with 7 out of 9 points. Ju Wenjun, who entered the last round tied for first with Divya, grabbed second place. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d3",
+         "pubDate" : "Sun, 03 Sep 2023 01:20:00",
+         "title" : "Divya wins Tata Steel Rapid with splendid performance"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers/",
          "pubDate" : "Thu, 31 Aug 2023 13:02:00",
          "title" : "Julius Baer Generation Cup Div 1 Losers"
-      },
-      {
-         "description" : "What a fortnight it has been for the Indian chess prodigy GM Praggnanandhaa Rameshbabu and his family. First, the 18-year-old made chess history by storming to his first World Cup final in Baku, Azerbaijan, where he suffered a heartbreaking loss t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandaas-exploits-rewarded-indian-star-given-ev-car-and-audience-with-p-m-modi",
-         "pubDate" : "Thu, 31 Aug 2023 12:48:00",
-         "title" : "Hero's Welcome, Audience With Modi And A New Car: Praggnanandaa's Reward For World Cup Exploits"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Tournament to Feature Ten of the Top Chess Players including Legendary World Champion Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
