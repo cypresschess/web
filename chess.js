@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 21.Bxh6! (diagram) Black can't take back, but after 21...g6 White needs a brilliant idea to prevent his attack from going nowhere. Can you deliver?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/attacking-bishops",
+         "pubDate" : "Sat, 09 Sep 2023 09:00:00",
+         "title" : "Attacking bishops"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after going 2-1 on the first day of the 2023 Chess 9LX. 2023.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-time-trouble-play-my-weakness-d1-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fKOavWaSDus.jpg?itok=k0T7ap99\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-time-trouble-play-my-weakness-d1-chess9lx",
+         "pubDate" : "Sat, 09 Sep 2023 03:35:00",
+         "title" : "Aronian: Time Trouble Play is My Weakness | D1 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after going 1-0-2 on the first day of the 2023 Chess 9LX. 2023.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-kasparov-form-one-d1-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fvqBxc_WqLI.jpg?itok=6uXyJ3Dw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-kasparov-form-one-d1-chess9lx",
+         "pubDate" : "Sat, 09 Sep 2023 03:35:00",
+         "title" : "Sevian: Kasparov in Form For This One! | D1 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Cristian Chirila after going 2-0-1 on the first day of the 2023 Chess 9LX. 2023.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-getting-back-points-lost-last-year-d1-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_EWHv1bFJgE.jpg?itok=fK8t1C3N\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-getting-back-points-lost-last-year-d1-chess9lx",
+         "pubDate" : "Sat, 09 Sep 2023 03:35:00",
+         "title" : "Kasparov: Getting Back Points Lost Last Year! | D1 #Chess9LX"
+      },
+      {
          "description" : "The last round of the pool stage was full of unexpected twits and turns at the World Women's Team Championship. In the end, France and Ukraine advanced from Pool A, leaving India out of contention; in Pool B, Germany beat Bulgaria in a nerve-racking match to advance despite having started the event with three losses in a row. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -466,36 +498,12 @@ news_feed (
          "title" : "Anand hopes for consistent show from youngsters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05<br /> Benjamin Bok vs Dariusz Swiercz, Summer Chess Classic (2023): E06 Catalan, closed, 5.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2558990\">https://www.chessgames.com/perl/chessgame?gid=2558990</a><br /> Yasser Quesada vs. Benjamin Bok, 2023: C77 Ruy Lopez, Anderssen variation<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4409772\">https://www.365chess.com/game.php?back=1&amp;gid=4409772</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/outplay-your-opponent-middle-game-grandmasters-choice-gm-benjamin-bok",
-         "pubDate" : "Wed, 06 Sep 2023 00:31:15",
-         "title" : "Outplay Your Opponent in the Middle Game | Grandmaster's Choice - GM Benjamin Bok"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class.<br /> Understand the values of space, color complexes, and subtle moves. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-master-games-beginner-breakdown-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X4kI9cOuc4o.jpg?itok=ZMNivcY7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-master-games-beginner-breakdown-0",
-         "pubDate" : "Wed, 06 Sep 2023 00:31:15",
-         "title" : "Learn From Master Games! | Beginner Breakdown"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2620",
          "pubDate" : "Tue, 05 Sep 2023 23:55:57 +0000",
          "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class on a topic of his choice. 2023.09.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MxvMGHR0E_o.jpg?itok=mbb3NOyP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-benjamin-bok",
-         "pubDate" : "Tue, 05 Sep 2023 21:31:20",
-         "title" : "Grandmaster's Choice - GM Benjamin Bok"
       },
       {
          "description" : "Four players are sharing the lead with 2 out of 3 points after the first day of rapid games in the men's section of the Tata Steel India tournament. Dommaraju Gukesh, Teimour Radjabov, Maxime Vachier-Lagrave (pictured) and Vincent Keymer are the co-leaders. Remarkably, 18-year-old Keymer beat two of his contemporaries, Arjun Erigaisi and Praggnanandhaa Rameshbabu. | Photo: Vivek Sohani",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d5",
          "pubDate" : "Tue, 05 Sep 2023 02:00:00",
          "title" : "Ju Wenjun claims victory at Tata Steel India Blitz"
-      },
-      {
-         "description" : "Dommaraju Gukesh is currently world number eight, with an Elo of 2758. The most amazing thing is that he has just turned seventeen years old! His strongest points are the attack and deep calculation. Vidit Gujrathi, who won the U14 World Championship in 2008, is currently rated 2716. His strengths are advanced tactics and calculations. Both these Indian Super-Grandmasters have produced Fritztrainers for ChessBase, which you can get for a special summer price this week: €64.90 instead of €79.80 for both packages.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indian-summer-special",
-         "pubDate" : "Mon, 04 Sep 2023 18:27:43",
-         "title" : "Indian Summer Special"
       },
       {
          "description" : " One week ago, Chess.com released a statement announcing the reinstatement of Hans Niemann on chess.com and an end to the legal dispute that gripped the chess world for the past year. The revelation raises some questions about how the matter unfolded and whether there was an out-of-court settlement. However, the terms of the agreement were The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/\">Aftermath of Niemann/Chess.com/Carlsen agreement</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
