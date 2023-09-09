@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The nine best players of the USA and Garry Kasparov are showing their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
+         "pubDate" : "Sat, 09 Sep 2023 19:45:00",
+         "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
+      },
+      {
          "description" : "The former Ken Whyld Association has since been renamed the Chess History and Literature Society. Its members meet regularly for exchange, most recently in Belfort, a magical place for bibliophiles and chess historians. The city library administers the 27,000 volumes chess library of the famous collector Dr Jean Mennerat (1917-2007). | Photo: From left to right: Cl&eacute;mence Tariol (curator) and a staff member, Dr Hans Ellinger (Germany), Henri Serruys (Belgium), Dr Jurgen Stigter (Netherlands), Jean-Olivier Leconte (France). ©Herbert Bastian",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/annual-meeting-of-the-ch-ls-in-belfort",
          "pubDate" : "Sat, 09 Sep 2023 17:00:00",
          "title" : "Annual Meeting of the CH&LS in Belfort"
+      },
+      {
+         "description" : "Former World Champion Garry Kasparov stormed in to grab the lead on the first day of the 2023 Champions Showdown: Chess9LX, as he scored two wins, against Wesley So and Ray Robson, along with a draw against Hikaru Nakamura to end the day in clear first place with 2&frac12;/3. Tied for second going into day 2 are Levon Aronian and Sam Sevian, both half a point behind with 2/3. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2023-d1",
+         "pubDate" : "Sat, 09 Sep 2023 16:50:00",
+         "title" : "Chess 9LX: Kasparov in the lead!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103539589.cms\" />World Cup runner-up R Praggnanandhaa secured the highest position among the Indian participants, finishing third overall. Meanwhile, the reigning world champion, Alexander Grischuk, dominated the Open Blitz category to claim the title at the Tata Steel Chess India 2023 event in Kolkata on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-finishes-third-grischuk-takes-open-blitz-title/articleshow/103539589.cms",
+         "pubDate" : "Sat, 09 Sep 2023 15:50:02 +0000",
+         "title" : "Praggnanandhaa finishes third, Grischuk takes Open Blitz title"
       },
       {
          "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-epic-world-cup-duel-of-kramnik-and-leko",
          "pubDate" : "Fri, 08 Sep 2023 21:00:00",
          "title" : "Svitlana's Smart Moves - The epic World Cup duel of Kramnik and Leko"
-      },
-      {
-         "description" : "Today, the nine best players of the USA and Garry Kasparov are starting to show their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
-         "pubDate" : "Fri, 08 Sep 2023 19:30:00",
-         "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
       },
       {
          "description" : "",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2619",
          "pubDate" : "Tue, 05 Sep 2023 11:31:36 +0000",
          "title" : "Vitaly Sivuk wins 2023 Malaysian Open"
-      },
-      {
-         "description" : "Tuesday is the official start of the Women's World Cup in Bydgoszcz. The first two rounds will be played on Wednesday. 12 teams are taking part and the tournament will be played with a preliminary round in two groups, followed by a knockout system. FIDE has announced the line-ups and the draw for the groups.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fide-world-women-s-team-championship-starts-in-bydgoszcz",
-         "pubDate" : "Tue, 05 Sep 2023 09:30:16",
-         "title" : "The FIDE World Women's Team Championship starts in Bydgoszcz"
       },
       {
          "description" : " The Tata Steel India Rapid & Blitz takes place 5th to 9th September 2023. Players: Maxime Vachier-Lagrave, Nodirbek Abdusattorov, Alexander Grischuk, R Praggnanandhaa, Santosh Gujrathi Vidit, Teimour Radjabov, Arjun Erigaisi, D Gukesh, Pentala Harikrishna and Vincent Keymer. ",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners/",
          "pubDate" : "Wed, 30 Aug 2023 15:27:18",
          "title" : "Julius Baer Generation Cup Div 2 Winners"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103213056.cms\" />The young Indian chess prodigy Rameshbabu Praggnanandhaa expressed his delight to see the progress chess is making in the nation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-is-growing-and-i-am-very-happy-to-see-that-r-praggnanandhaa/articleshow/103213056.cms",
-         "pubDate" : "Wed, 30 Aug 2023 11:27:52 +0000",
-         "title" : "'Chess is growing and I am very happy to see that': R Praggnanandhaa"
       },
       {
          "description" : "The Short List this year contains four books covering widely differing aspects of chess, but also in differing sizes ranging from the compact to very...",
