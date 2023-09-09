@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Certificates of SNA Bangalore 26-27 August 2023 Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-bangalore-sna/",
+         "pubDate" : "Sat, 09 Sep 2023 10:29:56",
+         "title" : "Certificates of Bangalore SNA"
+      },
+      {
+         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The blitz section of the men's event is being played from Friday to Saturday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
+         "pubDate" : "Sat, 09 Sep 2023 10:15:00",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "The original Pragmatic Sanction was an edict issued by Holy Roman Emperor Charles VI, on 19 April 1713. It ended that the Habsburg monarchy, the extensive territories of which included the Archduchy of Austria and the Kingdom of Hungary, could be inherited by a daughter - undivided. Division would have irrevocably weakened the Empire, whose []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/praggmatic-sanction-the-ascent-of-an-indian-chess-prodigy/",
+         "pubDate" : "Sat, 09 Sep 2023 09:52:05",
+         "title" : "Praggmatic Sanction: the ascent of an Indian chess prodigy"
+      },
+      {
          "description" : "After 21.Bxh6! (diagram) Black can't take back, but after 21...g6 White needs a brilliant idea to prevent his attack from going nowhere. Can you deliver?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,12 +178,12 @@ news_feed (
          "title" : "Praggnanandhaa Leads Blitz After 5/5 Start"
       },
       {
-         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
-         "pubDate" : "Fri, 08 Sep 2023 14:50:00",
-         "title" : "World Women's Team Championship - Live!"
+         "description" : "Last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> (September 2023), established a plan:- <BLOCKQUOTE> Google's permanent page on the subject [...] sets a deadline: 'Beginning January 16, 2024, publishers and developers using Google AdSense, Ad Manager, or AdMob will be required to use a Consent Management Platform (CMP) [...]'. The page contains a list of 'Google-certified CMPs' that currently has 50 names with a link for each name. Only one of the 50 names was even vaguely familiar to me, 'Google consent management solutions', so no prize for guessing which one I chose to investigate further. [...] That leads to the next ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html",
+         "pubDate" : "Fri, 08 Sep 2023 15:01:00",
+         "title" : "Adsense and CFAA's CMP"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7cxomEZF5OqDQ9POJBOMl8RRf3puPfNklN1uPxSRMqyiDhg-hslIH7A0PamEV46UZmXgbMsggLBh7wjGWlXXyZZslPXJ6Dh5l0UukurwTPiM8_u8pIImeUiDxLJivYKvludYUd3eFw-ZeEnmDEocTbeePQt3BeOAKhebXVHf4rOJP5vpu6w3KjOipDg/s580/m_611d6996ff7c5a200f1f6002.jpeg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"580\" data-original-width=\"580\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7cxomEZF5OqDQ9POJBOMl8RRf3puPfNklN1uPxSRMqyiDhg-hslIH7A0PamEV46UZmXgbMsggLBh7wjGWlXXyZZslPXJ6Dh5l0Uuk",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
          "pubDate" : "Fri, 25 Aug 2023 12:36:05",
          "title" : "Carlsen wins 2023 FIDE World Cup!"
-      },
-      {
-         "description" : "1st National School Under-12, 18 Chess Championship Certificates available to download Link U-12 : https://aicf.online/National-School-Team-12.html Link U-18 : https://aicf.online/National-School-Team-18.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-national-school-under-12-18-chess-championship-certificates/",
-         "pubDate" : "Fri, 25 Aug 2023 12:19:02",
-         "title" : "1st National School Under-12, 18 Chess Championship Certificates"
       },
       {
          "description" : "",
