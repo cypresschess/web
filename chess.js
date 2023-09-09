@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 2 in side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-you-can%E2%80%99t-take-chess-out-garry-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hyMqmNHwCCY.jpg?itok=a728H9YE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-you-can%E2%80%99t-take-chess-out-garry-chess9lx",
+         "pubDate" : "Sat, 09 Sep 2023 21:35:44",
+         "title" : "Kasparov: You Can't Take the Chess Out of Garry | #Chess9LX"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2625",
+         "pubDate" : "Sat, 09 Sep 2023 21:09:27 +0000",
+         "title" : "WWTC 2023: Kazakhstan-France and USA-Georgia to cross swords in semifinal"
+      },
+      {
          "description" : "The nine best players of the USA and Garry Kasparov are showing their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
          "pubDate" : "Sat, 09 Sep 2023 14:50:00",
          "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : "GM Alexander Grischuk confirmed his reputation as a blitz specialist with steady play on the second and final day of the 2023 Tata Steel Chess India Open Blitz, winning the title with a score of 12 points from 18 games. GM Nodirbek Abdusattorov an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-blitz",
+         "pubDate" : "Sat, 09 Sep 2023 14:27:13",
+         "title" : "Grischuk Wins Blitz Title Edging Out Abdusattorov And Praggnanandhaa"
       },
       {
          "description" : "If you are playing chess online, you most likely are familiar with Chess.com. It is the biggest platform with over 100 Million active users. You can play games for free or decide to step up and get a paid membership. So you might ask yourself: are these memberships worth it? In this review, I compare []",
@@ -328,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d8",
          "pubDate" : "Thu, 07 Sep 2023 20:00:00",
          "title" : "MVL wins Tata Steel India Rapid with a round to spare"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/ultimate-moves/round-1/MzzC1jzs\">https://lichess.org/broadcast/ultimate-moves/round-1/MzzC1jzs</a> Live from the World Chess Hall of Fame, before Chess 9LX, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent, Edward Jones Financial Advisor Alex Kerford, draft the world's best players (rosters below) to join them on their teams. Join GM Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/team-chess-nakamura-caruana-kasparov-more-2023-chess-9lx-ultimate-moves",
-         "pubDate" : "Thu, 07 Sep 2023 18:33:18",
-         "title" : "Team Chess! Nakamura, Caruana, Kasparov, & More! | 2023 Chess 9LX: Ultimate Moves"
       },
       {
          "description" : "Who knew that the light-hearted Chess Clash event would almost bring the downfall of Chess.com? After CCO Danny Rensch irresponsibly bet the company&#39;s ownership on clan Barbarian&#39;s win, clan King emerged with a victory, giving Ludwig the right to ...",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2617",
          "pubDate" : "Fri, 01 Sep 2023 07:55:13 +0000",
          "title" : "FIDE September 2023 rating list: Gukesh debuts in top 10, Praggnanandhaa enters top 20"
-      },
-      {
-         "description" : "Sound the war drums! A hoard of giants, goblins, P.E.K.K.A., and other magical creatures has invaded Chess.com. Get your army ready and prepare to storm the castle of the new Clash of Clan bots on our Play Computer page.&#38;nbsp; Fight your way ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/clash-chess-bots",
-         "pubDate" : "Fri, 01 Sep 2023 07:01:00",
-         "title" : "Battle The New Clash Of Clans Bots"
       },
       {
          "description" : " The 20-year-old had a subdued return at Titled Tuesday, but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in ",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2023/08/20/cfc-responds-to-the-fide-ban/",
          "pubDate" : "Sun, 20 Aug 2023 00:00:00",
          "title" : "CFC Response to the FIDE Ban on Transgender Women Competing in Women's Events"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2595",
-         "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
-         "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
       }
    ]
 }
