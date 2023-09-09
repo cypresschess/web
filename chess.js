@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The former Ken Whyld Association has since been renamed the Chess History and Literature Society. Its members meet regularly for exchange, most recently in Belfort, a magical place for bibliophiles and chess historians. The city library administers the 27,000 volumes chess library of the famous collector Dr Jean Mennerat (1917-2007). | Photo: From left to right: Cl&eacute;mence Tariol (curator) and a staff member, Dr Hans Ellinger (Germany), Henri Serruys (Belgium), Dr Jurgen Stigter (Netherlands), Jean-Olivier Leconte (France). ©Herbert Bastian",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/annual-meeting-of-the-ch-ls-in-belfort",
+         "pubDate" : "Sat, 09 Sep 2023 17:00:00",
+         "title" : "Annual Meeting of the CH&LS in Belfort"
+      },
+      {
+         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
+         "pubDate" : "Sat, 09 Sep 2023 14:50:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : "If you are playing chess online, you most likely are familiar with Chess.com. It is the biggest platform with over 100 Million active users. You can play games for free or decide to step up and get a paid membership. So you might ask yourself: are these memberships worth it? In this review, I compare []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-com-membership/",
+         "pubDate" : "Sat, 09 Sep 2023 12:00:24",
+         "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
+      },
+      {
          "description" : "Certificates of SNA Bangalore 26-27 August 2023 Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -602,14 +626,6 @@ news_feed (
          "title" : "Tata Steel India Rapid & Blitz Open 2023 - Games and Results"
       },
       {
-         "description" : "In endgames, the king is indeed a powerful piece. In the diagram position it is Black to move and he found a way to show the strength of his king and to win the game. What did Black do to let his king rule?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-king-rules",
-         "pubDate" : "Tue, 05 Sep 2023 09:00:00",
-         "title" : "The king rules"
-      },
-      {
          "description" : " \"Do not go where the path may lead, go instead where there is no path and leave a trail.\" Ralph Waldo Emerson The beginning of a new correspondence chess tournament is of great importance. You need to prepare for all games because they all start in the same time. It is a good idea to <a href=\"https://chessimprover.com/the-closed-sicilian/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Closed Sicilian\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-closed-sicilian/\">The Closed Sicilian</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-the-potential-to-become-world-champion-praggnanandhaa/articleshow/103380168.cms",
          "pubDate" : "Tue, 05 Sep 2023 05:49:06 +0000",
          "title" : "I have the potential to become world champion: Praggnanandhaa"
-      },
-      {
-         "description" : "In the rapid section of the Tata Steel India Tournament, Ju Wenjun was outscored by Divya Deshmukh. In blitz, however, the women's world champion was the strongest and won with 12&frac12;/ out of 18 points, finishing ahead of Humpy Koneru and Harika Dronavalli. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d5",
-         "pubDate" : "Tue, 05 Sep 2023 02:00:00",
-         "title" : "Ju Wenjun claims victory at Tata Steel India Blitz"
       },
       {
          "description" : " One week ago, Chess.com released a statement announcing the reinstatement of Hans Niemann on chess.com and an end to the legal dispute that gripped the chess world for the past year. The revelation raises some questions about how the matter unfolded and whether there was an out-of-court settlement. However, the terms of the agreement were The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/\">Aftermath of Niemann/Chess.com/Carlsen agreement</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1576,30 +1584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2595",
          "pubDate" : "Sat, 19 Aug 2023 20:18:51 +0000",
          "title" : "FIDE World Cup Roud 7 Day 1: Carlsen and Muzychuk win their games as others end in a draw"
-      },
-      {
-         "description" : "Many chess players struggle with solving tactics, remembering opening lines, analyzing their losses, you name it. But some have difficulty with something seemingly super easy: taking a rest. In this article, I want to show you how important rest is for your health &#38; improvement and how you rest the right way. The Power of []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/boost-your-chess-performance-the-unexpected-power-of-rest/",
-         "pubDate" : "Sat, 19 Aug 2023 12:00:00",
-         "title" : "Boost Your Chess Performance: The Unexpected Power of Breaks & Rest"
-      },
-      {
-         "description" : " One of the advantage of Round Robin play is you cn prep for a specific opponent, or prepare a set of openings. Capablanca famously used to choose a set of openings to use in an event, usually sticking with those openings until the end. In yet another game from the <i>Looking For Gamers</i> round robin, Harry Press chooses to push the d pawn in the Ruy Lopez, without playing c3 first. While this does not give White any particular advantage, it has the benefit of throwing off an equally well prepared opponent. <br /> <b>Press,Harry - Badrinarayan,Sankeertan [C88]</b><br /> LFG, 18.08.2023 <script> new PgnViewer( { boardName: \"game1417\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.B",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/prep-pays-off.html",
-         "pubDate" : "Sat, 19 Aug 2023 11:44:00",
-         "title" : "Prep pays off"
-      },
-      {
-         "description" : "With the advent of Soviet hegemony in chess, instances of cheating and collusion became easier both to implement and to disguise, given the proliferation of Soviet Grandmasters in official tournaments. The 1962 Candidates Tournament to decide the challenger for the world championship provided one of the most flagrant examples of such Soviet collusion. The top three, all []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-universal-history-of-infamy-in-chess/",
-         "pubDate" : "Sat, 19 Aug 2023 11:32:14",
-         "title" : "A universal history of infamy in chess"
       }
    ]
 }
