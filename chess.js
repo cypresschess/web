@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The last round of the pool stage was full of unexpected twits and turns at the World Women's Team Championship. In the end, France and Ukraine advanced from Pool A, leaving India out of contention; in Pool B, Germany beat Bulgaria in a nerve-racking match to advance despite having started the event with three losses in a row. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-d3",
+         "pubDate" : "Sat, 09 Sep 2023 02:30:00",
+         "title" : "World Women's Team Ch: Germany leave Bulgaria out of contention"
+      },
+      {
+         "description" : "Praggnanandhaa Rameshbabu had a strong showing on day 1 of the Tata Steel India Blitz tournament. The youngster grabbed five wins in a row at the start of the event, but then suffered a few setbacks, which did not prevent him from ending the day as the sole leader. Vidit Gujrathi and Alexander Grischuk are sharing second place a half point behind Pragg. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d9",
+         "pubDate" : "Sat, 09 Sep 2023 01:30:00",
+         "title" : "Tata Steel India: Pragg leads, Vidit and Grischuk close behind"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-2-kasparov-leads-fischer-random-w-usas-best",
+         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
+         "title" : "2023 Chess 9LX: Day 2 | Kasparov Leads Fischer Random w/ USA's Best!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 1 in a side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-960-players-have-figure-it-out-over-board-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8VSF6IHzfWE.jpg?itok=gVb8e2XN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-960-players-have-figure-it-out-over-board-chess9lx",
+         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
+         "title" : "Nakamura on 960: Players Have to Figure It Out Over The Board | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 1 in a side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-fischer-random-study-sessions-i-camaraderie-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SobKj6D0tZI.jpg?itok=lOToZLsP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-fischer-random-study-sessions-i-camaraderie-chess9lx",
+         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
+         "title" : "Wesley So on Fischer Random Study Sessions: I Like the Camaraderie | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.08<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-1-fischer-random-w-usas-best-kasparov",
+         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
+         "title" : "2023 Chess 9LX: Day 1 | Fischer Random w/ USA's Best & Kasparov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the final three rounds, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-3-grand-finale",
+         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
+         "title" : "2023 Chess 9LX: Day 3 | The Grand Finale!"
+      },
+      {
          "description" : " The Champions Showdown 9LX takes place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest is the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I'm very limited in the coverage I can mount as I can't display Chess960 games, but I can provide a download.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,6 +98,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Learn from Carlsen"
       },
       {
+         "description" : "Against GM Dmitry Andreikin, GM Alireza Firouzja won the closest Round of 16 match in the season so far in the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The final score was just a one-point difference, 13.5-12.5. Although Fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-firouzja-andreikin",
+         "pubDate" : "Fri, 08 Sep 2023 16:50:00",
+         "title" : "Firouzja Underpromotes Pawn To Knight In Last Game To Win By 1 Point"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103517149.cms\" />Indian Grandmaster R Praggnanandhaa won five consecutive matches in the 'Tata Steel Chess India Blitz 2023', securing a commanding lead of 6.5 points. This impressive performance followed his joint third-place finish in the 'Tata Steel Chess India Rapid 2023'. However, his winning streak was temporarily halted by Russian Grandmaster Alexander Grischuk, who secured a draw in the sixth round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,14 +136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/championship-chessmate.html",
          "pubDate" : "Fri, 08 Sep 2023 13:56:00",
          "title" : "Championship Chessmate"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The blitz section of the men's event is being played from Friday to Saturday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Fri, 08 Sep 2023 11:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "With a round to go in the pool stage, four teams have already secured their spots in the knockout of the World Women's Team Championship. Kazakhstan, the only team that won all four of their matches so far, and Georgia advanced from Pool A, while the USA and Poland made it to the next stage in Pool B. Besides Egypt, all the remaining squads still have chances to qualify after Friday's fifth round. | Pictured: Alua Nurmanova | Photo: Michal Walusza",
@@ -162,20 +218,20 @@ news_feed (
          "title" : "2023 Chess 9LX: Day 2"
       },
       {
-         "description" : "Maxime Vachier-Lagrave won the Tata Steel Chess India Rapid with 7 points and an undefeated performance. The Frenchman distanced himself from the rest of the field by 1&frac12; points with a round to spare. Teimour Radjabov finished in sole second place with 5&frac12; points, while Praggnanandha Rameshbabu, Alexander Grischuk and Vidit Gujrathi scored 5 points each. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d8",
-         "pubDate" : "Thu, 07 Sep 2023 20:00:00",
-         "title" : "MVL wins Tata Steel India Rapid with a round to spare"
-      },
-      {
          "description" : "In the latest edition of his Fast & Furious series, Robert Ris takes a look at a double-edged opening that at first glance seems rather dubious: the Norwegian Rat (1.e4 g6 2.d4 Nf6 3.e5 Nh5), which Carlsen and other strong players have tried with surprising success. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-creative-the-norwegian-rat",
          "pubDate" : "Thu, 07 Sep 2023 20:00:00",
          "title" : "Robert Ris' Fast and Furious: Creative - The Norwegian Rat"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave won the Tata Steel Chess India Rapid with 7 points and an undefeated performance. The Frenchman distanced himself from the rest of the field by 1&frac12; points with a round to spare. Teimour Radjabov finished in sole second place with 5&frac12; points, while Praggnanandha Rameshbabu, Alexander Grischuk and Vidit Gujrathi scored 5 points each. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d8",
+         "pubDate" : "Thu, 07 Sep 2023 20:00:00",
+         "title" : "MVL wins Tata Steel India Rapid with a round to spare"
       },
       {
          "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/ultimate-moves/round-1/MzzC1jzs\">https://lichess.org/broadcast/ultimate-moves/round-1/MzzC1jzs</a> Live from the World Chess Hall of Fame, before Chess 9LX, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent, Edward Jones Financial Advisor Alex Kerford, draft the world's best players (rosters below) to join them on their teams. Join GM Cristian Chirila for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
@@ -546,14 +602,6 @@ news_feed (
          "title" : "Ju Wenjun claims victory at Tata Steel India Blitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class about the preparation of top tournament chess players. 2023.08.31<br /> Anish Giri vs Dommaraju Gukesh, Tata Steel Masters (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2453794\">https://www.chessgames.com/perl/chessgame?gid=2453794</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-anish-giri-prepares-prepare-pro-gm-benjamin-bok\"><img src=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-anish-giri-prepares-prepare-pro-gm-benjamin-bok",
-         "pubDate" : "Tue, 05 Sep 2023 00:29:45",
-         "title" : "How Anish Giri Prepares | Prepare Like A Pro - GM Benjamin Bok"
-      },
-      {
          "description" : "Dommaraju Gukesh is currently world number eight, with an Elo of 2758. The most amazing thing is that he has just turned seventeen years old! His strongest points are the attack and deep calculation. Vidit Gujrathi, who won the U14 World Championship in 2008, is currently rated 2716. His strengths are advanced tactics and calculations. Both these Indian Super-Grandmasters have produced Fritztrainers for ChessBase, which you can get for a special summer price this week: €64.90 instead of €79.80 for both packages.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nakamura-yu",
          "pubDate" : "Mon, 04 Sep 2023 17:19:00",
          "title" : "Nakamura Plays Opening Bingo To Beat Yu"
-      },
-      {
-         "description" : "On 1st September FIDE published its new rating list. Magnus Carlsen is still the clear number one, although he only gained 4 rating points by winning the prestigious World Cup. Carlsen tops the list with a rating of 2839 points, 53 points ahead of Fabiano Caruana, who has replaced Hikaru Nakamura as world number 2.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-september-2023",
-         "pubDate" : "Mon, 04 Sep 2023 17:15:01",
-         "title" : "FIDE ratings September 2023"
       },
       {
          "description" : "GM Nikita Vitiugov, the Russian Champion in 2021 and current world number 25, became the most significant transfer from Russia since the invasion of Ukraine, as his switch to England was officially confirmed by FIDE last week. Vitiugov, who hail...",
@@ -890,28 +930,12 @@ news_feed (
          "title" : "37 years - How the world changed as Anand stayed constant on top of Indian chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok teaches a chess class about the preparation of top tournament chess players. 2023.08.31<br /> Anish Giri vs Dommaraju Gukesh, Tata Steel Masters (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2453794\">https://www.chessgames.com/perl/chessgame?gid=2453794</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok\"><img",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-top-chess-players-prepare-prepare-pro-gm-benjamin-bok",
-         "pubDate" : "Fri, 01 Sep 2023 00:26:02",
-         "title" : "How Top Chess Players Prepare | Prepare Like A Pro - GM Benjamin Bok"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103256772.cms\" />Indian youngsters continue to make waves as just days after 18-year-old Grandmaster R Praggnanandhaa qualified for the Candidates meet, 17-year-old Divya Deshmukh and 20-year-old Vantika Agarwal ended Day I of the women's rapid section of Tata Steel Chess India tournament on the top of table with 2.5 points after three rounds on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-youngsters-shine-on-opening-day-of-tata-chess/articleshow/103256772.cms",
          "pubDate" : "Thu, 31 Aug 2023 17:11:09 +0000",
          "title" : "Indian youngsters shine on opening day of Tata Chess"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Alireza Firouzja will throw down in the Division I Winners Final of the 2023 Julius Baer Generation Cup after defeating, respectively, GMs Fabiano Caruana&#38;nbsp;and Wesley So. Carlsen won the first two games with ease, essayi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-2",
-         "pubDate" : "Thu, 31 Aug 2023 15:59:00",
-         "title" : "Carlsen Beats Caruana, Will Play Firouzja In Winners Final"
       },
       {
          "description" : "I can start this month's post on Yahoos [see the footnote for an explanation of 'Yahoos'] by repeating a sentence from last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/07/blocks-of-yahoos.html\">Blocks of Yahoos</A> (July 2023):- <BLOCKQUOTE> For this current post Google News again 'returned blocks of stories on two specific chess topics' [note to self: find out what Google calls these sections]. Before I look at those, let's have the usual statistics. </BLOCKQUOTE> <P> Change 'two' to 'three' and the sentence becomes 100% accurate. First, here are the stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh31.gif\" WIDTH=200 HEIGHT=220 ALIGN=LEFT VSPACE=5 HSPACE=5> Thi",
@@ -986,14 +1010,6 @@ news_feed (
          "title" : "Julius Baer Generation Cup Div 1 Losers"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tournament to Feature Ten of the Top Chess Players including Legendary World Champion Garry Kasparov </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-host-champions-showdown-chess-9lx",
-         "pubDate" : "Wed, 30 Aug 2023 20:33:02",
-         "title" : "Saint Louis Chess Club To Host Champions Showdown: Chess 9LX"
-      },
-      {
          "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1056,22 +1072,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-praggnanandhaa-receives-heros-welcome-after-fide-world-cup-success/articleshow/103198303.cms",
          "pubDate" : "Wed, 30 Aug 2023 06:00:51 +0000",
          "title" : "WATCH: Praggnanandhaa receives hero's welcome after WC success"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at his fifth round game against Sam Sevian from the 2023 Spring Chess Classic tournament in Saint Louis. Bok went on to win the event after an unprecedented five-way playoff. 2023.08.29<br /> Benjamin Bok vs. Sam Sevian, 2023: E04 Catalan, open, 5.Nf3<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4408148\">https://www.365chess.com/game.php?back=1&amp;gid=4408148</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zugz",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zugzwang-torture-spring-chess-classic-grandmasters-choice-gm-benjamin-bok",
-         "pubDate" : "Wed, 30 Aug 2023 03:24:45",
-         "title" : "Zugzwang Torture at the Spring Chess Classic! | Grandmaster's Choice - GM Benjamin Bok"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Benjamin Bok looks at games from the 2023 Spring and Summer Chess Classic tournaments in Saint Louis. Bok went on to win the former event after an unprecedented five-way playoff. 2023.08.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XoDO08Ym6I.",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bok-2023-saint-louis-chess-classics-grandmasters-choice-gm-benjamin-bok",
-         "pubDate" : "Wed, 30 Aug 2023 00:24:36",
-         "title" : "Bok at the 2023 Saint Louis Chess Classics | Grandmaster's Choice - GM Benjamin Bok"
       },
       {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
@@ -1584,14 +1584,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-universal-history-of-infamy-in-chess/",
          "pubDate" : "Sat, 19 Aug 2023 11:32:14",
          "title" : "A universal history of infamy in chess"
-      },
-      {
-         "description" : " Semifinals set Carlsen-Caruana favorites Goryachkina faces phenom We are winding down the World Cup and it's been an exciting ride. Only four players remain in the Open section and the top two players in the world are still in the hunt. In fact, Magnus Carlsen and Fabiano Caruana and headed for a showdown if they The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/\">2023 FIDE World Cup: Quarterfinals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/18/2023-fide-world-cup-quarterfinals/",
-         "pubDate" : "Sat, 19 Aug 2023 00:26:07",
-         "title" : "2023 FIDE World Cup: Quarterfinals"
       }
    ]
 }
