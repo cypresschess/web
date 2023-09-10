@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Blitz tournament came to an end after rounds 10 to 18 were played on Saturday. Russian grandmaster Alexander Grischuk was the outright winner with a 12/18 score. Grischuk finished ahead of Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu, who both collected 11/18 points. Arjun Erigaisi and rapid-tournament winner Maxime Vachier-Lagrave were the two remaining players to end with a plus score. | Photo: Vivek Sohani",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d10",
+         "pubDate" : "Sun, 10 Sep 2023 03:30:00",
+         "title" : "Alexander Grischuk wins Tata Steel Chess India Blitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after defeating Hikaru Nakamura on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-epic-takedown-chess-speedster-nakamura-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MYNqnswaolY.jpg?itok=IQwj9JJK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shanklands-epic-takedown-chess-speedster-nakamura-d2-chess9lx",
+         "pubDate" : "Sun, 10 Sep 2023 00:36:02",
+         "title" : "Shankland's Epic Takedown of Chess Speedster Nakamura! | D2 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Garry Kasparov on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-stunning-resurrection-vs-kasparovs-unbeatable-position-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RkIiolIZ864.jpg?itok=hkOU7P0x\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanas-stunning-resurrection-vs-kasparovs-unbeatable-position-d2-chess9lx",
+         "pubDate" : "Sun, 10 Sep 2023 00:36:02",
+         "title" : "Caruana's Stunning Resurrection vs. Kasparov's Unbeatable Position! | D2 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Sam Shankland on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sos-thrilling-win-vs-shanklands-pawn-sacrifice-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1iRO9Vp7ygw.jpg?itok=TDzq3drY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sos-thrilling-win-vs-shanklands-pawn-sacrifice-d2-chess9lx",
+         "pubDate" : "Sun, 10 Sep 2023 00:36:02",
+         "title" : "So's Thrilling Win vs. Shankland's Pawn Sacrifice! | D2 #Chess9LX"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 2 in side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-you-can%E2%80%99t-take-chess-out-garry-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hyMqmNHwCCY.jpg?itok=a728H9YE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
          "pubDate" : "Sat, 09 Sep 2023 19:45:00",
          "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
+      },
+      {
+         "description" : "GM Nihal Sarin claimed his first Bullet Brawl title on Saturday and scooped the $400 first prize after accruing 200 points in the two-hour arena, seven points ahead of the two-time winner GM Jose Martinez. GM Oleksandr Bortnyk outlasted GMs Rena...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-september-9-2023",
+         "pubDate" : "Sat, 09 Sep 2023 17:08:28",
+         "title" : "Nihal Scores 65 Wins In Bullet Brawl Masterclass"
       },
       {
          "description" : "The former Ken Whyld Association has since been renamed the Chess History and Literature Society. Its members meet regularly for exchange, most recently in Belfort, a magical place for bibliophiles and chess historians. The city library administers the 27,000 volumes chess library of the famous collector Dr Jean Mennerat (1917-2007). | Photo: From left to right: Cl&eacute;mence Tariol (curator) and a staff member, Dr Hans Ellinger (Germany), Henri Serruys (Belgium), Dr Jurgen Stigter (Netherlands), Jean-Olivier Leconte (France). ©Herbert Bastian",
@@ -170,22 +210,6 @@ news_feed (
          "title" : "Wesley So on Fischer Random Study Sessions: I Like the Camaraderie | #Chess9LX"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.08<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-1-fischer-random-w-usas-best-kasparov",
-         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
-         "title" : "2023 Chess 9LX: Day 1 | Fischer Random w/ USA's Best & Kasparov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the final three rounds, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-3-grand-finale",
-         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
-         "title" : "2023 Chess 9LX: Day 3 | The Grand Finale!"
-      },
-      {
          "description" : " The Champions Showdown 9LX takes place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest is the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I'm very limited in the coverage I can mount as I can't display Chess960 games, but I can provide a download.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -328,14 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2622",
          "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
          "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (roster below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com ROUND 4 | 20 Min. Incr. 5 Sec.<br /> Sam Shankland vs.<br /> Leinier Dominguez<br /> Fabiano Caruana<br /> vs. Hikaru Nakamura Sam Sevian<br /> vs. Wesley So<br /> Levon Aronian vs.<br /> Garry Kasparov<br /> Jeffery Xiong<br /> vs. Ray Robson </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-2",
-         "pubDate" : "Thu, 07 Sep 2023 21:33:20",
-         "title" : "2023 Chess 9LX: Day 2"
       },
       {
          "description" : "In the latest edition of his Fast & Furious series, Robert Ris takes a look at a double-edged opening that at first glance seems rather dubious: the Norwegian Rat (1.e4 g6 2.d4 Nf6 3.e5 Nh5), which Carlsen and other strong players have tried with surprising success. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d6",
          "pubDate" : "Tue, 05 Sep 2023 19:10:00",
          "title" : "Tata Steel India: Four co-leaders, Keymer starts strong"
-      },
-      {
-         "description" : "1993 was a particularly memorable year in chess history. Short and Kasparov had decided to leave FIDE and organise their World Championship match on their own, and FIDE, with its then President Campomanes, then organised an alternative World Championship match with Karpov and Timman. But this was not under a good star. During the opening ceremony pyrotechnics set fire to a banner on the stage.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/30-years-ago-two-world-championship-matches-in-the-same-year",
-         "pubDate" : "Tue, 05 Sep 2023 17:52:16",
-         "title" : "30 years ago: Two World Championship matches in the same year"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103405005.cms\" />The focus was on the rising superstars of Indian chess, but Grandmasters R Praggnanandhaa and Arjun Erigaisi failed to shine on the opening day of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Tuesday.",
@@ -936,14 +944,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-felicitates-gm-praggnanandhaa-chess-ace-confident-of-winning-asiad-gold/articleshow/103278620.cms",
          "pubDate" : "Fri, 01 Sep 2023 09:01:31 +0000",
          "title" : "Anurag Thakur felicitates GM Praggnanandhaa, chess ace confident of winning Asiad gold"
-      },
-      {
-         "description" : "For 37 years, Indian chess has had one unwavering constant: the legendary GM Viswanathan Anand is king. With the release of FIDE&#39;s latest official rating list on Friday, that has now changed. There is a new kid on the block. GM Gukesh D, the 17-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-ends-anands-37-year-reign",
-         "pubDate" : "Fri, 01 Sep 2023 08:48:48",
-         "title" : "Gukesh Ends Anand's 37-Year Reign As India's Official Number 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103277876.cms\" />In a historic shift, 17-year-old Grandmaster D Gukesh has taken over the mantle as India's top chess player, ending Viswanathan Anand's remarkable reign that spanned over three decades.",
@@ -1568,22 +1568,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-new-chess-club-for-children/",
          "pubDate" : "Sun, 20 Aug 2023 12:27:49",
          "title" : "A New Chess Club for Children"
-      },
-      {
-         "description" : " Greetings! I'm Inez Kelley, sister to Armand Kelley a member of the NYC chess community. For those who know, Armand passed in 2019. Since that time we've organized chess events in his memory. This year and with the collaboration of Aggrey Duncan and CHESS ON THE MOVE we are excited to present &#8216;Battle of The The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/\">Battle of the Masters: NYC Blitz Chess Match!!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/19/battle-of-the-masters-nyc-blitz-chess-match/",
-         "pubDate" : "Sun, 20 Aug 2023 02:52:25",
-         "title" : "Battle of the Masters: NYC Blitz Chess Match!!"
-      },
-      {
-         "description" : "The Chess Federation of Canada disagrees with and is disappointed by the FIDE decision to ban transgender women from competing in women&rsquo;s chess events. We disagree with the way it was implemented, involving the banning of transgender women and subsequently studying the issue to arrive at a final decision. This decision came as a surprise, with no prior discussion or indication that this action was being considered. There were no exigent circumstances that we are aware of that would require such a drastic action.",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2023/08/20/cfc-responds-to-the-fide-ban/",
-         "pubDate" : "Sun, 20 Aug 2023 00:00:00",
-         "title" : "CFC Response to the FIDE Ban on Transgender Women Competing in Women's Events"
       }
    ]
 }
