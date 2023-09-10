@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The quarterfinals of the World Women's Team Championship took place on Saturday. Georgia got the better of China; the United States eliminated Ukraine; France knocked out Poland; and Kazakhstan beat Germany. In the semifinals, Georgia will face the United States, and France will face Kazakhstan. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-qf",
+         "pubDate" : "Sun, 10 Sep 2023 09:00:00",
+         "title" : "World Women's Team Ch: Kazakhstan, France, USA and Georgia in semis"
+      },
+      {
+         "description" : "Five rounds have been already played at the European Youth Chess Championship 2023 in Mamaia, Romania, and only four rounds left to be played before the announcement of the Winners. Most of the categories still have the shared lead with the open battles for the throne, but a few players emerged as the sole leaders of the event. Scoring perfect 5/5 points, Artem Kucher (UKR) and Andria Jakhaia (GEO) tie for the top of the Open U8 section. They are []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-is-halfway-through/",
+         "pubDate" : "Sun, 10 Sep 2023 07:07:14",
+         "title" : "European Youth Chess Championship 2023 is halfway through"
+      },
+      {
          "description" : "The Tata Steel Chess India Blitz tournament came to an end after rounds 10 to 18 were played on Saturday. Russian grandmaster Alexander Grischuk was the outright winner with a 12/18 score. Grischuk finished ahead of Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu, who both collected 11/18 points. Arjun Erigaisi and rapid-tournament winner Maxime Vachier-Lagrave were the two remaining players to end with a plus score. | Photo: Vivek Sohani",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,19 +106,11 @@ news_feed (
          "title" : "Praggnanandhaa finishes third, Grischuk takes Open Blitz title"
       },
       {
-         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
-         "pubDate" : "Sat, 09 Sep 2023 14:50:00",
-         "title" : "World Women's Team Championship - Live!"
-      },
-      {
          "description" : "GM Alexander Grischuk confirmed his reputation as a blitz specialist with steady play on the second and final day of the 2023 Tata Steel Chess India Open Blitz, winning the title with a score of 12 points from 18 games. GM Nodirbek Abdusattorov an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-blitz",
-         "pubDate" : "Sat, 09 Sep 2023 14:27:13",
+         "pubDate" : "Sat, 09 Sep 2023 14:27:00",
          "title" : "Grischuk Wins Blitz Title Edging Out Abdusattorov And Praggnanandhaa"
       },
       {
@@ -112,14 +120,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-com-membership/",
          "pubDate" : "Sat, 09 Sep 2023 12:00:24",
          "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
-      },
-      {
-         "description" : "Certificates of SNA Bangalore 26-27 August 2023 Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-bangalore-sna/",
-         "pubDate" : "Sat, 09 Sep 2023 10:29:56",
-         "title" : "Certificates of Bangalore SNA"
       },
       {
          "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The blitz section of the men's event is being played from Friday to Saturday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
@@ -1312,6 +1312,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
          "pubDate" : "Fri, 25 Aug 2023 12:36:05",
          "title" : "Carlsen wins 2023 FIDE World Cup!"
+      },
+      {
+         "description" : "1st National School Under-12, 18 Chess Championship Certificates available to download Link U-12 : https://aicf.online/National-School-Team-12.html Link U-18 : https://aicf.online/National-School-Team-18.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-national-school-under-12-18-chess-championship-certificates/",
+         "pubDate" : "Fri, 25 Aug 2023 12:19:02",
+         "title" : "1st National School Under-12, 18 Chess Championship Certificates"
       },
       {
          "description" : "",
