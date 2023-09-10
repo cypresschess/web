@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The nine best players of the USA and Garry Kasparov are showing their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
+         "pubDate" : "Sun, 10 Sep 2023 19:45:00",
+         "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
+      },
+      {
          "description" : "Are chess players ice-cold creatures who always make their decisions at the board out of pure calculation? Of course not, even Magnus Carlsen is not emotionless, says GM Jan Markos in his contribution to the current ChessBase Magazine #215. In fact, very different emotions can influence decision-making in chess - often to one's own disadvantage. Markos presents three examples of this from his own practice and explores the question of how the influence of emotions can be counteracted. You can watch an excerpt from his video contribution here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,7 +226,7 @@ news_feed (
          "title" : "Tata Steel India: Pragg leads, Vidit and Grischuk close behind"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link ",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-2-kasparov-leads-fischer-random-w-usas-best",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-chesskid-youth-speed-chess-championship-final",
          "pubDate" : "Wed, 06 Sep 2023 14:49:00",
          "title" : "Rising Talents, Tactical Masterminds: Mendes Wins ChessKid YSCC"
-      },
-      {
-         "description" : "The new ChessBase Magazine #215 offers, among other things, 36 extensively annotated games. More than half of them build the \"Special\" of this issue: an exclusive collection of outstanding games by Hikaru Nakamura! In addition, Anish Giri, Grigoriy Oparin, Ivan Cheparinov, Thai Dai Van Nguyen et al. provide analyses from Norway Chess 2023 and Sharjah Masters 2023. Arjun Erigaisi played a brilliancy against Vladislav Kovalev in Sharjah - you can find an abridged version of his analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigiaisi-one-of-my-best-games",
-         "pubDate" : "Wed, 06 Sep 2023 14:00:00",
-         "title" : "Arjun Erigaisi: \"One of my best games\""
       },
       {
          "description" : "GM Nihal Sarin is through to the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. He defeated GM Alexey Sarana with a final score of 16-10 after winning all three segments despite a brief internet connectivity sc...",
@@ -1560,22 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2597",
          "pubDate" : "Sun, 20 Aug 2023 20:29:12 +0000",
          "title" : "FIDE World Cup Round 7 Day 2: Anna Muzychuk wins bronze "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2596",
-         "pubDate" : "Sun, 20 Aug 2023 16:33:13 +0000",
-         "title" : "5th FIDE World Championship for People with Disabilities starts in Lublin, Poland"
-      },
-      {
-         "description" : "For this month's Flickr favorite, I had another AI image on the short list, <A HREF=\"https://www.flickr.com/photos/ryfont/53091099421/\">DALL-E 2023-02-04 23.17.22 - A picture of two AIs playing chess</A> (flickr.com), which came with another half-dozen images in the same series. This latest DALL-E example wasn't nearly as compelling as the previous examples, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023), so I went with a different composite. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh20.jpg\" WIDTH=400 HEIGHT=220><BR> <B>Upper right:</B> <A HREF=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/chess-sets-are-real-deal.html",
-         "pubDate" : "Sun, 20 Aug 2023 15:31:00",
-         "title" : "Chess Sets Are the Real Deal"
       }
    ]
 }
