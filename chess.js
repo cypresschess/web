@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 2-1 on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesleys-thrilling-win-vs-shanklands-pawn-sacrifice-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1iRO9Vp7ygw.jpg?itok=TDzq3drY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesleys-thrilling-win-vs-shanklands-pawn-sacrifice-d2-chess9lx",
+         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
+         "title" : "Wesley's Thrilling Win vs. Shankland's Pawn Sacrifice! | D2 #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 2 in side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-let%E2%80%99s-try-classical-960-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v-70NAZA5X4.jpg?itok=j3eIHrko\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-let%E2%80%99s-try-classical-960-chess9lx",
+         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
+         "title" : "Dominguez: Let's Try Classical 960 | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. &amp; U.S. Women's Championships are two round robin tournaments (fields below). Join a commentary team TBA for the move-by-move. 2022.10.05<br /> USChessChamps.com U.S. CHESS CHAMPIONSHIP<br /> Fabiano Caruana<br /> Wesley So<br /> Levon Aronian<br /> Leinier Dominguez<br /> Sam Shankland<br /> Sam Sevian<br /> Hans Niemann<br /> Ray Robson<br /> Dariusz Swiercz<br /> Jeffery Xiong<br /> Abhimanyu Mishra<br /> Andrew Hong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-1",
+         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
+         "title" : "2023 U.S. Chess Championships: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-7/cs14MQaY\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-7/c...</a> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the final three rounds, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-3-who-wins-it-all-sevian-caruana-or-shankland",
+         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
+         "title" : "2023 Chess 9LX: Day 3 | Who Wins It All? Sevian, Caruana, or Shankland?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2626",
+         "pubDate" : "Sun, 10 Sep 2023 21:10:28 +0000",
+         "title" : "WWTC 2023: Georgia and Kazakhstan to fight for the gold"
+      },
+      {
          "description" : "The nine best players of the USA and Garry Kasparov are showing their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +114,7 @@ news_feed (
          "title" : "Alexander Grischuk wins Tata Steel Chess India Blitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after defeating Hikaru Nakamura on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-epic-takedown-chess-speedster-nakamura-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MYNqnswaolY.jpg?itok=IQwj9JJK\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after going 2-1 on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shanklands-epic-takedown-chess-speedster-nakamura-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MYNqnswaolY.jpg?itok=IQwj9JJK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/shanklands-epic-takedown-chess-speedster-nakamura-d2-chess9lx",
@@ -82,7 +122,7 @@ news_feed (
          "title" : "Shankland's Epic Takedown of Chess Speedster Nakamura! | D2 #Chess9LX"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Garry Kasparov on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-stunning-resurrection-vs-kasparovs-unbeatable-position-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RkIiolIZ864.jpg?itok=hkOU7P0x\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 2-1 on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-stunning-resurrection-vs-kasparovs-unbeatable-position-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RkIiolIZ864.jpg?itok=hkOU7P0x\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/caruanas-stunning-resurrection-vs-kasparovs-unbeatable-position-d2-chess9lx",
@@ -202,14 +242,6 @@ news_feed (
          "title" : "Sevian: Kasparov in Form For This One! | D1 #Chess9LX"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Cristian Chirila after going 2-0-1 on the first day of the 2023 Chess 9LX. 2023.09.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-getting-back-points-lost-last-year-d1-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_EWHv1bFJgE.jpg?itok=fK8t1C3N\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-getting-back-points-lost-last-year-d1-chess9lx",
-         "pubDate" : "Sat, 09 Sep 2023 03:35:00",
-         "title" : "Kasparov: Getting Back Points Lost Last Year! | D1 #Chess9LX"
-      },
-      {
          "description" : "The last round of the pool stage was full of unexpected twits and turns at the World Women's Team Championship. In the end, France and Ukraine advanced from Pool A, leaving India out of contention; in Pool B, Germany beat Bulgaria in a nerve-racking match to advance despite having started the event with three losses in a row. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,30 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d9",
          "pubDate" : "Sat, 09 Sep 2023 01:30:00",
          "title" : "Tata Steel India: Pragg leads, Vidit and Grischuk close behind"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-2-kasparov-leads-fischer-random-w-usas-best",
-         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
-         "title" : "2023 Chess 9LX: Day 2 | Kasparov Leads Fischer Random w/ USA's Best!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 1 in a side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-960-players-have-figure-it-out-over-board-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8VSF6IHzfWE.jpg?itok=gVb8e2XN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-960-players-have-figure-it-out-over-board-chess9lx",
-         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
-         "title" : "Nakamura on 960: Players Have to Figure It Out Over The Board | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 1 in a side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-fischer-random-study-sessions-i-camaraderie-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SobKj6D0tZI.jpg?itok=lOToZLsP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-fischer-random-study-sessions-i-camaraderie-chess9lx",
-         "pubDate" : "Sat, 09 Sep 2023 00:34:50",
-         "title" : "Wesley So on Fischer Random Study Sessions: I Like the Camaraderie | #Chess9LX"
       },
       {
          "description" : " The Champions Showdown 9LX takes place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest is the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I'm very limited in the coverage I can mount as I can't display Chess960 games, but I can provide a download.",
@@ -1552,14 +1560,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38233706/2023-chess-world-cup-r-praggnanandhaa-play-magnus-carlsen-stuns-fabiano-caruana?device=featurephone",
          "pubDate" : "Mon, 21 Aug 2023 13:26:04",
          "title" : "Chess WC: Pragg stuns Caruana to reach final vs Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2597",
-         "pubDate" : "Sun, 20 Aug 2023 20:29:12 +0000",
-         "title" : "FIDE World Cup Round 7 Day 2: Anna Muzychuk wins bronze "
       }
    ]
 }
