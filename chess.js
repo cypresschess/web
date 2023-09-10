@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian and Sam Sevian managed to overtake the lead after an exciting day 2 in the 2023 Champions Showdown: Chess 9LX, going into Sunday's final rounds with 4&frac12;/6. A full point behind the leaders are Fabiano Caruana, Wesley So, and Sam Shankland, each with 3&frac12;/6, while former World Champion Garry Kasparov stumbled after leading day 1, scoring only &frac12;/3 to end the day on 3/6. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2023-d2",
+         "pubDate" : "Sun, 10 Sep 2023 12:00:00",
+         "title" : "Chess 9LX: Aronian and Sevian share the lead"
+      },
+      {
          "description" : "The quarterfinals of the World Women's Team Championship took place on Saturday. Georgia got the better of China; the United States eliminated Ukraine; France knocked out Poland; and Kazakhstan beat Germany. In the semifinals, Georgia will face the United States, and France will face Kazakhstan. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2625",
          "pubDate" : "Sat, 09 Sep 2023 21:09:27 +0000",
          "title" : "WWTC 2023: Kazakhstan-France and USA-Georgia to cross swords in semifinal"
-      },
-      {
-         "description" : "The nine best players of the USA and Garry Kasparov are showing their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
-         "pubDate" : "Sat, 09 Sep 2023 19:45:00",
-         "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
       },
       {
          "description" : "GM Nihal Sarin claimed his first Bullet Brawl title on Saturday and scooped the $400 first prize after accruing 200 points in the two-hour arena, seven points ahead of the two-time winner GM Jose Martinez. GM Oleksandr Bortnyk outlasted GMs Rena...",
