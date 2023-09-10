@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Are chess players ice-cold creatures who always make their decisions at the board out of pure calculation? Of course not, even Magnus Carlsen is not emotionless, says GM Jan Markos in his contribution to the current ChessBase Magazine #215. In fact, very different emotions can influence decision-making in chess - often to one's own disadvantage. Markos presents three examples of this from his own practice and explores the question of how the influence of emotions can be counteracted. You can watch an excerpt from his video contribution here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-deal-with-emotions-in-chess",
+         "pubDate" : "Sun, 10 Sep 2023 15:00:00",
+         "title" : "\"How to deal with emotions in chess\""
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 142nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-142-chess-history-in-a-nutshell-24",
+         "pubDate" : "Sun, 10 Sep 2023 15:00:00",
+         "title" : "Understanding before Moving 142: Chess history in a nutshell (24)"
+      },
+      {
+         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
+         "pubDate" : "Sun, 10 Sep 2023 14:50:00",
+         "title" : "World Women's Team Championship - Live!"
+      },
+      {
+         "description" : " The idea of settling a chess related dispute through playing a match goes a long way back, and at least has the befit of being less violent than actually shooting at each other. Indeed there seems to be a current dispute in Australian chess involving this conflict resolution, although it seems the lower rated player is not so keen on accepting the challenge (Noting that some point the past the same player had challenged other, lower rated players to matches in a similar way!). Of course the risk is that it actually doesn't settle much, as shown by an old joke I found in \"Chess with the Masters\" by Martin Behim. Burletzki (a coffee house player) arranged a 6 game match with a German master n",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/pistols-at-dawn.html",
+         "pubDate" : "Sun, 10 Sep 2023 14:00:00",
+         "title" : "Pistols at dawn?"
+      },
+      {
          "description" : "Levon Aronian and Sam Sevian managed to overtake the lead after an exciting day 2 in the 2023 Champions Showdown: Chess 9LX, going into Sunday's final rounds with 4&frac12;/6. A full point behind the leaders are Fabiano Caruana, Wesley So, and Sam Shankland, each with 3&frac12;/6, while former World Champion Garry Kasparov stumbled after leading day 1, scoring only &frac12;/3 to end the day on 3/6. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,22 +578,6 @@ news_feed (
          "title" : "Nihal Beats Sarana, Wins All 3 Segments With 16-10 Final Score"
       },
       {
-         "description" : "There has been an official announcement from the UK Government of a package of measures that will support the England teams, our best juniors, new tournaments and our deaf and blind players. This is the culmination of a 25-year quest and a 12-month-long campaign. Initiator Malcolm Pein tells us how it all came about and what it means for the future of British chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-future-of-english-chess",
-         "pubDate" : "Wed, 06 Sep 2023 11:55:00",
-         "title" : "The future of English chess"
-      },
-      {
-         "description" : "The first two rounds of the Women's Team World Championship get underway this afternoon in Bydgoszcz. The tournament starts with two groups of six teams each. The top four teams will progress to the knockout stage. The event was officially opened yesterday. | Photos: Michal Walusza (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-women-s-team-championship-2023-starts-in-bydgoszcz-poland",
-         "pubDate" : "Wed, 06 Sep 2023 11:51:36",
-         "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
-      },
-      {
          "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
       },
       {
-         "description" : "Four players are sharing the lead with 2 out of 3 points after the first day of rapid games in the men's section of the Tata Steel India tournament. Dommaraju Gukesh, Teimour Radjabov, Maxime Vachier-Lagrave (pictured) and Vincent Keymer are the co-leaders. Remarkably, 18-year-old Keymer beat two of his contemporaries, Arjun Erigaisi and Praggnanandhaa Rameshbabu. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d6",
-         "pubDate" : "Tue, 05 Sep 2023 19:10:00",
-         "title" : "Tata Steel India: Four co-leaders, Keymer starts strong"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103405005.cms\" />The focus was on the rising superstars of Indian chess, but Grandmasters R Praggnanandhaa and Arjun Erigaisi failed to shine on the opening day of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -637,7 +645,7 @@ news_feed (
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/couldnt-have-asked-for-a-better-indian-chess-team-for-asian-games-viswanathan-anand/articleshow/103401941.cms",
+         "link" : "https://timesofindia.indiatimes.com/couldnt-have-asked-for-a-better-indian-chess-team-for-asian-games-viswanathan-anand/articleshow/103401941.cms",
          "pubDate" : "Tue, 05 Sep 2023 14:04:35 +0000",
          "title" : "Couldn't have asked for a better team for Asian Games: Anand"
       },
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/08/chess-sets-are-real-deal.html",
          "pubDate" : "Sun, 20 Aug 2023 15:31:00",
          "title" : "Chess Sets Are the Real Deal"
-      },
-      {
-         "description" : " 48 years ago, my late friend Mike Fox and I were discussing starting a junior chess club. This would become Richmond Junior Chess Club, which is still going strong today, although I no longer have any connection with it. If you're in my part of the world and are looking for a professionally run centre <a href=\"https://chessimprover.com/a-new-chess-club-for-children/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A New Chess Club for Children\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-new-chess-club-for-children/\">A New Chess Club for Children</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-new-chess-club-for-children/",
-         "pubDate" : "Sun, 20 Aug 2023 12:27:49",
-         "title" : "A New Chess Club for Children"
       }
    ]
 }
