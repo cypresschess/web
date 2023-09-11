@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Champions Showdown 9LX took place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest was the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I was very limited in the coverage I could mount as I can't display Chess960 games, but I did provide a download. Sam Sevian was the surprise clear winner of the event. Kasparov led after day 1 but then only picked up another half a point. I'd lo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2023",
+         "pubDate" : "Mon, 11 Sep 2023 21:21:00",
+         "title" : "Champions Showdown 9LX 2023 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2630",
+         "pubDate" : "Mon, 11 Sep 2023 21:12:24 +0000",
+         "title" : "Georgia wins the FIDE World Women's Team Championship 2023"
+      },
+      {
          "description" : "Ian Nepomniachtchi won Division II of the Julius Baer Generation Cup, remaining in the winners' bracket and obtaining clear match victories throughout the event. The Russian GM had a hiccup in the quarterfinals though, as Vladimir Fedoseev swindled his way to victory amid a sharp struggle in their first encounter. Nepo bounced back in style, winning the next three games - but he is sure to remember the striking turnaround! | Robert Ris analysed the tactical confrontation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-swindle-of-the-year",
          "pubDate" : "Mon, 11 Sep 2023 17:00:00",
          "title" : "Robert Ris: The swindle of the year!"
+      },
+      {
+         "description" : "GM Fabiano Caruana will face five-time SCC Champion Hikaru Nakamura in the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. Caruana defeated GM Nodirbek Abdusattorov with a score of 13.5-10.5 in the Round of 16.&#38;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-abdusattorov-caruana",
+         "pubDate" : "Mon, 11 Sep 2023 16:05:03",
+         "title" : "Caruana Reaches Quarterfinals Match Vs. Nakamura, Knocks Out Abdusattorov"
       },
       {
          "description" : "Chess is a game of imbalances, and depending on the circumstances a piece is sometimes strong and sometimes weak. Jan Markos explains how to take advantage of these imbalances, focusing on the battle of a rook against two minor pieces. | Photo: Alan Light, CC BY-SA 3.0 via Wikimedia Commons ",
@@ -352,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d9",
          "pubDate" : "Sat, 09 Sep 2023 01:30:00",
          "title" : "Tata Steel India: Pragg leads, Vidit and Grischuk close behind"
-      },
-      {
-         "description" : " The Champions Showdown 9LX takes place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest is the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I'm very limited in the coverage I can mount as I can't display Chess960 games, but I can provide a download.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2023",
-         "pubDate" : "Fri, 8 Sep 2023 21:21:00",
-         "title" : "Champions Showdown 9LX 2023 - Games and Results"
       },
       {
          "description" : "In 2004, Vladimir Kramnik and Peter Leko played a match for the World Championship. After a nail-biting series of games, the match ended in a 7-7 draw, with Kramnik retaining his title by winning the 14th game on demand. But Svitlana shows us one of the two wins by Leko (who, incidentally, is celebrating his birthday today!) - a fascinating game with an interesting side story.",
@@ -978,14 +994,6 @@ news_feed (
          "title" : "Announcing The 2023 Create Your Own Course Contest With GM Maurice Ashley"
       },
       {
-         "description" : "GM&#38;nbsp;Magnus Carlsen reached the Division I Grand Final of the 2023 Julius Baer Generation Cup after defeating GM Alireza Firouzja with a hat trick, 3-0 with no fourth game. By stark contrast, youth beat experience in the Losers Bracket. GM No...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-3",
-         "pubDate" : "Fri, 01 Sep 2023 15:18:00",
-         "title" : "Carlsen Sweeps Firouzja 3-0: 'It's Just Me Against The Kids Now!'"
-      },
-      {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> (August 2023), I wrote, <BLOCKQUOTE> Ads are related to cookies. It's been eight years since the last time I looked at the European cookie monster. [...] Since then, the European Union has introduced the GDPR, which stands for <I>General Data Protection Regulation</I> (wikipedia.org). The CMP requirements are a response to the GDPR. What does that entail for small web sites like mine? I'll look at that in the next post. </BLOCKQUOTE> <P> A few months ago Google introduced a new requirement. <UL> <LI> 2023-05-16: <A HREF=\"https://blog.google/products/admanager/new-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-2023/",
          "pubDate" : "Tue, 22 Aug 2023 10:21:37",
          "title" : "21st European Union Youth Chess Championship 2023 -"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2598",
-         "pubDate" : "Mon, 21 Aug 2023 19:58:08 +0000",
-         "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
       }
    ]
 }
