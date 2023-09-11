@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship between Garry Kasparov and Viswanathan Anand. The two faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page. | Photo Michael Foran",
+         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
-         "pubDate" : "Mon, 11 Sep 2023 09:00:00",
+         "pubDate" : "Mon, 11 Sep 2023 10:08:12",
          "title" : "How I experienced 9/11"
+      },
+      {
+         "description" : "Bangalore National Arbiter Seminar, 26-17 AUG 2023 Certificates are out to download Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/bangalore-sna-certificates/",
+         "pubDate" : "Mon, 11 Sep 2023 09:50:39",
+         "title" : "Bangalore SNA Certificates"
+      },
+      {
+         "description" : "We are pleased to announce that England Women's team for the European Team Chess Championship is &#8212; IM Jovanka Houska 2340 IM Harriet Hunt 2316...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-womens-team-announcement/",
+         "pubDate" : "Mon, 11 Sep 2023 08:52:21",
+         "title" : "England Women's Team Announcement"
       },
       {
          "description" : "Sam Sevian won the 2023 Champions Showdown after a brilliant final day, where he defeated both Garry Kasparov and Fabiano Caruana to finish with 7/9 points and take home the $37,500 first place prize. Sam Shankland, Wesley So and Levon Aronian shared second place with 6/9 points each. | Photo: Lennart Ootes",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-xiong-trained-960-month-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 03:37:32",
          "title" : "EXCLUSIVE! Xiong: Trained in 960 for a Month | #Chess9LX"
+      },
+      {
+         "description" : "Social media posts claiming Netflix&#39; The Queen&#39;s Gambit is returning for a season 2, have in the last months gone viral. But sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; a post from the Facebook group Netflix Daily Updates th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/no-there-is-no-season-2-of-queens-gambit-coming",
+         "pubDate" : "Mon, 11 Sep 2023 03:18:20",
+         "title" : "No, There Is No Season 2 Of Queen's Gambit Coming"
       },
       {
          "description" : "Both semifinals at the World Women's Team Championship in Bydgoszcz were decided in blitz tiebreakers. After trading wins in the two rapid sets, Kazakhstan and Georgia obtained clear wins in the 3-minute games that decided the matches. France and the United States will fight for bronze on Monday, starting one hour earlier than usual, at 14.00 CEST (8.00 ET, 17.30 IST). | Photo: Michal Walusza",
@@ -117,6 +141,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2629",
+         "pubDate" : "Mon, 11 Sep 2023 00:22:36 +0000",
+         "title" : "Sam Sevian wins 2023 Champions Showdown Chess 9LX"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2628",
          "pubDate" : "Mon, 11 Sep 2023 00:03:06 +0000",
          "title" : "Portuguese Championship: Jos&eacute; Guilherme Santos wins maiden title"
@@ -128,6 +160,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2626",
          "pubDate" : "Sun, 10 Sep 2023 21:10:28 +0000",
          "title" : "WWTC 2023: Georgia and Kazakhstan to fight for the gold"
+      },
+      {
+         "description" : "At the recently concluded <A HREF=\"https://en.wikipedia.org/wiki/Chess_World_Cup_2023\">Chess World Cup 2023</A> (wikipedia.org), India's Praggnanandhaa, who turned 18-years old during the tournament, was runner-up. He lost to former World Champion Magnus Carlsen in the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/MyJFtIy2BqI?si=G3htVIdzaDZ0hSMU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Praggnanandhaa Asks: How To Handle Tension in a Game? | Chess World Cup</B> (6:58) &#149; '[Published on] Aug 24, 2023' <P> Th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/let-others-say-youre-champion.html",
+         "pubDate" : "Sun, 10 Sep 2023 15:36:00",
+         "title" : "'Let Others Say You're a Champion'"
       },
       {
          "description" : "Are chess players ice-cold creatures who always make their decisions at the board out of pure calculation? Of course not, even Magnus Carlsen is not emotionless, says GM Jan Markos in his contribution to the current ChessBase Magazine #215. In fact, very different emotions can influence decision-making in chess - often to one's own disadvantage. Markos presents three examples of this from his own practice and explores the question of how the influence of emotions can be counteracted. You can watch an excerpt from his video contribution here.",
@@ -954,14 +994,6 @@ news_feed (
          "title" : "Adsense and the CMP"
       },
       {
-         "description" : "WGM Divya Deshmukh bulldozed over the field with three impressive victories in three games on day two to take the sole lead with a score of 5.5/6 in the Tata Steel Chess India Women&#39;s Rapid tournament. Women&#39;s World Champion Ju Wenjun had another ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day2",
-         "pubDate" : "Fri, 01 Sep 2023 12:59:00",
-         "title" : "Divya Deshmukh's Dazzling Day"
-      },
-      {
          "description" : "The European Youth Chess Championship 2023 kicks off on Tuesday, 5th of September, in Mamaia, Romania. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately), from 5-14 September, at the Ceremony Hall Dorna. Each category will feature 9 rounds played in the swiss system, with the time control of 90 minutes + 30 seconds increment for each move, starting from the move one. More than 900 players coming []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1344,14 +1376,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
          "pubDate" : "Fri, 25 Aug 2023 12:36:05",
          "title" : "Carlsen wins 2023 FIDE World Cup!"
-      },
-      {
-         "description" : "1st National School Under-12, 18 Chess Championship Certificates available to download Link U-12 : https://aicf.online/National-School-Team-12.html Link U-18 : https://aicf.online/National-School-Team-18.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-national-school-under-12-18-chess-championship-certificates/",
-         "pubDate" : "Fri, 25 Aug 2023 12:19:02",
-         "title" : "1st National School Under-12, 18 Chess Championship Certificates"
       },
       {
          "description" : "",
