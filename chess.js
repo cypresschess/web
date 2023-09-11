@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship between Garry Kasparov and Viswanathan Anand. The two faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page. | Photo Michael Foran",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
+         "pubDate" : "Mon, 11 Sep 2023 09:00:00",
+         "title" : "How I experienced 9/11"
+      },
+      {
          "description" : "Sam Sevian won the 2023 Champions Showdown after a brilliant final day, where he defeated both Garry Kasparov and Fabiano Caruana to finish with 7/9 points and take home the $37,500 first place prize. Sam Shankland, Wesley So and Levon Aronian shared second place with 6/9 points each. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2023-d3",
          "pubDate" : "Mon, 11 Sep 2023 04:00:00",
          "title" : "Sevian beats Kasparov and Caruana to win Chess 9LX tournament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-robson-much-less-pressure-here-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZfwAGwK54Go.jpg?itok=OdDHgW8v\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-robson-much-less-pressure-here-chess9lx",
+         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
+         "title" : "EXCLUSIVE! Robson: Much Less Pressure Here | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-sevian-15-minutes-nothing-study-new-position-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H_e19Spgp9M.jpg?itok=nzp-aVkx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-sevian-15-minutes-nothing-study-new-position-chess9lx",
+         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
+         "title" : "EXCLUSIVE! Sevian: 15 Minutes is Nothing to Study a New Position! | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-shankland-talent-over-hard-work-960-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ioqOTgXBMlo.jpg?itok=6aKeJBNk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-shankland-talent-over-hard-work-960-chess9lx",
+         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
+         "title" : "EXCLUSIVE! Shankland: Talent Over Hard Work in 960 | #Chess9LX"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-xiong-trained-960-month-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KlhLBcPryyo.jpg?itok=ovsprUGj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-xiong-trained-960-month-chess9lx",
+         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
+         "title" : "EXCLUSIVE! Xiong: Trained in 960 for a Month | #Chess9LX"
       },
       {
          "description" : "Both semifinals at the World Women's Team Championship in Bydgoszcz were decided in blitz tiebreakers. After trading wins in the two rapid sets, Kazakhstan and Georgia obtained clear wins in the 3-minute games that decided the matches. France and the United States will fight for bronze on Monday, starting one hour earlier than usual, at 14.00 CEST (8.00 ET, 17.30 IST). | Photo: Michal Walusza",
@@ -80,38 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2628",
          "pubDate" : "Mon, 11 Sep 2023 00:03:06 +0000",
          "title" : "Portuguese Championship: Jos&eacute; Guilherme Santos wins maiden title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 2-1 on the second day of the 2023 Chess 9LX. 2023.09.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesleys-thrilling-win-vs-shanklands-pawn-sacrifice-d2-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1iRO9Vp7ygw.jpg?itok=TDzq3drY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesleys-thrilling-win-vs-shanklands-pawn-sacrifice-d2-chess9lx",
-         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
-         "title" : "Wesley's Thrilling Win vs. Shankland's Pawn Sacrifice! | D2 #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 2 in side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-let%E2%80%99s-try-classical-960-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v-70NAZA5X4.jpg?itok=j3eIHrko\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-let%E2%80%99s-try-classical-960-chess9lx",
-         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
-         "title" : "Dominguez: Let's Try Classical 960 | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. &amp; U.S. Women's Championships are two round robin tournaments (fields below). Join a commentary team TBA for the move-by-move. 2022.10.05<br /> USChessChamps.com U.S. CHESS CHAMPIONSHIP<br /> Fabiano Caruana<br /> Wesley So<br /> Levon Aronian<br /> Leinier Dominguez<br /> Sam Shankland<br /> Sam Sevian<br /> Hans Niemann<br /> Ray Robson<br /> Dariusz Swiercz<br /> Jeffery Xiong<br /> Abhimanyu Mishra<br /> Andrew Hong </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-1",
-         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
-         "title" : "2023 U.S. Chess Championships: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-7/cs14MQaY\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-7/c...</a> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the final three rounds, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-chess-9lx-day-3-who-wins-it-all-sevian-caruana-or-shankland",
-         "pubDate" : "Sun, 10 Sep 2023 21:36:56",
-         "title" : "2023 Chess 9LX: Day 3 | Who Wins It All? Sevian, Caruana, or Shankland?"
       },
       {
          "description" : "",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2621",
          "pubDate" : "Wed, 06 Sep 2023 22:06:03 +0000",
          "title" : "World Women's Team Championship: USA, China and Kazakhstan lead after Day 1"
-      },
-      {
-         "description" : "The World Cup had it's fair share of underdog surprises in the first round. Robert Ris decided to pick a game from round three, though! Anish Giri faced Nijat Abasov, and in the tiebreaker, the GM from Azerbaijan played aggressive moves, which caused a lot of trouble for Giri. Ris shows us exactly, how the 150 points weaker player won impressively.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/giri-s-world-cup-struggle-the-underdog",
-         "pubDate" : "Wed, 06 Sep 2023 18:43:19",
-         "title" : "Giri's World Cup Struggle - The Underdog"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103442226.cms\" />India's new No. 1 player D Gukesh slipped as Maxime Vachier-Lagrave grabbed the sole lead at the end of Day II of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Wednesday.",
