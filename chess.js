@@ -90,7 +90,7 @@ news_feed (
          "title" : "EXCLUSIVE! Xiong: Trained in 960 for a Month | #Chess9LX"
       },
       {
-         "description" : "Social media posts claiming Netflix&#39; The Queen&#39;s Gambit is returning for a season 2, have in the last months gone viral. But sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; a post from the Facebook group Netflix Daily Updates th...",
+         "description" : "Social media posts claiming Netflix&#39;s The Queen&#39;s Gambit is returning for a second season have gone viral in the last months. Sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; claimed a post from the Facebook group Netflix Daily U...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/no-there-is-no-season-2-of-queens-gambit-coming",
@@ -271,7 +271,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-september-9-2023",
          "pubDate" : "Sat, 09 Sep 2023 17:08:28",
-         "title" : "Nihal Scores 65 Wins In Bullet Brawl Masterclass"
+         "title" : "Nihal Streams For First Time in 3 Years, Wins In Bullet Brawl Masterclass"
       },
       {
          "description" : "The former Ken Whyld Association has since been renamed the Chess History and Literature Society. Its members meet regularly for exchange, most recently in Belfort, a magical place for bibliophiles and chess historians. The city library administers the 27,000 volumes chess library of the famous collector Dr Jean Mennerat (1917-2007). | Photo: From left to right: Cl&eacute;mence Tariol (curator) and a staff member, Dr Hans Ellinger (Germany), Henri Serruys (Belgium), Dr Jurgen Stigter (Netherlands), Jean-Olivier Leconte (France). ©Herbert Bastian",
