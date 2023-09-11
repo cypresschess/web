@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi won Division II of the Julius Baer Generation Cup, remaining in the winners' bracket and obtaining clear match victories throughout the event. The Russian GM had a hiccup in the quarterfinals though, as Vladimir Fedoseev swindled his way to victory amid a sharp struggle in their first encounter. Nepo bounced back in style, winning the next three games - but he is sure to remember the striking turnaround! | Robert Ris analysed the tactical confrontation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-swindle-of-the-year",
+         "pubDate" : "Mon, 11 Sep 2023 17:00:00",
+         "title" : "Robert Ris: The swindle of the year!"
+      },
+      {
+         "description" : "Chess is a game of imbalances, and depending on the circumstances a piece is sometimes strong and sometimes weak. Jan Markos explains how to take advantage of these imbalances, focusing on the battle of a rook against two minor pieces. | Photo: Alan Light, CC BY-SA 3.0 via Wikimedia Commons ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-23-bishop-and-knight-against-a-rook",
+         "pubDate" : "Mon, 11 Sep 2023 16:00:00",
+         "title" : "The Winning Academy 23: Bishop and knight against a rook"
+      },
+      {
          "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
-         "pubDate" : "Mon, 11 Sep 2023 10:08:12",
+         "pubDate" : "Mon, 11 Sep 2023 13:55:00",
          "title" : "How I experienced 9/11"
+      },
+      {
+         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
+         "pubDate" : "Mon, 11 Sep 2023 13:50:00",
+         "title" : "World Women's Team Championship - Live!"
       },
       {
          "description" : "Bangalore National Arbiter Seminar, 26-17 AUG 2023 Certificates are out to download Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -70,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/no-there-is-no-season-2-of-queens-gambit-coming",
-         "pubDate" : "Mon, 11 Sep 2023 03:18:20",
+         "pubDate" : "Mon, 11 Sep 2023 03:18:00",
          "title" : "No, There Is No Season 2 Of Queen's Gambit Coming"
       },
       {
@@ -568,30 +592,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/voting-calculations-for-the-year-september-2023-to-august-2024/",
          "pubDate" : "Thu, 07 Sep 2023 10:54:35",
          "title" : "Voting calculations for the year September 2023 to August 2024"
-      },
-      {
-         "description" : "In his Game of the Week show #584, Merijn Van Delft takes a look at a game Jan-Krzysztof Duda and Gukesh played at the FIDE World Rapid Team Championships in D&uuml;sseldorf, a fine example of defense and counterattack. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-584-duda-vs-gukesh",
-         "pubDate" : "Thu, 07 Sep 2023 10:40:23",
-         "title" : "Game of the Week #584: Duda vs. Gukesh"
-      },
-      {
-         "description" : "Day 1 of the World Women's Team Championship saw two rounds played in each pool. Three teams scored back-to-back wins - Kazakhstan is the only squad in pool A with 4/4 match points before round 3, while the United States and China are sharing first place with perfect scores in pool B. The pool stage will run until Friday, when four teams per group will move on to the knockout stage. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-d1",
-         "pubDate" : "Thu, 07 Sep 2023 07:40:00",
-         "title" : "World Women's Team Ch: USA and Kazakhstan impress"
-      },
-      {
-         "description" : "Out of the four players who were sharing the lead after the first day of action at Tata Steel India Rapid tournament, Maxime Vachier-Lagrave recorded the best score in rounds 4-6. The Frenchman is now the sole leader in Kolkata with 4&frac12; out of 6 points. Teimour Radjabov stands in sole second place, a half point back. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d7",
-         "pubDate" : "Wed, 06 Sep 2023 22:10:00",
-         "title" : "Tata Steel India: Vachier-Lagrave grabs the lead"
       },
       {
          "description" : "",
@@ -1584,22 +1584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2598",
          "pubDate" : "Mon, 21 Aug 2023 19:58:08 +0000",
          "title" : "FIDE World Cup: Goryachkina wins Women's World Cup; Praggnanandhaa eliminates Caruana to reach finals"
-      },
-      {
-         "description" : "The English Chess Federation's (ECF) position is clear. We do not exclude trans women and this position will not change, despite FIDE's new policy. Trans...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/response-to-fides-new-trans-regulations/",
-         "pubDate" : "Mon, 21 Aug 2023 14:45:55",
-         "title" : "Response to FIDE's new trans regulations"
-      },
-      {
-         "description" : "Only the second Indian after Anand to reach the semifinals of the World Cup, Pragg also booked a spot in the Candidates event in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38233706/2023-chess-world-cup-r-praggnanandhaa-play-magnus-carlsen-stuns-fabiano-caruana?device=featurephone",
-         "pubDate" : "Mon, 21 Aug 2023 13:26:04",
-         "title" : "Chess WC: Pragg stuns Caruana to reach final vs Carlsen"
       }
    ]
 }
