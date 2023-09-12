@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fred Lucas is a Dutch photographer who specializes in chess photography. He has been doing it for well over 20 years and documented the most important tournaments - the World Chess Championship, Candidates, and Olympiads. He shot most of his pictures with a Nikon and 200mm lens, meticulously capturing the action, the mood and the emotions of the players. Now Fred has compiled his best pictures into a historical book that visually takes us through the world of chess in the first decades of this century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fred-lucas-illuminating-chess",
+         "pubDate" : "Tue, 12 Sep 2023 16:30:19",
+         "title" : "Fred Lucas: Illuminating Chess"
+      },
+      {
+         "description" : "We are pleased to announce the England Open team for the forthcoming European Team Chess Championship is GM Nikita Vitiugov 2719 GM David Howell...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-open-team-announcement/",
+         "pubDate" : "Tue, 12 Sep 2023 11:47:50",
+         "title" : "England Open Team Announcement"
+      },
+      {
+         "description" : "The European Chess Union and ECU Trainers Commission, with the support of FIDE development fund announce the annual European Chess Union training program from 20 November 2023 to 21 May 2024 with some of the best European and world's chess trainers. The program will be organized in two groups: The program will start on Monday, 20th of November 2023, and each group will have 24 live sessions until May 2024, with a total of 48 hours of instruction. The program []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-union-academy/",
+         "pubDate" : "Tue, 12 Sep 2023 11:39:43",
+         "title" : "European Chess Union Academy"
+      },
+      {
          "description" : "If the title of British Champion is to go by, England's most naturally talented player ever may happen to be an amateur. Henry Ernest Atkins was a school teacher by profession, yet won the British Championships in nine out of eleven participations. On the recent 151st anniversary of his birth, it is worth remembering this extremely gifted chess player. | Pictured: Rufus Stevenson and Henry Atkins at Malvern (The Sphere, 20 August 1921), via BritBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/henry-ernest-atkins-english-amateur",
          "pubDate" : "Tue, 12 Sep 2023 11:00:00",
          "title" : "Henry Ernest Atkins: The great English amateur"
-      },
-      {
-         "description" : "Fred Lucas is a Dutch photographer who specializes in chess photography. He has been doing it for well over 20 years and documented the most important tournaments - the World Chess Championship, Candidates, and Olympiads. He shot most of his pictures with a Nikon and 200mm lens, meticulously capturing the action, the mood and the emotions of the players. Now Fred has compiled his best pictures into a historical book that visually takes us through the world of chess in the first decades of this century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fred-lucas-illuminating-chess",
-         "pubDate" : "Tue, 12 Sep 2023 10:28:19",
-         "title" : "Fred Lucas: Illuminating Chess"
       },
       {
          "description" : "All in all, in the Knight vs. Bishop duel, the Bishop is more likely to win. However, this duel is tricky and sometimes the knight is the better piece. An example of this is the diagram position, where White used her knight effectively to win the game. What did she do?",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-womens-world-team-championship-georgia-wins",
          "pubDate" : "Mon, 11 Sep 2023 23:07:00",
-         "title" : "Top Seeds Take Cinderella's Glass Slipper: Georgia Wins Gold Ahead of Kazakhstan"
+         "title" : "Top Seeds Take Cinderella's Glass Slipper, Georgia Wins Gold Ahead of Kazakhstan"
       },
       {
          "description" : " The Champions Showdown 9LX took place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest was the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I was very limited in the coverage I could mount as I can't display Chess960 games, but I did provide a download. Sam Sevian was the surprise clear winner of the event. Kasparov led after day 1 but then only picked up another half a point. I'd lo",
@@ -1560,22 +1576,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/",
          "pubDate" : "Tue, 22 Aug 2023 16:28:02",
          "title" : "2023 FIDE World Cup: Semifinals/Finals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023/",
-         "pubDate" : "Tue, 22 Aug 2023 13:17:41",
-         "title" : "ECF National Club Championships 2023"
-      },
-      {
-         "description" : " The World Cup Final is under way with Praggnanandhaa playing Carlsen. Pragg was the surprise winner of the semi final match against Caruana, while Carlsen beat Abasov. Although Pragg has had a fantastic run throughout the event, I expect Carlsen will win without much difficulty. Nonetheless I do have a soft spot for Pragg, as he was very briefly a neighbour of mine during the 2016-17 Hastings International. He was in the room next to mine at my hotel, and even at that stage he showed the tenacity required to become one of the worlds top GM's. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/pragg-v-carlsen.html",
-         "pubDate" : "Tue, 22 Aug 2023 13:07:00",
-         "title" : "Pragg v Carlsen"
       }
    ]
 }
