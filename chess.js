@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Holger Blauhut is a Norwegian Candidate Master who enjoys playing in tournaments himself and looks after his talented daughter Anna. In mid-August, he took part in the RTU Open in Riga with his daughter, and experienced the typical adventures of chess travellers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-adventure-in-riga",
+         "pubDate" : "Tue, 12 Sep 2023 20:00:00",
+         "title" : "A chess adventure in Riga"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly from his own games. 2023.09.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-beautiful-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lJHQsvKnNbA.jpg?itok=BtHHQ7BF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-beautiful-ideas-grandmasters-choice-gm-victor-mikhalevski",
+         "pubDate" : "Tue, 12 Sep 2023 18:39:14",
+         "title" : "My Beautiful Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to neutralize your opponent when they fianchetto their bishop. A fianchetto is when a player pushes their b- or g-pawn one square and places a bishop on the longest diagonal now available. 2023.09.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fighting-fianchetto-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6-RQB7oI6HE.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fighting-fianchetto-beginner-breakdown",
+         "pubDate" : "Tue, 12 Sep 2023 18:39:14",
+         "title" : "Fighting the Fianchetto! | Beginner Breakdown"
+      },
+      {
          "description" : "Fred Lucas is a Dutch photographer who specializes in chess photography. He has been doing it for well over 20 years and documented the most important tournaments - the World Chess Championship, Candidates, and Olympiads. He shot most of his pictures with a Nikon and 200mm lens, meticulously capturing the action, the mood and the emotions of the players. Now Fred has compiled his best pictures into a historical book that visually takes us through the world of chess in the first decades of this century.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fred-lucas-illuminating-chess",
          "pubDate" : "Tue, 12 Sep 2023 16:30:19",
          "title" : "Fred Lucas: Illuminating Chess"
+      },
+      {
+         "description" : " The current Gungahlin Chess Club tournament, the Korda Classic, ended in a tie for 1st between Miles Patterson and Riley Byng. However, the last round games saw both games decided by an element of bluffing. In Riley's game he had been outplayed in the middlegame, but in a lost ending he saw a chance for a swindle. However, when it arrived on the board, he realised it didn't work, due to a miscounting of pawn moves. However, his opponent made the same mistake in counting the pawn moves, and chose a losing line. In the Patterson game, he was well on top when his opponent played a surprising queen sacrifice. As he had not considered this possibility, he had to carefully check the follow up mov",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/a-bit-of-bluff.html",
+         "pubDate" : "Tue, 12 Sep 2023 15:31:00",
+         "title" : "A bit of a bluff?"
       },
       {
          "description" : "We are pleased to announce the England Open team for the forthcoming European Team Chess Championship is GM Nikita Vitiugov 2719 GM David Howell...",
@@ -216,22 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-can%E2%80%99t-wait-960-ratings-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 00:37:21",
          "title" : "Aronian: Can't Wait for 960 Ratings | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the final three rounds, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.10<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-7/cs14MQaY\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-7/c...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-champions-showdown-chess-9lx-day-3",
-         "pubDate" : "Mon, 11 Sep 2023 00:37:21",
-         "title" : "2023 Champions Showdown | Chess 9LX: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after going 2-0-1 and winning the event on the third day of the 2023 Chess 9LX. 2023.09.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/9lx-champ-sevian-960-helps-imagination-d3-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8c4ppKi81Bc.jpg?itok=WdT2-ydM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/9lx-champ-sevian-960-helps-imagination-d3-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 00:37:21",
-         "title" : "9LX Champ Sevian: 960 Helps the Imagination | D3 #Chess9LX"
       },
       {
          "description" : "",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2622",
          "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
          "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
-      },
-      {
-         "description" : "In the latest edition of his Fast & Furious series, Robert Ris takes a look at a double-edged opening that at first glance seems rather dubious: the Norwegian Rat (1.e4 g6 2.d4 Nf6 3.e5 Nh5), which Carlsen and other strong players have tried with surprising success. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-creative-the-norwegian-rat",
-         "pubDate" : "Thu, 07 Sep 2023 20:00:00",
-         "title" : "Robert Ris' Fast and Furious: Creative - The Norwegian Rat"
       },
       {
          "description" : "Who knew that the light-hearted Chess Clash event would almost bring the downfall of Chess.com? After CCO Danny Rensch irresponsibly bet the company&#39;s ownership on clan Barbarian&#39;s win, clan King emerged with a victory, giving Ludwig the right to ...",
@@ -1552,30 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2599",
          "pubDate" : "Tue, 22 Aug 2023 19:42:38 +0000",
          "title" : "Clash of chess titans in D&uuml;sseldorf: World Rapid Team Championship preview"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2601",
-         "pubDate" : "Tue, 22 Aug 2023 18:03:27 +0000",
-         "title" : "EDU Commission announces its 10th Preparation of Teachers course"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2600",
-         "pubDate" : "Tue, 22 Aug 2023 17:28:51 +0000",
-         "title" : "FIDE World Cup: Carlsen and Praggnanandhaa draw in the first game of the finals"
-      },
-      {
-         "description" : " Praggnanandhaa beats Caruana, will play Carlsen in the Final! This World Cup tournament has been one of big upsets, but Magnus Carlsen and Fabiano Caruana were headed on a collision course as the two highest seeds from each bracket. That is until one of the Indian prodigies had other ideas. Rameshbabu Praggnanandhaa had already ousted The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/\">2023 FIDE World Cup: Semifinals/Finals</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/22/2023-fide-world-cup-semifinals/",
-         "pubDate" : "Tue, 22 Aug 2023 16:28:02",
-         "title" : "2023 FIDE World Cup: Semifinals/Finals"
       }
    ]
 }
