@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
+         "description" : "If the title of British Champion is to go by, England's most naturally talented player ever may happen to be an amateur. Henry Ernest Atkins was a school teacher by profession, yet won the British Championships in nine out of eleven participations. On the recent 151st anniversary of his birth, it is worth remembering this extremely gifted chess player. | Pictured: Rufus Stevenson and Henry Atkins at Malvern (The Sphere, 20 August 1921), via BritBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
-         "pubDate" : "Tue, 12 Sep 2023 09:03:10",
-         "title" : "How I experienced 9/11"
+         "link" : "https://en.chessbase.com/post/henry-ernest-atkins-english-amateur",
+         "pubDate" : "Tue, 12 Sep 2023 11:00:00",
+         "title" : "Henry Ernest Atkins: The great English amateur"
+      },
+      {
+         "description" : "Fred Lucas is a Dutch photographer who specializes in chess photography. He has been doing it for well over 20 years and documented the most important tournaments - the World Chess Championship, Candidates, and Olympiads. He shot most of his pictures with a Nikon and 200mm lens, meticulously capturing the action, the mood and the emotions of the players. Now Fred has compiled his best pictures into a historical book that visually takes us through the world of chess in the first decades of this century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fred-lucas-illuminating-chess",
+         "pubDate" : "Tue, 12 Sep 2023 10:28:19",
+         "title" : "Fred Lucas: Illuminating Chess"
       },
       {
          "description" : "All in all, in the Knight vs. Bishop duel, the Bishop is more likely to win. However, this duel is tricky and sometimes the knight is the better piece. An example of this is the diagram position, where White used her knight effectively to win the game. What did she do?",
@@ -26,11 +34,19 @@ news_feed (
          "title" : "Georgia triumph at the World Women's Team Championship"
       },
       {
+         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
+         "pubDate" : "Tue, 12 Sep 2023 02:00:00",
+         "title" : "How I experienced 9/11"
+      },
+      {
          "description" : "In the end, the top-ranked Georgian team, led by GM Bella Khotenashvili, won gold at the World Women&#39;s Team Championship in Bydgoszcz, Poland.&#38;nbsp; For much of the tournament, one of the lowest-ranked and youngest teams, Kazakhstan―with IM Bibi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-womens-world-team-championship-georgia-wins",
-         "pubDate" : "Mon, 11 Sep 2023 23:07:13",
+         "pubDate" : "Mon, 11 Sep 2023 23:07:00",
          "title" : "Top Seeds Take Cinderella's Glass Slipper: Georgia Wins Gold Ahead of Kazakhstan"
       },
       {
@@ -546,28 +562,12 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Creative - The Norwegian Rat"
       },
       {
-         "description" : "Maxime Vachier-Lagrave won the Tata Steel Chess India Rapid with 7 points and an undefeated performance. The Frenchman distanced himself from the rest of the field by 1&frac12; points with a round to spare. Teimour Radjabov finished in sole second place with 5&frac12; points, while Praggnanandha Rameshbabu, Alexander Grischuk and Vidit Gujrathi scored 5 points each. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d8",
-         "pubDate" : "Thu, 07 Sep 2023 20:00:00",
-         "title" : "MVL wins Tata Steel India Rapid with a round to spare"
-      },
-      {
          "description" : "Who knew that the light-hearted Chess Clash event would almost bring the downfall of Chess.com? After CCO Danny Rensch irresponsibly bet the company&#39;s ownership on clan Barbarian&#39;s win, clan King emerged with a victory, giving Ludwig the right to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-clash-2023-recap",
          "pubDate" : "Thu, 07 Sep 2023 18:27:00",
          "title" : "$50,000 Donated To Charity As King Clan Wins Chess Clash"
-      },
-      {
-         "description" : "On Friday 8 September, the best players in the USA and Garry Kasparov will begin to explore the depths of Fischer Random Chess (Chess 960 or \"Chess 9LX\") in Saint Louis. They will be competing for a prize fund of no less than $150,000. Before the tournament, however, the players and sponsor Rex Sinquefield want to have some fun with \"Ultimate Moves\". If you want to join in the fun, check out the live video. | The action starts at 13.00 ET (19.00 CEST, 17.00 GMT).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-ultimate-moves",
-         "pubDate" : "Thu, 07 Sep 2023 18:00:00",
-         "title" : "Chess 9LX: Ultimate Moves"
       },
       {
          "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1.&#160;&#160;&#160;&#160;&#160; Chennai : 16 - 21 Oct 23 2.&#160;&#160;&#160;&#160;&#160; Pollachi",
@@ -1576,14 +1576,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/pragg-v-carlsen.html",
          "pubDate" : "Tue, 22 Aug 2023 13:07:00",
          "title" : "Pragg v Carlsen"
-      },
-      {
-         "description" : "EU Youth Chess Championship 2023 is underway. The level of the event is very good in category U8 is leading Atanas Taskov (BUL, 6 points out of 6 rounds!), in U10 with 5,5 points Vladimir Sofronie (ROU), in U12 Alexandru Ioan Constantinoiu (ROU, 6 points!) and in U14 Louis Auribault (FRA, 5,5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Henri Rouanet (FRA), []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/21st-european-union-youth-chess-championship-2023/",
-         "pubDate" : "Tue, 22 Aug 2023 10:21:37",
-         "title" : "21st European Union Youth Chess Championship 2023 -"
       }
    ]
 }
