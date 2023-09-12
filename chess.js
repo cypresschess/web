@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (71)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (71)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-71/",
+         "pubDate" : "Tue, 12 Sep 2023 21:03:43",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (71)"
+      },
+      {
          "description" : "Holger Blauhut is a Norwegian Candidate Master who enjoys playing in tournaments himself and looks after his talented daughter Anna. In mid-August, he took part in the RTU Open in Riga with his daughter, and experienced the typical adventures of chess travellers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,30 +1544,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/dcms-funding/",
          "pubDate" : "Wed, 23 Aug 2023 09:09:13",
          "title" : "Government funding for chess from DCMS, DLUHC and DfE"
-      },
-      {
-         "description" : "Praggnanandhaa forced a stalemate in 35 moves, playing with white pieces in the first classical game of the 2023 Chess World Cup final.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38242409/2023-chess-world-cup-final-r-praggnanandhaa-ekes-draw-magnus-carlsen-opening-game?device=featurephone",
-         "pubDate" : "Tue, 22 Aug 2023 23:10:20",
-         "title" : "Chess WC: Praggnanandhaa ekes out draw against Carlsen in opening game"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2602",
-         "pubDate" : "Tue, 22 Aug 2023 21:16:41 +0000",
-         "title" : "FIDE World Fischer Random Chess Championship - Call for Bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2599",
-         "pubDate" : "Tue, 22 Aug 2023 19:42:38 +0000",
-         "title" : "Clash of chess titans in D&uuml;sseldorf: World Rapid Team Championship preview"
       }
    ]
 }
