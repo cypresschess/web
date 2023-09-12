@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final of the World Women's Team Championship saw Georgia beating the young Kazakhstani squad by two sets to zero, with Lela Javakhishvili scoring back-to-back wins for the eventual champions. In the match for third place, France got the better of the United States. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-women-team-2023-final",
+         "pubDate" : "Tue, 12 Sep 2023 02:10:00",
+         "title" : "Georgia triumph at the World Women's Team Championship"
+      },
+      {
          "description" : " The Champions Showdown 9LX took place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest was the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I was very limited in the coverage I could mount as I can't display Chess960 games, but I did provide a download. Sam Sevian was the surprise clear winner of the event. Kasparov led after day 1 but then only picked up another half a point. I'd lo",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/csc-junior-rapidplay-tournaments/",
          "pubDate" : "Thu, 07 Sep 2023 15:58:37",
          "title" : "CSC Junior Rapidplay Tournaments"
-      },
-      {
-         "description" : "Jennifer Shahade herself founded the women's program in the US Chess Federation, but is now stepping down as its director. In a Facebook post, Shahade cited the way the chess federation reacted - or failed to react - after Shahade accused GM Alejandro Ramirez, who was then working as a coach for the federation, of sexually harassing women and minors as the reason for the decision. | Photo: Jennifer Shahade",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jennifer-shahade-resigns-from-her-post-as-women-s-program-director-of-us-chess",
-         "pubDate" : "Thu, 07 Sep 2023 15:00:00",
-         "title" : "Jennifer Shahade resigns from her post as Women's Program Director of US Chess"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave scored another 2.5 points on the last day of the 2023 Tata Steel Chess India Open Rapid, winning the event with a round to spare and scoring seven points out of a possible nine. GM Teimour Radjabov was placed second with ...",
