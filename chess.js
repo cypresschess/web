@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
+         "pubDate" : "Tue, 12 Sep 2023 09:03:10",
+         "title" : "How I experienced 9/11"
+      },
+      {
+         "description" : "All in all, in the Knight vs. Bishop duel, the Bishop is more likely to win. However, this duel is tricky and sometimes the knight is the better piece. An example of this is the diagram position, where White used her knight effectively to win the game. What did she do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-king-rules-2",
+         "pubDate" : "Tue, 12 Sep 2023 09:00:00",
+         "title" : "Knight vs bishop"
+      },
+      {
          "description" : "The final of the World Women's Team Championship saw Georgia beating the young Kazakhstani squad by two sets to zero, with Lela Javakhishvili scoring back-to-back wins for the eventual champions. In the match for third place, France got the better of the United States. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-women-team-2023-final",
          "pubDate" : "Tue, 12 Sep 2023 02:10:00",
          "title" : "Georgia triumph at the World Women's Team Championship"
+      },
+      {
+         "description" : "In the end, the top-ranked Georgian team, led by GM Bella Khotenashvili, won gold at the World Women&#39;s Team Championship in Bydgoszcz, Poland.&#38;nbsp; For much of the tournament, one of the lowest-ranked and youngest teams, Kazakhstan―with IM Bibi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-womens-world-team-championship-georgia-wins",
+         "pubDate" : "Mon, 11 Sep 2023 23:07:13",
+         "title" : "Top Seeds Take Cinderella's Glass Slipper: Georgia Wins Gold Ahead of Kazakhstan"
       },
       {
          "description" : " The Champions Showdown 9LX took place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest was the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I was very limited in the coverage I could mount as I can't display Chess960 games, but I did provide a download. Sam Sevian was the surprise clear winner of the event. Kasparov led after day 1 but then only picked up another half a point. I'd lo",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-abdusattorov-caruana",
-         "pubDate" : "Mon, 11 Sep 2023 16:05:03",
+         "pubDate" : "Mon, 11 Sep 2023 16:05:00",
          "title" : "Caruana Reaches Quarterfinals Match Vs. Nakamura, Knocks Out Abdusattorov"
       },
       {
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-23-bishop-and-knight-against-a-rook",
          "pubDate" : "Mon, 11 Sep 2023 16:00:00",
          "title" : "The Winning Academy 23: Bishop and knight against a rook"
-      },
-      {
-         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
-         "pubDate" : "Mon, 11 Sep 2023 13:55:00",
-         "title" : "How I experienced 9/11"
       },
       {
          "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "IM Norm Round Robin Tournaments"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 215 is just out. Here our columnist, Nagesh Havanur takes a look at a recent issue. 162 games (41 annotated), decisive encounters from World Championship deeply annotated. 12 opening surveys, 3 opening videos, 9 demo lectures and several exercises for training. Annotators include Anish Giri, Boris Gelfand and Peter Svidler among others. The icing on the cake is a feature on Boris Spassky with 27 annotated games. | Photo: Ding Liren vs Nepomniachtchi, WCH 2023, FIDE/Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-214-a-world-championship-special",
-         "pubDate" : "Thu, 07 Sep 2023 17:00:00",
-         "title" : "CBM 214 : A World Championship Special"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103479311.cms\" />India's chess sensation R Praggnanandhaa finished third but former World Blitz champion Maxime Vachier-Lagrave continued his dominance with two more wins to claim the 'Tata Steel Chess India 2023' rapid title, here on Thursday. The Frenchman, who was on his maiden visit to India, finished on top with seven points, way ahead of Azerbaijan's 2019 World Cup winner Teimour Radjabov (5.5).",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://aicf.in/tata-steel-asian-junior-open-and-girls-chess-championship-kicks-off-from-september-7/",
          "pubDate" : "Sat, 02 Sep 2023 08:59:14",
          "title" : "Tata Steel Asian Junior Open and Girls Chess Championship kicks off from September 7"
-      },
-      {
-         "description" : "Chess.com is excited to announce the third edition of Chessable&#39;s annual Create Your Own Course contest. Registrations are open from September 1 to November 30 to all Chessable PRO members who want to participate.&#38;nbsp; This is the perfect oppor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessable-create-your-own-course-2023",
-         "pubDate" : "Fri, 01 Sep 2023 17:31:00",
-         "title" : "Announcing The 2023 Create Your Own Course Contest With GM Maurice Ashley"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> (August 2023), I wrote, <BLOCKQUOTE> Ads are related to cookies. It's been eight years since the last time I looked at the European cookie monster. [...] Since then, the European Union has introduced the GDPR, which stands for <I>General Data Protection Regulation</I> (wikipedia.org). The CMP requirements are a response to the GDPR. What does that entail for small web sites like mine? I'll look at that in the next post. </BLOCKQUOTE> <P> A few months ago Google introduced a new requirement. <UL> <LI> 2023-05-16: <A HREF=\"https://blog.google/products/admanager/new-",
