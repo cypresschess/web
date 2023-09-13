@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thanks to his tournament wins in the American Cup and Norway Chess this year, Hikaru Nakamura moved up to second place in the FIDE world rankings (August 2023). In the \"Special\" of ChessBase Magazine #215 our authors analyse their favourite games of the top grandmaster - an exclusive collection of 19 great encounters from the period 2007 to 2023 awaits you! In addition, Mihail Marin sheds light on \"Nakamura's strategy in practice\" with videos + many training exercises. And Karsten Mueller presents a selection of the most beautiful endgames from \"H-Bomb\". As a sample from the \"Special\" you can watch Michal Krasenkow's analysis of his game against Nakamura from 2007 here. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/special-hikaru-nakamura",
+         "pubDate" : "Wed, 13 Sep 2023 07:00:00",
+         "title" : "\"Special\": Hikaru Nakamura"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2631",
+         "pubDate" : "Wed, 13 Sep 2023 05:30:51 +0000",
+         "title" : "The deadline for submitting 2028 Chess Olympiad bid set for November 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lJHQsvKnNbA.jpg?itok=BtHHQ7BF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski",
+         "pubDate" : "Wed, 13 Sep 2023 03:39:36",
+         "title" : "My Beautiful (Not Easy!) Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
+      },
+      {
          "description" : "The FIDE World Cup was a complete success, as top players fought for spots in the Candidates, both in the open and in the women's section. Magnus Carlsen and Aleksandra Goryachkina were the winners. As ever, GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five more instructive endgames from the open category! | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-exploring-new-positions-fun-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 00:37:21",
          "title" : "Caruana: Exploring New Positions is Fun | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Sabina Foisor before the start of the 2023 Chess 9LX. It is important to note that Chess960 ratings are calculated by the Universal Rating System (URS). This aired on Day 3 in side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-can%E2%80%99t-wait-960-ratings-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnail",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-can%E2%80%99t-wait-960-ratings-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 00:37:21",
-         "title" : "Aronian: Can't Wait for 960 Ratings | #Chess9LX"
       },
       {
          "description" : "",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/championship-chessmate.html",
          "pubDate" : "Fri, 08 Sep 2023 13:56:00",
          "title" : "Championship Chessmate"
-      },
-      {
-         "description" : "With a round to go in the pool stage, four teams have already secured their spots in the knockout of the World Women's Team Championship. Kazakhstan, the only team that won all four of their matches so far, and Georgia advanced from Pool A, while the USA and Poland made it to the next stage in Pool B. Besides Egypt, all the remaining squads still have chances to qualify after Friday's fifth round. | Pictured: Alua Nurmanova | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-d2",
-         "pubDate" : "Fri, 08 Sep 2023 11:05:00",
-         "title" : "World Women's Team Ch: Kazakhstan still perfect, USA beat China"
       },
       {
          "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
