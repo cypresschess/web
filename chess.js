@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cup was a complete success, as top players fought for spots in the Candidates, both in the open and in the women's section. Magnus Carlsen and Aleksandra Goryachkina were the winners. As ever, GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five more instructive endgames from the open category! | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cup-2023-endgames-2",
+         "pubDate" : "Wed, 13 Sep 2023 03:30:00",
+         "title" : "World Cup: A selection of outstanding endgames (2)"
+      },
+      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (71)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (71)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "A chess adventure in Riga"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly from his own games. 2023.09.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-beautiful-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lJHQsvKnNbA.jpg?itok=BtHHQ7BF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-beautiful-ideas-grandmasters-choice-gm-victor-mikhalevski",
-         "pubDate" : "Tue, 12 Sep 2023 18:39:14",
-         "title" : "My Beautiful Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
+         "description" : "GM Maxime Vachier-Lagrave booked his quarterfinal spot in the 2023 Speed Chess Championship after dispatching GM Dommaraju Gukesh by a convincing 21.5-8.5 margin in the round of 16 on Tuesday. The Frenchman will face Gukesh&#39;s compatriot GM Nihal S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-vachier-lagrave-gukesh-carlsen-vidit",
+         "pubDate" : "Tue, 12 Sep 2023 19:46:35",
+         "title" : "Vachier-Lagrave Blitzes Gukesh; Carlsen Defeats Vidit"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to neutralize your opponent when they fianchetto their bishop. A fianchetto is when a player pushes their b- or g-pawn one square and places a bishop on the longest diagonal now available. 2023.09.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fighting-fianchetto-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6-RQB7oI6HE.jpg?itok=",
@@ -538,14 +546,6 @@ news_feed (
          "title" : "ECF Membership System: Options for Change - update"
       },
       {
-         "description" : "Not much time, but every now and then you want to get your chess brain working at full speed? In his new YouTube series 'Chess Treats' Oliver Reeh presents explosive positions that require tactical solutions - short, sweet and challenging. Have a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/short-but-sweet-chess-treats-with-oliver-reeh",
-         "pubDate" : "Fri, 08 Sep 2023 08:00:00",
-         "title" : "Short but sweet - chess treats with Oliver Reeh"
-      },
-      {
          "description" : " The Norwegian, 32, follows up his World Cup victory in Baku by winning the latest leg of the online ChampionsTour, while the former world champion Vladimir Kramnik is displeased at losing to Niemann Magnus Carlsen kept up his current winning run last weekend by taking the $30,000 first prize in the Julius Baer Generation Cup, his third victory on the $2m Champions Tour, which ends at Toronto in December. The result follows swiftly on from the 32-year-old's <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa\" title=\"\">over-the-board success</a> in last month's knockout World Cup, the only major individual competition he",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1000,14 +1000,6 @@ news_feed (
          "link" : "https://www.thearticle.com/laudator-temporis-acti-ancients-and-moderns-in-chess/",
          "pubDate" : "Sat, 02 Sep 2023 14:01:41",
          "title" : "'Laudator Temporis Acti': ancients and moderns in chess"
-      },
-      {
-         "description" : "The Tata Steel Chess India Women&#39;s Rapid&#38;nbsp;saw a nerve-wracking final round where title chances alternatively swung in favor of WGM Divya Deshmukh and Women&#39;s World Champion GM Ju Wenjun before the former emerged as the winner by a half-a-point...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day-3-rapid",
-         "pubDate" : "Sat, 02 Sep 2023 13:58:29",
-         "title" : "Divya Winner After Nerve-Wracking Finale"
       },
       {
          "description" : "Opening courses are everywhere. The prospect of playing the same line as a Top Player is just too tempting to resist. Some Chess fans seem to buy an opening course more frequently than they change their underwear. But is it sensible for amateur chess improvers to buy and study Opening courses from (Grand)Masters? I have []",
