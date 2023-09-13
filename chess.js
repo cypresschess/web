@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "During a visit to the ChessBase office to record his latest Fritztrainer, Grandmaster Nick Pert was interviewed. In a conversation with Arne Kaehler, Nick delved into his background, sharing stories of his upbringing, his introduction to chess, and the competitive dynamic with his twin brother. He also discussed his decision to follow a chess career over pursuing his field of study, and touched upon his achievement of becoming a world champion in 1998.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behind-the-board-the-life-story-of-gm-nicholas-pert-interview",
+         "pubDate" : "Wed, 13 Sep 2023 16:00:00",
+         "title" : "Behind the Board: The life story of GM Nicholas Pert - Interview"
+      },
+      {
          "description" : "150 years ago, from 21 June to 29 August 1873, the \"First International Vienna Chess Congress\" was held in Vienna. Some of the best players in the world accepted the invitation and played mini-matches against each other. In the end, Wilhelm Steinitz and Joseph Blackburne tied for first place. A play-off match decided the tournament's winner.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2023/",
          "pubDate" : "Wed, 13 Sep 2023 08:12:37",
          "title" : "ECU E-Magazine August 2023"
+      },
+      {
+         "description" : "ChessKid has announced the inaugural ChessKid National Festival, happening across the Presidents&#39; Day weekend (February 16-19) in 2024. The multiple-day celebration will take place in Charlotte, North Carolina at the Charlotte Convention Center. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-national-festival-announcement",
+         "pubDate" : "Wed, 13 Sep 2023 07:00:00",
+         "title" : "ChessKid Announces First National Festival Taking Place Early 2024"
       },
       {
          "description" : "Thanks to his tournament wins in the American Cup and Norway Chess this year, Hikaru Nakamura moved up to second place in the FIDE world rankings (August 2023). In the \"Special\" of ChessBase Magazine #215 our authors analyse their favourite games of the top grandmaster - an exclusive collection of 19 great encounters from the period 2007 to 2023 awaits you! In addition, Mihail Marin sheds light on \"Nakamura's strategy in practice\" with videos + many training exercises. And Karsten Mueller presents a selection of the most beautiful endgames from \"H-Bomb\". As a sample from the \"Special\" you can watch Michal Krasenkow's analysis of his game against Nakamura from 2007 here. Have fun!",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d9",
          "pubDate" : "Sat, 09 Sep 2023 01:30:00",
          "title" : "Tata Steel India: Pragg leads, Vidit and Grischuk close behind"
-      },
-      {
-         "description" : "In 2004, Vladimir Kramnik and Peter Leko played a match for the World Championship. After a nail-biting series of games, the match ended in a 7-7 draw, with Kramnik retaining his title by winning the 14th game on demand. But Svitlana shows us one of the two wins by Leko (who, incidentally, is celebrating his birthday today!) - a fascinating game with an interesting side story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-epic-world-cup-duel-of-kramnik-and-leko",
-         "pubDate" : "Fri, 08 Sep 2023 21:00:00",
-         "title" : "Svitlana's Smart Moves - The epic World Cup duel of Kramnik and Leko"
       },
       {
          "description" : "",
@@ -1000,14 +1008,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-4",
          "pubDate" : "Sat, 02 Sep 2023 16:46:00",
          "title" : "Firouzja Earns Rematch vs. Carlsen, Knocks Out Wonderboy Lazavik"
-      },
-      {
-         "description" : "GM Hikaru Nakamura claimed his ninth title and the $400 prize for first place in September&#39;s first Bullet Brawl after a tense battle with GMs Daniel Naroditsky and Andrew Tang, who finished second and third respectively. GMs Oleksandr Bortnyk and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-2-2023",
-         "pubDate" : "Sat, 02 Sep 2023 16:01:00",
-         "title" : "Nakamura Closes In On 10th Bullet Brawl Title"
       },
       {
          "description" : " To commemorate the late Oskar Hellman, a special Father's Day weekend event was held at Street Chess today. Thanks to the generous support of tournament regulars Lee Forace and Harry Johnson, we were able to award a number of extra prizes. These prizes included both a Senior and Junior prize (1st and 2nd place), and a Best Female prize. But as an added bonus, there was a prize for players who scored points with the Blackmar-Diemar Gambit (3 winners here), and a prize for the Best Father. With 38 players taking part, the tournament resulted in a lot pf happy players, who were a little surprised they went home with more money than they turned up with! <br /> ",
@@ -1536,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2603",
          "pubDate" : "Wed, 23 Aug 2023 17:32:34 +0000",
          "title" : "World Cup winner and third place to be decided in tiebreaks"
-      },
-      {
-         "description" : "Praggnanandhaa vs Carlsen will now be decided on tie-breaks after the duo played out a second consecutive draw on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38244191/2023-chess-world-cup-final-r-praggnanandhaa-vs-magnus-carlsen-decided-tie-breaks?device=featurephone",
-         "pubDate" : "Wed, 23 Aug 2023 12:13:13",
-         "title" : "Chess WC: Pragg vs Carlsen to be decided on tie-breaks"
       }
    ]
 }
