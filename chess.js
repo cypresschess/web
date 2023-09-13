@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "150 years ago, from 21 June to 29 August 1873, the \"First International Vienna Chess Congress\" was held in Vienna. Some of the best players in the world accepted the invitation and played mini-matches against each other. In the end, Wilhelm Steinitz and Joseph Blackburne tied for first place. A play-off match decided the tournament's winner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vienna-chess-tournament-1873",
+         "pubDate" : "Wed, 13 Sep 2023 10:00:00",
+         "title" : "150 years ago: The Vienna Chess Tournament 1873"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2632",
+         "pubDate" : "Wed, 13 Sep 2023 09:53:12 +0000",
+         "title" : "FIDE World Amateur Championship 2023: Registration deadline extended"
+      },
+      {
+         "description" : "The ECU Magazine August 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine August 2023 can be read online together with interactive links here, or it can be downloaded in PDF format down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-august-2023/",
+         "pubDate" : "Wed, 13 Sep 2023 08:12:37",
+         "title" : "ECU E-Magazine August 2023"
+      },
+      {
          "description" : "Thanks to his tournament wins in the American Cup and Norway Chess this year, Hikaru Nakamura moved up to second place in the FIDE world rankings (August 2023). In the \"Special\" of ChessBase Magazine #215 our authors analyse their favourite games of the top grandmaster - an exclusive collection of 19 great encounters from the period 2007 to 2023 awaits you! In addition, Mihail Marin sheds light on \"Nakamura's strategy in practice\" with videos + many training exercises. And Karsten Mueller presents a selection of the most beautiful endgames from \"H-Bomb\". As a sample from the \"Special\" you can watch Michal Krasenkow's analysis of his game against Nakamura from 2007 here. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,11 +74,11 @@ news_feed (
          "title" : "A chess adventure in Riga"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave booked his quarterfinal spot in the 2023 Speed Chess Championship after dispatching GM Dommaraju Gukesh by a convincing 21.5-8.5 margin in the round of 16 on Tuesday. The Frenchman will face Gukesh&#39;s compatriot GM Nihal S...",
+         "description" : "GM Maxime Vachier-Lagrave booked his Quarterfinal spot in the 2023 Speed Chess Championship Presented by Coinbase after dispatching GM Gukesh Dommaraju by a convincing 21.5-8.5 margin in the Round of 16 on Tuesday. The Frenchman will face Gukesh&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-vachier-lagrave-gukesh-carlsen-vidit",
-         "pubDate" : "Tue, 12 Sep 2023 19:46:35",
+         "pubDate" : "Tue, 12 Sep 2023 19:46:00",
          "title" : "Vachier-Lagrave Blitzes Gukesh; Carlsen Defeats Vidit"
       },
       {
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2624",
          "pubDate" : "Fri, 08 Sep 2023 19:13:51 +0000",
          "title" : "WWTC 2023: A big upset for India, a huge miracle for Germany"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King focuses on one of Magnus Carlsen's favourite strategies, which he has used with great success throughout his career: asking his opponents uncomfortable questions while remaining safe himself. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-learn-from-carlsen",
-         "pubDate" : "Fri, 08 Sep 2023 18:00:00",
-         "title" : "Daniel King's Power Play Show: Learn from Carlsen"
       },
       {
          "description" : "Against GM Dmitry Andreikin, GM Alireza Firouzja won the closest Round of 16 match in the season so far in the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The final score was just a one-point difference, 13.5-12.5. Although Fi...",
@@ -1528,22 +1544,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38244191/2023-chess-world-cup-final-r-praggnanandhaa-vs-magnus-carlsen-decided-tie-breaks?device=featurephone",
          "pubDate" : "Wed, 23 Aug 2023 12:13:13",
          "title" : "Chess WC: Pragg vs Carlsen to be decided on tie-breaks"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://chessarena.com/armageddon\">The Armageddon Championship Series Finale</a> is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9608.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> Top-tier chess players, including luminaries such as <b>Wesley So</b>, <b>Sam Shankland</b>,<b> Gukesh D</b>, <b>Nodirbek Abdusattorov</b>, ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/armageddon-championship-finale-to-start-in-berlin/",
-         "pubDate" : "Wed, 23 Aug 2023 09:28:20",
-         "title" : "Armageddon Championship Finale to Start In Berlin"
-      },
-      {
-         "description" : "The ECF is delighted that the Department of Culture, Media and Sport has announced a combined package of measures worth almost &pound;1 million that will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/dcms-funding/",
-         "pubDate" : "Wed, 23 Aug 2023 09:09:13",
-         "title" : "Government funding for chess from DCMS, DLUHC and DfE"
       }
    ]
 }
