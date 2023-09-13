@@ -26,6 +26,14 @@ news_feed (
          "title" : "Behind the Board: The life story of GM Nicholas Pert - Interview"
       },
       {
+         "description" : "In the longest SCC match so far this year, taking over four hours and totaling 32 games, GM Wesley So emerged victorious. He defeated GM Alireza Firouzja and is the first player to reach the Semifinals of the 2023 Chess.com Speed Chess Championshi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-so-firouzja",
+         "pubDate" : "Wed, 13 Sep 2023 15:35:00",
+         "title" : "Wesley So Triumphs In Armageddon, Wins Season's Longest Match"
+      },
+      {
          "description" : "150 years ago, from 21 June to 29 August 1873, the \"First International Vienna Chess Congress\" was held in Vienna. Some of the best players in the world accepted the invitation and played mini-matches against each other. In the end, Wilhelm Steinitz and Joseph Blackburne tied for first place. A play-off match decided the tournament's winner.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2023",
          "pubDate" : "Sun, 3 Sep 2023 13:55:00",
          "title" : "Julius Baer Generation Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "GM Harika Dronavalli and GM Ju Wenjun are in the joint lead with 6.5 points from nine games at the end of the first day of the Tata Steel Chess India Women&#39;s Blitz. No player could escape defeat on an exciting day of blitz with high-quality games,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-womens-day-4-blitz",
-         "pubDate" : "Sun, 03 Sep 2023 13:47:28",
-         "title" : "Harika, Ju Lead After Tumultuous Day"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103327558.cms\" />A day after D Gukesh dethroned Viswanathan Anand, ending the latter's 37-year reign as India's No.1 chess player, the 17-year-old looked committed to refining his game. Gukesh, currently in Kolkata for the Asian Games training camp, revealed on Saturday that he has successfully moved past the disappointment of his recent defeat to Norway's Magnus Carlsen in the World Cup quarterfinals.",
