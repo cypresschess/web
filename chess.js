@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 12, 2023</strong> - GM Sam Sevian won the <a href=\"https://www.uschesschamps.com/2023-champions-showdown-chess-9lx/overview\" target=\"_blank\">2023 Champions Showdown: Chess 9LX</a> after a brilliant final day, where he defeated a competitive field including legendary former World Champion Garry Kasparov and World No. 2 Fabiano Caruana to take home the $37,500 first place prize. Chess 9LX was hosted by the Saint Louis Chess Club at the World Chess Hall of Fame September 8-11, 2023. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Sam Sevian wins 2023 Chess 9LX</div><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmaster-sam-sevian-delivers-brilliant-performance-win-2023-champions-showdown-chess-9lx",
+         "pubDate" : "Wed, 13 Sep 2023 17:31:02",
+         "title" : "Grandmaster Sam Sevian Delivers Brilliant Performance to Win 2023 Champions Showdown: Chess 9LX "
+      },
+      {
+         "description" : "MegaBase 2023 is Chess History in action. Regularly updated every month, the Main Database currently offers 10 million games, many of them annotated. Our columnist offers a review with focus on modern master play. There is a lot more to discover in this treasure trove: grand battles, opening novelties and exemplary endgames.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2023-modern-master-play",
+         "pubDate" : "Wed, 13 Sep 2023 17:30:00",
+         "title" : "MegaBase 2023: Modern master play"
+      },
+      {
          "description" : "During a visit to the ChessBase office to record his latest Fritztrainer, Grandmaster Nick Pert was interviewed. In a conversation with Arne Kaehler, Nick delved into his background, sharing stories of his upbringing, his introduction to chess, and the competitive dynamic with his twin brother. He also discussed his decision to follow a chess career over pursuing his field of study, and touched upon his achievement of becoming a world champion in 1998.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2632",
          "pubDate" : "Wed, 13 Sep 2023 09:53:12 +0000",
          "title" : "FIDE World Amateur Championship 2023: Registration deadline extended"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi&#38;nbsp;returned to Titled Tuesday on September 12 and won it for the first time in 17 months, taking the early tournament on tiebreaks with 9.5 points. GM Dmitry Andreikin, who has won more Titled Tuesdays in the last three yea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-andreikin-win-titled-tuesday-september-12-2023",
+         "pubDate" : "Wed, 13 Sep 2023 08:39:26",
+         "title" : "World Championship Challenger Reclaims Titled Tuesday"
       },
       {
          "description" : "The ECU Magazine August 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine August 2023 can be read online together with interactive links here, or it can be downloaded in PDF format down below.",
@@ -314,14 +338,6 @@ news_feed (
          "title" : "2023 Champions Showdown | Chess 9LX: Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Sabina Foisor before the start of the 2023 Chess 9LX. This aired on Day 3 in side-by-side. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-exploring-new-positions-fun-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MImwmkLuZw4.jpg?itok=eVMTsvN7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-exploring-new-positions-fun-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 00:37:21",
-         "title" : "Caruana: Exploring New Positions is Fun | #Chess9LX"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-women-team-2023-d3",
          "pubDate" : "Sat, 09 Sep 2023 02:30:00",
          "title" : "World Women's Team Ch: Germany leave Bulgaria out of contention"
-      },
-      {
-         "description" : "Praggnanandhaa Rameshbabu had a strong showing on day 1 of the Tata Steel India Blitz tournament. The youngster grabbed five wins in a row at the start of the event, but then suffered a few setbacks, which did not prevent him from ending the day as the sole leader. Vidit Gujrathi and Alexander Grischuk are sharing second place a half point behind Pragg. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d9",
-         "pubDate" : "Sat, 09 Sep 2023 01:30:00",
-         "title" : "Tata Steel India: Pragg leads, Vidit and Grischuk close behind"
       },
       {
          "description" : "",
@@ -1000,14 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-divya-deshmukh-claims-rapid-title/articleshow/103314414.cms",
          "pubDate" : "Sat, 02 Sep 2023 17:14:03 +0000",
          "title" : "Tata Steel Chess India: Divya Deshmukh claims rapid title"
-      },
-      {
-         "description" : "GM Alireza Firouzja has earned a rematch vs. GM Magnus Carlsen in the Grand Final of the 2023 Julius Baer Generation Cup by winning the Losers Final vs. GM Denis Lazavik. Despite having a losing position for most of their second game, Firouzja pul...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-4",
-         "pubDate" : "Sat, 02 Sep 2023 16:46:00",
-         "title" : "Firouzja Earns Rematch vs. Carlsen, Knocks Out Wonderboy Lazavik"
       },
       {
          "description" : " To commemorate the late Oskar Hellman, a special Father's Day weekend event was held at Street Chess today. Thanks to the generous support of tournament regulars Lee Forace and Harry Johnson, we were able to award a number of extra prizes. These prizes included both a Senior and Junior prize (1st and 2nd place), and a Best Female prize. But as an added bonus, there was a prize for players who scored points with the Blackmar-Diemar Gambit (3 winners here), and a prize for the Best Father. With 38 players taking part, the tournament resulted in a lot pf happy players, who were a little surprised they went home with more money than they turned up with! <br /> ",
@@ -1528,14 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2604",
          "pubDate" : "Wed, 23 Aug 2023 23:37:27 +0000",
          "title" : "Aleksandra Goryachkina: \"I try to imitate Alexandra Kosteniuk in knockouts\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2603",
-         "pubDate" : "Wed, 23 Aug 2023 17:32:34 +0000",
-         "title" : "World Cup winner and third place to be decided in tiebreaks"
       }
    ]
 }
