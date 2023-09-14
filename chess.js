@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f2EydPV3oSA.jpg?itok=Mw4ivZKv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski",
+         "pubDate" : "Thu, 14 Sep 2023 18:40:36",
+         "title" : "Opening Preparation | Prepare Like A Pro - GM Victor Mikhalevski"
+      },
+      {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On the first day of action, Gukesh D faces Wesley So and Jan-Krzysztof Duda faces Sam Shankland. | Follow the games live with expert commentary by Simon Williams and Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Thu, 14 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 9 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
+         "pubDate" : "Thu, 14 Sep 2023 16:44:05",
+         "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
+      },
+      {
          "description" : "Fabiano Caruana had to face the underdog Nijat Abasov in the match for third place at the Baku World Cup. In round 8.2, the US player made a fairly unknown move in the Four Knights Sicilian, by moving the bishop to f4. Svitlana offers insights into various variations arising from this opening. The endgame provides valuable lessons as well!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "Carlsen and Anand to play in European Club Cup"
       },
       {
-         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
-         "pubDate" : "Thu, 14 Sep 2023 07:25:00",
-         "title" : "Armageddon Grand Final: Duda, So, Gukesh in action!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 12, 2023</strong> - GM Sam Sevian won the <a href=\"https://www.uschesschamps.com/2023-champions-showdown-chess-9lx/overview\" target=\"_blank\">2023 Champions Showdown: Chess 9LX</a> after a brilliant final day, where he defeated a competitive field including legendary former World Champion Garry Kasparov and World No. 2 Fabiano Caruana to take home the $37,500 first place prize. Chess 9LX was hosted by the Saint Louis Chess Club at the World Chess Hall of Fame September 8-11, 2023. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Sam Sevian wins 2023 Chess 9LX</div><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -120,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vienna-chess-tournament-1873",
          "pubDate" : "Wed, 13 Sep 2023 10:00:00",
          "title" : "150 years ago: The Vienna Chess Tournament 1873"
+      },
+      {
+         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
+         "pubDate" : "Wed, 13 Sep 2023 09:55:00",
+         "title" : "Armageddon Grand Final: Duda, So, Gukesh in action!"
       },
       {
          "description" : "",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-champions-showdown-chess-9lx-day-1",
          "pubDate" : "Mon, 11 Sep 2023 00:37:21",
          "title" : "2023 Champions Showdown | Chess 9LX: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the middle three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.09<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-champions-showdown-chess-9lx-day-2",
-         "pubDate" : "Mon, 11 Sep 2023 00:37:21",
-         "title" : "2023 Champions Showdown | Chess 9LX: Day 2"
       },
       {
          "description" : "",
