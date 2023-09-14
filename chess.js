@@ -1520,14 +1520,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1?device=featurephone",
          "pubDate" : "Thu, 24 Aug 2023 08:38:09",
          "title" : "Carlsen wins World Cup after beating Pragg in tie-breaks"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2604",
-         "pubDate" : "Wed, 23 Aug 2023 23:37:27 +0000",
-         "title" : "Aleksandra Goryachkina: \"I try to imitate Alexandra Kosteniuk in knockouts\""
       }
    ]
 }
