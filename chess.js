@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana had to face the underdog Nijat Abasov in the match for third place at the Baku World Cup. In round 8.2, the US player made a fairly unknown move in the Four Knights Sicilian, by moving the bishop to f4. Svitlana offers insights into various variations arising from this opening. The endgame provides valuable lessons as well!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-caruana-s-sicilian-surprise",
+         "pubDate" : "Thu, 14 Sep 2023 16:30:00",
+         "title" : "Svitlana's Smart Moves - Caruana's Sicilian surprise!"
+      },
+      {
+         "description" : "Grandmaster Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. This year, at seventeen, he crossed the 2600 Elo barrier (current Elo is 2622) for the first time and is probably one of the most active chess players in 2023 (almost 100 rated games). Leon has recorded a very interesting Fritztrainer on the venomous variation 1.Nf3 d5 2.e3, which most club-level players do not know how to effectively counter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-on-the-keymer",
+         "pubDate" : "Thu, 14 Sep 2023 15:40:00",
+         "title" : "Leon on the Keymer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2633",
+         "pubDate" : "Thu, 14 Sep 2023 14:28:14 +0000",
+         "title" : "FIDE World Junior Rapid & Blitz U20 Championship 2023: Registration deadline extended"
+      },
+      {
+         "description" : "This year saw a large number of entries for the awards. The winners have now been announced. Together with their citations, all the winning entries...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-2023-award-winners-announced/",
+         "pubDate" : "Thu, 14 Sep 2023 13:17:11",
+         "title" : "ECF 2023 Award Winners announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103665878.cms\" />Indian chess Grandmasters D Gukesh and Humpy Koneru are geared up for an intense showdown in the Armageddon Championship Series Finale in Berlin from Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-gukesh-humpy-to-play-armageddon-championship-finale-in-berlin/articleshow/103665878.cms",
+         "pubDate" : "Thu, 14 Sep 2023 12:14:52 +0000",
+         "title" : "Indian GMs Gukesh, Humpy to play Armageddon C'ship Finale in Berlin"
+      },
+      {
          "description" : " <p class=\"lead\">The Armageddon Championship Series 2023, a chess tournament designed for live TV broadcast, returns for its thrilling final stage. From September 14 to September 20, top-tier chess players, including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, Humpy Koneru, Richard Rapport, and Jan-Krzysztof Duda, will converge for a seven-day, double-elimination showdown under intense time pressure, all vying for the coveted Armageddon Championship Title and a substantial prize fund of €200,000. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/AVD50119.jpg",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-amateur-championship-2023-registration-deadline-extended/",
          "pubDate" : "Thu, 14 Sep 2023 08:49:33",
          "title" : "FIDE World Amateur Championship 2023 - registration deadline extended"
+      },
+      {
+         "description" : "With student chess players across the world gearing up for the Fall 2023 season of Chess.com&#39;s exciting Collegiate Chess League, Chess.com is pleased to announce the competition just got even more special. The premier online chess competition fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ccl-sig-presenting-sponsor",
+         "pubDate" : "Thu, 14 Sep 2023 07:53:45",
+         "title" : "Major Boost For Collegiate Chess League As SIG Signs For New Season"
       },
       {
          "description" : "The 2023 European Club Cup will be held at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen will play for Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on top boards. Over 80 teams have registered to participate in the open, while the women's cup counts with 25 teams so far.",
@@ -184,6 +232,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/a-bit-of-bluff.html",
          "pubDate" : "Tue, 12 Sep 2023 15:31:00",
          "title" : "A bit of a bluff?"
+      },
+      {
+         "description" : "The left side of last month's 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/august-1973-1998-on-cover.html\">August 1973 & 1998</A> (August 2023) featured Robert Byrne, 'who finished 3rd at the Leningrad Interzonal and thus qualified for the Candidates' Matches'. This month features the winner of the second Interzonal for that cycle. It was the first World Chess Championship cycle to have more than one Interzonal. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni12.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> '1998 U.S. CHESSathon' &#149; 'Interplay Junior Championship ... Junior Open ... Cadet Championship ... National Scholas",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/september-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 12 Sep 2023 15:01:00",
+         "title" : "September 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "We are pleased to announce the England Open team for the forthcoming European Team Chess Championship is GM Nikita Vitiugov 2719 GM David Howell...",
@@ -506,14 +562,6 @@ news_feed (
          "title" : "Annual Meeting of the CH&LS in Belfort"
       },
       {
-         "description" : "Former World Champion Garry Kasparov stormed in to grab the lead on the first day of the 2023 Champions Showdown: Chess9LX, as he scored two wins, against Wesley So and Ray Robson, along with a draw against Hikaru Nakamura to end the day in clear first place with 2&frac12;/3. Tied for second going into day 2 are Levon Aronian and Sam Sevian, both half a point behind with 2/3. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2023-d1",
-         "pubDate" : "Sat, 09 Sep 2023 16:50:00",
-         "title" : "Chess 9LX: Kasparov in the lead!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103539589.cms\" />World Cup runner-up R Praggnanandhaa secured the highest position among the Indian participants, finishing third overall. Meanwhile, the reigning world champion, Alexander Grischuk, dominated the Open Blitz category to claim the title at the Tata Steel Chess India 2023 event in Kolkata on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -536,14 +584,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-com-membership/",
          "pubDate" : "Sat, 09 Sep 2023 12:00:24",
          "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
-      },
-      {
-         "description" : "The Tata Steel Chess India tournaments are taking place from August 31 to September 9 at the Bhasa Bhawan Auditorium of the majestic National Library in Kolkata. The blitz section of the men's event is being played from Friday to Saturday, with five Indian stars facing five international grandmasters. | Follow the games live with expert commentary starting at 11.30 CEST (5.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-live",
-         "pubDate" : "Sat, 09 Sep 2023 10:15:00",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "The original Pragmatic Sanction was an edict issued by Holy Roman Emperor Charles VI, on 19 April 1713. It ended that the Habsburg monarchy, the extensive territories of which included the Archduchy of Austria and the Kingdom of Hungary, could be inherited by a daughter - undivided. Division would have irrevocably weakened the Empire, whose []",
@@ -970,14 +1010,6 @@ news_feed (
          "title" : "Tata Steel Chess India: Harika, Humpy stage comebacks"
       },
       {
-         "description" : "GM Magnus Carlsen defeated GM Alireza Firouzja in the Grand Final of the 2023 Julius Baer Generation Cup to clinch his third tournament victory on the Champions Chess Tour. Though both players were in imperfect form, their fighting nature shined t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-generation-cup-ko-day-5",
-         "pubDate" : "Sun, 03 Sep 2023 15:47:00",
-         "title" : "Triumph On A Choppy Day: Carlsen Defeats Firouzja Again"
-      },
-      {
          "description" : "In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshunds Play Chess</A> (August 2023), the latest for the long-running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I wrote, <BLOCKQUOTE> After so many years of <I>Top eBay Chess Items</I>, I sometimes can't be sure whether I've already featured an item or not. </BLOCKQUOTE> <P> This month I was sure that I had featured the item(s) pictured below, but when? It turned out that half of the current auction appeared in <A HREF=\"https://chessforallages.blogspot.com/2017/04/mrs-piatigorskys-auto",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1242,14 +1274,6 @@ news_feed (
          "title" : "60th National Chess Championship 2023, Certificates"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103198303.cms\" />Indian chess prodigy R Praggnanandhaa, who won the 2023 FIDE World Cup silver medal and FIDE Candidates tournament, received an enthusiastic reception upon his arrival. State sports department officials welcomed him with flower crowns, shawls, and bouquets. Traditional Tamil Nadu folk dances, including Karagattam and Oyilattam, added to the celebratory atmosphere.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-praggnanandhaa-receives-heros-welcome-after-fide-world-cup-success/articleshow/103198303.cms",
-         "pubDate" : "Wed, 30 Aug 2023 06:00:51 +0000",
-         "title" : "WATCH: Praggnanandhaa receives hero's welcome after WC success"
-      },
-      {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1488,30 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2608",
          "pubDate" : "Thu, 24 Aug 2023 21:49:48 +0000",
          "title" : "FIDE World Rapid and Blitz Championships 2024 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2606",
-         "pubDate" : "Thu, 24 Aug 2023 13:44:15 +0000",
-         "title" : "Magnus Carlsen secures first World Cup victory, Prag finishes second, Caruana third"
-      },
-      {
-         "description" : " Magnus Carlsen has defeat Pragganandhaa 1.5-0.5 in the rapid playoffs to win the 2023 FIDE World Cup. Although the event qualifies the top 3 place getters for the upcoming candidates series, Carlsen's prior decision to not play in the upcoming World Championship cycle means his victory was all about winning one title he has not won yet. Unburdened by the pressure of further progress, Carlsen instead demonstrated why he is still the best player in the world, scoring a number of seemingly effortless wins on the way to fist place. He did of course lose a game early on the Vincent Keymar, but after rebounding in the must win second game of that match, seemed to have everything under control (al",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/carlsen-wins-world-cup.html",
-         "pubDate" : "Thu, 24 Aug 2023 13:10:00",
-         "title" : "Carlsen wins World Cup"
-      },
-      {
-         "description" : "Former World Champion Magnus Carlsen has accomplished a significant milestone in his illustrious chess career by capturing his inaugural World Cup title, the only tournament that was missing from his immense collection of victories. All three top-placed players have qualified for the 2024 Candidates tournament, which is due to take place next April in Canada. Full report to follow.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-live",
-         "pubDate" : "Thu, 24 Aug 2023 11:50:00",
-         "title" : "Magnus victorious"
       }
    ]
 }
