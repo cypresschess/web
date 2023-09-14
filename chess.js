@@ -1504,30 +1504,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
          "pubDate" : "Fri, 25 Aug 2023 07:00:03",
          "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
-      },
-      {
-         "description" : "The 18-year-old Indian beat the world No 2 and 3 players before taking the final versus world No 1 Magnus Carlsen to tie-breaks in an historic FIDE World Cup campaign.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38249897/r-praggnanandhaa-silver-2023-chess-world-cup-gold-standard-indian-chess?device=featurephone",
-         "pubDate" : "Thu, 24 Aug 2023 23:13:00",
-         "title" : "Praggnanandhaa's World Cup silver shows he can meet the gold standard"
-      },
-      {
-         "description" : " The FIDE World Cup took place in Baku, Azerbaijan Sunday 30th Jul to Thursday 24th Aug 2023. The event is a qualifier for the FIDE Candidates tournament as well as being worth winning in its own right. Magnus Carlsen is the top seed, he had never won the event and clearly saw this as something he would like to rectify. His leading rivals were Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Anish Giri, Wesley So, Teimour Radjabov. D Gukesh, Shakhriyar Mamedyarov in a strong field. Alongside was an equally well represented women's field including World Champion Ju Wenjun. Magnus Carlsen won the event playing a lot of the younger generation on his way to the title. Carlsen was almost eli",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-cup-2023",
-         "pubDate" : "Thu, 24 Aug 2023 22:19:00",
-         "title" : "FIDE World Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2608",
-         "pubDate" : "Thu, 24 Aug 2023 21:49:48 +0000",
-         "title" : "FIDE World Rapid and Blitz Championships 2024 - Call for bids"
       }
    ]
 }
