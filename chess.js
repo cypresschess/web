@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 European Club Cup will be held at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen will play for Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on top boards. Over 80 teams have registered to participate in the open, while the women's cup counts with 25 teams so far.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-preview",
+         "pubDate" : "Thu, 14 Sep 2023 07:30:00",
+         "title" : "Carlsen and Anand to play in European Club Cup"
+      },
+      {
+         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
+         "pubDate" : "Thu, 14 Sep 2023 07:25:00",
+         "title" : "Armageddon Grand Final: Duda, So, Gukesh in action!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 12, 2023</strong> - GM Sam Sevian won the <a href=\"https://www.uschesschamps.com/2023-champions-showdown-chess-9lx/overview\" target=\"_blank\">2023 Champions Showdown: Chess 9LX</a> after a brilliant final day, where he defeated a competitive field including legendary former World Champion Garry Kasparov and World No. 2 Fabiano Caruana to take home the $37,500 first place prize. Chess 9LX was hosted by the Saint Louis Chess Club at the World Chess Hall of Fame September 8-11, 2023. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Sam Sevian wins 2023 Chess 9LX</div><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -520,22 +536,6 @@ news_feed (
          "link" : "https://www.thearticle.com/praggmatic-sanction-the-ascent-of-an-indian-chess-prodigy/",
          "pubDate" : "Sat, 09 Sep 2023 09:52:05",
          "title" : "Praggmatic Sanction: the ascent of an Indian chess prodigy"
-      },
-      {
-         "description" : "After 21.Bxh6! (diagram) Black can't take back, but after 21...g6 White needs a brilliant idea to prevent his attack from going nowhere. Can you deliver?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/attacking-bishops",
-         "pubDate" : "Sat, 09 Sep 2023 09:00:00",
-         "title" : "Attacking bishops"
-      },
-      {
-         "description" : "The last round of the pool stage was full of unexpected twits and turns at the World Women's Team Championship. In the end, France and Ukraine advanced from Pool A, leaving India out of contention; in Pool B, Germany beat Bulgaria in a nerve-racking match to advance despite having started the event with three losses in a row. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-d3",
-         "pubDate" : "Sat, 09 Sep 2023 02:30:00",
-         "title" : "World Women's Team Ch: Germany leave Bulgaria out of contention"
       },
       {
          "description" : "",
