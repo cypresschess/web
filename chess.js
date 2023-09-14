@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The Armageddon Championship Series 2023, a chess tournament designed for live TV broadcast, returns for its thrilling final stage. From September 14 to September 20, top-tier chess players, including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, Humpy Koneru, Richard Rapport, and Jan-Krzysztof Duda, will converge for a seven-day, double-elimination showdown under intense time pressure, all vying for the coveted Armageddon Championship Title and a substantial prize fund of €200,000. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/AVD50119.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-most-innovative-chess-event-is-back-the-armageddon-series-gr/",
+         "pubDate" : "Thu, 14 Sep 2023 10:26:31",
+         "title" : "The most innovative chess event is back: The Armageddon Series Grand Finale begins today!"
+      },
+      {
+         "description" : "The Organizing Committee of the FIDE World Amateur Chess Championship announces that the registration deadline&#160;has been extended to September 28, 2023. The competition will take...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-world-amateur-championship-2023-registration-deadline-extended/",
+         "pubDate" : "Thu, 14 Sep 2023 08:49:33",
+         "title" : "FIDE World Amateur Championship 2023 - registration deadline extended"
+      },
+      {
          "description" : "The 2023 European Club Cup will be held at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen will play for Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on top boards. Over 80 teams have registered to participate in the open, while the women's cup counts with 25 teams so far.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,30 +1512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-cup-2023-live",
          "pubDate" : "Thu, 24 Aug 2023 11:50:00",
          "title" : "Magnus victorious"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2605",
-         "pubDate" : "Thu, 24 Aug 2023 09:45:00 +0000",
-         "title" : "FIDE World Junior U20 Championship: Registration extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2607",
-         "pubDate" : "Thu, 24 Aug 2023 08:59:16 +0000",
-         "title" : "5th FIDE World Championship for People with Disabilities crosses midpoint"
-      },
-      {
-         "description" : "Praggnanandhaa lost 1.5 - 2.5 to Carlsen after he lost the first rapid tie-break before only managing a draw in the second.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38249512/2023-chess-world-cup-r-praggnanandhaa-magnus-carlsen-tiebreak-winner-world-no-1?device=featurephone",
-         "pubDate" : "Thu, 24 Aug 2023 08:38:09",
-         "title" : "Carlsen wins World Cup after beating Pragg in tie-breaks"
       }
    ]
 }
