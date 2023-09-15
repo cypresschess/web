@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third quarterly meeting of the ECU Board was held in Mamaia, Romania, on September 7th. Romanian Chess federation hosted the ECU Board under excellent conditions. Main information and Decisions: 1.&#160;The ECU Board&#160;discussed the new FIDE regulations about transgender players. ECU Board notes the following: &bull;&#160;ECU as main principle follows IOC framework for fairness, inclusion and not discrimination. &bull;&#160;ECU follows FIDE registration system and database for all chess players. Based on FIDE public database players have the right to participate in open, women, youth, or seniors' []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl_no2-2023/",
+         "pubDate" : "Fri, 15 Sep 2023 09:44:02",
+         "title" : "Communique of the ECU Board Meeting - CL_No2/2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2634",
+         "pubDate" : "Fri, 15 Sep 2023 09:05:43 +0000",
+         "title" : "Winners crowned at European Youth Championship 2023"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2023 concluded yesterday in Mamaia, Romania. Mahammad Kazimzade (AZE) emerged as the winner of the Open U8 section having better tiebreaks than Luca Protopopescu (FRA) who had the same score of 7.5 points but claimed bronze. Three players tied for bronze scoring 7 points, each, but Kucher Artam (UKR) won the medal thanks to the best tiebreak criteria. Ahmadli Mehriban (AZE) triumphed in the Girls U8 category with the score of 7.5 points. She was []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-champions-2023-crowned-in-mamaia-romania/",
+         "pubDate" : "Fri, 15 Sep 2023 08:07:01",
+         "title" : "European Youth Chess Champions 2023 crowned in Mamaia, Romania"
+      },
+      {
          "description" : "Vladimir Kramnik recently caused a stir with an online game against Hans Niemann, in which he wanted to let himself be mated quickly in protest of Niemann's alleged cheating in the previous game. Kramnik, however, is not so much concerned with Niemann himself, but with the cheating problem in online chess in general. He estimates that the problem is much bigger than people think and presented his arguments in a long video interview. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "Unfair play: from JK Rowling to Sharron Davies"
       },
       {
-         "description" : "The fights for the EU Youth Chess Championship 2023 winning throne culminated on Thursday, August 24th in Kouty nad Desnou (CZE). The last rounds were full of fights and tension. In category Boys U8 took the first place Atanas Taskov (BUL, 9 out of 9!), the second place Jean Desfosses (FRA) and the third Kyriakos Skouroupathis (CYP). In category Girls U8 took the first place Karina Ser (LTU), the second place Agathe Gastaldo (FRA) and the third Melania-Cristina Grigore (ROU). []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-21st-eu-youth-chess-championship-2023-concluded-in-czech-republic/",
-         "pubDate" : "Sat, 26 Aug 2023 06:37:08",
-         "title" : "The 21st EU Youth Chess Championship 2023 concluded in Czech Republic"
-      },
-      {
          "description" : "Getting better at chess is pretty straightforward. If you spend time on a few things that really matter, you will be able to improve your chess rather quickly. In this article, I will share my simple philosophy for chess improvement. It worked for me, 400+ course students, and thousands of readers. It will work for []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
          "pubDate" : "Fri, 25 Aug 2023 12:36:05",
          "title" : "Carlsen wins 2023 FIDE World Cup!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2609",
-         "pubDate" : "Fri, 25 Aug 2023 11:23:44 +0000",
-         "title" : "Winners crowned at 21st European Union Youth Chess Championship"
       }
    ]
 }
