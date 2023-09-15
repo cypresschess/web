@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On the second day of action, Nodirbek Abdusattorov faces Richard Rapport and Humpy Koneru faces Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Fri, 15 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King shares his insights on Praggnanandhaa's ability to use one of Magnus Carlsen's favourite strategies: playing an early Bg5 to provoke ...g5. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-pragg-secret",
+         "pubDate" : "Fri, 15 Sep 2023 18:00:00",
+         "title" : "Daniel King's Power Play Show: Pragg knows the secret too"
+      },
+      {
          "description" : "From 22 to 26 September, Ilya Levitov is organising a \"Chess Week\" for the second time. Ten strong players will compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. Four years ago, the winner was Ian Nepomniachtchi, who will attempt to defend his title in Amsterdam. | Photo: Adele and Ilya Levitov with Ian Nepomniachtchi",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-preview",
          "pubDate" : "Fri, 15 Sep 2023 16:50:00",
          "title" : "Stellar lineup at Levitov Chess Week in Amsterdam"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2635",
+         "pubDate" : "Fri, 15 Sep 2023 15:25:36 +0000",
+         "title" : "Invitation: FIDE Congress and General Assembly 2023"
       },
       {
          "description" : "Vladimir Kramnik recently caused a stir with an online game against Hans Niemann, in which he wanted to let himself be mated quickly in protest of Niemann's alleged cheating in the previous game. Kramnik, however, is not so much concerned with Niemann himself, but with the cheating problem in online chess in general. He estimates that the problem is much bigger than people think and presented his arguments in a long video interview. | Photo: Amruta Mokal",
@@ -570,6 +594,14 @@ news_feed (
          "title" : "WWTC 2023: Georgia and Kazakhstan to fight for the gold"
       },
       {
+         "description" : " Here's a question for you. Yes, it's another pawn ending. White to move: what would you play here? Make your choice before you read on. This position arose in a game between Julian Llewellyn (1790) and Eldar Alizada (2001) in the championship section of the recent Berks &#38; Bucks Congress in Maidenhead, with White to <a href=\"https://chessimprover.com/maidenhead-trebuchet/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Maidenhead Trebuchet\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/maidenhead-trebuchet/\">Maidenhead Trebuchet</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/maidenhead-trebuchet/",
+         "pubDate" : "Sun, 10 Sep 2023 17:39:51",
+         "title" : "Maidenhead Trebuchet"
+      },
+      {
          "description" : "At the recently concluded <A HREF=\"https://en.wikipedia.org/wiki/Chess_World_Cup_2023\">Chess World Cup 2023</A> (wikipedia.org), India's Praggnanandhaa, who turned 18-years old during the tournament, was runner-up. He lost to former World Champion Magnus Carlsen in the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/MyJFtIy2BqI?si=G3htVIdzaDZ0hSMU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Praggnanandhaa Asks: How To Handle Tension in a Game? | Chess World Cup</B> (6:58) &#149; '[Published on] Aug 24, 2023' <P> Th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -594,28 +626,12 @@ news_feed (
          "title" : "Understanding before Moving 142: Chess history in a nutshell (24)"
       },
       {
-         "description" : "The nine best players of the USA and Garry Kasparov are showing their skills in Fischer Random Chess (Chess 960 or \"Chess 9LX\") at the Saint Louis Chess Centre. The action starts at 14.00 ET (20.00 CEST, 18.00 GMT). Follow the games live, with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-live-from-the-saint-louis-chess-center",
-         "pubDate" : "Sun, 10 Sep 2023 14:55:00",
-         "title" : "Chess 9LX: Live from the Saint Louis Chess Center"
-      },
-      {
          "description" : " The idea of settling a chess related dispute through playing a match goes a long way back, and at least has the befit of being less violent than actually shooting at each other. Indeed there seems to be a current dispute in Australian chess involving this conflict resolution, although it seems the lower rated player is not so keen on accepting the challenge (Noting that some point the past the same player had challenged other, lower rated players to matches in a similar way!). Of course the risk is that it actually doesn't settle much, as shown by an old joke I found in \"Chess with the Masters\" by Martin Behim. Burletzki (a coffee house player) arranged a 6 game match with a German master n",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/09/pistols-at-dawn.html",
          "pubDate" : "Sun, 10 Sep 2023 14:00:00",
          "title" : "Pistols at dawn?"
-      },
-      {
-         "description" : "Levon Aronian and Sam Sevian managed to overtake the lead after an exciting day 2 in the 2023 Champions Showdown: Chess 9LX, going into Sunday's final rounds with 4&frac12;/6. A full point behind the leaders are Fabiano Caruana, Wesley So, and Sam Shankland, each with 3&frac12;/6, while former World Champion Garry Kasparov stumbled after leading day 1, scoring only &frac12;/3 to end the day on 3/6. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2023-d2",
-         "pubDate" : "Sun, 10 Sep 2023 12:00:00",
-         "title" : "Chess 9LX: Aronian and Sevian share the lead"
       },
       {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2023 in Mamaia, Romania, and only four rounds left to be played before the announcement of the Winners. Most of the categories still have the shared lead with the open battles for the throne, but a few players emerged as the sole leaders of the event. Scoring perfect 5/5 points, Artem Kucher (UKR) and Andria Jakhaia (GEO) tie for the top of the Open U8 section. They are []",
