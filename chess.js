@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f2EydPV3oSA.jpg?itok=Mw4ivZKv\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f2EydPV3oSA",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
          "pubDate" : "Thu, 14 Sep 2023 18:30:00",
          "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura moves on to the Semifinals, while GM Ian Nepomniachtchi is through to the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. Nakamura defeated GM Fabiano Caruana by a 10-point margin, 18.5-8.5,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-qr-nepomniachtchi-erigaisi-nakamura-caruana",
+         "pubDate" : "Thu, 14 Sep 2023 17:55:00",
+         "title" : "Nakamura Wins With 1.Nh3, Nepomniachtchi Will Play Carlsen"
       },
       {
          "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 9 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/more-silliness.html",
          "pubDate" : "Mon, 04 Sep 2023 13:08:00",
          "title" : "More silliness"
-      },
-      {
-         "description" : "The summer holidays are coming to an end, and school is about to start again (or already has!). For parents and educators (or anyone with a chess-loving kid in their family), ChessKid is the best resource you can use to give them an extraordinary ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-2023-back-to-school-sale",
-         "pubDate" : "Mon, 04 Sep 2023 10:57:00",
-         "title" : "ChessKid's 2023 Back To School Sale Starts Now!"
       },
       {
          "description" : "A Senior National Arbiter seminar followed by an examination was organized by Karnataka State Chess Association, on behalf of All India Chess Federation on 26th",
