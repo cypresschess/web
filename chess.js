@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Kramnik recently caused a stir with an online game against Hans Niemann, in which he wanted to let himself be mated quickly in protest of Niemann's alleged cheating in the previous game. Kramnik, however, is not so much concerned with Niemann himself, but with the cheating problem in online chess in general. He estimates that the problem is much bigger than people think and presented his arguments in a long video interview. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-controversy-two",
+         "pubDate" : "Fri, 15 Sep 2023 07:30:00",
+         "title" : "The Hans Niemann controversy 2.0?"
+      },
+      {
+         "description" : " The former world champion, 60, led the Champions Showdown 9LX unbeaten with 3/4, then collapsed to 3/9, while the 22-year-old finished ahead of the US elite The 2022 Champions Showdown 9LX (Fischer Random) in St Louis proved a horror show for Garry Kasparov, who in his prime as world champion from 1985 to 2000 won 15 consecutive tournaments. The 60-year-old, who rivals Magnus Carlsen and Bobby Fischer as the No 1 of all time, managed a single solitary draw in nine games, and blamed it on the demands of his political work. Back again last week for another try, Kasparov had a brilliant start with 3/4, leading the 10-player elite field headed by the world Nos 2 and 3, Fabiano Caruana and Hikar",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/world/2023/sep/15/chess-kasparov-subsides-at-st-louis-while-sam-sevian-scores-career-best",
+         "pubDate" : "Fri, 15 Sep 2023 07:00:55",
+         "title" : "Chess: Kasparov subsides at St Louis while Sam Sevian scores career best"
+      },
+      {
+         "description" : "Please find the Tata Steel Asian Junior Open and Junior Blitz Live Games Link Chess Results link Open Blitz :&#160;https://chess-results.com/tnr812152.aspx?lan=1 Chess Results link Girls Blitz",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/tata-steel-asian-junior-open-and-junior-blitz-live-games-link/",
+         "pubDate" : "Fri, 15 Sep 2023 05:38:12",
+         "title" : "Tata Steel Asian Junior Open and Junior Blitz Live Games Link"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation<br /> Mikhalevski vs. Tymur Keleberda, 2023: E25 Nimzo-Indian, Saemisch, Keres variation<br /> Mikhalevski vs. Franz Braeuer, 2023: C45 Scotch, Mieses variation<br /> <a href=\"https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01\">https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/idea-h4-h5-different-lines-prepare-pro-gm-victor-mikhalevski",
+         "pubDate" : "Fri, 15 Sep 2023 03:41:24",
+         "title" : "The Idea of h4-h5 in Different Lines | Prepare Like A Pro - GM Victor Mikhalevski"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f2EydPV3oSA",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -450,14 +482,6 @@ news_feed (
          "title" : "World Women's Team Ch: Georgia and Kazakhstan to fight for gold"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the sixth Chess 9LX event is a 10-player Fischer Random chess (Chess960) round robin rapid tournament (pairings below). Today are the first three rounds. Join GMs Yasser Seirawan, Cristian Chirila, and IM Nazi Paikidze for the move-by-move. 2023.09.08<br /> USChessChamps.com LIVE GAMES: <a href=\"https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/GehMTNw0\">https://lichess.org/broadcast/2023-champions-showdown-chess9lx/round-1/G...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-champions-showdown-chess-9lx-day-1",
-         "pubDate" : "Mon, 11 Sep 2023 00:37:21",
-         "title" : "2023 Champions Showdown | Chess 9LX: Day 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -576,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-september-9-2023",
          "pubDate" : "Sat, 09 Sep 2023 17:08:28",
          "title" : "Nihal Streams For First Time in 3 Years, Wins In Bullet Brawl Masterclass"
-      },
-      {
-         "description" : "The former Ken Whyld Association has since been renamed the Chess History and Literature Society. Its members meet regularly for exchange, most recently in Belfort, a magical place for bibliophiles and chess historians. The city library administers the 27,000 volumes chess library of the famous collector Dr Jean Mennerat (1917-2007). | Photo: From left to right: Cl&eacute;mence Tariol (curator) and a staff member, Dr Hans Ellinger (Germany), Henri Serruys (Belgium), Dr Jurgen Stigter (Netherlands), Jean-Olivier Leconte (France). ©Herbert Bastian",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/annual-meeting-of-the-ch-ls-in-belfort",
-         "pubDate" : "Sat, 09 Sep 2023 17:00:00",
-         "title" : "Annual Meeting of the CH&LS in Belfort"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103539589.cms\" />World Cup runner-up R Praggnanandhaa secured the highest position among the Indian participants, finishing third overall. Meanwhile, the reigning world champion, Alexander Grischuk, dominated the Open Blitz category to claim the title at the Tata Steel Chess India 2023 event in Kolkata on Saturday.",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "A Foundation for Beginners One Hundred One"
       },
       {
-         "description" : "The Senior National Arbiter Seminar organized by All India Chess Federation got off to a rousing start at Bengaluru today .Professor IA Rathinam Anantharam",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/dual-senior-national-arbiter-seminar-starts-in-bengaluru-from-26-27-august-2023/",
-         "pubDate" : "Sat, 26 Aug 2023 10:16:16",
-         "title" : "Dual Senior National Arbiter Seminar starts in Bengaluru from 26-27 August 2023"
-      },
-      {
          "description" : "Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet to be cancelled. No armies of wokistas demonstrating in front of the raised drawbridge of Castle Keene, no strident sans culottes barricading the streets, screaming Ray &agrave; la lanterne, not one lecture or simultaneous []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2609",
          "pubDate" : "Fri, 25 Aug 2023 11:23:44 +0000",
          "title" : "Winners crowned at 21st European Union Youth Chess Championship"
-      },
-      {
-         "description" : " Norway's world No 1 beat the 18-year-old 2.5-1.5 after playing cautiously in the first two games due to food poisoning Magnus Carlsen has finally won the biennial World Cup, the only major individual honour to have eluded him. Norway's World No 1 defeated India's 18-year-old Rameshbabu Praggnanandhaa 2.5-1.5 in the final. Carlsen's first prize was $110,000 and Praggnanandhaa's $80,000. Carlsen contracted food poisoning after his semi-final win last weekend and he was still recovering during the first two days of the final, where he played in an untypically cautious style, aiming for draws. <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa",
-         "pubDate" : "Fri, 25 Aug 2023 07:00:03",
-         "title" : "Chess: sickly Carlsen wins World Cup in Baku by beating Praggnanandhaa"
       }
    ]
 }
