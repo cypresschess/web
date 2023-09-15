@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 22 to 26 September, Ilya Levitov is organising a \"Chess Week\" for the second time. Ten strong players will compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. Four years ago, the winner was Ian Nepomniachtchi, who will attempt to defend his title in Amsterdam. | Photo: Adele and Ilya Levitov with Ian Nepomniachtchi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-preview",
+         "pubDate" : "Fri, 15 Sep 2023 16:50:00",
+         "title" : "Stellar lineup at Levitov Chess Week in Amsterdam"
+      },
+      {
+         "description" : "Vladimir Kramnik recently caused a stir with an online game against Hans Niemann, in which he wanted to let himself be mated quickly in protest of Niemann's alleged cheating in the previous game. Kramnik, however, is not so much concerned with Niemann himself, but with the cheating problem in online chess in general. He estimates that the problem is much bigger than people think and presented his arguments in a long video interview. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-controversy-two",
+         "pubDate" : "Fri, 15 Sep 2023 14:25:00",
+         "title" : "The Hans Niemann controversy 2.0?"
+      },
+      {
+         "description" : "The Armageddon Championship Series: Grand Finale began on September 14 at the World Chess Club in Berlin. In an evening filled with suspense and strategic brilliance, Gukesh D and Jan-Krzysztof Duda emerged as victors, each securing a commanding 2-0 win against their formidable opponents, Wesley So and Sam Shankland. | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d1",
+         "pubDate" : "Fri, 15 Sep 2023 14:15:00",
+         "title" : "Armageddon: Clear wins for Gukesh and Duda"
+      },
+      {
+         "description" : "ChessBase Magazine #215 offers over an hour of video playing time with its three opening videos alone (the total playing time of all videos in CBM #215 is more than seven hours). Robert Ris uses three new games by Richard Rapport to examine what White can hope for in the Vienna Game after 5.Qf3. Ivan Sokolov examines the highly topical variation 11.h4!? in the Semi-Tarrasch, especially Giri's novelty 13.Rh3 against Praggnanandhaa. And Daniel King gives a recommendation for the side line 3...e5 against the Sicilian Rossolimo Variation which has already been tested at the highest level. You can watch an extract from Robert Ris' analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-ideas-in-the-vienna-game-rossolimo-variation-and-the-semi-tarrasch",
+         "pubDate" : "Fri, 15 Sep 2023 14:00:00",
+         "title" : "New ideas in the Vienna Game, Rossolimo Variation and the Semi-Tarrasch"
+      },
+      {
+         "description" : " FM Rupert Jones has been recognised by the English Chess Federation for his many contributions to chess. Although resident in The Peoples Republic of Yorkshire, he has represented both Botswana (where he worked in the 80's and 90's) and Papua New Guinea (where he was born). To get an idea of all the things he has achieved you can read the citation at <a href=\"https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf\">https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf</a> Also recognised was IA Alex McFarlane, who I have had the pleasure of working with on a number of occasions. Well done Rupert and Alex <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/congratulations-fm-rupert-jones.html",
+         "pubDate" : "Fri, 15 Sep 2023 13:51:00",
+         "title" : "Congratulations FM Rupert Jones"
+      },
+      {
          "description" : "The third quarterly meeting of the ECU Board was held in Mamaia, Romania, on September 7th. Romanian Chess federation hosted the ECU Board under excellent conditions. Main information and Decisions: 1.&#160;The ECU Board&#160;discussed the new FIDE regulations about transgender players. ECU Board notes the following: &bull;&#160;ECU as main principle follows IOC framework for fairness, inclusion and not discrimination. &bull;&#160;ECU follows FIDE registration system and database for all chess players. Based on FIDE public database players have the right to participate in open, women, youth, or seniors' []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,20 +66,20 @@ news_feed (
          "title" : "European Youth Chess Champions 2023 crowned in Mamaia, Romania"
       },
       {
-         "description" : "Vladimir Kramnik recently caused a stir with an online game against Hans Niemann, in which he wanted to let himself be mated quickly in protest of Niemann's alleged cheating in the previous game. Kramnik, however, is not so much concerned with Niemann himself, but with the cheating problem in online chess in general. He estimates that the problem is much bigger than people think and presented his arguments in a long video interview. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-controversy-two",
-         "pubDate" : "Fri, 15 Sep 2023 07:30:00",
-         "title" : "The Hans Niemann controversy 2.0?"
-      },
-      {
-         "description" : " The former world champion, 60, led the Champions Showdown 9LX unbeaten with 3/4, then collapsed to 3/9, while the 22-year-old finished ahead of the US elite The 2022 Champions Showdown 9LX (Fischer Random) in St Louis proved a horror show for Garry Kasparov, who in his prime as world champion from 1985 to 2000 won 15 consecutive tournaments. The 60-year-old, who rivals Magnus Carlsen and Bobby Fischer as the No 1 of all time, managed a single solitary draw in nine games, and blamed it on the demands of his political work. Back again last week for another try, Kasparov had a brilliant start with 3/4, leading the 10-player elite field headed by the world Nos 2 and 3, Fabiano Caruana and Hikar",
+         "description" : " The former world champion, 60, led the Champions Showdown 9LX unbeaten with 3/4, then collapsed to 3/9, while the 22-year-old finished ahead of the US elite The 2022 Champions Showdown 9LX (Fischer Random) in St Louis proved a horror show for Garry Kasparov, who in his prime as world champion from 1985 to 2000 won 15 consecutive tournaments. The 60-year-old, who rivals Magnus Carlsen and Bobby Fischer as the No 1 of all time, managed only a single solitary draw in nine games, and blamed it on the demands of his political work. Back again last week for another try, Kasparov had a brilliant start with 3/4, leading the 10-player elite field headed by the world Nos 2 and 3, Fabiano Caruana and ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/world/2023/sep/15/chess-kasparov-subsides-at-st-louis-while-sam-sevian-scores-career-best",
          "pubDate" : "Fri, 15 Sep 2023 07:00:55",
          "title" : "Chess: Kasparov subsides at St Louis while Sam Sevian scores career best"
+      },
+      {
+         "description" : "Ever since the historic moment the great GM Garry Kasparov lost to Deep Blue in 1997, artificial intelligence has transformed chess. Now Chess.com, the world&#38;rsquo;s leading chess platform, is launching an elite tournament to celebrate AI&#38;rsquo;s ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ai-cup-leg-6-of-champions-chess-tour",
+         "pubDate" : "Fri, 15 Sep 2023 06:28:16",
+         "title" : "Chess Marks A.I. Revolution With Launch Of AI Cup: Leg 6 Of $2m Champions Chess Tour"
       },
       {
          "description" : "Please find the Tata Steel Asian Junior Open and Junior Blitz Live Games Link Chess Results link Open Blitz :&#160;https://chess-results.com/tnr812152.aspx?lan=1 Chess Results link Girls Blitz",
@@ -66,14 +106,6 @@ news_feed (
          "title" : "Opening Preparation | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On the first day of action, Gukesh D faces Wesley So and Jan-Krzysztof Duda faces Sam Shankland. | Follow the games live with expert commentary by Simon Williams and Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Thu, 14 Sep 2023 18:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
-      },
-      {
          "description" : "GM Hikaru Nakamura moves on to the Semifinals, while GM Ian Nepomniachtchi is through to the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. Nakamura defeated GM Fabiano Caruana by a 10-point margin, 18.5-8.5,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,20 +122,20 @@ news_feed (
          "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
       },
       {
+         "description" : "Grandmaster Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. This year, at seventeen, he crossed the 2600 Elo barrier (current Elo is 2622) for the first time and is probably one of the most active chess players in 2023 (almost 100 rated games). Leon has recorded a very interesting Fritztrainer on the venomous variation 1.Nf3 d5 2.e3, which most club-level players do not know how to effectively counter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-on-the-keymer",
+         "pubDate" : "Thu, 14 Sep 2023 16:35:00",
+         "title" : "Leon on the Keymer"
+      },
+      {
          "description" : "Fabiano Caruana had to face the underdog Nijat Abasov in the match for third place at the Baku World Cup. In round 8.2, the US player made a fairly unknown move in the Four Knights Sicilian, by moving the bishop to f4. Svitlana offers insights into various variations arising from this opening. The endgame provides valuable lessons as well!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-caruana-s-sicilian-surprise",
          "pubDate" : "Thu, 14 Sep 2023 16:30:00",
          "title" : "Svitlana's Smart Moves - Caruana's Sicilian surprise!"
-      },
-      {
-         "description" : "Grandmaster Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. This year, at seventeen, he crossed the 2600 Elo barrier (current Elo is 2622) for the first time and is probably one of the most active chess players in 2023 (almost 100 rated games). Leon has recorded a very interesting Fritztrainer on the venomous variation 1.Nf3 d5 2.e3, which most club-level players do not know how to effectively counter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-on-the-keymer",
-         "pubDate" : "Thu, 14 Sep 2023 15:40:00",
-         "title" : "Leon on the Keymer"
       },
       {
          "description" : "",
@@ -586,28 +618,12 @@ news_feed (
          "title" : "Chess 9LX: Aronian and Sevian share the lead"
       },
       {
-         "description" : "The quarterfinals of the World Women's Team Championship took place on Saturday. Georgia got the better of China; the United States eliminated Ukraine; France knocked out Poland; and Kazakhstan beat Germany. In the semifinals, Georgia will face the United States, and France will face Kazakhstan. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-qf",
-         "pubDate" : "Sun, 10 Sep 2023 09:00:00",
-         "title" : "World Women's Team Ch: Kazakhstan, France, USA and Georgia in semis"
-      },
-      {
          "description" : "Five rounds have been already played at the European Youth Chess Championship 2023 in Mamaia, Romania, and only four rounds left to be played before the announcement of the Winners. Most of the categories still have the shared lead with the open battles for the throne, but a few players emerged as the sole leaders of the event. Scoring perfect 5/5 points, Artem Kucher (UKR) and Andria Jakhaia (GEO) tie for the top of the Open U8 section. They are []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-chess-championship-2023-is-halfway-through/",
          "pubDate" : "Sun, 10 Sep 2023 07:07:14",
          "title" : "European Youth Chess Championship 2023 is halfway through"
-      },
-      {
-         "description" : "The Tata Steel Chess India Blitz tournament came to an end after rounds 10 to 18 were played on Saturday. Russian grandmaster Alexander Grischuk was the outright winner with a 12/18 score. Grischuk finished ahead of Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu, who both collected 11/18 points. Arjun Erigaisi and rapid-tournament winner Maxime Vachier-Lagrave were the two remaining players to end with a plus score. | Photo: Vivek Sohani",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-india-2023-d10",
-         "pubDate" : "Sun, 10 Sep 2023 03:30:00",
-         "title" : "Alexander Grischuk wins Tata Steel Chess India Blitz"
       },
       {
          "description" : "",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vitiugov-transfers-from-russia-to-become-new-england-number-one",
          "pubDate" : "Mon, 04 Sep 2023 15:17:00",
          "title" : "Vitiugov Transfers From Russia To Become England's New Number One"
-      },
-      {
-         "description" : "Women&#39;s World Champion Ju Wenjun secured the title of the 2023 Tata Steel Chess India Women&#39;s Blitz with 12.5 points after 18 rounds, outwitting her pursuers GM Harika Dronavalli, GM Humpy Koneru, and WGM Divya Deshmukh in the final two rounds. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2023-tata-steel-chess-india-womens-day-5-blitz",
-         "pubDate" : "Mon, 04 Sep 2023 14:13:00",
-         "title" : "Ju Wenjun Wins Dramatic Four-Horse Race To Secure Blitz Title"
       },
       {
          "description" : "On August 6th, to celebrate GM Helmut Pfleger's eightieth birthday, octogenarian puzzle master Werner Keym submitted two very clever little problems in two German newspapers. The puzzles, which had a unique form of birthday greetings encoded into them, were not at all easy to work out. Today we bring you the solutions.",
@@ -1496,22 +1504,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/how-to-get-better-at-chess/",
          "pubDate" : "Sat, 26 Aug 2023 06:00:00",
          "title" : "How to get better at Chess: A Grandmaster Guide"
-      },
-      {
-         "description" : "In last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> (August 2023), I concluded with:- <BLOCKQUOTE> Adsense is once again increasing the volume of its commanding voice: 'New Consent Management Platform [CMP] requirements for serving ads in the EEA and UK'. &#149; TBD. Watch this space... </BLOCKQUOTE> <P> My WCC index page, shown below, is a typical example of how I handle ads across the site. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh25.gif\" WIDTH=400 HEIGHT=215><BR> <A HREF=\"https://www.mark-weeks.com/chess/wcc-indx.htm\">Index : World Chess Championship</A> <P> The ad ('Download de whitepaper'; that'",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html",
-         "pubDate" : "Fri, 25 Aug 2023 15:17:00",
-         "title" : "Adsense and the GDPR"
-      },
-      {
-         "description" : " Magnus Carlsen added another accolade to his already storied career by winning the World Cup. He overcame a wonderful performance by Rameshbabu Praggnanandhaa who defeated both Hikaru Nakamura and Fabiano Caruana to qualify for the final. As a result, he became the youngest player to have made a World Cup final and one of the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/\">Carlsen wins 2023 FIDE World Cup!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/08/25/2023-fide-world-cup-finals/",
-         "pubDate" : "Fri, 25 Aug 2023 12:36:05",
-         "title" : "Carlsen wins 2023 FIDE World Cup!"
       }
    ]
 }
