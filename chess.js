@@ -18,6 +18,14 @@ news_feed (
          "title" : "Armageddon Grand Finale: Live!"
       },
       {
+         "description" : "GM Hikaru Nakamura monstered his way to a record 10th Bullet Brawl title on Saturday ahead of 168 titled players including GMs Magnus Carlsen and Oleksandr Bortnyk, who finished second and third. Nakamura&#39;s run to a winning score of 250 featured...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-16-2023",
+         "pubDate" : "Sat, 16 Sep 2023 16:18:36",
+         "title" : "Hikaru Eclipses Carlsen After 46-Game Unbeaten Streak"
+      },
+      {
          "description" : "In his Game of the Week show #584, Merijn Van Delft analyses a typical win by Maxime Vachier-Lagrave - the winner of the Tata Steel India Rapid event showed his ability to deal with complicated positions in his game with black against Vidit Gujrathi! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +154,7 @@ news_feed (
          "title" : "Congratulations FM Rupert Jones"
       },
       {
-         "description" : "The third quarterly meeting of the ECU Board was held in Mamaia, Romania, on September 7th. Romanian Chess federation hosted the ECU Board under excellent conditions. Main information and Decisions: 1.&#160;The ECU Board&#160;discussed the new FIDE regulations about transgender players. ECU Board notes the following: &bull;&#160;ECU as main principle follows IOC framework for fairness, inclusion and not discrimination. &bull;&#160;ECU follows FIDE registration system and database for all chess players. Based on FIDE public database players have the right to participate in open, women, youth, or seniors' []",
+         "description" : "The&#160;third&#160;quarterly meeting of the ECU Board was held in&#160;Mamaia,&#160;Romania, on&#160;September 7th. Romanian Chess federation&#160;hosted the ECU Board under excellent conditions.&#160; Main information and Decisions: 1.&#160;The ECU Board&#160;discussed the new FIDE regulations about transgender players. ECU Board notes the following: &bull;&#160;ECU as main principle follows IOC framework for fairness, inclusion and not discrimination. &bull;&#160;ECU follows FIDE registration system and database for all chess players. Based on FIDE public database players have the right to participate in open, women, youth, or seniors' []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl_no2-2023/",
@@ -1066,14 +1074,6 @@ news_feed (
          "title" : "Ju Wenjun pips Koneru Humpy for Tata Steel Chess blitz title"
       },
       {
-         "description" : "&#34;He&#39;s finishing up his bingo card!&#34; said GM Eric Hansen as GM Hikaru Nakamura managed to play 14 of the 16 possible first pawn moves for White on the way to beating GM Yu Yangyi 19-9 in the round of 16 of the 2023 Chess.com Speed Chess Championshi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nakamura-yu",
-         "pubDate" : "Mon, 04 Sep 2023 17:19:00",
-         "title" : "Nakamura Plays Opening Bingo To Beat Yu"
-      },
-      {
          "description" : "On August 6th, to celebrate GM Helmut Pfleger's eightieth birthday, octogenarian puzzle master Werner Keym submitted two very clever little problems in two German newspapers. The puzzles, which had a unique form of birthday greetings encoded into them, were not at all easy to work out. Today we bring you the solutions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,14 +1520,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-team-championship-2023",
          "pubDate" : "Sun, 27 Aug 2023 01:28:00",
          "title" : "World Rapid Team Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2610",
-         "pubDate" : "Sat, 26 Aug 2023 21:45:48 +0000",
-         "title" : "FIDE World Rapid Team Championship: WR Chess on top after four rounds"
       }
    ]
 }
