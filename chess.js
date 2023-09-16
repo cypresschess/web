@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #584, Merijn Van Delft analyses a typical win by Maxime Vachier-Lagrave - the winner of the Tata Steel India Rapid event showed his ability to deal with complicated positions in his game with black against Vidit Gujrathi! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-585-vidit-mvl",
+         "pubDate" : "Sat, 16 Sep 2023 13:00:00",
+         "title" : "Game of the Week #585: Vidit vs. MVL"
+      },
+      {
+         "description" : "In an interview published in India's \"The Week\" magazine, Viswanathan Anand talked about young Indian talents, how the pandemic impacted chess, his ongoing career as a professional player, among other topics. Referring to his young compatriots, Anand said: \"They are all in the 2,700-plus group (rating). And they are all under 20. That just does not happen; it is really something special\". | Photos: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-the-week-interview-2023",
+         "pubDate" : "Sat, 16 Sep 2023 12:35:00",
+         "title" : "\"The current generation is a golden generation\": Anand on The Week"
+      },
+      {
+         "description" : "Alert readers will recall the \"cheating\" scandal last year which arose between the then world champion, Magnus Carlsen - now still ranked as global numero uno in spite of renouncing his title - and the American teenager, Hans Niemann. The casus belli occurred when the two met over the board (OTB, as opposed to online) []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-great-chess-cheating-scandal-revisited/",
+         "pubDate" : "Sat, 16 Sep 2023 11:29:57",
+         "title" : "The great chess 'cheating' scandal revisited"
+      },
+      {
+         "description" : " The last time we met, we looked at a simple King and Pawn against lone King endgame position. While this combination of material is common, it's more likely that both players will have at least one pawn each. This changes things up a bit because both of you must promote a pawn and stop an <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-three/\">A Foundation for Beginners One Hundred Three</a> appeared first on <a rel=\"nofollow\" href=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-three/",
+         "pubDate" : "Sat, 16 Sep 2023 10:00:52",
+         "title" : "A Foundation for Beginners One Hundred Three"
+      },
+      {
          "description" : "In the diagram position Black has just set up a mate threat with 19...Qh3 ... but I can see your eyes are already on the Ke8. Let's do it - can you calculate everything in your head?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Castled vs. uncastled king"
       },
       {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On the second day of action, Nodirbek Abdusattorov faces Richard Rapport and Humpy Koneru faces Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "description" : "On the second day of the Armageddon Championship Series: Grand Finale, Nodirbek Abdusattorov emerged victorious against Richard Rapport, winning the match thanks to his speed and composure in the Armageddon game. In the matchup between Humpy Koneru and Bibisara Assaubayeva, Assaubayeva secured a win in the first game but fell short in the second. The Armageddon game featured a captivating over-the-board checkmate, ultimately granting Humpy victory in this thrilling competition. | Photo: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Fri, 15 Sep 2023 18:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d2",
+         "pubDate" : "Sat, 16 Sep 2023 08:50:00",
+         "title" : "Armageddon: Abdusattorov and Humpy prevail in tense matches"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King shares his insights on Praggnanandhaa's ability to use one of Magnus Carlsen's favourite strategies: playing an early Bg5 to provoke ...g5. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-carlsen-nepomniachtchi-vachier-lagrave-nihal",
-         "pubDate" : "Fri, 15 Sep 2023 16:54:01",
+         "pubDate" : "Fri, 15 Sep 2023 16:54:00",
          "title" : "Carlsen Beats Rival By 11 Points, Vachier-Lagrave Outpaces Bullet Whiz"
       },
       {
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-preview",
          "pubDate" : "Fri, 15 Sep 2023 16:50:00",
          "title" : "Stellar lineup at Levitov Chess Week in Amsterdam"
+      },
+      {
+         "description" : "For the current Friday series, I closed the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html\">Adsense and CFAA's CMP</A> (September 2023; CMP = Google's Consent Management Platform), in a holding pattern:- <BLOCKQUOTE> After adding the logo, my GDPR message was accepted. As I was preparing this post for publishing, the message still wasn't showing on my pages, so maybe I did something wrong. I'll come back to it for next Friday's post. </BLOCKQUOTE> <P> I had indeed done something wrong. I was watching the top level page for my domain which doesn't display an ad. The Adsense code to display an ad is the trigger for the consent message. When I ac",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/cfaas-consent-management.html",
+         "pubDate" : "Fri, 15 Sep 2023 15:55:00",
+         "title" : "CFAA's Consent Management"
       },
       {
          "description" : "",
@@ -570,14 +610,6 @@ news_feed (
          "title" : "No, There Is No Season 2 Of Queen's Gambit Coming"
       },
       {
-         "description" : "Both semifinals at the World Women's Team Championship in Bydgoszcz were decided in blitz tiebreakers. After trading wins in the two rapid sets, Kazakhstan and Georgia obtained clear wins in the 3-minute games that decided the matches. France and the United States will fight for bronze on Monday, starting one hour earlier than usual, at 14.00 CEST (8.00 ET, 17.30 IST). | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-sf",
-         "pubDate" : "Mon, 11 Sep 2023 03:10:00",
-         "title" : "World Women's Team Ch: Georgia and Kazakhstan to fight for gold"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -624,14 +656,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/let-others-say-youre-champion.html",
          "pubDate" : "Sun, 10 Sep 2023 15:36:00",
          "title" : "'Let Others Say You're a Champion'"
-      },
-      {
-         "description" : "Are chess players ice-cold creatures who always make their decisions at the board out of pure calculation? Of course not, even Magnus Carlsen is not emotionless, says GM Jan Markos in his contribution to the current ChessBase Magazine #215. In fact, very different emotions can influence decision-making in chess - often to one's own disadvantage. Markos presents three examples of this from his own practice and explores the question of how the influence of emotions can be counteracted. You can watch an excerpt from his video contribution here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-deal-with-emotions-in-chess",
-         "pubDate" : "Sun, 10 Sep 2023 15:00:00",
-         "title" : "\"How to deal with emotions in chess\""
       },
       {
          "description" : " The idea of settling a chess related dispute through playing a match goes a long way back, and at least has the befit of being less violent than actually shooting at each other. Indeed there seems to be a current dispute in Australian chess involving this conflict resolution, although it seems the lower rated player is not so keen on accepting the challenge (Noting that some point the past the same player had challenged other, lower rated players to matches in a similar way!). Of course the risk is that it actually doesn't settle much, as shown by an old joke I found in \"Chess with the Masters\" by Martin Behim. Burletzki (a coffee house player) arranged a 6 game match with a German master n",
@@ -1504,14 +1528,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/",
          "pubDate" : "Sat, 26 Aug 2023 14:46:09",
          "title" : "A Foundation for Beginners One Hundred One"
-      },
-      {
-         "description" : "Try as I might, by promoting controversial and unfashionable pronouncements, both here in TheArticle and on social media, I have signally failed as yet to be cancelled. No armies of wokistas demonstrating in front of the raised drawbridge of Castle Keene, no strident sans culottes barricading the streets, screaming Ray &agrave; la lanterne, not one lecture or simultaneous []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/unfair-play-from-jk-rowling-to-sharron-davies/",
-         "pubDate" : "Sat, 26 Aug 2023 08:36:04",
-         "title" : "Unfair play: from JK Rowling to Sharron Davies"
       }
    ]
 }
