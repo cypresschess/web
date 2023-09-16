@@ -18,6 +18,14 @@ news_feed (
          "title" : "\"The current generation is a golden generation\": Anand on The Week"
       },
       {
+         "description" : "Today, I'm going to show you how to defend a lost position. Let's face it, we all get into lost positions from time to time. It is great to avoid them in the first place, but defending them the right way will also make a huge difference to your results. Lost positions usually aren't fun []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/the-art-of-resilience-how-to-defend-lost-chess-positions/",
+         "pubDate" : "Sat, 16 Sep 2023 12:00:32",
+         "title" : "The Art of Resilience: How to Defend Lost Chess Positions"
+      },
+      {
          "description" : "Alert readers will recall the \"cheating\" scandal last year which arose between the then world champion, Magnus Carlsen - now still ranked as global numero uno in spite of renouncing his title - and the American teenager, Hans Niemann. The casus belli occurred when the two met over the board (OTB, as opposed to online) []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2610",
          "pubDate" : "Sat, 26 Aug 2023 21:45:48 +0000",
          "title" : "FIDE World Rapid Team Championship: WR Chess on top after four rounds"
-      },
-      {
-         "description" : " I mentioned that we would look at some examples of pawn structure, both their strengths and weaknesses, within game positions. This week, we're going to start doing just that. However, I want you to try a training method I use with my beginning students to get them used to employing and maintaining good pawn structure. <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/\">A Foundation for Beginners One Hundred One</a> appeared first on <a re",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-one/",
-         "pubDate" : "Sat, 26 Aug 2023 14:46:09",
-         "title" : "A Foundation for Beginners One Hundred One"
       }
    ]
 }
