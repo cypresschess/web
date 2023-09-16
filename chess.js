@@ -18,6 +18,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Pragg knows the secret too"
       },
       {
+         "description" : "GM Magnus Carlsen and GM Maxime Vachier-Lagrave advance to the Semifinals of the 2023 Chess.com Speed Chess Championship presented by Coinbase. Carlsen overcame his former world championship challenger, GM Ian Nepomniachtchi, by an 11-point marg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-carlsen-nepomniachtchi-vachier-lagrave-nihal",
+         "pubDate" : "Fri, 15 Sep 2023 16:54:01",
+         "title" : "Carlsen Beats Rival By 11 Points, Vachier-Lagrave Outpaces Bullet Whiz"
+      },
+      {
          "description" : "From 22 to 26 September, Ilya Levitov is organising a \"Chess Week\" for the second time. Ten strong players will compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. Four years ago, the winner was Ian Nepomniachtchi, who will attempt to defend his title in Amsterdam. | Photo: Adele and Ilya Levitov with Ian Nepomniachtchi",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nakamura-yu",
          "pubDate" : "Mon, 04 Sep 2023 17:19:00",
          "title" : "Nakamura Plays Opening Bingo To Beat Yu"
-      },
-      {
-         "description" : "GM Nikita Vitiugov, the Russian Champion in 2021 and current world number 25, became the most significant transfer from Russia since the invasion of Ukraine, as his switch to England was officially confirmed by FIDE last week. Vitiugov, who hail...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vitiugov-transfers-from-russia-to-become-new-england-number-one",
-         "pubDate" : "Mon, 04 Sep 2023 15:17:00",
-         "title" : "Vitiugov Transfers From Russia To Become England's New Number One"
       },
       {
          "description" : "On August 6th, to celebrate GM Helmut Pfleger's eightieth birthday, octogenarian puzzle master Werner Keym submitted two very clever little problems in two German newspapers. The puzzles, which had a unique form of birthday greetings encoded into them, were not at all easy to work out. Today we bring you the solutions.",
