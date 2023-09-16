@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black has just set up a mate threat with 19...Qh3 ... but I can see your eyes are already on the Ke8. Let's do it - can you calculate everything in your head?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/castled-vs-uncastled-king",
+         "pubDate" : "Sat, 16 Sep 2023 09:00:00",
+         "title" : "Castled vs. uncastled king"
+      },
+      {
          "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On the second day of action, Nodirbek Abdusattorov faces Richard Rapport and Humpy Koneru faces Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-deal-with-emotions-in-chess",
          "pubDate" : "Sun, 10 Sep 2023 15:00:00",
          "title" : "\"How to deal with emotions in chess\""
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 142nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-142-chess-history-in-a-nutshell-24",
-         "pubDate" : "Sun, 10 Sep 2023 15:00:00",
-         "title" : "Understanding before Moving 142: Chess history in a nutshell (24)"
       },
       {
          "description" : " The idea of settling a chess related dispute through playing a match goes a long way back, and at least has the befit of being less violent than actually shooting at each other. Indeed there seems to be a current dispute in Australian chess involving this conflict resolution, although it seems the lower rated player is not so keen on accepting the challenge (Noting that some point the past the same player had challenged other, lower rated players to matches in a similar way!). Of course the risk is that it actually doesn't settle much, as shown by an old joke I found in \"Chess with the Masters\" by Martin Behim. Burletzki (a coffee house player) arranged a 6 game match with a German master n",
@@ -1512,14 +1512,6 @@ news_feed (
          "link" : "https://www.thearticle.com/unfair-play-from-jk-rowling-to-sharron-davies/",
          "pubDate" : "Sat, 26 Aug 2023 08:36:04",
          "title" : "Unfair play: from JK Rowling to Sharron Davies"
-      },
-      {
-         "description" : "Getting better at chess is pretty straightforward. If you spend time on a few things that really matter, you will be able to improve your chess rather quickly. In this article, I will share my simple philosophy for chess improvement. It worked for me, 400+ course students, and thousands of readers. It will work for []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/how-to-get-better-at-chess/",
-         "pubDate" : "Sat, 26 Aug 2023 06:00:00",
-         "title" : "How to get better at Chess: A Grandmaster Guide"
       }
    ]
 }
