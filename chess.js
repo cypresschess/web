@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Netherlands hosted Eurochess, a now traditional bankers' tournament, and offered the guests from Europe a nice visiting programme. The host team from De Nederlandsche Bank (the Netherlands' central bank) won the team competition, while Razvan-Alexandru Sebe-Vodislav finished first in the individual standings. Gerd Densing played for the Bundesbank and found time to prepare a fine pictorial report. | Photos: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/de-nederlandsche-bank-win-bankers-tournament-2023",
+         "pubDate" : "Sat, 16 Sep 2023 20:30:00",
+         "title" : "De Nederlandsche Bank win Bankers' Tournament in Amsterdam"
+      },
+      {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Saturday, two matches from the lower bracket will decide which two players stay out of contention: Wesley So vs Sam Shankland and Richard Rapport vs Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Sat, 16 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
          "description" : "In his Game of the Week show #584, Merijn Van Delft analyses a typical win by Maxime Vachier-Lagrave - the winner of the Tata Steel India Rapid event showed his ability to deal with complicated positions in his game with black against Vidit Gujrathi! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "The Winning Academy 23: Bishop and knight against a rook"
       },
       {
-         "description" : "The World's Women's Team Championship is taking place on September 6-11 in Bydgoszcz, Poland. Twelve teams of four players are divided into two pools of approximate strength according to the teams' average rating, with the best eight advancing to a double-round knockout stage. The time control is 45 minutes for the whole game, plus 10-second increments per move. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-live",
-         "pubDate" : "Mon, 11 Sep 2023 13:50:00",
-         "title" : "World Women's Team Championship - Live!"
-      },
-      {
          "description" : "Bangalore National Arbiter Seminar, 26-17 AUG 2023 Certificates are out to download Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-womens-team-announcement/",
          "pubDate" : "Mon, 11 Sep 2023 08:52:21",
          "title" : "England Women's Team Announcement"
-      },
-      {
-         "description" : "Sam Sevian won the 2023 Champions Showdown after a brilliant final day, where he defeated both Garry Kasparov and Fabiano Caruana to finish with 7/9 points and take home the $37,500 first place prize. Sam Shankland, Wesley So and Levon Aronian shared second place with 6/9 points each. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2023-d3",
-         "pubDate" : "Mon, 11 Sep 2023 04:00:00",
-         "title" : "Sevian beats Kasparov and Caruana to win Chess 9LX tournament"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-robson-much-less-pressure-here-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZfwAGwK54Go.jpg?itok=OdDHgW8v\" alt=\"\" /></a></div>",
