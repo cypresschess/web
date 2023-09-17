@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to unavoidable circumstances the venue of the 36th NATIONAL OPEN AND GIRLS U11 CHESS CHAMPIONSHIPS-2023 has been shifted to RAJEEV GANDHI INDOOR STADIUM .",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u11-venue-changed/",
+         "pubDate" : "Sun, 17 Sep 2023 05:53:08",
+         "title" : "NATIONAL U11 :Venue Changed"
+      },
+      {
          "description" : "The Netherlands hosted Eurochess, a now traditional bankers' tournament, and offered the guests from Europe a nice visiting programme. The host team from De Nederlandsche Bank (the Netherlands' central bank) won the team competition, while Razvan-Alexandru Sebe-Vodislav finished first in the individual standings. Gerd Densing played for the Bundesbank and found time to prepare a fine pictorial report. | Photos: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1504,14 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2611",
          "pubDate" : "Sun, 27 Aug 2023 11:51:26 +0000",
          "title" : "Sethuraman wins Indian Championship"
-      },
-      {
-         "description" : "Former Asian Champion Grandmaster S P Sethuraman of Petroleum Sports Promotion Board reclaimed the National Champion title after 8 years at the 60th edition of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sethuraman-national-champion/",
-         "pubDate" : "Sun, 27 Aug 2023 07:01:26",
-         "title" : "Sethuraman National Champion"
       }
    ]
 }
