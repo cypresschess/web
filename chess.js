@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently, I've been looking at some of my old middlegame books, both as potential teaching material and for the pleasure of reminding myself what the bods had to say. A few of the found jewels: Max Euwe and Hans Kramer's two-volume work on the middlegame; three volumes of \"Complete Chess Strategy\" by Ludek Pachman; \"A Contemporary Approach to the Middlegame\" by Alexei Suetin; and three different editions of Aron Nimzowitch's \"My System\" (one in Russian).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-202",
+         "pubDate" : "Sun, 17 Sep 2023 20:00:00",
+         "title" : "Jon Speelman: Dusting off the shelf"
+      },
+      {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Saturday, two matches from the lower bracket will decide which two players stay out of contention: Wesley So vs Sam Shankland and Richard Rapport vs Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Sun, 17 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here one I tormented my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/there-was-a-bank-row-5",
+         "pubDate" : "Sun, 17 Sep 2023 15:05:00",
+         "title" : "There was a bank row?"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 143rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://chessimprover.com/busch-gass-gambit/",
          "pubDate" : "Sun, 17 Sep 2023 10:00:22",
          "title" : "Busch-Gass Gambit"
-      },
-      {
-         "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here one I tormented my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/there-was-a-bank-row-5",
-         "pubDate" : "Sun, 17 Sep 2023 10:00:00",
-         "title" : "There was a bank row?"
       },
       {
          "description" : "Due to unavoidable circumstances the venue of the 36th NATIONAL OPEN AND GIRLS U11 CHESS CHAMPIONSHIPS-2023 has been shifted to RAJEEV GANDHI INDOOR STADIUM .",
@@ -544,22 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-king-rules-2",
          "pubDate" : "Tue, 12 Sep 2023 09:00:00",
          "title" : "Knight vs bishop"
-      },
-      {
-         "description" : "The final of the World Women's Team Championship saw Georgia beating the young Kazakhstani squad by two sets to zero, with Lela Javakhishvili scoring back-to-back wins for the eventual champions. In the match for third place, France got the better of the United States. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-women-team-2023-final",
-         "pubDate" : "Tue, 12 Sep 2023 02:10:00",
-         "title" : "Georgia triumph at the World Women's Team Championship"
-      },
-      {
-         "description" : "This horrific 2001 terror attack took place far away, but oddly close by for us. The World Trade Center, which was destroyed, had been the site of the 1995 World Chess Championship. Garry Kasparov and Viswanathan Anand faced each other on the 107th floor, 400 meters above the streets of New York City. The destruction of the towers was the subject of the very first article we posted on our newly launched news page.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-i-experienced-9-11",
-         "pubDate" : "Tue, 12 Sep 2023 02:00:00",
-         "title" : "How I experienced 9/11"
       },
       {
          "description" : "In the end, the top-ranked Georgian team, led by GM Bella Khotenashvili, won gold at the World Women&#39;s Team Championship in Bydgoszcz, Poland.&#38;nbsp; For much of the tournament, one of the lowest-ranked and youngest teams, Kazakhstan―with IM Bibi...",
