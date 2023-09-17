@@ -1496,14 +1496,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/",
          "pubDate" : "Mon, 28 Aug 2023 09:01:33",
          "title" : "A Foundation for Beginners One Hundred and Two"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2612",
-         "pubDate" : "Sun, 27 Aug 2023 20:57:33 +0000",
-         "title" : "FIDE World Rapid Team Championship: WR Chess continues dominance with perfect streak"
       }
    ]
 }
