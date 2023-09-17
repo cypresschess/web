@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 143rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-142-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 17 Sep 2023 15:00:00",
+         "title" : "Understanding before Moving 143: Chess history in a nutshell (25)"
+      },
+      {
+         "description" : " <b> 2023 ACT Junior Championship and Age Championships</b> When: Monday 25th September - Friday 29th September <br /> Schedule: Monday 25th Under 14/Under 12 Day 1 Tuesday 26th Under 14/Under 12 Day 2 Wednesday 27th Under 18 Day 1, Under 8 (Only day) Thursday 28th Under 18 Day 2, Under 10 (Only day) Friday 29th Under 18 Day 3 <br /> Tournament Format and Entry Fee Under 18 9 rounds Wed-Fri FIDE Rated $90 60m+30s TC Under 14 6 rounds Mon-Tue ACF Rated $60 60m+30s TC Under 12 6 rounds Mon-Tue ACF Rated $60 60m+30s TC (May be combined with Under 14) Under 10 6 rounds Thu ACF Rated $30 30m+30s TC Under 8 6 rounds Wed ACF Rated $30 30m+30s TC <br /> Players may play multiple events if age and sc",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-chess-championship.html",
+         "pubDate" : "Sun, 17 Sep 2023 14:09:00",
+         "title" : "2023 ACT Junior Chess Championship - Coming up"
+      },
+      {
+         "description" : "On Day 3 of the World Chess Armageddon Grand Finale, the tournament took a decisive turn as it entered the elimination phase. In two exciting encounters, GM Sam Shankland and IM Bibisara Assaubayeva were defeated by GM Wesley So and GM Richard Rapport, respectively, marking the end of their participation in this prestigious competition. | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d3",
+         "pubDate" : "Sun, 17 Sep 2023 14:00:00",
+         "title" : "Armageddon: So and Rapport still in contention"
+      },
+      {
          "description" : " The other day one of my clubmates asked me about the Busch-Gass Gambit, which, I must admit, was a new one on me. There are a few videos around so it might be something you run into. It starts like this: 1. e4 e5 2. Nf3 Bc5?! Most books will tell you, if they mention <a href=\"https://chessimprover.com/busch-gass-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Busch-Gass Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/busch-gass-gambit/\">Busch-Gass Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/de-nederlandsche-bank-win-bankers-tournament-2023",
          "pubDate" : "Sat, 16 Sep 2023 20:30:00",
          "title" : "De Nederlandsche Bank win Bankers' Tournament in Amsterdam"
-      },
-      {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Saturday, two matches from the lower bracket will decide which two players stay out of contention: Wesley So vs Sam Shankland and Richard Rapport vs Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Sat, 16 Sep 2023 18:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
       },
       {
          "description" : "GM Hikaru Nakamura monstered his way to a record 10th Bullet Brawl title on Saturday ahead of 168 titled players including GMs Magnus Carlsen and Oleksandr Bortnyk, who finished second and third. Nakamura&#39;s run to a winning score of 250 featured...",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2630",
          "pubDate" : "Mon, 11 Sep 2023 21:12:24 +0000",
          "title" : "Georgia wins the FIDE World Women's Team Championship 2023"
-      },
-      {
-         "description" : "Ian Nepomniachtchi won Division II of the Julius Baer Generation Cup, remaining in the winners' bracket and obtaining clear match victories throughout the event. The Russian GM had a hiccup in the quarterfinals though, as Vladimir Fedoseev swindled his way to victory amid a sharp struggle in their first encounter. Nepo bounced back in style, winning the next three games - but he is sure to remember the striking turnaround! | Robert Ris analysed the tactical confrontation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-swindle-of-the-year",
-         "pubDate" : "Mon, 11 Sep 2023 17:00:00",
-         "title" : "Robert Ris: The swindle of the year!"
       },
       {
          "description" : "GM Fabiano Caruana will face five-time SCC Champion Hikaru Nakamura in the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. Caruana defeated GM Nodirbek Abdusattorov with a score of 13.5-10.5 in the Round of 16.&#38;...",
@@ -1496,30 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2612",
          "pubDate" : "Sun, 27 Aug 2023 20:57:33 +0000",
          "title" : "FIDE World Rapid Team Championship: WR Chess continues dominance with perfect streak"
-      },
-      {
-         "description" : "After so many years of posting on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), it finally occurred to me to ask the question, 'What is the difference between a sociologist and a historian?' Google pointed me to <A HREF=\"https://byjusexamprep.com/upsc-exam/difference-between-sociology-and-history\">Difference Between Sociology and History</A> (byjusexamprep.com), where I learned, <BLOCKQUOTE> The key difference between sociology and history is that sociology is a social science that focuses on the contemporary social environment. However, history deals with the past and examines previous societies. Sociology is a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/the-arab-chess-federation.html",
-         "pubDate" : "Sun, 27 Aug 2023 15:22:00",
-         "title" : "The Arab Chess Federation"
-      },
-      {
-         "description" : " The international chess calendar is becoming increasingly crowded, with one event finishing and another starting almost immediately. The World Cup finished late last week, and a number of players headed off to Germany to play the newly created World Rapid Teams Championship. It looks as though anyone could enter a team, and while there are some incredibly strong teams at the top, there are a number of club teams at the tail end of the field. Sitting somewhere in the middle is a team representing the FIDE Management Board, containing 4 GM's an IM, one WFM, and the FIDE President as the reserve player. He has only played 1 game but has a 100% score. He is listed on the team sheet as a FID pla",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/word-teams-rapid.html",
-         "pubDate" : "Sun, 27 Aug 2023 12:59:00",
-         "title" : "Word Teams Rapid"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2611",
-         "pubDate" : "Sun, 27 Aug 2023 11:51:26 +0000",
-         "title" : "Sethuraman wins Indian Championship"
       }
    ]
 }
