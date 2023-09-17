@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The other day one of my clubmates asked me about the Busch-Gass Gambit, which, I must admit, was a new one on me. There are a few videos around so it might be something you run into. It starts like this: 1. e4 e5 2. Nf3 Bc5?! Most books will tell you, if they mention <a href=\"https://chessimprover.com/busch-gass-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Busch-Gass Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/busch-gass-gambit/\">Busch-Gass Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/busch-gass-gambit/",
+         "pubDate" : "Sun, 17 Sep 2023 10:00:22",
+         "title" : "Busch-Gass Gambit"
+      },
+      {
+         "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here one I tormented my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/there-was-a-bank-row-5",
+         "pubDate" : "Sun, 17 Sep 2023 10:00:00",
+         "title" : "There was a bank row?"
+      },
+      {
          "description" : "Due to unavoidable circumstances the venue of the 36th NATIONAL OPEN AND GIRLS U11 CHESS CHAMPIONSHIPS-2023 has been shifted to RAJEEV GANDHI INDOOR STADIUM .",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-abdusattorov-caruana",
          "pubDate" : "Mon, 11 Sep 2023 16:05:00",
          "title" : "Caruana Reaches Quarterfinals Match Vs. Nakamura, Knocks Out Abdusattorov"
-      },
-      {
-         "description" : "Chess is a game of imbalances, and depending on the circumstances a piece is sometimes strong and sometimes weak. Jan Markos explains how to take advantage of these imbalances, focusing on the battle of a rook against two minor pieces. | Photo: Alan Light, CC BY-SA 3.0 via Wikimedia Commons ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-23-bishop-and-knight-against-a-rook",
-         "pubDate" : "Mon, 11 Sep 2023 16:00:00",
-         "title" : "The Winning Academy 23: Bishop and knight against a rook"
       },
       {
          "description" : "Bangalore National Arbiter Seminar, 26-17 AUG 2023 Certificates are out to download Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
