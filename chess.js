@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-16-2023",
-         "pubDate" : "Sat, 16 Sep 2023 16:18:36",
+         "pubDate" : "Sat, 16 Sep 2023 16:18:00",
          "title" : "Hikaru Eclipses Carlsen After 46-Game Unbeaten Streak"
       },
       {
@@ -1512,14 +1512,6 @@ news_feed (
          "link" : "https://aicf.in/sethuraman-national-champion/",
          "pubDate" : "Sun, 27 Aug 2023 07:01:26",
          "title" : "Sethuraman National Champion"
-      },
-      {
-         "description" : " World Rapid Team Championship Sat 26th Au to Mon 28th Aug 2023 in Dusseldorf. A brand new event from FIDE. Leading players: Wesley So, Levon Aronian, Fabiano Caruana, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Jan-Krzysztof Duda, Richard Rapport, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Nodirbek Abdusattorov, Alexander Grischuk, Daniil Dubov, Leinier Dominguez Perez, Parham Maghsoodloo, Santosh Gujrathi Vidit, Arjun Erigaisi, Etienne Bacrot, Sarin Nihal, Jorden Van Foreest, Baadur Jobava, R Praggnanandhaa, Pavel Eljanov, Vincent Keymer, Ivan Saric, Pentala Harikrishna, D Gukesh, Andrei Volokitin, Vladimir Baklan, Rasmus Svane, Maxim Rodshtein, Gabriel Sargissian, Jules Moussard,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-team-championship-2023",
-         "pubDate" : "Sun, 27 Aug 2023 01:28:00",
-         "title" : "World Rapid Team Championship 2023 - Games and Results"
       }
    ]
 }
