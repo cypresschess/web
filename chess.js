@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 4 of the World Chess Armageddon is over with Jan-Krzysztof Duda and Nodirbek Abdusattorov emerging victorious against Gukesh and Humpy Koneru, securing their spots in the semifinals. The losers will have another opportunity to prove their mettle as they go head-to-head with Richard Rapport and Wesley So, respectively, in Monday's matches at 19:00 CEST. | Photos: Max Avdeev / World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d4",
+         "pubDate" : "Mon, 18 Sep 2023 06:15:00",
+         "title" : "Armageddon: Duda beats Gukesh, Abdusattorov beats Humpy"
+      },
+      {
          "description" : "Recently, I've been looking at some of my old middlegame books, both as potential teaching material and for the pleasure of reminding myself what the bods had to say. A few of the found jewels: Max Euwe and Hans Kramer's two-volume work on the middlegame; three volumes of \"Complete Chess Strategy\" by Ludek Pachman; \"A Contemporary Approach to the Middlegame\" by Alexei Suetin; and three different editions of Aron Nimzowitch's \"My System\" (one in Russian).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,15 +18,7 @@ news_feed (
          "title" : "Jon Speelman: Dusting off the shelf"
       },
       {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Saturday, two matches from the lower bracket will decide which two players stay out of contention: Wesley So vs Sam Shankland and Richard Rapport vs Bibisara Assaubayeva. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Sun, 17 Sep 2023 18:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
-      },
-      {
-         "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here one I tormented my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
+         "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here's one I tormented some of my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/there-was-a-bank-row-5",
