@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Monday, two matches from the lower bracket will decide which two players are knocked out of the competition: Wesley So vs Humpy Koneru and Richard Rapport vs Gukesh D. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Mon, 18 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
          "description" : "Thirty years ago, the World Championship match between Garry Kasaprov and Nigel Short was played in London. The match was not organized by FIDE and divided the chess world in two. The match was very one-sided. Dagobert Kohlmeyer was there. | Photos: Dagobert Kohlmeyer",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fighting-fianchetto-beginner-breakdown",
          "pubDate" : "Tue, 12 Sep 2023 18:39:14",
          "title" : "Fighting the Fianchetto! | Beginner Breakdown"
-      },
-      {
-         "description" : "Fred Lucas is a Dutch photographer who specializes in chess photography. He has been doing it for well over 20 years and documented the most important tournaments - the World Chess Championship, Candidates, and Olympiads. He shot most of his pictures with a Nikon and 200mm lens, meticulously capturing the action, the mood and the emotions of the players. Now Fred has compiled his best pictures into a historical book that visually takes us through the world of chess in the first decades of this century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fred-lucas-illuminating-chess",
-         "pubDate" : "Tue, 12 Sep 2023 16:30:19",
-         "title" : "Fred Lucas: Illuminating Chess"
       },
       {
          "description" : " The current Gungahlin Chess Club tournament, the Korda Classic, ended in a tie for 1st between Miles Patterson and Riley Byng. However, the last round games saw both games decided by an element of bluffing. In Riley's game he had been outplayed in the middlegame, but in a lost ending he saw a chance for a swindle. However, when it arrived on the board, he realised it didn't work, due to a miscounting of pawn moves. However, his opponent made the same mistake in counting the pawn moves, and chose a losing line. In the Patterson game, he was well on top when his opponent played a surprising queen sacrifice. As he had not considered this possibility, he had to carefully check the follow up mov",
@@ -1472,22 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2616",
          "pubDate" : "Mon, 28 Aug 2023 21:51:19 +0000",
          "title" : "WR Chess triumphs as inaugural FIDE World Rapid Team Champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2615",
-         "pubDate" : "Mon, 28 Aug 2023 19:08:22 +0000",
-         "title" : "5th FIDE World Championship for People with Disabilities: Tazbir and Egeman win titles "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2614",
-         "pubDate" : "Mon, 28 Aug 2023 16:41:27 +0000",
-         "title" : "FIDE World Senior Championship 2023: Registration deadline extended"
       }
    ]
 }
