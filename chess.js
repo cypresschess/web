@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Held in six age categories - U8, U10, U12, U14, U16 and U18 (open and girls sections separately) - from September 5-14 at the Dorna Ceremony Hall in Mamaia, Romania, the European Youth Chess Championship 2023 attracted over 900 participants from 46 European federations, including more than 100 titled players. | Photos: International Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-youth-championship-2023",
+         "pubDate" : "Mon, 18 Sep 2023 23:20:00",
+         "title" : "Winners crowned at European Youth Chess Championships 2023"
+      },
+      {
          "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Monday, two matches from the lower bracket will decide which two players are knocked out of the competition: Wesley So vs Humpy Koneru and Richard Rapport vs Gukesh D. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
          "pubDate" : "Mon, 18 Sep 2023 18:30:00",
          "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "The US Chess Federation&#39;s handling of allegations of sexual misconduct continued in the spotlight after Randy Bauer, the President of the federation, made public comments on social media. Former U.S. Women&#39;s Chess Champion WGM Jennifer Shahade r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/us-chess-president-faces-calls-for-resignation",
+         "pubDate" : "Mon, 18 Sep 2023 14:46:00",
+         "title" : "US Chess President Faces Calls For Resignation After Social Media Comments"
       },
       {
          "description" : "Thirty years ago, the World Championship match between Garry Kasaprov and Nigel Short was played in London. The match was not organized by FIDE and divided the chess world in two. The match was very one-sided. Dagobert Kohlmeyer was there. | Photos: Dagobert Kohlmeyer",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ukrainian-grandmaster-given-courage-award-by-zelenskyy",
-         "pubDate" : "Mon, 18 Sep 2023 03:08:11",
+         "pubDate" : "Mon, 18 Sep 2023 03:08:00",
          "title" : "Ukrainian Grandmaster Given Courage Award By Zelenskyy"
       },
       {
@@ -127,7 +143,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-16-2023",
          "pubDate" : "Sat, 16 Sep 2023 16:18:00",
-         "title" : "Hikaru Eclipses Carlsen After 46-Game Unbeaten Streak"
+         "title" : "Nakamura Eclipses Carlsen After 46-Game Unbeaten Streak"
       },
       {
          "description" : "In his Game of the Week show #584, Merijn Van Delft analyses a typical win by Maxime Vachier-Lagrave - the winner of the Tata Steel India Rapid event showed his ability to deal with complicated positions in his game with black against Vidit Gujrathi! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-71/",
          "pubDate" : "Tue, 12 Sep 2023 21:03:43",
          "title" : "\"What Say You?\" The 1 Minute Challenge (71)"
-      },
-      {
-         "description" : "Holger Blauhut is a Norwegian Candidate Master who enjoys playing in tournaments himself and looks after his talented daughter Anna. In mid-August, he took part in the RTU Open in Riga with his daughter, and experienced the typical adventures of chess travellers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-adventure-in-riga",
-         "pubDate" : "Tue, 12 Sep 2023 20:00:00",
-         "title" : "A chess adventure in Riga"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave booked his Quarterfinal spot in the 2023 Speed Chess Championship Presented by Coinbase after dispatching GM Gukesh Dommaraju by a convincing 21.5-8.5 margin in the Round of 16 on Tuesday. The Frenchman will face Gukesh&#39;s...",
@@ -1042,14 +1050,6 @@ news_feed (
          "title" : "D Gukesh among leaders; Hari, Vidit struggle in Tata Steel Chess"
       },
       {
-         "description" : "GM Wesley So won a surprisingly one-sided match against GM Levon Aronian in the round of 16 of the&#38;nbsp;2023 Chess.com Speed Chess Championship Presented by Coinbase. The final score was 15.5-12.5, but the margin was greater than five points for m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-aronian-wesley-so",
-         "pubDate" : "Tue, 05 Sep 2023 15:56:00",
-         "title" : "Wesley So Eliminates Aronian After Starting With 5-Game Winning Streak"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1464,14 +1464,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/",
          "pubDate" : "Tue, 29 Aug 2023 09:24:14",
          "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2616",
-         "pubDate" : "Mon, 28 Aug 2023 21:51:19 +0000",
-         "title" : "WR Chess triumphs as inaugural FIDE World Rapid Team Champions"
       }
    ]
 }
