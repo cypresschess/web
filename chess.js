@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thirty years ago, the World Championship match between Garry Kasaprov and Nigel Short was played in London. The match was not organized by FIDE and divided the chess world in two. The match was very one-sided. Dagobert Kohlmeyer was there. | Photos: Dagobert Kohlmeyer",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-vs-short-in-london",
+         "pubDate" : "Mon, 18 Sep 2023 13:00:00",
+         "title" : "30 years ago: Kasparov vs. Short in London"
+      },
+      {
+         "description" : "India is a land of amazing talents in chess. And the talents are sprouting from different corners of the country. Meet 7-year-old Advitiya AG, who lives in Shillong, Meghalaya. The boy became the under-12 state champion when he was just 5 years old. Currently, he has a rating of 1182. IM Sagar Shah speaks with Advitiya and asks him some questions based on the different positions he has selected, while Advitiya has his own list of questions he wants to ask IM Sagar Shah. If coached well, this boy could very well become a future GM of India and perhaps the first from Meghalaya!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-talent-advitiya",
+         "pubDate" : "Mon, 18 Sep 2023 10:00:00",
+         "title" : "A super talent spotted! 7-year-old Advitiya from Meghalaya"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2636",
+         "pubDate" : "Mon, 18 Sep 2023 09:52:58 +0000",
+         "title" : "FIDE Education Commission continues its development activities around the world"
+      },
+      {
          "description" : "Day 4 of the World Chess Armageddon is over with Jan-Krzysztof Duda and Nodirbek Abdusattorov emerging victorious against Gukesh and Humpy Koneru, securing their spots in the semifinals. The losers will have another opportunity to prove their mettle as they go head-to-head with Richard Rapport and Wesley So, respectively, in Monday's matches at 19:00 CEST. | Photos: Max Avdeev / World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,28 @@ news_feed (
          "title" : "Armageddon: Duda beats Gukesh, Abdusattorov beats Humpy"
       },
       {
+         "description" : "While chess players are battling it out on the chessboard, GM Igor Kovalenko is fighting for his own and his countrymen&#39;s lives in Ukraine. His fight has now seen him receive an award from the Ukrainian president. The 34-year-old grandmaster is ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukrainian-grandmaster-given-courage-award-by-zelenskyy",
+         "pubDate" : "Mon, 18 Sep 2023 03:08:11",
+         "title" : "Ukrainian Grandmaster Given Courage Award By Zelenskyy"
+      },
+      {
          "description" : "Recently, I've been looking at some of my old middlegame books, both as potential teaching material and for the pleasure of reminding myself what the bods had to say. A few of the found jewels: Max Euwe and Hans Kramer's two-volume work on the middlegame; three volumes of \"Complete Chess Strategy\" by Ludek Pachman; \"A Contemporary Approach to the Middlegame\" by Alexei Suetin; and three different editions of Aron Nimzowitch's \"My System\" (one in Russian).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-202",
          "pubDate" : "Sun, 17 Sep 2023 20:00:00",
          "title" : "Jon Speelman: Dusting off the shelf"
+      },
+      {
+         "description" : "Among other stories, last month's Yahoos post (aka 'chess news in the mainstream press'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), offered this:- <UL> <LI> 2023-08-08: Rishi Sunak to announce &pound;500,000 government funding boost for English chess (ft.com) </UL> <P> The story is a prelude to this month's Flickr photo. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni17.jpg\" WIDTH=400 HEIGHT=265><BR> <A HREF=\"https://www.flickr.com/photos/number10gov/53134435703/\">The Prime Minister hosts young chess champions</A> &#169; Flickr user <I>Number 10</I> under <A HREF=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/news-from-number-10.html",
+         "pubDate" : "Sun, 17 Sep 2023 15:37:00",
+         "title" : "News from Number 10"
       },
       {
          "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here's one I tormented some of my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
@@ -246,7 +286,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ai-cup-leg-6-of-champions-chess-tour",
-         "pubDate" : "Fri, 15 Sep 2023 06:28:16",
+         "pubDate" : "Fri, 15 Sep 2023 06:28:00",
          "title" : "Chess Marks A.I. Revolution With Launch Of AI Cup: Leg 6 Of $2m Champions Chess Tour"
       },
       {
@@ -544,22 +584,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-academy/",
          "pubDate" : "Tue, 12 Sep 2023 11:39:43",
          "title" : "European Chess Union Academy"
-      },
-      {
-         "description" : "If the title of British Champion is to go by, England's most naturally talented player ever may happen to be an amateur. Henry Ernest Atkins was a school teacher by profession, yet won the British Championships in nine out of eleven participations. On the recent 151st anniversary of his birth, it is worth remembering this extremely gifted chess player. | Pictured: Rufus Stevenson and Henry Atkins at Malvern (The Sphere, 20 August 1921), via BritBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/henry-ernest-atkins-english-amateur",
-         "pubDate" : "Tue, 12 Sep 2023 11:00:00",
-         "title" : "Henry Ernest Atkins: The great English amateur"
-      },
-      {
-         "description" : "All in all, in the Knight vs. Bishop duel, the Bishop is more likely to win. However, this duel is tricky and sometimes the knight is the better piece. An example of this is the diagram position, where White used her knight effectively to win the game. What did she do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-king-rules-2",
-         "pubDate" : "Tue, 12 Sep 2023 09:00:00",
-         "title" : "Knight vs bishop"
       },
       {
          "description" : "In the end, the top-ranked Georgian team, led by GM Bella Khotenashvili, won gold at the World Women&#39;s Team Championship in Bydgoszcz, Poland.&#38;nbsp; For much of the tournament, one of the lowest-ranked and youngest teams, Kazakhstan―with IM Bibi...",
@@ -1026,14 +1050,6 @@ news_feed (
          "title" : "Wesley So Eliminates Aronian After Starting With 5-Game Winning Streak"
       },
       {
-         "description" : "GMs Teimour Radjabov, Maxime Vachier-Lagrave, Vincent Keymer, and Dommaraju Gukesh&#38;nbsp;lead with two points from three rounds at the end of an intensely fought first day of the 2023 Tata Steel Chess India Open Rapid being held in Kolkata, India. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-1-rapid",
-         "pubDate" : "Tue, 05 Sep 2023 14:54:00",
-         "title" : "Four-Way Tie At Top After Combative 1st Day"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1472,30 +1488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2614",
          "pubDate" : "Mon, 28 Aug 2023 16:41:27 +0000",
          "title" : "FIDE World Senior Championship 2023: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2613",
-         "pubDate" : "Mon, 28 Aug 2023 10:56:50 +0000",
-         "title" : "French Championship: Yannick Gozzoli and Mitra Hejazipour clinch titles"
-      },
-      {
-         "description" : " If you had a friend or a pupil who was just starting to play competitive chess, what openings would you advise them to play? To the best of my understanding, the old Soviet system required you to start with gambit play. You'd choose the King's Gambit with white, and meet 1. e4 with <a href=\"https://chessimprover.com/opening-selection/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Selection\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-selection/\">Opening Selection</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/opening-selection/",
-         "pubDate" : "Mon, 28 Aug 2023 09:09:33",
-         "title" : "Opening Selection"
-      },
-      {
-         "description" : " For the next few weeks, we're going to start looking at some basic endgame positions involving pawns. Our starting point will be the classic King and pawn against lone King. For beginners, this is an extremely important starting point for their endgame studies. Having just a single pawn while your opponent has no pawns is <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred and Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/\">A Foundation for Beginners One Hundred and Two</a> appe",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-two/",
-         "pubDate" : "Mon, 28 Aug 2023 09:01:33",
-         "title" : "A Foundation for Beginners One Hundred and Two"
       }
    ]
 }
