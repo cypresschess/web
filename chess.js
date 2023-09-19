@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 5 of the Armageddon Championship Series witnessed intense battles, culminating in Wesley So and Richard Rapport advancing to the Armageddon semifinals. Unfortunately, this also meant bidding farewell to Humpy Koneru and Gukesh, both of whom exited the competition. | Photos: Max Avdeev / World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d4-2",
+         "pubDate" : "Tue, 19 Sep 2023 01:50:00",
+         "title" : "Armageddon: So and Rapport knock out Humpy and Gukesh"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2637",
+         "pubDate" : "Tue, 19 Sep 2023 00:35:44 +0000",
+         "title" : "FIDE World Senior Team Championship 2023 kicks off in Struga, North Macedonia"
+      },
+      {
          "description" : "Held in six age categories - U8, U10, U12, U14, U16 and U18 (open and girls sections separately) - from September 5-14 at the Dorna Ceremony Hall in Mamaia, Romania, the European Youth Chess Championship 2023 attracted over 900 participants from 46 European federations, including more than 100 titled players. | Photos: International Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-youth-championship-2023",
          "pubDate" : "Mon, 18 Sep 2023 23:20:00",
          "title" : "Winners crowned at European Youth Chess Championships 2023"
-      },
-      {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Monday, two matches from the lower bracket will decide which two players are knocked out of the competition: Wesley So vs Humpy Koneru and Richard Rapport vs Gukesh D. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Mon, 18 Sep 2023 18:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
       },
       {
          "description" : "The US Chess Federation&#39;s handling of allegations of sexual misconduct continued in the spotlight after Randy Bauer, the President of the federation, made public comments on social media. Former U.S. Women&#39;s Chess Champion WGM Jennifer Shahade r...",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/im-norm-round-robin-tournaments/",
          "pubDate" : "Thu, 07 Sep 2023 17:09:04",
          "title" : "IM Norm Round Robin Tournaments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103479311.cms\" />India's chess sensation R Praggnanandhaa finished third but former World Blitz champion Maxime Vachier-Lagrave continued his dominance with two more wins to claim the 'Tata Steel Chess India 2023' rapid title, here on Thursday. The Frenchman, who was on his maiden visit to India, finished on top with seven points, way ahead of Azerbaijan's 2019 World Cup winner Teimour Radjabov (5.5).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/maxime-vachier-lagrave-emerges-rapid-champion-r-praggnanandhaa-ends-joint-third-in-tata-steel-chess-india/articleshow/103479311.cms",
-         "pubDate" : "Thu, 07 Sep 2023 16:01:26 +0000",
-         "title" : "Maxime emerges rapid champion; Pragg ends joint third in Tata Steel Chess"
       },
       {
          "description" : "Chess in Schools &#38; Communities is excited to announce a series of junior rapidplay tournaments with free entry, open to all aged under 18, with...",
