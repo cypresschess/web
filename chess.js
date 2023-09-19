@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Tuesday, Wesley So and Richard Rapport will battle for survival in the lower bracket, while Nodirbek Abdusattorov and Jan-Krzysztof Duda will face off in the upper bracket. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Tue, 19 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2638",
+         "pubDate" : "Tue, 19 Sep 2023 16:56:45 +0000",
+         "title" : "FIDE Book Awards 2023 - Call for Nominations"
+      },
+      {
          "description" : "The Honour Division of the Spanish League is taking place on September 16-22 in Linares, Ja&eacute;n. Eight teams take part in the single round-robin competition. Each match is played over six boards, with the obligatory inclusion of a female representative on each team's roster. After three rounds, rating favourites DuoBeniaj&aacute;n Costa C&aacute;lida lead the standings with 6/6 match points. Magic Extremadura and defending champions C.A. Solvay stand a match point behind. | Pictured: Pia Cramling (C.A. Silla) facing Alberto Quint&iacute;n (MyInvestor Casablanca) | Photo: FEDA",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-so-firouzja",
          "pubDate" : "Wed, 13 Sep 2023 15:35:00",
          "title" : "Wesley So Triumphs In Armageddon, Wins Season's Longest Match"
-      },
-      {
-         "description" : "150 years ago, from 21 June to 29 August 1873, the \"First International Vienna Chess Congress\" was held in Vienna. Some of the best players in the world accepted the invitation and played mini-matches against each other. In the end, Wilhelm Steinitz and Joseph Blackburne tied for first place. A play-off match decided the tournament's winner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vienna-chess-tournament-1873",
-         "pubDate" : "Wed, 13 Sep 2023 10:00:00",
-         "title" : "150 years ago: The Vienna Chess Tournament 1873"
       },
       {
          "description" : "",
