@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Honour Division of the Spanish League is taking place on September 16-22 in Linares, Ja&eacute;n. Eight teams take part in the single round-robin competition. Each match is played over six boards, with the obligatory inclusion of a female representative on each team's roster. After three rounds, rating favourites DuoBeniaj&aacute;n Costa C&aacute;lida lead the standings with 6/6 match points. Magic Extremadura and defending champions C.A. Solvay stand a match point behind. | Pictured: Pia Cramling (C.A. Silla) facing Alberto Quint&iacute;n (MyInvestor Casablanca) | Photo: FEDA",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-league-2023-r3",
+         "pubDate" : "Tue, 19 Sep 2023 15:30:00",
+         "title" : "Spanish League: Deac's DuoBeniajan in the lead"
+      },
+      {
+         "description" : "An opening trap is particularly effective if it is built up with natural-looking development moves and is thus hardly recognisable for an uninformed opponent. Trap expert Rainer Knaak presents a collection of promising traps from tournament practice in every issue of ChessBase Magazine. In the current issue #215 there are eight examples - from Trompowsky via Sicilian and Ruy Lopez to King's Indian. Rainer Knaak also demonstrates three of his favourite traps in video in CBM #215; you can watch one of the videos here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/with-engine-help-in-kasparov-s-footsteps",
+         "pubDate" : "Tue, 19 Sep 2023 15:00:00",
+         "title" : "With engine help in Kasparov's footsteps"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103783807.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "150 years ago: The Vienna Chess Tournament 1873"
       },
       {
-         "description" : "The Armageddon Championship Series Finale is set to start in Berlin, Germany. An eventful year of chess rounds up with the most exciting format of them all - Armageddon. Taking place from September 14th to 20th, this high-stakes series will be broadcast across a network of 17 international television channels, making it an event of unparalleled magnitude.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-final",
-         "pubDate" : "Wed, 13 Sep 2023 09:55:00",
-         "title" : "Armageddon Grand Final: Duda, So, Gukesh in action!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-national-festival-announcement",
          "pubDate" : "Wed, 13 Sep 2023 07:00:00",
          "title" : "ChessKid Announces First National Festival Taking Place Early 2024"
-      },
-      {
-         "description" : "Thanks to his tournament wins in the American Cup and Norway Chess this year, Hikaru Nakamura moved up to second place in the FIDE world rankings (August 2023). In the \"Special\" of ChessBase Magazine #215 our authors analyse their favourite games of the top grandmaster - an exclusive collection of 19 great encounters from the period 2007 to 2023 awaits you! In addition, Mihail Marin sheds light on \"Nakamura's strategy in practice\" with videos + many training exercises. And Karsten Mueller presents a selection of the most beautiful endgames from \"H-Bomb\". As a sample from the \"Special\" you can watch Michal Krasenkow's analysis of his game against Nakamura from 2007 here. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/special-hikaru-nakamura",
-         "pubDate" : "Wed, 13 Sep 2023 07:00:00",
-         "title" : "\"Special\": Hikaru Nakamura"
       },
       {
          "description" : "",
@@ -1440,22 +1440,6 @@ news_feed (
          "link" : "https://aicf.in/60th-national-chess-championship-2023-certificates/",
          "pubDate" : "Wed, 30 Aug 2023 10:29:13",
          "title" : "60th National Chess Championship 2023, Certificates"
-      },
-      {
-         "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-1.html\">2023 CJA Awards - Part 1</A> (August 2023), the following composite image shows how the 107 awards for the year 2023 break down in various ways. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh29.gif\" WIDTH=400 HEIGHT=285> <P> The charts in the upper left ('Award') and lower right ('Person/Brand') cover only entities with more than two awards. The other three charts cover all 107 awards. <P> How did 'Best Interview - Print' manage to account for nine awards? With four 'Co-winner' and five 'Honorable Mention' awards. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/2023-cja-awards-part-2.html",
-         "pubDate" : "Tue, 29 Aug 2023 15:13:00",
-         "title" : "2023 CJA Awards - Part 2"
-      },
-      {
-         "description" : " The dispute between chess.com and Hans Neimann seems to have come to a sudden end, with both parties agreeing to 'move on'. chess.com have reinstated Neimann's access to the platform, and while they stand by the results of their previous investigations, are allowing Neimann to return with full access rights to the server, and to events they host. As an added bonus, Magnus Carlsen, who sparked the whole issue when he withdrew from the 2022 Sinquefeld Cup after losing to Neimann, has also stated that he is happy to play against Neimann if their paths cross in future events. My uneducated guess is no money changed hands as part of the resolution, although I assume both parties did run up some ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/boy-that-de-escalated-quickly.html",
-         "pubDate" : "Tue, 29 Aug 2023 12:42:00",
-         "title" : "Boy, that de-escalated quickly"
       }
    ]
 }
