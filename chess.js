@@ -26,6 +26,14 @@ news_feed (
          "title" : "Winners crowned at European Youth Chess Championships 2023"
       },
       {
+         "description" : "GMs Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura, and Anish Giri ascended to the top in the 2023 AI Cup Play-in on Monday, claiming the remaining four spots in the Division I knockout. They will join GMs&#38;nbsp;Magnus Carlsen, Alir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-ai-cup-play-in-mamedyarov-nakamura-giri-vachier-lagrave",
+         "pubDate" : "Mon, 18 Sep 2023 20:47:48",
+         "title" : "Mamedyarov Defeats Caruana 2-0, Joins Division I With Nakamura, Giri, Vachier-Lagrave"
+      },
+      {
          "description" : "The US Chess Federation&#39;s handling of allegations of sexual misconduct continued in the spotlight after Randy Bauer, the President of the federation, made public comments on social media. Former U.S. Women&#39;s Chess Champion WGM Jennifer Shahade r...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2023-opened-in-mamaia-romania/",
          "pubDate" : "Wed, 06 Sep 2023 08:26:31",
          "title" : "European Youth Chess Championship 2023 opened in Mamaia, Romania"
-      },
-      {
-         "description" : "GM Alireza Firouzja won his third Titled Tuesday in the last two weeks on September 5, taking the late event with a score of 10/11 to follow up his sweep last week. GM Vugar Rasulov took home the early honors, scoring 9.5 points and winning on tie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rasulov-firouzja-win-titled-tuesday-september-5-2023",
-         "pubDate" : "Wed, 06 Sep 2023 08:08:39",
-         "title" : "Firouzja's Strong Tuesdays Continue"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103416307.cms\" />Viswanathan Anand, the five-time World champion, is enjoying his new roles as a mentor and administrator in the chess world. He is happy to see India being well represented in tournaments and the game growing. Anand is impressed with the crop of young Indian players making their mark, but believes they still have a long way to go. He emphasizes the importance of consistency and raising one's level to succeed at the highest stage. ",
