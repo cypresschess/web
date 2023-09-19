@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Organizers announced the planned date of the 6th Festival immediately after the conclusion of the June Prague International Chess Festival. After three summer years, the Festival will return to its traditional season, specifically between February and March, and place, i.e. Don Giovanni Hotel Prague. To be precise, the dates are 26th February to 7th March 2024. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-announcement",
+         "pubDate" : "Tue, 19 Sep 2023 21:30:00",
+         "title" : "Prague Chess Festival to take place in February 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2639",
+         "pubDate" : "Tue, 19 Sep 2023 21:09:46 +0000",
+         "title" : "FIDE World Senior Team Championship 2023: Day 1 recap"
+      },
+      {
          "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Tuesday, Wesley So and Richard Rapport will battle for survival in the lower bracket, while Nodirbek Abdusattorov and Jan-Krzysztof Duda will face off in the upper bracket. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/megabase-2023-modern-master-play",
          "pubDate" : "Wed, 13 Sep 2023 17:30:00",
          "title" : "MegaBase 2023: Modern master play"
-      },
-      {
-         "description" : "During a visit to the ChessBase office to record his latest Fritztrainer, Grandmaster Nick Pert was interviewed. In a conversation with Arne Kaehler, Nick delved into his background, sharing stories of his upbringing, his introduction to chess, and the competitive dynamic with his twin brother. He also discussed his decision to follow a chess career over pursuing his field of study, and touched upon his achievement of becoming a world champion in 1998.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-board-the-life-story-of-gm-nicholas-pert-interview",
-         "pubDate" : "Wed, 13 Sep 2023 16:00:00",
-         "title" : "Behind the Board: The life story of GM Nicholas Pert - Interview"
       },
       {
          "description" : "In the longest SCC match so far this year, taking over four hours and totaling 32 games, GM Wesley So emerged victorious. He defeated GM Alireza Firouzja and is the first player to reach the Semifinals of the 2023 Chess.com Speed Chess Championshi...",
