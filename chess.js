@@ -922,6 +922,14 @@ news_feed (
          "title" : "IM Norm Round Robin Tournaments"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103479311.cms\" />India's chess sensation R Praggnanandhaa finished third but former World Blitz champion Maxime Vachier-Lagrave continued his dominance with two more wins to claim the 'Tata Steel Chess India 2023' rapid title, here on Thursday. The Frenchman, who was on his maiden visit to India, finished on top with seven points, way ahead of Azerbaijan's 2019 World Cup winner Teimour Radjabov (5.5).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/maxime-vachier-lagrave-emerges-rapid-champion-r-praggnanandhaa-ends-joint-third-in-tata-steel-chess-india/articleshow/103479311.cms",
+         "pubDate" : "Thu, 07 Sep 2023 16:01:26 +0000",
+         "title" : "Maxime emerges rapid champion; Pragg ends joint third in Tata Steel Chess"
+      },
+      {
          "description" : "Chess in Schools &#38; Communities is excited to announce a series of junior rapidplay tournaments with free entry, open to all aged under 18, with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
