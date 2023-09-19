@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103783807.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-junior-chess-championship-5-indian-players-miss-out-due-to-visa-issues-coaches-changed-at-last-moment/articleshow/103783807.cms",
+         "pubDate" : "Tue, 19 Sep 2023 11:13:49 +0000",
+         "title" : "FIDE Junior Championship: 5 Indian players miss out due to visa issues"
+      },
+      {
+         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu These days we are enjoying some great games at the 2023 Rugby World Cup from France. One such game was Fiji Australia 22-15, the first win by the Flying <a href=\"https://chessimprover.com/planning-for-victory-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-5/\">Planning for Victory (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/planning-for-victory-5/",
+         "pubDate" : "Tue, 19 Sep 2023 10:51:33",
+         "title" : "Planning for Victory (5)"
+      },
+      {
+         "description" : "In the endgame, passed pawns are often powerful, but one should not underestimate being material up. In the diagram position Black is an exchange up, but has to fight against two strong passed pawns - what should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-right-way-3",
+         "pubDate" : "Tue, 19 Sep 2023 09:00:00",
+         "title" : "The right way"
+      },
+      {
          "description" : "Day 5 of the Armageddon Championship Series witnessed intense battles, culminating in Wesley So and Richard Rapport advancing to the Armageddon semifinals. Unfortunately, this also meant bidding farewell to Humpy Koneru and Gukesh, both of whom exited the competition. | Photos: Max Avdeev / World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d4-2",
          "pubDate" : "Tue, 19 Sep 2023 01:50:00",
          "title" : "Armageddon: So and Rapport knock out Humpy and Gukesh"
+      },
+      {
+         "description" : "Chess.com is excited to announce a new treat for the avid online chess fan&#38;mdash;a dedicated chess browser created in partnership with leading web innovator Opera. Using this enhancement, chess will be put right inside the browser, meaning you can...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/opera-launches-new-custom-chess-browser",
+         "pubDate" : "Tue, 19 Sep 2023 00:55:00",
+         "title" : "For The True Chess Fan: Opera Launches New Custom Chess Browser"
       },
       {
          "description" : "",
@@ -30,8 +62,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-ai-cup-play-in-mamedyarov-nakamura-giri-vachier-lagrave",
-         "pubDate" : "Mon, 18 Sep 2023 20:47:48",
-         "title" : "Mamedyarov Defeats Caruana 2-0, Joins Division I With Nakamura, Giri, Vachier-Lagrave"
+         "pubDate" : "Mon, 18 Sep 2023 20:47:00",
+         "title" : "Mamedyarov Defeats Caruana 2-0, Joins Nakamura, Giri, Vachier-Lagrave In Division I"
       },
       {
          "description" : "The US Chess Federation&#39;s handling of allegations of sexual misconduct continued in the spotlight after Randy Bauer, the President of the federation, made public comments on social media. Former U.S. Women&#39;s Chess Champion WGM Jennifer Shahade r...",
@@ -546,14 +578,6 @@ news_feed (
          "title" : "My Beautiful (Not Easy!) Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
       },
       {
-         "description" : "The FIDE World Cup was a complete success, as top players fought for spots in the Candidates, both in the open and in the women's section. Magnus Carlsen and Aleksandra Goryachkina were the winners. As ever, GM Karsten M&uuml;ller compiled the most interesting positions from the tournaments. Find here five more instructive endgames from the open category! | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cup-2023-endgames-2",
-         "pubDate" : "Wed, 13 Sep 2023 03:30:00",
-         "title" : "World Cup: A selection of outstanding endgames (2)"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (71)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (71)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Rising Talents, Tactical Masterminds: Mendes Wins ChessKid YSCC"
       },
       {
-         "description" : "GM Nihal Sarin is through to the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. He defeated GM Alexey Sarana with a final score of 16-10 after winning all three segments despite a brief internet connectivity sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-nihal-sarana",
-         "pubDate" : "Wed, 06 Sep 2023 13:28:00",
-         "title" : "Nihal Beats Sarana, Wins All 3 Segments With 16-10 Final Score"
-      },
-      {
          "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1402,14 +1418,6 @@ news_feed (
          "title" : "Alexey Sarana - Nihal Sarin, Julius Baer Generation Cup Div 2 Winners"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103219924.cms\" />Grandmaster Koneru Humpy believes Indian chess is in good hands as she lauded R Praggnandhaa's feat of reaching the final of the World Cup recently. \"I feel these youngsters are a very talented bunch.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-is-in-good-hands-koneru-humpy/articleshow/103219924.cms",
-         "pubDate" : "Wed, 30 Aug 2023 15:44:04 +0000",
-         "title" : "Indian chess is in good hands: Koneru Humpy"
-      },
-      {
          "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1448,30 +1456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/08/boy-that-de-escalated-quickly.html",
          "pubDate" : "Tue, 29 Aug 2023 12:42:00",
          "title" : "Boy, that de-escalated quickly"
-      },
-      {
-         "description" : "Five-time World Chess Champion and World No.1 on the FIDE rating list GM Magnus Carlsen (NOR, 2835) emerged as the Winner of the FIDE World Chess Cup for the first time in his career! Magnus Carlsen won the event after defeating 18-year-old GM Praggnanandhaa R (IND, 2690) in the exciting finals. The first two classical games were concluded in a draw, and the Winner of the event got to be determined in the tiebreaks. Carlsen found his advantage in the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/magnus-carlsen-clinches-fide-world-chess-cup-2023/",
-         "pubDate" : "Tue, 29 Aug 2023 10:43:51",
-         "title" : "Magnus Carlsen clinches FIDE World Chess Cup 2023"
-      },
-      {
-         "description" : "The FIDE Women's World Chess Cup 2023 took place from 29th July to 22nd August in Baku, Azerbaijan, gathering 103 players who fought for the total prize fund of 676.250 USD and three qualification spots for the Women's Candidates Tournament 2024. GM Aleksandra Goryachkina (FIDE, 2557) emerged as the Winner of the event after defeating 20-year-old IM Nurgyul Salimova (BUL, 2409) in the thrilling final match. After both classical games finished in a draw, despite Salimova having the winning chances []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/aleksandra-goryachkina-wins-fide-womens-world-chess-cup-2023/",
-         "pubDate" : "Tue, 29 Aug 2023 10:43:33",
-         "title" : "Aleksandra Goryachkina wins FIDE Women's World Chess Cup 2023"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It is good to review from time to time important lines such as the 8.Rb1 variation. If there is something you can bet on, it is that your opponents will <a href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/\">Need sure",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-modern-exchange-grunfeld-8-rb1-variation-edition/",
-         "pubDate" : "Tue, 29 Aug 2023 09:24:14",
-         "title" : "Need sure points? Modern Exchange Gr&uuml;nfeld, 8.Rb1 Variation Edition"
       }
    ]
 }
