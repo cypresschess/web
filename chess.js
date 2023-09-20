@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year's Portuguese Chess Tour concluded with the Maia Chess Festival at the beginning of September. The Open tournament was a great success, both in terms of quality and popularity. Victor Mikhalevski won with 7&frac12; points. On the sidelines of the Open, a conference was also held on the Tecmaia Campus under the motto Strong Minds. Stefan L&ouml;ffler chaired it and sent us a report. | Photo: Streamer James / Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maia-chess-festival-2023",
+         "pubDate" : "Wed, 20 Sep 2023 12:00:00",
+         "title" : "\"Strong Minds\" at Chess Festival in Maia, Portugal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2641",
+         "pubDate" : "Wed, 20 Sep 2023 10:34:17 +0000",
+         "title" : "Intercontinental Online Chess Championship for Prisoners: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2640",
+         "pubDate" : "Wed, 20 Sep 2023 10:27:26 +0000",
+         "title" : "FIDE celebrates its centenary anniversary with a series of key events "
+      },
+      {
          "description" : "Last weekend I gave our readers a puzzle which, I said, only a segment of our readers could possibly solve. But even amongst them there were very few who succeeded. One exception: super-talent Gukesh, who managed - with a little help. And he collapsed in helpless laughter when he got it. Another super-talent, Leon Mendonca, filmed it all. Here is the solution, together with a second prank I played on a young chess talent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/there-was-a-bank-row-4",
          "pubDate" : "Wed, 20 Sep 2023 09:00:00",
          "title" : "There was a bank row!"
+      },
+      {
+         "description" : "All English 2400+ ELO players there is a vacancy in this tournament for one GM and one GM candidate. If you're interested here are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/first-saturday-budapest-gm-gm-candidate-vacancies/",
+         "pubDate" : "Wed, 20 Sep 2023 08:13:21",
+         "title" : "First Saturday Budapest 7-17 Oct 2023 - GM/GM candidate vacancies"
       },
       {
          "description" : "The first round of the FIDE World Senior Team Championship was played on Tuesday in Struga, Ohrid Lake, North Macedonia. Two parallel events, in the 50+ and 65+ categories, are being played. The United States, England and Italy are the favourites in the 50+ section, while Germany, England and Slovakia are the top seeds in the 65+ tournament. | Pictured: Michael Dougherty (Canada) | Photo: Mark Livshitz",
@@ -490,14 +522,6 @@ news_feed (
          "title" : "Leon on the Keymer"
       },
       {
-         "description" : "Fabiano Caruana had to face the underdog Nijat Abasov in the match for third place at the Baku World Cup. In round 8.2, the US player made a fairly unknown move in the Four Knights Sicilian, by moving the bishop to f4. Svitlana offers insights into various variations arising from this opening. The endgame provides valuable lessons as well!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-caruana-s-sicilian-surprise",
-         "pubDate" : "Thu, 14 Sep 2023 16:30:00",
-         "title" : "Svitlana's Smart Moves - Caruana's Sicilian surprise!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -853,7 +877,7 @@ news_feed (
          "description" : "If you are playing chess online, you most likely are familiar with Chess.com. It is the biggest platform with over 100 Million active users. You can play games for free or decide to step up and get a paid membership. So you might ask yourself: are these memberships worth it? In this review, I compare []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-com-membership/",
+         "link" : "http://nextlevelchess.blog/best-online-chess-game/",
          "pubDate" : "Sat, 09 Sep 2023 12:00:24",
          "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
       },
@@ -1448,14 +1472,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners/",
          "pubDate" : "Wed, 30 Aug 2023 15:27:18",
          "title" : "Julius Baer Generation Cup Div 2 Winners"
-      },
-      {
-         "description" : "The Short List this year contains four books covering widely differing aspects of chess, but also in differing sizes ranging from the compact to very...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-2/",
-         "pubDate" : "Wed, 30 Aug 2023 10:54:40",
-         "title" : "ECF Book of the Year Shortlist"
       }
    ]
 }
