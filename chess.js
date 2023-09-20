@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This year's Portuguese Chess Tour concluded with the Maia Chess Festival at the beginning of September. The Open tournament was a great success, both in terms of quality and popularity. Victor Mikhalevski won with 7&frac12; points. On the sidelines of the Open, a conference was also held on the Tecmaia Campus under the motto Strong Minds. Stefan L&ouml;ffler chaired it and sent us a report. | Photo: Streamer James / Official website",
+         "description" : "IM Andrew Martin recently produced his upcoming Fritztrainer on the Black Knight Tango opening at the ChessBase Headquarters in Hamburg. We seized the opportunity to chat with him and delve into his extensive chess journey. Born and raised in London, Andrew turned to chess as a solace during a challenging childhood. This passion shaped his entire life around the captivating game. He's done it all: from authoring multiple books, collaborating closely with ChessBase, competing in tournaments, mentoring students, to even setting a simultaneous play world record against 321 opponents. The conversation with Andrew is profoundly insightful, offering listeners a wealth of knowledge.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behind-the-board-the-life-story-of-im-andrew-martin-interview",
+         "pubDate" : "Wed, 20 Sep 2023 14:40:00",
+         "title" : "Behind the Board: The life story of IM Andrew Martin - Interview"
+      },
+      {
+         "description" : "Turkish Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate European Amateur Chess Championship organized in Antalya, T&uuml;rkiye between 26 November (arrival) 04 &#160;December (departure), 2023. The European Amateur Chess Championship 2023 will be played in three rating categories: U1700, U2000, and U2300. The Championships are open tournaments for players registered or approved by their federation. ECU member federations shall have the right to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2023-official-invitation/",
+         "pubDate" : "Wed, 20 Sep 2023 13:59:43",
+         "title" : "European Amateur Chess Championship 2023 - Official invitation"
+      },
+      {
+         "description" : " I am trawling through the latest collection of games from The Week in chess, looking for some quick finishes/opening traps. However, with a enormous amount of chess now being played online, sudden ends to games have less to do with players overlooking threats, and more to do with misclicks and failed pre-moves. But even OTB games aren't immune to a version of this. Some blunders can only be explained by a player touching the wrong piece and being forced to play the losing move (well, that's the most charitable explanation I can think off). Here are a few examples ﻿<br /><b>Khanin,S (2570) - Schitco,Ivan (2533) [D20]</b><br />Texas Collegiate Finals Brownsville USA (3.6), 17.09.2023<br /><",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/games-that-are-real-but-are-unreal.html",
+         "pubDate" : "Wed, 20 Sep 2023 13:55:00",
+         "title" : "Games that are real, but are unreal"
+      },
+      {
+         "description" : "This year's Portuguese Chess Tour concluded with the Maia Chess Festival at the beginning of September. The Open tournament was a great success, both in terms of quality and popularity. Victor Mikhalevski won with 7&frac12; points. On the sidelines of the Open, a conference was also held on the Tecmaia Campus under the motto Strong Minds. Stefan L&ouml;ffler chaired it and sent us a report. | Photo: Streamer James Canty / Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/maia-chess-festival-2023",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/first-saturday-budapest-gm-gm-candidate-vacancies/",
          "pubDate" : "Wed, 20 Sep 2023 08:13:21",
          "title" : "First Saturday Budapest 7-17 Oct 2023 - GM/GM candidate vacancies"
+      },
+      {
+         "description" : "GM Alexey Sarana and GM Nihal Sarin were the winners of Titled Tuesday on September 19, both of them scoring 9.5 points in the first 10 rounds. Sarana won the early event convincingly, leading by a full point entering the final round. To outlast G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-nihal-win-titled-tuesday-september-19-2023",
+         "pubDate" : "Wed, 20 Sep 2023 08:09:15",
+         "title" : "Near-Perfect 10s Carry Sarana, Nihal To Victory"
       },
       {
          "description" : "The first round of the FIDE World Senior Team Championship was played on Tuesday in Struga, Ohrid Lake, North Macedonia. Two parallel events, in the 50+ and 65+ categories, are being played. The United States, England and Italy are the favourites in the 50+ section, while Germany, England and Slovakia are the top seeds in the 65+ tournament. | Pictured: Michael Dougherty (Canada) | Photo: Mark Livshitz",
@@ -512,14 +544,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
          "pubDate" : "Thu, 14 Sep 2023 16:44:05",
          "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "Grandmaster Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. This year, at seventeen, he crossed the 2600 Elo barrier (current Elo is 2622) for the first time and is probably one of the most active chess players in 2023 (almost 100 rated games). Leon has recorded a very interesting Fritztrainer on the venomous variation 1.Nf3 d5 2.e3, which most club-level players do not know how to effectively counter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-on-the-keymer",
-         "pubDate" : "Thu, 14 Sep 2023 16:35:00",
-         "title" : "Leon on the Keymer"
       },
       {
          "description" : "",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "Jennifer Shahade Resigns Director Position At US Chess"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave played imaginatively to surge into the sole lead with 4.5 out of six points at the end of the second day of the 2023 Tata Steel Chess India Open Rapid. GM Teimour Radjabov was in the lead until he was outplayed by GM Vidi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-rapid",
-         "pubDate" : "Wed, 06 Sep 2023 15:57:00",
-         "title" : "Vachier-Lagrave Sole Leader Courtesy Of King And Knights"
-      },
-      {
          "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://www.chessdom.com/alexey-sarana-nihal-sarin-julius-baer-generation-cup-div-2-winners/",
          "pubDate" : "Wed, 30 Aug 2023 15:53:07",
          "title" : "Alexey Sarana - Nihal Sarin, Julius Baer Generation Cup Div 2 Winners"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-2-winners/",
-         "pubDate" : "Wed, 30 Aug 2023 15:27:18",
-         "title" : "Julius Baer Generation Cup Div 2 Winners"
       }
    ]
 }
