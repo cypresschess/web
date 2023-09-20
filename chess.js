@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last weekend I gave our readers a puzzle which, I said, only a segment of our readers could possibly solve. But even amongst them there were very few who succeeded. One exception: super-talent Gukesh, who managed - with a little help. And he collapsed in helpless laughter when he got it. Another super-talent, Leon Mendonca, filmed it all. Here is the solution, together with a second prank I played on a young chess talent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/there-was-a-bank-row-4",
+         "pubDate" : "Wed, 20 Sep 2023 09:00:00",
+         "title" : "There was a bank row!"
+      },
+      {
          "description" : "The first round of the FIDE World Senior Team Championship was played on Tuesday in Struga, Ohrid Lake, North Macedonia. Two parallel events, in the 50+ and 65+ categories, are being played. The United States, England and Italy are the favourites in the 50+ section, while Germany, England and Slovakia are the top seeds in the 65+ tournament. | Pictured: Michael Dougherty (Canada) | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r1",
          "pubDate" : "Wed, 20 Sep 2023 06:30:00",
          "title" : "The World Senior Team Championships kicked off in Struga"
+      },
+      {
+         "description" : "Please find Live Games Link for National Junior 2023 Chess Results Link Open :&#160;https://chess-results.com/tnr821775.aspx?lan=1&#38;art=0 Chess Results Link Girls :&#160;https://chess-results.com/tnr819285.aspx?lan=1 Open Live Page Link :&#160;https://view.livechesscloud.com/#a3a5ec41-fb9a-4103-a587-972438070d44 Girls",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-junior-2023-live-games-link/",
+         "pubDate" : "Wed, 20 Sep 2023 06:25:52",
+         "title" : "National Junior 2023 Live Games Link"
       },
       {
          "description" : "The semifinals of the World Chess Armageddon have concluded, with Jan-Krzysztof Duda emerging as the victor in the winners' bracket, Wesley So securing his place from the losers' bracket, and Richard Rapport going home. Tomorrow, Wesley So and Nodirbek Abdusattorov will battle for a chance to challenge Duda for the coveted €80,000 first prize! | Photos: Max Avdeev / World Chess",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ccl-sig-presenting-sponsor",
          "pubDate" : "Thu, 14 Sep 2023 07:53:45",
          "title" : "Major Boost For Collegiate Chess League As SIG Signs For New Season"
-      },
-      {
-         "description" : "The 2023 European Club Cup will be held at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen will play for Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on top boards. Over 80 teams have registered to participate in the open, while the women's cup counts with 25 teams so far.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-preview",
-         "pubDate" : "Thu, 14 Sep 2023 07:30:00",
-         "title" : "Carlsen and Anand to play in European Club Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 12, 2023</strong> - GM Sam Sevian won the <a href=\"https://www.uschesschamps.com/2023-champions-showdown-chess-9lx/overview\" target=\"_blank\">2023 Champions Showdown: Chess 9LX</a> after a brilliant final day, where he defeated a competitive field including legendary former World Champion Garry Kasparov and World No. 2 Fabiano Caruana to take home the $37,500 first place prize. Chess 9LX was hosted by the Saint Louis Chess Club at the World Chess Hall of Fame September 8-11, 2023. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Sam Sevian wins 2023 Chess 9LX</div><",
@@ -1093,7 +1101,7 @@ news_feed (
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/couldnt-have-asked-for-a-better-indian-chess-team-for-asian-games-viswanathan-anand/articleshow/103401941.cms",
+         "link" : "https://timesofindia.indiatimes.com/sports/asian-games-2023/india-asian-games/couldnt-have-asked-for-a-better-indian-chess-team-for-asian-games-viswanathan-anand/articleshow/103401941.cms",
          "pubDate" : "Tue, 05 Sep 2023 14:04:35 +0000",
          "title" : "Couldn't have asked for a better team for Asian Games: Anand"
       },
@@ -1448,14 +1456,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-shortlist-2/",
          "pubDate" : "Wed, 30 Aug 2023 10:54:40",
          "title" : "ECF Book of the Year Shortlist"
-      },
-      {
-         "description" : "60th National Chess Championshipn2023 Certificates are available to download Link : https://aicf.online/National-2023.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/60th-national-chess-championship-2023-certificates/",
-         "pubDate" : "Wed, 30 Aug 2023 10:29:13",
-         "title" : "60th National Chess Championship 2023, Certificates"
       }
    ]
 }
