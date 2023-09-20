@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Japan is not a nation known for having strong (Western) chess players. Nevertheless, there is a small and well-organized community of chess practitioners. Recently, the Japanese Team Championship took place in Tokyo. The Osaka Chess Club won the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/japanese-team-championship-2023",
+         "pubDate" : "Wed, 20 Sep 2023 21:00:00",
+         "title" : "A small, well-organized community: the Japanese Team Championship"
+      },
+      {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Wednesday, Wesley So and Nodirbek Abdusattorov will battle for the right to face Jan-Krzysztof Duda in the tournament's grand finale. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Wed, 20 Sep 2023 18:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
          "description" : "IM Andrew Martin recently produced his upcoming Fritztrainer on the Black Knight Tango opening at the ChessBase Headquarters in Hamburg. We seized the opportunity to chat with him and delve into his extensive chess journey. Born and raised in London, Andrew turned to chess as a solace during a challenging childhood. This passion shaped his entire life around the captivating game. He's done it all: from authoring multiple books, collaborating closely with ChessBase, competing in tournaments, mentoring students, to even setting a simultaneous play world record against 321 opponents. The conversation with Andrew is profoundly insightful, offering listeners a wealth of knowledge.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sarana-nihal-win-titled-tuesday-september-19-2023",
-         "pubDate" : "Wed, 20 Sep 2023 08:09:15",
+         "pubDate" : "Wed, 20 Sep 2023 08:09:00",
          "title" : "Near-Perfect 10s Carry Sarana, Nihal To Victory"
       },
       {
@@ -440,22 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hans-niemann-controversy-two",
          "pubDate" : "Fri, 15 Sep 2023 14:25:00",
          "title" : "The Hans Niemann controversy 2.0?"
-      },
-      {
-         "description" : "The Armageddon Championship Series: Grand Finale began on September 14 at the World Chess Club in Berlin. In an evening filled with suspense and strategic brilliance, Gukesh D and Jan-Krzysztof Duda emerged as victors, each securing a commanding 2-0 win against their formidable opponents, Wesley So and Sam Shankland. | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d1",
-         "pubDate" : "Fri, 15 Sep 2023 14:15:00",
-         "title" : "Armageddon: Clear wins for Gukesh and Duda"
-      },
-      {
-         "description" : "ChessBase Magazine #215 offers over an hour of video playing time with its three opening videos alone (the total playing time of all videos in CBM #215 is more than seven hours). Robert Ris uses three new games by Richard Rapport to examine what White can hope for in the Vienna Game after 5.Qf3. Ivan Sokolov examines the highly topical variation 11.h4!? in the Semi-Tarrasch, especially Giri's novelty 13.Rh3 against Praggnanandhaa. And Daniel King gives a recommendation for the side line 3...e5 against the Sicilian Rossolimo Variation which has already been tested at the highest level. You can watch an extract from Robert Ris' analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-ideas-in-the-vienna-game-rossolimo-variation-and-the-semi-tarrasch",
-         "pubDate" : "Fri, 15 Sep 2023 14:00:00",
-         "title" : "New ideas in the Vienna Game, Rossolimo Variation and the Semi-Tarrasch"
       },
       {
          "description" : " FM Rupert Jones has been recognised by the English Chess Federation for his many contributions to chess. Although resident in The Peoples Republic of Yorkshire, he has represented both Botswana (where he worked in the 80's and 90's) and Papua New Guinea (where he was born). To get an idea of all the things he has achieved you can read the citation at <a href=\"https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf\">https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf</a> Also recognised was IA Alex McFarlane, who I have had the pleasure of working with on a number of occasions. Well done Rupert and Alex <br /> ",
@@ -1464,22 +1464,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers/",
          "pubDate" : "Thu, 31 Aug 2023 13:02:00",
          "title" : "Julius Baer Generation Cup Div 1 Losers"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-3-winners-live/",
-         "pubDate" : "Wed, 30 Aug 2023 18:26:00",
-         "title" : "Julius Baer Generation Cup Div 3 Winners - LIVE"
-      },
-      {
-         "description" : "Alexey Sarana Nihal Sarin is a 1/16 game of Julius Baer Generation Cup Div 2 Winners.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexey-sarana-nihal-sarin-julius-baer-generation-cup-div-2-winners/",
-         "pubDate" : "Wed, 30 Aug 2023 15:53:07",
-         "title" : "Alexey Sarana - Nihal Sarin, Julius Baer Generation Cup Div 2 Winners"
       }
    ]
 }
