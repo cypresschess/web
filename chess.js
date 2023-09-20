@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the FIDE World Senior Team Championship was played on Tuesday in Struga, Ohrid Lake, North Macedonia. Two parallel events, in the 50+ and 65+ categories, are being played. The United States, England and Italy are the favourites in the 50+ section, while Germany, England and Slovakia are the top seeds in the 65+ tournament. | Pictured: Michael Dougherty (Canada) | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r1",
+         "pubDate" : "Wed, 20 Sep 2023 06:30:00",
+         "title" : "The World Senior Team Championships kicked off in Struga"
+      },
+      {
          "description" : "The semifinals of the World Chess Armageddon have concluded, with Jan-Krzysztof Duda emerging as the victor in the winners' bracket, Wesley So securing his place from the losers' bracket, and Richard Rapport going home. Tomorrow, Wesley So and Nodirbek Abdusattorov will battle for a chance to challenge Duda for the coveted €80,000 first prize! | Photos: Max Avdeev / World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmaster-sam-sevian-delivers-brilliant-performance-win-2023-champions-showdown-chess-9lx",
          "pubDate" : "Wed, 13 Sep 2023 17:31:02",
          "title" : "Grandmaster Sam Sevian Delivers Brilliant Performance to Win 2023 Champions Showdown: Chess 9LX "
-      },
-      {
-         "description" : "MegaBase 2023 is Chess History in action. Regularly updated every month, the Main Database currently offers 10 million games, many of them annotated. Our columnist offers a review with focus on modern master play. There is a lot more to discover in this treasure trove: grand battles, opening novelties and exemplary endgames.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2023-modern-master-play",
-         "pubDate" : "Wed, 13 Sep 2023 17:30:00",
-         "title" : "MegaBase 2023: Modern master play"
       },
       {
          "description" : "In the longest SCC match so far this year, taking over four hours and totaling 32 games, GM Wesley So emerged victorious. He defeated GM Alireza Firouzja and is the first player to reach the Semifinals of the 2023 Chess.com Speed Chess Championshi...",
