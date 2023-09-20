@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2023: Day 1 recap"
       },
       {
+         "description" : "GM Magnus Carlsen is the first finalist in the 2023 Chess.com Speed Chess Championship presented by Coinbase. He defeated GM Wesley So by a score of 22-7.&#38;nbsp; The reigning world blitz chess champion won all three segments, with the most domina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-sf-carlsen-so",
+         "pubDate" : "Tue, 19 Sep 2023 17:57:00",
+         "title" : "Carlsen Wins With 22-7 Score Vs. Wesley So, Tees Up For Final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-rapid",
          "pubDate" : "Wed, 06 Sep 2023 15:57:00",
          "title" : "Vachier-Lagrave Sole Leader Courtesy Of King And Knights"
-      },
-      {
-         "description" : "CM Aaron Mendes won the 4th ChessKid Youth Speed Chess Championship, defeating Antoni Radzimski in a riveting final between two rising talents. Throughout their clash, both prodigies displayed vast tactical expertise. Ultimately, it was Mendes&#39;s p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesskid-youth-speed-chess-championship-final",
-         "pubDate" : "Wed, 06 Sep 2023 14:49:00",
-         "title" : "Rising Talents, Tactical Masterminds: Mendes Wins ChessKid YSCC"
       },
       {
          "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
