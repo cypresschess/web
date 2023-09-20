@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2642",
+         "pubDate" : "Wed, 20 Sep 2023 21:31:53 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 2 recap"
+      },
+      {
          "description" : "Japan is not a nation known for having strong (Western) chess players. Nevertheless, there is a small and well-organized community of chess practitioners. Recently, the Japanese Team Championship took place in Tokyo. The Osaka Chess Club won the event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
          "pubDate" : "Wed, 20 Sep 2023 18:30:00",
          "title" : "Armageddon Grand Finale: Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura will face the self-proclaimed &#34;final boss of chess,&#34; GM Magnus Carlsen, in the Final of the 2023 Chess.com Speed Chess Championship presented by Coinbase. On Wednesday, Nakamura defeated GM Maxime Vachier-Lagrave 16.5-11.5.&#38;nbsp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-sf-nakamura-vachier-lagrave",
+         "pubDate" : "Wed, 20 Sep 2023 14:54:00",
+         "title" : "Nakamura Enters Beast Mode In Bullet Chess, Will Face Carlsen In Final"
       },
       {
          "description" : "IM Andrew Martin recently produced his upcoming Fritztrainer on the Black Knight Tango opening at the ChessBase Headquarters in Hamburg. We seized the opportunity to chat with him and delve into his extensive chess journey. Born and raised in London, Andrew turned to chess as a solace during a challenging childhood. This passion shaped his entire life around the captivating game. He's done it all: from authoring multiple books, collaborating closely with ChessBase, competing in tournaments, mentoring students, to even setting a simultaneous play world record against 321 opponents. The conversation with Andrew is profoundly insightful, offering listeners a wealth of knowledge.",
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-slips-maxime-vachier-lagrave-takes-sole-lead-in-tata-steel-chess-rapid-tournament/articleshow/103442226.cms",
          "pubDate" : "Wed, 06 Sep 2023 16:38:55 +0000",
          "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
-      },
-      {
-         "description" : "WGM Jennifer Shahade says she was greeted with &#34;hostility instead of support&#34; and &#34;consistently minimized or ignored&#34; by US Chess when she came forward with allegations of sexual assault. The former U.S. Women&#39;s Chess Champion resigned as the Dire...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jennifer-shahade-leaves-us-chess",
-         "pubDate" : "Wed, 06 Sep 2023 16:24:00",
-         "title" : "Jennifer Shahade Resigns Director Position At US Chess"
       },
       {
          "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
