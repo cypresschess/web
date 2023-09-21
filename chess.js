@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2644",
+         "pubDate" : "Thu, 21 Sep 2023 21:50:39 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 3 recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H9cTQFjdhGQ.jpg?itok=TFuxK7RG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-victor-mikhalevski",
+         "pubDate" : "Thu, 21 Sep 2023 21:48:40",
+         "title" : "Prepare Like A Pro - GM Victor Mikhalevski"
+      },
+      {
          "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-sevian-15-minutes-nothing-study-new-position-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 03:37:32",
          "title" : "EXCLUSIVE! Sevian: 15 Minutes is Nothing to Study a New Position! | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-shankland-talent-over-hard-work-960-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ioqOTgXBMlo.jpg?itok=6aKeJBNk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-shankland-talent-over-hard-work-960-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
-         "title" : "EXCLUSIVE! Shankland: Talent Over Hard Work in 960 | #Chess9LX"
       },
       {
          "description" : "Social media posts claiming Netflix&#39;s The Queen&#39;s Gambit is returning for a second season have gone viral in the last months. Sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; claimed a post from the Facebook group Netflix Daily U...",
