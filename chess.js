@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/revisiting-nuremberg-1896",
+         "pubDate" : "Thu, 21 Sep 2023 19:30:00",
+         "title" : "Chess greats jostle for supremacy: Revisiting Nuremberg 1896"
+      },
+      {
          "description" : "The World Junior Championships will take place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. The event is an 11-round Swiss Open. Former champions of the prestigious under-20 championships include Levon Aronian, Shakhriyar Mamedyarov and Humpy Koneru (women's). | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-junior-championship-2023-preview",
          "pubDate" : "Thu, 21 Sep 2023 17:00:00",
          "title" : "World Junior Championships: Niemann and Yip head lineups in Mexico City"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <em>This year's tournament fields among the strongest of all time; chess legends to be celebrated during U.S Chess Hall of Fame induction ceremony</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/america%E2%80%99s-top-chess-players-compete-more-400000-2023-us-championship-and-us-women%E2%80%99s-chess",
+         "pubDate" : "Thu, 21 Sep 2023 15:21:56",
+         "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2023 U.S. Championship and U.S. Women's Chess Championship"
       },
       {
          "description" : "The French Defence is very popular and is considered a solid opening for Black. How do you manage to gain an advantage with White against it? What are typical plans and how do you remember which idea to use and when? What should you know about the complex positions? German WGM Jana Schneider answers these questions on this video course. An expert practitioner of the Advance Variation with both colours, she shows typical plans and ideas to turn the space advantage in the centre into a victory.",
@@ -458,14 +474,6 @@ news_feed (
          "title" : "Castled vs. uncastled king"
       },
       {
-         "description" : "On the second day of the Armageddon Championship Series: Grand Finale, Nodirbek Abdusattorov emerged victorious against Richard Rapport, winning the match thanks to his speed and composure in the Armageddon game. In the matchup between Humpy Koneru and Bibisara Assaubayeva, Assaubayeva secured a win in the first game but fell short in the second. The Armageddon game featured a captivating over-the-board checkmate, ultimately granting Humpy victory in this thrilling competition. | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d2",
-         "pubDate" : "Sat, 16 Sep 2023 08:50:00",
-         "title" : "Armageddon: Abdusattorov and Humpy prevail in tense matches"
-      },
-      {
          "description" : "GM Magnus Carlsen and GM Maxime Vachier-Lagrave advance to the Semifinals of the 2023 Chess.com Speed Chess Championship presented by Coinbase. Carlsen overcame his former world championship challenger, GM Ian Nepomniachtchi, by an 11-point marg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-shankland-talent-over-hard-work-960-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 03:37:32",
          "title" : "EXCLUSIVE! Shankland: Talent Over Hard Work in 960 | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-xiong-trained-960-month-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KlhLBcPryyo.jpg?itok=ovsprUGj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-xiong-trained-960-month-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
-         "title" : "EXCLUSIVE! Xiong: Trained in 960 for a Month | #Chess9LX"
       },
       {
          "description" : "Social media posts claiming Netflix&#39;s The Queen&#39;s Gambit is returning for a second season have gone viral in the last months. Sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; claimed a post from the Facebook group Netflix Daily U...",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38303895/37-years-how-world-changed-viswanathan-anand-stayed-constant-top-indian-chess-d-gukesh?device=featurephone",
          "pubDate" : "Fri, 1 Sep 2023 05:54:46",
          "title" : "37 years - How the world changed as Anand stayed constant on top of Indian chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103256772.cms\" />Indian youngsters continue to make waves as just days after 18-year-old Grandmaster R Praggnanandhaa qualified for the Candidates meet, 17-year-old Divya Deshmukh and 20-year-old Vantika Agarwal ended Day I of the women's rapid section of Tata Steel Chess India tournament on the top of table with 2.5 points after three rounds on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-youngsters-shine-on-opening-day-of-tata-chess/articleshow/103256772.cms",
-         "pubDate" : "Thu, 31 Aug 2023 17:11:09 +0000",
-         "title" : "Indian youngsters shine on opening day of Tata Chess"
       }
    ]
 }
