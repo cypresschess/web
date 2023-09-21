@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Polish grandmaster Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. | Photos: Max Avdeev / World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d7",
+         "pubDate" : "Thu, 21 Sep 2023 07:45:00",
+         "title" : "Jan-Krzysztof Duda wins Armageddon Grand Finale"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "A small, well-organized community: the Japanese Team Championship"
       },
       {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Wednesday, Wesley So and Nodirbek Abdusattorov will battle for the right to face Jan-Krzysztof Duda in the tournament's grand finale. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Wed, 20 Sep 2023 18:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
-      },
-      {
          "description" : "GM Hikaru Nakamura will face the self-proclaimed &#34;final boss of chess,&#34; GM Magnus Carlsen, in the Final of the 2023 Chess.com Speed Chess Championship presented by Coinbase. On Wednesday, Nakamura defeated GM Maxime Vachier-Lagrave 16.5-11.5.&#38;nbsp...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/behind-the-board-the-life-story-of-im-andrew-martin-interview",
          "pubDate" : "Wed, 20 Sep 2023 14:40:00",
          "title" : "Behind the Board: The life story of IM Andrew Martin - Interview"
+      },
+      {
+         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Wednesday, Wesley So and Nodirbek Abdusattorov will battle for the right to face Jan-Krzysztof Duda in the tournament's grand finale. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
+         "pubDate" : "Wed, 20 Sep 2023 14:30:00",
+         "title" : "Armageddon Grand Finale: Live!"
       },
       {
          "description" : "Turkish Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate European Amateur Chess Championship organized in Antalya, T&uuml;rkiye between 26 November (arrival) 04 &#160;December (departure), 2023. The European Amateur Chess Championship 2023 will be played in three rating categories: U1700, U2000, and U2300. The Championships are open tournaments for players registered or approved by their federation. ECU member federations shall have the right to []",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2635",
          "pubDate" : "Fri, 15 Sep 2023 15:25:36 +0000",
          "title" : "Invitation: FIDE Congress and General Assembly 2023"
-      },
-      {
-         "description" : "Vladimir Kramnik recently caused a stir with an online game against Hans Niemann, in which he wanted to let himself be mated quickly in protest of Niemann's alleged cheating in the previous game. Kramnik, however, is not so much concerned with Niemann himself, but with the cheating problem in online chess in general. He estimates that the problem is much bigger than people think and presented his arguments in a long video interview. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-controversy-two",
-         "pubDate" : "Fri, 15 Sep 2023 14:25:00",
-         "title" : "The Hans Niemann controversy 2.0?"
       },
       {
          "description" : " FM Rupert Jones has been recognised by the English Chess Federation for his many contributions to chess. Although resident in The Peoples Republic of Yorkshire, he has represented both Botswana (where he worked in the 80's and 90's) and Papua New Guinea (where he was born). To get an idea of all the things he has achieved you can read the citation at <a href=\"https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf\">https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf</a> Also recognised was IA Alex McFarlane, who I have had the pleasure of working with on a number of occasions. Well done Rupert and Alex <br /> ",
