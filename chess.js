@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Junior Championships will take place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. The event is an 11-round Swiss Open. Former champions of the prestigious under-20 championships include Levon Aronian, Shakhriyar Mamedyarov and Humpy Koneru (women's). | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-preview",
+         "pubDate" : "Thu, 21 Sep 2023 17:00:00",
+         "title" : "World Junior Championships: Niemann and Yip head lineups in Mexico City"
+      },
+      {
+         "description" : "The French Defence is very popular and is considered a solid opening for Black. How do you manage to gain an advantage with White against it? What are typical plans and how do you remember which idea to use and when? What should you know about the complex positions? German WGM Jana Schneider answers these questions on this video course. An expert practitioner of the Advance Variation with both colours, she shows typical plans and ideas to turn the space advantage in the centre into a victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-jana-schneider-beat-the-french-defence-with-the-advance-variation",
+         "pubDate" : "Thu, 21 Sep 2023 13:30:00",
+         "title" : "New: Jana Schneider - Beat the French Defence with the Advance Variation"
+      },
+      {
+         "description" : " <p class=\"lead\">Grandmaster from Poland Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D77AF732-4E03-47F3-8353-A7448F1DD7C2.jpeg\" width=\"2560\" height=\"1706.6666666667\" alt=\"\" /> <div class=\"e2-text-caption\">Jan-Krzysztof Duda receiving his price on stage</div> </div> <h2>Key Highlights:</h2> Ar",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/duda-triumphs-in-2023-armageddon-championship-series-a-game-chan/",
+         "pubDate" : "Thu, 21 Sep 2023 12:32:52",
+         "title" : "Duda Triumphs in 2023 Armageddon Championship Series: A Game-Changer for Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2643",
+         "pubDate" : "Thu, 21 Sep 2023 11:58:04 +0000",
+         "title" : "World Youth Chess Championship U14, U16 and U18 2023: Registration deadline extended"
+      },
+      {
          "description" : "Polish grandmaster Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. | Photos: Max Avdeev / World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -434,28 +466,12 @@ news_feed (
          "title" : "Armageddon: Abdusattorov and Humpy prevail in tense matches"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King shares his insights on Praggnanandhaa's ability to use one of Magnus Carlsen's favourite strategies: playing an early Bg5 to provoke ...g5. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-pragg-secret",
-         "pubDate" : "Fri, 15 Sep 2023 18:00:00",
-         "title" : "Daniel King's Power Play Show: Pragg knows the secret too"
-      },
-      {
          "description" : "GM Magnus Carlsen and GM Maxime Vachier-Lagrave advance to the Semifinals of the 2023 Chess.com Speed Chess Championship presented by Coinbase. Carlsen overcame his former world championship challenger, GM Ian Nepomniachtchi, by an 11-point marg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-carlsen-nepomniachtchi-vachier-lagrave-nihal",
          "pubDate" : "Fri, 15 Sep 2023 16:54:00",
          "title" : "Carlsen Beats Rival By 11 Points, Vachier-Lagrave Outpaces Bullet Whiz"
-      },
-      {
-         "description" : "From 22 to 26 September, Ilya Levitov is organising a \"Chess Week\" for the second time. Ten strong players will compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. Four years ago, the winner was Ian Nepomniachtchi, who will attempt to defend his title in Amsterdam. | Photo: Adele and Ilya Levitov with Ian Nepomniachtchi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-preview",
-         "pubDate" : "Fri, 15 Sep 2023 16:50:00",
-         "title" : "Stellar lineup at Levitov Chess Week in Amsterdam"
       },
       {
          "description" : "For the current Friday series, I closed the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html\">Adsense and CFAA's CMP</A> (September 2023; CMP = Google's Consent Management Platform), in a holding pattern:- <BLOCKQUOTE> After adding the logo, my GDPR message was accepted. As I was preparing this post for publishing, the message still wasn't showing on my pages, so maybe I did something wrong. I'll come back to it for next Friday's post. </BLOCKQUOTE> <P> I had indeed done something wrong. I was watching the top level page for my domain which doesn't display an ad. The Adsense code to display an ad is the trigger for the consent message. When I ac",
@@ -917,7 +933,7 @@ news_feed (
          "description" : "If you are playing chess online, you most likely are familiar with Chess.com. It is the biggest platform with over 100 Million active users. You can play games for free or decide to step up and get a paid membership. So you might ask yourself: are these memberships worth it? In this review, I compare []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/best-online-chess-game/",
+         "link" : "http://nextlevelchess.blog/chess-com-membership/",
          "pubDate" : "Sat, 09 Sep 2023 12:00:24",
          "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
       },
@@ -1400,78 +1416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-youngsters-shine-on-opening-day-of-tata-chess/articleshow/103256772.cms",
          "pubDate" : "Thu, 31 Aug 2023 17:11:09 +0000",
          "title" : "Indian youngsters shine on opening day of Tata Chess"
-      },
-      {
-         "description" : "I can start this month's post on Yahoos [see the footnote for an explanation of 'Yahoos'] by repeating a sentence from last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/07/blocks-of-yahoos.html\">Blocks of Yahoos</A> (July 2023):- <BLOCKQUOTE> For this current post Google News again 'returned blocks of stories on two specific chess topics' [note to self: find out what Google calls these sections]. Before I look at those, let's have the usual statistics. </BLOCKQUOTE> <P> Change 'two' to 'three' and the sentence becomes 100% accurate. First, here are the stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nh31.gif\" WIDTH=200 HEIGHT=220 ALIGN=LEFT VSPACE=5 HSPACE=5> Thi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html",
-         "pubDate" : "Thu, 31 Aug 2023 15:02:00",
-         "title" : "Top Yahoos: Niemann, WRTC, and Pragg"
-      },
-      {
-         "description" : "Wesley So Alireza Firouzja is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-alireza-firouzja-julius-baer-generation-cup-div-1-winners/",
-         "pubDate" : "Thu, 31 Aug 2023 14:45:29",
-         "title" : "Wesley So - Alireza Firouzja, Julius Baer Generation Cup Div 1 Winners"
-      },
-      {
-         "description" : "Fabiano Caruana Magnus Carlsen is a semifinal game from Julius Baer Generation Cup Div 1 WinnersThe Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-magnus-carlsen-julius-baer-generation-cup-div-1-winners/",
-         "pubDate" : "Thu, 31 Aug 2023 14:42:31",
-         "title" : "Fabiano Caruana - Magnus Carlsen, Julius Baer Generation Cup Div 1 Winners"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103254236.cms\" />India's teen chess sensation, Rameshbabu Praggnanandhaa met with Prime Minister Narendra Modi at his official residence in Delhi. Pragg, who recently competed against world No. 1 Magnus Carlsen in the World Cup final, expressed his gratitude for the Prime Minister's encouragement and support.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/you-personify-passion-and-perseverance-pm-modi-meets-chess-prodigy-praggnanandhaa/articleshow/103254236.cms",
-         "pubDate" : "Thu, 31 Aug 2023 14:38:26 +0000",
-         "title" : "'You personify passion and perseverance': PM Modi meets Praggnanandhaa"
-      },
-      {
-         "description" : "Pavel Eljanov Nodirbek Abdusattorov is a Round 1 game from Julius Baer Generation Cup Div 1 Losers.The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pavel-eljanov-nodirbek-abdusattorov-julius-baer-generation-cup-div-1-losers/",
-         "pubDate" : "Thu, 31 Aug 2023 14:00:00",
-         "title" : "Pavel Eljanov - Nodirbek Abdusattorov, Julius Baer Generation Cup Div 1 Losers"
-      },
-      {
-         "description" : " Under the FIDE Title regulations, you cannot 'arrange' the order of rounds in a tournament to benefit a particular player (or players). This mainly applied to Round Robin events, where an event might not have the correct mix of foreign players but a norm might be achieved if the player plays the right mix over a shorter set of rounds eg claiming a 9 game norm from an 11 round event (NB Even this is no longer possible as all rounds must be counted for a RR norm). However, it is the case that norms do count if the rounds are ordered randomly. Historically, this used to be a thing, with the idea that it made it harder to prepare for an opponent. One famous example was the 1924 New York Interna",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/08/random-rounds.html",
-         "pubDate" : "Thu, 31 Aug 2023 13:58:00",
-         "title" : "Random Rounds"
-      },
-      {
-         "description" : "M. Amin Tabatabaei Denis Lazavik is a Round 1 game from Julius Baer Generation Cup Div 1 Losers. The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/m-amin-tabatabaei-denis-lazavik-julius-baer-generation-cup-div-1-losers/",
-         "pubDate" : "Thu, 31 Aug 2023 13:39:00",
-         "title" : "M. Amin Tabatabaei - Denis Lazavik, Julius Baer Generation Cup Div 1 Losers"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers-live/",
-         "pubDate" : "Thu, 31 Aug 2023 13:17:00",
-         "title" : "Julius Baer Generation Cup Div 1 Losers - LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup, the 5th event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-div-1-losers/",
-         "pubDate" : "Thu, 31 Aug 2023 13:02:00",
-         "title" : "Julius Baer Generation Cup Div 1 Losers"
       }
    ]
 }
