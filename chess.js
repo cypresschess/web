@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 30-year-old, who has not played in public since he won the world crown in April, had been scheduled to lead the Chinese team The case of the disappearing world champion may (or may not) be about to be solved. China's Ding Liren has only competed once since he won the title five months ago, following Magnus Carlsen's abdication. That was in Bucharest in May, where the newly crowned champion finished next to last. Ding was scheduled to lead China's team and also to compete in the individual chess competition <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022\">at the Asian Games</a>, to be staged in his home city of Wenzhou with the opening ceremo",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
+         "pubDate" : "Fri, 22 Sep 2023 13:52:25",
+         "title" : "Chess: Doubt cast over Ding Liren's planned return to action at Asian Games"
+      },
+      {
+         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
+         "pubDate" : "Fri, 22 Sep 2023 13:50:00",
+         "title" : "Levitov Chess Week - Live!"
+      },
+      {
+         "description" : "It is with great pleasure to announce that the Mindsports Grandmasters Open has been a success! The third edition of titled tournaments at the London...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/iii-mindsports-gm-super-swiss-open-2023-report/",
+         "pubDate" : "Fri, 22 Sep 2023 13:29:44",
+         "title" : "III Mindsports GM Super Swiss Open 2023 report"
+      },
+      {
+         "description" : " The 2023 World Junior Championship has started in Mexico City. Top see is GM Hans Neimann and there are 153 players in the Open section, and 85 in the Girls section. Australia has 3 representatives taking part (plus one arbiter). IM Cameron McGowan and FM Albert Winkelman are both seeded in the top half of the Open, while WCM Jody Middleton is playing in the Girls section. The first round has been played (wins for McGowan and Winkelman, loss for Middleton) with the 2nd round starting in a few hours. Results can be found via <a href=\"https://juniorchesschampionship.fenamacajedrez.com/\">https://juniorchesschampionship.fenamacajedrez.com/</a> although the live coverage seems to be missing at t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/2023-world-junior.html",
+         "pubDate" : "Fri, 22 Sep 2023 13:11:00",
+         "title" : "2023 World Junior"
+      },
+      {
          "description" : "With eleven opening articles, ChessBase Magazine #215 covers the usual broad spectrum and provides new repertoire ideas for every tournament player. For example, a concept against the Alekhine Defence: Sergey Grigoriants presents the \"sharpest and most principled approach against the Alekhine Defence\" with 5.f4! and is convinced that he has \"proved White's advantage in all variations\". Alekhine expert Christian Bauer attests our author an \"excellent job. I now know why the variation 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Bf5 7.Nc3 e6 is bad for Black!\". Take a look! You can find the complete article with all games and analyses in the current CBM #215.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/full-throttle-vs-the-alekhine",
          "pubDate" : "Fri, 22 Sep 2023 13:00:00",
          "title" : "Full throttle vs. the Alekhine"
+      },
+      {
+         "description" : "Bangalore SNA 26-27 August Category C and D certificates Link : https://aicf.online/Bangalore-NA.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/bangalore-sna-category-cd-certificates/",
+         "pubDate" : "Fri, 22 Sep 2023 11:40:10",
+         "title" : "Bangalore SNA Category C&D certificates"
       },
       {
          "description" : "Nymphenburg Palace was the venue of an international rapid xiangqi tournament on September 9. As part of the festive event, Xiangqi Grandmaster Sun Yongzheng gave a simultaneous exhibition against ten opponents. Oliver Breitsch&auml;del reports. | Pictured: Andrea Trombettoni, with his daughter Giulia, observed by Xiangqi Master Dong Xubin. Andrea Trombettoni is a physics professor and travelled from Italy with his daughter especially for this event. | Photos: Oliver Breitsch&auml;del",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r3",
          "pubDate" : "Fri, 22 Sep 2023 08:00:00",
          "title" : "World Senior Team Ch: Iceland and England co-leaders"
-      },
-      {
-         "description" : " The 30-year-old, who has not played in public since he won the world crown in April after Magnus Carlsen's abdication, is scheduled to lead the Chinese team in the Asian Games The case of the disappearing world champion may be about to be solved. China's Ding Liren has not competed in public since he won the title five months ago, following Magnus Carlsen's abdication. Now Ding is scheduled to lead China's team and also to compete in the <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022to\" title=\"\">individual chess competition</a> at the Asian Games, to be staged in his home city of Wenzhou with the opening ceremony on Saturday. <a href=\"https://w",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
-         "pubDate" : "Fri, 22 Sep 2023 07:00:11",
-         "title" : "Chess: World champion Ding Liren back in action in Wenzhou after long absence"
       },
       {
          "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
@@ -496,14 +528,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-chess-championship.html",
          "pubDate" : "Sun, 17 Sep 2023 14:09:00",
          "title" : "2023 ACT Junior Chess Championship - Coming up"
-      },
-      {
-         "description" : "On Day 3 of the World Chess Armageddon Grand Finale, the tournament took a decisive turn as it entered the elimination phase. In two exciting encounters, GM Sam Shankland and IM Bibisara Assaubayeva were defeated by GM Wesley So and GM Richard Rapport, respectively, marking the end of their participation in this prestigious competition. | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d3",
-         "pubDate" : "Sun, 17 Sep 2023 14:00:00",
-         "title" : "Armageddon: So and Rapport still in contention"
       },
       {
          "description" : " The other day one of my clubmates asked me about the Busch-Gass Gambit, which, I must admit, was a new one on me. There are a few videos around so it might be something you run into. It starts like this: 1. e4 e5 2. Nf3 Bc5?! Most books will tell you, if they mention <a href=\"https://chessimprover.com/busch-gass-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Busch-Gass Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/busch-gass-gambit/\">Busch-Gass Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "An outbreak of knight moving pawns"
       },
       {
-         "description" : "A new facility to inspect the Calculation of Voting Entitlement for Council Members is available in the Council Database here. This enables Council representatives and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/voting-calculations-for-the-year-september-2023-to-august-2024/",
-         "pubDate" : "Thu, 07 Sep 2023 10:54:35",
-         "title" : "Voting calculations for the year September 2023 to August 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-slips-maxime-vachier-lagrave-takes-sole-lead-in-tata-steel-chess-rapid-tournament/articleshow/103442226.cms",
          "pubDate" : "Wed, 06 Sep 2023 16:38:55 +0000",
          "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
-      },
-      {
-         "description" : "AICF office in Delhi will remain shut between September 08 and 09 due to the G20 Summit .However AICF Delhi office Staffs will be available",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/g20-summitaicf-delhi-office-staff-to-work-from-home/",
-         "pubDate" : "Wed, 06 Sep 2023 11:21:49",
-         "title" : "G20 Summit:AICF Delhi office staff to work from home."
       },
       {
          "description" : "The 2023 European Youth Chess Championship kicked off yesterday in Mamaia, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Romanian Chess Federation Mr. Vlad Ardeleanu, the President of the Romanian Olympic and Sports Committee Mr. Mihai Covaliu, Superbet Foundation Executive Director Mr. Cristian Gheorghita, State Secretary of the Foreign Ministry Mr. Andrei Novac and other distinguished guests. []",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-opening-courses/",
          "pubDate" : "Sat, 02 Sep 2023 12:00:22",
          "title" : "Chess Opening Courses: Are They Worth Buying?"
-      },
-      {
-         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> (August 2023), I wrote, <BLOCKQUOTE> Ads are related to cookies. It's been eight years since the last time I looked at the European cookie monster. [...] Since then, the European Union has introduced the GDPR, which stands for <I>General Data Protection Regulation</I> (wikipedia.org). The CMP requirements are a response to the GDPR. What does that entail for small web sites like mine? I'll look at that in the next post. </BLOCKQUOTE> <P> A few months ago Google introduced a new requirement. <UL> <LI> 2023-05-16: <A HREF=\"https://blog.google/products/admanager/new-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html",
-         "pubDate" : "Fri, 01 Sep 2023 15:07:00",
-         "title" : "Adsense and the CMP"
       }
    ]
 }
