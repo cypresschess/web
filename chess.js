@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With eleven opening articles, ChessBase Magazine #215 covers the usual broad spectrum and provides new repertoire ideas for every tournament player. For example, a concept against the Alekhine Defence: Sergey Grigoriants presents the \"sharpest and most principled approach against the Alekhine Defence\" with 5.f4! and is convinced that he has \"proved White's advantage in all variations\". Alekhine expert Christian Bauer attests our author an \"excellent job. I now know why the variation 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Bf5 7.Nc3 e6 is bad for Black!\". Take a look! You can find the complete article with all games and analyses in the current CBM #215.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/full-throttle-vs-the-alekhine",
+         "pubDate" : "Fri, 22 Sep 2023 13:00:00",
+         "title" : "Full throttle vs. the Alekhine"
+      },
+      {
+         "description" : "Nymphenburg Palace was the venue of an international rapid xiangqi tournament on September 9. As part of the festive event, Xiangqi Grandmaster Sun Yongzheng gave a simultaneous exhibition against ten opponents. Oliver Breitsch&auml;del reports. | Pictured: Andrea Trombettoni, with his daughter Giulia, observed by Xiangqi Master Dong Xubin. Andrea Trombettoni is a physics professor and travelled from Italy with his daughter especially for this event. | Photos: Oliver Breitsch&auml;del",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/xiangqi-tournament-munich-2023",
+         "pubDate" : "Fri, 22 Sep 2023 10:00:00",
+         "title" : "Xiangqi tournament at the Nymphenburg Palace in Munich"
+      },
+      {
+         "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
+         "pubDate" : "Fri, 22 Sep 2023 09:00:16",
+         "title" : "ECF Membership System: Options for Change - update"
+      },
+      {
+         "description" : "The 36th NATIONAL UNDER-7 OPEN &#38; GIRLSCHESS CHAMPIONSHIPS-2023 organized by Sara Bangla Daba Sangstha under the aegis of All India Chess Federation held at The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/36th-national-under-7-open-girlschess-championships-2023/",
+         "pubDate" : "Fri, 22 Sep 2023 08:47:43",
+         "title" : "36th NATIONAL UNDER-7 OPEN & GIRLS CHESS CHAMPIONSHIPS-2023"
+      },
+      {
+         "description" : "The 52nd National Junior (U-19) &#38; 37th National Junior (U-19) Girls Chess Championships-2023 has been organized by Gujarat State Chess Association under the aegis of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/52nd-national-junior-u-19-37th-national-junior-u-19-girls-chess-championships-2023-started-on-20-to-28-september-at-karnavati-club-ahmedabad/",
+         "pubDate" : "Fri, 22 Sep 2023 08:32:49",
+         "title" : "52nd National Junior (U-19) & 37th National Junior (U-19) Girls Chess Championships-2023 started on 20 to 28 September at Karnavati Club Ahmedabad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/wstcc-reports-from-nigel-povah/#new_tab",
+         "pubDate" : "Fri, 22 Sep 2023 08:05:38",
+         "title" : "WSTCC reports from Nigel Povah"
+      },
+      {
          "description" : "The third round of the FIDE World Senior Team Championship featured a number of exciting clashes between some of the favourites to take home first place. In the end, the S50 section has England and Iceland tied in the lead, while in the S65 section Germany and England are the teams sharing first place after three rounds. | Pictured: England's John Emms | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
          "pubDate" : "Fri, 22 Sep 2023 07:00:11",
          "title" : "Chess: World champion Ding Liren back in action in Wenzhou after long absence"
+      },
+      {
+         "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2023/",
+         "pubDate" : "Fri, 22 Sep 2023 06:00:56",
+         "title" : "UK Open Blitz Championships 2023"
       },
       {
          "description" : "",
@@ -466,28 +522,12 @@ news_feed (
          "title" : "NATIONAL U11 :Venue Changed"
       },
       {
-         "description" : "The Netherlands hosted Eurochess, a now traditional bankers' tournament, and offered the guests from Europe a nice visiting programme. The host team from De Nederlandsche Bank (the Netherlands' central bank) won the team competition, while Razvan-Alexandru Sebe-Vodislav finished first in the individual standings. Gerd Densing played for the Bundesbank and found time to prepare a fine pictorial report. | Photos: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/de-nederlandsche-bank-win-bankers-tournament-2023",
-         "pubDate" : "Sat, 16 Sep 2023 20:30:00",
-         "title" : "De Nederlandsche Bank win Bankers' Tournament in Amsterdam"
-      },
-      {
          "description" : "GM Hikaru Nakamura monstered his way to a record 10th Bullet Brawl title on Saturday ahead of 168 titled players including GMs Magnus Carlsen and Oleksandr Bortnyk, who finished second and third. Nakamura&#39;s run to a winning score of 250 featured...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-16-2023",
          "pubDate" : "Sat, 16 Sep 2023 16:18:00",
          "title" : "Nakamura Eclipses Carlsen After 46-Game Unbeaten Streak"
-      },
-      {
-         "description" : "In his Game of the Week show #584, Merijn Van Delft analyses a typical win by Maxime Vachier-Lagrave - the winner of the Tata Steel India Rapid event showed his ability to deal with complicated positions in his game with black against Vidit Gujrathi! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-585-vidit-mvl",
-         "pubDate" : "Sat, 16 Sep 2023 13:00:00",
-         "title" : "Game of the Week #585: Vidit vs. MVL"
       },
       {
          "description" : "Today, I'm going to show you how to defend a lost position. Let's face it, we all get into lost positions from time to time. It is great to avoid them in the first place, but defending them the right way will also make a huge difference to your results. Lost positions usually aren't fun []",
@@ -1018,14 +1058,6 @@ news_feed (
          "title" : "Championship Chessmate"
       },
       {
-         "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
-         "pubDate" : "Fri, 08 Sep 2023 08:00:16",
-         "title" : "ECF Membership System: Options for Change - update"
-      },
-      {
          "description" : " The Norwegian, 32, follows up his World Cup victory in Baku by winning the latest leg of the online ChampionsTour, while the former world champion Vladimir Kramnik is displeased at losing to Niemann Magnus Carlsen kept up his current winning run last weekend by taking the $30,000 first prize in the Julius Baer Generation Cup, his third victory on the $2m Champions Tour, which ends at Toronto in December. The result follows swiftly on from the 32-year-old's <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa\" title=\"\">over-the-board success</a> in last month's knockout World Cup, the only major individual competition he",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1266,14 +1298,6 @@ news_feed (
          "title" : "More silliness"
       },
       {
-         "description" : "A Senior National Arbiter seminar followed by an examination was organized by Karnataka State Chess Association, on behalf of All India Chess Federation on 26th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-senior-national-arbiter-examination-bangalore-26th-and-27th-august-2023/",
-         "pubDate" : "Mon, 04 Sep 2023 10:42:04",
-         "title" : "Final Report :Senior National Arbiter Examination, Bangalore 26th and 27th August 2023"
-      },
-      {
          "description" : " The Tata Steel India Rapid & Blitz Women's section took place 31st August to 4th September. Deshmukh Divya won the rapid with 7/9 and Ju Wenjun the blitz with 12.5/18, 17 year old Divya won the combined title. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1370,52 +1394,12 @@ news_feed (
          "title" : "Chess Opening Courses: Are They Worth Buying?"
       },
       {
-         "description" : "Jamshedpur, September 1, 2023:&#160;Tata Steel Asian Junior Open and Girls Chess Championship 2023 will be organised between September 7 to 15 at&#160;JRD Tata Sports Complex.&#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tata-steel-asian-junior-open-and-girls-chess-championship-kicks-off-from-september-7/",
-         "pubDate" : "Sat, 02 Sep 2023 08:59:14",
-         "title" : "Tata Steel Asian Junior Open and Girls Chess Championship kicks off from September 7"
-      },
-      {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> (August 2023), I wrote, <BLOCKQUOTE> Ads are related to cookies. It's been eight years since the last time I looked at the European cookie monster. [...] Since then, the European Union has introduced the GDPR, which stands for <I>General Data Protection Regulation</I> (wikipedia.org). The CMP requirements are a response to the GDPR. What does that entail for small web sites like mine? I'll look at that in the next post. </BLOCKQUOTE> <P> A few months ago Google introduced a new requirement. <UL> <LI> 2023-05-16: <A HREF=\"https://blog.google/products/admanager/new-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html",
          "pubDate" : "Fri, 01 Sep 2023 15:07:00",
          "title" : "Adsense and the CMP"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2023 kicks off on Tuesday, 5th of September, in Mamaia, Romania. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately), from 5-14 September, at the Ceremony Hall Dorna. Each category will feature 9 rounds played in the swiss system, with the time control of 90 minutes + 30 seconds increment for each move, starting from the move one. More than 900 players coming []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-starts-in-mamaia-romania/",
-         "pubDate" : "Fri, 01 Sep 2023 10:40:35",
-         "title" : "European Youth Chess Championship 2023 starts in Mamaia, Romania"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103278620.cms\" />Buoyed by his World Cup silver medal, GM R Praggnanandhaa is confident of the Indian team's chances of winning gold at the upcoming Asian Games in Hangzhou.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-felicitates-gm-praggnanandhaa-chess-ace-confident-of-winning-asiad-gold/articleshow/103278620.cms",
-         "pubDate" : "Fri, 01 Sep 2023 09:01:31 +0000",
-         "title" : "Anurag Thakur felicitates GM Praggnanandhaa, chess ace confident of winning Asiad gold"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103277876.cms\" />In a historic shift, 17-year-old Grandmaster D Gukesh has taken over the mantle as India's top chess player, ending Viswanathan Anand's remarkable reign that spanned over three decades.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-replaces-anand-as-indias-top-chess-player-after-37-years/articleshow/103277876.cms",
-         "pubDate" : "Fri, 01 Sep 2023 08:41:47 +0000",
-         "title" : "Gukesh replaces Anand as India's top chess player after 37 years"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2617",
-         "pubDate" : "Fri, 01 Sep 2023 07:55:13 +0000",
-         "title" : "FIDE September 2023 rating list: Gukesh debuts in top 10, Praggnanandhaa enters top 20"
       }
    ]
 }
