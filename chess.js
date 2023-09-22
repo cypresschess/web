@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the FIDE World Senior Team Championship featured a number of exciting clashes between some of the favourites to take home first place. In the end, the S50 section has England and Iceland tied in the lead, while in the S65 section Germany and England are the teams sharing first place after three rounds. | Pictured: England's John Emms | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r3",
+         "pubDate" : "Fri, 22 Sep 2023 08:00:00",
+         "title" : "World Senior Team Ch: Iceland and England co-leaders"
+      },
+      {
+         "description" : " The 30-year-old, who has not played in public since he won the world crown in April after Magnus Carlsen's abdication, is scheduled to lead the Chinese team in the Asian Games The case of the disappearing world champion may be about to be solved. China's Ding Liren has not competed in public since he won the title five months ago, following Magnus Carlsen's abdication. Now Ding is scheduled to lead China's team and also to compete in the <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022to\" title=\"\">individual chess competition</a> at the Asian Games, to be staged in his home city of Wenzhou with the opening ceremony on Saturday. <a href=\"https://w",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
+         "pubDate" : "Fri, 22 Sep 2023 07:00:11",
+         "title" : "Chess: World champion Ding Liren back in action in Wenzhou after long absence"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "FIDE World Junior Championship U20 starts in Mexico City"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski proposes complex chess puzzles and relates them to tournament preparation. 2023.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H9cTQFjdhGQ.jpg?itok=TFuxK7RG\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski proposes complex chess puzzles that he composed himself, and relates them to tournament preparation. 2023.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H9cTQFjdhGQ.jpg?itok=TFuxK7RG\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski",
@@ -472,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-585-vidit-mvl",
          "pubDate" : "Sat, 16 Sep 2023 13:00:00",
          "title" : "Game of the Week #585: Vidit vs. MVL"
-      },
-      {
-         "description" : "In an interview published in India's \"The Week\" magazine, Viswanathan Anand talked about young Indian talents, how the pandemic impacted chess, his ongoing career as a professional player, among other topics. Referring to his young compatriots, Anand said: \"They are all in the 2,700-plus group (rating). And they are all under 20. That just does not happen; it is really something special\". | Photos: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-the-week-interview-2023",
-         "pubDate" : "Sat, 16 Sep 2023 12:35:00",
-         "title" : "\"The current generation is a golden generation\": Anand on The Week"
       },
       {
          "description" : "Today, I'm going to show you how to defend a lost position. Let's face it, we all get into lost positions from time to time. It is great to avoid them in the first place, but defending them the right way will also make a huge difference to your results. Lost positions usually aren't fun []",
@@ -1408,22 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2617",
          "pubDate" : "Fri, 01 Sep 2023 07:55:13 +0000",
          "title" : "FIDE September 2023 rating list: Gukesh debuts in top 10, Praggnanandhaa enters top 20"
-      },
-      {
-         "description" : " The 20-year-old had a subdued return at Titled Tuesday, but will be the No1 seed at the World Junior Championship in Mexico City Hans Niemann, the controversial US 20-year-old, has wasted no time in returning to action after his $100m lawsuit against the world No 1, Magnus Carlsen, and others was <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-cheating-allegations-settlement\" title=\"\">settled out of court</a>. On Tuesday, only one day after the settlement was announced, Niemann competed in the early and late versions of Titled Tuesday on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a>, the website that had banned him for admitted cheating in ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/sep/01/chess-niemann-back-in-action-after-100m-lawsuit-against-carlsen-is-settled",
-         "pubDate" : "Fri, 01 Sep 2023 07:00:08",
-         "title" : "Chess: Niemann back in action after $100m lawsuit against Carlsen is settled"
-      },
-      {
-         "description" : "D Gukesh has overtaken Viswanathan Anand as India's no.1 chess player - ending a spell that began when Anand overtook Pravin Thipsay in July 1986.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38303895/37-years-how-world-changed-viswanathan-anand-stayed-constant-top-indian-chess-d-gukesh?device=featurephone",
-         "pubDate" : "Fri, 1 Sep 2023 05:54:46",
-         "title" : "37 years - How the world changed as Anand stayed constant on top of Indian chess"
       }
    ]
 }
