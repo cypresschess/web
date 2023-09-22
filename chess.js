@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 30-year-old, who has not played in public since he won the world crown in April, had been scheduled to lead the Chinese team The case of the disappearing world champion may (or may not) be about to be solved. China's Ding Liren has only competed once since he won the title five months ago, following Magnus Carlsen's abdication. That was in Bucharest in May, where the newly crowned champion finished next to last. Ding was scheduled to lead China's team and also to compete in the individual chess competition <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022\">at the Asian Games</a>, to be staged in his home city of Wenzhou with the opening ceremo",
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Fri, 22 Sep 2023 17:55:00",
+         "title" : "World Junior Championships - Round 2 Live!"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King continues to examine a painful kingside pin that arises from many different openings. Instructive material! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-a-nasty-pin",
+         "pubDate" : "Fri, 22 Sep 2023 17:45:00",
+         "title" : "Daniel King's Power Play Show: A nasty pin"
+      },
+      {
+         "description" : "Recently we announced a very special FritzTrainer by GM Leon Mendonca, one of India's most promising young talents. It is on the Keymer Variation. In this follow-up video IM Sagar Shah invites Leon to speak more about this opening and share his ideas with us. The result is a lesson that can help you build an opening repertoire with 1.Nf3 and 2.e3. Do not miss the chance!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-and-sagar-discuss-the-keymer",
+         "pubDate" : "Fri, 22 Sep 2023 17:30:00",
+         "title" : "Leon and Sagar discuss the Keymer"
+      },
+      {
+         "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/revisiting-nuremberg-1896",
+         "pubDate" : "Fri, 22 Sep 2023 14:05:00",
+         "title" : "Chess greats jostle for supremacy: Revisiting Nuremberg 1896"
+      },
+      {
+         "description" : " The 30-year-old, who has only competed once since he won the world crown in April, had been scheduled to lead the Chinese team The case of the disappearing world champion may (or may not) be about to be solved. China's Ding Liren has only competed once since he won the title five months ago, following Magnus Carlsen's abdication. That was in Bucharest in May, where the newly crowned champion finished next to last. Ding was scheduled to lead China's team and also to compete in the individual chess competition <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022\" title=\"\">at the Asian Games</a>, to be staged in his home city of Wenzhou with the opening",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
@@ -34,6 +66,14 @@ news_feed (
          "title" : "2023 World Junior"
       },
       {
+         "description" : "Nymphenburg Palace was the venue of an international rapid xiangqi tournament on September 9. As part of the festive event, Xiangqi Grandmaster Sun Yongzheng gave a simultaneous exhibition against ten opponents. Oliver Breitsch&auml;del reports. | Pictured: Andrea Trombettoni, with his daughter Giulia, observed by Xiangqi Master Dong Xubin. Andrea Trombettoni is a physics professor and travelled from Italy with his daughter especially for this event. | Photos: Oliver Breitsch&auml;del",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/xiangqi-tournament-munich-2023",
+         "pubDate" : "Fri, 22 Sep 2023 13:05:00",
+         "title" : "Xiangqi tournament at the Nymphenburg Palace in Munich"
+      },
+      {
          "description" : "With eleven opening articles, ChessBase Magazine #215 covers the usual broad spectrum and provides new repertoire ideas for every tournament player. For example, a concept against the Alekhine Defence: Sergey Grigoriants presents the \"sharpest and most principled approach against the Alekhine Defence\" with 5.f4! and is convinced that he has \"proved White's advantage in all variations\". Alekhine expert Christian Bauer attests our author an \"excellent job. I now know why the variation 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Bf5 7.Nc3 e6 is bad for Black!\". Take a look! You can find the complete article with all games and analyses in the current CBM #215.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://aicf.in/bangalore-sna-category-cd-certificates/",
          "pubDate" : "Fri, 22 Sep 2023 11:40:10",
          "title" : "Bangalore SNA Category C&D certificates"
-      },
-      {
-         "description" : "Nymphenburg Palace was the venue of an international rapid xiangqi tournament on September 9. As part of the festive event, Xiangqi Grandmaster Sun Yongzheng gave a simultaneous exhibition against ten opponents. Oliver Breitsch&auml;del reports. | Pictured: Andrea Trombettoni, with his daughter Giulia, observed by Xiangqi Master Dong Xubin. Andrea Trombettoni is a physics professor and travelled from Italy with his daughter especially for this event. | Photos: Oliver Breitsch&auml;del",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/xiangqi-tournament-munich-2023",
-         "pubDate" : "Fri, 22 Sep 2023 10:00:00",
-         "title" : "Xiangqi tournament at the Nymphenburg Palace in Munich"
       },
       {
          "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
@@ -122,14 +154,6 @@ news_feed (
          "title" : "Solve Studies for Tournament Prep | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Thu, 21 Sep 2023 23:55:00",
-         "title" : "World Junior Championships - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-victor-mikhalevski",
          "pubDate" : "Thu, 21 Sep 2023 21:48:40",
          "title" : "Prepare Like A Pro - GM Victor Mikhalevski"
-      },
-      {
-         "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/revisiting-nuremberg-1896",
-         "pubDate" : "Thu, 21 Sep 2023 19:30:00",
-         "title" : "Chess greats jostle for supremacy: Revisiting Nuremberg 1896"
       },
       {
          "description" : "The French Defence is very popular and is considered a solid opening for Black. How do you manage to gain an advantage with White against it? What are typical plans and how do you remember which idea to use and when? What should you know about the complex positions? German WGM Jana Schneider answers these questions on this video course. An expert practitioner of the Advance Variation with both colours, she shows typical plans and ideas to turn the space advantage in the centre into a victory.",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Ukrainian Grandmaster Given Courage Award By Zelenskyy"
       },
       {
-         "description" : "Recently, I've been looking at some of my old middlegame books, both as potential teaching material and for the pleasure of reminding myself what the bods had to say. A few of the found jewels: Max Euwe and Hans Kramer's two-volume work on the middlegame; three volumes of \"Complete Chess Strategy\" by Ludek Pachman; \"A Contemporary Approach to the Middlegame\" by Alexei Suetin; and three different editions of Aron Nimzowitch's \"My System\" (one in Russian).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-202",
-         "pubDate" : "Sun, 17 Sep 2023 20:00:00",
-         "title" : "Jon Speelman: Dusting off the shelf"
-      },
-      {
          "description" : "Among other stories, last month's Yahoos post (aka 'chess news in the mainstream press'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), offered this:- <UL> <LI> 2023-08-08: Rishi Sunak to announce &pound;500,000 government funding boost for English chess (ft.com) </UL> <P> The story is a prelude to this month's Flickr photo. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni17.jpg\" WIDTH=400 HEIGHT=265><BR> <A HREF=\"https://www.flickr.com/photos/number10gov/53134435703/\">The Prime Minister hosts young chess champions</A> &#169; Flickr user <I>Number 10</I> under <A HREF=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/there-was-a-bank-row-5",
          "pubDate" : "Sun, 17 Sep 2023 15:05:00",
          "title" : "There was a bank row?"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 143rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and legacy of Jos&eacute; Ra&uacute;l Capablanca. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-142-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 17 Sep 2023 15:00:00",
-         "title" : "Understanding before Moving 143: Chess history in a nutshell (25)"
       },
       {
          "description" : " <b> 2023 ACT Junior Championship and Age Championships</b> When: Monday 25th September - Friday 29th September <br /> Schedule: Monday 25th Under 14/Under 12 Day 1 Tuesday 26th Under 14/Under 12 Day 2 Wednesday 27th Under 18 Day 1, Under 8 (Only day) Thursday 28th Under 18 Day 2, Under 10 (Only day) Friday 29th Under 18 Day 3 <br /> Tournament Format and Entry Fee Under 18 9 rounds Wed-Fri FIDE Rated $90 60m+30s TC Under 14 6 rounds Mon-Tue ACF Rated $60 60m+30s TC Under 12 6 rounds Mon-Tue ACF Rated $60 60m+30s TC (May be combined with Under 14) Under 10 6 rounds Thu ACF Rated $30 30m+30s TC Under 8 6 rounds Wed ACF Rated $30 30m+30s TC <br /> Players may play multiple events if age and sc",
