@@ -5,6 +5,30 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2645",
+         "pubDate" : "Fri, 22 Sep 2023 01:00:24 +0000",
+         "title" : "FIDE World Junior Championship U20 starts in Mexico City"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski proposes complex chess puzzles and relates them to tournament preparation. 2023.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H9cTQFjdhGQ.jpg?itok=TFuxK7RG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski",
+         "pubDate" : "Fri, 22 Sep 2023 00:48:49",
+         "title" : "Solve Studies for Tournament Prep | Prepare Like A Pro - GM Victor Mikhalevski"
+      },
+      {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Thu, 21 Sep 2023 23:55:00",
+         "title" : "World Junior Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2644",
          "pubDate" : "Thu, 21 Sep 2023 21:50:39 +0000",
          "title" : "FIDE World Senior Team Championship: Day 3 recap"
@@ -26,6 +50,14 @@ news_feed (
          "title" : "Chess greats jostle for supremacy: Revisiting Nuremberg 1896"
       },
       {
+         "description" : "The French Defence is very popular and is considered a solid opening for Black. How do you manage to gain an advantage with White against it? What are typical plans and how do you remember which idea to use and when? What should you know about the complex positions? German WGM Jana Schneider answers these questions on this video course. An expert practitioner of the Advance Variation with both colours, she shows typical plans and ideas to turn the space advantage in the centre into a victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-jana-schneider-beat-the-french-defence-with-the-advance-variation",
+         "pubDate" : "Thu, 21 Sep 2023 17:30:00",
+         "title" : "New: Jana Schneider - Beat the French Defence with the Advance Variation"
+      },
+      {
          "description" : "The World Junior Championships will take place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. The event is an 11-round Swiss Open. Former champions of the prestigious under-20 championships include Levon Aronian, Shakhriyar Mamedyarov and Humpy Koneru (women's). | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/america%E2%80%99s-top-chess-players-compete-more-400000-2023-us-championship-and-us-women%E2%80%99s-chess",
          "pubDate" : "Thu, 21 Sep 2023 15:21:56",
          "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2023 U.S. Championship and U.S. Women's Chess Championship"
-      },
-      {
-         "description" : "The French Defence is very popular and is considered a solid opening for Black. How do you manage to gain an advantage with White against it? What are typical plans and how do you remember which idea to use and when? What should you know about the complex positions? German WGM Jana Schneider answers these questions on this video course. An expert practitioner of the Advance Variation with both colours, she shows typical plans and ideas to turn the space advantage in the centre into a victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-jana-schneider-beat-the-french-defence-with-the-advance-variation",
-         "pubDate" : "Thu, 21 Sep 2023 13:30:00",
-         "title" : "New: Jana Schneider - Beat the French Defence with the Advance Variation"
       },
       {
          "description" : " <p class=\"lead\">Grandmaster from Poland Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D77AF732-4E03-47F3-8353-A7448F1DD7C2.jpeg\" width=\"2560\" height=\"1706.6666666667\" alt=\"\" /> <div class=\"e2-text-caption\">Jan-Krzysztof Duda receiving his price on stage</div> </div> <h2>Key Highlights:</h2> Ar",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "A Foundation for Beginners One Hundred Three"
       },
       {
-         "description" : "In the diagram position Black has just set up a mate threat with 19...Qh3 ... but I can see your eyes are already on the Ke8. Let's do it - can you calculate everything in your head?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/castled-vs-uncastled-king",
-         "pubDate" : "Sat, 16 Sep 2023 09:00:00",
-         "title" : "Castled vs. uncastled king"
-      },
-      {
          "description" : "GM Magnus Carlsen and GM Maxime Vachier-Lagrave advance to the Semifinals of the 2023 Chess.com Speed Chess Championship presented by Coinbase. Carlsen overcame his former world championship challenger, GM Ian Nepomniachtchi, by an 11-point marg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-robson-much-less-pressure-here-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 03:37:32",
          "title" : "EXCLUSIVE! Robson: Much Less Pressure Here | #Chess9LX"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-sevian-15-minutes-nothing-study-new-position-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H_e19Spgp9M.jpg?itok=nzp-aVkx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-sevian-15-minutes-nothing-study-new-position-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
-         "title" : "EXCLUSIVE! Sevian: 15 Minutes is Nothing to Study a New Position! | #Chess9LX"
       },
       {
          "description" : "Social media posts claiming Netflix&#39;s The Queen&#39;s Gambit is returning for a second season have gone viral in the last months. Sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; claimed a post from the Facebook group Netflix Daily U...",
