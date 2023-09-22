@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The chess.com Speed Chess took place Mon 4th to Fri 22nd September 2023. The final was between Magnus Carlsen and defending Champion Hikaru Nakamura for the second year running. Magnus Carlsen won the event by a point. Last year the 5+1 portion was won 6.5-2.5 by Nakamura and even though Carlsen fought back he couldn't overcome this deficit because of the control it gave Nakamura. This year there was only a point in all the sections, Carlsen won the 5+1 5-4, Nakamura won the 3+1 5-4 but it was Carlsen who triumphed in the Bullet where Nakamura often dominates but where Carlsen is the only one who can match him. Carlsen won that 4.5-3.5 but led by two at one stage and this meant Nakamura was",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-2023",
+         "pubDate" : "Sat, 23 Sep 2023 00:04:00",
+         "title" : "chess.com Speed Chess 2023 - "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2646",
+         "pubDate" : "Fri, 22 Sep 2023 21:27:33 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 4 recap "
+      },
+      {
+         "description" : " The Levitov Chess Week takes place in Amsterdam Fri 22nd Sep to Tue 26th Sep 2023. Players: Ian Nepomniachtchi, Wesley So, Levon Aronian, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Daniil Dubov, Shakhriyar Mamedyarov, Alexander Grischuk and Boris Gelfand.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/levitov-chess-week-2023",
+         "pubDate" : "Fri, 22 Sep 2023 20:57:00",
+         "title" : "Levitov Chess Week 2023 - Games and Results"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/2023-world-junior.html",
          "pubDate" : "Fri, 22 Sep 2023 13:11:00",
          "title" : "2023 World Junior"
+      },
+      {
+         "description" : "GM Levon Aronian leads the Levitov Chess Week after the first day of play, scoring three wins and two draws. The tournament runs until September 26 in Amsterdam, The Netherlands. How to watch?You can watch the 2023 Levitov Chess Week on YouTub...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-1",
+         "pubDate" : "Fri, 22 Sep 2023 13:06:00",
+         "title" : "Undefeated Aronian Grabs Early Lead As Levitov Chess Week Returns To Amsterdam"
       },
       {
          "description" : "Nymphenburg Palace was the venue of an international rapid xiangqi tournament on September 9. As part of the festive event, Xiangqi Grandmaster Sun Yongzheng gave a simultaneous exhibition against ten opponents. Oliver Breitsch&auml;del reports. | Pictured: Andrea Trombettoni, with his daughter Giulia, observed by Xiangqi Master Dong Xubin. Andrea Trombettoni is a physics professor and travelled from Italy with his daughter especially for this event. | Photos: Oliver Breitsch&auml;del",
@@ -1160,14 +1192,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/csc-junior-rapidplay-tournaments/",
          "pubDate" : "Thu, 07 Sep 2023 15:58:37",
          "title" : "CSC Junior Rapidplay Tournaments"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave scored another 2.5 points on the last day of the 2023 Tata Steel Chess India Open Rapid, winning the event with a round to spare and scoring seven points out of a possible nine. GM Teimour Radjabov was placed second with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-3-rapid",
-         "pubDate" : "Thu, 07 Sep 2023 14:33:00",
-         "title" : "Smooth Round-To-Spare Rapid Title For Vachier-Lagrave"
       },
       {
          "description" : " For some strange reason, I had not one, but two beginners ask me if pawns could move 1 square forward and then take diagonally on the same move (basically a knight move). Of course I said no, but it did get me thinking. If a pawn can move 2 squares forward on the first move, why can't it take by moving 2 squares diagonally on the first move. 'Because' is probably the best answer, although it may make the game a little different if it could. I assume that such a variant does already exists, although the closest I could find was Berolina Chess, which isn't the same thing. ",
