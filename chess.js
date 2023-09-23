@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #586, Merijn Van Delft looks at a nice win obtained by Liam Vrolijk in the first round of the Dutch League. The game featured remarkable piece play by the young grandmaster. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-586-vrolijk-swinkels",
+         "pubDate" : "Sat, 23 Sep 2023 15:30:00",
+         "title" : "Game of the Week #586: Vrolijk vs. Swinkels"
+      },
+      {
+         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
+         "pubDate" : "Sat, 23 Sep 2023 13:50:00",
+         "title" : "Levitov Chess Week - Live!"
+      },
+      {
+         "description" : "Today, I'm going to show you how to get rid of distractions during chess training. In a world obsessed with quick hacks, pop-up messages, and social media notifications, it is hard to stay focused for a prolonged period of time. But that's exactly what you need if you want to improve your chess effectively. Sadly, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/distraction-free-chess-training/",
+         "pubDate" : "Sat, 23 Sep 2023 12:00:07",
+         "title" : "Grandmaster Concentration: Your Guide to Distraction-Free Chess Training"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2647",
+         "pubDate" : "Sat, 23 Sep 2023 11:41:20 +0000",
+         "title" : "Carlsen denies Nakamura sixth straight Speed Chess title in thrilling final"
+      },
+      {
          "description" : "On 2nd September, I attended a performance of Stravinsky's Rite of Spring at the Royal Albert Hall's Proms season. The performance was remarkable for a number of reasons, the first of which was that the Aurora Orchestra, conducted by Nicholas Collon, performed this difficult work entirely from memory. As co-founder with Tony Buzan of the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d1",
          "pubDate" : "Sat, 23 Sep 2023 03:45:00",
          "title" : "Levitov Chess Week: Aronian takes the lead"
+      },
+      {
+         "description" : "The recent performances of D Gukesh, R Praggnanandhaa, Koneru Humpy, Harika Dronavalli et al have raised Indian medal hopes as chess returns to Asian Games.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/38462593/asian-games-indian-chess-contingent-plots-asiad-medal-haul-recent-rise-praggnanandhaa-gukesh-humpy-harika?device=featurephone",
+         "pubDate" : "Sat, 23 Sep 2023 02:33:08",
+         "title" : "Asian Games: Indian chess contingent plots Asiad medal haul after recent rise"
       },
       {
          "description" : " The finals of the chess.com Speed Chess took place Mon 4th to Fri 22nd September 2023. 16 players competed including Alireza Firouzja, Wesley So, Levon Aronianm, Ian Nepomniachtchi and MVL However it was last year's finalists Magnus Carlsen and Hikaru Nakamura that met again. Last year Carlsen got off to a poor start losing the 5m+1spm portion 6.5-2.5 and although he pulled close Nakamura had the upper hand throughout and infamously ran down the clock at the end to ensure victory. This year felt much closer with only a point in it in all three sections. Carlsen won the initial 5m+1spm section 5-4, Nakamura won the 3m+1spm 5-4 but it was Carlsen who triumphed in the Bullet 4.5-3.5 to win by ",
@@ -528,22 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/us-chess-president-faces-calls-for-resignation",
          "pubDate" : "Mon, 18 Sep 2023 14:46:00",
          "title" : "US Chess President Faces Calls For Resignation After Social Media Comments"
-      },
-      {
-         "description" : "Thirty years ago, the World Championship match between Garry Kasaprov and Nigel Short was played in London. The match was not organized by FIDE and divided the chess world in two. The match was very one-sided. Dagobert Kohlmeyer was there. | Photos: Dagobert Kohlmeyer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-vs-short-in-london",
-         "pubDate" : "Mon, 18 Sep 2023 13:00:00",
-         "title" : "30 years ago: Kasparov vs. Short in London"
-      },
-      {
-         "description" : "India is a land of amazing talents in chess. And the talents are sprouting from different corners of the country. Meet 7-year-old Advitiya AG, who lives in Shillong, Meghalaya. The boy became the under-12 state champion when he was just 5 years old. Currently, he has a rating of 1182. IM Sagar Shah speaks with Advitiya and asks him some questions based on the different positions he has selected, while Advitiya has his own list of questions he wants to ask IM Sagar Shah. If coached well, this boy could very well become a future GM of India and perhaps the first from Meghalaya!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-talent-advitiya",
-         "pubDate" : "Mon, 18 Sep 2023 10:00:00",
-         "title" : "A super talent spotted! 7-year-old Advitiya from Meghalaya"
       },
       {
          "description" : "",
@@ -1408,30 +1432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-divya-deshmukh-claims-rapid-title/articleshow/103314414.cms",
          "pubDate" : "Sat, 02 Sep 2023 17:14:03 +0000",
          "title" : "Tata Steel Chess India: Divya Deshmukh claims rapid title"
-      },
-      {
-         "description" : " To commemorate the late Oskar Hellman, a special Father's Day weekend event was held at Street Chess today. Thanks to the generous support of tournament regulars Lee Forace and Harry Johnson, we were able to award a number of extra prizes. These prizes included both a Senior and Junior prize (1st and 2nd place), and a Best Female prize. But as an added bonus, there was a prize for players who scored points with the Blackmar-Diemar Gambit (3 winners here), and a prize for the Best Father. With 38 players taking part, the tournament resulted in a lot pf happy players, who were a little surprised they went home with more money than they turned up with! <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/fathers-day-special.html",
-         "pubDate" : "Sat, 02 Sep 2023 14:35:00",
-         "title" : "Father's Day Special"
-      },
-      {
-         "description" : "I have received a communication from my old friend Nick Patterson, former Irish Chess Champion and top board for Ireland in the 1970 Siegen Chess Olympiad. He was also a leading light of Cambridge University chess while I was studying there and sharing digs with our future King Charles III at Trinity College. In a previous []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/laudator-temporis-acti-ancients-and-moderns-in-chess/",
-         "pubDate" : "Sat, 02 Sep 2023 14:01:41",
-         "title" : "'Laudator Temporis Acti': ancients and moderns in chess"
-      },
-      {
-         "description" : "Opening courses are everywhere. The prospect of playing the same line as a Top Player is just too tempting to resist. Some Chess fans seem to buy an opening course more frequently than they change their underwear. But is it sensible for amateur chess improvers to buy and study Opening courses from (Grand)Masters? I have []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-opening-courses/",
-         "pubDate" : "Sat, 02 Sep 2023 12:00:22",
-         "title" : "Chess Opening Courses: Are They Worth Buying?"
       }
    ]
 }
