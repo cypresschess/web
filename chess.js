@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An exciting first day of action saw Levon Aronian grabbing the lead at the Levitov Chess Week rapid tournament in Amsterdam. Aronian collected three wins and two draws to end the day as the only player with a 4/5 score. Vishy Anand, who obtained a good-looking victory over an out-of-form Wesley So, stands in sole second place, a half point behind the leader. | Photo: Levitov Chess webcast",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d1",
+         "pubDate" : "Sat, 23 Sep 2023 03:45:00",
+         "title" : "Levitov Chess Week: Aronian takes the lead"
+      },
+      {
          "description" : " The chess.com Speed Chess took place Mon 4th to Fri 22nd September 2023. The final was between Magnus Carlsen and defending Champion Hikaru Nakamura for the second year running. Magnus Carlsen won the event by a point. Last year the 5+1 portion was won 6.5-2.5 by Nakamura and even though Carlsen fought back he couldn't overcome this deficit because of the control it gave Nakamura. This year there was only a point in all the sections, Carlsen won the 5+1 5-4, Nakamura won the 3+1 5-4 but it was Carlsen who triumphed in the Bullet where Nakamura often dominates but where Carlsen is the only one who can match him. Carlsen won that 4.5-3.5 but led by two at one stage and this meant Nakamura was",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "Levitov Chess Week 2023 - Games and Results"
       },
       {
+         "description" : "GM Magnus Carlsen won his third SCC title after defeating GM Hikaru Nakamura 13.5-12.5 in the Final of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The match had many phases. Carlsen got off to a strong, two-point start, bu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-final-nakamura-carlsen",
+         "pubDate" : "Fri, 22 Sep 2023 18:58:00",
+         "title" : "Carlsen Claims 2023 SCC Title With Double Rook Sacrifice"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
          "pubDate" : "Fri, 22 Sep 2023 17:55:00",
-         "title" : "World Junior Championships - Round 2 Live!"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King continues to examine a painful kingside pin that arises from many different openings. Instructive material! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-a-nasty-pin",
-         "pubDate" : "Fri, 22 Sep 2023 17:45:00",
-         "title" : "Daniel King's Power Play Show: A nasty pin"
+         "title" : "World Junior Championships - Round 3 Live!"
       },
       {
          "description" : "Recently we announced a very special FritzTrainer by GM Leon Mendonca, one of India's most promising young talents. It is on the Keymer Variation. In this follow-up video IM Sagar Shah invites Leon to speak more about this opening and share his ideas with us. The result is a lesson that can help you build an opening repertoire with 1.Nf3 and 2.e3. Do not miss the chance!",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/leon-and-sagar-discuss-the-keymer",
          "pubDate" : "Fri, 22 Sep 2023 17:30:00",
          "title" : "Leon and Sagar discuss the Keymer"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King continues to examine a painful kingside pin that arises from many different openings. Instructive material! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-a-nasty-pin",
+         "pubDate" : "Fri, 22 Sep 2023 17:25:00",
+         "title" : "Daniel King's Power Play Show: A nasty pin"
       },
       {
          "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
          "pubDate" : "Fri, 22 Sep 2023 13:52:25",
          "title" : "Chess: Doubt cast over Ding Liren's planned return to action at Asian Games"
-      },
-      {
-         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
-         "pubDate" : "Fri, 22 Sep 2023 13:50:00",
-         "title" : "Levitov Chess Week - Live!"
       },
       {
          "description" : "It is with great pleasure to announce that the Mindsports Grandmasters Open has been a success! The third edition of titled tournaments at the London...",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2622",
          "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
          "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
-      },
-      {
-         "description" : "Who knew that the light-hearted Chess Clash event would almost bring the downfall of Chess.com? After CCO Danny Rensch irresponsibly bet the company&#39;s ownership on clan Barbarian&#39;s win, clan King emerged with a victory, giving Ludwig the right to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-clash-2023-recap",
-         "pubDate" : "Thu, 07 Sep 2023 18:27:00",
-         "title" : "$50,000 Donated To Charity As King Clan Wins Chess Clash"
       },
       {
          "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1.&#160;&#160;&#160;&#160;&#160; Chennai : 16 - 21 Oct 23 2.&#160;&#160;&#160;&#160;&#160; Pollachi",
