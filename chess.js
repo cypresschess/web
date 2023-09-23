@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2648",
+         "pubDate" : "Sat, 23 Sep 2023 21:28:56 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 5 recap "
+      },
+      {
          "description" : "In what turned out to be an extremely close fight for first place, DuoBeniaj&aacute;n emerged victorious at the Spanish League in Linares. C.A. Silla obtained the same number of match points and individual points as the champions, but had a worse tiebreak score - i.e. they had lost the direct confrontation against the team from Murcia. C.A. Solvay, the defending champions, finished in clear third place. | Photos: FEDA",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/spanish-league-2023-r7",
          "pubDate" : "Sat, 23 Sep 2023 19:00:00",
          "title" : "DuoBeniaj&aacute;n edge Silla to win Spanish League"
+      },
+      {
+         "description" : "GM Nihal Sarin soared to dizzying heights and amassed a total score of 294 in September&#39;s fourth Bullet Brawl. Thanks to 78 wins, six draws, and just three losses during the two-hour arena, Nihal finished ahead of 10-time victor GM Hikaru Nakamura...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-september-23-2023",
+         "pubDate" : "Sat, 23 Sep 2023 15:58:00",
+         "title" : "Nihal Sets Record With 56-Game Unbeaten Run"
       },
       {
          "description" : "In his Game of the Week show #586, Merijn Van Delft looks at a nice win obtained by Liam Vrolijk in the first round of the Dutch League. The game featured remarkable piece play by the young grandmaster. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-2",
-         "pubDate" : "Sat, 23 Sep 2023 12:22:58",
+         "pubDate" : "Sat, 23 Sep 2023 12:22:00",
          "title" : "Nepomniachtchi, Svidler Take Over On Levitov Chess Week Day 2"
       },
       {
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2624",
          "pubDate" : "Fri, 08 Sep 2023 19:13:51 +0000",
          "title" : "WWTC 2023: A big upset for India, a huge miracle for Germany"
-      },
-      {
-         "description" : "Against GM Dmitry Andreikin, GM Alireza Firouzja won the closest Round of 16 match in the season so far in the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The final score was just a one-point difference, 13.5-12.5. Although Fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-firouzja-andreikin",
-         "pubDate" : "Fri, 08 Sep 2023 16:50:00",
-         "title" : "Firouzja Underpromotes Pawn To Knight In Last Game To Win By 1 Point"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103517149.cms\" />Indian Grandmaster R Praggnanandhaa won five consecutive matches in the 'Tata Steel Chess India Blitz 2023', securing a commanding lead of 6.5 points. This impressive performance followed his joint third-place finish in the 'Tata Steel Chess India Rapid 2023'. However, his winning streak was temporarily halted by Russian Grandmaster Alexander Grischuk, who secured a draw in the sixth round.",
