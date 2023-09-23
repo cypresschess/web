@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In what turned out to be an extremely close fight for first place, DuoBeniaj&aacute;n emerged victorious at the Spanish League in Linares. C.A. Silla obtained the same number of match points and individual points as the champions, but had a worse tiebreak score - i.e. they had lost the direct confrontation against the team from Murcia. C.A. Solvay, the defending champions, finished in clear third place. | Photos: FEDA",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spanish-league-2023-r7",
+         "pubDate" : "Sat, 23 Sep 2023 19:00:00",
+         "title" : "DuoBeniaj&aacute;n edge Silla to win Spanish League"
+      },
+      {
          "description" : "In his Game of the Week show #586, Merijn Van Delft looks at a nice win obtained by Liam Vrolijk in the first round of the Dutch League. The game featured remarkable piece play by the young grandmaster. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "Game of the Week #586: Vrolijk vs. Swinkels"
       },
       {
-         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
-         "pubDate" : "Sat, 23 Sep 2023 13:50:00",
-         "title" : "Levitov Chess Week - Live!"
+         "description" : "GMs Ian Nepomniachtchi and Peter Svidler are the new leaders at Levitov Chess Week after nine rounds. The two Russian grandmasters are tied with six points, half a point more than GMs Viswanathan Anand and&#38;nbsp;GM Levon Aronian. The tournament wil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-2",
+         "pubDate" : "Sat, 23 Sep 2023 12:22:58",
+         "title" : "Nepomniachtchi, Svidler Take Over On Levitov Chess Week Day 2"
       },
       {
          "description" : "Today, I'm going to show you how to get rid of distractions during chess training. In a world obsessed with quick hacks, pop-up messages, and social media notifications, it is hard to stay focused for a prolonged period of time. But that's exactly what you need if you want to improve your chess effectively. Sadly, []",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ready-for-action",
          "pubDate" : "Sat, 23 Sep 2023 09:00:00",
          "title" : "Ready for action"
+      },
+      {
+         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
+         "pubDate" : "Sat, 23 Sep 2023 08:55:00",
+         "title" : "Levitov Chess Week - Live!"
       },
       {
          "description" : "The World Junior Chess Championship commenced in Mexico City, Mexico on the 21st of September. 7 players are representing India in the Girls and Open",
@@ -98,7 +114,7 @@ news_feed (
          "title" : "Levitov Chess Week 2023 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen won his third SCC title after defeating GM Hikaru Nakamura 13.5-12.5 in the Final of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The match had many phases. Carlsen got off to a strong, two-point start, bu...",
+         "description" : "GM Magnus Carlsen won his third SCC title after defeating GM Hikaru Nakamura 13.5-12.5 in the Final of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The match had many phases. Carlsen got off to a strong start, taking a two-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-final-nakamura-carlsen",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2637",
          "pubDate" : "Tue, 19 Sep 2023 00:35:44 +0000",
          "title" : "FIDE World Senior Team Championship 2023 kicks off in Struga, North Macedonia"
-      },
-      {
-         "description" : "Held in six age categories - U8, U10, U12, U14, U16 and U18 (open and girls sections separately) - from September 5-14 at the Dorna Ceremony Hall in Mamaia, Romania, the European Youth Chess Championship 2023 attracted over 900 participants from 46 European federations, including more than 100 titled players. | Photos: International Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-youth-championship-2023",
-         "pubDate" : "Mon, 18 Sep 2023 23:20:00",
-         "title" : "Winners crowned at European Youth Chess Championships 2023"
       },
       {
          "description" : "GMs Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura, and Anish Giri ascended to the top in the 2023 AI Cup Play-in on Monday, claiming the remaining four spots in the Division I knockout. They will join GMs&#38;nbsp;Magnus Carlsen, Alir...",
@@ -1138,14 +1146,6 @@ news_feed (
          "title" : "Praggnanandhaa scores five successive wins to lead with 6.5 points"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu got off to a flying start, winning his first five games, and ultimately ended with 6.5 points from nine games to be the sole leader at the end of the first day of the 2023 Tata Steel Chess India Open Blitz. Following t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-1-blitz",
-         "pubDate" : "Fri, 08 Sep 2023 15:09:00",
-         "title" : "Praggnanandhaa Leads Blitz After 5/5 Start"
-      },
-      {
          "description" : "Last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> (September 2023), established a plan:- <BLOCKQUOTE> Google's permanent page on the subject [...] sets a deadline: 'Beginning January 16, 2024, publishers and developers using Google AdSense, Ad Manager, or AdMob will be required to use a Consent Management Platform (CMP) [...]'. The page contains a list of 'Google-certified CMPs' that currently has 50 names with a link for each name. Only one of the 50 names was even vaguely familiar to me, 'Google consent management solutions', so no prize for guessing which one I chose to investigate further. [...] That leads to the next ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1416,22 +1416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-aims-to-keep-improving-after-becoming-india-no-1-without-sponsorship-support/articleshow/103327558.cms",
          "pubDate" : "Sun, 03 Sep 2023 11:30:02 +0000",
          "title" : "Gukesh aims to keep improving after becoming India No.1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2618",
-         "pubDate" : "Sat, 02 Sep 2023 18:55:45 +0000",
-         "title" : " ­Georgia and USA, main favourites in Poland"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103314414.cms\" />Divya Deshmukh knows how to grab an opportunity with both hands. The 17-year-old Women's Grandmaster, who was only a last-minute inclusion after India's latest chess sensation R Praggnanandhaa's sister WGM MR Vaishali pulled out, ended up claiming the women's rapid title of Tata Steel Chess India tournament at the Bhasha Bhawan in the National Library of India campus on Saturday. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-divya-deshmukh-claims-rapid-title/articleshow/103314414.cms",
-         "pubDate" : "Sat, 02 Sep 2023 17:14:03 +0000",
-         "title" : "Tata Steel Chess India: Divya Deshmukh claims rapid title"
       }
    ]
 }
