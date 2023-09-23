@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2023-09-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202309225312 target='_blank'>FBCC 2023 FALL OPEN</a>",
+"HOUSTON","2023-09-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309225292 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 22, 2023</a>",
+"CYPRESS","2023-09-08  - 09-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309225192 target='_blank'>KNIGHTS OF CYPRESS SEP RR</a>",
 "HOUSTON","2023-09-15  - 09-17","44","<a href=http://www.uschess.org/msa/XtblMain.php?202309172752 target='_blank'>$3,000 STUDIO  SEPT 2023 CHAMPIONSH</a>",
 "HOUSTON","2023-09-16","171","<a href=http://www.uschess.org/msa/XtblMain.php?202309162042 target='_blank'>IMPACT LEADERSHIP ACADEMY</a>",
 "HOUSTON","2023-09-16","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309161462 target='_blank'>CHESSPANDA09162023SATURDAY</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2023-02-19","15","<a href=http://www.uschess.org/msa/XtblMain.php?202302194712 target='_blank'>FEB 19 SUNDAY SWISS</a>",
 "HOUSTON","2023-02-18","54","<a href=http://www.uschess.org/msa/XtblMain.php?202302185322 target='_blank'>PISD FEB 2023- PISD FEB 2023 INTERM</a>",
 "HOUSTON","2023-02-18","10","<a href=http://www.uschess.org/msa/XtblMain.php?202302184352 target='_blank'>FEB 18 2023 SCHOLASTIC</a>",
-"HOUSTON","2023-02-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202302183212 target='_blank'>CHESSPANDA02182023SATURDAY</a>",
-"HOUSTON","2023-02-18","206","<a href=http://www.uschess.org/msa/XtblMain.php?202302183072 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
-"HOUSTON","2023-02-18","51","<a href=http://www.uschess.org/msa/XtblMain.php?202302182602 target='_blank'>PISD FEB 2023- PISD FEB 2023 HS</a>",
 ]);
