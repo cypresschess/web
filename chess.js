@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 2nd September, I attended a performance of Stravinsky's Rite of Spring at the Royal Albert Hall's Proms season. The performance was remarkable for a number of reasons, the first of which was that the Aurora Orchestra, conducted by Nicholas Collon, performed this difficult work entirely from memory. As co-founder with Tony Buzan of the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-rite-of-chess/",
+         "pubDate" : "Sat, 23 Sep 2023 11:15:08",
+         "title" : "The Rite of Chess"
+      },
+      {
          "description" : "In the diagram position, Black's bishop c6 is eyeing the point g2 on the long diagonal. But to exploit this requires skilful preparation - so it's a case for you!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Levitov Chess Week: Aronian takes the lead"
       },
       {
-         "description" : " The chess.com Speed Chess took place Mon 4th to Fri 22nd September 2023. The final was between Magnus Carlsen and defending Champion Hikaru Nakamura for the second year running. Magnus Carlsen won the event by a point. Last year the 5+1 portion was won 6.5-2.5 by Nakamura and even though Carlsen fought back he couldn't overcome this deficit because of the control it gave Nakamura. This year there was only a point in all the sections, Carlsen won the 5+1 5-4, Nakamura won the 3+1 5-4 but it was Carlsen who triumphed in the Bullet where Nakamura often dominates but where Carlsen is the only one who can match him. Carlsen won that 4.5-3.5 but led by two at one stage and this meant Nakamura was",
+         "description" : " The finals of the chess.com Speed Chess took place Mon 4th to Fri 22nd September 2023. 16 players competed including Alireza Firouzja, Wesley So, Levon Aronianm, Ian Nepomniachtchi and MVL However it was last year's finalists Magnus Carlsen and Hikaru Nakamura that met again. Last year Carlsen got off to a poor start losing the 5m+1spm portion 6.5-2.5 and although he pulled close Nakamura had the upper hand throughout and infamously ran down the clock at the end to ensure victory. This year felt much closer with only a point in it in all three sections. Carlsen won the initial 5m+1spm section 5-4, Nakamura won the 3m+1spm 5-4 but it was Carlsen who triumphed in the Bullet 4.5-3.5 to win by ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-2023",
