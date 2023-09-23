@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black's bishop c6 is eyeing the point g2 on the long diagonal. But to exploit this requires skilful preparation - so it's a case for you!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ready-for-action",
+         "pubDate" : "Sat, 23 Sep 2023 09:00:00",
+         "title" : "Ready for action"
+      },
+      {
+         "description" : "The World Junior Chess Championship commenced in Mexico City, Mexico on the 21st of September. 7 players are representing India in the Girls and Open",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/strong-start-for-india-at-the-world-junior-chess-championship-2023-in-mexico/",
+         "pubDate" : "Sat, 23 Sep 2023 06:24:12",
+         "title" : "STRONG START FOR INDIA AT THE WORLD JUNIOR CHESS CHAMPIONSHIP 2023 IN MEXICO"
+      },
+      {
          "description" : "An exciting first day of action saw Levon Aronian grabbing the lead at the Levitov Chess Week rapid tournament in Amsterdam. Aronian collected three wins and two draws to end the day as the only player with a 4/5 score. Vishy Anand, who obtained a good-looking victory over an out-of-form Wesley So, stands in sole second place, a half point behind the leader. | Photo: Levitov Chess webcast",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -39,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-final-nakamura-carlsen",
          "pubDate" : "Fri, 22 Sep 2023 18:58:00",
-         "title" : "Carlsen Claims 2023 SCC Title With Double Rook Sacrifice"
+         "title" : "Carlsen Claims 2023 Speed Chess Title With Double Rook Sacrifice"
       },
       {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2636",
          "pubDate" : "Mon, 18 Sep 2023 09:52:58 +0000",
          "title" : "FIDE Education Commission continues its development activities around the world"
-      },
-      {
-         "description" : "Day 4 of the World Chess Armageddon is over with Jan-Krzysztof Duda and Nodirbek Abdusattorov emerging victorious against Gukesh and Humpy Koneru, securing their spots in the semifinals. The losers will have another opportunity to prove their mettle as they go head-to-head with Richard Rapport and Wesley So, respectively, in Monday's matches at 19:00 CEST. | Photos: Max Avdeev / World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d4",
-         "pubDate" : "Mon, 18 Sep 2023 06:15:00",
-         "title" : "Armageddon: Duda beats Gukesh, Abdusattorov beats Humpy"
       },
       {
          "description" : "While chess players are battling it out on the chessboard, GM Igor Kovalenko is fighting for his own and his countrymen&#39;s lives in Ukraine. His fight has now seen him receive an award from the Ukrainian president. The 34-year-old grandmaster is ...",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2622",
          "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
          "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
-      },
-      {
-         "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1.&#160;&#160;&#160;&#160;&#160; Chennai : 16 - 21 Oct 23 2.&#160;&#160;&#160;&#160;&#160; Pollachi",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/im-norm-round-robin-tournaments/",
-         "pubDate" : "Thu, 07 Sep 2023 17:09:04",
-         "title" : "IM Norm Round Robin Tournaments"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103479311.cms\" />India's chess sensation R Praggnanandhaa finished third but former World Blitz champion Maxime Vachier-Lagrave continued his dominance with two more wins to claim the 'Tata Steel Chess India 2023' rapid title, here on Thursday. The Frenchman, who was on his maiden visit to India, finished on top with seven points, way ahead of Azerbaijan's 2019 World Cup winner Teimour Radjabov (5.5).",
