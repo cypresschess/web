@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Sun, 24 Sep 2023 23:55:00",
+         "title" : "World Junior Championships - Round 5 Live!"
+      },
+      {
+         "description" : "In the latest edition of his Fast & Furious series, Robert Ris analyses a 23-move miniature played in the Spanish Team Championship. Daniil Yuffa played an absolute brilliant masterpiece, exploiting the deficiencies of White's position! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-miniature-sicilian-alapin",
+         "pubDate" : "Sun, 24 Sep 2023 23:30:00",
+         "title" : "Robert Ris' Fast and Furious: A miniature out of a Sicilian Apalin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2651",
+         "pubDate" : "Sun, 24 Sep 2023 21:51:03 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 6 recap"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -584,22 +608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2638",
          "pubDate" : "Tue, 19 Sep 2023 16:56:45 +0000",
          "title" : "FIDE Book Awards 2023 - Call for Nominations"
-      },
-      {
-         "description" : "An opening trap is particularly effective if it is built up with natural-looking development moves and is thus hardly recognisable for an uninformed opponent. Trap expert Rainer Knaak presents a collection of promising traps from tournament practice in every issue of ChessBase Magazine. In the current issue #215 there are eight examples - from Trompowsky via Sicilian and Ruy Lopez to King's Indian. Rainer Knaak also demonstrates three of his favourite traps in video in CBM #215; you can watch one of the videos here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/with-engine-help-in-kasparov-s-footsteps",
-         "pubDate" : "Tue, 19 Sep 2023 15:00:00",
-         "title" : "With engine help in Kasparov's footsteps"
-      },
-      {
-         "description" : "The Honour Division of the Spanish League is taking place on September 16-22 in Linares, Ja&eacute;n. Eight teams take part in the single round-robin competition. Each match is played over six boards, with the obligatory inclusion of a female representative on each team's roster. After three rounds, rating favourites DuoBeniaj&aacute;n Costa C&aacute;lida lead the standings with 6/6 match points. Magic Extremadura and defending champions C.A. Solvay stand a match point behind. | Pictured: Pia Cramling (C.A. Silla) facing Alberto Quint&iacute;n (MyInvestor Casablanca) | Photo: FEDA",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-league-2023-r3",
-         "pubDate" : "Tue, 19 Sep 2023 14:55:00",
-         "title" : "Spanish League: Deac's DuoBeniajan in the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103783807.cms\" />",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-women-2023",
          "pubDate" : "Mon, 4 Sep 2023 09:39:00",
          "title" : "Tata Steel India Rapid & Blitz Women 2023 - Games and Results"
-      },
-      {
-         "description" : " It was with a feeling of modified rapture that I greeted the recent news of government funding for chess in England. Increased money for our national teams? Great, as long as it's used wisely. I'm not complaining about that. Chess boards in parks? A pointless gimmick designed to grab headlines which serves little purpose. All <a href=\"https://chessimprover.com/modified-rapture/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Modified Rapture\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/modified-rapture/\">Modified Rapture</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/modified-rapture/",
-         "pubDate" : "Sun, 03 Sep 2023 20:21:56",
-         "title" : "Modified Rapture"
       }
    ]
 }
