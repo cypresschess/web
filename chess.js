@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2650",
+         "pubDate" : "Sun, 24 Sep 2023 19:17:19 +0000",
+         "title" : "World Junior Championship U20: Maurizzi and Mkrtchyan, first sole leaders after four rounds"
+      },
+      {
+         "description" : "French grandmaster Marc'Andria Maurizzi (pictured) is the only player with a perfect 4/4 score in the open section of the World Junior Championships taking place in Mexico City. In round 4, Maurizzi got the better of Andy Woodward, an IM from the United States who came from beating top seed Hans Niemann in the previous round. Meanwhile, in the women's section, Armenian WIM Maryam Mkrtchyan is the sole leader with 4 points to her name. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-r4",
+         "pubDate" : "Sun, 24 Sep 2023 18:05:00",
+         "title" : "World Junior Ch: Maurizzi sole leader, Niemann loses to Woodward"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 144th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/spanish-league-2023-r7",
          "pubDate" : "Sat, 23 Sep 2023 19:00:00",
          "title" : "DuoBeniaj&aacute;n edge Silla to win Spanish League"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Sat, 23 Sep 2023 18:55:00",
-         "title" : "World Junior Championships - Round 4 Live!"
       },
       {
          "description" : "GM Nihal Sarin soared to dizzying heights and amassed a total score of 294 in September&#39;s fourth Bullet Brawl. Thanks to 78 wins, six draws, and just three losses during the two-hour arena, Nihal finished ahead of 10-time victor GM Hikaru Nakamura...",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://chessimprover.com/modified-rapture/",
          "pubDate" : "Sun, 03 Sep 2023 20:21:56",
          "title" : "Modified Rapture"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103331622.cms\" />It's difficult to keep seasoned campaigners down for long. Grandmasters D Harika and Koneru Humpy proved just that as India's top two women players bounced back in the blitz section of the Tata Steel Chess India tournament after a not-so-good rapid tournament at the Bhasha Bhawan in the National Library of India campus on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-harika-humpy-stage-comebacks/articleshow/103331622.cms",
-         "pubDate" : "Sun, 03 Sep 2023 16:45:33 +0000",
-         "title" : "Tata Steel Chess India: Harika, Humpy stage comebacks"
       }
    ]
 }
