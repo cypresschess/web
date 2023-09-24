@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "INDIA AT THE WORLD JUNIOR CHESS CHAMPIONSHIP 2023 IN MEXICO: ROUNDS 2-4 Following a strong start on day 1, the Indian team continued to stay",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-chmapionship-2023-rounds-2-4-report/",
+         "pubDate" : "Sun, 24 Sep 2023 09:22:08",
+         "title" : "World Junior Chess Chmapionship 2023 Rounds 2-4 Report"
+      },
+      {
+         "description" : " You'll recognise this position, I'm sure. If not, then you should certainly read on. At least one book describes this much anthologised position as the most important pawn ending ever. If you have any knowledge at all of chess history you'll know this is Cohn Rubinstein (St Petersburg 1909) with Black about to play <a href=\"https://chessimprover.com/classic-confusion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Classic Confusion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/classic-confusion/\">Classic Confusion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/classic-confusion/",
+         "pubDate" : "Sun, 24 Sep 2023 09:00:03",
+         "title" : "Classic Confusion"
+      },
+      {
          "description" : "The nation's top chess players are set to compete in the U.S'. most prestigious events - the 2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship. Hosted by the Saint Louis Chess Club (STLCC) at the World Chess Hall of Fame, two fields of 12 players will face off over the board October 5 - October 18, 2023 as they compete for a total purse of more than $400,000. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,6 +360,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/america%E2%80%99s-top-chess-players-compete-more-400000-2023-us-championship-and-us-women%E2%80%99s-chess",
          "pubDate" : "Thu, 21 Sep 2023 15:21:56",
          "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2023 U.S. Championship and U.S. Women's Chess Championship"
+      },
+      {
+         "description" : "In last month's Yahoos post (aka 'chess in the mainstream news'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), I mentioned, <BLOCKQUOTE> Two of the stories in Niemann's main block were repeated in the top news, while the third story, not repeated, was the off-the-wall Elon Musk nonsense that I covered last year in <I>It's Not Polytopia</I> (March 2022). </BLOCKQUOTE> <P> A few days earlier, that same Elon Musk story had appeared as a real Yahoo (appearing in the news feed from Yahoo.com) on its own. These days real Yahoos are so unusual -- the previous sighting was <A HREF=\"https://chessf",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/i-want-to-go-squirrel-hunting.html",
+         "pubDate" : "Thu, 21 Sep 2023 15:14:00",
+         "title" : "I Want To Go Squirrel Hunting"
       },
       {
          "description" : " <p class=\"lead\">Grandmaster from Poland Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D77AF732-4E03-47F3-8353-A7448F1DD7C2.jpeg\" width=\"2560\" height=\"1706.6666666667\" alt=\"\" /> <div class=\"e2-text-caption\">Jan-Krzysztof Duda receiving his price on stage</div> </div> <h2>Key Highlights:</h2> Ar",
@@ -1202,14 +1226,6 @@ news_feed (
          "title" : "Tata Steel Asian Junior Open and Girls Chess Championship declared open by Chess Grandmaster Viswanathan Anand"
       },
       {
-         "description" : "Live Link Page for TATA Steel Asian Open and Girls Rapid Chess Championship 2023 Open Rapid Chess- Results Link :&#160;https://chess-results.com/tnr812150.aspx?lan=1&#38;art=0&#38;flag=30 Girls Rapid Chess Results",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-tata-steel-asian-open-and-girls-rapid-chess-championship-2023/",
-         "pubDate" : "Fri, 08 Sep 2023 03:54:09",
-         "title" : "Live Games Link for Tata Steel Asian Open and Girls Rapid Chess Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2023",
          "pubDate" : "Sun, 3 Sep 2023 13:55:00",
          "title" : "Julius Baer Generation Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103327558.cms\" />A day after D Gukesh dethroned Viswanathan Anand, ending the latter's 37-year reign as India's No.1 chess player, the 17-year-old looked committed to refining his game. Gukesh, currently in Kolkata for the Asian Games training camp, revealed on Saturday that he has successfully moved past the disappointment of his recent defeat to Norway's Magnus Carlsen in the World Cup quarterfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-aims-to-keep-improving-after-becoming-india-no-1-without-sponsorship-support/articleshow/103327558.cms",
-         "pubDate" : "Sun, 03 Sep 2023 11:30:02 +0000",
-         "title" : "Gukesh aims to keep improving after becoming India No.1"
       }
    ]
 }
