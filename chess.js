@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 144th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-144-chess-history-in-a-nutshell-26",
+         "pubDate" : "Sun, 24 Sep 2023 15:00:00",
+         "title" : "Understanding before Moving 144: Chess history in a nutshell (26)"
+      },
+      {
+         "description" : " Chess is once again featuring at the Asian Games. And looking at the team lists, a lot of countries are taking it very seriously. In both the Men's and Women's events, at last half the fields are GM/WGM, with the Men's tournament having the bottom half starting at 2383 (GM Raymond Song). I'm not sure if there is any live coverage of the games, as a quick check of the official games website did not having links to it. But you can at least see the results at <a href=\"https://info.hangzhou2022.cn/en/results/chess/daily-schedule.htm\">https://info.hangzhou2022.cn/en/results/chess/daily-schedule.htm</a> It is a 9 round event (over 4 days) and will be followed by a team event (Men's and Women's) ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/almost-olympics-asian-games.html",
+         "pubDate" : "Sun, 24 Sep 2023 13:22:00",
+         "title" : "Almost the Olympics (Asian games)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2649",
+         "pubDate" : "Sun, 24 Sep 2023 12:01:37 +0000",
+         "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
+      },
+      {
          "description" : "INDIA AT THE WORLD JUNIOR CHESS CHAMPIONSHIP 2023 IN MEXICO: ROUNDS 2-4 Following a strong start on day 1, the Indian team continued to stay",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -584,14 +608,6 @@ news_feed (
          "link" : "https://chessimprover.com/planning-for-victory-5/",
          "pubDate" : "Tue, 19 Sep 2023 10:51:33",
          "title" : "Planning for Victory (5)"
-      },
-      {
-         "description" : "In the endgame, passed pawns are often powerful, but one should not underestimate being material up. In the diagram position Black is an exchange up, but has to fight against two strong passed pawns - what should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-right-way-3",
-         "pubDate" : "Tue, 19 Sep 2023 09:00:00",
-         "title" : "The right way"
       },
       {
          "description" : "Chess.com is excited to announce a new treat for the avid online chess fan&#38;mdash;a dedicated chess browser created in partnership with leading web innovator Opera. Using this enhancement, chess will be put right inside the browser, meaning you can...",
@@ -1416,30 +1432,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-harika-humpy-stage-comebacks/articleshow/103331622.cms",
          "pubDate" : "Sun, 03 Sep 2023 16:45:33 +0000",
          "title" : "Tata Steel Chess India: Harika, Humpy stage comebacks"
-      },
-      {
-         "description" : "In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshunds Play Chess</A> (August 2023), the latest for the long-running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I wrote, <BLOCKQUOTE> After so many years of <I>Top eBay Chess Items</I>, I sometimes can't be sure whether I've already featured an item or not. </BLOCKQUOTE> <P> This month I was sure that I had featured the item(s) pictured below, but when? It turned out that half of the current auction appeared in <A HREF=\"https://chessforallages.blogspot.com/2017/04/mrs-piatigorskys-auto",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/1963-and-1966-piatigorsky-cups.html",
-         "pubDate" : "Sun, 03 Sep 2023 15:24:00",
-         "title" : "1963 and 1966 Piatigorsky Cups"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103330396.cms\" />India's R Praggnanandhaa, the 18-year-old chess sensation, may have fallen short of his World Cup title dreams after losing to Magnus Carlsen in the final. Despite losing, Praggnanandhaa emphasized that Carlsen was \"far from invincible.\" He qualified for the Candidates tournament in 2024, where the winner will face China's Ding Liren in the World Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-is-not-invincible-says-praggnanandhaa/articleshow/103330396.cms",
-         "pubDate" : "Sun, 03 Sep 2023 14:55:00 +0000",
-         "title" : "Magnus Carlsen is not invincible, says Praggnanandhaa"
-      },
-      {
-         "description" : " The Julius Baer Generation Cup took place Wed 30th Aug - Sun 3rd Sep 2023. Players in the top group: Magnus Carlsen, M. Amin Tabatabaei, Denis Lazavik, Fabiano Caruana, Wesley So, Pavel Eljanov, Nodirbek Abdusattorov and Alireza Firouzja. Magnus Carlsen beat Alireza Firouzja 3-0 in the winners final and in an Armageddon in the Grand Final. Ian Nepomniachtchi won Division 2 and Sam Sevian Division 3 after beating Shakhriyar Mamedyarov in a final reset match. Mamedyarov beat him in the Winners final but lost the Grand Final setting up the finale. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2023",
-         "pubDate" : "Sun, 3 Sep 2023 13:55:00",
-         "title" : "Julius Baer Generation Cup 2023 - Games and Results"
       }
    ]
 }
