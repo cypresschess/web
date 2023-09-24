@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The nation's top chess players are set to compete in the U.S'. most prestigious events - the 2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship. Hosted by the Saint Louis Chess Club (STLCC) at the World Chess Hall of Fame, two fields of 12 players will face off over the board October 5 - October 18, 2023 as they compete for a total purse of more than $400,000. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-preview",
+         "pubDate" : "Sun, 24 Sep 2023 08:00:00",
+         "title" : "America's top chess players return to St. Louis for 2023 U.S. Championships"
+      },
+      {
+         "description" : "An inspired Ian Nepomniachtchi and a fighting Peter Svidler climbed to shared first place in the standings of the Levitov Chess Week rapid tournament. Levon Aronian, who had finished day 1 as the sole leader, is now sharing third place with Vishy Anand, as the second half of the double round-robin remains to be played in Amsterdam. The players will return to the boards on Monday, after a rest day. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d2",
+         "pubDate" : "Sun, 24 Sep 2023 06:00:00",
+         "title" : "Levitov Chess Week: Nepo and Svidler share the lead at halftime"
+      },
+      {
          "description" : " One month ago, African Chess was on display. Twenty-two of Africa's finest chess players (17 Open and 5 Women) participated in the World Cup tournament in Baku, Azerbaijan. Magnus Carlsen scored a historic victory winning the final over phenom Rameshbabu Praggnanandhaa. The results of the tournament clearly showed that a generation is set to take The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/\">After World Cup, Where is African Chess?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/",
          "pubDate" : "Sun, 24 Sep 2023 02:10:10",
          "title" : "After World Cup, Where is African Chess?"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Sat, 23 Sep 2023 23:55:00",
-         "title" : "World Junior Championships - Round 4 Live!"
       },
       {
          "description" : "",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/spanish-league-2023-r7",
          "pubDate" : "Sat, 23 Sep 2023 19:00:00",
          "title" : "DuoBeniaj&aacute;n edge Silla to win Spanish League"
+      },
+      {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Sat, 23 Sep 2023 18:55:00",
+         "title" : "World Junior Championships - Round 4 Live!"
       },
       {
          "description" : "GM Nihal Sarin soared to dizzying heights and amassed a total score of 294 in September&#39;s fourth Bullet Brawl. Thanks to 78 wins, six draws, and just three losses during the two-hour arena, Nihal finished ahead of 10-time victor GM Hikaru Nakamura...",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ready-for-action",
          "pubDate" : "Sat, 23 Sep 2023 09:00:00",
          "title" : "Ready for action"
-      },
-      {
-         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
-         "pubDate" : "Sat, 23 Sep 2023 08:55:00",
-         "title" : "Levitov Chess Week - Live!"
       },
       {
          "description" : "The World Junior Chess Championship commenced in Mexico City, Mexico on the 21st of September. 7 players are representing India in the Girls and Open",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-right-way-3",
          "pubDate" : "Tue, 19 Sep 2023 09:00:00",
          "title" : "The right way"
-      },
-      {
-         "description" : "Day 5 of the Armageddon Championship Series witnessed intense battles, culminating in Wesley So and Richard Rapport advancing to the Armageddon semifinals. Unfortunately, this also meant bidding farewell to Humpy Koneru and Gukesh, both of whom exited the competition. | Photos: Max Avdeev / World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d4-2",
-         "pubDate" : "Tue, 19 Sep 2023 01:50:00",
-         "title" : "Armageddon: So and Rapport knock out Humpy and Gukesh"
       },
       {
          "description" : "Chess.com is excited to announce a new treat for the avid online chess fan&#38;mdash;a dedicated chess browser created in partnership with leading web innovator Opera. Using this enhancement, chess will be put right inside the browser, meaning you can...",
