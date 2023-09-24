@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One month ago, African Chess was on display. Twenty-two of Africa's finest chess players (17 Open and 5 Women) participated in the World Cup tournament in Baku, Azerbaijan. Magnus Carlsen scored a historic victory winning the final over phenom Rameshbabu Praggnanandhaa. The results of the tournament clearly showed that a generation is set to take The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/\">After World Cup, Where is African Chess?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/",
+         "pubDate" : "Sun, 24 Sep 2023 02:10:10",
+         "title" : "After World Cup, Where is African Chess?"
+      },
+      {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Sat, 23 Sep 2023 23:55:00",
+         "title" : "World Junior Championships - Round 4 Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-final-nakamura-carlsen",
          "pubDate" : "Fri, 22 Sep 2023 18:58:00",
          "title" : "Carlsen Claims 2023 Speed Chess Title With Double Rook Sacrifice"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Fri, 22 Sep 2023 17:55:00",
-         "title" : "World Junior Championships - Round 3 Live!"
       },
       {
          "description" : "Recently we announced a very special FritzTrainer by GM Leon Mendonca, one of India's most promising young talents. It is on the Keymer Variation. In this follow-up video IM Sagar Shah invites Leon to speak more about this opening and share his ideas with us. The result is a lesson that can help you build an opening repertoire with 1.Nf3 and 2.e3. Do not miss the chance!",
