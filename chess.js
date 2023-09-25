@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
+         "pubDate" : "Mon, 25 Sep 2023 08:15:00",
+         "title" : "The backstory: Fischer's poor performance in Buenos Aires"
+      },
+      {
+         "description" : "Team India continues to fight vigorously at the World Junior Chess Championship being held in Mexico City, Mexico. In round 5, WGM Rakshitta Ravi (2272)",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2023-round-5-report/",
+         "pubDate" : "Mon, 25 Sep 2023 07:22:58",
+         "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023 ROUND 5 REPORT"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Itanagar, Arunachal Pradesh from 18-19 Oct 23. This two days' workshop",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop-at-itanagar-arunachal-pradesh/",
+         "pubDate" : "Mon, 25 Sep 2023 07:18:10",
+         "title" : "AICF's Live Telecast Orientation Workshop at Itanagar, Arunachal Pradesh"
+      },
+      {
+         "description" : "After a 13-year hiatus, chess is back to the 2023 Asian Games, which officially started on September 23, in Hangzhou, China. The chess program of the 19th Asian Games features four competitions: men's individual, women's individual, and men's and women's team tournaments. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-returns-to-asian-games-2023",
+         "pubDate" : "Mon, 25 Sep 2023 06:45:00",
+         "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
+      },
+      {
          "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at Kamaraj College, Thoothukudi from 02-03 Dec 23. This two days' workshop",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -23,7 +55,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-miniature-sicilian-alapin",
          "pubDate" : "Sun, 24 Sep 2023 23:30:00",
-         "title" : "Robert Ris' Fast and Furious: A miniature out of a Sicilian Apalin"
+         "title" : "Robert Ris' Fast and Furious: A miniature out of a Sicilian Alapin"
       },
       {
          "description" : "",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship: Day 2 recap"
       },
       {
-         "description" : "Japan is not a nation known for having strong (Western) chess players. Nevertheless, there is a small and well-organized community of chess practitioners. Recently, the Japanese Team Championship took place in Tokyo. The Osaka Chess Club won the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/japanese-team-championship-2023",
-         "pubDate" : "Wed, 20 Sep 2023 21:00:00",
-         "title" : "A small, well-organized community: the Japanese Team Championship"
-      },
-      {
          "description" : "GM Hikaru Nakamura will face the self-proclaimed &#34;final boss of chess,&#34; GM Magnus Carlsen, in the Final of the 2023 Chess.com Speed Chess Championship presented by Coinbase. On Wednesday, Nakamura defeated GM Maxime Vachier-Lagrave 16.5-11.5.&#38;nbsp...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d6",
          "pubDate" : "Wed, 20 Sep 2023 02:00:00",
          "title" : "Armageddon: So eliminates Rapport"
-      },
-      {
-         "description" : "Organizers announced the planned date of the 6th Festival immediately after the conclusion of the June Prague International Chess Festival. After three summer years, the Festival will return to its traditional season, specifically between February and March, and place, i.e. Don Giovanni Hotel Prague. To be precise, the dates are 26th February to 7th March 2024. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-announcement",
-         "pubDate" : "Tue, 19 Sep 2023 21:30:00",
-         "title" : "Prague Chess Festival to take place in February 2024"
       },
       {
          "description" : "",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "Chess Marks A.I. Revolution With Launch Of AI Cup: Leg 6 Of $2m Champions Chess Tour"
       },
       {
-         "description" : "Please find the Tata Steel Asian Junior Open and Junior Blitz Live Games Link Chess Results link Open Blitz :&#160;https://chess-results.com/tnr812152.aspx?lan=1 Chess Results link Girls Blitz",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tata-steel-asian-junior-open-and-junior-blitz-live-games-link/",
-         "pubDate" : "Fri, 15 Sep 2023 05:38:12",
-         "title" : "Tata Steel Asian Junior Open and Junior Blitz Live Games Link"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation<br /> Mikhalevski vs. Tymur Keleberda, 2023: E25 Nimzo-Indian, Saemisch, Keres variation<br /> Mikhalevski vs. Franz Braeuer, 2023: C45 Scotch, Mieses variation<br /> <a href=\"https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01\">https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-abdusattorov-caruana",
          "pubDate" : "Mon, 11 Sep 2023 16:05:00",
          "title" : "Caruana Reaches Quarterfinals Match Vs. Nakamura, Knocks Out Abdusattorov"
-      },
-      {
-         "description" : "Bangalore National Arbiter Seminar, 26-17 AUG 2023 Certificates are out to download Link : https://aicf.online/Bangalore-SNA.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/bangalore-sna-certificates/",
-         "pubDate" : "Mon, 11 Sep 2023 09:50:39",
-         "title" : "Bangalore SNA Certificates"
       },
       {
          "description" : "We are pleased to announce that England Women's team for the European Team Chess Championship is &#8212; IM Jovanka Houska 2340 IM Harriet Hunt 2316...",
