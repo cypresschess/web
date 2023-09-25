@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On September's last Saturday, the World Chess Club invites all women chess players to a rapid chess tournament at its venue in Berlin (Unter den Linden 22-26). All levels are welcome. The time control is 10 minutes per game, and the entry is free. Saturday, September 30, from 5 pm.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-rapid-tournament-world-chess-club-berlin",
+         "pubDate" : "Mon, 25 Sep 2023 16:45:00",
+         "title" : "Open to all levels: women's rapid event at the World Chess Club in Berlin"
+      },
+      {
+         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
+         "pubDate" : "Mon, 25 Sep 2023 13:55:00",
+         "title" : "Levitov Chess Week - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2653",
+         "pubDate" : "Mon, 25 Sep 2023 11:52:09 +0000",
+         "title" : "Maurizzi, Rakshitta and Yip lead FIDE World Junior Championship 2023"
+      },
+      {
          "description" : " The AI Cup takes place Mon 25th to Fri 29th Sep 2023. This is the final event of the online Champions Chess Tour before the finals in person in Toronto December 9 to December 16, 2023 (Carlsen, Nakamura and Abdusattorov have made it and Caruana seems a likely fourth player of the 8 player field). Division 1 of the AI Cup has 8 players: Magnus Carlsen, Alireza Firouzja, Denis Lazavik, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura and Anish Giri. There is also Divisions 2 with Caruana, Fedoseev, Duda, Artemiev and Dominguez as the leading players, Division 3 has Radjabov and Kramnik amongst others.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -634,28 +658,12 @@ news_feed (
          "title" : "Near-Perfect 10s Carry Sarana, Nihal To Victory"
       },
       {
-         "description" : "The first round of the FIDE World Senior Team Championship was played on Tuesday in Struga, Ohrid Lake, North Macedonia. Two parallel events, in the 50+ and 65+ categories, are being played. The United States, England and Italy are the favourites in the 50+ section, while Germany, England and Slovakia are the top seeds in the 65+ tournament. | Pictured: Michael Dougherty (Canada) | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r1",
-         "pubDate" : "Wed, 20 Sep 2023 06:30:00",
-         "title" : "The World Senior Team Championships kicked off in Struga"
-      },
-      {
          "description" : "Please find Live Games Link for National Junior 2023 Chess Results Link Open :&#160;https://chess-results.com/tnr821775.aspx?lan=1&#38;art=0 Chess Results Link Girls :&#160;https://chess-results.com/tnr819285.aspx?lan=1 Open Live Page Link :&#160;https://view.livechesscloud.com/#a3a5ec41-fb9a-4103-a587-972438070d44 Girls",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-junior-2023-live-games-link/",
          "pubDate" : "Wed, 20 Sep 2023 06:25:52",
          "title" : "National Junior 2023 Live Games Link"
-      },
-      {
-         "description" : "The semifinals of the World Chess Armageddon have concluded, with Jan-Krzysztof Duda emerging as the victor in the winners' bracket, Wesley So securing his place from the losers' bracket, and Richard Rapport going home. Tomorrow, Wesley So and Nodirbek Abdusattorov will battle for a chance to challenge Duda for the coveted €80,000 first prize! | Photos: Max Avdeev / World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d6",
-         "pubDate" : "Wed, 20 Sep 2023 02:00:00",
-         "title" : "Armageddon: So eliminates Rapport"
       },
       {
          "description" : "",
@@ -1432,22 +1440,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ju-wenjun-pips-koneru-humpy-for-tata-steel-chess-blitz-title/articleshow/103367909.cms",
          "pubDate" : "Mon, 04 Sep 2023 17:34:18 +0000",
          "title" : "Ju Wenjun pips Koneru Humpy for Tata Steel Chess blitz title"
-      },
-      {
-         "description" : "On August 6th, to celebrate GM Helmut Pfleger's eightieth birthday, octogenarian puzzle master Werner Keym submitted two very clever little problems in two German newspapers. The puzzles, which had a unique form of birthday greetings encoded into them, were not at all easy to work out. Today we bring you the solutions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/birthday-problem-solutions",
-         "pubDate" : "Mon, 04 Sep 2023 14:00:00",
-         "title" : "Birthday problem solutions"
-      },
-      {
-         "description" : " One of the reasons why my blog posts have become infrequent is due to a lot of high level chess being played online. Pre-covid there were a lot of high level events running OTB, but now, a lot of top players clash in online events, with fast time limits. While this is entertaining for the online audience (which is of course the point), it does leave me a little cold. And I'm not convinced the players are taking it seriously either, as shown in the latest outburst of silliness. The newly reinstated Hans Neimann was playing against Kramnik at chessc.om (NB it wasn't part of an organised tournament). After Neimann won with the Black pieces, a second game was played. The first few moves (Neiman",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/more-silliness.html",
-         "pubDate" : "Mon, 04 Sep 2023 13:08:00",
-         "title" : "More silliness"
       }
    ]
 }
