@@ -42,6 +42,14 @@ news_feed (
          "title" : "World Junior Ch: Maurizzi sole leader, Niemann loses to Woodward"
       },
       {
+         "description" : "The University of Missouri (Mizzou) and Saint Louis University (SLU) started on the right foot in the first week of the $25,000, SIG-sponsored 2023 Collegiate Chess League (CCL) by recording compelling victories over the University of Virginia (UV...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-fall-slu-mizzou",
+         "pubDate" : "Sun, 24 Sep 2023 17:46:00",
+         "title" : "Bok, Oparin, Star As 2023 Collegiate Chess League Launches"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 144th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-finishes-third-grischuk-takes-open-blitz-title/articleshow/103539589.cms",
          "pubDate" : "Sat, 09 Sep 2023 15:50:02 +0000",
          "title" : "Praggnanandhaa finishes third, Grischuk takes Open Blitz title"
-      },
-      {
-         "description" : "GM Alexander Grischuk confirmed his reputation as a blitz specialist with steady play on the second and final day of the 2023 Tata Steel Chess India Open Blitz, winning the title with a score of 12 points from 18 games. GM Nodirbek Abdusattorov an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-india-open-day-2-blitz",
-         "pubDate" : "Sat, 09 Sep 2023 14:27:00",
-         "title" : "Grischuk Wins Blitz Title Edging Out Abdusattorov And Praggnanandhaa"
       },
       {
          "description" : "If you are playing chess online, you most likely are familiar with Chess.com. It is the biggest platform with over 100 Million active users. You can play games for free or decide to step up and get a paid membership. So you might ask yourself: are these memberships worth it? In this review, I compare []",
