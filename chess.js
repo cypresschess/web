@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at Kamaraj College, Thoothukudi from 02-03 Dec 23. This two days' workshop",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
+         "pubDate" : "Mon, 25 Sep 2023 03:09:19",
+         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2651",
          "pubDate" : "Sun, 24 Sep 2023 21:51:03 +0000",
          "title" : "FIDE World Senior Team Championship: Day 6 recap"
+      },
+      {
+         "description" : "IM Jeremy Silman, the highly respected American chess author, trainer, and player, has passed at the age of 69. His contributions to the world of chess have left an indelible mark, inspiring and educating countless enthusiasts and players worldwid...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeremy-silman-1954-2023",
+         "pubDate" : "Sun, 24 Sep 2023 19:49:00",
+         "title" : "Jeremy Silman (1954-2023)"
       },
       {
          "description" : "",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "WWTC 2023: Kazakhstan-France and USA-Georgia to cross swords in semifinal"
       },
       {
-         "description" : "GM Nihal Sarin claimed his first Bullet Brawl title on Saturday and scooped the $400 first prize after accruing 200 points in the two-hour arena, seven points ahead of the two-time winner GM Jose Martinez. GM Oleksandr Bortnyk outlasted GMs Rena...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-september-9-2023",
-         "pubDate" : "Sat, 09 Sep 2023 17:08:28",
-         "title" : "Nihal Streams For First Time in 3 Years, Wins In Bullet Brawl Masterclass"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103539589.cms\" />World Cup runner-up R Praggnanandhaa secured the highest position among the Indian participants, finishing third overall. Meanwhile, the reigning world champion, Alexander Grischuk, dominated the Open Blitz category to claim the title at the Tata Steel Chess India 2023 event in Kolkata on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-hopes-to-be-world-chess-champion-one-day/articleshow/103494102.cms",
          "pubDate" : "Fri, 08 Sep 2023 05:41:50 +0000",
          "title" : "Gukesh hopes to be world chess champion one day"
-      },
-      {
-         "description" : "~121 players from seven countries to take part at JRD Tata Steel Complex from tomorrow~ Jamshedpur, September 7, 2023: Tata Steel Asian Junior Open and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/tata-steel-asian-junior-open-and-girls-chess-championship-declared-open-by-chess-grandmaster-viswanathan-anand/",
-         "pubDate" : "Fri, 08 Sep 2023 04:09:15",
-         "title" : "Tata Steel Asian Junior Open and Girls Chess Championship declared open by Chess Grandmaster Viswanathan Anand"
       },
       {
          "description" : "",
