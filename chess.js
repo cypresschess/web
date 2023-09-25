@@ -42,6 +42,14 @@ news_feed (
          "title" : "Levitov Chess Week - Live!"
       },
       {
+         "description" : "After some twists and turns, GMs Ian Nepomniachtchi and Peter Svidler are still topping the Levitov Chess Week&#39;s leaderboard. With four rounds to go, it has become a two-horse race as their closest rivals, GM Levon Aronian and GM Shakhriyar Mamedy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-3",
+         "pubDate" : "Mon, 25 Sep 2023 13:04:20",
+         "title" : "Nepomniachtchi, Svidler Lead As Levitov Chess Week Becomes Two-horse Race"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/exclusive-robson-much-less-pressure-here-chess9lx",
          "pubDate" : "Mon, 11 Sep 2023 03:37:32",
          "title" : "EXCLUSIVE! Robson: Much Less Pressure Here | #Chess9LX"
-      },
-      {
-         "description" : "Social media posts claiming Netflix&#39;s The Queen&#39;s Gambit is returning for a second season have gone viral in the last months. Sadly, they are false. &#34;The Queens Gambit Season 2 coming soon!&#34; claimed a post from the Facebook group Netflix Daily U...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/no-there-is-no-season-2-of-queens-gambit-coming",
-         "pubDate" : "Mon, 11 Sep 2023 03:18:00",
-         "title" : "No, There Is No Season 2 Of Queen's Gambit Coming"
       },
       {
          "description" : "",
