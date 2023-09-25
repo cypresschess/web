@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Mon, 25 Sep 2023 17:50:00",
+         "title" : "AI Cup - Live!"
+      },
+      {
+         "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
+         "pubDate" : "Mon, 25 Sep 2023 17:35:00",
+         "title" : "The backstory: Fischer's poor performance in Buenos Aires"
+      },
+      {
+         "description" : "In the Endgame Magic Show #250 Karsten M&uuml;ller analyses endgame highlights from the FIDE World Rapid Team Championship, which took place last month at the D&uuml;sseldorf Rheinterrassen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams",
+         "pubDate" : "Mon, 25 Sep 2023 17:30:00",
+         "title" : "Endgame Magic #250: Highlights from the World Rapid Team Championship"
+      },
+      {
          "description" : "On September's last Saturday, the World Chess Club invites all women chess players to a rapid chess tournament at its venue in Berlin (Unter den Linden 22-26). All levels are welcome. The time control is 10 minutes per game, and the entry is free. Saturday, September 30, from 5 pm.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2652",
          "pubDate" : "Mon, 25 Sep 2023 10:14:53 +0000",
          "title" : "Chess for Protection: Two years and counting"
-      },
-      {
-         "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
-         "pubDate" : "Mon, 25 Sep 2023 08:15:00",
-         "title" : "The backstory: Fischer's poor performance in Buenos Aires"
       },
       {
          "description" : "Al Ain, UAE 12th to 22nd December, 2023 5 Star Hotel The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "Behind the Board: The life story of IM Andrew Martin - Interview"
       },
       {
-         "description" : "The Grand Finale of the Armageddon Series is taking place on September 14-20 at the World Chess Club in Berlin. On Wednesday, Wesley So and Nodirbek Abdusattorov will battle for the right to face Jan-Krzysztof Duda in the tournament's grand finale. | Follow the games live with expert commentary by GM Simon Williams and IM Jovanka Houska, starting at 19.00 CEST (13.00 ET, 22.30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-live",
-         "pubDate" : "Wed, 20 Sep 2023 14:30:00",
-         "title" : "Armageddon Grand Finale: Live!"
-      },
-      {
          "description" : "Turkish Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate European Amateur Chess Championship organized in Antalya, T&uuml;rkiye between 26 November (arrival) 04 &#160;December (departure), 2023. The European Amateur Chess Championship 2023 will be played in three rating categories: U1700, U2000, and U2300. The Championships are open tournaments for players registered or approved by their federation. ECU member federations shall have the right to []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/games-that-are-real-but-are-unreal.html",
          "pubDate" : "Wed, 20 Sep 2023 13:55:00",
          "title" : "Games that are real, but are unreal"
-      },
-      {
-         "description" : "This year's Portuguese Chess Tour concluded with the Maia Chess Festival at the beginning of September. The Open tournament was a great success, both in terms of quality and popularity. Victor Mikhalevski won with 7&frac12; points. On the sidelines of the Open, a conference was also held on the Tecmaia Campus under the motto Strong Minds. Stefan L&ouml;ffler chaired it and sent us a report. | Photo: Streamer James Canty / Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maia-chess-festival-2023",
-         "pubDate" : "Wed, 20 Sep 2023 12:00:00",
-         "title" : "\"Strong Minds\" at Chess Festival in Maia, Portugal"
       },
       {
          "description" : "",
@@ -1416,30 +1416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-the-potential-to-become-world-champion-praggnanandhaa/articleshow/103380168.cms",
          "pubDate" : "Tue, 05 Sep 2023 05:49:06 +0000",
          "title" : "I have the potential to become world champion: Praggnanandhaa"
-      },
-      {
-         "description" : " One week ago, Chess.com released a statement announcing the reinstatement of Hans Niemann on chess.com and an end to the legal dispute that gripped the chess world for the past year. The revelation raises some questions about how the matter unfolded and whether there was an out-of-court settlement. However, the terms of the agreement were The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/\">Aftermath of Niemann/Chess.com/Carlsen agreement</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/09/04/aftermath-of-niemann-chess-com-carlsen-agreement/",
-         "pubDate" : "Mon, 04 Sep 2023 18:14:14",
-         "title" : "Aftermath of Niemann/Chess.com/Carlsen agreement"
-      },
-      {
-         "description" : "The league stage of the Top Chess Engine Championship (Season 25) reaches the pinnacle of the event the Premier Division. The defending champion Stockfish will meet its main competitor Leela Chess Zero, as well as six more of the strongest chess engines: four seeded participants KomodoDragon, Ethereal, Stoofvlees, Slowchess and the two []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rubichess-wins-tcec-league-1-convincingly/",
-         "pubDate" : "Mon, 04 Sep 2023 17:55:04",
-         "title" : "Rubichess wins TCEC League 1 convincingly"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103367909.cms\" />randmaster Ju Wenjun was finally rewarded for playing the most consistent chess over the past five days. Two days after finishing second behind India's Divya Deshmukh in the women's rapid meet, she ended her maiden visit to India on a memorable note claiming the blitz title of Tata Steel Chess India tournament at the Bhasha Bhawan in the National Library of India campus on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ju-wenjun-pips-koneru-humpy-for-tata-steel-chess-blitz-title/articleshow/103367909.cms",
-         "pubDate" : "Mon, 04 Sep 2023 17:34:18 +0000",
-         "title" : "Ju Wenjun pips Koneru Humpy for Tata Steel Chess blitz title"
       }
    ]
 }
