@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The AI Cup takes place Mon 25th to Fri 29th Sep 2023. This is the final event of the online Champions Chess Tour before the finals in person in Toronto December 9 to December 16, 2023 (Carlsen, Nakamura and Abdusattorov have made it and Caruana seems a likely fourth player of the 8 player field). Division 1 of the AI Cup has 8 players: Magnus Carlsen, Alireza Firouzja, Denis Lazavik, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura and Anish Giri. There is also Divisions 2 with Caruana, Fedoseev, Duda, Artemiev and Dominguez as the leading players, Division 3 has Radjabov and Kramnik amongst others.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ai-cup-2023",
+         "pubDate" : "Mon, 25 Sep 2023 10:38:00",
+         "title" : "AI Cup 2023 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2652",
+         "pubDate" : "Mon, 25 Sep 2023 10:14:53 +0000",
+         "title" : "Chess for Protection: Two years and counting"
+      },
+      {
          "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
          "pubDate" : "Mon, 25 Sep 2023 08:15:00",
          "title" : "The backstory: Fischer's poor performance in Buenos Aires"
+      },
+      {
+         "description" : "Al Ain, UAE 12th to 22nd December, 2023 5 Star Hotel The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/25th-asian-youth-chess-championship-2023/",
+         "pubDate" : "Mon, 25 Sep 2023 07:59:25",
+         "title" : "25th Asian Youth Chess Championship - 2023"
       },
       {
          "description" : "Team India continues to fight vigorously at the World Junior Chess Championship being held in Mexico City, Mexico. In round 5, WGM Rakshitta Ravi (2272)",
@@ -304,6 +328,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-a-nasty-pin",
          "pubDate" : "Fri, 22 Sep 2023 17:25:00",
          "title" : "Daniel King's Power Play Show: A nasty pin"
+      },
+      {
+         "description" : "For the past month I've been running a series on actions provoked by Google's Adsense. Here are the relevant posts:- <UL> <LI> 2023-08-18: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> &#149; 'I need to catch up with new actions from Google'; CFAA++ means my web site and blogs <LI> 2023-08-25: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> &#149; GDPR = General Data Protection Regulation <LI> 2023-09-01: <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> &#149; CMP = Consent Management Platform <LI> 2023-09-08: <A HREF=\"https://chessforal",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/cfaas-cmp-wrapup.html",
+         "pubDate" : "Fri, 22 Sep 2023 15:22:00",
+         "title" : "CFAA's CMP : Wrapup"
       },
       {
          "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
@@ -744,14 +776,6 @@ news_feed (
          "link" : "https://chessimprover.com/busch-gass-gambit/",
          "pubDate" : "Sun, 17 Sep 2023 10:00:22",
          "title" : "Busch-Gass Gambit"
-      },
-      {
-         "description" : "Due to unavoidable circumstances the venue of the 36th NATIONAL OPEN AND GIRLS U11 CHESS CHAMPIONSHIPS-2023 has been shifted to RAJEEV GANDHI INDOOR STADIUM .",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u11-venue-changed/",
-         "pubDate" : "Sun, 17 Sep 2023 05:53:08",
-         "title" : "NATIONAL U11 :Venue Changed"
       },
       {
          "description" : "GM Hikaru Nakamura monstered his way to a record 10th Bullet Brawl title on Saturday ahead of 168 titled players including GMs Magnus Carlsen and Oleksandr Bortnyk, who finished second and third. Nakamura&#39;s run to a winning score of 250 featured...",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/more-silliness.html",
          "pubDate" : "Mon, 04 Sep 2023 13:08:00",
          "title" : "More silliness"
-      },
-      {
-         "description" : " The Tata Steel India Rapid & Blitz Women's section took place 31st August to 4th September. Deshmukh Divya won the rapid with 7/9 and Ju Wenjun the blitz with 12.5/18, 17 year old Divya won the combined title. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-women-2023",
-         "pubDate" : "Mon, 4 Sep 2023 09:39:00",
-         "title" : "Tata Steel India Rapid & Blitz Women 2023 - Games and Results"
       }
    ]
 }
