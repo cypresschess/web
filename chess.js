@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The first event in the 2023 ACT Junior Championship was completed today, with Owen MacMullin winning the Under 14 title. He did so after defeating Masaki Horikawa in a playoff game, after they had tied for 1st on 5/6. Having drawn there tournament game, they played each other in a single rapidplay game (G/15m), with MacMullin taking advantage of an opening mistake by Horikawa to win quite quickly. The winner of the Under 12 titles was Sanat Hegde, who was the youngest player in the 29 player field. He scored 4.5/6 to finish ahead of Rohan Jain and Ethan Li, who both scored 4. The main event, the ACT Junior Championship starts tomorrow and will be played over 3 days. Alongside this event wil",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-championships-under1412.html",
+         "pubDate" : "Tue, 26 Sep 2023 12:53:00",
+         "title" : "2023 ACT Junior Championships Under14/12"
+      },
+      {
+         "description" : "The 2023 European Youth Rapid&#38;Blitz Chess Championship kicks off on Thursday, 28th of September in Terme Catez, Slovenia. The event will gather nearly 500 players from 27 European federations who will fight for the European champion title. The European Youth Rapid Chess Championship will be played on 28th and 29th of September, in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately). The tournament will be played in 9 rounds, swiss system, with time []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2023-starts-in-slovenia/",
+         "pubDate" : "Tue, 26 Sep 2023 11:52:15",
+         "title" : "European Youth Rapid&Blitz Chess Championship 2023 starts in Slovenia"
+      },
+      {
          "description" : "Rook endings have drawish tendencies, and sometimes even the chance to get a new queen does not help the better side. In the diagram position it is Black who has to fight for a draw. What did he do to show that it is difficult to win rook endings?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-prodigy-faces-british-champion",
          "pubDate" : "Tue, 26 Sep 2023 03:15:00",
          "title" : "8-year-old prodigy faces 79-year-old British champion"
+      },
+      {
+         "description" : "Shortly after the Speed Chess tournament, Magnus Carlsen and Hikaru Nakamura faced each other again, this time in rapid chess. Carlsen demonstrated his fantastic endgame skills in the very first game and went on to win the match. The other quarterfinal winners were Ian Nepomniachtchi, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-d1",
+         "pubDate" : "Tue, 26 Sep 2023 03:10:00",
+         "title" : "AI Cup: Carlsen beats Nakamura"
+      },
+      {
+         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
+         "pubDate" : "Tue, 26 Sep 2023 03:00:00",
+         "title" : "Levitov Chess Week - Live!"
       },
       {
          "description" : "Peter Svidler and Ian Nepomniachtchi have a 2-point lead over their closest chasers with four rounds to go at the Levitov Chess Week in Amsterdam. The co-leaders faced each other twice already - Svidler won with white in round 3, while their double-edged encounter finished drawn on Monday. Levon Aronian and Shakhriyar Mamedyarov are sharing third place with 7&frac12;/14 points each. | Photo: Lennart Ootes",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
          "pubDate" : "Mon, 25 Sep 2023 17:55:00",
          "title" : "The backstory: Fischer's poor performance in Buenos Aires"
-      },
-      {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Mon, 25 Sep 2023 17:50:00",
-         "title" : "AI Cup - Live!"
       },
       {
          "description" : "In the Endgame Magic Show #250 Karsten M&uuml;ller analyses endgame highlights from the FIDE World Rapid Team Championship, which took place last month at the D&uuml;sseldorf Rheinterrassen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -560,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-jana-schneider-beat-the-french-defence-with-the-advance-variation",
          "pubDate" : "Thu, 21 Sep 2023 17:30:00",
          "title" : "New: Jana Schneider - Beat the French Defence with the Advance Variation"
-      },
-      {
-         "description" : "The World Junior Championships will take place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. The event is an 11-round Swiss Open. Former champions of the prestigious under-20 championships include Levon Aronian, Shakhriyar Mamedyarov and Humpy Koneru (women's). | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-preview",
-         "pubDate" : "Thu, 21 Sep 2023 17:00:00",
-         "title" : "World Junior Championships: Niemann and Yip head lineups in Mexico City"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <em>This year's tournament fields among the strongest of all time; chess legends to be celebrated during U.S Chess Hall of Fame induction ceremony</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -1376,22 +1392,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-among-leaders-hari-vidit-struggle-in-tata-steel-chess/articleshow/103405005.cms",
          "pubDate" : "Tue, 05 Sep 2023 17:17:58 +0000",
          "title" : "D Gukesh among leaders; Hari, Vidit struggle in Tata Steel Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103401941.cms\" />Five-time world champion Viswanathan Anand on Tuesday said he could not have asked for a stronger Indian chess lineup in the upcoming Asian Games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/asian-games-2023/india-asian-games/couldnt-have-asked-for-a-better-indian-chess-team-for-asian-games-viswanathan-anand/articleshow/103401941.cms",
-         "pubDate" : "Tue, 05 Sep 2023 14:04:35 +0000",
-         "title" : "Couldn't have asked for a better team for Asian Games: Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2619",
-         "pubDate" : "Tue, 05 Sep 2023 11:31:36 +0000",
-         "title" : "Vitaly Sivuk wins 2023 Malaysian Open"
       }
    ]
 }
