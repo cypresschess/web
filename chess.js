@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire. 2023.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-learn-new-chess-opening-beginner-breakdown",
+         "pubDate" : "Tue, 26 Sep 2023 18:53:02",
+         "title" : "How to Learn a New Chess Opening | Beginner Breakdown"
+      },
+      {
+         "description" : "In 2024, the International Chess Federation (FIDE) will celebrate its centenary. As part of the celebrations throughout the year 2024, FIDE is planning numerous activities, including chess festivals, exhibitions displaying historical archives, documents and chess memorabilia. Organizers and federations are encouraged to plan their regular and special events using the hashtag #FIDE100.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-prepares-celebration-centenary",
+         "pubDate" : "Tue, 26 Sep 2023 18:15:00",
+         "title" : "FIDE prepares to celebrate its centenary in 2024"
+      },
+      {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Tue, 26 Sep 2023 17:50:00",
+         "title" : "AI Cup - Live!"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the five FIDE Arbiter Seminars as per the appended schedule:- 1.&#160;&#160;&#160;&#160;&#160;&#160; Indore : 13 - 15 October",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-arbiter-seminars-2/",
+         "pubDate" : "Tue, 26 Sep 2023 16:47:03",
+         "title" : "FIDE ARBITER SEMINARS"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. 2023.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski",
+         "pubDate" : "Tue, 26 Sep 2023 15:53:01",
+         "title" : "More of My Beautiful (Not Easy!) Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
+      },
+      {
          "description" : " The first event in the 2023 ACT Junior Championship was completed today, with Owen MacMullin winning the Under 14 title. He did so after defeating Masaki Horikawa in a playoff game, after they had tied for 1st on 5/6. Having drawn there tournament game, they played each other in a single rapidplay game (G/15m), with MacMullin taking advantage of an opening mistake by Horikawa to win quite quickly. The winner of the Under 12 titles was Sanat Hegde, who was the youngest player in the 29 player field. He scored 4.5/6 to finish ahead of Rohan Jain and Ethan Li, who both scored 4. The main event, the ACT Junior Championship starts tomorrow and will be played over 3 days. Alongside this event wil",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -530,14 +570,6 @@ news_feed (
          "title" : "WSTCC reports from Nigel Povah"
       },
       {
-         "description" : "The third round of the FIDE World Senior Team Championship featured a number of exciting clashes between some of the favourites to take home first place. In the end, the S50 section has England and Iceland tied in the lead, while in the S65 section Germany and England are the teams sharing first place after three rounds. | Pictured: England's John Emms | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r3",
-         "pubDate" : "Fri, 22 Sep 2023 08:00:00",
-         "title" : "World Senior Team Ch: Iceland and England co-leaders"
-      },
-      {
          "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -576,14 +608,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-victor-mikhalevski",
          "pubDate" : "Thu, 21 Sep 2023 21:48:40",
          "title" : "Prepare Like A Pro - GM Victor Mikhalevski"
-      },
-      {
-         "description" : "The French Defence is very popular and is considered a solid opening for Black. How do you manage to gain an advantage with White against it? What are typical plans and how do you remember which idea to use and when? What should you know about the complex positions? German WGM Jana Schneider answers these questions on this video course. An expert practitioner of the Advance Variation with both colours, she shows typical plans and ideas to turn the space advantage in the centre into a victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-jana-schneider-beat-the-french-defence-with-the-advance-variation",
-         "pubDate" : "Thu, 21 Sep 2023 17:30:00",
-         "title" : "New: Jana Schneider - Beat the French Defence with the Advance Variation"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <em>This year's tournament fields among the strongest of all time; chess legends to be celebrated during U.S Chess Hall of Fame induction ceremony</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sarana-nihal-win-titled-tuesday-september-19-2023",
          "pubDate" : "Wed, 20 Sep 2023 08:09:00",
          "title" : "Near-Perfect 10s Carry Sarana, Nihal To Victory"
-      },
-      {
-         "description" : "Please find Live Games Link for National Junior 2023 Chess Results Link Open :&#160;https://chess-results.com/tnr821775.aspx?lan=1&#38;art=0 Chess Results Link Girls :&#160;https://chess-results.com/tnr819285.aspx?lan=1 Open Live Page Link :&#160;https://view.livechesscloud.com/#a3a5ec41-fb9a-4103-a587-972438070d44 Girls",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-junior-2023-live-games-link/",
-         "pubDate" : "Wed, 20 Sep 2023 06:25:52",
-         "title" : "National Junior 2023 Live Games Link"
       },
       {
          "description" : "",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "Vachier-Lagrave Blitzes Gukesh; Carlsen Defeats Vidit"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows how to neutralize your opponent when they fianchetto their bishop. A fianchetto is when a player pushes their b- or g-pawn one square and places a bishop on the longest diagonal now available. 2023.09.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fighting-fianchetto-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6-RQB7oI6HE.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fighting-fianchetto-beginner-breakdown",
-         "pubDate" : "Tue, 12 Sep 2023 18:39:14",
-         "title" : "Fighting the Fianchetto! | Beginner Breakdown"
-      },
-      {
          "description" : " The current Gungahlin Chess Club tournament, the Korda Classic, ended in a tie for 1st between Miles Patterson and Riley Byng. However, the last round games saw both games decided by an element of bluffing. In Riley's game he had been outplayed in the middlegame, but in a lost ending he saw a chance for a swindle. However, when it arrived on the board, he realised it didn't work, due to a miscounting of pawn moves. However, his opponent made the same mistake in counting the pawn moves, and chose a losing line. In the Patterson game, he was well on top when his opponent played a surprising queen sacrifice. As he had not considered this possibility, he had to carefully check the follow up mov",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-womens-team-announcement/",
          "pubDate" : "Mon, 11 Sep 2023 08:52:21",
          "title" : "England Women's Team Announcement"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Sabina Foisor before the start of the 2023 Chess 9LX. This didn't air on the program. 2023.09.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-robson-much-less-pressure-here-chess9lx\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZfwAGwK54Go.jpg?itok=OdDHgW8v\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-robson-much-less-pressure-here-chess9lx",
-         "pubDate" : "Mon, 11 Sep 2023 03:37:32",
-         "title" : "EXCLUSIVE! Robson: Much Less Pressure Here | #Chess9LX"
       },
       {
          "description" : "",
@@ -1384,14 +1384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2620",
          "pubDate" : "Tue, 05 Sep 2023 23:55:57 +0000",
          "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103405005.cms\" />The focus was on the rising superstars of Indian chess, but Grandmasters R Praggnanandhaa and Arjun Erigaisi failed to shine on the opening day of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-among-leaders-hari-vidit-struggle-in-tata-steel-chess/articleshow/103405005.cms",
-         "pubDate" : "Tue, 05 Sep 2023 17:17:58 +0000",
-         "title" : "D Gukesh among leaders; Hari, Vidit struggle in Tata Steel Chess"
       }
    ]
 }
