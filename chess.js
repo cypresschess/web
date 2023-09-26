@@ -1392,22 +1392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2619",
          "pubDate" : "Tue, 05 Sep 2023 11:31:36 +0000",
          "title" : "Vitaly Sivuk wins 2023 Malaysian Open"
-      },
-      {
-         "description" : " The Tata Steel India Rapid & Blitz takes place 5th to 9th September 2023. Players: Maxime Vachier-Lagrave, Nodirbek Abdusattorov, Alexander Grischuk, R Praggnanandhaa, Santosh Gujrathi Vidit, Teimour Radjabov, Arjun Erigaisi, D Gukesh, Pentala Harikrishna and Vincent Keymer. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-open-2023",
-         "pubDate" : "Tue, 5 Sep 2023 09:30:00",
-         "title" : "Tata Steel India Rapid & Blitz Open 2023 - Games and Results"
-      },
-      {
-         "description" : " \"Do not go where the path may lead, go instead where there is no path and leave a trail.\" Ralph Waldo Emerson The beginning of a new correspondence chess tournament is of great importance. You need to prepare for all games because they all start in the same time. It is a good idea to <a href=\"https://chessimprover.com/the-closed-sicilian/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Closed Sicilian\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-closed-sicilian/\">The Closed Sicilian</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-closed-sicilian/",
-         "pubDate" : "Tue, 05 Sep 2023 08:00:17",
-         "title" : "The Closed Sicilian"
       }
    ]
 }
