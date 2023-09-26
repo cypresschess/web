@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Tue, 26 Sep 2023 23:55:00",
+         "title" : "World Junior Championships - Round 6 Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2654",
+         "pubDate" : "Tue, 26 Sep 2023 21:32:28 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 7 recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire. 2023.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-championships-under1412.html",
          "pubDate" : "Tue, 26 Sep 2023 12:53:00",
          "title" : "2023 ACT Junior Championships Under14/12"
+      },
+      {
+         "description" : "Just like in 2019, GM Ian Nepomniachtchi won the Levitov Chess Week in Amsterdam, the Netherlands. While the Russian grandmaster scored 3/4 on the final day, GM Peter Svidler couldn&#39;t keep the pace and eventually tied for second with GM Levon Aron...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-2023-levitov-chess-week",
+         "pubDate" : "Tue, 26 Sep 2023 12:34:00",
+         "title" : "Nepomniachtchi Repeats Levitov Chess Week Victory"
       },
       {
          "description" : "The 2023 European Youth Rapid&#38;Blitz Chess Championship kicks off on Thursday, 28th of September in Terme Catez, Slovenia. The event will gather nearly 500 players from 27 European federations who will fight for the European champion title. The European Youth Rapid Chess Championship will be played on 28th and 29th of September, in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately). The tournament will be played in 9 rounds, swiss system, with time []",
@@ -103,7 +127,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-1",
          "pubDate" : "Mon, 25 Sep 2023 20:07:00",
-         "title" : "Carlsen Goes Undefeated vs. Nakamura, Advances With Nepomniachtchi, Vachier-Lagrave, Mamedyarov"
+         "title" : "Carlsen Goes Undefeated vs. Nakamura, Advances To Winners Semifinals"
       },
       {
          "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
          "pubDate" : "Mon, 25 Sep 2023 03:09:19",
          "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Sun, 24 Sep 2023 23:55:00",
-         "title" : "World Junior Championships - Round 5 Live!"
       },
       {
          "description" : "In the latest edition of his Fast & Furious series, Robert Ris analyses a 23-move miniature played in the Spanish Team Championship. Daniil Yuffa played an absolute brilliant masterpiece, exploiting the deficiencies of White's position! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-academy/",
          "pubDate" : "Tue, 12 Sep 2023 11:39:43",
          "title" : "European Chess Union Academy"
-      },
-      {
-         "description" : "In the end, the top-ranked Georgian team, led by GM Bella Khotenashvili, won gold at the World Women&#39;s Team Championship in Bydgoszcz, Poland.&#38;nbsp; For much of the tournament, one of the lowest-ranked and youngest teams, Kazakhstan―with IM Bibi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-womens-world-team-championship-georgia-wins",
-         "pubDate" : "Mon, 11 Sep 2023 23:07:00",
-         "title" : "Top Seeds Take Cinderella's Glass Slipper, Georgia Wins Gold Ahead of Kazakhstan"
       },
       {
          "description" : " The Champions Showdown 9LX took place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest was the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I was very limited in the coverage I could mount as I can't display Chess960 games, but I did provide a download. Sam Sevian was the surprise clear winner of the event. Kasparov led after day 1 but then only picked up another half a point. I'd lo",
