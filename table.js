@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-09-24","16","<a href=http://www.uschess.org/msa/XtblMain.php?202309247182 target='_blank'>SEPT 24TH 2023 SUNDAY SWISS</a>",
 "HOUSTON","2023-09-23","9","<a href=http://www.uschess.org/msa/XtblMain.php?202309235732 target='_blank'>CHESSPANDA09232023SATURDAY</a>",
 "CYPRESS","2023-09-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202309225392 target='_blank'>KNIGHTS OF CYPRESS1</a>",
 "SPRING","2023-09-22","31","<a href=http://www.uschess.org/msa/XtblMain.php?202309225322 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-02-24","34","<a href=http://www.uschess.org/msa/XtblMain.php?202302246662 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-02-24","12","<a href=http://www.uschess.org/msa/XtblMain.php?202302246652 target='_blank'>FBCC 2023 PreChessFest Open</a>",
 "HOUSTON","2023-02-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202302246552 target='_blank'>REBECCA CHESS CLUB QUADS FEB 24, 2023</a>",
-"CYPRESS","2023-02-24","30","<a href=http://www.uschess.org/msa/XtblMain.php?202302246492 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
