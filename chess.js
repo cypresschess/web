@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "description" : "She is the 8-year-old prodigy taking the British chess scene by storm. He is a 79-year-old who reached the top as British Champion way back in 1965. Both are united over a love of the ancient game. Chess.com brought together Harrow schoolgirl Bodhana Sivanandan and Peter Lee, the former England international and the only person who has won British championships in both chess and bridge. | Image: chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Mon, 25 Sep 2023 17:50:00",
-         "title" : "AI Cup - Live!"
+         "link" : "https://en.chessbase.com/post/chess-prodigy-faces-british-champion",
+         "pubDate" : "Tue, 26 Sep 2023 03:15:00",
+         "title" : "8-year-old prodigy faces 79-year-old British champion"
+      },
+      {
+         "description" : "Peter Svidler and Ian Nepomniachtchi have a 2-point lead over their closest chasers with four rounds to go at the Levitov Chess Week in Amsterdam. The co-leaders faced each other twice already - Svidler won with white in round 3, while their double-edged encounter finished drawn on Monday. Levon Aronian and Shakhriyar Mamedyarov are sharing third place with 7&frac12;/14 points each. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d3",
+         "pubDate" : "Tue, 26 Sep 2023 02:30:00",
+         "title" : "Levitov Chess Week: Nepo and Svidler widen the gap"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Shakhriyar Mamedyarov advance in the Division I Winners Bracket of the 2023 AI Cup after winning their quarterfinal matches on day one. With echoes from the finish of their SCC ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-1",
+         "pubDate" : "Mon, 25 Sep 2023 20:07:00",
+         "title" : "Carlsen Goes Undefeated vs. Nakamura, Advances With Nepomniachtchi, Vachier-Lagrave, Mamedyarov"
       },
       {
          "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
-         "pubDate" : "Mon, 25 Sep 2023 17:35:00",
+         "pubDate" : "Mon, 25 Sep 2023 17:55:00",
          "title" : "The backstory: Fischer's poor performance in Buenos Aires"
+      },
+      {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Mon, 25 Sep 2023 17:50:00",
+         "title" : "AI Cup - Live!"
       },
       {
          "description" : "In the Endgame Magic Show #250 Karsten M&uuml;ller analyses endgame highlights from the FIDE World Rapid Team Championship, which took place last month at the D&uuml;sseldorf Rheinterrassen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-rapid-tournament-world-chess-club-berlin",
          "pubDate" : "Mon, 25 Sep 2023 16:45:00",
          "title" : "Open to all levels: women's rapid event at the World Chess Club in Berlin"
-      },
-      {
-         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
-         "pubDate" : "Mon, 25 Sep 2023 13:55:00",
-         "title" : "Levitov Chess Week - Live!"
       },
       {
          "description" : "After some twists and turns, GMs Ian Nepomniachtchi and Peter Svidler are still topping the Levitov Chess Week&#39;s leaderboard. With four rounds to go, it has become a two-horse race as their closest rivals, GM Levon Aronian and GM Shakhriyar Mamedy...",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "Nakamura Enters Beast Mode In Bullet Chess, Will Face Carlsen In Final"
       },
       {
-         "description" : "IM Andrew Martin recently produced his upcoming Fritztrainer on the Black Knight Tango opening at the ChessBase Headquarters in Hamburg. We seized the opportunity to chat with him and delve into his extensive chess journey. Born and raised in London, Andrew turned to chess as a solace during a challenging childhood. This passion shaped his entire life around the captivating game. He's done it all: from authoring multiple books, collaborating closely with ChessBase, competing in tournaments, mentoring students, to even setting a simultaneous play world record against 321 opponents. The conversation with Andrew is profoundly insightful, offering listeners a wealth of knowledge.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-board-the-life-story-of-im-andrew-martin-interview",
-         "pubDate" : "Wed, 20 Sep 2023 14:40:00",
-         "title" : "Behind the Board: The life story of IM Andrew Martin - Interview"
-      },
-      {
          "description" : "Turkish Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate European Amateur Chess Championship organized in Antalya, T&uuml;rkiye between 26 November (arrival) 04 &#160;December (departure), 2023. The European Amateur Chess Championship 2023 will be played in three rating categories: U1700, U2000, and U2300. The Championships are open tournaments for players registered or approved by their federation. ECU member federations shall have the right to []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2630",
          "pubDate" : "Mon, 11 Sep 2023 21:12:24 +0000",
          "title" : "Georgia wins the FIDE World Women's Team Championship 2023"
-      },
-      {
-         "description" : "GM Fabiano Caruana will face five-time SCC Champion Hikaru Nakamura in the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. Caruana defeated GM Nodirbek Abdusattorov with a score of 13.5-10.5 in the Round of 16.&#38;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-abdusattorov-caruana",
-         "pubDate" : "Mon, 11 Sep 2023 16:05:00",
-         "title" : "Caruana Reaches Quarterfinals Match Vs. Nakamura, Knocks Out Abdusattorov"
       },
       {
          "description" : "We are pleased to announce that England Women's team for the European Team Chess Championship is &#8212; IM Jovanka Houska 2340 IM Harriet Hunt 2316...",
