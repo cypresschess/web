@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rook endings have drawish tendencies, and sometimes even the chance to get a new queen does not help the better side. In the diagram position it is Black who has to fight for a draw. What did he do to show that it is difficult to win rook endings?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-rook-endings-are-drawn",
+         "pubDate" : "Tue, 26 Sep 2023 09:00:00",
+         "title" : "All rook endings are drawn"
+      },
+      {
          "description" : "She is the 8-year-old prodigy taking the British chess scene by storm. He is a 79-year-old who reached the top as British Champion way back in 1965. Both are united over a love of the ancient game. Chess.com brought together Harrow schoolgirl Bodhana Sivanandan and Peter Lee, the former England international and the only person who has won British championships in both chess and bridge. | Image: chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,14 +602,6 @@ news_feed (
          "title" : "World Youth Chess Championship U14, U16 and U18 2023: Registration deadline extended"
       },
       {
-         "description" : "Polish grandmaster Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. | Photos: Max Avdeev / World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-d7",
-         "pubDate" : "Thu, 21 Sep 2023 07:45:00",
-         "title" : "Jan-Krzysztof Duda wins Armageddon Grand Finale"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -930,7 +930,7 @@ news_feed (
          "title" : "Nakamura Wins With 1.Nh3, Nepomniachtchi Will Play Carlsen"
       },
       {
-         "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 9 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
+         "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-closed-sicilian/",
          "pubDate" : "Tue, 05 Sep 2023 08:00:17",
          "title" : "The Closed Sicilian"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103380168.cms\" />R Praggnanandhaa qualified for the Candidates by finishing runner-up in the World Cup. He is now set to represent India at the highest level of world chess. Praggnanandhaa expressed his confidence in his potential to become a world champion and highlighted his fighting quality as his main weapon for success. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-have-the-potential-to-become-world-champion-praggnanandhaa/articleshow/103380168.cms",
-         "pubDate" : "Tue, 05 Sep 2023 05:49:06 +0000",
-         "title" : "I have the potential to become world champion: Praggnanandhaa"
       }
    ]
 }
