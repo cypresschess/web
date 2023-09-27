@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminars-2/",
+         "pubDate" : "Wed, 27 Sep 2023 03:07:54",
+         "title" : "FIDE TRAINER SEMINARS"
+      },
+      {
+         "description" : "Ian Nepomniachtchi collected four wins and a loss on the final day of action at the Levitov Chess Week to claim clear tournament victory with 12&frac12; (out of 18) points. Nepo had also won the first edition of the event sponsored by Ilya Levitov back in 2019. This time around, he finished two points ahead of his closest pursuers, Levon Aronian and Peter Svidler. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d4",
+         "pubDate" : "Wed, 27 Sep 2023 01:40:00",
+         "title" : "Ian Nepomniachtchi grabs second Levitov Chess Week title"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,15 @@ news_feed (
          "title" : "FIDE World Senior Team Championship: Day 7 recap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire. 2023.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
+         "description" : "GMs Magnus Carlsen&#38;nbsp;and&#38;nbsp;Maxime Vachier-Lagrave are the last two players standing in Winners Bracket of the 2023 AI Cup. With blazing attacking play in the final game, GM Ian Nepomniachtchi came within inches of forcing a playoff vs. Car...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-2",
+         "pubDate" : "Tue, 26 Sep 2023 19:31:26",
+         "title" : "From Missing Mate to Swindling Stalemate: Carlsen Thwarts Challenger"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-learn-new-chess-opening-beginner-breakdown",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "FIDE ARBITER SEMINARS"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. 2023.09.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thu",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. 2023.09.26<br /> Wim Maes vs. Victor Mikhalevski, 1998<br /> <a href=\"https://2700chess.com/games/maes-mikhalevski-r3-vlissingen-1998-07-13\">https://2700chess.com/games/maes-mikhalevski-r3-vlissingen-1998-07-13</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski",
@@ -271,7 +295,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-fall-slu-mizzou",
          "pubDate" : "Sun, 24 Sep 2023 17:46:00",
-         "title" : "Bok, Oparin, Star As 2023 Collegiate Chess League Launches"
+         "title" : "Bok, Oparin Star As 2023 Collegiate Chess League Launches"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 144th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "Xiangqi tournament at the Nymphenburg Palace in Munich"
       },
       {
-         "description" : "With eleven opening articles, ChessBase Magazine #215 covers the usual broad spectrum and provides new repertoire ideas for every tournament player. For example, a concept against the Alekhine Defence: Sergey Grigoriants presents the \"sharpest and most principled approach against the Alekhine Defence\" with 5.f4! and is convinced that he has \"proved White's advantage in all variations\". Alekhine expert Christian Bauer attests our author an \"excellent job. I now know why the variation 1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Bf5 7.Nc3 e6 is bad for Black!\". Take a look! You can find the complete article with all games and analyses in the current CBM #215.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/full-throttle-vs-the-alekhine",
-         "pubDate" : "Fri, 22 Sep 2023 13:00:00",
-         "title" : "Full throttle vs. the Alekhine"
-      },
-      {
          "description" : "Bangalore SNA 26-27 August Category C and D certificates Link : https://aicf.online/Bangalore-NA.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-under-7-open-girlschess-championships-2023/",
          "pubDate" : "Fri, 22 Sep 2023 08:47:43",
          "title" : "36th NATIONAL UNDER-7 OPEN & GIRLS CHESS CHAMPIONSHIPS-2023"
-      },
-      {
-         "description" : "The 52nd National Junior (U-19) &#38; 37th National Junior (U-19) Girls Chess Championships-2023 has been organized by Gujarat State Chess Association under the aegis of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/52nd-national-junior-u-19-37th-national-junior-u-19-girls-chess-championships-2023-started-on-20-to-28-september-at-karnavati-club-ahmedabad/",
-         "pubDate" : "Fri, 22 Sep 2023 08:32:49",
-         "title" : "52nd National Junior (U-19) & 37th National Junior (U-19) Girls Chess Championships-2023 started on 20 to 28 September at Karnavati Club Ahmedabad"
       },
       {
          "description" : "",
@@ -1106,14 +1114,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (71)"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave booked his Quarterfinal spot in the 2023 Speed Chess Championship Presented by Coinbase after dispatching GM Gukesh Dommaraju by a convincing 21.5-8.5 margin in the Round of 16 on Tuesday. The Frenchman will face Gukesh&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-vachier-lagrave-gukesh-carlsen-vidit",
-         "pubDate" : "Tue, 12 Sep 2023 19:46:00",
-         "title" : "Vachier-Lagrave Blitzes Gukesh; Carlsen Defeats Vidit"
-      },
-      {
          "description" : " The current Gungahlin Chess Club tournament, the Korda Classic, ended in a tie for 1st between Miles Patterson and Riley Byng. However, the last round games saw both games decided by an element of bluffing. In Riley's game he had been outplayed in the middlegame, but in a lost ending he saw a chance for a swindle. However, when it arrived on the board, he realised it didn't work, due to a miscounting of pawn moves. However, his opponent made the same mistake in counting the pawn moves, and chose a losing line. In the Patterson game, he was well on top when his opponent played a surprising queen sacrifice. As he had not considered this possibility, he had to carefully check the follow up mov",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1384,14 +1384,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-hopes-for-consistent-show-from-youngsters/articleshow/103416307.cms",
          "pubDate" : "Wed, 06 Sep 2023 04:35:25 +0000",
          "title" : "Anand hopes for consistent show from youngsters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2620",
-         "pubDate" : "Tue, 05 Sep 2023 23:55:57 +0000",
-         "title" : "FIDE World Women's Team Championship 2023 starts in Bydgoszcz, Poland"
       }
    ]
 }
