@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2656",
+         "pubDate" : "Wed, 27 Sep 2023 18:44:45 +0000",
+         "title" : "Carissa Yip takes the sole leadership in World Juniors"
+      },
+      {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Wed, 27 Sep 2023 17:50:00",
+         "title" : "AI Cup - Live!"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-72/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (72)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-72/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (72)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-72/",
+         "pubDate" : "Wed, 27 Sep 2023 17:25:11",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (72)"
+      },
+      {
          "description" : "The Dragon Master is back with a new episode! We already reviewed the possibility of trapping the white queen in an earlier show. In today's video, Chris points out how important this resource is to gain a strong advantage over White.| Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Jeremy Silman (1954-2023)"
       },
       {
-         "description" : "The seventh round brought some unexpected results in the S50 section and very predictable results in the S65 section of the World Senior Team Championship in North Macedonia. After beating the United States, Italy grabbed the sole lead in the S50 section, while Germany Lasker Schachstiftung GK lead the S65 section with a perfect score after seven rounds. | Pictured: Gabriel Barandiaran (Uruguay) | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r7",
-         "pubDate" : "Wed, 27 Sep 2023 06:40:00",
-         "title" : "World Senior Team Ch: Italy and Germany top the standings"
+         "description" : "It seems like no one can beat GM Magnus Carlsen these days. In just the last five weeks, he&#39;s won the World Cup, the Julius Baer Generations Cup, and the Speed Chess Championship. After advancing in the AI Cup earlier in the day on September 26, h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/drygalov-hakobyan-win-titled-tuesday-september-26-2023",
+         "pubDate" : "Wed, 27 Sep 2023 08:55:08",
+         "title" : "Warning: To Beat Magnus, Tiebreaks May Be Required"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d4",
          "pubDate" : "Wed, 27 Sep 2023 01:40:00",
          "title" : "Ian Nepomniachtchi grabs second Levitov Chess Week title"
+      },
+      {
+         "description" : "The seventh round brought some unexpected results in the S50 section and very predictable results in the S65 section of the World Senior Team Championship in North Macedonia. After beating the United States, Italy grabbed the sole lead in the S50 section, while Germany Lasker Schachstiftung GK lead the S65 section with a perfect score after seven rounds. | Pictured: Gabriel Barandiaran (Uruguay) | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r7",
+         "pubDate" : "Wed, 27 Sep 2023 01:35:00",
+         "title" : "World Senior Team Ch: Italy and Germany top the standings"
       },
       {
          "description" : "In 2024, the International Chess Federation (FIDE) will celebrate its centenary. As part of the celebrations throughout the year 2024, FIDE is planning numerous activities, including chess festivals, exhibitions displaying historical archives, documents and chess memorabilia. Organizers and federations are encouraged to plan their regular and special events using the hashtag #FIDE100.",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-learn-new-chess-opening-beginner-breakdown",
          "pubDate" : "Tue, 26 Sep 2023 18:53:02",
          "title" : "How to Learn a New Chess Opening | Beginner Breakdown"
-      },
-      {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Tue, 26 Sep 2023 17:50:00",
-         "title" : "AI Cup - Live!"
       },
       {
          "description" : "All India Chess Federation is pleased to announce the five FIDE Arbiter Seminars as per the appended schedule:- 1.&#160;&#160;&#160;&#160;&#160;&#160; Indore : 13 - 15 October",
@@ -1106,14 +1130,6 @@ news_feed (
          "title" : "ECU E-Magazine August 2023"
       },
       {
-         "description" : "ChessKid has announced the inaugural ChessKid National Festival, happening across the Presidents&#39; Day weekend (February 16-19) in 2024. The multiple-day celebration will take place in Charlotte, North Carolina at the Charlotte Convention Center. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-national-festival-announcement",
-         "pubDate" : "Wed, 13 Sep 2023 07:00:00",
-         "title" : "ChessKid Announces First National Festival Taking Place Early 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2621",
          "pubDate" : "Wed, 06 Sep 2023 22:06:03 +0000",
          "title" : "World Women's Team Championship: USA, China and Kazakhstan lead after Day 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103442226.cms\" />India's new No. 1 player D Gukesh slipped as Maxime Vachier-Lagrave grabbed the sole lead at the end of Day II of the Tata Steel Chess India rapid tournament at the Bhasha Bhawan in the National Library of India campus on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-slips-maxime-vachier-lagrave-takes-sole-lead-in-tata-steel-chess-rapid-tournament/articleshow/103442226.cms",
-         "pubDate" : "Wed, 06 Sep 2023 16:38:55 +0000",
-         "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
       }
    ]
 }
