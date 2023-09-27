@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Dragon Master is back with a new episode! We already reviewed the possibility of trapping the white queen in an earlier show. In today's video, Chris points out how important this resource is to gain a strong advantage over White.| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-key-resource-annoying-the-white-queen-9-0-0-0-d5",
+         "pubDate" : "Wed, 27 Sep 2023 16:30:00",
+         "title" : "The Monthly Dragon - Key resource: Annoying the white queen with 9.0-0-0 d5"
+      },
+      {
+         "description" : "My title is taken from those memorable lines in Alexander Pope's Essay on Man, 1733: \"All are but parts of one stupendous whole, Whose body Nature is , and God the soul&hellip;All nature is but art, unknown to thee; All chance, direction, which thou canst not see; All discord, harmony not understood; All partial evil, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/harmony-not-understood-chess-music-maths-and-old-age/",
+         "pubDate" : "Wed, 27 Sep 2023 13:35:28",
+         "title" : "Harmony, not understood: chess, music, maths and old age"
+      },
+      {
+         "description" : " Garry Kasparov once said if you make ten threats in a row, your bound to win as your opponent will eventually make a mistake. But I've now seen a different version attributed to Boris Spassky. \"It takes 10 threats to beat the World Champion\". But it also mentions that you should beat a beginner with 1 threat, and lowly rated player with 2 threats, and average player with 3 threats, a strong club player with 4 threats etc Now the only place I have seen this is in a facebook post (which flashed past my eyes too quickly), and haven't been able to find it anywhere else. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/the-ten-threat-rule.html",
+         "pubDate" : "Wed, 27 Sep 2023 12:57:00",
+         "title" : "The ten threat rule?"
+      },
+      {
          "description" : "Jeremy Silman (1954-2023) got hooked on chess after the Bobby Fischer boom, discovered his writing talent, and went on to get paid handsomely for chess lessons. Last Thursday, the Californian bestselling author died after a long illness. Stefan L&ouml;ffler sent us an obituary. | Photos: JeremySilman.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/leon-and-sagar-discuss-the-keymer",
          "pubDate" : "Fri, 22 Sep 2023 17:30:00",
          "title" : "Leon and Sagar discuss the Keymer"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King continues to examine a painful kingside pin that arises from many different openings. Instructive material! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-a-nasty-pin",
-         "pubDate" : "Fri, 22 Sep 2023 17:25:00",
-         "title" : "Daniel King's Power Play Show: A nasty pin"
       },
       {
          "description" : "For the past month I've been running a series on actions provoked by Google's Adsense. Here are the relevant posts:- <UL> <LI> 2023-08-18: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> &#149; 'I need to catch up with new actions from Google'; CFAA++ means my web site and blogs <LI> 2023-08-25: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> &#149; GDPR = General Data Protection Regulation <LI> 2023-09-01: <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> &#149; CMP = Consent Management Platform <LI> 2023-09-08: <A HREF=\"https://chessforal",
