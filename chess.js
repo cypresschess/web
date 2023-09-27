@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in its history, Wieza Pomot Pegow managed to win the Polish Team Championship. The event was held as a 10-team round-robin tournament in Lublin. Almost all German national players were successfully involved in various teams. Votum SA Polonia Wrocław and KSz Hetman Płock finished in clear second and third place, respectively. | Photo: Andrei Volokitin (X)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wieza-pomot-pegow-win-polish-teams-2023",
+         "pubDate" : "Thu, 28 Sep 2023 00:15:00",
+         "title" : "Wieza Pomot Pegow win first-ever Polish Team Championship"
+      },
+      {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Wed, 27 Sep 2023 23:50:00",
+         "title" : "World Junior Championships - Round 7 Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2657",
+         "pubDate" : "Wed, 27 Sep 2023 22:15:03 +0000",
+         "title" : "FIDE World Senior Team Championship: Day 8 recap"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2656",
          "pubDate" : "Wed, 27 Sep 2023 18:44:45 +0000",
          "title" : "Carissa Yip takes the sole leadership in World Juniors"
-      },
-      {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Wed, 27 Sep 2023 17:50:00",
-         "title" : "AI Cup - Live!"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-72/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (72)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-72/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (72)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -58,11 +74,19 @@ news_feed (
          "title" : "Jeremy Silman (1954-2023)"
       },
       {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Wed, 27 Sep 2023 09:50:00",
+         "title" : "AI Cup - Live!"
+      },
+      {
          "description" : "It seems like no one can beat GM Magnus Carlsen these days. In just the last five weeks, he&#39;s won the World Cup, the Julius Baer Generations Cup, and the Speed Chess Championship. After advancing in the AI Cup earlier in the day on September 26, h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/drygalov-hakobyan-win-titled-tuesday-september-26-2023",
-         "pubDate" : "Wed, 27 Sep 2023 08:55:08",
+         "pubDate" : "Wed, 27 Sep 2023 08:55:00",
          "title" : "Warning: To Beat Magnus, Tiebreaks May Be Required"
       },
       {
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-prepares-celebration-centenary",
          "pubDate" : "Tue, 26 Sep 2023 23:55:00",
          "title" : "FIDE prepares to celebrate its centenary in 2024"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Tue, 26 Sep 2023 23:50:00",
-         "title" : "World Junior Championships - Round 6 Live!"
       },
       {
          "description" : "",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-final-nakamura-carlsen",
          "pubDate" : "Fri, 22 Sep 2023 18:58:00",
          "title" : "Carlsen Claims 2023 Speed Chess Title With Double Rook Sacrifice"
-      },
-      {
-         "description" : "Recently we announced a very special FritzTrainer by GM Leon Mendonca, one of India's most promising young talents. It is on the Keymer Variation. In this follow-up video IM Sagar Shah invites Leon to speak more about this opening and share his ideas with us. The result is a lesson that can help you build an opening repertoire with 1.Nf3 and 2.e3. Do not miss the chance!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-and-sagar-discuss-the-keymer",
-         "pubDate" : "Fri, 22 Sep 2023 17:30:00",
-         "title" : "Leon and Sagar discuss the Keymer"
       },
       {
          "description" : "For the past month I've been running a series on actions provoked by Google's Adsense. Here are the relevant posts:- <UL> <LI> 2023-08-18: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> &#149; 'I need to catch up with new actions from Google'; CFAA++ means my web site and blogs <LI> 2023-08-25: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> &#149; GDPR = General Data Protection Regulation <LI> 2023-09-01: <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> &#149; CMP = Consent Management Platform <LI> 2023-09-08: <A HREF=\"https://chessforal",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/an-outbreak-of-knight-moving-pawns.html",
          "pubDate" : "Thu, 07 Sep 2023 14:01:00",
          "title" : "An outbreak of knight moving pawns"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2621",
-         "pubDate" : "Wed, 06 Sep 2023 22:06:03 +0000",
-         "title" : "World Women's Team Championship: USA, China and Kazakhstan lead after Day 1"
       }
    ]
 }
