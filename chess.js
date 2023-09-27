@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jeremy Silman (1954-2023) got hooked on chess after the Bobby Fischer boom, discovered his writing talent, and went on to get paid handsomely for chess lessons. Last Thursday, the Californian bestselling author died after a long illness. Stefan L&ouml;ffler sent us an obituary. | Photos: JeremySilman.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeremy-silman-1954-2023",
+         "pubDate" : "Wed, 27 Sep 2023 10:00:00",
+         "title" : "Jeremy Silman (1954-2023)"
+      },
+      {
          "description" : "The seventh round brought some unexpected results in the S50 section and very predictable results in the S65 section of the World Senior Team Championship in North Macedonia. After beating the United States, Italy grabbed the sole lead in the S50 section, while Germany Lasker Schachstiftung GK lead the S65 section with a perfect score after seven rounds. | Pictured: Gabriel Barandiaran (Uruguay) | Photos: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -306,6 +314,14 @@ news_feed (
          "title" : "Bok, Oparin Star As 2023 Collegiate Chess League Launches"
       },
       {
+         "description" : "In this long series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I was sure I had done a post on cheating. I looked two years back into the series and found nothing. So here we are. <P> Six months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A> (March 2023), I put together a summary of previous blog posts about cheating. As happens with many summaries, it soon needed to be updated, but that will have to wait for another time. The most recent post on the subject was <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/how-not-to-impress-opposite-sex.html",
+         "pubDate" : "Sun, 24 Sep 2023 15:17:00",
+         "title" : "How (Not?) To Impress the Opposite Sex"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 144th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/cfaas-cmp-wrapup.html",
          "pubDate" : "Fri, 22 Sep 2023 15:22:00",
          "title" : "CFAA's CMP : Wrapup"
-      },
-      {
-         "description" : "Nuremberg 1896 was one of the several super-tournaments in the last decade of the nineteenth century. Coming as it did when the world crown was perceived to be hanging precariously on Emanuel Lasker's head, the tournament presented a stern test to Lasker himself and all the other world title contenders. It is fitting to revisit the tournament on its 127th anniversary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/revisiting-nuremberg-1896",
-         "pubDate" : "Fri, 22 Sep 2023 14:05:00",
-         "title" : "Chess greats jostle for supremacy: Revisiting Nuremberg 1896"
       },
       {
          "description" : " The 30-year-old, who has only competed once since he won the world crown in April, had been scheduled to lead the Chinese team The case of the disappearing world champion may (or may not) be about to be solved. China's Ding Liren has only competed once since he won the title five months ago, following Magnus Carlsen's abdication. That was in Bucharest in May, where the newly crowned champion finished next to last. Ding was scheduled to lead China's team and also to compete in the individual chess competition <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022\" title=\"\">at the Asian Games</a>, to be staged in his home city of Wenzhou with the opening",
@@ -1368,14 +1376,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-slips-maxime-vachier-lagrave-takes-sole-lead-in-tata-steel-chess-rapid-tournament/articleshow/103442226.cms",
          "pubDate" : "Wed, 06 Sep 2023 16:38:55 +0000",
          "title" : "Gukesh slips, Vachier-Lagrave takes sole lead in Tata Steel Chess"
-      },
-      {
-         "description" : "The 2023 European Youth Chess Championship kicked off yesterday in Mamaia, Romania. The opening ceremony of the event took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the President of the Romanian Chess Federation Mr. Vlad Ardeleanu, the President of the Romanian Olympic and Sports Committee Mr. Mihai Covaliu, Superbet Foundation Executive Director Mr. Cristian Gheorghita, State Secretary of the Foreign Ministry Mr. Andrei Novac and other distinguished guests. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-opened-in-mamaia-romania/",
-         "pubDate" : "Wed, 06 Sep 2023 08:26:31",
-         "title" : "European Youth Chess Championship 2023 opened in Mamaia, Romania"
       }
    ]
 }
