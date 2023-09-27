@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh round brought some unexpected results in the S50 section and very predictable results in the S65 section of the World Senior Team Championship in North Macedonia. After beating the United States, Italy grabbed the sole lead in the S50 section, while Germany Lasker Schachstiftung GK lead the S65 section with a perfect score after seven rounds. | Pictured: Gabriel Barandiaran (Uruguay) | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r7",
+         "pubDate" : "Wed, 27 Sep 2023 06:40:00",
+         "title" : "World Senior Team Ch: Italy and Germany top the standings"
+      },
+      {
          "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,11 +26,19 @@ news_feed (
          "title" : "Ian Nepomniachtchi grabs second Levitov Chess Week title"
       },
       {
+         "description" : "In 2024, the International Chess Federation (FIDE) will celebrate its centenary. As part of the celebrations throughout the year 2024, FIDE is planning numerous activities, including chess festivals, exhibitions displaying historical archives, documents and chess memorabilia. Organizers and federations are encouraged to plan their regular and special events using the hashtag #FIDE100.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-prepares-celebration-centenary",
+         "pubDate" : "Tue, 26 Sep 2023 23:55:00",
+         "title" : "FIDE prepares to celebrate its centenary in 2024"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Tue, 26 Sep 2023 23:55:00",
+         "pubDate" : "Tue, 26 Sep 2023 23:50:00",
          "title" : "World Junior Championships - Round 6 Live!"
       },
       {
@@ -34,28 +50,20 @@ news_feed (
          "title" : "FIDE World Senior Team Championship: Day 7 recap"
       },
       {
-         "description" : "GMs Magnus Carlsen&#38;nbsp;and&#38;nbsp;Maxime Vachier-Lagrave are the last two players standing in Winners Bracket of the 2023 AI Cup. With blazing attacking play in the final game, GM Ian Nepomniachtchi came within inches of forcing a playoff vs. Car...",
+         "description" : "GMs Magnus Carlsen&#38;nbsp;and&#38;nbsp;Maxime Vachier-Lagrave are the last two players standing in the Winners Bracket of the 2023 AI Cup. With blazing attacking play in the final game, GM Ian Nepomniachtchi came within inches of forcing a playoff vs....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-2",
-         "pubDate" : "Tue, 26 Sep 2023 19:31:26",
-         "title" : "From Missing Mate to Swindling Stalemate: Carlsen Thwarts Challenger"
+         "pubDate" : "Tue, 26 Sep 2023 19:31:00",
+         "title" : "From Missing Mate To Swindling Stalemate, Carlsen Thwarts Challenger"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire., using the Benoni and Old Benoni. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-learn-new-chess-opening-beginner-breakdown",
          "pubDate" : "Tue, 26 Sep 2023 18:53:02",
          "title" : "How to Learn a New Chess Opening | Beginner Breakdown"
-      },
-      {
-         "description" : "In 2024, the International Chess Federation (FIDE) will celebrate its centenary. As part of the celebrations throughout the year 2024, FIDE is planning numerous activities, including chess festivals, exhibitions displaying historical archives, documents and chess memorabilia. Organizers and federations are encouraged to plan their regular and special events using the hashtag #FIDE100.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-prepares-celebration-centenary",
-         "pubDate" : "Tue, 26 Sep 2023 18:15:00",
-         "title" : "FIDE prepares to celebrate its centenary in 2024"
       },
       {
          "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "FIDE ARBITER SEMINARS"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. 2023.09.26<br /> Wim Maes vs. Victor Mikhalevski, 1998<br /> <a href=\"https://2700chess.com/games/maes-mikhalevski-r3-vlissingen-1998-07-13\">https://2700chess.com/games/maes-mikhalevski-r3-vlissingen-1998-07-13</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-fiel",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski",
@@ -552,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-1",
          "pubDate" : "Fri, 22 Sep 2023 13:06:00",
          "title" : "Undefeated Aronian Grabs Early Lead As Levitov Chess Week Returns To Amsterdam"
-      },
-      {
-         "description" : "Nymphenburg Palace was the venue of an international rapid xiangqi tournament on September 9. As part of the festive event, Xiangqi Grandmaster Sun Yongzheng gave a simultaneous exhibition against ten opponents. Oliver Breitsch&auml;del reports. | Pictured: Andrea Trombettoni, with his daughter Giulia, observed by Xiangqi Master Dong Xubin. Andrea Trombettoni is a physics professor and travelled from Italy with his daughter especially for this event. | Photos: Oliver Breitsch&auml;del",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/xiangqi-tournament-munich-2023",
-         "pubDate" : "Fri, 22 Sep 2023 13:05:00",
-         "title" : "Xiangqi tournament at the Nymphenburg Palace in Munich"
       },
       {
          "description" : "Bangalore SNA 26-27 August Category C and D certificates Link : https://aicf.online/Bangalore-NA.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -1376,14 +1376,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2023-opened-in-mamaia-romania/",
          "pubDate" : "Wed, 06 Sep 2023 08:26:31",
          "title" : "European Youth Chess Championship 2023 opened in Mamaia, Romania"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103416307.cms\" />Viswanathan Anand, the five-time World champion, is enjoying his new roles as a mentor and administrator in the chess world. He is happy to see India being well represented in tournaments and the game growing. Anand is impressed with the crop of young Indian players making their mark, but believes they still have a long way to go. He emphasizes the importance of consistency and raising one's level to succeed at the highest stage. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-hopes-for-consistent-show-from-youngsters/articleshow/103416307.cms",
-         "pubDate" : "Wed, 06 Sep 2023 04:35:25 +0000",
-         "title" : "Anand hopes for consistent show from youngsters"
       }
    ]
 }
