@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Maxime Vachier-Lagrave proved to be a worthy opponent for Magnus Carlsen in the final of the AI Cup winners' bracket. In the end, however, the Norwegian prevailed in Armageddon. In the losers' bracket, Ian Nepomniachtchi defeated Alireza Firouzja, while Anish Giri got the better of Shakhriyar Mamedyarov.",
+         "description" : "ChessBase 17 offers a unique variety of functions for players and coaches. For beginners this complexity is challenging - even though every function is described in the manual (printed 500 pages). For this reason, Walter Saumweber, author of many Microsoft topics, has written a book about ChessBase 17 in which he deliberately concentrates on those topics that are particularly useful or require explanation. Beginners are thus guaranteed a quick start. Advanced users benefit from the detailed explanations of selected areas. This great manual is published in ChessBase's all-new web-based eBook format!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-d3",
-         "pubDate" : "Thu, 28 Sep 2023 12:30:00",
-         "title" : "AI Cup: Carlsen beats MVL, reaches Grand Final"
+         "link" : "https://en.chessbase.com/post/chessbase-17-tips-and-tricks-quick-start",
+         "pubDate" : "Thu, 28 Sep 2023 20:00:00",
+         "title" : "ChessBase 17 - Tips & Tricks: For a quick start in the program"
+      },
+      {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Thu, 28 Sep 2023 17:50:00",
+         "title" : "AI Cup - Live!"
+      },
+      {
+         "description" : "In the seventh round of the World Junior Championship, decisive results were seen on the top three boards, with Marc'Andria Maurizzi, Gleb Dudin (pictured) and Santiago Avila winning to enter the next round as co-leaders. Carissa Yip, in the meantime, is now the sole leader in the women's section. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-r7",
+         "pubDate" : "Thu, 28 Sep 2023 17:40:00",
+         "title" : "World Junior Ch: Maurizzi, Dudin and Avila in the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2659",
+         "pubDate" : "Thu, 28 Sep 2023 16:54:22 +0000",
+         "title" : "FIDE Trainers' Online Seminar scheduled for mid-October 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. 2023.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q5fS1ZU4IcA.jpg?itok=T9bN7Zud\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski",
+         "pubDate" : "Thu, 28 Sep 2023 15:54:56",
+         "title" : "The Opening Chess Prep! | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
          "description" : "",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-chess-championship-certificates/",
          "pubDate" : "Thu, 28 Sep 2023 10:54:31",
          "title" : "36th National Chess Championship certificates"
-      },
-      {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Thu, 28 Sep 2023 09:50:00",
-         "title" : "AI Cup - Live!"
       },
       {
          "description" : "36th National Under-7 Chess Championship, 2023, was held from 21st September to 25th September 2023, at Hotel Stadel, Salt Lake Stadium, Kolkata. The event was",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wieza-pomot-pegow-win-polish-teams-2023",
          "pubDate" : "Thu, 28 Sep 2023 00:15:00",
          "title" : "Wieza Pomot Pegow win first-ever Polish Team Championship"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave proved to be a worthy opponent for Magnus Carlsen in the final of the AI Cup winners' bracket. In the end, however, the Norwegian prevailed in Armageddon. In the losers' bracket, Ian Nepomniachtchi defeated Alireza Firouzja, while Anish Giri got the better of Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-d3",
+         "pubDate" : "Thu, 28 Sep 2023 00:10:00",
+         "title" : "AI Cup: Carlsen beats MVL, reaches Grand Final"
       },
       {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Nihal Sets Record With 56-Game Unbeaten Run"
       },
       {
-         "description" : "In his Game of the Week show #586, Merijn Van Delft looks at a nice win obtained by Liam Vrolijk in the first round of the Dutch League. The game featured remarkable piece play by the young grandmaster. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-586-vrolijk-swinkels",
-         "pubDate" : "Sat, 23 Sep 2023 15:30:00",
-         "title" : "Game of the Week #586: Vrolijk vs. Swinkels"
-      },
-      {
          "description" : "GMs Ian Nepomniachtchi and Peter Svidler are the new leaders at Levitov Chess Week after nine rounds. The two Russian grandmasters are tied with six points, half a point more than GMs Viswanathan Anand and&#38;nbsp;GM Levon Aronian. The tournament wil...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -568,14 +592,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-rite-of-chess/",
          "pubDate" : "Sat, 23 Sep 2023 11:15:08",
          "title" : "The Rite of Chess"
-      },
-      {
-         "description" : "In the diagram position, Black's bishop c6 is eyeing the point g2 on the long diagonal. But to exploit this requires skilful preparation - so it's a case for you!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ready-for-action",
-         "pubDate" : "Sat, 23 Sep 2023 09:00:00",
-         "title" : "Ready for action"
       },
       {
          "description" : "The recent performances of D Gukesh, R Praggnanandhaa, Koneru Humpy, Harika Dronavalli et al have raised Indian medal hopes as chess returns to Asian Games.",
@@ -1392,22 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2622",
          "pubDate" : "Thu, 07 Sep 2023 22:21:17 +0000",
          "title" : "FIDE WWTC 2023: Kazakhstan, Georgia, USA and Poland secure their place in quarterfinals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103479311.cms\" />India's chess sensation R Praggnanandhaa finished third but former World Blitz champion Maxime Vachier-Lagrave continued his dominance with two more wins to claim the 'Tata Steel Chess India 2023' rapid title, here on Thursday. The Frenchman, who was on his maiden visit to India, finished on top with seven points, way ahead of Azerbaijan's 2019 World Cup winner Teimour Radjabov (5.5).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/maxime-vachier-lagrave-emerges-rapid-champion-r-praggnanandhaa-ends-joint-third-in-tata-steel-chess-india/articleshow/103479311.cms",
-         "pubDate" : "Thu, 07 Sep 2023 16:01:26 +0000",
-         "title" : "Maxime emerges rapid champion; Pragg ends joint third in Tata Steel Chess"
-      },
-      {
-         "description" : "Chess in Schools &#38; Communities is excited to announce a series of junior rapidplay tournaments with free entry, open to all aged under 18, with...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/csc-junior-rapidplay-tournaments/",
-         "pubDate" : "Thu, 07 Sep 2023 15:58:37",
-         "title" : "CSC Junior Rapidplay Tournaments"
       }
    ]
 }
