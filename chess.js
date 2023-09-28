@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fresh from a rest day, Indian boys almost had a perfect day at the board. GM Pranav Anand converted a slightly advantageous opening to a",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2023-round-6-report/",
+         "pubDate" : "Thu, 28 Sep 2023 07:25:45",
+         "title" : "World Junior Chess Championship 2023: Round 6 Report"
+      },
+      {
          "description" : "For the first time in its history, Wieza Pomot Pegow managed to win the Polish Team Championship. The event was held as a 10-team round-robin tournament in Lublin. Almost all German national players were successfully involved in various teams. Votum SA Polonia Wrocław and KSz Hetman Płock finished in clear second and third place, respectively. | Photo: Andrei Volokitin (X)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2657",
          "pubDate" : "Wed, 27 Sep 2023 22:15:03 +0000",
          "title" : "FIDE World Senior Team Championship: Day 8 recap"
+      },
+      {
+         "description" : "&#34;This is the sort of thing that happens when you play Sicilians in every game,&#34; said GM Magnus Carlsen after four fighting Sicilians left his 2023 AI Cup Winners Final against GM Maxime Vachier-Lagrave level at 2-2. The world number-one clinched t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-3",
+         "pubDate" : "Wed, 27 Sep 2023 20:56:00",
+         "title" : "Carlsen Beats MVL In Armageddon After 'Great Day Of Chess'"
       },
       {
          "description" : "",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "ECF Membership System: Options for Change - update"
       },
       {
-         "description" : "The 36th NATIONAL UNDER-7 OPEN &#38; GIRLSCHESS CHAMPIONSHIPS-2023 organized by Sara Bangla Daba Sangstha under the aegis of All India Chess Federation held at The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/36th-national-under-7-open-girlschess-championships-2023/",
-         "pubDate" : "Fri, 22 Sep 2023 08:47:43",
-         "title" : "36th NATIONAL UNDER-7 OPEN & GIRLS CHESS CHAMPIONSHIPS-2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2632",
          "pubDate" : "Wed, 13 Sep 2023 09:53:12 +0000",
          "title" : "FIDE World Amateur Championship 2023: Registration deadline extended"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi&#38;nbsp;returned to Titled Tuesday on September 12 and won it for the first time in 17 months, taking the early tournament on tiebreaks with 9.5 points. GM Dmitry Andreikin, who has won more Titled Tuesdays in the last three yea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-andreikin-win-titled-tuesday-september-12-2023",
-         "pubDate" : "Wed, 13 Sep 2023 08:39:26",
-         "title" : "World Championship Challenger Reclaims Titled Tuesday"
       },
       {
          "description" : "The ECU Magazine August 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine August 2023 can be read online together with interactive links here, or it can be downloaded in PDF format down below.",
