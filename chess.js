@@ -122,6 +122,14 @@ news_feed (
          "title" : "The ten threat rule?"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2655",
+         "pubDate" : "Wed, 27 Sep 2023 11:46:58 +0000",
+         "title" : "The Isle of Man's Grand Chess Spectacle"
+      },
+      {
          "description" : "Jeremy Silman (1954-2023) got hooked on chess after the Bobby Fischer boom, discovered his writing talent, and went on to get paid handsomely for chess lessons. Last Thursday, the Californian bestselling author died after a long illness. Stefan L&ouml;ffler sent us an obituary. | Photos: JeremySilman.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/csc-junior-rapidplay-tournaments/",
          "pubDate" : "Thu, 07 Sep 2023 15:58:37",
          "title" : "CSC Junior Rapidplay Tournaments"
-      },
-      {
-         "description" : " For some strange reason, I had not one, but two beginners ask me if pawns could move 1 square forward and then take diagonally on the same move (basically a knight move). Of course I said no, but it did get me thinking. If a pawn can move 2 squares forward on the first move, why can't it take by moving 2 squares diagonally on the first move. 'Because' is probably the best answer, although it may make the game a little different if it could. I assume that such a variant does already exists, although the closest I could find was Berolina Chess, which isn't the same thing. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/an-outbreak-of-knight-moving-pawns.html",
-         "pubDate" : "Thu, 07 Sep 2023 14:01:00",
-         "title" : "An outbreak of knight moving pawns"
       }
    ]
 }
