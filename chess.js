@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave proved to be a worthy opponent for Magnus Carlsen in the final of the AI Cup winners' bracket. In the end, however, the Norwegian prevailed in Armageddon. In the losers' bracket, Ian Nepomniachtchi defeated Alireza Firouzja, while Anish Giri got the better of Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-d3",
+         "pubDate" : "Thu, 28 Sep 2023 12:30:00",
+         "title" : "AI Cup: Carlsen beats MVL, reaches Grand Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2658",
+         "pubDate" : "Thu, 28 Sep 2023 10:56:23 +0000",
+         "title" : "Asian Games: Wei Yi and Zhu Jiner win individual titles"
+      },
+      {
+         "description" : "36th National Chess Championship 2023, Certificates, 21-25 September 2023 U-07 Open : https://aicf.online/36th_National-U7-Open.html U-07 Girls : https://aicf.online/36th_National-U7-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/36th-national-chess-championship-certificates/",
+         "pubDate" : "Thu, 28 Sep 2023 10:54:31",
+         "title" : "36th National Chess Championship certificates"
+      },
+      {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Thu, 28 Sep 2023 09:50:00",
+         "title" : "AI Cup - Live!"
+      },
+      {
+         "description" : "36th National Under-7 Chess Championship, 2023, was held from 21st September to 25th September 2023, at Hotel Stadel, Salt Lake Stadium, Kolkata. The event was",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mani-sarbartho-of-wb-narayani-umesh-marathe-of-mah-wins-national-under-7-national-under-7-girls-chess-championship-2023/",
+         "pubDate" : "Thu, 28 Sep 2023 08:42:00",
+         "title" : "Mani Sarbartho of WB & Narayani Umesh Marathe of MAH Wins National Under-7 & National Under-7 Girls Chess Championship 2023"
+      },
+      {
          "description" : "Fresh from a rest day, Indian boys almost had a perfect day at the board. GM Pranav Anand converted a slightly advantageous opening to a",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jeremy-silman-1954-2023",
          "pubDate" : "Wed, 27 Sep 2023 10:00:00",
          "title" : "Jeremy Silman (1954-2023)"
-      },
-      {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Wed, 27 Sep 2023 09:50:00",
-         "title" : "AI Cup - Live!"
       },
       {
          "description" : "It seems like no one can beat GM Magnus Carlsen these days. In just the last five weeks, he&#39;s won the World Cup, the Julius Baer Generations Cup, and the Speed Chess Championship. After advancing in the AI Cup earlier in the day on September 26, h...",
@@ -538,22 +570,6 @@ news_feed (
          "title" : "Ready for action"
       },
       {
-         "description" : "The World Junior Chess Championship commenced in Mexico City, Mexico on the 21st of September. 7 players are representing India in the Girls and Open",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/strong-start-for-india-at-the-world-junior-chess-championship-2023-in-mexico/",
-         "pubDate" : "Sat, 23 Sep 2023 06:24:12",
-         "title" : "STRONG START FOR INDIA AT THE WORLD JUNIOR CHESS CHAMPIONSHIP 2023 IN MEXICO"
-      },
-      {
-         "description" : "An exciting first day of action saw Levon Aronian grabbing the lead at the Levitov Chess Week rapid tournament in Amsterdam. Aronian collected three wins and two draws to end the day as the only player with a 4/5 score. Vishy Anand, who obtained a good-looking victory over an out-of-form Wesley So, stands in sole second place, a half point behind the leader. | Photo: Levitov Chess webcast",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d1",
-         "pubDate" : "Sat, 23 Sep 2023 03:45:00",
-         "title" : "Levitov Chess Week: Aronian takes the lead"
-      },
-      {
          "description" : "The recent performances of D Gukesh, R Praggnanandhaa, Koneru Humpy, Harika Dronavalli et al have raised Indian medal hopes as chess returns to Asian Games.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-1",
          "pubDate" : "Fri, 22 Sep 2023 13:06:00",
          "title" : "Undefeated Aronian Grabs Early Lead As Levitov Chess Week Returns To Amsterdam"
-      },
-      {
-         "description" : "Bangalore SNA 26-27 August Category C and D certificates Link : https://aicf.online/Bangalore-NA.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/bangalore-sna-category-cd-certificates/",
-         "pubDate" : "Fri, 22 Sep 2023 11:40:10",
-         "title" : "Bangalore SNA Category C&D certificates"
       },
       {
          "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
