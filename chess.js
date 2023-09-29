@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King examines games from the World Under 20 Championship taking place in Mexico City. All of these games feature checkmating attacks - some were found, some were missed! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-checkmates-world-u20",
+         "pubDate" : "Fri, 29 Sep 2023 18:15:00",
+         "title" : "Daniel King's Power Play Show: Checkmating attacks from Mexico"
+      },
+      {
+         "description" : "The 2023 European Club Cup will be held at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen will play for Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on top boards. Over 80 teams have registered to participate in the open, while the women's cup counts with 25 teams so far.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-preview",
+         "pubDate" : "Fri, 29 Sep 2023 18:00:00",
+         "title" : "Carlsen and Anand to play in European Club Cup"
+      },
+      {
+         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
+         "pubDate" : "Fri, 29 Sep 2023 17:50:00",
+         "title" : "AI Cup - Grand Final Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2662",
+         "pubDate" : "Fri, 29 Sep 2023 16:10:39 +0000",
+         "title" : "World Junior Championship: No changes at the top after drawish Round 8"
+      },
+      {
          "description" : " The 2023 ACT Junior Championship finished with a win by Dev Raichura, who scored an impressive 7/8. He only lost to last years champion Phong Huynh, but won all his other games. Olamide Fasakin was 2nd, with Masaki Horikwa winning the third place trophy on countback. Although a number of older juniors skipped the event, it was still an impressive win for Raichura. The other significant thing about his win, is at the age of 8 years old, I am almost certain he would be the youngest winner of the ACT Junior Championship. He has also scored a number of wins over strong Canberra players in club events, so I expect his rating to jump up in the near future. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -58,14 +90,6 @@ news_feed (
          "title" : "World Junior 2023 :Round 7"
       },
       {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Thu, 28 Sep 2023 23:50:00",
-         "title" : "World Junior Championships - Round 8 Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-17-tips-and-tricks-quick-start",
          "pubDate" : "Thu, 28 Sep 2023 20:00:00",
          "title" : "ChessBase 17 - Tips & Tricks: For a quick start in the program"
-      },
-      {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Thu, 28 Sep 2023 17:50:00",
-         "title" : "AI Cup - Live!"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave was again in sparkling form as he defeated GM Ian Nepomniachtchi 2-0 to earn another shot at GM Magnus Carlsen in Friday&#39;s 2023 AI Cup Grand Final. Nepomniachtchi had earlier knocked out GM Anish Giri 1.5-0.5. GM Vladim...",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2023-preview",
          "pubDate" : "Sun, 24 Sep 2023 08:00:00",
          "title" : "America's top chess players return to St. Louis for 2023 U.S. Championships"
-      },
-      {
-         "description" : "An inspired Ian Nepomniachtchi and a fighting Peter Svidler climbed to shared first place in the standings of the Levitov Chess Week rapid tournament. Levon Aronian, who had finished day 1 as the sole leader, is now sharing third place with Vishy Anand, as the second half of the double round-robin remains to be played in Amsterdam. The players will return to the boards on Monday, after a rest day. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d2",
-         "pubDate" : "Sun, 24 Sep 2023 06:00:00",
-         "title" : "Levitov Chess Week: Nepo and Svidler share the lead at halftime"
       },
       {
          "description" : " One month ago, African Chess was on display. Twenty-two of Africa's finest chess players (17 Open and 5 Women) participated in the World Cup tournament in Baku, Azerbaijan. Magnus Carlsen scored a historic victory winning the final over phenom Rameshbabu Praggnanandhaa. The results of the tournament clearly showed that a generation is set to take The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/\">After World Cup, Where is African Chess?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1392,22 +1400,6 @@ news_feed (
          "link" : "https://www.thearticle.com/praggmatic-sanction-the-ascent-of-an-indian-chess-prodigy/",
          "pubDate" : "Sat, 09 Sep 2023 09:52:05",
          "title" : "Praggmatic Sanction: the ascent of an Indian chess prodigy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2624",
-         "pubDate" : "Fri, 08 Sep 2023 19:13:51 +0000",
-         "title" : "WWTC 2023: A big upset for India, a huge miracle for Germany"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103517149.cms\" />Indian Grandmaster R Praggnanandhaa won five consecutive matches in the 'Tata Steel Chess India Blitz 2023', securing a commanding lead of 6.5 points. This impressive performance followed his joint third-place finish in the 'Tata Steel Chess India Rapid 2023'. However, his winning streak was temporarily halted by Russian Grandmaster Alexander Grischuk, who secured a draw in the sixth round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-blitz-praggnanandhaa-scores-five-successive-wins-to-lead-with-6-5-points/articleshow/103517149.cms",
-         "pubDate" : "Fri, 08 Sep 2023 16:21:06 +0000",
-         "title" : "Praggnanandhaa scores five successive wins to lead with 6.5 points"
       }
    ]
 }
