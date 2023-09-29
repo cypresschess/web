@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Drama and excitement dominated the final round of the World Senior Team Championship. In the end, the United States (pictured), England and Iceland reached the podium in the S50 section, while Germany Lasker Schachstiftung GK, England and Slovakia finished in the top three spots in the S65 category. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r9",
+         "pubDate" : "Fri, 29 Sep 2023 11:00:00",
+         "title" : "World Senior Team Ch: USA and Germany Lasker GK grab gold medals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/wstcc-reports-from-nigel-povah/#new_tab",
+         "pubDate" : "Fri, 29 Sep 2023 08:05:38",
+         "title" : "WSTCC reports from Nigel Povah - incl. final round and results!"
+      },
+      {
          "description" : " A top player for a quarter of a century and a national hero immortalised on coins, the fates denied him a world title match Paul Keres (1916-1975) was one of the greatest players never to become world champion. It was not through want of trying. For a full quarter of a century, starting from his victory at Avro 1938, one of the all-time premier tournaments in chess history, right up to Curaçao 1962, where he missed first place and a world title challenge by a hair's breadth, Keres was a leading contender. Keres became a national hero for Estonians, who believed that Soviet officials had coerced him into playing badly against the favoured Russian, Mikhail Botvinnik, in the 1948 world champi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship: Day 5 recap "
       },
       {
-         "description" : "In what turned out to be an extremely close fight for first place, DuoBeniaj&aacute;n emerged victorious at the Spanish League in Linares. C.A. Silla obtained the same number of match points and individual points as the champions, but had a worse tiebreak score - i.e. they had lost the direct confrontation against the team from Murcia. C.A. Solvay, the defending champions, finished in clear third place. | Photos: FEDA",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spanish-league-2023-r7",
-         "pubDate" : "Sat, 23 Sep 2023 19:00:00",
-         "title" : "DuoBeniaj&aacute;n edge Silla to win Spanish League"
-      },
-      {
          "description" : "GM Nihal Sarin soared to dizzying heights and amassed a total score of 294 in September&#39;s fourth Bullet Brawl. Thanks to 78 wins, six draws, and just three losses during the two-hour arena, Nihal finished ahead of 10-time victor GM Hikaru Nakamura...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
          "pubDate" : "Fri, 22 Sep 2023 09:00:16",
          "title" : "ECF Membership System: Options for Change - update"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/wstcc-reports-from-nigel-povah/#new_tab",
-         "pubDate" : "Fri, 22 Sep 2023 08:05:38",
-         "title" : "WSTCC reports from Nigel Povah"
       },
       {
          "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
