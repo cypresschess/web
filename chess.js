@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Fri, 29 Sep 2023 23:50:00",
+         "title" : "World Junior Championships - Round 9 Live!"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King examines games from the World Under 20 Championship taking place in Mexico City. All of these games feature checkmating attacks - some were found, some were missed! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,22 @@ news_feed (
          "title" : "World Junior Championship: No changes at the top after drawish Round 8"
       },
       {
+         "description" : "Chess.com is excited to announce our 2024 events calendar! 2023 has been a year full of groundbreaking formats and marquee tournaments. Recently, the 2023 Speed Chess Championship once again brought together GMs Magnus Carlsen and Hikaru Nakamur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-events-calendar",
+         "pubDate" : "Fri, 29 Sep 2023 14:19:00",
+         "title" : "Announcing The 2024 Chess Events Calendar"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave has pulled off the mission impossible of beating world number-one Magnus Carlsen in not one, but two matches, to win the 2023 AI Cup and qualify for the Champions Chess Tour Finals in Toronto. &#34;Maxime was strong and I fai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-5",
+         "pubDate" : "Fri, 29 Sep 2023 13:49:00",
+         "title" : "Vachier-Lagrave Beats Carlsen Twice To Win AI Cup, Qualify For Toronto"
+      },
+      {
          "description" : " The 2023 ACT Junior Championship finished with a win by Dev Raichura, who scored an impressive 7/8. He only lost to last years champion Phong Huynh, but won all his other games. Olamide Fasakin was 2nd, with Masaki Horikwa winning the third place trophy on countback. Although a number of older juniors skipped the event, it was still an impressive win for Raichura. The other significant thing about his win, is at the age of 8 years old, I am almost certain he would be the youngest winner of the ACT Junior Championship. He has also scored a number of wins over strong Canberra players in club events, so I expect his rating to jump up in the near future. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r9",
          "pubDate" : "Fri, 29 Sep 2023 11:00:00",
          "title" : "World Senior Team Ch: USA and Germany Lasker GK grab gold medals"
+      },
+      {
+         "description" : " The AI Cup took place Mon 25th to Fri 29th Sep 2023. This was the final event of the online Champions Chess Tour before the finals in person in Toronto December 9 to December 16, 2023 (Carlsen, Nakamura and Abdusattorov have made it and Caruana seems a likely fourth player of the 8 player field). Division 1 of the AI Cup has 8 players: Magnus Carlsen, Alireza Firouzja, Denis Lazavik, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura and Anish Giri. MVL beat Carlsen twice on the final day to win Division 1. Vladimir Fedoseev won Division 2 and Sam Sevian Division 3. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ai-cup-2023",
+         "pubDate" : "Fri, 29 Sep 2023 10:38:00",
+         "title" : "AI Cup 2023 - Games and Results"
       },
       {
          "description" : "",
@@ -458,14 +490,6 @@ news_feed (
          "title" : "Maurizzi, Rakshitta and Yip lead FIDE World Junior Championship 2023"
       },
       {
-         "description" : " The AI Cup takes place Mon 25th to Fri 29th Sep 2023. This is the final event of the online Champions Chess Tour before the finals in person in Toronto December 9 to December 16, 2023 (Carlsen, Nakamura and Abdusattorov have made it and Caruana seems a likely fourth player of the 8 player field). Division 1 of the AI Cup has 8 players: Magnus Carlsen, Alireza Firouzja, Denis Lazavik, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura and Anish Giri. There is also Divisions 2 with Caruana, Fedoseev, Duda, Artemiev and Dominguez as the leading players, Division 3 has Radjabov and Kramnik amongst others.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ai-cup-2023",
-         "pubDate" : "Mon, 25 Sep 2023 10:38:00",
-         "title" : "AI Cup 2023 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://chessimprover.com/classic-confusion/",
          "pubDate" : "Sun, 24 Sep 2023 09:00:03",
          "title" : "Classic Confusion"
-      },
-      {
-         "description" : "The nation's top chess players are set to compete in the U.S'. most prestigious events - the 2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship. Hosted by the Saint Louis Chess Club (STLCC) at the World Chess Hall of Fame, two fields of 12 players will face off over the board October 5 - October 18, 2023 as they compete for a total purse of more than $400,000. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-preview",
-         "pubDate" : "Sun, 24 Sep 2023 08:00:00",
-         "title" : "America's top chess players return to St. Louis for 2023 U.S. Championships"
       },
       {
          "description" : " One month ago, African Chess was on display. Twenty-two of Africa's finest chess players (17 Open and 5 Women) participated in the World Cup tournament in Baku, Azerbaijan. Magnus Carlsen scored a historic victory winning the final over phenom Rameshbabu Praggnanandhaa. The results of the tournament clearly showed that a generation is set to take The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/\">After World Cup, Where is African Chess?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1138,14 +1154,6 @@ news_feed (
          "title" : "Opening Preparation | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
-         "description" : "GM Hikaru Nakamura moves on to the Semifinals, while GM Ian Nepomniachtchi is through to the Quarterfinals of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. Nakamura defeated GM Fabiano Caruana by a 10-point margin, 18.5-8.5,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-r16-qr-nepomniachtchi-erigaisi-nakamura-caruana",
-         "pubDate" : "Thu, 14 Sep 2023 17:55:00",
-         "title" : "Nakamura Wins With 1.Nh3, Nepomniachtchi Will Play Carlsen"
-      },
-      {
          "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-amateur-championship-2023-registration-deadline-extended/",
          "pubDate" : "Thu, 14 Sep 2023 08:49:33",
          "title" : "FIDE World Amateur Championship 2023 - registration deadline extended"
-      },
-      {
-         "description" : "With student chess players across the world gearing up for the Fall 2023 season of Chess.com&#39;s exciting Collegiate Chess League, Chess.com is pleased to announce the competition just got even more special. The premier online chess competition fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ccl-sig-presenting-sponsor",
-         "pubDate" : "Thu, 14 Sep 2023 07:53:45",
-         "title" : "Major Boost For Collegiate Chess League As SIG Signs For New Season"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 12, 2023</strong> - GM Sam Sevian won the <a href=\"https://www.uschesschamps.com/2023-champions-showdown-chess-9lx/overview\" target=\"_blank\">2023 Champions Showdown: Chess 9LX</a> after a brilliant final day, where he defeated a competitive field including legendary former World Champion Garry Kasparov and World No. 2 Fabiano Caruana to take home the $37,500 first place prize. Chess 9LX was hosted by the Saint Louis Chess Club at the World Chess Hall of Fame September 8-11, 2023. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Sam Sevian wins 2023 Chess 9LX</div><",
