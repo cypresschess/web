@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 ACT Junior Championship finished with a win by Dev Raichura, who scored an impressive 7/8. He only lost to last years champion Phong Huynh, but won all his other games. Olamide Fasakin was 2nd, with Masaki Horikwa winning the third place trophy on countback. Although a number of older juniors skipped the event, it was still an impressive win for Raichura. The other significant thing about his win, is at the age of 8 years old, I am almost certain he would be the youngest winner of the ACT Junior Championship. He has also scored a number of wins over strong Canberra players in club events, so I expect his rating to jump up in the near future. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/09/act-junior-championship.html",
+         "pubDate" : "Fri, 29 Sep 2023 13:39:00",
+         "title" : "ACT Junior Championship"
+      },
+      {
+         "description" : "Today, I'm going to teach you how to become more self-confident when playing Chess. Good self-confidence can do wonders for your chess performance. Instead of going in circles, doubting your skills, you will calculate lines one time and then trust yourself and go with the move that seems...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/the-three-ways-to-build-self-confidence/",
+         "pubDate" : "Fri, 29 Sep 2023 13:08:42",
+         "title" : "The Three Ways To Build Self Confidence"
+      },
+      {
          "description" : "Drama and excitement dominated the final round of the World Senior Team Championship. In the end, the United States (pictured), England and Iceland reached the podium in the S50 section, while Germany Lasker Schachstiftung GK, England and Slovakia finished in the top three spots in the S65 category. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1392,22 +1408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-india-blitz-praggnanandhaa-scores-five-successive-wins-to-lead-with-6-5-points/articleshow/103517149.cms",
          "pubDate" : "Fri, 08 Sep 2023 16:21:06 +0000",
          "title" : "Praggnanandhaa scores five successive wins to lead with 6.5 points"
-      },
-      {
-         "description" : "Last Friday's post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> (September 2023), established a plan:- <BLOCKQUOTE> Google's permanent page on the subject [...] sets a deadline: 'Beginning January 16, 2024, publishers and developers using Google AdSense, Ad Manager, or AdMob will be required to use a Consent Management Platform (CMP) [...]'. The page contains a list of 'Google-certified CMPs' that currently has 50 names with a link for each name. Only one of the 50 names was even vaguely familiar to me, 'Google consent management solutions', so no prize for guessing which one I chose to investigate further. [...] That leads to the next ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html",
-         "pubDate" : "Fri, 08 Sep 2023 15:01:00",
-         "title" : "Adsense and CFAA's CMP"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7cxomEZF5OqDQ9POJBOMl8RRf3puPfNklN1uPxSRMqyiDhg-hslIH7A0PamEV46UZmXgbMsggLBh7wjGWlXXyZZslPXJ6Dh5l0UukurwTPiM8_u8pIImeUiDxLJivYKvludYUd3eFw-ZeEnmDEocTbeePQt3BeOAKhebXVHf4rOJP5vpu6w3KjOipDg/s580/m_611d6996ff7c5a200f1f6002.jpeg\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"580\" data-original-width=\"580\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7cxomEZF5OqDQ9POJBOMl8RRf3puPfNklN1uPxSRMqyiDhg-hslIH7A0PamEV46UZmXgbMsggLBh7wjGWlXXyZZslPXJ6Dh5l0Uuk",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/championship-chessmate.html",
-         "pubDate" : "Fri, 08 Sep 2023 13:56:00",
-         "title" : "Championship Chessmate"
       }
    ]
 }
