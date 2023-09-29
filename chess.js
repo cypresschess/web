@@ -42,6 +42,14 @@ news_feed (
          "title" : "AI Cup - Live!"
       },
       {
+         "description" : "GM Maxime Vachier-Lagrave was again in sparkling form as he defeated GM Ian Nepomniachtchi 2-0 to earn another shot at GM Magnus Carlsen in Friday&#39;s 2023 AI Cup Grand Final. Nepomniachtchi had earlier knocked out GM Anish Giri 1.5-0.5. GM Vladim...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-4",
+         "pubDate" : "Thu, 28 Sep 2023 17:48:00",
+         "title" : "Vachier-Lagrave Beats Nepomniachtchi To Set Up Rematch With Carlsen"
+      },
+      {
          "description" : "In the seventh round of the World Junior Championship, decisive results were seen on the top three boards, with Marc'Andria Maurizzi, Gleb Dudin (pictured) and Santiago Avila winning to enter the next round as co-leaders. Carissa Yip, in the meantime, is now the sole leader in the women's section. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "World Junior Ch: Maurizzi, Dudin and Avila in the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. 2023.09.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q5fS1ZU4IcA.jpg?itok=T9bN7Zud\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. 2023.09.28<br /> Victor Mikhalevski vs Alexander Rabinovich, Lost Boys Open (1999): D11 Queen&#039;s Gambit Declined Slav, 3.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1539065\">https://www.chessgames.com/perl/chessgame?gid=1539065</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouisches",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski",
@@ -1162,14 +1170,6 @@ news_feed (
          "title" : "Grandmaster Sam Sevian Delivers Brilliant Performance to Win 2023 Champions Showdown: Chess 9LX "
       },
       {
-         "description" : "In the longest SCC match so far this year, taking over four hours and totaling 32 games, GM Wesley So emerged victorious. He defeated GM Alireza Firouzja and is the first player to reach the Semifinals of the 2023 Chess.com Speed Chess Championshi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-so-firouzja",
-         "pubDate" : "Wed, 13 Sep 2023 15:35:00",
-         "title" : "Wesley So Triumphs In Armageddon, Wins Season's Longest Match"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-hopes-to-be-world-chess-champion-one-day/articleshow/103494102.cms",
          "pubDate" : "Fri, 08 Sep 2023 05:41:50 +0000",
          "title" : "Gukesh hopes to be world chess champion one day"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2623",
-         "pubDate" : "Fri, 08 Sep 2023 00:27:52 +0000",
-         "title" : "Cape Verde Women's Championship: C&eacute;lia Rodriguez retains title"
       }
    ]
 }
