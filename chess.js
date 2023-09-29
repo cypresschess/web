@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A top player for a quarter of a century and a national hero immortalised on coins, the fates denied him a world title match Paul Keres (1916-1975) was one of the greatest players never to become world champion. It was not through want of trying. For a full quarter of a century, starting from his victory at Avro 1938, one of the all-time premier tournaments in chess history, right up to Curaçao 1962, where he missed first place and a world title challenge by a hair's breadth, Keres was a leading contender. Keres became a national hero for Estonians, who believed that Soviet officials had coerced him into playing badly against the favoured Russian, Mikhail Botvinnik, in the 1948 world champi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/sep/29/paul-keres-estonia-one-of-best-to-never-hold-chess-world-crown",
+         "pubDate" : "Fri, 29 Sep 2023 07:00:38",
+         "title" : "Pride of Estonia: Paul Keres, one of the best to never hold chess world crown"
+      },
+      {
+         "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women kick off on Sunday, 1st of October in Durres, Albania. The event broke the participation record with 110 teams coming from 34 European federations. 84 teams will compete in the Open section, and 26 teams take part in the Women's competition. A total of 720 players including 150 grandmasters and more than 400 titled players will represent their clubs. The events will be []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-womens-chess-club-cups-2023-start-in-durres-albania/",
+         "pubDate" : "Fri, 29 Sep 2023 06:42:00",
+         "title" : "European Open & Women's Chess Club Cups 2023 start in Durres, Albania"
+      },
+      {
+         "description" : "Round 7 proved to be a testing one for both boys and girls. GM Pranav Anand and IM Dushyant Sharma, overnight joint leaders, suffered losses.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-2023-round-7/",
+         "pubDate" : "Fri, 29 Sep 2023 06:11:29",
+         "title" : "World Junior 2023 :Round 7"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "World Junior Ch: Maurizzi, Dudin and Avila in the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. 2023.09.28<br /> Victor Mikhalevski vs Alexander Rabinovich, Lost Boys Open (1999): D11 Queen&#039;s Gambit Declined Slav, 3.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1539065\">https://www.chessgames.com/perl/chessgame?gid=1539065</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouisches",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q5fS1ZU4IcA.jpg?itok=T9bN7Zud\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2649",
          "pubDate" : "Sun, 24 Sep 2023 12:01:37 +0000",
          "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
-      },
-      {
-         "description" : "INDIA AT THE WORLD JUNIOR CHESS CHAMPIONSHIP 2023 IN MEXICO: ROUNDS 2-4 Following a strong start on day 1, the Indian team continued to stay",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-chmapionship-2023-rounds-2-4-report/",
-         "pubDate" : "Sun, 24 Sep 2023 09:22:08",
-         "title" : "World Junior Chess Chmapionship 2023 Rounds 2-4 Report"
       },
       {
          "description" : " You'll recognise this position, I'm sure. If not, then you should certainly read on. At least one book describes this much anthologised position as the most important pawn ending ever. If you have any knowledge at all of chess history you'll know this is Cohn Rubinstein (St Petersburg 1909) with Black about to play <a href=\"https://chessimprover.com/classic-confusion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Classic Confusion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/classic-confusion/\">Classic Confusion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1392,22 +1408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/championship-chessmate.html",
          "pubDate" : "Fri, 08 Sep 2023 13:56:00",
          "title" : "Championship Chessmate"
-      },
-      {
-         "description" : " The Norwegian, 32, follows up his World Cup victory in Baku by winning the latest leg of the online ChampionsTour, while the former world champion Vladimir Kramnik is displeased at losing to Niemann Magnus Carlsen kept up his current winning run last weekend by taking the $30,000 first prize in the Julius Baer Generation Cup, his third victory on the $2m Champions Tour, which ends at Toronto in December. The result follows swiftly on from the 32-year-old's <a href=\"https://www.theguardian.com/sport/2023/aug/25/chess-sickly-carlsen-wins-world-cup-in-baku-by-beating-praggnanandhaa\" title=\"\">over-the-board success</a> in last month's knockout World Cup, the only major individual competition he",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/sep/08/chess-carlsen-increases-lead-while-niemann-is-involved-in-new-controversy",
-         "pubDate" : "Fri, 08 Sep 2023 07:00:48",
-         "title" : "Chess: Carlsen increases lead while Niemann is involved in new controversy"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103494102.cms\" />It took more than 36 years for India to get a new No. 1 player in chess as D Gukesh replaced five-time world champion Viswanathan Anand from the perch last month. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-hopes-to-be-world-chess-champion-one-day/articleshow/103494102.cms",
-         "pubDate" : "Fri, 08 Sep 2023 05:41:50 +0000",
-         "title" : "Gukesh hopes to be world chess champion one day"
       }
    ]
 }
