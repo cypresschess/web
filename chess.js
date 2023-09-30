@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Sat, 30 Sep 2023 23:50:00",
+         "title" : "World Junior Championships - Round 10 Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2663",
+         "pubDate" : "Sat, 30 Sep 2023 21:24:23 +0000",
+         "title" : "World Junior Championship: Maurizzi, sole leader again after a brilliant victory"
+      },
+      {
          "description" : "In the latest edition of his Fast & Furious series, Robert Ris shows Mateusz Bartel's spectacular win over Aryan Tari from the Polish Ekstraliga. Bartel only needed 18 moves to force his opponent's resignation. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams",
          "pubDate" : "Mon, 25 Sep 2023 17:30:00",
          "title" : "Endgame Magic #250: Highlights from the World Rapid Team Championship"
-      },
-      {
-         "description" : "On September's last Saturday, the World Chess Club invites all women chess players to a rapid chess tournament at its venue in Berlin (Unter den Linden 22-26). All levels are welcome. The time control is 10 minutes per game, and the entry is free. Saturday, September 30, from 5 pm.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-rapid-tournament-world-chess-club-berlin",
-         "pubDate" : "Mon, 25 Sep 2023 16:45:00",
-         "title" : "Open to all levels: women's rapid event at the World Chess Club in Berlin"
       },
       {
          "description" : "After some twists and turns, GMs Ian Nepomniachtchi and Peter Svidler are still topping the Levitov Chess Week&#39;s leaderboard. With four rounds to go, it has become a two-horse race as their closest rivals, GM Levon Aronian and GM Shakhriyar Mamedy...",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2023-is-halfway-through/",
          "pubDate" : "Sun, 10 Sep 2023 07:07:14",
          "title" : "European Youth Chess Championship 2023 is halfway through"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2625",
-         "pubDate" : "Sat, 09 Sep 2023 21:09:27 +0000",
-         "title" : "WWTC 2023: Kazakhstan-France and USA-Georgia to cross swords in semifinal"
       }
    ]
 }
