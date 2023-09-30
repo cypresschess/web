@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 145th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
+         "description" : "In the latest edition of his Fast & Furious series, Robert Ris shows Mateusz Bartel's spectacular win over Aryan Tari from the Polish Ekstraliga. Bartel only needed 18 moves to force his opponent's resignation. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-144-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sat, 30 Sep 2023 15:00:00",
-         "title" : "Understanding before Moving 145: Chess history in a nutshell (27)"
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-bartel-crushing-win",
+         "pubDate" : "Sat, 30 Sep 2023 20:00:00",
+         "title" : "Robert Ris' Fast and Furious: Bartel scores crushing win"
+      },
+      {
+         "description" : "Possibly readers would enjoy a little bit of behind-the-scenes information on how chess composers work together. As always, this will be supplemented by endgame studies.| Photo: Midjourney",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dominoes-youth-composing-challenges",
+         "pubDate" : "Sat, 30 Sep 2023 18:00:00",
+         "title" : "Dominoes: Youth Composing Challenges"
+      },
+      {
+         "description" : " FM Todd Andrews recently released a manual, The Final Attack a tribute to the lessons of International Master Emory Tate. Of course, Tate passed away in 2015, but his lessons live on. Andrews was a Tate protege and traveled with him to many tournaments soaking up pearls of wisdom. The life lessons left an impression The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/\">&#8220;The Final Attack,&#8221; Chess Teachings of Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/",
+         "pubDate" : "Sat, 30 Sep 2023 16:38:48",
+         "title" : "\"The Final Attack,\" Chess Teachings of Emory Tate"
       },
       {
          "description" : "The Isle of Man plays host once more to the chess world's crème de la crème, as the 3rd FIDE Grand Swiss and 2nd FIDE Women's Grand Swiss tournaments are set to launch on 25 October. The return of these prestigious world championship qualifying competitions to the Isle of Man marks a momentous occasion. Over the course of 12 days, from 25 October to 5 November, the island in the Irish Sea will emerge as the epicentre of the chess world, hosting an elite assembly of top-tier players fighting for the prizes, prestige and a spot in the 2024 Candidates.",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/aicf-live-telecast-seminar-in-delhi-on-30-sept-01-oct-2023/",
          "pubDate" : "Sat, 30 Sep 2023 09:55:24",
          "title" : "AICF LIVE Telecast Seminar in Delhi on 30 Sept & 01 Oct 2023"
+      },
+      {
+         "description" : "With a remarkable performance, Maxime Vachier-Lagrave got to beat Magnus Carlsen in two consecutive matches to win the AI Cup, the sixth and final 'regular' event of the 2023 Champions Chess Tour. Carlsen had defeated MVL in the final of the winners' bracket, before the Frenchman gained the right to a rematch by beating Ian Nepomniachtchi in the final of the losers' bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-d5",
+         "pubDate" : "Sat, 30 Sep 2023 09:05:00",
+         "title" : "MVL beats Carlsen twice, wins AI Cup"
       },
       {
          "description" : "In the diagram position, the white king has not managed to castle. Time for Black to strike - I wish you massive pleasure!",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-2023-report-rounds-8-and-9/",
          "pubDate" : "Sat, 30 Sep 2023 07:06:01",
          "title" : "World Junior 2023 Report | Rounds 8 and 9"
-      },
-      {
-         "description" : "With a remarkable performance, Maxime Vachier-Lagrave got to beat Magnus Carlsen in two consecutive matches to win the AI Cup, the sixth and final 'regular' event of the 2023 Champions Chess Tour. Carlsen had defeated MVL in the final of the winners' bracket, before the Frenchman gained the right to a rematch by beating Ian Nepomniachtchi in the final of the losers' bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-d5",
-         "pubDate" : "Sat, 30 Sep 2023 06:45:00",
-         "title" : "MVL beats Carlsen twice, wins AI Cup"
       },
       {
          "description" : " This week, we're going to do something a little different, talk about beginners' treatment of the pawn and why it's so poor. This topic came up in my chess classes last week and thought I'd share it with you. I teach beginning players who range in age from six to sixteen. Most of my students <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred and Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/\">A Foundation for Beginners One Hundred and Four</a> appeared first on <a rel=\"nofol",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2023-round-5-report/",
          "pubDate" : "Mon, 25 Sep 2023 07:22:58",
          "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023 ROUND 5 REPORT"
-      },
-      {
-         "description" : "After a 13-year hiatus, chess is back to the 2023 Asian Games, which officially started on September 23, in Hangzhou, China. The chess program of the 19th Asian Games features four competitions: men's individual, women's individual, and men's and women's team tournaments. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-returns-to-asian-games-2023",
-         "pubDate" : "Mon, 25 Sep 2023 06:45:00",
-         "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
       },
       {
          "description" : "",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2625",
          "pubDate" : "Sat, 09 Sep 2023 21:09:27 +0000",
          "title" : "WWTC 2023: Kazakhstan-France and USA-Georgia to cross swords in semifinal"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103539589.cms\" />World Cup runner-up R Praggnanandhaa secured the highest position among the Indian participants, finishing third overall. Meanwhile, the reigning world champion, Alexander Grischuk, dominated the Open Blitz category to claim the title at the Tata Steel Chess India 2023 event in Kolkata on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-finishes-third-grischuk-takes-open-blitz-title/articleshow/103539589.cms",
-         "pubDate" : "Sat, 09 Sep 2023 15:50:02 +0000",
-         "title" : "Praggnanandhaa finishes third, Grischuk takes Open Blitz title"
       }
    ]
 }
