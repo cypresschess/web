@@ -10,6 +10,14 @@ news_feed (
          "title" : "Patent continuation"
       },
       {
+         "description" : "The World Junior (U20) Championship is currently being held at the Hotel del Prado in Mexico City. This prestigious event has prompted FIDÉ, the World Chess Federation, to produce a rigorous and demanding format. Eleven gruelling rounds with a time control of 90 minutes for the first 40 moves, plus 30 minutes until the end of the game, with 30-second increments from the start, are []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/new-skids-on-the-block/",
+         "pubDate" : "Sat, 30 Sep 2023 07:38:18",
+         "title" : "New skids on the block"
+      },
+      {
          "description" : "As the World Junior Chess Championship matches are down to the final days, the pressure is mounting up for all the players. Indian boys and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
