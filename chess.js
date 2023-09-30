@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "description" : "In the diagram position, the white king has not managed to castle. Time for Black to strike - I wish you massive pleasure!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Fri, 29 Sep 2023 23:50:00",
-         "title" : "World Junior Championships - Round 9 Live!"
+         "link" : "https://en.chessbase.com/post/patent-continuation",
+         "pubDate" : "Sat, 30 Sep 2023 09:00:00",
+         "title" : "Patent continuation"
+      },
+      {
+         "description" : "As the World Junior Chess Championship matches are down to the final days, the pressure is mounting up for all the players. Indian boys and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-2023-report-rounds-8-and-9/",
+         "pubDate" : "Sat, 30 Sep 2023 07:06:01",
+         "title" : "World Junior 2023 Report | Rounds 8 and 9"
+      },
+      {
+         "description" : "With a remarkable performance, Maxime Vachier-Lagrave got to beat Magnus Carlsen in two consecutive matches to win the AI Cup, the sixth and final 'regular' event of the 2023 Champions Chess Tour. Carlsen had defeated MVL in the final of the winners' bracket, before the Frenchman gained the right to a rematch by beating Ian Nepomniachtchi in the final of the losers' bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ai-cup-2023-d5",
+         "pubDate" : "Sat, 30 Sep 2023 06:45:00",
+         "title" : "MVL beats Carlsen twice, wins AI Cup"
+      },
+      {
+         "description" : " This week, we're going to do something a little different, talk about beginners' treatment of the pawn and why it's so poor. This topic came up in my chess classes last week and thought I'd share it with you. I teach beginning players who range in age from six to sixteen. Most of my students <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred and Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/\">A Foundation for Beginners One Hundred and Four</a> appeared first on <a rel=\"nofol",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/",
+         "pubDate" : "Sat, 30 Sep 2023 05:52:35",
+         "title" : "A Foundation for Beginners One Hundred and Four"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King examines games from the World Under 20 Championship taking place in Mexico City. All of these games feature checkmating attacks - some were found, some were missed! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
       },
       {
-         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at Kamaraj College, Thoothukudi from 02-03 Dec 23. This two days' workshop",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
-         "pubDate" : "Mon, 25 Sep 2023 03:09:19",
-         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
          "description" : "In the latest edition of his Fast & Furious series, Robert Ris analyses a 23-move miniature played in the Spanish Team Championship. Daniil Yuffa played an absolute brilliant masterpiece, exploiting the deficiencies of White's position! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/how-not-to-impress-opposite-sex.html",
          "pubDate" : "Sun, 24 Sep 2023 15:17:00",
          "title" : "How (Not?) To Impress the Opposite Sex"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 144th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and takes a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-144-chess-history-in-a-nutshell-26",
-         "pubDate" : "Sun, 24 Sep 2023 15:00:00",
-         "title" : "Understanding before Moving 144: Chess history in a nutshell (26)"
       },
       {
          "description" : " Chess is once again featuring at the Asian Games. And looking at the team lists, a lot of countries are taking it very seriously. In both the Men's and Women's events, at last half the fields are GM/WGM, with the Men's tournament having the bottom half starting at 2383 (GM Raymond Song). I'm not sure if there is any live coverage of the games, as a quick check of the official games website did not having links to it. But you can at least see the results at <a href=\"https://info.hangzhou2022.cn/en/results/chess/daily-schedule.htm\">https://info.hangzhou2022.cn/en/results/chess/daily-schedule.htm</a> It is a 9 round event (over 4 days) and will be followed by a team event (Men's and Women's) ",
