@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 145th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-144-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sat, 30 Sep 2023 15:00:00",
+         "title" : "Understanding before Moving 145: Chess history in a nutshell (27)"
+      },
+      {
+         "description" : "The Isle of Man plays host once more to the chess world's crème de la crème, as the 3rd FIDE Grand Swiss and 2nd FIDE Women's Grand Swiss tournaments are set to launch on 25 October. The return of these prestigious world championship qualifying competitions to the Isle of Man marks a momentous occasion. Over the course of 12 days, from 25 October to 5 November, the island in the Irish Sea will emerge as the epicentre of the chess world, hosting an elite assembly of top-tier players fighting for the prizes, prestige and a spot in the 2024 Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-preview",
+         "pubDate" : "Sat, 30 Sep 2023 14:30:00",
+         "title" : "The Isle of Man's grand chess spectacle"
+      },
+      {
          "description" : "The AICF Live Telecast seminar kick starts at Hotel Sanca International Delhi from today . International Arbiter Mr. Anandh Babu VL, is the lecturer and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
       },
       {
-         "description" : "In the latest edition of his Fast & Furious series, Robert Ris analyses a 23-move miniature played in the Spanish Team Championship. Daniil Yuffa played an absolute brilliant masterpiece, exploiting the deficiencies of White's position! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-miniature-sicilian-alapin",
-         "pubDate" : "Sun, 24 Sep 2023 23:30:00",
-         "title" : "Robert Ris' Fast and Furious: A miniature out of a Sicilian Alapin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2650",
          "pubDate" : "Sun, 24 Sep 2023 19:17:19 +0000",
          "title" : "World Junior Championship U20: Maurizzi and Mkrtchyan, first sole leaders after four rounds"
-      },
-      {
-         "description" : "French grandmaster Marc'Andria Maurizzi (pictured) is the only player with a perfect 4/4 score in the open section of the World Junior Championships taking place in Mexico City. In round 4, Maurizzi got the better of Andy Woodward, an IM from the United States who came from beating top seed Hans Niemann in the previous round. Meanwhile, in the women's section, Armenian WIM Maryam Mkrtchyan is the sole leader with 4 points to her name. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-r4",
-         "pubDate" : "Sun, 24 Sep 2023 18:05:00",
-         "title" : "World Junior Ch: Maurizzi sole leader, Niemann loses to Woodward"
       },
       {
          "description" : "The University of Missouri (Mizzou) and Saint Louis University (SLU) started on the right foot in the first week of the $25,000, SIG-sponsored 2023 Collegiate Chess League (CCL) by recording compelling victories over the University of Virginia (UV...",
@@ -1400,14 +1400,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-finishes-third-grischuk-takes-open-blitz-title/articleshow/103539589.cms",
          "pubDate" : "Sat, 09 Sep 2023 15:50:02 +0000",
          "title" : "Praggnanandhaa finishes third, Grischuk takes Open Blitz title"
-      },
-      {
-         "description" : "If you are playing chess online, you most likely are familiar with Chess.com. It is the biggest platform with over 100 Million active users. You can play games for free or decide to step up and get a paid membership. So you might ask yourself: are these memberships worth it? In this review, I compare []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-com-membership/",
-         "pubDate" : "Sat, 09 Sep 2023 12:00:24",
-         "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
       }
    ]
 }
