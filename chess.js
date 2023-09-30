@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The AICF Live Telecast seminar kick starts at Hotel Sanca International Delhi from today . International Arbiter Mr. Anandh Babu VL, is the lecturer and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-live-telecast-seminar-in-delhi-on-30-sept-01-oct-2023/",
+         "pubDate" : "Sat, 30 Sep 2023 09:55:24",
+         "title" : "AICF LIVE Telecast Seminar in Delhi on 30 Sept & 01 Oct 2023"
+      },
+      {
          "description" : "In the diagram position, the white king has not managed to castle. Time for Black to strike - I wish you massive pleasure!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2023-round-5-report/",
          "pubDate" : "Mon, 25 Sep 2023 07:22:58",
          "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023 ROUND 5 REPORT"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the Live Telecast Orientation Workshop at Itanagar, Arunachal Pradesh from 18-19 Oct 23. This two days' workshop",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-live-telecast-orientation-workshop-at-itanagar-arunachal-pradesh/",
-         "pubDate" : "Mon, 25 Sep 2023 07:18:10",
-         "title" : "AICF's Live Telecast Orientation Workshop at Itanagar, Arunachal Pradesh"
       },
       {
          "description" : "After a 13-year hiatus, chess is back to the 2023 Asian Games, which officially started on September 23, in Hangzhou, China. The chess program of the 19th Asian Games features four competitions: men's individual, women's individual, and men's and women's team tournaments. | Photo: Official website",
@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-com-membership/",
          "pubDate" : "Sat, 09 Sep 2023 12:00:24",
          "title" : "Chess.com Membership Review (2023): Is it Worth the Investment?"
-      },
-      {
-         "description" : "The original Pragmatic Sanction was an edict issued by Holy Roman Emperor Charles VI, on 19 April 1713. It ended that the Habsburg monarchy, the extensive territories of which included the Archduchy of Austria and the Kingdom of Hungary, could be inherited by a daughter - undivided. Division would have irrevocably weakened the Empire, whose []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/praggmatic-sanction-the-ascent-of-an-indian-chess-prodigy/",
-         "pubDate" : "Sat, 09 Sep 2023 09:52:05",
-         "title" : "Praggmatic Sanction: the ascent of an Indian chess prodigy"
       }
    ]
 }
