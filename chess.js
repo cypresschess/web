@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Finale of the Armageddon Series took place on September 14-20 at the World Chess Club in Berlin, with Jan-Krzysztof Duda eventually emerging as the winner. GM Karsten M&uuml;ller found instructive endgame positions to share with us. Replay his analyses and you are sure to learn and enjoy! | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-endgames",
+         "pubDate" : "Sun, 01 Oct 2023 16:00:00",
+         "title" : "Instructive endgames from the Armageddon Series"
+      },
+      {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Sun, 01 Oct 2023 15:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
+         "description" : " Saturday 7th October is the date of the very 1st Street Chess \"Buy, Swap or Sell\" chess book day. From 10am you can come along to sell your old chess books, swap books with anyone else who has brought books in, or simply buy what is on offer. A few of the Street Chess regulars will be bringing in their books to sell, including myself, who is using it as an opportunity to clear some duplicates from my collection. The sale starts at 10am on Saturday 7th October outside King O'Malley's, City Walk, Canberra City. Street Chess will be running as usual from 11am but feel free to drop in a bit earlier than usual to pick up some bargains. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/bring-out-your-books.html",
+         "pubDate" : "Sun, 01 Oct 2023 13:00:00",
+         "title" : "Bring out your books ..."
+      },
+      {
          "description" : "The European Youth Rapid&#38;Blitz Chess Championships 2023 concluded yesterday in Terme Catez, Slovenia after three days fulfilled with the exciting games and intense battles for the throne. The event gathered more than 500 players coming from 27 European countries and took place from 27-30 October in beautiful spa resort Terme Catez. The first event on the schedule was the 2023 European Youth Rapid Chess Championship which was played in 6 age categories: U8, U10, U12, U14, U16, and U18, open []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/36th-national-under11-boys-girls-dgt-live-links/",
          "pubDate" : "Sun, 01 Oct 2023 06:48:13",
          "title" : "36th National Under11 - Boys & Girls - DGT LIVE - LINKS"
+      },
+      {
+         "description" : "It&#39;s the spookiest month of the year, October! To celebrate, we&#39;re re-launching five new versions of some of our most popular bots. Go to our Play Computer page to battle against Martin, Filip, Laura, Isla, and Morphy in all of their new glory.&#38;nb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/halloween-bots-2023",
+         "pubDate" : "Sun, 01 Oct 2023 05:00:11",
+         "title" : "It's The Spookiest Time Of The Year! Play These Revamped Fan-Favorite Bots With A Weekly Twist"
       },
       {
          "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
@@ -562,28 +594,12 @@ news_feed (
          "title" : "Levitov Chess Week - Live!"
       },
       {
-         "description" : "Peter Svidler and Ian Nepomniachtchi have a 2-point lead over their closest chasers with four rounds to go at the Levitov Chess Week in Amsterdam. The co-leaders faced each other twice already - Svidler won with white in round 3, while their double-edged encounter finished drawn on Monday. Levon Aronian and Shakhriyar Mamedyarov are sharing third place with 7&frac12;/14 points each. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d3",
-         "pubDate" : "Tue, 26 Sep 2023 02:30:00",
-         "title" : "Levitov Chess Week: Nepo and Svidler widen the gap"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Shakhriyar Mamedyarov advance in the Division I Winners Bracket of the 2023 AI Cup after winning their quarterfinal matches on day one. With echoes from the finish of their SCC ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-1",
          "pubDate" : "Mon, 25 Sep 2023 20:07:00",
          "title" : "Carlsen Goes Undefeated vs. Nakamura, Advances To Winners Semifinals"
-      },
-      {
-         "description" : "At the world-class tournament in Buenos Aires in 1960, the then 17-year-old Bobby Fischer - one of the tournament favourites - delivered one of his worst tournament results. Facing Wolfgang Unzicker, an unfortunate touch of the h-pawn led to a quick loss. It was not until many years later that the reason for Fischer's poor form was revealed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
-         "pubDate" : "Mon, 25 Sep 2023 17:55:00",
-         "title" : "The backstory: Fischer's poor performance in Buenos Aires"
       },
       {
          "description" : "After some twists and turns, GMs Ian Nepomniachtchi and Peter Svidler are still topping the Levitov Chess Week&#39;s leaderboard. With four rounds to go, it has become a two-horse race as their closest rivals, GM Levon Aronian and GM Shakhriyar Mamedy...",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "A Foundation for Beginners One Hundred Three"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Maxime Vachier-Lagrave advance to the Semifinals of the 2023 Chess.com Speed Chess Championship presented by Coinbase. Carlsen overcame his former world championship challenger, GM Ian Nepomniachtchi, by an 11-point marg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-qf-carlsen-nepomniachtchi-vachier-lagrave-nihal",
-         "pubDate" : "Fri, 15 Sep 2023 16:54:00",
-         "title" : "Carlsen Beats Rival By 11 Points, Vachier-Lagrave Outpaces Bullet Whiz"
-      },
-      {
          "description" : "For the current Friday series, I closed the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html\">Adsense and CFAA's CMP</A> (September 2023; CMP = Google's Consent Management Platform), in a holding pattern:- <BLOCKQUOTE> After adding the logo, my GDPR message was accepted. As I was preparing this post for publishing, the message still wasn't showing on my pages, so maybe I did something wrong. I'll come back to it for next Friday's post. </BLOCKQUOTE> <P> I had indeed done something wrong. I was watching the top level page for my domain which doesn't display an ad. The Adsense code to display an ad is the trigger for the consent message. When I ac",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/let-others-say-youre-champion.html",
          "pubDate" : "Sun, 10 Sep 2023 15:36:00",
          "title" : "'Let Others Say You're a Champion'"
-      },
-      {
-         "description" : " The idea of settling a chess related dispute through playing a match goes a long way back, and at least has the befit of being less violent than actually shooting at each other. Indeed there seems to be a current dispute in Australian chess involving this conflict resolution, although it seems the lower rated player is not so keen on accepting the challenge (Noting that some point the past the same player had challenged other, lower rated players to matches in a similar way!). Of course the risk is that it actually doesn't settle much, as shown by an old joke I found in \"Chess with the Masters\" by Martin Behim. Burletzki (a coffee house player) arranged a 6 game match with a German master n",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/pistols-at-dawn.html",
-         "pubDate" : "Sun, 10 Sep 2023 14:00:00",
-         "title" : "Pistols at dawn?"
       }
    ]
 }
