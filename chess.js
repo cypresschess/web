@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A little over a week ago, Magnus Carlsen and Hikaru Nakamura did battle in the Speed Chess Championship. Over three hours, they battered each other at 5+1, 3+1 and 1+1 until Carlsen emerged the victor by the narrowest possible margin. It was a great spectacle, and the thing I liked most of all was how these two great players, when things are going well, 'trust their hands'. Their autopilots can outperform most people even at much slower time limits, and there were a few decisions which I particularly admired. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-203",
+         "pubDate" : "Sun, 01 Oct 2023 20:45:00",
+         "title" : "Jon Speelman: Trusting your hand"
+      },
+      {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Sun, 01 Oct 2023 17:50:00",
+         "title" : "World Junior Championships - Round 11 Live!"
+      },
+      {
+         "description" : " I've recently been researching the Leicester player Alfred Lenton, who shared 3rd place and 2nd place in the 1935 and 1936 British Championships. At the time he was an avid student of hypermodern chess, particularly the games of Richard R&eacute;ti, and favoured opening with 1. Nf3 followed by a double fianchetto. In two county matches, <a href=\"https://chessimprover.com/alfreds-double/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Alfred's Double\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/alfreds-double/\">Alfred's Double</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/alfreds-double/",
+         "pubDate" : "Sun, 01 Oct 2023 17:22:15",
+         "title" : "Alfred's Double"
+      },
+      {
          "description" : "The Grand Finale of the Armageddon Series took place on September 14-20 at the World Chess Club in Berlin, with Jan-Krzysztof Duda eventually emerging as the winner. GM Karsten M&uuml;ller found instructive endgame positions to share with us. Replay his analyses and you are sure to learn and enjoy! | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-endgames",
          "pubDate" : "Sun, 01 Oct 2023 16:00:00",
          "title" : "Instructive endgames from the Armageddon Series"
+      },
+      {
+         "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hypermodern-games-kidambi",
+         "pubDate" : "Sun, 01 Oct 2023 15:15:00",
+         "title" : "Hypermodern games of chess"
       },
       {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -48,22 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/halloween-bots-2023",
          "pubDate" : "Sun, 01 Oct 2023 05:00:11",
          "title" : "It's The Spookiest Time Of The Year! Play These Revamped Fan-Favorite Bots With A Weekly Twist"
-      },
-      {
-         "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hypermodern-games-kidambi",
-         "pubDate" : "Sun, 01 Oct 2023 03:15:00",
-         "title" : "Hypermodern games of chess"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Sat, 30 Sep 2023 23:50:00",
-         "title" : "World Junior Championships - Round 10 Live!"
       },
       {
          "description" : "",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ai-cup-2023-d1",
          "pubDate" : "Tue, 26 Sep 2023 03:10:00",
          "title" : "AI Cup: Carlsen beats Nakamura"
-      },
-      {
-         "description" : "From 22 to 26 September, Ilya Levitov is organising the second edition of the \"Chess Week\" tournament. Ten strong players compete in a double-round rapid chess tournament, including two former world champions, Vishy Anand and Vladimir Kramnik. | Follow the games live with computer-assisted analysis, starting from 14.00 CEST (8.00 ET, 17.30 IST) | Photo: Peter Doggers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-live",
-         "pubDate" : "Tue, 26 Sep 2023 03:00:00",
-         "title" : "Levitov Chess Week - Live!"
       },
       {
          "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Shakhriyar Mamedyarov advance in the Division I Winners Bracket of the 2023 AI Cup after winning their quarterfinal matches on day one. With echoes from the finish of their SCC ...",
@@ -1392,22 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2626",
          "pubDate" : "Sun, 10 Sep 2023 21:10:28 +0000",
          "title" : "WWTC 2023: Georgia and Kazakhstan to fight for the gold"
-      },
-      {
-         "description" : " Here's a question for you. Yes, it's another pawn ending. White to move: what would you play here? Make your choice before you read on. This position arose in a game between Julian Llewellyn (1790) and Eldar Alizada (2001) in the championship section of the recent Berks &#38; Bucks Congress in Maidenhead, with White to <a href=\"https://chessimprover.com/maidenhead-trebuchet/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Maidenhead Trebuchet\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/maidenhead-trebuchet/\">Maidenhead Trebuchet</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/maidenhead-trebuchet/",
-         "pubDate" : "Sun, 10 Sep 2023 17:39:51",
-         "title" : "Maidenhead Trebuchet"
-      },
-      {
-         "description" : "At the recently concluded <A HREF=\"https://en.wikipedia.org/wiki/Chess_World_Cup_2023\">Chess World Cup 2023</A> (wikipedia.org), India's Praggnanandhaa, who turned 18-years old during the tournament, was runner-up. He lost to former World Champion Magnus Carlsen in the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/MyJFtIy2BqI?si=G3htVIdzaDZ0hSMU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Praggnanandhaa Asks: How To Handle Tension in a Game? | Chess World Cup</B> (6:58) &#149; '[Published on] Aug 24, 2023' <P> Th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/let-others-say-youre-champion.html",
-         "pubDate" : "Sun, 10 Sep 2023 15:36:00",
-         "title" : "'Let Others Say You're a Champion'"
       }
    ]
 }
