@@ -290,6 +290,14 @@ news_feed (
          "title" : "The Opening Chess Prep! | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
+         "description" : "So you thought you had seen the last of the Hans Niemann controversy? Not even close. Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), mentioned, <BLOCKQUOTE> That [Niemann] page had four stories under 'Top news', four Twitter tweets, and 44 stories from a variety of other sources. </BLOCKQUOTE> <P> This month we had only eight Niemann stories, but that's still a lot of stories compared to the hottest chess story in an average month. Before we look at the details, let's cover the month's stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni28.gif\" WIDTH= HEIGHT",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/09/this-month-features-bottom-yahoo.html",
+         "pubDate" : "Thu, 28 Sep 2023 15:30:00",
+         "title" : "This Month Features a Bottom Yahoo"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
