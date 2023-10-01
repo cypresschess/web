@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hypermodern-games-kidambi",
+         "pubDate" : "Sun, 01 Oct 2023 03:15:00",
+         "title" : "Hypermodern games of chess"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/",
          "pubDate" : "Sat, 30 Sep 2023 16:38:48",
          "title" : "\"The Final Attack,\" Chess Teachings of Emory Tate"
+      },
+      {
+         "description" : "GM Daniel Naroditsky was crowned as the winner of September&#39;s last Bullet Brawl after amassing a score of 288, 54 points ahead of the second-placed GM Hikaru Nakamura&#38;nbsp;and third-placed GM Pranav Venkatesh. The total of 78 wins, three draws, an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-30-2023",
+         "pubDate" : "Sat, 30 Sep 2023 16:28:26",
+         "title" : "Naroditsky Secures 5th Bullet Brawl Title"
       },
       {
          "description" : "The Isle of Man plays host once more to the chess world's crème de la crème, as the 3rd FIDE Grand Swiss and 2nd FIDE Women's Grand Swiss tournaments are set to launch on 25 October. The return of these prestigious world championship qualifying competitions to the Isle of Man marks a momentous occasion. Over the course of 12 days, from 25 October to 5 November, the island in the Irish Sea will emerge as the epicentre of the chess world, hosting an elite assembly of top-tier players fighting for the prizes, prestige and a spot in the 2024 Candidates.",
@@ -138,7 +154,7 @@ news_feed (
          "title" : "Announcing The 2024 Chess Events Calendar"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave has pulled off the mission impossible of beating world number-one Magnus Carlsen in not one, but two matches, to win the 2023 AI Cup and qualify for the Champions Chess Tour Finals in Toronto. &#34;Maxime was strong and I fai...",
+         "description" : "GM Maxime Vachier-Lagrave has pulled off the mission impossible of beating world number-one Magnus Carlsen, not once but twice, to win the 2023 AI Cup and qualify for the Champions Chess Tour Finals in Toronto. &#34;Maxime was strong and I failed at t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-5",
@@ -544,14 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/backstory-fischer-buenos-aires-1960",
          "pubDate" : "Mon, 25 Sep 2023 17:55:00",
          "title" : "The backstory: Fischer's poor performance in Buenos Aires"
-      },
-      {
-         "description" : "In the Endgame Magic Show #250 Karsten M&uuml;ller analyses endgame highlights from the FIDE World Rapid Team Championship, which took place last month at the D&uuml;sseldorf Rheinterrassen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams",
-         "pubDate" : "Mon, 25 Sep 2023 17:30:00",
-         "title" : "Endgame Magic #250: Highlights from the World Rapid Team Championship"
       },
       {
          "description" : "After some twists and turns, GMs Ian Nepomniachtchi and Peter Svidler are still topping the Levitov Chess Week&#39;s leaderboard. With four rounds to go, it has become a two-horse race as their closest rivals, GM Levon Aronian and GM Shakhriyar Mamedy...",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2023/sep/15/chess-kasparov-subsides-at-st-louis-while-sam-sevian-scores-career-best",
          "pubDate" : "Fri, 15 Sep 2023 07:00:55",
          "title" : "Chess: Kasparov subsides at St Louis while Sam Sevian scores career best"
-      },
-      {
-         "description" : "Ever since the historic moment the great GM Garry Kasparov lost to Deep Blue in 1997, artificial intelligence has transformed chess. Now Chess.com, the world&#38;rsquo;s leading chess platform, is launching an elite tournament to celebrate AI&#38;rsquo;s ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ai-cup-leg-6-of-champions-chess-tour",
-         "pubDate" : "Fri, 15 Sep 2023 06:28:00",
-         "title" : "Chess Marks A.I. Revolution With Launch Of AI Cup: Leg 6 Of $2m Champions Chess Tour"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation<br /> Mikhalevski vs. Tymur Keleberda, 2023: E25 Nimzo-Indian, Saemisch, Keres variation<br /> Mikhalevski vs. Franz Braeuer, 2023: C45 Scotch, Mieses variation<br /> <a href=\"https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01\">https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
