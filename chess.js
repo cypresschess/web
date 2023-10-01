@@ -1392,14 +1392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2628",
          "pubDate" : "Mon, 11 Sep 2023 00:03:06 +0000",
          "title" : "Portuguese Championship: Jos&eacute; Guilherme Santos wins maiden title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2626",
-         "pubDate" : "Sun, 10 Sep 2023 21:10:28 +0000",
-         "title" : "WWTC 2023: Georgia and Kazakhstan to fight for the gold"
       }
    ]
 }
