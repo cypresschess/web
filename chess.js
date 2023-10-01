@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Youth Rapid&#38;Blitz Chess Championships 2023 concluded yesterday in Terme Catez, Slovenia after three days fulfilled with the exciting games and intense battles for the throne. The event gathered more than 500 players coming from 27 European countries and took place from 27-30 October in beautiful spa resort Terme Catez. The first event on the schedule was the 2023 European Youth Rapid Chess Championship which was played in 6 age categories: U8, U10, U12, U14, U16, and U18, open []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-2023-crowned-in-terme-catez-slovenia/",
+         "pubDate" : "Sun, 01 Oct 2023 06:50:33",
+         "title" : "European Youth Rapid&Blitz Chess Champions 2023 crowned in Terme Catez, Slovenia"
+      },
+      {
+         "description" : "Please find the below links of&#160;36th National Under11 Boys &#38; Girls DGT LIVE LINKS. 36th National Under11 Boys Vizag (36th National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/36th-national-under11-boys-girls-dgt-live-links/",
+         "pubDate" : "Sun, 01 Oct 2023 06:48:13",
+         "title" : "36th National Under11 - Boys & Girls - DGT LIVE - LINKS"
+      },
+      {
          "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +170,7 @@ news_feed (
          "title" : "Announcing The 2024 Chess Events Calendar"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave has pulled off the mission impossible of beating world number-one Magnus Carlsen, not once but twice, to win the 2023 AI Cup and qualify for the Champions Chess Tour Finals in Toronto. &#34;Maxime was strong and I failed at t...",
+         "description" : "GM Maxime Vachier-Lagrave has pulled off the mission impossible of beating world number-one Magnus Carlsen, not in just one match but two, to win the 2023 AI Cup and qualify for the Champions Chess Tour Finals in Toronto. &#34;Maxime was strong and I ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-5",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://aicf.in/25th-asian-youth-chess-championship-2023/",
          "pubDate" : "Mon, 25 Sep 2023 07:59:25",
          "title" : "25th Asian Youth Chess Championship - 2023"
-      },
-      {
-         "description" : "Team India continues to fight vigorously at the World Junior Chess Championship being held in Mexico City, Mexico. In round 5, WGM Rakshitta Ravi (2272)",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2023-round-5-report/",
-         "pubDate" : "Mon, 25 Sep 2023 07:22:58",
-         "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023 ROUND 5 REPORT"
       },
       {
          "description" : "",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/pistols-at-dawn.html",
          "pubDate" : "Sun, 10 Sep 2023 14:00:00",
          "title" : "Pistols at dawn?"
-      },
-      {
-         "description" : "Five rounds have been already played at the European Youth Chess Championship 2023 in Mamaia, Romania, and only four rounds left to be played before the announcement of the Winners. Most of the categories still have the shared lead with the open battles for the throne, but a few players emerged as the sole leaders of the event. Scoring perfect 5/5 points, Artem Kucher (UKR) and Andria Jakhaia (GEO) tie for the top of the Open U8 section. They are []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2023-is-halfway-through/",
-         "pubDate" : "Sun, 10 Sep 2023 07:07:14",
-         "title" : "European Youth Chess Championship 2023 is halfway through"
       }
    ]
 }
