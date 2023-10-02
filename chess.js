@@ -1376,22 +1376,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-union-academy/",
          "pubDate" : "Tue, 12 Sep 2023 11:39:43",
          "title" : "European Chess Union Academy"
-      },
-      {
-         "description" : " The Champions Showdown 9LX took place in Saint Louis Thursday 7th Sep to Sun 10th Sep 2023. The main point of interest was the participation of legend Garry Kasparov as he rarely plays at all, last year was a horror show for him but given his competitive nature I'd expect him to have prepared and hopes for a decent score but it's a very tough field. Nakamura, Caruana, Wesley So, Aronian, Dominguez, Xiong, Sevian and Shankland are the other players. I was very limited in the coverage I could mount as I can't display Chess960 games, but I did provide a download. Sam Sevian was the surprise clear winner of the event. Kasparov led after day 1 but then only picked up another half a point. I'd lo",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2023",
-         "pubDate" : "Mon, 11 Sep 2023 21:21:00",
-         "title" : "Champions Showdown 9LX 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2630",
-         "pubDate" : "Mon, 11 Sep 2023 21:12:24 +0000",
-         "title" : "Georgia wins the FIDE World Women's Team Championship 2023"
       }
    ]
 }
