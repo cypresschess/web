@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How do you win a stage of the Tour de France? As well as endurance and cycling skills, a rider needs to be able to think strategically. It is an art to choose the right moment to break away from the peloton. If you break too early, you may lose your energy before the finish. If you wait too long, someone else might take the chance instead of you. Timing is also very important in chess, for example when planning a pawn move. | Photo: Hilmar Buschow, Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-24-the-most-suitable-moment-for-a-pawn-break",
+         "pubDate" : "Mon, 02 Oct 2023 20:00:00",
+         "title" : "The Winning Academy 24: The most suitable moment for a pawn break"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2665",
+         "pubDate" : "Mon, 02 Oct 2023 18:52:22 +0000",
+         "title" : "FIDE October 2023 rating list published"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d4",
          "pubDate" : "Wed, 27 Sep 2023 01:40:00",
          "title" : "Ian Nepomniachtchi grabs second Levitov Chess Week title"
-      },
-      {
-         "description" : "The seventh round brought some unexpected results in the S50 section and very predictable results in the S65 section of the World Senior Team Championship in North Macedonia. After beating the United States, Italy grabbed the sole lead in the S50 section, while Germany Lasker Schachstiftung GK lead the S65 section with a perfect score after seven rounds. | Pictured: Gabriel Barandiaran (Uruguay) | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r7",
-         "pubDate" : "Wed, 27 Sep 2023 01:35:00",
-         "title" : "World Senior Team Ch: Italy and Germany top the standings"
       },
       {
          "description" : "",
