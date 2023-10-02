@@ -10,6 +10,14 @@ news_feed (
          "title" : "Jon Speelman: Trusting your hand"
       },
       {
+         "description" : "A destructive performance by the University of Missouri (Mizzou) in the 2023 Collegiate Chess League (CCL) has placed the three-GM team atop the lead after two weeks of play. Board two GM Mikhail Antipov surged to 4/4 while Mizzou&#39;s board one GM G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-mizzou-cu",
+         "pubDate" : "Sun, 01 Oct 2023 19:32:16",
+         "title" : "Antipov Perfect In Mizzou's Dominant Victory Over UChicago"
+      },
+      {
          "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1114,14 +1122,6 @@ news_feed (
          "title" : "Busch-Gass Gambit"
       },
       {
-         "description" : "GM Hikaru Nakamura monstered his way to a record 10th Bullet Brawl title on Saturday ahead of 168 titled players including GMs Magnus Carlsen and Oleksandr Bortnyk, who finished second and third. Nakamura&#39;s run to a winning score of 250 featured...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-september-16-2023",
-         "pubDate" : "Sat, 16 Sep 2023 16:18:00",
-         "title" : "Nakamura Eclipses Carlsen After 46-Game Unbeaten Streak"
-      },
-      {
          "description" : "Today, I'm going to show you how to defend a lost position. Let's face it, we all get into lost positions from time to time. It is great to avoid them in the first place, but defending them the right way will also make a huge difference to your results. Lost positions usually aren't fun []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1368,30 +1368,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-womens-team-announcement/",
          "pubDate" : "Mon, 11 Sep 2023 08:52:21",
          "title" : "England Women's Team Announcement"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2627",
-         "pubDate" : "Mon, 11 Sep 2023 00:29:27 +0000",
-         "title" : "Inmates around the globe get ready for Intercontinental Chess Championship for Prisoners"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2629",
-         "pubDate" : "Mon, 11 Sep 2023 00:22:36 +0000",
-         "title" : "Sam Sevian wins 2023 Champions Showdown Chess 9LX"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2628",
-         "pubDate" : "Mon, 11 Sep 2023 00:03:06 +0000",
-         "title" : "Portuguese Championship: Jos&eacute; Guilherme Santos wins maiden title"
       }
    ]
 }
