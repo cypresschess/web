@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Mon, 02 Oct 2023 15:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
+         "description" : "The four books on this year's short list illustrated the wide range of current chess publishing which made the final choice difficult. The book chosen...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2023/",
+         "pubDate" : "Mon, 02 Oct 2023 14:43:22",
+         "title" : "ECF Book of the Year 2023"
+      },
+      {
+         "description" : "There was little movement at the top of the Top 100 list, as most of the top grandmasters were mostly active only in online chess. Magnus Carlsen remains the world's number one, ahead of Fabiano Caruna, Ding Liren and Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-october-2023",
+         "pubDate" : "Mon, 02 Oct 2023 13:30:00",
+         "title" : "FIDE ratings October 2023"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 145th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-from-owen-phillips/",
          "pubDate" : "Mon, 02 Oct 2023 08:37:24",
          "title" : "IBCA World Individual Championship - from Owen Phillips"
+      },
+      {
+         "description" : "Athletes don&#39;t stop competing when their game ends! As Chess.com continues to engage with colleges and universities to bring the game of chess to more and more campuses, we&#39;ve also found that football players seem to love the rich game of chess as...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-texas",
+         "pubDate" : "Mon, 02 Oct 2023 08:00:00",
+         "title" : "BlitzChamps Is Coming To Texas!"
       },
       {
          "description" : "",
@@ -546,14 +578,6 @@ news_feed (
          "title" : "World Senior Team Ch: Italy and Germany top the standings"
       },
       {
-         "description" : "In 2024, the International Chess Federation (FIDE) will celebrate its centenary. As part of the celebrations throughout the year 2024, FIDE is planning numerous activities, including chess festivals, exhibitions displaying historical archives, documents and chess memorabilia. Organizers and federations are encouraged to plan their regular and special events using the hashtag #FIDE100.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-prepares-celebration-centenary",
-         "pubDate" : "Tue, 26 Sep 2023 23:55:00",
-         "title" : "FIDE prepares to celebrate its centenary in 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -616,22 +640,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2023-starts-in-slovenia/",
          "pubDate" : "Tue, 26 Sep 2023 11:52:15",
          "title" : "European Youth Rapid&Blitz Chess Championship 2023 starts in Slovenia"
-      },
-      {
-         "description" : "Rook endings have drawish tendencies, and sometimes even the chance to get a new queen does not help the better side. In the diagram position it is Black who has to fight for a draw. What did he do to show that it is difficult to win rook endings?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-rook-endings-are-drawn",
-         "pubDate" : "Tue, 26 Sep 2023 09:00:00",
-         "title" : "All rook endings are drawn"
-      },
-      {
-         "description" : "She is the 8-year-old prodigy taking the British chess scene by storm. He is a 79-year-old who reached the top as British Champion way back in 1965. Both are united over a love of the ancient game. Chess.com brought together Harrow schoolgirl Bodhana Sivanandan and Peter Lee, the former England international and the only person who has won British championships in both chess and bridge. | Image: chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-prodigy-faces-british-champion",
-         "pubDate" : "Tue, 26 Sep 2023 03:15:00",
-         "title" : "8-year-old prodigy faces 79-year-old British champion"
       },
       {
          "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Shakhriyar Mamedyarov advance in the Division I Winners Bracket of the 2023 AI Cup after winning their quarterfinal matches on day one. With echoes from the finish of their SCC ...",
@@ -1114,14 +1122,6 @@ news_feed (
          "title" : "FIDE Education Commission continues its development activities around the world"
       },
       {
-         "description" : "While chess players are battling it out on the chessboard, GM Igor Kovalenko is fighting for his own and his countrymen&#39;s lives in Ukraine. His fight has now seen him receive an award from the Ukrainian president. The 34-year-old grandmaster is ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukrainian-grandmaster-given-courage-award-by-zelenskyy",
-         "pubDate" : "Mon, 18 Sep 2023 03:08:00",
-         "title" : "Ukrainian Grandmaster Given Courage Award By Zelenskyy"
-      },
-      {
          "description" : "Among other stories, last month's Yahoos post (aka 'chess news in the mainstream press'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), offered this:- <UL> <LI> 2023-08-08: Rishi Sunak to announce &pound;500,000 government funding boost for English chess (ft.com) </UL> <P> The story is a prelude to this month's Flickr photo. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni17.jpg\" WIDTH=400 HEIGHT=265><BR> <A HREF=\"https://www.flickr.com/photos/number10gov/53134435703/\">The Prime Minister hosts young chess champions</A> &#169; Flickr user <I>Number 10</I> under <A HREF=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1360,14 +1360,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/september-1973-1998-on-cover.html",
          "pubDate" : "Tue, 12 Sep 2023 15:01:00",
          "title" : "September 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "We are pleased to announce the England Open team for the forthcoming European Team Chess Championship is GM Nikita Vitiugov 2719 GM David Howell...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-open-team-announcement/",
-         "pubDate" : "Tue, 12 Sep 2023 11:47:50",
-         "title" : "England Open Team Announcement"
       },
       {
          "description" : "The European Chess Union and ECU Trainers Commission, with the support of FIDE development fund announce the annual European Chess Union training program from 20 November 2023 to 21 May 2024 with some of the best European and world's chess trainers. The program will be organized in two groups: The program will start on Monday, 20th of November 2023, and each group will have 24 live sessions until May 2024, with a total of 48 hours of instruction. The program []",
