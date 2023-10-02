@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 145th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-144-chess-history-in-a-nutshell-2",
+         "pubDate" : "Mon, 02 Oct 2023 10:06:03",
+         "title" : "Understanding before Moving 145: Chess history in a nutshell (27)"
+      },
+      {
          "description" : "The favourite teams in both sections of the European Club Cup had little trouble beating much lower-rated opposition in the first round of the seven-day event. In the open, none of the five top seeds (individually) - Magnus Carlsen, Vishy Anand, Richard Rapport, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave - played in round 1. | Pictured: Nino Batsiashvili (Superchess) | Photo: Sandra Schmidt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2023-r1",
          "pubDate" : "Mon, 02 Oct 2023 08:50:00",
          "title" : "Euro Club Cup: Easy wins for the favourites"
+      },
+      {
+         "description" : "This is a forerunner of the reports that will be winging their way to the ECF in coming weeks from the wonderful island of Rhodes,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-from-owen-phillips/",
+         "pubDate" : "Mon, 02 Oct 2023 08:37:24",
+         "title" : "IBCA World Individual Championship - from Owen Phillips"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2664",
+         "pubDate" : "Mon, 02 Oct 2023 07:51:40 +0000",
+         "title" : "Marc'Andria Maurizzi and Candela Francisco, World Junior Champions"
       },
       {
          "description" : "The 38th edition of the European Chess Club Cup and the 27th Women's European Club Cup kicked off in Durres, Albania. The event boasting the record number of participants 110 teams from 34 European federations - has started Saturday evening with an opening ceremony at Grand Blue Fafa Resport, the playing venue of the tournament. Players, guests and officials were welcomed by the President of the European Chess Union Zurab Azmaparaishvili, the President of the Albanian Chess Federation and []",
@@ -258,6 +282,14 @@ news_feed (
          "title" : "The Three Ways To Build Self Confidence"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2655",
+         "pubDate" : "Fri, 29 Sep 2023 11:46:58 +0000",
+         "title" : "The Isle of Man's Grand Chess Spectacle"
+      },
+      {
          "description" : "Drama and excitement dominated the final round of the World Senior Team Championship. In the end, the United States (pictured), England and Iceland reached the podium in the S50 section, while Germany Lasker Schachstiftung GK, England and Slovakia finished in the top three spots in the S65 category. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -365,6 +397,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2659",
+         "pubDate" : "Thu, 28 Sep 2023 13:42:22 +0000",
+         "title" : "FIDE Trainers' Online Seminar scheduled for mid-October 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2658",
          "pubDate" : "Thu, 28 Sep 2023 10:56:23 +0000",
          "title" : "Asian Games: Wei Yi and Zhu Jiner win individual titles"
@@ -376,14 +416,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-chess-championship-certificates/",
          "pubDate" : "Thu, 28 Sep 2023 10:54:31",
          "title" : "36th National Chess Championship certificates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2659",
-         "pubDate" : "Thu, 28 Sep 2023 10:42:22 +0000",
-         "title" : "FIDE Trainers' Online Seminar scheduled for mid-October 2023"
       },
       {
          "description" : "36th National Under-7 Chess Championship, 2023, was held from 21st September to 25th September 2023, at Hotel Stadel, Salt Lake Stadium, Kolkata. The event was",
@@ -472,14 +504,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/the-ten-threat-rule.html",
          "pubDate" : "Wed, 27 Sep 2023 12:57:00",
          "title" : "The ten threat rule?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2655",
-         "pubDate" : "Wed, 27 Sep 2023 11:46:58 +0000",
-         "title" : "The Isle of Man's Grand Chess Spectacle"
       },
       {
          "description" : "Jeremy Silman (1954-2023) got hooked on chess after the Bobby Fischer boom, discovered his writing talent, and went on to get paid handsomely for chess lessons. Last Thursday, the Californian bestselling author died after a long illness. Stefan L&ouml;ffler sent us an obituary. | Photos: JeremySilman.com",
@@ -610,14 +634,6 @@ news_feed (
          "title" : "8-year-old prodigy faces 79-year-old British champion"
       },
       {
-         "description" : "Shortly after the Speed Chess tournament, Magnus Carlsen and Hikaru Nakamura faced each other again, this time in rapid chess. Carlsen demonstrated his fantastic endgame skills in the very first game and went on to win the match. The other quarterfinal winners were Ian Nepomniachtchi, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-d1",
-         "pubDate" : "Tue, 26 Sep 2023 03:10:00",
-         "title" : "AI Cup: Carlsen beats Nakamura"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Shakhriyar Mamedyarov advance in the Division I Winners Bracket of the 2023 AI Cup after winning their quarterfinal matches on day one. With echoes from the finish of their SCC ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -648,6 +664,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2652",
          "pubDate" : "Mon, 25 Sep 2023 10:14:53 +0000",
          "title" : "Chess for Protection: Two years and counting"
+      },
+      {
+         "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. All applications and payments should be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2023-24/",
+         "pubDate" : "Mon, 25 Sep 2023 08:00:20",
+         "title" : "Clubs & Congress Insurance 2023/24"
       },
       {
          "description" : "Al Ain, UAE 12th to 22nd December, 2023 5 Star Hotel The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
@@ -1368,14 +1392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2630",
          "pubDate" : "Mon, 11 Sep 2023 21:12:24 +0000",
          "title" : "Georgia wins the FIDE World Women's Team Championship 2023"
-      },
-      {
-         "description" : "We are pleased to announce that England Women's team for the European Team Chess Championship is &#8212; IM Jovanka Houska 2340 IM Harriet Hunt 2316...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-womens-team-announcement/",
-         "pubDate" : "Mon, 11 Sep 2023 08:52:21",
-         "title" : "England Women's Team Announcement"
       }
    ]
 }
