@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The favourite teams in both sections of the European Club Cup had little trouble beating much lower-rated opposition in the first round of the seven-day event. In the open, none of the five top seeds (individually) - Magnus Carlsen, Vishy Anand, Richard Rapport, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave - played in round 1. | Pictured: Nino Batsiashvili (Superchess) | Photo: Sandra Schmidt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r1",
+         "pubDate" : "Mon, 02 Oct 2023 08:50:00",
+         "title" : "Euro Club Cup: Easy wins for the favourites"
+      },
+      {
+         "description" : "The 38th edition of the European Chess Club Cup and the 27th Women's European Club Cup kicked off in Durres, Albania. The event boasting the record number of participants 110 teams from 34 European federations - has started Saturday evening with an opening ceremony at Grand Blue Fafa Resport, the playing venue of the tournament. Players, guests and officials were welcomed by the President of the European Chess Union Zurab Azmaparaishvili, the President of the Albanian Chess Federation and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-kicked-off-in-durres-albania/",
+         "pubDate" : "Mon, 02 Oct 2023 05:43:07",
+         "title" : "European Open&Women's Chess Club Cups 2023 kicked off in Durres, Albania"
+      },
+      {
          "description" : "A little over a week ago, Magnus Carlsen and Hikaru Nakamura did battle in the Speed Chess Championship. Over three hours, they battered each other at 5+1, 3+1 and 1+1 until Carlsen emerged the victor by the narrowest possible margin. It was a great spectacle, and the thing I liked most of all was how these two great players, when things are going well, 'trust their hands'. Their autopilots can outperform most people even at much slower time limits, and there were a few decisions which I particularly admired. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-mizzou-cu",
          "pubDate" : "Sun, 01 Oct 2023 19:32:16",
          "title" : "Antipov Perfect In Mizzou's Dominant Victory Over UChicago"
-      },
-      {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Sun, 01 Oct 2023 17:50:00",
-         "title" : "World Junior Championships - Round 11 Live!"
       },
       {
          "description" : " I've recently been researching the Leicester player Alfred Lenton, who shared 3rd place and 2nd place in the 1935 and 1936 British Championships. At the time he was an avid student of hypermodern chess, particularly the games of Richard R&eacute;ti, and favoured opening with 1. Nf3 followed by a double fianchetto. In two county matches, <a href=\"https://chessimprover.com/alfreds-double/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Alfred's Double\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/alfreds-double/\">Alfred's Double</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -42,20 +50,20 @@ news_feed (
          "title" : "Instructive endgames from the Armageddon Series"
       },
       {
+         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
+         "pubDate" : "Sun, 01 Oct 2023 15:50:00",
+         "title" : "World Junior Championships - Round 11 Live!"
+      },
+      {
          "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hypermodern-games-kidambi",
          "pubDate" : "Sun, 01 Oct 2023 15:15:00",
          "title" : "Hypermodern games of chess"
-      },
-      {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Sun, 01 Oct 2023 15:00:00",
-         "title" : "European Chess Club Cup - Live!"
       },
       {
          "description" : " Saturday 7th October is the date of the very 1st Street Chess \"Buy, Swap or Sell\" chess book day. From 10am you can come along to sell your old chess books, swap books with anyone else who has brought books in, or simply buy what is on offer. A few of the Street Chess regulars will be bringing in their books to sell, including myself, who is using it as an opportunity to clear some duplicates from my collection. The sale starts at 10am on Saturday 7th October outside King O'Malley's, City Walk, Canberra City. Street Chess will be running as usual from 11am but feel free to drop in a bit earlier than usual to pick up some bargains. ",
