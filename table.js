@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-10-01","95","<a href=http://www.uschess.org/msa/XtblMain.php?202310011382 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-09-30","80","<a href=http://www.uschess.org/msa/XtblMain.php?202309300242 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2023</a>",
 "HOUSTON","2023-09-30","5","<a href=http://www.uschess.org/msa/XtblMain.php?202309300222 target='_blank'>CHESSPANDA09302023SATURDAY</a>",
 "CYPRESS","2023-09-30","24","<a href=http://www.uschess.org/msa/XtblMain.php?202309300162 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -10,6 +11,7 @@ jtable([
 "HOUSTON","2023-09-24","4","<a href=http://www.uschess.org/msa/XtblMain.php?202309248562 target='_blank'>GAME.GUYS.09.24.23</a>",
 "HOUSTON","2023-09-24","16","<a href=http://www.uschess.org/msa/XtblMain.php?202309247182 target='_blank'>SEPT 24TH 2023 SUNDAY SWISS</a>",
 "HOUSTON","2023-09-23","9","<a href=http://www.uschess.org/msa/XtblMain.php?202309235732 target='_blank'>CHESSPANDA09232023SATURDAY</a>",
+"HOUSTON","2023-09-23","32","<a href=http://www.uschess.org/msa/XtblMain.php?202309231092 target='_blank'>SEPT  23RD SCHOLASTIC</a>",
 "CYPRESS","2023-09-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202309225392 target='_blank'>KNIGHTS OF CYPRESS1</a>",
 "SPRING","2023-09-22","31","<a href=http://www.uschess.org/msa/XtblMain.php?202309225322 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-09-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202309225312 target='_blank'>FBCC 2023 FALL OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-03-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202303105432 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 10, 2023</a>",
 "CYPRESS","2023-03-10","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303105392 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-03-05","7","<a href=http://www.uschess.org/msa/XtblMain.php?202303052712 target='_blank'>MARCH 5TH SUNDAY SWISS</a>",
-"HOUSTON","2023-03-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303042062 target='_blank'>SATURDAY ADULT QUADS - MAR 4</a>",
-"HOUSTON","2023-03-04","158","<a href=http://www.uschess.org/msa/XtblMain.php?202303041922 target='_blank'>EASTWOOD ACADEMY SCHOLASTIC TOURNAM</a>",
 ]);
