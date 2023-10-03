@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is normally a battle between two intellects. But the game is so rich and multifaceted that it offers much more. For instance, you can create a wealth of imaginative studies and problems, positions that do not occur in regular games. They can be very profound, very difficult, but also highly entertaining! Here are three that will test your skill and imaginativeness in really fun ways.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment",
+         "pubDate" : "Tue, 03 Oct 2023 12:00:00",
+         "title" : "Chess for fun and entertainment"
+      },
+      {
          "description" : "The diagram position, in which Black is to move, is extremely sharp: Black has two bishops for the queen but both sides have far advanced and dangerous passed pawns and this allows Black to win. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/two-bishops-and-two-queens",
          "pubDate" : "Tue, 03 Oct 2023 09:00:00",
          "title" : "Two bishops and two queens"
+      },
+      {
+         "description" : " &#8220;When your mind tries to verify a preconceived notion you can miss the obvious&#8221; James Cook The internet continues to be a great source for chess entertainment. Take the following position with Black to move courtesy of GM Daniel King. He presented it with the following comment: &#8220;Sometimes you can't see the wood for the <a href=\"https://chessimprover.com/missing-the-obvious-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missing The Obvious (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missing-the-obvious-2/\">Missing The Obvious (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improv",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/missing-the-obvious-2/",
+         "pubDate" : "Tue, 03 Oct 2023 08:30:44",
+         "title" : "Missing The Obvious (2)"
       },
       {
          "description" : "How do you win a stage of the Tour de France? As well as endurance and cycling skills, a rider needs to be able to think strategically. It is an art to choose the right moment to break away from the peloton. If you break too early, you may lose your energy before the finish. If you wait too long, someone else might take the chance instead of you. Timing is also very important in chess, for example when planning a pawn move. | Photo: Hilmar Buschow, Pixabay",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
          "pubDate" : "Sun, 01 Oct 2023 15:50:00",
          "title" : "World Junior Championships - Round 11 Live!"
+      },
+      {
+         "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), we often see an auction item described as a 'figurine'. Does that category include both people and animals? According to one dictionary source, <A HREF=\"https://www.merriam-webster.com/dictionary/figurine\">Figurine Definition & Meaning</A> (merriam-webster.com), the word means, <BLOCKQUOTE> a small carved or molded figure : statuette </BLOCKQUOTE> <P> and has synonyms that can stand for people or animals. A recent example in 'Top eBay Items' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshund",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/nyc-central-park-chess-hustler.html",
+         "pubDate" : "Sun, 01 Oct 2023 15:30:00",
+         "title" : "NYC Central Park Chess Hustler"
       },
       {
          "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-72/",
          "pubDate" : "Wed, 27 Sep 2023 17:25:11",
          "title" : "\"What Say You?\" The 1 Minute Challenge (72)"
-      },
-      {
-         "description" : "The Dragon Master is back with a new episode! We already reviewed the possibility of trapping the white queen in an earlier show. In today's video, Chris points out how important this resource is to gain a strong advantage over White.| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-key-resource-annoying-the-white-queen-9-0-0-0-d5",
-         "pubDate" : "Wed, 27 Sep 2023 16:30:00",
-         "title" : "The Monthly Dragon - Key resource: Annoying the white queen with 9.0-0-0 d5"
       },
       {
          "description" : "My title is taken from those memorable lines in Alexander Pope's Essay on Man, 1733: \"All are but parts of one stupendous whole, Whose body Nature is , and God the soul&hellip;All nature is but art, unknown to thee; All chance, direction, which thou canst not see; All discord, harmony not understood; All partial evil, []",
