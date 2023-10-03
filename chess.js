@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hundreds of thousands of people in the Netherlands play chess or are interested in one of its numerous aspects. Some 20,000 are organized: they belong to a chess club. Quite a few people have found the way to the Max Euwe-Centrum, but many have no idea at all of its facilities and possibilities. ChessBase India's Sagar Shah and Amruta Mokal, who were reporting on the Levitov Chess Week, visited the tournament venue and the chess museum, and give us a complete video tour!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-max-euwe-centre-amsterdam",
+         "pubDate" : "Tue, 03 Oct 2023 20:00:00",
+         "title" : "The Max Euwe Centre Amsterdam"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from CityPark, Chess Club Executive Director Tony Rich hosts the opening ceremony of the 2023 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the U.S. Chess Hall of Fame. The fields and inductees are listed below. Play begins Thursday, October 5 at 1 P.M. CDT. 2023 U.S. Chess Championship: Caruana, W. So, Aronian, Dominguez, Shankland, Sevian, Niemann, Robson, Swiercz, Xiong, Mishra, Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-opening-ceremony-hof-inductions",
+         "pubDate" : "Tue, 03 Oct 2023 19:00:13",
+         "title" : "2023 U.S. Chess Championships: Opening Ceremony & HOF Inductions"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 U.S. Senior Champion Grandmaster Melikset Khachiyan lectures on opening preparation and how much it affects the results of your games. 2023.10.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-do-openings-affect-your-game-results-grandmasters-choice-gm-melik-khachiyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SoOajq45Hrk.jpg?itok=ItHOu4Qw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-do-openings-affect-your-game-results-grandmasters-choice-gm-melik-khachiyan",
+         "pubDate" : "Tue, 03 Oct 2023 19:00:13",
+         "title" : "How Do Openings Affect Your Game Results? | Grandmaster's Choice - GM Melik Khachiyan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering has declared... chess puzzle night! 2023.10.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-puzzles-piece-piece-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_mANk4cwNg.jpg?itok=VoeXcnAF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-puzzles-piece-piece-beginner-breakdown",
+         "pubDate" : "Tue, 03 Oct 2023 19:00:13",
+         "title" : "Chess Puzzles: Piece-by-Piece | Beginner Breakdown"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2667",
+         "pubDate" : "Tue, 03 Oct 2023 16:17:51 +0000",
+         "title" : "Five years since the election of Arkady Dvorkovich as the President of FIDE"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-bishops-and-two-queens",
          "pubDate" : "Tue, 03 Oct 2023 09:00:00",
          "title" : "Two bishops and two queens"
-      },
-      {
-         "description" : " &#8220;When your mind tries to verify a preconceived notion you can miss the obvious&#8221; James Cook The internet continues to be a great source for chess entertainment. Take the following position with Black to move courtesy of GM Daniel King. He presented it with the following comment: &#8220;Sometimes you can't see the wood for the <a href=\"https://chessimprover.com/missing-the-obvious-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Missing The Obvious (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/missing-the-obvious-2/\">Missing The Obvious (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improv",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/missing-the-obvious-2/",
-         "pubDate" : "Tue, 03 Oct 2023 08:30:44",
-         "title" : "Missing The Obvious (2)"
       },
       {
          "description" : "How do you win a stage of the Tour de France? As well as endurance and cycling skills, a rider needs to be able to think strategically. It is an art to choose the right moment to break away from the peloton. If you break too early, you may lose your energy before the finish. If you wait too long, someone else might take the chance instead of you. Timing is also very important in chess, for example when planning a pawn move. | Photo: Hilmar Buschow, Pixabay",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-mizzou-cu",
          "pubDate" : "Sun, 01 Oct 2023 19:32:16",
          "title" : "Antipov Perfect In Mizzou's Dominant Victory Over UChicago"
-      },
-      {
-         "description" : " I've recently been researching the Leicester player Alfred Lenton, who shared 3rd place and 2nd place in the 1935 and 1936 British Championships. At the time he was an avid student of hypermodern chess, particularly the games of Richard R&eacute;ti, and favoured opening with 1. Nf3 followed by a double fianchetto. In two county matches, <a href=\"https://chessimprover.com/alfreds-double/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Alfred's Double\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/alfreds-double/\">Alfred's Double</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/alfreds-double/",
-         "pubDate" : "Sun, 01 Oct 2023 17:22:15",
-         "title" : "Alfred's Double"
       },
       {
          "description" : "The Grand Finale of the Armageddon Series took place on September 14-20 at the World Chess Club in Berlin, with Jan-Krzysztof Duda eventually emerging as the winner. GM Karsten M&uuml;ller found instructive endgame positions to share with us. Replay his analyses and you are sure to learn and enjoy! | Photos: World Chess",
@@ -320,14 +344,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-2023-report-rounds-8-and-9/",
          "pubDate" : "Sat, 30 Sep 2023 07:06:01",
          "title" : "World Junior 2023 Report | Rounds 8 and 9"
-      },
-      {
-         "description" : " This week, we're going to do something a little different, talk about beginners' treatment of the pawn and why it's so poor. This topic came up in my chess classes last week and thought I'd share it with you. I teach beginning players who range in age from six to sixteen. Most of my students <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred and Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/\">A Foundation for Beginners One Hundred and Four</a> appeared first on <a rel=\"nofol",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-and-four/",
-         "pubDate" : "Sat, 30 Sep 2023 05:52:35",
-         "title" : "A Foundation for Beginners One Hundred and Four"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King examines games from the World Under 20 Championship taking place in Mexico City. All of these games feature checkmating attacks - some were found, some were missed! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "World Junior Chess Championship 2023: Round 6 Report"
       },
       {
-         "description" : "For the first time in its history, Wieza Pomot Pegow managed to win the Polish Team Championship. The event was held as a 10-team round-robin tournament in Lublin. Almost all German national players were successfully involved in various teams. Votum SA Polonia Wrocław and KSz Hetman Płock finished in clear second and third place, respectively. | Photo: Andrei Volokitin (X)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wieza-pomot-pegow-win-polish-teams-2023",
-         "pubDate" : "Thu, 28 Sep 2023 00:15:00",
-         "title" : "Wieza Pomot Pegow win first-ever Polish Team Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2656",
          "pubDate" : "Wed, 27 Sep 2023 18:44:45 +0000",
          "title" : "Carissa Yip takes the sole leadership in World Juniors"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-72/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (72)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-72/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (72)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-72/",
-         "pubDate" : "Wed, 27 Sep 2023 17:25:11",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (72)"
       },
       {
          "description" : "My title is taken from those memorable lines in Alexander Pope's Essay on Man, 1733: \"All are but parts of one stupendous whole, Whose body Nature is , and God the soul&hellip;All nature is but art, unknown to thee; All chance, direction, which thou canst not see; All discord, harmony not understood; All partial evil, []",
@@ -784,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2649",
          "pubDate" : "Sun, 24 Sep 2023 12:01:37 +0000",
          "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
-      },
-      {
-         "description" : " You'll recognise this position, I'm sure. If not, then you should certainly read on. At least one book describes this much anthologised position as the most important pawn ending ever. If you have any knowledge at all of chess history you'll know this is Cohn Rubinstein (St Petersburg 1909) with Black about to play <a href=\"https://chessimprover.com/classic-confusion/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Classic Confusion\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/classic-confusion/\">Classic Confusion</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/classic-confusion/",
-         "pubDate" : "Sun, 24 Sep 2023 09:00:03",
-         "title" : "Classic Confusion"
       },
       {
          "description" : " One month ago, African Chess was on display. Twenty-two of Africa's finest chess players (17 Open and 5 Women) participated in the World Cup tournament in Baku, Azerbaijan. Magnus Carlsen scored a historic victory winning the final over phenom Rameshbabu Praggnanandhaa. The results of the tournament clearly showed that a generation is set to take The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/\">After World Cup, Where is African Chess?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1114,14 +1106,6 @@ news_feed (
          "title" : "FIDE Junior Championship: 5 Indian players miss out due to visa issues"
       },
       {
-         "description" : " &#8220;All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.&#8221; Sun Tzu These days we are enjoying some great games at the 2023 Rugby World Cup from France. One such game was Fiji Australia 22-15, the first win by the Flying <a href=\"https://chessimprover.com/planning-for-victory-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Planning for Victory (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/planning-for-victory-5/\">Planning for Victory (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/planning-for-victory-5/",
-         "pubDate" : "Tue, 19 Sep 2023 10:51:33",
-         "title" : "Planning for Victory (5)"
-      },
-      {
          "description" : "Chess.com is excited to announce a new treat for the avid online chess fan&#38;mdash;a dedicated chess browser created in partnership with leading web innovator Opera. Using this enhancement, chess will be put right inside the browser, meaning you can...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1186,14 +1170,6 @@ news_feed (
          "title" : "2023 ACT Junior Chess Championship - Coming up"
       },
       {
-         "description" : " The other day one of my clubmates asked me about the Busch-Gass Gambit, which, I must admit, was a new one on me. There are a few videos around so it might be something you run into. It starts like this: 1. e4 e5 2. Nf3 Bc5?! Most books will tell you, if they mention <a href=\"https://chessimprover.com/busch-gass-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Busch-Gass Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/busch-gass-gambit/\">Busch-Gass Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/busch-gass-gambit/",
-         "pubDate" : "Sun, 17 Sep 2023 10:00:22",
-         "title" : "Busch-Gass Gambit"
-      },
-      {
          "description" : "Today, I'm going to show you how to defend a lost position. Let's face it, we all get into lost positions from time to time. It is great to avoid them in the first place, but defending them the right way will also make a huge difference to your results. Lost positions usually aren't fun []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1208,14 +1184,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-great-chess-cheating-scandal-revisited/",
          "pubDate" : "Sat, 16 Sep 2023 11:29:57",
          "title" : "The great chess 'cheating' scandal revisited"
-      },
-      {
-         "description" : " The last time we met, we looked at a simple King and Pawn against lone King endgame position. While this combination of material is common, it's more likely that both players will have at least one pawn each. This changes things up a bit because both of you must promote a pawn and stop an <a href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners One Hundred Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-one-hundred-three/\">A Foundation for Beginners One Hundred Three</a> appeared first on <a rel=\"nofollow\" href=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-one-hundred-three/",
-         "pubDate" : "Sat, 16 Sep 2023 10:00:52",
-         "title" : "A Foundation for Beginners One Hundred Three"
       },
       {
          "description" : "For the current Friday series, I closed the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html\">Adsense and CFAA's CMP</A> (September 2023; CMP = Google's Consent Management Platform), in a holding pattern:- <BLOCKQUOTE> After adding the logo, my GDPR message was accepted. As I was preparing this post for publishing, the message still wasn't showing on my pages, so maybe I did something wrong. I'll come back to it for next Friday's post. </BLOCKQUOTE> <P> I had indeed done something wrong. I was watching the top level page for my domain which doesn't display an ad. The Adsense code to display an ad is the trigger for the consent message. When I ac",
@@ -1282,14 +1250,6 @@ news_feed (
          "title" : "The Idea of h4-h5 in Different Lines | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f2EydPV3oSA",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opening-preparation-prepare-pro-gm-victor-mikhalevski",
-         "pubDate" : "Thu, 14 Sep 2023 18:40:36",
-         "title" : "Opening Preparation | Prepare Like A Pro - GM Victor Mikhalevski"
-      },
-      {
          "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1338,14 +1298,6 @@ news_feed (
          "title" : "FIDE World Amateur Championship 2023 - registration deadline extended"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 12, 2023</strong> - GM Sam Sevian won the <a href=\"https://www.uschesschamps.com/2023-champions-showdown-chess-9lx/overview\" target=\"_blank\">2023 Champions Showdown: Chess 9LX</a> after a brilliant final day, where he defeated a competitive field including legendary former World Champion Garry Kasparov and World No. 2 Fabiano Caruana to take home the $37,500 first place prize. Chess 9LX was hosted by the Saint Louis Chess Club at the World Chess Hall of Fame September 8-11, 2023. </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Sam Sevian wins 2023 Chess 9LX</div><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmaster-sam-sevian-delivers-brilliant-performance-win-2023-champions-showdown-chess-9lx",
-         "pubDate" : "Wed, 13 Sep 2023 17:31:02",
-         "title" : "Grandmaster Sam Sevian Delivers Brilliant Performance to Win 2023 Champions Showdown: Chess 9LX "
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,30 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2631",
          "pubDate" : "Wed, 13 Sep 2023 05:30:51 +0000",
          "title" : "The deadline for submitting 2028 Chess Olympiad bid set for November 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lJHQsvKnNbA.jpg?itok=BtHHQ7BF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski",
-         "pubDate" : "Wed, 13 Sep 2023 03:39:36",
-         "title" : "My Beautiful (Not Easy!) Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (71)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-71/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (71)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-71/",
-         "pubDate" : "Tue, 12 Sep 2023 21:03:43",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (71)"
-      },
-      {
-         "description" : " The current Gungahlin Chess Club tournament, the Korda Classic, ended in a tie for 1st between Miles Patterson and Riley Byng. However, the last round games saw both games decided by an element of bluffing. In Riley's game he had been outplayed in the middlegame, but in a lost ending he saw a chance for a swindle. However, when it arrived on the board, he realised it didn't work, due to a miscounting of pawn moves. However, his opponent made the same mistake in counting the pawn moves, and chose a losing line. In the Patterson game, he was well on top when his opponent played a surprising queen sacrifice. As he had not considered this possibility, he had to carefully check the follow up mov",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/a-bit-of-bluff.html",
-         "pubDate" : "Tue, 12 Sep 2023 15:31:00",
-         "title" : "A bit of a bluff?"
       }
    ]
 }
