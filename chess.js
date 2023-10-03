@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram position, in which Black is to move, is extremely sharp: Black has two bishops for the queen but both sides have far advanced and dangerous passed pawns and this allows Black to win. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-bishops-and-two-queens",
+         "pubDate" : "Tue, 03 Oct 2023 09:00:00",
+         "title" : "Two bishops and two queens"
+      },
+      {
          "description" : "How do you win a stage of the Tour de France? As well as endurance and cycling skills, a rider needs to be able to think strategically. It is an art to choose the right moment to break away from the peloton. If you break too early, you may lose your energy before the finish. If you wait too long, someone else might take the chance instead of you. Timing is also very important in chess, for example when planning a pawn move. | Photo: Hilmar Buschow, Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2665",
          "pubDate" : "Mon, 02 Oct 2023 18:52:22 +0000",
          "title" : "FIDE October 2023 rating list published"
+      },
+      {
+         "description" : "In the Endgame Magic Show #251 Karsten M&uuml;ller analyses endgame highlights from the FIDE World Cup, which was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-2",
+         "pubDate" : "Mon, 02 Oct 2023 18:00:00",
+         "title" : "Endgame Magic #251: Highlights from the FIDE World Cup Part 1"
       },
       {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -554,14 +570,6 @@ news_feed (
          "title" : "The ten threat rule?"
       },
       {
-         "description" : "Jeremy Silman (1954-2023) got hooked on chess after the Bobby Fischer boom, discovered his writing talent, and went on to get paid handsomely for chess lessons. Last Thursday, the Californian bestselling author died after a long illness. Stefan L&ouml;ffler sent us an obituary. | Photos: JeremySilman.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeremy-silman-1954-2023",
-         "pubDate" : "Wed, 27 Sep 2023 10:00:00",
-         "title" : "Jeremy Silman (1954-2023)"
-      },
-      {
          "description" : "It seems like no one can beat GM Magnus Carlsen these days. In just the last five weeks, he&#39;s won the World Cup, the Julius Baer Generations Cup, and the Speed Chess Championship. After advancing in the AI Cup earlier in the day on September 26, h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://aicf.in/fide-trainer-seminars-2/",
          "pubDate" : "Wed, 27 Sep 2023 03:07:54",
          "title" : "FIDE TRAINER SEMINARS"
-      },
-      {
-         "description" : "Ian Nepomniachtchi collected four wins and a loss on the final day of action at the Levitov Chess Week to claim clear tournament victory with 12&frac12; (out of 18) points. Nepo had also won the first edition of the event sponsored by Ilya Levitov back in 2019. This time around, he finished two points ahead of his closest pursuers, Levon Aronian and Peter Svidler. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-d4",
-         "pubDate" : "Wed, 27 Sep 2023 01:40:00",
-         "title" : "Ian Nepomniachtchi grabs second Levitov Chess Week title"
       },
       {
          "description" : "",
