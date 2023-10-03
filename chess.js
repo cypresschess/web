@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Tue, 03 Oct 2023 15:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
+         "description" : "While there were a few upsets on individual boards at the open section of the European Club Cup, none of the big teams gave up match points in Monday's second round, with Magnus Carlsen making his debut for Norway's Offerspill. In the women's section, on the other hand, top seeds Monte Carlo drew Centar Asseco See, the seventh seeds from North Macedonia. Stavroula Tsolakidou beat Mariya Muzychuk with black on the top board. | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r2",
+         "pubDate" : "Tue, 03 Oct 2023 14:15:00",
+         "title" : "Euro Club Cup: Monte Carlo give up a point in the women's section"
+      },
+      {
+         "description" : " A few weeks ago the following game was played in the LFG Round Robin. To the spectators, Black's 8th move came as a real surprise, as it was believed that sacrificing the exchange (championed by Blackburne in the 19th century) did not give Black enough compensation. But by playing a new move (9. ... Qc7) Black set White a significant number of problems. Eventually White lost their way and Black was left with a winning position. It seems that the line actually works for Black, although trying to find other examples was difficult (only a few games against 1900 rated players). So further investigation may be required before the exchange sacrifice is totally rehabilitated. <br /> <b>Magrini,Fab",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/an-old-line-revisited.html",
+         "pubDate" : "Tue, 03 Oct 2023 12:18:00",
+         "title" : "An old line revisited"
+      },
+      {
          "description" : "Chess is normally a battle between two intellects. But the game is so rich and multifaceted that it offers much more. For instance, you can create a wealth of imaginative studies and problems, positions that do not occur in regular games. They can be very profound, very difficult, but also highly entertaining! Here are three that will test your skill and imaginativeness in really fun ways.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "Endgame Magic #251: Highlights from the FIDE World Cup Part 1"
       },
       {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Mon, 02 Oct 2023 15:00:00",
-         "title" : "European Chess Club Cup - Live!"
-      },
-      {
          "description" : "The four books on this year's short list illustrated the wide range of current chess publishing which made the final choice difficult. The book chosen...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-october-2023",
          "pubDate" : "Mon, 02 Oct 2023 13:30:00",
          "title" : "FIDE ratings October 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2666",
+         "pubDate" : "Mon, 02 Oct 2023 11:28:08 +0000",
+         "title" : "European Chess Club Cup 2023 starts in Durres, Albania"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 145th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
@@ -528,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wieza-pomot-pegow-win-polish-teams-2023",
          "pubDate" : "Thu, 28 Sep 2023 00:15:00",
          "title" : "Wieza Pomot Pegow win first-ever Polish Team Championship"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave proved to be a worthy opponent for Magnus Carlsen in the final of the AI Cup winners' bracket. In the end, however, the Norwegian prevailed in Armageddon. In the losers' bracket, Ian Nepomniachtchi defeated Alireza Firouzja, while Anish Giri got the better of Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-d3",
-         "pubDate" : "Thu, 28 Sep 2023 00:10:00",
-         "title" : "AI Cup: Carlsen beats MVL, reaches Grand Final"
       },
       {
          "description" : "",
@@ -1376,22 +1392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/a-bit-of-bluff.html",
          "pubDate" : "Tue, 12 Sep 2023 15:31:00",
          "title" : "A bit of a bluff?"
-      },
-      {
-         "description" : "The left side of last month's 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/august-1973-1998-on-cover.html\">August 1973 & 1998</A> (August 2023) featured Robert Byrne, 'who finished 3rd at the Leningrad Interzonal and thus qualified for the Candidates' Matches'. This month features the winner of the second Interzonal for that cycle. It was the first World Chess Championship cycle to have more than one Interzonal. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni12.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> '1998 U.S. CHESSathon' &#149; 'Interplay Junior Championship ... Junior Open ... Cadet Championship ... National Scholas",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/september-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 12 Sep 2023 15:01:00",
-         "title" : "September 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "The European Chess Union and ECU Trainers Commission, with the support of FIDE development fund announce the annual European Chess Union training program from 20 November 2023 to 21 May 2024 with some of the best European and world's chess trainers. The program will be organized in two groups: The program will start on Monday, 20th of November 2023, and each group will have 24 live sessions until May 2024, with a total of 48 hours of instruction. The program []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-union-academy/",
-         "pubDate" : "Tue, 12 Sep 2023 11:39:43",
-         "title" : "European Chess Union Academy"
       }
    ]
 }
