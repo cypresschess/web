@@ -50,6 +50,14 @@ news_feed (
          "title" : "European Chess Club Cup - Live!"
       },
       {
+         "description" : "Anastasios Koukas and Michael Duke emerged at the top of the 2000+ section in the qualifiers on Saturday and Sunday for the ChessPunks Champs 2023.&#38;nbsp; In the 1700-1999 division, EvertonEejit clinched the first qualifier with a round to spare ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-qualifiers",
+         "pubDate" : "Tue, 03 Oct 2023 14:30:18",
+         "title" : "Koukas and Duke Top Inaugural ChessPunks Champs Qualifiers"
+      },
+      {
          "description" : "While there were a few upsets on individual boards at the open section of the European Club Cup, none of the big teams gave up match points in Monday's second round, with Magnus Carlsen making his debut for Norway's Offerspill. In the women's section, on the other hand, top seeds Monte Carlo drew Centar Asseco See, the seventh seeds from North Macedonia. Stavroula Tsolakidou beat Mariya Muzychuk with black on the top board. | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-ai-cup-play-in-mamedyarov-nakamura-giri-vachier-lagrave",
          "pubDate" : "Mon, 18 Sep 2023 20:47:00",
          "title" : "Mamedyarov Defeats Caruana 2-0, Joins Nakamura, Giri, Vachier-Lagrave In Division I"
-      },
-      {
-         "description" : "The US Chess Federation&#39;s handling of allegations of sexual misconduct continued in the spotlight after Randy Bauer, the President of the federation, made public comments on social media. Former U.S. Women&#39;s Chess Champion WGM Jennifer Shahade r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/us-chess-president-faces-calls-for-resignation",
-         "pubDate" : "Mon, 18 Sep 2023 14:46:00",
-         "title" : "US Chess President Faces Calls For Resignation After Social Media Comments"
       },
       {
          "description" : "",
