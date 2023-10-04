@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Allegations of abuse against Alejandro Ramirez, who was a commentator and coach at the Saint Louis Chess Centre, have shaken the chess world. The Board of Directors of the Saint Louis Chess Club now admits that it did not act early enough and has published improvements to its policies in a statement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
+         "pubDate" : "Wed, 04 Oct 2023 21:00:00",
+         "title" : "Statement of the Saint Louis Chess Club"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 5-18, see 24 players across both tournaments (fields below) fight for a $400,000 prize fund. Can Caruana and Yu defend their titles? USChessChamps.com U.S. CHESS CHAMPIONSHIP<br /> Fabiano Caruana<br /> Wesley So<br /> Levon Aronian<br /> Leinier Dominguez<br /> Sam Shankland<br /> Sam Sevian<br /> Hans Niemann<br /> Ray Robson<br /> Dariusz Swiercz<br /> Jeffery Xiong<br /> Abhimanyu Mishra<br /> Andrew Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-promo",
+         "pubDate" : "Wed, 04 Oct 2023 16:01:12",
+         "title" : "2023 U.S. Chess Championships | PROMO"
+      },
+      {
          "description" : "On Thursday, 5 October, the US National Championships and the US Women's National Championships will begin in Saint Louis, each with 12 participants. Everyone with a name and a place in US top chess will be there. Only Hikaru Nakamura is missing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,28 @@ news_feed (
          "title" : "European Chess Club Cup - Live!"
       },
       {
+         "description" : "Nine teams still have a perfect score after three rounds in the open section of the European Club Cup in Albania. Offerspill, led by Magnus Carlsen, is one of these nine teams. The former world champion won his second consecutive game after replying to 1.e4 by 1...a6 against IM Bojan Maksimovic. In the women's section, TAJFUN SK Ljubljana and Garuda Ajka BSK are sharing the lead with 6/6 match points each. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r3",
+         "pubDate" : "Wed, 04 Oct 2023 11:00:00",
+         "title" : "Euro Club Cup: Magnus plays 1...a6, wins"
+      },
+      {
          "description" : "Geurt Gijssen, born in 1934, is one of the most famous chess arbiters in the world of chess. He was the chief arbiter for the World Championship match between Kasparov and Karpov in 1987. He has been the top arbiter for several world championships, Olympiads and also the chairman of the FIDE rules commission for 20 years! What makes him so special? In this interview IM Sagar Shah sits down with Geurt and gets to know all about his life story. Towards the end Geurt also gives his advice to young and budding people who want to become chess arbiters.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-legendary-geurt-gijssen",
          "pubDate" : "Wed, 04 Oct 2023 10:51:02",
          "title" : "The legendary Geurt Gijssen"
+      },
+      {
+         "description" : "You can&#39;t keep GM Hikaru Namakura down for long. He won the early Titled Tuesday on October 3, his first since a perfect score on August 22 and his 57th overall since October 2020. Nakamura then nearly won the late event as well, but it ended up g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-october-3-2023",
+         "pubDate" : "Wed, 04 Oct 2023 09:10:00",
+         "title" : "Nakamura Back On Top Tuesday, Nearly Sweeps"
       },
       {
          "description" : "The influential St. Louis Chess Club admits they&#39;ve &#34;remained silent for too long&#34; and says that they &#34;should have done more to address the allegations&#34; of sexual misconduct against GM Alejandro Ramirez.&#38;nbsp; 229 days after two-time U.S. Women&#39;...",
@@ -82,7 +114,7 @@ news_feed (
          "title" : "October 1973 & 1998 'On the Cover'"
       },
       {
-         "description" : "Anastasios Koukas and Michael Duke emerged at the top of the 2000+ section in the qualifiers on Saturday and Sunday for the ChessPunks Champs 2023.&#38;nbsp; In the 1700-1999 division, EvertonEejit clinched the first qualifier with a round to spare ...",
+         "description" : "Anastasios Koukas and Michael Duke emerged at the top of the 2000+ section in the qualifiers for the ChessPunks Champs 2023. In the 1700-1999 division, EvertonEejit clinched the first qualifier with a round to spare while Tushar Anand won the se...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-qualifiers",
@@ -402,14 +434,6 @@ news_feed (
          "title" : "Carlsen and Anand to play in European Club Cup"
       },
       {
-         "description" : "The AI Cup is the sixth and final 'regular' event of the 2023 Champions Chess Tour. The tournament, which takes place on September 25-29, featured three divisions, each a double-elimination knockout, where losing one match drops the player to a lower bracket - from where he/she can still win the tournament. | Follow the games live with expert commentary from 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-live",
-         "pubDate" : "Fri, 29 Sep 2023 17:50:00",
-         "title" : "AI Cup - Grand Final Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -456,14 +480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2655",
          "pubDate" : "Fri, 29 Sep 2023 11:46:58 +0000",
          "title" : "The Isle of Man's Grand Chess Spectacle"
-      },
-      {
-         "description" : "Drama and excitement dominated the final round of the World Senior Team Championship. In the end, the United States (pictured), England and Iceland reached the podium in the S50 section, while Germany Lasker Schachstiftung GK, England and Slovakia finished in the top three spots in the S65 category. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-teams-2023-r9",
-         "pubDate" : "Fri, 29 Sep 2023 11:00:00",
-         "title" : "World Senior Team Ch: USA and Germany Lasker GK grab gold medals"
       },
       {
          "description" : " The AI Cup took place Mon 25th to Fri 29th Sep 2023. This was the final event of the online Champions Chess Tour before the finals in person in Toronto December 9 to December 16, 2023 (Carlsen, Nakamura and Abdusattorov have made it and Caruana seems a likely fourth player of the 8 player field). Division 1 of the AI Cup has 8 players: Magnus Carlsen, Alireza Firouzja, Denis Lazavik, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura and Anish Giri. MVL beat Carlsen twice on the final day to win Division 1. Vladimir Fedoseev won Division 2 and Sam Sevian Division 3. ",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "FIDE Junior Championship: 5 Indian players miss out due to visa issues"
       },
       {
-         "description" : "Chess.com is excited to announce a new treat for the avid online chess fan&#38;mdash;a dedicated chess browser created in partnership with leading web innovator Opera. Using this enhancement, chess will be put right inside the browser, meaning you can...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/opera-launches-new-custom-chess-browser",
-         "pubDate" : "Tue, 19 Sep 2023 00:55:00",
-         "title" : "For The True Chess Fan: Opera Launches New Custom Chess Browser"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2023/sep/15/chess-kasparov-subsides-at-st-louis-while-sam-sevian-scores-career-best",
          "pubDate" : "Fri, 15 Sep 2023 07:00:55",
          "title" : "Chess: Kasparov subsides at St Louis while Sam Sevian scores career best"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.14<br /> Victor Mikhalevski vs. Wonder Liang, 2023: D35 Queen&#039;s Gambit Declined, exchange variation<br /> Mikhalevski vs. Tymur Keleberda, 2023: E25 Nimzo-Indian, Saemisch, Keres variation<br /> Mikhalevski vs. Franz Braeuer, 2023: C45 Scotch, Mieses variation<br /> <a href=\"https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01\">https://2700chess.com/games/braeuer-mikhalevski-r8-maia-2023-09-01</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/idea-h4-h5-different-lines-prepare-pro-gm-victor-mikhalevski",
-         "pubDate" : "Fri, 15 Sep 2023 03:41:24",
-         "title" : "The Idea of h4-h5 in Different Lines | Prepare Like A Pro - GM Victor Mikhalevski"
       },
       {
          "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
