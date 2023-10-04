@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2023",
+         "pubDate" : "Wed, 4 Oct 2023 22:48:00",
+         "title" : "US Chess Championships 2023 - Games and Results"
+      },
+      {
+         "description" : " The 76th Russian Championships take place 1st to 12th October 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/76th-ch-rus-2023",
+         "pubDate" : "Wed, 4 Oct 2023 22:41:00",
+         "title" : "76th ch-RUS 2023 - Games and Results"
+      },
+      {
+         "description" : " The 38th European Club Cup takes place in Durres, Albania 30th September to 8th October 2023. Magnus Carlsen turns out for his club Offerspill and other strong players such as Anand, Rapport, Mamedyarov and MVL also play.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/38th-european-club-cup-2023",
+         "pubDate" : "Wed, 4 Oct 2023 22:40:00",
+         "title" : "38th European Club Cup 2023 - Games and Results"
+      },
+      {
          "description" : "Allegations of abuse against Alejandro Ramirez, who was a commentator and coach at the Saint Louis Chess Centre, have shaken the chess world. The Board of Directors of the Saint Louis Chess Club now admits that it did not act early enough and has published improvements to its policies in a statement.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
          "pubDate" : "Wed, 04 Oct 2023 21:00:00",
          "title" : "Statement of the Saint Louis Chess Club"
+      },
+      {
+         "description" : "Four rounds have been already played at the 38th European Chess Club Cup and at the 27th European Women's Chess Club Cup in Durres, Albania, and only three rounds left to be played before the announcement of the Winners. Only four teams remained perfect in the Open section and emerged as the leaders with 8 match points: Offerspill Sjakklubb (Norway), Asnieres Le Grand Echiquier (France), Novy Bor (Czech Republic) and Superchess (Romania). The leaders prevailed in very exciting matches, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-are-halfway-through/",
+         "pubDate" : "Wed, 04 Oct 2023 20:51:45",
+         "title" : "European Open&Women's Chess Club Cups 2023 are halfway through"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 5-18, see 24 players across both tournaments (fields below) fight for a $400,000 prize fund. Can Caruana and Yu defend their titles? USChessChamps.com U.S. CHESS CHAMPIONSHIP<br /> Fabiano Caruana<br /> Wesley So<br /> Levon Aronian<br /> Leinier Dominguez<br /> Sam Shankland<br /> Sam Sevian<br /> Hans Niemann<br /> Ray Robson<br /> Dariusz Swiercz<br /> Jeffery Xiong<br /> Abhimanyu Mishra<br /> Andrew Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
