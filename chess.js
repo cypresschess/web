@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Geurt Gijssen, born in 1934, is one of the most famous chess arbiters in the world of chess. He was the chief arbiter for the World Championship match between Kasparov and Karpov in 1987. He has been the top arbiter for several world championships, Olympiads and also the chairman of the FIDE rules commission for 20 years! What makes him so special? In this interview IM Sagar Shah sits down with Geurt and gets to know all about his life story. Towards the end Geurt also gives his advice to young and budding people who want to become chess arbiters.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-legendary-geurt-gijssen",
+         "pubDate" : "Wed, 04 Oct 2023 10:51:02",
+         "title" : "The legendary Geurt Gijssen"
+      },
+      {
+         "description" : "The influential St. Louis Chess Club admits they&#39;ve &#34;remained silent for too long&#34; and says that they &#34;should have done more to address the allegations&#34; of sexual misconduct against GM Alejandro Ramirez.&#38;nbsp; 229 days after two-time U.S. Women&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/st-louis-chess-club-issues-statement-on-alejandro-ramirez",
+         "pubDate" : "Wed, 04 Oct 2023 03:30:17",
+         "title" : "St. Louis Chess Club Issues Statement on Alejandro Ramirez"
+      },
+      {
          "description" : "Hundreds of thousands of people in the Netherlands play chess or are interested in one of its numerous aspects. Some 20,000 are organized: they belong to a chess club. Quite a few people have found the way to the Max Euwe-Centrum, but many have no idea at all of its facilities and possibilities. ChessBase India's Sagar Shah and Amruta Mokal, who were reporting on the Levitov Chess Week, visited the tournament venue and the chess museum, and give us a complete video tour!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2667",
          "pubDate" : "Tue, 03 Oct 2023 16:17:51 +0000",
          "title" : "Five years since the election of Arkady Dvorkovich as the President of FIDE"
+      },
+      {
+         "description" : "In last month's post about American chess magazines of 50 and 25 years ago -- <A HREF=\"https://chessforallages.blogspot.com/2023/09/september-1973-1998-on-cover.html\">September 1973 & 1998 'On the Cover'</A> (September 2023) -- the 1973 side was about the World Championship and the 1998 side was about important American tournaments. For this month's post, the roles are reversed. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj03.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Hall of Fame Inducts Milan Vukcevich' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> U.S. Open Champion Norman Weinstein of Massachusetts with his trophy. See [insi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/october-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 03 Oct 2023 15:56:00",
+         "title" : "October 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -504,14 +528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-4",
          "pubDate" : "Thu, 28 Sep 2023 17:48:00",
          "title" : "Vachier-Lagrave Beats Nepomniachtchi To Set Up Rematch With Carlsen"
-      },
-      {
-         "description" : "In the seventh round of the World Junior Championship, decisive results were seen on the top three boards, with Marc'Andria Maurizzi, Gleb Dudin (pictured) and Santiago Avila winning to enter the next round as co-leaders. Carissa Yip, in the meantime, is now the sole leader in the women's section. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-r7",
-         "pubDate" : "Thu, 28 Sep 2023 17:40:00",
-         "title" : "World Junior Ch: Maurizzi, Dudin and Avila in the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q5fS1ZU4IcA.jpg?itok=T9bN7Zud\" alt=\"\" /></a></div>",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2023 kicks off in Struga, North Macedonia"
       },
       {
-         "description" : "GMs Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura, and Anish Giri ascended to the top in the 2023 AI Cup Play-in on Monday, claiming the remaining four spots in the Division I knockout. They will join GMs&#38;nbsp;Magnus Carlsen, Alir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-ai-cup-play-in-mamedyarov-nakamura-giri-vachier-lagrave",
-         "pubDate" : "Mon, 18 Sep 2023 20:47:00",
-         "title" : "Mamedyarov Defeats Caruana 2-0, Joins Nakamura, Giri, Vachier-Lagrave In Division I"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1296,22 +1304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/fide-world-amateur-championship-2023-registration-deadline-extended/",
          "pubDate" : "Thu, 14 Sep 2023 08:49:33",
          "title" : "FIDE World Amateur Championship 2023 - registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2632",
-         "pubDate" : "Wed, 13 Sep 2023 09:53:12 +0000",
-         "title" : "FIDE World Amateur Championship 2023: Registration deadline extended"
-      },
-      {
-         "description" : "The ECU Magazine August 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: The ECU E-Magazine August 2023 can be read online together with interactive links here, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-august-2023/",
-         "pubDate" : "Wed, 13 Sep 2023 08:12:37",
-         "title" : "ECU E-Magazine August 2023"
       }
    ]
 }
