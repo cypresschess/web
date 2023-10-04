@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Thursday, 5 October, the US National Championships and the US Women's National Championships will begin in Saint Louis, each with 12 participants. Everyone with a name and a place in US top chess will be there. Only Hikaru Nakamura is missing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/start-of-the-u-s-championships-in-saint-louis",
+         "pubDate" : "Wed, 04 Oct 2023 15:48:56",
+         "title" : "Start of the U.S. Championships in Saint Louis"
+      },
+      {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Wed, 04 Oct 2023 15:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
          "description" : "Geurt Gijssen, born in 1934, is one of the most famous chess arbiters in the world of chess. He was the chief arbiter for the World Championship match between Kasparov and Karpov in 1987. He has been the top arbiter for several world championships, Olympiads and also the chairman of the FIDE rules commission for 20 years! What makes him so special? In this interview IM Sagar Shah sits down with Geurt and gets to know all about his life story. Towards the end Geurt also gives his advice to young and budding people who want to become chess arbiters.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/october-1973-1998-on-cover.html",
          "pubDate" : "Tue, 03 Oct 2023 15:56:00",
          "title" : "October 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Tue, 03 Oct 2023 15:00:00",
-         "title" : "European Chess Club Cup - Live!"
       },
       {
          "description" : "Anastasios Koukas and Michael Duke emerged at the top of the 2000+ section in the qualifiers on Saturday and Sunday for the ChessPunks Champs 2023.&#38;nbsp; In the 1700-1999 division, EvertonEejit clinched the first qualifier with a round to spare ...",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2660",
          "pubDate" : "Thu, 28 Sep 2023 22:15:02 +0000",
          "title" : "World Senior Team Championship: USA and Germany Lasker Schachstiftung GK win gold"
-      },
-      {
-         "description" : "ChessBase 17 offers a unique variety of functions for players and coaches. For beginners this complexity is challenging - even though every function is described in the manual (printed 500 pages). For this reason, Walter Saumweber, author of many Microsoft topics, has written a book about ChessBase 17 in which he deliberately concentrates on those topics that are particularly useful or require explanation. Beginners are thus guaranteed a quick start. Advanced users benefit from the detailed explanations of selected areas. This great manual is published in ChessBase's all-new web-based eBook format!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-tips-and-tricks-quick-start",
-         "pubDate" : "Thu, 28 Sep 2023 20:00:00",
-         "title" : "ChessBase 17 - Tips & Tricks: For a quick start in the program"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave was again in sparkling form as he defeated GM Ian Nepomniachtchi 2-0 to earn another shot at GM Magnus Carlsen in Friday&#39;s 2023 AI Cup Grand Final. Nepomniachtchi had earlier knocked out GM Anish Giri 1.5-0.5. GM Vladim...",
