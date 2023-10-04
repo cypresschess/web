@@ -18,7 +18,7 @@ news_feed (
          "title" : "2023 U.S. Chess Championships: Opening Ceremony & HOF Inductions"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023 U.S. Senior Champion Grandmaster Melikset Khachiyan lectures on opening preparation and how much it affects the results of your games. 2023.10.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-do-openings-affect-your-game-results-grandmasters-choice-gm-melik-khachiyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SoOajq45Hrk.jpg?itok=ItHOu4Qw\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> 2023 U.S. Senior Champion Grandmaster Melikset Khachiyan lectures on opening preparation and how much it affects the results of your games. 2023.10.03<br /> Carlos Matamoros vs. Melik Khachiyan, 2013: A15 English, 1...Nf6 (Anglo-Indian defense)<br /> Marc Andria Maurizzi vs Ivan Schitco, World Junior Championship (2023): C70 Ruy Lopez, Classical defence deferred<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2577956\">https://www.chessgames.com/perl/chessgame?gid=2577956</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-do-openings-affect-your-game-results-grandmasters-choice-gm-melik-khachiyan",
@@ -26,7 +26,7 @@ news_feed (
          "title" : "How Do Openings Affect Your Game Results? | Grandmaster's Choice - GM Melik Khachiyan"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering has declared... chess puzzle night! 2023.10.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-puzzles-piece-piece-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_mANk4cwNg.jpg?itok=VoeXcnAF\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering has declared... beginner chess puzzle night!<br /> Join him as he takes on random puzzles posed by lichess.org! 2023.10.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-puzzles-piece-piece-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_mANk4cwNg.jpg?itok=VoeXcnAF\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/chess-puzzles-piece-piece-beginner-breakdown",
@@ -58,14 +58,6 @@ news_feed (
          "title" : "Koukas and Duke Top Inaugural ChessPunks Champs Qualifiers"
       },
       {
-         "description" : "While there were a few upsets on individual boards at the open section of the European Club Cup, none of the big teams gave up match points in Monday's second round, with Magnus Carlsen making his debut for Norway's Offerspill. In the women's section, on the other hand, top seeds Monte Carlo drew Centar Asseco See, the seventh seeds from North Macedonia. Stavroula Tsolakidou beat Mariya Muzychuk with black on the top board. | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r2",
-         "pubDate" : "Tue, 03 Oct 2023 14:15:00",
-         "title" : "Euro Club Cup: Monte Carlo give up a point in the women's section"
-      },
-      {
          "description" : " A few weeks ago the following game was played in the LFG Round Robin. To the spectators, Black's 8th move came as a real surprise, as it was believed that sacrificing the exchange (championed by Blackburne in the 19th century) did not give Black enough compensation. But by playing a new move (9. ... Qc7) Black set White a significant number of problems. Eventually White lost their way and Black was left with a winning position. It seems that the line actually works for Black, although trying to find other examples was difficult (only a few games against 1900 rated players). So further investigation may be required before the exchange sacrifice is totally rehabilitated. <br /> <b>Magrini,Fab",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -88,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-bishops-and-two-queens",
          "pubDate" : "Tue, 03 Oct 2023 09:00:00",
          "title" : "Two bishops and two queens"
+      },
+      {
+         "description" : "While there were a few upsets on individual boards at the open section of the European Club Cup, none of the big teams gave up match points in Monday's second round, with Magnus Carlsen making his debut for Norway's Offerspill. In the women's section, on the other hand, top seeds Monte Carlo drew Centar Asseco See, the seventh seeds from North Macedonia. Stavroula Tsolakidou beat Mariya Muzychuk with black on the top board. | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r2",
+         "pubDate" : "Tue, 03 Oct 2023 08:55:00",
+         "title" : "Euro Club Cup: Monte Carlo give up a point in the women's section"
       },
       {
          "description" : "How do you win a stage of the Tour de France? As well as endurance and cycling skills, a rider needs to be able to think strategically. It is an art to choose the right moment to break away from the peloton. If you break too early, you may lose your energy before the finish. If you wait too long, someone else might take the chance instead of you. Timing is also very important in chess, for example when planning a pawn move. | Photo: Hilmar Buschow, Pixabay",
@@ -1312,14 +1312,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2023/",
          "pubDate" : "Wed, 13 Sep 2023 08:12:37",
          "title" : "ECU E-Magazine August 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2631",
-         "pubDate" : "Wed, 13 Sep 2023 05:30:51 +0000",
-         "title" : "The deadline for submitting 2028 Chess Olympiad bid set for November 7"
       }
    ]
 }
