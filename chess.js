@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The favourites keep on winning in the open section of the European Club Cup, as the four top seeds share the lead with 8/8 match points going into the fifth round. On Thursday, Vishy Anand's Superchess is set to face MVL's Asnieres, while Magnus Carlsen's Offerspill will play against Vincent Keymer's Novy Bor. In the women's section, TAJFUN SK Ljubljana lead the standings as the only team with a perfect score. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r4",
+         "pubDate" : "Thu, 05 Oct 2023 08:15:00",
+         "title" : "Euro Club Cup: Four co-leaders, big matches coming"
+      },
+      {
+         "description" : "52nd National Junior Under 19 Open Chess Championship &#38; 37th National Junior Under 19 Girls Chess Championship 2023 took place at Karnavati Club, Gujarat organized",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-junior-under-19-adireddy-arjun-shubhi-gupta-champion/",
+         "pubDate" : "Thu, 05 Oct 2023 07:14:04",
+         "title" : "National Junior Under 19 : Adireddy Arjun & Shubhi Gupta Champion ."
+      },
+      {
          "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -58,28 +74,20 @@ news_feed (
          "title" : "Start of the U.S. Championships in Saint Louis"
       },
       {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Wed, 04 Oct 2023 15:00:00",
-         "title" : "European Chess Club Cup - Live!"
-      },
-      {
-         "description" : "Nine teams still have a perfect score after three rounds in the open section of the European Club Cup in Albania. Offerspill, led by Magnus Carlsen, is one of these nine teams. The former world champion won his second consecutive game after replying to 1.e4 by 1...a6 against IM Bojan Maksimovic. In the women's section, TAJFUN SK Ljubljana and Garuda Ajka BSK are sharing the lead with 6/6 match points each. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r3",
-         "pubDate" : "Wed, 04 Oct 2023 11:00:00",
-         "title" : "Euro Club Cup: Magnus plays 1...a6, wins"
-      },
-      {
          "description" : "Geurt Gijssen, born in 1934, is one of the most famous chess arbiters in the world of chess. He was the chief arbiter for the World Championship match between Kasparov and Karpov in 1987. He has been the top arbiter for several world championships, Olympiads and also the chairman of the FIDE rules commission for 20 years! What makes him so special? In this interview IM Sagar Shah sits down with Geurt and gets to know all about his life story. Towards the end Geurt also gives his advice to young and budding people who want to become chess arbiters.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-legendary-geurt-gijssen",
          "pubDate" : "Wed, 04 Oct 2023 10:51:02",
          "title" : "The legendary Geurt Gijssen"
+      },
+      {
+         "description" : "Nine teams still have a perfect score after three rounds in the open section of the European Club Cup in Albania. Offerspill, led by Magnus Carlsen, is one of these nine teams. The former world champion won his second consecutive game after replying to 1.e4 by 1...a6 against IM Bojan Maksimovic. In the women's section, TAJFUN SK Ljubljana and Garuda Ajka BSK are sharing the lead with 6/6 match points each. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r3",
+         "pubDate" : "Wed, 04 Oct 2023 10:45:00",
+         "title" : "Euro Club Cup: Magnus plays 1...a6, wins"
       },
       {
          "description" : "You can&#39;t keep GM Hikaru Namakura down for long. He won the early Titled Tuesday on October 3, his first since a perfect score on August 22 and his 57th overall since October 2020. Nakamura then nearly won the late event as well, but it ended up g...",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2023-24/",
          "pubDate" : "Mon, 25 Sep 2023 08:00:20",
          "title" : "Clubs & Congress Insurance 2023/24"
-      },
-      {
-         "description" : "Al Ain, UAE 12th to 22nd December, 2023 5 Star Hotel The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/25th-asian-youth-chess-championship-2023/",
-         "pubDate" : "Mon, 25 Sep 2023 07:59:25",
-         "title" : "25th Asian Youth Chess Championship - 2023"
       },
       {
          "description" : "",
