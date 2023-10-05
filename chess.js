@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-588",
          "pubDate" : "Thu, 05 Oct 2023 11:10:57",
-         "title" : "Game of the Week #588:"
+         "title" : "Game of the Week #588: Kuipers vs Bauer"
       },
       {
          "description" : "",
@@ -166,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/st-louis-chess-club-issues-statement-on-alejandro-ramirez",
-         "pubDate" : "Wed, 04 Oct 2023 03:30:17",
+         "pubDate" : "Wed, 04 Oct 2023 03:30:00",
          "title" : "St. Louis Chess Club Issues Statement on Alejandro Ramirez"
       },
       {
