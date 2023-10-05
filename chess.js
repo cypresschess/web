@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #588, Merijn Van Delft looks at a fine attacking game, in which the Dutch International Master Stefan Kuipers punished double-edged opening play by French GM Christian Bauer. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-588",
+         "pubDate" : "Thu, 05 Oct 2023 11:10:57",
+         "title" : "Game of the Week #588:"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2669",
+         "pubDate" : "Thu, 05 Oct 2023 10:50:32 +0000",
+         "title" : "Teams from 50 countries to participate in 3rd Intercontinental Championship for Prisoners"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2668",
+         "pubDate" : "Thu, 05 Oct 2023 08:52:41 +0000",
+         "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
+      },
+      {
          "description" : "The favourites keep on winning in the open section of the European Club Cup, as the four top seeds share the lead with 8/8 match points going into the fifth round. On Thursday, Vishy Anand's Superchess is set to face MVL's Asnieres, while Magnus Carlsen's Offerspill will play against Vincent Keymer's Novy Bor. In the women's section, TAJFUN SK Ljubljana lead the standings as the only team with a perfect score. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-checkmates-world-u20",
          "pubDate" : "Fri, 29 Sep 2023 18:15:00",
          "title" : "Daniel King's Power Play Show: Checkmating attacks from Mexico"
-      },
-      {
-         "description" : "The 2023 European Club Cup will be held at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen will play for Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on top boards. Over 80 teams have registered to participate in the open, while the women's cup counts with 25 teams so far.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-preview",
-         "pubDate" : "Fri, 29 Sep 2023 18:00:00",
-         "title" : "Carlsen and Anand to play in European Club Cup"
       },
       {
          "description" : "",
@@ -1320,22 +1336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-gukesh-humpy-to-play-armageddon-championship-finale-in-berlin/articleshow/103665878.cms",
          "pubDate" : "Thu, 14 Sep 2023 12:14:52 +0000",
          "title" : "Indian GMs Gukesh, Humpy to play Armageddon C'ship Finale in Berlin"
-      },
-      {
-         "description" : " <p class=\"lead\">The Armageddon Championship Series 2023, a chess tournament designed for live TV broadcast, returns for its thrilling final stage. From September 14 to September 20, top-tier chess players, including Wesley So, Sam Shankland, Gukesh D, Nodirbek Abdusattorov, Bibisara Assaubayeva, Humpy Koneru, Richard Rapport, and Jan-Krzysztof Duda, will converge for a seven-day, double-elimination showdown under intense time pressure, all vying for the coveted Armageddon Championship Title and a substantial prize fund of €200,000. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/AVD50119.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-most-innovative-chess-event-is-back-the-armageddon-series-gr/",
-         "pubDate" : "Thu, 14 Sep 2023 10:26:31",
-         "title" : "The most innovative chess event is back: The Armageddon Series Grand Finale begins today!"
-      },
-      {
-         "description" : "The Organizing Committee of the FIDE World Amateur Chess Championship announces that the registration deadline&#160;has been extended to September 28, 2023. The competition will take...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-world-amateur-championship-2023-registration-deadline-extended/",
-         "pubDate" : "Thu, 14 Sep 2023 08:49:33",
-         "title" : "FIDE World Amateur Championship 2023 - registration deadline extended"
       }
    ]
 }
