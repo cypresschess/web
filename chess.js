@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Thu, 05 Oct 2023 19:45:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson (KC) has just completed a landmark legal corruption case in Turks &#38; Caicos. That case had begun The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/",
+         "pubDate" : "Thu, 05 Oct 2023 18:17:49",
+         "title" : "Turks & Caicos on chess map!"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
       },
       {
+         "description" : "Allegations of abuse against Alejandro Ramirez, who was a commentator and coach at the Saint Louis Chess Centre, have shaken the chess world. The Board of Directors of the Saint Louis Chess Club now admits that it did not act early enough and has published improvements to its policies in a statement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
+         "pubDate" : "Thu, 05 Oct 2023 08:20:00",
+         "title" : "Statement of the Saint Louis Chess Club"
+      },
+      {
          "description" : "The favourites keep on winning in the open section of the European Club Cup, as the four top seeds share the lead with 8/8 match points going into the fifth round. On Thursday, Vishy Anand's Superchess is set to face MVL's Asnieres, while Magnus Carlsen's Offerspill will play against Vincent Keymer's Novy Bor. In the women's section, TAJFUN SK Ljubljana lead the standings as the only team with a perfect score. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gender-bias-chess-parents-mentors-shortchange-girls-potential",
-         "pubDate" : "Thu, 05 Oct 2023 07:08:27",
+         "pubDate" : "Thu, 05 Oct 2023 07:08:00",
          "title" : "Gender Bias Research Shows Parents, Mentors Shortchange Girls' Chess Potential"
       },
       {
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/38th-european-club-cup-2023",
          "pubDate" : "Wed, 4 Oct 2023 22:40:00",
          "title" : "38th European Club Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "Allegations of abuse against Alejandro Ramirez, who was a commentator and coach at the Saint Louis Chess Centre, have shaken the chess world. The Board of Directors of the Saint Louis Chess Club now admits that it did not act early enough and has published improvements to its policies in a statement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
-         "pubDate" : "Wed, 04 Oct 2023 21:00:00",
-         "title" : "Statement of the Saint Louis Chess Club"
       },
       {
          "description" : "Four rounds have been already played at the 38th European Chess Club Cup and at the 27th European Women's Chess Club Cup in Durres, Albania, and only three rounds left to be played before the announcement of the Winners. Only four teams remained perfect in the Open section and emerged as the leaders with 8 match points: Offerspill Sjakklubb (Norway), Asnieres Le Grand Echiquier (France), Novy Bor (Czech Republic) and Superchess (Romania). The leaders prevailed in very exciting matches, []",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ai-cup-2023-d5",
          "pubDate" : "Sat, 30 Sep 2023 09:05:00",
          "title" : "MVL beats Carlsen twice, wins AI Cup"
-      },
-      {
-         "description" : "In the diagram position, the white king has not managed to castle. Time for Black to strike - I wish you massive pleasure!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/patent-continuation",
-         "pubDate" : "Sat, 30 Sep 2023 09:00:00",
-         "title" : "Patent continuation"
       },
       {
          "description" : "The World Junior (U20) Championship is currently being held at the Hotel del Prado in Mexico City. This prestigious event has prompted FIDÉ, the World Chess Federation, to produce a rigorous and demanding format. Eleven gruelling rounds with a time control of 90 minutes for the first 40 moves, plus 30 minutes until the end of the game, with 30-second increments from the start, are []",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2023/sep/15/chess-kasparov-subsides-at-st-louis-while-sam-sevian-scores-career-best",
          "pubDate" : "Fri, 15 Sep 2023 07:00:55",
          "title" : "Chess: Kasparov subsides at St Louis while Sam Sevian scores career best"
-      },
-      {
-         "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
-         "pubDate" : "Thu, 14 Sep 2023 16:44:05",
-         "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
       }
    ]
 }
