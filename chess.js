@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Thu, 05 Oct 2023 15:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
+         "description" : "36th Under 11 National Open and Girls Chess Championship started in a grand manner here atVisakhapatnam organized by Andhra Chess Association on behalf of All",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/36th-national-under-11-chess-championship-2023/",
+         "pubDate" : "Thu, 05 Oct 2023 11:41:34",
+         "title" : "36TH NATIONAL UNDER-11 CHESS CHAMPIONSHIP-2023"
+      },
+      {
          "description" : "In his Game of the Week show #588, Merijn Van Delft looks at a fine attacking game, in which the Dutch International Master Stefan Kuipers punished double-edged opening play by French GM Christian Bauer. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/national-junior-under-19-adireddy-arjun-shubhi-gupta-champion/",
          "pubDate" : "Thu, 05 Oct 2023 07:14:04",
          "title" : "National Junior Under 19 : Adireddy Arjun & Shubhi Gupta Champion ."
+      },
+      {
+         "description" : "Parents and mentors often believe that girls have a lower potential in chess than boys, a bias that is more pronounced among those who think chess success requires brilliance. These findings, the first large-scale evidence of bias against youth fe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gender-bias-chess-parents-mentors-shortchange-girls-potential",
+         "pubDate" : "Thu, 05 Oct 2023 07:08:27",
+         "title" : "Gender Bias Research Shows Parents, Mentors Shortchange Girls' Chess Potential"
       },
       {
          "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "World Junior 2023 Report | Rounds 8 and 9"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King examines games from the World Under 20 Championship taking place in Mexico City. All of these games feature checkmating attacks - some were found, some were missed! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-checkmates-world-u20",
-         "pubDate" : "Fri, 29 Sep 2023 18:15:00",
-         "title" : "Daniel King's Power Play Show: Checkmating attacks from Mexico"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-learn-new-chess-opening-beginner-breakdown",
          "pubDate" : "Tue, 26 Sep 2023 18:53:02",
          "title" : "How to Learn a New Chess Opening | Beginner Breakdown"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the five FIDE Arbiter Seminars as per the appended schedule:- 1.&#160;&#160;&#160;&#160;&#160;&#160; Indore : 13 - 15 October",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-arbiter-seminars-2/",
-         "pubDate" : "Tue, 26 Sep 2023 16:47:03",
-         "title" : "FIDE ARBITER SEMINARS"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
@@ -1170,14 +1178,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2023: Day 1 recap"
       },
       {
-         "description" : "GM Magnus Carlsen is the first finalist in the 2023 Chess.com Speed Chess Championship presented by Coinbase. He defeated GM Wesley So by a score of 22-7.&#38;nbsp; The reigning world blitz chess champion won all three segments, with the most domina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-sf-carlsen-so",
-         "pubDate" : "Tue, 19 Sep 2023 17:57:00",
-         "title" : "Carlsen Wins With 22-7 Score Vs. Wesley So, Tees Up For Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1312,30 +1312,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
          "pubDate" : "Thu, 14 Sep 2023 16:44:05",
          "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2633",
-         "pubDate" : "Thu, 14 Sep 2023 14:28:14 +0000",
-         "title" : "FIDE World Junior Rapid & Blitz U20 Championship 2023: Registration deadline extended"
-      },
-      {
-         "description" : "This year saw a large number of entries for the awards. The winners have now been announced. Together with their citations, all the winning entries...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-2023-award-winners-announced/",
-         "pubDate" : "Thu, 14 Sep 2023 13:17:11",
-         "title" : "ECF 2023 Award Winners announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103665878.cms\" />Indian chess Grandmasters D Gukesh and Humpy Koneru are geared up for an intense showdown in the Armageddon Championship Series Finale in Berlin from Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-gukesh-humpy-to-play-armageddon-championship-finale-in-berlin/articleshow/103665878.cms",
-         "pubDate" : "Thu, 14 Sep 2023 12:14:52 +0000",
-         "title" : "Indian GMs Gukesh, Humpy to play Armageddon C'ship Finale in Berlin"
       }
    ]
 }
