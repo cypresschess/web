@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor before the 2023 U.S. Championship. This aired during Round 1. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-i%E2%80%99m-ready-and-focused-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tIduRw6Jmgk.jpg?itok=jVPz2JA2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-i%E2%80%99m-ready-and-focused-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Sevian: I'm Ready and Focused! | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club celebrates its 15th anniversary in 2023. Look back at remarkable moments from the beginning to today with Hikaru Nakamura, Garry Kasparov, and Sam Sevian. SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-clubs-15th-anniversary-look-back\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4w6eVqAdi-k.jpg?itok=eMpEafLQ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-clubs-15th-anniversary-look-back",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Saint Louis Chess Club's 15th Anniversary: A Look Back"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 U.S. Chess Hall of Fame Inductee GM Yury Shulman talks to the team during the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-hof%E2%80%99er-yury-shulman-memories-amazing-career-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w9t9pKIM514.jpg?itok=9l8YUGjz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/us-hof%E2%80%99er-yury-shulman-memories-amazing-career-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "U.S. HOF'er Yury Shulman: Memories of an Amazing Career | R1 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Sabina Foisor before the 2023 U.S. Women's Championship. This aired during Round 1. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-if-my-ideas-work-i%E2%80%99ll-tell-you-end-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QgmObJvRn70.jpg?itok=nDwJmoe4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-if-my-ideas-work-i%E2%80%99ll-tell-you-end-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Krush: If My Ideas Work, I'll Tell You at the End! | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to the team after a draw against Aronian in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-well-rested-after-world-cup-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IrrNRUYpXh4.jpg?itok=9frl2c-7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-well-rested-after-world-cup-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Caruana: Well-Rested after World Cup? | R1 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to the team after a draw against Caruana in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-got-careless-against-fabi-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-S3qAHtUv8s.jpg?itok=u4XA1p3K\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-got-careless-against-fabi-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Aronian: Got Careless Against Fabi | R1 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to the team after a draw against Swiercz in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-did-chess-speak-itself-%E2%80%9Cno%E2%80%9D-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TeaN8RtBfaQ.jpg?itok=H7rzZ8S1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-did-chess-speak-itself-%E2%80%9Cno%E2%80%9D-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Niemann: Did the Chess Speak for Itself? \"No.\" | R1 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-2",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "2023 U.S. Chess Championships: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to the team after a draw against Tang in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-andrew-needed-find-all-my-moves-and-he-did-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4pVCNBF9jDY.jpg?itok=Bnj7GOHc\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-andrew-needed-find-all-my-moves-and-he-did-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Shankland: Andrew Needed to Find All My Moves, and He Did | R1 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to the team after defeating Eswaran in the first round of the 2023 U.S. Women's Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-much-more-stressful-play-commentate-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PliT_QCkXmo.jpg?itok=LcxCMHp8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidze-much-more-stressful-play-commentate-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
+         "title" : "Paikidze: Much More Stressful to Play Than Commentate! | R1 #USChessChamps"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +90,7 @@ news_feed (
          "title" : "U.S. Championships - Live!"
       },
       {
-         "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson (KC) has just completed a landmark legal corruption case in Turks &#38; Caicos. That case had begun The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Council&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/",
@@ -122,14 +202,6 @@ news_feed (
          "title" : "European Open&Women's Chess Club Cups 2023 are halfway through"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National titles are on the line as America's best chess players compete in Saint Louis for the U.S. &amp; U.S. Women's Championships. From October 5-18, see 24 players across both tournaments (fields below) fight for a $400,000 prize fund. Can Caruana and Yu defend their titles? USChessChamps.com U.S. CHESS CHAMPIONSHIP<br /> Fabiano Caruana<br /> Wesley So<br /> Levon Aronian<br /> Leinier Dominguez<br /> Sam Shankland<br /> Sam Sevian<br /> Hans Niemann<br /> Ray Robson<br /> Dariusz Swiercz<br /> Jeffery Xiong<br /> Abhimanyu Mishra<br /> Andrew Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-promo",
-         "pubDate" : "Wed, 04 Oct 2023 16:01:12",
-         "title" : "2023 U.S. Chess Championships | PROMO"
-      },
-      {
          "description" : "On Thursday, 5 October, the US National Championships and the US Women's National Championships will begin in Saint Louis, each with 12 participants. Everyone with a name and a place in US top chess will be there. Only Hikaru Nakamura is missing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,30 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-max-euwe-centre-amsterdam",
          "pubDate" : "Tue, 03 Oct 2023 20:00:00",
          "title" : "The Max Euwe Centre Amsterdam"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from CityPark, Chess Club Executive Director Tony Rich hosts the opening ceremony of the 2023 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the U.S. Chess Hall of Fame. The fields and inductees are listed below. Play begins Thursday, October 5 at 1 P.M. CDT. 2023 U.S. Chess Championship: Caruana, W. So, Aronian, Dominguez, Shankland, Sevian, Niemann, Robson, Swiercz, Xiong, Mishra, Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-opening-ceremony-hof-inductions",
-         "pubDate" : "Tue, 03 Oct 2023 19:00:13",
-         "title" : "2023 U.S. Chess Championships: Opening Ceremony & HOF Inductions"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 U.S. Senior Champion Grandmaster Melikset Khachiyan lectures on opening preparation and how much it affects the results of your games. 2023.10.03<br /> Carlos Matamoros vs. Melik Khachiyan, 2013: A15 English, 1...Nf6 (Anglo-Indian defense)<br /> Marc Andria Maurizzi vs Ivan Schitco, World Junior Championship (2023): C70 Ruy Lopez, Classical defence deferred<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2577956\">https://www.chessgames.com/perl/chessgame?gid=2577956</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-do-openings-affect-your-game-results-grandmasters-choice-gm-melik-khachiyan",
-         "pubDate" : "Tue, 03 Oct 2023 19:00:13",
-         "title" : "How Do Openings Affect Your Game Results? | Grandmaster's Choice - GM Melik Khachiyan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering has declared... beginner chess puzzle night!<br /> Join him as he takes on random puzzles posed by lichess.org! 2023.10.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-puzzles-piece-piece-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N_mANk4cwNg.jpg?itok=VoeXcnAF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-puzzles-piece-piece-beginner-breakdown",
-         "pubDate" : "Tue, 03 Oct 2023 19:00:13",
-         "title" : "Chess Puzzles: Piece-by-Piece | Beginner Breakdown"
       },
       {
          "description" : "",
@@ -626,14 +674,6 @@ news_feed (
          "title" : "Vachier-Lagrave Beats Nepomniachtchi To Set Up Rematch With Carlsen"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski lectures a chess class on opening preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q5fS1ZU4IcA.jpg?itok=T9bN7Zud\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opening-chess-prep-prepare-pro-gm-victor-mikhalevski",
-         "pubDate" : "Thu, 28 Sep 2023 15:54:56",
-         "title" : "The Opening Chess Prep! | Prepare Like A Pro - GM Victor Mikhalevski"
-      },
-      {
          "description" : "So you thought you had seen the last of the Hans Niemann controversy? Not even close. Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), mentioned, <BLOCKQUOTE> That [Niemann] page had four stories under 'Top news', four Twitter tweets, and 44 stories from a variety of other sources. </BLOCKQUOTE> <P> This month we had only eight Niemann stories, but that's still a lot of stories compared to the hottest chess story in an average month. Before we look at the details, let's cover the month's stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni28.gif\" WIDTH= HEIGHT",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -752,22 +792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-2",
          "pubDate" : "Tue, 26 Sep 2023 19:31:00",
          "title" : "From Missing Mate To Swindling Stalemate, Carlsen Thwarts Challenger"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering demonstrates how to add a new chess opening to your repertoire., using the Benoni and Old Benoni. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-learn-new-chess-opening-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FodfDkW7OMo.jpg?itok=roIBuoWD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-learn-new-chess-opening-beginner-breakdown",
-         "pubDate" : "Tue, 26 Sep 2023 18:53:02",
-         "title" : "How to Learn a New Chess Opening | Beginner Breakdown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski shows his beautiful chess ideas, mostly his own games and positions inspired by his games, in this second edition. Watch the first part: <a href=\"https://youtube.com/live/lJHQsvKnNbA\">https://youtube.com/live/lJHQsvKnNbA</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/more-my-beautiful-not-easy-ideas-grandmasters-choice-gm-victor-mikhalevski",
-         "pubDate" : "Tue, 26 Sep 2023 15:53:01",
-         "title" : "More of My Beautiful (Not Easy!) Ideas | Grandmaster's Choice - GM Victor Mikhalevski"
       },
       {
          "description" : " The first event in the 2023 ACT Junior Championship was completed today, with Owen MacMullin winning the Under 14 title. He did so after defeating Masaki Horikawa in a playoff game, after they had tied for 1st on 5/6. Having drawn there tournament game, they played each other in a single rapidplay game (G/15m), with MacMullin taking advantage of an opening mistake by Horikawa to win quite quickly. The winner of the Under 12 titles was Sanat Hegde, who was the youngest player in the 29 player field. He scored 4.5/6 to finish ahead of Rohan Jain and Ethan Li, who both scored 4. The main event, the ACT Junior Championship starts tomorrow and will be played over 3 days. Alongside this event wil",
@@ -1050,36 +1074,12 @@ news_feed (
          "title" : "FIDE World Junior Championship U20 starts in Mexico City"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski proposes complex chess puzzles that he composed himself, and relates them to tournament preparation. 2023.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H9cTQFjdhGQ.jpg?itok=TFuxK7RG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/solve-studies-tournament-prep-prepare-pro-gm-victor-mikhalevski",
-         "pubDate" : "Fri, 22 Sep 2023 00:48:49",
-         "title" : "Solve Studies for Tournament Prep | Prepare Like A Pro - GM Victor Mikhalevski"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2644",
          "pubDate" : "Thu, 21 Sep 2023 21:50:39 +0000",
          "title" : "FIDE World Senior Team Championship: Day 3 recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Victor Mikhalevski teaches a chess class about the preparation of top tournament chess players. 2023.09.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-victor-mikhalevski\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/H9cTQFjdhGQ.jpg?itok=TFuxK7RG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-victor-mikhalevski",
-         "pubDate" : "Thu, 21 Sep 2023 21:48:40",
-         "title" : "Prepare Like A Pro - GM Victor Mikhalevski"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <em>This year's tournament fields among the strongest of all time; chess legends to be celebrated during U.S Chess Hall of Fame induction ceremony</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/america%E2%80%99s-top-chess-players-compete-more-400000-2023-us-championship-and-us-women%E2%80%99s-chess",
-         "pubDate" : "Thu, 21 Sep 2023 15:21:56",
-         "title" : "America's Top Chess Players to Compete for More Than $400,000 in 2023 U.S. Championship and U.S. Women's Chess Championship"
       },
       {
          "description" : "In last month's Yahoos post (aka 'chess in the mainstream news'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), I mentioned, <BLOCKQUOTE> Two of the stories in Niemann's main block were repeated in the top news, while the third story, not repeated, was the off-the-wall Elon Musk nonsense that I covered last year in <I>It's Not Polytopia</I> (March 2022). </BLOCKQUOTE> <P> A few days earlier, that same Elon Musk story had appeared as a real Yahoo (appearing in the news feed from Yahoo.com) on its own. These days real Yahoos are so unusual -- the previous sighting was <A HREF=\"https://chessf",
