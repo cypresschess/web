@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A few days ago, we presented you with a set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particularly easy to follow. You do not have to be a champion player or problem expert to follow.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment-2",
+         "pubDate" : "Fri, 06 Oct 2023 12:00:00",
+         "title" : "Chess for fun and entertainment"
+      },
+      {
+         "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1. Chennai : 16 - 21 Oct 23 : Already",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/im-norm-round-robin-tournaments-2/",
+         "pubDate" : "Fri, 06 Oct 2023 07:49:06",
+         "title" : "IM Norm Round Robin Tournaments"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2670",
+         "pubDate" : "Fri, 06 Oct 2023 07:32:19 +0000",
+         "title" : "U.S. Championships begin at Saint Louis Chess Club"
+      },
+      {
          "description" : " In the 21st century the very best talents have tended to avoid the tournament, in contrast to the 1950s when several winners went on to have successful careers The World Junior Championship for under-20s used to be a vintage event. Its first two winners, Borislav Ivkov in 1951 and Oscar Panno in 1953, both went on to become world title candidates, while Boris Spassky, in 1955, later won the supreme crown, a double equalled by Anatoly Karpov, Garry Kasparov and Vishy Anand. The event was still a major target for aspiring talents in 1971, when the financier Jim Slater was helping England's two best prospects - Tony Miles and Michael Stean - who looked capable of challenging for the world juni",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -98,11 +122,11 @@ news_feed (
          "title" : "Shankland: Andrew Needed to Find All My Moves, and He Did | R1 #USChessChamps"
       },
       {
-         "description" : "IM Nazi Paikidze and GM Sam Sevian are the sole leaders after the opening day of the U.S. Championships in St. Louis. Paikidze scored the only victory in the women&#39;s division, defeating FM Ashritha Eswaran in tactical slugfest that featured thre...",
+         "description" : "IM Nazi Paikidze and GM Sam Sevian are the sole leaders after the opening day of the U.S. Championships in St. Louis. Paikidze scored the only victory in the women&#39;s division, defeating FM Ashritha Eswaran in a tactical slugfest that featured th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-round-1",
-         "pubDate" : "Thu, 05 Oct 2023 20:45:08",
+         "pubDate" : "Thu, 05 Oct 2023 20:45:00",
          "title" : "Paikidze, Sevian Start As Sole Leaders"
       },
       {
@@ -120,6 +144,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/",
          "pubDate" : "Thu, 05 Oct 2023 18:17:49",
          "title" : "Turks & Caicos on chess map!"
+      },
+      {
+         "description" : "Last month I received the following email:- <BLOCKQUOTE> With reference to your \"Chess for all Ages\" blog post and your interesting comments regarding the painting \"French Cavalier Men Playing Chess\", at the end of your post you write:- <BLOCKQUOTE> \"The main mystery remaining now is -- where is the original painting?\" </BLOCKQUOTE> Well, I think it may be in my possession. [See image below.] It measures 90x80 centimerers (35x31 inches) in the frame. And is oil on canvas. Signed bottom right \"V YDE\". <BR><BR> Short [provenance] is that the father of my wife's mother (1915-1994) was interested in artwork and bought the painting in Germany. Thereby the painting ended in Denmark. - [signed] P.W",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/mystery-painting-in-denmark.html",
+         "pubDate" : "Thu, 05 Oct 2023 15:08:00",
+         "title" : "'Mystery Painting' in Denmark"
       },
       {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -562,14 +594,6 @@ news_feed (
          "title" : "AICF LIVE Telecast Seminar in Delhi on 30 Sept & 01 Oct 2023"
       },
       {
-         "description" : "With a remarkable performance, Maxime Vachier-Lagrave got to beat Magnus Carlsen in two consecutive matches to win the AI Cup, the sixth and final 'regular' event of the 2023 Champions Chess Tour. Carlsen had defeated MVL in the final of the winners' bracket, before the Frenchman gained the right to a rematch by beating Ian Nepomniachtchi in the final of the losers' bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ai-cup-2023-d5",
-         "pubDate" : "Sat, 30 Sep 2023 09:05:00",
-         "title" : "MVL beats Carlsen twice, wins AI Cup"
-      },
-      {
          "description" : "The World Junior (U20) Championship is currently being held at the Hotel del Prado in Mexico City. This prestigious event has prompted FIDÉ, the World Chess Federation, to produce a rigorous and demanding format. Eleven gruelling rounds with a time control of 90 minutes for the first 40 moves, plus 30 minutes until the end of the game, with 30-second increments from the start, are []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://aicf.in/mani-sarbartho-of-wb-narayani-umesh-marathe-of-mah-wins-national-under-7-national-under-7-girls-chess-championship-2023/",
          "pubDate" : "Thu, 28 Sep 2023 08:42:00",
          "title" : "Mani Sarbartho of WB & Narayani Umesh Marathe of MAH Wins National Under-7 & National Under-7 Girls Chess Championship 2023"
-      },
-      {
-         "description" : "Fresh from a rest day, Indian boys almost had a perfect day at the board. GM Pranav Anand converted a slightly advantageous opening to a",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2023-round-6-report/",
-         "pubDate" : "Thu, 28 Sep 2023 07:25:45",
-         "title" : "World Junior Chess Championship 2023: Round 6 Report"
       },
       {
          "description" : "",
@@ -1288,30 +1304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/congratulations-fm-rupert-jones.html",
          "pubDate" : "Fri, 15 Sep 2023 13:51:00",
          "title" : "Congratulations FM Rupert Jones"
-      },
-      {
-         "description" : "The&#160;third&#160;quarterly meeting of the ECU Board was held in&#160;Mamaia,&#160;Romania, on&#160;September 7th. Romanian Chess federation&#160;hosted the ECU Board under excellent conditions.&#160; Main information and Decisions: 1.&#160;The ECU Board&#160;discussed the new FIDE regulations about transgender players. ECU Board notes the following: &bull;&#160;ECU as main principle follows IOC framework for fairness, inclusion and not discrimination. &bull;&#160;ECU follows FIDE registration system and database for all chess players. Based on FIDE public database players have the right to participate in open, women, youth, or seniors' []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl_no2-2023/",
-         "pubDate" : "Fri, 15 Sep 2023 09:44:02",
-         "title" : "Communique of the ECU Board Meeting - CL_No2/2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2634",
-         "pubDate" : "Fri, 15 Sep 2023 09:05:43 +0000",
-         "title" : "Winners crowned at European Youth Championship 2023"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2023 concluded yesterday in Mamaia, Romania. Mahammad Kazimzade (AZE) emerged as the winner of the Open U8 section having better tiebreaks than Luca Protopopescu (FRA) who had the same score of 7.5 points but claimed bronze. Three players tied for bronze scoring 7 points, each, but Kucher Artam (UKR) won the medal thanks to the best tiebreak criteria. Ahmadli Mehriban (AZE) triumphed in the Girls U8 category with the score of 7.5 points. She was []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-champions-2023-crowned-in-mamaia-romania/",
-         "pubDate" : "Fri, 15 Sep 2023 08:07:01",
-         "title" : "European Youth Chess Champions 2023 crowned in Mamaia, Romania"
       }
    ]
 }
