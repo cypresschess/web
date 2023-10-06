@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to the team during the second round of the 2023 U.S. Championships. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/curator-emily-allred-t-s-eliot-chess-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NdIduRGjGqE.jpg?itok=P7Ai8dCl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/curator-emily-allred-t-s-eliot-chess-r2-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 22:03:50",
+         "title" : "Curator Emily Allred on T. S. Eliot & Chess | R2 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to the team after a draw against Wesley So in the second round of the 2023 U.S. Championship. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-took-day-%E2%80%98calmly%E2%80%99-wesley-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZD3ccK7FdaA.jpg?itok=kcYQm099\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/swiercz-took-day-%E2%80%98calmly%E2%80%99-wesley-r2-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 22:03:50",
+         "title" : "Swiercz: Took Day 'Calmly' with Wesley | R2 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to the team after a draw against Dariusz Swiercz in the second round of the 2023 U.S. Championship. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-i-gotta-learn-different-opening-berlin-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BQ604JIWf24.jpg?itok=3Aq4_9bs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-i-gotta-learn-different-opening-berlin-r2-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 22:03:50",
+         "title" : "Wesley: I Gotta Learn a Different Opening than the Berlin | R2 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.07<br /> USChessChamps.com ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Wesley So<br /> vs.<br /> Sam Sevian Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-champion",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-3",
+         "pubDate" : "Fri, 06 Oct 2023 22:03:50",
+         "title" : "2023 U.S. Chess Championships: Round 3"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,38 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-well-rested-after-world-cup-r1-uschesschamps",
          "pubDate" : "Fri, 06 Oct 2023 01:01:58",
          "title" : "Caruana: Well-Rested after World Cup? | R1 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to the team after a draw against Caruana in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-got-careless-against-fabi-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-S3qAHtUv8s.jpg?itok=u4XA1p3K\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-got-careless-against-fabi-r1-uschesschamps",
-         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
-         "title" : "Aronian: Got Careless Against Fabi | R1 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to the team after a draw against Swiercz in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-did-chess-speak-itself-%E2%80%9Cno%E2%80%9D-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TeaN8RtBfaQ.jpg?itok=H7rzZ8S1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-did-chess-speak-itself-%E2%80%9Cno%E2%80%9D-r1-uschesschamps",
-         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
-         "title" : "Niemann: Did the Chess Speak for Itself? \"No.\" | R1 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://www.chess.com/events/2023-us-chess-championship/games\">https://www.chess.com/events/2023-us-chess-championship/games</a> &amp; <a href=\"https://www.chess.com/events/2023-us-womens-chess-champioship/games\">https://www.chess.com/events/2023-us-womens-chess-champioship/games</a><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-2",
-         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
-         "title" : "2023 U.S. Chess Championships: Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to the team after a draw against Tang in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-andrew-needed-find-all-my-moves-and-he-did-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4pVCNBF9jDY.jpg?itok=Bnj7GOHc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-andrew-needed-find-all-my-moves-and-he-did-r1-uschesschamps",
-         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
-         "title" : "Shankland: Andrew Needed to Find All My Moves, and He Did | R1 #USChessChamps"
       },
       {
          "description" : "IM Nazi Paikidze and GM Sam Sevian are the sole leaders after the opening day of the U.S. Championships in St. Louis. Paikidze scored the only victory in the women&#39;s division, defeating FM Ashritha Eswaran in a tactical slugfest that featured th...",
@@ -330,12 +330,12 @@ news_feed (
          "title" : "Nakamura Back On Top Tuesday, Nearly Sweeps"
       },
       {
-         "description" : "The influential St. Louis Chess Club admits they&#39;ve &#34;remained silent for too long&#34; and says that they &#34;should have done more to address the allegations&#34; of sexual misconduct against GM Alejandro Ramirez.&#38;nbsp; 229 days after two-time U.S. Women&#39;...",
+         "description" : "The influential Saint Louis Chess Club admits they&#39;ve &#34;remained silent for too long&#34; and says that they &#34;should have done more to address the allegations&#34; of sexual misconduct against GM Alejandro Ramirez.&#38;nbsp; 229 days after two-time U.S. Wome...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/st-louis-chess-club-issues-statement-on-alejandro-ramirez",
          "pubDate" : "Wed, 04 Oct 2023 03:30:00",
-         "title" : "St. Louis Chess Club Issues Statement on Alejandro Ramirez"
+         "title" : "Saint Louis Chess Club Issues Statement on Alejandro Ramirez"
       },
       {
          "description" : "Hundreds of thousands of people in the Netherlands play chess or are interested in one of its numerous aspects. Some 20,000 are organized: they belong to a chess club. Quite a few people have found the way to the Max Euwe-Centrum, but many have no idea at all of its facilities and possibilities. ChessBase India's Sagar Shah and Amruta Mokal, who were reporting on the Levitov Chess Week, visited the tournament venue and the chess museum, and give us a complete video tour!",
