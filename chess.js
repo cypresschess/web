@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " In the 21st century the very best talents have tended to avoid the tournament, in contrast to the 1950s when several winners went on to have successful careers The World Junior Championship for under-20s used to be a vintage event. Its first two winners, Borislav Ivkov in 1951 and Oscar Panno in 1953, both went on to become world title candidates, while Boris Spassky, in 1955, later won the supreme crown, a double equalled by Anatoly Karpov, Garry Kasparov and Vishy Anand. The event was still a major target for aspiring talents in 1971, when the financier Jim Slater was helping England's two best prospects - Tony Miles and Michael Stean - who looked capable of challenging for the world juni",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/oct/06/chess-world-juniors-lacks-big-names-but-maurizzi-has-potential-to-be-a-star",
+         "pubDate" : "Fri, 06 Oct 2023 07:00:35",
+         "title" : "Chess: World Juniors lacks big names but Maurizzi has potential to be a star"
+      },
+      {
+         "description" : "The 10th round of the World Junior Chess Championship did not turn out to be a good one for medal-seeking Indian players. GM Pranav Anand",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2023-round-10-and-11-final-report/",
+         "pubDate" : "Fri, 06 Oct 2023 06:32:18",
+         "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023: ROUND 10 and 11 (Final Report)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to the team after defeating Robson in the first round of the 2023 U.S. Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-scores-only-win-first-round-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GbDbIPLaWv4.jpg?itok=duLinuOF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-scores-only-win-first-round-r1-uschesschamps",
+         "pubDate" : "Fri, 06 Oct 2023 04:02:14",
+         "title" : "Sevian Scores Only Win of First Round! | R1 #USChessChamps"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Sabina Foisor before the 2023 U.S. Championship. This aired during Round 1. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-i%E2%80%99m-ready-and-focused-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tIduRw6Jmgk.jpg?itok=jVPz2JA2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,12 +98,12 @@ news_feed (
          "title" : "Shankland: Andrew Needed to Find All My Moves, and He Did | R1 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to the team after defeating Eswaran in the first round of the 2023 U.S. Women's Championship. 2023.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-much-more-stressful-play-commentate-r1-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PliT_QCkXmo.jpg?itok=LcxCMHp8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidze-much-more-stressful-play-commentate-r1-uschesschamps",
-         "pubDate" : "Fri, 06 Oct 2023 01:01:58",
-         "title" : "Paikidze: Much More Stressful to Play Than Commentate! | R1 #USChessChamps"
+         "description" : "IM Nazi Paikidze and GM Sam Sevian are the sole leaders after the opening day of the U.S. Championships in St. Louis. Paikidze scored the only victory in the women&#39;s division, defeating FM Ashritha Eswaran in tactical slugfest that featured thre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-round-1",
+         "pubDate" : "Thu, 05 Oct 2023 20:45:08",
+         "title" : "Paikidze, Sevian Start As Sole Leaders"
       },
       {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -770,14 +794,6 @@ news_feed (
          "title" : "Warning: To Beat Magnus, Tiebreaks May Be Required"
       },
       {
-         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminars-2/",
-         "pubDate" : "Wed, 27 Sep 2023 03:07:54",
-         "title" : "FIDE TRAINER SEMINARS"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "First Saturday Budapest 7-17 Oct 2023 - GM/GM candidate vacancies"
       },
       {
-         "description" : "GM Alexey Sarana and GM Nihal Sarin were the winners of Titled Tuesday on September 19, both of them scoring 9.5 points in the first 10 rounds. Sarana won the early event convincingly, leading by a full point entering the final round. To outlast G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-nihal-win-titled-tuesday-september-19-2023",
-         "pubDate" : "Wed, 20 Sep 2023 08:09:00",
-         "title" : "Near-Perfect 10s Carry Sarana, Nihal To Victory"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-champions-2023-crowned-in-mamaia-romania/",
          "pubDate" : "Fri, 15 Sep 2023 08:07:01",
          "title" : "European Youth Chess Champions 2023 crowned in Mamaia, Romania"
-      },
-      {
-         "description" : " The former world champion, 60, led the Champions Showdown 9LX unbeaten with 3/4, then collapsed to 3/9, while the 22-year-old finished ahead of the US elite The 2022 Champions Showdown 9LX (Fischer Random) in St Louis proved a horror show for Garry Kasparov, who in his prime as world champion from 1985 to 2000 won 15 consecutive tournaments. The 60-year-old, who rivals Magnus Carlsen and Bobby Fischer as the No 1 of all time, managed only a single solitary draw in nine games, and blamed it on the demands of his political work. Back again last week for another try, Kasparov had a brilliant start with 3/4, leading the 10-player elite field headed by the world Nos 2 and 3, Fabiano Caruana and ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/world/2023/sep/15/chess-kasparov-subsides-at-st-louis-while-sam-sevian-scores-career-best",
-         "pubDate" : "Fri, 15 Sep 2023 07:00:55",
-         "title" : "Chess: Kasparov subsides at St Louis while Sam Sevian scores career best"
       }
    ]
 }
