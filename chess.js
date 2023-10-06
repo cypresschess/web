@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Fri, 06 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "Sam Sevian and Nazi Paikidze are the sole leaders in the open and women's sections of the U.S. Championships, respectively. Sevian beat Ray Robson with black, while Paikidze got the better of Ashritha Eswaran with white in the first round of the national championships. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r1",
+         "pubDate" : "Fri, 06 Oct 2023 18:15:00",
+         "title" : "U.S. Championships: Sevian and Paikidze start with wins"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +162,7 @@ news_feed (
          "title" : "Niemann: Did the Chess Speak for Itself? \"No.\" | R1 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "description" : "<div class=\"body text-secondary\"> LIVE GAMES: <a href=\"https://www.chess.com/events/2023-us-chess-championship/games\">https://www.chess.com/events/2023-us-chess-championship/games</a> &amp; <a href=\"https://www.chess.com/events/2023-us-womens-chess-champioship/games\">https://www.chess.com/events/2023-us-womens-chess-champioship/games</a><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blo",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-2",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-championship-round-1",
          "pubDate" : "Thu, 05 Oct 2023 20:45:00",
          "title" : "Paikidze, Sevian Start As Sole Leaders"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Thu, 05 Oct 2023 19:45:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Council&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-bartel-crushing-win",
          "pubDate" : "Sat, 30 Sep 2023 20:00:00",
          "title" : "Robert Ris' Fast and Furious: Bartel scores crushing win"
-      },
-      {
-         "description" : "Possibly readers would enjoy a little bit of behind-the-scenes information on how chess composers work together. As always, this will be supplemented by endgame studies.| Photo: Midjourney",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dominoes-youth-composing-challenges",
-         "pubDate" : "Sat, 30 Sep 2023 18:00:00",
-         "title" : "Dominoes: Youth Composing Challenges"
       },
       {
          "description" : " FM Todd Andrews recently released a manual, The Final Attack a tribute to the lessons of International Master Emory Tate. Of course, Tate passed away in 2015, but his lessons live on. Andrews was a Tate protege and traveled with him to many tournaments soaking up pearls of wisdom. The life lessons left an impression The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/\">&#8220;The Final Attack,&#8221; Chess Teachings of Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1304,14 +1304,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-great-chess-cheating-scandal-revisited/",
          "pubDate" : "Sat, 16 Sep 2023 11:29:57",
          "title" : "The great chess 'cheating' scandal revisited"
-      },
-      {
-         "description" : "For the current Friday series, I closed the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cfaas-cmp.html\">Adsense and CFAA's CMP</A> (September 2023; CMP = Google's Consent Management Platform), in a holding pattern:- <BLOCKQUOTE> After adding the logo, my GDPR message was accepted. As I was preparing this post for publishing, the message still wasn't showing on my pages, so maybe I did something wrong. I'll come back to it for next Friday's post. </BLOCKQUOTE> <P> I had indeed done something wrong. I was watching the top level page for my domain which doesn't display an ad. The Adsense code to display an ad is the trigger for the consent message. When I ac",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/cfaas-consent-management.html",
-         "pubDate" : "Fri, 15 Sep 2023 15:55:00",
-         "title" : "CFAA's Consent Management"
       }
    ]
 }
