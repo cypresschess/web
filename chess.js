@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Fri, 06 Oct 2023 15:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen's Offerspill and Vishy Anand's Superchess are sharing the lead in the open section of the European Club Cup. Both teams have a perfect 10/10 score after beating Novy Bor and Asnieres in closely contested matches. Meanwhile, SP Gaz Ukraine grabbed the lead in the women's tournament after beating former sole leaders TAJFUN SK Ljubljana. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r5",
+         "pubDate" : "Fri, 06 Oct 2023 14:50:00",
+         "title" : "Euro Club Cup: Carlsen beats Keymer, Offerspill and Superchess co-leaders"
+      },
+      {
+         "description" : " In recent times I have gone into my tournament games a little under done. Unlike events like the Olympiad, I usually don't have a lot of time to prepare for club and local games. Weirdly I managed to play a good game today, and it might have something to do with a warm up event I played a few hours earlier. As a reward for a pretty tough two weeks of chess, I organised a Transfer tournament for the kids who attended the ACTJCL Bootcamp. It was 11 rounds, and as there was an odd number of players, I played to keep the numbers even. I even played the final 2 rounds solo, where I managed 1 win and 1 loss. Now I'm not saying that Transfer (or Bughouse) is the ideal preparation for a serious gam",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/match-fitness.html",
+         "pubDate" : "Fri, 06 Oct 2023 13:18:00",
+         "title" : "Match fitness"
+      },
+      {
+         "description" : "Chess Coach or Chess Teacher? Many use them as synonyms. But I believe there are huge differences. And especially if you expect one and get the other, it can lead to frustration on both sides, for the Teacher and the Student. In this Newsletter, I will show you the difference between the two,...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/a-guide-to-successful-11-chess-training/",
+         "pubDate" : "Fri, 06 Oct 2023 13:03:31",
+         "title" : "A Guide to Successful 1:1 Chess Training"
+      },
+      {
          "description" : "A few days ago, we presented you with a set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particularly easy to follow. You do not have to be a champion player or problem expert to follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment-2",
          "pubDate" : "Fri, 06 Oct 2023 12:00:00",
          "title" : "Chess for fun and entertainment"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2671",
+         "pubDate" : "Fri, 06 Oct 2023 11:13:32 +0000",
+         "title" : " Chess South Africa elections to be held in November 2023"
       },
       {
          "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1. Chennai : 16 - 21 Oct 23 : Already",
@@ -152,14 +192,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/mystery-painting-in-denmark.html",
          "pubDate" : "Thu, 05 Oct 2023 15:08:00",
          "title" : "'Mystery Painting' in Denmark"
-      },
-      {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Thu, 05 Oct 2023 15:00:00",
-         "title" : "European Chess Club Cup - Live!"
       },
       {
          "description" : "36th Under 11 National Open and Girls Chess Championship started in a grand manner here atVisakhapatnam organized by Andhra Chess Association on behalf of All",
@@ -576,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-30-2023",
          "pubDate" : "Sat, 30 Sep 2023 16:28:26",
          "title" : "Naroditsky Secures 5th Bullet Brawl Title"
-      },
-      {
-         "description" : "The Isle of Man plays host once more to the chess world's crème de la crème, as the 3rd FIDE Grand Swiss and 2nd FIDE Women's Grand Swiss tournaments are set to launch on 25 October. The return of these prestigious world championship qualifying competitions to the Isle of Man marks a momentous occasion. Over the course of 12 days, from 25 October to 5 November, the island in the Irish Sea will emerge as the epicentre of the chess world, hosting an elite assembly of top-tier players fighting for the prizes, prestige and a spot in the 2024 Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-preview",
-         "pubDate" : "Sat, 30 Sep 2023 14:30:00",
-         "title" : "The Isle of Man's grand chess spectacle"
       },
       {
          "description" : "The AICF Live Telecast seminar kick starts at Hotel Sanca International Delhi from today . International Arbiter Mr. Anandh Babu VL, is the lecturer and",
@@ -1288,22 +1312,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/cfaas-consent-management.html",
          "pubDate" : "Fri, 15 Sep 2023 15:55:00",
          "title" : "CFAA's Consent Management"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2635",
-         "pubDate" : "Fri, 15 Sep 2023 15:25:36 +0000",
-         "title" : "Invitation: FIDE Congress and General Assembly 2023"
-      },
-      {
-         "description" : " FM Rupert Jones has been recognised by the English Chess Federation for his many contributions to chess. Although resident in The Peoples Republic of Yorkshire, he has represented both Botswana (where he worked in the 80's and 90's) and Papua New Guinea (where he was born). To get an idea of all the things he has achieved you can read the citation at <a href=\"https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf\">https://www.englishchess.org.uk/wp-content/uploads/2023/09/ECF-Awards-2023.pdf</a> Also recognised was IA Alex McFarlane, who I have had the pleasure of working with on a number of occasions. Well done Rupert and Alex <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/congratulations-fm-rupert-jones.html",
-         "pubDate" : "Fri, 15 Sep 2023 13:51:00",
-         "title" : "Congratulations FM Rupert Jones"
       }
    ]
 }
