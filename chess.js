@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Sat, 07 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2672",
+         "pubDate" : "Sat, 07 Oct 2023 18:55:32 +0000",
+         "title" : "Asian Games: Iran and China win team competitions"
+      },
+      {
+         "description" : "In the second round of the US Championships in Saint Louis, Hans Niemann won with black against Sam Sevian, who had beaten Ray Robson one round earlier to take the lead. For the time being, Niemann is sharing the lead with Abhimanyu Mishra, who won against Andrew Tang. Niemann and Abhimanyu now both have a 1&frac12;/2 score. In the women's section, a quartet consisting of Carissa Yip, Gulrukhbegim Tokhirjonova, Nazi Paikidze and Tatev Abrahamyan (all on 1&frac12;/2 points) are topping the standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r2",
+         "pubDate" : "Sat, 07 Oct 2023 18:20:00",
+         "title" : "U.S. Championships: Niemann beats Sevian, shares the lead with Abhimanyu"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wesley-i-gotta-learn-different-opening-berlin-r2-uschesschamps",
          "pubDate" : "Fri, 06 Oct 2023 22:03:50",
          "title" : "Wesley: I Gotta Learn a Different Opening than the Berlin | R2 #USChessChamps"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Fri, 06 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : " In recent times I have gone into my tournament games a little under done. Unlike events like the Olympiad, I usually don't have a lot of time to prepare for club and local games. Weirdly I managed to play a good game today, and it might have something to do with a warm up event I played a few hours earlier. As a reward for a pretty tough two weeks of chess, I organised a Transfer tournament for the kids who attended the ACTJCL Bootcamp. It was 11 rounds, and as there was an odd number of players, I played to keep the numbers even. I even played the final 2 rounds solo, where I managed 1 win and 1 loss. Now I'm not saying that Transfer (or Bughouse) is the ideal preparation for a serious gam",
@@ -568,14 +584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-mizzou-cu",
          "pubDate" : "Sun, 01 Oct 2023 19:32:16",
          "title" : "Antipov Perfect In Mizzou's Dominant Victory Over UChicago"
-      },
-      {
-         "description" : "The Grand Finale of the Armageddon Series took place on September 14-20 at the World Chess Club in Berlin, with Jan-Krzysztof Duda eventually emerging as the winner. GM Karsten M&uuml;ller found instructive endgame positions to share with us. Replay his analyses and you are sure to learn and enjoy! | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-grand-finale-2023-endgames",
-         "pubDate" : "Sun, 01 Oct 2023 16:00:00",
-         "title" : "Instructive endgames from the Armageddon Series"
       },
       {
          "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), we often see an auction item described as a 'figurine'. Does that category include both people and animals? According to one dictionary source, <A HREF=\"https://www.merriam-webster.com/dictionary/figurine\">Figurine Definition & Meaning</A> (merriam-webster.com), the word means, <BLOCKQUOTE> a small carved or molded figure : statuette </BLOCKQUOTE> <P> and has synonyms that can stand for people or animals. A recent example in 'Top eBay Items' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshund",
