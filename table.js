@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-10-06","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310063962 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 6, 2023</a>",
 "HOUSTON","2023-10-01","95","<a href=http://www.uschess.org/msa/XtblMain.php?202310011382 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-09-30","80","<a href=http://www.uschess.org/msa/XtblMain.php?202309300242 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2023</a>",
 "HOUSTON","2023-09-30","5","<a href=http://www.uschess.org/msa/XtblMain.php?202309300222 target='_blank'>CHESSPANDA09302023SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2023-03-10","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303105462 target='_blank'>FBCC 2023 INTERNATIONAL DAY OF AWE</a>",
 "HOUSTON","2023-03-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202303105432 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 10, 2023</a>",
 "CYPRESS","2023-03-10","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303105392 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-03-05","7","<a href=http://www.uschess.org/msa/XtblMain.php?202303052712 target='_blank'>MARCH 5TH SUNDAY SWISS</a>",
 ]);
