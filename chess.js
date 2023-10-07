@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/brave-new-game/",
+         "pubDate" : "Sat, 07 Oct 2023 10:57:02",
+         "title" : "Brave New Game"
+      },
+      {
          "description" : "In the diagram position, Black's two centralized major pieces create a serious threat - which White did not see. He played 22.Ra4??, allowing Black to strike. How would you punish this rook move?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,6 +202,14 @@ news_feed (
          "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023: ROUND 10 and 11 (Final Report)"
       },
       {
+         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at Kamaraj College, Thoothukudi from 02-03 Dec 23. This two days' workshop",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
+         "pubDate" : "Fri, 06 Oct 2023 03:09:00",
+         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
+      },
+      {
          "description" : "IM Nazi Paikidze and GM Sam Sevian are the sole leaders after the opening day of the U.S. Championships in St. Louis. Paikidze scored the only victory in the women&#39;s division, defeating FM Ashritha Eswaran in a tactical slugfest that featured th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -280,6 +296,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gender-bias-chess-parents-mentors-shortchange-girls-potential",
          "pubDate" : "Thu, 05 Oct 2023 07:08:00",
          "title" : "Gender Bias Research Shows Parents, Mentors Shortchange Girls' Chess Potential"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminars-2/",
+         "pubDate" : "Thu, 05 Oct 2023 03:07:00",
+         "title" : "FIDE TRAINER SEMINARS"
       },
       {
          "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
@@ -776,22 +800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2658",
          "pubDate" : "Thu, 28 Sep 2023 10:56:23 +0000",
          "title" : "Asian Games: Wei Yi and Zhu Jiner win individual titles"
-      },
-      {
-         "description" : "36th National Chess Championship 2023, Certificates, 21-25 September 2023 U-07 Open : https://aicf.online/36th_National-U7-Open.html U-07 Girls : https://aicf.online/36th_National-U7-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/36th-national-chess-championship-certificates/",
-         "pubDate" : "Thu, 28 Sep 2023 10:54:31",
-         "title" : "36th National Chess Championship certificates"
-      },
-      {
-         "description" : "36th National Under-7 Chess Championship, 2023, was held from 21st September to 25th September 2023, at Hotel Stadel, Salt Lake Stadium, Kolkata. The event was",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mani-sarbartho-of-wb-narayani-umesh-marathe-of-mah-wins-national-under-7-national-under-7-girls-chess-championship-2023/",
-         "pubDate" : "Thu, 28 Sep 2023 08:42:00",
-         "title" : "Mani Sarbartho of WB & Narayani Umesh Marathe of MAH Wins National Under-7 & National Under-7 Girls Chess Championship 2023"
       },
       {
          "description" : "",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/the-art-of-resilience-how-to-defend-lost-chess-positions/",
          "pubDate" : "Sat, 16 Sep 2023 12:00:32",
          "title" : "The Art of Resilience: How to Defend Lost Chess Positions"
-      },
-      {
-         "description" : "Alert readers will recall the \"cheating\" scandal last year which arose between the then world champion, Magnus Carlsen - now still ranked as global numero uno in spite of renouncing his title - and the American teenager, Hans Niemann. The casus belli occurred when the two met over the board (OTB, as opposed to online) []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-great-chess-cheating-scandal-revisited/",
-         "pubDate" : "Sat, 16 Sep 2023 11:29:57",
-         "title" : "The great chess 'cheating' scandal revisited"
       }
    ]
 }
