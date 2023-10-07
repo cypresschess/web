@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
+         "pubDate" : "Sat, 07 Oct 2023 14:00:00",
+         "title" : "European Chess Club Cup - Live!"
+      },
+      {
+         "description" : "Over 100 teams from 50 countries will take part in the Intercontinental Online Chess Championship for Prisoners, a three-day event that starts on October 11. The championship is a part of the Chess for Freedom Program, launched two years ago to promote chess as a tool for education and social inclusion in prisons worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/intercontinental-championship-prisoners-2023-preview",
+         "pubDate" : "Sat, 07 Oct 2023 13:15:00",
+         "title" : "Intercontinental Championship for Prisoners: Over 100 teams registered"
+      },
+      {
          "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -82,11 +98,11 @@ news_feed (
          "title" : "Niemann on Catalan Win vs Sevian: 'The Chess Spoke for Itself' | R2 #USChessChamps"
       },
       {
-         "description" : "GMs Hans Niemann and Abhimanyu Mishra have taken over the lead at the U.S. Championships in round two. Niemann came within inches of blundering and running out of time but fought back to defeat the previous leader, GM Sam Sevian. Contrastingly, Mi...",
+         "description" : "GMs Hans Niemann and Abhimanyu Mishra have taken the lead at the U.S. Championships after round two. Niemann came within inches of blundering and running out of time but fought back to defeat the previous leader, GM Sam Sevian. Contrastingly, Mish...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-2",
-         "pubDate" : "Fri, 06 Oct 2023 22:53:41",
+         "pubDate" : "Fri, 06 Oct 2023 22:53:00",
          "title" : "On the Verge Of Blundering While Running Out Of Time, Niemann Defeats Leader"
       },
       {
@@ -122,14 +138,6 @@ news_feed (
          "title" : "U.S. Championships - Live!"
       },
       {
-         "description" : "Sam Sevian and Nazi Paikidze are the sole leaders in the open and women's sections of the U.S. Championships, respectively. Sevian beat Ray Robson with black, while Paikidze got the better of Ashritha Eswaran with white in the first round of the national championships. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r1",
-         "pubDate" : "Fri, 06 Oct 2023 18:15:00",
-         "title" : "U.S. Championships: Sevian and Paikidze start with wins"
-      },
-      {
          "description" : " In recent times I have gone into my tournament games a little under done. Unlike events like the Olympiad, I usually don't have a lot of time to prepare for club and local games. Weirdly I managed to play a good game today, and it might have something to do with a warm up event I played a few hours earlier. As a reward for a pretty tough two weeks of chess, I organised a Transfer tournament for the kids who attended the ACTJCL Bootcamp. It was 11 rounds, and as there was an odd number of players, I played to keep the numbers even. I even played the final 2 rounds solo, where I managed 1 win and 1 loss. Now I'm not saying that Transfer (or Bughouse) is the ideal preparation for a serious gam",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -152,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment-2",
          "pubDate" : "Fri, 06 Oct 2023 12:00:00",
          "title" : "Chess for fun and entertainment"
+      },
+      {
+         "description" : "Sam Sevian and Nazi Paikidze are the sole leaders in the open and women's sections of the U.S. Championships, respectively. Sevian beat Ray Robson with black, while Paikidze got the better of Ashritha Eswaran with white in the first round of the national championships. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r1",
+         "pubDate" : "Fri, 06 Oct 2023 11:55:00",
+         "title" : "U.S. Championships: Sevian and Paikidze start with wins"
       },
       {
          "description" : "Magnus Carlsen's Offerspill and Vishy Anand's Superchess are sharing the lead in the open section of the European Club Cup. Both teams have a perfect 10/10 score after beating Novy Bor and Asnieres in closely contested matches. Meanwhile, SP Gaz Ukraine grabbed the lead in the women's tournament after beating former sole leaders TAJFUN SK Ljubljana. | Photo: Niki Riga",
@@ -562,28 +578,12 @@ news_feed (
          "title" : "Instructive endgames from the Armageddon Series"
       },
       {
-         "description" : "The World Junior Championships are taking place from September 21 to October 1 at the Hotel del Prado in Mexico City. Two US representatives, Hans Niemann and Carissa Yip, are the top seeds in the open and the women's section, respectively. | Follow the games live with computer assistance, starting at 0.00 CEST (18.00 ET, 3.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-live",
-         "pubDate" : "Sun, 01 Oct 2023 15:50:00",
-         "title" : "World Junior Championships - Round 11 Live!"
-      },
-      {
          "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), we often see an auction item described as a 'figurine'. Does that category include both people and animals? According to one dictionary source, <A HREF=\"https://www.merriam-webster.com/dictionary/figurine\">Figurine Definition & Meaning</A> (merriam-webster.com), the word means, <BLOCKQUOTE> a small carved or molded figure : statuette </BLOCKQUOTE> <P> and has synonyms that can stand for people or animals. A recent example in 'Top eBay Items' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshund",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/10/nyc-central-park-chess-hustler.html",
          "pubDate" : "Sun, 01 Oct 2023 15:30:00",
          "title" : "NYC Central Park Chess Hustler"
-      },
-      {
-         "description" : "Control of the centre has been considered to be the heart of chess strategy from time immemorial. As Jos&eacute; Ra&uacute;l Capablanca pointed out, the fundamentals remain the same, though application may change in the course of time. The Cuban world champion wrote: \"In chess the tactics may change but the strategic fundamental principles are always the same\". | GM Sundararajan Kidambi analyses three 'hypermodern' games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hypermodern-games-kidambi",
-         "pubDate" : "Sun, 01 Oct 2023 15:15:00",
-         "title" : "Hypermodern games of chess"
       },
       {
          "description" : " Saturday 7th October is the date of the very 1st Street Chess \"Buy, Swap or Sell\" chess book day. From 10am you can come along to sell your old chess books, swap books with anyone else who has brought books in, or simply buy what is on offer. A few of the Street Chess regulars will be bringing in their books to sell, including myself, who is using it as an opportunity to clear some duplicates from my collection. The sale starts at 10am on Saturday 7th October outside King O'Malley's, City Walk, Canberra City. Street Chess will be running as usual from 11am but feel free to drop in a bit earlier than usual to pick up some bargains. ",
@@ -1296,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-chess-championship.html",
          "pubDate" : "Sun, 17 Sep 2023 14:09:00",
          "title" : "2023 ACT Junior Chess Championship - Coming up"
-      },
-      {
-         "description" : "Today, I'm going to show you how to defend a lost position. Let's face it, we all get into lost positions from time to time. It is great to avoid them in the first place, but defending them the right way will also make a huge difference to your results. Lost positions usually aren't fun []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/the-art-of-resilience-how-to-defend-lost-chess-positions/",
-         "pubDate" : "Sat, 16 Sep 2023 12:00:32",
-         "title" : "The Art of Resilience: How to Defend Lost Chess Positions"
       }
    ]
 }
