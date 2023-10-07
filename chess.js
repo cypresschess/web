@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black's two centralized major pieces create a serious threat - which White did not see. He played 22.Ra4??, allowing Black to strike. How would you punish this rook move?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spot-the-motif",
+         "pubDate" : "Sat, 07 Oct 2023 09:00:00",
+         "title" : "Spot the motif"
+      },
+      {
+         "description" : "The round-6 clash of co-leaders between Superchess and Offerspill ended in a draw, with wins for Bogdan-Daniel Deac (Superchess) and Pranav V (Offerspill). This allowed six teams to close the gap with the co-leaders to 1 match point going into Saturday's final round. Meanwhile, in the women's tournament, Superchess and Garuda Ajka obtained crucial victories to climb to shared first place, and are set to face each other in round 7. The final round stars one hour earlier than usual. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r6",
+         "pubDate" : "Sat, 07 Oct 2023 06:30:00",
+         "title" : "Euro Club Cup: Deac wins with 1.a3, Offerspill and Superchess co-leaders"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Abhimanyu Mishra talks to the team after defeating Tang in the second round of the 2023 U.S. Championship. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-playing-event-%E2%80%98dream-come-true%E2%80%99-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xyiOmCou4wY.jpg?itok=ByGuVgjj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,6 +74,14 @@ news_feed (
          "title" : "Niemann on Catalan Win vs Sevian: 'The Chess Spoke for Itself' | R2 #USChessChamps"
       },
       {
+         "description" : "GMs Hans Niemann and Abhimanyu Mishra have taken over the lead at the U.S. Championships in round two. Niemann came within inches of blundering and running out of time but fought back to defeat the previous leader, GM Sam Sevian. Contrastingly, Mi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-2",
+         "pubDate" : "Fri, 06 Oct 2023 22:53:41",
+         "title" : "On the Verge Of Blundering While Running Out Of Time, Niemann Defeats Leader"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to the team during the second round of the 2023 U.S. Championships. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/curator-emily-allred-t-s-eliot-chess-r2-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NdIduRGjGqE.jpg?itok=P7Ai8dCl\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -98,22 +122,6 @@ news_feed (
          "title" : "U.S. Championships: Sevian and Paikidze start with wins"
       },
       {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Fri, 06 Oct 2023 15:00:00",
-         "title" : "European Chess Club Cup - Live!"
-      },
-      {
-         "description" : "Magnus Carlsen's Offerspill and Vishy Anand's Superchess are sharing the lead in the open section of the European Club Cup. Both teams have a perfect 10/10 score after beating Novy Bor and Asnieres in closely contested matches. Meanwhile, SP Gaz Ukraine grabbed the lead in the women's tournament after beating former sole leaders TAJFUN SK Ljubljana. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r5",
-         "pubDate" : "Fri, 06 Oct 2023 14:50:00",
-         "title" : "Euro Club Cup: Carlsen beats Keymer, Offerspill and Superchess co-leaders"
-      },
-      {
          "description" : " In recent times I have gone into my tournament games a little under done. Unlike events like the Olympiad, I usually don't have a lot of time to prepare for club and local games. Weirdly I managed to play a good game today, and it might have something to do with a warm up event I played a few hours earlier. As a reward for a pretty tough two weeks of chess, I organised a Transfer tournament for the kids who attended the ACTJCL Bootcamp. It was 11 rounds, and as there was an odd number of players, I played to keep the numbers even. I even played the final 2 rounds solo, where I managed 1 win and 1 loss. Now I'm not saying that Transfer (or Bughouse) is the ideal preparation for a serious gam",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment-2",
          "pubDate" : "Fri, 06 Oct 2023 12:00:00",
          "title" : "Chess for fun and entertainment"
+      },
+      {
+         "description" : "Magnus Carlsen's Offerspill and Vishy Anand's Superchess are sharing the lead in the open section of the European Club Cup. Both teams have a perfect 10/10 score after beating Novy Bor and Asnieres in closely contested matches. Meanwhile, SP Gaz Ukraine grabbed the lead in the women's tournament after beating former sole leaders TAJFUN SK Ljubljana. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r5",
+         "pubDate" : "Fri, 06 Oct 2023 11:50:00",
+         "title" : "Euro Club Cup: Carlsen beats Keymer, Offerspill and Superchess co-leaders"
       },
       {
          "description" : "",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2663",
          "pubDate" : "Sat, 30 Sep 2023 21:24:23 +0000",
          "title" : "World Junior Championship: Maurizzi, sole leader again after a brilliant victory"
-      },
-      {
-         "description" : "In the latest edition of his Fast & Furious series, Robert Ris shows Mateusz Bartel's spectacular win over Aryan Tari from the Polish Ekstraliga. Bartel only needed 18 moves to force his opponent's resignation. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-bartel-crushing-win",
-         "pubDate" : "Sat, 30 Sep 2023 20:00:00",
-         "title" : "Robert Ris' Fast and Furious: Bartel scores crushing win"
       },
       {
          "description" : " FM Todd Andrews recently released a manual, The Final Attack a tribute to the lessons of International Master Emory Tate. Of course, Tate passed away in 2015, but his lessons live on. Andrews was a Tate protege and traveled with him to many tournaments soaking up pearls of wisdom. The life lessons left an impression The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/\">&#8220;The Final Attack,&#8221; Chess Teachings of Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2642",
          "pubDate" : "Wed, 20 Sep 2023 21:31:53 +0000",
          "title" : "FIDE World Senior Team Championship: Day 2 recap"
-      },
-      {
-         "description" : "GM Hikaru Nakamura will face the self-proclaimed &#34;final boss of chess,&#34; GM Magnus Carlsen, in the Final of the 2023 Chess.com Speed Chess Championship presented by Coinbase. On Wednesday, Nakamura defeated GM Maxime Vachier-Lagrave 16.5-11.5.&#38;nbsp...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-sf-nakamura-vachier-lagrave",
-         "pubDate" : "Wed, 20 Sep 2023 14:54:00",
-         "title" : "Nakamura Enters Beast Mode In Bullet Chess, Will Face Carlsen In Final"
       },
       {
          "description" : "Turkish Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate European Amateur Chess Championship organized in Antalya, T&uuml;rkiye between 26 November (arrival) 04 &#160;December (departure), 2023. The European Amateur Chess Championship 2023 will be played in three rating categories: U1700, U2000, and U2300. The Championships are open tournaments for players registered or approved by their federation. ECU member federations shall have the right to []",
