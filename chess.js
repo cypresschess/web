@@ -82,6 +82,14 @@ news_feed (
          "title" : "U.S. Championships: Niemann beats Sevian, shares the lead with Abhimanyu"
       },
       {
+         "description" : "GM Daniel Naroditsky won October&#39;s first Bullet Brawl by a convincing margin of 44 points on Saturday, one week after claiming his fifth title. The U.S. GM&#39;s score of 252 was more than enough to secure the $400 first prize ahead of the second-plac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-7-2023",
+         "pubDate" : "Sat, 07 Oct 2023 17:41:00",
+         "title" : "Naroditsky Outclasses Bullet Brawl Field"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/2023-world-junior.html",
          "pubDate" : "Fri, 22 Sep 2023 13:11:00",
          "title" : "2023 World Junior"
-      },
-      {
-         "description" : "GM Levon Aronian leads the Levitov Chess Week after the first day of play, scoring three wins and two draws. The tournament runs until September 26 in Amsterdam, The Netherlands. How to watch?You can watch the 2023 Levitov Chess Week on YouTub...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-1",
-         "pubDate" : "Fri, 22 Sep 2023 13:06:00",
-         "title" : "Undefeated Aronian Grabs Early Lead As Levitov Chess Week Returns To Amsterdam"
       },
       {
          "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
