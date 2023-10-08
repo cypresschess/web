@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 38th edition of the European Chess Club Cup and the 27th European Women's Club Cup concluded yesterday in Durres, Albania. The intense last round determined the Winners and the medalists of the event, as both section had two co-leaders heading into the final round. Offerspill Sjakklub (Norway) and Superchess (Romania) were in a tie for the top of the Open section, and Garuda Ajka BSK (Hungary) and Superchess (Romania) tied for the top of the Women's event after six []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/offerspill-sjakklub-norway-and-superchess-romania-win-european-openwomens-club-cup-2023/",
+         "pubDate" : "Sun, 08 Oct 2023 09:15:00",
+         "title" : "Offerspill Sjakklub (Norway) and Superchess (Romania) win European Open&Women's Club Cup 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2673",
+         "pubDate" : "Sun, 08 Oct 2023 06:48:32 +0000",
+         "title" : "Offerspill and Superchess are the European Club Cup champions"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Andrew Tang talks to the team after a very quick draw against Aronian in the third round of the 2023 U.S. Championship. 2023.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tang-expected-levon-take-more-risks-r3-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZoFgmZ-ayOY.jpg?itok=NcH2wnRh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
