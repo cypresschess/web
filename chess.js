@@ -18,6 +18,14 @@ news_feed (
          "title" : "Offerspill and Superchess are the European Club Cup champions"
       },
       {
+         "description" : "GM Abhimanyu Mishra shot into the sole lead on 2.5 points by defeating GM Ray Robson in the third round of the 2023 U.S. Championship, while also breaking into the 2600 Elo rating club, with the added distinction of being the youngest player to br...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-3",
+         "pubDate" : "Sun, 08 Oct 2023 06:32:00",
+         "title" : "Mishra In Sole Lead, Becomes World's Youngest 2600+ Player"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Andrew Tang talks to the team after a very quick draw against Aronian in the third round of the 2023 U.S. Championship. 2023.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tang-expected-levon-take-more-risks-r3-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZoFgmZ-ayOY.jpg?itok=NcH2wnRh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1106,14 +1114,6 @@ news_feed (
          "title" : "Levitov Chess Week 2023 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen won his third SCC title after defeating GM Hikaru Nakamura 13.5-12.5 in the Final of the 2023 Chess.com Speed Chess Championship Presented by Coinbase. The match had many phases. Carlsen got off to a strong start, taking a two-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-speed-chess-championship-final-nakamura-carlsen",
-         "pubDate" : "Fri, 22 Sep 2023 18:58:00",
-         "title" : "Carlsen Claims 2023 Speed Chess Title With Double Rook Sacrifice"
-      },
-      {
          "description" : "For the past month I've been running a series on actions provoked by Google's Adsense. Here are the relevant posts:- <UL> <LI> 2023-08-18: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> &#149; 'I need to catch up with new actions from Google'; CFAA++ means my web site and blogs <LI> 2023-08-25: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> &#149; GDPR = General Data Protection Regulation <LI> 2023-09-01: <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> &#149; CMP = Consent Management Platform <LI> 2023-09-08: <A HREF=\"https://chessforal",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1304,22 +1304,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/09/news-from-number-10.html",
          "pubDate" : "Sun, 17 Sep 2023 15:37:00",
          "title" : "News from Number 10"
-      },
-      {
-         "description" : "My readers, and all my friends in the chess world, know that I am fond of puzzles. I keep giving the most talented chess players non-chess problems to solve, and they keep coming back for more. Here's one I tormented some of my 2600+ friends with. Warning: it can only be solved by a certain section of our readers. Their reactions, like that of 2750-Gukesh, are priceless.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/there-was-a-bank-row-5",
-         "pubDate" : "Sun, 17 Sep 2023 15:05:00",
-         "title" : "There was a bank row?"
-      },
-      {
-         "description" : " <b> 2023 ACT Junior Championship and Age Championships</b> When: Monday 25th September - Friday 29th September <br /> Schedule: Monday 25th Under 14/Under 12 Day 1 Tuesday 26th Under 14/Under 12 Day 2 Wednesday 27th Under 18 Day 1, Under 8 (Only day) Thursday 28th Under 18 Day 2, Under 10 (Only day) Friday 29th Under 18 Day 3 <br /> Tournament Format and Entry Fee Under 18 9 rounds Wed-Fri FIDE Rated $90 60m+30s TC Under 14 6 rounds Mon-Tue ACF Rated $60 60m+30s TC Under 12 6 rounds Mon-Tue ACF Rated $60 60m+30s TC (May be combined with Under 14) Under 10 6 rounds Thu ACF Rated $30 30m+30s TC Under 8 6 rounds Wed ACF Rated $30 30m+30s TC <br /> Players may play multiple events if age and sc",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-chess-championship.html",
-         "pubDate" : "Sun, 17 Sep 2023 14:09:00",
-         "title" : "2023 ACT Junior Chess Championship - Coming up"
       }
    ]
 }
