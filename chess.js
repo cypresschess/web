@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Sun, 08 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "An exciting final round of the European Club Cup in Durrës saw Offerspill and Superchess grabbing gold medals in the open and women's sections, respectively. In the open, the Norwegian team, led by Magnus Carlsen, beat Asnieres with wins by Pranav Venkatesh and Aryan Tari, while in the women's tournament, Superchess beat Garuda Ajka in a close match, thanks to victories by Dinara Wagner and Marsel Efroimski. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r7",
+         "pubDate" : "Sun, 08 Oct 2023 18:00:00",
+         "title" : "Carlsen's Offerspill clear winners at European Chess Club Cup"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 146th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-28",
+         "pubDate" : "Sun, 08 Oct 2023 15:00:00",
+         "title" : "Understanding before Moving 146: Chess history in a nutshell (28)"
+      },
+      {
          "description" : "The 38th edition of the European Chess Club Cup and the 27th European Women's Club Cup concluded yesterday in Durres, Albania. The intense last round determined the Winners and the medalists of the event, as both section had two co-leaders heading into the final round. Offerspill Sjakklub (Norway) and Superchess (Romania) were in a tie for the top of the Open section, and Garuda Ajka BSK (Hungary) and Superchess (Romania) tied for the top of the Women's event after six []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/maurice-ashley-returns-analysis-r3-uschesschamps",
          "pubDate" : "Sat, 07 Oct 2023 22:04:14",
          "title" : "Maurice Ashley Returns for Analysis! | R3 #USChessChamps"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Sat, 07 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Leinier Dominguez discusses his intriguing choice of 10...b5, a move that diverged from the norm, in his drawn game against Fabiano Caruana during the second round of the 2023 U.S. Championship. 2023.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-10b5-stepping-beaten-path-r2-uschesschamps-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9",
@@ -114,20 +130,20 @@ news_feed (
          "title" : "Naroditsky Outclasses Bullet Brawl Field"
       },
       {
+         "description" : "Over 100 teams from 50 countries will take part in the Intercontinental Online Chess Championship for Prisoners, a three-day event that starts on October 11. The championship is a part of the Chess for Freedom Program, launched two years ago to promote chess as a tool for education and social inclusion in prisons worldwide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/intercontinental-championship-prisoners-2023-preview",
+         "pubDate" : "Sat, 07 Oct 2023 14:15:00",
+         "title" : "Intercontinental Championship for Prisoners: Over 100 teams registered"
+      },
+      {
          "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
          "pubDate" : "Sat, 07 Oct 2023 14:00:00",
          "title" : "European Chess Club Cup - Live!"
-      },
-      {
-         "description" : "Over 100 teams from 50 countries will take part in the Intercontinental Online Chess Championship for Prisoners, a three-day event that starts on October 11. The championship is a part of the Chess for Freedom Program, launched two years ago to promote chess as a tool for education and social inclusion in prisons worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/intercontinental-championship-prisoners-2023-preview",
-         "pubDate" : "Sat, 07 Oct 2023 13:15:00",
-         "title" : "Intercontinental Championship for Prisoners: Over 100 teams registered"
       },
       {
          "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
@@ -562,14 +578,6 @@ news_feed (
          "title" : "Understanding before Moving 145: Chess history in a nutshell (27)"
       },
       {
-         "description" : "The favourite teams in both sections of the European Club Cup had little trouble beating much lower-rated opposition in the first round of the seven-day event. In the open, none of the five top seeds (individually) - Magnus Carlsen, Vishy Anand, Richard Rapport, Shakhriyar Mamedyarov and Maxime Vachier-Lagrave - played in round 1. | Pictured: Nino Batsiashvili (Superchess) | Photo: Sandra Schmidt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r1",
-         "pubDate" : "Mon, 02 Oct 2023 08:50:00",
-         "title" : "Euro Club Cup: Easy wins for the favourites"
-      },
-      {
          "description" : "This is a forerunner of the reports that will be winging their way to the ECF in coming weeks from the wonderful island of Rhodes,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-kicked-off-in-durres-albania/",
          "pubDate" : "Mon, 02 Oct 2023 05:43:07",
          "title" : "European Open&Women's Chess Club Cups 2023 kicked off in Durres, Albania"
-      },
-      {
-         "description" : "A little over a week ago, Magnus Carlsen and Hikaru Nakamura did battle in the Speed Chess Championship. Over three hours, they battered each other at 5+1, 3+1 and 1+1 until Carlsen emerged the victor by the narrowest possible margin. It was a great spectacle, and the thing I liked most of all was how these two great players, when things are going well, 'trust their hands'. Their autopilots can outperform most people even at much slower time limits, and there were a few decisions which I particularly admired. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-203",
-         "pubDate" : "Sun, 01 Oct 2023 20:45:00",
-         "title" : "Jon Speelman: Trusting your hand"
       },
       {
          "description" : "A destructive performance by the University of Missouri (Mizzou) in the 2023 Collegiate Chess League (CCL) has placed the three-GM team atop the lead after two weeks of play. Board two GM Mikhail Antipov surged to 4/4 while Mizzou&#39;s board one GM G...",
@@ -1296,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2636",
          "pubDate" : "Mon, 18 Sep 2023 09:52:58 +0000",
          "title" : "FIDE Education Commission continues its development activities around the world"
-      },
-      {
-         "description" : "Among other stories, last month's Yahoos post (aka 'chess news in the mainstream press'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), offered this:- <UL> <LI> 2023-08-08: Rishi Sunak to announce &pound;500,000 government funding boost for English chess (ft.com) </UL> <P> The story is a prelude to this month's Flickr photo. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni17.jpg\" WIDTH=400 HEIGHT=265><BR> <A HREF=\"https://www.flickr.com/photos/number10gov/53134435703/\">The Prime Minister hosts young chess champions</A> &#169; Flickr user <I>Number 10</I> under <A HREF=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/news-from-number-10.html",
-         "pubDate" : "Sun, 17 Sep 2023 15:37:00",
-         "title" : "News from Number 10"
       }
    ]
 }
