@@ -58,11 +58,19 @@ news_feed (
          "title" : "Ghana's inmates get ready for International Chess Championship"
       },
       {
+         "description" : "Svitlana Demchenko celebrated her 20th birthday recently, marking this year's World Junior Championship in Mexico as her final appearance. She enjoyed the tournament atmosphere, and met many chess friends. In this episode, she shows us a well-prepared Italian Game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-giuoco-piano-victory-in-mexico",
+         "pubDate" : "Mon, 09 Oct 2023 12:00:00",
+         "title" : "Svitlana's Smart Moves - Giuoco Piano victory in Mexico"
+      },
+      {
          "description" : "Offerspill Chess Club was crowned as the champions in the open division of the recently concluded 2023 European Chess Club Cup (ECCC) after scoring six match wins and a draw against some of the world&#39;s top club teams in Durres, Albania. Led by G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-chess-club-cup-offerspill-chess-club-wins",
-         "pubDate" : "Mon, 09 Oct 2023 11:56:32",
+         "pubDate" : "Mon, 09 Oct 2023 11:56:00",
          "title" : "Carlsen Guides Offerspill To European Chess Club Cup Glory"
       },
       {
@@ -194,7 +202,7 @@ news_feed (
          "title" : "Endgames from Amsterdam"
       },
       {
-         "description" : "The University of Texas at Dallas (UTD) became the first team to topple the University of Missouri (Mizzou) in the SIQ-sponsored 2023 Collegiate Chess League (CCL) fall season on Saturday after a tight tussle that ended 9-7 in favor of the Texan t...",
+         "description" : "The University of Texas at Dallas (UTD) became the first team to topple the University of Missouri (Mizzou) in the SIG-sponsored 2023 Collegiate Chess League (CCL) fall season on Saturday after a tight tussle that ended 9-7 in favor of the Texan t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utd-uchicago",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-bishops-and-two-queens",
          "pubDate" : "Tue, 03 Oct 2023 09:00:00",
          "title" : "Two bishops and two queens"
-      },
-      {
-         "description" : "While there were a few upsets on individual boards at the open section of the European Club Cup, none of the big teams gave up match points in Monday's second round, with Magnus Carlsen making his debut for Norway's Offerspill. In the women's section, on the other hand, top seeds Monte Carlo drew Centar Asseco See, the seventh seeds from North Macedonia. Stavroula Tsolakidou beat Mariya Muzychuk with black on the top board. | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r2",
-         "pubDate" : "Tue, 03 Oct 2023 08:55:00",
-         "title" : "Euro Club Cup: Monte Carlo give up a point in the women's section"
       },
       {
          "description" : "",
