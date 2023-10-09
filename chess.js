@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #252 Karsten M&uuml;ller continues to analyse endgame highlights from the FIDE World Cup, which was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-3",
+         "pubDate" : "Mon, 09 Oct 2023 18:00:00",
+         "title" : "Endgame Magic #252: Highlights from the FIDE World Cup Part 2"
+      },
+      {
          "description" : "Wins in rounds 3 and 4 allowed Fabiano Caruana to go into the first rest day as the sole leader at the U.S. Championship in Saint Louis. Three players are sharing second place with 2&frac12;/4 points: Sam Shankland, Hans Niemann and Abhimnayu Mishra. In the women's championship, Carissa Yip and Gulrukhbegim Tokhirjonova are sharing the lead with 3/4 points each. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-games-iran-and-china-win-team-competitions",
          "pubDate" : "Mon, 09 Oct 2023 17:00:00",
          "title" : "Asian Games: Iran and China win team competitions"
+      },
+      {
+         "description" : "With profound grief and sorrow, we regret to inform that the Vice President of All India Chess Federation Shri Ajay Ajmera left for his heavenly",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/rest-in-peace-shri-ajay-ajmera-ji/",
+         "pubDate" : "Mon, 09 Oct 2023 16:21:01",
+         "title" : "Rest in Peace Shri Ajay Ajmera ji"
       },
       {
          "description" : "",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2674",
          "pubDate" : "Mon, 09 Oct 2023 12:25:17 +0000",
          "title" : "Ghana's inmates get ready for International Chess Championship"
+      },
+      {
+         "description" : "Offerspill Chess Club was crowned as the champions in the open division of the recently concluded 2023 European Chess Club Cup (ECCC) after scoring six match wins and a draw against some of the world&#39;s top club teams in Durres, Albania. Led by G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-european-chess-club-cup-offerspill-chess-club-wins",
+         "pubDate" : "Mon, 09 Oct 2023 11:56:32",
+         "title" : "Carlsen Guides Offerspill To European Chess Club Cup Glory"
       },
       {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris presents a fine attacking game Nihal Sarin played at the European Club Cup, which finished last weekend. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "Euro Club Cup: Monte Carlo give up a point in the women's section"
       },
       {
-         "description" : "How do you win a stage of the Tour de France? As well as endurance and cycling skills, a rider needs to be able to think strategically. It is an art to choose the right moment to break away from the peloton. If you break too early, you may lose your energy before the finish. If you wait too long, someone else might take the chance instead of you. Timing is also very important in chess, for example when planning a pawn move. | Photo: Hilmar Buschow, Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-24-the-most-suitable-moment-for-a-pawn-break",
-         "pubDate" : "Mon, 02 Oct 2023 20:00:00",
-         "title" : "The Winning Academy 24: The most suitable moment for a pawn break"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -858,14 +874,6 @@ news_feed (
          "title" : "European Open & Women's Chess Club Cups 2023 start in Durres, Albania"
       },
       {
-         "description" : "Round 7 proved to be a testing one for both boys and girls. GM Pranav Anand and IM Dushyant Sharma, overnight joint leaders, suffered losses.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-2023-round-7/",
-         "pubDate" : "Fri, 29 Sep 2023 06:11:29",
-         "title" : "World Junior 2023 :Round 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2650",
          "pubDate" : "Sun, 24 Sep 2023 19:17:19 +0000",
          "title" : "World Junior Championship U20: Maurizzi and Mkrtchyan, first sole leaders after four rounds"
-      },
-      {
-         "description" : "The University of Missouri (Mizzou) and Saint Louis University (SLU) started on the right foot in the first week of the $25,000, SIG-sponsored 2023 Collegiate Chess League (CCL) by recording compelling victories over the University of Virginia (UV...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-fall-slu-mizzou",
-         "pubDate" : "Sun, 24 Sep 2023 17:46:00",
-         "title" : "Bok, Oparin Star As 2023 Collegiate Chess League Launches"
       },
       {
          "description" : "In this long series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I was sure I had done a post on cheating. I looked two years back into the series and found nothing. So here we are. <P> Six months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A> (March 2023), I put together a summary of previous blog posts about cheating. As happens with many summaries, it soon needed to be updated, but that will have to wait for another time. The most recent post on the subject was <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc",
