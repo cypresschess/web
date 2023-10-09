@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wins in rounds 3 and 4 allowed Fabiano Caruana to go into the first rest day as the sole leader at the U.S. Championship in Saint Louis. Three players are sharing second place with 2&frac12;/4 points: Sam Shankland, Hans Niemann and Abhimnayu Mishra. In the women's championship, Carissa Yip and Gulrukhbegim Tokhirjonova are sharing the lead with 3/4 points each. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r4",
+         "pubDate" : "Mon, 09 Oct 2023 17:10:00",
+         "title" : "U.S. Championships: Caruana wins two in a row, grabs the lead"
+      },
+      {
+         "description" : "The Asian Games, held from 23 September to 8 October in Hangzhou, China, included individual and team chess tournaments for men and women. The winners of the team events were Iran (men) and China (women).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-games-iran-and-china-win-team-competitions",
+         "pubDate" : "Mon, 09 Oct 2023 17:00:00",
+         "title" : "Asian Games: Iran and China win team competitions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2675",
+         "pubDate" : "Mon, 09 Oct 2023 15:21:28 +0000",
+         "title" : "FIDE Statement regarding the World Cadet U8, U10, U12 Championships 2023"
+      },
+      {
+         "description" : "The renowned New York University has taken a scientific approach to the omnipresent question marks around the effects of gender bias in chess. It concludes: \"This study provides the first large-scale investigation of bias against young female players and holds implications for the role of parents and mentors.\" | Logo: Courtesy of the New York University",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gender-bias-in-chess-study-finds-parents-and-mentors-shortchange-girls-potential",
+         "pubDate" : "Mon, 09 Oct 2023 14:00:00",
+         "title" : "Gender Bias in Chess: Study finds Parents and Mentors shortchange Girls' Potential"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2674",
+         "pubDate" : "Mon, 09 Oct 2023 12:25:17 +0000",
+         "title" : "Ghana's inmates get ready for International Chess Championship"
+      },
+      {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris presents a fine attacking game Nihal Sarin played at the European Club Cup, which finished last weekend. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-4",
-         "pubDate" : "Mon, 09 Oct 2023 01:37:05",
+         "pubDate" : "Mon, 09 Oct 2023 01:37:00",
          "title" : "Caruana Sole Leader After Long Grinding Win"
       },
       {
@@ -134,16 +174,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utd-uchicago",
-         "pubDate" : "Sun, 08 Oct 2023 21:12:40",
-         "title" : "UTD Defeats Mizzou In Top Of The Table Clash; Liang Thrills For UChicago"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Sun, 08 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
+         "pubDate" : "Sun, 08 Oct 2023 21:12:00",
+         "title" : "UTD Defeats Mizzou In Top-Of-Table Clash, Liang Thrills For UChicago"
       },
       {
          "description" : "An exciting final round of the European Club Cup in Durrës saw Offerspill and Superchess grabbing gold medals in the open and women's sections, respectively. In the open, the Norwegian team, led by Magnus Carlsen, beat Asnieres with wins by Pranav Venkatesh and Aryan Tari, while in the women's tournament, Superchess beat Garuda Ajka in a close match, thanks to victories by Dinara Wagner and Marsel Efroimski. | Photo: Niki Riga",
@@ -600,14 +632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2665",
          "pubDate" : "Mon, 02 Oct 2023 18:52:22 +0000",
          "title" : "FIDE October 2023 rating list published"
-      },
-      {
-         "description" : "In the Endgame Magic Show #251 Karsten M&uuml;ller analyses endgame highlights from the FIDE World Cup, which was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-2",
-         "pubDate" : "Mon, 02 Oct 2023 18:00:00",
-         "title" : "Endgame Magic #251: Highlights from the FIDE World Cup Part 1"
       },
       {
          "description" : "The four books on this year's short list illustrated the wide range of current chess publishing which made the final choice difficult. The book chosen...",
