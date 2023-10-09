@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris presents a fine attacking game Nihal Sarin played at the European Club Cup, which finished last weekend. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nihal-sarin-attacks",
+         "pubDate" : "Mon, 09 Oct 2023 10:00:00",
+         "title" : "Robert Ris' Fast and Furious: Nihal Sarin attacks!"
+      },
+      {
+         "description" : "Congratulations to Jovanka Houska (second from the right) &#38; Lan Yao (centre)&#160; on winning board medals at the 2023 European Club Cup for Women in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-club-cup-for-women-medals/",
+         "pubDate" : "Mon, 09 Oct 2023 09:47:51",
+         "title" : "European Club Cup for Women - medals"
+      },
+      {
+         "description" : "ECF Members were contacted by email and asked to vote for their preferred membership option between: Option 1 - Single adult membership combining Gold, Silver...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/membership-options-summary-of-findings/",
+         "pubDate" : "Mon, 09 Oct 2023 09:36:34",
+         "title" : "Membership Options - summary of findings"
+      },
+      {
+         "description" : "It is with great sadness that I need to let you know of the death of FIDE Arbiter Geoff Gammon. Geoff was a great arbiter...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-geoff-gammon/",
+         "pubDate" : "Mon, 09 Oct 2023 08:25:56",
+         "title" : "RIP Geoff Gammon"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to the team after defeating Mishra in the fourth round of the 2023 U.S. Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-i%E2%80%99m-big-charity-guy-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CiViJ7C3Lsw.jpg?itok=OlMdiLV2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-precise-endgame-theft-r4-uschesschamps",
          "pubDate" : "Mon, 09 Oct 2023 04:05:22",
          "title" : "Caruana's Precise Endgame Theft! | R4 #USChessChamps"
+      },
+      {
+         "description" : "Defending champion GM Fabiano Caruana captured the sole lead with three points from four games after an 80-move grinding endgame win over GM Dariusz Swiercz&#38;nbsp;in the 2023 U.S. Championship. Overnight leader GM Abhimanyu Mishra was defeated by G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-4",
+         "pubDate" : "Mon, 09 Oct 2023 01:37:05",
+         "title" : "Caruana Sole Leader After Long Grinding Win"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Sal Matera talks to the team during the fourth round of the 2023 U.S. Championships. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sal-matera-never-seen-fischer-games-acquired-wchof-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EF_M3pmlpFw.jpg?itok=3xPDxT8e\" alt=\"\" /></a></div>",
@@ -112,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2023-r7",
          "pubDate" : "Sun, 08 Oct 2023 18:00:00",
          "title" : "Carlsen's Offerspill clear winners at European Chess Club Cup"
+      },
+      {
+         "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/everyones-favorite-world-champion.html",
+         "pubDate" : "Sun, 08 Oct 2023 15:17:00",
+         "title" : "Everyone's Favorite World Champion?"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 146th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
@@ -568,14 +616,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2023/",
          "pubDate" : "Mon, 02 Oct 2023 14:43:22",
          "title" : "ECF Book of the Year 2023"
-      },
-      {
-         "description" : "There was little movement at the top of the Top 100 list, as most of the top grandmasters were mostly active only in online chess. Magnus Carlsen remains the world's number one, ahead of Fabiano Caruna, Ding Liren and Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-october-2023",
-         "pubDate" : "Mon, 02 Oct 2023 13:30:00",
-         "title" : "FIDE ratings October 2023"
       },
       {
          "description" : "",
@@ -1050,14 +1090,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship: Day 5 recap "
       },
       {
-         "description" : "GM Nihal Sarin soared to dizzying heights and amassed a total score of 294 in September&#39;s fourth Bullet Brawl. Thanks to 78 wins, six draws, and just three losses during the two-hour arena, Nihal finished ahead of 10-time victor GM Hikaru Nakamura...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-sarin-wins-bullet-brawl-september-23-2023",
-         "pubDate" : "Sat, 23 Sep 2023 15:58:00",
-         "title" : "Nihal Sets Record With 56-Game Unbeaten Run"
-      },
-      {
          "description" : "Today, I'm going to show you how to get rid of distractions during chess training. In a world obsessed with quick hacks, pop-up messages, and social media notifications, it is hard to stay focused for a prolonged period of time. But that's exactly what you need if you want to improve your chess effectively. Sadly, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1250,14 +1282,6 @@ news_feed (
          "title" : "There was a bank row!"
       },
       {
-         "description" : "All English 2400+ ELO players there is a vacancy in this tournament for one GM and one GM candidate. If you're interested here are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/first-saturday-budapest-gm-gm-candidate-vacancies/",
-         "pubDate" : "Wed, 20 Sep 2023 08:13:21",
-         "title" : "First Saturday Budapest 7-17 Oct 2023 - GM/GM candidate vacancies"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2637",
          "pubDate" : "Tue, 19 Sep 2023 00:35:44 +0000",
          "title" : "FIDE World Senior Team Championship 2023 kicks off in Struga, North Macedonia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2636",
-         "pubDate" : "Mon, 18 Sep 2023 09:52:58 +0000",
-         "title" : "FIDE Education Commission continues its development activities around the world"
       }
    ]
 }
