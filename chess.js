@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eight years after two very successful editions of the Qatar Masters, won by Yu Yangyi (2014) and Magnus Carlsen (2015), the extraordinarily strong open is back. Carlsen returns to Doha and is joined by the likes of Hikaru Nakamura, Anish Giri and Dommaraju Gukesh. The tournament will be a 9-round Swiss open, with a $108,250 prize fund up for grabs. | Photo: FIDE / Fischer Random World Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-preview",
+         "pubDate" : "Tue, 10 Oct 2023 12:00:00",
+         "title" : "Starting Wednesday: Qatar Masters with Carlsen, Naka and Giri!"
+      },
+      {
          "description" : "Endings with opposite coloured bishops have large drawish tendencies and often being one or two pawns up is not enough to win. Material is often less important than positional considerations. In the diagram position White is two pawns down, but with best play he is able to hold the draw. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "We won Bronze!"
       },
       {
-         "description" : "Eight years after two very successful editions of the Qatar Masters, won by Yu Yangyi (2014) and Magnus Carlsen (2015), the extraordinarily strong open is back. Carlsen returns to Doha and is joined by the likes of Hikaru Nakamura, Anish Giri and Dommaraju Gukesh. The tournament will be a 9-round Swiss open, with a $108,250 prize fund up for grabs. | Photo: FIDE / Fischer Random World Chess Championship",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-preview",
-         "pubDate" : "Tue, 10 Oct 2023 05:50:00",
-         "title" : "Starting Wednesday: Qatar Masters with Carlsen, Naka and Giri!"
+         "description" : "As the Election Commission of India announced Assembly Election of Telangana State, the National Under-13 &#38; National Under-13 Girls Chess Championship-2023 has been rescheduled and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-13-chess-championship-2023-rescheduled/",
+         "pubDate" : "Tue, 10 Oct 2023 07:45:53",
+         "title" : "National Under-13 Chess Championship-2023 rescheduled"
       },
       {
          "description" : "",
@@ -794,14 +802,6 @@ news_feed (
          "title" : "New skids on the block"
       },
       {
-         "description" : "As the World Junior Chess Championship matches are down to the final days, the pressure is mounting up for all the players. Indian boys and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-2023-report-rounds-8-and-9/",
-         "pubDate" : "Sat, 30 Sep 2023 07:06:01",
-         "title" : "World Junior 2023 Report | Rounds 8 and 9"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1328,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2638",
          "pubDate" : "Tue, 19 Sep 2023 16:56:45 +0000",
          "title" : "FIDE Book Awards 2023 - Call for Nominations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/103783807.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-junior-chess-championship-5-indian-players-miss-out-due-to-visa-issues-coaches-changed-at-last-moment/articleshow/103783807.cms",
-         "pubDate" : "Tue, 19 Sep 2023 11:13:49 +0000",
-         "title" : "FIDE Junior Championship: 5 Indian players miss out due to visa issues"
       }
    ]
 }
