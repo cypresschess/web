@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a reminder that entries for the 2023 National Club Championships, being held at the University of Hull from 20th-22nd October, close next Monday...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
+         "pubDate" : "Tue, 10 Oct 2023 13:00:41",
+         "title" : "ECF National Club Championships 2023 - reminder"
+      },
+      {
+         "description" : " The Qatar Masters Open takes place 11th to 20th October 2023. Players: Carlsen, Nakamura, Giri, Gukesh, Abdusattorov, Erigaisi, Maghsoodloo, Jorden Van Foreest, Nihal Sarin etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/qatar-masters-open-2023",
+         "pubDate" : "Tue, 10 Oct 2023 12:41:00",
+         "title" : "Qatar Masters Open 2023 - Games and Results"
+      },
+      {
+         "description" : " The 2023 Vikings Weekender will be held on the weekend of the 18th and 19th of November. A return to the traditional venue of the Vikings Club, Erindale, means that the entry numbers will be restricted to 60 players. There will also only be 5 rounds (no Friday night round) and as a result, only 24 players can enter the Top section, with 36 players in the Under 1600 section. The booking link is <a href=\"https://www.trybooking.com/CMHKH\">https://www.trybooking.com/CMHKH</a> Full details are <b>18th and 19th November 2023</b> 5 round FIDE Rated Swiss* Vikings Club, Erindale, ACT Time control: 60m + 30s Open and Under 1600 sections (Both FIDE Rated) Round 1: Sat 10:15am Round 2: Sat 2:15pm Roun",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/2023-vikings-weekender.html",
+         "pubDate" : "Tue, 10 Oct 2023 12:13:00",
+         "title" : "2023 Vikings Weekender"
+      },
+      {
          "description" : "Eight years after two very successful editions of the Qatar Masters, won by Yu Yangyi (2014) and Magnus Carlsen (2015), the extraordinarily strong open is back. Carlsen returns to Doha and is joined by the likes of Hikaru Nakamura, Anish Giri and Dommaraju Gukesh. The tournament will be a 9-round Swiss open, with a $108,250 prize fund up for grabs. | Photo: FIDE / Fischer Random World Chess Championship",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/building-a-fortress",
          "pubDate" : "Tue, 10 Oct 2023 09:00:00",
          "title" : "Building a fortress"
+      },
+      {
+         "description" : "It started with a Chess.com account during the pandemic. Now 9-year-old FM Faustino Oro from Argentina has made history as the youngest player ever to score an IM norm. The prodigy, dubbed the &#34;Messi of Chess&#34; by Argentinian media, made headline...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-dubbed-messi-of-chess-scores-first-im-norm",
+         "pubDate" : "Tue, 10 Oct 2023 08:18:31",
+         "title" : "9-Year-Old Dubbed 'Messi Of Chess' Youngest Ever To Score IM Norm"
       },
       {
          "description" : "As we just reported, the women's section of the 2023 Asian Games in Hangzhou, China, was won by the Chinese team - followed of course by the Indian women. But third place was unexpectedly taken by the Kazakhstani women, who beat the Uzbekistan team and secured bronze. It was an achievement that brought pride on the Kazakhstan's women's chess, and for the federation, that sent us the following proud announcement.",
@@ -1066,14 +1098,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship: Day 6 recap"
       },
       {
-         "description" : "IM Jeremy Silman, the highly respected American chess author, trainer, and player, has passed at the age of 69. His contributions to the world of chess have left an indelible mark, inspiring and educating countless enthusiasts and players worldwid...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeremy-silman-1954-2023",
-         "pubDate" : "Sun, 24 Sep 2023 19:49:00",
-         "title" : "Jeremy Silman (1954-2023)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1216,14 +1240,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
          "pubDate" : "Fri, 22 Sep 2023 09:00:16",
          "title" : "ECF Membership System: Options for Change - update"
-      },
-      {
-         "description" : "Entries are now open for the regional qualifiers for the UK Open Blitz Championships 2023! The Championships will follow the format used in previous years.&#160;There...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2023/",
-         "pubDate" : "Fri, 22 Sep 2023 06:00:56",
-         "title" : "UK Open Blitz Championships 2023"
       },
       {
          "description" : "",
