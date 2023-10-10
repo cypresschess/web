@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2677",
+         "pubDate" : "Tue, 10 Oct 2023 22:23:45 +0000",
+         "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6",
+         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
+         "title" : "2023 U.S. Chess Championships: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Sabina Foisor after defeating Mishra in Round 4 of the 2023 U.S. Championship. This aired with discussion during Round 5. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-perpetual-game-chess-until-death-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hD1vP0zYCRY.jpg?itok=iC_BZKn2\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-niemann-perpetual-game-chess-until-death-uschesschamps",
+         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
+         "title" : "Hans Niemann: Perpetual Game of Chess Until Death | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis University President Dr. Fred Pestello talks to the team during the fifth round of the 2023 U.S. Championships. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/slu-president-strategy-across-board-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JOZ1xTr-UY8.jpg?itok=D801NqHe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/slu-president-strategy-across-board-r5-uschesschamps",
+         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
+         "title" : "SLU President: Strategy Across The Board | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Sabina Foisor before the 2023 U.S. Championship. This aired during Round 5. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-growing-philippines-turning-pro-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AdcpM97QGZ0.jpg?itok=H1EQpl7M\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-growing-philippines-turning-pro-uschesschamps",
+         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
+         "title" : "Wesley So: From Growing Up in the Philippines to Turning Pro | #USChessChamps"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2023-live",
          "pubDate" : "Tue, 10 Oct 2023 19:55:00",
          "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "Chess.com will be present at TwitchCon Las Vegas between October 20-22, with a range of exciting activities and events planned for members of the chess community. The upcoming edition of TwitchCon will take place at the Las Vegas Convention Cent...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-at-twitchcon-las-vegas-2023",
+         "pubDate" : "Tue, 10 Oct 2023 15:33:57",
+         "title" : "Join Chess.com At TwitchCon Las Vegas 2023"
+      },
+      {
+         "description" : "The I&#38;rsquo;M Not A GM Speed Chess Championship (IMSCC), the event that pits your favorite players who&#39;ve not (yet) made GM, is back for its 2023 edition this week&#38;mdash;and we can&#39;t wait until it kicks off on Thursday, October 12 at 11 a.m. ET/ 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-not-a-gm-speed-chess-championship-2023",
+         "pubDate" : "Tue, 10 Oct 2023 14:47:00",
+         "title" : "Back For More Brilliancies: The I'M Not A GM Speed Chess Championship 2023"
+      },
+      {
+         "description" : "Freedom Holding, the Kazakh financial firm that has sponsored some of FIDE&#39;s major events in the last year and is run by billionaire Timur Turlov, is now under investigation by the U.S. Department of Justice, according to CNBC. The American busi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cnbc-main-fide-sponsor-under-doj-investigation",
+         "pubDate" : "Tue, 10 Oct 2023 13:59:38",
+         "title" : "FIDE's Main Sponsor Freedom Holding Under DOJ Investigation"
       },
       {
          "description" : "This is a reminder that entries for the 2023 National Club Championships, being held at the University of Hull from 20th-22nd October, close next Monday...",
@@ -240,38 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/us-women-club%E2%80%99s-impact-favorite-moments-uschesschamps",
          "pubDate" : "Mon, 09 Oct 2023 01:05:19",
          "title" : "U.S. Women: Club's Impact & Favorite Moments | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to the team after a draw against Dominguez in the fourth round of the 2023 U.S. Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-solid-so-far-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/96D1oK3j6Pc.jpg?itok=6NjEoHOn\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-solid-so-far-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 01:05:19",
-         "title" : "Sevian: Solid So Far | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to the team after a draw against Sevian in the fourth round of the 2023 U.S. Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-still-sour-swiercz%E2%80%99s-escape-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xRpbWODAJKM.jpg?itok=vJ8NLWay\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-still-sour-swiercz%E2%80%99s-escape-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 01:05:19",
-         "title" : "Dominguez Still Sour on Swiercz's Escape | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to the team after a draw against Tang in the fourth round of the 2023 U.S. Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-tang-got-what-he-wanted-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I6XWplYzjho.jpg?itok=2VFR6PE8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/xiong-tang-got-what-he-wanted-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 01:05:19",
-         "title" : "Xiong: Tang Got What He Wanted | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to the team after defeating Eswaran in the fourth round of the 2023 U.S. Women's Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-elated-push-pawn-victory-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rAv_bjG-sKQ.jpg?itok=xwamApMD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-elated-push-pawn-victory-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 01:05:19",
-         "title" : "Tatev Elated to Push the Pawn to Victory! | R4 #USChessChamps"
       },
       {
          "description" : "The star-studded Levitov Chess Week rapid tournament saw Ian Nepomniachtchi grabbing the title ahead of Vishy Anand and Peter Svidler. GM Karsten M&uuml;ller followed the games closely and found five remarkable endgame positions. Find here the compilation of his pragmatic, instructive and enjoyable analyses!",
@@ -1034,36 +1066,12 @@ news_feed (
          "title" : "2023 ACT Junior Championships Under14/12"
       },
       {
-         "description" : "Just like in 2019, GM Ian Nepomniachtchi won the Levitov Chess Week in Amsterdam, the Netherlands. While the Russian grandmaster scored 3/4 on the final day, GM Peter Svidler couldn&#39;t keep the pace and eventually tied for second with GM Levon Aron...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-wins-2023-levitov-chess-week",
-         "pubDate" : "Tue, 26 Sep 2023 12:34:00",
-         "title" : "Nepomniachtchi Repeats Levitov Chess Week Victory"
-      },
-      {
          "description" : "The 2023 European Youth Rapid&#38;Blitz Chess Championship kicks off on Thursday, 28th of September in Terme Catez, Slovenia. The event will gather nearly 500 players from 27 European federations who will fight for the European champion title. The European Youth Rapid Chess Championship will be played on 28th and 29th of September, in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately). The tournament will be played in 9 rounds, swiss system, with time []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2023-starts-in-slovenia/",
          "pubDate" : "Tue, 26 Sep 2023 11:52:15",
          "title" : "European Youth Rapid&Blitz Chess Championship 2023 starts in Slovenia"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Shakhriyar Mamedyarov advance in the Division I Winners Bracket of the 2023 AI Cup after winning their quarterfinal matches on day one. With echoes from the finish of their SCC ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-1",
-         "pubDate" : "Mon, 25 Sep 2023 20:07:00",
-         "title" : "Carlsen Goes Undefeated vs. Nakamura, Advances To Winners Semifinals"
-      },
-      {
-         "description" : "After some twists and turns, GMs Ian Nepomniachtchi and Peter Svidler are still topping the Levitov Chess Week&#39;s leaderboard. With four rounds to go, it has become a two-horse race as their closest rivals, GM Levon Aronian and GM Shakhriyar Mamedy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-levitov-chess-week-day-3",
-         "pubDate" : "Mon, 25 Sep 2023 13:04:20",
-         "title" : "Nepomniachtchi, Svidler Lead As Levitov Chess Week Becomes Two-horse Race"
       },
       {
          "description" : "",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/there-was-a-bank-row-4",
          "pubDate" : "Wed, 20 Sep 2023 09:00:00",
          "title" : "There was a bank row!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2639",
-         "pubDate" : "Tue, 19 Sep 2023 21:09:46 +0000",
-         "title" : "FIDE World Senior Team Championship 2023: Day 1 recap"
       }
    ]
 }
