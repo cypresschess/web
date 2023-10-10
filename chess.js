@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2676",
+         "pubDate" : "Tue, 10 Oct 2023 02:31:09 +0000",
+         "title" : "2023 IBCA World Chess Championship starts in Rhodes, Greece"
+      },
+      {
          "description" : "In the Endgame Magic Show #252 Karsten M&uuml;ller continues to analyse endgame highlights from the FIDE World Cup, which was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-junior-chess-championship-5-indian-players-miss-out-due-to-visa-issues-coaches-changed-at-last-moment/articleshow/103783807.cms",
          "pubDate" : "Tue, 19 Sep 2023 11:13:49 +0000",
          "title" : "FIDE Junior Championship: 5 Indian players miss out due to visa issues"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2637",
-         "pubDate" : "Tue, 19 Sep 2023 00:35:44 +0000",
-         "title" : "FIDE World Senior Team Championship 2023 kicks off in Struga, North Macedonia"
       }
    ]
 }
