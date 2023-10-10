@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Tue, 10 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
          "description" : "This is a reminder that entries for the 2023 National Club Championships, being held at the University of Hull from 20th-22nd October, close next Monday...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -42,11 +50,11 @@ news_feed (
          "title" : "Building a fortress"
       },
       {
-         "description" : "It started with a Chess.com account during the pandemic. Now 9-year-old FM Faustino Oro from Argentina has made history as the youngest player ever to score an IM norm. The prodigy, dubbed the &#34;Messi of Chess&#34; by Argentinian media, made headline...",
+         "description" : "It started with a Chess.com account during the pandemic. Now 9-year-old FM Faustino Oro from Argentina has made history as the youngest player ever to score an IM norm. The prodigy dubbed the &#34;Messi of Chess&#34; by Argentinian media made headlines ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/9-year-old-dubbed-messi-of-chess-scores-first-im-norm",
-         "pubDate" : "Tue, 10 Oct 2023 08:18:31",
+         "pubDate" : "Tue, 10 Oct 2023 08:18:00",
          "title" : "9-Year-Old Dubbed 'Messi Of Chess' Youngest Ever To Score IM Norm"
       },
       {
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/start-of-the-u-s-championships-in-saint-louis",
          "pubDate" : "Wed, 04 Oct 2023 15:48:56",
          "title" : "Start of the U.S. Championships in Saint Louis"
-      },
-      {
-         "description" : "Geurt Gijssen, born in 1934, is one of the most famous chess arbiters in the world of chess. He was the chief arbiter for the World Championship match between Kasparov and Karpov in 1987. He has been the top arbiter for several world championships, Olympiads and also the chairman of the FIDE rules commission for 20 years! What makes him so special? In this interview IM Sagar Shah sits down with Geurt and gets to know all about his life story. Towards the end Geurt also gives his advice to young and budding people who want to become chess arbiters.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-legendary-geurt-gijssen",
-         "pubDate" : "Wed, 04 Oct 2023 10:51:02",
-         "title" : "The legendary Geurt Gijssen"
       },
       {
          "description" : "You can&#39;t keep GM Hikaru Namakura down for long. He won the early Titled Tuesday on October 3, his first since a perfect score on August 22 and his 57th overall since October 2020. Nakamura then nearly won the late event as well, but it ended up g...",
@@ -1336,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2639",
          "pubDate" : "Tue, 19 Sep 2023 21:09:46 +0000",
          "title" : "FIDE World Senior Team Championship 2023: Day 1 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2638",
-         "pubDate" : "Tue, 19 Sep 2023 16:56:45 +0000",
-         "title" : "FIDE Book Awards 2023 - Call for Nominations"
       }
    ]
 }
