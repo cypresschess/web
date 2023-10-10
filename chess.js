@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endings with opposite coloured bishops have large drawish tendencies and often being one or two pawns up is not enough to win. Material is often less important than positional considerations. In the diagram position White is two pawns down, but with best play he is able to hold the draw. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/building-a-fortress",
+         "pubDate" : "Tue, 10 Oct 2023 09:00:00",
+         "title" : "Building a fortress"
+      },
+      {
+         "description" : "As we just reported, the women's section of the 2023 Asian Games in Hangzhou, China, was won by the Chinese team - followed of course by the Indian women. But third place was unexpectedly taken by the Kazakhstani women, who beat the Uzbekistan team and secured bronze. It was an achievement that brought pride on the Kazakhstan's women's chess, and for the federation, that sent us the following proud announcement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/we-won-bronze",
+         "pubDate" : "Tue, 10 Oct 2023 08:00:00",
+         "title" : "We won Bronze!"
+      },
+      {
+         "description" : "Eight years after two very successful editions of the Qatar Masters, won by Yu Yangyi (2014) and Magnus Carlsen (2015), the extraordinarily strong open is back. Carlsen returns to Doha and is joined by the likes of Hikaru Nakamura, Anish Giri and Dommaraju Gukesh. The tournament will be a 9-round Swiss open, with a $108,250 prize fund up for grabs. | Photo: FIDE / Fischer Random World Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-preview",
+         "pubDate" : "Tue, 10 Oct 2023 05:50:00",
+         "title" : "Starting Wednesday: Qatar Masters with Carlsen, Naka and Giri!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -570,14 +594,6 @@ news_feed (
          "title" : "The legendary Geurt Gijssen"
       },
       {
-         "description" : "Nine teams still have a perfect score after three rounds in the open section of the European Club Cup in Albania. Offerspill, led by Magnus Carlsen, is one of these nine teams. The former world champion won his second consecutive game after replying to 1.e4 by 1...a6 against IM Bojan Maksimovic. In the women's section, TAJFUN SK Ljubljana and Garuda Ajka BSK are sharing the lead with 6/6 match points each. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r3",
-         "pubDate" : "Wed, 04 Oct 2023 10:45:00",
-         "title" : "Euro Club Cup: Magnus plays 1...a6, wins"
-      },
-      {
          "description" : "You can&#39;t keep GM Hikaru Namakura down for long. He won the early Titled Tuesday on October 3, his first since a perfect score on August 22 and his 57th overall since October 2020. Nakamura then nearly won the late event as well, but it ended up g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/st-louis-chess-club-issues-statement-on-alejandro-ramirez",
          "pubDate" : "Wed, 04 Oct 2023 03:30:00",
          "title" : "Saint Louis Chess Club Issues Statement on Alejandro Ramirez"
-      },
-      {
-         "description" : "Hundreds of thousands of people in the Netherlands play chess or are interested in one of its numerous aspects. Some 20,000 are organized: they belong to a chess club. Quite a few people have found the way to the Max Euwe-Centrum, but many have no idea at all of its facilities and possibilities. ChessBase India's Sagar Shah and Amruta Mokal, who were reporting on the Levitov Chess Week, visited the tournament venue and the chess museum, and give us a complete video tour!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-max-euwe-centre-amsterdam",
-         "pubDate" : "Tue, 03 Oct 2023 20:00:00",
-         "title" : "The Max Euwe Centre Amsterdam"
       },
       {
          "description" : "",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment",
          "pubDate" : "Tue, 03 Oct 2023 12:00:00",
          "title" : "Chess for fun and entertainment"
-      },
-      {
-         "description" : "The diagram position, in which Black is to move, is extremely sharp: Black has two bishops for the queen but both sides have far advanced and dangerous passed pawns and this allows Black to win. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-bishops-and-two-queens",
-         "pubDate" : "Tue, 03 Oct 2023 09:00:00",
-         "title" : "Two bishops and two queens"
       },
       {
          "description" : "",
