@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Wed, 11 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2678",
+         "pubDate" : "Wed, 11 Oct 2023 18:42:02 +0000",
+         "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
          "pubDate" : "Wed, 11 Oct 2023 13:55:00",
          "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : "The victors of Titled Tuesday on October 10 were a long-time contender and a first-time winner: GM Dmitry Andreikin took home his 16th victory in the early tournament while GM Eduardo Iturrizaga, who made waves earlier this year by reaching Divisi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-iturrizaga-win-titled-tuesday-october-10-2023",
+         "pubDate" : "Wed, 11 Oct 2023 10:18:20",
+         "title" : "10/10 Was The Date, 10/11 Were The Scores"
       },
       {
          "description" : "For pictures from the event and a particularly useful post explaining the specialised board setup some players us, follow this link &#8212; https://www.facebook.com/chessingreece Sad to...",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-trainer-with-botvinnik-and-tal",
          "pubDate" : "Wed, 11 Oct 2023 07:00:00",
          "title" : "Averbakh on Averbakh (4): Trainer with Botvinnik and Tal"
+      },
+      {
+         "description" : "An exciting round both at the U.S. Championship and the U.S. Women's Championship finished with 10 (out of 12) decisive results. In the open, Fabiano Caruana grabbed his third consecutive win to remain as the sole leader, while Carissa Yip and Gulrukhbegim Tokhirjonova also kept their spots at the top of the standings by collecting full points on Tuesday. The highlight of the day, though, was Ray Robson's 29-move victory over Jeffery Xiong. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r5",
+         "pubDate" : "Wed, 11 Oct 2023 06:55:00",
+         "title" : "U.S. Championships: Caruana scores a hat-trick, Niemann beats Aronian"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Abrahamyan in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-surprised-tatev%E2%80%99s-1d4-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U5_nqHLhqDY.jpg?itok=X-Lqbo0p\" alt=\"\" /></a></div>",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2677",
          "pubDate" : "Tue, 10 Oct 2023 22:23:45 +0000",
          "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Tue, 10 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "Ryan Sanborn, a punter for The University of Texas at Austin (UT Austin), added his name to a coveted list of gridiron chess champions after making his way to the finals and defeating the top seed, offensive lineman Robert Sweeney, in an overtime ...",
@@ -626,14 +650,6 @@ news_feed (
          "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
       },
       {
-         "description" : "Allegations of abuse against Alejandro Ramirez, who was a commentator and coach at the Saint Louis Chess Centre, have shaken the chess world. The Board of Directors of the Saint Louis Chess Club now admits that it did not act early enough and has published improvements to its policies in a statement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
-         "pubDate" : "Thu, 05 Oct 2023 08:20:00",
-         "title" : "Statement of the Saint Louis Chess Club"
-      },
-      {
          "description" : "52nd National Junior Under 19 Open Chess Championship &#38; 37th National Junior Under 19 Girls Chess Championship 2023 took place at Karnavati Club, Gujarat organized",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -727,7 +743,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-qualifiers",
          "pubDate" : "Tue, 03 Oct 2023 14:30:18",
-         "title" : "Koukas and Duke Top Inaugural ChessPunks Champs Qualifiers"
+         "title" : "Koukas, Duke Top Inaugural ChessPunks Champs Qualifiers"
       },
       {
          "description" : " A few weeks ago the following game was played in the LFG Round Robin. To the spectators, Black's 8th move came as a real surprise, as it was believed that sacrificing the exchange (championed by Blackburne in the 19th century) did not give Black enough compensation. But by playing a new move (9. ... Qc7) Black set White a significant number of problems. Eventually White lost their way and Black was left with a winning position. It seems that the line actually works for Black, although trying to find other examples was difficult (only a few games against 1900 rated players). So further investigation may be required before the exchange sacrifice is totally rehabilitated. <br /> <b>Magrini,Fab",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "World Senior Team Championship: USA and Germany Lasker Schachstiftung GK win gold"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave was again in sparkling form as he defeated GM Ian Nepomniachtchi 2-0 to earn another shot at GM Magnus Carlsen in Friday&#39;s 2023 AI Cup Grand Final. Nepomniachtchi had earlier knocked out GM Anish Giri 1.5-0.5. GM Vladim...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-4",
-         "pubDate" : "Thu, 28 Sep 2023 17:48:00",
-         "title" : "Vachier-Lagrave Beats Nepomniachtchi To Set Up Rematch With Carlsen"
-      },
-      {
          "description" : "So you thought you had seen the last of the Hans Niemann controversy? Not even close. Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), mentioned, <BLOCKQUOTE> That [Niemann] page had four stories under 'Top news', four Twitter tweets, and 44 stories from a variety of other sources. </BLOCKQUOTE> <P> This month we had only eight Niemann stories, but that's still a lot of stories compared to the hottest chess story in an average month. Before we look at the details, let's cover the month's stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni28.gif\" WIDTH= HEIGHT",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2657",
          "pubDate" : "Wed, 27 Sep 2023 22:15:03 +0000",
          "title" : "FIDE World Senior Team Championship: Day 8 recap"
-      },
-      {
-         "description" : "&#34;This is the sort of thing that happens when you play Sicilians in every game,&#34; said GM Magnus Carlsen after four fighting Sicilians left his 2023 AI Cup Winners Final against GM Maxime Vachier-Lagrave level at 2-2. The world number-one clinched t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-3",
-         "pubDate" : "Wed, 27 Sep 2023 20:56:00",
-         "title" : "Carlsen Beats MVL In Armageddon After 'Great Day Of Chess'"
       },
       {
          "description" : "",
