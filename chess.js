@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Wed, 11 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
          "description" : "For pictures from the event and a particularly useful post explaining the specialised board setup some players us, follow this link &#8212; https://www.facebook.com/chessingreece Sad to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -150,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cnbc-main-fide-sponsor-under-doj-investigation",
-         "pubDate" : "Tue, 10 Oct 2023 13:59:38",
+         "pubDate" : "Tue, 10 Oct 2023 13:59:00",
          "title" : "FIDE's Main Sponsor Freedom Holding Under DOJ Investigation"
       },
       {
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
          "pubDate" : "Thu, 05 Oct 2023 08:20:00",
          "title" : "Statement of the Saint Louis Chess Club"
-      },
-      {
-         "description" : "The favourites keep on winning in the open section of the European Club Cup, as the four top seeds share the lead with 8/8 match points going into the fifth round. On Thursday, Vishy Anand's Superchess is set to face MVL's Asnieres, while Magnus Carlsen's Offerspill will play against Vincent Keymer's Novy Bor. In the women's section, TAJFUN SK Ljubljana lead the standings as the only team with a perfect score. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r4",
-         "pubDate" : "Thu, 05 Oct 2023 08:15:00",
-         "title" : "Euro Club Cup: Four co-leaders, big matches coming"
       },
       {
          "description" : "52nd National Junior Under 19 Open Chess Championship &#38; 37th National Junior Under 19 Girls Chess Championship 2023 took place at Karnavati Club, Gujarat organized",
@@ -1296,22 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2642",
          "pubDate" : "Wed, 20 Sep 2023 21:31:53 +0000",
          "title" : "FIDE World Senior Team Championship: Day 2 recap"
-      },
-      {
-         "description" : "Turkish Chess Federation and the European Chess Union have the honour to invite all the National Federations members of the European Chess Union to participate European Amateur Chess Championship organized in Antalya, T&uuml;rkiye between 26 November (arrival) 04 &#160;December (departure), 2023. The European Amateur Chess Championship 2023 will be played in three rating categories: U1700, U2000, and U2300. The Championships are open tournaments for players registered or approved by their federation. ECU member federations shall have the right to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2023-official-invitation/",
-         "pubDate" : "Wed, 20 Sep 2023 13:59:43",
-         "title" : "European Amateur Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : " I am trawling through the latest collection of games from The Week in chess, looking for some quick finishes/opening traps. However, with a enormous amount of chess now being played online, sudden ends to games have less to do with players overlooking threats, and more to do with misclicks and failed pre-moves. But even OTB games aren't immune to a version of this. Some blunders can only be explained by a player touching the wrong piece and being forced to play the losing move (well, that's the most charitable explanation I can think off). Here are a few examples ﻿<br /><b>Khanin,S (2570) - Schitco,Ivan (2533) [D20]</b><br />Texas Collegiate Finals Brownsville USA (3.6), 17.09.2023<br /><",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/games-that-are-real-but-are-unreal.html",
-         "pubDate" : "Wed, 20 Sep 2023 13:55:00",
-         "title" : "Games that are real, but are unreal"
       }
    ]
 }
