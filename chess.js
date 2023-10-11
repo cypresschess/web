@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2679",
+         "pubDate" : "Wed, 11 Oct 2023 20:17:46 +0000",
+         "title" : "3rd Intercontinental Online Chess Championship for Prisoners gets underway with a record number of countries participating"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2678",
          "pubDate" : "Wed, 11 Oct 2023 18:42:02 +0000",
          "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
-      },
-      {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Wed, 11 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : "The victors of Titled Tuesday on October 10 were a long-time contender and a first-time winner: GM Dmitry Andreikin took home his 16th victory in the early tournament while GM Eduardo Iturrizaga, who made waves earlier this year by reaching Divisi...",
@@ -166,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-at-twitchcon-las-vegas-2023",
-         "pubDate" : "Tue, 10 Oct 2023 15:33:57",
+         "pubDate" : "Tue, 10 Oct 2023 15:33:00",
          "title" : "Join Chess.com At TwitchCon Las Vegas 2023"
       },
       {
@@ -648,6 +648,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2668",
          "pubDate" : "Thu, 05 Oct 2023 08:52:41 +0000",
          "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
+      },
+      {
+         "description" : "Allegations of abuse against Alejandro Ramirez, who was a commentator and coach at the Saint Louis Chess Centre, have shaken the chess world. The Board of Directors of the Saint Louis Chess Club now admits that it did not act early enough and has published improvements to its policies in a statement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/statement-of-the-saint-louis-chess-club",
+         "pubDate" : "Thu, 05 Oct 2023 08:20:00",
+         "title" : "Statement of the Saint Louis Chess Club"
       },
       {
          "description" : "52nd National Junior Under 19 Open Chess Championship &#38; 37th National Junior Under 19 Girls Chess Championship 2023 took place at Karnavati Club, Gujarat organized",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2643",
          "pubDate" : "Thu, 21 Sep 2023 11:58:04 +0000",
          "title" : "World Youth Chess Championship U14, U16 and U18 2023: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2642",
-         "pubDate" : "Wed, 20 Sep 2023 21:31:53 +0000",
-         "title" : "FIDE World Senior Team Championship: Day 2 recap"
       }
    ]
 }
