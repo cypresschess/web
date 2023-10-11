@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Abrahamyan in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-surprised-tatev%E2%80%99s-1d4-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U5_nqHLhqDY.jpg?itok=X-Lqbo0p\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carissa-surprised-tatev%E2%80%99s-1d4-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Carissa: Surprised by Tatev's 1.d4 | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ashritha Eswaran talks to the team after a draw against Ruiyang Yan in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eswaran-ends-4-game-losing-streak-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/umSxPae81tQ.jpg?itok=jcUxPYBG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/eswaran-ends-4-game-losing-streak-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Eswaran Ends 4-Game Losing Streak | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to the team after defeating Paikidze in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/first-win-jennifer-yu-gets-warmed-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9gC5JZeXR0I.jpg?itok=6bBMnfPs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/first-win-jennifer-yu-gets-warmed-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "First Win! Jennifer Yu Gets Warmed Up! | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to the team after defeating Tang in the fifth round of the 2023 U.S. Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-fights-win-against-tang-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RAlcUd8vFIc.jpg?itok=bSbQ7W1R\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-fights-win-against-tang-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Caruana Fights for Win Against Tang | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to the team after defeating Zatonskih in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-i%E2%80%99m-just-playing-my-own-tournament-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w5MySsN80lY.jpg?itok=_w_aeo9H\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-i%E2%80%99m-just-playing-my-own-tournament-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Krush: I'm Just Playing My Own Tournament | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to the team after defeating Xiong in the fifth round of the 2023 U.S. Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-good-positions-despite-results-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o7ft3pcnxYw.jpg?itok=PS3xZMUh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robson-good-positions-despite-results-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Robson: Good Positions Despite Results | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to the team after defeating Mishra in the fifth round of the 2023 U.S. Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/birthday-boy-wesley-so-glad-be-30-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ssxI-rwHQRA.jpg?itok=UGkQbXzi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/birthday-boy-wesley-so-glad-be-30-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Birthday Boy Wesley So: Glad to Be 30! | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Cervantes in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-top-45-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xHFVNfomtuM.jpg?itok=mOI2n2Zo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-top-45-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Begim at the Top, 4/5! | R5 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Sabina Foisor before the 2023 U.S. Women's Championship. This aired during Round 5. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee%E2%80%99s-chess-upbringing-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AX_9igBdXUM.jpg?itok=6OKYV-52\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee%E2%80%99s-chess-upbringing-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Alice Lee's Chess Upbringing | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to the team after defeating Aronian in the fifth round of the 2023 U.S. Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-honor-beat-legend-levon-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uRurSZoMNrA.jpg?itok=Y_oX0mkS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-honor-beat-legend-levon-r5-uschesschamps",
+         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
+         "title" : "Hans: An Honor to Beat Legend Levon | R5 #USChessChamps"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,44 +90,20 @@ news_feed (
          "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6",
-         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
-         "title" : "2023 U.S. Chess Championships: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Sabina Foisor after defeating Mishra in Round 4 of the 2023 U.S. Championship. This aired with discussion during Round 5. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-perpetual-game-chess-until-death-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hD1vP0zYCRY.jpg?itok=iC_BZKn2\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hans-niemann-perpetual-game-chess-until-death-uschesschamps",
-         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
-         "title" : "Hans Niemann: Perpetual Game of Chess Until Death | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis University President Dr. Fred Pestello talks to the team during the fifth round of the 2023 U.S. Championships. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/slu-president-strategy-across-board-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JOZ1xTr-UY8.jpg?itok=D801NqHe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/slu-president-strategy-across-board-r5-uschesschamps",
-         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
-         "title" : "SLU President: Strategy Across The Board | R5 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Sabina Foisor before the 2023 U.S. Championship. This aired during Round 5. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-growing-philippines-turning-pro-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AdcpM97QGZ0.jpg?itok=H1EQpl7M\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-growing-philippines-turning-pro-uschesschamps",
-         "pubDate" : "Tue, 10 Oct 2023 22:06:29",
-         "title" : "Wesley So: From Growing Up in the Philippines to Turning Pro | #USChessChamps"
-      },
-      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2023-live",
          "pubDate" : "Tue, 10 Oct 2023 19:55:00",
          "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "Ryan Sanborn added his name to a coveted list of gridiron chess champions on Tuesday after making his way to the finals and defeating the top seed Robert Sweeney, in an overtime blitz game during BlitzChamps: Texas on Tuesday.&#38;nbsp; Joined by si...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/blitzchamps-texas-ryan-sanborn-wins",
+         "pubDate" : "Tue, 10 Oct 2023 19:40:45",
+         "title" : "Sanborn Wins BlitzChamps Texas In Overtime"
       },
       {
          "description" : "Chess.com will be present at TwitchCon Las Vegas between October 20-22, with a range of exciting activities and events planned for members of the chess community. The upcoming edition of TwitchCon will take place at the Las Vegas Convention Cent...",
@@ -250,60 +306,12 @@ news_feed (
          "title" : "RIP Geoff Gammon"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to the team after defeating Mishra in the fourth round of the 2023 U.S. Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-i%E2%80%99m-big-charity-guy-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CiViJ7C3Lsw.jpg?itok=OlMdiLV2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-i%E2%80%99m-big-charity-guy-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 04:05:22",
-         "title" : "Niemann: I'm a Big Charity Guy! | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Sabina Foisor before the 2023 U.S. Women's Championship. This aired during Round 4. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-balancing-school-and-chess-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lZaDNffbbF0.jpg?itok=A0EgVA4h\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-balancing-school-and-chess-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 04:05:22",
-         "title" : "Jennifer Yu: Balancing School and Chess | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Cervantes in the fourth round of the 2023 U.S. Women's Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-going-rest-day-positive-note-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-4uMjmYpWDk.jpg?itok=aOmMWWn6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-going-rest-day-positive-note-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 04:05:22",
-         "title" : "Alice Lee: Going into the Rest Day on a Positive Note | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to the team after defeating Swiercz in the fourth round of the 2023 U.S. Championship. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-precise-endgame-theft-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WZvtpW0DSGk.jpg?itok=_Hmdh8FL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-precise-endgame-theft-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 04:05:22",
-         "title" : "Caruana's Precise Endgame Theft! | R4 #USChessChamps"
-      },
-      {
          "description" : "Defending champion GM Fabiano Caruana captured the sole lead with three points from four games after an 80-move grinding endgame win over GM Dariusz Swiercz&#38;nbsp;in the 2023 U.S. Championship. Overnight leader GM Abhimanyu Mishra was defeated by G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-4",
          "pubDate" : "Mon, 09 Oct 2023 01:37:00",
          "title" : "Caruana Sole Leader After Long Grinding Win"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Sal Matera talks to the team during the fourth round of the 2023 U.S. Championships. 2023.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sal-matera-never-seen-fischer-games-acquired-wchof-r4-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EF_M3pmlpFw.jpg?itok=3xPDxT8e\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sal-matera-never-seen-fischer-games-acquired-wchof-r4-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 01:05:19",
-         "title" : "Sal Matera: Never Before Seen Fischer Games Acquired by WCHOF! | R4 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The U.S. Women's Championship field talks to Sabina Foisor before the 2023 U.S. Women's Championship. This aired during Round 4. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-women-club%E2%80%99s-impact-favorite-moments-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dcih2BhnN9E.jpg?itok=FwJgs_8I\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/us-women-club%E2%80%99s-impact-favorite-moments-uschesschamps",
-         "pubDate" : "Mon, 09 Oct 2023 01:05:19",
-         "title" : "U.S. Women: Club's Impact & Favorite Moments | #USChessChamps"
       },
       {
          "description" : "The star-studded Levitov Chess Week rapid tournament saw Ian Nepomniachtchi grabbing the title ahead of Vishy Anand and Peter Svidler. GM Karsten M&uuml;ller followed the games closely and found five remarkable endgame positions. Find here the compilation of his pragmatic, instructive and enjoyable analyses!",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2654",
          "pubDate" : "Tue, 26 Sep 2023 21:32:28 +0000",
          "title" : "FIDE World Senior Team Championship: Day 7 recap"
-      },
-      {
-         "description" : "GMs Magnus Carlsen&#38;nbsp;and&#38;nbsp;Maxime Vachier-Lagrave are the last two players standing in the Winners Bracket of the 2023 AI Cup. With blazing attacking play in the final game, GM Ian Nepomniachtchi came within inches of forcing a playoff vs....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-ai-cup-ko-day-2",
-         "pubDate" : "Tue, 26 Sep 2023 19:31:00",
-         "title" : "From Missing Mate To Swindling Stalemate, Carlsen Thwarts Challenger"
       },
       {
          "description" : " The first event in the 2023 ACT Junior Championship was completed today, with Owen MacMullin winning the Under 14 title. He did so after defeating Masaki Horikawa in a playoff game, after they had tied for 1st on 5/6. Having drawn there tournament game, they played each other in a single rapidplay game (G/15m), with MacMullin taking advantage of an opening mistake by Horikawa to win quite quickly. The winner of the Under 12 titles was Sanat Hegde, who was the youngest player in the 29 player field. He scored 4.5/6 to finish ahead of Rohan Jain and Ethan Li, who both scored 4. The main event, the ACT Junior Championship starts tomorrow and will be played over 3 days. Alongside this event wil",
