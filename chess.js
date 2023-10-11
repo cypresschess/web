@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For pictures from the event and a particularly useful post explaining the specialised board setup some players us, follow this link &#8212; https://www.facebook.com/chessingreece Sad to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-second-report-from-owen-phillips/",
+         "pubDate" : "Wed, 11 Oct 2023 08:36:30",
+         "title" : "IBCA World Individual Championship - second report from Owen Phillips"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Hans Niemann discusses his approach to dealing with opponents and making friends in the chess world. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-gm-hans-niemann-chess-life-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/64LapsS_iZk.jpg?itok=CLgaWuqJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-gm-hans-niemann-chess-life-shorts",
+         "pubDate" : "Wed, 11 Oct 2023 07:07:09",
+         "title" : "2023 US Chess Championships | GM Hans Niemann \"Chess is Life\" | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks GM Hans Niemann if the chess spoke for itself after his game with GM Dariusz Swiercz in round 1 of the 2023 US Chess Championships. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-1-did-chess-speak-itself-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M17dCkOpcuA.jpg?itok=Y8hCPQHg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-1-did-chess-speak-itself-shorts",
+         "pubDate" : "Wed, 11 Oct 2023 07:07:09",
+         "title" : "2023 US Chess Championships Round 1 | \"Did the chess speak for itself?\" | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Abhimanyu Mishra makes Sicilian Exchange Sacrifice during round 5 of the 2023 US Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-5-mishra-makes-sicilian-exchange-sacrifice-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_k61LFZdsO8.jpg?itok=KIWKXpZd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-5-mishra-makes-sicilian-exchange-sacrifice-shorts",
+         "pubDate" : "Wed, 11 Oct 2023 07:07:09",
+         "title" : "2023 US Chess Championships Round 5 | Mishra makes Sicilian Exchange Sacrifice | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila interviews GM Hans Niemann after his game on Day 1 of the 2023 US Chess Championships. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-1-gm-hans-niemann-ambition-double-edged-sword-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fvy2ZhiE25Q.jpg?itok=mo67CBG_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-1-gm-hans-niemann-ambition-double-edged-sword-shorts",
+         "pubDate" : "Wed, 11 Oct 2023 07:07:09",
+         "title" : "2023 US Chess Championships Round 1 | GM Hans Niemann \"Ambition is a double edged sword.\" | #shorts"
+      },
+      {
          "description" : "Last year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here, our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh playing Kasparov (B. Dolmatovsky via Douglas Griffin's website)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,43 +98,11 @@ news_feed (
          "title" : "Robson: Good Positions Despite Results | R5 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to the team after defeating Mishra in the fifth round of the 2023 U.S. Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/birthday-boy-wesley-so-glad-be-30-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ssxI-rwHQRA.jpg?itok=UGkQbXzi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/birthday-boy-wesley-so-glad-be-30-r5-uschesschamps",
-         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
-         "title" : "Birthday Boy Wesley So: Glad to Be 30! | R5 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Cervantes in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-top-45-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xHFVNfomtuM.jpg?itok=mOI2n2Zo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-top-45-r5-uschesschamps",
-         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
-         "title" : "Begim at the Top, 4/5! | R5 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Sabina Foisor before the 2023 U.S. Women's Championship. This aired during Round 5. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee%E2%80%99s-chess-upbringing-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AX_9igBdXUM.jpg?itok=6OKYV-52\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee%E2%80%99s-chess-upbringing-uschesschamps",
-         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
-         "title" : "Alice Lee's Chess Upbringing | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to the team after defeating Aronian in the fifth round of the 2023 U.S. Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-honor-beat-legend-levon-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uRurSZoMNrA.jpg?itok=Y_oX0mkS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hans-honor-beat-legend-levon-r5-uschesschamps",
-         "pubDate" : "Wed, 11 Oct 2023 01:06:36",
-         "title" : "Hans: An Honor to Beat Legend Levon | R5 #USChessChamps"
-      },
-      {
          "description" : "Nearly every single game was decisive in the 2023 U.S. Championship on Tuesday. The frontrunners have begun to distinguish themselves as they accumulate victories.&#38;nbsp;GM Fabiano Caruana won a third game in a row, gaining a winning position vs. G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-5",
-         "pubDate" : "Tue, 10 Oct 2023 22:57:49",
+         "pubDate" : "Tue, 10 Oct 2023 22:57:00",
          "title" : "Nearly All Decisive Day: Caruana Pulls Off Hat Trick, Niemann Defeats Aronian"
       },
       {
@@ -1242,14 +1250,6 @@ news_feed (
          "title" : "2023 World Junior"
       },
       {
-         "description" : "The ECF Board will be presenting a paper at this October's Annual General meeting of the English Chess Federation (ECF) setting out ways in which...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-membership-system-options-for-change/",
-         "pubDate" : "Fri, 22 Sep 2023 09:00:16",
-         "title" : "ECF Membership System: Options for Change - update"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1312,30 +1312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/games-that-are-real-but-are-unreal.html",
          "pubDate" : "Wed, 20 Sep 2023 13:55:00",
          "title" : "Games that are real, but are unreal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2641",
-         "pubDate" : "Wed, 20 Sep 2023 10:34:17 +0000",
-         "title" : "Intercontinental Online Chess Championship for Prisoners: Registration deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2640",
-         "pubDate" : "Wed, 20 Sep 2023 10:27:26 +0000",
-         "title" : "FIDE celebrates its centenary anniversary with a series of key events "
-      },
-      {
-         "description" : "Last weekend I gave our readers a puzzle which, I said, only a segment of our readers could possibly solve. But even amongst them there were very few who succeeded. One exception: super-talent Gukesh, who managed - with a little help. And he collapsed in helpless laughter when he got it. Another super-talent, Leon Mendonca, filmed it all. Here is the solution, together with a second prank I played on a young chess talent.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/there-was-a-bank-row-4",
-         "pubDate" : "Wed, 20 Sep 2023 09:00:00",
-         "title" : "There was a bank row!"
       }
    ]
 }
