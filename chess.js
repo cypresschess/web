@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here, our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh playing Kasparov (B. Dolmatovsky via Douglas Griffin's website)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-trainer-with-botvinnik-and-tal",
+         "pubDate" : "Wed, 11 Oct 2023 07:00:00",
+         "title" : "Averbakh on Averbakh (4): Trainer with Botvinnik and Tal"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Abrahamyan in the fifth round of the 2023 U.S. Women's Championship. 2023.10.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carissa-surprised-tatev%E2%80%99s-1d4-r5-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U5_nqHLhqDY.jpg?itok=X-Lqbo0p\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,6 +90,14 @@ news_feed (
          "title" : "Hans: An Honor to Beat Legend Levon | R5 #USChessChamps"
       },
       {
+         "description" : "Nearly every single game was decisive in the 2023 U.S. Championship on Tuesday. The frontrunners have begun to distinguish themselves as they accumulate victories.&#38;nbsp;GM Fabiano Caruana won a third game in a row, gaining a winning position vs. G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-5",
+         "pubDate" : "Tue, 10 Oct 2023 22:57:49",
+         "title" : "Nearly All Decisive Day: Caruana Pulls Off Hat Trick, Niemann Defeats Aronian"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -98,11 +114,11 @@ news_feed (
          "title" : "U.S. Championships - Live!"
       },
       {
-         "description" : "Ryan Sanborn added his name to a coveted list of gridiron chess champions on Tuesday after making his way to the finals and defeating the top seed Robert Sweeney, in an overtime blitz game during BlitzChamps: Texas on Tuesday.&#38;nbsp; Joined by si...",
+         "description" : "Ryan Sanborn, a punter for The University of Texas at Austin (UT Austin), added his name to a coveted list of gridiron chess champions after making his way to the finals and defeating the top seed, offensive lineman Robert Sweeney, in an overtime ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/blitzchamps-texas-ryan-sanborn-wins",
-         "pubDate" : "Tue, 10 Oct 2023 19:40:45",
+         "pubDate" : "Tue, 10 Oct 2023 19:40:00",
          "title" : "Sanborn Wins BlitzChamps Texas In Overtime"
       },
       {
@@ -666,14 +682,6 @@ news_feed (
          "title" : "European Open&Women's Chess Club Cups 2023 are halfway through"
       },
       {
-         "description" : "On Thursday, 5 October, the US National Championships and the US Women's National Championships will begin in Saint Louis, each with 12 participants. Everyone with a name and a place in US top chess will be there. Only Hikaru Nakamura is missing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/start-of-the-u-s-championships-in-saint-louis",
-         "pubDate" : "Wed, 04 Oct 2023 15:48:56",
-         "title" : "Start of the U.S. Championships in Saint Louis"
-      },
-      {
          "description" : "You can&#39;t keep GM Hikaru Namakura down for long. He won the early Titled Tuesday on October 3, his first since a perfect score on August 22 and his 57th overall since October 2020. Nakamura then nearly won the late event as well, but it ended up g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/the-ten-threat-rule.html",
          "pubDate" : "Wed, 27 Sep 2023 12:57:00",
          "title" : "The ten threat rule?"
-      },
-      {
-         "description" : "It seems like no one can beat GM Magnus Carlsen these days. In just the last five weeks, he&#39;s won the World Cup, the Julius Baer Generations Cup, and the Speed Chess Championship. After advancing in the AI Cup earlier in the day on September 26, h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/drygalov-hakobyan-win-titled-tuesday-september-26-2023",
-         "pubDate" : "Wed, 27 Sep 2023 08:55:00",
-         "title" : "Warning: To Beat Magnus, Tiebreaks May Be Required"
       },
       {
          "description" : "",
