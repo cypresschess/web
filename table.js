@@ -5,6 +5,7 @@ jtable([
 "SUGAR LAND","2023-10-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310064002 target='_blank'>FBCC 2023 COOL WEATHER OPEN</a>",
 "HOUSTON","2023-10-06","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310063962 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 6, 2023</a>",
 "CYPRESS","2023-10-06","30","<a href=http://www.uschess.org/msa/XtblMain.php?202310063912 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2023-10-01","14","<a href=http://www.uschess.org/msa/XtblMain.php?202310014082 target='_blank'>CHEAPO QUADS - ALL AGES OCT 1 2023</a>",
 "HOUSTON","2023-10-01","95","<a href=http://www.uschess.org/msa/XtblMain.php?202310011382 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-09-30","3","<a href=http://www.uschess.org/msa/XtblMain.php?202309304302 target='_blank'>CHESSPANDA10072023SATURDAY</a>",
 "HOUSTON","2023-09-30","80","<a href=http://www.uschess.org/msa/XtblMain.php?202309300242 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-03-18","113","<a href=http://www.uschess.org/msa/XtblMain.php?202303181572 target='_blank'>LONE STAR SCHOLASTIC-</a>",
 "SUGAR LAND","2023-03-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303179562 target='_blank'>FBCC 2023 SAINT PATRICK OPEN</a>",
 "SPRING","2023-03-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202303179542 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2023-03-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202303171552 target='_blank'>EVENT NAME MISSING</a>",
 ]);
