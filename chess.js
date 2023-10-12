@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a shocking development, 23-year-old Kazakh GM Alisher Suleymenov (rated 2512) defeated Magnus Carlsen in round 2 of the Qatar Masters - it was a crushing 31-move victory. Carlsen later shared some concerns on his X account, noting that it is \"incredibly frustrating to see organisers still not taking anti-cheating seriously at all\", as he had been distracted by Suleymenov's playing with an analogous watch. Carlsen clarified that he was not accusing his opponent of cheating. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r2",
+         "pubDate" : "Thu, 12 Oct 2023 23:50:00",
+         "title" : "Qatar Masters: Suleymenov crushes Carlsen, Carlsen questions organizers"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-8",
+         "pubDate" : "Thu, 12 Oct 2023 22:08:11",
+         "title" : "2023 U.S. Chess Championships: Round 8"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2682",
+         "pubDate" : "Thu, 12 Oct 2023 21:02:38 +0000",
+         "title" : "Finals set at 3rd Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2681",
+         "pubDate" : "Thu, 12 Oct 2023 20:07:00 +0000",
+         "title" : "World Junior Rapid Chess Championship: Raunak Sadhwani and Govhar Beydullayeva win titles"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +58,12 @@ news_feed (
          "title" : "World Cadet Chess Championship-2023"
       },
       {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Thu, 12 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
+         "description" : "World number-one Magnus Carlsen confessed he was &#34;completely crushed&#34; by 23-year-old Kazakh GM Alisher Suleymenov in round two of the 2023 Qatar Masters, but afterward blamed a failure to concentrate on his opponent wearing a watch in contraventio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-2",
+         "pubDate" : "Thu, 12 Oct 2023 14:46:00",
+         "title" : "Carlsen Criticises Lack Of Anti-Cheating Measures After Stunning Defeat"
       },
       {
          "description" : "In 1971 Bobby Fischer was on his way to the World Championship, but agreed to take part in a blitz tournament in New York, organised by the Manhattan Chess Club. Fischer won the tournament 25.5 - 0.5. But in round 1, Fischer came close to losing against the well-known and popular author GM Andrew Soltis, but managed to turn the tables. On Twitter/X Davide Nastasio shared a picture of this encounter - and here is the story behind the picture.",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "Shannon Bailey on Sound Moves: Where Music Meets Chess | R6 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "description" : "<div class=\"body text-secondary\"> We are aware of the issues. Full show will be uploaded later, regardless. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-7",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/yip-i%E2%80%99m-having-luck-dark-square-fianchetto-r6-uschesschamps",
          "pubDate" : "Thu, 12 Oct 2023 01:07:23",
          "title" : "Yip: I'm Having Luck with Dark Square Fianchetto | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Abhimanyu Mishra talks to the team after a draw against Dominguez in the sixth round of the 2023 U.S. Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-feels-great-save-dominguez-game-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/veBma9fM_bo.jpg?itok=eRj0SgGU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-feels-great-save-dominguez-game-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "Mishra: Feels Great to Save Dominguez Game | R6 #USChessChamps"
       },
       {
          "description" : "",
@@ -906,14 +930,6 @@ news_feed (
          "title" : "European Youth Rapid&Blitz Chess Champions 2023 crowned in Terme Catez, Slovenia"
       },
       {
-         "description" : "It&#39;s the spookiest month of the year, October! To celebrate, we&#39;re re-launching five new versions of some of our most popular bots. Go to our Play Computer page to battle against Martin, Filip, Laura, Isla, and Morphy in all of their new glory.&#38;nb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/halloween-bots-2023",
-         "pubDate" : "Sun, 01 Oct 2023 05:00:11",
-         "title" : "It's The Spookiest Time Of The Year! Play These Revamped Fan-Favorite Bots With A Weekly Twist"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2645",
          "pubDate" : "Fri, 22 Sep 2023 01:00:24 +0000",
          "title" : "FIDE World Junior Championship U20 starts in Mexico City"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2644",
-         "pubDate" : "Thu, 21 Sep 2023 21:50:39 +0000",
-         "title" : "FIDE World Senior Team Championship: Day 3 recap"
       }
    ]
 }
