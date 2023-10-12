@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Thu, 12 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
          "description" : "After a thrilling fifth round on Tuesday, the sixth round on Wednesday saw just six draws. Leinier Dominguez had good chances to win, but spoiled a better position in time trouble. In the Women's Championship, things were more exciting. Carissa Yip and Begim Tokhirjonova are battling it out for the title and are winning their games in step. | Photos: Crystal Fuller, Lennart Ootes (Saint Louis Chess Center)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "The story of a picture"
       },
       {
-         "description" : "The stand out draws for round three with 14 players on 100% appear to be: Board 2 FM Alex Streltsov (Israel) v IM Jacek Stachanczyck...",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2680",
+         "pubDate" : "Thu, 12 Oct 2023 09:27:51 +0000",
+         "title" : "FIDE and CDPF looking forward to deepening cooperation"
+      },
+      {
+         "description" : "STOP PRESS! Round Four Looks like a very important round as the current World Champion IM Predrag Nikac is facing off with Black against GM...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/rhodes-report-three-from-owen-phillips/",
          "pubDate" : "Thu, 12 Oct 2023 08:13:34",
          "title" : "Rhodes - report three from Owen Phillips"
+      },
+      {
+         "description" : "It is the dark shadow that stalks chess&#38;mdash;the failure of senior figures in the game to tackle its shameful gender gap and a recent stream of shocking sexual misconduct allegations. Chess, it is said, has to do better. Now, a new group has fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-fightback-starts-now-says-president-of-new-women-in-chess-foundation",
+         "pubDate" : "Thu, 12 Oct 2023 07:52:58",
+         "title" : "The Fightback Starts Now, Says President Of New Women In Chess Foundation"
       },
       {
          "description" : "36th National Under11 Open Chess Championship and 36th National under 11 Girls Chess Championship held at Visakhapatnam, Andhra from 1st to 7th October 2023 for",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-r1",
          "pubDate" : "Thu, 12 Oct 2023 02:00:00",
          "title" : "Qatar Masters: Carlsen on the attack, Kushagra upsets Fedoseev"
+      },
+      {
+         "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 01:07:59",
+         "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Experience the drawing of lots from CityPark, the St. Louis City Stadium, the evening before the 2023 U.S. &amp; U.S. Women's Championships began. This aired during Round 6. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-opening-ceremony-citypark-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kETtJ7vfg6w.jpg?itok=b-NWgJTC\" a",
@@ -120,6 +152,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mishra-feels-great-save-dominguez-game-r6-uschesschamps",
          "pubDate" : "Thu, 12 Oct 2023 01:07:23",
          "title" : "Mishra: Feels Great to Save Dominguez Game | R6 #USChessChamps"
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 00:45:31",
+         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 00:43:40",
+         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
       },
       {
          "description" : "",
@@ -586,22 +634,6 @@ news_feed (
          "title" : "A Guide to Successful 1:1 Chess Training"
       },
       {
-         "description" : "A few days ago, we presented you with a set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particularly easy to follow. You do not have to be a champion player or problem expert to follow.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment-2",
-         "pubDate" : "Fri, 06 Oct 2023 12:00:00",
-         "title" : "Chess for fun and entertainment"
-      },
-      {
-         "description" : "Sam Sevian and Nazi Paikidze are the sole leaders in the open and women's sections of the U.S. Championships, respectively. Sevian beat Ray Robson with black, while Paikidze got the better of Ashritha Eswaran with white in the first round of the national championships. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r1",
-         "pubDate" : "Fri, 06 Oct 2023 11:55:00",
-         "title" : "U.S. Championships: Sevian and Paikidze start with wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -920,14 +952,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/",
          "pubDate" : "Sat, 30 Sep 2023 16:38:48",
          "title" : "\"The Final Attack,\" Chess Teachings of Emory Tate"
-      },
-      {
-         "description" : "GM Daniel Naroditsky was crowned as the winner of September&#39;s last Bullet Brawl after amassing a score of 288, 54 points ahead of the second-placed GM Hikaru Nakamura&#38;nbsp;and third-placed GM Pranav Venkatesh. The total of 78 wins, three draws, an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-30-2023",
-         "pubDate" : "Sat, 30 Sep 2023 16:28:26",
-         "title" : "Naroditsky Secures 5th Bullet Brawl Title"
       },
       {
          "description" : "The World Junior (U20) Championship is currently being held at the Hotel del Prado in Mexico City. This prestigious event has prompted FIDÉ, the World Chess Federation, to produce a rigorous and demanding format. Eleven gruelling rounds with a time control of 90 minutes for the first 40 moves, plus 30 minutes until the end of the game, with 30-second increments from the start, are []",
@@ -1272,30 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2644",
          "pubDate" : "Thu, 21 Sep 2023 21:50:39 +0000",
          "title" : "FIDE World Senior Team Championship: Day 3 recap"
-      },
-      {
-         "description" : "In last month's Yahoos post (aka 'chess in the mainstream news'), <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), I mentioned, <BLOCKQUOTE> Two of the stories in Niemann's main block were repeated in the top news, while the third story, not repeated, was the off-the-wall Elon Musk nonsense that I covered last year in <I>It's Not Polytopia</I> (March 2022). </BLOCKQUOTE> <P> A few days earlier, that same Elon Musk story had appeared as a real Yahoo (appearing in the news feed from Yahoo.com) on its own. These days real Yahoos are so unusual -- the previous sighting was <A HREF=\"https://chessf",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/i-want-to-go-squirrel-hunting.html",
-         "pubDate" : "Thu, 21 Sep 2023 15:14:00",
-         "title" : "I Want To Go Squirrel Hunting"
-      },
-      {
-         "description" : " <p class=\"lead\">Grandmaster from Poland Jan-Krzysztof Duda emerged victorious in the thrilling 2023 Armageddon Championship Series, clinching a remarkable €80,000 prize. Wesley So secured the runner-up position with a commendable €20,000 prize. This championship marks a significant milestone in the world of chess, highlighting the growing importance of short-form chess formats and broadcasting innovations. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D77AF732-4E03-47F3-8353-A7448F1DD7C2.jpeg\" width=\"2560\" height=\"1706.6666666667\" alt=\"\" /> <div class=\"e2-text-caption\">Jan-Krzysztof Duda receiving his price on stage</div> </div> <h2>Key Highlights:</h2> Ar",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/duda-triumphs-in-2023-armageddon-championship-series-a-game-chan/",
-         "pubDate" : "Thu, 21 Sep 2023 12:32:52",
-         "title" : "Duda Triumphs in 2023 Armageddon Championship Series: A Game-Changer for Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2643",
-         "pubDate" : "Thu, 21 Sep 2023 11:58:04 +0000",
-         "title" : "World Youth Chess Championship U14, U16 and U18 2023: Registration deadline extended"
       }
    ]
 }
