@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "36th National Under11 Open Chess Championship and 36th National under 11 Girls Chess Championship held at Visakhapatnam, Andhra from 1st to 7th October 2023 for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/36th-national-under11-chess-championship-2023/",
+         "pubDate" : "Thu, 12 Oct 2023 06:53:17",
+         "title" : "36th National Under11 Chess Championship 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Paikidze in the sixth round of the 2023 U.S. Women's Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-three-wins-row-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GMTBnxgsf-U.jpg?itok=mAeVMNY5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-three-wins-row-r6-uschesschamps",
+         "pubDate" : "Thu, 12 Oct 2023 04:07:32",
+         "title" : "Alice Lee: Three Wins in a Row! | R6 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Pourkashiyan in the sixth round of the 2023 U.S. Women's Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-keeps-pace-carissa-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GYppHYvXFoE.jpg?itok=itqF-SbM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-keeps-pace-carissa-r6-uschesschamps",
+         "pubDate" : "Thu, 12 Oct 2023 04:07:32",
+         "title" : "Begim Keeps Pace with Carissa! | R6 #USChessChamps"
+      },
+      {
          "description" : "Super-GMs Magnus Carlsen, Hikaru Nakamura and Anish Giri kicked off with wins at the Qatar Masters in Doha. Round 1 saw a few upsets though, with fourth seed Dommaraju Gukesh only managing a draw against IM Mohammad Nubairshah Shaikh, and tenth seed Vladimir Fedoseev even losing to 19-year-old Indian IM Kushagra Mohan. The highest-rated woman player in the field, Bibisara Assaubayeva, also suffered a loss in the first round, against IM Rakesh Kumar Jena. | Photos: Qatar Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,22 +152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-second-report-from-owen-phillips/",
          "pubDate" : "Wed, 11 Oct 2023 08:36:30",
          "title" : "IBCA World Individual Championship - second report from Owen Phillips"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Hans Niemann discusses his approach to dealing with opponents and making friends in the chess world. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-gm-hans-niemann-chess-life-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/64LapsS_iZk.jpg?itok=CLgaWuqJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-gm-hans-niemann-chess-life-shorts",
-         "pubDate" : "Wed, 11 Oct 2023 07:07:09",
-         "title" : "2023 US Chess Championships | GM Hans Niemann \"Chess is Life\" | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks GM Hans Niemann if the chess spoke for itself after his game with GM Dariusz Swiercz in round 1 of the 2023 US Chess Championships. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-1-did-chess-speak-itself-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M17dCkOpcuA.jpg?itok=Y8hCPQHg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-1-did-chess-speak-itself-shorts",
-         "pubDate" : "Wed, 11 Oct 2023 07:07:09",
-         "title" : "2023 US Chess Championships Round 1 | \"Did the chess speak for itself?\" | #shorts"
       },
       {
          "description" : "Last year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here, our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh playing Kasparov (B. Dolmatovsky via Douglas Griffin's website)",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-september-30-2023",
          "pubDate" : "Sat, 30 Sep 2023 16:28:26",
          "title" : "Naroditsky Secures 5th Bullet Brawl Title"
-      },
-      {
-         "description" : "The AICF Live Telecast seminar kick starts at Hotel Sanca International Delhi from today . International Arbiter Mr. Anandh Babu VL, is the lecturer and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-live-telecast-seminar-in-delhi-on-30-sept-01-oct-2023/",
-         "pubDate" : "Sat, 30 Sep 2023 09:55:24",
-         "title" : "AICF LIVE Telecast Seminar in Delhi on 30 Sept & 01 Oct 2023"
       },
       {
          "description" : "The World Junior (U20) Championship is currently being held at the Hotel del Prado in Mexico City. This prestigious event has prompted FIDÉ, the World Chess Federation, to produce a rigorous and demanding format. Eleven gruelling rounds with a time control of 90 minutes for the first 40 moves, plus 30 minutes until the end of the game, with 30-second increments from the start, are []",
