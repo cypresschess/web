@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Thu, 12 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "GM Raunak Sadhwani clinched the FIDE World Junior Rapid Chess Championship at Sardinia Italy, scoring 8.5 points from11 rounds. Congratulations Raunak!! PC : FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-raunak-sadhwani-for-the-fide-world-junior-rapid-chess-championship-title/",
+         "pubDate" : "Thu, 12 Oct 2023 18:49:23",
+         "title" : "Congratulations Raunak Sadhwani for the FIDE World Junior Rapid Chess Championship title"
+      },
+      {
+         "description" : "Kind Attention : All Players/Coaches/Accompanying persons of World Cadet Chess Championship-2023 at Sharm el Sheikh, Egypt from 14 Oct to 23 Oct 23. \"Considering the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cadet-chess-championship-2023/",
+         "pubDate" : "Thu, 12 Oct 2023 17:55:07",
+         "title" : "World Cadet Chess Championship-2023"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +34,20 @@ news_feed (
          "title" : "Qatar Masters - Live!"
       },
       {
-         "description" : "After a thrilling fifth round on Tuesday, the sixth round on Wednesday saw just six draws. Leinier Dominguez had good chances to win, but spoiled a better position in time trouble. In the Women's Championship, things were more exciting. Carissa Yip and Begim Tokhirjonova are battling it out for the title and are winning their games in step. | Photos: Crystal Fuller, Lennart Ootes (Saint Louis Chess Center)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-championship-six-draws-in-round-6-duel-in-the-women-s-tournament",
-         "pubDate" : "Thu, 12 Oct 2023 12:35:03",
-         "title" : "U.S. Championship: Six draws in round 6, duel in the women's tournament"
-      },
-      {
          "description" : "In 1971 Bobby Fischer was on his way to the World Championship, but agreed to take part in a blitz tournament in New York, organised by the Manhattan Chess Club. Fischer won the tournament 25.5 - 0.5. But in round 1, Fischer came close to losing against the well-known and popular author GM Andrew Soltis, but managed to turn the tables. On Twitter/X Davide Nastasio shared a picture of this encounter - and here is the story behind the picture.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-story-of-a-picture-2",
          "pubDate" : "Thu, 12 Oct 2023 10:00:00",
          "title" : "The story of a picture"
+      },
+      {
+         "description" : "After a thrilling fifth round on Tuesday, the sixth round on Wednesday saw just six draws. Leinier Dominguez had good chances to win, but spoiled a better position in time trouble. In the Women's Championship, things were more exciting. Carissa Yip and Begim Tokhirjonova are battling it out for the title and are winning their games in step. | Photos: Crystal Fuller, Lennart Ootes (Saint Louis Chess Center)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-championship-six-draws-in-round-6-duel-in-the-women-s-tournament",
+         "pubDate" : "Thu, 12 Oct 2023 09:55:00",
+         "title" : "U.S. Championship: Six draws in round 6, duel in the women's tournament"
       },
       {
          "description" : "",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-r1",
          "pubDate" : "Thu, 12 Oct 2023 02:00:00",
          "title" : "Qatar Masters: Carlsen on the attack, Kushagra upsets Fedoseev"
-      },
-      {
-         "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:59",
-         "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Experience the drawing of lots from CityPark, the St. Louis City Stadium, the evening before the 2023 U.S. &amp; U.S. Women's Championships began. This aired during Round 6. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-opening-ceremony-citypark-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kETtJ7vfg6w.jpg?itok=b-NWgJTC\" a",
@@ -154,22 +170,6 @@ news_feed (
          "title" : "Mishra: Feels Great to Save Dominguez Game | R6 #USChessChamps"
       },
       {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 00:45:31",
-         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 00:43:40",
-         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -184,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-6",
          "pubDate" : "Wed, 11 Oct 2023 20:03:00",
          "title" : "Yip, Tokhirjonova Grow Lead With 4 Victories"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Wed, 11 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "",
@@ -730,28 +722,12 @@ news_feed (
          "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
       },
       {
-         "description" : "52nd National Junior Under 19 Open Chess Championship &#38; 37th National Junior Under 19 Girls Chess Championship 2023 took place at Karnavati Club, Gujarat organized",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-junior-under-19-adireddy-arjun-shubhi-gupta-champion/",
-         "pubDate" : "Thu, 05 Oct 2023 07:14:04",
-         "title" : "National Junior Under 19 : Adireddy Arjun & Shubhi Gupta Champion ."
-      },
-      {
          "description" : "Parents and mentors often believe that girls have a lower potential in chess than boys, a bias that is more pronounced among those who think chess success requires brilliance. These findings, the first large-scale evidence of bias against youth fe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gender-bias-chess-parents-mentors-shortchange-girls-potential",
          "pubDate" : "Thu, 05 Oct 2023 07:08:00",
          "title" : "Gender Bias Research Shows Parents, Mentors Shortchange Girls' Chess Potential"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminars-2/",
-         "pubDate" : "Thu, 05 Oct 2023 03:07:00",
-         "title" : "FIDE TRAINER SEMINARS"
       },
       {
          "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
