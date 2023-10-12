@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a thrilling fifth round on Tuesday, the sixth round on Wednesday saw just six draws. Leinier Dominguez had good chances to win, but spoiled a better position in time trouble. In the Women's Championship, things were more exciting. Carissa Yip and Begim Tokhirjonova are battling it out for the title and are winning their games in step. | Photos: Crystal Fuller, Lennart Ootes (Saint Louis Chess Center)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-championship-six-draws-in-round-6-duel-in-the-women-s-tournament",
+         "pubDate" : "Thu, 12 Oct 2023 12:35:03",
+         "title" : "U.S. Championship: Six draws in round 6, duel in the women's tournament"
+      },
+      {
+         "description" : "In 1971 Bobby Fischer was on his way to the World Championship, but agreed to take part in a blitz tournament in New York, organised by the Manhattan Chess Club. Fischer won the tournament 25.5 - 0.5. But in round 1, Fischer came close to losing against the well-known and popular author GM Andrew Soltis, but managed to turn the tables. On Twitter/X Davide Nastasio shared a picture of this encounter - and here is the story behind the picture.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-story-of-a-picture-2",
+         "pubDate" : "Thu, 12 Oct 2023 10:00:00",
+         "title" : "The story of a picture"
+      },
+      {
+         "description" : "The stand out draws for round three with 14 players on 100% appear to be: Board 2 FM Alex Streltsov (Israel) v IM Jacek Stachanczyck...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rhodes-report-three-from-owen-phillips/",
+         "pubDate" : "Thu, 12 Oct 2023 08:13:34",
+         "title" : "Rhodes - report three from Owen Phillips"
+      },
+      {
          "description" : "36th National Under11 Open Chess Championship and 36th National under 11 Girls Chess Championship held at Visakhapatnam, Andhra from 1st to 7th October 2023 for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -110,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-6",
-         "pubDate" : "Wed, 11 Oct 2023 20:03:55",
+         "pubDate" : "Wed, 11 Oct 2023 20:03:00",
          "title" : "Yip, Tokhirjonova Grow Lead With 4 Victories"
       },
       {
@@ -136,6 +160,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-1",
          "pubDate" : "Wed, 11 Oct 2023 17:15:00",
          "title" : "Carlsen, Nakamura Start Fast, Fedoseev Falls"
+      },
+      {
+         "description" : "National Junior U-19 Chess Championship 2023 Certificates are out to download Open : https://aicf.online/National-U-19.html Girls : https://aicf.online/National-U-19-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-19-certificates/",
+         "pubDate" : "Wed, 11 Oct 2023 12:27:15",
+         "title" : "National U-19 Certificates"
       },
       {
          "description" : "The victors of Titled Tuesday on October 10 were a long-time contender and a first-time winner: GM Dmitry Andreikin took home his 16th victory in the early tournament while GM Eduardo Iturrizaga, who made waves earlier this year by reaching Divisi...",
@@ -570,14 +602,6 @@ news_feed (
          "title" : "U.S. Championships: Sevian and Paikidze start with wins"
       },
       {
-         "description" : "Magnus Carlsen's Offerspill and Vishy Anand's Superchess are sharing the lead in the open section of the European Club Cup. Both teams have a perfect 10/10 score after beating Novy Bor and Asnieres in closely contested matches. Meanwhile, SP Gaz Ukraine grabbed the lead in the women's tournament after beating former sole leaders TAJFUN SK Ljubljana. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r5",
-         "pubDate" : "Fri, 06 Oct 2023 11:50:00",
-         "title" : "Euro Club Cup: Carlsen beats Keymer, Offerspill and Superchess co-leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-under-11-chess-championship-2023/",
          "pubDate" : "Thu, 05 Oct 2023 11:41:34",
          "title" : "36TH NATIONAL UNDER-11 CHESS CHAMPIONSHIP-2023"
-      },
-      {
-         "description" : "In his Game of the Week show #588, Merijn Van Delft looks at a fine attacking game, in which the Dutch International Master Stefan Kuipers punished double-edged opening play by French GM Christian Bauer. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-588",
-         "pubDate" : "Thu, 05 Oct 2023 11:10:57",
-         "title" : "Game of the Week #588: Kuipers vs Bauer"
       },
       {
          "description" : "",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-2023-crowned-in-terme-catez-slovenia/",
          "pubDate" : "Sun, 01 Oct 2023 06:50:33",
          "title" : "European Youth Rapid&Blitz Chess Champions 2023 crowned in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "Please find the below links of&#160;36th National Under11 Boys &#38; Girls DGT LIVE LINKS. 36th National Under11 Boys Vizag (36th National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/36th-national-under11-boys-girls-dgt-live-links/",
-         "pubDate" : "Sun, 01 Oct 2023 06:48:13",
-         "title" : "36th National Under11 - Boys & Girls - DGT LIVE - LINKS"
       },
       {
          "description" : "It&#39;s the spookiest month of the year, October! To celebrate, we&#39;re re-launching five new versions of some of our most popular bots. Go to our Play Computer page to battle against Martin, Filip, Laura, Isla, and Morphy in all of their new glory.&#38;nb...",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
          "pubDate" : "Fri, 22 Sep 2023 13:52:25",
          "title" : "Chess: Doubt cast over Ding Liren's planned return to action at Asian Games"
-      },
-      {
-         "description" : "It is with great pleasure to announce that the Mindsports Grandmasters Open has been a success! The third edition of titled tournaments at the London...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/iii-mindsports-gm-super-swiss-open-2023-report/",
-         "pubDate" : "Fri, 22 Sep 2023 13:29:44",
-         "title" : "III Mindsports GM Super Swiss Open 2023 report"
       },
       {
          "description" : " The 2023 World Junior Championship has started in Mexico City. Top see is GM Hans Neimann and there are 153 players in the Open section, and 85 in the Girls section. Australia has 3 representatives taking part (plus one arbiter). IM Cameron McGowan and FM Albert Winkelman are both seeded in the top half of the Open, while WCM Jody Middleton is playing in the Girls section. The first round has been played (wins for McGowan and Winkelman, loss for Middleton) with the 2nd round starting in a few hours. Results can be found via <a href=\"https://juniorchesschampionship.fenamacajedrez.com/\">https://juniorchesschampionship.fenamacajedrez.com/</a> although the live coverage seems to be missing at t",
