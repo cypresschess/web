@@ -10,12 +10,116 @@ news_feed (
          "title" : "76th ch-RUS 2023 - Games and Results"
       },
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Fri, 13 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2683",
+         "pubDate" : "Fri, 13 Oct 2023 19:16:45 +0000",
+         "title" : "Mongolia and India win Intercontinental Championship for Prisoners"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Scholastic Coordinator Jana Thomas talks to the team during the seventh round of the 2023 U.S. Championships. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastics%E2%80%99-jana-relating-chess-life-lessons-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JSXdZIismTQ.jpg?itok=1zOzXHsc\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/scholastics%E2%80%99-jana-relating-chess-life-lessons-r7-uschesschamps",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "Scholastics' Jana: Relating Chess with Life Lessons | R7 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Cervantes in the seventh round of the 2023 U.S. Women&#039;s Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yip%E2%80%99s-explosive-defeat-thalia-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dcVNZy5DqAU.jpg?itok=7MwpU2DY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yip%E2%80%99s-explosive-defeat-thalia-r7-uschesschamps",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "Yip's Explosive Defeat of Thalia | R7 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6-spirit-lev-polugaevsky-alive-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rTjd-mZPRf4.jpg?itok=Ef9KTDm1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6-spirit-lev-polugaevsky-alive-shorts",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "2023 US Chess Championships Round 6 | \"The Spirit of Lev Polugaevsky is alive!\" | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Paikidze in the seventh round of the 2023 U.S. Women&#039;s Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-%E2%80%98got-lucky%E2%80%99-nazi-didn%E2%80%99t-expect-my-opening-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wf5JwjrvV4E.jpg?itok=whaJTUD5\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-%E2%80%98got-lucky%E2%80%99-nazi-didn%E2%80%99t-expect-my-opening-r7-uschesschamps",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "Begim: 'Got Lucky' Nazi Didn't Expect My Opening | R7 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6-gm-thalia-cervantes-blunders-abrahamyan-takes-over-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sZ0mCfU42Ts.jpg?itok=thfa8yZA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6-gm-thalia-cervantes-blunders-abrahamyan-takes-over-shorts",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "2023 US Chess Championships Round 6 | GM Thalia Cervantes blunders, Abrahamyan takes over | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6-gm-tatev-abrahamyan-loses-winning-position-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_oa6B2ubl2Y.jpg?itok=29ESduba\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6-gm-tatev-abrahamyan-loses-winning-position-shorts",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "2023 US Chess Championships Round 6 | GM Tatev Abrahamyan loses winning position | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The overall U.S. Championship field talks to Sabina Foisor before the 2023 U.S. Championship. This aired during Round 7. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champs-players-club%E2%80%99s-impact-favorite-moments-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZeQk0svCAB4.jpg?itok=pwfMFWxl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/us-champs-players-club%E2%80%99s-impact-favorite-moments-uschesschamps",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "U.S. Champs Players: Club's Impact & Favorite Moments | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to the team after a draw against Sevian in the seventh round of the 2023 U.S. Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-trust-me-i%E2%80%99m-used-making-mistakes-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3CX_CNDcvFs.jpg?itok=vxzAlbyi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-trust-me-i%E2%80%99m-used-making-mistakes-r7-uschesschamps",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "Shankland: Trust Me, I'm Used to Making Mistakes | R7 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Zatonskih in the seventh round of the 2023 U.S. Women's Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-four-wins-row-what%E2%80%99s-her-secret-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UgDa_ZFBpP8.jpg?itok=hBggg6ZA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-four-wins-row-what%E2%80%99s-her-secret-r7-uschesschamps",
+         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
+         "title" : "Alice: Four Wins in a Row! What's Her Secret? | R7 #USChessChamps"
+      },
+      {
+         "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-the-keymer-variation-a-review",
+         "pubDate" : "Fri, 13 Oct 2023 16:10:00",
+         "title" : "Leon Mendonca: The Keymer Variation - A review"
+      },
+      {
          "description" : "In his Game of the Week show #589 Merijn Van Delft analyses how Magnus Carlsen defeated Vincent Keymer, who had come close to eliminating Carlsen from the World Cup, in the European Club Cup. A clash of generations in which Carlsen tried an interesting concept against the Najdorf. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-589-m-carlsen-vs-v-keymer",
          "pubDate" : "Fri, 13 Oct 2023 16:00:00",
          "title" : "Game of the Week #589: M. Carlsen vs V. Keymer"
+      },
+      {
+         "description" : "While two consecutive rounds ended with draws on all six boards in the U.S. Championship, three players got win after win in the U.S. Women's Championship. Co-leaders Carissa Yip and Gulrukhbegim Tokhirjonova have each grabbed three full points in a row to remain tied for first, while Alice Lee has in fact collected four back-to-back victories to climb to shared second place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r7",
+         "pubDate" : "Fri, 13 Oct 2023 14:05:00",
+         "title" : "U.S. Championships: Yip and Tokhirjonona keep on winning"
       },
       {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -40,14 +144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/another-obscure-club-game.html",
          "pubDate" : "Fri, 13 Oct 2023 12:49:00",
          "title" : "Another obscure club game"
-      },
-      {
-         "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-the-keymer-variation-a-review",
-         "pubDate" : "Fri, 13 Oct 2023 12:00:00",
-         "title" : "Leon Mendonca: The Keymer Variation - A review"
       },
       {
          "description" : "Offerspill Sjakklubb started the 38th European Chess Club Cup Open as fourth seed. Magnus Carlsen, Offerspill's first board, was certainly the main reason for this - after all he is the world number one with a rating of 2839. But it was still a big surprise that the Norwegians won the cup! One team member in particular - Pranav Venkatesh (whose birthday is today!) - rocked the house with 5.0/7 points. His game against Super Grandmaster Jorden Van Foreest was particularly daring. Robert Ris shows this magical Underdog victory.",
@@ -98,28 +194,12 @@ news_feed (
          "title" : "Chess: Magnus Carlsen blames opponent's watch for shock defeat"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Audio issues at beginning. Transmission dropped for about 90 minutes. Full show WITHOUT missing 90 minutes has been uploaded. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-2023-us-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/original-broadcast-2023-us-chess-championships-round-7",
-         "pubDate" : "Fri, 13 Oct 2023 04:08:15",
-         "title" : "(ORIGINAL BROADCAST) 2023 U.S. Chess Championships: Round 7"
-      },
-      {
          "description" : "In a shocking development, 23-year-old Kazakh GM Alisher Suleymenov (rated 2512) defeated Magnus Carlsen in round 2 of the Qatar Masters - it was a crushing 31-move victory. Carlsen later shared some concerns on his X account, noting that it is \"incredibly frustrating to see organisers still not taking anti-cheating seriously at all\", as he had been distracted by Suleymenov's playing with an analog watch. Carlsen clarified that he was not accusing his opponent of cheating. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-r2",
          "pubDate" : "Thu, 12 Oct 2023 23:50:00",
          "title" : "Qatar Masters: Suleymenov crushes Carlsen, Carlsen questions organizers"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-8",
-         "pubDate" : "Thu, 12 Oct 2023 22:08:11",
-         "title" : "2023 U.S. Chess Championships: Round 8"
       },
       {
          "description" : "Each on a three-game winning streak, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova&#38;nbsp;have furthered their lead in the U.S. Women&#39;s Championship after seven rounds. They are now 1.5 points ahead of the field.&#38;nbsp; Both leaders won the...",
@@ -144,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2681",
          "pubDate" : "Thu, 12 Oct 2023 20:07:00 +0000",
          "title" : "World Junior Rapid Chess Championship: Raunak Sadhwani and Govhar Beydullayeva win titles"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Thu, 12 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "GM Raunak Sadhwani clinched the FIDE World Junior Rapid Chess Championship at Sardinia Italy, scoring 8.5 points from11 rounds. Congratulations Raunak!! PC : FIDE",
@@ -242,22 +314,6 @@ news_feed (
          "title" : "36th National Under11 Chess Championship 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Paikidze in the sixth round of the 2023 U.S. Women's Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-three-wins-row-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GMTBnxgsf-U.jpg?itok=mAeVMNY5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-three-wins-row-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 04:07:32",
-         "title" : "Alice Lee: Three Wins in a Row! | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Pourkashiyan in the sixth round of the 2023 U.S. Women's Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-keeps-pace-carissa-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GYppHYvXFoE.jpg?itok=itqF-SbM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-keeps-pace-carissa-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 04:07:32",
-         "title" : "Begim Keeps Pace with Carissa! | R6 #USChessChamps"
-      },
-      {
          "description" : "Super-GMs Magnus Carlsen, Hikaru Nakamura and Anish Giri kicked off with wins at the Qatar Masters in Doha. Round 1 saw a few upsets though, with fourth seed Dommaraju Gukesh only managing a draw against IM Mohammad Nubairshah Shaikh, and tenth seed Vladimir Fedoseev even losing to 19-year-old Indian IM Kushagra Mohan. The highest-rated woman player in the field, Bibisara Assaubayeva, also suffered a loss in the first round, against IM Rakesh Kumar Jena. | Photos: Qatar Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,46 +328,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
          "pubDate" : "Thu, 12 Oct 2023 01:07:59",
          "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Experience the drawing of lots from CityPark, the St. Louis City Stadium, the evening before the 2023 U.S. &amp; U.S. Women's Championships began. This aired during Round 6. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-opening-ceremony-citypark-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kETtJ7vfg6w.jpg?itok=b-NWgJTC\" a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-opening-ceremony-citypark-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "2023 Opening Ceremony at CityPark | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Chief Curator Shannon Bailey talks to the team during the sixth round of the 2023 U.S. Championships. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shannon-bailey-sound-moves-where-music-meets-chess-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oEGuACflsn8.jpg?itok=yYnaVCGu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shannon-bailey-sound-moves-where-music-meets-chess-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "Shannon Bailey on Sound Moves: Where Music Meets Chess | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> We are aware of the issues. Full show will be uploaded later, regardless. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-7\"><img src=\"https://saintlouischessclub.org/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-7",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "2023 U.S. Chess Championships: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to the team after a draw against Niemann in the sixth round of the 2023 U.S. Championships. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-hans-good-form-me%E2%80%A6-not-so-much-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WnkF4HmFyzw.jpg?itok=dgoVRLBW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/xiong-hans-good-form-me%E2%80%A6-not-so-much-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "Xiong: Hans in Good Form, Me&hellip; Not So Much | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to the team after a draw against Wesley So in the sixth round of the 2023 U.S. Championships. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-learning-part-process-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/86665H7SA6Y.jpg?itok=iZQb279w\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-learning-part-process-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "Aronian: Learning is Part of the Process | R6 #USChessChamps"
       },
       {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/everyones-favorite-world-champion.html",
          "pubDate" : "Sun, 08 Oct 2023 15:17:00",
          "title" : "Everyone's Favorite World Champion?"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 146th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-28",
-         "pubDate" : "Sun, 08 Oct 2023 15:00:00",
-         "title" : "Understanding before Moving 146: Chess history in a nutshell (28)"
       },
       {
          "description" : "The 38th edition of the European Chess Club Cup and the 27th European Women's Club Cup concluded yesterday in Durres, Albania. The intense last round determined the Winners and the medalists of the event, as both section had two co-leaders heading into the final round. Offerspill Sjakklub (Norway) and Superchess (Romania) were in a tie for the top of the Open section, and Garuda Ajka BSK (Hungary) and Superchess (Romania) tied for the top of the Women's event after six []",
