@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Silver and bronze for Lan Yao and Jovanka Houska respectively, but bug halts Wood Green's Borna Derakhshani on the brink of an IM norm Last week, the European Club Cup, the chess version of the Champions League, was staged in Durres, Albania. Magnus Carlsen was the star attraction and the world No 1 did not disappoint, making the best top board score of 5/6 and leading his Offerspill Oslo team to the gold medals. The winning squad consisted primarily of Norwegians, boosted by two strong Indian GMs. Carlsen has won six of his last eight over-the-board or online events and finished second in the other two. The contrast is glaring with the official world champion, Ding Liren. It is now nearly ",
+         "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-the-keymer-variation-a-review",
+         "pubDate" : "Fri, 13 Oct 2023 12:00:00",
+         "title" : "Leon Mendonca: The Keymer Variation - A review"
+      },
+      {
+         "description" : "Offerspill Sjakklubb started the 38th European Chess Club Cup Open as fourth seed. Magnus Carlsen, Offerspill's first board, was certainly the main reason for this - after all he is the world number one with a rating of 2839. But it was still a big surprise that the Norwegians won the cup! One team member in particular - Pranav Venkatesh (whose birthday is today!) - rocked the house with 5.0/7 points. His game against Super Grandmaster Jorden Van Foreest was particularly daring. Robert Ris shows this magical Underdog victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-and-his-team-of-underdogs-win-the-underdog",
+         "pubDate" : "Fri, 13 Oct 2023 10:00:00",
+         "title" : "Magnus and his team of Underdogs win! - The Underdog"
+      },
+      {
+         "description" : "In the FIDE World Junior Rapid Chess Championship, which was played in Pula, Italy, and which is part of the ongoing World Junior Rapid & Blitz Championships, Raunak Sadhwani and Govhar Beydullayeva emerged as the undisputed champions of their open and girls sections, respectively. | Photos: NIKIEL.PHOTO",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-rapid-chess-championship-sadhwani-and-beydullayeva-win-titles",
+         "pubDate" : "Fri, 13 Oct 2023 09:33:40",
+         "title" : "World Junior Rapid Chess Championship: Sadhwani and Beydullayeva win titles"
+      },
+      {
+         "description" : "The ECU E-Magazine September 2023 is out! In this edition of the ECU E-Magazine you may read about: The September 2023 issue of the ECU E-Magazine can be read online with interactive links and videos on the following link, or it can be downloaded in PDF format down below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-magazine-september-2023/",
+         "pubDate" : "Fri, 13 Oct 2023 08:34:35",
+         "title" : "ECU Magazine September 2023"
+      },
+      {
+         "description" : "The top boards in round four showed up just before the off seemingly matching the tenseness of the situation, with such key clashes just...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rhodes-round-four-from-owen-phillips/",
+         "pubDate" : "Fri, 13 Oct 2023 08:30:21",
+         "title" : "Rhodes - round four from Owen Phillips"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.15<br /> USChessChamps.com ROUND 9 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Wesley So vs. Ray Robson Leinier Dominguez vs. Andrew Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-cham",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-9",
+         "pubDate" : "Fri, 13 Oct 2023 07:08:34",
+         "title" : "2023 U.S. Chess Championships: Round 9"
+      },
+      {
+         "description" : " Norwegian said he lost his concentration when he saw his opponent was wearing a timepiece at the Qatar Masters Last week, the European Club Cup, the chess version of the Champions League, was staged in Durres, Albania. Magnus Carlsen was the star attraction and the world No 1 did not disappoint, making the best top board score of 5/6 and leading his Offerspill Oslo team to the gold medals. The winning squad consisted primarily of Norwegians, boosted by two strong Indian GMs. Carlsen has won six of his last eight over-the-board or online events and finished second in the other two. The contrast is glaring with the official world champion, Ding Liren. It is now nearly five months since Ding l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/oct/13/chess-england-women-put-on-strong-showing-at-virus-stricken-euro-club-cup",
          "pubDate" : "Fri, 13 Oct 2023 06:57:59",
-         "title" : "Chess: England women put on strong showing at virus-stricken Euro Club Cup"
+         "title" : "Chess: Magnus Carlsen blames opponent's watch for shock defeat"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Audio issues at beginning. Transmission dropped for about 90 minutes. Full show WITHOUT missing 90 minutes has been uploaded. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-2023-us-",
@@ -38,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-7",
-         "pubDate" : "Thu, 12 Oct 2023 21:31:28",
+         "pubDate" : "Thu, 12 Oct 2023 21:31:00",
          "title" : "Winning Streaks Galore: Yip, Tokhirjonova, Lee Unstoppable"
       },
       {
@@ -96,6 +144,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-2",
          "pubDate" : "Thu, 12 Oct 2023 14:46:00",
          "title" : "Carlsen Criticises Lack Of Anti-Cheating Measures After Stunning Defeat"
+      },
+      {
+         "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/36333835/ding-liren-world-chess-championship-improbable-challenger-world-champion-ian-nepomniachtchi?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 14:24:52",
+         "title" : "Ding Liren: From improbable challenger to world champion"
       },
       {
          "description" : "In 1971 Bobby Fischer was on his way to the World Championship, but agreed to take part in a blitz tournament in New York, organised by the Manhattan Chess Club. Fischer won the tournament 25.5 - 0.5. But in round 1, Fischer came close to losing against the well-known and popular author GM Andrew Soltis, but managed to turn the tables. On Twitter/X Davide Nastasio shared a picture of this encounter - and here is the story behind the picture.",
@@ -216,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-learning-part-process-r6-uschesschamps",
          "pubDate" : "Thu, 12 Oct 2023 01:07:23",
          "title" : "Aronian: Learning is Part of the Process | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to the team after defeating Jennifer Yu in the sixth round of the 2023 U.S. Women's Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-when-you-dream-you-relax-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w3P-UvEUAsI.jpg?itok=uicG-FN_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zatonskih-when-you-dream-you-relax-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "Zatonskih: When You Dream, You Relax | R6 #USChessChamps"
       },
       {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
@@ -642,36 +690,12 @@ news_feed (
          "title" : "Intercontinental Championship for Prisoners: Over 100 teams registered"
       },
       {
-         "description" : "The 2023 European Club Cup is taking place at a resort in Durrës, Albania, from 30 September to 7 October. Magnus Carlsen is playing for the Norwegian club Offerspill, while Superchess from Romania have the highest rating average, with Vishy Anand and Richard Rapport playing on the top boards. | Follow the games live with computer-assisted analysis starting daily at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-live",
-         "pubDate" : "Sat, 07 Oct 2023 14:00:00",
-         "title" : "European Chess Club Cup - Live!"
-      },
-      {
          "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/brave-new-game/",
          "pubDate" : "Sat, 07 Oct 2023 10:57:02",
          "title" : "Brave New Game"
-      },
-      {
-         "description" : "In the diagram position, Black's two centralized major pieces create a serious threat - which White did not see. He played 22.Ra4??, allowing Black to strike. How would you punish this rook move?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spot-the-motif",
-         "pubDate" : "Sat, 07 Oct 2023 09:00:00",
-         "title" : "Spot the motif"
-      },
-      {
-         "description" : "The round-6 clash of co-leaders between Superchess and Offerspill ended in a draw, with wins for Bogdan-Daniel Deac (Superchess) and Pranav V (Offerspill). This allowed six teams to close the gap with the co-leaders to 1 match point going into Saturday's final round. Meanwhile, in the women's tournament, Superchess and Garuda Ajka obtained crucial victories to climb to shared first place, and are set to face each other in round 7. The final round stars one hour earlier than usual. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r6",
-         "pubDate" : "Sat, 07 Oct 2023 06:30:00",
-         "title" : "Euro Club Cup: Deac wins with 1.a3, Offerspill and Superchess co-leaders"
       },
       {
          "description" : "GMs Hans Niemann and Abhimanyu Mishra have taken the lead at the U.S. Championships after round two. Niemann came within inches of blundering and running out of time but fought back to defeat the previous leader, GM Sam Sevian. Contrastingly, Mish...",
@@ -1160,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2652",
          "pubDate" : "Mon, 25 Sep 2023 10:14:53 +0000",
          "title" : "Chess for Protection: Two years and counting"
-      },
-      {
-         "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. All applications and payments should be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2023-24/",
-         "pubDate" : "Mon, 25 Sep 2023 08:00:20",
-         "title" : "Clubs & Congress Insurance 2023/24"
       },
       {
          "description" : "",
