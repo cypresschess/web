@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Silver and bronze for Lan Yao and Jovanka Houska respectively, but bug halts Wood Green's Borna Derakhshani on the brink of an IM norm Last week, the European Club Cup, the chess version of the Champions League, was staged in Durres, Albania. Magnus Carlsen was the star attraction and the world No 1 did not disappoint, making the best top board score of 5/6 and leading his Offerspill Oslo team to the gold medals. The winning squad consisted primarily of Norwegians, boosted by two strong Indian GMs. Carlsen has won six of his last eight over-the-board or online events and finished second in the other two. The contrast is glaring with the official world champion, Ding Liren. It is now nearly ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/oct/13/chess-england-women-put-on-strong-showing-at-virus-stricken-euro-club-cup",
+         "pubDate" : "Fri, 13 Oct 2023 06:57:59",
+         "title" : "Chess: England women put on strong showing at virus-stricken Euro Club Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Audio issues at beginning. Transmission dropped for about 90 minutes. Full show WITHOUT missing 90 minutes has been uploaded. Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/original-broadcast-2023-us-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/original-broadcast-2023-us-chess-championships-round-7",
+         "pubDate" : "Fri, 13 Oct 2023 04:08:15",
+         "title" : "(ORIGINAL BROADCAST) 2023 U.S. Chess Championships: Round 7"
+      },
+      {
          "description" : "In a shocking development, 23-year-old Kazakh GM Alisher Suleymenov (rated 2512) defeated Magnus Carlsen in round 2 of the Qatar Masters - it was a crushing 31-move victory. Carlsen later shared some concerns on his X account, noting that it is \"incredibly frustrating to see organisers still not taking anti-cheating seriously at all\", as he had been distracted by Suleymenov's playing with an analog watch. Carlsen clarified that he was not accusing his opponent of cheating. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-8",
          "pubDate" : "Thu, 12 Oct 2023 22:08:11",
          "title" : "2023 U.S. Chess Championships: Round 8"
+      },
+      {
+         "description" : "Each on a three-game winning streak, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova&#38;nbsp;have furthered their lead in the U.S. Women&#39;s Championship after seven rounds. They are now 1.5 points ahead of the field.&#38;nbsp; Both leaders won the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-7",
+         "pubDate" : "Thu, 12 Oct 2023 21:31:28",
+         "title" : "Winning Streaks Galore: Yip, Tokhirjonova, Lee Unstoppable"
       },
       {
          "description" : "",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/zatonskih-when-you-dream-you-relax-r6-uschesschamps",
          "pubDate" : "Thu, 12 Oct 2023 01:07:23",
          "title" : "Zatonskih: When You Dream, You Relax | R6 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Eswaran in the sixth round of the 2023 U.S. Women's Championship. 2023.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yip-i%E2%80%99m-having-luck-dark-square-fianchetto-r6-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NY4Bkhqjsdc.jpg?itok=Y-jcK-uw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yip-i%E2%80%99m-having-luck-dark-square-fianchetto-r6-uschesschamps",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:23",
-         "title" : "Yip: I'm Having Luck with Dark Square Fianchetto | R6 #USChessChamps"
       },
       {
          "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-from-owen-phillips/",
          "pubDate" : "Mon, 02 Oct 2023 08:37:24",
          "title" : "IBCA World Individual Championship - from Owen Phillips"
-      },
-      {
-         "description" : "Athletes don&#39;t stop competing when their game ends! As Chess.com continues to engage with colleges and universities to bring the game of chess to more and more campuses, we&#39;ve also found that football players seem to love the rich game of chess as...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-blitzchamps-texas",
-         "pubDate" : "Mon, 02 Oct 2023 08:00:00",
-         "title" : "BlitzChamps Is Coming To Texas!"
       },
       {
          "description" : "",
