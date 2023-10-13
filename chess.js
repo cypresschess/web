@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 76th Russian Championships took place 1st to 12th October 2023. Vladislav Artemiev won with 8.5/11 undefeated, two points clear of the field. Baira Kovanova was the surprised winner of the women's event with 8/11 a point clear of the field. She had not even qualified for the final stage, in spite of trying, since 2013.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/76th-ch-rus-2023",
+         "pubDate" : "Fri, 13 Oct 2023 22:41:00",
+         "title" : "76th ch-RUS 2023 - Games and Results"
+      },
+      {
+         "description" : "In his Game of the Week show #589 Merijn Van Delft analyses how Magnus Carlsen defeated Vincent Keymer, who had come close to eliminating Carlsen from the World Cup, in the European Club Cup. A clash of generations in which Carlsen tried an interesting concept against the Najdorf. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-589-m-carlsen-vs-v-keymer",
+         "pubDate" : "Fri, 13 Oct 2023 16:00:00",
+         "title" : "Game of the Week #589: M. Carlsen vs V. Keymer"
+      },
+      {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Fri, 13 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : "On the One Show tonight (BBC1 at 19.00hrs) there is a feature on the 3Cs Chess Club in Oldham https://www.3cschessclub.com/ After the broadcast the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/3cs-chess-club-on-the-bbc/",
+         "pubDate" : "Fri, 13 Oct 2023 13:13:56",
+         "title" : "3Cs Chess Club on the BBC"
+      },
+      {
+         "description" : " I have a bit of a backlog of blog posts, in part due to being busy with the <a href=\"https://fide.com/news/2679\">FIDE Chess for Freedom</a> event which ran over the past few days. So the clear the backlog, I will begin positing some of my 'obscure club games' which have been played in recent weeks. <br /> <b>Press,Shaun - Horikawa,Masaki [E01]</b><br /> GungahlinCC --- (4), 10.10.2023 <script> new PgnViewer( { boardName: \"game1422\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 Nc6 5.Bg2 d5 6.O-O Bd7 7.Nc3 Be7 8.cxd5 exd5 9.dxc5 Be6 10.Bg5 O-O 11.Rc1 Qa5 12.a3 Rad8 13.Nd4 Qxc5 14.Nb3 Qb6 15.Na4 Qb5 16.Nac5 b6 17.a4 Qb4 18.Nxe6 fxe6 19.Rxc6 Qxa4 20.Qc2 Bc5 21.Rc7 h6 22.Bx",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/another-obscure-club-game.html",
+         "pubDate" : "Fri, 13 Oct 2023 12:49:00",
+         "title" : "Another obscure club game"
+      },
+      {
          "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -13,9 +53,9 @@ news_feed (
          "description" : "Offerspill Sjakklubb started the 38th European Chess Club Cup Open as fourth seed. Magnus Carlsen, Offerspill's first board, was certainly the main reason for this - after all he is the world number one with a rating of 2839. But it was still a big surprise that the Norwegians won the cup! One team member in particular - Pranav Venkatesh (whose birthday is today!) - rocked the house with 5.0/7 points. His game against Super Grandmaster Jorden Van Foreest was particularly daring. Robert Ris shows this magical Underdog victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-and-his-team-of-underdogs-win-the-underdog",
+         "link" : "https://en.chessbase.com/post/pranav-surprises-foreest-the-underdog",
          "pubDate" : "Fri, 13 Oct 2023 10:00:00",
-         "title" : "Magnus and his team of Underdogs win! - The Underdog"
+         "title" : "Pranav surprises Foreest! - The Underdog"
       },
       {
          "description" : "In the FIDE World Junior Rapid Chess Championship, which was played in Pula, Italy, and which is part of the ongoing World Junior Rapid & Blitz Championships, Raunak Sadhwani and Govhar Beydullayeva emerged as the undisputed champions of their open and girls sections, respectively. | Photos: NIKIEL.PHOTO",
@@ -666,28 +706,12 @@ news_feed (
          "title" : "Asian Games: Iran and China win team competitions"
       },
       {
-         "description" : "In the second round of the US Championships in Saint Louis, Hans Niemann won with black against Sam Sevian, who had beaten Ray Robson one round earlier to take the lead. For the time being, Niemann is sharing the lead with Abhimanyu Mishra, who won against Andrew Tang. Niemann and Abhimanyu now both have a 1&frac12;/2 score. In the women's section, a quartet consisting of Carissa Yip, Gulrukhbegim Tokhirjonova, Nazi Paikidze and Tatev Abrahamyan (all on 1&frac12;/2 points) are topping the standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r2",
-         "pubDate" : "Sat, 07 Oct 2023 18:20:00",
-         "title" : "U.S. Championships: Niemann beats Sevian, shares the lead with Abhimanyu"
-      },
-      {
          "description" : "GM Daniel Naroditsky won October&#39;s first Bullet Brawl by a convincing margin of 44 points on Saturday, one week after claiming his fifth title. The U.S. GM&#39;s score of 252 was more than enough to secure the $400 first prize ahead of the second-plac...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-7-2023",
          "pubDate" : "Sat, 07 Oct 2023 17:41:00",
          "title" : "Naroditsky Outclasses Bullet Brawl Field"
-      },
-      {
-         "description" : "Over 100 teams from 50 countries will take part in the Intercontinental Online Chess Championship for Prisoners, a three-day event that starts on October 11. The championship is a part of the Chess for Freedom Program, launched two years ago to promote chess as a tool for education and social inclusion in prisons worldwide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/intercontinental-championship-prisoners-2023-preview",
-         "pubDate" : "Sat, 07 Oct 2023 14:15:00",
-         "title" : "Intercontinental Championship for Prisoners: Over 100 teams registered"
       },
       {
          "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
@@ -832,14 +856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2023",
          "pubDate" : "Wed, 4 Oct 2023 22:48:00",
          "title" : "US Chess Championships 2023 - Games and Results"
-      },
-      {
-         "description" : " The 76th Russian Championships take place 1st to 12th October 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/76th-ch-rus-2023",
-         "pubDate" : "Wed, 4 Oct 2023 22:41:00",
-         "title" : "76th ch-RUS 2023 - Games and Results"
       },
       {
          "description" : " The 38th European Club Cup takes place in Durres, Albania 30th September to 8th October 2023. Magnus Carlsen turns out for his club Offerspill and other strong players such as Anand, Rapport, Mamedyarov and MVL also play.",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ai-cup-2023",
          "pubDate" : "Fri, 29 Sep 2023 10:38:00",
          "title" : "AI Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/wstcc-reports-from-nigel-povah/#new_tab",
-         "pubDate" : "Fri, 29 Sep 2023 08:05:38",
-         "title" : "WSTCC reports from Nigel Povah - incl. final round and results!"
       },
       {
          "description" : " A top player for a quarter of a century and a national hero immortalised on coins, the fates denied him a world title match Paul Keres (1916-1975) was one of the greatest players never to become world champion. It was not through want of trying. For a full quarter of a century, starting from his victory at Avro 1938, one of the all-time premier tournaments in chess history, right up to Curaçao 1962, where he missed first place and a world title challenge by a hair's breadth, Keres was a leading contender. Keres became a national hero for Estonians, who believed that Soviet officials had coerced him into playing badly against the favoured Russian, Mikhail Botvinnik, in the 1948 world champi",
@@ -1296,30 +1304,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/levitov-chess-week-2023",
          "pubDate" : "Fri, 22 Sep 2023 20:57:00",
          "title" : "Levitov Chess Week 2023 - Games and Results"
-      },
-      {
-         "description" : "For the past month I've been running a series on actions provoked by Google's Adsense. Here are the relevant posts:- <UL> <LI> 2023-08-18: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-on-cfaa.html\">Adsense on CFAA++</A> &#149; 'I need to catch up with new actions from Google'; CFAA++ means my web site and blogs <LI> 2023-08-25: <A HREF=\"https://chessforallages.blogspot.com/2023/08/adsense-and-gdpr.html\">Adsense and the GDPR</A> &#149; GDPR = General Data Protection Regulation <LI> 2023-09-01: <A HREF=\"https://chessforallages.blogspot.com/2023/09/adsense-and-cmp.html\">Adsense and the CMP</A> &#149; CMP = Consent Management Platform <LI> 2023-09-08: <A HREF=\"https://chessforal",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/cfaas-cmp-wrapup.html",
-         "pubDate" : "Fri, 22 Sep 2023 15:22:00",
-         "title" : "CFAA's CMP : Wrapup"
-      },
-      {
-         "description" : " The 30-year-old, who has only competed once since he won the world crown in April, had been scheduled to lead the Chinese team The case of the disappearing world champion may (or may not) be about to be solved. China's Ding Liren has only competed once since he won the title five months ago, following Magnus Carlsen's abdication. That was in Bucharest in May, where the newly crowned champion finished next to last. Ding was scheduled to lead China's team and also to compete in the individual chess competition <a href=\"https://www.insidethegames.biz/articles/1136713/ding-liren-china-chess-hangzhou-2022\" title=\"\">at the Asian Games</a>, to be staged in his home city of Wenzhou with the opening",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/sep/22/chess-world-champion-ding-liren-back-in-action-in-wenzhou-after-long-absence",
-         "pubDate" : "Fri, 22 Sep 2023 13:52:25",
-         "title" : "Chess: Doubt cast over Ding Liren's planned return to action at Asian Games"
-      },
-      {
-         "description" : " The 2023 World Junior Championship has started in Mexico City. Top see is GM Hans Neimann and there are 153 players in the Open section, and 85 in the Girls section. Australia has 3 representatives taking part (plus one arbiter). IM Cameron McGowan and FM Albert Winkelman are both seeded in the top half of the Open, while WCM Jody Middleton is playing in the Girls section. The first round has been played (wins for McGowan and Winkelman, loss for Middleton) with the 2nd round starting in a few hours. Results can be found via <a href=\"https://juniorchesschampionship.fenamacajedrez.com/\">https://juniorchesschampionship.fenamacajedrez.com/</a> although the live coverage seems to be missing at t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/2023-world-junior.html",
-         "pubDate" : "Fri, 22 Sep 2023 13:11:00",
-         "title" : "2023 World Junior"
       }
    ]
 }
