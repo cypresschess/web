@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In a shocking development, 23-year-old Kazakh GM Alisher Suleymenov (rated 2512) defeated Magnus Carlsen in round 2 of the Qatar Masters - it was a crushing 31-move victory. Carlsen later shared some concerns on his X account, noting that it is \"incredibly frustrating to see organisers still not taking anti-cheating seriously at all\", as he had been distracted by Suleymenov's playing with an analogous watch. Carlsen clarified that he was not accusing his opponent of cheating. | Photo: Aditya Sur Roy",
+         "description" : "In a shocking development, 23-year-old Kazakh GM Alisher Suleymenov (rated 2512) defeated Magnus Carlsen in round 2 of the Qatar Masters - it was a crushing 31-move victory. Carlsen later shared some concerns on his X account, noting that it is \"incredibly frustrating to see organisers still not taking anti-cheating seriously at all\", as he had been distracted by Suleymenov's playing with an analog watch. Carlsen clarified that he was not accusing his opponent of cheating. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-r2",
@@ -56,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/world-cadet-chess-championship-2023/",
          "pubDate" : "Thu, 12 Oct 2023 17:55:07",
          "title" : "World Cadet Chess Championship-2023"
+      },
+      {
+         "description" : "IMs Greg Shahade and Levy Rozman (aka GothamChess) advance to the 2023 I&#39;M Not A GM Speed Chess Championship Semifinals after winning Groups A and B, respectively, on Thursday.&#38;nbsp; Shahade&#39;s victory was a close call, and it only came after he ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-rozman-shahade-win-groups-a-b",
+         "pubDate" : "Thu, 12 Oct 2023 16:30:00",
+         "title" : "GothamChess Tops Group B With 9-Game Winning Streak, Shahade Takes Group A"
       },
       {
          "description" : "World number-one Magnus Carlsen confessed he was &#34;completely crushed&#34; by 23-year-old Kazakh GM Alisher Suleymenov in round two of the 2023 Qatar Masters, but afterward blamed a failure to concentrate on his opponent wearing a watch in contraventio...",
@@ -138,6 +146,14 @@ news_feed (
          "title" : "Qatar Masters: Carlsen on the attack, Kushagra upsets Fedoseev"
       },
       {
+         "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 01:07:59",
+         "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Experience the drawing of lots from CityPark, the St. Louis City Stadium, the evening before the 2023 U.S. &amp; U.S. Women's Championships began. This aired during Round 6. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-opening-ceremony-citypark-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kETtJ7vfg6w.jpg?itok=b-NWgJTC\" a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -192,6 +208,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/yip-i%E2%80%99m-having-luck-dark-square-fianchetto-r6-uschesschamps",
          "pubDate" : "Thu, 12 Oct 2023 01:07:23",
          "title" : "Yip: I'm Having Luck with Dark Square Fianchetto | R6 #USChessChamps"
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 00:45:31",
+         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
+      },
+      {
+         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
+         "pubDate" : "Thu, 12 Oct 2023 00:43:40",
+         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
       },
       {
          "description" : "",
@@ -898,14 +930,6 @@ news_feed (
          "title" : "European Open&Women's Chess Club Cups 2023 kicked off in Durres, Albania"
       },
       {
-         "description" : "A destructive performance by the University of Missouri (Mizzou) in the 2023 Collegiate Chess League (CCL) has placed the three-GM team atop the lead after two weeks of play. Board two GM Mikhail Antipov surged to 4/4 while Mizzou&#39;s board one GM G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-mizzou-cu",
-         "pubDate" : "Sun, 01 Oct 2023 19:32:16",
-         "title" : "Antipov Perfect In Mizzou's Dominant Victory Over UChicago"
-      },
-      {
          "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), we often see an auction item described as a 'figurine'. Does that category include both people and animals? According to one dictionary source, <A HREF=\"https://www.merriam-webster.com/dictionary/figurine\">Figurine Definition & Meaning</A> (merriam-webster.com), the word means, <BLOCKQUOTE> a small carved or molded figure : statuette </BLOCKQUOTE> <P> and has synonyms that can stand for people or animals. A recent example in 'Top eBay Items' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshund",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/2023-world-junior.html",
          "pubDate" : "Fri, 22 Sep 2023 13:11:00",
          "title" : "2023 World Junior"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2645",
-         "pubDate" : "Fri, 22 Sep 2023 01:00:24 +0000",
-         "title" : "FIDE World Junior Championship U20 starts in Mexico City"
       }
    ]
 }
