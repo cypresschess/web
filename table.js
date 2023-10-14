@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-10-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310138312 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 13, 2023</a>",
+"CYPRESS","2023-10-13","29","<a href=http://www.uschess.org/msa/XtblMain.php?202310138272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-10-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310087352 target='_blank'>GAME GUYS 10.8.23</a>",
 "HOUSTON","2023-10-07  - 10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310086272 target='_blank'>HOUSTON SENIOR OPEN 2023</a>",
 "HOUSTON","2023-10-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310066842 target='_blank'>WBCC QUAD 2023.10.06</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-03-24","19","<a href=http://www.uschess.org/msa/XtblMain.php?202303243332 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 24, 2023</a>",
 "CYPRESS","2023-03-24","38","<a href=http://www.uschess.org/msa/XtblMain.php?202303243232 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-03-17  - 03-19","307","<a href=http://www.uschess.org/msa/XtblMain.php?202303191532 target='_blank'>2023 LONE STAR OPEN CHESS CHAMPIONS</a>",
-"HOUSTON","2023-03-18","113","<a href=http://www.uschess.org/msa/XtblMain.php?202303181572 target='_blank'>LONE STAR SCHOLASTIC-</a>",
-"SUGAR LAND","2023-03-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303179562 target='_blank'>FBCC 2023 SAINT PATRICK OPEN</a>",
 ]);
