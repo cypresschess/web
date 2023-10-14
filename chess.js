@@ -2,6 +2,134 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Sat, 14 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2684",
+         "pubDate" : "Sat, 14 Oct 2023 12:42:31 +0000",
+         "title" : "World Cadet U8, U10, U12 Championships 2023 rescheduled"
+      },
+      {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris shows a way to take a crack at the Petroff - sacrificing a pawn! A concept that helped Ray Robson to defeat Jeffery Xiong at the U.S. Championship. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nihal-sarin-attacks-2",
+         "pubDate" : "Sat, 14 Oct 2023 12:00:00",
+         "title" : "Robert Ris' Fast and Furious: Sacrificing against the Petroff"
+      },
+      {
+         "description" : "36th National Under-11 Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-11.html Girls : https://aicf.online/National-U-11(Girls).html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-11-certificates-2/",
+         "pubDate" : "Sat, 14 Oct 2023 10:28:14",
+         "title" : "National U-11 Certificates"
+      },
+      {
+         "description" : "Leonard Barden, the world's longest-serving chess journalist, recently celebrated his 94th birthday. He was born Leonard William Barden in Croydon, London on August 20th 1929. He was joint British Champion in 1954 and was 1st= in 1958 but lost to Penrose in the play-off. In 1952 he was 1st at Paignton, ahead of Grandmaster Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-grand-old-man-of-chess-journalism/",
+         "pubDate" : "Sat, 14 Oct 2023 10:00:34",
+         "title" : "The grand old man of chess journalism"
+      },
+      {
+         "description" : "The Caplin Hastings International Chess Congress this year celebrates its 97th edition, and will take place from 28th December to 7th January, 2024. The organising...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entries-open-to-hastings/",
+         "pubDate" : "Sat, 14 Oct 2023 09:34:08",
+         "title" : "Entries open to Hastings!"
+      },
+      {
+         "description" : "From the diagram position, Black takes down the white king in the center. 16...Qf2+ is obvious, but the other moves are more difficult to see. Can you find them?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-art-of-quiet-moves",
+         "pubDate" : "Sat, 14 Oct 2023 09:00:00",
+         "title" : "The art of quiet moves"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after a draw against Ruiyang Yan in the eighth round of the 2023 U.S. Women's Championship. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-happy-i-didn%E2%80%99t-lose-i-was-probably-better-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YYuAV_Oh8E8.jpg?itok=JU2FX2DR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-happy-i-didn%E2%80%99t-lose-i-was-probably-better-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 04:09:28",
+         "title" : "Alice: Happy I Didn't Lose, But I Was Probably Better | R8 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Zatonskih in the eighth round of the 2023 U.S. Women's Championship. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-wins-due-anna%E2%80%99s-time-trouble-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dQGxz57IcVY.jpg?itok=M_giluVt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-wins-due-anna%E2%80%99s-time-trouble-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 04:09:28",
+         "title" : "Begim Wins Due to Anna's Time Trouble | R8 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ashritha Eswaran talks to the team after defeating Cervantes in the eighth round of the 2023 U.S. Women's Championship. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eswaran-great-get-win-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lQJctx-Zymk.jpg?itok=BlKP3mSZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/eswaran-great-get-win-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 04:09:28",
+         "title" : "Eswaran: Great to Get a Win! | R8 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Pourkashiyan in the eighth round of the 2023 U.S. Women's Championship. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yip-atousa-misstepped-let-me-open-position-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/avbCjNScxHE.jpg?itok=Wd9iyScL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yip-atousa-misstepped-let-me-open-position-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 04:09:28",
+         "title" : "Yip: Atousa Misstepped & Let Me Open the Position | R8 #USChessChamps"
+      },
+      {
+         "description" : "Five players are sharing the lead with perfect scores after three rounds at the Qatar Masters in Doha. Arjun Erigaisi, Javokhir Sindarov (pictured), Narayanan S L, Rinat Jumabayev and Robby Kevlishvili are the co-leaders after Friday's round. Due to the controversy surrounding Magnus Carlsen's defeat and ensuing social media post on Thursday, the organizers put forth new anti-cheating regulations. Carlsen bounced back from the shocking loss by beating Al Muthaiah with the white pieces. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r3",
+         "pubDate" : "Sat, 14 Oct 2023 02:15:00",
+         "title" : "Qatar Masters: Five co-leaders on 3/3, Carlsen bounces back"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Emmy Award-Winning Costume Designer Marina Toybina talks to the team during the eighth round of the 2023 U.S. Championships. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/costumer-toybina-incorporating-chess-my-designs-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jVXehOOAQGQ.jpg?itok=vgueKrj2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/costumer-toybina-incorporating-chess-my-designs-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 01:09:34",
+         "title" : "Costumer Toybina: Incorporating Chess into My Designs | R8 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to the team after a draw with Aronian in the eighth round of the 2023 U.S. Championship. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-didn%E2%80%99t-fear-any-danger-aronian-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pDQgRy4c4wQ.jpg?itok=zZkNpKBh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/swiercz-didn%E2%80%99t-fear-any-danger-aronian-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 01:09:34",
+         "title" : "Swiercz: Didn't Fear Any Danger from Aronian | R8 #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to the team after defeating Niemann in the eighth round of the 2023 U.S. Championship. 2023.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-beats-niemann-im-not-doing-super-terrible-r8-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sGs9ovD9xGk.jpg?itok=iYCF8xoK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robson-beats-niemann-im-not-doing-super-terrible-r8-uschesschamps",
+         "pubDate" : "Sat, 14 Oct 2023 01:09:34",
+         "title" : "Robson Beats Niemann: I'm Not Doing Super Terrible | R8 #USChessChamps"
+      },
+      {
+         "description" : "GM Fabiano Caruana increased his lead to a point, even while he let GM Sam Shankland off the hook in the eighth round of the 2023 U.S. Championship. In the U.S. Women&#39;s Championship, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova continued ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-8",
+         "pubDate" : "Sat, 14 Oct 2023 00:33:48",
+         "title" : "Niemann Blunder Gives Caruana 1-Point Lead; Yip, Tokhirjonova Ahead By 2"
+      },
+      {
          "description" : " The 76th Russian Championships took place 1st to 12th October 2023. Vladislav Artemiev won with 8.5/11 undefeated, two points clear of the field. Baira Kovanova was the surprised winner of the women's event with 8/11 a point clear of the field. She had not even qualified for the final stage, in spite of trying, since 2013.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -50,54 +178,6 @@ news_feed (
          "title" : "2023 US Chess Championships Round 6 | \"The Spirit of Lev Polugaevsky is alive!\" | #shorts"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to the team after defeating Paikidze in the seventh round of the 2023 U.S. Women&#039;s Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-%E2%80%98got-lucky%E2%80%99-nazi-didn%E2%80%99t-expect-my-opening-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wf5JwjrvV4E.jpg?itok=whaJTUD5\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-%E2%80%98got-lucky%E2%80%99-nazi-didn%E2%80%99t-expect-my-opening-r7-uschesschamps",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "Begim: 'Got Lucky' Nazi Didn't Expect My Opening | R7 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6-gm-thalia-cervantes-blunders-abrahamyan-takes-over-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sZ0mCfU42Ts.jpg?itok=thfa8yZA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6-gm-thalia-cervantes-blunders-abrahamyan-takes-over-shorts",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "2023 US Chess Championships Round 6 | GM Thalia Cervantes blunders, Abrahamyan takes over | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6-gm-tatev-abrahamyan-loses-winning-position-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_oa6B2ubl2Y.jpg?itok=29ESduba\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6-gm-tatev-abrahamyan-loses-winning-position-shorts",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "2023 US Chess Championships Round 6 | GM Tatev Abrahamyan loses winning position | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The overall U.S. Championship field talks to Sabina Foisor before the 2023 U.S. Championship. This aired during Round 7. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/us-champs-players-club%E2%80%99s-impact-favorite-moments-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZeQk0svCAB4.jpg?itok=pwfMFWxl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/us-champs-players-club%E2%80%99s-impact-favorite-moments-uschesschamps",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "U.S. Champs Players: Club's Impact & Favorite Moments | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to the team after a draw against Sevian in the seventh round of the 2023 U.S. Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-trust-me-i%E2%80%99m-used-making-mistakes-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3CX_CNDcvFs.jpg?itok=vxzAlbyi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-trust-me-i%E2%80%99m-used-making-mistakes-r7-uschesschamps",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "Shankland: Trust Me, I'm Used to Making Mistakes | R7 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Zatonskih in the seventh round of the 2023 U.S. Women's Championship. 2023.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-four-wins-row-what%E2%80%99s-her-secret-r7-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UgDa_ZFBpP8.jpg?itok=hBggg6ZA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-four-wins-row-what%E2%80%99s-her-secret-r7-uschesschamps",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "Alice: Four Wins in a Row! What's Her Secret? | R7 #USChessChamps"
-      },
-      {
          "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,20 +194,28 @@ news_feed (
          "title" : "Game of the Week #589: M. Carlsen vs V. Keymer"
       },
       {
+         "description" : "Moves were delayed 15 minutes and watches outlawed as world number-one Magnus Carlsen&#39;s tweets had an instant impact on round three of the&#38;nbsp;2023 Qatar Masters. The drama was limited on the board; GMs Hikaru Nakamura and Anish Giri were frustra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-3",
+         "pubDate" : "Fri, 13 Oct 2023 15:58:40",
+         "title" : "Nakamura, Giri Held As Carlsen Hits Back"
+      },
+      {
+         "description" : "IMs Polina Shuvalova and Lawrence Trent filled the last two spots of the 2023 I&#39;M Not A GM Speed Chess Championship Semifinals after, respectively, winning Groups C and D. The other two semifinalists are IMs Greg Shahade and Levy Rozman (aka Gotha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-shuvalova-trent-win-groups-c-d",
+         "pubDate" : "Fri, 13 Oct 2023 15:30:00",
+         "title" : "Trent Proves Shahade Wrong, Moves To Semifinals With Shuvalova"
+      },
+      {
          "description" : "While two consecutive rounds ended with draws on all six boards in the U.S. Championship, three players got win after win in the U.S. Women's Championship. Co-leaders Carissa Yip and Gulrukhbegim Tokhirjonova have each grabbed three full points in a row to remain tied for first, while Alice Lee has in fact collected four back-to-back victories to climb to shared second place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2023-r7",
          "pubDate" : "Fri, 13 Oct 2023 14:05:00",
          "title" : "U.S. Championships: Yip and Tokhirjonona keep on winning"
-      },
-      {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Fri, 13 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : "On the One Show tonight (BBC1 at 19.00hrs) there is a feature on the 3Cs Chess Club in Oldham https://www.3cschessclub.com/ After the broadcast the...",
@@ -176,14 +264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rhodes-round-four-from-owen-phillips/",
          "pubDate" : "Fri, 13 Oct 2023 08:30:21",
          "title" : "Rhodes - round four from Owen Phillips"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women's Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.15<br /> USChessChamps.com ROUND 9 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Wesley So vs. Ray Robson Leinier Dominguez vs. Andrew Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-cham",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-9",
-         "pubDate" : "Fri, 13 Oct 2023 07:08:34",
-         "title" : "2023 U.S. Chess Championships: Round 9"
       },
       {
          "description" : " Norwegian said he lost his concentration when he saw his opponent was wearing a timepiece at the Qatar Masters Last week, the European Club Cup, the chess version of the Champions League, was staged in Durres, Albania. Magnus Carlsen was the star attraction and the world No 1 did not disappoint, making the best top board score of 5/6 and leading his Offerspill Oslo team to the gold medals. The winning squad consisted primarily of Norwegians, boosted by two strong Indian GMs. Carlsen has won six of his last eight over-the-board or online events and finished second in the other two. The contrast is glaring with the official world champion, Ding Liren. It is now nearly five months since Ding l",
@@ -610,14 +690,6 @@ news_feed (
          "title" : "Carlsen Guides Offerspill To European Chess Club Cup Glory"
       },
       {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris presents a fine attacking game Nihal Sarin played at the European Club Cup, which finished last weekend. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nihal-sarin-attacks",
-         "pubDate" : "Mon, 09 Oct 2023 10:00:00",
-         "title" : "Robert Ris' Fast and Furious: Nihal Sarin attacks!"
-      },
-      {
          "description" : "Congratulations to Jovanka Houska (second from the right) &#38; Lan Yao (centre)&#160; on winning board medals at the 2023 European Club Cup for Women in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -650,28 +722,12 @@ news_feed (
          "title" : "Caruana Sole Leader After Long Grinding Win"
       },
       {
-         "description" : "The star-studded Levitov Chess Week rapid tournament saw Ian Nepomniachtchi grabbing the title ahead of Vishy Anand and Peter Svidler. GM Karsten M&uuml;ller followed the games closely and found five remarkable endgame positions. Find here the compilation of his pragmatic, instructive and enjoyable analyses!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levitov-chess-week-2023-endgames",
-         "pubDate" : "Sun, 08 Oct 2023 21:30:00",
-         "title" : "Endgames from Amsterdam"
-      },
-      {
          "description" : "The University of Texas at Dallas (UTD) became the first team to topple the University of Missouri (Mizzou) in the SIG-sponsored 2023 Collegiate Chess League (CCL) fall season on Saturday after a tight tussle that ended 9-7 in favor of the Texan t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utd-uchicago",
          "pubDate" : "Sun, 08 Oct 2023 21:12:00",
          "title" : "UTD Defeats Mizzou In Top-Of-Table Clash, Liang Thrills For UChicago"
-      },
-      {
-         "description" : "An exciting final round of the European Club Cup in Durrës saw Offerspill and Superchess grabbing gold medals in the open and women's sections, respectively. In the open, the Norwegian team, led by Magnus Carlsen, beat Asnieres with wins by Pranav Venkatesh and Aryan Tari, while in the women's tournament, Superchess beat Garuda Ajka in a close match, thanks to victories by Dinara Wagner and Marsel Efroimski. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-r7",
-         "pubDate" : "Sun, 08 Oct 2023 18:00:00",
-         "title" : "Carlsen's Offerspill clear winners at European Chess Club Cup"
       },
       {
          "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
@@ -826,14 +882,6 @@ news_feed (
          "title" : "'Mystery Painting' in Denmark"
       },
       {
-         "description" : "36th Under 11 National Open and Girls Chess Championship started in a grand manner here atVisakhapatnam organized by Andhra Chess Association on behalf of All",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/36th-national-under-11-chess-championship-2023/",
-         "pubDate" : "Thu, 05 Oct 2023 11:41:34",
-         "title" : "36TH NATIONAL UNDER-11 CHESS CHAMPIONSHIP-2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -882,22 +930,6 @@ news_feed (
          "title" : "European Open&Women's Chess Club Cups 2023 are halfway through"
       },
       {
-         "description" : "You can&#39;t keep GM Hikaru Namakura down for long. He won the early Titled Tuesday on October 3, his first since a perfect score on August 22 and his 57th overall since October 2020. Nakamura then nearly won the late event as well, but it ended up g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-october-3-2023",
-         "pubDate" : "Wed, 04 Oct 2023 09:10:00",
-         "title" : "Nakamura Back On Top Tuesday, Nearly Sweeps"
-      },
-      {
-         "description" : "The influential Saint Louis Chess Club admits they&#39;ve &#34;remained silent for too long&#34; and says that they &#34;should have done more to address the allegations&#34; of sexual misconduct against GM Alejandro Ramirez.&#38;nbsp; 229 days after two-time U.S. Wome...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/st-louis-chess-club-issues-statement-on-alejandro-ramirez",
-         "pubDate" : "Wed, 04 Oct 2023 03:30:00",
-         "title" : "Saint Louis Chess Club Issues Statement on Alejandro Ramirez"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -912,14 +944,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/october-1973-1998-on-cover.html",
          "pubDate" : "Tue, 03 Oct 2023 15:56:00",
          "title" : "October 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "Anastasios Koukas and Michael Duke emerged at the top of the 2000+ section in the qualifiers for the ChessPunks Champs 2023. In the 1700-1999 division, EvertonEejit clinched the first qualifier with a round to spare while Tushar Anand won the se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-qualifiers",
-         "pubDate" : "Tue, 03 Oct 2023 14:30:18",
-         "title" : "Koukas, Duke Top Inaugural ChessPunks Champs Qualifiers"
       },
       {
          "description" : " A few weeks ago the following game was played in the LFG Round Robin. To the spectators, Black's 8th move came as a real surprise, as it was believed that sacrificing the exchange (championed by Blackburne in the 19th century) did not give Black enough compensation. But by playing a new move (9. ... Qc7) Black set White a significant number of problems. Eventually White lost their way and Black was left with a winning position. It seems that the line actually works for Black, although trying to find other examples was difficult (only a few games against 1900 rated players). So further investigation may be required before the exchange sacrifice is totally rehabilitated. <br /> <b>Magrini,Fab",
@@ -960,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2666",
          "pubDate" : "Mon, 02 Oct 2023 11:28:08 +0000",
          "title" : "European Chess Club Cup 2023 starts in Durres, Albania"
-      },
-      {
-         "description" : "This is a forerunner of the reports that will be winging their way to the ECF in coming weeks from the wonderful island of Rhodes,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-from-owen-phillips/",
-         "pubDate" : "Mon, 02 Oct 2023 08:37:24",
-         "title" : "IBCA World Individual Championship - from Owen Phillips"
       },
       {
          "description" : "",
@@ -1256,62 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2648",
          "pubDate" : "Sat, 23 Sep 2023 21:28:56 +0000",
          "title" : "FIDE World Senior Team Championship: Day 5 recap "
-      },
-      {
-         "description" : "Today, I'm going to show you how to get rid of distractions during chess training. In a world obsessed with quick hacks, pop-up messages, and social media notifications, it is hard to stay focused for a prolonged period of time. But that's exactly what you need if you want to improve your chess effectively. Sadly, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/distraction-free-chess-training/",
-         "pubDate" : "Sat, 23 Sep 2023 12:00:07",
-         "title" : "Grandmaster Concentration: Your Guide to Distraction-Free Chess Training"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2647",
-         "pubDate" : "Sat, 23 Sep 2023 11:41:20 +0000",
-         "title" : "Carlsen denies Nakamura sixth straight Speed Chess title in thrilling final"
-      },
-      {
-         "description" : "On 2nd September, I attended a performance of Stravinsky's Rite of Spring at the Royal Albert Hall's Proms season. The performance was remarkable for a number of reasons, the first of which was that the Aurora Orchestra, conducted by Nicholas Collon, performed this difficult work entirely from memory. As co-founder with Tony Buzan of the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-rite-of-chess/",
-         "pubDate" : "Sat, 23 Sep 2023 11:15:08",
-         "title" : "The Rite of Chess"
-      },
-      {
-         "description" : "The recent performances of D Gukesh, R Praggnanandhaa, Koneru Humpy, Harika Dronavalli et al have raised Indian medal hopes as chess returns to Asian Games.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/38462593/asian-games-indian-chess-contingent-plots-asiad-medal-haul-recent-rise-praggnanandhaa-gukesh-humpy-harika?device=featurephone",
-         "pubDate" : "Sat, 23 Sep 2023 02:33:08",
-         "title" : "Asian Games: Indian chess contingent plots Asiad medal haul after recent rise"
-      },
-      {
-         "description" : " The finals of the chess.com Speed Chess took place Mon 4th to Fri 22nd September 2023. 16 players competed including Alireza Firouzja, Wesley So, Levon Aronianm, Ian Nepomniachtchi and MVL However it was last year's finalists Magnus Carlsen and Hikaru Nakamura that met again. Last year Carlsen got off to a poor start losing the 5m+1spm portion 6.5-2.5 and although he pulled close Nakamura had the upper hand throughout and infamously ran down the clock at the end to ensure victory. This year felt much closer with only a point in it in all three sections. Carlsen won the initial 5m+1spm section 5-4, Nakamura won the 3m+1spm 5-4 but it was Carlsen who triumphed in the Bullet 4.5-3.5 to win by ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-2023",
-         "pubDate" : "Sat, 23 Sep 2023 00:04:00",
-         "title" : "chess.com Speed Chess 2023 - "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2646",
-         "pubDate" : "Fri, 22 Sep 2023 21:27:33 +0000",
-         "title" : "FIDE World Senior Team Championship: Day 4 recap "
-      },
-      {
-         "description" : " The Levitov Chess Week takes place in Amsterdam Fri 22nd Sep to Tue 26th Sep 2023. Players: Ian Nepomniachtchi, Wesley So, Levon Aronian, Viswanathan Anand, Vladimir Kramnik, Peter Svidler, Daniil Dubov, Shakhriyar Mamedyarov, Alexander Grischuk and Boris Gelfand.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/levitov-chess-week-2023",
-         "pubDate" : "Fri, 22 Sep 2023 20:57:00",
-         "title" : "Levitov Chess Week 2023 - Games and Results"
       }
    ]
 }
