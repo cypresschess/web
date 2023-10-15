@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 147th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 15 Oct 2023 15:00:00",
+         "title" : "Understanding before Moving 147: Chess history in a nutshell (29)"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Sat, 14 Oct 2023 13:55:00",
+         "pubDate" : "Sun, 15 Oct 2023 13:55:00",
          "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : " The 2023 Asian Seniors has just started in Tagatay, The Philippines. I played in last years event (50+) in Auckland, but did not make the trip this year. One player who did back up from last year was Miles Patterson, who finished 2nd in the 65+ section. His result earned him an FM title (conditional upon rating), and an IM norm. This years 65+ section looks to be about th same strength as last years tournament so he may have chances to earn a 2nd IM norm. On the other hand the 50+ tournament looks to be a bit strong than last year, although a bit small. GM Rogelio Antonio is the top seed and there are 4 other IM's in the field. <br /> <b>Ramos,Ernesto - Patterson,Miles (1879) [C01]</b><br /",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/2023-asian-seniors.html",
+         "pubDate" : "Sun, 15 Oct 2023 11:36:00",
+         "title" : "2023 Asian Seniors"
+      },
+      {
+         "description" : "Fabiano Caruana has now a full-point lead at the U.S. Championship, as his closest chaser before round 8, Hans Niemann, was defeated by Ray Robson on Friday. Niemann is now sharing second place with Leinier Dominguez, Wesley So and Abhimanyu Mishra - the latter beat Sam Sevian in round 8. Meanwhile, in the U.S. Women's Championship, Carissa Yip and Gulrukhbegim Tokhirjonova cannot stop winning, as each obtained a fourth consecutive win on Friday and now have a 2-point lead over their closest chasers. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r8",
+         "pubDate" : "Sat, 14 Oct 2023 20:00:00",
+         "title" : "U.S. Championships: Robson traps Niemann's queen, Abhimanyu scores"
+      },
+      {
+         "description" : "Three wins on the fly for GM Daniel Naroditsky in October&#39;s Bullet Brawls have left the American commentator in clear second on the all-time leaderboard with seven wins and closing quickly on GM Hikaru Nakamura, who has won the two-hour arena 10 t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-14-2023",
+         "pubDate" : "Sat, 14 Oct 2023 19:19:15",
+         "title" : "Naroditsky Wins Third Straight Bullet Brawl, Closes In On Nakamura's Record"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura, Gukesh Dommaraju, and Saleh Salem all won in round four of the 2023 Qatar Masters to join a seven-way tie for first place on 3.5/4.&#38;nbsp;GM Magnus Carlsen languishes a point back in 29th place after again being involved in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-4",
+         "pubDate" : "Sat, 14 Oct 2023 17:25:00",
+         "title" : "Carlsen Has Great Escape As Nakamura And Gukesh Join Leaders"
       },
       {
          "description" : "",
@@ -126,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-8",
-         "pubDate" : "Sat, 14 Oct 2023 00:33:48",
+         "pubDate" : "Sat, 14 Oct 2023 00:33:00",
          "title" : "Niemann Blunder Gives Caruana 1-Point Lead; Yip, Tokhirjonova Ahead By 2"
       },
       {
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/76th-ch-rus-2023",
          "pubDate" : "Fri, 13 Oct 2023 22:41:00",
          "title" : "76th ch-RUS 2023 - Games and Results"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Fri, 13 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "",
@@ -674,14 +706,6 @@ news_feed (
          "title" : "Ghana's inmates get ready for International Chess Championship"
       },
       {
-         "description" : "Svitlana Demchenko celebrated her 20th birthday recently, marking this year's World Junior Championship in Mexico as her final appearance. She enjoyed the tournament atmosphere, and met many chess friends. In this episode, she shows us a well-prepared Italian Game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-giuoco-piano-victory-in-mexico",
-         "pubDate" : "Mon, 09 Oct 2023 12:00:00",
-         "title" : "Svitlana's Smart Moves - Giuoco Piano victory in Mexico"
-      },
-      {
          "description" : "Offerspill Chess Club was crowned as the champions in the open division of the recently concluded 2023 European Chess Club Cup (ECCC) after scoring six match wins and a draw against some of the world&#39;s top club teams in Durres, Albania. Led by G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -858,14 +882,6 @@ news_feed (
          "title" : "FAIR PLAY ORIENTATION WORKSHOP"
       },
       {
-         "description" : "IM Nazi Paikidze and GM Sam Sevian are the sole leaders after the opening day of the U.S. Championships in St. Louis. Paikidze scored the only victory in the women&#39;s division, defeating FM Ashritha Eswaran in a tactical slugfest that featured th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-round-1",
-         "pubDate" : "Thu, 05 Oct 2023 20:45:00",
-         "title" : "Paikidze, Sevian Start As Sole Leaders"
-      },
-      {
          "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Council&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2668",
          "pubDate" : "Thu, 05 Oct 2023 08:52:41 +0000",
          "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
-      },
-      {
-         "description" : "Parents and mentors often believe that girls have a lower potential in chess than boys, a bias that is more pronounced among those who think chess success requires brilliance. These findings, the first large-scale evidence of bias against youth fe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gender-bias-chess-parents-mentors-shortchange-girls-potential",
-         "pubDate" : "Thu, 05 Oct 2023 07:08:00",
-         "title" : "Gender Bias Research Shows Parents, Mentors Shortchange Girls' Chess Potential"
       },
       {
          "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
@@ -1248,30 +1256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/09/almost-olympics-asian-games.html",
          "pubDate" : "Sun, 24 Sep 2023 13:22:00",
          "title" : "Almost the Olympics (Asian games)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2649",
-         "pubDate" : "Sun, 24 Sep 2023 12:01:37 +0000",
-         "title" : "Chess returns to 2023 Asian Games in Hangzhou, China"
-      },
-      {
-         "description" : " One month ago, African Chess was on display. Twenty-two of Africa's finest chess players (17 Open and 5 Women) participated in the World Cup tournament in Baku, Azerbaijan. Magnus Carlsen scored a historic victory winning the final over phenom Rameshbabu Praggnanandhaa. The results of the tournament clearly showed that a generation is set to take The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/\">After World Cup, Where is African Chess?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/09/23/after-world-cup-where-is-african-chess/",
-         "pubDate" : "Sun, 24 Sep 2023 02:10:10",
-         "title" : "After World Cup, Where is African Chess?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2648",
-         "pubDate" : "Sat, 23 Sep 2023 21:28:56 +0000",
-         "title" : "FIDE World Senior Team Championship: Day 5 recap "
       }
    ]
 }
