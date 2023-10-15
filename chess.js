@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2685",
+         "pubDate" : "Sun, 15 Oct 2023 22:37:16 +0000",
+         "title" : "FIDE World Junior Blitz Championship: Muradli and Balabayeva clinch titles"
+      },
+      {
+         "description" : "The first sole leader of the Qatar Masters emerged after round 5, as Narayanan S.L., the thirteenth seed in Doha, obtained an upset win over Gukesh D. to become the only participant with 4&frac12; points. Going into the one rest day of the event, twelve players stand a half point behind the leader, including Hikaru Nakamura, Nodirbek Abdusattorov and Arjun Erigaisi. Magnus Carlsen and Anish Giri stand on 3&frac12;/5 scores - the latter lost to 19-year-old IM Rudik Makarian in round 5. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r5",
+         "pubDate" : "Sun, 15 Oct 2023 22:30:00",
+         "title" : "Qatar Masters: Narayanan beats Gukesh to grab the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In Round 9 of the 2023 U.S. Chess Championships, Alex Kerford shares insights into his chess initiatives in St. Louis and his predictions for the championship winners. A key figure in the local chess community, Alex discusses the impact and growth of corporate chess leagues and more. 2023.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-kerford-driving-chess-initiatives-and-championship-predictions-r9-uschesschamps\"><img src=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-kerford-driving-chess-initiatives-and-championship-predictions-r9-uschesschamps",
+         "pubDate" : "Sun, 15 Oct 2023 22:11:44",
+         "title" : "Alex Kerford: Driving Chess Initiatives and Championship Predictions | R9 #USChessChamps"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-2",
          "pubDate" : "Sun, 15 Oct 2023 15:00:00",
          "title" : "Understanding before Moving 147: Chess history in a nutshell (29)"
-      },
-      {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Sun, 15 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : " The 2023 Asian Seniors has just started in Tagatay, The Philippines. I played in last years event (50+) in Auckland, but did not make the trip this year. One player who did back up from last year was Miles Patterson, who finished 2nd in the 65+ section. His result earned him an FM title (conditional upon rating), and an IM norm. This years 65+ section looks to be about th same strength as last years tournament so he may have chances to earn a 2nd IM norm. On the other hand the 50+ tournament looks to be a bit strong than last year, although a bit small. GM Rogelio Antonio is the top seed and there are 4 other IM's in the field. <br /> <b>Ramos,Ernesto - Patterson,Miles (1879) [C01]</b><br /",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/yip%E2%80%99s-explosive-defeat-thalia-r7-uschesschamps",
          "pubDate" : "Fri, 13 Oct 2023 19:09:11",
          "title" : "Yip's Explosive Defeat of Thalia | R7 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-6-spirit-lev-polugaevsky-alive-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rTjd-mZPRf4.jpg?itok=Ef9KTDm1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-6-spirit-lev-polugaevsky-alive-shorts",
-         "pubDate" : "Fri, 13 Oct 2023 19:09:11",
-         "title" : "2023 US Chess Championships Round 6 | \"The Spirit of Lev Polugaevsky is alive!\" | #shorts"
       },
       {
          "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
@@ -1224,14 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2652",
          "pubDate" : "Mon, 25 Sep 2023 10:14:53 +0000",
          "title" : "Chess for Protection: Two years and counting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2651",
-         "pubDate" : "Sun, 24 Sep 2023 21:51:03 +0000",
-         "title" : "FIDE World Senior Team Championship: Day 6 recap"
       }
    ]
 }
