@@ -1240,22 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2650",
          "pubDate" : "Sun, 24 Sep 2023 19:17:19 +0000",
          "title" : "World Junior Championship U20: Maurizzi and Mkrtchyan, first sole leaders after four rounds"
-      },
-      {
-         "description" : "In this long series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), I was sure I had done a post on cheating. I looked two years back into the series and found nothing. So here we are. <P> Six months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A> (March 2023), I put together a summary of previous blog posts about cheating. As happens with many summaries, it soon needed to be updated, but that will have to wait for another time. The most recent post on the subject was <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/how-not-to-impress-opposite-sex.html",
-         "pubDate" : "Sun, 24 Sep 2023 15:17:00",
-         "title" : "How (Not?) To Impress the Opposite Sex"
-      },
-      {
-         "description" : " Chess is once again featuring at the Asian Games. And looking at the team lists, a lot of countries are taking it very seriously. In both the Men's and Women's events, at last half the fields are GM/WGM, with the Men's tournament having the bottom half starting at 2383 (GM Raymond Song). I'm not sure if there is any live coverage of the games, as a quick check of the official games website did not having links to it. But you can at least see the results at <a href=\"https://info.hangzhou2022.cn/en/results/chess/daily-schedule.htm\">https://info.hangzhou2022.cn/en/results/chess/daily-schedule.htm</a> It is a 9 round event (over 4 days) and will be followed by a team event (Men's and Women's) ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/almost-olympics-asian-games.html",
-         "pubDate" : "Sun, 24 Sep 2023 13:22:00",
-         "title" : "Almost the Olympics (Asian games)"
       }
    ]
 }
