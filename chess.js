@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Sun, 15 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King features an extraordinary game played by Fabiano Caruana in the U.S. Championship. Andrew Tang, with White, plays a kind of Jobava London System, and Caruana makes an unusual sidestep that results in a highly unorthodox position. Yes, there are ways to upset your opponent if they play the London! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-caruana-rocks-the-boat",
+         "pubDate" : "Sun, 15 Oct 2023 19:30:00",
+         "title" : "Daniel King's Power Play Show: Caruana rocks the boat"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 147th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "U.S. Championships: Caruana wins two in a row, grabs the lead"
       },
       {
-         "description" : "The Asian Games, held from 23 September to 8 October in Hangzhou, China, included individual and team chess tournaments for men and women. The winners of the team events were Iran (men) and China (women).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-games-iran-and-china-win-team-competitions",
-         "pubDate" : "Mon, 09 Oct 2023 17:00:00",
-         "title" : "Asian Games: Iran and China win team competitions"
-      },
-      {
          "description" : "With profound grief and sorrow, we regret to inform that the Vice President of All India Chess Federation Shri Ajay Ajmera left for his heavenly",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2675",
          "pubDate" : "Mon, 09 Oct 2023 15:21:28 +0000",
          "title" : "FIDE Statement regarding the World Cadet U8, U10, U12 Championships 2023"
-      },
-      {
-         "description" : "The renowned New York University has taken a scientific approach to the omnipresent question marks around the effects of gender bias in chess. It concludes: \"This study provides the first large-scale investigation of bias against young female players and holds implications for the role of parents and mentors.\" | Logo: Courtesy of the New York University",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gender-bias-in-chess-study-finds-parents-and-mentors-shortchange-girls-potential",
-         "pubDate" : "Mon, 09 Oct 2023 14:00:00",
-         "title" : "Gender Bias in Chess: Study finds Parents and Mentors shortchange Girls' Potential"
       },
       {
          "description" : "",
@@ -1232,14 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2651",
          "pubDate" : "Sun, 24 Sep 2023 21:51:03 +0000",
          "title" : "FIDE World Senior Team Championship: Day 6 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2650",
-         "pubDate" : "Sun, 24 Sep 2023 19:17:19 +0000",
-         "title" : "World Junior Championship U20: Maurizzi and Mkrtchyan, first sole leaders after four rounds"
       }
    ]
 }
