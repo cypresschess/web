@@ -1,4 +1,8 @@
 jtable([
+"SPRING","2023-10-14","222","<a href=http://www.uschess.org/msa/XtblMain.php?202310149262 target='_blank'>St Edward National Chess Day Scholastic</a>",
+"HOUSTON","2023-10-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202310148732 target='_blank'>PISD OCTOBER 2023- OCT 2023 HS</a>",
+"HOUSTON","2023-10-14","52","<a href=http://www.uschess.org/msa/XtblMain.php?202310148722 target='_blank'>PISD OCTOBER 2023- OCT 2023 INTERME</a>",
+"HOUSTON","2023-10-14","9","<a href=http://www.uschess.org/msa/XtblMain.php?202310148712 target='_blank'>CHESSPANDA10142023SATURDAY</a>",
 "HOUSTON","2023-10-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310138312 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 13, 2023</a>",
 "CYPRESS","2023-10-13","29","<a href=http://www.uschess.org/msa/XtblMain.php?202310138272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-10-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310087352 target='_blank'>GAME GUYS 10.8.23</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2023-03-25","30","<a href=http://www.uschess.org/msa/XtblMain.php?202303255512 target='_blank'>MARCH 25 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-03-25","144","<a href=http://www.uschess.org/msa/XtblMain.php?202303254362 target='_blank'>CLEAR HORIZONS HIGH SCHOOL TOURNAME</a>",
 "SPRING","2023-03-24","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303243382 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303243362 target='_blank'>FBCC 2023 INTERNATIONAL DAY FOR ACH</a>",
-"HOUSTON","2023-03-24","19","<a href=http://www.uschess.org/msa/XtblMain.php?202303243332 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 24, 2023</a>",
-"CYPRESS","2023-03-24","38","<a href=http://www.uschess.org/msa/XtblMain.php?202303243232 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-03-17  - 03-19","307","<a href=http://www.uschess.org/msa/XtblMain.php?202303191532 target='_blank'>2023 LONE STAR OPEN CHESS CHAMPIONS</a>",
 ]);
