@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana continues to have a full-point lead over his closest chasers with two rounds to go at the U.S. Championship. Caruana beat Hans Niemann, one of the players sharing second place before round 9, but the remaining three chasers all won to remain one point behind the leader. Meanwhile, in the women's event, Gulrukhbegim Tokhirjonova grabbed her fifth consecutive win to become the sole leader - now only she and Carissa Yip, who stands a half point behind, are in the race for first place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r9",
+         "pubDate" : "Mon, 16 Oct 2023 15:30:00",
+         "title" : "U.S. Championships: Caruana beats Niemann, Tokhirjonova wins again"
+      },
+      {
+         "description" : "One of the strongest national chess tournaments is still running, and it looks as if Fabiano Caruana can win the US Championship trophy in 2023. Svitlana found some exciting tactics and invites everybody to guess the correct, or best move. Especially the women's section was not shying back!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-cute-us-championship-tactics",
+         "pubDate" : "Mon, 16 Oct 2023 14:42:36",
+         "title" : "Svitlana's Smart Moves - Cute US Championship Tactics"
+      },
+      {
          "description" : "The Caro-Kann Defence is very popular and as a 1.e4 player you definitely need a strong weapon against this solid and yet dangerous opening. Apart from todays hackneyed main lines (1.e4 c6 2.d4 d5 3.Nc3 and 3.e5), there are some other very interesting choices for White that each have their specific advantages and disadvantages.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +96,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-meeting-in-tirana-albania/",
          "pubDate" : "Mon, 16 Oct 2023 07:06:59",
          "title" : "ECU Board Meeting in Tirana, Albania"
+      },
+      {
+         "description" : "Chess.com&#38;rsquo;s top event for women, the $70,000 Julius Baer Women&#38;rsquo;s Speed Chess Championship, is back next month and this time with a big-name sponsor and six of the strongest players on the planet. Defending champion GM Kateryna Lagno ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hou-yifan-lagno-in-2023-julius-baer-womens-speed-chess-championship",
+         "pubDate" : "Mon, 16 Oct 2023 05:45:14",
+         "title" : "Hou Yifan out for revenge against Lagno in 2023 Julius Baer Women's Speed Chess Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Irina Krush talks to the team after drawing Alice Lee in the ninth round of the 2023 U.S. Women&#039;s Championship. Game Link: <a href=\"https://lichess.org/broadcast/us-womens-chess-championship/round-9/qiajgugU\">https://lichess.org/broadcast/us-womens-chess-championship/round-9/qiajgugU</a> 2023.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-remember-who-you-are-%E2%80%93-story-chess-struggle-friendship-r9-uschesschamps-0\"><im",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utrgv-slu",
          "pubDate" : "Sun, 15 Oct 2023 20:50:00",
          "title" : "Faultless Theodorou Cements Top Spot For SLU, UTRGV Conquers Yale"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Sun, 15 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King features an extraordinary game played by Fabiano Caruana in the U.S. Championship. Andrew Tang, with White, plays a kind of Jobava London System, and Caruana makes an unusual sidestep that results in a highly unorthodox position. Yes, there are ways to upset your opponent if they play the London! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "2023 IBCA World Chess Championship starts in Rhodes, Greece"
       },
       {
-         "description" : "In the Endgame Magic Show #252 Karsten M&uuml;ller continues to analyse endgame highlights from the FIDE World Cup, which was won by Magnus Carlsen. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-3",
-         "pubDate" : "Mon, 09 Oct 2023 18:00:00",
-         "title" : "Endgame Magic #252: Highlights from the FIDE World Cup Part 2"
-      },
-      {
          "description" : "With profound grief and sorrow, we regret to inform that the Vice President of All India Chess Federation Shri Ajay Ajmera left for his heavenly",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-4",
          "pubDate" : "Mon, 09 Oct 2023 01:37:00",
          "title" : "Caruana Sole Leader After Long Grinding Win"
-      },
-      {
-         "description" : "The University of Texas at Dallas (UTD) became the first team to topple the University of Missouri (Mizzou) in the SIG-sponsored 2023 Collegiate Chess League (CCL) fall season on Saturday after a tight tussle that ended 9-7 in favor of the Texan t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utd-uchicago",
-         "pubDate" : "Sun, 08 Oct 2023 21:12:00",
-         "title" : "UTD Defeats Mizzou In Top-Of-Table Clash, Liang Thrills For UChicago"
       },
       {
          "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
@@ -1240,14 +1240,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2023-starts-in-slovenia/",
          "pubDate" : "Tue, 26 Sep 2023 11:52:15",
          "title" : "European Youth Rapid&Blitz Chess Championship 2023 starts in Slovenia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2653",
-         "pubDate" : "Mon, 25 Sep 2023 11:52:09 +0000",
-         "title" : "Maurizzi, Rakshitta and Yip lead FIDE World Junior Championship 2023"
       }
    ]
 }
