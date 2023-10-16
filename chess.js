@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Caro-Kann Defence is very popular and as a 1.e4 player you definitely need a strong weapon against this solid and yet dangerous opening. Apart from todays hackneyed main lines (1.e4 c6 2.d4 d5 3.Nc3 and 3.e5), there are some other very interesting choices for White that each have their specific advantages and disadvantages.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-fernandez-weapons-against-the-caro-kann-vol-1-vol-2",
+         "pubDate" : "Mon, 16 Oct 2023 11:40:33",
+         "title" : "Daniel Fernandez: Weapons against the Caro Kann - Vol. 1 & Vol. 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2686",
+         "pubDate" : "Mon, 16 Oct 2023 10:20:50 +0000",
+         "title" : "2023 IBCA World Championship: Tazbir leads, Magnusson elected as new President"
+      },
+      {
+         "description" : "Notice This is to inform you all that due to occasion of Dusshera ,we have extend Tenders date to 28th October 2023 , Other terms",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice/",
+         "pubDate" : "Mon, 16 Oct 2023 09:48:02",
+         "title" : "Notice"
+      },
+      {
+         "description" : "Leaders after round seven &#8212; GM Marcin Tazbir 6.5; IM Predrag Nikac 6; FM Alexey Streltsov 5.5; Yuri Bibikov 5.5; then ten players on 5....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rhodes-rounds-seven-and-eight-from-owen-phillips/",
+         "pubDate" : "Mon, 16 Oct 2023 08:40:55",
+         "title" : "Rhodes - rounds seven and eight from Owen Phillips"
+      },
+      {
+         "description" : "Briefly, as we have the IBCA Congress to attend and vote in as well as prep for round seven &#8212; GM Marcin Tazbir (Poland) 5.5/6...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rhodes-rounds-six-and-seven-from-owen-phillips/",
+         "pubDate" : "Mon, 16 Oct 2023 08:21:43",
+         "title" : "Rhodes - rounds six and seven from Owen Phillips"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women&#039;s Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.16<br /> USChessChamps.com ROUND 10 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> PAIRINGS SOON! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-10\"><img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-10",
+         "pubDate" : "Mon, 16 Oct 2023 07:11:59",
+         "title" : "2023 U.S. Chess Championships: Round 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. (overall) &amp; U.S. Women&#039;s Championships are two round robin tournaments (pairings below). Join GMs Yasser Seirawan, Cristian Chirila, and WGM Katerina Nemcova for the move-by-move. 2023.10.17<br /> USChessChamps.com ROUND 11 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> PAIRINGS SOON! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-11\"><img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-11",
+         "pubDate" : "Mon, 16 Oct 2023 07:11:59",
+         "title" : "2023 U.S. Chess Championships: Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Experience an unexpected twist at the 2023 U.S. Chess Championship: Speed chess expert GM Andrew Tang faces time control hurdles against GM Leinier Dominguez in a captivating Round 9 showdown. Delve into the key moments that defined this intense duel. #2023USChessChampionship #SpeedChess #TimeControl </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/speedster-tang-flagged-dominguez-r9-2023-us-chess-champs\"><img src=\"https://saintlouischessclub.org/sites/default/files",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/speedster-tang-flagged-dominguez-r9-2023-us-chess-champs",
+         "pubDate" : "Mon, 16 Oct 2023 07:11:59",
+         "title" : "Speedster Tang Flagged by Dominguez | R9 | 2023 U.S. Chess Champs"
+      },
+      {
          "description" : "Kindly find the link for the live games link for the tournament. Link : https://live.tamilchess.com/im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -74,30 +138,6 @@ news_feed (
          "title" : "2023 US Chess Championships Round 8 | Fabi misses a big opportunity | #shorts"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to the team after defeating Hans Niemann in the ninth round of the 2023 U.S. Championship. Game Link: <a href=\"https://lichess.org/broadcast/us-chess-championship-2023/round-9/irIE9iJt\">https://lichess.org/broadcast/us-chess-championship-2023/round-9/irIE9iJt</a> 2023.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/defensive-decisive-caruanas-stunning-counter-attack-vs-niemann-r9-uschesschamps\"><img src=\"https://s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/defensive-decisive-caruanas-stunning-counter-attack-vs-niemann-r9-uschesschamps",
-         "pubDate" : "Mon, 16 Oct 2023 01:11:52",
-         "title" : "Defensive to Decisive: Caruana's Stunning Counter-Attack vs. Niemann! | R9 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to the team after defeating Ray Robson in the ninth round of the 2023 U.S. Championship. Game Link: <a href=\"https://lichess.org/broadcast/us-chess-championship-2023/round-9/irIE9iJt\">https://lichess.org/broadcast/us-chess-championship-2023/round-9/irIE9iJt</a> 2023.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-youve-got-take-risks-win-r9-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-youve-got-take-risks-win-r9-uschesschamps",
-         "pubDate" : "Mon, 16 Oct 2023 01:11:52",
-         "title" : "So: You've Got to Take Risks to Win | R9 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-9-gm-tatev-abrahamyan-takes-winning-position-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RMm5uii66D4.jpg?itok=gYRHh0ne\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-9-gm-tatev-abrahamyan-takes-winning-position-shorts",
-         "pubDate" : "Mon, 16 Oct 2023 01:11:52",
-         "title" : "2023 US Chess Championships Round 9 | GM Tatev Abrahamyan takes the winning position | #shorts"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,6 +192,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-5",
          "pubDate" : "Sun, 15 Oct 2023 17:42:00",
          "title" : "Gukesh, Giri Beaten; Narayanan In Sole Lead"
+      },
+      {
+         "description" : "The yellow plaque near the bottom of this month's Flickr photo says, 'The White Rhino Was Thinking Ahead With Dogman's Encouragement'. The rest is unreadable even in the largest Flickr version of the photo. What more can we learn about it? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj15.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/londonmatt/53198904518/\">Rhino playing chess</A> &#169; Flickr user <I>Matt Brown</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>.<BR> <P> The photo had no description, but the tags were helpful:- <UL> <LI>london bridge city <LI>gillie and marc </UL> <P> From this we can locate a few",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/white-rhino-vs-dogman.html",
+         "pubDate" : "Sun, 15 Oct 2023 15:26:00",
+         "title" : "White Rhino vs. Dogman"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 147th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
@@ -722,14 +770,6 @@ news_feed (
          "title" : "Endgame Magic #252: Highlights from the FIDE World Cup Part 2"
       },
       {
-         "description" : "Wins in rounds 3 and 4 allowed Fabiano Caruana to go into the first rest day as the sole leader at the U.S. Championship in Saint Louis. Three players are sharing second place with 2&frac12;/4 points: Sam Shankland, Hans Niemann and Abhimnayu Mishra. In the women's championship, Carissa Yip and Gulrukhbegim Tokhirjonova are sharing the lead with 3/4 points each. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r4",
-         "pubDate" : "Mon, 09 Oct 2023 17:10:00",
-         "title" : "U.S. Championships: Caruana wins two in a row, grabs the lead"
-      },
-      {
          "description" : "With profound grief and sorrow, we regret to inform that the Vice President of All India Chess Federation Shri Ajay Ajmera left for his heavenly",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -776,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/membership-options-summary-of-findings/",
          "pubDate" : "Mon, 09 Oct 2023 09:36:34",
          "title" : "Membership Options - summary of findings"
-      },
-      {
-         "description" : "It is with great sadness that I need to let you know of the death of FIDE Arbiter Geoff Gammon. Geoff was a great arbiter...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-geoff-gammon/",
-         "pubDate" : "Mon, 09 Oct 2023 08:25:56",
-         "title" : "RIP Geoff Gammon"
       },
       {
          "description" : "Defending champion GM Fabiano Caruana captured the sole lead with three points from four games after an 80-move grinding endgame win over GM Dariusz Swiercz&#38;nbsp;in the 2023 U.S. Championship. Overnight leader GM Abhimanyu Mishra was defeated by G...",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "Chess: World Juniors lacks big names but Maurizzi has potential to be a star"
       },
       {
-         "description" : "The 10th round of the World Junior Chess Championship did not turn out to be a good one for medal-seeking Indian players. GM Pranav Anand",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2023-round-10-and-11-final-report/",
-         "pubDate" : "Fri, 06 Oct 2023 06:32:18",
-         "title" : "WORLD JUNIOR CHESS CHAMPIONSHIP 2023: ROUND 10 and 11 (Final Report)"
-      },
-      {
          "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Council&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -992,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2665",
          "pubDate" : "Mon, 02 Oct 2023 18:52:22 +0000",
          "title" : "FIDE October 2023 rating list published"
-      },
-      {
-         "description" : "The four books on this year's short list illustrated the wide range of current chess publishing which made the final choice difficult. The book chosen...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2023/",
-         "pubDate" : "Mon, 02 Oct 2023 14:43:22",
-         "title" : "ECF Book of the Year 2023"
       },
       {
          "description" : "",
@@ -1232,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2653",
          "pubDate" : "Mon, 25 Sep 2023 11:52:09 +0000",
          "title" : "Maurizzi, Rakshitta and Yip lead FIDE World Junior Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2652",
-         "pubDate" : "Mon, 25 Sep 2023 10:14:53 +0000",
-         "title" : "Chess for Protection: Two years and counting"
       }
    ]
 }
