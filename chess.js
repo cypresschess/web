@@ -66,20 +66,28 @@ news_feed (
          "title" : "Piers Morgan interviews Hans Niemann"
       },
       {
+         "description" : "Chess.com is excited to announce that we will be hosting the 2023 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on October 29&#38;nbsp;and the blitz championship on November 5. Registration is underway and contin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-collegiate-rapid-and-blitz-championships",
+         "pubDate" : "Mon, 16 Oct 2023 16:34:35",
+         "title" : "Announcing The 2023 US Collegiate Rapid & Blitz Championships"
+      },
+      {
+         "description" : "IM Levy Rozman (aka GothamChess) traveled to the underworld and back in the&#38;nbsp;2023 I&#39;M Not A GM Speed Chess Championship Semifinals on Monday. He ultimately won his tumultuous match vs. IM Greg Shahade 13-11.&#38;nbsp; After incurring a three-poi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-semifinals-rozman-wins",
+         "pubDate" : "Mon, 16 Oct 2023 16:32:10",
+         "title" : "GothamChess Bites Back In Bullet, Makes It To IMSCC Final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2687",
          "pubDate" : "Mon, 16 Oct 2023 16:05:03 +0000",
          "title" : "FIDE WCCC 2023 kicks off in Sharm El Sheikh, Egypt"
-      },
-      {
-         "description" : "Chess.com is excited to announce that we will be hosting the 2023 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on October 29&#38;nbsp;and the blitz championship on November 5. Registration is underway and contin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-collegiate-rapid-and-blitz-championships",
-         "pubDate" : "Mon, 16 Oct 2023 16:00:02",
-         "title" : "Announcing The 2023 US Collegiate Rapid & Blitz Championships"
       },
       {
          "description" : "Fabiano Caruana continues to have a full-point lead over his closest chasers with two rounds to go at the U.S. Championship. Caruana beat Hans Niemann, one of the players sharing second place before round 9, but the remaining three chasers all won to remain one point behind the leader. Meanwhile, in the women's event, Gulrukhbegim Tokhirjonova grabbed her fifth consecutive win to become the sole leader - now only she and Carissa Yip, who stands a half point behind, are in the race for first place. | Photo: Lennart Ootes",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/im-not-a-gm-speed-chess-championship-2023",
          "pubDate" : "Tue, 10 Oct 2023 14:47:00",
          "title" : "Back For More Brilliancies: The I'M Not A GM Speed Chess Championship 2023"
-      },
-      {
-         "description" : "Freedom Holding, the Kazakh financial firm that has sponsored some of FIDE&#39;s major events in the last year and is run by billionaire Timur Turlov, is now under investigation by the U.S. Department of Justice, according to CNBC. The American busi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cnbc-main-fide-sponsor-under-doj-investigation",
-         "pubDate" : "Tue, 10 Oct 2023 13:59:00",
-         "title" : "FIDE's Main Sponsor Freedom Holding Under DOJ Investigation"
       },
       {
          "description" : "This is a reminder that entries for the 2023 National Club Championships, being held at the University of Hull from 20th-22nd October, close next Monday...",
