@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Mon, 16 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
+         "description" : "Piers Morgan is one of the best known interviewers of our day, having had one-on-ones with people of all walks of life and interests. Among the more unexpected guests on his program which is now streamed on YouTube was none other than Hans Niemann, who needs no introduction. Piers Morgan was exceptionally direct, and the interview speaks for itself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/piers-morgan-interviews-hans-niemann",
+         "pubDate" : "Mon, 16 Oct 2023 18:00:00",
+         "title" : "Piers Morgan interviews Hans Niemann"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2687",
+         "pubDate" : "Mon, 16 Oct 2023 16:05:03 +0000",
+         "title" : "FIDE WCCC 2023 kicks off in Sharm El Sheikh, Egypt"
+      },
+      {
          "description" : "Fabiano Caruana continues to have a full-point lead over his closest chasers with two rounds to go at the U.S. Championship. Caruana beat Hans Niemann, one of the players sharing second place before round 9, but the remaining three chasers all won to remain one point behind the leader. Meanwhile, in the women's event, Gulrukhbegim Tokhirjonova grabbed her fifth consecutive win to become the sole leader - now only she and Carissa Yip, who stands a half point behind, are in the race for first place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-fernandez-weapons-against-the-caro-kann-vol-1-vol-2",
          "pubDate" : "Mon, 16 Oct 2023 11:40:33",
          "title" : "Daniel Fernandez: Weapons against the Caro Kann - Vol. 1 & Vol. 2"
+      },
+      {
+         "description" : "GM Simon Williams has been found liable by the Deputy Pensions Ombudsman in the U.K. and ordered to repay over &#38;pound;730,000 (currently roughly $890k) to a pension scheme of which he was the sole trustee.&#38;nbsp; The popular 43-year-old British g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/simon-williams-ordered-to-pay-back-900-000-to-pension-scheme",
+         "pubDate" : "Mon, 16 Oct 2023 10:39:00",
+         "title" : "Simon Williams Ordered To Pay Back Nearly $900,000 To Pension Scheme"
       },
       {
          "description" : "",
@@ -103,7 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hou-yifan-lagno-in-2023-julius-baer-womens-speed-chess-championship",
          "pubDate" : "Mon, 16 Oct 2023 05:45:14",
-         "title" : "Hou Yifan out for revenge against Lagno in 2023 Julius Baer Women's Speed Chess Championship"
+         "title" : "Hou Yifan Out For Revenge Against Lagno In 2023 Julius Baer Women's Speed Chess Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Irina Krush talks to the team after drawing Alice Lee in the ninth round of the 2023 U.S. Women&#039;s Championship. Game Link: <a href=\"https://lichess.org/broadcast/us-womens-chess-championship/round-9/qiajgugU\">https://lichess.org/broadcast/us-womens-chess-championship/round-9/qiajgugU</a> 2023.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-remember-who-you-are-%E2%80%93-story-chess-struggle-friendship-r9-uschesschamps-0\"><im",
@@ -738,28 +770,12 @@ news_feed (
          "title" : "Starting Wednesday: Qatar Masters with Carlsen, Naka and Giri!"
       },
       {
-         "description" : "Endings with opposite coloured bishops have large drawish tendencies and often being one or two pawns up is not enough to win. Material is often less important than positional considerations. In the diagram position White is two pawns down, but with best play he is able to hold the draw. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/building-a-fortress",
-         "pubDate" : "Tue, 10 Oct 2023 09:00:00",
-         "title" : "Building a fortress"
-      },
-      {
          "description" : "It started with a Chess.com account during the pandemic. Now 9-year-old FM Faustino Oro from Argentina has made history as the youngest player ever to score an IM norm. The prodigy dubbed the &#34;Messi of Chess&#34; by Argentinian media made headlines ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/9-year-old-dubbed-messi-of-chess-scores-first-im-norm",
          "pubDate" : "Tue, 10 Oct 2023 08:18:00",
          "title" : "9-Year-Old Dubbed 'Messi Of Chess' Youngest Ever To Score IM Norm"
-      },
-      {
-         "description" : "As we just reported, the women's section of the 2023 Asian Games in Hangzhou, China, was won by the Chinese team - followed of course by the Indian women. But third place was unexpectedly taken by the Kazakhstani women, who beat the Uzbekistan team and secured bronze. It was an achievement that brought pride on the Kazakhstan's women's chess, and for the federation, that sent us the following proud announcement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/we-won-bronze",
-         "pubDate" : "Tue, 10 Oct 2023 08:00:00",
-         "title" : "We won Bronze!"
       },
       {
          "description" : "As the Election Commission of India announced Assembly Election of Telangana State, the National Under-13 &#38; National Under-13 Girls Chess Championship-2023 has been rescheduled and",
@@ -802,14 +818,6 @@ news_feed (
          "title" : "Ghana's inmates get ready for International Chess Championship"
       },
       {
-         "description" : "Offerspill Chess Club was crowned as the champions in the open division of the recently concluded 2023 European Chess Club Cup (ECCC) after scoring six match wins and a draw against some of the world&#39;s top club teams in Durres, Albania. Led by G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-european-chess-club-cup-offerspill-chess-club-wins",
-         "pubDate" : "Mon, 09 Oct 2023 11:56:00",
-         "title" : "Carlsen Guides Offerspill To European Chess Club Cup Glory"
-      },
-      {
          "description" : "Congratulations to Jovanka Houska (second from the right) &#38; Lan Yao (centre)&#160; on winning board medals at the 2023 European Club Cup for Women in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/membership-options-summary-of-findings/",
          "pubDate" : "Mon, 09 Oct 2023 09:36:34",
          "title" : "Membership Options - summary of findings"
-      },
-      {
-         "description" : "Defending champion GM Fabiano Caruana captured the sole lead with three points from four games after an 80-move grinding endgame win over GM Dariusz Swiercz&#38;nbsp;in the 2023 U.S. Championship. Overnight leader GM Abhimanyu Mishra was defeated by G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-4",
-         "pubDate" : "Mon, 09 Oct 2023 01:37:00",
-         "title" : "Caruana Sole Leader After Long Grinding Win"
       },
       {
          "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
