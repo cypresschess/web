@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
+         "pubDate" : "Tue, 17 Oct 2023 19:55:00",
+         "title" : "U.S. Championships - Live!"
+      },
+      {
          "description" : "Fabiano Caruana successfully defended his title at the 2023 U.S. Championship in Saint Louis. The 31-year-old beat Abhimanyu Mishra to secure tournament victory with a round to spare, and thus claimed his third U.S. title - Caruana won the championship in 2016, 2022 and 2023. Meanwhile, in the women's event, Carissa Yip beat Anna Zatonskih to leapfrog Gulrukhbegim Tokhirjonova atop the standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2023-r10",
-         "pubDate" : "Tue, 17 Oct 2023 14:00:00",
+         "pubDate" : "Tue, 17 Oct 2023 14:05:00",
          "title" : "Fabiano Caruana claims third U.S. title with a round to spare"
       },
       {
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-story-of-a-picture-2",
          "pubDate" : "Thu, 12 Oct 2023 10:00:00",
          "title" : "The story of a picture"
-      },
-      {
-         "description" : "After a thrilling fifth round on Tuesday, the sixth round on Wednesday saw just six draws. Leinier Dominguez had good chances to win, but spoiled a better position in time trouble. In the Women's Championship, things were more exciting. Carissa Yip and Begim Tokhirjonova are battling it out for the title and are winning their games in step. | Photos: Crystal Fuller, Lennart Ootes (Saint Louis Chess Center)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-championship-six-draws-in-round-6-duel-in-the-women-s-tournament",
-         "pubDate" : "Thu, 12 Oct 2023 09:55:00",
-         "title" : "U.S. Championship: Six draws in round 6, duel in the women's tournament"
       },
       {
          "description" : "",
