@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana successfully defended his title at the 2023 U.S. Championship in Saint Louis. The 31-year-old beat Abhimanyu Mishra to secure tournament victory with a round to spare, and thus claimed his third U.S. title - Caruana won the championship in 2016, 2022 and 2023. Meanwhile, in the women's event, Carissa Yip beat Anna Zatonskih to leapfrog Gulrukhbegim Tokhirjonova atop the standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r10",
+         "pubDate" : "Tue, 17 Oct 2023 14:00:00",
+         "title" : "Fabiano Caruana claims third U.S. title with a round to spare"
+      },
+      {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Tue, 17 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/lfg-round-robin.html",
+         "pubDate" : "Tue, 17 Oct 2023 12:49:00",
+         "title" : "LFG Round Robin"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Watch as Fabiano &#039;Fabi&#039; Caruana delivers the decisive move against Abhimanyu Mishra in the U.S. Chess Championship 2023. This thrilling moment sealed his victory, making him the champion with a round to spare. Featuring insightful commentary from GMs Yasser Seirawan, Cristian Chirila, and Katerina Nemcova. Experience the tension, strategy, and sheer brilliance of one of chess&#039;s finest moments! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-win",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-10",
          "pubDate" : "Mon, 16 Oct 2023 21:16:00",
          "title" : "Caruana Becomes 3-Time U.S. Champion, Yip Surpasses Tokhirjonova"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Mon, 16 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
       },
       {
          "description" : "Piers Morgan is one of the best known interviewers of our day, having had one-on-ones with people of all walks of life and interests. Among the more unexpected guests on his program which is now streamed on YouTube was none other than Hans Niemann, who needs no introduction. Piers Morgan was exceptionally direct, and the interview speaks for itself.",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-under11-chess-championship-2023/",
          "pubDate" : "Thu, 12 Oct 2023 06:53:17",
          "title" : "36th National Under11 Chess Championship 2023"
-      },
-      {
-         "description" : "Super-GMs Magnus Carlsen, Hikaru Nakamura and Anish Giri kicked off with wins at the Qatar Masters in Doha. Round 1 saw a few upsets though, with fourth seed Dommaraju Gukesh only managing a draw against IM Mohammad Nubairshah Shaikh, and tenth seed Vladimir Fedoseev even losing to 19-year-old Indian IM Kushagra Mohan. The highest-rated woman player in the field, Bibisara Assaubayeva, also suffered a loss in the first round, against IM Rakesh Kumar Jena. | Photos: Qatar Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r1",
-         "pubDate" : "Thu, 12 Oct 2023 02:00:00",
-         "title" : "Qatar Masters: Carlsen on the attack, Kushagra upsets Fedoseev"
       },
       {
          "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
@@ -1216,22 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2654",
          "pubDate" : "Tue, 26 Sep 2023 21:32:28 +0000",
          "title" : "FIDE World Senior Team Championship: Day 7 recap"
-      },
-      {
-         "description" : " The first event in the 2023 ACT Junior Championship was completed today, with Owen MacMullin winning the Under 14 title. He did so after defeating Masaki Horikawa in a playoff game, after they had tied for 1st on 5/6. Having drawn there tournament game, they played each other in a single rapidplay game (G/15m), with MacMullin taking advantage of an opening mistake by Horikawa to win quite quickly. The winner of the Under 12 titles was Sanat Hegde, who was the youngest player in the 29 player field. He scored 4.5/6 to finish ahead of Rohan Jain and Ethan Li, who both scored 4. The main event, the ACT Junior Championship starts tomorrow and will be played over 3 days. Alongside this event wil",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/2023-act-junior-championships-under1412.html",
-         "pubDate" : "Tue, 26 Sep 2023 12:53:00",
-         "title" : "2023 ACT Junior Championships Under14/12"
-      },
-      {
-         "description" : "The 2023 European Youth Rapid&#38;Blitz Chess Championship kicks off on Thursday, 28th of September in Terme Catez, Slovenia. The event will gather nearly 500 players from 27 European federations who will fight for the European champion title. The European Youth Rapid Chess Championship will be played on 28th and 29th of September, in 6 age categories: U8, U10, U12, U14, U16 and U18 (open and girls sections separately). The tournament will be played in 9 rounds, swiss system, with time []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2023-starts-in-slovenia/",
-         "pubDate" : "Tue, 26 Sep 2023 11:52:15",
-         "title" : "European Youth Rapid&Blitz Chess Championship 2023 starts in Slovenia"
       }
    ]
 }
