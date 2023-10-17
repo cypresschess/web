@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knights can be powerful and quick, but sometimes they are also surprisingly helpless. Black's knight in the diagram position turned out to be powerful and quite tricky. What did Black do to let the knight shine?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-tricky-knight",
+         "pubDate" : "Tue, 17 Oct 2023 09:00:00",
+         "title" : "A tricky knight"
+      },
+      {
+         "description" : "A complaint was raised by Chris Fegan in relation to matters arising while he was Director of Women's Chess which was rejected. CF appealed against...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/complaint-resolution/",
+         "pubDate" : "Tue, 17 Oct 2023 07:23:48",
+         "title" : "Complaint Resolution"
+      },
+      {
+         "description" : "The English town of Colchester has opened its first chess park in memory of Dr Jonathan Penrose OBE, a Colchester-born double grandmaster who dominated British chess in the 1950s and 60s and went on to become the highest rated correspondence chess player in the world. Michael Adams joined the celebrations by playing a simul against surprisingly Colchester junior players. | Photo: Jonathan Penrose (Source: British Chess News)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/colchester-celebrates-chess-hero-jonathan-penrose",
+         "pubDate" : "Tue, 17 Oct 2023 06:59:06",
+         "title" : "Colchester celebrates chess hero Jonathan Penrose"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after defeating Zatonskih in the tenth round of the 2023 U.S. Women's Championship. 2023.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yip-not-focused-begim%E2%80%99s-game-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RIl_OcywHF4.jpg?itok=Sefdn79-\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-hans-niemann-has-been-unfairly-criticized-r10-uschesschamps",
          "pubDate" : "Mon, 16 Oct 2023 22:12:33",
          "title" : "Rex Sinquefield: Hans Niemann Has Been Unfairly Criticized | R10 #USChessChamps"
+      },
+      {
+         "description" : "Reigning champion GM Fabiano Caruana&#38;nbsp;has successfully defended his title at the 2023 U.S. Championship, clinching the tournament with a round to spare and a 1.5 lead over the field. The now three-time U.S. Champion took a fitting path to firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-10",
+         "pubDate" : "Mon, 16 Oct 2023 21:16:09",
+         "title" : "Caruana Becomes 3-Time U.S. Champion, Yip Surpasses Tokhirjonova"
       },
       {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -698,14 +730,6 @@ news_feed (
          "title" : "Averbakh on Averbakh (4): Trainer with Botvinnik and Tal"
       },
       {
-         "description" : "An exciting round both at the U.S. Championship and the U.S. Women's Championship finished with 10 (out of 12) decisive results. In the open, Fabiano Caruana grabbed his third consecutive win to remain as the sole leader, while Carissa Yip and Gulrukhbegim Tokhirjonova also kept their spots at the top of the standings by collecting full points on Tuesday. The highlight of the day, though, was Ray Robson's 29-move victory over Jeffery Xiong. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r5",
-         "pubDate" : "Wed, 11 Oct 2023 06:55:00",
-         "title" : "U.S. Championships: Caruana scores a hat-trick, Niemann beats Aronian"
-      },
-      {
          "description" : "Nearly every single game was decisive in the 2023 U.S. Championship on Tuesday. The frontrunners have begun to distinguish themselves as they accumulate victories.&#38;nbsp;GM Fabiano Caruana won a third game in a row, gaining a winning position vs. G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -738,14 +762,6 @@ news_feed (
          "title" : "Join Chess.com At TwitchCon Las Vegas 2023"
       },
       {
-         "description" : "The I&#38;rsquo;M Not A GM Speed Chess Championship (IMSCC), the event that pits your favorite players who&#39;ve not (yet) made GM, is back for its 2023 edition this week&#38;mdash;and we can&#39;t wait until it kicks off on Thursday, October 12 at 11 a.m. ET/ 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/im-not-a-gm-speed-chess-championship-2023",
-         "pubDate" : "Tue, 10 Oct 2023 14:47:00",
-         "title" : "Back For More Brilliancies: The I'M Not A GM Speed Chess Championship 2023"
-      },
-      {
          "description" : "This is a reminder that entries for the 2023 National Club Championships, being held at the University of Hull from 20th-22nd October, close next Monday...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-vikings-weekender.html",
          "pubDate" : "Tue, 10 Oct 2023 12:13:00",
          "title" : "2023 Vikings Weekender"
-      },
-      {
-         "description" : "Eight years after two very successful editions of the Qatar Masters, won by Yu Yangyi (2014) and Magnus Carlsen (2015), the extraordinarily strong open is back. Carlsen returns to Doha and is joined by the likes of Hikaru Nakamura, Anish Giri and Dommaraju Gukesh. The tournament will be a 9-round Swiss open, with a $108,250 prize fund up for grabs. | Photo: FIDE / Fischer Random World Chess Championship",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-preview",
-         "pubDate" : "Tue, 10 Oct 2023 12:00:00",
-         "title" : "Starting Wednesday: Qatar Masters with Carlsen, Naka and Giri!"
       },
       {
          "description" : "As the Election Commission of India announced Assembly Election of Telangana State, the National Under-13 &#38; National Under-13 Girls Chess Championship-2023 has been rescheduled and",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-club-cup-for-women-medals/",
          "pubDate" : "Mon, 09 Oct 2023 09:47:51",
          "title" : "European Club Cup for Women - medals"
-      },
-      {
-         "description" : "ECF Members were contacted by email and asked to vote for their preferred membership option between: Option 1 - Single adult membership combining Gold, Silver...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/membership-options-summary-of-findings/",
-         "pubDate" : "Mon, 09 Oct 2023 09:36:34",
-         "title" : "Membership Options - summary of findings"
       },
       {
          "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
