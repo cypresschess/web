@@ -74,11 +74,11 @@ news_feed (
          "title" : "Announcing The 2023 US Collegiate Rapid & Blitz Championships"
       },
       {
-         "description" : "IM Levy Rozman (aka GothamChess) traveled to the underworld and back in the&#38;nbsp;2023 I&#39;M Not A GM Speed Chess Championship Semifinals on Monday. He ultimately won his tumultuous match vs. IM Greg Shahade 13-11.&#38;nbsp; After incurring a three-poi...",
+         "description" : "IM Levy Rozman (aka GothamChess) traveled to the underworld and back in the&#38;nbsp;2023 I&#39;M Not A GM Speed Chess Championship Semifinal on Monday. He ultimately won his tumultuous match vs. IM Greg Shahade 13-11.&#38;nbsp; After incurring a three-poin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-semifinals-rozman-wins",
-         "pubDate" : "Mon, 16 Oct 2023 16:32:10",
+         "pubDate" : "Mon, 16 Oct 2023 16:32:00",
          "title" : "GothamChess Bites Back In Bullet, Makes It To IMSCC Final"
       },
       {
