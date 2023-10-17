@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Watch as Fabiano &#039;Fabi&#039; Caruana delivers the decisive move against Abhimanyu Mishra in the U.S. Chess Championship 2023. This thrilling moment sealed his victory, making him the champion with a round to spare. Featuring insightful commentary from GMs Yasser Seirawan, Cristian Chirila, and Katerina Nemcova. Experience the tension, strategy, and sheer brilliance of one of chess&#039;s finest moments! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-win",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-winning-moment-2023-us-chess-championship",
+         "pubDate" : "Tue, 17 Oct 2023 10:13:11",
+         "title" : "Fabi's Winning Moment: 2023 U.S. Chess Championship!"
+      },
+      {
          "description" : "Knights can be powerful and quick, but sometimes they are also surprisingly helpless. Black's knight in the diagram position turned out to be powerful and quite tricky. What did Black do to let the knight shine?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/complaint-resolution/",
          "pubDate" : "Tue, 17 Oct 2023 07:23:48",
          "title" : "Complaint Resolution"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-10-fabi-wants-clinch-title-today-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Uyiks3B-LZw.jpg?itok=wQgwblBW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-10-fabi-wants-clinch-title-today-shorts",
+         "pubDate" : "Tue, 17 Oct 2023 07:13:04",
+         "title" : "2023 US Chess Championships Round 10 | Fabi wants to \"clinch the title today!\" | #shorts"
       },
       {
          "description" : "The English town of Colchester has opened its first chess park in memory of Dr Jonathan Penrose OBE, a Colchester-born double grandmaster who dominated British chess in the 1950s and 60s and went on to become the highest rated correspondence chess player in the world. Michael Adams joined the celebrations by playing a simul against surprisingly Colchester junior players. | Photo: Jonathan Penrose (Source: British Chess News)",
@@ -90,27 +106,11 @@ news_feed (
          "title" : "Caruana Successfully Defends the U.S. Championship! | R10 #USChessChamps"
       },
       {
-         "description" : "<div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-round-9-wgm-tatev-abrahamyan-takes-winning-position-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RMm5uii66D4.jpg?itok=gYRHh0ne\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-round-9-wgm-tatev-abrahamyan-takes-winning-position-shorts",
-         "pubDate" : "Mon, 16 Oct 2023 22:12:33",
-         "title" : "2023 US Chess Championships Round 9 | WGM Tatev Abrahamyan takes the winning position | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to the team during the tenth round of the 2023 U.S. Championships. 2023.10.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-hans-niemann-has-been-unfairly-criticized-r10-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oJmbvU9Wwt4.jpg?itok=Qtm_dRxY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-hans-niemann-has-been-unfairly-criticized-r10-uschesschamps",
-         "pubDate" : "Mon, 16 Oct 2023 22:12:33",
-         "title" : "Rex Sinquefield: Hans Niemann Has Been Unfairly Criticized | R10 #USChessChamps"
-      },
-      {
-         "description" : "Reigning champion GM Fabiano Caruana&#38;nbsp;has successfully defended his title at the 2023 U.S. Championship, clinching the tournament with a round to spare and a 1.5 lead over the field. The now three-time U.S. Champion took a fitting path to firs...",
+         "description" : "Reigning champion GM Fabiano Caruana&#38;nbsp;has successfully defended his title at the 2023 U.S. Championship, clinching the tournament with a round to spare and a 1.5-point lead over the field. The now three-time U.S. champion took a fitting path t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-10",
-         "pubDate" : "Mon, 16 Oct 2023 21:16:09",
+         "pubDate" : "Mon, 16 Oct 2023 21:16:00",
          "title" : "Caruana Becomes 3-Time U.S. Champion, Yip Surpasses Tokhirjonova"
       },
       {
@@ -720,14 +720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-second-report-from-owen-phillips/",
          "pubDate" : "Wed, 11 Oct 2023 08:36:30",
          "title" : "IBCA World Individual Championship - second report from Owen Phillips"
-      },
-      {
-         "description" : "Last year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here, our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh playing Kasparov (B. Dolmatovsky via Douglas Griffin's website)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-trainer-with-botvinnik-and-tal",
-         "pubDate" : "Wed, 11 Oct 2023 07:00:00",
-         "title" : "Averbakh on Averbakh (4): Trainer with Botvinnik and Tal"
       },
       {
          "description" : "Nearly every single game was decisive in the 2023 U.S. Championship on Tuesday. The frontrunners have begun to distinguish themselves as they accumulate victories.&#38;nbsp;GM Fabiano Caruana won a third game in a row, gaining a winning position vs. G...",
