@@ -1216,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2658",
          "pubDate" : "Thu, 28 Sep 2023 10:56:23 +0000",
          "title" : "Asian Games: Wei Yi and Zhu Jiner win individual titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2657",
-         "pubDate" : "Wed, 27 Sep 2023 22:15:03 +0000",
-         "title" : "FIDE World Senior Team Championship: Day 8 recap"
       }
    ]
 }
