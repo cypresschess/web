@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-10-15","5","<a href=http://www.uschess.org/msa/XtblMain.php?202310151602 target='_blank'>OCTOBER 15 SUNDAY SWISS</a>",
 "HOUSTON","2023-10-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310149592 target='_blank'>NATIONAL CHESS DAY SCHOLASTIC</a>",
 "SPRING","2023-10-14","222","<a href=http://www.uschess.org/msa/XtblMain.php?202310149262 target='_blank'>St Edward National Chess Day Scholastic</a>",
 "HOUSTON","2023-10-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202310148732 target='_blank'>PISD OCTOBER 2023- OCT 2023 HS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-03-01  - 03-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202303296362 target='_blank'>MARCH 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-03-27","9","<a href=http://www.uschess.org/msa/XtblMain.php?202303275662 target='_blank'>CLCC MARCH MONDAYS</a>",
 "HOUSTON","2023-03-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303265502 target='_blank'>MARCH 26 SUNDAY SWISS</a>",
-"HOUSTON","2023-03-25","30","<a href=http://www.uschess.org/msa/XtblMain.php?202303255512 target='_blank'>MARCH 25 2023 SCHOLASTIC</a>",
 ]);
