@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 National Club Championships, being held at the University of Hull start on Friday. To follow the event go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
+         "pubDate" : "Wed, 18 Oct 2023 08:00:41",
+         "title" : "ECF National Club Championships 2023 start on Friday 20/10"
+      },
+      {
          "description" : "Four players are sharing the lead with 5/6 points at the Qatar Masters in Doha. Indian GM Narayanan S.L., the sole leader before the rest day, drew Nodirbek Abdusattorov on Tuesday, allowing Arjun Erigaisi (India), Javokhir Sindarov (Uzbekistan) and Nodirbek Yakubboev (Uzbekistan) to join the lead. Among the eight players standing at a half point distance are rating favourites Magnus Carlsen and Hikaru Nakamura. In round 6, Carlsen beat Aditya Samant with the black pieces. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-r6",
          "pubDate" : "Wed, 18 Oct 2023 08:00:00",
          "title" : "Qatar Masters: Arjun, Sindarov and Yakubboev join the lead"
+      },
+      {
+         "description" : "The medallists were &#8212; Gold and World Champion GM Marcin Tazbir (Poland) 8/9! Silver and a good defence of his title IM Predrag Nikac (Montenegro)...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ibca-world-individual-chess-final-scores-and-thoughts-from-owen-phillips/",
+         "pubDate" : "Wed, 18 Oct 2023 07:51:28",
+         "title" : "IBCA World Individual Chess - final scores and thoughts from Owen Phillips"
       },
       {
          "description" : "",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
       },
       {
-         "description" : "This is a reminder that entries for the 2023 National Club Championships, being held at the University of Hull from 20th-22nd October, close next Monday...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
-         "pubDate" : "Tue, 10 Oct 2023 13:00:41",
-         "title" : "ECF National Club Championships 2023 - reminder"
-      },
-      {
          "description" : " The Qatar Masters Open takes place 11th to 20th October 2023. Players: Carlsen, Nakamura, Giri, Gukesh, Abdusattorov, Erigaisi, Maghsoodloo, Jorden Van Foreest, Nihal Sarin etc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2674",
          "pubDate" : "Mon, 09 Oct 2023 12:25:17 +0000",
          "title" : "Ghana's inmates get ready for International Chess Championship"
-      },
-      {
-         "description" : "Congratulations to Jovanka Houska (second from the right) &#38; Lan Yao (centre)&#160; on winning board medals at the 2023 European Club Cup for Women in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-club-cup-for-women-medals/",
-         "pubDate" : "Mon, 09 Oct 2023 09:47:51",
-         "title" : "European Club Cup for Women - medals"
       },
       {
          "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
