@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At some point, it seemed like the title was going to slip away from her hands, but things finally went Carissa Yip's way on Tuesday, as she claimed outright tournament victory to become a 2-time U.S. women's chess champion. The 20-year-old lost her final-round game against Ruiyang Yan (her first loss of the event), and saw title contender Gulrukhbegim Tokhirjonova failing to find a drawing line and eventually losing to Jennifer Yu. In the open championship, Abhimanyu Mishra finished the tournament in style, beating Levon Aronian to climb to shared second place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r11",
+         "pubDate" : "Wed, 18 Oct 2023 17:45:00",
+         "title" : "Carissa Yip grabs second U.S. women's title after dramatic final round"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
          "pubDate" : "Wed, 18 Oct 2023 13:55:00",
          "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : "We&#39;re excited to announce that members can now use the Torch chess engine on our Analysis page. Torch is a new engine developed by the Chess.com team that has quickly risen to the top of the chess engine rankings. Developed in less than eight mont...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/torch-engine-available-on-chesscom",
+         "pubDate" : "Wed, 18 Oct 2023 11:36:53",
+         "title" : "Enlighten Your Analysis With Torch, The New Top Engine Now Available On Chess.com"
       },
       {
          "description" : "The 2023 National Club Championships, being held at the University of Hull start on Friday. To follow the event go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
@@ -778,14 +794,6 @@ news_feed (
          "title" : "National U-19 Certificates"
       },
       {
-         "description" : "The victors of Titled Tuesday on October 10 were a long-time contender and a first-time winner: GM Dmitry Andreikin took home his 16th victory in the early tournament while GM Eduardo Iturrizaga, who made waves earlier this year by reaching Divisi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-iturrizaga-win-titled-tuesday-october-10-2023",
-         "pubDate" : "Wed, 11 Oct 2023 10:18:20",
-         "title" : "10/10 Was The Date, 10/11 Were The Scores"
-      },
-      {
          "description" : "For pictures from the event and a particularly useful post explaining the specialised board setup some players us, follow this link &#8212; https://www.facebook.com/chessingreece Sad to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2657",
          "pubDate" : "Wed, 27 Sep 2023 22:15:03 +0000",
          "title" : "FIDE World Senior Team Championship: Day 8 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2656",
-         "pubDate" : "Wed, 27 Sep 2023 18:44:45 +0000",
-         "title" : "Carissa Yip takes the sole leadership in World Juniors"
       }
    ]
 }
