@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Wed, 18 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
          "description" : "The 2023 National Club Championships, being held at the University of Hull start on Friday. To follow the event go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-chess-final-scores-and-thoughts-from-owen-phillips/",
          "pubDate" : "Wed, 18 Oct 2023 07:51:28",
          "title" : "IBCA World Individual Chess - final scores and thoughts from Owen Phillips"
+      },
+      {
+         "description" : "After winning Titled Tuesday five times in 2022, GM Jose Martinez entered the October 17, 2023 edition with more than a dozen top-five finishes in 2023 but no victories on the year. He changed that by sweeping this week&#39;s event. Martinez, who rout...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-october-17-2023",
+         "pubDate" : "Wed, 18 Oct 2023 07:50:48",
+         "title" : "Blitz Specialist Sweeps Titled Tuesday"
       },
       {
          "description" : "",
@@ -666,14 +682,6 @@ news_feed (
          "title" : "Ding Liren: From improbable challenger to world champion"
       },
       {
-         "description" : "In 1971 Bobby Fischer was on his way to the World Championship, but agreed to take part in a blitz tournament in New York, organised by the Manhattan Chess Club. Fischer won the tournament 25.5 - 0.5. But in round 1, Fischer came close to losing against the well-known and popular author GM Andrew Soltis, but managed to turn the tables. On Twitter/X Davide Nastasio shared a picture of this encounter - and here is the story behind the picture.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-story-of-a-picture-2",
-         "pubDate" : "Thu, 12 Oct 2023 10:00:00",
-         "title" : "The story of a picture"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1216,22 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2656",
          "pubDate" : "Wed, 27 Sep 2023 18:44:45 +0000",
          "title" : "Carissa Yip takes the sole leadership in World Juniors"
-      },
-      {
-         "description" : "My title is taken from those memorable lines in Alexander Pope's Essay on Man, 1733: \"All are but parts of one stupendous whole, Whose body Nature is , and God the soul&hellip;All nature is but art, unknown to thee; All chance, direction, which thou canst not see; All discord, harmony not understood; All partial evil, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/harmony-not-understood-chess-music-maths-and-old-age/",
-         "pubDate" : "Wed, 27 Sep 2023 13:35:28",
-         "title" : "Harmony, not understood: chess, music, maths and old age"
-      },
-      {
-         "description" : " Garry Kasparov once said if you make ten threats in a row, your bound to win as your opponent will eventually make a mistake. But I've now seen a different version attributed to Boris Spassky. \"It takes 10 threats to beat the World Champion\". But it also mentions that you should beat a beginner with 1 threat, and lowly rated player with 2 threats, and average player with 3 threats, a strong club player with 4 threats etc Now the only place I have seen this is in a facebook post (which flashed past my eyes too quickly), and haven't been able to find it anywhere else. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/the-ten-threat-rule.html",
-         "pubDate" : "Wed, 27 Sep 2023 12:57:00",
-         "title" : "The ten threat rule?"
       }
    ]
 }
