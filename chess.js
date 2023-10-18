@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players are sharing the lead with 5/6 points at the Qatar Masters in Doha. Indian GM Narayanan S.L., the sole leader before the rest day, drew Nodirbek Abdusattorov on Tuesday, allowing Arjun Erigaisi (India), Javokhir Sindarov (Uzbekistan) and Nodirbek Yakubboev (Uzbekistan) to join the lead. Among the eight players standing at a half point distance are rating favourites Magnus Carlsen and Hikaru Nakamura. In round 6, Carlsen beat Aditya Samant with the black pieces. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r6",
+         "pubDate" : "Wed, 18 Oct 2023 08:00:00",
+         "title" : "Qatar Masters: Arjun, Sindarov and Yakubboev join the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2690",
+         "pubDate" : "Wed, 18 Oct 2023 07:06:27 +0000",
+         "title" : "Marcin Tazbir triumphs at 2023 IBCA World Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2689",
+         "pubDate" : "Wed, 18 Oct 2023 06:18:08 +0000",
+         "title" : "2023 U.S. Championships: Caruana and Yip win titles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Sabina Foisor before the 2023 U.S. Women's Championship. This did not air during the broadcast. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-zatonskih-growing-chess-informant-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8_l1k4i_t3o.jpg?itok=YgNpSVgZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-zatonskih-growing-chess-informant-uschesschamps",
+         "pubDate" : "Wed, 18 Oct 2023 04:13:45",
+         "title" : "EXCLUSIVE! Zatonskih: Growing Up with Chess Informant | #USChessChamps"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Sabina Foisor before the 2023 U.S. Championship. This did not air during the broadcast. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-dominguez-classical-chess-real-chess-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HjVHgbVwKus.jpg?itok=LPLz0gNL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-dominguez-classical-chess-real-chess-uschesschamps",
+         "pubDate" : "Wed, 18 Oct 2023 04:13:45",
+         "title" : "EXCLUSIVE! Dominguez: Classical Chess is the Real Chess | #USChessChamps"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Eswaran in the eleventh round of the 2023 U.S. Women's Championship. 2023.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-will-officially-pass-2400-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mtiuu_fIdLs.jpg?itok=tG-g-7ES\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,20 +106,12 @@ news_feed (
          "title" : "Sevian Beats Tang in Satisfying Style | R11 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Abhimanyu Mishra talks to the team after defeating Aronian in the eleventh round of the 2023 U.S. Championship. 2023.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mishra-i%E2%80%99m-playing-tough-events-get-2700-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iKQaY8z9RSI.jpg?itok=bUiH9_-x\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mishra-i%E2%80%99m-playing-tough-events-get-2700-r11-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "Mishra: I'm Playing the Tough Events to Get to 2700! | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Carissa Yip talks to the team after losing to Ruiyang Yan in the eleventh round, yet winning the 2023 U.S. Women's Championship since Tokhirjonova lost to Jennifer Yu. 2023.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/club-yip-%E2%80%98you-have-come-back-you%E2%80%99re-new-champion%E2%80%99-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/club-yip-%E2%80%98you-have-come-back-you%E2%80%99re-new-champion%E2%80%99-r11-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "Club to Yip: 'You Have to Come Back! You're The New Champion!' | R11 #USChessChamps"
+         "description" : "The U.S. Women&#39;s Championship concluded with a shocking last day of all decisive games that left IM Carissa Yip at the top of the standings, earning her second title. Defending champion WGM Jennifer Yu influenced the fate of the championship by ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-us-championship-day-11",
+         "pubDate" : "Tue, 17 Oct 2023 21:44:00",
+         "title" : "From The Depths Of Despair, Yip Becomes 2-Time U.S. Women's Champion"
       },
       {
          "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2023-r10",
          "pubDate" : "Tue, 17 Oct 2023 14:05:00",
          "title" : "Fabiano Caruana claims third U.S. title with a round to spare"
-      },
-      {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Tue, 17 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
@@ -744,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-second-report-from-owen-phillips/",
          "pubDate" : "Wed, 11 Oct 2023 08:36:30",
          "title" : "IBCA World Individual Championship - second report from Owen Phillips"
-      },
-      {
-         "description" : "Nearly every single game was decisive in the 2023 U.S. Championship on Tuesday. The frontrunners have begun to distinguish themselves as they accumulate victories.&#38;nbsp;GM Fabiano Caruana won a third game in a row, gaining a winning position vs. G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-5",
-         "pubDate" : "Tue, 10 Oct 2023 22:57:00",
-         "title" : "Nearly All Decisive Day: Caruana Pulls Off Hat Trick, Niemann Defeats Aronian"
       },
       {
          "description" : "",
