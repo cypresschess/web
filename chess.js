@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Like Henry Ernest Atkins, whom Eugene Manlapao featured in September, William Ewart Napier was an exceptional master, but is now almost forgotten. In this article, Eugene explores the life of Napier, who burned brightly in his short career as a chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-william-ewart-napier-the-english-born-wonder-of-brooklyn-new-york-january-17-1881-september-6-1952",
+         "pubDate" : "Thu, 19 Oct 2023 20:00:00",
+         "title" : "Remembering William Ewart Napier: The English-born Wonder of Brooklyn, New York (January 17, 1881 - September 6, 1952)"
+      },
+      {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris is looking at a spectacular miniature played by Magnus Carlsen in the first round of the Qatar Masters Open. A very instructive masterpiece, completed with a splendid mating attack! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-masterpiece-by-magnus-carlsen",
+         "pubDate" : "Thu, 19 Oct 2023 18:00:00",
+         "title" : "Robert Ris' Fast and Furious: A masterpiece by Magnus Carlsen"
+      },
+      {
+         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-at-patna/",
+         "pubDate" : "Thu, 19 Oct 2023 17:49:49",
+         "title" : "Medical Evaluation of the age of Chess Players at Patna"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-2a6057eb-7fff-6eb0-4c37-2cbe436729e2\">SAINT LOUIS (October 19, 2023</span>) </strong>- Grandmaster Fabiano Caruana and International Master Carissa Yip took top honors out of a field of elite American chess players in the <a href=\"https://www.uschesschamps.com/2023-us-championships/overview\">2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship</a>, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-champions-grandmaster-fabiano-caruana-defends-title-become-three-time-us-champion",
+         "pubDate" : "Thu, 19 Oct 2023 17:40:27",
+         "title" : "2023 U.S. Chess Champions: Grandmaster Fabiano Caruana Defends Title to Become Three-Time U.S. Champion; International Master Carissa Yip Wins Second Title in Women's Division"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2693",
+         "pubDate" : "Thu, 19 Oct 2023 17:24:15 +0000",
+         "title" : "FIDE Grand Swiss brings grand expectations"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-590-h-niemann-vs-f-caruana",
          "pubDate" : "Thu, 19 Oct 2023 10:23:15",
          "title" : "Game of the Week #590: H. Niemann vs F. Caruana"
+      },
+      {
+         "description" : "Chess.com is excited to announce the release of GM Fabiano Caruana&#39;s Ruy Lopez: Dark Archangel course, now available on Chessable. Consistently ranking as the world number two and widely known for his unparalleled opening preparation, Caruana is i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-ruy-lopez-chessable-course",
+         "pubDate" : "Thu, 19 Oct 2023 09:55:00",
+         "title" : "Fight For The Win With Black With Caruana's New Ruy Lopez Chessable Course"
       },
       {
          "description" : "",
@@ -184,14 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-and-fabi-both-remain-undefeated-final-day-shorts",
          "pubDate" : "Wed, 18 Oct 2023 01:13:45",
          "title" : "2023 US Chess Championships R11 | Wesley and Fabi both remain undefeated on final day! | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to the team after defeating Krush in the eleventh round of the 2023 U.S. Women's Championship. 2023.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-knocks-krush-great-3-0-finish-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/d3geTBkYn-g.jpg?itok=utGeuUMC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-knocks-krush-great-3-0-finish-r11-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "Tatev Knocks Off Krush for Great 3-0 Finish! | R11 #USChessChamps"
       },
       {
          "description" : "The U.S. Women&#39;s Championship concluded with a shocking last day of all decisive games that left IM Carissa Yip at the top of the standings, earning her second title. Defending champion WGM Jennifer Yu influenced the fate of the championship by ...",
@@ -602,14 +642,6 @@ news_feed (
          "title" : "Trent Proves Shahade Wrong, Moves To Semifinals With Shuvalova"
       },
       {
-         "description" : "While two consecutive rounds ended with draws on all six boards in the U.S. Championship, three players got win after win in the U.S. Women's Championship. Co-leaders Carissa Yip and Gulrukhbegim Tokhirjonova have each grabbed three full points in a row to remain tied for first, while Alice Lee has in fact collected four back-to-back victories to climb to shared second place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r7",
-         "pubDate" : "Fri, 13 Oct 2023 14:05:00",
-         "title" : "U.S. Championships: Yip and Tokhirjonona keep on winning"
-      },
-      {
          "description" : "On the One Show tonight (BBC1 at 19.00hrs) there is a feature on the 3Cs Chess Club in Oldham https://www.3cschessclub.com/ After the broadcast the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -624,14 +656,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/another-obscure-club-game.html",
          "pubDate" : "Fri, 13 Oct 2023 12:49:00",
          "title" : "Another obscure club game"
-      },
-      {
-         "description" : "Offerspill Sjakklubb started the 38th European Chess Club Cup Open as fourth seed. Magnus Carlsen, Offerspill's first board, was certainly the main reason for this - after all he is the world number one with a rating of 2839. But it was still a big surprise that the Norwegians won the cup! One team member in particular - Pranav Venkatesh (whose birthday is today!) - rocked the house with 5.0/7 points. His game against Super Grandmaster Jorden Van Foreest was particularly daring. Robert Ris shows this magical Underdog victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pranav-surprises-foreest-the-underdog",
-         "pubDate" : "Fri, 13 Oct 2023 10:00:00",
-         "title" : "Pranav surprises Foreest! - The Underdog"
       },
       {
          "description" : "The ECU E-Magazine September 2023 is out! In this edition of the ECU E-Magazine you may read about: The September 2023 issue of the ECU E-Magazine can be read online with interactive links and videos on the following link, or it can be downloaded in PDF format down below.",
@@ -786,14 +810,6 @@ news_feed (
          "title" : "3rd Intercontinental Online Chess Championship for Prisoners gets underway with a record number of countries participating"
       },
       {
-         "description" : "At the halfway point, IM Carissa Yip and WGM Gulrukhbegim Tokhirjonova are starting to run away with the U.S. Women&#39;s Championship. With a second win in a row and four victories total for each, they are a full point ahead of the field. IM Alice ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-6",
-         "pubDate" : "Wed, 11 Oct 2023 20:03:00",
-         "title" : "Yip, Tokhirjonova Grow Lead With 4 Victories"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2671",
          "pubDate" : "Fri, 06 Oct 2023 11:13:32 +0000",
          "title" : " Chess South Africa elections to be held in November 2023"
-      },
-      {
-         "description" : "Tamil Nadu State Association holding IM Norm Round Robin Tournaments as per the following schedule:- 1. Chennai : 16 - 21 Oct 23 : Already",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/im-norm-round-robin-tournaments-2/",
-         "pubDate" : "Fri, 06 Oct 2023 07:49:06",
-         "title" : "IM Norm Round Robin Tournaments"
       },
       {
          "description" : "",
