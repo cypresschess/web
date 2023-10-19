@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #590 Merijn Van Delft looks at a crucial game from the US Championship: Fabiano Caruana's win with Black over Hans Niemann, a fine game that helped Caruana become the 2023 US Champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-590-h-niemann-vs-f-caruana",
+         "pubDate" : "Thu, 19 Oct 2023 10:23:15",
+         "title" : "Game of the Week #590: H. Niemann vs F. Caruana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2691",
+         "pubDate" : "Thu, 19 Oct 2023 08:50:23 +0000",
+         "title" : "FIDE Women's Grand Prix Series 2024-25 - Call for bids"
+      },
+      {
          "description" : "Karthikeyan Murali became the third Indian player to ever beat Magnus Carlsen in a classical chess game, as he defeated the former world champion with the black pieces in round 7 of the Qatar Masters. Thanks to the upset win, Karthikeyan joined a 6-player leading pack with two rounds to go in Doha. Smilarly, David Paravyan became a co-leader by beating one of the rating favourites, as he got the better of Dommaraju Gukesh on board 5. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Enlighten Your Analysis With Torch, The New Top Engine Now Available On Chess.com"
       },
       {
-         "description" : "The 2023 National Club Championships, being held at the University of Hull start on Friday. To follow the event go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
+         "description" : "The 2023 National Club Championships, being held at the University of Hull start on Friday. To follow the event (32 lives boards and round five...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen blames opponent's watch for shock defeat"
       },
       {
-         "description" : "In a shocking development, 23-year-old Kazakh GM Alisher Suleymenov (rated 2512) defeated Magnus Carlsen in round 2 of the Qatar Masters - it was a crushing 31-move victory. Carlsen later shared some concerns on his X account, noting that it is \"incredibly frustrating to see organisers still not taking anti-cheating seriously at all\", as he had been distracted by Suleymenov's playing with an analog watch. Carlsen clarified that he was not accusing his opponent of cheating. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r2",
-         "pubDate" : "Thu, 12 Oct 2023 23:50:00",
-         "title" : "Qatar Masters: Suleymenov crushes Carlsen, Carlsen questions organizers"
-      },
-      {
          "description" : "Each on a three-game winning streak, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova&#38;nbsp;have furthered their lead in the U.S. Women&#39;s Championship after seven rounds. They are now 1.5 points ahead of the field.&#38;nbsp; Both leaders won the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2659",
          "pubDate" : "Thu, 28 Sep 2023 13:42:22 +0000",
          "title" : "FIDE Trainers' Online Seminar scheduled for mid-October 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2658",
-         "pubDate" : "Thu, 28 Sep 2023 10:56:23 +0000",
-         "title" : "Asian Games: Wei Yi and Zhu Jiner win individual titles"
       }
    ]
 }
