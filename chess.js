@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Karthikeyan Murali became the third Indian player to ever beat Magnus Carlsen in a classical chess game, as he defeated the former world champion with the black pieces in round 7 of the Qatar Masters. Thanks to the upset win, Karthikeyan joined a 6-player leading pack with two rounds to go in Doha. Smilarly, David Paravyan became a co-leader by beating one of the rating favourites, as he got the better of Dommaraju Gukesh on board 5. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r7",
+         "pubDate" : "Thu, 19 Oct 2023 03:15:00",
+         "title" : "Qatar Masters: Karthikeyan stuns Carlsen, joins the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.11.14<br /> GrandChessTour.org RAPID ROUND 1 | 25 Min. Incr. 10 Sec. RAPID ROUND 2 | 25 Min. Incr. 10 Sec. RAPID ROUND 3 | 25 Min. Incr. 10 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-1-grandchesstour",
+         "pubDate" : "Thu, 19 Oct 2023 01:14:44",
+         "title" : "2023 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
+      },
+      {
          "description" : "At some point, it seemed like the title was going to slip away from her hands, but things finally went Carissa Yip's way on Tuesday, as she claimed outright tournament victory to become a 2-time U.S. women's chess champion. The 20-year-old lost her final-round game against Ruiyang Yan (her first loss of the event), and saw title contender Gulrukhbegim Tokhirjonova failing to find a drawing line and eventually losing to Jennifer Yu. In the open championship, Abhimanyu Mishra finished the tournament in style, beating Levon Aronian to climb to shared second place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Carissa Yip grabs second U.S. women's title after dramatic final round"
       },
       {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Wed, 18 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
+         "description" : "World number-one Magnus Carlsen&#39;s hopes of making the Qatar Masters 2023 a repeat of his 2015 victory have all but gone after a sacrifice against GM Karthikeyan Murali boomeranged into another loss, this time with the white pieces. GM Arjun Erigai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-7",
+         "pubDate" : "Wed, 18 Oct 2023 17:05:00",
+         "title" : "Carlsen Gambles, Loses To India's Karthikeyan"
       },
       {
          "description" : "We&#39;re excited to announce that members can now use the Torch chess engine on our Analysis page. Torch is a new engine developed by the Chess.com team that has quickly risen to the top of the chess engine rankings. Developed in less than eight mont...",
@@ -146,14 +162,6 @@ news_feed (
          "title" : "Tatev Knocks Off Krush for Great 3-0 Finish! | R11 #USChessChamps"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to the team after defeating Tang in the eleventh round of the 2023 U.S. Championship. 2023.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-beats-tang-satisfying-style-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MNMUplgKE4I.jpg?itok=sJdKfKW4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-beats-tang-satisfying-style-r11-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "Sevian Beats Tang in Satisfying Style | R11 #USChessChamps"
-      },
-      {
          "description" : "The U.S. Women&#39;s Championship concluded with a shocking last day of all decisive games that left IM Carissa Yip at the top of the standings, earning her second title. Defending champion WGM Jennifer Yu influenced the fate of the championship by ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,12 +170,12 @@ news_feed (
          "title" : "From The Depths Of Despair, Yip Becomes 2-Time U.S. Women's Champion"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments are 12-player round robins. Fabiano Caruana and Wesley So head the open's lineup, while Irina Krush and Carissa Yip are the rating favourites in the women's section. | Follow the games live with expert commentary from 20.00 CEST (14.00 ET, 23.30 IST)",
+         "description" : "The U.S. Chess Championships took place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments were 12-player round robins. Fabiano Caruana and Carissa Yip were the outright winners, with Caruana grabbing his third U.S. title and Yip collecting her second U.S. women's title. | Replay all the games with computer-assisted analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2023-live",
          "pubDate" : "Tue, 17 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Live!"
+         "title" : "U.S. Championships - Games and standings"
       },
       {
          "description" : "World number-one Magnus Carlsen exploited a blunder by IM Samant Aditya S to win a third game in four rounds and catch GM Hikaru Nakamura, who was held to a draw by GM David Paravyan. With three rounds to go the favorites are half a point behind a...",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2678",
          "pubDate" : "Wed, 11 Oct 2023 18:42:02 +0000",
          "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen won a 23-move miniature as he set out to defend his title in the 2023 Qatar Masters, a tournament last held in 2015. GMs Hikaru Nakamura and Anish Giri were among the star names to win in round one, but GMs Gukesh D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-1",
-         "pubDate" : "Wed, 11 Oct 2023 17:15:00",
-         "title" : "Carlsen, Nakamura Start Fast, Fedoseev Falls"
       },
       {
          "description" : "National Junior U-19 Chess Championship 2023 Certificates are out to download Open : https://aicf.online/National-U-19.html Girls : https://aicf.online/National-U-19-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
