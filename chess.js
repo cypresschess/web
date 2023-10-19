@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Thu, 19 Oct 2023 13:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2692",
+         "pubDate" : "Thu, 19 Oct 2023 13:39:06 +0000",
+         "title" : "FIDE Executive Director Victor Bologan visits Kenya"
+      },
+      {
          "description" : "In his Game of the Week show #590 Merijn Van Delft looks at a crucial game from the US Championship: Fabiano Caruana's win with Black over Hans Niemann, a fine game that helped Caruana become the 2023 US Champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Pranav surprises Foreest! - The Underdog"
       },
       {
-         "description" : "In the FIDE World Junior Rapid Chess Championship, which was played in Pula, Italy, and which is part of the ongoing World Junior Rapid & Blitz Championships, Raunak Sadhwani and Govhar Beydullayeva emerged as the undisputed champions of their open and girls sections, respectively. | Photos: NIKIEL.PHOTO",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-rapid-chess-championship-sadhwani-and-beydullayeva-win-titles",
-         "pubDate" : "Fri, 13 Oct 2023 09:33:40",
-         "title" : "World Junior Rapid Chess Championship: Sadhwani and Beydullayeva win titles"
-      },
-      {
          "description" : "The ECU E-Magazine September 2023 is out! In this edition of the ECU E-Magazine you may read about: The September 2023 issue of the ECU E-Magazine can be read online with interactive links and videos on the following link, or it can be downloaded in PDF format down below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1200,22 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2660",
          "pubDate" : "Thu, 28 Sep 2023 22:15:02 +0000",
          "title" : "World Senior Team Championship: USA and Germany Lasker Schachstiftung GK win gold"
-      },
-      {
-         "description" : "So you thought you had seen the last of the Hans Niemann controversy? Not even close. Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2023/08/top-yahoos-niemann-wrtc-and-pragg.html\">Top Yahoos: Niemann, WRTC, and Pragg</A> (August 2023), mentioned, <BLOCKQUOTE> That [Niemann] page had four stories under 'Top news', four Twitter tweets, and 44 stories from a variety of other sources. </BLOCKQUOTE> <P> This month we had only eight Niemann stories, but that's still a lot of stories compared to the hottest chess story in an average month. Before we look at the details, let's cover the month's stats. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ni28.gif\" WIDTH= HEIGHT",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/09/this-month-features-bottom-yahoo.html",
-         "pubDate" : "Thu, 28 Sep 2023 15:30:00",
-         "title" : "This Month Features a Bottom Yahoo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2659",
-         "pubDate" : "Thu, 28 Sep 2023 13:42:22 +0000",
-         "title" : "FIDE Trainers' Online Seminar scheduled for mid-October 2023"
       }
    ]
 }
