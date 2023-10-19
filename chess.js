@@ -42,6 +42,14 @@ news_feed (
          "title" : "FIDE Grand Swiss brings grand expectations"
       },
       {
+         "description" : "IM Polina Shuvalova won the 2023 I&#39;M Not A GM Speed Chess Championship after defeating IM Levy Rozman (aka GothamChess) 10.5-9.5 in the Final. She was the highest-rated player in this year&#39;s tournament, by FIDE classical rating, and also the first...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-final-shuvalova-wins",
+         "pubDate" : "Thu, 19 Oct 2023 15:59:39",
+         "title" : "Shuvalova Wins 2023 IMSCC After Cinematic Pawn Race"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -762,14 +770,6 @@ news_feed (
          "title" : "Rhodes - report three from Owen Phillips"
       },
       {
-         "description" : "It is the dark shadow that stalks chess&#38;mdash;the failure of senior figures in the game to tackle its shameful gender gap and a recent stream of shocking sexual misconduct allegations. Chess, it is said, has to do better. Now, a new group has fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-fightback-starts-now-says-president-of-new-women-in-chess-foundation",
-         "pubDate" : "Thu, 12 Oct 2023 07:52:58",
-         "title" : "The Fightback Starts Now, Says President Of New Women In Chess Foundation"
-      },
-      {
          "description" : "36th National Under11 Open Chess Championship and 36th National under 11 Girls Chess Championship held at Visakhapatnam, Andhra from 1st to 7th October 2023 for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1200,22 +1200,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-womens-chess-club-cups-2023-start-in-durres-albania/",
          "pubDate" : "Fri, 29 Sep 2023 06:42:00",
          "title" : "European Open & Women's Chess Club Cups 2023 start in Durres, Albania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2661",
-         "pubDate" : "Thu, 28 Sep 2023 22:56:36 +0000",
-         "title" : "World Junior Championship: Leaders prevail in Round 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2660",
-         "pubDate" : "Thu, 28 Sep 2023 22:15:02 +0000",
-         "title" : "World Senior Team Championship: USA and Germany Lasker Schachstiftung GK win gold"
       }
    ]
 }
