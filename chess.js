@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbek grandmaster Nodirbek Yakubboev beat compatriot Nodirbek Abdusattorov in blitz tiebreaks to win the Qatar Masters in Doha. Yakubboev entered the tournament as the 19th seed, and obtained a round-9 victory over Karthikeyan Murali to reach the tiebreaks. Abdusattorov, on his part, defeated former sole leader Arjun Erigaisi in the final round of classical chess. Arjun made a very unfortunate blunder to lose the all-important encounter. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r9",
+         "pubDate" : "Fri, 20 Oct 2023 22:10:00",
+         "title" : "Nodirbek Yakubboev wins Qatar Masters in blitz tiebreaks"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King takes some games from the Qatar Masters as his starting point, and then focuses on one of Carlsen's games where he was outplayed. This takes him to a game of Boris Spassky, who played the same sideline of the Spanish back in the late 1980s! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-in-trouble",
          "pubDate" : "Fri, 20 Oct 2023 17:00:00",
          "title" : "Daniel King's Power Play Show: Carlsen in trouble"
+      },
+      {
+         "description" : "Turkish Women&#39;s Champion and WGM Kubra Ozturk Orenli says her federation terminated her monthly salary and dropped her from the national team once they found out that she was pregnant. Ozturk Orenli gave birth to her second child this summer, bu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/turkish-champion-says-she-was-dropped-by-federation-after-pregnancy",
+         "pubDate" : "Fri, 20 Oct 2023 13:41:00",
+         "title" : "Turkish Champion Says She Was Dropped By Federation After Pregnancy"
       },
       {
          "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Qatar Masters Open 2023 - Games and Results"
       },
       {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Fri, 20 Oct 2023 11:55:00",
-         "title" : "Qatar Masters - Live!"
-      },
-      {
          "description" : " After the completion of the LFG Round Robin, most of the players took part in a blitz round robin. Once again Harry Press proved to be the strongest player, winning with 7/8 (losing only to Fred Litchfield). Litchfield and Malik Amer tied for 2nd on 5.5/8. I didn't do quite as poorly in this event scoring 4/8 (+3=2-3) although once again my tournament run was derailed by a loss to Harry Press. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -48,6 +56,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-vcs-koth-martinez-wins",
          "pubDate" : "Fri, 20 Oct 2023 11:15:00",
          "title" : "Martinez Is King of The Hill In Variants Final"
+      },
+      {
+         "description" : "Like Henry Ernest Atkins, whom Eugene Manlapao featured in September, William Ewart Napier was an exceptional master, but is now almost forgotten. In this article, Eugene explores the life of Napier, who burned brightly in his short career as a chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-william-ewart-napier-the-english-born-wonder-of-brooklyn-new-york-january-17-1881-september-6-1952",
+         "pubDate" : "Fri, 20 Oct 2023 10:00:00",
+         "title" : "Remembering William Ewart Napier: The English-born Wonder of Brooklyn, New York (January 17, 1881 - September 6, 1952)"
+      },
+      {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Fri, 20 Oct 2023 09:55:00",
+         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistan namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM Ar...",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/20/chess-fabiano-caruana-keeps-his-us-crown-and-heads-for-2024-candidates",
          "pubDate" : "Fri, 20 Oct 2023 07:00:11",
          "title" : "Chess: Fabiano Caruana keeps his US crown and heads for 2024 Candidates"
-      },
-      {
-         "description" : "Like Henry Ernest Atkins, whom Eugene Manlapao featured in September, William Ewart Napier was an exceptional master, but is now almost forgotten. In this article, Eugene explores the life of Napier, who burned brightly in his short career as a chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-william-ewart-napier-the-english-born-wonder-of-brooklyn-new-york-january-17-1881-september-6-1952",
-         "pubDate" : "Thu, 19 Oct 2023 20:00:00",
-         "title" : "Remembering William Ewart Napier: The English-born Wonder of Brooklyn, New York (January 17, 1881 - September 6, 1952)"
       },
       {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris is looking at a spectacular miniature played by Magnus Carlsen in the first round of the Qatar Masters Open. A very instructive masterpiece, completed with a splendid mating attack! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -138,6 +154,22 @@ news_feed (
          "title" : "FIDE Executive Director Victor Bologan visits Kenya"
       },
       {
+         "description" : "At some point, it seemed like the title was going to slip away from her hands, but things finally went Carissa Yip's way on Tuesday, as she claimed outright tournament victory to become a 2-time U.S. women's chess champion. The 20-year-old lost her final-round game against Ruiyang Yan (her first loss of the event), and saw title contender Gulrukhbegim Tokhirjonova failing to find a drawing line and eventually losing to Jennifer Yu. In the open championship, Abhimanyu Mishra finished the tournament in style, beating Levon Aronian to climb to shared second place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-r11",
+         "pubDate" : "Thu, 19 Oct 2023 10:30:00",
+         "title" : "Carissa Yip grabs second U.S. women's title after dramatic final round"
+      },
+      {
+         "description" : "Karthikeyan Murali became the third Indian player to ever beat Magnus Carlsen in a classical chess game, as he defeated the former world champion with the black pieces in round 7 of the Qatar Masters. Thanks to the upset win, Karthikeyan joined a 6-player leading pack with two rounds to go in Doha. Smilarly, David Paravyan became a co-leader by beating one of the rating favourites, as he got the better of Dommaraju Gukesh on board 5. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r7",
+         "pubDate" : "Thu, 19 Oct 2023 10:25:00",
+         "title" : "Qatar Masters: Karthikeyan stuns Carlsen, joins the lead"
+      },
+      {
          "description" : "In his Game of the Week show #590 Merijn Van Delft looks at a crucial game from the US Championship: Fabiano Caruana's win with Black over Hans Niemann, a fine game that helped Caruana become the 2023 US Champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,28 +194,12 @@ news_feed (
          "title" : "FIDE Women's Grand Prix Series 2024-25 - Call for bids"
       },
       {
-         "description" : "Karthikeyan Murali became the third Indian player to ever beat Magnus Carlsen in a classical chess game, as he defeated the former world champion with the black pieces in round 7 of the Qatar Masters. Thanks to the upset win, Karthikeyan joined a 6-player leading pack with two rounds to go in Doha. Smilarly, David Paravyan became a co-leader by beating one of the rating favourites, as he got the better of Dommaraju Gukesh on board 5. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r7",
-         "pubDate" : "Thu, 19 Oct 2023 03:15:00",
-         "title" : "Qatar Masters: Karthikeyan stuns Carlsen, joins the lead"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.11.14<br /> GrandChessTour.org RAPID ROUND 1 | 25 Min. Incr. 10 Sec. RAPID ROUND 2 | 25 Min. Incr. 10 Sec. RAPID ROUND 3 | 25 Min. Incr. 10 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-1-grandchesstour",
          "pubDate" : "Thu, 19 Oct 2023 01:14:44",
          "title" : "2023 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
-      },
-      {
-         "description" : "At some point, it seemed like the title was going to slip away from her hands, but things finally went Carissa Yip's way on Tuesday, as she claimed outright tournament victory to become a 2-time U.S. women's chess champion. The 20-year-old lost her final-round game against Ruiyang Yan (her first loss of the event), and saw title contender Gulrukhbegim Tokhirjonova failing to find a drawing line and eventually losing to Jennifer Yu. In the open championship, Abhimanyu Mishra finished the tournament in style, beating Levon Aronian to climb to shared second place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r11",
-         "pubDate" : "Wed, 18 Oct 2023 17:45:00",
-         "title" : "Carissa Yip grabs second U.S. women's title after dramatic final round"
       },
       {
          "description" : "World number-one Magnus Carlsen&#39;s hopes of making the Qatar Masters 2023 a repeat of his 2015 victory have all but gone after a sacrifice against GM Karthikeyan Murali boomeranged into another loss, this time with the white pieces. GM Arjun Erigai...",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "The art of quiet moves"
       },
       {
-         "description" : "Five players are sharing the lead with perfect scores after three rounds at the Qatar Masters in Doha. Arjun Erigaisi, Javokhir Sindarov (pictured), Narayanan S L, Rinat Jumabayev and Robby Kevlishvili are the co-leaders after Friday's round. Due to the controversy surrounding Magnus Carlsen's defeat and ensuing social media post on Thursday, the organizers put forth new anti-cheating regulations. Carlsen bounced back from the shocking loss by beating Al Muthaiah with the white pieces. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r3",
-         "pubDate" : "Sat, 14 Oct 2023 02:15:00",
-         "title" : "Qatar Masters: Five co-leaders on 3/3, Carlsen bounces back"
-      },
-      {
          "description" : "GM Fabiano Caruana increased his lead to a point, even while he let GM Sam Shankland off the hook in the eighth round of the 2023 U.S. Championship. In the U.S. Women&#39;s Championship, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova continued ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-3",
          "pubDate" : "Fri, 13 Oct 2023 15:58:40",
          "title" : "Nakamura, Giri Held As Carlsen Hits Back"
-      },
-      {
-         "description" : "IMs Polina Shuvalova and Lawrence Trent filled the last two spots of the 2023 I&#39;M Not A GM Speed Chess Championship Semifinals after, respectively, winning Groups C and D. The other two semifinalists are IMs Greg Shahade and Levy Rozman (aka Gotha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-shuvalova-trent-win-groups-c-d",
-         "pubDate" : "Fri, 13 Oct 2023 15:30:00",
-         "title" : "Trent Proves Shahade Wrong, Moves To Semifinals With Shuvalova"
       },
       {
          "description" : "On the One Show tonight (BBC1 at 19.00hrs) there is a feature on the 3Cs Chess Club in Oldham https://www.3cschessclub.com/ After the broadcast the...",
