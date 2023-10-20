@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 31-year-old won his third US title and is returning to his 2018 form when he kept Magnus Carlsen close for the world title Fabiano Caruana retained his US Championship this week in his home town of St Louis, scoring an unbeaten five wins and six draws. The 31-year-old already looks a clear favourite in 2024 to win the world title which narrowly eluded him in 2018, when he drew all 12 classical games against Magnus Carlsen before losing the speed tiebreak. In the past, Caruana has seemed a reserved personality, in contrast to the outgoing and articulate Carlsen, but in the past year he has gained many new admirers through his weekly <a href=\"https://www.youtube.com/@csqpod\" title=\"\">C-Sq",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/oct/20/chess-fabiano-caruana-keeps-his-us-crown-and-heads-for-2024-candidates",
+         "pubDate" : "Fri, 20 Oct 2023 07:00:11",
+         "title" : "Chess: Fabiano Caruana keeps his US crown and heads for 2024 Candidates"
+      },
+      {
          "description" : "Like Henry Ernest Atkins, whom Eugene Manlapao featured in September, William Ewart Napier was an exceptional master, but is now almost forgotten. In this article, Eugene explores the life of Napier, who burned brightly in his short career as a chess player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1184,22 +1192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ai-cup-2023",
          "pubDate" : "Fri, 29 Sep 2023 10:38:00",
          "title" : "AI Cup 2023 - Games and Results"
-      },
-      {
-         "description" : " A top player for a quarter of a century and a national hero immortalised on coins, the fates denied him a world title match Paul Keres (1916-1975) was one of the greatest players never to become world champion. It was not through want of trying. For a full quarter of a century, starting from his victory at Avro 1938, one of the all-time premier tournaments in chess history, right up to Curaçao 1962, where he missed first place and a world title challenge by a hair's breadth, Keres was a leading contender. Keres became a national hero for Estonians, who believed that Soviet officials had coerced him into playing badly against the favoured Russian, Mikhail Botvinnik, in the 1948 world champi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/sep/29/paul-keres-estonia-one-of-best-to-never-hold-chess-world-crown",
-         "pubDate" : "Fri, 29 Sep 2023 07:00:38",
-         "title" : "Pride of Estonia: Paul Keres, one of the best to never hold chess world crown"
-      },
-      {
-         "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women kick off on Sunday, 1st of October in Durres, Albania. The event broke the participation record with 110 teams coming from 34 European federations. 84 teams will compete in the Open section, and 26 teams take part in the Women's competition. A total of 720 players including 150 grandmasters and more than 400 titled players will represent their clubs. The events will be []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-womens-chess-club-cups-2023-start-in-durres-albania/",
-         "pubDate" : "Fri, 29 Sep 2023 06:42:00",
-         "title" : "European Open & Women's Chess Club Cups 2023 start in Durres, Albania"
       }
    ]
 }
