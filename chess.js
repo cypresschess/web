@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
+         "pubDate" : "Fri, 20 Oct 2023 11:55:00",
+         "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : "Round 8 of the Qatar Masters saw Arjun Erigaisi beating David Paravyan to enter Friday's final round as the sole leader, with six players standing a half point behind. Among these six chasers are Hikaru Nakamura and Nodirbek Abdusattorov - Arjun's rival in round 9 - who both grabbed wins on Thursday. Former co-leaders Karthikeyan Murali, Narayanan S.L., Javokhir Sindarov and Nodirbek Yakubboev still have chances to win the event as well. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r8",
+         "pubDate" : "Fri, 20 Oct 2023 09:30:00",
+         "title" : "Qatar Masters: Arjun enters final round as sole leader"
+      },
+      {
          "description" : " The 31-year-old won his third US title and is returning to his 2018 form when he kept Magnus Carlsen close for the world title Fabiano Caruana retained his US Championship this week in his home town of St Louis, scoring an unbeaten five wins and six draws. The 31-year-old already looks a clear favourite in 2024 to win the world title which narrowly eluded him in 2018, when he drew all 12 classical games against Magnus Carlsen before losing the speed tiebreak. In the past, Caruana has seemed a reserved personality, in contrast to the outgoing and articulate Carlsen, but in the past year he has gained many new admirers through his weekly <a href=\"https://www.youtube.com/@csqpod\" title=\"\">C-Sq",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-final-shuvalova-wins",
          "pubDate" : "Thu, 19 Oct 2023 15:59:00",
          "title" : "Shuvalova Wins 2023 IMSCC After Cinematic Pawn Race"
-      },
-      {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Thu, 19 Oct 2023 13:55:00",
-         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : "",
@@ -642,14 +650,6 @@ news_feed (
          "title" : "Leon Mendonca: The Keymer Variation - A review"
       },
       {
-         "description" : "In his Game of the Week show #589 Merijn Van Delft analyses how Magnus Carlsen defeated Vincent Keymer, who had come close to eliminating Carlsen from the World Cup, in the European Club Cup. A clash of generations in which Carlsen tried an interesting concept against the Najdorf. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-589-m-carlsen-vs-v-keymer",
-         "pubDate" : "Fri, 13 Oct 2023 16:00:00",
-         "title" : "Game of the Week #589: M. Carlsen vs V. Keymer"
-      },
-      {
          "description" : "Moves were delayed 15 minutes and watches outlawed as world number-one Magnus Carlsen&#39;s tweets had an instant impact on round three of the&#38;nbsp;2023 Qatar Masters. The drama was limited on the board; GMs Hikaru Nakamura and Anish Giri were frustra...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2655",
          "pubDate" : "Fri, 29 Sep 2023 11:46:58 +0000",
          "title" : "The Isle of Man's Grand Chess Spectacle"
-      },
-      {
-         "description" : " The AI Cup took place Mon 25th to Fri 29th Sep 2023. This was the final event of the online Champions Chess Tour before the finals in person in Toronto December 9 to December 16, 2023 (Carlsen, Nakamura and Abdusattorov have made it and Caruana seems a likely fourth player of the 8 player field). Division 1 of the AI Cup has 8 players: Magnus Carlsen, Alireza Firouzja, Denis Lazavik, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Hikaru Nakamura and Anish Giri. MVL beat Carlsen twice on the final day to win Division 1. Vladimir Fedoseev won Division 2 and Sam Sevian Division 3. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ai-cup-2023",
-         "pubDate" : "Fri, 29 Sep 2023 10:38:00",
-         "title" : "AI Cup 2023 - Games and Results"
       }
    ]
 }
