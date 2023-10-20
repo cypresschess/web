@@ -18,6 +18,14 @@ news_feed (
          "title" : "The Best Chess Move"
       },
       {
+         "description" : " The Qatar Masters Open took place 11th to 20th October 2023. Players: Carlsen, Nakamura, Giri, Gukesh, Abdusattorov, Erigaisi, Maghsoodloo, Jorden Van Foreest, Nihal Sarin etc. Nodirbek Yakubboev beat Nodirbek Abdusattorov 2-0 in a blitz tie-break after both scored 7/9. Narayanan, Sindarov, Nakamura, Erigaisi, Maghsoodloo and Gukesh finished on 6.5/9, Anish Giri and World Number 1 Magnus Carlsen were in a group on 6/9. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/qatar-masters-open-2023",
+         "pubDate" : "Fri, 20 Oct 2023 12:41:00",
+         "title" : "Qatar Masters Open 2023 - Games and Results"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/and-lfg-blitz.html",
          "pubDate" : "Fri, 20 Oct 2023 11:44:00",
          "title" : "And the LFG Blitz"
+      },
+      {
+         "description" : "It&#39;s hard to imagine a better week for GM Jose Martinez, who, after sweeping Titled Tuesday just two days prior, went on to win Chess.com&#39;s first Variants Community Series (VCS) Final. His march to victory, and a $1,000 first-place prize, includ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-vcs-koth-martinez-wins",
+         "pubDate" : "Fri, 20 Oct 2023 11:15:00",
+         "title" : "Martinez Is King of The Hill In Variants Final"
+      },
+      {
+         "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistan namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM Ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-9",
+         "pubDate" : "Fri, 20 Oct 2023 09:42:00",
+         "title" : "Yakubboev Wins Qatar Masters After Heartbreaking Blunder By Arjun"
       },
       {
          "description" : "Round 8 of the Qatar Masters saw Arjun Erigaisi beating David Paravyan to enter Friday's final round as the sole leader, with six players standing a half point behind. Among these six chasers are Hikaru Nakamura and Nodirbek Abdusattorov - Arjun's rival in round 9 - who both grabbed wins on Thursday. Former co-leaders Karthikeyan Murali, Narayanan S.L., Javokhir Sindarov and Nodirbek Yakubboev still have chances to win the event as well. | Photo: Aditya Sur Roy",
@@ -722,14 +746,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen blames opponent's watch for shock defeat"
       },
       {
-         "description" : "Each on a three-game winning streak, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova&#38;nbsp;have furthered their lead in the U.S. Women&#39;s Championship after seven rounds. They are now 1.5 points ahead of the field.&#38;nbsp; Both leaders won the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-7",
-         "pubDate" : "Thu, 12 Oct 2023 21:31:00",
-         "title" : "Winning Streaks Galore: Yip, Tokhirjonova, Lee Unstoppable"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/world-cadet-chess-championship-2023/",
          "pubDate" : "Thu, 12 Oct 2023 17:55:07",
          "title" : "World Cadet Chess Championship-2023"
-      },
-      {
-         "description" : "IMs Greg Shahade and Levy Rozman (aka GothamChess) advance to the 2023 I&#39;M Not A GM Speed Chess Championship Semifinals after winning Groups A and B, respectively, on Thursday.&#38;nbsp; Shahade&#39;s victory was a close call, and it only came after he ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-rozman-shahade-win-groups-a-b",
-         "pubDate" : "Thu, 12 Oct 2023 16:30:00",
-         "title" : "GothamChess Tops Group B With 9-Game Winning Streak, Shahade Takes Group A"
       },
       {
          "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2677",
          "pubDate" : "Tue, 10 Oct 2023 22:23:45 +0000",
          "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
-      },
-      {
-         "description" : " The Qatar Masters Open takes place 11th to 20th October 2023. Players: Carlsen, Nakamura, Giri, Gukesh, Abdusattorov, Erigaisi, Maghsoodloo, Jorden Van Foreest, Nihal Sarin etc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/qatar-masters-open-2023",
-         "pubDate" : "Tue, 10 Oct 2023 12:41:00",
-         "title" : "Qatar Masters Open 2023 - Games and Results"
       },
       {
          "description" : " The 2023 Vikings Weekender will be held on the weekend of the 18th and 19th of November. A return to the traditional venue of the Vikings Club, Erindale, means that the entry numbers will be restricted to 60 players. There will also only be 5 rounds (no Friday night round) and as a result, only 24 players can enter the Top section, with 36 players in the Under 1600 section. The booking link is <a href=\"https://www.trybooking.com/CMHKH\">https://www.trybooking.com/CMHKH</a> Full details are <b>18th and 19th November 2023</b> 5 round FIDE Rated Swiss* Vikings Club, Erindale, ACT Time control: 60m + 30s Open and Under 1600 sections (Both FIDE Rated) Round 1: Sat 10:15am Round 2: Sat 2:15pm Roun",
@@ -1168,14 +1168,6 @@ news_feed (
          "link" : "https://www.thearticle.com/new-skids-on-the-block/",
          "pubDate" : "Sat, 30 Sep 2023 07:38:18",
          "title" : "New skids on the block"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2662",
-         "pubDate" : "Fri, 29 Sep 2023 16:10:39 +0000",
-         "title" : "World Junior Championship: No changes at the top after drawish Round 8"
       }
    ]
 }
