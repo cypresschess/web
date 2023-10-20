@@ -26,6 +26,14 @@ news_feed (
          "title" : "Medical Evaluation of the age of Chess Players at Patna"
       },
       {
+         "description" : "Indian GM Arjun Erigaisi takes a half-point lead into the final round of the Qatar Masters 2023 after his win over GM David Paravyan ended any lingering title hopes for star GMs such as Magnus Carlsen, Anish Giri, and Gukesh Dommaraju. GM Hikaru N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-8",
+         "pubDate" : "Thu, 19 Oct 2023 17:49:00",
+         "title" : "Advantage Arjun As 7 Players Fight For First"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-2a6057eb-7fff-6eb0-4c37-2cbe436729e2\">SAINT LOUIS (October 19, 2023</span>) </strong>- Grandmaster Fabiano Caruana and International Master Carissa Yip took top honors out of a field of elite American chess players in the <a href=\"https://www.uschesschamps.com/2023-us-championships/overview\">2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship</a>, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"http",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-final-shuvalova-wins",
-         "pubDate" : "Thu, 19 Oct 2023 15:59:39",
+         "pubDate" : "Thu, 19 Oct 2023 15:59:00",
          "title" : "Shuvalova Wins 2023 IMSCC After Cinematic Pawn Race"
       },
       {
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-rozman-shahade-win-groups-a-b",
          "pubDate" : "Thu, 12 Oct 2023 16:30:00",
          "title" : "GothamChess Tops Group B With 9-Game Winning Streak, Shahade Takes Group A"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen confessed he was &#34;completely crushed&#34; by 23-year-old Kazakh GM Alisher Suleymenov in round two of the 2023 Qatar Masters, but afterward blamed a failure to concentrate on his opponent wearing a watch in contraventio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-2",
-         "pubDate" : "Thu, 12 Oct 2023 14:46:00",
-         "title" : "Carlsen Criticises Lack Of Anti-Cheating Measures After Stunning Defeat"
       },
       {
          "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
