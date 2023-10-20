@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King takes some games from the Qatar Masters as his starting point, and then focuses on one of Carlsen's games where he was outplayed. This takes him to a game of Boris Spassky, who played the same sideline of the Spanish back in the late 1980s! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-in-trouble",
+         "pubDate" : "Fri, 20 Oct 2023 17:00:00",
+         "title" : "Daniel King's Power Play Show: Carlsen in trouble"
+      },
+      {
+         "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/the-best-chess-move/",
+         "pubDate" : "Fri, 20 Oct 2023 13:09:35",
+         "title" : "The Best Chess Move"
+      },
+      {
          "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
          "pubDate" : "Fri, 20 Oct 2023 11:55:00",
          "title" : "Qatar Masters - Live!"
+      },
+      {
+         "description" : " After the completion of the LFG Round Robin, most of the players took part in a blitz round robin. Once again Harry Press proved to be the strongest player, winning with 7/8 (losing only to Fred Litchfield). Litchfield and Malik Amer tied for 2nd on 5.5/8. I didn't do quite as poorly in this event scoring 4/8 (+3=2-3) although once again my tournament run was derailed by a loss to Harry Press. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/and-lfg-blitz.html",
+         "pubDate" : "Fri, 20 Oct 2023 11:44:00",
+         "title" : "And the LFG Blitz"
       },
       {
          "description" : "Round 8 of the Qatar Masters saw Arjun Erigaisi beating David Paravyan to enter Friday's final round as the sole leader, with six players standing a half point behind. Among these six chasers are Hikaru Nakamura and Nodirbek Abdusattorov - Arjun's rival in round 9 - who both grabbed wins on Thursday. Former co-leaders Karthikeyan Murali, Narayanan S.L., Javokhir Sindarov and Nodirbek Yakubboev still have chances to win the event as well. | Photo: Aditya Sur Roy",
@@ -150,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/torch-engine-available-on-chesscom",
-         "pubDate" : "Wed, 18 Oct 2023 11:36:53",
+         "pubDate" : "Wed, 18 Oct 2023 11:36:00",
          "title" : "Enlighten Your Analysis With Torch, The New Top Engine Now Available On Chess.com"
       },
       {
@@ -640,14 +664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2683",
          "pubDate" : "Fri, 13 Oct 2023 19:16:45 +0000",
          "title" : "Mongolia and India win Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : "After White's first move, it is usually Black, who determines the character of the game. The Keymer System 1.Nf3 and 2.e3 is an attempt from White to steer the game into lines and structures White likes. On his first Fritztrainer the young Indian Grandmaster Leon Mendonca shows the potential and the advantages of the Keymer System. Christian H&ouml;the took a look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-the-keymer-variation-a-review",
-         "pubDate" : "Fri, 13 Oct 2023 16:10:00",
-         "title" : "Leon Mendonca: The Keymer Variation - A review"
       },
       {
          "description" : "Moves were delayed 15 minutes and watches outlawed as world number-one Magnus Carlsen&#39;s tweets had an instant impact on round three of the&#38;nbsp;2023 Qatar Masters. The drama was limited on the board; GMs Hikaru Nakamura and Anish Giri were frustra...",
@@ -1160,30 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2662",
          "pubDate" : "Fri, 29 Sep 2023 16:10:39 +0000",
          "title" : "World Junior Championship: No changes at the top after drawish Round 8"
-      },
-      {
-         "description" : " The 2023 ACT Junior Championship finished with a win by Dev Raichura, who scored an impressive 7/8. He only lost to last years champion Phong Huynh, but won all his other games. Olamide Fasakin was 2nd, with Masaki Horikwa winning the third place trophy on countback. Although a number of older juniors skipped the event, it was still an impressive win for Raichura. The other significant thing about his win, is at the age of 8 years old, I am almost certain he would be the youngest winner of the ACT Junior Championship. He has also scored a number of wins over strong Canberra players in club events, so I expect his rating to jump up in the near future. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/09/act-junior-championship.html",
-         "pubDate" : "Fri, 29 Sep 2023 13:39:00",
-         "title" : "ACT Junior Championship"
-      },
-      {
-         "description" : "Today, I'm going to teach you how to become more self-confident when playing Chess. Good self-confidence can do wonders for your chess performance. Instead of going in circles, doubting your skills, you will calculate lines one time and then trust yourself and go with the move that seems...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/the-three-ways-to-build-self-confidence/",
-         "pubDate" : "Fri, 29 Sep 2023 13:08:42",
-         "title" : "The Three Ways To Build Self Confidence"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2655",
-         "pubDate" : "Fri, 29 Sep 2023 11:46:58 +0000",
-         "title" : "The Isle of Man's Grand Chess Spectacle"
       }
    ]
 }
