@@ -10,6 +10,14 @@ news_feed (
          "title" : "Captured!"
       },
       {
+         "description" : "Sackcloth and ashes, dear readers, wailing and gnashing of teeth: Magnus Carlsen has lost another game. This time the world number 1 fell victim to 23-year old Alisher Suleymenov. The Kazakh player has enjoyed an annus mirabilis, as he only received his Grandmaster title this year. Moreover, Carlsen did not just lose, he was annihilated. The last time he had lost to a sub-2520 player under []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/watch-on-the-whine/",
+         "pubDate" : "Sat, 21 Oct 2023 08:59:04",
+         "title" : "Watch on the Whine*"
+      },
+      {
          "description" : "Considering the requests from the participants, the fee for attending the FIDE Trainer Seminar (including FIDE Fee) has been reduced. All coaches are requested to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -232,6 +240,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-1-grandchesstour",
          "pubDate" : "Thu, 19 Oct 2023 01:14:44",
          "title" : "2023 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
+      },
+      {
+         "description" : " Blurb from the publisher, Amazon: Chess players spend hours and hours trying to memorize openings, but even Grandmasters forget their preparation. Meanwhile, memory competitors routinely memorize thousands of facts and <a href=\"http://britishchessnews.com/2023/10/19/the-chess-memory-palace/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Chess Memory Palace</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/10/19/the-chess-memory-palace/\">The Chess Memory Palace</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/10/19/the-chess-memory-palace/",
+         "pubDate" : "Thu, 19 Oct 2023 00:10:19",
+         "title" : "The Chess Memory Palace"
       },
       {
          "description" : "World number-one Magnus Carlsen&#39;s hopes of making the Qatar Masters 2023 a repeat of his 2015 victory have all but gone after a sacrifice against GM Karthikeyan Murali boomeranged into another loss, this time with the white pieces. GM Arjun Erigai...",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/",
          "pubDate" : "Sat, 30 Sep 2023 16:38:48",
          "title" : "\"The Final Attack,\" Chess Teachings of Emory Tate"
-      },
-      {
-         "description" : "The World Junior (U20) Championship is currently being held at the Hotel del Prado in Mexico City. This prestigious event has prompted FIDÉ, the World Chess Federation, to produce a rigorous and demanding format. Eleven gruelling rounds with a time control of 90 minutes for the first 40 moves, plus 30 minutes until the end of the game, with 30-second increments from the start, are []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/new-skids-on-the-block/",
-         "pubDate" : "Sat, 30 Sep 2023 07:38:18",
-         "title" : "New skids on the block"
       }
    ]
 }
