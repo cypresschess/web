@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The strongest Swiss event of the year is around the corner. On the scenic Isle of Man, the first round starts on 25 October. The Grand Swiss is a pivotal part of the FIDE World Championship cycle, as the top two players in the final standings of the open event and the women's event will get spots in next year's Candidates Tournaments. | Pictured: Hikaru Nakamura and Fabiano Caruana during the inaugural edition of the Grand Swiss | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-expectations",
+         "pubDate" : "Sat, 21 Oct 2023 20:00:00",
+         "title" : "Grand expectations for the FIDE Grand Swiss on the Isle of Man"
+      },
+      {
          "description" : "The 2023 edition of the World Junior Championships took place at the end of September in Mexico City. Marc'Andria Maurizzi from France and Candela Francisco from Argentina won the open and women's sections respectively. Such a lengthy and prestigious event saw many games entering notable endgame positions. GM Karsten M&uuml;ller followed the action and analysed what he considered to be the most instructive ones. Find here the nine endings he chose to share with us! | Pictured: Ema Walter from Slovakia | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "2023 Asian Seniors"
       },
       {
-         "description" : "Fabiano Caruana has now a full-point lead at the U.S. Championship, as his closest chaser before round 8, Hans Niemann, was defeated by Ray Robson on Friday. Niemann is now sharing second place with Leinier Dominguez, Wesley So and Abhimanyu Mishra - the latter beat Sam Sevian in round 8. Meanwhile, in the U.S. Women's Championship, Carissa Yip and Gulrukhbegim Tokhirjonova cannot stop winning, as each obtained a fourth consecutive win on Friday and now have a 2-point lead over their closest chasers. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r8",
-         "pubDate" : "Sat, 14 Oct 2023 20:00:00",
-         "title" : "U.S. Championships: Robson traps Niemann's queen, Abhimanyu scores"
-      },
-      {
          "description" : "Three wins on the fly for GM Daniel Naroditsky in October&#39;s Bullet Brawls have left the American commentator in clear second on the all-time leaderboard with seven wins and closing quickly on GM Hikaru Nakamura, who has won the two-hour arena 10 t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1168,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2663",
          "pubDate" : "Sat, 30 Sep 2023 21:24:23 +0000",
          "title" : "World Junior Championship: Maurizzi, sole leader again after a brilliant victory"
-      },
-      {
-         "description" : " FM Todd Andrews recently released a manual, The Final Attack a tribute to the lessons of International Master Emory Tate. Of course, Tate passed away in 2015, but his lessons live on. Andrews was a Tate protege and traveled with him to many tournaments soaking up pearls of wisdom. The life lessons left an impression The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/\">&#8220;The Final Attack,&#8221; Chess Teachings of Emory Tate</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/09/30/the-final-attack-chess-teachings-of-emory-tate/",
-         "pubDate" : "Sat, 30 Sep 2023 16:38:48",
-         "title" : "\"The Final Attack,\" Chess Teachings of Emory Tate"
       }
    ]
 }
