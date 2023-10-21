@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2694",
+         "pubDate" : "Sat, 21 Oct 2023 21:01:14 +0000",
+         "title" : "WCCC 2023 passes its midpoint"
+      },
+      {
          "description" : "The strongest Swiss event of the year is around the corner. On the scenic Isle of Man, the first round starts on 25 October. The Grand Swiss is a pivotal part of the FIDE World Championship cycle, as the top two players in the final standings of the open event and the women's event will get spots in next year's Candidates Tournaments. | Pictured: Hikaru Nakamura and Fabiano Caruana during the inaugural edition of the Grand Swiss | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-2023-crowned-in-terme-catez-slovenia/",
          "pubDate" : "Sun, 01 Oct 2023 06:50:33",
          "title" : "European Youth Rapid&Blitz Chess Champions 2023 crowned in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2663",
-         "pubDate" : "Sat, 30 Sep 2023 21:24:23 +0000",
-         "title" : "World Junior Championship: Maurizzi, sole leader again after a brilliant victory"
       }
    ]
 }
