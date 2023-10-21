@@ -74,7 +74,7 @@ news_feed (
          "title" : "Qatar Masters - Live!"
       },
       {
-         "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistan namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM Ar...",
+         "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistani namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM A...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-9",
