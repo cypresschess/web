@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, we offer tactics with few pieces on the board. Stray black knight + fork motif - can you mix a winning cocktail for White with these two ingredients from the diagram position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/captured",
+         "pubDate" : "Sat, 21 Oct 2023 09:00:00",
+         "title" : "Captured!"
+      },
+      {
+         "description" : "Considering the requests from the participants, the fee for attending the FIDE Trainer Seminar (including FIDE Fee) has been reduced. All coaches are requested to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminars-fee-reduced/",
+         "pubDate" : "Sat, 21 Oct 2023 07:19:16",
+         "title" : "FIDE Trainer Seminars : Fee reduced"
+      },
+      {
+         "description" : "Please find live games link of of 21st North East chess championship 2023 https://view.livechesscloud.com/#3d429e31-117d-45ac-bea7-4746acca3128",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games21st-north-east-chess-championship-2023/",
+         "pubDate" : "Sat, 21 Oct 2023 05:41:28",
+         "title" : "Live Games:21st North East chess championship 2023"
+      },
+      {
          "description" : "Uzbek grandmaster Nodirbek Yakubboev beat compatriot Nodirbek Abdusattorov in blitz tiebreaks to win the Qatar Masters in Doha. Yakubboev entered the tournament as the 19th seed, and obtained a round-9 victory over Karthikeyan Murali to reach the tiebreaks. Abdusattorov, on his part, defeated former sole leader Arjun Erigaisi in the final round of classical chess. Arjun made a very unfortunate blunder to lose the all-important encounter. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/20/chess-fabiano-caruana-keeps-his-us-crown-and-heads-for-2024-candidates",
          "pubDate" : "Fri, 20 Oct 2023 07:00:11",
          "title" : "Chess: Fabiano Caruana keeps his US crown and heads for 2024 Candidates"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainer-seminars-2/",
+         "pubDate" : "Fri, 20 Oct 2023 03:07:00",
+         "title" : "FIDE TRAINER SEMINARS"
       },
       {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris is looking at a spectacular miniature played by Magnus Carlsen in the first round of the Qatar Masters Open. A very instructive masterpiece, completed with a splendid mating attack! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -666,14 +698,6 @@ news_feed (
          "title" : "Entries open to Hastings!"
       },
       {
-         "description" : "From the diagram position, Black takes down the white king in the center. 16...Qf2+ is obvious, but the other moves are more difficult to see. Can you find them?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-art-of-quiet-moves",
-         "pubDate" : "Sat, 14 Oct 2023 09:00:00",
-         "title" : "The art of quiet moves"
-      },
-      {
          "description" : "GM Fabiano Caruana increased his lead to a point, even while he let GM Sam Shankland off the hook in the eighth round of the 2023 U.S. Championship. In the U.S. Women&#39;s Championship, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova continued ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -850,14 +874,6 @@ news_feed (
          "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
       },
       {
-         "description" : "National Junior U-19 Chess Championship 2023 Certificates are out to download Open : https://aicf.online/National-U-19.html Girls : https://aicf.online/National-U-19-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-19-certificates/",
-         "pubDate" : "Wed, 11 Oct 2023 12:27:15",
-         "title" : "National U-19 Certificates"
-      },
-      {
          "description" : "For pictures from the event and a particularly useful post explaining the specialised board setup some players us, follow this link &#8212; https://www.facebook.com/chessingreece Sad to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -882,28 +898,12 @@ news_feed (
          "title" : "2023 Vikings Weekender"
       },
       {
-         "description" : "As the Election Commission of India announced Assembly Election of Telangana State, the National Under-13 &#38; National Under-13 Girls Chess Championship-2023 has been rescheduled and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-13-chess-championship-2023-rescheduled/",
-         "pubDate" : "Tue, 10 Oct 2023 07:45:53",
-         "title" : "National Under-13 Chess Championship-2023 rescheduled"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2676",
          "pubDate" : "Tue, 10 Oct 2023 02:31:09 +0000",
          "title" : "2023 IBCA World Chess Championship starts in Rhodes, Greece"
-      },
-      {
-         "description" : "With profound grief and sorrow, we regret to inform that the Vice President of All India Chess Federation Shri Ajay Ajmera left for his heavenly",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rest-in-peace-shri-ajay-ajmera-ji/",
-         "pubDate" : "Mon, 09 Oct 2023 16:21:01",
-         "title" : "Rest in Peace Shri Ajay Ajmera ji"
       },
       {
          "description" : "",
