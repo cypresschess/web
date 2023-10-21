@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 edition of the World Junior Championships took place at the end of September in Mexico City. Marc'Andria Maurizzi from France and Candela Francisco from Argentina won the open and women's sections respectively. Such a lengthy and prestigious event saw many games entering notable endgame positions. GM Karsten M&uuml;ller followed the action and analysed what he considered to be the most instructive ones. Find here the nine endings he chose to share with us! | Pictured: Ema Walter from Slovakia | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-endgames",
+         "pubDate" : "Sat, 21 Oct 2023 13:30:00",
+         "title" : "Endgames from Mexico City"
+      },
+      {
          "description" : "Today, we offer tactics with few pieces on the board. Stray black knight + fork motif - can you mix a winning cocktail for White with these two ingredients from the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +690,6 @@ news_feed (
          "title" : "World Cadet U8, U10, U12 Championships 2023 rescheduled"
       },
       {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris shows a way to take a crack at the Petroff - sacrificing a pawn! A concept that helped Ray Robson to defeat Jeffery Xiong at the U.S. Championship. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-nihal-sarin-attacks-2",
-         "pubDate" : "Sat, 14 Oct 2023 12:00:00",
-         "title" : "Robert Ris' Fast and Furious: Sacrificing against the Petroff"
-      },
-      {
          "description" : "36th National Under-11 Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-11.html Girls : https://aicf.online/National-U-11(Girls).html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1018,7 +1018,7 @@ news_feed (
          "title" : "Chess: World Juniors lacks big names but Maurizzi has potential to be a star"
       },
       {
-         "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Council&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Counsel&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/",
