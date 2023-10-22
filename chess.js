@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 148th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-3",
+         "pubDate" : "Sun, 22 Oct 2023 15:00:00",
+         "title" : "Understanding before Moving 148: Chess history in a nutshell (30)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -666,14 +674,6 @@ news_feed (
          "title" : "White Rhino vs. Dogman"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 147th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the ideas and games of Alexander Alekhine. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 15 Oct 2023 15:00:00",
-         "title" : "Understanding before Moving 147: Chess history in a nutshell (29)"
-      },
-      {
          "description" : " The 2023 Asian Seniors has just started in Tagatay, The Philippines. I played in last years event (50+) in Auckland, but did not make the trip this year. One player who did back up from last year was Miles Patterson, who finished 2nd in the 65+ section. His result earned him an FM title (conditional upon rating), and an IM norm. This years 65+ section looks to be about th same strength as last years tournament so he may have chances to earn a 2nd IM norm. On the other hand the 50+ tournament looks to be a bit strong than last year, although a bit small. GM Rogelio Antonio is the top seed and there are 4 other IM's in the field. <br /> <b>Ramos,Ernesto - Patterson,Miles (1879) [C01]</b><br /",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1144,22 +1144,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-kicked-off-in-durres-albania/",
          "pubDate" : "Mon, 02 Oct 2023 05:43:07",
          "title" : "European Open&Women's Chess Club Cups 2023 kicked off in Durres, Albania"
-      },
-      {
-         "description" : "Here on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), we often see an auction item described as a 'figurine'. Does that category include both people and animals? According to one dictionary source, <A HREF=\"https://www.merriam-webster.com/dictionary/figurine\">Figurine Definition & Meaning</A> (merriam-webster.com), the word means, <BLOCKQUOTE> a small carved or molded figure : statuette </BLOCKQUOTE> <P> and has synonyms that can stand for people or animals. A recent example in 'Top eBay Items' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/08/dachshunds-play-chess.html\">Dachshund",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/nyc-central-park-chess-hustler.html",
-         "pubDate" : "Sun, 01 Oct 2023 15:30:00",
-         "title" : "NYC Central Park Chess Hustler"
-      },
-      {
-         "description" : " Saturday 7th October is the date of the very 1st Street Chess \"Buy, Swap or Sell\" chess book day. From 10am you can come along to sell your old chess books, swap books with anyone else who has brought books in, or simply buy what is on offer. A few of the Street Chess regulars will be bringing in their books to sell, including myself, who is using it as an opportunity to clear some duplicates from my collection. The sale starts at 10am on Saturday 7th October outside King O'Malley's, City Walk, Canberra City. Street Chess will be running as usual from 11am but feel free to drop in a bit earlier than usual to pick up some bargains. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/bring-out-your-books.html",
-         "pubDate" : "Sun, 01 Oct 2023 13:00:00",
-         "title" : "Bring out your books ..."
       }
    ]
 }
