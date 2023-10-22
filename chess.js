@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2695",
+         "pubDate" : "Sun, 22 Oct 2023 16:05:42 +0000",
+         "title" : "Spanish Championship: Iturrizaga and Khademalsharieh claim titles"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 148th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
