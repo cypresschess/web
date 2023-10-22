@@ -18,6 +18,14 @@ news_feed (
          "title" : "Grand expectations for the FIDE Grand Swiss on the Isle of Man"
       },
       {
+         "description" : "GM Daniel Naroditsky continued his domination of October&#39;s Bullet Brawls after finishing three points ahead of 10-time winner GM Hikaru Nakamura in a race to the finish on Saturday. In a tournament graced by the presence of top players such as GMs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-21-2023",
+         "pubDate" : "Sat, 21 Oct 2023 17:02:27",
+         "title" : "Naroditsky Stuns In Photo Finish With Nakamura"
+      },
+      {
          "description" : "The 2023 edition of the World Junior Championships took place at the end of September in Mexico City. Marc'Andria Maurizzi from France and Candela Francisco from Argentina won the open and women's sections respectively. Such a lengthy and prestigious event saw many games entering notable endgame positions. GM Karsten M&uuml;ller followed the action and analysed what he considered to be the most instructive ones. Find here the nine endings he chose to share with us! | Pictured: Ema Walter from Slovakia | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2683",
          "pubDate" : "Fri, 13 Oct 2023 19:16:45 +0000",
          "title" : "Mongolia and India win Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : "Moves were delayed 15 minutes and watches outlawed as world number-one Magnus Carlsen&#39;s tweets had an instant impact on round three of the&#38;nbsp;2023 Qatar Masters. The drama was limited on the board; GMs Hikaru Nakamura and Anish Giri were frustra...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-3",
-         "pubDate" : "Fri, 13 Oct 2023 15:58:40",
-         "title" : "Nakamura, Giri Held As Carlsen Hits Back"
       },
       {
          "description" : "On the One Show tonight (BBC1 at 19.00hrs) there is a feature on the 3Cs Chess Club in Oldham https://www.3cschessclub.com/ After the broadcast the...",
