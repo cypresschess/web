@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Calrlsen's disastrous loss to Alisher Suleymenov in Qatar has gone round the world, partly because it was an excellent game but mainly because it was so unusual: Carlsen's first defeat by such a relatively \"weak\" opponent since the Norwegian Championship of 2006! Unusual but not really that shocking. Anybody can have an off day, and the truly shocking thing is that Carlsen has managed for nearly two decades to avoid losing at classical chess to such an opponent. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-204",
+         "pubDate" : "Sun, 22 Oct 2023 22:40:00",
+         "title" : "Jon Speelman: Anybody can have an off day"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2695",
          "pubDate" : "Sun, 22 Oct 2023 16:05:42 +0000",
          "title" : "Spanish Championship: Iturrizaga and Khademalsharieh claim titles"
+      },
+      {
+         "description" : "Andrey Filatov, president of the Russian Chess Federation, announced on Friday that they intend to sign 10-year contracts with promising young players to prevent them from leaving the country. With no signs of the war in Ukraine ending, Russian ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russia-10-year-contracts-young-players-federation-changes",
+         "pubDate" : "Sun, 22 Oct 2023 15:34:00",
+         "title" : "Russia To Sign 10-Year Contracts With Young Players To Stop Federation Changes"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 148th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "Faultless Theodorou Cements Top Spot For SLU, UTRGV Conquers Yale"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King features an extraordinary game played by Fabiano Caruana in the U.S. Championship. Andrew Tang, with White, plays a kind of Jobava London System, and Caruana makes an unusual sidestep that results in a highly unorthodox position. Yes, there are ways to upset your opponent if they play the London! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-caruana-rocks-the-boat",
-         "pubDate" : "Sun, 15 Oct 2023 19:30:00",
-         "title" : "Daniel King's Power Play Show: Caruana rocks the boat"
-      },
-      {
          "description" : "GM Narayanan Sunilduth Lyna is the first sole leader of the 2023 Qatar Masters after beating world number-eight Gukesh Dommaraju to move to 4.5/5. No fewer than 12 players are half a point back, including GM Hikaru Nakamura, and IM Vaishali R, who...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entries-open-to-hastings/",
          "pubDate" : "Sat, 14 Oct 2023 09:34:08",
          "title" : "Entries open to Hastings!"
-      },
-      {
-         "description" : "GM Fabiano Caruana increased his lead to a point, even while he let GM Sam Shankland off the hook in the eighth round of the 2023 U.S. Championship. In the U.S. Women&#39;s Championship, IM Carissa Yip&#38;nbsp;and WGM Gulrukhbegim Tokhirjonova continued ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-8",
-         "pubDate" : "Sat, 14 Oct 2023 00:33:00",
-         "title" : "Niemann Blunder Gives Caruana 1-Point Lead; Yip, Tokhirjonova Ahead By 2"
       },
       {
          "description" : " The 76th Russian Championships took place 1st to 12th October 2023. Vladislav Artemiev won with 8.5/11 undefeated, two points clear of the field. Baira Kovanova was the surprised winner of the women's event with 8/11 a point clear of the field. She had not even qualified for the final stage, in spite of trying, since 2013.",
