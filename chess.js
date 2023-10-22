@@ -1160,14 +1160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/bring-out-your-books.html",
          "pubDate" : "Sun, 01 Oct 2023 13:00:00",
          "title" : "Bring out your books ..."
-      },
-      {
-         "description" : "The European Youth Rapid&#38;Blitz Chess Championships 2023 concluded yesterday in Terme Catez, Slovenia after three days fulfilled with the exciting games and intense battles for the throne. The event gathered more than 500 players coming from 27 European countries and took place from 27-30 October in beautiful spa resort Terme Catez. The first event on the schedule was the 2023 European Youth Rapid Chess Championship which was played in 6 age categories: U8, U10, U12, U14, U16, and U18, open []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-2023-crowned-in-terme-catez-slovenia/",
-         "pubDate" : "Sun, 01 Oct 2023 06:50:33",
-         "title" : "European Youth Rapid&Blitz Chess Champions 2023 crowned in Terme Catez, Slovenia"
       }
    ]
 }
