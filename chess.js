@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this video course you will learn about basic chess opening strategies, which can help you start your chess game. Become familiar with the most famous chess trap, winning in just four moves: Scholar's Mate - and how to defend against it. But there is so much more! You will become acquainted with the Golden Rules of the Opening, and the importance of the centre - and what happens if you neglect these aspects.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-basic-opening-strategy-all-you-need-to-know",
+         "pubDate" : "Mon, 23 Oct 2023 17:00:00",
+         "title" : "Robert Ris: Basic Opening Strategy - All you need to know"
+      },
+      {
+         "description" : "Magdeburg is a city steeped in history, including a long chess tradition. Every year an international open is held, this year for the 28th time. Over 200 players took part. The victory went to the only grandmaster in the field, Oleg Korneev. Bettina Trabert reports.| Photo: A view into the tournament hall | Photos: Bettina Trabert",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/korneev-wins-magdeburg-open",
+         "pubDate" : "Mon, 23 Oct 2023 15:00:00",
+         "title" : "Korneev wins Magdeburg Open"
+      },
+      {
+         "description" : " The 2023 ACT Interschool Competition has come to an end, with the playoffs for the ACT representatives to the Australian Schools Teams Championship being held over the weekend. The selected teams are Gold Creek (Girls Primary), Majura (Open Primary), Lyneham (Girls Secondary), Radford (Open Secondary). The competition was hard fought across the weekend, although each event finished with a clear winner. What I did find most interesting was that almost every player had an ACF Rating ID, which shows that players are transitioning from school only chess, to club and weekend chess. That this has not previously been true is one of the things that has been noticeable with ACT teams in recent years",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/school-playoffs.html",
+         "pubDate" : "Mon, 23 Oct 2023 12:51:00",
+         "title" : "School Playoffs"
+      },
+      {
          "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,11 +58,11 @@ news_feed (
          "title" : "Jon Speelman: Anybody can have an off day"
       },
       {
-         "description" : "Yale University brought their season back to life on Saturday in the SIG-sponsored 2023 Collegiate Chess League (CCL) after toppling the heavily favored University of Missouri (Mizzou) by a single point. 3/4 scores by GM Nico Checa and NM Linden...",
+         "description" : "Yale University brought their season back to life on Saturday in the SIG-sponsored 2023 Collegiate Chess League (CCL) after toppling the heavily favored University of Missouri (Mizzou) by a single point. Scores of 3/4 by GM Nico Checa and NM Lin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-yale-cu",
-         "pubDate" : "Sun, 22 Oct 2023 20:51:02",
+         "pubDate" : "Sun, 22 Oct 2023 20:51:00",
          "title" : "GM-Slayer Lee Leads Yale To Upset Over Mizzou"
       },
       {
@@ -592,22 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2023-r9",
          "pubDate" : "Mon, 16 Oct 2023 15:30:00",
          "title" : "U.S. Championships: Caruana beats Niemann, Tokhirjonova wins again"
-      },
-      {
-         "description" : "One of the strongest national chess tournaments is still running, and it looks as if Fabiano Caruana can win the US Championship trophy in 2023. Svitlana found some exciting tactics and invites everybody to guess the correct, or best move. Especially the women's section was not shying back!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-cute-us-championship-tactics",
-         "pubDate" : "Mon, 16 Oct 2023 14:42:36",
-         "title" : "Svitlana's Smart Moves - Cute US Championship Tactics"
-      },
-      {
-         "description" : "The Caro-Kann Defence is very popular and as a 1.e4 player you definitely need a strong weapon against this solid and yet dangerous opening. Apart from todays hackneyed main lines (1.e4 c6 2.d4 d5 3.Nc3 and 3.e5), there are some other very interesting choices for White that each have their specific advantages and disadvantages.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-fernandez-weapons-against-the-caro-kann-vol-1-vol-2",
-         "pubDate" : "Mon, 16 Oct 2023 11:40:33",
-         "title" : "Daniel Fernandez: Weapons against the Caro Kann - Vol. 1 & Vol. 2"
       },
       {
          "description" : "GM Simon Williams has been found liable by the Deputy Pensions Ombudsman in the U.K. and ordered to repay over &#38;pound;730,000 (currently roughly $890k) to a pension scheme of which he was the sole trustee.&#38;nbsp; The popular 43-year-old British g...",
