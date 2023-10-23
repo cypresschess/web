@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-10-20  - 10-22","270","<a href=http://www.uschess.org/msa/XtblMain.php?202310224392 target='_blank'>2023 TEXAS NORTH SCHOLASTIC GRADE CHAMPIONSHIP</a>",
+"HOUSTON","2023-10-21","50","<a href=http://www.uschess.org/msa/XtblMain.php?202310214492 target='_blank'>2023 NORTH TEXAS STATE SCHOLASTIC BLITZ</a>",
 "HOUSTON","2023-10-21","4","<a href=http://www.uschess.org/msa/XtblMain.php?202310213302 target='_blank'>CHESSPANDA10212023SATURDAY</a>",
 "SPRING","2023-10-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310202782 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-10-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310202772 target='_blank'>FBCC 2023 PUMPKIN PATCH OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-04-02","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304029182 target='_blank'>APRIL 2ND 2023 SUNDAY SWISS</a>",
 "CYPRESS","2023-03-31","24","<a href=http://www.uschess.org/msa/XtblMain.php?202303318452 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-03-31","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303317942 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-03-31","3","<a href=http://www.uschess.org/msa/XtblMain.php?202303317752 target='_blank'>FBCC 2023 OUT LIKE A LAMB OPEN</a>",
-"HOUSTON","2023-03-31","22","<a href=http://www.uschess.org/msa/XtblMain.php?202303317742 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 31, 2023</a>",
 ]);
