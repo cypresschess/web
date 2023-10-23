@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/iturrizaga-and-khademalsharieh-win-spanish-championships",
+         "pubDate" : "Mon, 23 Oct 2023 12:48:26",
+         "title" : "Iturrizaga and Khademalsharieh win Spanish Championships"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -674,14 +682,6 @@ news_feed (
          "title" : "FIDE World Junior Blitz Championship: Muradli and Balabayeva clinch titles"
       },
       {
-         "description" : "The first sole leader of the Qatar Masters emerged after round 5, as Narayanan S.L., the thirteenth seed in Doha, obtained an upset win over Gukesh D. to become the only participant with 4&frac12; points. Going into the one rest day of the event, twelve players stand a half point behind the leader, including Hikaru Nakamura, Nodirbek Abdusattorov and Arjun Erigaisi. Magnus Carlsen and Anish Giri stand on 3&frac12;/5 scores - the latter lost to 19-year-old IM Rudik Makarian in round 5. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r5",
-         "pubDate" : "Sun, 15 Oct 2023 22:30:00",
-         "title" : "Qatar Masters: Narayanan beats Gukesh to grab the lead"
-      },
-      {
          "description" : "GM Fabiano Caruana cemented his lead by defeating GM Hans Niemann&#38;mdash;the player who&#39;s been chasing him since round four&#38;mdash;on day nine of the 2023 U.S. Championship. Though Caruana is a full point ahead, GMs Wesley So, Leinier Dominguez, and...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2665",
          "pubDate" : "Mon, 02 Oct 2023 18:52:22 +0000",
          "title" : "FIDE October 2023 rating list published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2666",
-         "pubDate" : "Mon, 02 Oct 2023 11:28:08 +0000",
-         "title" : "European Chess Club Cup 2023 starts in Durres, Albania"
       }
    ]
 }
