@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2696",
+         "pubDate" : "Mon, 23 Oct 2023 08:53:01 +0000",
+         "title" : "Important changes to the 2024 Women's Grand Prix series"
+      },
+      {
+         "description" : "European Chess Federation in cooperation with the English Chess Federation invite all the European National Chess Federations to the European Youth Online Nations League which will take place from 17 January to 13 March 2024 on the Tornelo Online platform.&#160; The European Youth Online Nations League will be a Team Swiss competition, played in 9 rounds. The scoring will be run on Match points (2 for a match win, 1 for a match draw). The time limit is all moves []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-online-nations-league-2024-official-invitation/",
+         "pubDate" : "Mon, 23 Oct 2023 08:17:02",
+         "title" : "European Youth Online Nations League 2024 - Official invitation"
+      },
+      {
          "description" : "Magnus Carlsen's disastrous loss to Alisher Suleymenov in Qatar has gone round the world, partly because it was an excellent game but mainly because it was so unusual: Carlsen's first defeat by such a relatively \"weak\" opponent since the Norwegian Championship of 2006! Unusual but not really that shocking. Anybody can have an off day, and the truly shocking thing is that Carlsen has managed for nearly two decades to avoid losing at classical chess to such an opponent. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2666",
          "pubDate" : "Mon, 02 Oct 2023 11:28:08 +0000",
          "title" : "European Chess Club Cup 2023 starts in Durres, Albania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2664",
-         "pubDate" : "Mon, 02 Oct 2023 07:51:40 +0000",
-         "title" : "Marc'Andria Maurizzi and Candela Francisco, World Junior Champions"
       }
    ]
 }
