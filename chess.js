@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. The endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event, the world leading chess trainer, grandmaster Efstratios Grivas, shows you how to do the job, and help you understand the secrets hidden behind it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-two-minor-pieces",
+         "pubDate" : "Mon, 23 Oct 2023 19:00:00",
+         "title" : "Rook vs. Two Minor Pieces - Part one"
+      },
+      {
          "description" : "In this video course you will learn about basic chess opening strategies, which can help you start your chess game. Become familiar with the most famous chess trap, winning in just four moves: Scholar's Mate - and how to defend against it. But there is so much more! You will become acquainted with the Golden Rules of the Opening, and the importance of the centre - and what happens if you neglect these aspects.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-basic-opening-strategy-all-you-need-to-know",
          "pubDate" : "Mon, 23 Oct 2023 17:00:00",
          "title" : "Robert Ris: Basic Opening Strategy - All you need to know"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2697",
+         "pubDate" : "Mon, 23 Oct 2023 16:05:12 +0000",
+         "title" : "FIDE Circuit: Fabiano Caruana consolidates his lead"
       },
       {
          "description" : "Magdeburg is a city steeped in history, including a long chess tradition. Every year an international open is held, this year for the 28th time. Over 200 players took part. The victory went to the only grandmaster in the field, Oleg Korneev. Bettina Trabert reports.| Photo: A view into the tournament hall | Photos: Bettina Trabert",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "School Playoffs"
       },
       {
-         "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
+         "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/9, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/iturrizaga-and-khademalsharieh-win-spanish-championships",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-3",
          "pubDate" : "Sun, 22 Oct 2023 15:00:00",
          "title" : "Understanding before Moving 148: Chess history in a nutshell (30)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2693",
+         "pubDate" : "Sat, 21 Oct 2023 23:24:15 +0000",
+         "title" : "FIDE Grand Swiss brings grand expectations"
       },
       {
          "description" : "",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-champions-grandmaster-fabiano-caruana-defends-title-become-three-time-us-champion",
          "pubDate" : "Thu, 19 Oct 2023 17:40:27",
          "title" : "2023 U.S. Chess Champions: Grandmaster Fabiano Caruana Defends Title to Become Three-Time U.S. Champion; International Master Carissa Yip Wins Second Title in Women's Division"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2693",
-         "pubDate" : "Thu, 19 Oct 2023 17:24:15 +0000",
-         "title" : "FIDE Grand Swiss brings grand expectations"
       },
       {
          "description" : "IM Polina Shuvalova won the 2023 I&#39;M Not A GM Speed Chess Championship after defeating IM Levy Rozman (aka GothamChess) 10.5-9.5 in the Final. She was the highest-rated player in this year&#39;s tournament, by FIDE classical rating, and also the first...",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2687",
          "pubDate" : "Mon, 16 Oct 2023 16:05:03 +0000",
          "title" : "FIDE WCCC 2023 kicks off in Sharm El Sheikh, Egypt"
-      },
-      {
-         "description" : "Fabiano Caruana continues to have a full-point lead over his closest chasers with two rounds to go at the U.S. Championship. Caruana beat Hans Niemann, one of the players sharing second place before round 9, but the remaining three chasers all won to remain one point behind the leader. Meanwhile, in the women's event, Gulrukhbegim Tokhirjonova grabbed her fifth consecutive win to become the sole leader - now only she and Carissa Yip, who stands a half point behind, are in the race for first place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r9",
-         "pubDate" : "Mon, 16 Oct 2023 15:30:00",
-         "title" : "U.S. Championships: Caruana beats Niemann, Tokhirjonova wins again"
       },
       {
          "description" : "GM Simon Williams has been found liable by the Deputy Pensions Ombudsman in the U.K. and ordered to repay over &#38;pound;730,000 (currently roughly $890k) to a pension scheme of which he was the sole trustee.&#38;nbsp; The popular 43-year-old British g...",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment",
          "pubDate" : "Tue, 03 Oct 2023 12:00:00",
          "title" : "Chess for fun and entertainment"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2665",
-         "pubDate" : "Mon, 02 Oct 2023 18:52:22 +0000",
-         "title" : "FIDE October 2023 rating list published"
       }
    ]
 }
