@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Calrlsen's disastrous loss to Alisher Suleymenov in Qatar has gone round the world, partly because it was an excellent game but mainly because it was so unusual: Carlsen's first defeat by such a relatively \"weak\" opponent since the Norwegian Championship of 2006! Unusual but not really that shocking. Anybody can have an off day, and the truly shocking thing is that Carlsen has managed for nearly two decades to avoid losing at classical chess to such an opponent. | Photo: Aditya Sur Roy",
+         "description" : "Magnus Carlsen's disastrous loss to Alisher Suleymenov in Qatar has gone round the world, partly because it was an excellent game but mainly because it was so unusual: Carlsen's first defeat by such a relatively \"weak\" opponent since the Norwegian Championship of 2006! Unusual but not really that shocking. Anybody can have an off day, and the truly shocking thing is that Carlsen has managed for nearly two decades to avoid losing at classical chess to such an opponent. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-204",
          "pubDate" : "Sun, 22 Oct 2023 22:40:00",
          "title" : "Jon Speelman: Anybody can have an off day"
+      },
+      {
+         "description" : "Yale University brought their season back to life on Saturday in the SIG-sponsored 2023 Collegiate Chess League (CCL) after toppling the heavily favored University of Missouri (Mizzou) by a single point. 3/4 scores by GM Nico Checa and NM Linden...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-yale-cu",
+         "pubDate" : "Sun, 22 Oct 2023 20:51:02",
+         "title" : "GM-Slayer Lee Leads Yale To Upset Over Mizzou"
       },
       {
          "description" : "",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Naroditsky Wins Third Straight Bullet Brawl, Closes In On Nakamura's Record"
       },
       {
-         "description" : "GMs Hikaru Nakamura, Gukesh Dommaraju, and Saleh Salem all won in round four of the 2023 Qatar Masters to join a seven-way tie for first place on 3.5/4.&#38;nbsp;GM Magnus Carlsen languishes a point back in 29th place after again being involved in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-4",
-         "pubDate" : "Sat, 14 Oct 2023 17:25:00",
-         "title" : "Carlsen Has Great Escape As Nakamura And Gukesh Join Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2664",
          "pubDate" : "Mon, 02 Oct 2023 07:51:40 +0000",
          "title" : "Marc'Andria Maurizzi and Candela Francisco, World Junior Champions"
-      },
-      {
-         "description" : "The 38th edition of the European Chess Club Cup and the 27th Women's European Club Cup kicked off in Durres, Albania. The event boasting the record number of participants 110 teams from 34 European federations - has started Saturday evening with an opening ceremony at Grand Blue Fafa Resport, the playing venue of the tournament. Players, guests and officials were welcomed by the President of the European Chess Union Zurab Azmaparaishvili, the President of the Albanian Chess Federation and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-kicked-off-in-durres-albania/",
-         "pubDate" : "Mon, 02 Oct 2023 05:43:07",
-         "title" : "European Open&Women's Chess Club Cups 2023 kicked off in Durres, Albania"
       }
    ]
 }
