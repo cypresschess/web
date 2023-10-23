@@ -34,6 +34,14 @@ news_feed (
          "title" : "Korneev wins Magdeburg Open"
       },
       {
+         "description" : "Two spots for the 2024 Candidates Tournament are up for grabs in the strongest open tournament of the year, the 2023 FIDE Grand Swiss, which takes place in Douglas, Isle of Man, from October 25 to November 5, with a prize fund of $460,000. Who wil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-grand-swiss-preview",
+         "pubDate" : "Mon, 23 Oct 2023 14:44:00",
+         "title" : "FIDE Grand Swiss 2023: Who Will Qualify For A Shot At World Title?"
+      },
+      {
          "description" : " The 2023 ACT Interschool Competition has come to an end, with the playoffs for the ACT representatives to the Australian Schools Teams Championship being held over the weekend. The selected teams are Gold Creek (Girls Primary), Majura (Open Primary), Lyneham (Girls Secondary), Radford (Open Secondary). The competition was hard fought across the weekend, although each event finished with a clear winner. What I did find most interesting was that almost every player had an ACF Rating ID, which shows that players are transitioning from school only chess, to club and weekend chess. That this has not previously been true is one of the things that has been noticeable with ACT teams in recent years",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -134,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-21-2023",
-         "pubDate" : "Sat, 21 Oct 2023 17:02:27",
+         "pubDate" : "Sat, 21 Oct 2023 17:02:00",
          "title" : "Naroditsky Stuns In Photo Finish With Nakamura"
       },
       {
@@ -736,14 +744,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-asian-seniors.html",
          "pubDate" : "Sun, 15 Oct 2023 11:36:00",
          "title" : "2023 Asian Seniors"
-      },
-      {
-         "description" : "Three wins on the fly for GM Daniel Naroditsky in October&#39;s Bullet Brawls have left the American commentator in clear second on the all-time leaderboard with seven wins and closing quickly on GM Hikaru Nakamura, who has won the two-hour arena 10 t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-14-2023",
-         "pubDate" : "Sat, 14 Oct 2023 19:19:15",
-         "title" : "Naroditsky Wins Third Straight Bullet Brawl, Closes In On Nakamura's Record"
       },
       {
          "description" : "",
