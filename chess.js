@@ -1144,22 +1144,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/october-1973-1998-on-cover.html",
          "pubDate" : "Tue, 03 Oct 2023 15:56:00",
          "title" : "October 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : " A few weeks ago the following game was played in the LFG Round Robin. To the spectators, Black's 8th move came as a real surprise, as it was believed that sacrificing the exchange (championed by Blackburne in the 19th century) did not give Black enough compensation. But by playing a new move (9. ... Qc7) Black set White a significant number of problems. Eventually White lost their way and Black was left with a winning position. It seems that the line actually works for Black, although trying to find other examples was difficult (only a few games against 1900 rated players). So further investigation may be required before the exchange sacrifice is totally rehabilitated. <br /> <b>Magrini,Fab",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/an-old-line-revisited.html",
-         "pubDate" : "Tue, 03 Oct 2023 12:18:00",
-         "title" : "An old line revisited"
-      },
-      {
-         "description" : "Chess is normally a battle between two intellects. But the game is so rich and multifaceted that it offers much more. For instance, you can create a wealth of imaginative studies and problems, positions that do not occur in regular games. They can be very profound, very difficult, but also highly entertaining! Here are three that will test your skill and imaginativeness in really fun ways.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-for-fun-and-entertainment",
-         "pubDate" : "Tue, 03 Oct 2023 12:00:00",
-         "title" : "Chess for fun and entertainment"
       }
    ]
 }
