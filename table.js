@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-10-20  - 10-22","45","<a href=http://www.uschess.org/msa/XtblMain.php?202310224962 target='_blank'>$3,000 STUDIO  OCT 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-10-20  - 10-22","270","<a href=http://www.uschess.org/msa/XtblMain.php?202310224392 target='_blank'>2023 TEXAS NORTH SCHOLASTIC GRADE CHAMPIONSHIP</a>",
 "HOUSTON","2023-10-21","50","<a href=http://www.uschess.org/msa/XtblMain.php?202310214492 target='_blank'>2023 NORTH TEXAS STATE SCHOLASTIC BLITZ</a>",
 "HOUSTON","2023-10-21","4","<a href=http://www.uschess.org/msa/XtblMain.php?202310213302 target='_blank'>CHESSPANDA10212023SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-04-07","31","<a href=http://www.uschess.org/msa/XtblMain.php?202304072232 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-04-02","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304029182 target='_blank'>APRIL 2ND 2023 SUNDAY SWISS</a>",
 "CYPRESS","2023-03-31","24","<a href=http://www.uschess.org/msa/XtblMain.php?202303318452 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2023-03-31","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303317942 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
