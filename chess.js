@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More than 200 Russian athletes have turned their backs on their homeland and left the country following Russia's attack on Ukraine. 150 of them are chess players. The Russian Chess Federation now wants to retain its talent through long-term financial support. In the summer, it signed a ten-year contract with Andrey Esipenko (pictured). | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-chess-federation-tries-to-keep-young-players",
+         "pubDate" : "Tue, 24 Oct 2023 09:26:46",
+         "title" : "Russian Chess Federation tries to keep young players"
+      },
+      {
+         "description" : "Some people claim that it is the duel knight vs bishop that makes chess so interesting. True or not, the duel knight vs bishop is almost always fascinating, in the middlegame and in the endgame. In the diagram position the knight is better than the bishop and White has a hidden way to win. Can you find it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/almost-always-fascinating-knight-vs-bishop",
+         "pubDate" : "Tue, 24 Oct 2023 09:00:00",
+         "title" : "Almost always fascinating: Knight vs Bishop"
+      },
+      {
+         "description" : "The 2023 FIDE Grand Swiss and FIDE Women's Grand Swiss will take place from 25th October to 5th November in Douglas, Isle of Man. Both events are part of the qualifications for the current World Championship cycle, with the top two players in the open event qualifying for the 2024 Candidates Tournament and the top two players in the Women's Grand Swiss qualifying for the 2024 Women's Candidates. The events will be played in 11 rounds, Swiss System, with 164 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-grand-swiss-2023-starts-in-the-isle-of-man/",
+         "pubDate" : "Tue, 24 Oct 2023 06:25:47",
+         "title" : "FIDE Grand Swiss 2023 starts in the Isle of Man"
+      },
+      {
+         "description" : "Arlen Abrashev won the 2000+ knockout of the ChessPunks Champs 2023, defeating NM Alexander Balkum in a final playoff. Tushar Anand went undefeated in every round to win the 1700-1999 division. Ivan Zhuk swept all of his matches to win the 1300-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-ko",
+         "pubDate" : "Mon, 23 Oct 2023 23:51:29",
+         "title" : "Improvers With Pro Coaching: Abrashev, Anand, Zhuk, Manucharyan Finish At Top"
+      },
+      {
          "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. The endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event, the world leading chess trainer, grandmaster Efstratios Grivas, shows you how to do the job, and help you understand the secrets hidden behind it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -586,28 +618,12 @@ news_feed (
          "title" : "Complaint Resolution"
       },
       {
-         "description" : "The English town of Colchester has opened its first chess park in memory of Dr Jonathan Penrose OBE, a Colchester-born double grandmaster who dominated British chess in the 1950s and 60s and went on to become the highest rated correspondence chess player in the world. Michael Adams joined the celebrations by playing a simul against surprisingly Colchester junior players. | Photo: Jonathan Penrose (Source: British Chess News)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/colchester-celebrates-chess-hero-jonathan-penrose",
-         "pubDate" : "Tue, 17 Oct 2023 06:59:06",
-         "title" : "Colchester celebrates chess hero Jonathan Penrose"
-      },
-      {
          "description" : "Reigning champion GM Fabiano Caruana&#38;nbsp;has successfully defended his title at the 2023 U.S. Championship, clinching the tournament with a round to spare and a 1.5-point lead over the field. The now three-time U.S. champion took a fitting path t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-10",
          "pubDate" : "Mon, 16 Oct 2023 21:16:00",
          "title" : "Caruana Becomes 3-Time U.S. Champion, Yip Surpasses Tokhirjonova"
-      },
-      {
-         "description" : "Piers Morgan is one of the best known interviewers of our day, having had one-on-ones with people of all walks of life and interests. Among the more unexpected guests on his program which is now streamed on YouTube was none other than Hans Niemann, who needs no introduction. Piers Morgan was exceptionally direct, and the interview speaks for itself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/piers-morgan-interviews-hans-niemann",
-         "pubDate" : "Mon, 16 Oct 2023 18:00:00",
-         "title" : "Piers Morgan interviews Hans Niemann"
       },
       {
          "description" : "Chess.com is excited to announce that we will be hosting the 2023 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on October 29&#38;nbsp;and the blitz championship on November 5. Registration is underway and contin...",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utrgv-slu",
          "pubDate" : "Sun, 15 Oct 2023 20:50:00",
          "title" : "Faultless Theodorou Cements Top Spot For SLU, UTRGV Conquers Yale"
-      },
-      {
-         "description" : "GM Narayanan Sunilduth Lyna is the first sole leader of the 2023 Qatar Masters after beating world number-eight Gukesh Dommaraju to move to 4.5/5. No fewer than 12 players are half a point back, including GM Hikaru Nakamura, and IM Vaishali R, who...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-5",
-         "pubDate" : "Sun, 15 Oct 2023 17:42:00",
-         "title" : "Gukesh, Giri Beaten; Narayanan In Sole Lead"
       },
       {
          "description" : "The yellow plaque near the bottom of this month's Flickr photo says, 'The White Rhino Was Thinking Ahead With Dogman's Encouragement'. The rest is unreadable even in the largest Flickr version of the photo. What more can we learn about it? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj15.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/londonmatt/53198904518/\">Rhino playing chess</A> &#169; Flickr user <I>Matt Brown</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>.<BR> <P> The photo had no description, but the tags were helpful:- <UL> <LI>london bridge city <LI>gillie and marc </UL> <P> From this we can locate a few",
