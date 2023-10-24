@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Federation has expanded the Women's Grand Prix series for the upcoming 2024-25 cycle. Instead of 16 players, there will now be 20. The number of tournaments has been increased from four to six, with ten players per tournament. The prize money has also been increased.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/important-changes-to-the-2024-women-s-grand-prix-series",
+         "pubDate" : "Tue, 24 Oct 2023 11:00:00",
+         "title" : "Important changes to the 2024 Women's Grand Prix series"
+      },
+      {
+         "description" : "Playing with the knight is easy and enjoyable if the position of your opponent resembles a Swiss cheese. If his pawn structure is full of holes, you simply transfer the knight to the best possible outpost and then enjoy watching how it destroys your opponent's army. However, things get much more difficult when your opponent's position is compact, without weaknesses. What to do with knights in such a case? Jan Markos has some answers. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-25-how-to-turn-a-knight-into-a-monster",
+         "pubDate" : "Tue, 24 Oct 2023 10:00:00",
+         "title" : "The Winning Academy 25: How to Turn a Knight into a Monster"
+      },
+      {
          "description" : "More than 200 Russian athletes have turned their backs on their homeland and left the country following Russia's attack on Ukraine. 150 of them are chess players. The Russian Chess Federation now wants to retain its talent through long-term financial support. In the summer, it signed a ten-year contract with Andrey Esipenko (pictured). | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,14 @@ news_feed (
          "title" : "Almost always fascinating: Knight vs Bishop"
       },
       {
+         "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/trainer-seminar-venue-shifted-from-guwahati-to-kolkata/",
+         "pubDate" : "Tue, 24 Oct 2023 08:43:45",
+         "title" : "Trainer Seminar venue shifted from Guwahati to Kolkata"
+      },
+      {
          "description" : "The 2023 FIDE Grand Swiss and FIDE Women's Grand Swiss will take place from 25th October to 5th November in Douglas, Isle of Man. Both events are part of the qualifications for the current World Championship cycle, with the top two players in the open event qualifying for the 2024 Candidates Tournament and the top two players in the Women's Grand Swiss qualifying for the 2024 Women's Candidates. The events will be played in 11 rounds, Swiss System, with 164 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-ko",
-         "pubDate" : "Mon, 23 Oct 2023 23:51:29",
+         "pubDate" : "Mon, 23 Oct 2023 23:51:00",
          "title" : "Improvers With Pro Coaching: Abrashev, Anand, Zhuk, Manucharyan Finish At Top"
       },
       {
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-online-nations-league-2024-official-invitation/",
          "pubDate" : "Mon, 23 Oct 2023 08:17:02",
          "title" : "European Youth Online Nations League 2024 - Official invitation"
+      },
+      {
+         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at Kamaraj College, Thoothukudi from 02-03 Dec 23. This two days' workshop",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
+         "pubDate" : "Mon, 23 Oct 2023 03:09:00",
+         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
       },
       {
          "description" : "Magnus Carlsen's disastrous loss to Alisher Suleymenov in Qatar has gone round the world, partly because it was an excellent game but mainly because it was so unusual: Carlsen's first defeat by such a relatively \"weak\" opponent since the Norwegian Championship of 2006! Unusual but not really that shocking. Anybody can have an off day, and the truly shocking thing is that Carlsen has managed for nearly two decades to avoid losing at classical chess to such an opponent. | Photo: Aditya Sur Roy",
@@ -586,28 +618,12 @@ news_feed (
          "title" : "'She's A Fighter!': Shuvalova Wins On Demand, Sweeps Trent 3-0 In Tiebreaks"
       },
       {
-         "description" : "Fabiano Caruana successfully defended his title at the 2023 U.S. Championship in Saint Louis. The 31-year-old beat Abhimanyu Mishra to secure tournament victory with a round to spare, and thus claimed his third U.S. title - Caruana won the championship in 2016, 2022 and 2023. Meanwhile, in the women's event, Carissa Yip beat Anna Zatonskih to leapfrog Gulrukhbegim Tokhirjonova atop the standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r10",
-         "pubDate" : "Tue, 17 Oct 2023 14:05:00",
-         "title" : "Fabiano Caruana claims third U.S. title with a round to spare"
-      },
-      {
          "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/10/lfg-round-robin.html",
          "pubDate" : "Tue, 17 Oct 2023 12:49:00",
          "title" : "LFG Round Robin"
-      },
-      {
-         "description" : "Knights can be powerful and quick, but sometimes they are also surprisingly helpless. Black's knight in the diagram position turned out to be powerful and quite tricky. What did Black do to let the knight shine?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-tricky-knight",
-         "pubDate" : "Tue, 17 Oct 2023 09:00:00",
-         "title" : "A tricky knight"
       },
       {
          "description" : "A complaint was raised by Chris Fegan in relation to matters arising while he was Director of Women's Chess which was rejected. CF appealed against...",
@@ -866,14 +882,6 @@ news_feed (
          "title" : "Congratulations Raunak Sadhwani for the FIDE World Junior Rapid Chess Championship title"
       },
       {
-         "description" : "Kind Attention : All Players/Coaches/Accompanying persons of World Cadet Chess Championship-2023 at Sharm el Sheikh, Egypt from 14 Oct to 23 Oct 23. \"Considering the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cadet-chess-championship-2023/",
-         "pubDate" : "Thu, 12 Oct 2023 17:55:07",
-         "title" : "World Cadet Chess Championship-2023"
-      },
-      {
          "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rhodes-report-three-from-owen-phillips/",
          "pubDate" : "Thu, 12 Oct 2023 08:13:34",
          "title" : "Rhodes - report three from Owen Phillips"
-      },
-      {
-         "description" : "36th National Under11 Open Chess Championship and 36th National under 11 Girls Chess Championship held at Visakhapatnam, Andhra from 1st to 7th October 2023 for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/36th-national-under11-chess-championship-2023/",
-         "pubDate" : "Thu, 12 Oct 2023 06:53:17",
-         "title" : "36th National Under11 Chess Championship 2023"
       },
       {
          "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
