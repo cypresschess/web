@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. In the first instalment of this series world leading chess trainer GM Efstratios Grivas showed us why the endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event (one by Carlsen) he is showing us how to play the endgame, and understand the secrets hidden behind it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-two-minor-pieces-2",
+         "pubDate" : "Tue, 24 Oct 2023 19:00:00",
+         "title" : "Rook vs. Two Minor Pieces - Part two"
+      },
+      {
          "description" : "The World Chess Federation has expanded the Women's Grand Prix series for the upcoming 2024-25 cycle. Instead of 16 players, there will now be 20. The number of tournaments has been increased from four to six, with ten players per tournament. The prize money has also been increased.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1128,22 +1136,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-are-halfway-through/",
          "pubDate" : "Wed, 04 Oct 2023 20:51:45",
          "title" : "European Open&Women's Chess Club Cups 2023 are halfway through"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2667",
-         "pubDate" : "Tue, 03 Oct 2023 16:17:51 +0000",
-         "title" : "Five years since the election of Arkady Dvorkovich as the President of FIDE"
-      },
-      {
-         "description" : "In last month's post about American chess magazines of 50 and 25 years ago -- <A HREF=\"https://chessforallages.blogspot.com/2023/09/september-1973-1998-on-cover.html\">September 1973 & 1998 'On the Cover'</A> (September 2023) -- the 1973 side was about the World Championship and the 1998 side was about important American tournaments. For this month's post, the roles are reversed. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj03.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Hall of Fame Inducts Milan Vukcevich' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> U.S. Open Champion Norman Weinstein of Massachusetts with his trophy. See [insi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/october-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 03 Oct 2023 15:56:00",
-         "title" : "October 1973 & 1998 'On the Cover'"
       }
    ]
 }
