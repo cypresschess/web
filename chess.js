@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games. 2023.10.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra",
+         "pubDate" : "Tue, 24 Oct 2023 22:20:32",
+         "title" : "Tactical Vision | Grandmaster's Choice - GM Akshat Chandra"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan debuts on YouTube&#039;s Beginner Breakdown with a chess class on decoys. A decoy is a tactic that lures an enemy piece off its square and away from its defensive role. 2023.10.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hihzNGHzOKY.jpg?itok=RRv1Rz",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan",
+         "pubDate" : "Tue, 24 Oct 2023 22:20:32",
+         "title" : "Decoys: Dupe the Defender | Beginner Breakdown - NM Ralph Tan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2698",
+         "pubDate" : "Tue, 24 Oct 2023 21:15:25 +0000",
+         "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
+      },
+      {
          "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. In the first instalment of this series world leading chess trainer GM Efstratios Grivas showed us why the endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event (one by Carlsen) he is showing us how to play the endgame, and understand the secrets hidden behind it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,22 +600,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-so-gives-his-impressions-mishra-shorts",
          "pubDate" : "Wed, 18 Oct 2023 01:13:45",
          "title" : "2023 US Chess Championships R11 | Wesley So gives his impressions on Mishra | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-r11-begim-takes-advantage-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ezWCtiDTDVk.jpg?itok=q6Xg79_0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-begim-takes-advantage-shorts",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "2023 US Chess Championships R11 | Begim takes the advantage | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-r11-wesley-and-fabi-both-remain-undefeated-final-day-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yJpht0zfmaI.jpg?itok=NqZrbHlW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-and-fabi-both-remain-undefeated-final-day-shorts",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "2023 US Chess Championships R11 | Wesley and Fabi both remain undefeated on final day! | #shorts"
       },
       {
          "description" : "The U.S. Women&#39;s Championship concluded with a shocking last day of all decisive games that left IM Carissa Yip at the top of the standings, earning her second title. Defending champion WGM Jennifer Yu influenced the fate of the championship by ...",
