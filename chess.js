@@ -74,6 +74,14 @@ news_feed (
          "title" : "31st World Senior Chess Championship 2023 - Games and Results"
       },
       {
+         "description" : "British chess sensation WCM Bodhana Sivanandan made history today, scoring 10/10 to become England&#39;s first world youth champion in 25 years and complete a historic triple crown. The eight-year-old prodigy is dominating the Girls Under 8 category...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/8-year-old-bodhana-scores-historic-triple-world-championship-title",
+         "pubDate" : "Wed, 25 Oct 2023 09:11:00",
+         "title" : "8-Year-Old Makes Chess History: England's First World Youth Champion in 25 Years"
+      },
+      {
          "description" : "The Candidates Tournament and the Women's Candidates Tournament will be played simultaneously next year in Toronto. Four spots are still up for grabs in the open event, while three participants remain to be decided among the women. In both cases, two spots will be decided in the upcoming Grand Swiss tournaments. Let us recap who already qualified, and who are the frontrunners to get the remaining spots. | Pictured: Elite grandmasters apparently discussing a position during the Grand Swiss opening ceremony. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,12 +170,12 @@ news_feed (
          "title" : "FIDE Grand Swiss 2023 starts in the Isle of Man"
       },
       {
-         "description" : "Arlen Abrashev won the 2000+ knockout of the ChessPunks Champs 2023, defeating NM Alexander Balkum in a final playoff. Tushar Anand went undefeated in every round to win the 1700-1999 division. Ivan Zhuk swept all of his matches to win the 1300-...",
+         "description" : "Arlen Abdrashev won the 2000+ knockout of the ChessPunks Champs 2023, defeating NM Alexander Balkum in a final playoff. Tushar Anand went undefeated in every round to win the 1700-1999 division. Ivan Zhuk swept all of his matches to win the 1300...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-ko",
          "pubDate" : "Mon, 23 Oct 2023 23:51:00",
-         "title" : "Improvers With Pro Coaching: Abrashev, Anand, Zhuk, Manucharyan Finish At Top"
+         "title" : "Improvers With Pro Coaching: Abdrashev, Anand, Zhuk, Manucharyan Finish At Top"
       },
       {
          "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. The endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event, the world leading chess trainer, grandmaster Efstratios Grivas, shows you how to do the job, and help you understand the secrets hidden behind it.",
@@ -792,22 +800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2685",
          "pubDate" : "Sun, 15 Oct 2023 22:37:16 +0000",
          "title" : "FIDE World Junior Blitz Championship: Muradli and Balabayeva clinch titles"
-      },
-      {
-         "description" : "GM Fabiano Caruana cemented his lead by defeating GM Hans Niemann&#38;mdash;the player who&#39;s been chasing him since round four&#38;mdash;on day nine of the 2023 U.S. Championship. Though Caruana is a full point ahead, GMs Wesley So, Leinier Dominguez, and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-9",
-         "pubDate" : "Sun, 15 Oct 2023 20:52:00",
-         "title" : "Caruana Defeats Niemann, Tokhirjonova Seizes Clear Lead"
-      },
-      {
-         "description" : "The University of Texas Rio Grande Valley (UTRGV) and Saint Louis University (SLU) convincingly won their matchups against Yale University and The University of Chicago (UChicago), respectively, in the fourth week of the SIG-sponsored 2023 Collegi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-utrgv-slu",
-         "pubDate" : "Sun, 15 Oct 2023 20:50:00",
-         "title" : "Faultless Theodorou Cements Top Spot For SLU, UTRGV Conquers Yale"
       },
       {
          "description" : "The yellow plaque near the bottom of this month's Flickr photo says, 'The White Rhino Was Thinking Ahead With Dogman's Encouragement'. The rest is unreadable even in the largest Flickr version of the photo. What more can we learn about it? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj15.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/londonmatt/53198904518/\">Rhino playing chess</A> &#169; Flickr user <I>Matt Brown</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>.<BR> <P> The photo had no description, but the tags were helpful:- <UL> <LI>london bridge city <LI>gillie and marc </UL> <P> From this we can locate a few",
