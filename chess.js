@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2701",
+         "pubDate" : "Wed, 25 Oct 2023 22:56:25 +0000",
+         "title" : "FIDE World Senior Championship 2023 kicks off in Terrasini, Italy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2700",
+         "pubDate" : "Wed, 25 Oct 2023 22:15:34 +0000",
+         "title" : "FIDE Grand Swiss: Day 1 Recap"
+      },
+      {
+         "description" : "32 players lead the&#38;nbsp;2023 FIDE Grand Swiss and 15 in the 2023 FIDE Women&#39;s Grand Swiss after round one. In the Open, top seed GM Fabiano Caruana leads the pack after winning a spectacular game against GM Ivan Saric. Other notable wins (of ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-1",
+         "pubDate" : "Wed, 25 Oct 2023 15:54:24",
+         "title" : "Caruana Hits Ground Running, Leads Pack of 32 Winners"
+      },
+      {
          "description" : "The Deputy Chairperson of FIDE Management Board and Women Grandmaster Ms. Dana Reizniece Ozola along with Chairman FIDE Advisory Board Mr. Bharat Singh Chauhan had",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/the-deputy-chairperson-of-fide-management-board-ms-dana-reizniece-ozola-met-honble-chief-minister-of-odisha-shri-naveen-patnaik/",
          "pubDate" : "Wed, 25 Oct 2023 15:24:42",
          "title" : "The Deputy Chairperson of FIDE Management Board Ms. Dana Reizniece Ozola met Hon'ble Chief Minister of Odisha Shri Naveen Patnaik"
+      },
+      {
+         "description" : "The green pawn took over TwitchCon! With the rise of chess on Twitch in the past three years, we&#38;rsquo;ve seen more and more streamers eager to try the game, whether online or over the board. Since PogChamps launched three years ago and skyrockete...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
+         "pubDate" : "Wed, 25 Oct 2023 15:24:40",
+         "title" : "Chess.com Takes Over TwitchCon"
       },
       {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
@@ -786,14 +818,6 @@ news_feed (
          "title" : "ECU Board Meeting in Tirana, Albania"
       },
       {
-         "description" : "Chess.com&#38;rsquo;s top event for women, the $70,000 Julius Baer Women&#38;rsquo;s Speed Chess Championship, is back next month and this time with a big-name sponsor and six of the strongest players on the planet. Defending champion GM Kateryna Lagno ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hou-yifan-lagno-in-2023-julius-baer-womens-speed-chess-championship",
-         "pubDate" : "Mon, 16 Oct 2023 05:45:00",
-         "title" : "Hou Yifan Out For Revenge Against Lagno In 2023 Julius Baer Women's Speed Chess Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,30 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2668",
          "pubDate" : "Thu, 05 Oct 2023 08:52:41 +0000",
          "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
-      },
-      {
-         "description" : " The US Chess Championships take place in Saint Louis 5th to 18th October. Players: Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominquez, Sam Shankland, Sam Sevian, Hans Niemann, Ray Robson, Dariusz Swiercz, Jeffery Xiong, Abhimanyu Mishra, Andrew Tang, Women's: Irina Krush, Carissa Yip, Alice Lee, Anna Zatonskih, Gulrukhbegim Tokhirjonova, Nazi Paikidze, Jennifer Yu, Atousa Pourkashiyan, Ashritha Eswaran, Tatev Abrahamyan, Thalia Cervantes, Ruiyang Yan.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championships-2023",
-         "pubDate" : "Wed, 4 Oct 2023 22:48:00",
-         "title" : "US Chess Championships 2023 - Games and Results"
-      },
-      {
-         "description" : " The 38th European Club Cup takes place in Durres, Albania 30th September to 8th October 2023. Magnus Carlsen turns out for his club Offerspill and other strong players such as Anand, Rapport, Mamedyarov and MVL also play.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/38th-european-club-cup-2023",
-         "pubDate" : "Wed, 4 Oct 2023 22:40:00",
-         "title" : "38th European Club Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "Four rounds have been already played at the 38th European Chess Club Cup and at the 27th European Women's Chess Club Cup in Durres, Albania, and only three rounds left to be played before the announcement of the Winners. Only four teams remained perfect in the Open section and emerged as the leaders with 8 match points: Offerspill Sjakklubb (Norway), Asnieres Le Grand Echiquier (France), Novy Bor (Czech Republic) and Superchess (Romania). The leaders prevailed in very exciting matches, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-openwomens-chess-club-cups-2023-are-halfway-through/",
-         "pubDate" : "Wed, 04 Oct 2023 20:51:45",
-         "title" : "European Open&Women's Chess Club Cups 2023 are halfway through"
       }
    ]
 }
