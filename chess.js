@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games. 2023.10.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
+         "description" : "The Candidates Tournament and the Women's Candidates Tournament will be played simultaneously next year in Toronto. Four spots are still up for grabs in the open event, while three participants remain to be decided among the women. In both cases, two spots will be decided in the upcoming Grand Swiss tournaments. Let us recap who already qualified, and who are the frontrunners to get the remaining spots. | Pictured: Elite grandmasters apparently discussing a position during the Grand Swiss opening ceremony. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/race-for-candidates-october-2023",
+         "pubDate" : "Wed, 25 Oct 2023 03:05:00",
+         "title" : "Race for the Candidates: Four places still up for grabs"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Tactical Vision | Grandmaster's Choice - GM Akshat Chandra"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan debuts on YouTube&#039;s Beginner Breakdown with a chess class on decoys. A decoy is a tactic that lures an enemy piece off its square and away from its defensive role. 2023.10.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hihzNGHzOKY.jpg?itok=RRv1Rz",
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan debuts on YouTube's Beginner Breakdown with a chess class on decoys. A decoy is a tactic that lures an enemy piece off its square and away from its defensive role. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hihzNGHzOKY.jpg?itok=RRv1RzS7\" alt=\"\" /></a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
          "pubDate" : "Wed, 18 Oct 2023 08:00:41",
          "title" : "ECF National Club Championships 2023 start on Friday 20/10"
-      },
-      {
-         "description" : "Four players are sharing the lead with 5/6 points at the Qatar Masters in Doha. Indian GM Narayanan S.L., the sole leader before the rest day, drew Nodirbek Abdusattorov on Tuesday, allowing Arjun Erigaisi (India), Javokhir Sindarov (Uzbekistan) and Nodirbek Yakubboev (Uzbekistan) to join the lead. Among the eight players standing at a half point distance are rating favourites Magnus Carlsen and Hikaru Nakamura. In round 6, Carlsen beat Aditya Samant with the black pieces. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r6",
-         "pubDate" : "Wed, 18 Oct 2023 08:00:00",
-         "title" : "Qatar Masters: Arjun, Sindarov and Yakubboev join the lead"
       },
       {
          "description" : "The medallists were &#8212; Gold and World Champion GM Marcin Tazbir (Poland) 8/9! Silver and a good defence of his title IM Predrag Nikac (Montenegro)...",
