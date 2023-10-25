@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When it comes to internal politics, our noble game is anything but 'noble'. Nasty games can be played within federations for personal gain and power at immense expense to chess players. Disagreements and anomalies have affected the work of some federations at various degrees, but it seems that no one has suffered as much or as long as chess in Morocco. Diana Mihajlova reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess",
+         "pubDate" : "Wed, 25 Oct 2023 12:45:00",
+         "title" : "Never Ending Saga of Moroccan Chess"
+      },
+      {
+         "description" : "On Tuesday evening, the Grand Swiss Tournaments 2023 were ceremonially opened at Villa Marina on the Isle of Man and the colours for the first round were drawn. The field is strong, the pairings are exciting. | Photos: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-grand-swiss-and-fide-women-s-grand-swiss-2023-kick-off-in-the-isle-of-man",
+         "pubDate" : "Wed, 25 Oct 2023 12:20:41",
+         "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
+      },
+      {
+         "description" : " The FIDE Grand Swiss takes place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2023",
+         "pubDate" : "Wed, 25 Oct 2023 10:58:00",
+         "title" : "FIDE Grand Swiss 2023 - Games and Results"
+      },
+      {
+         "description" : "India is beginning to seriously dominate the chess world, the country is on a path to becoming the super-power in the game. This is deeply gratifying - especially for the people involved in the training and advancement of the young stars. Frederic Friedel describes how the new group of super-talents is making its way to the very top. Other countries should take this as an example!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/super-talents-and-the-secret-of-success",
+         "pubDate" : "Wed, 25 Oct 2023 10:00:00",
+         "title" : "Super-talents and the secret of success"
+      },
+      {
+         "description" : " The 31st World Senior Chess Championship takes place in Citt&agrave;a del Mare in Sicily. There are 3 sections, over 50, over 65 and women's. Michael Adams, Hannes Stefansson, Maxime Dlugy, John Nunn, Rafael Vaganian, Lubomir Ftacnik and Nona Gaprindashvili are the top seeds in these various sections. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/31st-world-senior-chess-championship-2023",
+         "pubDate" : "Wed, 25 Oct 2023 09:41:00",
+         "title" : "31st World Senior Chess Championship 2023 - Games and Results"
+      },
+      {
          "description" : "The Candidates Tournament and the Women's Candidates Tournament will be played simultaneously next year in Toronto. Four spots are still up for grabs in the open event, while three participants remain to be decided among the women. In both cases, two spots will be decided in the upcoming Grand Swiss tournaments. Let us recap who already qualified, and who are the frontrunners to get the remaining spots. | Pictured: Elite grandmasters apparently discussing a position during the Grand Swiss opening ceremony. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -440,30 +480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2692",
          "pubDate" : "Thu, 19 Oct 2023 13:39:06 +0000",
          "title" : "FIDE Executive Director Victor Bologan visits Kenya"
-      },
-      {
-         "description" : "At some point, it seemed like the title was going to slip away from her hands, but things finally went Carissa Yip's way on Tuesday, as she claimed outright tournament victory to become a 2-time U.S. women's chess champion. The 20-year-old lost her final-round game against Ruiyang Yan (her first loss of the event), and saw title contender Gulrukhbegim Tokhirjonova failing to find a drawing line and eventually losing to Jennifer Yu. In the open championship, Abhimanyu Mishra finished the tournament in style, beating Levon Aronian to climb to shared second place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-r11",
-         "pubDate" : "Thu, 19 Oct 2023 10:30:00",
-         "title" : "Carissa Yip grabs second U.S. women's title after dramatic final round"
-      },
-      {
-         "description" : "Karthikeyan Murali became the third Indian player to ever beat Magnus Carlsen in a classical chess game, as he defeated the former world champion with the black pieces in round 7 of the Qatar Masters. Thanks to the upset win, Karthikeyan joined a 6-player leading pack with two rounds to go in Doha. Smilarly, David Paravyan became a co-leader by beating one of the rating favourites, as he got the better of Dommaraju Gukesh on board 5. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r7",
-         "pubDate" : "Thu, 19 Oct 2023 10:25:00",
-         "title" : "Qatar Masters: Karthikeyan stuns Carlsen, joins the lead"
-      },
-      {
-         "description" : "In his Game of the Week show #590 Merijn Van Delft looks at a crucial game from the US Championship: Fabiano Caruana's win with Black over Hans Niemann, a fine game that helped Caruana become the 2023 US Champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-590-h-niemann-vs-f-caruana",
-         "pubDate" : "Thu, 19 Oct 2023 10:23:15",
-         "title" : "Game of the Week #590: H. Niemann vs F. Caruana"
       },
       {
          "description" : "Chess.com is excited to announce the release of GM Fabiano Caruana&#39;s Ruy Lopez: Dark Archangel course, now available on Chessable. Consistently ranking as the world number two and widely known for his unparalleled opening preparation, Caruana is i...",
@@ -1040,6 +1056,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2672",
          "pubDate" : "Sat, 07 Oct 2023 18:55:32 +0000",
          "title" : "Asian Games: Iran and China win team competitions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2699",
+         "pubDate" : "Sat, 07 Oct 2023 11:16:54 +0000",
+         "title" : "ISCU celebrates World Teachers' Day with a massive Chess in Schools promotion"
       },
       {
          "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
