@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Deputy Chairperson of FIDE Management Board and Women Grandmaster Ms. Dana Reizniece Ozola along with Chairman FIDE Advisory Board Mr. Bharat Singh Chauhan had",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/the-deputy-chairperson-of-fide-management-board-ms-dana-reizniece-ozola-met-honble-chief-minister-of-odisha-shri-naveen-patnaik/",
+         "pubDate" : "Wed, 25 Oct 2023 15:24:42",
+         "title" : "The Deputy Chairperson of FIDE Management Board Ms. Dana Reizniece Ozola met Hon'ble Chief Minister of Odisha Shri Naveen Patnaik"
+      },
+      {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Wed, 25 Oct 2023 15:15:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
          "description" : "When it comes to internal politics, our noble game is anything but 'noble'. Nasty games can be played within federations for personal gain and power at immense expense to chess players. Disagreements and anomalies have affected the work of some federations at various degrees, but it seems that no one has suffered as much or as long as chess in Morocco. Diana Mihajlova reports.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,28 @@ news_feed (
          "title" : "Never Ending Saga of Moroccan Chess"
       },
       {
+         "description" : " The World Seniors is one event that seems to grow in popularity each year. The 2023 edition begins today in Italy, with 300 players across 3 sections (50+, 65+ and Women's 50+). Each event is headed by a GM, with Michael Adams the top seed in the 50+, John Nunn in the 65+ and Nona Gaprindashvili in the Women's. Australia only has one representative (Aurel John-Buciu) but New Zealand has 7. There are also 27 GM's playing across the event, with 16 in the 50+ Due to the timezone difference I don't think the frst round has started just yet, but you should be able to keep up with the tournament at <a href=\"https://www.worldseniorchess2023.com\">https://www.worldseniorchess2023.com</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/2023-world-seniors.html",
+         "pubDate" : "Wed, 25 Oct 2023 12:37:00",
+         "title" : "2023 World Seniors"
+      },
+      {
          "description" : "On Tuesday evening, the Grand Swiss Tournaments 2023 were ceremonially opened at Villa Marina on the Isle of Man and the colours for the first round were drawn. The field is strong, the pairings are exciting. | Photos: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-grand-swiss-and-fide-women-s-grand-swiss-2023-kick-off-in-the-isle-of-man",
          "pubDate" : "Wed, 25 Oct 2023 12:20:41",
          "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
+      },
+      {
+         "description" : "please find live link for 2nd IM Norm https://live.tamilchess.com/2nd-im-norm-pollachi/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-telecast-2nd-im-norm/",
+         "pubDate" : "Wed, 25 Oct 2023 12:06:10",
+         "title" : "Live Telecast :2nd IM Norm"
       },
       {
          "description" : " The FIDE Grand Swiss takes place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc etc",
@@ -434,14 +466,6 @@ news_feed (
          "title" : "FIDE TRAINER SEMINARS"
       },
       {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris is looking at a spectacular miniature played by Magnus Carlsen in the first round of the Qatar Masters Open. A very instructive masterpiece, completed with a splendid mating attack! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-masterpiece-by-magnus-carlsen",
-         "pubDate" : "Thu, 19 Oct 2023 18:00:00",
-         "title" : "Robert Ris' Fast and Furious: A masterpiece by Magnus Carlsen"
-      },
-      {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -810,14 +834,6 @@ news_feed (
          "title" : "World Cadet U8, U10, U12 Championships 2023 rescheduled"
       },
       {
-         "description" : "36th National Under-11 Chess Championship 2023, Certificates are out to download Open : https://aicf.online/National-U-11.html Girls : https://aicf.online/National-U-11(Girls).html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-11-certificates-2/",
-         "pubDate" : "Sat, 14 Oct 2023 10:28:14",
-         "title" : "National U-11 Certificates"
-      },
-      {
          "description" : "Leonard Barden, the world's longest-serving chess journalist, recently celebrated his 94th birthday. He was born Leonard William Barden in Croydon, London on August 20th 1929. He was joint British Champion in 1954 and was 1st= in 1958 but lost to Penrose in the play-off. In 1952 he was 1st at Paignton, ahead of Grandmaster Daniel []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2681",
          "pubDate" : "Thu, 12 Oct 2023 20:07:00 +0000",
          "title" : "World Junior Rapid Chess Championship: Raunak Sadhwani and Govhar Beydullayeva win titles"
-      },
-      {
-         "description" : "GM Raunak Sadhwani clinched the FIDE World Junior Rapid Chess Championship at Sardinia Italy, scoring 8.5 points from11 rounds. Congratulations Raunak!! PC : FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-raunak-sadhwani-for-the-fide-world-junior-rapid-chess-championship-title/",
-         "pubDate" : "Thu, 12 Oct 2023 18:49:23",
-         "title" : "Congratulations Raunak Sadhwani for the FIDE World Junior Rapid Chess Championship title"
       },
       {
          "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
