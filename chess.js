@@ -10,7 +10,7 @@ news_feed (
          "title" : "Race for the Candidates: Four places still up for grabs"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games, including a win over Ben Finegold. Akshat takes questions at the end from Yasser Seirawan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra",
