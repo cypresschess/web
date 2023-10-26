@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"hedgehog\" structure is a very resistant structure that also offers many possibilities for active play. It is not the specific variations that are important, but the knowledge of the typical ideas and plans. Dutch coach Herman Grooten teaches this in his Fritztrainer course \"Key concepts of Chess - The Hedgehog\". Philipp Hillebrand had a look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts-of-chess-the-hedgehog-a-review",
+         "pubDate" : "Thu, 26 Oct 2023 11:00:00",
+         "title" : "Herman Grooten: Key concepts of Chess - The Hedgehog - A review"
+      },
+      {
          "description" : "He is an internist, a gastroenterologist at a Berlin hospital. He is also an avid chess player. And a photographer, who founded the Valokulta art group. Dr Jan W&auml;hner has sent us some extraordinary pictures from the 2024 calendar, for which his good friend GM Dr Helmut Pfleger has written the foreword.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-william-ewart-napier-the-english-born-wonder-of-brooklyn-new-york-january-17-1881-september-6-1952",
          "pubDate" : "Fri, 20 Oct 2023 10:00:00",
          "title" : "Remembering William Ewart Napier: The English-born Wonder of Brooklyn, New York (January 17, 1881 - September 6, 1952)"
-      },
-      {
-         "description" : "The Qatar Masters, one of the strongest open tournaments of the year, is taking place on October 11-20. A star-studded field with Magnus Carlsen, Hikaru Nakamura and Anish Giri as the top seeds fights for a prize fund of $108,250. | Follow the games live with computer-assisted analysis starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-live",
-         "pubDate" : "Fri, 20 Oct 2023 09:55:00",
-         "title" : "Qatar Masters - Live!"
       },
       {
          "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistani namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM A...",
@@ -1152,22 +1152,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/mystery-painting-in-denmark.html",
          "pubDate" : "Thu, 05 Oct 2023 15:08:00",
          "title" : "'Mystery Painting' in Denmark"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2669",
-         "pubDate" : "Thu, 05 Oct 2023 10:50:32 +0000",
-         "title" : "Teams from 50 countries to participate in 3rd Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2668",
-         "pubDate" : "Thu, 05 Oct 2023 08:52:41 +0000",
-         "title" : "World Chess Championship for the Blind starts on October 08 in Rhodes"
       }
    ]
 }
