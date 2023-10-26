@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/06/chess-world-juniors-lacks-big-names-but-maurizzi-has-potential-to-be-a-star",
          "pubDate" : "Fri, 06 Oct 2023 07:00:35",
          "title" : "Chess: World Juniors lacks big names but Maurizzi has potential to be a star"
-      },
-      {
-         "description" : " Ian Wilkinson leaving the Women's World Cup held in Australia. The Jamaicans made the round of 16.Photo courtesy of Ian Wilkinson Turks &#38; Caicos is an island of 45,000, yet big things are happening there. Jamaica's Ian Wilkinson, a member of the elite corps of attorneys known as the &#8220;King's Counsel&#8221; (KC) has just completed The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/\">Turks &#038; Caicos on chess map!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/",
-         "pubDate" : "Thu, 05 Oct 2023 18:17:49",
-         "title" : "Turks & Caicos on chess map!"
       }
    ]
 }
