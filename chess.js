@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stewart Reuben has officiated and/or organised several top-level chess events held in Great Britain and other countries, including the World Chess Championship, the British Chess Championship and a number of Hastings Congresses. Also an author and a poker player, he even met and played Bobby Fischer: \"Each game he won, he gained $1. Had I ever won one, I would have received $10\". | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stewart-reuben-interview-uvencio-blanco",
+         "pubDate" : "Thu, 26 Oct 2023 02:00:00",
+         "title" : "Stewart Reuben: \"My edge was that I got to play Bobby Fischer\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -22,8 +30,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-1",
-         "pubDate" : "Wed, 25 Oct 2023 15:54:24",
-         "title" : "Caruana Hits Ground Running, Leads Pack of 32 Winners"
+         "pubDate" : "Wed, 25 Oct 2023 15:54:00",
+         "title" : "Caruana Leads Pack Of 32 Winners"
       },
       {
          "description" : "The Deputy Chairperson of FIDE Management Board and Women Grandmaster Ms. Dana Reizniece Ozola along with Chairman FIDE Advisory Board Mr. Bharat Singh Chauhan had",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-9",
          "pubDate" : "Fri, 20 Oct 2023 09:42:00",
          "title" : "Yakubboev Wins Qatar Masters After Heartbreaking Blunder By Arjun"
-      },
-      {
-         "description" : "Round 8 of the Qatar Masters saw Arjun Erigaisi beating David Paravyan to enter Friday's final round as the sole leader, with six players standing a half point behind. Among these six chasers are Hikaru Nakamura and Nodirbek Abdusattorov - Arjun's rival in round 9 - who both grabbed wins on Thursday. Former co-leaders Karthikeyan Murali, Narayanan S.L., Javokhir Sindarov and Nodirbek Yakubboev still have chances to win the event as well. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r8",
-         "pubDate" : "Fri, 20 Oct 2023 09:30:00",
-         "title" : "Qatar Masters: Arjun enters final round as sole leader"
       },
       {
          "description" : " The 31-year-old won his third US title and is returning to his 2018 form when he kept Magnus Carlsen close for the world title Fabiano Caruana retained his US Championship this week in his home town of St Louis, scoring an unbeaten five wins and six draws. The 31-year-old already looks a clear favourite in 2024 to win the world title which narrowly eluded him in 2018, when he drew all 12 classical games against Magnus Carlsen before losing the speed tiebreak. In the past, Caruana has seemed a reserved personality, in contrast to the outgoing and articulate Carlsen, but in the past year he has gained many new admirers through his weekly <a href=\"https://www.youtube.com/@csqpod\" title=\"\">C-Sq",
