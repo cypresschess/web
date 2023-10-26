@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2703",
+         "pubDate" : "Thu, 26 Oct 2023 22:56:01 +0000",
+         "title" : "Winners crowned at World Cadets Chess Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2702",
+         "pubDate" : "Thu, 26 Oct 2023 21:51:13 +0000",
+         "title" : "FIDE Grand Swiss: Trench warfare in Round 2"
+      },
+      {
          "description" : "In his Game of the Week show #591 Merijn Van Delft looks at an unusually creative attacking game played by German Grandmaster Frederik Svane against Tigran Gharamian in the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -94,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
-         "pubDate" : "Wed, 25 Oct 2023 15:24:40",
+         "pubDate" : "Wed, 25 Oct 2023 15:24:00",
          "title" : "Chess.com Takes Over TwitchCon"
       },
       {
