@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He is an internist, a gastroenterologist at a Berlin hospital. He is also an avid chess player. And a photographer, who founded the Valokulta art group. Dr Jan W&auml;hner has sent us some extraordinary pictures from the 2024 calendar, for which his good friend GM Dr Helmut Pfleger has written the foreword.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-doctor-chess-artist",
+         "pubDate" : "Thu, 26 Oct 2023 09:00:00",
+         "title" : "The Doctor Chess Artist"
+      },
+      {
          "description" : "Stewart Reuben has officiated and/or organised several top-level chess events held in Great Britain and other countries, including the World Chess Championship, the British Chess Championship and a number of Hastings Congresses. Also an author and a poker player, he even met and played Bobby Fischer: \"Each game he won, he gained $1. Had I ever won one, I would have received $10\". | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-11",
          "pubDate" : "Tue, 17 Oct 2023 21:44:00",
          "title" : "From The Depths Of Despair, Yip Becomes 2-Time U.S. Women's Champion"
-      },
-      {
-         "description" : "The U.S. Chess Championships took place on October 5-18 in Saint Louis, Missouri. Both the open and the women's tournaments were 12-player round robins. Fabiano Caruana and Carissa Yip were the outright winners, with Caruana grabbing his third U.S. title and Yip collecting her second U.S. women's title. | Replay all the games with computer-assisted analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-live",
-         "pubDate" : "Tue, 17 Oct 2023 19:55:00",
-         "title" : "U.S. Championships - Games and standings"
       },
       {
          "description" : "World number-one Magnus Carlsen exploited a blunder by IM Samant Aditya S to win a third game in four rounds and catch GM Hikaru Nakamura, who was held to a draw by GM David Paravyan. With three rounds to go the favorites are half a point behind a...",
