@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #591 Merijn Van Delft looks at an unusually creative attacking game played by German Grandmaster Frederik Svane against Tigran Gharamian in the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-591-f-svane-vs-t-gharamian",
+         "pubDate" : "Thu, 26 Oct 2023 17:00:00",
+         "title" : "Game of the Week #591: F. Svane vs T. Gharamian"
+      },
+      {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Thu, 26 Oct 2023 15:30:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Thu, 26 Oct 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "As expected, hard-fought, exciting games were the norm on the opening day at the Grand Swiss tournaments on the Isle of Man. In the open, 32 players started with wins, including top seed Fabiano Caruana, Richard Rapport (pictured) and Levon Aronian. In the women's event, meanwhile, 15 participants scored full points, with none of the top three seeds getting more than a draw. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r1",
+         "pubDate" : "Thu, 26 Oct 2023 14:00:00",
+         "title" : "Grand Swiss: Duda wins stunner, Goryachkina escapes"
+      },
+      {
          "description" : "The \"hedgehog\" structure is a very resistant structure that also offers many possibilities for active play. It is not the specific variations that are important, but the knowledge of the typical ideas and plans. Dutch coach Herman Grooten teaches this in his Fritztrainer course \"Key concepts of Chess - The Hedgehog\". Philipp Hillebrand had a look at the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
          "pubDate" : "Wed, 25 Oct 2023 15:24:40",
          "title" : "Chess.com Takes Over TwitchCon"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Wed, 25 Oct 2023 15:15:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "When it comes to internal politics, our noble game is anything but 'noble'. Nasty games can be played within federations for personal gain and power at immense expense to chess players. Disagreements and anomalies have affected the work of some federations at various degrees, but it seems that no one has suffered as much or as long as chess in Morocco. Diana Mihajlova reports.",
@@ -426,22 +450,6 @@ news_feed (
          "title" : "Live Games:21st North East chess championship 2023"
       },
       {
-         "description" : "Uzbek grandmaster Nodirbek Yakubboev beat compatriot Nodirbek Abdusattorov in blitz tiebreaks to win the Qatar Masters in Doha. Yakubboev entered the tournament as the 19th seed, and obtained a round-9 victory over Karthikeyan Murali to reach the tiebreaks. Abdusattorov, on his part, defeated former sole leader Arjun Erigaisi in the final round of classical chess. Arjun made a very unfortunate blunder to lose the all-important encounter. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/qatar-masters-2023-r9",
-         "pubDate" : "Fri, 20 Oct 2023 22:10:00",
-         "title" : "Nodirbek Yakubboev wins Qatar Masters in blitz tiebreaks"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King takes some games from the Qatar Masters as his starting point, and then focuses on one of Carlsen's games where he was outplayed. This takes him to a game of Boris Spassky, who played the same sideline of the Spanish back in the late 1980s! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-in-trouble",
-         "pubDate" : "Fri, 20 Oct 2023 17:00:00",
-         "title" : "Daniel King's Power Play Show: Carlsen in trouble"
-      },
-      {
          "description" : "Turkish Women&#39;s Champion and WGM Kubra Ozturk Orenli says her federation terminated her monthly salary and dropped her from the national team once they found out that she was pregnant. Ozturk Orenli gave birth to her second child this summer, bu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-vcs-koth-martinez-wins",
          "pubDate" : "Fri, 20 Oct 2023 11:15:00",
          "title" : "Martinez Is King of The Hill In Variants Final"
-      },
-      {
-         "description" : "Like Henry Ernest Atkins, whom Eugene Manlapao featured in September, William Ewart Napier was an exceptional master, but is now almost forgotten. In this article, Eugene explores the life of Napier, who burned brightly in his short career as a chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-william-ewart-napier-the-english-born-wonder-of-brooklyn-new-york-january-17-1881-september-6-1952",
-         "pubDate" : "Fri, 20 Oct 2023 10:00:00",
-         "title" : "Remembering William Ewart Napier: The English-born Wonder of Brooklyn, New York (January 17, 1881 - September 6, 1952)"
       },
       {
          "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistani namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM A...",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/10/05/turks-caicos-on-chess-map/",
          "pubDate" : "Thu, 05 Oct 2023 18:17:49",
          "title" : "Turks & Caicos on chess map!"
-      },
-      {
-         "description" : "Last month I received the following email:- <BLOCKQUOTE> With reference to your \"Chess for all Ages\" blog post and your interesting comments regarding the painting \"French Cavalier Men Playing Chess\", at the end of your post you write:- <BLOCKQUOTE> \"The main mystery remaining now is -- where is the original painting?\" </BLOCKQUOTE> Well, I think it may be in my possession. [See image below.] It measures 90x80 centimerers (35x31 inches) in the frame. And is oil on canvas. Signed bottom right \"V YDE\". <BR><BR> Short [provenance] is that the father of my wife's mother (1915-1994) was interested in artwork and bought the painting in Germany. Thereby the painting ended in Denmark. - [signed] P.W",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/mystery-painting-in-denmark.html",
-         "pubDate" : "Thu, 05 Oct 2023 15:08:00",
-         "title" : "'Mystery Painting' in Denmark"
       }
    ]
 }
