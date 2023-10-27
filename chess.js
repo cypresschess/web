@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Fri, 27 Oct 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Fri, 27 Oct 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "After two rounds, seven players still have perfect scores in the open section of the FIDE Grand Swiss. Joining elite players Fabiano Caruana (pictured) and Arjun Erigaisi in the lead, among others, is IM Ramazan Zhalmakhanov from Kazakhstan, who stunned Bassem Amin on Thursday. In the women's section, five players are sharing first place on 2/2. Tan Zhongyi and Anna Muzychuk are the highest-rated in this group, while, similarly to the open, a Kazakh representative gave the biggest surprise, as Meruert Kamalidenova beat Valentina Gunina to enter round 3 as one of the co-leaders. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r2",
+         "pubDate" : "Fri, 27 Oct 2023 14:15:00",
+         "title" : "Grand Swiss: Seven perfect scores"
+      },
+      {
+         "description" : "Many Chess improvers are stuck because they ask the wrong questions. The most common example is (once again...) openings. Most people try to answer the following question: How can I have the best possible opening repertoire?\" 1) This question is not that important. 2) It is never-ending. Trying to answer this question will cost you a lot of money (invested in the latest \"best opening course\") and time. Quality Questions create a quality life. Successful people ask better questions, and as a...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/how-to-ask-the-right-questions/",
+         "pubDate" : "Fri, 27 Oct 2023 13:11:23",
+         "title" : "How To Ask The Right Questions"
+      },
+      {
+         "description" : " It seems that the end of the year has been 'back loaded' with a number of important events. The 2023 Grand Swiss is underway, and has once again attracted a stellar field. 106 of the 114 players are GM's, with 7 IM's and 1 2300 rated untitled player. While Temur Kuybokarov is flying the Australian flag, Canberra resident GM Hrant Melkumyan is also taking part. Both have got off to good starts, going into round 3 on 1.5/2. The 50 player Women's event is also strong, with 16 GM's and 6 WGM's in the field. Coverage of the event can be found at <a href=\"https://grandswiss.fide.com/\">https://grandswiss.fide.com/</a> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/2023-grand-swiss.html",
+         "pubDate" : "Fri, 27 Oct 2023 12:10:00",
+         "title" : "2023 Grand Swiss"
+      },
+      {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris takes a look at a game Parham Maghsoodloo and Markus Ragger played in the German Bundesliga and in which Maghsoodloo smashed Ragger's Gruenfeld in 24 moves. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-591-f-svane-vs-t-gharamian",
          "pubDate" : "Thu, 26 Oct 2023 17:00:00",
          "title" : "Game of the Week #591: F. Svane vs T. Gharamian"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Thu, 26 Oct 2023 15:30:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "As expected, hard-fought, exciting games were the norm on the opening day at the Grand Swiss tournaments on the Isle of Man. In the open, 32 players started with wins, including top seed Fabiano Caruana, Richard Rapport (pictured) and Levon Aronian. In the women's event, meanwhile, 15 participants scored full points, with none of the top three seeds getting more than a draw. | Photo: Anna Shtourman",
@@ -442,28 +474,12 @@ news_feed (
          "title" : "WCCC 2023 passes its midpoint"
       },
       {
-         "description" : "The strongest Swiss event of the year is around the corner. On the scenic Isle of Man, the first round starts on 25 October. The Grand Swiss is a pivotal part of the FIDE World Championship cycle, as the top two players in the final standings of the open event and the women's event will get spots in next year's Candidates Tournaments. | Pictured: Hikaru Nakamura and Fabiano Caruana during the inaugural edition of the Grand Swiss | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-expectations",
-         "pubDate" : "Sat, 21 Oct 2023 20:00:00",
-         "title" : "Grand expectations for the FIDE Grand Swiss on the Isle of Man"
-      },
-      {
          "description" : "GM Daniel Naroditsky continued his domination of October&#39;s Bullet Brawls after finishing three points ahead of 10-time winner GM Hikaru Nakamura in a race to the finish on Saturday. In a tournament graced by the presence of top players such as GMs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-21-2023",
          "pubDate" : "Sat, 21 Oct 2023 17:02:00",
          "title" : "Naroditsky Stuns In Photo Finish With Nakamura"
-      },
-      {
-         "description" : "The 2023 edition of the World Junior Championships took place at the end of September in Mexico City. Marc'Andria Maurizzi from France and Candela Francisco from Argentina won the open and women's sections respectively. Such a lengthy and prestigious event saw many games entering notable endgame positions. GM Karsten M&uuml;ller followed the action and analysed what he considered to be the most instructive ones. Find here the nine endings he chose to share with us! | Pictured: Ema Walter from Slovakia | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2023-endgames",
-         "pubDate" : "Sat, 21 Oct 2023 13:30:00",
-         "title" : "Endgames from Mexico City"
       },
       {
          "description" : "Sackcloth and ashes, dear readers, wailing and gnashing of teeth: Magnus Carlsen has lost another game. This time the world number 1 fell victim to 23-year old Alisher Suleymenov. The Kazakh player has enjoyed an annus mirabilis, as he only received his Grandmaster title this year. Moreover, Carlsen did not just lose, he was annihilated. The last time he had lost to a sub-2520 player under []",
@@ -1128,22 +1144,6 @@ news_feed (
          "link" : "https://www.thearticle.com/brave-new-game/",
          "pubDate" : "Sat, 07 Oct 2023 10:57:02",
          "title" : "Brave New Game"
-      },
-      {
-         "description" : " In recent times I have gone into my tournament games a little under done. Unlike events like the Olympiad, I usually don't have a lot of time to prepare for club and local games. Weirdly I managed to play a good game today, and it might have something to do with a warm up event I played a few hours earlier. As a reward for a pretty tough two weeks of chess, I organised a Transfer tournament for the kids who attended the ACTJCL Bootcamp. It was 11 rounds, and as there was an odd number of players, I played to keep the numbers even. I even played the final 2 rounds solo, where I managed 1 win and 1 loss. Now I'm not saying that Transfer (or Bughouse) is the ideal preparation for a serious gam",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/match-fitness.html",
-         "pubDate" : "Fri, 06 Oct 2023 13:18:00",
-         "title" : "Match fitness"
-      },
-      {
-         "description" : "Chess Coach or Chess Teacher? Many use them as synonyms. But I believe there are huge differences. And especially if you expect one and get the other, it can lead to frustration on both sides, for the Teacher and the Student. In this Newsletter, I will show you the difference between the two,...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/a-guide-to-successful-11-chess-training/",
-         "pubDate" : "Fri, 06 Oct 2023 13:03:31",
-         "title" : "A Guide to Successful 1:1 Chess Training"
       }
    ]
 }
