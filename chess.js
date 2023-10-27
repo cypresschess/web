@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris takes a look at a game Parham Maghsoodloo and Markus Ragger played in the German Bundesliga and in which Maghsoodloo smashed Ragger's Gruenfeld in 24 moves. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-beating-the-gruenfeld",
+         "pubDate" : "Fri, 27 Oct 2023 10:31:19",
+         "title" : "Robert Ris' Fast and Furious: Beating the Gruenfeld"
+      },
+      {
+         "description" : "The 8th edition of the European Small Nations Team Chess Championship starts this weekend in the Pomme d'Or Hotel, St Helier, Jersey. The main supporter of the event is the European Chess Union which annually supports the major events of the European Small Nations. The event will be played from 29 October to 4 November with the participation of the following teams: Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino. Each team consists of four []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2023-starts-in-jersey/",
+         "pubDate" : "Fri, 27 Oct 2023 09:41:34",
+         "title" : "European Small Nations Team Chess Championship 2023 starts in Jersey"
+      },
+      {
          "description" : "Vaishali Rameshbabu's many successes have always been overshadowed by those of her younger brother, Praggnanandhaa Rameshbabu. At the Qatar Open, however, the 22-year-old made her third GM norm and will get GM title when she reaches 2500 Elo. Her current live rating is 2471.7. Thorsten Cmiel takes a look at Vaishali's grandmaster performance at the Qatar Masters, the second strongest Open of the year. | Photos: Qatar Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vaishali-makes-third-grandmaster-norm-in-qatar",
          "pubDate" : "Fri, 27 Oct 2023 09:00:00",
-         "title" : "Vaishali makes third grandmaster norm in Qatar"
+         "title" : "Vaishali made her third grandmaster norm in Qatar"
       },
       {
          "description" : " The world Nos 3 and 4 are battling for two Candidates places in the $460,000, 114-player event, but both started slowly while rivals who prepared with non-stop blitz began with wins Hikaru Nakamura of the US and Alireza Firouzja of France, the world Nos 3 and 4, are among the favourites in the 114-player Fide Grand Swiss event at Douglas, Isle of Man. The event offers a $460,000 prize fund from the Scheinberg family, which has sponsored international events on the island since 2014. Two places in the 2024 Candidates, and a potential challenge to China's world champion Ding Liren, are also at stake. A fast start is reckoned important in such a high class field where almost all the players ar",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
          "pubDate" : "Thu, 26 Oct 2023 15:30:00",
          "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Thu, 26 Oct 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
       },
       {
          "description" : "As expected, hard-fought, exciting games were the norm on the opening day at the Grand Swiss tournaments on the Isle of Man. In the open, 32 players started with wins, including top seed Fabiano Caruana, Richard Rapport (pictured) and Levon Aronian. In the women's event, meanwhile, 15 participants scored full points, with none of the top three seeds getting more than a draw. | Photo: Anna Shtourman",
@@ -634,12 +642,12 @@ news_feed (
          "title" : "Enlighten Your Analysis With Torch, The New Top Engine Now Available On Chess.com"
       },
       {
-         "description" : "The 2023 National Club Championships, being held at the University of Hull start on Friday. To follow the event (32 lives boards and round five...",
+         "description" : "To follow the event (32 lives boards and round five commentary by GM Peter Wells and WIM Natasha Regan) go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
          "pubDate" : "Wed, 18 Oct 2023 08:00:41",
-         "title" : "ECF National Club Championships 2023 start on Friday 20/10"
+         "title" : "ECF National Club Championships 2023"
       },
       {
          "description" : "The medallists were &#8212; Gold and World Champion GM Marcin Tazbir (Poland) 8/9! Silver and a good defence of his title IM Predrag Nikac (Montenegro)...",
@@ -1136,22 +1144,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/a-guide-to-successful-11-chess-training/",
          "pubDate" : "Fri, 06 Oct 2023 13:03:31",
          "title" : "A Guide to Successful 1:1 Chess Training"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2671",
-         "pubDate" : "Fri, 06 Oct 2023 11:13:32 +0000",
-         "title" : " Chess South Africa elections to be held in November 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2670",
-         "pubDate" : "Fri, 06 Oct 2023 07:32:19 +0000",
-         "title" : "U.S. Championships begin at Saint Louis Chess Club"
       }
    ]
 }
