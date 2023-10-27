@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King focuses on a game by Uzbek grandmaster Nodirbek Yakubboev, who recently stunned the chess world by winning the strong Qatar Masters. Yakubboev completely outwits his opponent with a crafty 1.b3! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-yakubboev-qatar",
+         "pubDate" : "Fri, 27 Oct 2023 18:00:00",
+         "title" : "Daniel King's Power Play Show: Yakubboev's crafty 1.b3"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/russia-10-year-contracts-young-players-federation-changes",
          "pubDate" : "Sun, 22 Oct 2023 15:34:00",
          "title" : "Russia To Sign 10-Year Contracts With Young Players To Stop Federation Changes"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 148th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-3",
-         "pubDate" : "Sun, 22 Oct 2023 15:00:00",
-         "title" : "Understanding before Moving 148: Chess history in a nutshell (30)"
       },
       {
          "description" : "",
