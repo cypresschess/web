@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE Grand Swiss: Trench warfare in Round 2"
       },
       {
+         "description" : "After round two of the 2023 FIDE Grand Swiss, seven players are on a perfect score in the Open and five in the Women&#39;s.&#38;nbsp; In the Open, top seed GM Fabiano Caruana beat GM Hans Niemann and broke 2800 in the live ratings for the first time sin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-2",
+         "pubDate" : "Thu, 26 Oct 2023 17:07:00",
+         "title" : "Caruana Beats Niemann, Returns To 2800 Club"
+      },
+      {
          "description" : "In his Game of the Week show #591 Merijn Van Delft looks at an unusually creative attacking game played by German Grandmaster Frederik Svane against Tigran Gharamian in the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2687",
          "pubDate" : "Mon, 16 Oct 2023 16:05:03 +0000",
          "title" : "FIDE WCCC 2023 kicks off in Sharm El Sheikh, Egypt"
-      },
-      {
-         "description" : "GM Simon Williams has been found liable by the Deputy Pensions Ombudsman in the U.K. and ordered to repay over &#38;pound;730,000 (currently roughly $890k) to a pension scheme of which he was the sole trustee.&#38;nbsp; The popular 43-year-old British g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/simon-williams-ordered-to-pay-back-900-000-to-pension-scheme",
-         "pubDate" : "Mon, 16 Oct 2023 10:39:00",
-         "title" : "Simon Williams Ordered To Pay Back Nearly $900,000 To Pension Scheme"
       },
       {
          "description" : "",
