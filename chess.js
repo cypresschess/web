@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2704",
+         "pubDate" : "Fri, 27 Oct 2023 22:17:52 +0000",
+         "title" : "FIDE Grand Swiss: King's Representative sparks excitement in Round 3 "
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King focuses on a game by Uzbek grandmaster Nodirbek Yakubboev, who recently stunned the chess world by winning the strong Qatar Masters. Yakubboev completely outwits his opponent with a crafty 1.b3! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-yakubboev-qatar",
          "pubDate" : "Fri, 27 Oct 2023 18:00:00",
          "title" : "Daniel King's Power Play Show: Yakubboev's crafty 1.b3"
+      },
+      {
+         "description" : "We are three rounds into the 2023 FIDE Grand Swiss and nobody&#39;s left on a perfect score in the Open. In the Women&#39;s, two players won to continue their perfect run. GMs Tan Zhongyi and Anna Muzychuk are the two players left with a perfect score a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-3",
+         "pubDate" : "Fri, 27 Oct 2023 15:25:00",
+         "title" : "Vaishali Plays Brilliancy As Anna Muzychuk, Tan Take Lead"
       },
       {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-collegiate-rapid-and-blitz-championships",
          "pubDate" : "Mon, 16 Oct 2023 16:34:35",
          "title" : "Announcing The 2023 US Collegiate Rapid & Blitz Championships"
-      },
-      {
-         "description" : "IM Levy Rozman (aka GothamChess) traveled to the underworld and back in the&#38;nbsp;2023 I&#39;M Not A GM Speed Chess Championship Semifinal on Monday. He ultimately won his tumultuous match vs. IM Greg Shahade 13-11.&#38;nbsp; After incurring a three-poin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-semifinals-rozman-wins",
-         "pubDate" : "Mon, 16 Oct 2023 16:32:00",
-         "title" : "GothamChess Bites Back In Bullet, Makes It To IMSCC Final"
       },
       {
          "description" : "",
