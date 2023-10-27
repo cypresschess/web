@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vaishali Rameshbabu's many successes have always been overshadowed by those of her younger brother, Praggnanandhaa Rameshbabu. At the Qatar Open, however, the 22-year-old made her third GM norm and will get GM title when she reaches 2500 Elo. Her current live rating is 2471.7. Thorsten Cmiel takes a look at Vaishali's grandmaster performance at the Qatar Masters, the second strongest Open of the year. | Photos: Qatar Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vaishali-makes-third-grandmaster-norm-in-qatar",
+         "pubDate" : "Fri, 27 Oct 2023 09:00:00",
+         "title" : "Vaishali makes third grandmaster norm in Qatar"
+      },
+      {
+         "description" : " The world Nos 3 and 4 are battling for two Candidates places in the $460,000, 114-player event, but both started slowly while rivals who prepared with non-stop blitz began with wins Hikaru Nakamura of the US and Alireza Firouzja of France, the world Nos 3 and 4, are among the favourites in the 114-player Fide Grand Swiss event at Douglas, Isle of Man. The event offers a $460,000 prize fund from the Scheinberg family, which has sponsored international events on the island since 2014. Two places in the 2024 Candidates, and a potential challenge to China's world champion Ding Liren, are also at stake. A fast start is reckoned important in such a high class field where almost all the players ar",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/oct/27/chess-nakamura-and-firouzja-at-risk-as-fide-grand-swiss-opens-on-isle-of-man",
+         "pubDate" : "Fri, 27 Oct 2023 07:00:39",
+         "title" : "Chess: Nakamura and Firouzja at risk as Fide Grand Swiss opens on Isle of Man"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -440,14 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-junior-championship-2023-endgames",
          "pubDate" : "Sat, 21 Oct 2023 13:30:00",
          "title" : "Endgames from Mexico City"
-      },
-      {
-         "description" : "Today, we offer tactics with few pieces on the board. Stray black knight + fork motif - can you mix a winning cocktail for White with these two ingredients from the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/captured",
-         "pubDate" : "Sat, 21 Oct 2023 09:00:00",
-         "title" : "Captured!"
       },
       {
          "description" : "Sackcloth and ashes, dear readers, wailing and gnashing of teeth: Magnus Carlsen has lost another game. This time the world number 1 fell victim to 23-year old Alisher Suleymenov. The Kazakh player has enjoyed an annus mirabilis, as he only received his Grandmaster title this year. Moreover, Carlsen did not just lose, he was annihilated. The last time he had lost to a sub-2520 player under []",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2670",
          "pubDate" : "Fri, 06 Oct 2023 07:32:19 +0000",
          "title" : "U.S. Championships begin at Saint Louis Chess Club"
-      },
-      {
-         "description" : " In the 21st century the very best talents have tended to avoid the tournament, in contrast to the 1950s when several winners went on to have successful careers The World Junior Championship for under-20s used to be a vintage event. Its first two winners, Borislav Ivkov in 1951 and Oscar Panno in 1953, both went on to become world title candidates, while Boris Spassky, in 1955, later won the supreme crown, a double equalled by Anatoly Karpov, Garry Kasparov and Vishy Anand. The event was still a major target for aspiring talents in 1971, when the financier Jim Slater was helping England's two best prospects - Tony Miles and Michael Stean - who looked capable of challenging for the world juni",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/oct/06/chess-world-juniors-lacks-big-names-but-maurizzi-has-potential-to-be-a-star",
-         "pubDate" : "Fri, 06 Oct 2023 07:00:35",
-         "title" : "Chess: World Juniors lacks big names but Maurizzi has potential to be a star"
       }
    ]
 }
