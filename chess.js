@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are no more perfect scores in the open section of the Grand Swiss, as all seven co-leaders drew their games in round 3, allowing a trio of youngsters to join the lead - i.e. Sam Sevian (pictured), Marc'Andria Maurizzi and Javokhir Sindarov. In the women's section, on the other hand, two players did win their three first games to keep perfect scores after Friday's round: Tan Zhongyi, who beat Antoaneta Stefanova, and Anna Muzychuk, who got the better of Irina Bulmaga. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r3",
+         "pubDate" : "Sat, 28 Oct 2023 03:35:00",
+         "title" : "Grand Swiss: Sevian, Maurizzi and Sindarov join the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-3",
          "pubDate" : "Fri, 27 Oct 2023 15:25:00",
          "title" : "Vaishali Plays Brilliancy As Anna Muzychuk, Tan Take Lead"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Fri, 27 Oct 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
