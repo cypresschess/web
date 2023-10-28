@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2673",
          "pubDate" : "Sun, 08 Oct 2023 06:48:32 +0000",
          "title" : "Offerspill and Superchess are the European Club Cup champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2672",
-         "pubDate" : "Sat, 07 Oct 2023 18:55:32 +0000",
-         "title" : "Asian Games: Iran and China win team competitions"
       }
    ]
 }
