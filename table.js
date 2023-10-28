@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-10-06  - 10-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310277282 target='_blank'>REBECCA CHESS CLUB OCTOBER 2023 MONTHLY SWISS</a>",
+"HOUSTON","2023-10-27","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310277272 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 27, 2023</a>",
 "LEAGUE CITY","2023-10-04  - 10-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310255892 target='_blank'>CLCC OCTOBER WEDNESDAYS</a>",
 "HOUSTON","2023-10-20  - 10-22","45","<a href=http://www.uschess.org/msa/XtblMain.php?202310224962 target='_blank'>$3,000 STUDIO  OCT 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-10-20  - 10-22","270","<a href=http://www.uschess.org/msa/XtblMain.php?202310224392 target='_blank'>2023 TEXAS NORTH SCHOLASTIC GRADE CHAMPIONSHIP</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-04-08","21","<a href=http://www.uschess.org/msa/XtblMain.php?202304083022 target='_blank'>APRIL 8TH 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-04-08","126","<a href=http://www.uschess.org/msa/XtblMain.php?202304081862 target='_blank'>TCR: EASTER TOURNAMENT 2023</a>",
 "CYPRESS","2023-04-08","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304081612 target='_blank'>EVENT NAME MISSING</a>",
-"SPRING","2023-04-07","31","<a href=http://www.uschess.org/msa/XtblMain.php?202304072232 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-04-02","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304029182 target='_blank'>APRIL 2ND 2023 SUNDAY SWISS</a>",
 ]);
