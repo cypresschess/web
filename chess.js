@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Latvian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
+         "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Lithuanian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess-part-ii",
@@ -18,12 +18,12 @@ news_feed (
          "title" : "Sooner than expected"
       },
       {
-         "description" : " Eligible sportspersons, caoches etc to apply through portal before 2.11.2023 Sir/Madam, National Sports Awards 2023 As directed by MYAS ,please find the necessary link for",
+         "description" : "We urge you to ensure that you don't miss out on this incredible opportunity. The National Sports Awards application is now open, and it's your",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-sports-awards-2023/",
-         "pubDate" : "Sat, 28 Oct 2023 07:25:02",
-         "title" : "National Sports Awards 2023 "
+         "pubDate" : "Sat, 28 Oct 2023 08:25:17",
+         "title" : "National Sports Awards 2023"
       },
       {
          "description" : "At a time when Europe was blessed with an extraordinary efflorescence of giant personalities - Metternich and Talleyrand in politics, Beethoven and Schiller in the arts, Nelson and Wellington in warfare - Napoleon Bonaparte, the supreme warrior, and Goethe, the pinnacle of European culture, met face to face. In fact, they did so twice in 1808, in []",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-3",
          "pubDate" : "Fri, 27 Oct 2023 15:25:00",
          "title" : "Vaishali Plays Brilliancy As Anna Muzychuk, Tan Take Lead"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Fri, 27 Oct 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
       },
       {
          "description" : "After two rounds, seven players still have perfect scores in the open section of the FIDE Grand Swiss. Joining elite players Fabiano Caruana (pictured) and Arjun Erigaisi in the lead, among others, is IM Ramazan Zhalmakhanov from Kazakhstan, who stunned Bassem Amin on Thursday. In the women's section, five players are sharing first place on 2/2. Tan Zhongyi and Anna Muzychuk are the highest-rated in this group, while, similarly to the open, a Kazakh representative gave the biggest surprise, as Meruert Kamalidenova beat Valentina Gunina to enter round 3 as one of the co-leaders. | Photo: Anna Shtourman",
@@ -440,6 +432,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/school-playoffs.html",
          "pubDate" : "Mon, 23 Oct 2023 12:51:00",
          "title" : "School Playoffs"
+      },
+      {
+         "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/9, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/iturrizaga-and-khademalsharieh-win-spanish-championships",
+         "pubDate" : "Mon, 23 Oct 2023 12:48:26",
+         "title" : "Iturrizaga and Khademalsharieh win Spanish Championships"
       },
       {
          "description" : "",
@@ -1144,22 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2672",
          "pubDate" : "Sat, 07 Oct 2023 18:55:32 +0000",
          "title" : "Asian Games: Iran and China win team competitions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2699",
-         "pubDate" : "Sat, 07 Oct 2023 11:16:54 +0000",
-         "title" : "ISCU celebrates World Teachers' Day with a massive Chess in Schools promotion"
-      },
-      {
-         "description" : "In what has been described as the most important and progressive innovation in rules since the introduction of modern chess around 1475, the High International Chess Commission for Unlawful Practices has announced its vision for the future of our game. Rosa Klebb, the Moscow-based Chair of the Commission, said: \"The sweeping changes announced by the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/brave-new-game/",
-         "pubDate" : "Sat, 07 Oct 2023 10:57:02",
-         "title" : "Brave New Game"
       }
    ]
 }
