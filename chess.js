@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2706",
+         "pubDate" : "Sat, 28 Oct 2023 22:08:43 +0000",
+         "title" : "Four slow Slavs in Round 4 of FIDE Grand Swiss"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
