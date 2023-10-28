@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Sat, 28 Oct 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Sat, 28 Oct 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : " CM Helen Milligan is a regular competitor on the seniors circuit. Having just finished playing in the 2023 Asian Seniors, she immediately travelled to Italy for the 2023 World Seniors. After starting with 1.5/2, she found that he 3rd round opponent was former World Champion GM Nona Gaprindashvili. If she might have felt nervous before the game about playing such a legend, it did not show during the game, where she looked to be the player making most of the threats. Towards the end Gaprindashvili went for a line where she had 2 pieces for the rook, but some nice tactics from Milligan restored the material balance, and the game was agreed draw in a position still slightly favouring Milligan. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/not-every-day-you-draw-with-former.html",
+         "pubDate" : "Sat, 28 Oct 2023 13:13:00",
+         "title" : "Not every day you draw with a former World Champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2705",
+         "pubDate" : "Sat, 28 Oct 2023 12:50:38 +0000",
+         "title" : "Jos&eacute; Cubas and Thalia Landeiro win 2023 Pan American Chess Esports Finals"
+      },
+      {
          "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Lithuanian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,14 +442,6 @@ news_feed (
          "title" : "FIDE Circuit: Fabiano Caruana consolidates his lead"
       },
       {
-         "description" : "Magdeburg is a city steeped in history, including a long chess tradition. Every year an international open is held, this year for the 28th time. Over 200 players took part. The victory went to the only grandmaster in the field, Oleg Korneev. Bettina Trabert reports.| Photo: A view into the tournament hall | Photos: Bettina Trabert",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/korneev-wins-magdeburg-open",
-         "pubDate" : "Mon, 23 Oct 2023 15:00:00",
-         "title" : "Korneev wins Magdeburg Open"
-      },
-      {
          "description" : "Two spots for the 2024 Candidates Tournament are up for grabs in the strongest open tournament of the year, the 2023 FIDE Grand Swiss, which takes place in Douglas, Isle of Man, from October 25 to November 5, with a prize fund of $460,000. Who wil...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/school-playoffs.html",
          "pubDate" : "Mon, 23 Oct 2023 12:51:00",
          "title" : "School Playoffs"
-      },
-      {
-         "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/9, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iturrizaga-and-khademalsharieh-win-spanish-championships",
-         "pubDate" : "Mon, 23 Oct 2023 12:48:26",
-         "title" : "Iturrizaga and Khademalsharieh win Spanish Championships"
       },
       {
          "description" : "",
