@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Latvian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess-part-ii",
+         "pubDate" : "Sat, 28 Oct 2023 09:00:00",
+         "title" : "Never Ending Saga of Moroccan Chess - Part II"
+      },
+      {
+         "description" : "In the diagram position Black has long-term compensation for the exchange because White's g-pawn is missing - 21.h3??, however, allows short-term action! How can Black strike?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sooner-than-expected",
+         "pubDate" : "Sat, 28 Oct 2023 09:00:00",
+         "title" : "Sooner than expected"
+      },
+      {
+         "description" : " Eligible sportspersons, caoches etc to apply through portal before 2.11.2023 Sir/Madam, National Sports Awards 2023 As directed by MYAS ,please find the necessary link for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-sports-awards-2023/",
+         "pubDate" : "Sat, 28 Oct 2023 07:25:02",
+         "title" : "National Sports Awards 2023 "
+      },
+      {
+         "description" : "At a time when Europe was blessed with an extraordinary efflorescence of giant personalities - Metternich and Talleyrand in politics, Beethoven and Schiller in the arts, Nelson and Wellington in warfare - Napoleon Bonaparte, the supreme warrior, and Goethe, the pinnacle of European culture, met face to face. In fact, they did so twice in 1808, in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/napoleon-and-goethe-touchstone-of-genius/",
+         "pubDate" : "Sat, 28 Oct 2023 05:27:19",
+         "title" : "Napoleon and Goethe: touchstone of genius"
+      },
+      {
          "description" : "There are no more perfect scores in the open section of the Grand Swiss, as all seven co-leaders drew their games in round 3, allowing a trio of youngsters to join the lead - i.e. Sam Sevian (pictured), Marc'Andria Maurizzi and Javokhir Sindarov. In the women's section, on the other hand, two players did win their three first games to keep perfect scores after Friday's round: Tan Zhongyi, who beat Antoaneta Stefanova, and Anna Muzychuk, who got the better of Irina Bulmaga. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,14 +442,6 @@ news_feed (
          "title" : "School Playoffs"
       },
       {
-         "description" : "The Spanish Championships were held in Marbella this year, a nine round Swiss, in which men and women played in the same tournament. In the end, Eduardo Iturrizaga and Sarasadat Khademalsharieh won the titles. With 7.0/9 Iturrizaga shared first with Alan Pichot and Maksim Chigaev, but won the tournament on tiebreak. Khademalsharieh finished with 6.0/9, but had a better tiebreak than her rival Marta Garcia Martin. | Photos: Patricia Claros Aguilar (FEDA)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iturrizaga-and-khademalsharieh-win-spanish-championships",
-         "pubDate" : "Mon, 23 Oct 2023 12:48:26",
-         "title" : "Iturrizaga and Khademalsharieh win Spanish Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -440,14 +464,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
          "pubDate" : "Mon, 23 Oct 2023 03:09:00",
          "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
-         "description" : "Magnus Carlsen's disastrous loss to Alisher Suleymenov in Qatar has gone round the world, partly because it was an excellent game but mainly because it was so unusual: Carlsen's first defeat by such a relatively \"weak\" opponent since the Norwegian Championship of 2006! Unusual but not really that shocking. Anybody can have an off day, and the truly shocking thing is that Carlsen has managed for nearly two decades to avoid losing at classical chess to such an opponent. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-204",
-         "pubDate" : "Sun, 22 Oct 2023 22:40:00",
-         "title" : "Jon Speelman: Anybody can have an off day"
       },
       {
          "description" : "Yale University brought their season back to life on Saturday in the SIG-sponsored 2023 Collegiate Chess League (CCL) after toppling the heavily favored University of Missouri (Mizzou) by a single point. Scores of 3/4 by GM Nico Checa and NM Lin...",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rhodes-rounds-six-and-seven-from-owen-phillips/",
          "pubDate" : "Mon, 16 Oct 2023 08:21:43",
          "title" : "Rhodes - rounds six and seven from Owen Phillips"
-      },
-      {
-         "description" : "Kindly find the link for the live games link for the tournament. Link : https://live.tamilchess.com/im-norm-chennai/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-the-1st-tamil-nadu-im-norm-closed-circuit-chess-tournament-chennai-reg/",
-         "pubDate" : "Mon, 16 Oct 2023 07:07:40",
-         "title" : "live games link for the 1st Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai - reg"
       },
       {
          "description" : "An extraordinary ECU Board meeting was held in Tirana, Albania, on Saturday 7th October at \"COD\" the Centre for Openness and Dialogue. ECU expresses its thanks and appreciation to Albanian Chess federation for the hosting of meeting and the successful organization of the European Club Cup 2023. Main information and Decisions: In recognition of the efforts of Bulgarian Chess community to re-establish the Bulgarian Chess Federation in the international institutions, based on the procedure set and monitored by ECU and []",
