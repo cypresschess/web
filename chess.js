@@ -10,6 +10,22 @@ news_feed (
          "title" : "Four slow Slavs in Round 4 of FIDE Grand Swiss"
       },
       {
+         "description" : "GM Andrey Esipenko broke into sole first with 3.5/4 at the 2023 FIDE Grand Swiss after winning with Black against World Junior Champion Marc&#39;Andria Maurizzi. Pursuing him are 17 players, half a point behind. After a slow start, GM Hikaru Nakamur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-4",
+         "pubDate" : "Sat, 28 Oct 2023 17:31:00",
+         "title" : "Esipenko Leads In Open, 4-Way Tie In Women's"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk won October&#39;s fourth and final Bullet Brawl after he scored 74 wins, one draw, and four losses on his way to a commanding 283 score. The $400 winner was challenged by GMs David Paravyan and Jose Martinez, who earned $250 and $...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-28-2023",
+         "pubDate" : "Sat, 28 Oct 2023 16:32:00",
+         "title" : "Bortnyk Scores 74/79 In Bullet Brawl"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,22 +856,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/complaint-resolution/",
          "pubDate" : "Tue, 17 Oct 2023 07:23:48",
          "title" : "Complaint Resolution"
-      },
-      {
-         "description" : "Reigning champion GM Fabiano Caruana&#38;nbsp;has successfully defended his title at the 2023 U.S. Championship, clinching the tournament with a round to spare and a 1.5-point lead over the field. The now three-time U.S. champion took a fitting path t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-10",
-         "pubDate" : "Mon, 16 Oct 2023 21:16:00",
-         "title" : "Caruana Becomes 3-Time U.S. Champion, Yip Surpasses Tokhirjonova"
-      },
-      {
-         "description" : "Chess.com is excited to announce that we will be hosting the 2023 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on October 29&#38;nbsp;and the blitz championship on November 5. Registration is underway and contin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-collegiate-rapid-and-blitz-championships",
-         "pubDate" : "Mon, 16 Oct 2023 16:34:35",
-         "title" : "Announcing The 2023 US Collegiate Rapid & Blitz Championships"
       },
       {
          "description" : "",
