@@ -42,6 +42,14 @@ news_feed (
          "title" : "FIDE Arbiters' Commission releases the list of arbiters for green, blue, red, and yellow panels"
       },
       {
+         "description" : "It is the beautiful new chess documentary that every fan of the game should see&#38;mdash;whether you can make it to a film festival or stream it live on TV&#38;mdash;and now it&#39;s an award-winner. The City Of Human Chess, Chess.com&#39;s first venture into ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/city-of-human-chess-debuts-at-la-film-festival-streaming-now-on-magellantv",
+         "pubDate" : "Sun, 29 Oct 2023 09:32:15",
+         "title" : "'The City Of Human Chess', Chess.com's First Original Production, Wins Award At DOC LA Film Festival-Watch It Now On MagellanTV"
+      },
+      {
          "description" : "A sole leader emerged for the first time in the open section of the Grand Swiss, as Andrey Esipenko beat Marc'Andria Maurizzi to become the only player to reach a 3&frac12;/4 score. A 17-player chasing pack stands a half point behind, with Hikaru Nakamura, Alireza Firouzja and Hans Niemann among those who joined this group by winning on Saturday. In the women's section, Anna Muzychuk could not convert her advantage in the co-leaders' clash with Tan Zhongyi. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -840,14 +848,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-6",
          "pubDate" : "Tue, 17 Oct 2023 18:51:00",
          "title" : "Carlsen Catches Nakamura In Qatar"
-      },
-      {
-         "description" : "Both matches in the 2023 I&#39;M Not A GM Speed Chess Championship Semifinals went to overtime. IM Polina Shuvalova defeated IM Lawrence Trent 14-11 and will face&#38;nbsp;IM Levy Rozman (aka GothamChess) in the Final.&#38;nbsp; Between the ebb and flow of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-semifinals-shuvalova-wins",
-         "pubDate" : "Tue, 17 Oct 2023 16:22:00",
-         "title" : "'She's A Fighter!': Shuvalova Wins On Demand, Sweeps Trent 3-0 In Tiebreaks"
       },
       {
          "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
