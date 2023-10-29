@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2023-10-28","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310287322 target='_blank'>FBCC 2023 HALLOWEEN OPEN</a>",
+"CYPRESS","2023-10-27","28","<a href=http://www.uschess.org/msa/XtblMain.php?202310277462 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-10-06  - 10-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310277282 target='_blank'>REBECCA CHESS CLUB OCTOBER 2023 MONTHLY SWISS</a>",
 "HOUSTON","2023-10-27","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310277272 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 27, 2023</a>",
 "LEAGUE CITY","2023-10-04  - 10-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310255892 target='_blank'>CLCC OCTOBER WEDNESDAYS</a>",
@@ -8,6 +10,7 @@ jtable([
 "HOUSTON","2023-10-21","4","<a href=http://www.uschess.org/msa/XtblMain.php?202310213302 target='_blank'>CHESSPANDA10212023SATURDAY</a>",
 "SPRING","2023-10-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310202782 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-10-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310202772 target='_blank'>FBCC 2023 PUMPKIN PATCH OPEN</a>",
+"CYPRESS","2023-10-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310202662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-10-15","5","<a href=http://www.uschess.org/msa/XtblMain.php?202310151602 target='_blank'>OCTOBER 15 SUNDAY SWISS</a>",
 "HOUSTON","2023-10-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310149592 target='_blank'>NATIONAL CHESS DAY SCHOLASTIC</a>",
 "SPRING","2023-10-14","222","<a href=http://www.uschess.org/msa/XtblMain.php?202310149262 target='_blank'>St Edward National Chess Day Scholastic</a>",
@@ -196,7 +199,4 @@ jtable([
 "SPRING","2023-04-14","41","<a href=http://www.uschess.org/msa/XtblMain.php?202304144872 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-04-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202304144862 target='_blank'>FBCC 2023 MID-APRIL SPRING OPEN</a>",
 "HOUSTON","2023-04-14","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304144802 target='_blank'>REBECCA CHESS CLUB QUADS APRIL 14, 2023</a>",
-"HOUSTON","2023-04-08","21","<a href=http://www.uschess.org/msa/XtblMain.php?202304083022 target='_blank'>APRIL 8TH 2023 SCHOLASTIC</a>",
-"HOUSTON","2023-04-08","126","<a href=http://www.uschess.org/msa/XtblMain.php?202304081862 target='_blank'>TCR: EASTER TOURNAMENT 2023</a>",
-"CYPRESS","2023-04-08","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304081612 target='_blank'>EVENT NAME MISSING</a>",
 ]);
