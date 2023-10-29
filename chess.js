@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2707",
+         "pubDate" : "Sun, 29 Oct 2023 11:01:06 +0000",
+         "title" : "FIDE Arbiters' Commission releases the list of arbiters for green, blue, red, and yellow panels"
+      },
+      {
          "description" : "A sole leader emerged for the first time in the open section of the Grand Swiss, as Andrey Esipenko beat Marc'Andria Maurizzi to become the only player to reach a 3&frac12;/4 score. A 17-player chasing pack stands a half point behind, with Hikaru Nakamura, Alireza Firouzja and Hans Niemann among those who joined this group by winning on Saturday. In the women's section, Anna Muzychuk could not convert her advantage in the co-leaders' clash with Tan Zhongyi. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-4",
-         "pubDate" : "Sat, 28 Oct 2023 17:31:00",
+         "pubDate" : "Sat, 28 Oct 2023 18:31:00",
          "title" : "Esipenko Leads In Open, 4-Way Tie In Women's"
       },
       {
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/everyones-favorite-world-champion.html",
          "pubDate" : "Sun, 08 Oct 2023 15:17:00",
          "title" : "Everyone's Favorite World Champion?"
-      },
-      {
-         "description" : "The 38th edition of the European Chess Club Cup and the 27th European Women's Club Cup concluded yesterday in Durres, Albania. The intense last round determined the Winners and the medalists of the event, as both section had two co-leaders heading into the final round. Offerspill Sjakklub (Norway) and Superchess (Romania) were in a tie for the top of the Open section, and Garuda Ajka BSK (Hungary) and Superchess (Romania) tied for the top of the Women's event after six []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/offerspill-sjakklub-norway-and-superchess-romania-win-european-openwomens-club-cup-2023/",
-         "pubDate" : "Sun, 08 Oct 2023 09:15:00",
-         "title" : "Offerspill Sjakklub (Norway) and Superchess (Romania) win European Open&Women's Club Cup 2023"
       }
    ]
 }
