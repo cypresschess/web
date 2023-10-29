@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A sole leader emerged for the first time in the open section of the Grand Swiss, as Andrey Esipenko beat Marc'Andria Maurizzi to become the only player to reach a 3&frac12;/4 score. A 17-player chasing pack stands a half point behind, with Hikaru Nakamura, Alireza Firouzja and Hans Niemann among those who joined this group by winning on Saturday. In the women's section, Anna Muzychuk could not convert her advantage in the co-leaders' clash with Tan Zhongyi. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r4",
+         "pubDate" : "Sun, 29 Oct 2023 06:00:00",
+         "title" : "Grand Swiss: Esipenko sole leader, Naka and Firouzja in the hunt"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,22 +34,6 @@ news_feed (
          "title" : "Bortnyk Scores 74/79 In Bullet Brawl"
       },
       {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Sat, 28 Oct 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Sat, 28 Oct 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
-      },
-      {
          "description" : " CM Helen Milligan is a regular competitor on the seniors circuit. Having just finished playing in the 2023 Asian Seniors, she immediately travelled to Italy for the 2023 World Seniors. After starting with 1.5/2, she found that he 3rd round opponent was former World Champion GM Nona Gaprindashvili. If she might have felt nervous before the game about playing such a legend, it did not show during the game, where she looked to be the player making most of the threats. Towards the end Gaprindashvili went for a line where she had 2 pieces for the rook, but some nice tactics from Milligan restored the material balance, and the game was agreed draw in a position still slightly favouring Milligan. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -58,20 +50,20 @@ news_feed (
          "title" : "Jos&eacute; Cubas and Thalia Landeiro win 2023 Pan American Chess Esports Finals"
       },
       {
-         "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Lithuanian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess-part-ii",
-         "pubDate" : "Sat, 28 Oct 2023 09:00:00",
-         "title" : "Never Ending Saga of Moroccan Chess - Part II"
-      },
-      {
          "description" : "In the diagram position Black has long-term compensation for the exchange because White's g-pawn is missing - 21.h3??, however, allows short-term action! How can Black strike?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sooner-than-expected",
          "pubDate" : "Sat, 28 Oct 2023 09:00:00",
          "title" : "Sooner than expected"
+      },
+      {
+         "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Lithuanian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess-part-ii",
+         "pubDate" : "Sat, 28 Oct 2023 09:00:00",
+         "title" : "Never Ending Saga of Moroccan Chess - Part II"
       },
       {
          "description" : "We urge you to ensure that you don't miss out on this incredible opportunity. The National Sports Awards application is now open, and it's your",
@@ -464,6 +456,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2697",
          "pubDate" : "Mon, 23 Oct 2023 16:05:12 +0000",
          "title" : "FIDE Circuit: Fabiano Caruana consolidates his lead"
+      },
+      {
+         "description" : "Magdeburg is a city steeped in history, including a long chess tradition. Every year an international open is held, this year for the 28th time. Over 200 players took part. The victory went to the only grandmaster in the field, Oleg Korneev. Bettina Trabert reports.| Photo: A view into the tournament hall | Photos: Bettina Trabert",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/korneev-wins-magdeburg-open",
+         "pubDate" : "Mon, 23 Oct 2023 15:00:00",
+         "title" : "Korneev wins Magdeburg Open"
       },
       {
          "description" : "Two spots for the 2024 Candidates Tournament are up for grabs in the strongest open tournament of the year, the 2023 FIDE Grand Swiss, which takes place in Douglas, Isle of Man, from October 25 to November 5, with a prize fund of $460,000. Who wil...",
@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.europechess.org/offerspill-sjakklub-norway-and-superchess-romania-win-european-openwomens-club-cup-2023/",
          "pubDate" : "Sun, 08 Oct 2023 09:15:00",
          "title" : "Offerspill Sjakklub (Norway) and Superchess (Romania) win European Open&Women's Club Cup 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2673",
-         "pubDate" : "Sun, 08 Oct 2023 06:48:32 +0000",
-         "title" : "Offerspill and Superchess are the European Club Cup champions"
       }
    ]
 }
