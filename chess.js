@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2708",
+         "pubDate" : "Sun, 29 Oct 2023 22:19:34 +0000",
+         "title" : "From Morphy to Praggnanandhaa - 165 years of chess history in Round 5 of FIDE Grand Swiss"
+      },
+      {
+         "description" : "Svitlana is taking us through the Panov Attack against the Caro-Kann Defence. The aggressive opening turns out to be an ambitious variation, full of attacking potential, if you can live with an isolated queen pawn. The basics are well explained, and should motivate you to look a bit deeper into this surprising Caro-Kann counter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-panov-attack",
+         "pubDate" : "Sun, 29 Oct 2023 21:00:00",
+         "title" : "Svitlana's Smart Moves - The Panov Attack"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -440,14 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-25-how-to-turn-a-knight-into-a-monster",
          "pubDate" : "Tue, 24 Oct 2023 10:00:00",
          "title" : "The Winning Academy 25: How to Turn a Knight into a Monster"
-      },
-      {
-         "description" : "More than 200 Russian athletes have turned their backs on their homeland and left the country following Russia's attack on Ukraine. 150 of them are chess players. The Russian Chess Federation now wants to retain its talent through long-term financial support. In the summer, it signed a ten-year contract with Andrey Esipenko (pictured). | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-chess-federation-tries-to-keep-young-players",
-         "pubDate" : "Tue, 24 Oct 2023 09:26:46",
-         "title" : "Russian Chess Federation tries to keep young players"
       },
       {
          "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
