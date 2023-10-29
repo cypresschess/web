@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Sun, 29 Oct 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 149th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Garry Kasparov and about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-4",
+         "pubDate" : "Sun, 29 Oct 2023 15:00:00",
+         "title" : "Understanding before Moving 149: Chess history in a nutshell (31)"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Sun, 29 Oct 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "Marcin Tazbir is the new IBCA World Champion. The Polish GM completed the World Championship for Blind and Visually Impaired undefeated with an excellent score of 8 points in 9 games. The defending champion, IM Predrag Nikac (Montenegro), took second place with 7&frac12; points, while bronze went to FM Alexey Streltsov (Israel) as the player with the best tiebreak score in a group of six participants.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ibca-world-championship-2023",
+         "pubDate" : "Sun, 29 Oct 2023 13:00:00",
+         "title" : "Marcin Tazbir triumphs at IBCA World Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -410,14 +442,6 @@ news_feed (
          "title" : "Russian Chess Federation tries to keep young players"
       },
       {
-         "description" : "Some people claim that it is the duel knight vs bishop that makes chess so interesting. True or not, the duel knight vs bishop is almost always fascinating, in the middlegame and in the endgame. In the diagram position the knight is better than the bishop and White has a hidden way to win. Can you find it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/almost-always-fascinating-knight-vs-bishop",
-         "pubDate" : "Tue, 24 Oct 2023 09:00:00",
-         "title" : "Almost always fascinating: Knight vs Bishop"
-      },
-      {
          "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -442,36 +466,12 @@ news_feed (
          "title" : "Improvers With Pro Coaching: Abdrashev, Anand, Zhuk, Manucharyan Finish At Top"
       },
       {
-         "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. The endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event, the world leading chess trainer, grandmaster Efstratios Grivas, shows you how to do the job, and help you understand the secrets hidden behind it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-two-minor-pieces",
-         "pubDate" : "Mon, 23 Oct 2023 19:00:00",
-         "title" : "Rook vs. Two Minor Pieces - Part one"
-      },
-      {
-         "description" : "In this video course you will learn about basic chess opening strategies, which can help you start your chess game. Become familiar with the most famous chess trap, winning in just four moves: Scholar's Mate - and how to defend against it. But there is so much more! You will become acquainted with the Golden Rules of the Opening, and the importance of the centre - and what happens if you neglect these aspects.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-basic-opening-strategy-all-you-need-to-know",
-         "pubDate" : "Mon, 23 Oct 2023 17:00:00",
-         "title" : "Robert Ris: Basic Opening Strategy - All you need to know"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2697",
          "pubDate" : "Mon, 23 Oct 2023 16:05:12 +0000",
          "title" : "FIDE Circuit: Fabiano Caruana consolidates his lead"
-      },
-      {
-         "description" : "Magdeburg is a city steeped in history, including a long chess tradition. Every year an international open is held, this year for the 28th time. Over 200 players took part. The victory went to the only grandmaster in the field, Oleg Korneev. Bettina Trabert reports.| Photo: A view into the tournament hall | Photos: Bettina Trabert",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/korneev-wins-magdeburg-open",
-         "pubDate" : "Mon, 23 Oct 2023 15:00:00",
-         "title" : "Korneev wins Magdeburg Open"
       },
       {
          "description" : "Two spots for the 2024 Candidates Tournament are up for grabs in the strongest open tournament of the year, the 2023 FIDE Grand Swiss, which takes place in Douglas, Isle of Man, from October 25 to November 5, with a prize fund of $460,000. Who wil...",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2674",
          "pubDate" : "Mon, 09 Oct 2023 12:25:17 +0000",
          "title" : "Ghana's inmates get ready for International Chess Championship"
-      },
-      {
-         "description" : "If Magnus Carlsen is everyone's favorite living World Champion, who is second favorite? Let's have a vote. <P> How many for Kasparov? [Silence] &#149; How many for Karpov? [More silence] &#149; How many for Spassky? [Polite applause] &#149; How many for Anand? [The crowd goes wild. Maybe he is really the favorite?] <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/uHDVS0J97jk?si=wD5We1-zyYEOdsq2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Five-time World Chess Champion Shows Off His CRAZY Trophy Room</B> (5:42) &#149; '[Published",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/everyones-favorite-world-champion.html",
-         "pubDate" : "Sun, 08 Oct 2023 15:17:00",
-         "title" : "Everyone's Favorite World Champion?"
       }
    ]
 }
