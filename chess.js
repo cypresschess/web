@@ -10,6 +10,14 @@ news_feed (
          "title" : "From Morphy to Praggnanandhaa - 165 years of chess history in Round 5 of FIDE Grand Swiss"
       },
       {
+         "description" : "A top-of-the-table clash between Saint Louis University (SLU) and The University of Texas Dallas (UT Dallas) saw SLU steal the match and ascend to first place in the 2023 Collegiate Chess League (CCL) on Saturday. Powered by SIG, the matchup pro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-utdallas",
+         "pubDate" : "Sun, 29 Oct 2023 21:48:29",
+         "title" : "SLU Defeat UT Dallas In Triple Overtime"
+      },
+      {
          "description" : "Svitlana is taking us through the Panov Attack against the Caro-Kann Defence. The aggressive opening turns out to be an ambitious variation, full of attacking potential, if you can live with an isolated queen pawn. The basics are well explained, and should motivate you to look a bit deeper into this surprising Caro-Kann counter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -458,14 +466,6 @@ news_feed (
          "title" : "Important changes to the 2024 Women's Grand Prix series"
       },
       {
-         "description" : "Playing with the knight is easy and enjoyable if the position of your opponent resembles a Swiss cheese. If his pawn structure is full of holes, you simply transfer the knight to the best possible outpost and then enjoy watching how it destroys your opponent's army. However, things get much more difficult when your opponent's position is compact, without weaknesses. What to do with knights in such a case? Jan Markos has some answers. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-25-how-to-turn-a-knight-into-a-monster",
-         "pubDate" : "Tue, 24 Oct 2023 10:00:00",
-         "title" : "The Winning Academy 25: How to Turn a Knight into a Monster"
-      },
-      {
          "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-so-gives-his-impressions-mishra-shorts",
          "pubDate" : "Wed, 18 Oct 2023 01:13:45",
          "title" : "2023 US Chess Championships R11 | Wesley So gives his impressions on Mishra | #shorts"
-      },
-      {
-         "description" : "The U.S. Women&#39;s Championship concluded with a shocking last day of all decisive games that left IM Carissa Yip at the top of the standings, earning her second title. Defending champion WGM Jennifer Yu influenced the fate of the championship by ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-us-championship-day-11",
-         "pubDate" : "Tue, 17 Oct 2023 21:44:00",
-         "title" : "From The Depths Of Despair, Yip Becomes 2-Time U.S. Women's Champion"
       },
       {
          "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
