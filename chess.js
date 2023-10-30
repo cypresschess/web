@@ -18,6 +18,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The Panov Attack"
       },
       {
+         "description" : "One player, IM Bibisara Assaubayeva, leads the FIDE Women&#39;s Grand Swiss 2023 after five rounds.&#38;nbsp;The 19-year-old rising star defeated former World Champion Tan Zhongyi to reach 4.5/5, the highest score in either section. Top-seed GM Aleksand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-5",
+         "pubDate" : "Sun, 29 Oct 2023 17:10:00",
+         "title" : "Assaubayeva Leads Women's, Nakamura Scores Hat Trick In Open"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -848,14 +856,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-us-championship-day-11",
          "pubDate" : "Tue, 17 Oct 2023 21:44:00",
          "title" : "From The Depths Of Despair, Yip Becomes 2-Time U.S. Women's Champion"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen exploited a blunder by IM Samant Aditya S to win a third game in four rounds and catch GM Hikaru Nakamura, who was held to a draw by GM David Paravyan. With three rounds to go the favorites are half a point behind a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-6",
-         "pubDate" : "Tue, 17 Oct 2023 18:51:00",
-         "title" : "Carlsen Catches Nakamura In Qatar"
       },
       {
          "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
