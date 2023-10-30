@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-10-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310299172 target='_blank'>OCTOBER 29 SUNDAY SWISS</a>",
+"HOUSTON","2023-10-28","5","<a href=http://www.uschess.org/msa/XtblMain.php?202310287822 target='_blank'>CHESSPANDA10282023SATURDAY</a>",
 "SUGAR LAND","2023-10-28","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310287322 target='_blank'>FBCC 2023 HALLOWEEN OPEN</a>",
 "CYPRESS","2023-10-27","28","<a href=http://www.uschess.org/msa/XtblMain.php?202310277462 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-10-06  - 10-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310277282 target='_blank'>REBECCA CHESS CLUB OCTOBER 2023 MONTHLY SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "KINGWOOD","2023-04-15","260","<a href=http://www.uschess.org/msa/XtblMain.php?202304155952 target='_blank'>RIVERWOOD MIDDLE SCHOOL SCHOLASTIC</a>",
 "CYPRESS","2023-04-15","32","<a href=http://www.uschess.org/msa/XtblMain.php?202304154982 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-04-14","41","<a href=http://www.uschess.org/msa/XtblMain.php?202304144872 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-04-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202304144862 target='_blank'>FBCC 2023 MID-APRIL SPRING OPEN</a>",
-"HOUSTON","2023-04-14","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304144802 target='_blank'>REBECCA CHESS CLUB QUADS APRIL 14, 2023</a>",
 ]);
