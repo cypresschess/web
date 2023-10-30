@@ -26,6 +26,14 @@ news_feed (
          "title" : "NCA Centenary Grandmaster Tournament"
       },
       {
+         "description" : "IM Levy Rozman&#39;s much anticipated new book was released with a bang on October 24, topping three Amazon lists and receiving excellent reviews. How to Win at Chess: The Ultimate Guide for Beginners and Beyond is the long-awaited book by GothamChe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-releases-book-immediately-tops-amazon-lists",
+         "pubDate" : "Mon, 30 Oct 2023 12:48:45",
+         "title" : "'GothamChess' Releases New Book, Immediately Tops Three Amazon Lists"
+      },
+      {
          "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-world-individual-chess-final-scores-and-thoughts-from-owen-phillips/",
          "pubDate" : "Wed, 18 Oct 2023 07:51:28",
          "title" : "IBCA World Individual Chess - final scores and thoughts from Owen Phillips"
-      },
-      {
-         "description" : "After winning Titled Tuesday five times in 2022, GM Jose Martinez entered the October 17, 2023 edition with more than a dozen top-five finishes in 2023 but no victories on the year. He changed that by sweeping this week&#39;s event. Martinez, who rout...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-wins-titled-tuesday-october-17-2023",
-         "pubDate" : "Wed, 18 Oct 2023 07:50:48",
-         "title" : "Blitz Specialist Sweeps Titled Tuesday"
       },
       {
          "description" : "",
