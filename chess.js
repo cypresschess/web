@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r5",
+         "pubDate" : "Mon, 30 Oct 2023 12:15:00",
+         "title" : "Grand Swiss: Arjun and Nakamura join Esipenko in the lead"
+      },
+      {
+         "description" : "From 14 to 22 October, the Ukraine 2023 National Club Championships took place in Vinnytsia (Ukraine). It was the first championship since 2021: in 2022 there was no championship due to the war and in 2020 it was cancelled due to the covid-19 pandemic. This year, despite the war, Ukrainian chess players came together to compete for their team championships in classical, rapid and blitz chess. The team from the Dnipro Region Chess Federation was crowned champion in all disciplines. Grandmaster Mikhail Golubev reports. | All photos courtesy of Lana Chess Photography",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dnipro-dominates-ukranian-team-championships",
+         "pubDate" : "Mon, 30 Oct 2023 11:29:43",
+         "title" : "Dnipro dominates Ukranian Team Championships"
+      },
+      {
+         "description" : " I've had a couple of interesting experiences with the 50 move rule over the years. During the last round of a past Sydney International Open, 2 players dragged the game well beyond the point where they could claim, one because he thought he was winning (at that stage he was not), and the other because he thought you could only claim if there were no pawns on the board (NB This was prior to the 75 move rule coming into effect). Going in the other direction, it appears a recent game at a tournament I was the arbiter for ended in a draw after the players reached move 50 and basically agreed that the game was drawn. Note: this was 50 moves in total, starting from move 1, with plenty of pawn mov",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/10/the-50-move-rule.html",
+         "pubDate" : "Mon, 30 Oct 2023 11:28:00",
+         "title" : "The 50 move rule?"
+      },
+      {
+         "description" : " World Chess is delighted to announce the release of the first-ever <a href=\"https://shop.worldchess.com/collections/gifts/products/the-chess-map-of-the-world-limited-edition\">chess map of the world</a> that blends the intricate worlds of chess and geography. This unique cartographic creation, where continents and places are crafted from chess openings with geographical names, promises to be a collector's delight. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9F7BA940-7A82-4AB5-801E-F5AF058E8473.jpeg\" width=\"1600\" height=\"1132\" alt=\"\" /> <div class=\"e2-text-caption\">Map of the World in 150+ chess openings</div> </div> The island of Sicily, for instance, is artf",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-unveils-the-first-ever-chess-map-a-geographical-mast/",
+         "pubDate" : "Mon, 30 Oct 2023 09:52:39",
+         "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
+      },
+      {
+         "description" : "Please find the live games link https://live.tamilchess.com/3RD-IMNORM-MDU/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link3rd-tamil-nadu-im-tournament-closed-circuit-chess-tournament/",
+         "pubDate" : "Mon, 30 Oct 2023 07:46:22",
+         "title" : "Live Link:3rd Tamil Nadu IM tournament closed circuit chess tournament"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-utdallas",
-         "pubDate" : "Sun, 29 Oct 2023 21:48:29",
+         "pubDate" : "Sun, 29 Oct 2023 21:48:00",
          "title" : "SLU Defeat UT Dallas In Triple Overtime"
       },
       {
@@ -50,14 +90,6 @@ news_feed (
          "title" : "Understanding before Moving 149: Chess history in a nutshell (31)"
       },
       {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Sun, 29 Oct 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
-      },
-      {
          "description" : "Marcin Tazbir is the new IBCA World Champion. The Polish GM completed the World Championship for Blind and Visually Impaired undefeated with an excellent score of 8 points in 9 games. The defending champion, IM Predrag Nikac (Montenegro), took second place with 7&frac12; points, while bronze went to FM Alexey Streltsov (Israel) as the player with the best tiebreak score in a group of six participants.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +111,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/city-of-human-chess-debuts-at-la-film-festival-streaming-now-on-magellantv",
          "pubDate" : "Sun, 29 Oct 2023 09:32:15",
-         "title" : "'The City Of Human Chess', Chess.com's First Original Production, Wins Award At DOC LA Film Festival-Watch It Now On MagellanTV"
+         "title" : "Chess.com's First Original Production Wins Award At DOC LA Film Festival-Watch It Now On MagellanTV"
       },
       {
          "description" : "A sole leader emerged for the first time in the open section of the Grand Swiss, as Andrey Esipenko beat Marc'Andria Maurizzi to become the only player to reach a 3&frac12;/4 score. A 17-player chasing pack stands a half point behind, with Hikaru Nakamura, Alireza Firouzja and Hans Niemann among those who joined this group by winning on Saturday. In the women's section, Anna Muzychuk could not convert her advantage in the co-leaders' clash with Tan Zhongyi. | Photo: Anna Shtourman",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rook-vs-two-minor-pieces-2",
          "pubDate" : "Tue, 24 Oct 2023 19:00:00",
          "title" : "Rook vs. Two Minor Pieces - Part two"
-      },
-      {
-         "description" : "The World Chess Federation has expanded the Women's Grand Prix series for the upcoming 2024-25 cycle. Instead of 16 players, there will now be 20. The number of tournaments has been increased from four to six, with ten players per tournament. The prize money has also been increased.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/important-changes-to-the-2024-women-s-grand-prix-series",
-         "pubDate" : "Tue, 24 Oct 2023 11:00:00",
-         "title" : "Important changes to the 2024 Women's Grand Prix series"
       },
       {
          "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2686",
          "pubDate" : "Mon, 16 Oct 2023 10:20:50 +0000",
          "title" : "2023 IBCA World Championship: Tazbir leads, Magnusson elected as new President"
-      },
-      {
-         "description" : "Notice This is to inform you all that due to occasion of Dusshera ,we have extend Tenders date to 28th October 2023 , Other terms",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice/",
-         "pubDate" : "Mon, 16 Oct 2023 09:48:02",
-         "title" : "Notice"
       },
       {
          "description" : "Leaders after round seven &#8212; GM Marcin Tazbir 6.5; IM Predrag Nikac 6; FM Alexey Streltsov 5.5; Yuri Bibikov 5.5; then ten players on 5....",
