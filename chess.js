@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Mon, 30 Oct 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Mon, 30 Oct 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "Top-level chess is underway in Nottingham where invited Grandmasters take on some of England's best young players, including the cream of Nottingham's chess talent. This...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/nca-centenary-grandmaster-tournament/",
+         "pubDate" : "Mon, 30 Oct 2023 13:12:54",
+         "title" : "NCA Centenary Grandmaster Tournament"
+      },
+      {
          "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -13,9 +37,9 @@ news_feed (
          "description" : "From 14 to 22 October, the Ukraine 2023 National Club Championships took place in Vinnytsia (Ukraine). It was the first championship since 2021: in 2022 there was no championship due to the war and in 2020 it was cancelled due to the covid-19 pandemic. This year, despite the war, Ukrainian chess players came together to compete for their team championships in classical, rapid and blitz chess. The team from the Dnipro Region Chess Federation was crowned champion in all disciplines. Grandmaster Mikhail Golubev reports. | All photos courtesy of Lana Chess Photography",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dnipro-dominates-ukranian-team-championships",
+         "link" : "https://en.chessbase.com/post/dnipro-dominates-ukrainian-team-championships",
          "pubDate" : "Mon, 30 Oct 2023 11:29:43",
-         "title" : "Dnipro dominates Ukranian Team Championships"
+         "title" : "Dnipro dominates Ukrainian Team Championships"
       },
       {
          "description" : " I've had a couple of interesting experiences with the 50 move rule over the years. During the last round of a past Sydney International Open, 2 players dragged the game well beyond the point where they could claim, one because he thought he was winning (at that stage he was not), and the other because he thought you could only claim if there were no pawns on the board (NB This was prior to the 75 move rule coming into effect). Going in the other direction, it appears a recent game at a tournament I was the arbiter for ended in a draw after the players reached move 50 and basically agreed that the game was drawn. Note: this was 50 moves in total, starting from move 1, with plenty of pawn mov",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-5",
          "pubDate" : "Sun, 29 Oct 2023 17:10:00",
          "title" : "Assaubayeva Leads Women's, Nakamura Scores Hat Trick In Open"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Sun, 29 Oct 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 149th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Garry Kasparov and about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2698",
          "pubDate" : "Tue, 24 Oct 2023 21:15:25 +0000",
          "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
-      },
-      {
-         "description" : "The recently completed Qatar Masters 2023 was a quite strong event and, as usual, a lot of interesting games and subjects were in the daily menu. In the first instalment of this series world leading chess trainer GM Efstratios Grivas showed us why the endgame of rook vs. two minor pieces is a difficult one to understand and master. Using games from the above event (one by Carlsen) he is showing us how to play the endgame, and understand the secrets hidden behind it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-two-minor-pieces-2",
-         "pubDate" : "Tue, 24 Oct 2023 19:00:00",
-         "title" : "Rook vs. Two Minor Pieces - Part two"
       },
       {
          "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
@@ -1114,14 +1122,6 @@ news_feed (
          "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
       },
       {
-         "description" : "For pictures from the event and a particularly useful post explaining the specialised board setup some players us, follow this link &#8212; https://www.facebook.com/chessingreece Sad to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ibca-world-individual-championship-second-report-from-owen-phillips/",
-         "pubDate" : "Wed, 11 Oct 2023 08:36:30",
-         "title" : "IBCA World Individual Championship - second report from Owen Phillips"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,22 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2676",
          "pubDate" : "Tue, 10 Oct 2023 02:31:09 +0000",
          "title" : "2023 IBCA World Chess Championship starts in Rhodes, Greece"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2675",
-         "pubDate" : "Mon, 09 Oct 2023 15:21:28 +0000",
-         "title" : "FIDE Statement regarding the World Cadet U8, U10, U12 Championships 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2674",
-         "pubDate" : "Mon, 09 Oct 2023 12:25:17 +0000",
-         "title" : "Ghana's inmates get ready for International Chess Championship"
       }
    ]
 }
