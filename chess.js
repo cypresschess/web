@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess stalemates in the middle games reveal the intricacy and beauty of this uncommon occurrence, offering various unique and engrossing endgame analyses. To show the variety of inventiveness and strategic nuance present in these unusual circumstances, Siegfried Hornecker presents a number of examples of midboard stalemates. These range from complex endgames to complicated compositions by well-known chess composers like Vladimir Bron and Emil Melnichenko. | Photo: Midjourney",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-midboard-stalemates",
+         "pubDate" : "Tue, 31 Oct 2023 15:00:00",
+         "title" : "Study Of The Month: Midboard stalemates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2711",
+         "pubDate" : "Tue, 31 Oct 2023 12:15:52 +0000",
+         "title" : "World Amateur Chess Championship 2023 set to commence in Oman"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2710",
+         "pubDate" : "Tue, 31 Oct 2023 11:27:23 +0000",
+         "title" : "FIDE approves new regulations for Affiliated Members"
+      },
+      {
          "description" : "Going into the rest day, the Women's Grand Swiss has a sole leader in Anna Muzychuk, who defeated Bibisara Assaubayeva with the white pieces on Monday. In the open, eight players are sharing the lead with 4&frac12;/6 points each, as Fabiano Caruana, Vidit Gujrathi, Javokhir Sindarov, Alexandr Predke and Radoslaw Wojtaszek grabbed full points to join the leading pack. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2023",
          "pubDate" : "Wed, 25 Oct 2023 10:58:00",
          "title" : "FIDE Grand Swiss 2023 - Games and Results"
-      },
-      {
-         "description" : "India is beginning to seriously dominate the chess world, the country is on a path to becoming the super-power in the game. This is deeply gratifying - especially for the people involved in the training and advancement of the young stars. Frederic Friedel describes how the new group of super-talents is making its way to the very top. Other countries should take this as an example!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/super-talents-and-the-secret-of-success",
-         "pubDate" : "Wed, 25 Oct 2023 10:00:00",
-         "title" : "Super-talents and the secret of success"
       },
       {
          "description" : " The 31st World Senior Chess Championship takes place in Citt&agrave;a del Mare in Sicily. There are 3 sections, over 50, over 65 and women's. Michael Adams, Hannes Stefansson, Maxime Dlugy, John Nunn, Rafael Vaganian, Lubomir Ftacnik and Nona Gaprindashvili are the top seeds in these various sections. ",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2677",
          "pubDate" : "Tue, 10 Oct 2023 22:23:45 +0000",
          "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
-      },
-      {
-         "description" : " The 2023 Vikings Weekender will be held on the weekend of the 18th and 19th of November. A return to the traditional venue of the Vikings Club, Erindale, means that the entry numbers will be restricted to 60 players. There will also only be 5 rounds (no Friday night round) and as a result, only 24 players can enter the Top section, with 36 players in the Under 1600 section. The booking link is <a href=\"https://www.trybooking.com/CMHKH\">https://www.trybooking.com/CMHKH</a> Full details are <b>18th and 19th November 2023</b> 5 round FIDE Rated Swiss* Vikings Club, Erindale, ACT Time control: 60m + 30s Open and Under 1600 sections (Both FIDE Rated) Round 1: Sat 10:15am Round 2: Sat 2:15pm Roun",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/2023-vikings-weekender.html",
-         "pubDate" : "Tue, 10 Oct 2023 12:13:00",
-         "title" : "2023 Vikings Weekender"
       }
    ]
 }
