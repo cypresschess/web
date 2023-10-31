@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Going into the rest day, the Women's Grand Swiss has a sole leader in Anna Muzychuk, who defeated Bibisara Assaubayeva with the white pieces on Monday. In the open, eight players are sharing the lead with 4&frac12;/6 points each, as Fabiano Caruana, Vidit Gujrathi, Javokhir Sindarov, Alexandr Predke and Radoslaw Wojtaszek grabbed full points to join the leading pack. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r6",
+         "pubDate" : "Tue, 31 Oct 2023 09:05:00",
+         "title" : "Grand Swiss: Anna Muzychuk tops the standings"
+      },
+      {
+         "description" : "Knowing when and how to exchange pieces is an important skill - not only in the endgame. In the diagram position it is Black to play and draw. What should Black do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-right-exchange-3",
+         "pubDate" : "Tue, 31 Oct 2023 09:00:00",
+         "title" : "The right exchange"
+      },
+      {
+         "description" : "The ECF is delighted to announce that Surrey player Owen Phillips has been appointed as ECF Manager for Accessible Chess. This is an important appointment...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-manager-for-accessible-chess/",
+         "pubDate" : "Tue, 31 Oct 2023 08:54:35",
+         "title" : "ECF Manager for Accessible Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -15,15 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-6",
          "pubDate" : "Mon, 30 Oct 2023 17:44:00",
-         "title" : "Nakamura Slows Tournament Leader, 6 Players Join Lead"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Mon, 30 Oct 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
+         "title" : "Nakamura Holds Co-leader Esipenko, 5 Players Join Lead"
       },
       {
          "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/8-year-old-bodhana-scores-historic-triple-world-championship-title",
          "pubDate" : "Wed, 25 Oct 2023 09:11:00",
          "title" : "8-Year-Old Makes Chess History: England's First World Youth Champion in 25 Years"
-      },
-      {
-         "description" : "The Candidates Tournament and the Women's Candidates Tournament will be played simultaneously next year in Toronto. Four spots are still up for grabs in the open event, while three participants remain to be decided among the women. In both cases, two spots will be decided in the upcoming Grand Swiss tournaments. Let us recap who already qualified, and who are the frontrunners to get the remaining spots. | Pictured: Elite grandmasters apparently discussing a position during the Grand Swiss opening ceremony. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/race-for-candidates-october-2023",
-         "pubDate" : "Wed, 25 Oct 2023 03:05:00",
-         "title" : "Race for the Candidates: Four places still up for grabs"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games, including a win over Ben Finegold. Akshat takes questions at the end from Yasser Seirawan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2680",
          "pubDate" : "Thu, 12 Oct 2023 09:27:51 +0000",
          "title" : "FIDE and CDPF looking forward to deepening cooperation"
-      },
-      {
-         "description" : "STOP PRESS! Round Four Looks like a very important round as the current World Champion IM Predrag Nikac is facing off with Black against GM...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rhodes-report-three-from-owen-phillips/",
-         "pubDate" : "Thu, 12 Oct 2023 08:13:34",
-         "title" : "Rhodes - report three from Owen Phillips"
       },
       {
          "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
