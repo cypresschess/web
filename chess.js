@@ -458,6 +458,14 @@ news_feed (
          "title" : "FIDE Grand Swiss: Day 1 Recap"
       },
       {
+         "description" : "Chess.com, the world&#38;rsquo;s largest chess site with a global community of more than 150 million members, today announced a partnership with Duolingo, the world&#38;rsquo;s leading mobile learning platform. To celebrate the occasion, Chess.com is ad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duolingo",
+         "pubDate" : "Wed, 25 Oct 2023 16:55:00",
+         "title" : "Duolingo's Mascot, Duo the Owl, Joins Chess.com To Capture Your Pawns In 12 Languages"
+      },
+      {
          "description" : "32 players lead the&#38;nbsp;2023 FIDE Grand Swiss and 15 in the 2023 FIDE Women&#39;s Grand Swiss after round one. In the Open, top seed GM Fabiano Caruana leads the pack after winning a spectacular game against GM Ivan Saric. Other notable wins (of ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -834,14 +842,6 @@ news_feed (
          "title" : "The Chess Memory Palace"
       },
       {
-         "description" : "World number-one Magnus Carlsen&#39;s hopes of making the Qatar Masters 2023 a repeat of his 2015 victory have all but gone after a sacrifice against GM Karthikeyan Murali boomeranged into another loss, this time with the white pieces. GM Arjun Erigai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-7",
-         "pubDate" : "Wed, 18 Oct 2023 17:05:00",
-         "title" : "Carlsen Gambles, Loses To India's Karthikeyan"
-      },
-      {
          "description" : "To follow the event (32 lives boards and round five commentary by GM Peter Wells and WIM Natasha Regan) go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2678",
          "pubDate" : "Wed, 11 Oct 2023 18:42:02 +0000",
          "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2677",
-         "pubDate" : "Tue, 10 Oct 2023 22:23:45 +0000",
-         "title" : "FIDE World Junior Rapid Championship: A Thrilling Start to a Grand Battle"
       }
    ]
 }
