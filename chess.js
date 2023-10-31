@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2709",
+         "pubDate" : "Mon, 30 Oct 2023 23:47:03 +0000",
+         "title" : "Storms on and off the board in Round 6 of FIDE Grand Swiss "
+      },
+      {
+         "description" : "After six rounds in the FIDE Grand Swiss 2023, eight players are tied for the lead with 4.5/6, while GM Anna Muzychuk takes the sole lead with 5/6 in the Women&#39;s. In the Open, GMs Hikaru Nakamura and Andrey Esipenko fought a sharp battle on the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-6",
+         "pubDate" : "Mon, 30 Oct 2023 17:44:00",
+         "title" : "Nakamura Slows Tournament Leader, 6 Players Join Lead"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "'GothamChess' Releases New Book, Immediately Tops Three Amazon Lists"
       },
       {
-         "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r5",
-         "pubDate" : "Mon, 30 Oct 2023 12:15:00",
-         "title" : "Grand Swiss: Arjun and Nakamura join Esipenko in the lead"
-      },
-      {
          "description" : "From 14 to 22 October, the Ukraine 2023 National Club Championships took place in Vinnytsia (Ukraine). It was the first championship since 2021: in 2022 there was no championship due to the war and in 2020 it was cancelled due to the covid-19 pandemic. This year, despite the war, Ukrainian chess players came together to compete for their team championships in classical, rapid and blitz chess. The team from the Dnipro Region Chess Federation was crowned champion in all disciplines. Grandmaster Mikhail Golubev reports. | All photos courtesy of Lana Chess Photography",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-unveils-the-first-ever-chess-map-a-geographical-mast/",
          "pubDate" : "Mon, 30 Oct 2023 09:52:39",
          "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
+      },
+      {
+         "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r5",
+         "pubDate" : "Mon, 30 Oct 2023 08:10:00",
+         "title" : "Grand Swiss: Arjun and Nakamura join Esipenko in the lead"
       },
       {
          "description" : "Please find the live games link https://live.tamilchess.com/3RD-IMNORM-MDU/",
@@ -794,14 +810,6 @@ news_feed (
          "title" : "Carlsen Gambles, Loses To India's Karthikeyan"
       },
       {
-         "description" : "We&#39;re excited to announce that members can now use the Torch chess engine on our Analysis page. Torch is a new engine developed by the Chess.com team that has quickly risen to the top of the chess engine rankings. Developed in less than eight mont...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/torch-engine-available-on-chesscom",
-         "pubDate" : "Wed, 18 Oct 2023 11:36:00",
-         "title" : "Enlighten Your Analysis With Torch, The New Top Engine Now Available On Chess.com"
-      },
-      {
          "description" : "To follow the event (32 lives boards and round five commentary by GM Peter Wells and WIM Natasha Regan) go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-vikings-weekender.html",
          "pubDate" : "Tue, 10 Oct 2023 12:13:00",
          "title" : "2023 Vikings Weekender"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2676",
-         "pubDate" : "Tue, 10 Oct 2023 02:31:09 +0000",
-         "title" : "2023 IBCA World Chess Championship starts in Rhodes, Greece"
       }
    ]
 }
