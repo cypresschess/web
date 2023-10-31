@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Zachary Saine is thechessnerd, a 22-year-old content creator and Twitch streamer. The Canadian is a student at Amsterdam University and is playing in as many European chess tournaments as he can. Zach, as he likes to be called, has chalked up 138 million views on YouTube. Recently we sent him a copy of ChessBase 17 and Mega Database 2023, and he used it to prepare for a game against a higher-rated opponent. The software provided him with radar vision. Here is Zach's video description of how the game went.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-nerd-uses-chessbase",
+         "pubDate" : "Tue, 31 Oct 2023 19:00:00",
+         "title" : "A Chess Nerd uses ChessBase"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2712",
+         "pubDate" : "Tue, 31 Oct 2023 18:10:18 +0000",
+         "title" : "World Senior Championship 2023 passes midpoint"
+      },
+      {
          "description" : "Chess stalemates in the middle games reveal the intricacy and beauty of this uncommon occurrence, offering various unique and engrossing endgame analyses. To show the variety of inventiveness and strategic nuance present in these unusual circumstances, Siegfried Hornecker presents a number of examples of midboard stalemates. These range from complex endgames to complicated compositions by well-known chess composers like Vladimir Bron and Emil Melnichenko. | Photo: Midjourney",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-world-seniors.html",
          "pubDate" : "Wed, 25 Oct 2023 12:37:00",
          "title" : "2023 World Seniors"
-      },
-      {
-         "description" : "On Tuesday evening, the Grand Swiss Tournaments 2023 were ceremonially opened at Villa Marina on the Isle of Man and the colours for the first round were drawn. The field is strong, the pairings are exciting. | Photos: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-grand-swiss-and-fide-women-s-grand-swiss-2023-kick-off-in-the-isle-of-man",
-         "pubDate" : "Wed, 25 Oct 2023 12:20:41",
-         "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
       },
       {
          "description" : "please find live link for 2nd IM Norm https://live.tamilchess.com/2nd-im-norm-pollachi/",
