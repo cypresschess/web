@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-10-03  - 10-31","15","<a href=http://www.uschess.org/msa/XtblMain.php?202310310382 target='_blank'>OCT 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-10-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310299172 target='_blank'>OCTOBER 29 SUNDAY SWISS</a>",
 "HUMBLE","2023-10-28","79","<a href=http://www.uschess.org/msa/XtblMain.php?202310288342 target='_blank'>ST MARY MAGDALENE SCHOLASTIC</a>",
 "HOUSTON","2023-10-28","5","<a href=http://www.uschess.org/msa/XtblMain.php?202310287822 target='_blank'>CHESSPANDA10282023SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-04-21","10","<a href=http://www.uschess.org/msa/XtblMain.php?202304218862 target='_blank'>REBECCA CHESS CLUB QUADS APRIL 21, 2023</a>",
 "CYPRESS","2023-04-21","34","<a href=http://www.uschess.org/msa/XtblMain.php?202304210772 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-04-15  - 04-16","56","<a href=http://www.uschess.org/msa/XtblMain.php?202304166382 target='_blank'>$2,000 HOUSTON CHESS STUDIO APRIL 2</a>",
-"KINGWOOD","2023-04-15","260","<a href=http://www.uschess.org/msa/XtblMain.php?202304155952 target='_blank'>RIVERWOOD MIDDLE SCHOOL SCHOLASTIC</a>",
 ]);
