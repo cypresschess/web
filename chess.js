@@ -463,7 +463,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/duolingo",
          "pubDate" : "Wed, 25 Oct 2023 16:55:00",
-         "title" : "Duolingo's Mascot, Duo the Owl, Joins Chess.com To Capture Your Pawns In 12 Languages"
+         "title" : "Duolingo Joins Chess.com To Capture Your Pawns In 12 Languages"
       },
       {
          "description" : "32 players lead the&#38;nbsp;2023 FIDE Grand Swiss and 15 in the 2023 FIDE Women&#39;s Grand Swiss after round one. In the Open, top seed GM Fabiano Caruana leads the pack after winning a spectacular game against GM Ivan Saric. Other notable wins (of ma...",
