@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India is on its way to becoming the biggest super-power in chess. Some of the credit goes to ChessBase India, which has organized a large number of projects to foster this development. CEO Sagar Shah is now on a mission to make chess a subject of the regular school curriculum, not just to generate further champions, but to foster the social and learning skills of students. Currently he is holding a seminar on how to implement chess in schools across entire states. Here are his talking points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-schools",
+         "pubDate" : "Wed, 01 Nov 2023 07:51:43",
+         "title" : "Chess in Schools"
+      },
+      {
+         "description" : " In post-quarantine times, chess has returned to its classical roots, but quick chess has surged and even surpassed all forms of chess in terms of sheer popularity. Popular streamers like Hikaru Nakamura and Levy Rozman have amassed huge followings and the online platform has made chess accessible to a wider audience. Most have resorted to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/\">Classical Chess is still King Here's Why</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/",
+         "pubDate" : "Wed, 01 Nov 2023 03:50:00",
+         "title" : "Classical Chess is still King&hellip; Here's Why"
+      },
+      {
          "description" : "Zachary Saine is thechessnerd, a 22-year-old content creator and Twitch streamer. The Canadian is a student at Amsterdam University and is playing in as many European chess tournaments as he can. Zach, as he likes to be called, has chalked up 138 million views on YouTube. Recently we sent him a copy of ChessBase 17 and Mega Database 2023, and he used it to prepare for a game against a higher-rated opponent. The software provided him with radar vision. Here is Zach's video description of how the game went.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
          "pubDate" : "Wed, 25 Oct 2023 15:24:00",
          "title" : "Chess.com Takes Over TwitchCon"
-      },
-      {
-         "description" : "When it comes to internal politics, our noble game is anything but 'noble'. Nasty games can be played within federations for personal gain and power at immense expense to chess players. Disagreements and anomalies have affected the work of some federations at various degrees, but it seems that no one has suffered as much or as long as chess in Morocco. Diana Mihajlova reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess",
-         "pubDate" : "Wed, 25 Oct 2023 12:45:00",
-         "title" : "Never Ending Saga of Moroccan Chess"
       },
       {
          "description" : " The World Seniors is one event that seems to grow in popularity each year. The 2023 edition begins today in Italy, with 300 players across 3 sections (50+, 65+ and Women's 50+). Each event is headed by a GM, with Michael Adams the top seed in the 50+, John Nunn in the 65+ and Nona Gaprindashvili in the Women's. Australia only has one representative (Aurel John-Buciu) but New Zealand has 7. There are also 27 GM's playing across the event, with 16 in the 50+ Due to the timezone difference I don't think the frst round has started just yet, but you should be able to keep up with the tournament at <a href=\"https://www.worldseniorchess2023.com\">https://www.worldseniorchess2023.com</a> ",
