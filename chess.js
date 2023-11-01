@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is still the clear world number one, but his lead over the other world class players has shrunk somewhat, although it's still impressive. World number two Fabiano Caruana is the only player in the top 12 to have gained Elo in the last month, and with a good result in the Grand Swiss Tournament on the Isle of Man he could break the 2800 barrier again. Here's the FIDE Ranking as of 1 November 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-november-2023",
+         "pubDate" : "Wed, 01 Nov 2023 22:00:00",
+         "title" : "FIDE ratings November 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -450,14 +458,6 @@ news_feed (
          "title" : "European Small Nations Team Chess Championship 2023 starts in Jersey"
       },
       {
-         "description" : "Vaishali Rameshbabu's many successes have always been overshadowed by those of her younger brother, Praggnanandhaa Rameshbabu. At the Qatar Open, however, the 22-year-old made her third GM norm and will get GM title when she reaches 2500 Elo. Her current live rating is 2471.7. Thorsten Cmiel takes a look at Vaishali's grandmaster performance at the Qatar Masters, the second strongest Open of the year. | Photos: Qatar Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vaishali-makes-third-grandmaster-norm-in-qatar",
-         "pubDate" : "Fri, 27 Oct 2023 09:00:00",
-         "title" : "Vaishali made her third grandmaster norm in Qatar"
-      },
-      {
          "description" : " The world Nos 3 and 4 are battling for two Candidates places in the $460,000, 114-player event, but both started slowly while rivals who prepared with non-stop blitz began with wins Hikaru Nakamura of the US and Alireza Firouzja of France, the world Nos 3 and 4, are among the favourites in the 114-player Fide Grand Swiss event at Douglas, Isle of Man. The event offers a $460,000 prize fund from the Scheinberg family, which has sponsored international events on the island since 2014. Two places in the 2024 Candidates, and a potential challenge to China's world champion Ding Liren, are also at stake. A fast start is reckoned important in such a high class field where almost all the players ar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -834,14 +834,6 @@ news_feed (
          "title" : "2023 U.S. Chess Champions: Grandmaster Fabiano Caruana Defends Title to Become Three-Time U.S. Champion; International Master Carissa Yip Wins Second Title in Women's Division"
       },
       {
-         "description" : "IM Polina Shuvalova won the 2023 I&#39;M Not A GM Speed Chess Championship after defeating IM Levy Rozman (aka GothamChess) 10.5-9.5 in the Final. She was the highest-rated player in this year&#39;s tournament, by FIDE classical rating, and also the first...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-im-not-a-gm-scc-final-shuvalova-wins",
-         "pubDate" : "Thu, 19 Oct 2023 15:59:00",
-         "title" : "Shuvalova Wins 2023 IMSCC After Cinematic Pawn Race"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1160,14 +1152,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
          "pubDate" : "Thu, 12 Oct 2023 00:43:40",
          "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2679",
-         "pubDate" : "Wed, 11 Oct 2023 20:17:46 +0000",
-         "title" : "3rd Intercontinental Online Chess Championship for Prisoners gets underway with a record number of countries participating"
       }
    ]
 }
