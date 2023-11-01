@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Wed, 01 Nov 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Wed, 01 Nov 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
          "description" : "In the Endgame Magic Show #253 Karsten M&uuml;ller and endgame aficionado Ted Jewell analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-4",
          "pubDate" : "Wed, 01 Nov 2023 12:11:20",
          "title" : "Endgame Magic #253 - with Ted Jewell: Highlights from the German Bundesliga"
+      },
+      {
+         "description" : " Entries are now open for the 2024 O2C Doeberl Cup. Last years event smashed all records in terms of the size of the event, with 403 players entering. The addition of the Mini (Under 1500) event was a big success, and the format for 2024 will be the same as 2023. The only small change to the tournaments will be an additional blitz event for Under 1600 players, starting a little earlier on the Saturday evening (6pm). This gives younger players a chance to play in a FIDE rated blitz event, without having to stay up until midnight, like this year. As we often see the tournaments filling up a few weeks before the start, registering early is recommended. Full details (and registration links) can ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/2024-o2c-doeberl-cup.html",
+         "pubDate" : "Wed, 01 Nov 2023 11:45:00",
+         "title" : "2024 O2C Doeberl Cup "
       },
       {
          "description" : "World-class chess explained in video: Dorian Rogozenco shows two win by Magnus Carlsen from the World Cup 2023 - From a surprise weapon to a fashionable variation: Luis Engel shows why 6.Rg1 is being used by more and more top players against the Najdorf Variation (video) - Analyses of Nijat Abasov, Anish Giri, Vidit Gujrathi, Ferenc Berkes, Jan Krzysztof Duda, Andrey Esipenko, Nils Grandelius, Anna and Mariya Muzychuk, Praggnanandhaa, Peter Svidler et al. from the World Cup 2023 - \"Special\" on Hou Yifan: exclusive collection of 22 encounters with detailed commentary from the period from 2008 to 2020 - \"Crushing the Benoni\": Petra Papp recommends the attack with 6.e4 g6 7.f4! - Carlsbad 1923:",
@@ -34,12 +58,28 @@ news_feed (
          "title" : "World Senior Championship 2023 passes midpoint"
       },
       {
+         "description" : "&#34;It&#39;s still my favorite tournament of the year!&#34; said Super-GM Daniil Dubov, after conceding just one draw in eight games to win the 2023 Halloween Mystery Banter Blitz. Dubov, wearing a Scream mask, had overcome GM Olexandr Bortnyk (Vampire) 3.5:...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-wins-2023-halloween-mystery-blitz",
+         "pubDate" : "Wed, 01 Nov 2023 08:20:22",
+         "title" : "Dubov Wins Halloween Mystery Banter Blitz For 2nd Year In A Row"
+      },
+      {
          "description" : "India is on its way to becoming the biggest super-power in chess. Some of the credit goes to ChessBase India, which has organized a large number of projects to foster this development. CEO Sagar Shah is now on a mission to make chess a subject of the regular school curriculum, not just to generate further champions, but to foster the social and learning skills of students. Currently he is holding a seminar on how to implement chess in schools across entire states. Here are his talking points.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-in-schools",
          "pubDate" : "Wed, 01 Nov 2023 07:51:43",
          "title" : "Chess in Schools"
+      },
+      {
+         "description" : "Chess.com, the world&#38;rsquo;s largest chess site with a global community of more than 150 million members, today announced a partnership with Duolingo, the world&#38;rsquo;s leading mobile learning platform. To celebrate the occasion, Chess.com is ad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duolingo",
+         "pubDate" : "Wed, 01 Nov 2023 07:17:00",
+         "title" : "Duolingo Joins Chess.com To Capture Your Pawns In 12 Languages"
       },
       {
          "description" : " In post-quarantine times, chess has returned to its classical roots, but quick chess has surged and even surpassed all forms of chess in terms of sheer popularity. Popular streamers like Hikaru Nakamura and Levy Rozman have amassed huge followings and the online platform has made chess accessible to a wider audience. Most have resorted to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/\">Classical Chess is still King Here's Why</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -442,22 +482,6 @@ news_feed (
          "title" : "Caruana Beats Niemann, Returns To 2800 Club"
       },
       {
-         "description" : "In his Game of the Week show #591 Merijn Van Delft looks at an unusually creative attacking game played by German Grandmaster Frederik Svane against Tigran Gharamian in the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-591-f-svane-vs-t-gharamian",
-         "pubDate" : "Thu, 26 Oct 2023 17:00:00",
-         "title" : "Game of the Week #591: F. Svane vs T. Gharamian"
-      },
-      {
-         "description" : "As expected, hard-fought, exciting games were the norm on the opening day at the Grand Swiss tournaments on the Isle of Man. In the open, 32 players started with wins, including top seed Fabiano Caruana, Richard Rapport (pictured) and Levon Aronian. In the women's event, meanwhile, 15 participants scored full points, with none of the top three seeds getting more than a draw. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r1",
-         "pubDate" : "Thu, 26 Oct 2023 14:00:00",
-         "title" : "Grand Swiss: Duda wins stunner, Goryachkina escapes"
-      },
-      {
          "description" : "He is an internist, a gastroenterologist at a Berlin hospital. He is also an avid chess player. And a photographer, who founded the Valokulta art group. Dr Jan W&auml;hner has sent us some extraordinary pictures from the 2024 calendar, for which his good friend GM Dr Helmut Pfleger has written the foreword.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2700",
          "pubDate" : "Wed, 25 Oct 2023 22:15:34 +0000",
          "title" : "FIDE Grand Swiss: Day 1 Recap"
-      },
-      {
-         "description" : "Chess.com, the world&#38;rsquo;s largest chess site with a global community of more than 150 million members, today announced a partnership with Duolingo, the world&#38;rsquo;s leading mobile learning platform. To celebrate the occasion, Chess.com is ad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duolingo",
-         "pubDate" : "Wed, 25 Oct 2023 16:55:00",
-         "title" : "Duolingo Joins Chess.com To Capture Your Pawns In 12 Languages"
       },
       {
          "description" : "32 players lead the&#38;nbsp;2023 FIDE Grand Swiss and 15 in the 2023 FIDE Women&#39;s Grand Swiss after round one. In the Open, top seed GM Fabiano Caruana leads the pack after winning a spectacular game against GM Ivan Saric. Other notable wins (of ma...",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2692",
          "pubDate" : "Thu, 19 Oct 2023 13:39:06 +0000",
          "title" : "FIDE Executive Director Victor Bologan visits Kenya"
-      },
-      {
-         "description" : "Chess.com is excited to announce the release of GM Fabiano Caruana&#39;s Ruy Lopez: Dark Archangel course, now available on Chessable. Consistently ranking as the world number two and widely known for his unparalleled opening preparation, Caruana is i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-ruy-lopez-chessable-course",
-         "pubDate" : "Thu, 19 Oct 2023 09:55:00",
-         "title" : "Fight For The Win With Black With Caruana's New Ruy Lopez Chessable Course"
       },
       {
          "description" : "",
