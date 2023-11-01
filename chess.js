@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2713",
+         "pubDate" : "Wed, 01 Nov 2023 16:45:20 +0000",
+         "title" : "FIDE Infinite Chess project for children with ASD keeps growing"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,11 +66,11 @@ news_feed (
          "title" : "World Senior Championship 2023 passes midpoint"
       },
       {
-         "description" : "&#34;It&#39;s still my favorite tournament of the year!&#34; said Super-GM Daniil Dubov, after conceding just one draw in eight games to win the 2023 Halloween Mystery Banter Blitz. Dubov, wearing a Scream mask, had overcome GM Olexandr Bortnyk (Vampire) 3.5:...",
+         "description" : "&#34;It&#39;s still my favorite tournament of the year!&#34; said super-GM Daniil Dubov, after conceding just one draw in eight games to win the 2023 Halloween Mystery Banter Blitz. Dubov, wearing a Scream mask, had overcome GM Oleksandr Bortnyk (in a Vampire...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dubov-wins-2023-halloween-mystery-blitz",
-         "pubDate" : "Wed, 01 Nov 2023 08:20:22",
+         "pubDate" : "Wed, 01 Nov 2023 08:20:00",
          "title" : "Dubov Wins Halloween Mystery Banter Blitz For 2nd Year In A Row"
       },
       {
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2679",
          "pubDate" : "Wed, 11 Oct 2023 20:17:46 +0000",
          "title" : "3rd Intercontinental Online Chess Championship for Prisoners gets underway with a record number of countries participating"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2678",
-         "pubDate" : "Wed, 11 Oct 2023 18:42:02 +0000",
-         "title" : "Egyptian Chess Federation on World Cadet U8, U10 and U12 Championships 2023"
       }
    ]
 }
