@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #253 Karsten M&uuml;ller and endgame aficionado Ted Jewell analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-4",
+         "pubDate" : "Wed, 01 Nov 2023 12:11:20",
+         "title" : "Endgame Magic #253 - with Ted Jewell: Highlights from the German Bundesliga"
+      },
+      {
+         "description" : "World-class chess explained in video: Dorian Rogozenco shows two win by Magnus Carlsen from the World Cup 2023 - From a surprise weapon to a fashionable variation: Luis Engel shows why 6.Rg1 is being used by more and more top players against the Najdorf Variation (video) - Analyses of Nijat Abasov, Anish Giri, Vidit Gujrathi, Ferenc Berkes, Jan Krzysztof Duda, Andrey Esipenko, Nils Grandelius, Anna and Mariya Muzychuk, Praggnanandhaa, Peter Svidler et al. from the World Cup 2023 - \"Special\" on Hou Yifan: exclusive collection of 22 encounters with detailed commentary from the period from 2008 to 2020 - \"Crushing the Benoni\": Petra Papp recommends the attack with 6.e4 g6 7.f4! - Carlsbad 1923:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-216",
+         "pubDate" : "Wed, 01 Nov 2023 11:00:25",
+         "title" : "New: ChessBase Magazine #216"
+      },
+      {
+         "description" : "This year's Northwick Park Congress on December 16th, 17th has moved! It will now be taking place at University of Westminster Marylebone Hall, 35 Marylebone...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/notice-of-venue-change-ljcc/",
+         "pubDate" : "Wed, 01 Nov 2023 10:16:33",
+         "title" : "Urgent notice of venue change - London Junior Chess Championship events!"
+      },
+      {
+         "description" : "It is the halftime at the World Senior Chess Championship 2023, and after six rounds the participants were enjoying a day off. After visiting the city of Palermo the players are getting ready to continue battles for the titles in second half of the tournament, starting on November 1. | Photos: Denis Burko",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-championship-2023-passes-midpoint",
+         "pubDate" : "Wed, 01 Nov 2023 10:00:00",
+         "title" : "World Senior Championship 2023 passes midpoint"
+      },
+      {
          "description" : "India is on its way to becoming the biggest super-power in chess. Some of the credit goes to ChessBase India, which has organized a large number of projects to foster this development. CEO Sagar Shah is now on a mission to make chess a subject of the regular school curriculum, not just to generate further champions, but to foster the social and learning skills of students. Currently he is holding a seminar on how to implement chess in schools across entire states. Here are his talking points.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -426,28 +458,12 @@ news_feed (
          "title" : "Grand Swiss: Duda wins stunner, Goryachkina escapes"
       },
       {
-         "description" : "The \"hedgehog\" structure is a very resistant structure that also offers many possibilities for active play. It is not the specific variations that are important, but the knowledge of the typical ideas and plans. Dutch coach Herman Grooten teaches this in his Fritztrainer course \"Key concepts of Chess - The Hedgehog\". Philipp Hillebrand had a look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts-of-chess-the-hedgehog-a-review",
-         "pubDate" : "Thu, 26 Oct 2023 11:00:00",
-         "title" : "Herman Grooten: Key concepts of Chess - The Hedgehog - A review"
-      },
-      {
          "description" : "He is an internist, a gastroenterologist at a Berlin hospital. He is also an avid chess player. And a photographer, who founded the Valokulta art group. Dr Jan W&auml;hner has sent us some extraordinary pictures from the 2024 calendar, for which his good friend GM Dr Helmut Pfleger has written the foreword.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-doctor-chess-artist",
          "pubDate" : "Thu, 26 Oct 2023 09:00:00",
          "title" : "The Doctor Chess Artist"
-      },
-      {
-         "description" : "Stewart Reuben has officiated and/or organised several top-level chess events held in Great Britain and other countries, including the World Chess Championship, the British Chess Championship and a number of Hastings Congresses. Also an author and a poker player, he even met and played Bobby Fischer: \"Each game he won, he gained $1. Had I ever won one, I would have received $10\". | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stewart-reuben-interview-uvencio-blanco",
-         "pubDate" : "Thu, 26 Oct 2023 02:00:00",
-         "title" : "Stewart Reuben: \"My edge was that I got to play Bobby Fischer\""
       },
       {
          "description" : "",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
          "pubDate" : "Wed, 25 Oct 2023 15:24:00",
          "title" : "Chess.com Takes Over TwitchCon"
-      },
-      {
-         "description" : "When it comes to internal politics, our noble game is anything but 'noble'. Nasty games can be played within federations for personal gain and power at immense expense to chess players. Disagreements and anomalies have affected the work of some federations at various degrees, but it seems that no one has suffered as much or as long as chess in Morocco. Diana Mihajlova reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess",
-         "pubDate" : "Wed, 25 Oct 2023 12:45:00",
-         "title" : "Never Ending Saga of Moroccan Chess"
       },
       {
          "description" : " The World Seniors is one event that seems to grow in popularity each year. The 2023 edition begins today in Italy, with 300 players across 3 sections (50+, 65+ and Women's 50+). Each event is headed by a GM, with Michael Adams the top seed in the 50+, John Nunn in the 65+ and Nona Gaprindashvili in the Women's. Australia only has one representative (Aurel John-Buciu) but New Zealand has 7. There are also 27 GM's playing across the event, with 16 in the 50+ Due to the timezone difference I don't think the frst round has started just yet, but you should be able to keep up with the tournament at <a href=\"https://www.worldseniorchess2023.com\">https://www.worldseniorchess2023.com</a> ",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-magazine-september-2023/",
          "pubDate" : "Fri, 13 Oct 2023 08:34:35",
          "title" : "ECU Magazine September 2023"
-      },
-      {
-         "description" : "The top boards in round four showed up just before the off seemingly matching the tenseness of the situation, with such key clashes just...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rhodes-round-four-from-owen-phillips/",
-         "pubDate" : "Fri, 13 Oct 2023 08:30:21",
-         "title" : "Rhodes - round four from Owen Phillips"
       },
       {
          "description" : " Norwegian said he lost his concentration when he saw his opponent was wearing a timepiece at the Qatar Masters Last week, the European Club Cup, the chess version of the Champions League, was staged in Durres, Albania. Magnus Carlsen was the star attraction and the world No 1 did not disappoint, making the best top board score of 5/6 and leading his Offerspill Oslo team to the gold medals. The winning squad consisted primarily of Norwegians, boosted by two strong Indian GMs. Carlsen has won six of his last eight over-the-board or online events and finished second in the other two. The contrast is glaring with the official world champion, Ding Liren. It is now nearly five months since Ding l",
