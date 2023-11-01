@@ -98,14 +98,6 @@ news_feed (
          "title" : "Nakamura Holds Co-leader Esipenko, 5 Players Join Lead"
       },
       {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Mon, 30 Oct 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
-      },
-      {
          "description" : "Top-level chess is underway in Nottingham where invited Grandmasters take on some of England's best young players, including the cream of Nottingham's chess talent. This...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -504,6 +496,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
          "pubDate" : "Wed, 25 Oct 2023 15:24:00",
          "title" : "Chess.com Takes Over TwitchCon"
+      },
+      {
+         "description" : "When it comes to internal politics, our noble game is anything but 'noble'. Nasty games can be played within federations for personal gain and power at immense expense to chess players. Disagreements and anomalies have affected the work of some federations at various degrees, but it seems that no one has suffered as much or as long as chess in Morocco. Diana Mihajlova reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess",
+         "pubDate" : "Wed, 25 Oct 2023 12:45:00",
+         "title" : "Never Ending Saga of Moroccan Chess"
       },
       {
          "description" : " The World Seniors is one event that seems to grow in popularity each year. The 2023 edition begins today in Italy, with 300 players across 3 sections (50+, 65+ and Women's 50+). Each event is headed by a GM, with Michael Adams the top seed in the 50+, John Nunn in the 65+ and Nona Gaprindashvili in the Women's. Australia only has one representative (Aurel John-Buciu) but New Zealand has 7. There are also 27 GM's playing across the event, with 16 in the 50+ Due to the timezone difference I don't think the frst round has started just yet, but you should be able to keep up with the tournament at <a href=\"https://www.worldseniorchess2023.com\">https://www.worldseniorchess2023.com</a> ",
