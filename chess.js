@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2716",
+         "pubDate" : "Thu, 02 Nov 2023 22:54:43 +0000",
+         "title" : "Caruana misses a Tal-like combination, but still wins in Round 8 of FIDE Grand Swiss"
+      },
+      {
+         "description" : "The new Fritz is coming soon - Fritz 19, the World Chess Software Champion 2023, will be available on 14 November and offers a variety of useful tools. It is a good sparring partner, you can improve your openings by playing against (memorising) your opening repertoire, you can do calculation training for a quick Elo boost and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/coming-soon-fritz-19-world-chess-software-champion",
+         "pubDate" : "Thu, 02 Nov 2023 21:00:00",
+         "title" : "Coming soon: Fritz 19 World Chess Software Champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2715",
+         "pubDate" : "Thu, 02 Nov 2023 19:03:10 +0000",
+         "title" : "FIDE World Amateur Championship 2023 kicks off in Muscat, Oman"
+      },
+      {
          "description" : "The ECF offers its hearty congratulations to WCM Bodhana Sivanandan, the new World Cadets U8 Girls Champion for 2023. Bodhana is the first English player...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://www.thearticle.com/napoleon-and-goethe-touchstone-of-genius/",
          "pubDate" : "Sat, 28 Oct 2023 05:27:19",
          "title" : "Napoleon and Goethe: touchstone of genius"
-      },
-      {
-         "description" : "There are no more perfect scores in the open section of the Grand Swiss, as all seven co-leaders drew their games in round 3, allowing a trio of youngsters to join the lead - i.e. Sam Sevian (pictured), Marc'Andria Maurizzi and Javokhir Sindarov. In the women's section, on the other hand, two players did win their three first games to keep perfect scores after Friday's round: Tan Zhongyi, who beat Antoaneta Stefanova, and Anna Muzychuk, who got the better of Irina Bulmaga. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r3",
-         "pubDate" : "Sat, 28 Oct 2023 03:35:00",
-         "title" : "Grand Swiss: Sevian, Maurizzi and Sindarov join the lead"
       },
       {
          "description" : "",
@@ -1104,22 +1120,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/13/chess-england-women-put-on-strong-showing-at-virus-stricken-euro-club-cup",
          "pubDate" : "Fri, 13 Oct 2023 06:57:59",
          "title" : "Chess: Magnus Carlsen blames opponent's watch for shock defeat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2682",
-         "pubDate" : "Thu, 12 Oct 2023 21:02:38 +0000",
-         "title" : "Finals set at 3rd Online Chess Championship for Prisoners"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2681",
-         "pubDate" : "Thu, 12 Oct 2023 20:07:00 +0000",
-         "title" : "World Junior Rapid Chess Championship: Raunak Sadhwani and Govhar Beydullayeva win titles"
       }
    ]
 }
