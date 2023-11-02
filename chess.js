@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF offers its hearty congratulations to WCM Bodhana Sivanandan, the new World Cadets U8 Girls Champion for 2023. Bodhana is the first English player...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-bodhana-3/",
+         "pubDate" : "Thu, 02 Nov 2023 17:08:54",
+         "title" : "Congratulations Bodhana!"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rhodes-rounds-seven-and-eight-from-owen-phillips/",
          "pubDate" : "Mon, 16 Oct 2023 08:40:55",
          "title" : "Rhodes - rounds seven and eight from Owen Phillips"
-      },
-      {
-         "description" : "Briefly, as we have the IBCA Congress to attend and vote in as well as prep for round seven &#8212; GM Marcin Tazbir (Poland) 5.5/6...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rhodes-rounds-six-and-seven-from-owen-phillips/",
-         "pubDate" : "Mon, 16 Oct 2023 08:21:43",
-         "title" : "Rhodes - rounds six and seven from Owen Phillips"
       },
       {
          "description" : "An extraordinary ECU Board meeting was held in Tirana, Albania, on Saturday 7th October at \"COD\" the Centre for Openness and Dialogue. ECU expresses its thanks and appreciation to Albanian Chess federation for the hosting of meeting and the successful organization of the European Club Cup 2023. Main information and Decisions: In recognition of the efforts of Bulgarian Chess community to re-establish the Bulgarian Chess Federation in the international institutions, based on the procedure set and monitored by ECU and []",
