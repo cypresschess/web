@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find Live games link for 36th National Under 09 Open &#38; Girls Chess Championships 2023.Open (36th National Under 09 Open Chess Championship 2023) Link https://view.livechesscloud.com#6b9b0b7f-9dfc-4653-b4b0-a8f765fab370Girls ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-36th-national-under-09-open-girls-chess-championships-2023/",
+         "pubDate" : "Thu, 02 Nov 2023 07:25:14",
+         "title" : "Live games link for 36th National Under - 09 Open & Girls Chess Championships 2023"
+      },
+      {
+         "description" : "Please find some glimpses here",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/visit-of-deputy-chairperson-of-fide-management-board-and-women-grandmaster-dana-reizniece-ozola-to-udaipur/",
+         "pubDate" : "Thu, 02 Nov 2023 07:14:06",
+         "title" : "Visit of Deputy Chairperson of FIDE Management Board and Women Grandmaster Dana Reizniece Ozola to Udaipur"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -816,22 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/20/chess-fabiano-caruana-keeps-his-us-crown-and-heads-for-2024-candidates",
          "pubDate" : "Fri, 20 Oct 2023 07:00:11",
          "title" : "Chess: Fabiano Caruana keeps his US crown and heads for 2024 Candidates"
-      },
-      {
-         "description" : "All India Chess Federation is pleased to announce the five FIDE Trainer Seminars as per the appended schedule and it's a great opportunity for the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminars-2/",
-         "pubDate" : "Fri, 20 Oct 2023 03:07:00",
-         "title" : "FIDE TRAINER SEMINARS"
-      },
-      {
-         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in eradicating the age fraud menace prevailing in sports and has directed",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-at-patna/",
-         "pubDate" : "Thu, 19 Oct 2023 17:49:49",
-         "title" : "Medical Evaluation of the age of Chess Players at Patna"
       },
       {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-2a6057eb-7fff-6eb0-4c37-2cbe436729e2\">SAINT LOUIS (October 19, 2023</span>) </strong>- Grandmaster Fabiano Caruana and International Master Carissa Yip took top honors out of a field of elite American chess players in the <a href=\"https://www.uschesschamps.com/2023-us-championships/overview\">2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship</a>, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"http",
