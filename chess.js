@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2714",
+         "pubDate" : "Thu, 02 Nov 2023 00:18:57 +0000",
+         "title" : "Nakamura invokes Fischer's spirit in Round 7 of FIDE Grand Swiss"
+      },
+      {
          "description" : "Magnus Carlsen is still the clear world number one, but his lead over the other world class players has shrunk somewhat, although it's still impressive. World number two Fabiano Caruana is the only player in the top 12 to have gained Elo in the last month, and with a good result in the Grand Swiss Tournament on the Isle of Man he could break the 2800 barrier again. Here's the FIDE Ranking as of 1 November 2023.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-november-2023",
          "pubDate" : "Wed, 01 Nov 2023 22:00:00",
          "title" : "FIDE ratings November 2023"
+      },
+      {
+         "description" : "GM Vidit Gujrathi shot into the sole lead of the&#38;nbsp;FIDE Grand Swiss 2023 in round seven with 5.5 points, while three players are tied with that same score in the&#38;nbsp;Women&#39;s. After losing with a blunder in round one, Vidit has now won five o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-7",
+         "pubDate" : "Wed, 01 Nov 2023 16:52:00",
+         "title" : "'Express Train' Vidit Leads Open"
       },
       {
          "description" : "",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "Medical Evaluation of the age of Chess Players at Patna"
       },
       {
-         "description" : "Indian GM Arjun Erigaisi takes a half-point lead into the final round of the Qatar Masters 2023 after his win over GM David Paravyan ended any lingering title hopes for star GMs such as Magnus Carlsen, Anish Giri, and Gukesh Dommaraju. GM Hikaru N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-8",
-         "pubDate" : "Thu, 19 Oct 2023 17:49:00",
-         "title" : "Advantage Arjun As 7 Players Fight For First"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-2a6057eb-7fff-6eb0-4c37-2cbe436729e2\">SAINT LOUIS (October 19, 2023</span>) </strong>- Grandmaster Fabiano Caruana and International Master Carissa Yip took top honors out of a field of elite American chess players in the <a href=\"https://www.uschesschamps.com/2023-us-championships/overview\">2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship</a>, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"http",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1128,30 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2680",
          "pubDate" : "Thu, 12 Oct 2023 09:27:51 +0000",
          "title" : "FIDE and CDPF looking forward to deepening cooperation"
-      },
-      {
-         "description" : "The franchise-based, mixed-team event - expected to re-invent the sport - takes place from June 21 to July 2, 2023 in Dubai.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37713403/magnus-carlsen-viswanathan-anand-ding-liren-hou-yifan-headline-inaugural-2023-global-chess-league-dubai?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 01:07:59",
-         "title" : "Carlsen, Anand, Liren to headline inaugural Global Chess League"
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37885145/what-global-chess-league-2023-all-need-know?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 00:45:31",
-         "title" : "Chess set for a franchise-based tournament - All you need to know about Global Chess League"
-      },
-      {
-         "description" : "Global Chess League - a new franchise-based, mixed-team tournament - will take place in Dubai from June 21 to July 2, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/37897461/gukesh-d-world-top-10-candidates-tournament-global-chess-league?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 00:43:40",
-         "title" : "Gukesh sets sights on Top-10, Candidates Tournament as he prepares for Global Chess League"
       }
    ]
 }
