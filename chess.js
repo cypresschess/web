@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Thu, 02 Nov 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Thu, 02 Nov 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "In his Game of the Week show #592 Merijn Van Delft analyses how the young Uzbek grandmaster Javokhir Sindarov defeated US grandmaster Sam Sevian at the Grand Swiss Tournament with a dazzling attack on the black squares. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-592-s-sevian-vs-j-sindarov",
+         "pubDate" : "Thu, 02 Nov 2023 14:26:14",
+         "title" : "Game of the Week #592: S. Sevian vs J. Sindarov"
+      },
+      {
+         "description" : "Nottingham High School - Sunday 19th November 2023 - www.nottinghamhigh.co.uk - Organiser Edward Jones. Start at 10am and finish at approximately 5pm. Teams of three...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/two-weeks-left-to-enter-the-nscc-girls-northern-semi-final/",
+         "pubDate" : "Thu, 02 Nov 2023 14:23:45",
+         "title" : "Two weeks left to enter the NSCC Girls Northern Semi-Final!"
+      },
+      {
          "description" : "A win over Javokhir Sindarov with black allowed Vidit Gujrathi to emerge as sole leader in the open section of the FIDE Grand Swiss. The Indian grandmaster is the only player in the open to have scored five wins, as he began the event with a loss against Erwin l'Ami. Eleven players stand a half point back, including top seeds Fabiano Caruana and Hikaru Nakamura. Meanwhile, in the women's tournament, Vaishali Rameshbabu and Antoaneta Stefanova collected full points to join Anna Muzychuk in the lead. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,12 +122,12 @@ news_feed (
          "title" : "New: ChessBase Magazine #216"
       },
       {
-         "description" : "This year's Northwick Park Congress on December 16th, 17th has moved! It will now be taking place at University of Westminster Marylebone Hall, 35 Marylebone...",
+         "description" : "LJCC players (U10 &#38; U14) and Northwick Park Congress players please note &#8212; tournaments on December 16th, 17th have moved!&#160; They will now take place...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/notice-of-venue-change-ljcc/",
          "pubDate" : "Wed, 01 Nov 2023 10:16:33",
-         "title" : "Urgent notice of venue change - London Junior Chess Championship events!"
+         "title" : "Urgent notice of venue change - Northwick Park/LJCC"
       },
       {
          "description" : "It is the halftime at the World Senior Chess Championship 2023, and after six rounds the participants were enjoying a day off. After visiting the city of Palermo the players are getting ready to continue battles for the titles in second half of the tournament, starting on November 1. | Photos: Denis Burko",
@@ -442,28 +474,12 @@ news_feed (
          "title" : "FIDE Grand Swiss: King's Representative sparks excitement in Round 3 "
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King focuses on a game by Uzbek grandmaster Nodirbek Yakubboev, who recently stunned the chess world by winning the strong Qatar Masters. Yakubboev completely outwits his opponent with a crafty 1.b3! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-yakubboev-qatar",
-         "pubDate" : "Fri, 27 Oct 2023 18:00:00",
-         "title" : "Daniel King's Power Play Show: Yakubboev's crafty 1.b3"
-      },
-      {
          "description" : "We are three rounds into the 2023 FIDE Grand Swiss and nobody&#39;s left on a perfect score in the Open. In the Women&#39;s, two players won to continue their perfect run. GMs Tan Zhongyi and Anna Muzychuk are the two players left with a perfect score a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-3",
          "pubDate" : "Fri, 27 Oct 2023 15:25:00",
          "title" : "Vaishali Plays Brilliancy As Anna Muzychuk, Tan Take Lead"
-      },
-      {
-         "description" : "After two rounds, seven players still have perfect scores in the open section of the FIDE Grand Swiss. Joining elite players Fabiano Caruana (pictured) and Arjun Erigaisi in the lead, among others, is IM Ramazan Zhalmakhanov from Kazakhstan, who stunned Bassem Amin on Thursday. In the women's section, five players are sharing first place on 2/2. Tan Zhongyi and Anna Muzychuk are the highest-rated in this group, while, similarly to the open, a Kazakh representative gave the biggest surprise, as Meruert Kamalidenova beat Valentina Gunina to enter round 3 as one of the co-leaders. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r2",
-         "pubDate" : "Fri, 27 Oct 2023 14:15:00",
-         "title" : "Grand Swiss: Seven perfect scores"
       },
       {
          "description" : "Many Chess improvers are stuck because they ask the wrong questions. The most common example is (once again...) openings. Most people try to answer the following question: How can I have the best possible opening repertoire?\" 1) This question is not that important. 2) It is never-ending. Trying to answer this question will cost you a lot of money (invested in the latest \"best opening course\") and time. Quality Questions create a quality life. Successful people ask better questions, and as a...",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-grand-swiss.html",
          "pubDate" : "Fri, 27 Oct 2023 12:10:00",
          "title" : "2023 Grand Swiss"
-      },
-      {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris takes a look at a game Parham Maghsoodloo and Markus Ragger played in the German Bundesliga and in which Maghsoodloo smashed Ragger's Gruenfeld in 24 moves. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-beating-the-gruenfeld",
-         "pubDate" : "Fri, 27 Oct 2023 10:31:19",
-         "title" : "Robert Ris' Fast and Furious: Beating the Gruenfeld"
       },
       {
          "description" : "The 8th edition of the European Small Nations Team Chess Championship starts this weekend in the Pomme d'Or Hotel, St Helier, Jersey. The main supporter of the event is the European Chess Union which annually supports the major events of the European Small Nations. The event will be played from 29 October to 4 November with the participation of the following teams: Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino. Each team consists of four []",
@@ -1058,14 +1066,6 @@ news_feed (
          "title" : "The grand old man of chess journalism"
       },
       {
-         "description" : "The Caplin Hastings International Chess Congress this year celebrates its 97th edition, and will take place from 28th December to 7th January, 2024. The organising...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entries-open-to-hastings/",
-         "pubDate" : "Sat, 14 Oct 2023 09:34:08",
-         "title" : "Entries open to Hastings!"
-      },
-      {
          "description" : " The 76th Russian Championships took place 1st to 12th October 2023. Vladislav Artemiev won with 8.5/11 undefeated, two points clear of the field. Baira Kovanova was the surprised winner of the women's event with 8/11 a point clear of the field. She had not even qualified for the final stage, in spite of trying, since 2013.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2681",
          "pubDate" : "Thu, 12 Oct 2023 20:07:00 +0000",
          "title" : "World Junior Rapid Chess Championship: Raunak Sadhwani and Govhar Beydullayeva win titles"
-      },
-      {
-         "description" : "Here are four reasons why Ding Liren's world championship win over Ian Nepomniachtchi is truly special",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/36333835/ding-liren-world-chess-championship-improbable-challenger-world-champion-ian-nepomniachtchi?device=featurephone",
-         "pubDate" : "Thu, 12 Oct 2023 14:24:52",
-         "title" : "Ding Liren: From improbable challenger to world champion"
       }
    ]
 }
