@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A win over Javokhir Sindarov with black allowed Vidit Gujrathi to emerge as sole leader in the open section of the FIDE Grand Swiss. The Indian grandmaster is the only player in the open to have scored five wins, as he began the event with a loss against Erwin l'Ami. Eleven players stand a half point back, including top seeds Fabiano Caruana and Hikaru Nakamura. Meanwhile, in the women's tournament, Vaishali Rameshbabu and Antoaneta Stefanova collected full points to join Anna Muzychuk in the lead. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r7",
+         "pubDate" : "Thu, 02 Nov 2023 12:10:00",
+         "title" : "Grand Swiss: Vidit scores fifth win, leads"
+      },
+      {
+         "description" : "After the sixth round of the 2023 FIDE Grand Swiss, every chess player should know all participants who remain in the top 20. Unless, Ramaza Zhalmakhanov shows up! The young talent from Kazakhstan is probably playing his best tournament ever, with draws against Giri, Sevian, Sarana, and Firouzja, and two wins against Pichot and Bassem! Let's see if the IM can keep up with the elite until the final round. His win against Amir Bassem, in the Ruy Lopez, is a tactical masterpiece.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-is-zhalmakanov-the-underdog",
+         "pubDate" : "Thu, 02 Nov 2023 09:12:21",
+         "title" : "Who is Zhalmakanov? - The Underdog"
+      },
+      {
          "description" : "Please find Live games link for 36th National Under 09 Open &#38; Girls Chess Championships 2023.Open (36th National Under 09 Open Chess Championship 2023) Link https://view.livechesscloud.com#6b9b0b7f-9dfc-4653-b4b0-a8f765fab370Girls ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,22 +66,6 @@ news_feed (
          "title" : "FIDE Infinite Chess project for children with ASD keeps growing"
       },
       {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Wed, 01 Nov 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Wed, 01 Nov 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
-      },
-      {
          "description" : "In the Endgame Magic Show #253 Karsten M&uuml;ller and endgame aficionado Ted Jewell analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-senior-championship-2023-passes-midpoint",
          "pubDate" : "Wed, 01 Nov 2023 10:00:00",
          "title" : "World Senior Championship 2023 passes midpoint"
+      },
+      {
+         "description" : "The ECF is pleased to announce two new director appointments. First, Alex Longson is our new Finance Director, replacing Adam Ashton. Alex combines his role...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/two-new-director-appointments/",
+         "pubDate" : "Wed, 01 Nov 2023 09:57:23",
+         "title" : "Two new Director appointments"
       },
       {
          "description" : "&#34;It&#39;s still my favorite tournament of the year!&#34; said super-GM Daniil Dubov, after conceding just one draw in eight games to win the 2023 Halloween Mystery Banter Blitz. Dubov, wearing a Scream mask, had overcome GM Oleksandr Bortnyk (in a Vampire...",
@@ -1074,14 +1082,6 @@ news_feed (
          "title" : "Mongolia and India win Intercontinental Championship for Prisoners"
       },
       {
-         "description" : "On the One Show tonight (BBC1 at 19.00hrs) there is a feature on the 3Cs Chess Club in Oldham https://www.3cschessclub.com/ After the broadcast the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/3cs-chess-club-on-the-bbc/",
-         "pubDate" : "Fri, 13 Oct 2023 13:13:56",
-         "title" : "3Cs Chess Club on the BBC"
-      },
-      {
          "description" : " I have a bit of a backlog of blog posts, in part due to being busy with the <a href=\"https://fide.com/news/2679\">FIDE Chess for Freedom</a> event which ran over the past few days. So the clear the backlog, I will begin positing some of my 'obscure club games' which have been played in recent weeks. <br /> <b>Press,Shaun - Horikawa,Masaki [E01]</b><br /> GungahlinCC --- (4), 10.10.2023 <script> new PgnViewer( { boardName: \"game1422\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 Nc6 5.Bg2 d5 6.O-O Bd7 7.Nc3 Be7 8.cxd5 exd5 9.dxc5 Be6 10.Bg5 O-O 11.Rc1 Qa5 12.a3 Rad8 13.Nd4 Qxc5 14.Nb3 Qb6 15.Na4 Qb5 16.Nac5 b6 17.a4 Qb4 18.Nxe6 fxe6 19.Rxc6 Qxa4 20.Qc2 Bc5 21.Rc7 h6 22.Bx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1128,14 +1128,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/36333835/ding-liren-world-chess-championship-improbable-challenger-world-champion-ian-nepomniachtchi?device=featurephone",
          "pubDate" : "Thu, 12 Oct 2023 14:24:52",
          "title" : "Ding Liren: From improbable challenger to world champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2680",
-         "pubDate" : "Thu, 12 Oct 2023 09:27:51 +0000",
-         "title" : "FIDE and CDPF looking forward to deepening cooperation"
       }
    ]
 }
