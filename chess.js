@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-magazine-september-2023/",
          "pubDate" : "Fri, 13 Oct 2023 08:34:35",
          "title" : "ECU Magazine September 2023"
-      },
-      {
-         "description" : " Norwegian said he lost his concentration when he saw his opponent was wearing a timepiece at the Qatar Masters Last week, the European Club Cup, the chess version of the Champions League, was staged in Durres, Albania. Magnus Carlsen was the star attraction and the world No 1 did not disappoint, making the best top board score of 5/6 and leading his Offerspill Oslo team to the gold medals. The winning squad consisted primarily of Norwegians, boosted by two strong Indian GMs. Carlsen has won six of his last eight over-the-board or online events and finished second in the other two. The contrast is glaring with the official world champion, Ding Liren. It is now nearly five months since Ding l",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/oct/13/chess-england-women-put-on-strong-showing-at-virus-stricken-euro-club-cup",
-         "pubDate" : "Fri, 13 Oct 2023 06:57:59",
-         "title" : "Chess: Magnus Carlsen blames opponent's watch for shock defeat"
       }
    ]
 }
