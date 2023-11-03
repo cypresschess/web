@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players are sharing the lead with three rounds to go in the open section of the FIDE Grand Swiss after Fabiano Caruana, Bogdan-Daniel Deac and Andrey Esipenko scored full points on Thursday to join Vidit Gujrathi atop the standings. Nine players stand a half point behind, including second seed Hikaru Nakamura and Indian prodigy Arjun Erigaisi. In the women's tournament, meanwhile, Anna Muzychuk, Antoaneta Stefanova and Vaishali Rameshbabu continue to share first place. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r8",
+         "pubDate" : "Fri, 03 Nov 2023 03:00:00",
+         "title" : "Grand Swiss: Caruana, Deac and Esipenko join Vidit in the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,6 +34,22 @@ news_feed (
          "title" : "FIDE World Amateur Championship 2023 kicks off in Muscat, Oman"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2717",
+         "pubDate" : "Thu, 02 Nov 2023 17:48:06 +0000",
+         "title" : "FIDE November 2023 rating list published"
+      },
+      {
+         "description" : "Four players share the lead after round eight of the FIDE Grand Swiss 2023. In the Women&#39;s, the same three players continue to share the lead.&#38;nbsp; All winning with the white pieces, GMs Andrey Esipenko, Fabiano Caruana, and Bogdan-Daniel Deac ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-8",
+         "pubDate" : "Thu, 02 Nov 2023 17:39:00",
+         "title" : "Esipenko Sacs Piece On Move 8, Plays Brilliancy"
+      },
+      {
          "description" : "The ECF offers its hearty congratulations to WCM Bodhana Sivanandan, the new World Cadets U8 Girls Champion for 2023. Bodhana is the first English player...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Congratulations Bodhana!"
       },
       {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST)",
+         "description" : "In his Game of the Week show #592 Merijn Van Delft analyses how the young Uzbek grandmaster Javokhir Sindarov defeated US grandmaster Sam Sevian at the Grand Swiss Tournament with a dazzling attack on the black squares. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Thu, 02 Nov 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
+         "link" : "https://en.chessbase.com/post/game-of-the-week-592-s-sevian-vs-j-sindarov",
+         "pubDate" : "Thu, 02 Nov 2023 14:55:00",
+         "title" : "Game of the Week #592: S. Sevian vs J. Sindarov"
       },
       {
          "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
          "pubDate" : "Thu, 02 Nov 2023 14:50:00",
          "title" : "FIDE World Senior Championship - Live"
-      },
-      {
-         "description" : "In his Game of the Week show #592 Merijn Van Delft analyses how the young Uzbek grandmaster Javokhir Sindarov defeated US grandmaster Sam Sevian at the Grand Swiss Tournament with a dazzling attack on the black squares. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-592-s-sevian-vs-j-sindarov",
-         "pubDate" : "Thu, 02 Nov 2023 14:26:14",
-         "title" : "Game of the Week #592: S. Sevian vs J. Sindarov"
       },
       {
          "description" : "Nottingham High School - Sunday 19th November 2023 - www.nottinghamhigh.co.uk - Organiser Edward Jones. Start at 10am and finish at approximately 5pm. Teams of three...",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-vcs-koth-martinez-wins",
          "pubDate" : "Fri, 20 Oct 2023 11:15:00",
          "title" : "Martinez Is King of The Hill In Variants Final"
-      },
-      {
-         "description" : "19th-seed GM Nodirbek Yakubboev is the shock winner of the Qatar Masters 2023 after the 21-year-old defeated his Uzbekistani namesake GM Nodirbek Abdusattorov 2-0 in a blitz playoff. Abdusattorov had earlier benefited from a horror blunder by GM A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-qatar-masters-round-9",
-         "pubDate" : "Fri, 20 Oct 2023 09:42:00",
-         "title" : "Yakubboev Wins Qatar Masters After Heartbreaking Blunder By Arjun"
       },
       {
          "description" : " The 31-year-old won his third US title and is returning to his 2018 form when he kept Magnus Carlsen close for the world title Fabiano Caruana retained his US Championship this week in his home town of St Louis, scoring an unbeaten five wins and six draws. The 31-year-old already looks a clear favourite in 2024 to win the world title which narrowly eluded him in 2018, when he drew all 12 classical games against Magnus Carlsen before losing the speed tiebreak. In the past, Caruana has seemed a reserved personality, in contrast to the outgoing and articulate Carlsen, but in the past year he has gained many new admirers through his weekly <a href=\"https://www.youtube.com/@csqpod\" title=\"\">C-Sq",
