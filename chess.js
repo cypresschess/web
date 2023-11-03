@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Fri, 03 Nov 2023 12:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "The FIDE Candidates is scheduled to be held in April 2024 in Toronto, Canada. There are eight spots in the open section and one of them will be decided by the FIDE circuit 2023 - on the 1st of January 2024. What is the FIDE circuit? Who are the players who have the best chance? And what are the events remaining in the year? Shahid Ahmed answers all your questions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/who-has-the-best-chance-to-make-it-to-the-candidates",
+         "pubDate" : "Fri, 03 Nov 2023 10:46:23",
+         "title" : "Who has the best chance to make it to the Candidates?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
+         "pubDate" : "Fri, 03 Nov 2023 10:38:10",
+         "title" : "ECF Secondary School Chess News for November 2023"
+      },
+      {
+         "description" : "The 24th edition of the European Women's Chess Championship 2024 will be held from 18 (arrival) to 30 April (departure) 2024, in the 5***** &#8220;Rodos Palace&#8221; Conference Hotel in Rhodes, Greece. The event is open to all women players representing national federations listed as ECU members, without rating or title limitations. The Championship will be played according to the Swiss System, 11 rounds. The rate of play is 90 minutes for 40 moves + 30 minutes for the rest of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-official-invitation/",
+         "pubDate" : "Fri, 03 Nov 2023 10:32:54",
+         "title" : "European Women's Chess Championship 2024 - Official invitation"
+      },
+      {
+         "description" : " The top 13, including the world No 2 and Hikaru Nakamura, are covered by just half a point as none have been able to distance themselves from the pack It is tight at the top as the $460,000 Grand Swiss at Douglas, Isle of Man, reaches its final stages this weekend. The closing rounds can be followed live and free on <a href=\"https://grandswiss.fide.com/\" title=\"\">the official website</a> with commentary by England's David Howell and Jovanka Houska. Games begin at 11.45am on Friday, 2.45pm on Saturday, and 2.15pm on Sunday. Fabiano Caruana and Hikaru Nakamura, the world Nos 2 and 3, are the rating favourites and both remain unbeaten, but the US pair have been unable to distance themselves fr",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/nov/03/chess-fabiano-caruana-joins-leaders-as-the-grand-swiss-reaches-final-rounds",
+         "pubDate" : "Fri, 03 Nov 2023 08:00:05",
+         "title" : "Chess: Fabiano Caruana joins leaders as the Grand Swiss reaches final rounds"
+      },
+      {
          "description" : "Four players are sharing the lead with three rounds to go in the open section of the FIDE Grand Swiss after Fabiano Caruana, Bogdan-Daniel Deac and Andrey Esipenko scored full points on Thursday to join Vidit Gujrathi atop the standings. Nine players stand a half point behind, including second seed Hikaru Nakamura and Indian prodigy Arjun Erigaisi. In the women's tournament, meanwhile, Anna Muzychuk, Antoaneta Stefanova and Vaishali Rameshbabu continue to share first place. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -394,6 +434,14 @@ news_feed (
          "title" : "Assaubayeva Leads Women's, Nakamura Scores Hat Trick In Open"
       },
       {
+         "description" : "You might think that in the seven years I've been running a monthly series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), there would have been several posts about chess clubs. I went back nearly five years and couldn't find a single example. This video, from <I>ChessBase India</I>, might well be the first. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/kAyhA1iFFrs?si=AOqMUKy4ppmzCPK5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>The Most Amazing ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/an-amazing-chess-club.html",
+         "pubDate" : "Sun, 29 Oct 2023 16:37:00",
+         "title" : "An 'Amazing Chess Club'?"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 149th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Garry Kasparov and about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,22 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2705",
          "pubDate" : "Sat, 28 Oct 2023 12:50:38 +0000",
          "title" : "Jos&eacute; Cubas and Thalia Landeiro win 2023 Pan American Chess Esports Finals"
-      },
-      {
-         "description" : "In the diagram position Black has long-term compensation for the exchange because White's g-pawn is missing - 21.h3??, however, allows short-term action! How can Black strike?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sooner-than-expected",
-         "pubDate" : "Sat, 28 Oct 2023 09:00:00",
-         "title" : "Sooner than expected"
-      },
-      {
-         "description" : "The first part of the \"Never Ending Saga of Moroccan Chess\" described the dubious practices of Moustapha Amazzal, the President of the Moroccan Chess Federation. The second part describes how FIDE renewed its trust in Mr Amazzal and why Lithuanian GM Paulius Pultinevicius and Shakhriyar Mamedyarov and other prizewinners of the 4th International Prix Mohammed VI tournament that took place in August 2023 are still waiting for their prize money. | Photo: Hassan II Mosque in Casablanca | Source: Brochure of the 4. International Prix Mohammed VI tournament brochure",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-ending-saga-of-moroccan-chess-part-ii",
-         "pubDate" : "Sat, 28 Oct 2023 09:00:00",
-         "title" : "Never Ending Saga of Moroccan Chess - Part II"
       },
       {
          "description" : "We urge you to ensure that you don't miss out on this incredible opportunity. The National Sports Awards application is now open, and it's your",
@@ -1034,14 +1066,6 @@ news_feed (
          "title" : "2023 IBCA World Championship: Tazbir leads, Magnusson elected as new President"
       },
       {
-         "description" : "Leaders after round seven &#8212; GM Marcin Tazbir 6.5; IM Predrag Nikac 6; FM Alexey Streltsov 5.5; Yuri Bibikov 5.5; then ten players on 5....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rhodes-rounds-seven-and-eight-from-owen-phillips/",
-         "pubDate" : "Mon, 16 Oct 2023 08:40:55",
-         "title" : "Rhodes - rounds seven and eight from Owen Phillips"
-      },
-      {
          "description" : "An extraordinary ECU Board meeting was held in Tirana, Albania, on Saturday 7th October at \"COD\" the Centre for Openness and Dialogue. ECU expresses its thanks and appreciation to Albanian Chess federation for the hosting of meeting and the successful organization of the European Club Cup 2023. Main information and Decisions: In recognition of the efforts of Bulgarian Chess community to re-establish the Bulgarian Chess Federation in the international institutions, based on the procedure set and monitored by ECU and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/another-obscure-club-game.html",
          "pubDate" : "Fri, 13 Oct 2023 12:49:00",
          "title" : "Another obscure club game"
-      },
-      {
-         "description" : "The ECU E-Magazine September 2023 is out! In this edition of the ECU E-Magazine you may read about: The September 2023 issue of the ECU E-Magazine can be read online with interactive links and videos on the following link, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-magazine-september-2023/",
-         "pubDate" : "Fri, 13 Oct 2023 08:34:35",
-         "title" : "ECU Magazine September 2023"
       }
    ]
 }
