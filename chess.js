@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/76th-ch-rus-2023",
          "pubDate" : "Fri, 13 Oct 2023 22:41:00",
          "title" : "76th ch-RUS 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2683",
-         "pubDate" : "Fri, 13 Oct 2023 19:16:45 +0000",
-         "title" : "Mongolia and India win Intercontinental Championship for Prisoners"
       }
    ]
 }
