@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Fri, 03 Nov 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "Today, I will teach you how to think during a Chess game. Most students draw a blank when I ask them: \"What goes through your mind during a game?\" That's a big problem! It is an explanation of a common phenomenon: Making moves you would never do without the adrenaline and stress. Thanks to a simple thought process, you can make more logical decisions and avoid emotional decisions that cause disaster. Right Process + Wrong Move is Better Than Wrong Process + Right Move. Most good Coaches in...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/how-to-think-during-a-chess-game/",
+         "pubDate" : "Fri, 03 Nov 2023 14:03:49",
+         "title" : "How To Think During A Chess Game"
+      },
+      {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris shows how Javokhir Sindarov used a form of an accelerated King's Indian to beat Samuel Sevian with a fast and furious attack in Round 6 of the Grand Swiss Tournament on the Isle of Man. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-accelerated-king-s-indian",
+         "pubDate" : "Fri, 03 Nov 2023 13:47:11",
+         "title" : "Robert Ris' Fast and Furious: An accelerated King's Indian"
+      },
+      {
+         "description" : " There was an interesting pairing in round 8 of the 2023 Isle of Man Grand Swiss. Australian Champion Temur Kuybokarov was up against 2023 Doeberl Cup winner Hrant Melkumyan. Although Melkumyan plays under the Armenian flag, he has been resident in Belconnen (a suburb of Canberra, Australia), for the past few years. Both players had solid events (ie lots of draws), and this game ended with a shared point. But it was not a colourless draw with Black attacking an exchange down. White returned the material to reach a rook and queen ending, which was eventually drawn after an exciting battle over passed pawns. <br /> <b>Melkumyan,Hrant (2650) - Kuybokarov,Temur (2584) [D41]</b><br /> FIDE Grand ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/belconnen-represent.html",
+         "pubDate" : "Fri, 03 Nov 2023 12:35:00",
+         "title" : "Belconnen represent"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-592-s-sevian-vs-j-sindarov",
          "pubDate" : "Thu, 02 Nov 2023 14:55:00",
          "title" : "Game of the Week #592: S. Sevian vs J. Sindarov"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Thu, 02 Nov 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
       },
       {
          "description" : "Nottingham High School - Sunday 19th November 2023 - www.nottinghamhigh.co.uk - Organiser Edward Jones. Start at 10am and finish at approximately 5pm. Teams of three...",
@@ -472,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/city-of-human-chess-debuts-at-la-film-festival-streaming-now-on-magellantv",
          "pubDate" : "Sun, 29 Oct 2023 09:32:15",
          "title" : "Chess.com's First Original Production Wins Award At DOC LA Film Festival-Watch It Now On MagellanTV"
-      },
-      {
-         "description" : "A sole leader emerged for the first time in the open section of the Grand Swiss, as Andrey Esipenko beat Marc'Andria Maurizzi to become the only player to reach a 3&frac12;/4 score. A 17-player chasing pack stands a half point behind, with Hikaru Nakamura, Alireza Firouzja and Hans Niemann among those who joined this group by winning on Saturday. In the women's section, Anna Muzychuk could not convert her advantage in the co-leaders' clash with Tan Zhongyi. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r4",
-         "pubDate" : "Sun, 29 Oct 2023 06:00:00",
-         "title" : "Grand Swiss: Esipenko sole leader, Naka and Firouzja in the hunt"
       },
       {
          "description" : "",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2683",
          "pubDate" : "Fri, 13 Oct 2023 19:16:45 +0000",
          "title" : "Mongolia and India win Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : " I have a bit of a backlog of blog posts, in part due to being busy with the <a href=\"https://fide.com/news/2679\">FIDE Chess for Freedom</a> event which ran over the past few days. So the clear the backlog, I will begin positing some of my 'obscure club games' which have been played in recent weeks. <br /> <b>Press,Shaun - Horikawa,Masaki [E01]</b><br /> GungahlinCC --- (4), 10.10.2023 <script> new PgnViewer( { boardName: \"game1422\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.g3 Nc6 5.Bg2 d5 6.O-O Bd7 7.Nc3 Be7 8.cxd5 exd5 9.dxc5 Be6 10.Bg5 O-O 11.Rc1 Qa5 12.a3 Rad8 13.Nd4 Qxc5 14.Nb3 Qb6 15.Na4 Qb5 16.Nac5 b6 17.a4 Qb4 18.Nxe6 fxe6 19.Rxc6 Qxa4 20.Qc2 Bc5 21.Rc7 h6 22.Bx",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/another-obscure-club-game.html",
-         "pubDate" : "Fri, 13 Oct 2023 12:49:00",
-         "title" : "Another obscure club game"
       }
    ]
 }
