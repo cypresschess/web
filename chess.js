@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2718",
+         "pubDate" : "Fri, 03 Nov 2023 22:29:48 +0000",
+         "title" : "Gunpowder fireworks in Round 9 of FIDE Grand Swiss"
+      },
+      {
+         "description" : " The US world Nos 2 and 3 timed their finishing spurts well, but are paired together in Saturday's penultimate round It's tight at the top as the $460,000 Grand Swiss at Douglas, Isle of Man, reaches its final stages this weekend. The closing rounds can be followed, live and free, on the <a href=\"https://www.twitch.tv/fide_chess\" title=\"\">official website</a> with commentary by England's David Howell and Jovanka Houska. Games begin at 2.45pm on Saturday and 2.15pm on Sunday. Two winners will qualify for the April 2024 Candidates in Toronto, and a possible shot at Ding Liren's world crown. Fabiano Caruana and Hikaru Nakamura, the world Nos 2 and 3, are the rating favourites. Both remain unbea",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/nov/03/chess-fabiano-caruana-joins-leaders-as-the-grand-swiss-reaches-final-rounds",
+         "pubDate" : "Fri, 03 Nov 2023 20:37:41",
+         "title" : "Chess: Caruana and Nakamura join leaders as Grand Swiss nears finale"
+      },
+      {
          "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2024-official-invitation/",
          "pubDate" : "Fri, 03 Nov 2023 10:32:54",
          "title" : "European Women's Chess Championship 2024 - Official invitation"
-      },
-      {
-         "description" : " The top 13, including the world No 2 and Hikaru Nakamura, are covered by just half a point as none have been able to distance themselves from the pack It is tight at the top as the $460,000 Grand Swiss at Douglas, Isle of Man, reaches its final stages this weekend. The closing rounds can be followed live and free on <a href=\"https://grandswiss.fide.com/\" title=\"\">the official website</a> with commentary by England's David Howell and Jovanka Houska. Games begin at 11.45am on Friday, 2.45pm on Saturday, and 2.15pm on Sunday. Fabiano Caruana and Hikaru Nakamura, the world Nos 2 and 3, are the rating favourites and both remain unbeaten, but the US pair have been unable to distance themselves fr",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/nov/03/chess-fabiano-caruana-joins-leaders-as-the-grand-swiss-reaches-final-rounds",
-         "pubDate" : "Fri, 03 Nov 2023 08:00:05",
-         "title" : "Chess: Fabiano Caruana joins leaders as the Grand Swiss reaches final rounds"
       },
       {
          "description" : "Four players are sharing the lead with three rounds to go in the open section of the FIDE Grand Swiss after Fabiano Caruana, Bogdan-Daniel Deac and Andrey Esipenko scored full points on Thursday to join Vidit Gujrathi atop the standings. Nine players stand a half point behind, including second seed Hikaru Nakamura and Indian prodigy Arjun Erigaisi. In the women's tournament, meanwhile, Anna Muzychuk, Antoaneta Stefanova and Vaishali Rameshbabu continue to share first place. | Photo: Anna Shtourman",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-grand-old-man-of-chess-journalism/",
          "pubDate" : "Sat, 14 Oct 2023 10:00:34",
          "title" : "The grand old man of chess journalism"
-      },
-      {
-         "description" : " The 76th Russian Championships took place 1st to 12th October 2023. Vladislav Artemiev won with 8.5/11 undefeated, two points clear of the field. Baira Kovanova was the surprised winner of the women's event with 8/11 a point clear of the field. She had not even qualified for the final stage, in spite of trying, since 2013.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/76th-ch-rus-2023",
-         "pubDate" : "Fri, 13 Oct 2023 22:41:00",
-         "title" : "76th ch-RUS 2023 - Games and Results"
       }
    ]
 }
