@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "France has scored two notable successes in recent events. In Mexico the rising French star Marc Andria Maurizzi has won the Junior World Championship. The 16-year-old emerged at the top on tie-break, well ahead of the favourite Hans Niemann, the new American prodigy Andy Woodward and Britain's hope, Shreyas Royal. Next, the experienced French Grandmaster Maxime Vachier-Lagrave has decisively []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/la-gloire-de-la-france-aux-echecs/",
+         "pubDate" : "Sat, 04 Nov 2023 15:54:12",
+         "title" : "La gloire de la France aux &eacute;checs"
+      },
+      {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
