@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE World Senior Championship - Live"
       },
       {
+         "description" : "GM Ding Liren has withdrawn from several events since becoming world champion. Now the Chinese star reveals to Chess.com the cause of his absence and his intention to return to tournament play in 2024. Where is Ding? That&#39;s a question that has l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-reveals-reasons-for-absence-expects-2024-comeback",
+         "pubDate" : "Sat, 04 Nov 2023 14:04:00",
+         "title" : "Ding Reveals Reason For Absence, Expects Comeback In 2024"
+      },
+      {
          "description" : "The Grand Chess Tour will hold its last two tournaments in Saint Louis in mid/late November, a Rapid & Blitz event and the Sinquefield Cup. Ding Liren was supposed to take part in both tournaments, but the tour has recently announced his withdrawal. The world champion has been completely out of the limelight lately. What's next for Ding Liren? | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://aicf.in/live-games21st-north-east-chess-championship-2023/",
          "pubDate" : "Sat, 21 Oct 2023 05:41:28",
          "title" : "Live Games:21st North East chess championship 2023"
-      },
-      {
-         "description" : "Turkish Women&#39;s Champion and WGM Kubra Ozturk Orenli says her federation terminated her monthly salary and dropped her from the national team once they found out that she was pregnant. Ozturk Orenli gave birth to her second child this summer, bu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/turkish-champion-says-she-was-dropped-by-federation-after-pregnancy",
-         "pubDate" : "Fri, 20 Oct 2023 13:41:00",
-         "title" : "Turkish Champion Says She Was Dropped By Federation After Pregnancy"
       },
       {
          "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
