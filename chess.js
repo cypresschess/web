@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-9",
-         "pubDate" : "Fri, 03 Nov 2023 20:09:56",
+         "pubDate" : "Fri, 03 Nov 2023 20:09:00",
          "title" : "Maghsoodloo, Nakamura Join Leaders"
       },
       {
