@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White has powerful bishops and superactive rooks, while all of Black's pieces are on the back rank. White also has a way to convert his positional plus into material gains - do you see how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fishing-bishops",
+         "pubDate" : "Sat, 04 Nov 2023 09:00:00",
+         "title" : "Fishing bishops"
+      },
+      {
          "description" : "With only two rounds to go on the Isle of Man, six players are sharing the lead in the open section of the FIDE Grand Swiss. The latest additions to the leading pack are Hikaru Nakamura and Parham Maghsoodloo, who scored crucial victories on Friday, over Ivan Cheparinov and Alexey Sarana respectively. Meanwhile, Vaishali Rameshbabu defeated Antoaneta Stefanova to become the sole leader in the women's tournament. A half point back, Anna Muzychuk and Tan Zhongyi are sharing second place. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Chess: Caruana and Nakamura join leaders as Grand Swiss nears finale"
       },
       {
-         "description" : "In the FIDE Grand Swiss 2023, GMs Hikaru Nakamura and Parham Maghsoodloo each won to catch the leaders, GMs Andrey Esipenko, Vidit Gujrathi, Fabiano Caruana, and Bogdan-Daniel Deac. In the Women&#39;s, Vaishali Rameshbabu has captured the sole lead,...",
+         "description" : "GMs Hikaru Nakamura and Parham Maghsoodloo each won in round nine of the FIDE Grand Swiss 2023&#38;nbsp;to catch the leaders, GMs Andrey Esipenko, Vidit Gujrathi, Fabiano Caruana, and Bogdan-Daniel Deac. In the Women&#39;s, Vaishali Rameshbabu has captu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-9",
@@ -346,6 +354,14 @@ news_feed (
          "title" : "FIDE approves new regulations for Affiliated Members"
       },
       {
+         "description" : "Masquerading? Yes, it's Halloween today. The end of another month means another post about chess news being reported in the mainstream press, aka Yahoos (see the footnote for more info). Before looking at the stories, let's have the usual statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj31.gif\" WIDTH=200 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> This month Google News returned exactly 100 stories. One story was almost a year old -- at least according to the date assigned by Google -- an anomaly not seen before in this series of posts on Yahoos. <P> Looking at the story, an announcement for a tournament in Florida, there is no mention of a year. The story may very well have been",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/10/yahoos-masquerading-as-yahoos.html",
+         "pubDate" : "Tue, 31 Oct 2023 10:02:00",
+         "title" : "Yahoos Masquerading as Yahoos"
+      },
+      {
          "description" : "Going into the rest day, the Women's Grand Swiss has a sole leader in Anna Muzychuk, who defeated Bibisara Assaubayeva with the white pieces on Monday. In the open, eight players are sharing the lead with 4&frac12;/6 points each, as Fabiano Caruana, Vidit Gujrathi, Javokhir Sindarov, Alexandr Predke and Radoslaw Wojtaszek grabbed full points to join the leading pack. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -426,6 +442,14 @@ news_feed (
          "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
       },
       {
+         "description" : "The story is in all the major international news outlets: Ohad Munder-Zichri \"celebrated\" his 9th birthday last Monday. Not at home, with his family and friends, but in the Hamas tunnels in Gaza, together with more than 200 hostages taken during the devastating Oct. 7 incursion. Ohad is a chess champion and a champion with the Rubik's cube. He has sent out an invitation to friends to celebrate with him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ohad-spent-his-9th-birthday-as-a-hostage-in-gaza",
+         "pubDate" : "Mon, 30 Oct 2023 08:13:53",
+         "title" : "Ohad spent his 9th birthday as a hostage in Gaza"
+      },
+      {
          "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-4",
          "pubDate" : "Sun, 29 Oct 2023 15:00:00",
          "title" : "Understanding before Moving 149: Chess history in a nutshell (31)"
-      },
-      {
-         "description" : "Marcin Tazbir is the new IBCA World Champion. The Polish GM completed the World Championship for Blind and Visually Impaired undefeated with an excellent score of 8 points in 9 games. The defending champion, IM Predrag Nikac (Montenegro), took second place with 7&frac12; points, while bronze went to FM Alexey Streltsov (Israel) as the player with the best tiebreak score in a group of six participants.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ibca-world-championship-2023",
-         "pubDate" : "Sun, 29 Oct 2023 13:00:00",
-         "title" : "Marcin Tazbir triumphs at IBCA World Championship"
       },
       {
          "description" : "",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2684",
          "pubDate" : "Sat, 14 Oct 2023 12:42:31 +0000",
          "title" : "World Cadet U8, U10, U12 Championships 2023 rescheduled"
-      },
-      {
-         "description" : "Leonard Barden, the world's longest-serving chess journalist, recently celebrated his 94th birthday. He was born Leonard William Barden in Croydon, London on August 20th 1929. He was joint British Champion in 1954 and was 1st= in 1958 but lost to Penrose in the play-off. In 1952 he was 1st at Paignton, ahead of Grandmaster Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-grand-old-man-of-chess-journalism/",
-         "pubDate" : "Sat, 14 Oct 2023 10:00:34",
-         "title" : "The grand old man of chess journalism"
       }
    ]
 }
