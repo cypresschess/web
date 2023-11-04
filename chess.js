@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With only two rounds to go on the Isle of Man, six players are sharing the lead in the open section of the FIDE Grand Swiss. The latest additions to the leading pack are Hikaru Nakamura and Parham Maghsoodloo, who scored crucial victories on Friday, over Ivan Cheparinov and Alexey Sarana respectively. Meanwhile, Vaishali Rameshbabu defeated Antoaneta Stefanova to become the sole leader in the women's tournament. A half point back, Anna Muzychuk and Tan Zhongyi are sharing second place. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r9",
+         "pubDate" : "Sat, 04 Nov 2023 03:20:00",
+         "title" : "Grand Swiss: Nakamura and Maghsoodloo score, join leading pack"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/03/chess-fabiano-caruana-joins-leaders-as-the-grand-swiss-reaches-final-rounds",
          "pubDate" : "Fri, 03 Nov 2023 20:37:41",
          "title" : "Chess: Caruana and Nakamura join leaders as Grand Swiss nears finale"
+      },
+      {
+         "description" : "In the FIDE Grand Swiss 2023, GMs Hikaru Nakamura and Parham Maghsoodloo each won to catch the leaders, GMs Andrey Esipenko, Vidit Gujrathi, Fabiano Caruana, and Bogdan-Daniel Deac. In the Women&#39;s, Vaishali Rameshbabu has captured the sole lead,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-9",
+         "pubDate" : "Fri, 03 Nov 2023 20:09:56",
+         "title" : "Maghsoodloo, Nakamura Join Leaders"
       },
       {
          "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/belconnen-represent.html",
          "pubDate" : "Fri, 03 Nov 2023 12:35:00",
          "title" : "Belconnen represent"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Fri, 03 Nov 2023 12:20:00",
-         "title" : "Grand Swiss - Live!"
       },
       {
          "description" : "The FIDE Candidates is scheduled to be held in April 2024 in Toronto, Canada. There are eight spots in the open section and one of them will be decided by the FIDE circuit 2023 - on the 1st of January 2024. What is the FIDE circuit? Who are the players who have the best chance? And what are the events remaining in the year? Shahid Ahmed answers all your questions.",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/and-lfg-blitz.html",
          "pubDate" : "Fri, 20 Oct 2023 11:44:00",
          "title" : "And the LFG Blitz"
-      },
-      {
-         "description" : "It&#39;s hard to imagine a better week for GM Jose Martinez, who, after sweeping Titled Tuesday just two days prior, went on to win Chess.com&#39;s first Variants Community Series (VCS) Final. His march to victory, and a $1,000 first-place prize, includ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-vcs-koth-martinez-wins",
-         "pubDate" : "Fri, 20 Oct 2023 11:15:00",
-         "title" : "Martinez Is King of The Hill In Variants Final"
       },
       {
          "description" : " The 31-year-old won his third US title and is returning to his 2018 form when he kept Magnus Carlsen close for the world title Fabiano Caruana retained his US Championship this week in his home town of St Louis, scoring an unbeaten five wins and six draws. The 31-year-old already looks a clear favourite in 2024 to win the world title which narrowly eluded him in 2018, when he drew all 12 classical games against Magnus Carlsen before losing the speed tiebreak. In the past, Caruana has seemed a reserved personality, in contrast to the outgoing and articulate Carlsen, but in the past year he has gained many new admirers through his weekly <a href=\"https://www.youtube.com/@csqpod\" title=\"\">C-Sq",
