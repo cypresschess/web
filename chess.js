@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Sat, 04 Nov 2023 15:20:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Sat, 04 Nov 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "The Grand Chess Tour will hold its last two tournaments in Saint Louis in mid/late November, a Rapid & Blitz event and the Sinquefield Cup. Ding Liren was supposed to take part in both tournaments, but the tour has recently announced his withdrawal. The world champion has been completely out of the limelight lately. What's next for Ding Liren? | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/where-is-ding-liren",
+         "pubDate" : "Sat, 04 Nov 2023 13:10:00",
+         "title" : "Where is Ding Liren?"
+      },
+      {
          "description" : "In the diagram position, White has powerful bishops and superactive rooks, while all of Black's pieces are on the back rank. White also has a way to convert his positional plus into material gains - do you see how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-9",
          "pubDate" : "Fri, 03 Nov 2023 20:09:00",
          "title" : "Maghsoodloo, Nakamura Join Leaders"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Fri, 03 Nov 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
       },
       {
          "description" : "Today, I will teach you how to think during a Chess game. Most students draw a blank when I ask them: \"What goes through your mind during a game?\" That's a big problem! It is an explanation of a common phenomenon: Making moves you would never do without the adrenaline and stress. Thanks to a simple thought process, you can make more logical decisions and avoid emotional decisions that cause disaster. Right Process + Wrong Move is Better Than Wrong Process + Right Move. Most good Coaches in...",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "SLU Defeat UT Dallas In Triple Overtime"
       },
       {
-         "description" : "Svitlana is taking us through the Panov Attack against the Caro-Kann Defence. The aggressive opening turns out to be an ambitious variation, full of attacking potential, if you can live with an isolated queen pawn. The basics are well explained, and should motivate you to look a bit deeper into this surprising Caro-Kann counter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-panov-attack",
-         "pubDate" : "Sun, 29 Oct 2023 21:00:00",
-         "title" : "Svitlana's Smart Moves - The Panov Attack"
-      },
-      {
          "description" : "One player, IM Bibisara Assaubayeva, leads the FIDE Women&#39;s Grand Swiss 2023 after five rounds.&#38;nbsp;The 19-year-old rising star defeated former World Champion Tan Zhongyi to reach 4.5/5, the highest score in either section. Top-seed GM Aleksand...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/an-amazing-chess-club.html",
          "pubDate" : "Sun, 29 Oct 2023 16:37:00",
          "title" : "An 'Amazing Chess Club'?"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 149th instalment of his ChessBase show \"Understanding before Moving\", Herman continues his series \"Chess history in a nutshell\" and talks about Garry Kasparov and about Max Euwe, who was World Champion from 1935 to 1937 and enormously influential for chess in general and Dutch chess in particular. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-4",
-         "pubDate" : "Sun, 29 Oct 2023 15:00:00",
-         "title" : "Understanding before Moving 149: Chess history in a nutshell (31)"
       },
       {
          "description" : "",
@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-asian-seniors.html",
          "pubDate" : "Sun, 15 Oct 2023 11:36:00",
          "title" : "2023 Asian Seniors"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2684",
-         "pubDate" : "Sat, 14 Oct 2023 12:42:31 +0000",
-         "title" : "World Cadet U8, U10, U12 Championships 2023 rescheduled"
       }
    ]
 }
