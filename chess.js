@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 7.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2023",
+         "pubDate" : "Sun, 5 Nov 2023 20:24:00",
+         "title" : "FIDE Grand Swiss 2023 - Games and Results"
+      },
+      {
+         "description" : "Marking Guy Fawkes Day in the UK, Jon Speelman goes over a number of suitably pyrotechnic games. Three correspondence-chess marvels from the 1980s are followed by recent games from the Qatar Masters and the FIDE Grand Swiss. Fire on board!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-205",
+         "pubDate" : "Sun, 05 Nov 2023 17:30:00",
+         "title" : "Jon Speelman: Fireworks old and new"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 150th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and explains how Max Euwe was able to beat Alexander Alekhine in their 1935 World Championship match. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2631",
          "pubDate" : "Sun, 05 Nov 2023 13:30:51 +0000",
          "title" : "The deadline for submitting 2028 Chess Olympiad bid approaching"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2721",
+         "pubDate" : "Sun, 05 Nov 2023 12:59:45 +0000",
+         "title" : "FIDE Executive Director Victor Bologan visits East African counties"
       },
       {
          "description" : " Another game that shows the perils of not castling. In this case Vasilly Ivanchuk (who is old enough to know better) comes a cropper against the Worlds youngest GM, Abhimanyu Mishra <br /> <b>Mishra,Abhimanyu (2592) - Ivanchuk,Vasyl (2653) [B66]</b><br /> 2023 FIDE Grand Swiss Douglas (10.39), 04.11.2023 <script> new PgnViewer( { boardName: \"game1426\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O d5 10.Qe3 Be7 11.Bxf6 gxf6 12.Bc4 Bb7 13.Rhe1 h5 14.exd5 cxd5 15.Bxd5 exd5 16.Nxd5 Bxd5 17.Rxd5 Qc7 18.Rc5 Qd8 19.Rd5 Qc7 20.Rc5 Qd8 21.Qf3 Kf8 22.Rxh5 Rxh5 23.Qxh5 Kg7 24.Re3 Bd6 25.Qg4+ Kf8 26.Rh3 Ke7 27.Qe4+ Kd7 28.Qb7+ ",
@@ -538,14 +562,6 @@ news_feed (
          "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
       },
       {
-         "description" : "The story is in all the major international news outlets: Ohad Munder-Zichri \"celebrated\" his 9th birthday last Monday. Not at home, with his family and friends, but in the Hamas tunnels in Gaza, together with more than 200 hostages taken during the devastating Oct. 7 incursion. Ohad is a chess champion and a champion with the Rubik's cube. He has sent out an invitation to friends to celebrate with him.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ohad-spent-his-9th-birthday-as-a-hostage-in-gaza",
-         "pubDate" : "Mon, 30 Oct 2023 08:13:53",
-         "title" : "Ohad spent his 9th birthday as a hostage in Gaza"
-      },
-      {
          "description" : "Please find the live games link https://live.tamilchess.com/3RD-IMNORM-MDU/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://aicf.in/live-telecast-2nd-im-norm/",
          "pubDate" : "Wed, 25 Oct 2023 12:06:10",
          "title" : "Live Telecast :2nd IM Norm"
-      },
-      {
-         "description" : " The FIDE Grand Swiss takes place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc etc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2023",
-         "pubDate" : "Wed, 25 Oct 2023 10:58:00",
-         "title" : "FIDE Grand Swiss 2023 - Games and Results"
       },
       {
          "description" : " The 31st World Senior Chess Championship takes place in Citt&agrave;a del Mare in Sicily. There are 3 sections, over 50, over 65 and women's. Michael Adams, Hannes Stefansson, Maxime Dlugy, John Nunn, Rafael Vaganian, Lubomir Ftacnik and Nona Gaprindashvili are the top seeds in these various sections. ",
