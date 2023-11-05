@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Another game that shows the perils of not castling. In this case Vasilly Ivanchuk (who is old enough to know better) comes a cropper against the Worlds youngest GM, Abhimanyu Mishra <br /> <b>Mishra,Abhimanyu (2592) - Ivanchuk,Vasyl (2653) [B66]</b><br /> 2023 FIDE Grand Swiss Douglas (10.39), 04.11.2023 <script> new PgnViewer( { boardName: \"game1426\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O d5 10.Qe3 Be7 11.Bxf6 gxf6 12.Bc4 Bb7 13.Rhe1 h5 14.exd5 cxd5 15.Bxd5 exd5 16.Nxd5 Bxd5 17.Rxd5 Qc7 18.Rc5 Qd8 19.Rd5 Qc7 20.Rc5 Qd8 21.Qf3 Kf8 22.Rxh5 Rxh5 23.Qxh5 Kg7 24.Re3 Bd6 25.Qg4+ Kf8 26.Rh3 Ke7 27.Qe4+ Kd7 28.Qb7+ ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/oops-i-forgot-to-castle.html",
+         "pubDate" : "Sun, 05 Nov 2023 12:29:00",
+         "title" : "Oops, I forgot to castle "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2720",
+         "pubDate" : "Sun, 05 Nov 2023 08:42:34 +0000",
+         "title" : "A thrilling Round 3 at World Amateur Chess Championship 2023 "
+      },
+      {
          "description" : "Maharashtra Chess Association under the aegis of All India Chess Federation has organized AICF Live Orientation seminar at Deccan Gymkhana Club on 28.10.2023 and 29.10.2023 in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "FIDE World Senior Championship - Live"
       },
       {
-         "description" : "GM Ding Liren has withdrawn from several events since becoming world champion. Now the Chinese star reveals to Chess.com the cause of his absence and his intention to return to tournament play in 2024. Where is Ding? That&#39;s a question that has l...",
+         "description" : "GM Ding Liren has withdrawn from several events since becoming world champion. Now the Chinese star reveals to Chess.com that an unspecified illness is the cause of his absence and that he intends to return to tournament play in 2024. Where is D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ding-reveals-reasons-for-absence-expects-2024-comeback",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/white-rhino-vs-dogman.html",
          "pubDate" : "Sun, 15 Oct 2023 15:26:00",
          "title" : "White Rhino vs. Dogman"
-      },
-      {
-         "description" : " The 2023 Asian Seniors has just started in Tagatay, The Philippines. I played in last years event (50+) in Auckland, but did not make the trip this year. One player who did back up from last year was Miles Patterson, who finished 2nd in the 65+ section. His result earned him an FM title (conditional upon rating), and an IM norm. This years 65+ section looks to be about th same strength as last years tournament so he may have chances to earn a 2nd IM norm. On the other hand the 50+ tournament looks to be a bit strong than last year, although a bit small. GM Rogelio Antonio is the top seed and there are 4 other IM's in the field. <br /> <b>Ramos,Ernesto - Patterson,Miles (1879) [C01]</b><br /",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/2023-asian-seniors.html",
-         "pubDate" : "Sun, 15 Oct 2023 11:36:00",
-         "title" : "2023 Asian Seniors"
       }
    ]
 }
