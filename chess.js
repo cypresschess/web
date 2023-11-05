@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maharashtra Chess Association under the aegis of All India Chess Federation has organized AICF Live Orientation seminar at Deccan Gymkhana Club on 28.10.2023 and 29.10.2023 in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-on-aicf-live-orientation-workship-at-pune-on-28-10-2023-and-29-10-2023/",
+         "pubDate" : "Sun, 05 Nov 2023 06:47:04",
+         "title" : "Report on AICF Live Orientation Workship at Pune on 28.10.2023 and 29.10.2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fishing-bishops",
          "pubDate" : "Sat, 04 Nov 2023 09:00:00",
          "title" : "Fishing bishops"
-      },
-      {
-         "description" : "With only two rounds to go on the Isle of Man, six players are sharing the lead in the open section of the FIDE Grand Swiss. The latest additions to the leading pack are Hikaru Nakamura and Parham Maghsoodloo, who scored crucial victories on Friday, over Ivan Cheparinov and Alexey Sarana respectively. Meanwhile, Vaishali Rameshbabu defeated Antoaneta Stefanova to become the sole leader in the women's tournament. A half point back, Anna Muzychuk and Tan Zhongyi are sharing second place. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r9",
-         "pubDate" : "Sat, 04 Nov 2023 03:20:00",
-         "title" : "Grand Swiss: Nakamura and Maghsoodloo score, join leading pack"
       },
       {
          "description" : "",
@@ -538,6 +538,14 @@ news_feed (
          "title" : "SLU Defeat UT Dallas In Triple Overtime"
       },
       {
+         "description" : "Svitlana is taking us through the Panov Attack against the Caro-Kann Defence. The aggressive opening turns out to be an ambitious variation, full of attacking potential, if you can live with an isolated queen pawn. The basics are well explained, and should motivate you to look a bit deeper into this surprising Caro-Kann counter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-panov-attack",
+         "pubDate" : "Sun, 29 Oct 2023 21:00:00",
+         "title" : "Svitlana's Smart Moves - The Panov Attack"
+      },
+      {
          "description" : "One player, IM Bibisara Assaubayeva, leads the FIDE Women&#39;s Grand Swiss 2023 after five rounds.&#38;nbsp;The 19-year-old rising star defeated former World Champion Tan Zhongyi to reach 4.5/5, the highest score in either section. Top-seed GM Aleksand...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://aicf.in/fide-trainer-seminars-fee-reduced/",
          "pubDate" : "Sat, 21 Oct 2023 07:19:16",
          "title" : "FIDE Trainer Seminars : Fee reduced"
-      },
-      {
-         "description" : "Please find live games link of of 21st North East chess championship 2023 https://view.livechesscloud.com/#3d429e31-117d-45ac-bea7-4746acca3128",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games21st-north-east-chess-championship-2023/",
-         "pubDate" : "Sat, 21 Oct 2023 05:41:28",
-         "title" : "Live Games:21st North East chess championship 2023"
       },
       {
          "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
