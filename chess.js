@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 150th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and explains how Max Euwe was able to beat Alexander Alekhine in their 1935 World Championship match. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-5",
+         "pubDate" : "Sun, 05 Nov 2023 15:00:00",
+         "title" : "Understanding before Moving 150: Chess history in a nutshell (32)"
+      },
+      {
+         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
+         "pubDate" : "Sun, 05 Nov 2023 14:50:00",
+         "title" : "Grand Swiss - Live!"
+      },
+      {
+         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
+         "pubDate" : "Sun, 05 Nov 2023 14:50:00",
+         "title" : "FIDE World Senior Championship - Live"
+      },
+      {
+         "description" : "Round 10 of the FIDE Grand Swiss saw decisive games on the seven top boards, with Hikaru Nakamura, Andrey Esipenko and Vidit Gujrathi scoring full points to go into the final round in shared first place. Nakamura got the better of Fabiano Caruana in the duel of top seeds, Vidit defeated Bogdan-Daniel Deac with the black pieces, while Esipenko beat Parham Maghsoodloo on board 3. In the women's tournament, Vaishali Rameshbabu climbed to the sole lead by beating Tan Zhongyi with the white pieces. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r10",
+         "pubDate" : "Sun, 05 Nov 2023 14:10:00",
+         "title" : "Grand Swiss: Nakamura, Esipenko and Vidit share the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2631",
+         "pubDate" : "Sun, 05 Nov 2023 13:30:51 +0000",
+         "title" : "The deadline for submitting 2028 Chess Olympiad bid approaching"
+      },
+      {
          "description" : " Another game that shows the perils of not castling. In this case Vasilly Ivanchuk (who is old enough to know better) comes a cropper against the Worlds youngest GM, Abhimanyu Mishra <br /> <b>Mishra,Abhimanyu (2592) - Ivanchuk,Vasyl (2653) [B66]</b><br /> 2023 FIDE Grand Swiss Douglas (10.39), 04.11.2023 <script> new PgnViewer( { boardName: \"game1426\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O d5 10.Qe3 Be7 11.Bxf6 gxf6 12.Bc4 Bb7 13.Rhe1 h5 14.exd5 cxd5 15.Bxd5 exd5 16.Nxd5 Bxd5 17.Rxd5 Qc7 18.Rc5 Qd8 19.Rd5 Qc7 20.Rc5 Qd8 21.Qf3 Kf8 22.Rxh5 Rxh5 23.Qxh5 Kg7 24.Re3 Bd6 25.Qg4+ Kf8 26.Rh3 Ke7 27.Qe4+ Kd7 28.Qb7+ ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -56,22 +96,6 @@ news_feed (
          "link" : "https://www.thearticle.com/la-gloire-de-la-france-aux-echecs/",
          "pubDate" : "Sat, 04 Nov 2023 15:54:12",
          "title" : "La gloire de la France aux &eacute;checs"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Sat, 04 Nov 2023 15:20:00",
-         "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Sat, 04 Nov 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
       },
       {
          "description" : "GM Ding Liren has withdrawn from several events since becoming world champion. Now the Chinese star reveals to Chess.com that an unspecified illness is the cause of his absence and that he intends to return to tournament play in 2024. Where is D...",
@@ -482,12 +506,12 @@ news_feed (
          "title" : "NCA Centenary Grandmaster Tournament"
       },
       {
-         "description" : "IM Levy Rozman&#39;s much anticipated new book was released with a bang on October 24, topping three Amazon lists and receiving excellent reviews. How to Win at Chess: The Ultimate Guide for Beginners and Beyond is the long-awaited book by GothamChe...",
+         "description" : "IM Levy Rozman&#39;s much anticipated new book was released with a bang on October 24, receiving excellent reviews, making it to the New York Times bestseller list and reaching number one on three Amazon lists. How to Win at Chess: The Ultimate Guid...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gothamchess-releases-book-immediately-tops-amazon-lists",
          "pubDate" : "Mon, 30 Oct 2023 12:48:45",
-         "title" : "'GothamChess' Releases New Book, Immediately Tops Three Amazon Lists"
+         "title" : "'GothamChess' New Book: Tops Amazon Lists, Becomes New York Times Bestseller"
       },
       {
          "description" : "From 14 to 22 October, the Ukraine 2023 National Club Championships took place in Vinnytsia (Ukraine). It was the first championship since 2021: in 2022 there was no championship due to the war and in 2020 it was cancelled due to the covid-19 pandemic. This year, despite the war, Ukrainian chess players came together to compete for their team championships in classical, rapid and blitz chess. The team from the Dnipro Region Chess Federation was crowned champion in all disciplines. Grandmaster Mikhail Golubev reports. | All photos courtesy of Lana Chess Photography",
@@ -522,14 +546,6 @@ news_feed (
          "title" : "Ohad spent his 9th birthday as a hostage in Gaza"
       },
       {
-         "description" : "Round 5 of the FIDE Grand Swiss saw Hikaru Nakamura and Arjun Erigaisi grabbing wins to join Andrey Esipenko in the lead of the open section. Nakamura obtained his third consecutive win after starting the event with two draws. The large chasing pack, now consisting of 16 players, now includes round-5 winners Sam Shankland, Nodirbek Yakubboev and Radoslaw Wojtaszek. Meanwhile, in the women's tournament, Bibisara Assaubayeva beat Tan Zhongyi to become the first sole leader of the event. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r5",
-         "pubDate" : "Mon, 30 Oct 2023 08:10:00",
-         "title" : "Grand Swiss: Arjun and Nakamura join Esipenko in the lead"
-      },
-      {
          "description" : "Please find the live games link https://live.tamilchess.com/3RD-IMNORM-MDU/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-utdallas",
          "pubDate" : "Sun, 29 Oct 2023 21:48:00",
          "title" : "SLU Defeat UT Dallas In Triple Overtime"
-      },
-      {
-         "description" : "Svitlana is taking us through the Panov Attack against the Caro-Kann Defence. The aggressive opening turns out to be an ambitious variation, full of attacking potential, if you can live with an isolated queen pawn. The basics are well explained, and should motivate you to look a bit deeper into this surprising Caro-Kann counter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-panov-attack",
-         "pubDate" : "Sun, 29 Oct 2023 21:00:00",
-         "title" : "Svitlana's Smart Moves - The Panov Attack"
       },
       {
          "description" : "One player, IM Bibisara Assaubayeva, leads the FIDE Women&#39;s Grand Swiss 2023 after five rounds.&#38;nbsp;The 19-year-old rising star defeated former World Champion Tan Zhongyi to reach 4.5/5, the highest score in either section. Top-seed GM Aleksand...",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2685",
          "pubDate" : "Sun, 15 Oct 2023 22:37:16 +0000",
          "title" : "FIDE World Junior Blitz Championship: Muradli and Balabayeva clinch titles"
-      },
-      {
-         "description" : "The yellow plaque near the bottom of this month's Flickr photo says, 'The White Rhino Was Thinking Ahead With Dogman's Encouragement'. The rest is unreadable even in the largest Flickr version of the photo. What more can we learn about it? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj15.jpg\" WIDTH=400 HEIGHT=300><BR> <A HREF=\"https://www.flickr.com/photos/londonmatt/53198904518/\">Rhino playing chess</A> &#169; Flickr user <I>Matt Brown</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>.<BR> <P> The photo had no description, but the tags were helpful:- <UL> <LI>london bridge city <LI>gillie and marc </UL> <P> From this we can locate a few",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/white-rhino-vs-dogman.html",
-         "pubDate" : "Sun, 15 Oct 2023 15:26:00",
-         "title" : "White Rhino vs. Dogman"
       }
    ]
 }
