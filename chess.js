@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2719",
+         "pubDate" : "Sat, 04 Nov 2023 23:34:23 +0000",
+         "title" : "FIDE Grand Swiss: A trio of leaders after Round 10; Vaishali qualifies for Candidates"
+      },
+      {
+         "description" : "GM Jose Martinez was crowned as November&#39;s first Bullet Brawl&#38;nbsp;winner after surviving a late resurgence by GM Oleksandr Bortnyk on Saturday. Having built a solid lead in the first half of the event, Martinez looked to be running away with the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jose-martinez-wins-bullet-brawl-november-4-2023",
+         "pubDate" : "Sat, 04 Nov 2023 19:21:00",
+         "title" : "Brawl Winner Martinez Makes Knight-Bishop Checkmate With 12 Seconds On Clock"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura, Vidit Gujrathi, and Andrey Esipenko lead the FIDE Grand Swiss 2023 with 7.5 points going into the last round. They beat, respectively, GMs Fabiano Caruana, Bogdan-Daniel Deac, and Parham Maghsoodloo. As a historic feat, there ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-10",
+         "pubDate" : "Sat, 04 Nov 2023 18:15:00",
+         "title" : "Nakamura Overcomes Caruana, Leads With Esipenko, Vidit Before Last Round"
+      },
+      {
          "description" : "France has scored two notable successes in recent events. In Mexico the rising French star Marc Andria Maurizzi has won the Junior World Championship. The 16-year-old emerged at the top on tie-break, well ahead of the favourite Hans Niemann, the new American prodigy Andy Woodward and Britain's hope, Shreyas Royal. Next, the experienced French Grandmaster Maxime Vachier-Lagrave has decisively []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "Spanish Championship: Iturrizaga and Khademalsharieh claim titles"
       },
       {
-         "description" : "Andrey Filatov, president of the Russian Chess Federation, announced on Friday that they intend to sign 10-year contracts with promising young players to prevent them from leaving the country. With no signs of the war in Ukraine ending, Russian ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russia-10-year-contracts-young-players-federation-changes",
-         "pubDate" : "Sun, 22 Oct 2023 15:34:00",
-         "title" : "Russia To Sign 10-Year Contracts With Young Players To Stop Federation Changes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2694",
          "pubDate" : "Sat, 21 Oct 2023 21:01:14 +0000",
          "title" : "WCCC 2023 passes its midpoint"
-      },
-      {
-         "description" : "GM Daniel Naroditsky continued his domination of October&#39;s Bullet Brawls after finishing three points ahead of 10-time winner GM Hikaru Nakamura in a race to the finish on Saturday. In a tournament graced by the presence of top players such as GMs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-october-21-2023",
-         "pubDate" : "Sat, 21 Oct 2023 17:02:00",
-         "title" : "Naroditsky Stuns In Photo Finish With Nakamura"
       },
       {
          "description" : "Sackcloth and ashes, dear readers, wailing and gnashing of teeth: Magnus Carlsen has lost another game. This time the world number 1 fell victim to 23-year old Alisher Suleymenov. The Kazakh player has enjoyed an annus mirabilis, as he only received his Grandmaster title this year. Moreover, Carlsen did not just lose, he was annihilated. The last time he had lost to a sub-2520 player under []",
