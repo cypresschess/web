@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A big congratulations to GM Vidit Gujrathi and IM Vaishali winning Grand Swiss and qualifying for Fide Candidates!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-gm-vidit-gujrathi-and-im-vaishali-winning-grand-swiss-and-qualifying-for-fide-candidates/",
+         "pubDate" : "Mon, 06 Nov 2023 05:55:55",
+         "title" : "GM Vidit & IM Vaishali Wins FIDE Grand Swiss"
+      },
+      {
          "description" : "A clutch win - his seventh in ten games - gave Vidit Gujrathi tournament victory in the open section of the FIDE Grand Swiss. The Indian grandmaster thus qualified to the 2024 Candidates Tournament. Joining him in Toronto will be Hikaru Nakamura, who finished in clear second place a half point behind. Meanwhile, another Indian player prevailed in the women's section, as Vaishali Rameshbabu grabbed clear first place after drawing Batkhuyag Munguntuul on Sunday. Anna Muzychuk, who was already qualified to the Candidates, got second place, allowing third-placed Tan Zhongyi to secure the second Candidates' spot. | Photo: Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -978,14 +986,6 @@ news_feed (
          "title" : "Watch on the Whine*"
       },
       {
-         "description" : "Considering the requests from the participants, the fee for attending the FIDE Trainer Seminar (including FIDE Fee) has been reduced. All coaches are requested to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainer-seminars-fee-reduced/",
-         "pubDate" : "Sat, 21 Oct 2023 07:19:16",
-         "title" : "FIDE Trainer Seminars : Fee reduced"
-      },
-      {
          "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1168,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2686",
          "pubDate" : "Mon, 16 Oct 2023 10:20:50 +0000",
          "title" : "2023 IBCA World Championship: Tazbir leads, Magnusson elected as new President"
-      },
-      {
-         "description" : "An extraordinary ECU Board meeting was held in Tirana, Albania, on Saturday 7th October at \"COD\" the Centre for Openness and Dialogue. ECU expresses its thanks and appreciation to Albanian Chess federation for the hosting of meeting and the successful organization of the European Club Cup 2023. Main information and Decisions: In recognition of the efforts of Bulgarian Chess community to re-establish the Bulgarian Chess Federation in the international institutions, based on the procedure set and monitored by ECU and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-board-meeting-in-tirana-albania/",
-         "pubDate" : "Mon, 16 Oct 2023 07:06:59",
-         "title" : "ECU Board Meeting in Tirana, Albania"
       }
    ]
 }
