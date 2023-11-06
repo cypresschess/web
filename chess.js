@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Robert H&uuml;bner is the best German chess player since Emanuel Lasker. At the height of his career, the grandmaster from Cologne was ranked third in the world behind Karpov and Korchnoi. With his scientific training, H&uuml;bner also took a scientific interest in the game of chess. The multiple World Championship candidate turns 75 today. | Photo: Robert H&uuml;bner during a lecture about a game he played in Tilburg 1985 against Ljubomir Ljubojevic (Photo: Hartmut Metz)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-birthday-robert-huebner-turns-75",
+         "pubDate" : "Mon, 06 Nov 2023 19:00:00",
+         "title" : "Happy birthday: Robert H&uuml;bner turns 75!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2725",
+         "pubDate" : "Mon, 06 Nov 2023 16:34:51 +0000",
+         "title" : "Robert Huebner turns 75"
+      },
+      {
          "description" : "In the Endgame Magic Show #254 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/narrow-victories-at-the-world-senior-championships",
          "pubDate" : "Mon, 06 Nov 2023 15:33:04",
          "title" : "Narrow victories at the World Senior Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2726",
+         "pubDate" : "Mon, 06 Nov 2023 13:38:15 +0000",
+         "title" : "Hard-fought title wins at World Senior Championship 2023"
       },
       {
          "description" : "Kasparov Chess Foundation is launching a subscription-based live, online chess lessons with four different skill levels. Registration is opened now at www.kcfacademy.org, and chess players of all ages are encouraged to sign-up. Classes commence on January 6th and run through June 15th. ChessBase is part of the project.",
@@ -98,14 +122,6 @@ news_feed (
          "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
       },
       {
-         "description" : "Vaishali and Vidit took top honours at the FIDE Grand Swiss tournament on Sunday and also qualified for the 2024 Candidates tournament along the way.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38829328/r-vaishali-vidit-gujrathi-win-fide-grand-swiss-qualify-candidates-tournament-indian-chess?device=featurephone",
-         "pubDate" : "Sun, 5 Nov 2023 22:14:19",
-         "title" : "Vaishali, Vidit win FIDE Grand Swiss; qualify for 2024 Candidates"
-      },
-      {
          "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 8.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -154,7 +170,7 @@ news_feed (
          "title" : "Grand Swiss: Nakamura, Esipenko and Vidit share the lead"
       },
       {
-         "description" : "GM Vidit Gujrathi has been confirmed as the winner of the 2023 FIDE Grand Swiss after defeating GM Alexander Predke and finishing on 8.5/11 in what has been described as one of the strongest open tournaments of all time. Along with receiving $80...",
+         "description" : "GM Vidit Gujrathi has been confirmed as the winner of the 2023 FIDE Grand Swiss after defeating GM Alexandr Predke and finishing on 8.5/11 in what has been described as one of the strongest open tournaments of all time. Along with receiving $80,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-vidit-wins",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/2024-o2c-doeberl-cup.html",
          "pubDate" : "Wed, 01 Nov 2023 11:45:00",
          "title" : "2024 O2C Doeberl Cup "
-      },
-      {
-         "description" : "World-class chess explained in video: Dorian Rogozenco shows two win by Magnus Carlsen from the World Cup 2023 - From a surprise weapon to a fashionable variation: Luis Engel shows why 6.Rg1 is being used by more and more top players against the Najdorf Variation (video) - Analyses of Nijat Abasov, Anish Giri, Vidit Gujrathi, Ferenc Berkes, Jan Krzysztof Duda, Andrey Esipenko, Nils Grandelius, Anna and Mariya Muzychuk, Praggnanandhaa, Peter Svidler et al. from the World Cup 2023 - \"Special\" on Hou Yifan: exclusive collection of 22 encounters with detailed commentary from the period from 2008 to 2020 - \"Crushing the Benoni\": Petra Papp recommends the attack with 6.e4 g6 7.f4! - Carlsbad 1923:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-216",
-         "pubDate" : "Wed, 01 Nov 2023 11:00:25",
-         "title" : "New: ChessBase Magazine #216"
       },
       {
          "description" : "LJCC players (U10 &#38; U14) and Northwick Park Congress players please note &#8212; tournaments on December 16th, 17th have moved!&#160; They will now take place...",
