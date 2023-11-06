@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A clutch win - his seventh in ten games - gave Vidit Gujrathi tournament victory in the open section of the FIDE Grand Swiss. The Indian grandmaster thus qualified to the 2024 Candidates Tournament. Joining him in Toronto will be Hikaru Nakamura, who finished in clear second place a half point behind. Meanwhile, another Indian player prevailed in the women's section, as Vaishali Rameshbabu grabbed clear first place after drawing Batkhuyag Munguntuul on Sunday. Anna Muzychuk, who was already qualified to the Candidates, got second place, allowing third-placed Tan Zhongyi to secure the second Candidates' spot. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r11",
+         "pubDate" : "Mon, 06 Nov 2023 02:35:00",
+         "title" : "Indians prevail in FIDE Grand Swiss: Vidit and Vaishali triumph!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -63,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-vidit-wins",
          "pubDate" : "Sun, 05 Nov 2023 14:06:00 -0800",
-         "title" : "Vidit Wins FIDE Grand Swiss, Nakamura Also Secures Candidates Spot: Flash Report"
+         "title" : "Vidit Wins FIDE Grand Swiss, Nakamura Secures Candidates Spot"
       },
       {
          "description" : "",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gothamchess-releases-book-immediately-tops-amazon-lists",
          "pubDate" : "Mon, 30 Oct 2023 12:48:45",
          "title" : "'GothamChess' New Book: Tops Amazon Lists, Becomes New York Times Bestseller"
-      },
-      {
-         "description" : "From 14 to 22 October, the Ukraine 2023 National Club Championships took place in Vinnytsia (Ukraine). It was the first championship since 2021: in 2022 there was no championship due to the war and in 2020 it was cancelled due to the covid-19 pandemic. This year, despite the war, Ukrainian chess players came together to compete for their team championships in classical, rapid and blitz chess. The team from the Dnipro Region Chess Federation was crowned champion in all disciplines. Grandmaster Mikhail Golubev reports. | All photos courtesy of Lana Chess Photography",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dnipro-dominates-ukrainian-team-championships",
-         "pubDate" : "Mon, 30 Oct 2023 11:29:43",
-         "title" : "Dnipro dominates Ukrainian Team Championships"
       },
       {
          "description" : " I've had a couple of interesting experiences with the 50 move rule over the years. During the last round of a past Sydney International Open, 2 players dragged the game well beyond the point where they could claim, one because he thought he was winning (at that stage he was not), and the other because he thought you could only claim if there were no pawns on the board (NB This was prior to the 75 move rule coming into effect). Going in the other direction, it appears a recent game at a tournament I was the arbiter for ended in a draw after the players reached move 50 and basically agreed that the game was drawn. Note: this was 50 moves in total, starting from move 1, with plenty of pawn mov",
