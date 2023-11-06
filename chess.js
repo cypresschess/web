@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 7.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2722",
+         "pubDate" : "Sun, 05 Nov 2023 22:51:49 +0000",
+         "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
+      },
+      {
+         "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 8.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2023",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "Grand Swiss: Nakamura, Esipenko and Vidit share the lead"
       },
       {
+         "description" : "GM Vidit Gujrathi has been confirmed as the winner of the 2023 FIDE Grand Swiss after defeating GM Alexander Predke and finishing on 8.5/11 in what has been described as one of the strongest open tournaments of all time. Along with receiving $80...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-vidit-wins",
+         "pubDate" : "Sun, 05 Nov 2023 14:06:00 -0800",
+         "title" : "Vidit Wins FIDE Grand Swiss, Nakamura Also Secures Candidates Spot: Flash Report"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,6 +88,22 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/oops-i-forgot-to-castle.html",
          "pubDate" : "Sun, 05 Nov 2023 12:29:00",
          "title" : "Oops, I forgot to castle "
+      },
+      {
+         "description" : " The 31st World Senior Chess Championship took place in Cittaa del Mare a holiday village in the town of Terrasini in Sicily. There were 3 sections, over 50, over 65 and women's. Top seed Michael Adams won the over 50 section by the narrowest of tie-break margins over Suat Atalik after both finished on 8.5/11. John Nunn won the over 65s on tie-break from Lubomir Ftacnik after both scored 8.5/11. In the final round Fracnik beat the leader Daniel Campora who had earlier beaten Nunn. Monica Calzetta Ruiz won the women's event, alone on 8.5/11.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/31st-world-senior-chess-championship-2023",
+         "pubDate" : "Sun, 5 Nov 2023 09:41:00",
+         "title" : "31st World Senior Chess Championship 2023 - Games and Results"
+      },
+      {
+         "description" : "She, along with her younger brother Praggnanandhaa, became the first brother-sister duo to qualify for the respective Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38823455/r-vaishali-qualifies-women-candidates-close-gm?device=featurephone",
+         "pubDate" : "Sun, 5 Nov 2023 09:23:57",
+         "title" : "R Vaishali qualifies for women's Candidates, close to becoming GM"
       },
       {
          "description" : "",
@@ -810,14 +842,6 @@ news_feed (
          "title" : "Live Telecast :2nd IM Norm"
       },
       {
-         "description" : " The 31st World Senior Chess Championship takes place in Citt&agrave;a del Mare in Sicily. There are 3 sections, over 50, over 65 and women's. Michael Adams, Hannes Stefansson, Maxime Dlugy, John Nunn, Rafael Vaganian, Lubomir Ftacnik and Nona Gaprindashvili are the top seeds in these various sections. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/31st-world-senior-chess-championship-2023",
-         "pubDate" : "Wed, 25 Oct 2023 09:41:00",
-         "title" : "31st World Senior Chess Championship 2023 - Games and Results"
-      },
-      {
          "description" : "British chess sensation WCM Bodhana Sivanandan made history today, scoring 10/10 to become England&#39;s first world youth champion in 25 years and complete a historic triple crown. The eight-year-old prodigy is dominating the Girls Under 8 category...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -920,14 +944,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
          "pubDate" : "Mon, 23 Oct 2023 03:09:00",
          "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
-         "description" : "Yale University brought their season back to life on Saturday in the SIG-sponsored 2023 Collegiate Chess League (CCL) after toppling the heavily favored University of Missouri (Mizzou) by a single point. Scores of 3/4 by GM Nico Checa and NM Lin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-yale-cu",
-         "pubDate" : "Sun, 22 Oct 2023 20:51:00",
-         "title" : "GM-Slayer Lee Leads Yale To Upset Over Mizzou"
       },
       {
          "description" : "",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-board-meeting-in-tirana-albania/",
          "pubDate" : "Mon, 16 Oct 2023 07:06:59",
          "title" : "ECU Board Meeting in Tirana, Albania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2685",
-         "pubDate" : "Sun, 15 Oct 2023 22:37:16 +0000",
-         "title" : "FIDE World Junior Blitz Championship: Muradli and Balabayeva clinch titles"
       }
    ]
 }
