@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #254 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-5",
+         "pubDate" : "Mon, 06 Nov 2023 16:21:04",
+         "title" : "Endgame Magic #254 - with Ted Jewell: Highlights from the German Bundesliga (Part 2)"
+      },
+      {
+         "description" : "„Easy to learn and easy to play.\" These are the twin pillars on which the Modern Scandinavian has been built and which club players have trusted and profited from over the past few decades. Which line should Black adopt after 1 e4 d5 2 exd5 Qxd5 3 Nc3? Here we focus on the sharp 3...Qd6 as opposed to 3...Qa5 or 3... Qd8. All the main responses aside from 3 Nc3 are shown in exemplary games and the result is an insightful overview for club players which will stand the test of time and not require too much burning of the midnight oil.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-the-sharp-scandinavian-with-3-qd6",
+         "pubDate" : "Mon, 06 Nov 2023 16:00:00",
+         "title" : "Andrew Martin - The Sharp Scandinavian with 3...Qd6"
+      },
+      {
+         "description" : "In the end, the favourites prevailed at the Senior World Championships, but only just. Michael Adams and John Nunn had to settle for a photo finish in the two open events, the 50+ and the 65+. Monica Calzetta Ruiz and Galina Strutinskaia won the senior women's titles. | Photos: Patricia Claros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/narrow-victories-at-the-world-senior-championships",
+         "pubDate" : "Mon, 06 Nov 2023 15:33:04",
+         "title" : "Narrow victories at the World Senior Championships"
+      },
+      {
          "description" : "Kasparov Chess Foundation is launching a subscription-based live, online chess lessons with four different skill levels. Registration is opened now at www.kcfacademy.org, and chess players of all ages are encouraged to sign-up. Classes commence on January 6th and run through June 15th. ChessBase is part of the project.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2722",
          "pubDate" : "Sun, 05 Nov 2023 22:51:49 +0000",
          "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
+      },
+      {
+         "description" : "Vaishali and Vidit took top honours at the FIDE Grand Swiss tournament on Sunday and also qualified for the 2024 Candidates tournament along the way.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38829328/r-vaishali-vidit-gujrathi-win-fide-grand-swiss-qualify-candidates-tournament-indian-chess?device=featurephone",
+         "pubDate" : "Sun, 5 Nov 2023 22:14:19",
+         "title" : "Vaishali, Vidit win FIDE Grand Swiss; qualify for 2024 Candidates"
       },
       {
          "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 8.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "Urgent notice of venue change - Northwick Park/LJCC"
       },
       {
-         "description" : "It is the halftime at the World Senior Chess Championship 2023, and after six rounds the participants were enjoying a day off. After visiting the city of Palermo the players are getting ready to continue battles for the titles in second half of the tournament, starting on November 1. | Photos: Denis Burko",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-championship-2023-passes-midpoint",
-         "pubDate" : "Wed, 01 Nov 2023 10:00:00",
-         "title" : "World Senior Championship 2023 passes midpoint"
-      },
-      {
          "description" : "The ECF is pleased to announce two new director appointments. First, Alex Longson is our new Finance Director, replacing Adam Ashton. Alex combines his role...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -546,14 +570,6 @@ news_feed (
          "title" : "World Senior Championship 2023 passes midpoint"
       },
       {
-         "description" : "Chess stalemates in the middle games reveal the intricacy and beauty of this uncommon occurrence, offering various unique and engrossing endgame analyses. To show the variety of inventiveness and strategic nuance present in these unusual circumstances, Siegfried Hornecker presents a number of examples of midboard stalemates. These range from complex endgames to complicated compositions by well-known chess composers like Vladimir Bron and Emil Melnichenko. | Photo: Midjourney",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-midboard-stalemates",
-         "pubDate" : "Tue, 31 Oct 2023 15:00:00",
-         "title" : "Study Of The Month: Midboard stalemates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/10/yahoos-masquerading-as-yahoos.html",
          "pubDate" : "Tue, 31 Oct 2023 10:02:00",
          "title" : "Yahoos Masquerading as Yahoos"
-      },
-      {
-         "description" : "Going into the rest day, the Women's Grand Swiss has a sole leader in Anna Muzychuk, who defeated Bibisara Assaubayeva with the white pieces on Monday. In the open, eight players are sharing the lead with 4&frac12;/6 points each, as Fabiano Caruana, Vidit Gujrathi, Javokhir Sindarov, Alexandr Predke and Radoslaw Wojtaszek grabbed full points to join the leading pack. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r6",
-         "pubDate" : "Tue, 31 Oct 2023 09:05:00",
-         "title" : "Grand Swiss: Anna Muzychuk tops the standings"
       },
       {
          "description" : "The ECF is delighted to announce that Surrey player Owen Phillips has been appointed as ECF Manager for Accessible Chess. This is an important appointment...",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/lfg-round-robin.html",
          "pubDate" : "Tue, 17 Oct 2023 12:49:00",
          "title" : "LFG Round Robin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2687",
-         "pubDate" : "Mon, 16 Oct 2023 16:05:03 +0000",
-         "title" : "FIDE WCCC 2023 kicks off in Sharm El Sheikh, Egypt"
       }
    ]
 }
