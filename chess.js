@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kasparov Chess Foundation is launching a subscription-based live, online chess lessons with four different skill levels. Registration is opened now at www.kcfacademy.org, and chess players of all ages are encouraged to sign-up. Classes commence on January 6th and run through June 15th. ChessBase is part of the project.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-chess-foundation-academy-launches-partners-with-chessbase",
+         "pubDate" : "Mon, 06 Nov 2023 12:00:00",
+         "title" : "Kasparov Chess Foundation Academy launches - partners with ChessBase"
+      },
+      {
+         "description" : " In a first for International Cricket, Angelo Matthews has been dismissed \"Timed Out\". Playing Bangladesh, the Sri Lankan batsmen failed to face up to the first delivery after a dismissal within the 2 minute deadline. The cause of this was issues with his helmet strap, as he was at the wicket within the time limit. But Bangladesh appealed and the Umpire had no choice but to give him out. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/angelo-matthews-flag-fall.html",
+         "pubDate" : "Mon, 06 Nov 2023 11:33:00",
+         "title" : "Angelo Matthews - Flag fall?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2724",
+         "pubDate" : "Mon, 06 Nov 2023 10:48:32 +0000",
+         "title" : "Deputy Chair of FIDE Management Board visits India"
+      },
+      {
+         "description" : "The 8th edition of the European Small Nations Teams Chess Championship 2023 took place from 29 October to 4 November in Pomme d'Or Hotel, St Helier, Jersey. The team of Andorra emerged as the sole Winner of the event with the score of 17 match points. With eight victories and one drawn match, Andorra was two match points ahead of the runner-ups: Faroe Islands and Luxembourg who tied for silver with the score of 15 match points, each. Having a []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/andorra-wins-european-small-nations-team-chess-championship-2023/",
+         "pubDate" : "Mon, 06 Nov 2023 10:48:17",
+         "title" : "Andorra wins European Small Nations Team Chess Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2723",
+         "pubDate" : "Mon, 06 Nov 2023 09:51:44 +0000",
+         "title" : "Intense Round 4 at 2023 World Amateur Championship in Muscat"
+      },
+      {
+         "description" : "Congratulations to England's Michael Adams and John Nunn, who both became World Senior chess champions yesterday in Terrasini, Sicily, Italy. Despite both being the top...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/double-world-senior-chess-champions/",
+         "pubDate" : "Mon, 06 Nov 2023 09:17:31",
+         "title" : "Double World Senior Chess Champions!"
+      },
+      {
          "description" : "A big congratulations to GM Vidit Gujrathi and IM Vaishali winning Grand Swiss and qualifying for Fide Candidates!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -536,14 +584,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2023-r6",
          "pubDate" : "Tue, 31 Oct 2023 09:05:00",
          "title" : "Grand Swiss: Anna Muzychuk tops the standings"
-      },
-      {
-         "description" : "Knowing when and how to exchange pieces is an important skill - not only in the endgame. In the diagram position it is Black to play and draw. What should Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-right-exchange-3",
-         "pubDate" : "Tue, 31 Oct 2023 09:00:00",
-         "title" : "The right exchange"
       },
       {
          "description" : "The ECF is delighted to announce that Surrey player Owen Phillips has been appointed as ECF Manager for Accessible Chess. This is an important appointment...",
@@ -1146,28 +1186,12 @@ news_feed (
          "title" : "LFG Round Robin"
       },
       {
-         "description" : "A complaint was raised by Chris Fegan in relation to matters arising while he was Director of Women's Chess which was rejected. CF appealed against...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/complaint-resolution/",
-         "pubDate" : "Tue, 17 Oct 2023 07:23:48",
-         "title" : "Complaint Resolution"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2687",
          "pubDate" : "Mon, 16 Oct 2023 16:05:03 +0000",
          "title" : "FIDE WCCC 2023 kicks off in Sharm El Sheikh, Egypt"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2686",
-         "pubDate" : "Mon, 16 Oct 2023 10:20:50 +0000",
-         "title" : "2023 IBCA World Championship: Tazbir leads, Magnusson elected as new President"
       }
    ]
 }
