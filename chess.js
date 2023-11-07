@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Calculating precisely and keeping an open mind for possible candidate moves is an important skill in chess. In the diagram position it is White to move and win. What should she do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/keeping-an-open-mind",
+         "pubDate" : "Tue, 07 Nov 2023 09:00:00",
+         "title" : "Keeping an open mind"
+      },
+      {
+         "description" : "World Chess has announced the release of the first-ever chess map of the world, one that blends the intricate worlds of chess and geography. This unique cartographic creation, where continents and places are crafted from chess openings with geographical names, promises to be a collector's delight.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/first-ever-chess-map",
+         "pubDate" : "Tue, 07 Nov 2023 08:18:26",
+         "title" : "First-Ever Chess Map"
+      },
+      {
          "description" : "The FIDE Grand Swiss 2023 and the FIDE Women's Grand Swiss 2023 took place from 23 October to 6 November in the Isle of Man. The events gathered 114 players in the Open section and 50 competitors in the Women's event, featuring the total prize fund of $600,000 ($460,000 for the Grand Swiss and $140,000 for the Women's Grand Swiss). GM Vidit Santosh Gujrathi (IND, 2716) emerged as the Winner of the Open event scoring 8.5 points. Vidit was victorious []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -128,6 +144,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2722",
          "pubDate" : "Sun, 05 Nov 2023 22:51:49 +0000",
          "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
+      },
+      {
+         "description" : "Vaishali and Vidit took top honours at the FIDE Grand Swiss tournament on Sunday and also qualified for the 2024 Candidates tournament along the way.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38829328/r-vaishali-vidit-gujrathi-win-fide-grand-swiss-qualify-candidates-tournament-indian-chess?device=featurephone",
+         "pubDate" : "Sun, 5 Nov 2023 22:14:19",
+         "title" : "Vaishali, Vidit win FIDE Grand Swiss; qualify for 2024 Candidates"
       },
       {
          "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 8.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
@@ -482,14 +506,6 @@ news_feed (
          "title" : "Nakamura invokes Fischer's spirit in Round 7 of FIDE Grand Swiss"
       },
       {
-         "description" : "Magnus Carlsen is still the clear world number one, but his lead over the other world class players has shrunk somewhat, although it's still impressive. World number two Fabiano Caruana is the only player in the top 12 to have gained Elo in the last month, and with a good result in the Grand Swiss Tournament on the Isle of Man he could break the 2800 barrier again. Here's the FIDE Ranking as of 1 November 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-november-2023",
-         "pubDate" : "Wed, 01 Nov 2023 22:00:00",
-         "title" : "FIDE ratings November 2023"
-      },
-      {
          "description" : "GM Vidit Gujrathi shot into the sole lead of the&#38;nbsp;FIDE Grand Swiss 2023 in round seven with 5.5 points, while three players are tied with that same score in the&#38;nbsp;Women&#39;s. After losing with a blunder in round one, Vidit has now won five o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2713",
          "pubDate" : "Wed, 01 Nov 2023 16:45:20 +0000",
          "title" : "FIDE Infinite Chess project for children with ASD keeps growing"
-      },
-      {
-         "description" : "In the Endgame Magic Show #253 Karsten M&uuml;ller and endgame aficionado Ted Jewell analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-4",
-         "pubDate" : "Wed, 01 Nov 2023 12:11:20",
-         "title" : "Endgame Magic #253 - with Ted Jewell: Highlights from the German Bundesliga"
       },
       {
          "description" : " Entries are now open for the 2024 O2C Doeberl Cup. Last years event smashed all records in terms of the size of the event, with 403 players entering. The addition of the Mini (Under 1500) event was a big success, and the format for 2024 will be the same as 2023. The only small change to the tournaments will be an additional blitz event for Under 1600 players, starting a little earlier on the Saturday evening (6pm). This gives younger players a chance to play in a FIDE rated blitz event, without having to stay up until midnight, like this year. As we often see the tournaments filling up a few weeks before the start, registering early is recommended. Full details (and registration links) can ",
