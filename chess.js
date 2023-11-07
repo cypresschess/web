@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How do you train, what do you train, why do you train and how useful is it to train or play chess at all? These and a whole series of other questions were answered by the Slovakian grandmaster, successful author and renowned coach Jan Markos in a ChessBase interview with Johannes Fischer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-training-life-etc-an-interview-with-jan-markos",
+         "pubDate" : "Tue, 07 Nov 2023 20:00:00",
+         "title" : "Chess, training, life, etc. - an interview with Jan Markos"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a chess class about pins. Maybe you can spot a pin in a puzzle, but how do you set up a pin in a real game? 2023.11.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/44WFJaBjNsY.jpg?itok=KbkrODuh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan",
+         "pubDate" : "Tue, 07 Nov 2023 19:37:34",
+         "title" : "Create and Utilize Pins | Beginner Breakdown - NM Ralph Tan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra teaches a chess class on a topic of his choice. 2023.11.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QHd38ToH3X4.jpg?itok=kT6kY5TN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-akshat-chandra",
+         "pubDate" : "Tue, 07 Nov 2023 19:37:34",
+         "title" : "Grandmaster's Choice - GM Akshat Chandra"
+      },
+      {
+         "description" : "Indian chess celebrated a double victory in the recent FIDE Grand Swiss events on the Isle of Man. Vidit Gujrathi and Vaishali Rameshbabu claimed outright victories in the open and the women's sections respectively. The ChessBase India team, led by Sagar Shah, travelled to the island in the Irish Sea and, as usual, produced a plethora of content!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/isle-of-man-chessbase-india",
+         "pubDate" : "Tue, 07 Nov 2023 18:50:00",
+         "title" : "Tales from the Isle of Man"
+      },
+      {
          "description" : "On the occasion of Robert Huebner's 75th birthday yesterday, Emil Sutovsky, Grandmaster and Managing Director of FIDE, published a personal congratulation on the FIDE website and reviewed some of Robert Huebner's great achievements. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2727",
          "pubDate" : "Tue, 07 Nov 2023 11:39:28 +0000",
          "title" : "2023 World Amateur Championship crosses halfway mark"
+      },
+      {
+         "description" : "The regular season of the 2023 Collegiate Chess League (CCL) fall season has come to a close and the University of Texas Dallas sits atop the table after their 14-2 drubbing of Columbia University (CU) on Saturday. Three of their players&#38;mdash;GMs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-mizzou-utdallas",
+         "pubDate" : "Tue, 07 Nov 2023 09:37:13 -0800",
+         "title" : "Mizzou, UT Dallas Lead Ahead Of Playoffs & SIG Predictions Challenge Is Here"
       },
       {
          "description" : "Calculating precisely and keeping an open mind for possible candidate moves is an important skill in chess. In the diagram position it is White to move and win. What should she do?",
@@ -426,14 +466,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2024 - Official invitation"
       },
       {
-         "description" : "Four players are sharing the lead with three rounds to go in the open section of the FIDE Grand Swiss after Fabiano Caruana, Bogdan-Daniel Deac and Andrey Esipenko scored full points on Thursday to join Vidit Gujrathi atop the standings. Nine players stand a half point behind, including second seed Hikaru Nakamura and Indian prodigy Arjun Erigaisi. In the women's tournament, meanwhile, Anna Muzychuk, Antoaneta Stefanova and Vaishali Rameshbabu continue to share first place. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r8",
-         "pubDate" : "Fri, 03 Nov 2023 03:00:00",
-         "title" : "Grand Swiss: Caruana, Deac and Esipenko join Vidit in the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -480,14 +512,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-bodhana-3/",
          "pubDate" : "Thu, 02 Nov 2023 17:08:54",
          "title" : "Congratulations Bodhana!"
-      },
-      {
-         "description" : "In his Game of the Week show #592 Merijn Van Delft analyses how the young Uzbek grandmaster Javokhir Sindarov defeated US grandmaster Sam Sevian at the Grand Swiss Tournament with a dazzling attack on the black squares. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-592-s-sevian-vs-j-sindarov",
-         "pubDate" : "Thu, 02 Nov 2023 14:55:00",
-         "title" : "Game of the Week #592: S. Sevian vs J. Sindarov"
       },
       {
          "description" : "Nottingham High School - Sunday 19th November 2023 - www.nottinghamhigh.co.uk - Organiser Edward Jones. Start at 10am and finish at approximately 5pm. Teams of three...",
@@ -1002,14 +1026,6 @@ news_feed (
          "title" : "FIDE Circuit: Fabiano Caruana consolidates his lead"
       },
       {
-         "description" : "Two spots for the 2024 Candidates Tournament are up for grabs in the strongest open tournament of the year, the 2023 FIDE Grand Swiss, which takes place in Douglas, Isle of Man, from October 25 to November 5, with a prize fund of $460,000. Who wil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-grand-swiss-preview",
-         "pubDate" : "Mon, 23 Oct 2023 14:44:00",
-         "title" : "FIDE Grand Swiss 2023: Who Will Qualify For A Shot At World Title?"
-      },
-      {
          "description" : " The 2023 ACT Interschool Competition has come to an end, with the playoffs for the ACT representatives to the Australian Schools Teams Championship being held over the weekend. The selected teams are Gold Creek (Girls Primary), Majura (Open Primary), Lyneham (Girls Secondary), Radford (Open Secondary). The competition was hard fought across the weekend, although each event finished with a clear winner. What I did find most interesting was that almost every player had an ACF Rating ID, which shows that players are transitioning from school only chess, to club and weekend chess. That this has not previously been true is one of the things that has been noticeable with ACT teams in recent years",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1130,7 +1146,7 @@ news_feed (
          "title" : "FIDE Women's Grand Prix Series 2024-25 - Call for bids"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. 2023.11.14<br /> GrandChessTour.org RAPID ROUND 1 | 25 Min. Incr. 10 Sec. RAPID ROUND 2 | 25 Min. Incr. 10 Sec. RAPID ROUND 3 | 25 Min. Incr. 10 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join GMs Peter Svidler, Yasser Seirawan, &amp; IM Tania Sachdev for the move-by-move. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\">",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-1-grandchesstour",
@@ -1208,22 +1224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-gives-fabi-his-congratulations-shorts",
          "pubDate" : "Wed, 18 Oct 2023 01:13:45",
          "title" : "2023 US Chess Championships R11 | Wesley gives Fabi his congratulations | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-r11-fabiano-caruana-winning-2023-us-chess-championships\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4BRl3Cknmmo.jpg?itok=mobMIeno\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-fabiano-caruana-winning-2023-us-chess-championships",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "2023 US Chess Championships R11 | Fabiano Caruana on winning the 2023 US Chess Championships!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-r11-wesley-so-gives-his-impressions-mishra-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Ky3z2SN4lFU.jpg?itok=hYEvt8fZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-so-gives-his-impressions-mishra-shorts",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "2023 US Chess Championships R11 | Wesley So gives his impressions on Mishra | #shorts"
       }
    ]
 }
