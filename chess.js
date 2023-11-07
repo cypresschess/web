@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2727",
+         "pubDate" : "Tue, 07 Nov 2023 11:39:28 +0000",
+         "title" : "2023 World Amateur Championship crosses halfway mark"
+      },
+      {
          "description" : "Calculating precisely and keeping an open mind for possible candidate moves is an important skill in chess. In the diagram position it is White to move and win. What should she do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/happy-birthday-robert-huebner-turns-75",
          "pubDate" : "Mon, 06 Nov 2023 19:00:00",
          "title" : "Happy birthday: Robert H&uuml;bner turns 75!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2725",
-         "pubDate" : "Mon, 06 Nov 2023 16:34:51 +0000",
-         "title" : "Robert Huebner turns 75"
       },
       {
          "description" : "In the Endgame Magic Show #254 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -114,6 +114,14 @@ news_feed (
          "title" : "Intense Round 4 at 2023 World Amateur Championship in Muscat"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2725",
+         "pubDate" : "Mon, 06 Nov 2023 09:34:51 +0000",
+         "title" : "Robert Huebner turns 75"
+      },
+      {
          "description" : "Congratulations to England's Michael Adams and John Nunn, who both became World Senior chess champions yesterday in Terrasini, Sicily, Italy. Despite both being the top...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-205",
          "pubDate" : "Sun, 05 Nov 2023 17:30:00",
          "title" : "Jon Speelman: Fireworks old and new"
+      },
+      {
+         "description" : "We've seen sports cards several times in the series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), most recently in the post <A HREF=\"https://chessforallages.blogspot.com/2019/06/cards-for-chess-champions.html\">Cards for Chess Champions</A> (June 2019). All of the auctions have been for very old cards like the 1888 Steinitz and Zukertort cards in that 'Chess Champions' series. <P> The item pictured below was titled 'Hikaru Nakamura #390 American Chess Equipment Ultimate Card Auto'. It sold for around $500, 'Best offer accepted'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk05.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/11/chess-rookie-card.html",
+         "pubDate" : "Sun, 05 Nov 2023 16:56:00",
+         "title" : "Chess Rookie Card"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 150th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and explains how Max Euwe was able to beat Alexander Alekhine in their 1935 World Championship match. | Photo: Pascal Simon",
