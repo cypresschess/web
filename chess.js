@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Grand Swiss 2023 and the FIDE Women's Grand Swiss 2023 took place from 23 October to 6 November in the Isle of Man. The events gathered 114 players in the Open section and 50 competitors in the Women's event, featuring the total prize fund of $600,000 ($460,000 for the Grand Swiss and $140,000 for the Women's Grand Swiss). GM Vidit Santosh Gujrathi (IND, 2716) emerged as the Winner of the Open event scoring 8.5 points. Vidit was victorious []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-grand-swiss-2023-concluded-in-the-isle-of-man/",
+         "pubDate" : "Mon, 06 Nov 2023 21:00:36",
+         "title" : "FIDE Grand Swiss 2023 concluded in the Isle of Man"
+      },
+      {
          "description" : "Robert H&uuml;bner is the best German chess player since Emanuel Lasker. At the height of his career, the grandmaster from Cologne was ranked third in the world behind Karpov and Korchnoi. With his scientific training, H&uuml;bner also took a scientific interest in the game of chess. The multiple World Championship candidate turns 75 today. | Photo: Robert H&uuml;bner during a lecture about a game he played in Tilburg 1985 against Ljubomir Ljubojevic (Photo: Hartmut Metz)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,6 +128,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2722",
          "pubDate" : "Sun, 05 Nov 2023 22:51:49 +0000",
          "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
+      },
+      {
+         "description" : "Vaishali and Vidit took top honours at the FIDE Grand Swiss tournament on Sunday and also qualified for the 2024 Candidates tournament along the way.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/38829328/r-vaishali-vidit-gujrathi-win-fide-grand-swiss-qualify-candidates-tournament-indian-chess?device=featurephone",
+         "pubDate" : "Sun, 5 Nov 2023 22:14:19",
+         "title" : "Vaishali, Vidit win FIDE Grand Swiss; qualify for 2024 Candidates"
       },
       {
          "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 8.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
