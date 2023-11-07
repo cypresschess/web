@@ -1,9 +1,11 @@
 jtable([
 "HOUSTON","2023-11-03  - 11-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202311053212 target='_blank'>$3,000 STUDIO  NOV 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-11-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311042062 target='_blank'>CHESSPANDA11042023SATURDAY</a>",
+"HOUSTON","2023-11-03","10","<a href=http://www.uschess.org/msa/XtblMain.php?202311033862 target='_blank'>WBCC NOVEMBER SWISS</a>",
 "CYPRESS","2023-11-03","20","<a href=http://www.uschess.org/msa/XtblMain.php?202311031542 target='_blank'>Knights of Cypress03Nov24</a>",
 "SPRING","2023-11-03","31","<a href=http://www.uschess.org/msa/XtblMain.php?202311031462 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-11-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311031452 target='_blank'>FBCC 2023 NOVEMBER PIADA OPEN</a>",
+"HOUSTON","2023-11-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311031412 target='_blank'>REBECCA CHESS CLUB QUADS NOVEMBER 3, 2023</a>",
 "HOUSTON","2023-10-03  - 10-31","15","<a href=http://www.uschess.org/msa/XtblMain.php?202310310382 target='_blank'>OCT 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-10-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310299172 target='_blank'>OCTOBER 29 SUNDAY SWISS</a>",
 "HUMBLE","2023-10-28","79","<a href=http://www.uschess.org/msa/XtblMain.php?202310288342 target='_blank'>ST MARY MAGDALENE SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2023-04-28","31","<a href=http://www.uschess.org/msa/XtblMain.php?202304283222 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-04-28","25","<a href=http://www.uschess.org/msa/XtblMain.php?202304283082 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-04-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304283062 target='_blank'>FBCC 2023 NATIONAL SUPERHERO DAY OP</a>",
-"HOUSTON","2023-04-04  - 04-25","22","<a href=http://www.uschess.org/msa/XtblMain.php?202304252262 target='_blank'>APRIL 2023 TUESDAY NIGHT SWISS</a>",
-"LEAGUE CITY","2023-04-03  - 04-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202304240552 target='_blank'>CLCC APRIL MONDAYS</a>",
 ]);
