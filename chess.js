@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the occasion of Robert Huebner's 75th birthday yesterday, Emil Sutovsky, Grandmaster and Managing Director of FIDE, published a personal congratulation on the FIDE website and reviewed some of Robert Huebner's great achievements. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-on-the-75th-birthday-of-robert-huebner",
+         "pubDate" : "Tue, 07 Nov 2023 15:34:33",
+         "title" : "FIDE: On the 75th birthday of Robert Huebner"
+      },
+      {
+         "description" : "With a last-round-win Czech Grandmaster Jiri Stocek won the 26. Open International Bavarian Championships ahead of GM Maxime Lagarde from France. Both players finished with 7.5/9, but Stocek had the better tiebreak. German International Master Roven Vogel won bronze and made his third and final GM-norm. | Photos: Sandra Schmidt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jiri-stocek-wins-open-bavarian-championship",
+         "pubDate" : "Tue, 07 Nov 2023 14:00:00",
+         "title" : "Jiri Stocek wins Open Bavarian Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -480,22 +496,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/two-weeks-left-to-enter-the-nscc-girls-northern-semi-final/",
          "pubDate" : "Thu, 02 Nov 2023 14:23:45",
          "title" : "Two weeks left to enter the NSCC Girls Northern Semi-Final!"
-      },
-      {
-         "description" : "A win over Javokhir Sindarov with black allowed Vidit Gujrathi to emerge as sole leader in the open section of the FIDE Grand Swiss. The Indian grandmaster is the only player in the open to have scored five wins, as he began the event with a loss against Erwin l'Ami. Eleven players stand a half point back, including top seeds Fabiano Caruana and Hikaru Nakamura. Meanwhile, in the women's tournament, Vaishali Rameshbabu and Antoaneta Stefanova collected full points to join Anna Muzychuk in the lead. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r7",
-         "pubDate" : "Thu, 02 Nov 2023 12:10:00",
-         "title" : "Grand Swiss: Vidit scores fifth win, leads"
-      },
-      {
-         "description" : "After the sixth round of the 2023 FIDE Grand Swiss, every chess player should know all participants who remain in the top 20. Unless, Ramaza Zhalmakhanov shows up! The young talent from Kazakhstan is probably playing his best tournament ever, with draws against Giri, Sevian, Sarana, and Firouzja, and two wins against Pichot and Bassem! Let's see if the IM can keep up with the elite until the final round. His win against Amir Bassem, in the Ruy Lopez, is a tactical masterpiece.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-is-zhalmakanov-the-underdog",
-         "pubDate" : "Thu, 02 Nov 2023 09:12:21",
-         "title" : "Who is Zhalmakanov? - The Underdog"
       },
       {
          "description" : "Please find Live games link for 36th National Under 09 Open &#38; Girls Chess Championships 2023.Open (36th National Under 09 Open Chess Championship 2023) Link https://view.livechesscloud.com#6b9b0b7f-9dfc-4653-b4b0-a8f765fab370Girls ",
@@ -1224,14 +1224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-so-gives-his-impressions-mishra-shorts",
          "pubDate" : "Wed, 18 Oct 2023 01:13:45",
          "title" : "2023 US Chess Championships R11 | Wesley So gives his impressions on Mishra | #shorts"
-      },
-      {
-         "description" : " The LFG Round Robin has finished with a comprehensive victory for Harry Press. The event was organised by IA Lee Forace and involved a number of the higher rated Canberra players. In the end it was a tournament that saw the top players dominate the lower rated players (including myself). Harry Press finished on 8.5/9, conceding a single draw to Wenlin Yin. Ties for 2nd were FM Fred Litchfield and Fabrizio Magrini on 7. Yin finished in 4th place on 6.5. With such heaving scoring at the top (+22=2-0 against the bottom 6 players), it wasn't a surprise that no one else scored 50% . The best of these players was Sankeerten Badrinaryan who scored 4/9, with Malik Amer (3.5), FM Shaun Press (2.5), ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/lfg-round-robin.html",
-         "pubDate" : "Tue, 17 Oct 2023 12:49:00",
-         "title" : "LFG Round Robin"
       }
    ]
 }
