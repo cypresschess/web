@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-am-glad-that-i-kept-persisting-vidit-gujrathi/articleshow/105055642.cms",
+         "pubDate" : "Wed, 08 Nov 2023 03:43:21 +0000",
+         "title" : "I am glad that I kept persisting: Vidit Gujrathi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra interacts with the chess audience while tackling tactics puzzles on lichess.org. 2023.11.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-time-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QHd38ToH3X4.jpg?itok=kT6kY5TN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tactics-time-grandmasters-choice-gm-akshat-chandra",
+         "pubDate" : "Wed, 08 Nov 2023 01:37:56",
+         "title" : "Tactics Time! Grandmaster's Choice - GM Akshat Chandra"
+      },
+      {
          "description" : "How do you train, what do you train, why do you train and how useful is it to train or play chess at all? These and a whole series of other questions were answered by the Slovakian grandmaster, successful author and renowned coach Jan Markos in a ChessBase interview with Johannes Fischer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Chess, training, life, etc. - an interview with Jan Markos"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a chess class about pins. Maybe you can spot a pin in a puzzle, but how do you set up a pin in a real game? 2023.11.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/44WFJaBjNsY.jpg?itok=KbkrODuh\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a chess class about pins. Maybe you can spot a pin in a puzzle, but how do you set up a pin in a real game? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/44WFJaBjNsY.jpg?itok=KbkrODuh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan",
@@ -1192,38 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2689",
          "pubDate" : "Wed, 18 Oct 2023 06:18:08 +0000",
          "title" : "2023 U.S. Championships: Caruana and Yip win titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Sabina Foisor before the 2023 U.S. Women's Championship. This did not air during the broadcast. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-zatonskih-growing-chess-informant-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8_l1k4i_t3o.jpg?itok=YgNpSVgZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-zatonskih-growing-chess-informant-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 04:13:45",
-         "title" : "EXCLUSIVE! Zatonskih: Growing Up with Chess Informant | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Sabina Foisor before the 2023 U.S. Championship. This did not air during the broadcast. 2023.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-dominguez-classical-chess-real-chess-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HjVHgbVwKus.jpg?itok=LPLz0gNL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-dominguez-classical-chess-real-chess-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 04:13:45",
-         "title" : "EXCLUSIVE! Dominguez: Classical Chess is the Real Chess | #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to the team after defeating Eswaran in the eleventh round of the 2023 U.S. Women's Championship. 2023.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-will-officially-pass-2400-r11-uschesschamps\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mtiuu_fIdLs.jpg?itok=tG-g-7ES\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-will-officially-pass-2400-r11-uschesschamps",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "Alice Lee Will Officially Pass 2400! | R11 #USChessChamps"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships | Round 11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-r11-wesley-gives-fabi-his-congratulations-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-DjzP-deKfk.jpg?itok=TeQ3aY_L\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-r11-wesley-gives-fabi-his-congratulations-shorts",
-         "pubDate" : "Wed, 18 Oct 2023 01:13:45",
-         "title" : "2023 US Chess Championships R11 | Wesley gives Fabi his congratulations | #shorts"
       }
    ]
 }
