@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Slovenian Chess Federation and the European Chess Union (ECU) have the honour to invite all senior players from all over Europe to participate in the European Senior Team Chess Championship 2024 (categories 50+ and 65+), which will take place from May 6 to May 16 in Brezice, Slovenia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately, 9 rounds, swiss system. If there is less than 8 teams in the Women's []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-official-invitation/",
+         "pubDate" : "Wed, 08 Nov 2023 07:19:53",
+         "title" : "European Senior Team Chess Championship 2024 - Official invitation"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1176,38 +1184,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/10/19/the-chess-memory-palace/",
          "pubDate" : "Thu, 19 Oct 2023 00:10:19",
          "title" : "The Chess Memory Palace"
-      },
-      {
-         "description" : "To follow the event (32 lives boards and round five commentary by GM Peter Wells and WIM Natasha Regan) go to this page https://www.englishchess.org.uk/ecf-national-club-championships-2023/....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-national-club-championships-2023-reminder/",
-         "pubDate" : "Wed, 18 Oct 2023 08:00:41",
-         "title" : "ECF National Club Championships 2023"
-      },
-      {
-         "description" : "The medallists were &#8212; Gold and World Champion GM Marcin Tazbir (Poland) 8/9! Silver and a good defence of his title IM Predrag Nikac (Montenegro)...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ibca-world-individual-chess-final-scores-and-thoughts-from-owen-phillips/",
-         "pubDate" : "Wed, 18 Oct 2023 07:51:28",
-         "title" : "IBCA World Individual Chess - final scores and thoughts from Owen Phillips"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2690",
-         "pubDate" : "Wed, 18 Oct 2023 07:06:27 +0000",
-         "title" : "Marcin Tazbir triumphs at 2023 IBCA World Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2689",
-         "pubDate" : "Wed, 18 Oct 2023 06:18:08 +0000",
-         "title" : "2023 U.S. Championships: Caruana and Yip win titles"
       }
    ]
 }
