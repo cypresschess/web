@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen's Offerspill had a stellar performance at the 2023 European Chess Club Cup. The tournament took place in D&uuml;rres, Albania at the start of October. GM Karsten M&uuml;ller found plenty of endgame highlights to share with us ChessBase readers. Find here thirteen instructive positions, with helpful, to-the-point analyses - perfect for those looking to improve their endgame abilities! | Pictured: David Anton | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2023-endgames",
+         "pubDate" : "Wed, 08 Nov 2023 23:00:00",
+         "title" : "Endgames from D&uuml;rres"
+      },
+      {
          "description" : "The 24th edition of the European Team Chess Championships will take place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Led by Shakhriyar Mamedyarov and Teimour Radjabov, the Azerbaijani team heads the starting rank in the open. In the women's event, the Georgian squad, who recently won the World Team Championship, enters as the rating favourite. | Photo: A panoramic view of Budva, via Wikimedia Commons",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,12 +106,12 @@ news_feed (
          "title" : "European Senior Team Chess Championship 2024 - Official invitation"
       },
       {
-         "description" : "FIDE has announced the venue for the 2023 FIDE World Rapid and Blitz Championships less than two months before it is due to start. The world governing body of chess confirmed the traditional Christmas event will take place in Samarkand, Uzbekist...",
+         "description" : "FIDE has announced the venue for the 2023 FIDE World Rapid and Blitz Championships. The world governing body of chess confirmed the traditional Christmas event will take place in Samarkand, Uzbekistan, from December 26 to 30, with a $1 million p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-announces-world-rapid-and-blitz-championships-eight-weeks-before-it-starts",
          "pubDate" : "Wed, 08 Nov 2023 06:04:00 -0800",
-         "title" : "FIDE Announces World Rapid And Blitz In Uzbekistan-Just 7 Weeks Before Start"
+         "title" : "FIDE Announces World Rapid And Blitz In Uzbekistan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
          "pubDate" : "Sun, 05 Nov 2023 14:50:00",
          "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "A very strong field, including many grandmasters, will be competing for the title of Senior World Champion in the age groups 50+ and 65+ (in an Open and a Women's tournament) from 25 October to 5 November in Terrasini, Sicily. The field includes renowned players such as Michael Adams, Klaus Bischoff, John Nunn, Rafael Vaganjan, Rainer Knaak, and Nona Gaprindashvili. The rounds start daily at 15.00 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
-         "pubDate" : "Sun, 05 Nov 2023 14:50:00",
-         "title" : "FIDE World Senior Championship - Live"
       },
       {
          "description" : "GM Vidit Gujrathi has been confirmed as the winner of the 2023 FIDE Grand Swiss after defeating GM Alexandr Predke and finishing on 8.5/11 in what has been described as one of the strongest open tournaments of all time. Along with receiving $80,...",
