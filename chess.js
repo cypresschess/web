@@ -50,6 +50,14 @@ news_feed (
          "title" : "Jiri Stocek wins Open Bavarian Championship"
       },
       {
+         "description" : "British chess has gotten another boost as legends GM Michael Adams (50+) and GM John Nunn (65+) both secured gold medals in the World Senior Championship last week. WGM Monica Calzetta Ruiz (50+) from Spain and WGM Galina Strutinskaia (65+) won wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nunn-adams-win-2023-world-senior-titles",
+         "pubDate" : "Tue, 07 Nov 2023 13:21:00 -0800",
+         "title" : "British Chess Legends Adams, Nunn Win World Senior Titles"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -766,7 +774,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/city-of-human-chess-debuts-at-la-film-festival-streaming-now-on-magellantv",
-         "pubDate" : "Sun, 29 Oct 2023 09:32:15",
+         "pubDate" : "Sun, 29 Oct 2023 09:32:00",
          "title" : "Chess.com's First Original Production Wins Award At DOC LA Film Festival-Watch It Now On MagellanTV"
       },
       {
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-grand-swiss-2023-starts-in-the-isle-of-man/",
          "pubDate" : "Tue, 24 Oct 2023 06:25:47",
          "title" : "FIDE Grand Swiss 2023 starts in the Isle of Man"
-      },
-      {
-         "description" : "Arlen Abdrashev won the 2000+ knockout of the ChessPunks Champs 2023, defeating NM Alexander Balkum in a final playoff. Tushar Anand went undefeated in every round to win the 1700-1999 division. Ivan Zhuk swept all of his matches to win the 1300...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesspunks-champs-ko",
-         "pubDate" : "Mon, 23 Oct 2023 23:51:00",
-         "title" : "Improvers With Pro Coaching: Abdrashev, Anand, Zhuk, Manucharyan Finish At Top"
       },
       {
          "description" : "",
