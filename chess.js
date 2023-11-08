@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Team Championship for small nations is held every two years. This year it took place in Jersey. Ten teams from small European countries took part. This year's winners were Andorra, ahead of the Faroe Islands and Luxembourg. | Photos: ECU",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andorra-wins-small-nations-tournament",
+         "pubDate" : "Wed, 08 Nov 2023 17:00:00",
+         "title" : "Andorra wins \"Small Nations Tournament\""
+      },
+      {
+         "description" : "Michael Gambon, known to many film and Harry Potter fans as Albus Dumbledore, the headmaster in the Harry Potter films, died at the end of September at the age of 82. Originally a theatre actor, Michael Gambon became interested in chess after appearing in Samuel Beckett's \"Endgame\" and played regularly with Jason Kouchak during a joint film project. Jason Kouchak bids farewell with a song.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-remembering-michael-gambon-1940-2023",
+         "pubDate" : "Wed, 08 Nov 2023 15:00:00",
+         "title" : "Endgame: Remembering Michael Gambon (1940-2023)"
+      },
+      {
          "description" : "The ancient city of Samarkand, Uzbekistan, is set to host the 2023 FIDE World Rapid and Blitz Championships from December 26 to 30. This five-day tournament will gather the world's top chess players, vying for the title of the World Champion in Rapid and Blitz across the Open and Women's categories. | Photo: Ekrem Canli",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-official-invitation/",
          "pubDate" : "Wed, 08 Nov 2023 07:19:53",
          "title" : "European Senior Team Chess Championship 2024 - Official invitation"
+      },
+      {
+         "description" : "FIDE has announced the venue for the 2023 FIDE World Rapid and Blitz Championships less than two months before it is due to start. The world governing body of chess confirmed the traditional Christmas event will take place in Samarkand, Uzbekist...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-world-rapid-and-blitz-championships-eight-weeks-before-it-starts",
+         "pubDate" : "Wed, 08 Nov 2023 06:04:00 -0800",
+         "title" : "FIDE Announces World Rapid And Blitz In Uzbekistan-Just 7 Weeks Before Start"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
@@ -456,22 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ding-reveals-reasons-for-absence-expects-2024-comeback",
          "pubDate" : "Sat, 04 Nov 2023 14:04:00",
          "title" : "Ding Reveals Reason For Absence, Expects Comeback In 2024"
-      },
-      {
-         "description" : "The Grand Chess Tour will hold its last two tournaments in Saint Louis in mid/late November, a Rapid & Blitz event and the Sinquefield Cup. Ding Liren was supposed to take part in both tournaments, but the tour has recently announced his withdrawal. The world champion has been completely out of the limelight lately. What's next for Ding Liren? | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/where-is-ding-liren",
-         "pubDate" : "Sat, 04 Nov 2023 13:10:00",
-         "title" : "Where is Ding Liren?"
-      },
-      {
-         "description" : "In the diagram position, White has powerful bishops and superactive rooks, while all of Black's pieces are on the back rank. White also has a way to convert his positional plus into material gains - do you see how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fishing-bishops",
-         "pubDate" : "Sat, 04 Nov 2023 09:00:00",
-         "title" : "Fishing bishops"
       },
       {
          "description" : "",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://aicf.in/live-telecast-2nd-im-norm/",
          "pubDate" : "Wed, 25 Oct 2023 12:06:10",
          "title" : "Live Telecast :2nd IM Norm"
-      },
-      {
-         "description" : "British chess sensation WCM Bodhana Sivanandan made history today, scoring 10/10 to become England&#39;s first world youth champion in 25 years and complete a historic triple crown. The eight-year-old prodigy is dominating the Girls Under 8 category...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/8-year-old-bodhana-scores-historic-triple-world-championship-title",
-         "pubDate" : "Wed, 25 Oct 2023 09:11:00",
-         "title" : "8-Year-Old Makes Chess History: England's First World Youth Champion in 25 Years"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games, including a win over Ben Finegold. Akshat takes questions at the end from Yasser Seirawan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
