@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 24th edition of the European Team Chess Championships will take place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Led by Shakhriyar Mamedyarov and Teimour Radjabov, the Azerbaijani team heads the starting rank in the open. In the women's event, the Georgian squad, who recently won the World Team Championship, enters as the rating favourite. | Photo: A panoramic view of Budva, via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-preview",
+         "pubDate" : "Wed, 08 Nov 2023 19:00:00",
+         "title" : "Extremely competitive European Team Championship to start in Budva"
+      },
+      {
          "description" : "The European Team Championship for small nations is held every two years. This year it took place in Jersey. Ten teams from small European countries took part. This year's winners were Andorra, ahead of the Faroe Islands and Luxembourg. | Photos: ECU",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/andorra-wins-small-nations-tournament",
          "pubDate" : "Wed, 08 Nov 2023 17:00:00",
          "title" : "Andorra wins \"Small Nations Tournament\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2731",
+         "pubDate" : "Wed, 08 Nov 2023 16:48:21 +0000",
+         "title" : "Argentine Championship 2023: Peralta wins fifth title"
       },
       {
          "description" : "Michael Gambon, known to many film and Harry Potter fans as Albus Dumbledore, the headmaster in the Harry Potter films, died at the end of September at the age of 82. Originally a theatre actor, Michael Gambon became interested in chess after appearing in Samuel Beckett's \"Endgame\" and played regularly with Jason Kouchak during a joint film project. Jason Kouchak bids farewell with a song.",
@@ -66,6 +82,14 @@ news_feed (
          "title" : "The Monthly Dragon - Erigaisi defeats Nepo with the Dragon"
       },
       {
+         "description" : "In the November 7 edition of Titled Tuesday, GM Magnus Carlsen finally joined the list of players to win both tournaments on a single day, becoming the sixth player to pull off the feat. After a come-from-behind early win, where Carlsen was only t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-7-2023",
+         "pubDate" : "Wed, 08 Nov 2023 09:24:54 -0800",
+         "title" : "Magnus Secures The Sweep"
+      },
+      {
          "description" : "The Slovenian Chess Federation and the European Chess Union (ECU) have the honour to invite all senior players from all over Europe to participate in the European Senior Team Chess Championship 2024 (categories 50+ and 65+), which will take place from May 6 to May 16 in Brezice, Slovenia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately, 9 rounds, swiss system. If there is less than 8 teams in the Women's []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tactics-time-grandmasters-choice-gm-akshat-chandra",
          "pubDate" : "Wed, 08 Nov 2023 01:37:56",
          "title" : "Tactics Time! Grandmaster's Choice - GM Akshat Chandra"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2728",
+         "pubDate" : "Tue, 07 Nov 2023 23:08:43 +0000",
+         "title" : "EDU Commission announces its 12th Preparation of Teachers course"
       },
       {
          "description" : "How do you train, what do you train, why do you train and how useful is it to train or play chess at all? These and a whole series of other questions were answered by the Slovakian grandmaster, successful author and renowned coach Jan Markos in a ChessBase interview with Johannes Fischer.",
@@ -368,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-senior-championship-live",
          "pubDate" : "Sun, 05 Nov 2023 14:50:00",
          "title" : "FIDE World Senior Championship - Live"
-      },
-      {
-         "description" : "Round 10 of the FIDE Grand Swiss saw decisive games on the seven top boards, with Hikaru Nakamura, Andrey Esipenko and Vidit Gujrathi scoring full points to go into the final round in shared first place. Nakamura got the better of Fabiano Caruana in the duel of top seeds, Vidit defeated Bogdan-Daniel Deac with the black pieces, while Esipenko beat Parham Maghsoodloo on board 3. In the women's tournament, Vaishali Rameshbabu climbed to the sole lead by beating Tan Zhongyi with the white pieces. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r10",
-         "pubDate" : "Sun, 05 Nov 2023 14:10:00",
-         "title" : "Grand Swiss: Nakamura, Esipenko and Vidit share the lead"
       },
       {
          "description" : "GM Vidit Gujrathi has been confirmed as the winner of the 2023 FIDE Grand Swiss after defeating GM Alexandr Predke and finishing on 8.5/11 in what has been described as one of the strongest open tournaments of all time. Along with receiving $80,...",
