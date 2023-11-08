@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ancient city of Samarkand, Uzbekistan, is set to host the 2023 FIDE World Rapid and Blitz Championships from December 26 to 30. This five-day tournament will gather the world's top chess players, vying for the title of the World Champion in Rapid and Blitz across the Open and Women's categories. | Photo: Ekrem Canli",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-championships-2023-to-take-place-in-samarkand-uzbekistan",
+         "pubDate" : "Wed, 08 Nov 2023 12:48:01",
+         "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
+      },
+      {
+         "description" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan. The FIDE World Rapid and Blitz Championships are prestigious international chess tournaments",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-rapid-blitz-championship-2023/",
+         "pubDate" : "Wed, 08 Nov 2023 12:29:48",
+         "title" : "FIDE World Rapid & Blitz Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2730",
+         "pubDate" : "Wed, 08 Nov 2023 11:29:22 +0000",
+         "title" : "2023 World Amateur Championship: Leaderboards taking shape"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2729",
+         "pubDate" : "Wed, 08 Nov 2023 10:49:01 +0000",
+         "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
+      },
+      {
+         "description" : "The link for the tournament is: https://live.tamilchess.com/4th-im-norm-kodaikanal/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-4th-tamil-nadu-im-norm-tournament/",
+         "pubDate" : "Wed, 08 Nov 2023 10:03:57",
+         "title" : "Live games link for 4th Tamil Nadu IM norm tournament"
+      },
+      {
+         "description" : "Chris Ward couldn't resist showing us a wonderful game of Arjun Erigaisi, defeating Ian Nepomniachtchi with the Dragon. Apparently, Erigaisi is watching the Monthly Dragon, since he used the advice by Chris, of last month's episode! But the Indian GM used a quite interesting path to keep the game going, which is normally used by club players.| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-erigaisi-defeats-nepo-with-the-dragon",
+         "pubDate" : "Wed, 08 Nov 2023 10:00:00",
+         "title" : "The Monthly Dragon - Erigaisi defeats Nepo with the Dragon"
+      },
+      {
          "description" : "The Slovenian Chess Federation and the European Chess Union (ECU) have the honour to invite all senior players from all over Europe to participate in the European Senior Team Chess Championship 2024 (categories 50+ and 65+), which will take place from May 6 to May 16 in Brezice, Slovenia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately, 9 rounds, swiss system. If there is less than 8 teams in the Women's []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -453,17 +501,9 @@ news_feed (
          "description" : "Today, I will teach you how to think during a Chess game. Most students draw a blank when I ask them: \"What goes through your mind during a game?\" That's a big problem! It is an explanation of a common phenomenon: Making moves you would never do without the adrenaline and stress. Thanks to a simple thought process, you can make more logical decisions and avoid emotional decisions that cause disaster. Right Process + Wrong Move is Better Than Wrong Process + Right Move. Most good Coaches in...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/how-to-think-during-a-chess-game/",
+         "link" : "https://nextlevelchess.blog/how-to-think-during-a-chess-game/",
          "pubDate" : "Fri, 03 Nov 2023 14:03:49",
          "title" : "How To Think During A Chess Game"
-      },
-      {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris shows how Javokhir Sindarov used a form of an accelerated King's Indian to beat Samuel Sevian with a fast and furious attack in Round 6 of the Grand Swiss Tournament on the Isle of Man. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-accelerated-king-s-indian",
-         "pubDate" : "Fri, 03 Nov 2023 13:47:11",
-         "title" : "Robert Ris' Fast and Furious: An accelerated King's Indian"
       },
       {
          "description" : " There was an interesting pairing in round 8 of the 2023 Isle of Man Grand Swiss. Australian Champion Temur Kuybokarov was up against 2023 Doeberl Cup winner Hrant Melkumyan. Although Melkumyan plays under the Armenian flag, he has been resident in Belconnen (a suburb of Canberra, Australia), for the past few years. Both players had solid events (ie lots of draws), and this game ended with a shared point. But it was not a colourless draw with Black attacking an exchange down. White returned the material to reach a rook and queen ending, which was eventually drawn after an exciting battle over passed pawns. <br /> <b>Melkumyan,Hrant (2650) - Kuybokarov,Temur (2584) [D41]</b><br /> FIDE Grand ",
@@ -472,14 +512,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/belconnen-represent.html",
          "pubDate" : "Fri, 03 Nov 2023 12:35:00",
          "title" : "Belconnen represent"
-      },
-      {
-         "description" : "The FIDE Candidates is scheduled to be held in April 2024 in Toronto, Canada. There are eight spots in the open section and one of them will be decided by the FIDE circuit 2023 - on the 1st of January 2024. What is the FIDE circuit? Who are the players who have the best chance? And what are the events remaining in the year? Shahid Ahmed answers all your questions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-has-the-best-chance-to-make-it-to-the-candidates",
-         "pubDate" : "Fri, 03 Nov 2023 10:46:23",
-         "title" : "Who has the best chance to make it to the Candidates?"
       },
       {
          "description" : "",
@@ -877,7 +909,7 @@ news_feed (
          "description" : "Many Chess improvers are stuck because they ask the wrong questions. The most common example is (once again...) openings. Most people try to answer the following question: How can I have the best possible opening repertoire?\" 1) This question is not that important. 2) It is never-ending. Trying to answer this question will cost you a lot of money (invested in the latest \"best opening course\") and time. Quality Questions create a quality life. Successful people ask better questions, and as a...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/how-to-ask-the-right-questions/",
+         "link" : "https://nextlevelchess.blog/how-to-ask-the-right-questions/",
          "pubDate" : "Fri, 27 Oct 2023 13:11:23",
          "title" : "How To Ask The Right Questions"
       },
@@ -1026,14 +1058,6 @@ news_feed (
          "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
       },
       {
-         "description" : "The venue of the Trainer Seminar scheduled at Guwahati from 03-05 November 2023 has been shifted to Kolkata for the convenience participants. Now the Seminar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/trainer-seminar-venue-shifted-from-guwahati-to-kolkata/",
-         "pubDate" : "Tue, 24 Oct 2023 08:43:45",
-         "title" : "Trainer Seminar venue shifted from Guwahati to Kolkata"
-      },
-      {
          "description" : "The 2023 FIDE Grand Swiss and FIDE Women's Grand Swiss will take place from 25th October to 5th November in Douglas, Isle of Man. Both events are part of the qualifications for the current World Championship cycle, with the top two players in the open event qualifying for the 2024 Candidates Tournament and the top two players in the Women's Grand Swiss qualifying for the 2024 Women's Candidates. The events will be played in 11 rounds, Swiss System, with 164 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "European Youth Online Nations League 2024 - Official invitation"
       },
       {
-         "description" : "All India Chess Federation is pleased to announce the Fair Play Orientation Workshop at Kamaraj College, Thoothukudi from 02-03 Dec 23. This two days' workshop",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-orientation-workshop-2/",
-         "pubDate" : "Mon, 23 Oct 2023 03:09:00",
-         "title" : "FAIR PLAY ORIENTATION WORKSHOP"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1117,7 +1133,7 @@ news_feed (
          "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/the-best-chess-move/",
+         "link" : "https://nextlevelchess.blog/the-best-chess-move/",
          "pubDate" : "Fri, 20 Oct 2023 13:09:35",
          "title" : "The Best Chess Move"
       },
