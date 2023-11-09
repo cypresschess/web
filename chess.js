@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the course of their careers, Hikaru Nakamura and Fabiano Caruana have played some epic games against each other. The last one was played in the penultimate round of the Grand Swiss Tournament on the Isle of Man. Nakamura won the game and later qualified for the Candidates. In Game of the Week #593, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-593-h-nakamura-vs-f-caruana",
+         "pubDate" : "Thu, 09 Nov 2023 15:01:21",
+         "title" : "Game of the Week #593: H. Nakamura vs F. Caruana"
+      },
+      {
+         "description" : "Advik Amit Agarwal of Maharashtra and Samhita Pungavanam of Telangana crowned as National Under-9 and National Under-9 Girls Chess Champions respectively at Jamshedpur on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/advik-and-samhita-national-under-9-champions/",
+         "pubDate" : "Thu, 09 Nov 2023 14:33:46",
+         "title" : "Advik and Samhita National Under-9 Champions"
+      },
+      {
+         "description" : " Short answer - Nowhere Longer answer - overrun with work But best answer - Growing my moustache for Movember. You can donate at <a href=\"https://movember.com/m/shaunpress?mc=1\">https://movember.com/m/shaunpress?mc=1</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/where-has-shaun-gone.html",
+         "pubDate" : "Thu, 09 Nov 2023 13:34:00",
+         "title" : "Where has Shaun gone?"
+      },
+      {
          "description" : "Jozsef Pinter is 70 years old today. He is known as a long-standing and important member of the Hungarian team, having won several strong international tournaments during his career, as well as an individual gold medal at the 1984 Chess Olympiad and the first World Team Chess Championship in 1985. Pinter is also a distinguished writer and teacher.| Photo: sakkmezo.hu",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-gm-vidit-gujrathi-and-im-vaishali-winning-grand-swiss-and-qualifying-for-fide-candidates/",
          "pubDate" : "Mon, 06 Nov 2023 05:55:55",
          "title" : "GM Vidit & IM Vaishali Wins FIDE Grand Swiss"
-      },
-      {
-         "description" : "A clutch win - his seventh in ten games - gave Vidit Gujrathi tournament victory in the open section of the FIDE Grand Swiss. The Indian grandmaster thus qualified to the 2024 Candidates Tournament. Joining him in Toronto will be Hikaru Nakamura, who finished in clear second place a half point behind. Meanwhile, another Indian player prevailed in the women's section, as Vaishali Rameshbabu grabbed clear first place after drawing Batkhuyag Munguntuul on Sunday. Anna Muzychuk, who was already qualified to the Candidates, got second place, allowing third-placed Tan Zhongyi to secure the second Candidates' spot. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-r11",
-         "pubDate" : "Mon, 06 Nov 2023 02:35:00",
-         "title" : "Indians prevail in FIDE Grand Swiss: Vidit and Vaishali triumph!"
       },
       {
          "description" : "",
@@ -1042,14 +1058,6 @@ news_feed (
          "title" : "Caruana Leads Pack Of 32 Winners"
       },
       {
-         "description" : "The Deputy Chairperson of FIDE Management Board and Women Grandmaster Ms. Dana Reizniece Ozola along with Chairman FIDE Advisory Board Mr. Bharat Singh Chauhan had",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/the-deputy-chairperson-of-fide-management-board-ms-dana-reizniece-ozola-met-honble-chief-minister-of-odisha-shri-naveen-patnaik/",
-         "pubDate" : "Wed, 25 Oct 2023 15:24:42",
-         "title" : "The Deputy Chairperson of FIDE Management Board Ms. Dana Reizniece Ozola met Hon'ble Chief Minister of Odisha Shri Naveen Patnaik"
-      },
-      {
          "description" : "The green pawn took over TwitchCon! With the rise of chess on Twitch in the past three years, we&#38;rsquo;ve seen more and more streamers eager to try the game, whether online or over the board. Since PogChamps launched three years ago and skyrockete...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1200,14 +1208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-us-chess-champions-grandmaster-fabiano-caruana-defends-title-become-three-time-us-champion",
          "pubDate" : "Thu, 19 Oct 2023 17:40:27",
          "title" : "2023 U.S. Chess Champions: Grandmaster Fabiano Caruana Defends Title to Become Three-Time U.S. Champion; International Master Carissa Yip Wins Second Title in Women's Division"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2692",
-         "pubDate" : "Thu, 19 Oct 2023 13:39:06 +0000",
-         "title" : "FIDE Executive Director Victor Bologan visits Kenya"
       }
    ]
 }
