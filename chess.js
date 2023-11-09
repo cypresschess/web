@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recruitment of meritorious sports persons in the department of posts in the cadres of postal assistant, sorting assistant, postman, mail guard and multi tasking staff.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/recruitment-of-meritorious-sports-persons-in-the-departmentof-posts/",
+         "pubDate" : "Thu, 09 Nov 2023 02:24:57",
+         "title" : "RECRUITMENT OF MERITORIOUS SPORTS PERSONS IN THE DEPARTMENTOF POSTS"
+      },
+      {
          "description" : "Magnus Carlsen's Offerspill had a stellar performance at the 2023 European Chess Club Cup. The tournament took place in D&uuml;rres, Albania at the start of October. GM Karsten M&uuml;ller found plenty of endgame highlights to share with us ChessBase readers. Find here thirteen instructive positions, with helpful, to-the-point analyses - perfect for those looking to improve their endgame abilities! | Pictured: David Anton | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1050,14 +1058,6 @@ news_feed (
          "title" : "2023 World Seniors"
       },
       {
-         "description" : "please find live link for 2nd IM Norm https://live.tamilchess.com/2nd-im-norm-pollachi/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-telecast-2nd-im-norm/",
-         "pubDate" : "Wed, 25 Oct 2023 12:06:10",
-         "title" : "Live Telecast :2nd IM Norm"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games, including a win over Ben Finegold. Akshat takes questions at the end from Yasser Seirawan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2691",
          "pubDate" : "Thu, 19 Oct 2023 08:50:23 +0000",
          "title" : "FIDE Women's Grand Prix Series 2024-25 - Call for bids"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join GMs Peter Svidler, Yasser Seirawan, &amp; IM Tania Sachdev for the move-by-move. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-1-grandchesstour",
-         "pubDate" : "Thu, 19 Oct 2023 01:14:44",
-         "title" : "2023 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
       }
    ]
 }
