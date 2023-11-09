@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wally and K&auml;the Henschel were twins, born in Hamburg on 09.09.1893. In the 1920s and 1930s they were among the best players in Hamburg, and in 1930 Wally even beat Vera Menchik at the Women's World Championship Tournament in Hamburg - the only game Menchik ever lost in a Women's World Championship Tournament. But after the Kristallnacht pogrom on 9 November 1938, the twins, who came from a Jewish family, decided to flee to the USA, where they went on to play in the U.S. Women's Championships and where Wally may even have played against Bobby Fischer. | Photo: The Henschel family",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-kaethe-and-wally-henschel",
+         "pubDate" : "Thu, 09 Nov 2023 20:00:00",
+         "title" : "Remembering K&auml;the and Wally Henschel"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-leinier-dominguez-todays-approach-classical-chess-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bbH9ntESUtE.jpg?itok=eQb8kyKg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-leinier-dominguez-todays-approach-classical-chess-shorts",
+         "pubDate" : "Thu, 09 Nov 2023 19:39:53",
+         "title" : "2023 US Chess Championships | Leinier Dominguez on Today's Approach to Classical Chess | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-jennifer-yu-lets-just-play-nimzo-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vqu9uOA4Qqs.jpg?itok=Cfiuqm7w\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-jennifer-yu-lets-just-play-nimzo-shorts",
+         "pubDate" : "Thu, 09 Nov 2023 19:39:53",
+         "title" : "2023 US Chess Championships | Jennifer Yu \"Lets just play the Nimzo!\" | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Join GMs Peter Svidler, Yasser Seirawan, &amp; IM Tania Sachdev from November 14-18 at 1:05 P.M. CST. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-grandchesstour-p",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-grandchesstour-promo",
+         "pubDate" : "Thu, 09 Nov 2023 19:39:53",
+         "title" : "2023 Saint Louis Rapid & Blitz | #GrandChessTour | PROMO"
+      },
+      {
+         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2024 which will take place from 20 June to 28 June in Rhodes, Greece. The event will be held in the Conference Hall of the 5-star Rodos Palace Hotel and is co-organized by Rhodes Chess Club &#8220;Ippotis&#8221; The event will be played in two age categories U12 and U18, 4 tournaments open and girls sections separately. Each national federation []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-official-invitation/",
+         "pubDate" : "Thu, 09 Nov 2023 17:21:05",
+         "title" : "European Youth Team Chess Championship 2024 - Official invitation"
+      },
+      {
          "description" : "Over the course of their careers, Hikaru Nakamura and Fabiano Caruana have played some epic games against each other. The last one was played in the penultimate round of the Grand Swiss Tournament on the Isle of Man. Nakamura won the game and later qualified for the Candidates. In Game of the Week #593, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2726",
          "pubDate" : "Mon, 06 Nov 2023 13:38:15 +0000",
          "title" : "Hard-fought title wins at World Senior Championship 2023"
-      },
-      {
-         "description" : "Kasparov Chess Foundation is launching a subscription-based live, online chess lessons with four different skill levels. Registration is opened now at www.kcfacademy.org, and chess players of all ages are encouraged to sign-up. Classes commence on January 6th and run through June 15th. ChessBase is part of the project.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-chess-foundation-academy-launches-partners-with-chessbase",
-         "pubDate" : "Mon, 06 Nov 2023 12:00:00",
-         "title" : "Kasparov Chess Foundation Academy launches - partners with ChessBase"
       },
       {
          "description" : " In a first for International Cricket, Angelo Matthews has been dismissed \"Timed Out\". Playing Bangladesh, the Sri Lankan batsmen failed to face up to the first delivery after a dismissal within the 2 minute deadline. The cause of this was issues with his helmet strap, as he was at the wicket within the time limit. But Bangladesh appealed and the Umpire had no choice but to give him out. ",
@@ -1200,14 +1232,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/20/chess-fabiano-caruana-keeps-his-us-crown-and-heads-for-2024-candidates",
          "pubDate" : "Fri, 20 Oct 2023 07:00:11",
          "title" : "Chess: Fabiano Caruana keeps his US crown and heads for 2024 Candidates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"><p dir=\"ltr\"><strong><span id=\"docs-internal-guid-2a6057eb-7fff-6eb0-4c37-2cbe436729e2\">SAINT LOUIS (October 19, 2023</span>) </strong>- Grandmaster Fabiano Caruana and International Master Carissa Yip took top honors out of a field of elite American chess players in the <a href=\"https://www.uschesschamps.com/2023-us-championships/overview\">2023 U.S. Chess Championship and 2023 U.S. Women's Chess Championship</a>, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-champions-grandmaster-fabiano-caruana-defends-title-become-three-time-us-champion",
-         "pubDate" : "Thu, 19 Oct 2023 17:40:27",
-         "title" : "2023 U.S. Chess Champions: Grandmaster Fabiano Caruana Defends Title to Become Three-Time U.S. Champion; International Master Carissa Yip Wins Second Title in Women's Division"
       }
    ]
 }
