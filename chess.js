@@ -1216,14 +1216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-1-grandchesstour",
          "pubDate" : "Thu, 19 Oct 2023 01:14:44",
          "title" : "2023 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
-      },
-      {
-         "description" : " Blurb from the publisher, Amazon: Chess players spend hours and hours trying to memorize openings, but even Grandmasters forget their preparation. Meanwhile, memory competitors routinely memorize thousands of facts and <a href=\"http://britishchessnews.com/2023/10/19/the-chess-memory-palace/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Chess Memory Palace</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/10/19/the-chess-memory-palace/\">The Chess Memory Palace</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/10/19/the-chess-memory-palace/",
-         "pubDate" : "Thu, 19 Oct 2023 00:10:19",
-         "title" : "The Chess Memory Palace"
       }
    ]
 }
