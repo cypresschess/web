@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jozsef Pinter is 70 years old today. He is known as a long-standing and important member of the Hungarian team, having won several strong international tournaments during his career, as well as an individual gold medal at the 1984 Chess Olympiad and the first World Team Chess Championship in 1985. Pinter is also a distinguished writer and teacher.| Photo: sakkmezo.hu",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-birthday-to-grandmaster-jozsef-pinter-a-legendary-player-from-the-golden-era-of-hungarian-chess",
+         "pubDate" : "Thu, 09 Nov 2023 13:00:00",
+         "title" : "Happy Birthday to Grandmaster Jozsef Pinter, a legendary player from the golden era of Hungarian chess"
+      },
+      {
+         "description" : "The 62nd edition of the Brazilian Women's Chess Championship took place between 29 October and 4 November in Timb&oacute;, in the state of Santa Catarina. The municipality, located in the southern region of Brazil, is recognised as an important centre for the promotion of chess. The event was organised by the Brazilian Chess Federation (CBX) and the Santa Catarina Chess Federation (FCX). In the end, FM Juliana Terao won her eighth national title. | Photo: (from left to right) Marlon Rahn (arbiter), Isabelle Tamarozi (runner-up), Kathiê Librelato (fourth place), Julia Alboredo (third place) and Juliana Terao (winner). | Photo: Kaiser Mafra",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brazilian-women-s-championship-classic-rapid-and-blitz-2023",
+         "pubDate" : "Thu, 09 Nov 2023 11:44:21",
+         "title" : "Brazilian Women's Championship: Classic, Rapid and Blitz 2023"
+      },
+      {
+         "description" : "The 2023 European Team Chess Championship kicks off this Saturday in Budva, Montenegro. The event will be played from 11th to 20th November in the Conference Hall of the *****Hotel Splendid. The Championship is played in 9 rounds, swiss system, with Open and Women's sections separately. The time control will be 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every move played starting from move one. 70 teams from []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2023-starts-in-budva-montenegro/",
+         "pubDate" : "Thu, 09 Nov 2023 11:31:55",
+         "title" : "European Team Chess Championship 2023 starts in Budva, Montenegro"
+      },
+      {
          "description" : "Recruitment of meritorious sports persons in the department of posts in the cadres of postal assistant, sorting assistant, postman, mail guard and multi tasking staff.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -378,28 +402,12 @@ news_feed (
          "title" : "FIDE Grand Swiss 2023 - Games and Results"
       },
       {
-         "description" : "Marking Guy Fawkes Day in the UK, Jon Speelman goes over a number of suitably pyrotechnic games. Three correspondence-chess marvels from the 1980s are followed by recent games from the Qatar Masters and the FIDE Grand Swiss. Fire on board!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-205",
-         "pubDate" : "Sun, 05 Nov 2023 17:30:00",
-         "title" : "Jon Speelman: Fireworks old and new"
-      },
-      {
          "description" : "We've seen sports cards several times in the series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), most recently in the post <A HREF=\"https://chessforallages.blogspot.com/2019/06/cards-for-chess-champions.html\">Cards for Chess Champions</A> (June 2019). All of the auctions have been for very old cards like the 1888 Steinitz and Zukertort cards in that 'Chess Champions' series. <P> The item pictured below was titled 'Hikaru Nakamura #390 American Chess Equipment Ultimate Card Auto'. It sold for around $500, 'Best offer accepted'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk05.jpg",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/11/chess-rookie-card.html",
          "pubDate" : "Sun, 05 Nov 2023 16:56:00",
          "title" : "Chess Rookie Card"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 150th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and explains how Max Euwe was able to beat Alexander Alekhine in their 1935 World Championship match. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-146-chess-history-in-a-nutshell-5",
-         "pubDate" : "Sun, 05 Nov 2023 15:00:00",
-         "title" : "Understanding before Moving 150: Chess history in a nutshell (32)"
       },
       {
          "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
@@ -1200,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2692",
          "pubDate" : "Thu, 19 Oct 2023 13:39:06 +0000",
          "title" : "FIDE Executive Director Victor Bologan visits Kenya"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2691",
-         "pubDate" : "Thu, 19 Oct 2023 08:50:23 +0000",
-         "title" : "FIDE Women's Grand Prix Series 2024-25 - Call for bids"
       }
    ]
 }
