@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU E-Magazine October 2023 is out! In this edition of the ECU Magazine you may read about: FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 European Small Nations Team Chess Championship 2023 Upcoming European Team Chess Championship 2023 ECU Board Meeting in Tirana, Albania European Women's Chess Championship 2024 European Senior Team Chess Championship 2024 European Youth Online Nations League 2024 Activities of ECU Commissions Arbiters Corner Fun Zone The October 2023 edition of the ECU E-Magazine can []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-october-2023/",
+         "pubDate" : "Fri, 10 Nov 2023 10:15:04",
+         "title" : "ECU E-Magazine October 2023"
+      },
+      {
+         "description" : "Western Asian Juniors &#38; Girls Chess Championships 2023, 28th November to 6th December 2023, Sri Lanka. The Chess Federation of Sri Lanka under the auspices",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-juniors-girls-chess-championships-2023/",
+         "pubDate" : "Fri, 10 Nov 2023 10:01:31",
+         "title" : "Western Asian Juniors & Girls Chess Championships 2023"
+      },
+      {
          "description" : " The eight-time British champion, 51, and the eminent author, 68, edged to tiebreak victories with strong final-round performances at the world over-50 and over-65 championships Michael Adams and John Nunn scored a golden double for England at the world senior championships for over-50s and over-65s, which ended at Terrasini, Sicily, on Sunday. The pair were both top seeded, then saw their chances slip in the middle rounds before they launched decisive finishing spurts to capture their world titles. First prize in each section was €3,000. Both winners have a strong connection with Cornwall - Nunn currently resides in Bude, while Adams was raised in Truro. <a href=\"https://www.theguardian.c",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2705",
          "pubDate" : "Sat, 28 Oct 2023 12:50:38 +0000",
          "title" : "Jos&eacute; Cubas and Thalia Landeiro win 2023 Pan American Chess Esports Finals"
-      },
-      {
-         "description" : "We urge you to ensure that you don't miss out on this incredible opportunity. The National Sports Awards application is now open, and it's your",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-sports-awards-2023/",
-         "pubDate" : "Sat, 28 Oct 2023 08:25:17",
-         "title" : "National Sports Awards 2023"
       },
       {
          "description" : "At a time when Europe was blessed with an extraordinary efflorescence of giant personalities - Metternich and Talleyrand in politics, Beethoven and Schiller in the arts, Nelson and Wellington in warfare - Napoleon Bonaparte, the supreme warrior, and Goethe, the pinnacle of European culture, met face to face. In fact, they did so twice in 1808, in []",
