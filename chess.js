@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra lectures on opening preparation of the professional chess player. 2023.11.09<br /> Andrew Zheng vs. Akshat Chandra, 2016: A22 English, Bremen, Smyslov system<br /> Seth Homa vs Akshat Chandra, 27th Chicago Open (2018): A21 English, Kramnik-Shirov counterattack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2570433\">https://www.chessgames.com/perl/chessgame?gid=2570433</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramn",
+         "description" : " The eight-time British champion, 51, and the eminent author, 68, edged to tiebreak victories with strong final-round performances at the world over-50 and over-65 championships Michael Adams and John Nunn scored a golden double for England at the world senior championships for over-50s and over-65s, which ended at Terrasini, Sicily, on Sunday. The pair were both top seeded, then saw their chances slip in the middle rounds before they launched decisive finishing spurts to capture their world titles. First prize in each section was €3,000. Both winners have a strong connection with Cornwall - Nunn currently resides in Bude, while Adams was raised in Truro. <a href=\"https://www.theguardian.c",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/nov/10/chess-adams-and-nunn-score-golden-double-in-world-senior-championships",
+         "pubDate" : "Fri, 10 Nov 2023 08:00:17",
+         "title" : "Chess: Adams and Nunn score golden double in world senior championships"
+      },
+      {
+         "description" : "A bit over three years into his chess career, Faustino Oro, aged 10, continues to set record after record in Argentina. The \"golden boy\" ('oro' means gold in Spanish) became the youngest player to achieve an IM norm in history, as he broke the record previously set by Uzbek star Javokhir Sindarov. Oro is also referred to as \"the Messi of chess\", since his incredibly quick ascent has created major expectations among Argentine chess fans! | Photo: Emmanuel Fern&aacute;ndez / Clar&iacute;n",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/faustino-oro-profile-2023",
+         "pubDate" : "Fri, 10 Nov 2023 07:10:00",
+         "title" : "Faustino Oro, Argentina's golden boy, continues to impress"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra analyzes two games he played as Black against the English with the Kramnik-Shirov Counterattack (1.c4 e5 2.Nc3 Bb4). 2023.11.09<br /> Andrew Zheng vs. Akshat Chandra, 2016: A22 English, Bremen, Smyslov system<br /> Seth Homa vs Akshat Chandra, 27th Chicago Open (2018): A21 English, Kramnik-Shirov counterattack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2570433\">https://www.chessgames.com/perl/chessgame?gid=2570433</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/kramnik-shirov-counterattack-vs-english-prepare-pro-gm-akshat-chandra",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/andrew-martin-the-sharp-scandinavian-with-3-qd6",
          "pubDate" : "Mon, 06 Nov 2023 16:00:00",
          "title" : "Andrew Martin - The Sharp Scandinavian with 3...Qd6"
-      },
-      {
-         "description" : "In the end, the favourites prevailed at the Senior World Championships, but only just. Michael Adams and John Nunn had to settle for a photo finish in the two open events, the 50+ and the 65+. Monica Calzetta Ruiz and Galina Strutinskaia won the senior women's titles. | Photos: Patricia Claros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/narrow-victories-at-the-world-senior-championships",
-         "pubDate" : "Mon, 06 Nov 2023 15:33:04",
-         "title" : "Narrow victories at the World Senior Championships"
       },
       {
          "description" : "",
@@ -1232,14 +1240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/and-lfg-blitz.html",
          "pubDate" : "Fri, 20 Oct 2023 11:44:00",
          "title" : "And the LFG Blitz"
-      },
-      {
-         "description" : " The 31-year-old won his third US title and is returning to his 2018 form when he kept Magnus Carlsen close for the world title Fabiano Caruana retained his US Championship this week in his home town of St Louis, scoring an unbeaten five wins and six draws. The 31-year-old already looks a clear favourite in 2024 to win the world title which narrowly eluded him in 2018, when he drew all 12 classical games against Magnus Carlsen before losing the speed tiebreak. In the past, Caruana has seemed a reserved personality, in contrast to the outgoing and articulate Carlsen, but in the past year he has gained many new admirers through his weekly <a href=\"https://www.youtube.com/@csqpod\" title=\"\">C-Sq",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/oct/20/chess-fabiano-caruana-keeps-his-us-crown-and-heads-for-2024-candidates",
-         "pubDate" : "Fri, 20 Oct 2023 07:00:11",
-         "title" : "Chess: Fabiano Caruana keeps his US crown and heads for 2024 Candidates"
       }
    ]
 }
