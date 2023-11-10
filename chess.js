@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In chess, there are many key elements: opening theory; endgame theory; middlegame strategy; and calculation of variations, based on tactics. In every area there are the most efficient and logical ways to perform chosen manoeuvres or improvements of the positions. Generally, we call these \"technique\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/adrian-mikhalchishin-master-your-technique-manoeuvres-you-must-know",
+         "pubDate" : "Fri, 10 Nov 2023 12:00:00",
+         "title" : "Adrian Mikhalchishin: Master your technique - manoeuvres you must know"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2732",
+         "pubDate" : "Fri, 10 Nov 2023 11:44:49 +0000",
+         "title" : "FIDE World Amateur Championship 2023: Round 8 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://news.sky.com/story/chess-saved-my-life-the-ukrainians-and-russians-now-making-moves-for-england-13003956#new_tab",
+         "pubDate" : "Fri, 10 Nov 2023 11:44:28",
+         "title" : "'Chess saved my life': The Ukrainians and Russians now making moves for England"
+      },
+      {
          "description" : "The ECU E-Magazine October 2023 is out! In this edition of the ECU Magazine you may read about: FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 European Small Nations Team Chess Championship 2023 Upcoming European Team Chess Championship 2023 ECU Board Meeting in Tirana, Albania European Women's Chess Championship 2024 European Senior Team Chess Championship 2024 European Youth Online Nations League 2024 Activities of ECU Commissions Arbiters Corner Fun Zone The October 2023 edition of the ECU E-Magazine can []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/faustino-oro-profile-2023",
          "pubDate" : "Fri, 10 Nov 2023 07:10:00",
          "title" : "Faustino Oro, Argentina's golden boy, continues to impress"
+      },
+      {
+         "description" : "It is one of the top places to study in the world, a seat of learning renowned for educating some of the brightest minds in history. But Harvard University&#38;rsquo;s reputation has never been tested against FM Tani Adewumi and IM Alice Lee! ChessK...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/harvard-takes-on-the-chesskids",
+         "pubDate" : "Fri, 10 Nov 2023 04:16:16 -0800",
+         "title" : "Harvard Takes On The ChessKids: Can A Top University's Bright Young Things Beat Tani And Alice"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra analyzes two games he played as Black against the English with the Kramnik-Shirov Counterattack (1.c4 e5 2.Nc3 Bb4). 2023.11.09<br /> Andrew Zheng vs. Akshat Chandra, 2016: A22 English, Bremen, Smyslov system<br /> Seth Homa vs Akshat Chandra, 27th Chicago Open (2018): A21 English, Kramnik-Shirov counterattack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2570433\">https://www.chessgames.com/perl/chessgame?gid=2570433</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
@@ -400,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-5",
          "pubDate" : "Mon, 06 Nov 2023 16:21:04",
          "title" : "Endgame Magic #254 - with Ted Jewell: Highlights from the German Bundesliga (Part 2)"
-      },
-      {
-         "description" : "„Easy to learn and easy to play.\" These are the twin pillars on which the Modern Scandinavian has been built and which club players have trusted and profited from over the past few decades. Which line should Black adopt after 1 e4 d5 2 exd5 Qxd5 3 Nc3? Here we focus on the sharp 3...Qd6 as opposed to 3...Qa5 or 3... Qd8. All the main responses aside from 3 Nc3 are shown in exemplary games and the result is an insightful overview for club players which will stand the test of time and not require too much burning of the midnight oil.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-the-sharp-scandinavian-with-3-qd6",
-         "pubDate" : "Mon, 06 Nov 2023 16:00:00",
-         "title" : "Andrew Martin - The Sharp Scandinavian with 3...Qd6"
       },
       {
          "description" : "",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "FIDE Grand Swiss: Trench warfare in Round 2"
       },
       {
-         "description" : "After round two of the 2023 FIDE Grand Swiss, seven players are on a perfect score in the Open and five in the Women&#39;s.&#38;nbsp; In the Open, top seed GM Fabiano Caruana beat GM Hans Niemann and broke 2800 in the live ratings for the first time sin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-2",
-         "pubDate" : "Thu, 26 Oct 2023 17:07:00",
-         "title" : "Caruana Beats Niemann, Returns To 2800 Club"
-      },
-      {
          "description" : "He is an internist, a gastroenterologist at a Berlin hospital. He is also an avid chess player. And a photographer, who founded the Valokulta art group. Dr Jan W&auml;hner has sent us some extraordinary pictures from the 2024 calendar, for which his good friend GM Dr Helmut Pfleger has written the foreword.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/qatar-masters-open-2023",
          "pubDate" : "Fri, 20 Oct 2023 12:41:00",
          "title" : "Qatar Masters Open 2023 - Games and Results"
-      },
-      {
-         "description" : " After the completion of the LFG Round Robin, most of the players took part in a blitz round robin. Once again Harry Press proved to be the strongest player, winning with 7/8 (losing only to Fred Litchfield). Litchfield and Malik Amer tied for 2nd on 5.5/8. I didn't do quite as poorly in this event scoring 4/8 (+3=2-3) although once again my tournament run was derailed by a loss to Harry Press. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/and-lfg-blitz.html",
-         "pubDate" : "Fri, 20 Oct 2023 11:44:00",
-         "title" : "And the LFG Blitz"
       }
    ]
 }
