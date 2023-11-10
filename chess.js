@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra lectures on opening preparation of the professional chess player. 2023.11.09<br /> Andrew Zheng vs. Akshat Chandra, 2016: A22 English, Bremen, Smyslov system<br /> Seth Homa vs Akshat Chandra, 27th Chicago Open (2018): A21 English, Kramnik-Shirov counterattack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2570433\">https://www.chessgames.com/perl/chessgame?gid=2570433</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kramn",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kramnik-shirov-counterattack-vs-english-prepare-pro-gm-akshat-chandra",
+         "pubDate" : "Fri, 10 Nov 2023 01:40:04",
+         "title" : "Kramnik-Shirov Counterattack vs. The English | Prepare Like A Pro - GM Akshat Chandra"
+      },
+      {
          "description" : "Wally and K&auml;the Henschel were twins, born in Hamburg on 09.09.1893. In the 1920s and 1930s they were among the best players in Hamburg, and in 1930 Wally even beat Vera Menchik at the Women's World Championship Tournament in Hamburg - the only game Menchik ever lost in a Women's World Championship Tournament. But after the Kristallnacht pogrom on 9 November 1938, the twins, who came from a Jewish family, decided to flee to the USA, where they went on to play in the U.S. Women's Championships and where Wally may even have played against Bobby Fischer. | Photo: The Henschel family",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
