@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Albin's Counter Gambit (1.d4 d5 2.c4 e5) has been, and still is, a rare guest at top level tournaments, and is hardly ever seen in the practice of the world champions. The variation is considered theoretically dubious and as an overly aggressive attempt to gain counterplay in the rather solid Queen's Gambit. However, the opening has found its way into literature - in the novel \"Gambit\" by American crime writer Rex Stout.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-as-setting-gambit-by-rex-stout",
+         "pubDate" : "Fri, 10 Nov 2023 20:00:00",
+         "title" : "Chess as literary setting: \"Gambit\" by Rex Stout"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King tests viewers' tactical and calculating skills using games from the FIDE Grand Swiss. Some exercises are very easy, and some the opposite - and there is some real beauty here too! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://aicf.in/western-asian-juniors-girls-chess-championships-2023/",
          "pubDate" : "Fri, 10 Nov 2023 10:01:31",
          "title" : "Western Asian Juniors & Girls Chess Championships 2023"
+      },
+      {
+         "description" : "Chess.com is excited to announce the release of our new Chess.com Superfan Reactions app on iOS. You can now express your love for the game by sending chess-related stickers, GIFs, and YouTube videos directly through iMessage.&#38;nbsp; The app i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-superfan-app-ios",
+         "pubDate" : "Fri, 10 Nov 2023 09:54:41 -0800",
+         "title" : "Send The Perfect Text Message With The New iOS Chess.com Superfan App"
       },
       {
          "description" : " The eight-time British champion, 51, and the eminent author, 68, edged to tiebreak victories with strong final-round performances at the world over-50 and over-65 championships Michael Adams and John Nunn scored a golden double for England at the world senior championships for over-50s and over-65s, which ended at Terrasini, Sicily, on Sunday. The pair were both top seeded, then saw their chances slip in the middle rounds before they launched decisive finishing spurts to capture their world titles. First prize in each section was €3,000. Both winners have a strong connection with Cornwall - Nunn currently resides in Bude, while Adams was raised in Truro. <a href=\"https://www.theguardian.c",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-mizzou-utdallas",
          "pubDate" : "Tue, 07 Nov 2023 09:37:13 -0800",
          "title" : "Mizzou, UT Dallas Lead Ahead Of Playoffs & SIG Predictions Challenge Is Here"
-      },
-      {
-         "description" : "Calculating precisely and keeping an open mind for possible candidate moves is an important skill in chess. In the diagram position it is White to move and win. What should she do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/keeping-an-open-mind",
-         "pubDate" : "Tue, 07 Nov 2023 09:00:00",
-         "title" : "Keeping an open mind"
       },
       {
          "description" : "World Chess has announced the release of the first-ever chess map of the world, one that blends the intricate worlds of chess and geography. This unique cartographic creation, where continents and places are crafted from chess openings with geographical names, promises to be a collector's delight.",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2704",
          "pubDate" : "Fri, 27 Oct 2023 22:17:52 +0000",
          "title" : "FIDE Grand Swiss: King's Representative sparks excitement in Round 3 "
-      },
-      {
-         "description" : "We are three rounds into the 2023 FIDE Grand Swiss and nobody&#39;s left on a perfect score in the Open. In the Women&#39;s, two players won to continue their perfect run. GMs Tan Zhongyi and Anna Muzychuk are the two players left with a perfect score a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-3",
-         "pubDate" : "Fri, 27 Oct 2023 15:25:00",
-         "title" : "Vaishali Plays Brilliancy As Anna Muzychuk, Tan Take Lead"
       },
       {
          "description" : "Many Chess improvers are stuck because they ask the wrong questions. The most common example is (once again...) openings. Most people try to answer the following question: How can I have the best possible opening repertoire?\" 1) This question is not that important. 2) It is never-ending. Trying to answer this question will cost you a lot of money (invested in the latest \"best opening course\") and time. Quality Questions create a quality life. Successful people ask better questions, and as a...",
