@@ -58,12 +58,28 @@ news_feed (
          "title" : "Advik and Samhita National Under-9 Champions"
       },
       {
+         "description" : "The 2023 Women&#38;rsquo;s Speed Chess Championship starts on November 13, promising plenty of fast and furious action for speed chess fans to enjoy. Eight of the game&#39;s quickest-thinking women will compete to see who will be crowned as this year&#39;s WS...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wscc-bracket-contest",
+         "pubDate" : "Thu, 09 Nov 2023 14:33:05 -0800",
+         "title" : "Submit Your Predictions For The 2023 WSCC Bracket Contest"
+      },
+      {
          "description" : " Short answer - Nowhere Longer answer - overrun with work But best answer - Growing my moustache for Movember. You can donate at <a href=\"https://movember.com/m/shaunpress?mc=1\">https://movember.com/m/shaunpress?mc=1</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/11/where-has-shaun-gone.html",
          "pubDate" : "Thu, 09 Nov 2023 13:34:00",
          "title" : "Where has Shaun gone?"
+      },
+      {
+         "description" : "IM Polina Shuvalova and WGM Priyanka Nutakki earned their seats in the Julius Baer Women&#39;s Speed Chess Championship 2023 after emerging on top of a two-day qualifier, which was a 14-round Swiss followed by a double-elimination knockout. The main...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-qualifier-shuvalova-priyanka-win",
+         "pubDate" : "Thu, 09 Nov 2023 13:19:00 -0800",
+         "title" : "Shuvalova, Priyanka Qualify For Julius Baer WSCC 2023"
       },
       {
          "description" : "Jozsef Pinter is 70 years old today. He is known as a long-standing and important member of the Hungarian team, having won several strong international tournaments during his career, as well as an individual gold medal at the 1984 Chess Olympiad and the first World Team Chess Championship in 1985. Pinter is also a distinguished writer and teacher.| Photo: sakkmezo.hu",
@@ -1080,22 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2700",
          "pubDate" : "Wed, 25 Oct 2023 22:15:34 +0000",
          "title" : "FIDE Grand Swiss: Day 1 Recap"
-      },
-      {
-         "description" : "32 players lead the&#38;nbsp;2023 FIDE Grand Swiss and 15 in the 2023 FIDE Women&#39;s Grand Swiss after round one. In the Open, top seed GM Fabiano Caruana leads the pack after winning a spectacular game against GM Ivan Saric. Other notable wins (of ma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-1",
-         "pubDate" : "Wed, 25 Oct 2023 15:54:00",
-         "title" : "Caruana Leads Pack Of 32 Winners"
-      },
-      {
-         "description" : "The green pawn took over TwitchCon! With the rise of chess on Twitch in the past three years, we&#38;rsquo;ve seen more and more streamers eager to try the game, whether online or over the board. Since PogChamps launched three years ago and skyrockete...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-takes-over-twitchcon",
-         "pubDate" : "Wed, 25 Oct 2023 15:24:00",
-         "title" : "Chess.com Takes Over TwitchCon"
       },
       {
          "description" : " The World Seniors is one event that seems to grow in popularity each year. The 2023 edition begins today in Italy, with 300 players across 3 sections (50+, 65+ and Women's 50+). Each event is headed by a GM, with Michael Adams the top seed in the 50+, John Nunn in the 65+ and Nona Gaprindashvili in the Women's. Australia only has one representative (Aurel John-Buciu) but New Zealand has 7. There are also 27 GM's playing across the event, with 16 in the 50+ Due to the timezone difference I don't think the frst round has started just yet, but you should be able to keep up with the tournament at <a href=\"https://www.worldseniorchess2023.com\">https://www.worldseniorchess2023.com</a> ",
