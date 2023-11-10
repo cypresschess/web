@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King tests viewers' tactical and calculating skills using games from the FIDE Grand Swiss. Some exercises are very easy, and some the opposite - and there is some real beauty here too! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-tactics-training",
+         "pubDate" : "Fri, 10 Nov 2023 17:00:00",
+         "title" : "Daniel King's Power Play Show: Tactics training"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2733",
+         "pubDate" : "Fri, 10 Nov 2023 16:01:26 +0000",
+         "title" : "ACP Prize established to support young players"
+      },
+      {
+         "description" : "The first round of the Saint Louis Rapid & Blitz will take place on 14 November. This will be followed by three days of rapid chess and two days of blitz. After a short break, the Sinquefield Cup, a ten-player round-robin with classical time control, begins on 21 November. Last year's match between Magnus Carlsen and Hans Niemann caused quite a stir. Neither will be taking part this time. | Photo: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-final-in-st-louis",
+         "pubDate" : "Fri, 10 Nov 2023 15:00:00",
+         "title" : "Grand Chess Tour final in St Louis"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105129568.cms\" />In another show of Indian players ruling the roost in international chess meets, city Grandmasters Deep Sengupta and Sayantan Das finished 1-2 at the Cap d'Agde International Open tournament in France earlier this week.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-deep-sengupta-and-sayantan-das-finish-1-2-in-france/articleshow/105129568.cms",
+         "pubDate" : "Fri, 10 Nov 2023 14:11:14 +0000",
+         "title" : "Indian Grandmasters Deep and Sayantan finish 1-2 in France"
+      },
+      {
          "description" : "In chess, there are many key elements: opening theory; endgame theory; middlegame strategy; and calculation of variations, based on tactics. In every area there are the most efficient and logical ways to perform chosen manoeuvres or improvements of the positions. Generally, we call these \"technique\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,11 +90,11 @@ news_feed (
          "title" : "Faustino Oro, Argentina's golden boy, continues to impress"
       },
       {
-         "description" : "It is one of the top places to study in the world, a seat of learning renowned for educating some of the brightest minds in history. But Harvard University&#38;rsquo;s reputation has never been tested against FM Tani Adewumi and IM Alice Lee! ChessK...",
+         "description" : "It is one of the top places to study in the world, a seat of learning renowned for educating some of the brightest minds in history. But Harvard University&#39;s reputation has never been tested against FM Tani Adewumi and IM Alice Lee! ChessKid&#39;s t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/harvard-takes-on-the-chesskids",
-         "pubDate" : "Fri, 10 Nov 2023 04:16:16 -0800",
+         "pubDate" : "Fri, 10 Nov 2023 04:16:00 -0800",
          "title" : "Harvard Takes On The ChessKids: Can A Top University's Bright Young Things Beat Tani And Alice"
       },
       {
@@ -416,22 +448,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-grand-swiss-2023-concluded-in-the-isle-of-man/",
          "pubDate" : "Mon, 06 Nov 2023 21:00:36",
          "title" : "FIDE Grand Swiss 2023 concluded in the Isle of Man"
-      },
-      {
-         "description" : "Robert H&uuml;bner is the best German chess player since Emanuel Lasker. At the height of his career, the grandmaster from Cologne was ranked third in the world behind Karpov and Korchnoi. With his scientific training, H&uuml;bner also took a scientific interest in the game of chess. The multiple World Championship candidate turns 75 today. | Photo: Robert H&uuml;bner during a lecture about a game he played in Tilburg 1985 against Ljubomir Ljubojevic (Photo: Hartmut Metz)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-birthday-robert-huebner-turns-75",
-         "pubDate" : "Mon, 06 Nov 2023 19:00:00",
-         "title" : "Happy birthday: Robert H&uuml;bner turns 75!"
-      },
-      {
-         "description" : "In the Endgame Magic Show #254 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights from the first two rounds of the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-5",
-         "pubDate" : "Mon, 06 Nov 2023 16:21:04",
-         "title" : "Endgame Magic #254 - with Ted Jewell: Highlights from the German Bundesliga (Part 2)"
       },
       {
          "description" : "",
@@ -1240,22 +1256,6 @@ news_feed (
          "link" : "https://www.thearticle.com/watch-on-the-whine/",
          "pubDate" : "Sat, 21 Oct 2023 08:59:04",
          "title" : "Watch on the Whine*"
-      },
-      {
-         "description" : "Sometimes the Top Engine move is not the move you should play in a game. This Newsletter explains why. Since Garry Kasparov famously lost his match against Deep Blue in 1995 (I wasn't even born yet), Chess computers have dominated humans. Stockfish, the strongest Chess Engine, is rated at an insane 3546, while Magnus Carlsen, the strongest human, has 2839. Chess Engines have had a positive impact on opening theory; they brought new ideas into the Chess World (the h and a-pawn pushes come to...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/the-best-chess-move/",
-         "pubDate" : "Fri, 20 Oct 2023 13:09:35",
-         "title" : "The Best Chess Move"
-      },
-      {
-         "description" : " The Qatar Masters Open took place 11th to 20th October 2023. Players: Carlsen, Nakamura, Giri, Gukesh, Abdusattorov, Erigaisi, Maghsoodloo, Jorden Van Foreest, Nihal Sarin etc. Nodirbek Yakubboev beat Nodirbek Abdusattorov 2-0 in a blitz tie-break after both scored 7/9. Narayanan, Sindarov, Nakamura, Erigaisi, Maghsoodloo and Gukesh finished on 6.5/9, Anish Giri and World Number 1 Magnus Carlsen were in a group on 6/9. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/qatar-masters-open-2023",
-         "pubDate" : "Fri, 20 Oct 2023 12:41:00",
-         "title" : "Qatar Masters Open 2023 - Games and Results"
       }
    ]
 }
