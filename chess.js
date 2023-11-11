@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fernando Peralta defended his national title in the 98th Argentine Chess Championship. A native of Lomas de Zamora, he won this event for the fifth time, following his success in 2006, 2018, 2020 and 2022. Peralta defeated Federico P&eacute;rez Ponsa in a two-game rapid playoff to take the title. Leonardo Krysa and Pablo Actosta tied for third place, netting 7/11 points each. | Photos: Federaci&oacute;n Argentina de Ajedrez",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/argentine-championship-2023-peralta-wins",
+         "pubDate" : "Sat, 11 Nov 2023 13:05:00",
+         "title" : "Argentine Championship: Fernando Peralta wins fifth title"
+      },
+      {
+         "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/christmas-chess-books/",
+         "pubDate" : "Sat, 11 Nov 2023 11:07:11",
+         "title" : "Christmas Chess Books"
+      },
+      {
          "description" : "In the diagram position, four rooks are facing each other on the b-file, separated only by the white Nb3. Your task is to skilfully resolve this visavis in White's favour - liquidation is the keyword!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/isle-of-man-chessbase-india",
          "pubDate" : "Tue, 07 Nov 2023 18:50:00",
          "title" : "Tales from the Isle of Man"
-      },
-      {
-         "description" : "On the occasion of Robert Huebner's 75th birthday yesterday, Emil Sutovsky, Grandmaster and Managing Director of FIDE, published a personal congratulation on the FIDE website and reviewed some of Robert Huebner's great achievements. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-on-the-75th-birthday-of-robert-huebner",
-         "pubDate" : "Tue, 07 Nov 2023 15:34:33",
-         "title" : "FIDE: On the 75th birthday of Robert Huebner"
       },
       {
          "description" : "British chess has gotten another boost as legends GM Michael Adams (50+) and GM John Nunn (65+) both secured gold medals in the World Senior Championship last week. WGM Monica Calzetta Ruiz (50+) from Spain and WGM Galina Strutinskaia (65+) won wo...",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2694",
          "pubDate" : "Sat, 21 Oct 2023 21:01:14 +0000",
          "title" : "WCCC 2023 passes its midpoint"
-      },
-      {
-         "description" : "Sackcloth and ashes, dear readers, wailing and gnashing of teeth: Magnus Carlsen has lost another game. This time the world number 1 fell victim to 23-year old Alisher Suleymenov. The Kazakh player has enjoyed an annus mirabilis, as he only received his Grandmaster title this year. Moreover, Carlsen did not just lose, he was annihilated. The last time he had lost to a sub-2520 player under []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/watch-on-the-whine/",
-         "pubDate" : "Sat, 21 Oct 2023 08:59:04",
-         "title" : "Watch on the Whine*"
       }
    ]
 }
