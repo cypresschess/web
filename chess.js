@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Sat, 11 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
          "description" : "Fernando Peralta defended his national title in the 98th Argentine Chess Championship. A native of Lomas de Zamora, he won this event for the fifth time, following his success in 2006, 2018, 2020 and 2022. Peralta defeated Federico P&eacute;rez Ponsa in a two-game rapid playoff to take the title. Leonardo Krysa and Pablo Actosta tied for third place, netting 7/11 points each. | Photos: Federaci&oacute;n Argentina de Ajedrez",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-akshat-chandra",
          "pubDate" : "Tue, 07 Nov 2023 19:37:34",
          "title" : "Grandmaster's Choice - GM Akshat Chandra"
-      },
-      {
-         "description" : "Indian chess celebrated a double victory in the recent FIDE Grand Swiss events on the Isle of Man. Vidit Gujrathi and Vaishali Rameshbabu claimed outright victories in the open and the women's sections respectively. The ChessBase India team, led by Sagar Shah, travelled to the island in the Irish Sea and, as usual, produced a plethora of content!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/isle-of-man-chessbase-india",
-         "pubDate" : "Tue, 07 Nov 2023 18:50:00",
-         "title" : "Tales from the Isle of Man"
       },
       {
          "description" : "British chess has gotten another boost as legends GM Michael Adams (50+) and GM John Nunn (65+) both secured gold medals in the World Senior Championship last week. WGM Monica Calzetta Ruiz (50+) from Spain and WGM Galina Strutinskaia (65+) won wo...",
