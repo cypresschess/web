@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The 10th annual Sinquefield Cup is the fifth and final leg of the Grand Chess Tour. Eight Tour players (players below) are joined by two wildcards for a classical chess round robin, live from the World Chess Hall of Fame. Join a commentary team TBA from November 21 - December 1 at 1:20 P.M. CST. GrandChessTour.org PLAYERS<br /> Fabiano Caruana<br /> Jan-Krzysztof Duda<br /> Richard Rapport<br /> Alireza Firouzja<br /> Wesley So<br /> Ian Nepomniachtchi<br /> Maxime Vachier-Lagrave<br /> Anish Giri<br /> Levon Aronian<br /> Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-grandchesstour-promo",
+         "pubDate" : "Sat, 11 Nov 2023 01:41:13",
+         "title" : "2023 Sinquefield Cup | #GrandChessTour | PROMO"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
