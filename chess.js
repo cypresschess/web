@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2734",
+         "pubDate" : "Fri, 10 Nov 2023 22:37:42 +0000",
+         "title" : "Winners crowned at World Amateurs Chess Championship 2023"
+      },
+      {
+         "description" : " The 24th European Team Chess Championship takes place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany compete in the women's event alongside.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/24th-european-team-chess-championship-2023",
+         "pubDate" : "Fri, 10 Nov 2023 20:56:00",
+         "title" : "24th European Team Chess Championship 2023 - Games and Results"
+      },
+      {
          "description" : "Albin's Counter Gambit (1.d4 d5 2.c4 e5) has been, and still is, a rare guest at top level tournaments, and is hardly ever seen in the practice of the world champions. The variation is considered theoretically dubious and as an overly aggressive attempt to gain counterplay in the rather solid Queen's Gambit. However, the opening has found its way into literature - in the novel \"Gambit\" by American crime writer Rex Stout.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
