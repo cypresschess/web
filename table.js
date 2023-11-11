@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-11-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202311105332 target='_blank'>REBECCA CHESS CLUB QUADS NOVEMBER 10, 2023</a>",
 "HOUSTON","2023-11-03  - 11-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202311053212 target='_blank'>$3,000 STUDIO  NOV 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-11-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311042062 target='_blank'>CHESSPANDA11042023SATURDAY</a>",
 "HOUSTON","2023-11-03","10","<a href=http://www.uschess.org/msa/XtblMain.php?202311033862 target='_blank'>WBCC NOVEMBER SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-04-29","556","<a href=http://www.uschess.org/msa/XtblMain.php?202304294212 target='_blank'>TH ROGERS SCHOLASTIC MAY 2023</a>",
 "CYPRESS","2023-04-28","31","<a href=http://www.uschess.org/msa/XtblMain.php?202304283222 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-04-28","25","<a href=http://www.uschess.org/msa/XtblMain.php?202304283082 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-04-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304283062 target='_blank'>FBCC 2023 NATIONAL SUPERHERO DAY OP</a>",
 ]);
