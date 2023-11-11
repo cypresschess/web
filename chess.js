@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, four rooks are facing each other on the b-file, separated only by the white Nb3. Your task is to skilfully resolve this visavis in White's favour - liquidation is the keyword!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/timeless-technique",
+         "pubDate" : "Sat, 11 Nov 2023 09:00:00",
+         "title" : "Timeless technique"
+      },
+      {
+         "description" : "The 2023 European Team Chess Championship was officially opened yesterday evening. The Opening ceremony took place in Hotel Splendid, the official hotel and the playing venue of the tournament. The ceremony was inaugurated with the intonations of the ECU and Montenegro anthems. The President of the Chess Federation of Montenegro Mr. Jovan Milovic then took the floor and welcomed the players and distinguished guests. &#8220;I am very proud that we organize the European Team Chess Championship two months before the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2023-officially-opened-in-budva-montenegro/",
+         "pubDate" : "Sat, 11 Nov 2023 07:42:08",
+         "title" : "European Team Chess Championship 2023 officially opened in Budva, Montenegro"
+      },
+      {
+         "description" : " Back in 2002, The Chess Drum ran a short article by Dan Lucas that mentioned the U.S. possibly being the host of the 2004 Chess Olympiad. It was during a time of transition for U.S. Chess and at the time, Florida was vying to become the center of U.S. and world chess. The World Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/\">When will the U.S. host a Chess Olympiad?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/",
+         "pubDate" : "Sat, 11 Nov 2023 05:09:47",
+         "title" : "When will the U.S. host a Chess Olympiad?"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The 10th annual Sinquefield Cup is the fifth and final leg of the Grand Chess Tour. Eight Tour players (players below) are joined by two wildcards for a classical chess round robin, live from the World Chess Hall of Fame. Join a commentary team TBA from November 21 - December 1 at 1:20 P.M. CST. GrandChessTour.org PLAYERS<br /> Fabiano Caruana<br /> Jan-Krzysztof Duda<br /> Richard Rapport<br /> Alireza Firouzja<br /> Wesley So<br /> Ian Nepomniachtchi<br /> Maxime Vachier-Lagrave<br /> Anish Giri<br /> Levon Aronian<br /> Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -432,14 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-on-the-75th-birthday-of-robert-huebner",
          "pubDate" : "Tue, 07 Nov 2023 15:34:33",
          "title" : "FIDE: On the 75th birthday of Robert Huebner"
-      },
-      {
-         "description" : "With a last-round-win Czech Grandmaster Jiri Stocek won the 26. Open International Bavarian Championships ahead of GM Maxime Lagarde from France. Both players finished with 7.5/9, but Stocek had the better tiebreak. German International Master Roven Vogel won bronze and made his third and final GM-norm. | Photos: Sandra Schmidt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jiri-stocek-wins-open-bavarian-championship",
-         "pubDate" : "Tue, 07 Nov 2023 14:00:00",
-         "title" : "Jiri Stocek wins Open Bavarian Championship"
       },
       {
          "description" : "British chess has gotten another boost as legends GM Michael Adams (50+) and GM John Nunn (65+) both secured gold medals in the World Senior Championship last week. WGM Monica Calzetta Ruiz (50+) from Spain and WGM Galina Strutinskaia (65+) won wo...",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2696",
          "pubDate" : "Mon, 23 Oct 2023 08:53:01 +0000",
          "title" : "Important changes to the 2024 Women's Grand Prix series"
-      },
-      {
-         "description" : "European Chess Federation in cooperation with the English Chess Federation invite all the European National Chess Federations to the European Youth Online Nations League which will take place from 17 January to 13 March 2024 on the Tornelo Online platform.&#160; The European Youth Online Nations League will be a Team Swiss competition, played in 9 rounds. The scoring will be run on Match points (2 for a match win, 1 for a match draw). The time limit is all moves []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-online-nations-league-2024-official-invitation/",
-         "pubDate" : "Mon, 23 Oct 2023 08:17:02",
-         "title" : "European Youth Online Nations League 2024 - Official invitation"
       },
       {
          "description" : "",
