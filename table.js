@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2023-11-10","26","<a href=http://www.uschess.org/msa/XtblMain.php?202311105742 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2023-11-10","23","<a href=http://www.uschess.org/msa/XtblMain.php?202311105452 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-11-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202311105332 target='_blank'>REBECCA CHESS CLUB QUADS NOVEMBER 10, 2023</a>",
 "HOUSTON","2023-11-03  - 11-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202311053212 target='_blank'>$3,000 STUDIO  NOV 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-11-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311042062 target='_blank'>CHESSPANDA11042023SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2023-05-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202305056852 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-04-29","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304295522 target='_blank'>SATURDAY ADULT QUADS - APRIL 29</a>",
 "HOUSTON","2023-04-29","556","<a href=http://www.uschess.org/msa/XtblMain.php?202304294212 target='_blank'>TH ROGERS SCHOLASTIC MAY 2023</a>",
-"CYPRESS","2023-04-28","31","<a href=http://www.uschess.org/msa/XtblMain.php?202304283222 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2023-04-28","25","<a href=http://www.uschess.org/msa/XtblMain.php?202304283082 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
