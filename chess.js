@@ -10,6 +10,22 @@ news_feed (
          "title" : "2023 European Team Championship kicks off in Budva, Montenegro"
       },
       {
+         "description" : "GM Mads Andersen took down Super-GM Shakhriyar Mamedyarov as 2023 European Team Chess Championship favorites Azerbaijan lost to 20th-seed Denmark. World number-one Magnus Carlsen started the event in Budva, Montenegro, with a smooth win over GM Je...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-1",
+         "pubDate" : "Sat, 11 Nov 2023 18:52:00 -0800",
+         "title" : "Carlsen Wins, Mamedyarov Beaten As Top Seeds Crash To Defeat"
+      },
+      {
+         "description" : "GM Hikaru Nakamura finished first in Saturday&#39;s $1,000 Bullet Brawl after GM Daniel Naroditsky fell agonizingly short of wresting the title from his rival&#39;s grasp. A single point was all that split the all-time leaders after two hours of play, and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-11-2023",
+         "pubDate" : "Sat, 11 Nov 2023 18:28:03 -0800",
+         "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
+      },
+      {
          "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1088,22 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2706",
          "pubDate" : "Sat, 28 Oct 2023 22:08:43 +0000",
          "title" : "Four slow Slavs in Round 4 of FIDE Grand Swiss"
-      },
-      {
-         "description" : "GM Andrey Esipenko broke into sole first with 3.5/4 at the 2023 FIDE Grand Swiss after winning with Black against World Junior Champion Marc&#39;Andria Maurizzi. Pursuing him are 17 players, half a point behind. After a slow start, GM Hikaru Nakamur...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-4",
-         "pubDate" : "Sat, 28 Oct 2023 18:31:00",
-         "title" : "Esipenko Leads In Open, 4-Way Tie In Women's"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk won October&#39;s fourth and final Bullet Brawl after he scored 74 wins, one draw, and four losses on his way to a commanding 283 score. The $400 winner was challenged by GMs David Paravyan and Jose Martinez, who earned $250 and $...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-october-28-2023",
-         "pubDate" : "Sat, 28 Oct 2023 16:32:00",
-         "title" : "Bortnyk Scores 74/79 In Bullet Brawl"
       },
       {
          "description" : " CM Helen Milligan is a regular competitor on the seniors circuit. Having just finished playing in the 2023 Asian Seniors, she immediately travelled to Italy for the 2023 World Seniors. After starting with 1.5/2, she found that he 3rd round opponent was former World Champion GM Nona Gaprindashvili. If she might have felt nervous before the game about playing such a legend, it did not show during the game, where she looked to be the player making most of the threats. Towards the end Gaprindashvili went for a line where she had 2 pieces for the rook, but some nice tactics from Milligan restored the material balance, and the game was agreed draw in a position still slightly favouring Milligan. ",
