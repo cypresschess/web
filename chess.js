@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Raymond Keene OBE is an English chess grandmaster, a FIDE International Arbiter, a chess organiser, and a journalist and author. He won the British Chess Championship in 1971 and was the first player from England to earn a Grandmaster norm, in 1974. In 1976, he became the second Englishman (following Tony Miles) to be awarded the Grandmaster title. Today we reproduce an insightful interview with Keene as it appeared in the current issue of the magazine CHESS.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-a-legend",
+         "pubDate" : "Sun, 12 Nov 2023 07:45:00",
+         "title" : "Interview with a legend"
+      },
+      {
+         "description" : "The European Team Chess Championship 2023 kicked off today with the first round in Hotel Splendid, Budva, Montenegro. ECU President Mr. Zurab Azmaiparashvili made the first ceremonial move on the top Women's match between Georgia and Israel. Azmaiparashvili played 1.d4 for GM Nino Batsiashvili (GEO, 2487) who played against IM Marsel Efroimski (ISR, 2448). ECU Honorary Vice President and Vice President of the Montenegro Chess Federation Mr. Veselin Draskovic played the first ceremonial move in the game between GM Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2023-kicked-off-with-round-1/",
+         "pubDate" : "Sun, 12 Nov 2023 07:33:45",
+         "title" : "European Team Chess Championship 2023 kicked off with Round 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2728",
          "pubDate" : "Tue, 07 Nov 2023 23:08:43 +0000",
          "title" : "EDU Commission announces its 12th Preparation of Teachers course"
-      },
-      {
-         "description" : "How do you train, what do you train, why do you train and how useful is it to train or play chess at all? These and a whole series of other questions were answered by the Slovakian grandmaster, successful author and renowned coach Jan Markos in a ChessBase interview with Johannes Fischer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-training-life-etc-an-interview-with-jan-markos",
-         "pubDate" : "Tue, 07 Nov 2023 20:00:00",
-         "title" : "Chess, training, life, etc. - an interview with Jan Markos"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a chess class about pins. Maybe you can spot a pin in a puzzle, but how do you set up a pin in a real game? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/44WFJaBjNsY.jpg?itok=KbkrODuh\" alt=\"\" /></a></div>",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2698",
          "pubDate" : "Tue, 24 Oct 2023 21:15:25 +0000",
          "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
-      },
-      {
-         "description" : "The 2023 FIDE Grand Swiss and FIDE Women's Grand Swiss will take place from 25th October to 5th November in Douglas, Isle of Man. Both events are part of the qualifications for the current World Championship cycle, with the top two players in the open event qualifying for the 2024 Candidates Tournament and the top two players in the Women's Grand Swiss qualifying for the 2024 Women's Candidates. The events will be played in 11 rounds, Swiss System, with 164 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-grand-swiss-2023-starts-in-the-isle-of-man/",
-         "pubDate" : "Tue, 24 Oct 2023 06:25:47",
-         "title" : "FIDE Grand Swiss 2023 starts in the Isle of Man"
       },
       {
          "description" : "",
