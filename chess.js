@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 151st episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-151-chess-history-in-a-nutshell-33",
+         "pubDate" : "Sun, 12 Nov 2023 15:00:00",
+         "title" : "Understanding before Moving 151: Chess history in a nutshell (33)"
+      },
+      {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Sun, 12 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2736",
+         "pubDate" : "Sun, 12 Nov 2023 13:55:06 +0000",
+         "title" : "FIDE Trainer Awards 2023 - Call for nominations"
+      },
+      {
+         "description" : "The European Team Championship kicked off with a big surprise on the top board. Azerbaijan, the rating favourites, were defeated by Denmark, as Shakhriyar Mamedyarov lost to Mads Andersen after his attempt at a winning attack backfired. Romania, the second seeds, only drew Austria, while Norway also got a draw against Slovakia despite Magnus Carlsen winning his game on the top board. In the women's event, the most shocking result on the top boards was Greece holding Germany to a draw. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r1",
+         "pubDate" : "Sun, 12 Nov 2023 13:20:00",
+         "title" : "Euro Teams: Denmark upset Azerbaijan as Andersen beats Mamedyarov"
+      },
+      {
          "description" : "Raymond Keene OBE is an English chess grandmaster, a FIDE International Arbiter, a chess organiser, and a journalist and author. He won the British Chess Championship in 1971 and was the first player from England to earn a Grandmaster norm, in 1974. In 1976, he became the second Englishman (following Tony Miles) to be awarded the Grandmaster title. Today we reproduce an insightful interview with Keene as it appeared in the current issue of the magazine CHESS.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-11-2023",
          "pubDate" : "Sat, 11 Nov 2023 18:28:03 -0800",
          "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Sat, 11 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
       },
       {
          "description" : "Fernando Peralta defended his national title in the 98th Argentine Chess Championship. A native of Lomas de Zamora, he won this event for the fifth time, following his success in 2006, 2018, 2020 and 2022. Peralta defeated Federico P&eacute;rez Ponsa in a two-game rapid playoff to take the title. Leonardo Krysa and Pablo Actosta tied for third place, netting 7/11 points each. | Photos: Federaci&oacute;n Argentina de Ajedrez",
@@ -386,14 +410,6 @@ news_feed (
          "title" : "Endgame: Remembering Michael Gambon (1940-2023)"
       },
       {
-         "description" : "The ancient city of Samarkand, Uzbekistan, is set to host the 2023 FIDE World Rapid and Blitz Championships from December 26 to 30. This five-day tournament will gather the world's top chess players, vying for the title of the World Champion in Rapid and Blitz across the Open and Women's categories. | Photo: Ekrem Canli",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-championships-2023-to-take-place-in-samarkand-uzbekistan",
-         "pubDate" : "Wed, 08 Nov 2023 12:48:01",
-         "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
-      },
-      {
          "description" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan. The FIDE World Rapid and Blitz Championships are prestigious international chess tournaments",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-4th-tamil-nadu-im-norm-tournament/",
          "pubDate" : "Wed, 08 Nov 2023 10:03:57",
          "title" : "Live games link for 4th Tamil Nadu IM norm tournament"
-      },
-      {
-         "description" : "Chris Ward couldn't resist showing us a wonderful game of Arjun Erigaisi, defeating Ian Nepomniachtchi with the Dragon. Apparently, Erigaisi is watching the Monthly Dragon, since he used the advice by Chris, of last month's episode! But the Indian GM used a quite interesting path to keep the game going, which is normally used by club players.| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-erigaisi-defeats-nepo-with-the-dragon",
-         "pubDate" : "Wed, 08 Nov 2023 10:00:00",
-         "title" : "The Monthly Dragon - Erigaisi defeats Nepo with the Dragon"
       },
       {
          "description" : "In the November 7 edition of Titled Tuesday, GM Magnus Carlsen finally joined the list of players to win both tournaments on a single day, becoming the sixth player to pull off the feat. After a come-from-behind early win, where Carlsen was only t...",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2696",
          "pubDate" : "Mon, 23 Oct 2023 08:53:01 +0000",
          "title" : "Important changes to the 2024 Women's Grand Prix series"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2695",
-         "pubDate" : "Sun, 22 Oct 2023 16:05:42 +0000",
-         "title" : "Spanish Championship: Iturrizaga and Khademalsharieh claim titles"
       }
    ]
 }
