@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2735",
+         "pubDate" : "Sat, 11 Nov 2023 21:07:33 +0000",
+         "title" : "2023 European Team Championship kicks off in Budva, Montenegro"
+      },
+      {
          "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,22 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2695",
          "pubDate" : "Sun, 22 Oct 2023 16:05:42 +0000",
          "title" : "Spanish Championship: Iturrizaga and Khademalsharieh claim titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2693",
-         "pubDate" : "Sat, 21 Oct 2023 23:24:15 +0000",
-         "title" : "FIDE Grand Swiss brings grand expectations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2694",
-         "pubDate" : "Sat, 21 Oct 2023 21:01:14 +0000",
-         "title" : "WCCC 2023 passes its midpoint"
       }
    ]
 }
