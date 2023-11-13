@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #255 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights, this time they look at endgame gems from the Qatar Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-6",
+         "pubDate" : "Mon, 13 Nov 2023 18:00:00",
+         "title" : "Endgame Magic #255 - with Ted Jewell: Highlights from the Qatar Open 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2737",
+         "pubDate" : "Mon, 13 Nov 2023 17:14:25 +0000",
+         "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
+      },
+      {
          "description" : "The engine that drives this program has just won the Computer Chess World Championship - in July it defended its title by winning it a second year straight. But the new software is not just super-strong: it also introduces a new era of chess training. It will help you maintain a repertoire, practice playing against it, teach you how to deal with different kinds of opponents. Let the programmer tell you exactly how this works.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-official-invitation/",
          "pubDate" : "Thu, 09 Nov 2023 17:21:05",
          "title" : "European Youth Team Chess Championship 2024 - Official invitation"
-      },
-      {
-         "description" : "Over the course of their careers, Hikaru Nakamura and Fabiano Caruana have played some epic games against each other. The last one was played in the penultimate round of the Grand Swiss Tournament on the Isle of Man. Nakamura won the game and later qualified for the Candidates. In Game of the Week #593, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-593-h-nakamura-vs-f-caruana",
-         "pubDate" : "Thu, 09 Nov 2023 15:01:21",
-         "title" : "Game of the Week #593: H. Nakamura vs F. Caruana"
       },
       {
          "description" : "Advik Amit Agarwal of Maharashtra and Samhita Pungavanam of Telangana crowned as National Under-9 and National Under-9 Girls Chess Champions respectively at Jamshedpur on Wednesday.",
