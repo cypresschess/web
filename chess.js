@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The engine that drives this program has just won the Computer Chess World Championship - in July it defended its title by winning it a second year straight. But the new software is not just super-strong: it also introduces a new era of chess training. It will help you maintain a repertoire, practice playing against it, teach you how to deal with different kinds of opponents. Let the programmer tell you exactly how this works.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/presenting-fritz-19",
+         "pubDate" : "Mon, 13 Nov 2023 15:10:40",
+         "title" : "Presenting: Fritz 19"
+      },
+      {
+         "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except vouchers and ducats)!. There are some very interesting new products: like the brand new World Champion program Fritz 19, Mega Database 2024, new ChessBase Packages! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you. This is your chance!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/your-chance-discount-day-fall-3",
+         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
+         "title" : "Your chance: Discount Day Fall 2023"
+      },
+      {
+         "description" : "The Sicilian Najdorf is one of the most popular openings after 1.e4 and is part of the repertoire of almost all top players. In two volumes, the young Hamburg grandmaster presents all of White's answers and shows how Black can aggressively realise his strategic plans. With exercises and tests.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/luis-engel-najdorf-a-dynamic-grandmaster-repertoire-against-1-e4-vol-1-2",
+         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
+         "title" : "Luis Engel: Najdorf: A dynamic grandmaster repertoire against 1.e4 Vol. 1 & 2"
+      },
+      {
+         "description" : "Ivan Sokolov's long awaited \"Understanding Middlegame Strategies\" continues! The dutch Grandmaster and star coach released three new volumes on the French Winawer, Catalan Structures, and the French Tarrasch Variation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sokolov-understanding-middlegame-structures-vol-7-vol-8-vol-9",
+         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
+         "title" : "Sokolov: Understanding Middlegame Structures, Vol. 7, Vol. 8 & Vol. 9"
+      },
+      {
+         "description" : "The new Mega Database now contains over 10 million games and over 700,000 new games. With 112,000 annotated games, the Mega Database is also the largest annotated game collection in the world. The Mega Player Encyclopaedia contains 60,000 player names with over 40,000 player photos. Wow! All this is constantly being edited and expanded, e.g. with the automatic Mega Update!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mega-database-2024-more-than-700-000-new-games",
+         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
+         "title" : "Mega Database 2024: More than 700,000 new games"
+      },
+      {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Mon, 13 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : " One of the other factors in my somewhat infrequent positing is the work I am doing as the Secretary of the FIDE Qualification Commission. It isn't so much that the work is time consuming, but more that topics I may have posted about in the past are now part of my official duties, creating a conflict between public comment and private knowledge. However some queries are vague enough that I can talk about them in a non official way. One query was basically 'When are you allowed to call yourself a Grandmaster?' The obvious answer is, anytime you want. This is because that while Grandmaster is connected with chess, the title does not necessarily belong to chess (indeed it dates back to the 18th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/what-is-master.html",
+         "pubDate" : "Mon, 13 Nov 2023 12:50:00",
+         "title" : "What is a Master?"
+      },
+      {
          "description" : "After two rounds in the open section of the European Team Championship, six teams are sharing first place with 4/4 match points: Germany, France, the Netherlands, Serbia, Poland and Israel. Among the six teams standing a match point behind is Austria, who stunned Norway despite Valentin Dragnev failing to make the most of an advantageous position over Magnus Carlsen. In the women's section, Azerbaijan, France, Poland, Spain and Serbia are sharing the lead, with Spain joining the leading pack after beating the top seeds from Georgia. | Photo: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -362,22 +418,6 @@ news_feed (
          "title" : "Shuvalova, Priyanka Qualify For Julius Baer WSCC 2023"
       },
       {
-         "description" : "Jozsef Pinter is 70 years old today. He is known as a long-standing and important member of the Hungarian team, having won several strong international tournaments during his career, as well as an individual gold medal at the 1984 Chess Olympiad and the first World Team Chess Championship in 1985. Pinter is also a distinguished writer and teacher.| Photo: sakkmezo.hu",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-birthday-to-grandmaster-jozsef-pinter-a-legendary-player-from-the-golden-era-of-hungarian-chess",
-         "pubDate" : "Thu, 09 Nov 2023 13:00:00",
-         "title" : "Happy Birthday to Grandmaster Jozsef Pinter, a legendary player from the golden era of Hungarian chess"
-      },
-      {
-         "description" : "The 62nd edition of the Brazilian Women's Chess Championship took place between 29 October and 4 November in Timb&oacute;, in the state of Santa Catarina. The municipality, located in the southern region of Brazil, is recognised as an important centre for the promotion of chess. The event was organised by the Brazilian Chess Federation (CBX) and the Santa Catarina Chess Federation (FCX). In the end, FM Juliana Terao won her eighth national title. | Photo: (from left to right) Marlon Rahn (arbiter), Isabelle Tamarozi (runner-up), Kathiê Librelato (fourth place), Julia Alboredo (third place) and Juliana Terao (winner). | Photo: Kaiser Mafra",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brazilian-women-s-championship-classic-rapid-and-blitz-2023",
-         "pubDate" : "Thu, 09 Nov 2023 11:44:21",
-         "title" : "Brazilian Women's Championship: Classic, Rapid and Blitz 2023"
-      },
-      {
          "description" : "The 2023 European Team Chess Championship kicks off this Saturday in Budva, Montenegro. The event will be played from 11th to 20th November in the Conference Hall of the *****Hotel Splendid. The Championship is played in 9 rounds, swiss system, with Open and Women's sections separately. The time control will be 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every move played starting from move one. 70 teams from []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -394,44 +434,12 @@ news_feed (
          "title" : "RECRUITMENT OF MERITORIOUS SPORTS PERSONS IN THE DEPARTMENTOF POSTS"
       },
       {
-         "description" : "Magnus Carlsen's Offerspill had a stellar performance at the 2023 European Chess Club Cup. The tournament took place in D&uuml;rres, Albania at the start of October. GM Karsten M&uuml;ller found plenty of endgame highlights to share with us ChessBase readers. Find here thirteen instructive positions, with helpful, to-the-point analyses - perfect for those looking to improve their endgame abilities! | Pictured: David Anton | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2023-endgames",
-         "pubDate" : "Wed, 08 Nov 2023 23:00:00",
-         "title" : "Endgames from D&uuml;rres"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championships will take place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship will be played concurrently, with each event a 9-round Swiss tournament. Led by Shakhriyar Mamedyarov and Teimour Radjabov, the Azerbaijani team heads the starting rank in the open. In the women's event, the Georgian squad, who recently won the World Team Championship, enters as the rating favourite. | Photo: A panoramic view of Budva, via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-preview",
-         "pubDate" : "Wed, 08 Nov 2023 19:00:00",
-         "title" : "Extremely competitive European Team Championship to start in Budva"
-      },
-      {
-         "description" : "The European Team Championship for small nations is held every two years. This year it took place in Jersey. Ten teams from small European countries took part. This year's winners were Andorra, ahead of the Faroe Islands and Luxembourg. | Photos: ECU",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andorra-wins-small-nations-tournament",
-         "pubDate" : "Wed, 08 Nov 2023 17:00:00",
-         "title" : "Andorra wins \"Small Nations Tournament\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2731",
          "pubDate" : "Wed, 08 Nov 2023 16:48:21 +0000",
          "title" : "Argentine Championship 2023: Peralta wins fifth title"
-      },
-      {
-         "description" : "Michael Gambon, known to many film and Harry Potter fans as Albus Dumbledore, the headmaster in the Harry Potter films, died at the end of September at the age of 82. Originally a theatre actor, Michael Gambon became interested in chess after appearing in Samuel Beckett's \"Endgame\" and played regularly with Jason Kouchak during a joint film project. Jason Kouchak bids farewell with a song.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-remembering-michael-gambon-1940-2023",
-         "pubDate" : "Wed, 08 Nov 2023 15:00:00",
-         "title" : "Endgame: Remembering Michael Gambon (1940-2023)"
       },
       {
          "description" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan. The FIDE World Rapid and Blitz Championships are prestigious international chess tournaments",
@@ -882,12 +890,12 @@ news_feed (
          "title" : "Congratulations Bodhana!"
       },
       {
-         "description" : "Nottingham High School - Sunday 19th November 2023 - www.nottinghamhigh.co.uk - Organiser Edward Jones. Start at 10am and finish at approximately 5pm. Teams of three...",
+         "description" : "Please note this event has been cancelled ",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/two-weeks-left-to-enter-the-nscc-girls-northern-semi-final/",
          "pubDate" : "Thu, 02 Nov 2023 14:23:45",
-         "title" : "Two weeks left to enter the NSCC Girls Northern Semi-Final!"
+         "title" : "NSCC Girls Northern Semi-Final - event cancelled"
       },
       {
          "description" : "Please find Live games link for 36th National Under 09 Open &#38; Girls Chess Championships 2023.Open (36th National Under 09 Open Chess Championship 2023) Link https://view.livechesscloud.com#6b9b0b7f-9dfc-4653-b4b0-a8f765fab370Girls ",
@@ -1256,22 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2698",
          "pubDate" : "Tue, 24 Oct 2023 21:15:25 +0000",
          "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2697",
-         "pubDate" : "Mon, 23 Oct 2023 16:05:12 +0000",
-         "title" : "FIDE Circuit: Fabiano Caruana consolidates his lead"
-      },
-      {
-         "description" : " The 2023 ACT Interschool Competition has come to an end, with the playoffs for the ACT representatives to the Australian Schools Teams Championship being held over the weekend. The selected teams are Gold Creek (Girls Primary), Majura (Open Primary), Lyneham (Girls Secondary), Radford (Open Secondary). The competition was hard fought across the weekend, although each event finished with a clear winner. What I did find most interesting was that almost every player had an ACF Rating ID, which shows that players are transitioning from school only chess, to club and weekend chess. That this has not previously been true is one of the things that has been noticeable with ACT teams in recent years",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/school-playoffs.html",
-         "pubDate" : "Mon, 23 Oct 2023 12:51:00",
-         "title" : "School Playoffs"
       }
    ]
 }
