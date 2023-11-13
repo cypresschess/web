@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "at Colombo, Sri Lanka from 28th November to 6th December, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-junior-chess-championship-2023/",
+         "pubDate" : "Mon, 13 Nov 2023 06:02:58",
+         "title" : "Western Asian Junior Chess Championship - 2023"
+      },
+      {
          "description" : "The University of Texas Rio Grande Valley (UTRGV) and Saint Louis University (SLU) both won their quarterfinal playoff matches in the 2023 Collegiate Chess League (CCL) fall season on Saturday by hefty margins, owing to standout performances by GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-unveils-the-first-ever-chess-map-a-geographical-mast/",
          "pubDate" : "Mon, 30 Oct 2023 09:52:39",
          "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
-      },
-      {
-         "description" : "Please find the live games link https://live.tamilchess.com/3RD-IMNORM-MDU/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link3rd-tamil-nadu-im-tournament-closed-circuit-chess-tournament/",
-         "pubDate" : "Mon, 30 Oct 2023 07:46:22",
-         "title" : "Live Link:3rd Tamil Nadu IM tournament closed circuit chess tournament"
       },
       {
          "description" : "",
