@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The University of Texas Rio Grande Valley (UTRGV) and Saint Louis University (SLU) both won their quarterfinal playoff matches in the 2023 Collegiate Chess League (CCL) fall season on Saturday by hefty margins, owing to standout performances by GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-playoffs-slu-utrgv",
+         "pubDate" : "Sun, 12 Nov 2023 18:55:15 -0800",
+         "title" : "GM-Elect Rodrigue-Lemieux Leads UTRGV To Victory, SLU Progresses To Semifinals"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 151st episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2707",
          "pubDate" : "Sun, 29 Oct 2023 11:01:06 +0000",
          "title" : "FIDE Arbiters' Commission releases the list of arbiters for green, blue, red, and yellow panels"
-      },
-      {
-         "description" : "It is the beautiful new chess documentary that every fan of the game should see&#38;mdash;whether you can make it to a film festival or stream it live on TV&#38;mdash;and now it&#39;s an award-winner. The City Of Human Chess, Chess.com&#39;s first venture into ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/city-of-human-chess-debuts-at-la-film-festival-streaming-now-on-magellantv",
-         "pubDate" : "Sun, 29 Oct 2023 09:32:00",
-         "title" : "Chess.com's First Original Production Wins Award At DOC LA Film Festival-Watch It Now On MagellanTV"
       },
       {
          "description" : "",
