@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After two rounds in the open section of the European Team Championship, six teams are sharing first place with 4/4 match points: Germany, France, the Netherlands, Serbia, Poland and Israel. Among the six teams standing a match point behind is Austria, who stunned Norway despite Valentin Dragnev failing to make the most of an advantageous position over Magnus Carlsen. In the women's section, Azerbaijan, France, Poland, Spain and Serbia are sharing the lead, with Spain joining the leading pack after beating the top seeds from Georgia. | Photo: German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r2",
+         "pubDate" : "Mon, 13 Nov 2023 12:10:00",
+         "title" : "Euro Teams: Six leaders, Carlsen escapes against Dragnev"
+      },
+      {
          "description" : "The second round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro. Only six teams in Open section and five teams in the Women's event managed to score the second consecutive match win to reach the maximum 4 match points and lead in the tournament. After two played rounds the leaders of the Open section are the teams of: Germany, France, Netherlands, Serbia, Poland, and Israel. The early leaders of the Women's championship are: Azerbaijan, France, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-151-chess-history-in-a-nutshell-33",
          "pubDate" : "Sun, 12 Nov 2023 15:00:00",
          "title" : "Understanding before Moving 151: Chess history in a nutshell (33)"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Sun, 12 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
       },
       {
          "description" : "",
