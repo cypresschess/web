@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro. Only six teams in Open section and five teams in the Women's event managed to score the second consecutive match win to reach the maximum 4 match points and lead in the tournament. After two played rounds the leaders of the Open section are the teams of: Germany, France, Netherlands, Serbia, Poland, and Israel. The early leaders of the Women's championship are: Azerbaijan, France, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-team-chess-championship-2023-day-2-recap/",
+         "pubDate" : "Mon, 13 Nov 2023 08:46:44",
+         "title" : "European Team Chess Championship 2023 - Day 2 recap"
+      },
+      {
          "description" : "at Colombo, Sri Lanka from 28th November to 6th December, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1170,14 +1178,6 @@ news_feed (
          "title" : "2023 Grand Swiss"
       },
       {
-         "description" : "The 8th edition of the European Small Nations Team Chess Championship starts this weekend in the Pomme d'Or Hotel, St Helier, Jersey. The main supporter of the event is the European Chess Union which annually supports the major events of the European Small Nations. The event will be played from 29 October to 4 November with the participation of the following teams: Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino. Each team consists of four []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-team-chess-championship-2023-starts-in-jersey/",
-         "pubDate" : "Fri, 27 Oct 2023 09:41:34",
-         "title" : "European Small Nations Team Chess Championship 2023 starts in Jersey"
-      },
-      {
          "description" : " The world Nos 3 and 4 are battling for two Candidates places in the $460,000, 114-player event, but both started slowly while rivals who prepared with non-stop blitz began with wins Hikaru Nakamura of the US and Alireza Firouzja of France, the world Nos 3 and 4, are among the favourites in the 114-player Fide Grand Swiss event at Douglas, Isle of Man. The event offers a $460,000 prize fund from the Scheinberg family, which has sponsored international events on the island since 2014. Two places in the 2024 Candidates, and a potential challenge to China's world champion Ding Liren, are also at stake. A fast start is reckoned important in such a high class field where almost all the players ar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1272,14 +1272,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/school-playoffs.html",
          "pubDate" : "Mon, 23 Oct 2023 12:51:00",
          "title" : "School Playoffs"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2696",
-         "pubDate" : "Mon, 23 Oct 2023 08:53:01 +0000",
-         "title" : "Important changes to the 2024 Women's Grand Prix series"
       }
    ]
 }
