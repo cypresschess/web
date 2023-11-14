@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Poland and Germany scored 2&frac12;-1&frac12; victories on Monday to go into round 4 of the European Team Championship as co-leaders. Both teams had to compensate for an individual loss with two victories to keep their perfect scores. Meanwhile, Norway suffered a second upset loss in a row, this time against Iceland - despite Magnus Carlsen winning on the top board. In the women's championship, France and Azerbaijan are tied for first place with 6/6 match points. | Photo: Paul Meyer-Dunker",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r3",
+         "pubDate" : "Tue, 14 Nov 2023 12:45:00",
+         "title" : "Euro Teams: Poland and Germany share the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2739",
+         "pubDate" : "Tue, 14 Nov 2023 11:09:17 +0000",
+         "title" : "FIDE Director for Chess Development visits Namibia"
+      },
+      {
+         "description" : "New Delhi, 13th November, 2023 - The All India Chess Federation (AICF) is embarking on a historic journey to propel Indian chess to unprecedented heights.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-pledges-financial-assistance-of-2-crores-inr-usd-240459-for-praggnandhaaa-vidit-and-vaishali-setting-the-stage-for-chess-history/",
+         "pubDate" : "Tue, 14 Nov 2023 10:55:36",
+         "title" : "AICF Pledges financial assistance of 2 crores INR (USD 240459) for Praggnandhaaa, Vidit, and Vaishali, Setting the Stage for Chess History"
+      },
+      {
+         "description" : "Leon Luke Mendonca fears nobody, not even the Grandmaster level of the brand new Fritz 19! The Indian Grandmaster faces the allrounder, which is one of six new player types, that Fritz 19 has to offer. Does Leon even have a tiny chance against the powerful GM-Level? Can the allrounder score, just by maintaining an innocent demeanor? You can find out in the video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-vs-fritz-19-the-allrounder-gm-level",
+         "pubDate" : "Tue, 14 Nov 2023 10:02:46",
+         "title" : "Leon Mendonca vs. Fritz 19 - The Allrounder (GM level)"
+      },
+      {
+         "description" : "The engine that drives this program has just won the Computer Chess World Championship - in July it defended its title by winning it a second year straight. But the new software is not just super-strong: it also introduces a new era of chess training. It will help you maintain a repertoire, practice playing against it, teach you how to deal with different kinds of opponents. Let the programmer tell you exactly how this works.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/presenting-fritz-19",
+         "pubDate" : "Tue, 14 Nov 2023 09:40:00",
+         "title" : "Presenting: Fritz 19"
+      },
+      {
+         "description" : "The new Mega Database now contains over 10 million games and over 700,000 new games. With 112,000 annotated games, the Mega Database is also the largest annotated game collection in the world. The Mega Player Encyclopaedia contains 60,000 player names with over 40,000 player photos. Wow! All this is constantly being edited and expanded, e.g. with the automatic Mega Update!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mega-database-2024-more-than-700-000-new-games",
+         "pubDate" : "Tue, 14 Nov 2023 09:30:00",
+         "title" : "Mega Database 2024: More than 700,000 new games"
+      },
+      {
          "description" : "In the diagram position White just played 53.g4+. Should Black take the offered pawn with 53...Kxg4 or should he ignore the potentially dangerous g-pawn and go for the white pawns on the queenside with 53...Ke4? What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-2-3",
-         "pubDate" : "Mon, 13 Nov 2023 18:25:39 -0800",
+         "pubDate" : "Mon, 13 Nov 2023 18:25:00 -0800",
          "title" : "Poland, Germany On Perfect Score; Carlsen Can't Save Norway"
       },
       {
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2737",
          "pubDate" : "Mon, 13 Nov 2023 17:14:25 +0000",
          "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
-      },
-      {
-         "description" : "The engine that drives this program has just won the Computer Chess World Championship - in July it defended its title by winning it a second year straight. But the new software is not just super-strong: it also introduces a new era of chess training. It will help you maintain a repertoire, practice playing against it, teach you how to deal with different kinds of opponents. Let the programmer tell you exactly how this works.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/presenting-fritz-19",
-         "pubDate" : "Mon, 13 Nov 2023 15:10:40",
-         "title" : "Presenting: Fritz 19"
       },
       {
          "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except vouchers and ducats)!. There are some very interesting new products: like the brand new World Champion program Fritz 19, Mega Database 2024, new ChessBase Packages! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you. This is your chance!",
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sokolov-understanding-middlegame-structures-vol-7-vol-8-vol-9",
          "pubDate" : "Mon, 13 Nov 2023 15:00:00",
          "title" : "Sokolov: Understanding Middlegame Structures, Vol. 7, Vol. 8 & Vol. 9"
-      },
-      {
-         "description" : "The new Mega Database now contains over 10 million games and over 700,000 new games. With 112,000 annotated games, the Mega Database is also the largest annotated game collection in the world. The Mega Player Encyclopaedia contains 60,000 player names with over 40,000 player photos. Wow! All this is constantly being edited and expanded, e.g. with the automatic Mega Update!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mega-database-2024-more-than-700-000-new-games",
-         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
-         "title" : "Mega Database 2024: More than 700,000 new games"
       },
       {
          "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
@@ -314,14 +346,6 @@ news_feed (
          "title" : "Indian Grandmasters Deep and Sayantan finish 1-2 in France"
       },
       {
-         "description" : "In chess, there are many key elements: opening theory; endgame theory; middlegame strategy; and calculation of variations, based on tactics. In every area there are the most efficient and logical ways to perform chosen manoeuvres or improvements of the positions. Generally, we call these \"technique\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/adrian-mikhalchishin-master-your-technique-manoeuvres-you-must-know",
-         "pubDate" : "Fri, 10 Nov 2023 12:00:00",
-         "title" : "Adrian Mikhalchishin: Master your technique - manoeuvres you must know"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/10/chess-adams-and-nunn-score-golden-double-in-world-senior-championships",
          "pubDate" : "Fri, 10 Nov 2023 08:00:17",
          "title" : "Chess: Adams and Nunn score golden double in world senior championships"
-      },
-      {
-         "description" : "A bit over three years into his chess career, Faustino Oro, aged 10, continues to set record after record in Argentina. The \"golden boy\" ('oro' means gold in Spanish) became the youngest player to achieve an IM norm in history, as he broke the record previously set by Uzbek star Javokhir Sindarov. Oro is also referred to as \"the Messi of chess\", since his incredibly quick ascent has created major expectations among Argentine chess fans! | Photo: Emmanuel Fern&aacute;ndez / Clar&iacute;n",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/faustino-oro-profile-2023",
-         "pubDate" : "Fri, 10 Nov 2023 07:10:00",
-         "title" : "Faustino Oro, Argentina's golden boy, continues to impress"
       },
       {
          "description" : "It is one of the top places to study in the world, a seat of learning renowned for educating some of the brightest minds in history. But Harvard University&#39;s reputation has never been tested against FM Tani Adewumi and IM Alice Lee! ChessKid&#39;s t...",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-36th-national-under-09-open-girls-chess-championships-2023/",
          "pubDate" : "Thu, 02 Nov 2023 07:25:14",
          "title" : "Live games link for 36th National Under - 09 Open & Girls Chess Championships 2023"
-      },
-      {
-         "description" : "Please find some glimpses here",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/visit-of-deputy-chairperson-of-fide-management-board-and-women-grandmaster-dana-reizniece-ozola-to-udaipur/",
-         "pubDate" : "Thu, 02 Nov 2023 07:14:06",
-         "title" : "Visit of Deputy Chairperson of FIDE Management Board and Women Grandmaster Dana Reizniece Ozola to Udaipur"
       },
       {
          "description" : "",
