@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Youth Chess Championship kicks off in Montesilvano, Italy"
       },
       {
+         "description" : "Poland and Germany are the only teams on a perfect 6/6 match points after three rounds of the Open section of the 2023 European Team Chess Championship, and face a showdown in round four. GM Magnus Carlsen escaped with a draw in round two and won ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-2-3",
+         "pubDate" : "Mon, 13 Nov 2023 18:25:39 -0800",
+         "title" : "Poland, Germany On Perfect Score; Carlsen Can't Save Norway"
+      },
+      {
          "description" : "In the Endgame Magic Show #255 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights, this time they look at endgame gems from the Qatar Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-harika-hou-win",
-         "pubDate" : "Mon, 13 Nov 2023 13:42:59 -0800",
+         "pubDate" : "Mon, 13 Nov 2023 13:42:00 -0800",
          "title" : "Harika Wins All 3 Segments, Hou Yifan Cranks Out 7-Game Winning Streak"
       },
       {
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2708",
          "pubDate" : "Sun, 29 Oct 2023 22:19:34 +0000",
          "title" : "From Morphy to Praggnanandhaa - 165 years of chess history in Round 5 of FIDE Grand Swiss"
-      },
-      {
-         "description" : "A top-of-the-table clash between Saint Louis University (SLU) and The University of Texas Dallas (UT Dallas) saw SLU steal the match and ascend to first place in the 2023 Collegiate Chess League (CCL) on Saturday. Powered by SIG, the matchup pro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-utdallas",
-         "pubDate" : "Sun, 29 Oct 2023 21:48:00",
-         "title" : "SLU Defeat UT Dallas In Triple Overtime"
       },
       {
          "description" : "You might think that in the seven years I've been running a monthly series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), there would have been several posts about chess clubs. I went back nearly five years and couldn't find a single example. This video, from <I>ChessBase India</I>, might well be the first. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/kAyhA1iFFrs?si=AOqMUKy4ppmzCPK5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>The Most Amazing ",
