@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White just played 53.g4+. Should Black take the offered pawn with 53...Kxg4 or should he ignore the potentially dangerous g-pawn and go for the white pawns on the queenside with 53...Ke4? What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-very-strong-king",
+         "pubDate" : "Tue, 14 Nov 2023 09:00:00",
+         "title" : "A (very) strong king"
+      },
+      {
+         "description" : "The third round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro, and both Open and Women's sections got two leaders with perfect score. Poland and Germany are co-leading the Open championship, while Azerbaijan and France emerged as the leaders of the Women's event scoring 6 match points, each. Ranked 3rd on the starting list, Germany was a favourite in the match against Serbia, and after tight fights claimed a narrow 2.5-1.5 victory. GM Matthias Bluebaum []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/etcc2023-poland-and-germany-lead-in-the-open-section-azerbaijan-and-france-co-leading-the-womens-event/",
+         "pubDate" : "Tue, 14 Nov 2023 08:19:11",
+         "title" : "#ETCC2023 - Poland and Germany lead in the Open section, Azerbaijan and France co-leading the Women's event"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kramnik-shirov-counterattack-vs-english-prepare-pro-gm-akshat-chandra",
          "pubDate" : "Fri, 10 Nov 2023 01:40:04",
          "title" : "Kramnik-Shirov Counterattack vs. The English | Prepare Like A Pro - GM Akshat Chandra"
-      },
-      {
-         "description" : "Wally and K&auml;the Henschel were twins, born in Hamburg on 09.09.1893. In the 1920s and 1930s they were among the best players in Hamburg, and in 1930 Wally even beat Vera Menchik at the Women's World Championship Tournament in Hamburg - the only game Menchik ever lost in a Women's World Championship Tournament. But after the Kristallnacht pogrom on 9 November 1938, the twins, who came from a Jewish family, decided to flee to the USA, where they went on to play in the U.S. Women's Championships and where Wally may even have played against Bobby Fischer. | Photo: The Henschel family",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-kaethe-and-wally-henschel",
-         "pubDate" : "Thu, 09 Nov 2023 20:00:00",
-         "title" : "Remembering K&auml;the and Wally Henschel"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-leinier-dominguez-todays-approach-classical-chess-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bbH9ntESUtE.jpg?itok=eQb8kyKg\" alt=\"\" /></a></div>",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
          "pubDate" : "Fri, 03 Nov 2023 10:38:10",
          "title" : "ECF Secondary School Chess News for November 2023"
-      },
-      {
-         "description" : "The 24th edition of the European Women's Chess Championship 2024 will be held from 18 (arrival) to 30 April (departure) 2024, in the 5***** &#8220;Rodos Palace&#8221; Conference Hotel in Rhodes, Greece. The event is open to all women players representing national federations listed as ECU members, without rating or title limitations. The Championship will be played according to the Swiss System, 11 rounds. The rate of play is 90 minutes for 40 moves + 30 minutes for the rest of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-official-invitation/",
-         "pubDate" : "Fri, 03 Nov 2023 10:32:54",
-         "title" : "European Women's Chess Championship 2024 - Official invitation"
       },
       {
          "description" : "",
