@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Nastya Karlovych for the move-by-move. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-2-grandchesstour",
+         "pubDate" : "Tue, 14 Nov 2023 19:45:04",
+         "title" : "2023 Saint Louis Rapid & Blitz: Day 2 | #GrandChessTour"
+      },
+      {
+         "description" : "The St. Louis Rapid & Blitz starts today at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
+         "pubDate" : "Tue, 14 Nov 2023 18:30:00",
+         "title" : "Saint Louis Rapid & Blitz: Live"
+      },
+      {
          "description" : "Fritz 19 comes with six sparring partners, each representing a completely different type of player. There is the aggressive attacker (Bull), the swindler (Fox) or the endgame crack (Turtle) and a few more. And those who train well will be rewarded. Stefen Liebig took a look at the brand new Fritz.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +82,28 @@ news_feed (
          "title" : "FIDE Director for Chess Development visits Namibia"
       },
       {
+         "description" : "GM Kateryna Lagno moves on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after defeating WGM Priyanka Nutakki 17.5-4.5. She will play GM Harika Dronavalli in the Semifinals on Friday. Priyanka got off to a fantastic start b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-lagno-wins",
+         "pubDate" : "Tue, 14 Nov 2023 11:06:01 -0800",
+         "title" : "Lagno Clinches With Double-Digit Margin, Advances To Semifinals"
+      },
+      {
          "description" : "New Delhi, 13th November, 2023 - The All India Chess Federation (AICF) is embarking on a historic journey to propel Indian chess to unprecedented heights.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-pledges-financial-assistance-of-2-crores-inr-usd-240459-for-praggnandhaaa-vidit-and-vaishali-setting-the-stage-for-chess-history/",
          "pubDate" : "Tue, 14 Nov 2023 10:55:36",
          "title" : "AICF Pledges financial assistance of 2 crores INR (USD 240459) for Praggnandhaaa, Vidit, and Vaishali, Setting the Stage for Chess History"
+      },
+      {
+         "description" : "The All-India Chess Federation (AICF) has announced a massive financial boost to Indian stars GM Vidit Gujrathi, GM Praggnanandhaa Rameshbabu, and IM Vaishali Rameshbabu as they prepare for the journey towards the World Championship title in April...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/india-makes-world-chess-champion-move-with-240k-assistance",
+         "pubDate" : "Tue, 14 Nov 2023 10:38:00 -0800",
+         "title" : "India Makes World Championship Move With $240K To Vidit, Praggnanandhaa, Vaishali"
       },
       {
          "description" : "Leon Luke Mendonca fears nobody, not even the Grandmaster level of the brand new Fritz 19! The Indian Grandmaster faces the allrounder, which is one of six new player types, that Fritz 19 has to offer. Does Leon even have a tiny chance against the powerful GM-Level? Can the allrounder score, just by maintaining an innocent demeanor? You can find out in the video.",
@@ -288,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-11-2023",
          "pubDate" : "Sat, 11 Nov 2023 18:28:03 -0800",
          "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
-      },
-      {
-         "description" : "Fernando Peralta defended his national title in the 98th Argentine Chess Championship. A native of Lomas de Zamora, he won this event for the fifth time, following his success in 2006, 2018, 2020 and 2022. Peralta defeated Federico P&eacute;rez Ponsa in a two-game rapid playoff to take the title. Leonardo Krysa and Pablo Actosta tied for third place, netting 7/11 points each. | Photos: Federaci&oacute;n Argentina de Ajedrez",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/argentine-championship-2023-peralta-wins",
-         "pubDate" : "Sat, 11 Nov 2023 13:05:00",
-         "title" : "Argentine Championship: Fernando Peralta wins fifth title"
       },
       {
          "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
@@ -1042,14 +1066,6 @@ news_feed (
          "title" : "Chess in Schools"
       },
       {
-         "description" : "Chess.com, the world&#38;rsquo;s largest chess site with a global community of more than 150 million members, today announced a partnership with Duolingo, the world&#38;rsquo;s leading mobile learning platform. To celebrate the occasion, Chess.com is ad...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duolingo",
-         "pubDate" : "Wed, 01 Nov 2023 07:17:00",
-         "title" : "Duolingo Joins Chess.com To Capture Your Pawns In 12 Languages"
-      },
-      {
          "description" : " In post-quarantine times, chess has returned to its classical roots, but quick chess has surged and even surpassed all forms of chess in terms of sheer popularity. Popular streamers like Hikaru Nakamura and Levy Rozman have amassed huge followings and the online platform has made chess accessible to a wider audience. Most have resorted to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/\">Classical Chess is still King Here's Why</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2709",
          "pubDate" : "Mon, 30 Oct 2023 23:47:03 +0000",
          "title" : "Storms on and off the board in Round 6 of FIDE Grand Swiss "
-      },
-      {
-         "description" : "After six rounds in the FIDE Grand Swiss 2023, eight players are tied for the lead with 4.5/6, while GM Anna Muzychuk takes the sole lead with 5/6 in the Women&#39;s. In the Open, GMs Hikaru Nakamura and Andrey Esipenko fought a sharp battle on the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-6",
-         "pubDate" : "Mon, 30 Oct 2023 17:44:00",
-         "title" : "Nakamura Holds Co-leader Esipenko, 5 Players Join Lead"
       },
       {
          "description" : "Top-level chess is underway in Nottingham where invited Grandmasters take on some of England's best young players, including the cream of Nottingham's chess talent. This...",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra",
          "pubDate" : "Tue, 24 Oct 2023 22:20:32",
          "title" : "Tactical Vision | Grandmaster's Choice - GM Akshat Chandra"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan debuts on YouTube's Beginner Breakdown with a chess class on decoys. A decoy is a tactic that lures an enemy piece off its square and away from its defensive role. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hihzNGHzOKY.jpg?itok=RRv1RzS7\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/decoys-dupe-defender-beginner-breakdown-nm-ralph-tan",
-         "pubDate" : "Tue, 24 Oct 2023 22:20:32",
-         "title" : "Decoys: Dupe the Defender | Beginner Breakdown - NM Ralph Tan"
       },
       {
          "description" : "",
