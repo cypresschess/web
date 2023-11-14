@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2738",
+         "pubDate" : "Mon, 13 Nov 2023 21:57:48 +0000",
+         "title" : "World Youth Chess Championship kicks off in Montesilvano, Italy"
+      },
+      {
          "description" : "In the Endgame Magic Show #255 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights, this time they look at endgame gems from the Qatar Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
          "pubDate" : "Mon, 13 Nov 2023 14:50:00",
          "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "GMs Hou Yifan and Harika Dronavalli move on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after convincingly defeating IM Polina Shuvalova and GM Valentina Gunina, respectively.&#38;nbsp; Hou, the favorite, was actually at a tw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-harika-hou-win",
+         "pubDate" : "Mon, 13 Nov 2023 13:42:59 -0800",
+         "title" : "Harika Wins All 3 Segments, Hou Yifan Cranks Out 7-Game Winning Streak"
       },
       {
          "description" : " One of the other factors in my somewhat infrequent positing is the work I am doing as the Secretary of the FIDE Qualification Commission. It isn't so much that the work is time consuming, but more that topics I may have posted about in the past are now part of my official duties, creating a conflict between public comment and private knowledge. However some queries are vague enough that I can talk about them in a non official way. One query was basically 'When are you allowed to call yourself a Grandmaster?' The obvious answer is, anytime you want. This is because that while Grandmaster is connected with chess, the title does not necessarily belong to chess (indeed it dates back to the 18th",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-utdallas",
          "pubDate" : "Sun, 29 Oct 2023 21:48:00",
          "title" : "SLU Defeat UT Dallas In Triple Overtime"
-      },
-      {
-         "description" : "One player, IM Bibisara Assaubayeva, leads the FIDE Women&#39;s Grand Swiss 2023 after five rounds.&#38;nbsp;The 19-year-old rising star defeated former World Champion Tan Zhongyi to reach 4.5/5, the highest score in either section. Top-seed GM Aleksand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-5",
-         "pubDate" : "Sun, 29 Oct 2023 17:10:00",
-         "title" : "Assaubayeva Leads Women's, Nakamura Scores Hat Trick In Open"
       },
       {
          "description" : "You might think that in the seven years I've been running a monthly series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), there would have been several posts about chess clubs. I went back nearly five years and couldn't find a single example. This video, from <I>ChessBase India</I>, might well be the first. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/kAyhA1iFFrs?si=AOqMUKy4ppmzCPK5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>The Most Amazing ",
