@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fritz 19 comes with six sparring partners, each representing a completely different type of player. There is the aggressive attacker (Bull), the swindler (Fox) or the endgame crack (Turtle) and a few more. And those who train well will be rewarded. Stefen Liebig took a look at the brand new Fritz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-19-pick-your-sparring-partner-a-review",
+         "pubDate" : "Tue, 14 Nov 2023 17:00:00",
+         "title" : "Fritz 19: Pick your sparring partner!"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz takes place Tue 14th to Sun 19th Nov 2023. Players: Nepomniachtchi, MVL, Caruana, Wesley So, Firouzja, Xiong, Giri, Le Quang Liem, Robson and Sevian. 9 rounds of rapid over 3 days followed by 18 rounds of blitz over 2 days. Play starts at 19:00 GMT.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2023",
+         "pubDate" : "Tue, 14 Nov 2023 16:15:00",
+         "title" : "Saint Louis Rapid & Blitz 2023 - Games and Results"
+      },
+      {
+         "description" : "After Leon Mendonca lost against the GM Dog, it's Elisabeth Paehtz's turn to win a point for the humans! Unfortunately, the positional player, the owl, is programmed to play stable and solid. And even at strong club player level, the nocturnal bird can be a threat! However, Elli quickly gains a huge advantage with a well-known London System opening trick, which you can watch on one of her Fritztrainer's. But will it be enough? There is always the club chess player, and co-host Arne Kaehler to stir up weird move suggestions ...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-vs-fritz-19-the-positional-strong-club-player",
+         "pubDate" : "Tue, 14 Nov 2023 16:00:00",
+         "title" : "Elisabeth Paehtz vs. Fritz 19 - The Positional (Strong Club Player)"
+      },
+      {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Tue, 14 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "With over 10 million games the Mega Database 2024 is the indispensable chess database for every chess player, for preparation or chess training in all conceivable facets - now available in the updated 2024 edition, also as Big Database without annotated games and update service. Also new: the Corr Database 2024 Correspondence Chess Database with 80,000 tournaments and 2.3 million correspondence games - for players who want to know even more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-the-databases-2024-mega-big-and-corr",
+         "pubDate" : "Tue, 14 Nov 2023 13:55:17",
+         "title" : "New: The Databases 2024: Mega, Big and Corr"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2740",
+         "pubDate" : "Tue, 14 Nov 2023 13:34:41 +0000",
+         "title" : "FIDE partners with Safe Sport International for Safeguarding Framework"
+      },
+      {
          "description" : "Poland and Germany scored 2&frac12;-1&frac12; victories on Monday to go into round 4 of the European Team Championship as co-leaders. Both teams had to compensate for an individual loss with two victories to keep their perfect scores. Meanwhile, Norway suffered a second upset loss in a row, this time against Iceland - despite Magnus Carlsen winning on the top board. In the women's championship, France and Azerbaijan are tied for first place with 6/6 match points. | Photo: Paul Meyer-Dunker",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +114,14 @@ news_feed (
          "title" : "#ETCC2023 - Poland and Germany lead in the Open section, Azerbaijan and France co-leading the Women's event"
       },
       {
+         "description" : "It&#38;rsquo;s nearly time&#38;mdash;the most electrifying team event in chess, the worldwide Pro Chess League (PCL), has been confirmed for 2024. Chess.com revealed on Tuesday that the new season will kick off in February with 16 franchises going head-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pro-chess-league-2024-biggest-prize-fund-yet",
+         "pubDate" : "Tue, 14 Nov 2023 05:54:00 -0800",
+         "title" : "Pro Chess League 2024: Teams Gear Up To Fight For Biggest Prize Fund Yet"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sokolov-understanding-middlegame-structures-vol-7-vol-8-vol-9",
          "pubDate" : "Mon, 13 Nov 2023 15:00:00",
          "title" : "Sokolov: Understanding Middlegame Structures, Vol. 7, Vol. 8 & Vol. 9"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Mon, 13 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
       },
       {
          "description" : "GMs Hou Yifan and Harika Dronavalli move on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after convincingly defeating IM Polina Shuvalova and GM Valentina Gunina, respectively.&#38;nbsp; Hou, the favorite, was actually at a tw...",
@@ -258,14 +306,6 @@ news_feed (
          "title" : "Christmas Chess Books"
       },
       {
-         "description" : "In the diagram position, four rooks are facing each other on the b-file, separated only by the white Nb3. Your task is to skilfully resolve this visavis in White's favour - liquidation is the keyword!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/timeless-technique",
-         "pubDate" : "Sat, 11 Nov 2023 09:00:00",
-         "title" : "Timeless technique"
-      },
-      {
          "description" : "The 2023 European Team Chess Championship was officially opened yesterday evening. The Opening ceremony took place in Hotel Splendid, the official hotel and the playing venue of the tournament. The ceremony was inaugurated with the intonations of the ECU and Montenegro anthems. The President of the Chess Federation of Montenegro Mr. Jovan Milovic then took the floor and welcomed the players and distinguished guests. &#8220;I am very proud that we organize the European Team Chess Championship two months before the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -314,28 +354,12 @@ news_feed (
          "title" : "Chess as literary setting: \"Gambit\" by Rex Stout"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King tests viewers' tactical and calculating skills using games from the FIDE Grand Swiss. Some exercises are very easy, and some the opposite - and there is some real beauty here too! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-tactics-training",
-         "pubDate" : "Fri, 10 Nov 2023 17:00:00",
-         "title" : "Daniel King's Power Play Show: Tactics training"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2733",
          "pubDate" : "Fri, 10 Nov 2023 16:01:26 +0000",
          "title" : "ACP Prize established to support young players"
-      },
-      {
-         "description" : "The first round of the Saint Louis Rapid & Blitz will take place on 14 November. This will be followed by three days of rapid chess and two days of blitz. After a short break, the Sinquefield Cup, a ten-player round-robin with classical time control, begins on 21 November. Last year's match between Magnus Carlsen and Hans Niemann caused quite a stir. Neither will be taking part this time. | Photo: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-final-in-st-louis",
-         "pubDate" : "Fri, 10 Nov 2023 15:00:00",
-         "title" : "Grand Chess Tour final in St Louis"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105129568.cms\" />In another show of Indian players ruling the roost in international chess meets, city Grandmasters Deep Sengupta and Sayantan Das finished 1-2 at the Cap d'Agde International Open tournament in France earlier this week.",
@@ -1104,14 +1128,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/nca-centenary-grandmaster-tournament/",
          "pubDate" : "Mon, 30 Oct 2023 13:12:54",
          "title" : "NCA Centenary Grandmaster Tournament"
-      },
-      {
-         "description" : "IM Levy Rozman&#39;s much anticipated new book was released with a bang on October 24, receiving excellent reviews, making it to the New York Times bestseller list and reaching number one on three Amazon lists. How to Win at Chess: The Ultimate Guid...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-releases-book-immediately-tops-amazon-lists",
-         "pubDate" : "Mon, 30 Oct 2023 12:48:45",
-         "title" : "'GothamChess' New Book: Tops Amazon Lists, Becomes New York Times Bestseller"
       },
       {
          "description" : " I've had a couple of interesting experiences with the 50 move rule over the years. During the last round of a past Sydney International Open, 2 players dragged the game well beyond the point where they could claim, one because he thought he was winning (at that stage he was not), and the other because he thought you could only claim if there were no pawns on the board (NB This was prior to the 75 move rule coming into effect). Going in the other direction, it appears a recent game at a tournament I was the arbiter for ended in a draw after the players reached move 50 and basically agreed that the game was drawn. Note: this was 50 moves in total, starting from move 1, with plenty of pawn mov",
