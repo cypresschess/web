@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Saint Louis Rapid and Blitz kicked off on Monday with the first three rounds of rapid action, as the Grand Chess Tour makes its fourth stop of the year. After the first day of play, wildcard GM Le Quang Liem leads the field with 5.0/6, with GMs Alireza Firouzja and Ray Robson tied for second with 4.0/6. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-1-wildcard-le-quang-liem-takes-sole-lead",
+         "pubDate" : "Wed, 15 Nov 2023 09:22:22",
+         "title" : "St. Louis Rapid and Blitz, Day 1: Wildcard Le Quang Liem takes sole lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0AiLYu47NbY.jpg?itok=jD84nhlM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts",
+         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
+         "title" : "2023 Saint Louis Rapid & Blitz | Anish Giri Finds Potentially Winning Move Against MVL | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-blunders-round-1-against-giri-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6MmHjH6P57Y.jpg?itok=4uKFEOEL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-blunders-round-1-against-giri-shorts",
+         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
+         "title" : "2023 Saint Louis Rapid & Blitz | Maxime Vachier-Lagrave Blunders in Round 1 Against Giri | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-commentators-discuss-nepos-quick-play-style-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Amdr1lCa_MY.jpg?itok=EEeT7Duw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-commentators-discuss-nepos-quick-play-style-shorts",
+         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
+         "title" : "2023 Saint Louis Rapid & Blitz | Commentators Discuss Nepo's Quick Play Style | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-and-blitz-standings-after-rapid-round-1-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VXtnVPe5qlI.jpg?itok=Fe--9vbR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-and-blitz-standings-after-rapid-round-1-shorts",
+         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
+         "title" : "2023 Saint Louis Rapid and Blitz | Standings After Rapid Round 1 | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-turns-around-losing-position-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qF5Es9ThqKk.jpg?itok=hVoHm-qf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-turns-around-losing-position-shorts",
+         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
+         "title" : "2023 Saint Louis Rapid & Blitz | Maxime Vachier-Lagrave Turns Around Losing Position! | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-nepo-blunders-round-1-against-sam-sevian-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t1QqOik1QxU.jpg?itok=_Pjw3S98\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-nepo-blunders-round-1-against-sam-sevian-shorts",
+         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
+         "title" : "2023 Saint Louis Rapid & Blitz | Nepo Blunders in Round 1 against Sam Sevian | #shorts"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QbWQtpZbAgQ.jpg?itok=dkYocIsX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -34,44 +90,12 @@ news_feed (
          "title" : "Liem Le: A Good Start, But It's Just The First Day | D1 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.16<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-3-grandchesstour",
-         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
-         "title" : "2023 Saint Louis Rapid & Blitz: Day 3 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join a commentary team TBA for the move-by-move. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_th",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-1-grandchesstour",
-         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
-         "title" : "2023 Sinquefield Cup: Round 1 | #GrandChessTour"
-      },
-      {
-         "description" : "Clinical wins over GMs Wesley So and Jeffery Xiong have left GM Le Quang Liem in the sole lead on 2.5/3 at the 2023 Saint Louis Rapid &#38;amp; Blitz after the first day of play. The start would have been a perfect 3/3 if not for a mistake that cost h...",
+         "description" : "Clinical wins over GMs Wesley So and Jeffery Xiong have left GM Le Quang Liem in the sole lead on 5/6 at the 2023 Saint Louis Rapid &#38;amp; Blitz after the first day of play. The start would have been a perfect 6/6 if not for a mistake that cost him...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-1",
-         "pubDate" : "Tue, 14 Nov 2023 19:47:56 -0800",
+         "pubDate" : "Tue, 14 Nov 2023 19:47:00 -0800",
          "title" : "Le Takes Lead As Saint Louis Rapid & Blitz Begins With A Bang"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.15<br /> GrandChessTour.org RAPID ROUND 4 | 25 Min. Incr. 10 Sec.<br /> | GAME = 2 PTS<br /> Liem Le (5) vs. Sam Sevian (3) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-2-grandchesstour",
-         "pubDate" : "Tue, 14 Nov 2023 19:45:04",
-         "title" : "2023 Saint Louis Rapid & Blitz: Day 2 | #GrandChessTour"
-      },
-      {
-         "description" : "The St. Louis Rapid & Blitz starts today at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
-         "pubDate" : "Tue, 14 Nov 2023 18:30:00",
-         "title" : "Saint Louis Rapid & Blitz: Live"
       },
       {
          "description" : "Fritz 19 comes with six sparring partners, each representing a completely different type of player. There is the aggressive attacker (Bull), the swindler (Fox) or the endgame crack (Turtle) and a few more. And those who train well will be rewarded. Stefen Liebig took a look at the brand new Fritz.",
@@ -242,14 +266,6 @@ news_feed (
          "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
       },
       {
-         "description" : "Don't miss it! Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except vouchers and ducats)!. There are some very interesting new products: like the brand new World Champion program Fritz 19, Mega Database 2024, new ChessBase Packages! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you. This is your chance!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/your-chance-discount-day-fall-3",
-         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
-         "title" : "Your chance: Discount Day Fall 2023"
-      },
-      {
          "description" : "The Sicilian Najdorf is one of the most popular openings after 1.e4 and is part of the repertoire of almost all top players. In two volumes, the young Hamburg grandmaster presents all of White's answers and shows how Black can aggressively realise his strategic plans. With exercises and tests.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -378,6 +394,14 @@ news_feed (
          "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
       },
       {
+         "description" : "Fernando Peralta defended his national title in the 98th Argentine Chess Championship. A native of Lomas de Zamora, he won this event for the fifth time, following his success in 2006, 2018, 2020 and 2022. Peralta defeated Federico P&eacute;rez Ponsa in a two-game rapid playoff to take the title. Leonardo Krysa and Pablo Actosta tied for third place, netting 7/11 points each. | Photos: Federaci&oacute;n Argentina de Ajedrez",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/argentine-championship-2023-peralta-wins",
+         "pubDate" : "Sat, 11 Nov 2023 13:05:00",
+         "title" : "Argentine Championship: Fernando Peralta wins fifth title"
+      },
+      {
          "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/",
          "pubDate" : "Sat, 11 Nov 2023 05:09:47",
          "title" : "When will the U.S. host a Chess Olympiad?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The 10th annual Sinquefield Cup is the fifth and final leg of the Grand Chess Tour. Eight Tour players (players below) are joined by two wildcards for a classical chess round robin, live from the World Chess Hall of Fame. Join a commentary team TBA from November 21 - December 1 at 1:20 P.M. CST. GrandChessTour.org PLAYERS<br /> Fabiano Caruana<br /> Jan-Krzysztof Duda<br /> Richard Rapport<br /> Alireza Firouzja<br /> Wesley So<br /> Ian Nepomniachtchi<br /> Maxime Vachier-Lagrave<br /> Anish Giri<br /> Levon Aronian<br /> Leinier Dominguez </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-grandchesstour-promo",
-         "pubDate" : "Sat, 11 Nov 2023 01:41:13",
-         "title" : "2023 Sinquefield Cup | #GrandChessTour | PROMO"
       },
       {
          "description" : "",
@@ -504,22 +520,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/harvard-takes-on-the-chesskids",
          "pubDate" : "Fri, 10 Nov 2023 04:16:00 -0800",
          "title" : "Harvard Takes On The ChessKids: Can A Top University's Bright Young Things Beat Tani And Alice"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra analyzes two games he played as Black against the English with the Kramnik-Shirov Counterattack (1.c4 e5 2.Nc3 Bb4). 2023.11.09<br /> Andrew Zheng vs. Akshat Chandra, 2016: A22 English, Bremen, Smyslov system<br /> Seth Homa vs Akshat Chandra, 27th Chicago Open (2018): A21 English, Kramnik-Shirov counterattack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2570433\">https://www.chessgames.com/perl/chessgame?gid=2570433</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kramnik-shirov-counterattack-vs-english-prepare-pro-gm-akshat-chandra",
-         "pubDate" : "Fri, 10 Nov 2023 01:40:04",
-         "title" : "Kramnik-Shirov Counterattack vs. The English | Prepare Like A Pro - GM Akshat Chandra"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-leinier-dominguez-todays-approach-classical-chess-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bbH9ntESUtE.jpg?itok=eQb8kyKg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-leinier-dominguez-todays-approach-classical-chess-shorts",
-         "pubDate" : "Thu, 09 Nov 2023 19:39:53",
-         "title" : "2023 US Chess Championships | Leinier Dominguez on Today's Approach to Classical Chess | #shorts"
       },
       {
          "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2024 which will take place from 20 June to 28 June in Rhodes, Greece. The event will be held in the Conference Hall of the 5-star Rodos Palace Hotel and is co-organized by Rhodes Chess Club &#8220;Ippotis&#8221; The event will be played in two age categories U12 and U18, 4 tournaments open and girls sections separately. Each national federation []",
