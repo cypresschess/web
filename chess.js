@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Wed, 15 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "In chess, blunders are inevitable. Of course, you might try to minimize them with tactical training, but you will never be able to get rid of them altogether. The same is true for unpleasant surprises. Whatever you do to be fully prepared for anything that might happen at the board, your opponent will still be time to time able to play a nasty unexpected move that gets you in a state of shock and horror. | Photo: A shocked Magnus Carlsen, analysing a game he played against Levon Aronian at the Grand Chess Tour tournament in Zagreb 2019 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-26-shock",
+         "pubDate" : "Wed, 15 Nov 2023 14:10:54",
+         "title" : "The Winning Academy 26: Shock!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -112,6 +128,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-nepo-blunders-round-1-against-sam-sevian-shorts",
          "pubDate" : "Wed, 15 Nov 2023 07:45:45",
          "title" : "2023 Saint Louis Rapid & Blitz | Nepo Blunders in Round 1 against Sam Sevian | #shorts"
+      },
+      {
+         "description" : "Finally, it comes down to this. GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest names in chess, go head-to-head with the top players of 2023 as Chess.com&#38;rsquo;s $2 million Champions Chess Tour reaches its grand finale next month. For ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-and-hikaru-final-battle-champions-chess-tour-finals-2023",
+         "pubDate" : "Wed, 15 Nov 2023 07:08:18 -0800",
+         "title" : "Magnus And Hikaru Face Final Battle: Stage Set For New Over The Board Champions Chess Tour Finals 2023 In Toronto"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QbWQtpZbAgQ.jpg?itok=dkYocIsX\" alt=\"\" /></a></div>",
@@ -402,14 +426,6 @@ news_feed (
          "title" : "FIDE Trainer Awards 2023 - Call for nominations"
       },
       {
-         "description" : "The European Team Championship kicked off with a big surprise on the top board. Azerbaijan, the rating favourites, were defeated by Denmark, as Shakhriyar Mamedyarov lost to Mads Andersen after his attempt at a winning attack backfired. Romania, the second seeds, only drew Austria, while Norway also got a draw against Slovakia despite Magnus Carlsen winning his game on the top board. In the women's event, the most shocking result on the top boards was Greece holding Germany to a draw. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r1",
-         "pubDate" : "Sun, 12 Nov 2023 13:20:00",
-         "title" : "Euro Teams: Denmark upset Azerbaijan as Andersen beats Mamedyarov"
-      },
-      {
          "description" : "Raymond Keene OBE is an English chess grandmaster, a FIDE International Arbiter, a chess organiser, and a journalist and author. He won the British Chess Championship in 1971 and was the first player from England to earn a Grandmaster norm, in 1974. In 1976, he became the second Englishman (following Tony Miles) to be awarded the Grandmaster title. Today we reproduce an insightful interview with Keene as it appeared in the current issue of the magazine CHESS.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-11-2023",
          "pubDate" : "Sat, 11 Nov 2023 18:28:03 -0800",
          "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
-      },
-      {
-         "description" : "Fernando Peralta defended his national title in the 98th Argentine Chess Championship. A native of Lomas de Zamora, he won this event for the fifth time, following his success in 2006, 2018, 2020 and 2022. Peralta defeated Federico P&eacute;rez Ponsa in a two-game rapid playoff to take the title. Leonardo Krysa and Pablo Actosta tied for third place, netting 7/11 points each. | Photos: Federaci&oacute;n Argentina de Ajedrez",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/argentine-championship-2023-peralta-wins",
-         "pubDate" : "Sat, 11 Nov 2023 13:05:00",
-         "title" : "Argentine Championship: Fernando Peralta wins fifth title"
       },
       {
          "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2700",
          "pubDate" : "Wed, 25 Oct 2023 22:15:34 +0000",
          "title" : "FIDE Grand Swiss: Day 1 Recap"
-      },
-      {
-         "description" : " The World Seniors is one event that seems to grow in popularity each year. The 2023 edition begins today in Italy, with 300 players across 3 sections (50+, 65+ and Women's 50+). Each event is headed by a GM, with Michael Adams the top seed in the 50+, John Nunn in the 65+ and Nona Gaprindashvili in the Women's. Australia only has one representative (Aurel John-Buciu) but New Zealand has 7. There are also 27 GM's playing across the event, with 16 in the 50+ Due to the timezone difference I don't think the frst round has started just yet, but you should be able to keep up with the tournament at <a href=\"https://www.worldseniorchess2023.com\">https://www.worldseniorchess2023.com</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/2023-world-seniors.html",
-         "pubDate" : "Wed, 25 Oct 2023 12:37:00",
-         "title" : "2023 World Seniors"
       }
    ]
 }
