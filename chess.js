@@ -86,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-lagno-wins",
-         "pubDate" : "Tue, 14 Nov 2023 11:06:01 -0800",
+         "pubDate" : "Tue, 14 Nov 2023 11:06:00 -0800",
          "title" : "Lagno Clinches With Double-Digit Margin, Advances To Semifinals"
       },
       {
@@ -1288,22 +1288,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/10/2023-world-seniors.html",
          "pubDate" : "Wed, 25 Oct 2023 12:37:00",
          "title" : "2023 World Seniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra debuts with the Club with tactics from his own games, including a win over Ben Finegold. Akshat takes questions at the end from Yasser Seirawan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gP2-fxRCeDE.jpg?itok=Ooec5P3z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactical-vision-grandmasters-choice-gm-akshat-chandra",
-         "pubDate" : "Tue, 24 Oct 2023 22:20:32",
-         "title" : "Tactical Vision | Grandmaster's Choice - GM Akshat Chandra"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2698",
-         "pubDate" : "Tue, 24 Oct 2023 21:15:25 +0000",
-         "title" : "FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 kick off in the Isle of Man"
       }
    ]
 }
