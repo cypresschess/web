@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2741",
+         "pubDate" : "Wed, 15 Nov 2023 11:26:58 +0000",
+         "title" : "Chess4Peace, a project for women from Ukraine, lauched in Poland"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2742",
+         "pubDate" : "Wed, 15 Nov 2023 10:45:29 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2023: Day 1 Recap"
+      },
+      {
+         "description" : "No more teams have perfect scores in either section of the European Team Championships. In the open tournament, Armenia joined Germany and Poland in the lead thanks to a 3-1 victory over Israel. In the women's tournament, Germany joined Azerbaijan and France thanks to a 2&frac12;-1&frac12; victory over Hungary. Meanwhile, Magnus Carlsen scored his third win of the event, as he helped Norway to grab 2 match points in their match against Finland. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r4",
+         "pubDate" : "Wed, 15 Nov 2023 10:35:00",
+         "title" : "Euro Teams: Armenia catch leaders, Carlsen wins again"
+      },
+      {
+         "description" : "The UK Parliamentary Chess Club played its first over-the-board match in decades, and it was bruising encounter for them against a well-organised and impressive Imperial...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/baptism-of-fire-for-the-uk-parliamentary-chess-club/",
+         "pubDate" : "Wed, 15 Nov 2023 10:24:27",
+         "title" : "Baptism of fire for the UK Parliamentary Chess Club"
+      },
+      {
+         "description" : "Round 2 report of World Youth Chess Championship, Italy 2023U18 Open:After the end of Round 2 two Indians ILAMPARTHI, A R, and Mayak Chakraborty have",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-2-report-wycc-italy-2023/",
+         "pubDate" : "Wed, 15 Nov 2023 09:27:43",
+         "title" : "Round 2 report WYCC Italy 2023"
+      },
+      {
+         "description" : "The 2023 ECU Congress will be held from 17 to 19 November in Budva, Montenegro, featuring ECU Commissions' meetings and the annual General Assembly. The Commissions' meetings will be held on Friday, November 17th, and Saturday, November 18th, in *****Hotel Splendid, which is also the official hotel and the playing venue of the European Team Chess Championship 2023. The annual ECU General Assembly will be held on November 19th, in the Conference Hall of the Hotel Mediteran. The Assembly will []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-congress-ecu-general-assembly-2023/",
+         "pubDate" : "Wed, 15 Nov 2023 09:24:11",
+         "title" : "ECU Congress & ECU General Assembly 2023"
+      },
+      {
          "description" : "The 2023 Saint Louis Rapid and Blitz kicked off on Monday with the first three rounds of rapid action, as the Grand Chess Tour makes its fourth stop of the year. After the first day of play, wildcard GM Le Quang Liem leads the field with 5.0/6, with GMs Alireza Firouzja and Ray Robson tied for second with 4.0/6. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-1-wildcard-le-quang-liem-takes-sole-lead",
          "pubDate" : "Wed, 15 Nov 2023 09:22:22",
          "title" : "St. Louis Rapid and Blitz, Day 1: Wildcard Le Quang Liem takes sole lead"
+      },
+      {
+         "description" : "Four rounds have been already played at the European Team Chess Championship 2023 and there is a three-way tie for the top of both Open and Women's events. No team remained perfect in the tournament, and Germany, Armenia and Poland score 7 match points (each) to share the top of the Open section, while France, Azerbaijan and Germany lead the Women's championship with the same score. The top-board match of the Open section between 3rd-seeded Germany and 11th-seeded Poland finished []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/etcc2023-three-way-tie-for-the-top-of-both-open-womens-events-after-4-played-rounds/",
+         "pubDate" : "Wed, 15 Nov 2023 08:50:32",
+         "title" : "#ETCC2023 - Three-way tie for the top of both Open & Women's events after 4 played rounds"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0AiLYu47NbY.jpg?itok=jD84nhlM\" alt=\"\" /></a></div>",
@@ -120,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elisabeth-paehtz-vs-fritz-19-the-positional-strong-club-player",
          "pubDate" : "Tue, 14 Nov 2023 16:00:00",
          "title" : "Elisabeth Paehtz vs. Fritz 19 - The Positional (Strong Club Player)"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Tue, 14 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
       },
       {
          "description" : "With over 10 million games the Mega Database 2024 is the indispensable chess database for every chess player, for preparation or chess training in all conceivable facets - now available in the updated 2024 edition, also as Big Database without annotated games and update service. Also new: the Corr Database 2024 Correspondence Chess Database with 80,000 tournaments and 2.3 million correspondence games - for players who want to know even more.",
@@ -328,6 +376,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-playoffs-slu-utrgv",
          "pubDate" : "Sun, 12 Nov 2023 18:55:15 -0800",
          "title" : "GM-Elect Rodrigue-Lemieux Leads UTRGV To Victory, SLU Progresses To Semifinals"
+      },
+      {
+         "description" : "Of the dozen videos on this month's short list for featured video, a third of them were from Youtube's <I>Chess.com</I> channel. All of them would have been a good selection for the post, but this video edged out the others. I liked the idea behind it : indirectly getting Magnus to talk about himself. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/12U0_QgZHxw?si=R8f-4HV6zwn0XSKN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Can AI Replace Magnus Carlsen?</B> (5:51) &#149; '[Published on] Nov 10, 2023' <P> The question posed by t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/11/real-magnus-dissects-ai-magnus.html",
+         "pubDate" : "Sun, 12 Nov 2023 16:09:00",
+         "title" : "Real Magnus Dissects AI Magnus"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 151st episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
@@ -690,14 +746,6 @@ news_feed (
          "title" : "First-Ever Chess Map"
       },
       {
-         "description" : "The FIDE Grand Swiss 2023 and the FIDE Women's Grand Swiss 2023 took place from 23 October to 6 November in the Isle of Man. The events gathered 114 players in the Open section and 50 competitors in the Women's event, featuring the total prize fund of $600,000 ($460,000 for the Grand Swiss and $140,000 for the Women's Grand Swiss). GM Vidit Santosh Gujrathi (IND, 2716) emerged as the Winner of the Open event scoring 8.5 points. Vidit was victorious []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-grand-swiss-2023-concluded-in-the-isle-of-man/",
-         "pubDate" : "Mon, 06 Nov 2023 21:00:36",
-         "title" : "FIDE Grand Swiss 2023 concluded in the Isle of Man"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -720,14 +768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2724",
          "pubDate" : "Mon, 06 Nov 2023 10:48:32 +0000",
          "title" : "Deputy Chair of FIDE Management Board visits India"
-      },
-      {
-         "description" : "The 8th edition of the European Small Nations Teams Chess Championship 2023 took place from 29 October to 4 November in Pomme d'Or Hotel, St Helier, Jersey. The team of Andorra emerged as the sole Winner of the event with the score of 17 match points. With eight victories and one drawn match, Andorra was two match points ahead of the runner-ups: Faroe Islands and Luxembourg who tied for silver with the score of 15 match points, each. Having a []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/andorra-wins-european-small-nations-team-chess-championship-2023/",
-         "pubDate" : "Mon, 06 Nov 2023 10:48:17",
-         "title" : "Andorra wins European Small Nations Team Chess Championship 2023"
       },
       {
          "description" : "",
@@ -1008,14 +1048,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/two-weeks-left-to-enter-the-nscc-girls-northern-semi-final/",
          "pubDate" : "Thu, 02 Nov 2023 14:23:45",
          "title" : "NSCC Girls Northern Semi-Final - event cancelled"
-      },
-      {
-         "description" : "Please find Live games link for 36th National Under 09 Open &#38; Girls Chess Championships 2023.Open (36th National Under 09 Open Chess Championship 2023) Link https://view.livechesscloud.com#6b9b0b7f-9dfc-4653-b4b0-a8f765fab370Girls ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-36th-national-under-09-open-girls-chess-championships-2023/",
-         "pubDate" : "Thu, 02 Nov 2023 07:25:14",
-         "title" : "Live games link for 36th National Under - 09 Open & Girls Chess Championships 2023"
       },
       {
          "description" : "",
