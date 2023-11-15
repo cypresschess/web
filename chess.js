@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It can happen so quickly. Yesterday Vincent Keymer was the second best 18-year-old chess player in the world, today he is the world's best 19-year old - today, 15 November 2023, Keymer is celebrating his 19th birthday. As befits a chess professional, at the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vincent-keymer-turns-19",
+         "pubDate" : "Wed, 15 Nov 2023 20:43:53",
+         "title" : "Congratulations! Vincent Keymer turns 19"
+      },
+      {
+         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
+         "pubDate" : "Wed, 15 Nov 2023 18:30:00",
+         "title" : "Saint Louis Rapid & Blitz, Day 2: Live"
+      },
+      {
+         "description" : "Fritz 19 leads with 1.5 to 0.5, against the humans, by beating Leon Mendonca, and drawing with Elisabeth Paehtz. Robert Ris is now facing the aggressive bull at strong club player level. And quickly, The Dutch IM has a piece more against Fritz 19! Unfortunately, the bull storms towards Robert with countless threats! Who will prevail?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-vs-fritz-19-the-aggressive-strong-club-player",
+         "pubDate" : "Wed, 15 Nov 2023 18:00:00",
+         "title" : "Robert Ris vs. Fritz 19 - The Aggressive (Strong Club Player)"
+      },
+      {
          "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +47,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2741",
          "pubDate" : "Wed, 15 Nov 2023 11:26:58 +0000",
-         "title" : "Chess4Peace, a project for women from Ukraine, lauched in Poland"
+         "title" : "Chess4Peace, a project for women from Ukraine, launched in Poland"
       },
       {
          "description" : "",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2742",
          "pubDate" : "Wed, 15 Nov 2023 10:45:29 +0000",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 1 Recap"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk advances to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after defeating IM Vaishali Rameshbabu 13-8. She will play GM Hou Yifan in the Semifinals on Thursday. The &#34;Chess Queen,&#34; who&#39;s also participatin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-kosteniuk-wins",
+         "pubDate" : "Wed, 15 Nov 2023 10:44:00 -0800",
+         "title" : "\"Chess Queen\" Kosteniuk Wins Battle Of Generations Vs. Vaishali"
       },
       {
          "description" : "No more teams have perfect scores in either section of the European Team Championships. In the open tournament, Armenia joined Germany and Poland in the lead thanks to a 3-1 victory over Israel. In the women's tournament, Germany joined Azerbaijan and France thanks to a 2&frac12;-1&frac12; victory over Hungary. Meanwhile, Magnus Carlsen scored his third win of the event, as he helped Norway to grab 2 match points in their match against Finland. | Photo: Mark Livshitz",
@@ -80,6 +112,14 @@ news_feed (
          "link" : "https://www.europechess.org/etcc2023-three-way-tie-for-the-top-of-both-open-womens-events-after-4-played-rounds/",
          "pubDate" : "Wed, 15 Nov 2023 08:50:32",
          "title" : "#ETCC2023 - Three-way tie for the top of both Open & Women's events after 4 played rounds"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won his first Titled Tuesday in over a month in the first tournament of November 14, while GM Arjun Erigaisi won his first ever in the late event. Both scored 9.5 points out of 11. Nakamura, coming off a peak record-breaking 333...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-arjun-win-titled-tuesday-november-14-2023",
+         "pubDate" : "Wed, 15 Nov 2023 08:26:00 -0800",
+         "title" : "Nakamura, Fresh Off Blitz Rating Record, Wins Titled Tuesday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0AiLYu47NbY.jpg?itok=jD84nhlM\" alt=\"\" /></a></div>",
@@ -346,14 +386,6 @@ news_feed (
          "title" : "Luis Engel: Najdorf: A dynamic grandmaster repertoire against 1.e4 Vol. 1 & 2"
       },
       {
-         "description" : "Ivan Sokolov's long awaited \"Understanding Middlegame Strategies\" continues! The dutch Grandmaster and star coach released three new volumes on the French Winawer, Catalan Structures, and the French Tarrasch Variation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sokolov-understanding-middlegame-structures-vol-7-vol-8-vol-9",
-         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
-         "title" : "Sokolov: Understanding Middlegame Structures, Vol. 7, Vol. 8 & Vol. 9"
-      },
-      {
          "description" : "GMs Hou Yifan and Harika Dronavalli move on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after convincingly defeating IM Polina Shuvalova and GM Valentina Gunina, respectively.&#38;nbsp; Hou, the favorite, was actually at a tw...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -368,14 +400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/what-is-master.html",
          "pubDate" : "Mon, 13 Nov 2023 12:50:00",
          "title" : "What is a Master?"
-      },
-      {
-         "description" : "After two rounds in the open section of the European Team Championship, six teams are sharing first place with 4/4 match points: Germany, France, the Netherlands, Serbia, Poland and Israel. Among the six teams standing a match point behind is Austria, who stunned Norway despite Valentin Dragnev failing to make the most of an advantageous position over Magnus Carlsen. In the women's section, Azerbaijan, France, Poland, Spain and Serbia are sharing the lead, with Spain joining the leading pack after beating the top seeds from Georgia. | Photo: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r2",
-         "pubDate" : "Mon, 13 Nov 2023 12:10:00",
-         "title" : "Euro Teams: Six leaders, Carlsen escapes against Dragnev"
       },
       {
          "description" : "The second round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro. Only six teams in Open section and five teams in the Women's event managed to score the second consecutive match win to reach the maximum 4 match points and lead in the tournament. After two played rounds the leaders of the Open section are the teams of: Germany, France, Netherlands, Serbia, Poland, and Israel. The early leaders of the Women's championship are: Azerbaijan, France, []",
@@ -408,14 +432,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/real-magnus-dissects-ai-magnus.html",
          "pubDate" : "Sun, 12 Nov 2023 16:09:00",
          "title" : "Real Magnus Dissects AI Magnus"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 151st episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-151-chess-history-in-a-nutshell-33",
-         "pubDate" : "Sun, 12 Nov 2023 15:00:00",
-         "title" : "Understanding before Moving 151: Chess history in a nutshell (33)"
       },
       {
          "description" : "",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "FIDE November 2023 rating list published"
       },
       {
-         "description" : "Four players share the lead after round eight of the FIDE Grand Swiss 2023. In the Women&#39;s, the same three players continue to share the lead.&#38;nbsp; All winning with the white pieces, GMs Andrey Esipenko, Fabiano Caruana, and Bogdan-Daniel Deac ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-8",
-         "pubDate" : "Thu, 02 Nov 2023 17:39:00",
-         "title" : "Esipenko Sacs Piece On Move 8, Plays Brilliancy"
-      },
-      {
          "description" : "The ECF offers its hearty congratulations to WCM Bodhana Sivanandan, the new World Cadets U8 Girls Champion for 2023. Bodhana is the first English player...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2714",
          "pubDate" : "Thu, 02 Nov 2023 00:18:57 +0000",
          "title" : "Nakamura invokes Fischer's spirit in Round 7 of FIDE Grand Swiss"
-      },
-      {
-         "description" : "GM Vidit Gujrathi shot into the sole lead of the&#38;nbsp;FIDE Grand Swiss 2023 in round seven with 5.5 points, while three players are tied with that same score in the&#38;nbsp;Women&#39;s. After losing with a blunder in round one, Vidit has now won five o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-7",
-         "pubDate" : "Wed, 01 Nov 2023 16:52:00",
-         "title" : "'Express Train' Vidit Leads Open"
       },
       {
          "description" : "",
