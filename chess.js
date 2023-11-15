@@ -2,7 +2,63 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Nastya Karlovych for the move-by-move. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field",
+         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QbWQtpZbAgQ.jpg?itok=dkYocIsX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz",
+         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
+         "title" : "Xiong on His Idol Kramnik, Learning with Kasparov, and More | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after going 1-0-2 in the first three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-don%E2%80%99t-know-why-fabi-plays-berlin-against-me-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5HYUXkRxveU.jpg?itok=E__ckuwm\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-don%E2%80%99t-know-why-fabi-plays-berlin-against-me-d1-stlrapidblitz",
+         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
+         "title" : "Firouzja: Don't Know Why Fabi Plays Berlin Against Me! | D1 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich after going 0-0-3 in the first three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-%E2%80%98missed-opportunities%E2%80%99-are-all-relative-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgwIOLxPcYs.jpg?itok=Zxb8deWV\" alt=\"\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-%E2%80%98missed-opportunities%E2%80%99-are-all-relative-d1-stlrapidblitz",
+         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
+         "title" : "Giri: 'Missed Opportunities' Are All Relative | D1 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Liem Le talks to Anastasiya Karlovich after going 2-0-1 in the first three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/liem-le-good-start-it%E2%80%99s-just-first-day-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xdv2uQ5DLt0.jpg?itok=RrehkbCK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/liem-le-good-start-it%E2%80%99s-just-first-day-d1-stlrapidblitz",
+         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
+         "title" : "Liem Le: A Good Start, But It's Just The First Day | D1 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.16<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-3-grandchesstour",
+         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
+         "title" : "2023 Saint Louis Rapid & Blitz: Day 3 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join a commentary team TBA for the move-by-move. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-1-grandchesstour",
+         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
+         "title" : "2023 Sinquefield Cup: Round 1 | #GrandChessTour"
+      },
+      {
+         "description" : "Clinical wins over GMs Wesley So and Jeffery Xiong have left GM Le Quang Liem in the sole lead on 2.5/3 at the 2023 Saint Louis Rapid &#38;amp; Blitz after the first day of play. The start would have been a perfect 3/3 if not for a mistake that cost h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-1",
+         "pubDate" : "Tue, 14 Nov 2023 19:47:56 -0800",
+         "title" : "Le Takes Lead As Saint Louis Rapid & Blitz Begins With A Bang"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.15<br /> GrandChessTour.org RAPID ROUND 4 | 25 Min. Incr. 10 Sec.<br /> | GAME = 2 PTS<br /> Liem Le (5) vs. Sam Sevian (3) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-2-grandchesstour",
@@ -466,22 +522,6 @@ news_feed (
          "title" : "2023 US Chess Championships | Leinier Dominguez on Today's Approach to Classical Chess | #shorts"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023 US Chess Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-us-chess-championships-jennifer-yu-lets-just-play-nimzo-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vqu9uOA4Qqs.jpg?itok=Cfiuqm7w\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-us-chess-championships-jennifer-yu-lets-just-play-nimzo-shorts",
-         "pubDate" : "Thu, 09 Nov 2023 19:39:53",
-         "title" : "2023 US Chess Championships | Jennifer Yu \"Lets just play the Nimzo!\" | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Join GMs Peter Svidler, Yasser Seirawan, &amp; IM Tania Sachdev from November 14-18 at 1:05 P.M. CST. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-grandchesstour-p",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-grandchesstour-promo",
-         "pubDate" : "Thu, 09 Nov 2023 19:39:53",
-         "title" : "2023 Saint Louis Rapid & Blitz | #GrandChessTour | PROMO"
-      },
-      {
          "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2024 which will take place from 20 June to 28 June in Rhodes, Greece. The event will be held in the Conference Hall of the 5-star Rodos Palace Hotel and is co-organized by Rhodes Chess Club &#8220;Ippotis&#8221; The event will be played in two age categories U12 and U18, 4 tournaments open and girls sections separately. Each national federation []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -610,36 +650,12 @@ news_feed (
          "title" : "I am glad that I kept persisting: Vidit Gujrathi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra interacts with the chess audience while tackling tactics puzzles on lichess.org. 2023.11.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tactics-time-grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QHd38ToH3X4.jpg?itok=kT6kY5TN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tactics-time-grandmasters-choice-gm-akshat-chandra",
-         "pubDate" : "Wed, 08 Nov 2023 01:37:56",
-         "title" : "Tactics Time! Grandmaster's Choice - GM Akshat Chandra"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2728",
          "pubDate" : "Tue, 07 Nov 2023 23:08:43 +0000",
          "title" : "EDU Commission announces its 12th Preparation of Teachers course"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a chess class about pins. Maybe you can spot a pin in a puzzle, but how do you set up a pin in a real game? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/44WFJaBjNsY.jpg?itok=KbkrODuh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/create-and-utilize-pins-beginner-breakdown-nm-ralph-tan",
-         "pubDate" : "Tue, 07 Nov 2023 19:37:34",
-         "title" : "Create and Utilize Pins | Beginner Breakdown - NM Ralph Tan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Akshat Chandra teaches a chess class on a topic of his choice. 2023.11.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-akshat-chandra\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QHd38ToH3X4.jpg?itok=kT6kY5TN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-akshat-chandra",
-         "pubDate" : "Tue, 07 Nov 2023 19:37:34",
-         "title" : "Grandmaster's Choice - GM Akshat Chandra"
       },
       {
          "description" : "British chess has gotten another boost as legends GM Michael Adams (50+) and GM John Nunn (65+) both secured gold medals in the World Senior Championship last week. WGM Monica Calzetta Ruiz (50+) from Spain and WGM Galina Strutinskaia (65+) won wo...",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/two-new-director-appointments/",
          "pubDate" : "Wed, 01 Nov 2023 09:57:23",
          "title" : "Two new Director appointments"
-      },
-      {
-         "description" : "&#34;It&#39;s still my favorite tournament of the year!&#34; said super-GM Daniil Dubov, after conceding just one draw in eight games to win the 2023 Halloween Mystery Banter Blitz. Dubov, wearing a Scream mask, had overcome GM Oleksandr Bortnyk (in a Vampire...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-wins-2023-halloween-mystery-blitz",
-         "pubDate" : "Wed, 01 Nov 2023 08:20:00",
-         "title" : "Dubov Wins Halloween Mystery Banter Blitz For 2nd Year In A Row"
       },
       {
          "description" : "India is on its way to becoming the biggest super-power in chess. Some of the credit goes to ChessBase India, which has organized a large number of projects to foster this development. CEO Sagar Shah is now on a mission to make chess a subject of the regular school curriculum, not just to generate further champions, but to foster the social and learning skills of students. Currently he is holding a seminar on how to implement chess in schools across entire states. Here are his talking points.",
