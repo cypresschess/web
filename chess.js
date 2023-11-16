@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 2. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-last-2-tour-events-will-be-critical-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e-sziM_EPBQ.jpg?itok=rhkAwpzS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-last-2-tour-events-will-be-critical-stlrapidblitz",
+         "pubDate" : "Wed, 15 Nov 2023 22:46:27",
+         "title" : "Caruana: Last 2 Tour Events Will Be Critical | #STLRapidBlitz"
+      },
+      {
          "description" : "It can happen so quickly. Yesterday Vincent Keymer was the second best 18-year-old chess player in the world, today he is the world's best 19-year old - today, 15 November 2023, Keymer is celebrating his 19th birthday. As befits a chess professional, at the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "European Team Championship - Live!"
       },
       {
+         "description" : "After standing for nearly four years, the record for the highest blitz rating on Chess.com (previously 3332) has twice been beaten by GM Hikaru Nakamura. Nakamura posted new rating highs of 3334 and 3336 while streaming live on Kick on Monday and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-breaks-rating-record-chesscom-blitz",
+         "pubDate" : "Wed, 15 Nov 2023 14:43:00 -0800",
+         "title" : "Nakamura Records Highest Ever Blitz Rating On Chess.com"
+      },
+      {
          "description" : "In chess, blunders are inevitable. Of course, you might try to minimize them with tactical training, but you will never be able to get rid of them altogether. The same is true for unpleasant surprises. Whatever you do to be fully prepared for anything that might happen at the board, your opponent will still be time to time able to play a nasty unexpected move that gets you in a state of shock and horror. | Photo: A shocked Magnus Carlsen, analysing a game he played against Levon Aronian at the Grand Chess Tour tournament in Zagreb 2019 | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -63,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-kosteniuk-wins",
          "pubDate" : "Wed, 15 Nov 2023 10:44:00 -0800",
-         "title" : "\"Chess Queen\" Kosteniuk Wins Battle Of Generations Vs. Vaishali"
+         "title" : "'Chess Queen' Kosteniuk Wins Battle Of Generations Vs. Vaishali"
       },
       {
          "description" : "No more teams have perfect scores in either section of the European Team Championships. In the open tournament, Armenia joined Germany and Poland in the lead thanks to a 3-1 victory over Israel. In the women's tournament, Germany joined Azerbaijan and France thanks to a 2&frac12;-1&frac12; victory over Hungary. Meanwhile, Magnus Carlsen scored his third win of the event, as he helped Norway to grab 2 match points in their match against Finland. | Photo: Mark Livshitz",
@@ -178,7 +194,7 @@ news_feed (
          "title" : "Magnus And Hikaru Face Final Battle: Stage Set For New Over The Board Champions Chess Tour Finals 2023 In Toronto"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QbWQtpZbAgQ.jpg?itok=dkYocIsX\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 1. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QbWQtpZbAgQ.jpg?itok=dkYocIsX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/giri-%E2%80%98missed-opportunities%E2%80%99-are-all-relative-d1-stlrapidblitz",
          "pubDate" : "Wed, 15 Nov 2023 01:45:25",
          "title" : "Giri: 'Missed Opportunities' Are All Relative | D1 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Liem Le talks to Anastasiya Karlovich after going 2-0-1 in the first three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/liem-le-good-start-it%E2%80%99s-just-first-day-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xdv2uQ5DLt0.jpg?itok=RrehkbCK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/liem-le-good-start-it%E2%80%99s-just-first-day-d1-stlrapidblitz",
-         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
-         "title" : "Liem Le: A Good Start, But It's Just The First Day | D1 #STLRapidBlitz"
       },
       {
          "description" : "Clinical wins over GMs Wesley So and Jeffery Xiong have left GM Le Quang Liem in the sole lead on 5/6 at the 2023 Saint Louis Rapid &#38;amp; Blitz after the first day of play. The start would have been a perfect 6/6 if not for a mistake that cost him...",
@@ -986,14 +994,6 @@ news_feed (
          "title" : "Chess: Caruana and Nakamura join leaders as Grand Swiss nears finale"
       },
       {
-         "description" : "GMs Hikaru Nakamura and Parham Maghsoodloo each won in round nine of the FIDE Grand Swiss 2023&#38;nbsp;to catch the leaders, GMs Andrey Esipenko, Vidit Gujrathi, Fabiano Caruana, and Bogdan-Daniel Deac. In the Women&#39;s, Vaishali Rameshbabu has captu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-9",
-         "pubDate" : "Fri, 03 Nov 2023 20:09:00",
-         "title" : "Maghsoodloo, Nakamura Join Leaders"
-      },
-      {
          "description" : "Today, I will teach you how to think during a Chess game. Most students draw a blank when I ask them: \"What goes through your mind during a game?\" That's a big problem! It is an explanation of a common phenomenon: Making moves you would never do without the adrenaline and stress. Thanks to a simple thought process, you can make more logical decisions and avoid emotional decisions that cause disaster. Right Process + Wrong Move is Better Than Wrong Process + Right Move. Most good Coaches in...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1312,22 +1312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-doctor-chess-artist",
          "pubDate" : "Thu, 26 Oct 2023 09:00:00",
          "title" : "The Doctor Chess Artist"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2701",
-         "pubDate" : "Wed, 25 Oct 2023 22:56:25 +0000",
-         "title" : "FIDE World Senior Championship 2023 kicks off in Terrasini, Italy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2700",
-         "pubDate" : "Wed, 25 Oct 2023 22:15:34 +0000",
-         "title" : "FIDE Grand Swiss: Day 1 Recap"
       }
    ]
 }
