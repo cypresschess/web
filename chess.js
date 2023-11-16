@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three more games to go, and the score between humans vs. Fritz 19 is now 1.5 to 1.5, after Robert Ris conquered the aggressive bull. Svitlana Demchenko's opponent is the turtle, an endgame aficionado. This animal is considered one of the more challenging Fritz 19 characters, and difficult to break. In the Sicilian Kan Variation, the Canadian WIM cannot really advance, until a material imbalance shows up out of nowhere! But things aren't getting easier ...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-demchenko-vs-fritz-19-the-endgame-pro-strong-club-player",
+         "pubDate" : "Thu, 16 Nov 2023 13:00:00",
+         "title" : "Svitlana Demchenko vs. Fritz 19 - The Endgame Pro (Strong Club Player)"
+      },
+      {
+         "description" : " While most players know the shortest checkmate for Black (2 moves) and the shortest for White ( 3 moves), they normally do not appear in real life, unless there is some funny business going on. So when I did see it in real life the other day I was certainly shocked. The game was between two young juniors, and it was certainly a proper game (it certainly wasn't arranged). It ended in a win for White after <b>1.e4 e5 2.Qh5 Ke7 3.Qxe5#</b> In fact the checkmate cam as a surprise to both players, as they weren't sure it was a mate, and spent a couple of minutes before they were both convinced it was. When I asked the Black player what happened, she simply said \"I touched my King, and had to mov",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/i-have-now-seen-this-happen.html",
+         "pubDate" : "Thu, 16 Nov 2023 12:01:00",
+         "title" : "I have now seen this happen"
+      },
+      {
+         "description" : "The more decisions you must make daily, the worse they get. This phenomenon is called decision fatigue. After a long workday, thinking about chess moves gets harder. Not only because you are tired, but also because you've already made so many decisions. Two Solutions: 1) Train Chess first thing in the morning 2) Eliminate &#38; []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/decision-fatigue/",
+         "pubDate" : "Thu, 16 Nov 2023 11:41:39",
+         "title" : "Chess Clarity: Overcoming Decision Fatigue for Peak Performance"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2744",
+         "pubDate" : "Thu, 16 Nov 2023 10:50:38 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2023: Day 2 Recap"
+      },
+      {
+         "description" : "Five rounds are played at the European Team Chess Championship 2023 and Germany emerged as the sole leader of the Open section, while France and Azerbaijan co-lead in the Women's Championship. In the direct encounter for the sole lead, Germany defeated Armenia yesterday, with a convincing score of 3-1. GM Vincent Keymer (GER, 2721) couldn't get a better present for his 19th birthday than a team win and a beautiful victory against GM Haik Martirosyan (ARM, 2708). GM Matthias Bluebaum []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/etcc2023-germany-leads-open-azerbaijan-and-france-co-lead-in-the-womens-event/",
+         "pubDate" : "Thu, 16 Nov 2023 10:45:49",
+         "title" : "#ETCC2023 - Germany leads Open, Azerbaijan and France co-lead in the Women's event"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Andhra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 16 17 Dec 2023",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-vizianagaram-andhra-pradesh-16-17-dec-2023/",
+         "pubDate" : "Thu, 16 Nov 2023 10:38:53",
+         "title" : "Senior National Arbiter Seminar & Exam at Vizianagaram Andhra Pradesh 16-17 Dec 2023"
+      },
+      {
+         "description" : "Dirk Jan ten Geuzendam, author, organiser, commentator, chess book collector and editor-in-chief of the renowned chess magazine \"New in Chess\", has conducted numerous interviews with top players over the last four decades. When Sagar Shah, founder and director of ChessBase India, recently visited Holland, he changed roles and interviewed the experienced interviewer. This led to an entertaining conversation about chess books and memories of meeting players such as Kasparov, Karpov, Tal, Anand and many others.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-books-and-chess-stories-sagar-shah-interviews-dirk-jan-ten-geuzendam",
+         "pubDate" : "Thu, 16 Nov 2023 10:31:29",
+         "title" : "The amazing book collection of Dirk Jan ten Geuzendam: A true chess connaisseur - an interview with Sagar Shah"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-alireza-firouzja-sacrifices-queen-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F3dN3zdxQ-A.jpg?itok=oDcALpWq\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,11 +146,19 @@ news_feed (
          "title" : "Congratulations! Vincent Keymer turns 19"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2743",
+         "pubDate" : "Wed, 15 Nov 2023 20:00:58 +0000",
+         "title" : "WSCC 2023: Hou Yifan, Harika, Lagno and Kosteniuk advance to semis"
+      },
+      {
          "description" : "GM Ray Robson scored a crucial win over GM Alireza Firouzja in round six of the 2023 Saint Louis Rapid &#38;amp; Blitz on the white side of the King&#39;s Indian Defense: Makogonov Variation on Wednesday. Robson entered the sole lead thanks to day-one l...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-2",
-         "pubDate" : "Wed, 15 Nov 2023 19:45:54 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 19:45:00 -0800",
          "title" : "Flagging, Incorrect Draw Claim, And Missed Chances As Robson Hits The Front"
       },
       {
@@ -386,28 +450,12 @@ news_feed (
          "title" : "Poland, Germany On Perfect Score; Carlsen Can't Save Norway"
       },
       {
-         "description" : "In the Endgame Magic Show #255 Karsten M&uuml;ller and endgame aficionado Ted Jewell continue to analyse endgame highlights, this time they look at endgame gems from the Qatar Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-250-world-rapid-teams-6",
-         "pubDate" : "Mon, 13 Nov 2023 18:00:00",
-         "title" : "Endgame Magic #255 - with Ted Jewell: Highlights from the Qatar Open 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2737",
          "pubDate" : "Mon, 13 Nov 2023 17:14:25 +0000",
          "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
-      },
-      {
-         "description" : "The Sicilian Najdorf is one of the most popular openings after 1.e4 and is part of the repertoire of almost all top players. In two volumes, the young Hamburg grandmaster presents all of White's answers and shows how Black can aggressively realise his strategic plans. With exercises and tests.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/luis-engel-najdorf-a-dynamic-grandmaster-repertoire-against-1-e4-vol-1-2",
-         "pubDate" : "Mon, 13 Nov 2023 15:00:00",
-         "title" : "Luis Engel: Najdorf: A dynamic grandmaster repertoire against 1.e4 Vol. 1 & 2"
       },
       {
          "description" : "GMs Hou Yifan and Harika Dronavalli move on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after convincingly defeating IM Polina Shuvalova and GM Valentina Gunina, respectively.&#38;nbsp; Hou, the favorite, was actually at a tw...",
@@ -730,14 +778,6 @@ news_feed (
          "title" : "Magnus Secures The Sweep"
       },
       {
-         "description" : "The Slovenian Chess Federation and the European Chess Union (ECU) have the honour to invite all senior players from all over Europe to participate in the European Senior Team Chess Championship 2024 (categories 50+ and 65+), which will take place from May 6 to May 16 in Brezice, Slovenia. The event will be played in two age categories: 50+ and 65+, open and women's sections separately, 9 rounds, swiss system. If there is less than 8 teams in the Women's []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-official-invitation/",
-         "pubDate" : "Wed, 08 Nov 2023 07:19:53",
-         "title" : "European Senior Team Chess Championship 2024 - Official invitation"
-      },
-      {
          "description" : "FIDE has announced the venue for the 2023 FIDE World Rapid and Blitz Championships. The world governing body of chess confirmed the traditional Christmas event will take place in Samarkand, Uzbekistan, from December 26 to 30, with a $1 million p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -944,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2720",
          "pubDate" : "Sun, 05 Nov 2023 08:42:34 +0000",
          "title" : "A thrilling Round 3 at World Amateur Chess Championship 2023 "
-      },
-      {
-         "description" : "Maharashtra Chess Association under the aegis of All India Chess Federation has organized AICF Live Orientation seminar at Deccan Gymkhana Club on 28.10.2023 and 29.10.2023 in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-on-aicf-live-orientation-workship-at-pune-on-28-10-2023-and-29-10-2023/",
-         "pubDate" : "Sun, 05 Nov 2023 06:47:04",
-         "title" : "Report on AICF Live Orientation Workship at Pune on 28.10.2023 and 29.10.2023"
       },
       {
          "description" : "",
@@ -1304,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2702",
          "pubDate" : "Thu, 26 Oct 2023 21:51:13 +0000",
          "title" : "FIDE Grand Swiss: Trench warfare in Round 2"
-      },
-      {
-         "description" : "He is an internist, a gastroenterologist at a Berlin hospital. He is also an avid chess player. And a photographer, who founded the Valokulta art group. Dr Jan W&auml;hner has sent us some extraordinary pictures from the 2024 calendar, for which his good friend GM Dr Helmut Pfleger has written the foreword.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-doctor-chess-artist",
-         "pubDate" : "Thu, 26 Oct 2023 09:00:00",
-         "title" : "The Doctor Chess Artist"
       }
    ]
 }
