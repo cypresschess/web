@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Germany beat Armenia to grab the sole lead after five rounds in the open section of the European Team Championship. Wins for Vincent Keymer and Matthias Bluebaum, both with black, gave the Germans match victory. Four teams are sharing second place a match point back, including Romania, who defeated the former co-leaders from Poland. In the women's championship, France and Azerbaijan scored convincing wins to remain as co-leaders going into the rest day. | Photo: Paul Meyer-Dunker / German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r5",
+         "pubDate" : "Thu, 16 Nov 2023 02:30:00",
+         "title" : "Euro Teams: Germany in the sole lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 2. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-i-know-i-can-beat-world%E2%80%99s-elite-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sB9m0vV6czk.jpg?itok=eYASZ2lq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-i-know-i-can-beat-world%E2%80%99s-elite-stlrapidblitz",
+         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
+         "title" : "Sevian: I Know I Can Beat The World's Elite | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after going 1-0-2 in the middle three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-defends-%E2%80%98very-well%E2%80%99-against-liem-le-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pitbgG379cE.jpg?itok=o-NmuTr1\" al",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-defends-%E2%80%98very-well%E2%80%99-against-liem-le-d2-stlrapidblitz",
+         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
+         "title" : "Caruana Defends 'Very Well' Against Liem Le! | D2 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after going 1-0-2 in the middle three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i%E2%80%99m-gonna-push-my-luck-tomorrow-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tBT2hREgaHc.jpg?itok=Tdk2-xEH\" alt=\"\" /></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-i%E2%80%99m-gonna-push-my-luck-tomorrow-d2-stlrapidblitz",
+         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
+         "title" : "MVL: I'm Gonna Push My Luck Tomorrow | D2 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.17<br /> GrandChessTour.org BLITZ ROUND ROBIN | 5 Min. Incr. 2 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-4-grandchesstour",
+         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
+         "title" : "2023 Saint Louis Rapid & Blitz: Day 4 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Anastasiya Karlovich after going 1-0-2 in the middle three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-lead-not-expected-i-should-be-happy-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VQMt_8_KJes.jpg?itok=DHLzp5Va\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robson-lead-not-expected-i-should-be-happy-d2-stlrapidblitz",
+         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
+         "title" : "Robson: Lead Not Expected, But I Should Be Happy | D2 #STLRapidBlitz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 2. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-last-2-tour-events-will-be-critical-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e-sziM_EPBQ.jpg?itok=rhkAwpzS\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vincent-keymer-turns-19",
          "pubDate" : "Wed, 15 Nov 2023 20:43:53",
          "title" : "Congratulations! Vincent Keymer turns 19"
+      },
+      {
+         "description" : "GM Ray Robson scored a crucial win over GM Alireza Firouzja in round six of the 2023 Saint Louis Rapid &#38;amp; Blitz on the white side of the King&#39;s Indian Defense: Makogonov Variation on Wednesday. Robson entered the sole lead thanks to day-one l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-2",
+         "pubDate" : "Wed, 15 Nov 2023 19:45:54 -0800",
+         "title" : "Flagging, Incorrect Draw Claim, And Missed Chances As Robson Hits The Front"
       },
       {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
@@ -34,12 +90,12 @@ news_feed (
          "title" : "Robert Ris vs. Fritz 19 - The Aggressive (Strong Club Player)"
       },
       {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Wed, 15 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
+         "description" : "GM Vincent Keymer celebrated his 19th birthday with a win over Armenia&#39;s GM Haik Martirosyan that gave Germany the sole lead after round five of the 2023 European Team Chess Championship and took the young star up to world number-17 on the live ra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-4-5",
+         "pubDate" : "Wed, 15 Nov 2023 17:53:00 -0800",
+         "title" : "Keymer Gives Germany Sole Lead On His 19th Birthday"
       },
       {
          "description" : "After standing for nearly four years, the record for the highest blitz rating on Chess.com (previously 3332) has twice been beaten by GM Hikaru Nakamura. Nakamura posted new rating highs of 3334 and 3336 while streaming live on Kick on Monday and ...",
@@ -170,52 +226,12 @@ news_feed (
          "title" : "2023 Saint Louis Rapid and Blitz | Standings After Rapid Round 1 | #shorts"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-turns-around-losing-position-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qF5Es9ThqKk.jpg?itok=hVoHm-qf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-turns-around-losing-position-shorts",
-         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
-         "title" : "2023 Saint Louis Rapid & Blitz | Maxime Vachier-Lagrave Turns Around Losing Position! | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-nepo-blunders-round-1-against-sam-sevian-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t1QqOik1QxU.jpg?itok=_Pjw3S98\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-nepo-blunders-round-1-against-sam-sevian-shorts",
-         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
-         "title" : "2023 Saint Louis Rapid & Blitz | Nepo Blunders in Round 1 against Sam Sevian | #shorts"
-      },
-      {
          "description" : "Finally, it comes down to this. GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest names in chess, go head-to-head with the top players of 2023 as Chess.com&#38;rsquo;s $2 million Champions Chess Tour reaches its grand finale next month. For ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-and-hikaru-final-battle-champions-chess-tour-finals-2023",
          "pubDate" : "Wed, 15 Nov 2023 07:08:18 -0800",
          "title" : "Magnus And Hikaru Face Final Battle: Stage Set For New Over The Board Champions Chess Tour Finals 2023 In Toronto"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 1. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QbWQtpZbAgQ.jpg?itok=dkYocIsX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/xiong-his-idol-kramnik-learning-kasparov-and-more-stlrapidblitz",
-         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
-         "title" : "Xiong on His Idol Kramnik, Learning with Kasparov, and More | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after going 1-0-2 in the first three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-don%E2%80%99t-know-why-fabi-plays-berlin-against-me-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5HYUXkRxveU.jpg?itok=E__ckuwm\" a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-don%E2%80%99t-know-why-fabi-plays-berlin-against-me-d1-stlrapidblitz",
-         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
-         "title" : "Firouzja: Don't Know Why Fabi Plays Berlin Against Me! | D1 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich after going 0-0-3 in the first three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.14<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-%E2%80%98missed-opportunities%E2%80%99-are-all-relative-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgwIOLxPcYs.jpg?itok=Zxb8deWV\" alt=\"\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-%E2%80%98missed-opportunities%E2%80%99-are-all-relative-d1-stlrapidblitz",
-         "pubDate" : "Wed, 15 Nov 2023 01:45:25",
-         "title" : "Giri: 'Missed Opportunities' Are All Relative | D1 #STLRapidBlitz"
       },
       {
          "description" : "Clinical wins over GMs Wesley So and Jeffery Xiong have left GM Le Quang Liem in the sole lead on 5/6 at the 2023 Saint Louis Rapid &#38;amp; Blitz after the first day of play. The start would have been a perfect 6/6 if not for a mistake that cost him...",
@@ -954,28 +970,12 @@ news_feed (
          "title" : "Brawl Winner Martinez Makes Knight-Bishop Checkmate With 12 Seconds On Clock"
       },
       {
-         "description" : "GMs Hikaru Nakamura, Vidit Gujrathi, and Andrey Esipenko lead the FIDE Grand Swiss 2023 with 7.5 points going into the last round. They beat, respectively, GMs Fabiano Caruana, Bogdan-Daniel Deac, and Parham Maghsoodloo. As a historic feat, there ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-round-10",
-         "pubDate" : "Sat, 04 Nov 2023 18:15:00",
-         "title" : "Nakamura Overcomes Caruana, Leads With Esipenko, Vidit Before Last Round"
-      },
-      {
          "description" : "France has scored two notable successes in recent events. In Mexico the rising French star Marc Andria Maurizzi has won the Junior World Championship. The 16-year-old emerged at the top on tie-break, well ahead of the favourite Hans Niemann, the new American prodigy Andy Woodward and Britain's hope, Shreyas Royal. Next, the experienced French Grandmaster Maxime Vachier-Lagrave has decisively []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/la-gloire-de-la-france-aux-echecs/",
          "pubDate" : "Sat, 04 Nov 2023 15:54:12",
          "title" : "La gloire de la France aux &eacute;checs"
-      },
-      {
-         "description" : "GM Ding Liren has withdrawn from several events since becoming world champion. Now the Chinese star reveals to Chess.com that an unspecified illness is the cause of his absence and that he intends to return to tournament play in 2024. Where is D...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-reveals-reasons-for-absence-expects-2024-comeback",
-         "pubDate" : "Sat, 04 Nov 2023 14:04:00",
-         "title" : "Ding Reveals Reason For Absence, Expects Comeback In 2024"
       },
       {
          "description" : "",
