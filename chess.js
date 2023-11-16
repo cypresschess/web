@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
+         "pubDate" : "Thu, 16 Nov 2023 18:30:00",
+         "title" : "Saint Louis Rapid & Blitz, Day 3: Live"
+      },
+      {
+         "description" : "Baskaran Adhiban had quite a rough start in the FIDE Grand Swiss, but that did not prevent him from returning to his trademark creative style in round six against Eduardo Iturrizaga. We don't want to give too many spoilers, but Paul Morphy would have been proud! In Game of the Week #594, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-594-adhiban-iturrizaga",
+         "pubDate" : "Thu, 16 Nov 2023 18:00:00",
+         "title" : "Game of the Week #594: Adhiban vs Iturrizaga"
+      },
+      {
          "description" : "At the age of 29 years, Vidit Gujrathi did something very special: he won the FIDE Grand Swiss outright and with it a spot in the FIDE Candidates Tournament 2024. In an personal conversation with Sagar Shah, Vidit speaks about what the title means to him, the role of his family and parents, and reveals his trainers. This Podcast gives an insight into the personal side of this world class GM.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-biggest-win-of-my-career",
          "pubDate" : "Thu, 16 Nov 2023 17:00:00",
          "title" : "\"The biggest win of my career\""
+      },
+      {
+         "description" : "Round 3 report of World Youth Chess Championship, Italy 2023U18 Open:IM ILAMPARTHI, A R is in the joint lead with a cent percent score (3/3)Mayak",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-3-report-wycc-italy-2023/",
+         "pubDate" : "Thu, 16 Nov 2023 16:43:44",
+         "title" : "Round 3 report WYCC Italy 2023"
       },
       {
          "description" : "The second day of rapid started off slow with ten straight draws, before an explosive final round left GM Ray Robson at the top of the standings after an important win over GM Alireza Firouzja. Heading into the final day of rapid, Robson leads with 8.0/12, while GMs Maxime Vachier Lagrave, Anish Giri, and Le Quang Liem trail closely behind with 7.0/12. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/i-have-now-seen-this-happen.html",
          "pubDate" : "Thu, 16 Nov 2023 12:01:00",
          "title" : "I have now seen this happen"
+      },
+      {
+         "description" : "GM Hou Yifan defeated GM Alexandra Kosteniuk 12.5-9.5 to secure her spot in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final.&#38;nbsp; The 22-game match saw just three draws. Kosteniuk led by one point at the end of each of the first two...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-hou-wins",
+         "pubDate" : "Thu, 16 Nov 2023 12:00:03 -0800",
+         "title" : "Hou Yifan Prevails In Clash Of World Champions"
       },
       {
          "description" : "The more decisions you must make daily, the worse they get. This phenomenon is called decision fatigue. After a long workday, thinking about chess moves gets harder. Not only because you are tired, but also because you've already made so many decisions. Two Solutions: 1) Train Chess first thing in the morning 2) Eliminate &#38; []",
@@ -416,22 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/leon-mendonca-vs-fritz-19-the-allrounder-gm-level",
          "pubDate" : "Tue, 14 Nov 2023 10:02:46",
          "title" : "Leon Mendonca vs. Fritz 19 - The Allrounder (GM level)"
-      },
-      {
-         "description" : "The engine that drives this program has just won the Computer Chess World Championship - in July it defended its title by winning it a second year straight. But the new software is not just super-strong: it also introduces a new era of chess training. It will help you maintain a repertoire, practice playing against it, teach you how to deal with different kinds of opponents. Let the programmer tell you exactly how this works.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/presenting-fritz-19",
-         "pubDate" : "Tue, 14 Nov 2023 09:40:00",
-         "title" : "Presenting: Fritz 19"
-      },
-      {
-         "description" : "The new Mega Database now contains over 10 million games and over 700,000 new games. With 112,000 annotated games, the Mega Database is also the largest annotated game collection in the world. The Mega Player Encyclopaedia contains 60,000 player names with over 40,000 player photos. Wow! All this is constantly being edited and expanded, e.g. with the automatic Mega Update!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mega-database-2024-more-than-700-000-new-games",
-         "pubDate" : "Tue, 14 Nov 2023 09:30:00",
-         "title" : "Mega Database 2024: More than 700,000 new games"
       },
       {
          "description" : "The third round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro, and both Open and Women's sections got two leaders with perfect score. Poland and Germany are co-leading the Open championship, while Azerbaijan and France emerged as the leaders of the Women's event scoring 6 match points, each. Ranked 3rd on the starting list, Germany was a favourite in the match against Serbia, and after tight fights claimed a narrow 2.5-1.5 victory. GM Matthias Bluebaum []",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "Double World Senior Chess Champions!"
       },
       {
-         "description" : "A big congratulations to GM Vidit Gujrathi and IM Vaishali winning Grand Swiss and qualifying for Fide Candidates!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-gm-vidit-gujrathi-and-im-vaishali-winning-grand-swiss-and-qualifying-for-fide-candidates/",
-         "pubDate" : "Mon, 06 Nov 2023 05:55:55",
-         "title" : "GM Vidit & IM Vaishali Wins FIDE Grand Swiss"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
          "pubDate" : "Sun, 05 Nov 2023 14:50:00",
          "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "GM Vidit Gujrathi has been confirmed as the winner of the 2023 FIDE Grand Swiss after defeating GM Alexandr Predke and finishing on 8.5/11 in what has been described as one of the strongest open tournaments of all time. Along with receiving $80,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-grand-swiss-vidit-wins",
-         "pubDate" : "Sun, 05 Nov 2023 14:06:00 -0800",
-         "title" : "Vidit Wins FIDE Grand Swiss, Nakamura Secures Candidates Spot"
       },
       {
          "description" : "",
