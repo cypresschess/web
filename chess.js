@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the age of 29 years, Vidit Gujrathi did something very special: he won the FIDE Grand Swiss outright and with it a spot in the FIDE Candidates Tournament 2024. In an personal conversation with Sagar Shah, Vidit speaks about what the title means to him, the role of his family and parents, and reveals his trainers. This Podcast gives an insight into the personal side of this world class GM.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-biggest-win-of-my-career",
+         "pubDate" : "Thu, 16 Nov 2023 17:00:00",
+         "title" : "\"The biggest win of my career\""
+      },
+      {
+         "description" : "The second day of rapid started off slow with ten straight draws, before an explosive final round left GM Ray Robson at the top of the standings after an important win over GM Alireza Firouzja. Heading into the final day of rapid, Robson leads with 8.0/12, while GMs Maxime Vachier Lagrave, Anish Giri, and Le Quang Liem trail closely behind with 7.0/12. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-2-robson-sole-leader",
+         "pubDate" : "Thu, 16 Nov 2023 16:30:00",
+         "title" : "St. Louis Rapid and Blitz, Day 2: Robson sole leader"
+      },
+      {
          "description" : "Three more games to go, and the score between humans vs. Fritz 19 is now 1.5 to 1.5, after Robert Ris conquered the aggressive bull. Svitlana Demchenko's opponent is the turtle, an endgame aficionado. This animal is considered one of the more challenging Fritz 19 characters, and difficult to break. In the Sicilian Kan Variation, the Canadian WIM cannot really advance, until a material imbalance shows up out of nowhere! But things aren't getting easier ...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-demchenko-vs-fritz-19-the-endgame-pro-strong-club-player",
          "pubDate" : "Thu, 16 Nov 2023 13:00:00",
          "title" : "Svitlana Demchenko vs. Fritz 19 - The Endgame Pro (Strong Club Player)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2745",
+         "pubDate" : "Thu, 16 Nov 2023 12:22:54 +0000",
+         "title" : "ETCC 2023: Germany forges ahead in Open, Azerbaijan and France co-lead women's event"
       },
       {
          "description" : " While most players know the shortest checkmate for Black (2 moves) and the shortest for White ( 3 moves), they normally do not appear in real life, unless there is some funny business going on. So when I did see it in real life the other day I was certainly shocked. The game was between two young juniors, and it was certainly a proper game (it certainly wasn't arranged). It ended in a win for White after <b>1.e4 e5 2.Qh5 Ke7 3.Qxe5#</b> In fact the checkmate cam as a surprise to both players, as they weren't sure it was a mate, and spent a couple of minutes before they were both convinced it was. When I asked the Black player what happened, she simply said \"I touched my King, and had to mov",
@@ -55,7 +79,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-books-and-chess-stories-sagar-shah-interviews-dirk-jan-ten-geuzendam",
          "pubDate" : "Thu, 16 Nov 2023 10:31:29",
-         "title" : "The amazing book collection of Dirk Jan ten Geuzendam: A true chess connaisseur - an interview with Sagar Shah"
+         "title" : "The amazing book collection of Dirk Jan ten Geuzendam: A true chess connoisseur - an interview with Sagar Shah"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-alireza-firouzja-sacrifices-queen-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F3dN3zdxQ-A.jpg?itok=oDcALpWq\" alt=\"\" /></a></div>",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-liem-claims-valid-threefold-rep-wrong-move-shorts",
          "pubDate" : "Thu, 16 Nov 2023 07:46:32",
          "title" : "2023 Saint Louis Rapid & Blitz | Liem Claims Valid Threefold Rep With The Wrong Move! | #shorts"
+      },
+      {
+         "description" : "Chess.com is excited to announce the newest addition to our lineup of athlete chess bots, the Spanish tennis phenom Carlos Alcaraz. You can challenge the young prodigy on our Play Computer page.&#38;nbsp; But beware: Alcaraz will bring to the che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlos-alcaraz-bot",
+         "pubDate" : "Thu, 16 Nov 2023 07:00:00 -0800",
+         "title" : "Play Chess Against Tennis Prodigy Carlos Alcaraz"
       },
       {
          "description" : "Germany beat Armenia to grab the sole lead after five rounds in the open section of the European Team Championship. Wins for Vincent Keymer and Matthias Bluebaum, both with black, gave the Germans match victory. Four teams are sharing second place a match point back, including Romania, who defeated the former co-leaders from Poland. In the women's championship, France and Azerbaijan scored convincing wins to remain as co-leaders going into the rest day. | Photo: Paul Meyer-Dunker / German Chess Federation",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-2",
          "pubDate" : "Wed, 15 Nov 2023 19:45:00 -0800",
          "title" : "Flagging, Incorrect Draw Claim, And Missed Chances As Robson Hits The Front"
-      },
-      {
-         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
-         "pubDate" : "Wed, 15 Nov 2023 18:30:00",
-         "title" : "Saint Louis Rapid & Blitz, Day 2: Live"
       },
       {
          "description" : "Fritz 19 leads with 1.5 to 0.5, against the humans, by beating Leon Mendonca, and drawing with Elisabeth Paehtz. Robert Ris is now facing the aggressive bull at strong club player level. And quickly, The Dutch IM has a piece more against Fritz 19! Unfortunately, the bull storms towards Robert with countless threats! Who will prevail?",
@@ -408,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mega-database-2024-more-than-700-000-new-games",
          "pubDate" : "Tue, 14 Nov 2023 09:30:00",
          "title" : "Mega Database 2024: More than 700,000 new games"
-      },
-      {
-         "description" : "In the diagram position White just played 53.g4+. Should Black take the offered pawn with 53...Kxg4 or should he ignore the potentially dangerous g-pawn and go for the white pawns on the queenside with 53...Ke4? What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-very-strong-king",
-         "pubDate" : "Tue, 14 Nov 2023 09:00:00",
-         "title" : "A (very) strong king"
       },
       {
          "description" : "The third round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro, and both Open and Women's sections got two leaders with perfect score. Poland and Germany are co-leading the Open championship, while Azerbaijan and France emerged as the leaders of the Women's event scoring 6 match points, each. Ranked 3rd on the starting list, Germany was a favourite in the match against Serbia, and after tight fights claimed a narrow 2.5-1.5 victory. GM Matthias Bluebaum []",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2719",
          "pubDate" : "Sat, 04 Nov 2023 23:34:23 +0000",
          "title" : "FIDE Grand Swiss: A trio of leaders after Round 10; Vaishali qualifies for Candidates"
-      },
-      {
-         "description" : "GM Jose Martinez was crowned as November&#39;s first Bullet Brawl&#38;nbsp;winner after surviving a late resurgence by GM Oleksandr Bortnyk on Saturday. Having built a solid lead in the first half of the event, Martinez looked to be running away with the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jose-martinez-wins-bullet-brawl-november-4-2023",
-         "pubDate" : "Sat, 04 Nov 2023 19:21:00",
-         "title" : "Brawl Winner Martinez Makes Knight-Bishop Checkmate With 12 Seconds On Clock"
       },
       {
          "description" : "France has scored two notable successes in recent events. In Mexico the rising French star Marc Andria Maurizzi has won the Junior World Championship. The 16-year-old emerged at the top on tie-break, well ahead of the favourite Hans Niemann, the new American prodigy Andy Woodward and Britain's hope, Shreyas Royal. Next, the experienced French Grandmaster Maxime Vachier-Lagrave has decisively []",
