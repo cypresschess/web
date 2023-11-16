@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-alireza-firouzja-sacrifices-queen-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F3dN3zdxQ-A.jpg?itok=oDcALpWq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-alireza-firouzja-sacrifices-queen-shorts",
+         "pubDate" : "Thu, 16 Nov 2023 07:46:32",
+         "title" : "2023 Saint Louis Rapid & Blitz | Alireza Firouzja Sacrifices Queen | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-blunders-ends-draw-against-wesley-so-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M0Ep_zLysc4.jpg?itok=4E7s4-oR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-blunders-ends-draw-against-wesley-so-shorts",
+         "pubDate" : "Thu, 16 Nov 2023 07:46:32",
+         "title" : "2023 Saint Louis Rapid & Blitz | Fabi Blunders, Ends in Draw Against Wesley So | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-liem-claims-valid-threefold-rep-wrong-move-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/um_yG1LgSkI.jpg?itok=QstOIVOZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-liem-claims-valid-threefold-rep-wrong-move-shorts",
+         "pubDate" : "Thu, 16 Nov 2023 07:46:32",
+         "title" : "2023 Saint Louis Rapid & Blitz | Liem Claims Valid Threefold Rep With The Wrong Move! | #shorts"
+      },
+      {
          "description" : "Germany beat Armenia to grab the sole lead after five rounds in the open section of the European Team Championship. Wins for Vincent Keymer and Matthias Bluebaum, both with black, gave the Germans match victory. Four teams are sharing second place a match point back, including Romania, who defeated the former co-leaders from Poland. In the women's championship, France and Azerbaijan scored convincing wins to remain as co-leaders going into the rest day. | Photo: Paul Meyer-Dunker / German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -200,30 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts",
          "pubDate" : "Wed, 15 Nov 2023 07:45:45",
          "title" : "2023 Saint Louis Rapid & Blitz | Anish Giri Finds Potentially Winning Move Against MVL | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-blunders-round-1-against-giri-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6MmHjH6P57Y.jpg?itok=4uKFEOEL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-maxime-vachier-lagrave-blunders-round-1-against-giri-shorts",
-         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
-         "title" : "2023 Saint Louis Rapid & Blitz | Maxime Vachier-Lagrave Blunders in Round 1 Against Giri | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-commentators-discuss-nepos-quick-play-style-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Amdr1lCa_MY.jpg?itok=EEeT7Duw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-commentators-discuss-nepos-quick-play-style-shorts",
-         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
-         "title" : "2023 Saint Louis Rapid & Blitz | Commentators Discuss Nepo's Quick Play Style | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-and-blitz-standings-after-rapid-round-1-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VXtnVPe5qlI.jpg?itok=Fe--9vbR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-and-blitz-standings-after-rapid-round-1-shorts",
-         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
-         "title" : "2023 Saint Louis Rapid and Blitz | Standings After Rapid Round 1 | #shorts"
       },
       {
          "description" : "Finally, it comes down to this. GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest names in chess, go head-to-head with the top players of 2023 as Chess.com&#38;rsquo;s $2 million Champions Chess Tour reaches its grand finale next month. For ...",
