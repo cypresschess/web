@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-never-checks-standings-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qymZKZBF-Dw.jpg?itok=SxRwzxDg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-never-checks-standings-stlrapidblitz",
+         "pubDate" : "Thu, 16 Nov 2023 22:47:19",
+         "title" : "Nepomniachtchi Never Checks the Standings | #STLRapidBlitz"
+      },
+      {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,11 +74,11 @@ news_feed (
          "title" : "I have now seen this happen"
       },
       {
-         "description" : "GM Hou Yifan defeated GM Alexandra Kosteniuk 12.5-9.5 to secure her spot in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final.&#38;nbsp; The 22-game match saw just three draws. Kosteniuk led by one point at the end of each of the first two...",
+         "description" : "GM Hou Yifan defeated GM Alexandra Kosteniuk 12.5-9.5 to secure her spot in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final.&#38;nbsp; The hotly contested 22-game match saw just three draws. Kosteniuk led by one point at the end of each ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-hou-wins",
-         "pubDate" : "Thu, 16 Nov 2023 12:00:03 -0800",
+         "pubDate" : "Thu, 16 Nov 2023 12:00:00 -0800",
          "title" : "Hou Yifan Prevails In Clash Of World Champions"
       },
       {
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-arjun-win-titled-tuesday-november-14-2023",
          "pubDate" : "Wed, 15 Nov 2023 08:26:00 -0800",
          "title" : "Nakamura, Fresh Off Blitz Rating Record, Wins Titled Tuesday"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0AiLYu47NbY.jpg?itok=jD84nhlM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-anish-giri-finds-potentially-winning-move-against-mvl-shorts",
-         "pubDate" : "Wed, 15 Nov 2023 07:45:45",
-         "title" : "2023 Saint Louis Rapid & Blitz | Anish Giri Finds Potentially Winning Move Against MVL | #shorts"
       },
       {
          "description" : "Finally, it comes down to this. GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest names in chess, go head-to-head with the top players of 2023 as Chess.com&#38;rsquo;s $2 million Champions Chess Tour reaches its grand finale next month. For ...",
@@ -1328,22 +1328,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/oct/27/chess-nakamura-and-firouzja-at-risk-as-fide-grand-swiss-opens-on-isle-of-man",
          "pubDate" : "Fri, 27 Oct 2023 07:00:39",
          "title" : "Chess: Nakamura and Firouzja at risk as Fide Grand Swiss opens on Isle of Man"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2703",
-         "pubDate" : "Thu, 26 Oct 2023 22:56:01 +0000",
-         "title" : "Winners crowned at World Cadets Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2702",
-         "pubDate" : "Thu, 26 Oct 2023 21:51:13 +0000",
-         "title" : "FIDE Grand Swiss: Trench warfare in Round 2"
       }
    ]
 }
