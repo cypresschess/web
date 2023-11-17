@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The Grand Chess Tour features classical, rapid, and blitz time controls. The Saint Louis Rapid &amp; Blitz players share how they adjust between those lengths before the start of the 2023 tournament. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-control-style-strategy-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/time-control-style-strategy-stlrapidblitz",
+         "pubDate" : "Fri, 17 Nov 2023 01:47:45",
+         "title" : "Time Control Style & Strategy | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.18<br /> GrandChessTour.org BLITZ ROUND ROBIN | 5 Min. Incr. 2 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-5-grandchesstour",
+         "pubDate" : "Fri, 17 Nov 2023 01:47:45",
+         "title" : "2023 Saint Louis Rapid & Blitz: Day 5 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after going 1-1-1 in the final three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.16<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-i%E2%80%99ve-caught-blitz-i-my-chances-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xpR70iC9UAw.jpg?itok=qQfz7b50\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-i%E2%80%99ve-caught-blitz-i-my-chances-d3-stlrapidblitz",
+         "pubDate" : "Fri, 17 Nov 2023 01:47:45",
+         "title" : "Firouzja: I've Caught Up Before in Blitz; I Like My Chances | D3 #STLRapidBlitz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-never-checks-standings-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qymZKZBF-Dw.jpg?itok=SxRwzxDg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -184,30 +208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-i%E2%80%99m-gonna-push-my-luck-tomorrow-d2-stlrapidblitz",
          "pubDate" : "Thu, 16 Nov 2023 01:46:16",
          "title" : "MVL: I'm Gonna Push My Luck Tomorrow | D2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.17<br /> GrandChessTour.org BLITZ ROUND ROBIN | 5 Min. Incr. 2 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-4-grandchesstour",
-         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
-         "title" : "2023 Saint Louis Rapid & Blitz: Day 4 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Anastasiya Karlovich after going 1-0-2 in the middle three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-lead-not-expected-i-should-be-happy-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VQMt_8_KJes.jpg?itok=DHLzp5Va\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/robson-lead-not-expected-i-should-be-happy-d2-stlrapidblitz",
-         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
-         "title" : "Robson: Lead Not Expected, But I Should Be Happy | D2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 2. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-last-2-tour-events-will-be-critical-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e-sziM_EPBQ.jpg?itok=rhkAwpzS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-last-2-tour-events-will-be-critical-stlrapidblitz",
-         "pubDate" : "Wed, 15 Nov 2023 22:46:27",
-         "title" : "Caruana: Last 2 Tour Events Will Be Critical | #STLRapidBlitz"
       },
       {
          "description" : "It can happen so quickly. Yesterday Vincent Keymer was the second best 18-year-old chess player in the world, today he is the world's best 19-year old - today, 15 November 2023, Keymer is celebrating his 19th birthday. As befits a chess professional, at the board.",
