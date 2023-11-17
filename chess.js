@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris looks at the games Robson-Xiong and Firouzja-So from the Saint Louis Rapid tournament. Both games featured a popular line in the Petroff Defence, in which Robson and Firouzja played aggressively, forcing Black to deal with a number of practical problems. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sharp-petroffs",
+         "pubDate" : "Fri, 17 Nov 2023 16:00:00",
+         "title" : "Robert Ris' Fast and Furious: Sharp Petroffs from Saint Louis!"
+      },
+      {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Fri, 17 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2748",
+         "pubDate" : "Fri, 17 Nov 2023 14:48:26 +0000",
+         "title" : "FIDE World Rapid and Blitz Championships 2023: Information for players "
+      },
+      {
+         "description" : "I won 50 Elo this month so I should win at least 50 Elo next month.\" \"I've beaten them 5 times already, obviously I will win again.\" Those are just 2 examples of a bias we all fall for. It is human psychology. Once we have something, we expect to have at least the same in the future. It happens with money, status &#38; chess ratings. The problem is that money, status, or chess ratings are not granted. Just because you earned it once, doesn't mean that you will earn the same or more in the future....",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/ambtion-without-expectations/",
+         "pubDate" : "Fri, 17 Nov 2023 14:10:22",
+         "title" : "Ambtion Without Expectations"
+      },
+      {
          "description" : "Fritz 19 is in the lead again with 2.5 to 1.5. But maybe our strong club level player Jan Jettel, perhaps better known as Schachnotizen, can defeat the tricky engine opponent. You either love, or hate to play against an ultra-aggressive club player, who pushes pawns forward non-stop, and sacrifices pieces with delight. The Swindler is exactly this. In the dramatic battle with Jan Jettel, the fox character pulls off a couple of tricks in typical swindler fashion. A game, Jan will probably never forget!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,6 +114,14 @@ news_feed (
          "title" : "2023 Saint Louis Rapid & Blitz | Sevian Knocks Firouzja Down The Leaderboards | #shorts"
       },
       {
+         "description" : "GM Ray Robson leads the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 11/18 in the rapid segment. 3/6 was enough for Robson to maintain the lead on Thursday, but GM Fabiano Caruana, who scored 4/6 on day three, looms one point shy of the lead, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-3",
+         "pubDate" : "Fri, 17 Nov 2023 01:59:00",
+         "title" : "Caruana Comeback As Robson Wins Rapid"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Grand Chess Tour features classical, rapid, and blitz time controls. The Saint Louis Rapid &amp; Blitz players share how they adjust between those lengths before the start of the 2023 tournament. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-control-style-strategy-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://aicf.in/round-3-report-wycc-italy-2023/",
          "pubDate" : "Thu, 16 Nov 2023 16:43:44",
          "title" : "Round 3 report WYCC Italy 2023"
-      },
-      {
-         "description" : "GM Ray Robson leads the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 11/18 in the rapid segment. 3/6 was enough for Robson to maintain the lead on Thursday, but GM Fabiano Caruana, who scored 4/6 on day three, looms one point shy of the lead, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-3",
-         "pubDate" : "Thu, 16 Nov 2023 16:40:00",
-         "title" : "Caruana Comeback As Robson Wins Rapid"
       },
       {
          "description" : "The second day of rapid started off slow with ten straight draws, before an explosive final round left GM Ray Robson at the top of the standings after an important win over GM Alireza Firouzja. Heading into the final day of rapid, Robson leads with 8.0/12, while GMs Maxime Vachier Lagrave, Anish Giri, and Le Quang Liem trail closely behind with 7.0/12. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
@@ -442,28 +474,12 @@ news_feed (
          "title" : "Elisabeth Paehtz vs. Fritz 19 - The Positional (Strong Club Player)"
       },
       {
-         "description" : "With over 10 million games the Mega Database 2024 is the indispensable chess database for every chess player, for preparation or chess training in all conceivable facets - now available in the updated 2024 edition, also as Big Database without annotated games and update service. Also new: the Corr Database 2024 Correspondence Chess Database with 80,000 tournaments and 2.3 million correspondence games - for players who want to know even more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-the-databases-2024-mega-big-and-corr",
-         "pubDate" : "Tue, 14 Nov 2023 13:55:17",
-         "title" : "New: The Databases 2024: Mega, Big and Corr"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2740",
          "pubDate" : "Tue, 14 Nov 2023 13:34:41 +0000",
          "title" : "FIDE partners with Safe Sport International for Safeguarding Framework"
-      },
-      {
-         "description" : "Poland and Germany scored 2&frac12;-1&frac12; victories on Monday to go into round 4 of the European Team Championship as co-leaders. Both teams had to compensate for an individual loss with two victories to keep their perfect scores. Meanwhile, Norway suffered a second upset loss in a row, this time against Iceland - despite Magnus Carlsen winning on the top board. In the women's championship, France and Azerbaijan are tied for first place with 6/6 match points. | Photo: Paul Meyer-Dunker",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r3",
-         "pubDate" : "Tue, 14 Nov 2023 12:45:00",
-         "title" : "Euro Teams: Poland and Germany share the lead"
       },
       {
          "description" : "",
