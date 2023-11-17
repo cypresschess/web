@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
+         "pubDate" : "Fri, 17 Nov 2023 18:30:00",
+         "title" : "Saint Louis Rapid & Blitz, Day 4: Live"
+      },
+      {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris looks at the games Robson-Xiong and Firouzja-So from the Saint Louis Rapid tournament. Both games featured a popular line in the Petroff Defence, in which Robson and Firouzja played aggressively, forcing Black to deal with a number of practical problems. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2023",
          "pubDate" : "Tue, 14 Nov 2023 16:15:00",
          "title" : "Saint Louis Rapid & Blitz 2023 - Games and Results"
-      },
-      {
-         "description" : "After Leon Mendonca lost against the GM Dog, it's Elisabeth Paehtz's turn to win a point for the humans! Unfortunately, the positional player, the owl, is programmed to play stable and solid. And even at strong club player level, the nocturnal bird can be a threat! However, Elli quickly gains a huge advantage with a well-known London System opening trick, which you can watch on one of her Fritztrainer's. But will it be enough? There is always the club chess player, and co-host Arne Kaehler to stir up weird move suggestions ...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-vs-fritz-19-the-positional-strong-club-player",
-         "pubDate" : "Tue, 14 Nov 2023 16:00:00",
-         "title" : "Elisabeth Paehtz vs. Fritz 19 - The Positional (Strong Club Player)"
       },
       {
          "description" : "",
