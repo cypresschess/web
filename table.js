@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2023-11-01  - 11-15","5","<a href=http://www.uschess.org/msa/XtblMain.php?202311159242 target='_blank'>CLCC NOVEMBER WEDNESDAYS</a>",
 "LEAGUE CITY","2023-11-11","161","<a href=http://www.uschess.org/msa/XtblMain.php?202311116452 target='_blank'>HYDE SCHOLASTIC TOURNAMENT</a>",
 "HOUSTON","2023-11-11","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311115872 target='_blank'>CHESSPANDA11112023SATURDAY</a>",
 "SPRING","2023-11-10","26","<a href=http://www.uschess.org/msa/XtblMain.php?202311105742 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2023-05-06","32","<a href=http://www.uschess.org/msa/XtblMain.php?202305067632 target='_blank'>EVENT NAME MISSING</a>",
 "HOUSTON","2023-05-05","22","<a href=http://www.uschess.org/msa/XtblMain.php?202305059232 target='_blank'>REBECCA CHESS CLUB QUADS MAY 5, 2023</a>",
 "SUGAR LAND","2023-05-05","9","<a href=http://www.uschess.org/msa/XtblMain.php?202305056882 target='_blank'>FBCC 2023 CINCO DE MAYO OPEN/FBCC 2</a>",
-"SPRING","2023-05-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202305056852 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
