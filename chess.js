@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fritz 19 is in the lead again with 2.5 to 1.5. But maybe our strong club level player Jan Jettel, perhaps better known as Schachnotizen, can defeat the tricky engine opponent. You either love, or hate to play against an ultra-aggressive club player, who pushes pawns forward non-stop, and sacrifices pieces with delight. The Swindler is exactly this. In the dramatic battle with Jan Jettel, the fox character pulls off a couple of tricks in typical swindler fashion. A game, Jan will probably never forget!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-jettel-vs-fritz-19-the-swindler-strong-club-player",
+         "pubDate" : "Fri, 17 Nov 2023 13:06:30",
+         "title" : "Jan Jettel vs. Fritz 19 - The Swindler (Strong Club Player)"
+      },
+      {
+         "description" : "Despite a last round loss Grandmaster Ray Robson ended up winning the rapid portion of the 2023 Saint Louis Rapid & Blitz, with a score of 11.0/18 heading into the blitz tomorrow. Tied for second were GMs Fabiano Caruana and Maxime Vachier-Lagrave, both on 10.0/18, with several players (Firouzja, Nepomniachtchi, Giri, Liem) trailing closely behind with an even 9.0/18. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-3-robson-wins-rapid",
+         "pubDate" : "Fri, 17 Nov 2023 12:50:00",
+         "title" : "St. Louis Rapid and Blitz, Day 3: Robson wins rapid section"
+      },
+      {
+         "description" : " The 2023 Vikings Weekender begins tomorrow, with the first round at 10am Canberra time. The top section is quite strong for such an event, with almost all of Canberra's top players taking part. IM Junta Ikeda is the top seed, with FM's Michael Kethro and Fred Litchfield also taking part. The Minor (Under 1600) will also be quite competitive, as the restriction on entries for the top section means a few players have been moved down from the Open to this section. The tournament results, plus live games from the top section can be found at <a href=\"http://tournaments.streetchess.net/vikings2023/\">http://tournaments.streetchess.net/vikings2023/</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender.html",
+         "pubDate" : "Fri, 17 Nov 2023 12:41:00",
+         "title" : "2023 Vikings Weekender"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2746",
+         "pubDate" : "Fri, 17 Nov 2023 11:04:54 +0000",
+         "title" : "Close race after four rounds at World Youth Chess Championship 2023"
+      },
+      {
+         "description" : "Chess in Schools and Communities are proud to announce that the London Chess Classic will return to the capital this December for its thirteenth edition....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/announcing-the-2023-london-chess-classic/",
+         "pubDate" : "Fri, 17 Nov 2023 10:50:30",
+         "title" : "Announcing the 2023 London Chess Classic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2747",
+         "pubDate" : "Fri, 17 Nov 2023 09:26:36 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
+      },
+      {
+         "description" : " Dour battles and small margins have put England's new-look squad just a single match point behind the leaders Germany, but this weekend's final rounds will be difficult England were in fifth place going into Thursday's rest day after five of the nine rounds of the 36-nation European team championship in Budva, Montenegro. They were unbeaten, with three wins and two draws, and they were just a single match point behind the leaders, Germany. However, their task in this weekend's closing rounds will be difficult. Favourable pairings so far mean that England have avoided playing any of the other seven teams in the leading group, but that will end starting with Friday's sixth-round match against",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
+         "pubDate" : "Fri, 17 Nov 2023 08:00:39",
+         "title" : "Chess: England fifth at halfway in European teams, but hard work is ahead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-how-does-anish-giri-win-time-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2lL3uCHR1ow.jpg?itok=1RcYedAQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-how-does-anish-giri-win-time-shorts",
+         "pubDate" : "Fri, 17 Nov 2023 07:48:08",
+         "title" : "2023 Saint Louis Rapid & Blitz | \"How Does Anish Giri Win? On Time!\" | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-ray-robson-makes-crucial-move-1-second-left-clock-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ch_w8DDVl0I.jpg?itok=SGRXCrTr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-ray-robson-makes-crucial-move-1-second-left-clock-shorts",
+         "pubDate" : "Fri, 17 Nov 2023 07:48:08",
+         "title" : "2023 Saint Louis Rapid & Blitz | Ray Robson Makes Crucial Move With 1 Second Left on Clock |#shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-sevian-knocks-firouzja-down-leaderboards-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wKAqmuvMI4o.jpg?itok=pF7UfpUM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-sevian-knocks-firouzja-down-leaderboards-shorts",
+         "pubDate" : "Fri, 17 Nov 2023 07:48:08",
+         "title" : "2023 Saint Louis Rapid & Blitz | Sevian Knocks Firouzja Down The Leaderboards | #shorts"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The Grand Chess Tour features classical, rapid, and blitz time controls. The Saint Louis Rapid &amp; Blitz players share how they adjust between those lengths before the start of the 2023 tournament. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-control-style-strategy-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -34,14 +114,6 @@ news_feed (
          "title" : "Nepomniachtchi Never Checks the Standings | #STLRapidBlitz"
       },
       {
-         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
-         "pubDate" : "Thu, 16 Nov 2023 18:30:00",
-         "title" : "Saint Louis Rapid & Blitz, Day 3: Live"
-      },
-      {
          "description" : "Baskaran Adhiban had quite a rough start in the FIDE Grand Swiss, but that did not prevent him from returning to his trademark creative style in round six against Eduardo Iturrizaga. We don't want to give too many spoilers, but Paul Morphy would have been proud! In Game of the Week #594, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +136,14 @@ news_feed (
          "link" : "https://aicf.in/round-3-report-wycc-italy-2023/",
          "pubDate" : "Thu, 16 Nov 2023 16:43:44",
          "title" : "Round 3 report WYCC Italy 2023"
+      },
+      {
+         "description" : "GM Ray Robson leads the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 11/18 in the rapid segment. 3/6 was enough for Robson to maintain the lead on Thursday, but GM Fabiano Caruana, who scored 4/6 on day three, looms one point shy of the lead, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-3",
+         "pubDate" : "Thu, 16 Nov 2023 16:40:00",
+         "title" : "Caruana Comeback As Robson Wins Rapid"
       },
       {
          "description" : "The second day of rapid started off slow with ten straight draws, before an explosive final round left GM Ray Robson at the top of the standings after an important win over GM Alireza Firouzja. Heading into the final day of rapid, Robson leads with 8.0/12, while GMs Maxime Vachier Lagrave, Anish Giri, and Le Quang Liem trail closely behind with 7.0/12. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
@@ -102,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-hou-wins",
-         "pubDate" : "Thu, 16 Nov 2023 12:00:00 -0800",
+         "pubDate" : "Thu, 16 Nov 2023 12:00:00",
          "title" : "Hou Yifan Prevails In Clash Of World Champions"
       },
       {
@@ -174,7 +254,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlos-alcaraz-bot",
-         "pubDate" : "Thu, 16 Nov 2023 07:00:00 -0800",
+         "pubDate" : "Thu, 16 Nov 2023 07:00:00",
          "title" : "Play Chess Against Tennis Prodigy Carlos Alcaraz"
       },
       {
@@ -184,30 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2023-r5",
          "pubDate" : "Thu, 16 Nov 2023 02:30:00",
          "title" : "Euro Teams: Germany in the sole lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 2. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-i-know-i-can-beat-world%E2%80%99s-elite-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sB9m0vV6czk.jpg?itok=eYASZ2lq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-i-know-i-can-beat-world%E2%80%99s-elite-stlrapidblitz",
-         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
-         "title" : "Sevian: I Know I Can Beat The World's Elite | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after going 1-0-2 in the middle three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-defends-%E2%80%98very-well%E2%80%99-against-liem-le-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pitbgG379cE.jpg?itok=o-NmuTr1\" al",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-defends-%E2%80%98very-well%E2%80%99-against-liem-le-d2-stlrapidblitz",
-         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
-         "title" : "Caruana Defends 'Very Well' Against Liem Le! | D2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after going 1-0-2 in the middle three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.15<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i%E2%80%99m-gonna-push-my-luck-tomorrow-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tBT2hREgaHc.jpg?itok=Tdk2-xEH\" alt=\"\" /></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-i%E2%80%99m-gonna-push-my-luck-tomorrow-d2-stlrapidblitz",
-         "pubDate" : "Thu, 16 Nov 2023 01:46:16",
-         "title" : "MVL: I'm Gonna Push My Luck Tomorrow | D2 #STLRapidBlitz"
       },
       {
          "description" : "It can happen so quickly. Yesterday Vincent Keymer was the second best 18-year-old chess player in the world, today he is the world's best 19-year old - today, 15 November 2023, Keymer is celebrating his 19th birthday. As befits a chess professional, at the board.",
@@ -230,7 +286,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-2",
-         "pubDate" : "Wed, 15 Nov 2023 19:45:00 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 19:45:00",
          "title" : "Flagging, Incorrect Draw Claim, And Missed Chances As Robson Hits The Front"
       },
       {
@@ -246,7 +302,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-4-5",
-         "pubDate" : "Wed, 15 Nov 2023 17:53:00 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 17:53:00",
          "title" : "Keymer Gives Germany Sole Lead On His 19th Birthday"
       },
       {
@@ -254,7 +310,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-breaks-rating-record-chesscom-blitz",
-         "pubDate" : "Wed, 15 Nov 2023 14:43:00 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 14:43:00",
          "title" : "Nakamura Records Highest Ever Blitz Rating On Chess.com"
       },
       {
@@ -286,7 +342,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-kosteniuk-wins",
-         "pubDate" : "Wed, 15 Nov 2023 10:44:00 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 10:44:00",
          "title" : "'Chess Queen' Kosteniuk Wins Battle Of Generations Vs. Vaishali"
       },
       {
@@ -342,7 +398,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-arjun-win-titled-tuesday-november-14-2023",
-         "pubDate" : "Wed, 15 Nov 2023 08:26:00 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 08:26:00",
          "title" : "Nakamura, Fresh Off Blitz Rating Record, Wins Titled Tuesday"
       },
       {
@@ -350,7 +406,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-and-hikaru-final-battle-champions-chess-tour-finals-2023",
-         "pubDate" : "Wed, 15 Nov 2023 07:08:18 -0800",
+         "pubDate" : "Wed, 15 Nov 2023 07:08:18",
          "title" : "Magnus And Hikaru Face Final Battle: Stage Set For New Over The Board Champions Chess Tour Finals 2023 In Toronto"
       },
       {
@@ -358,7 +414,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-1",
-         "pubDate" : "Tue, 14 Nov 2023 19:47:00 -0800",
+         "pubDate" : "Tue, 14 Nov 2023 19:47:00",
          "title" : "Le Takes Lead As Saint Louis Rapid & Blitz Begins With A Bang"
       },
       {
@@ -422,7 +478,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-lagno-wins",
-         "pubDate" : "Tue, 14 Nov 2023 11:06:00 -0800",
+         "pubDate" : "Tue, 14 Nov 2023 11:06:00",
          "title" : "Lagno Clinches With Double-Digit Margin, Advances To Semifinals"
       },
       {
@@ -438,16 +494,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/india-makes-world-chess-champion-move-with-240k-assistance",
-         "pubDate" : "Tue, 14 Nov 2023 10:38:00 -0800",
+         "pubDate" : "Tue, 14 Nov 2023 10:38:00",
          "title" : "India Makes World Championship Move With $240K To Vidit, Praggnanandhaa, Vaishali"
-      },
-      {
-         "description" : "Leon Luke Mendonca fears nobody, not even the Grandmaster level of the brand new Fritz 19! The Indian Grandmaster faces the allrounder, which is one of six new player types, that Fritz 19 has to offer. Does Leon even have a tiny chance against the powerful GM-Level? Can the allrounder score, just by maintaining an innocent demeanor? You can find out in the video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-vs-fritz-19-the-allrounder-gm-level",
-         "pubDate" : "Tue, 14 Nov 2023 10:02:46",
-         "title" : "Leon Mendonca vs. Fritz 19 - The Allrounder (GM level)"
       },
       {
          "description" : "The third round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro, and both Open and Women's sections got two leaders with perfect score. Poland and Germany are co-leading the Open championship, while Azerbaijan and France emerged as the leaders of the Women's event scoring 6 match points, each. Ranked 3rd on the starting list, Germany was a favourite in the match against Serbia, and after tight fights claimed a narrow 2.5-1.5 victory. GM Matthias Bluebaum []",
@@ -462,7 +510,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/pro-chess-league-2024-biggest-prize-fund-yet",
-         "pubDate" : "Tue, 14 Nov 2023 05:54:00 -0800",
+         "pubDate" : "Tue, 14 Nov 2023 05:54:00",
          "title" : "Pro Chess League 2024: Teams Gear Up To Fight For Biggest Prize Fund Yet"
       },
       {
@@ -478,7 +526,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-2-3",
-         "pubDate" : "Mon, 13 Nov 2023 18:25:00 -0800",
+         "pubDate" : "Mon, 13 Nov 2023 18:25:00",
          "title" : "Poland, Germany On Perfect Score; Carlsen Can't Save Norway"
       },
       {
@@ -494,7 +542,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-harika-hou-win",
-         "pubDate" : "Mon, 13 Nov 2023 13:42:00 -0800",
+         "pubDate" : "Mon, 13 Nov 2023 13:42:00",
          "title" : "Harika Wins All 3 Segments, Hou Yifan Cranks Out 7-Game Winning Streak"
       },
       {
@@ -526,7 +574,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-playoffs-slu-utrgv",
-         "pubDate" : "Sun, 12 Nov 2023 18:55:15 -0800",
+         "pubDate" : "Sun, 12 Nov 2023 18:55:15",
          "title" : "GM-Elect Rodrigue-Lemieux Leads UTRGV To Victory, SLU Progresses To Semifinals"
       },
       {
@@ -574,7 +622,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-1",
-         "pubDate" : "Sat, 11 Nov 2023 18:52:00 -0800",
+         "pubDate" : "Sat, 11 Nov 2023 18:52:00",
          "title" : "Carlsen Wins, Mamedyarov Beaten As Top Seeds Crash To Defeat"
       },
       {
@@ -582,7 +630,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-11-2023",
-         "pubDate" : "Sat, 11 Nov 2023 18:28:03 -0800",
+         "pubDate" : "Sat, 11 Nov 2023 18:28:03",
          "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
       },
       {
@@ -686,7 +734,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-superfan-app-ios",
-         "pubDate" : "Fri, 10 Nov 2023 09:54:41 -0800",
+         "pubDate" : "Fri, 10 Nov 2023 09:54:41",
          "title" : "Send The Perfect Text Message With The New iOS Chess.com Superfan App"
       },
       {
@@ -702,7 +750,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/harvard-takes-on-the-chesskids",
-         "pubDate" : "Fri, 10 Nov 2023 04:16:00 -0800",
+         "pubDate" : "Fri, 10 Nov 2023 04:16:00",
          "title" : "Harvard Takes On The ChessKids: Can A Top University's Bright Young Things Beat Tani And Alice"
       },
       {
@@ -726,7 +774,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-wscc-bracket-contest",
-         "pubDate" : "Thu, 09 Nov 2023 14:33:05 -0800",
+         "pubDate" : "Thu, 09 Nov 2023 14:33:05",
          "title" : "Submit Your Predictions For The 2023 WSCC Bracket Contest"
       },
       {
@@ -742,7 +790,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-qualifier-shuvalova-priyanka-win",
-         "pubDate" : "Thu, 09 Nov 2023 13:19:00 -0800",
+         "pubDate" : "Thu, 09 Nov 2023 13:19:00",
          "title" : "Shuvalova, Priyanka Qualify For Julius Baer WSCC 2023"
       },
       {
@@ -806,7 +854,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-7-2023",
-         "pubDate" : "Wed, 08 Nov 2023 09:24:54 -0800",
+         "pubDate" : "Wed, 08 Nov 2023 09:24:54",
          "title" : "Magnus Secures The Sweep"
       },
       {
@@ -814,7 +862,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-announces-world-rapid-and-blitz-championships-eight-weeks-before-it-starts",
-         "pubDate" : "Wed, 08 Nov 2023 06:04:00 -0800",
+         "pubDate" : "Wed, 08 Nov 2023 06:04:00",
          "title" : "FIDE Announces World Rapid And Blitz In Uzbekistan"
       },
       {
@@ -838,7 +886,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nunn-adams-win-2023-world-senior-titles",
-         "pubDate" : "Tue, 07 Nov 2023 13:21:00 -0800",
+         "pubDate" : "Tue, 07 Nov 2023 13:21:00",
          "title" : "British Chess Legends Adams, Nunn Win World Senior Titles"
       },
       {
@@ -848,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2727",
          "pubDate" : "Tue, 07 Nov 2023 11:39:28 +0000",
          "title" : "2023 World Amateur Championship crosses halfway mark"
-      },
-      {
-         "description" : "The regular season of the 2023 Collegiate Chess League (CCL) fall season has come to a close and the University of Texas Dallas sits atop the table after their 14-2 drubbing of Columbia University (CU) on Saturday. Three of their players&#38;mdash;GMs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-mizzou-utdallas",
-         "pubDate" : "Tue, 07 Nov 2023 09:37:13 -0800",
-         "title" : "Mizzou, UT Dallas Lead Ahead Of Playoffs & SIG Predictions Challenge Is Here"
       },
       {
          "description" : "World Chess has announced the release of the first-ever chess map of the world, one that blends the intricate worlds of chess and geography. This unique cartographic creation, where continents and places are crafted from chess openings with geographical names, promises to be a collector's delight.",
@@ -1218,14 +1258,6 @@ news_feed (
          "title" : "Storms on and off the board in Round 6 of FIDE Grand Swiss "
       },
       {
-         "description" : "Top-level chess is underway in Nottingham where invited Grandmasters take on some of England's best young players, including the cream of Nottingham's chess talent. This...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/nca-centenary-grandmaster-tournament/",
-         "pubDate" : "Mon, 30 Oct 2023 13:12:54",
-         "title" : "NCA Centenary Grandmaster Tournament"
-      },
-      {
          "description" : " I've had a couple of interesting experiences with the 50 move rule over the years. During the last round of a past Sydney International Open, 2 players dragged the game well beyond the point where they could claim, one because he thought he was winning (at that stage he was not), and the other because he thought you could only claim if there were no pawns on the board (NB This was prior to the 75 move rule coming into effect). Going in the other direction, it appears a recent game at a tournament I was the arbiter for ended in a draw after the players reached move 50 and basically agreed that the game was drawn. Note: this was 50 moves in total, starting from move 1, with plenty of pawn mov",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1304,30 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2704",
          "pubDate" : "Fri, 27 Oct 2023 22:17:52 +0000",
          "title" : "FIDE Grand Swiss: King's Representative sparks excitement in Round 3 "
-      },
-      {
-         "description" : "Many Chess improvers are stuck because they ask the wrong questions. The most common example is (once again...) openings. Most people try to answer the following question: How can I have the best possible opening repertoire?\" 1) This question is not that important. 2) It is never-ending. Trying to answer this question will cost you a lot of money (invested in the latest \"best opening course\") and time. Quality Questions create a quality life. Successful people ask better questions, and as a...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/how-to-ask-the-right-questions/",
-         "pubDate" : "Fri, 27 Oct 2023 13:11:23",
-         "title" : "How To Ask The Right Questions"
-      },
-      {
-         "description" : " It seems that the end of the year has been 'back loaded' with a number of important events. The 2023 Grand Swiss is underway, and has once again attracted a stellar field. 106 of the 114 players are GM's, with 7 IM's and 1 2300 rated untitled player. While Temur Kuybokarov is flying the Australian flag, Canberra resident GM Hrant Melkumyan is also taking part. Both have got off to good starts, going into round 3 on 1.5/2. The 50 player Women's event is also strong, with 16 GM's and 6 WGM's in the field. Coverage of the event can be found at <a href=\"https://grandswiss.fide.com/\">https://grandswiss.fide.com/</a> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/2023-grand-swiss.html",
-         "pubDate" : "Fri, 27 Oct 2023 12:10:00",
-         "title" : "2023 Grand Swiss"
-      },
-      {
-         "description" : " The world Nos 3 and 4 are battling for two Candidates places in the $460,000, 114-player event, but both started slowly while rivals who prepared with non-stop blitz began with wins Hikaru Nakamura of the US and Alireza Firouzja of France, the world Nos 3 and 4, are among the favourites in the 114-player Fide Grand Swiss event at Douglas, Isle of Man. The event offers a $460,000 prize fund from the Scheinberg family, which has sponsored international events on the island since 2014. Two places in the 2024 Candidates, and a potential challenge to China's world champion Ding Liren, are also at stake. A fast start is reckoned important in such a high class field where almost all the players ar",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/oct/27/chess-nakamura-and-firouzja-at-risk-as-fide-grand-swiss-opens-on-isle-of-man",
-         "pubDate" : "Fri, 27 Oct 2023 07:00:39",
-         "title" : "Chess: Nakamura and Firouzja at risk as Fide Grand Swiss opens on Isle of Man"
       }
    ]
 }
