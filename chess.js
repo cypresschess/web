@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 4. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-important-firouzja-world-championship-or-rating-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8SNQpDAmRn0.jpg?itok=pcWb0SM9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/most-important-firouzja-world-championship-or-rating-stlrapidblitz",
+         "pubDate" : "Fri, 17 Nov 2023 22:48:45",
+         "title" : "Most Important to Firouzja: World Championship or Rating? | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 4. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-good-position-qualify-candidates-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iIwX8alyXzo.jpg?itok=6On40U_5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-good-position-qualify-candidates-stlrapidblitz",
+         "pubDate" : "Fri, 17 Nov 2023 22:48:45",
+         "title" : "Giri: In a Good Position to Qualify for Candidates | #STLRapidBlitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2749",
+         "pubDate" : "Fri, 17 Nov 2023 21:35:48 +0000",
+         "title" : "Chess, choices, and change: The Hector Guifarro story"
+      },
+      {
+         "description" : " England produced a stunning performance with three wins and a draw and now face joint leaders Germany on Saturday in round seven (of nine) at the European team championship After dour performances in their previous five matches, England produced a stunning victory in Friday's sixth round of the European team championship in Budva, Montenegro. Their 3.5-0.5 win against the Netherlands jumped them into the joint lead with Germany, who drew 2-2 with Romania. England v Germany in Saturday's seventh round (of nine) will now be a potential gold medal match. It can be watched, live and free, on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a> and other leading chess websites, starting at ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
+         "pubDate" : "Fri, 17 Nov 2023 21:32:01",
+         "title" : "Chess: England crush Netherlands at Euro teams and move into joint lead"
+      },
+      {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/ambtion-without-expectations/",
          "pubDate" : "Fri, 17 Nov 2023 14:10:22",
          "title" : "Ambtion Without Expectations"
+      },
+      {
+         "description" : "The London Chess Classic will return with its 13th edition this December in a field headed by Indian prodigy GM Gukesh Dommaraju. The event could potentially be decisive for the 18-year-old&#39;s hunt for a Candidates spot. The return of the flagshi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-heads-field-in-2023-london-chess-classic",
+         "pubDate" : "Fri, 17 Nov 2023 13:27:00",
+         "title" : "Gukesh Heads Field In London As Classic Chess Event Returns In December"
       },
       {
          "description" : "Fritz 19 is in the lead again with 2.5 to 1.5. But maybe our strong club level player Jan Jettel, perhaps better known as Schachnotizen, can defeat the tricky engine opponent. You either love, or hate to play against an ultra-aggressive club player, who pushes pawns forward non-stop, and sacrifices pieces with delight. The Swindler is exactly this. In the dramatic battle with Jan Jettel, the fox character pulls off a couple of tricks in typical swindler fashion. A game, Jan will probably never forget!",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2747",
          "pubDate" : "Fri, 17 Nov 2023 09:26:36 +0000",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
-      },
-      {
-         "description" : " Dour battles and small margins have put England's new-look squad just a single match point behind the leaders Germany, but this weekend's final rounds will be difficult England were in fifth place going into Thursday's rest day after five of the nine rounds of the 36-nation European team championship in Budva, Montenegro. They were unbeaten, with three wins and two draws, and they were just a single match point behind the leaders, Germany. However, their task in this weekend's closing rounds will be difficult. Favourable pairings so far mean that England have avoided playing any of the other seven teams in the leading group, but that will end starting with Friday's sixth-round match against",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
-         "pubDate" : "Fri, 17 Nov 2023 08:00:39",
-         "title" : "Chess: England fifth at halfway in European teams, but hard work is ahead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-how-does-anish-giri-win-time-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2lL3uCHR1ow.jpg?itok=1RcYedAQ\" alt=\"\" /></a></div>",
@@ -264,30 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-books-and-chess-stories-sagar-shah-interviews-dirk-jan-ten-geuzendam",
          "pubDate" : "Thu, 16 Nov 2023 10:31:29",
          "title" : "The amazing book collection of Dirk Jan ten Geuzendam: A true chess connoisseur - an interview with Sagar Shah"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-alireza-firouzja-sacrifices-queen-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F3dN3zdxQ-A.jpg?itok=oDcALpWq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-alireza-firouzja-sacrifices-queen-shorts",
-         "pubDate" : "Thu, 16 Nov 2023 07:46:32",
-         "title" : "2023 Saint Louis Rapid & Blitz | Alireza Firouzja Sacrifices Queen | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-blunders-ends-draw-against-wesley-so-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M0Ep_zLysc4.jpg?itok=4E7s4-oR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-blunders-ends-draw-against-wesley-so-shorts",
-         "pubDate" : "Thu, 16 Nov 2023 07:46:32",
-         "title" : "2023 Saint Louis Rapid & Blitz | Fabi Blunders, Ends in Draw Against Wesley So | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-liem-claims-valid-threefold-rep-wrong-move-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/um_yG1LgSkI.jpg?itok=QstOIVOZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-liem-claims-valid-threefold-rep-wrong-move-shorts",
-         "pubDate" : "Thu, 16 Nov 2023 07:46:32",
-         "title" : "2023 Saint Louis Rapid & Blitz | Liem Claims Valid Threefold Rep With The Wrong Move! | #shorts"
       },
       {
          "description" : "Chess.com is excited to announce the newest addition to our lineup of athlete chess bots, the Spanish tennis phenom Carlos Alcaraz. You can challenge the young prodigy on our Play Computer page.&#38;nbsp; But beware: Alcaraz will bring to the che...",
@@ -898,14 +906,6 @@ news_feed (
          "title" : "EDU Commission announces its 12th Preparation of Teachers course"
       },
       {
-         "description" : "British chess has gotten another boost as legends GM Michael Adams (50+) and GM John Nunn (65+) both secured gold medals in the World Senior Championship last week. WGM Monica Calzetta Ruiz (50+) from Spain and WGM Galina Strutinskaia (65+) won wo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nunn-adams-win-2023-world-senior-titles",
-         "pubDate" : "Tue, 07 Nov 2023 13:21:00",
-         "title" : "British Chess Legends Adams, Nunn Win World Senior Titles"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1344,14 +1344,6 @@ news_feed (
          "link" : "https://www.thearticle.com/napoleon-and-goethe-touchstone-of-genius/",
          "pubDate" : "Sat, 28 Oct 2023 05:27:19",
          "title" : "Napoleon and Goethe: touchstone of genius"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2704",
-         "pubDate" : "Fri, 27 Oct 2023 22:17:52 +0000",
-         "title" : "FIDE Grand Swiss: King's Representative sparks excitement in Round 3 "
       }
    ]
 }
