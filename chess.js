@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave took the sole lead after the first day of blitz in Saint Louis, thanks to a fantastic 7/9 performance to give him a total score of 17/27. Trailing with 15 points each are Fabiano Caruana and Ian Nepomniachtchi, with nine more games of blitz to be played on Saturday. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-4-mvl-sole-leader",
+         "pubDate" : "Sat, 18 Nov 2023 16:10:00",
+         "title" : "St. Louis Rapid and Blitz, Day 4: MVL climbs to sole first place"
+      },
+      {
+         "description" : "Does lightning strike twice? For some players, apparently so. But perhaps you need the aura of a chess legend to be able to achieve this. Magnus Carlsen plays another beautiful game and there is plenty of pattern recognition at work here, as well as some training in calculation! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-magnus-strikes-twice",
+         "pubDate" : "Sat, 18 Nov 2023 15:30:00",
+         "title" : "Daniel King's Power Play Show: Magnus strikes twice"
+      },
+      {
+         "description" : "Dr Max Euwe was the fifth world chess champion, wresting the title from Alexander Alekhine in 1935. Chivalrously, Euwe granted his defeated foe a revenge match in 1937, which resulted not only in an Alekhine victory, but a contest which witnessed probably the highest quality games ever produced in a world championship match, not just []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/max-euwe-master-of-the-empty-square/",
+         "pubDate" : "Sat, 18 Nov 2023 15:08:27",
+         "title" : "Max Euwe: master of the empty square"
+      },
+      {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Sat, 18 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : " This years Vikings Weekender fells like a bit of a throwback to the 1980s. Due to venue constraints the tournaments (Open and Under 1600) are only 5 rounds, with 3 on the Saturday and 2 on the Sunday. As a result, both events are already pretty cut-throat affairs, with a single loss leaving players with a very tough assignment if they hope to take 1st place. In the Open section, Roger Farrell and Harry Press lead with 3/3. Farrell beat FM Michael Kethro in the evening game, while top seed IM Junta Ikeda drew with FM Fred Litchfield. Press and Farrell are paired in round 4, with the winner looking good to win the overall event. Of course Ikeda and Litchfield cam overtake them, but either (or",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-1.html",
+         "pubDate" : "Sat, 18 Nov 2023 13:10:00",
+         "title" : "2023 Vikings Weekender - Day 1"
+      },
+      {
          "description" : "The 13th edition of the London Chess Classic will take place on December 1-10 as a 10-player single round-robin with a classical time control. The event will feature nine Super Grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American Hans Niemann, whose sensational victory over the then world champion Magnus Carlsen sent the chess world into turmoil.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-4",
-         "pubDate" : "Fri, 17 Nov 2023 22:55:14",
+         "pubDate" : "Fri, 17 Nov 2023 22:55:00",
          "title" : "Vachier-Lagrave's 2971 Rating Performance Sends Him Top"
       },
       {
@@ -114,20 +154,12 @@ news_feed (
          "title" : "Chess: England crush Netherlands at Euro teams and move into joint lead"
       },
       {
-         "description" : "ChessKid Stars, IM Alice Lee and FM Tani Adewumi, defeated the Harvard Chess Club, represented by co-presidents WGM Jennifer Yu and FM Chris Shen, in the first-ever Harvard vs. ChessKid match. Starting off with a three-game winning streak, the p...",
+         "description" : "ChessKid Stars, IM-elect Alice Lee and FM Tani Adewumi, defeated the Harvard Chess Club, represented by co-presidents WGM Jennifer Yu and FM Chris Shen, in the first-ever Harvard vs. ChessKid match. Starting off with a three-game winning streak,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-harvard-vs-chesskid",
-         "pubDate" : "Fri, 17 Nov 2023 20:02:24",
-         "title" : "ChessKid Stars Defeat Harvard in 1st-Ever Match"
-      },
-      {
-         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
-         "pubDate" : "Fri, 17 Nov 2023 18:30:00",
-         "title" : "Saint Louis Rapid & Blitz, Day 4: Live"
+         "pubDate" : "Fri, 17 Nov 2023 20:02:00",
+         "title" : "ChessKid Stars Defeat Harvard"
       },
       {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris looks at the games Robson-Xiong and Firouzja-So from the Saint Louis Rapid tournament. Both games featured a popular line in the Petroff Defence, in which Robson and Firouzja played aggressively, forcing Black to deal with a number of practical problems. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -418,14 +450,6 @@ news_feed (
          "title" : "Nakamura Records Highest Ever Blitz Rating On Chess.com"
       },
       {
-         "description" : "In chess, blunders are inevitable. Of course, you might try to minimize them with tactical training, but you will never be able to get rid of them altogether. The same is true for unpleasant surprises. Whatever you do to be fully prepared for anything that might happen at the board, your opponent will still be time to time able to play a nasty unexpected move that gets you in a state of shock and horror. | Photo: A shocked Magnus Carlsen, analysing a game he played against Levon Aronian at the Grand Chess Tour tournament in Zagreb 2019 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-26-shock",
-         "pubDate" : "Wed, 15 Nov 2023 14:10:54",
-         "title" : "The Winning Academy 26: Shock!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -448,14 +472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-kosteniuk-wins",
          "pubDate" : "Wed, 15 Nov 2023 10:44:00",
          "title" : "'Chess Queen' Kosteniuk Wins Battle Of Generations Vs. Vaishali"
-      },
-      {
-         "description" : "No more teams have perfect scores in either section of the European Team Championships. In the open tournament, Armenia joined Germany and Poland in the lead thanks to a 3-1 victory over Israel. In the women's tournament, Germany joined Azerbaijan and France thanks to a 2&frac12;-1&frac12; victory over Hungary. Meanwhile, Magnus Carlsen scored his third win of the event, as he helped Norway to grab 2 match points in their match against Finland. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r4",
-         "pubDate" : "Wed, 15 Nov 2023 10:35:00",
-         "title" : "Euro Teams: Armenia catch leaders, Carlsen wins again"
       },
       {
          "description" : "The UK Parliamentary Chess Club played its first over-the-board match in decades, and it was bruising encounter for them against a well-organised and impressive Imperial...",
@@ -1328,22 +1344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2706",
          "pubDate" : "Sat, 28 Oct 2023 22:08:43 +0000",
          "title" : "Four slow Slavs in Round 4 of FIDE Grand Swiss"
-      },
-      {
-         "description" : " CM Helen Milligan is a regular competitor on the seniors circuit. Having just finished playing in the 2023 Asian Seniors, she immediately travelled to Italy for the 2023 World Seniors. After starting with 1.5/2, she found that he 3rd round opponent was former World Champion GM Nona Gaprindashvili. If she might have felt nervous before the game about playing such a legend, it did not show during the game, where she looked to be the player making most of the threats. Towards the end Gaprindashvili went for a line where she had 2 pieces for the rook, but some nice tactics from Milligan restored the material balance, and the game was agreed draw in a position still slightly favouring Milligan. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/not-every-day-you-draw-with-former.html",
-         "pubDate" : "Sat, 28 Oct 2023 13:13:00",
-         "title" : "Not every day you draw with a former World Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2705",
-         "pubDate" : "Sat, 28 Oct 2023 12:50:38 +0000",
-         "title" : "Jos&eacute; Cubas and Thalia Landeiro win 2023 Pan American Chess Esports Finals"
       }
    ]
 }
