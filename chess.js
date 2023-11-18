@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
+         "pubDate" : "Sat, 18 Nov 2023 18:30:00",
+         "title" : "Saint Louis Rapid & Blitz, Day 5: Live"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave took the sole lead after the first day of blitz in Saint Louis, thanks to a fantastic 7/9 performance to give him a total score of 17/27. Trailing with 15 points each are Fabiano Caruana and Ian Nepomniachtchi, with nine more games of blitz to be played on Saturday. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-2",
          "pubDate" : "Wed, 15 Nov 2023 19:45:00",
          "title" : "Flagging, Incorrect Draw Claim, And Missed Chances As Robson Hits The Front"
-      },
-      {
-         "description" : "Fritz 19 leads with 1.5 to 0.5, against the humans, by beating Leon Mendonca, and drawing with Elisabeth Paehtz. Robert Ris is now facing the aggressive bull at strong club player level. And quickly, The Dutch IM has a piece more against Fritz 19! Unfortunately, the bull storms towards Robert with countless threats! Who will prevail?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-vs-fritz-19-the-aggressive-strong-club-player",
-         "pubDate" : "Wed, 15 Nov 2023 18:00:00",
-         "title" : "Robert Ris vs. Fritz 19 - The Aggressive (Strong Club Player)"
       },
       {
          "description" : "GM Vincent Keymer celebrated his 19th birthday with a win over Armenia&#39;s GM Haik Martirosyan that gave Germany the sole lead after round five of the 2023 European Team Chess Championship and took the young star up to world number-17 on the live ra...",
