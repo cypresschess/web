@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-11-03  - 11-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202311179902 target='_blank'>REBECCA CHESS CLUB NOVEMBER 2023 MONTHLY SWISS</a>",
+"HOUSTON","2023-11-17","9","<a href=http://www.uschess.org/msa/XtblMain.php?202311179882 target='_blank'>REBECCA CHESS CLUB QUADS NOVEMBER 17, 2023</a>",
 "LEAGUE CITY","2023-11-01  - 11-15","5","<a href=http://www.uschess.org/msa/XtblMain.php?202311159242 target='_blank'>CLCC NOVEMBER WEDNESDAYS</a>",
 "LEAGUE CITY","2023-11-11","161","<a href=http://www.uschess.org/msa/XtblMain.php?202311116452 target='_blank'>HYDE SCHOLASTIC TOURNAMENT</a>",
 "HOUSTON","2023-11-11","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311115872 target='_blank'>CHESSPANDA11112023SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2023-05-12","28","<a href=http://www.uschess.org/msa/XtblMain.php?202305120952 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-05-07","24","<a href=http://www.uschess.org/msa/XtblMain.php?202305078802 target='_blank'>MAY 7TH 2023 SUNDAY SWISS</a>",
 "CYPRESS","2023-05-06","32","<a href=http://www.uschess.org/msa/XtblMain.php?202305067632 target='_blank'>EVENT NAME MISSING</a>",
-"HOUSTON","2023-05-05","22","<a href=http://www.uschess.org/msa/XtblMain.php?202305059232 target='_blank'>REBECCA CHESS CLUB QUADS MAY 5, 2023</a>",
-"SUGAR LAND","2023-05-05","9","<a href=http://www.uschess.org/msa/XtblMain.php?202305056882 target='_blank'>FBCC 2023 CINCO DE MAYO OPEN/FBCC 2</a>",
 ]);
