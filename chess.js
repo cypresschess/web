@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black has just started to neutralize the strong bishop b3 with ...Be6. But Boris Spassky strongly objected - how about you?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strike-like-spassky",
+         "pubDate" : "Sat, 18 Nov 2023 09:00:00",
+         "title" : "Strike like Spassky"
+      },
+      {
+         "description" : "After six played rounds at the European Team Chess Championship 2023 in Budva, Montenegro, France emerged as the sole leader of the Women's section, while Germany and England co-lead in the Open tournament. Today's top board match in the Open section between Germany and Romania finished in a tie after intense fights. GM Vincent Keymer (GER, 2721) prevailed against GM Richard Rapport (ROU, 2748) on the first board, but GM Liviu-Dieter Nisipeanu (ROU, 2591) scored against GM Dmitrij Kollars (GER, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/etcc2023-england-joins-germany-in-the-lead-of-the-open-section-france-emerges-on-the-top-of-the-womens-event/",
+         "pubDate" : "Sat, 18 Nov 2023 07:56:29",
+         "title" : "#ETCC2023 - England joins Germany in the lead of the Open section; France emerges on the top of the Women's event"
+      },
+      {
+         "description" : "Flashy games were seen on the top boards of both sections in round 6 of the European Team Chess Championships. In the open, England obtained a clear 3&frac12;-&frac12; victory over the Netherlands to join Germany in the lead. Romania and Serbia are sharing third place, a match point behind the co-leaders. Meanwhile, in the women's tournament, France became the sole leader after beating the top seeds from Georgia. | Pictured: Michael Adams, who turned 52 years old on Friday | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-6",
+         "pubDate" : "Sat, 18 Nov 2023 06:20:00",
+         "title" : "Euro Teams: England co-leaders after convincing victory"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after going 5-3-1 in the first nine blitz rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.17<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-mvl-17-i%E2%80%99m-fighting-2nd-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/D99hl5HAruQ.jpg?itok=TDmIVSPn\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-blitz-mistakes-and-brilliancies-happen-d4-stlrapidblitz",
          "pubDate" : "Sat, 18 Nov 2023 01:48:46",
          "title" : "MVL: In Blitz, Mistakes and Brilliancies Happen | D4 #STLRapidBlitz"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave rose to the top of the leaderboard at the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 7/9 on the first day of blitz chess, with a 2971 rating performance. A loss against GM Ian Nepomniachtchi was the only blight on h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-4",
+         "pubDate" : "Fri, 17 Nov 2023 22:55:14",
+         "title" : "Vachier-Lagrave's 2971 Rating Performance Sends Him Top"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 4. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-important-firouzja-world-championship-or-rating-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8SNQpDAmRn0.jpg?itok=pcWb0SM9\" alt=\"\" /></a></div>",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sharp-petroffs",
          "pubDate" : "Fri, 17 Nov 2023 16:00:00",
          "title" : "Robert Ris' Fast and Furious: Sharp Petroffs from Saint Louis!"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Fri, 17 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
       },
       {
          "description" : "",
@@ -474,14 +498,6 @@ news_feed (
          "title" : "Le Takes Lead As Saint Louis Rapid & Blitz Begins With A Bang"
       },
       {
-         "description" : "Fritz 19 comes with six sparring partners, each representing a completely different type of player. There is the aggressive attacker (Bull), the swindler (Fox) or the endgame crack (Turtle) and a few more. And those who train well will be rewarded. Stefen Liebig took a look at the brand new Fritz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-19-pick-your-sparring-partner-a-review",
-         "pubDate" : "Tue, 14 Nov 2023 17:00:00",
-         "title" : "Fritz 19: Pick your sparring partner!"
-      },
-      {
          "description" : " The Saint Louis Rapid & Blitz takes place Tue 14th to Sun 19th Nov 2023. Players: Nepomniachtchi, MVL, Caruana, Wesley So, Firouzja, Xiong, Giri, Le Quang Liem, Robson and Sevian. 9 rounds of rapid over 3 days followed by 18 rounds of blitz over 2 days. Play starts at 19:00 GMT.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -826,14 +842,6 @@ news_feed (
          "title" : "Shuvalova, Priyanka Qualify For Julius Baer WSCC 2023"
       },
       {
-         "description" : "The 2023 European Team Chess Championship kicks off this Saturday in Budva, Montenegro. The event will be played from 11th to 20th November in the Conference Hall of the *****Hotel Splendid. The Championship is played in 9 rounds, swiss system, with Open and Women's sections separately. The time control will be 90 minutes for 40 moves + 30 minutes for the rest of the game, with 30 seconds increment for every move played starting from move one. 70 teams from []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2023-starts-in-budva-montenegro/",
-         "pubDate" : "Thu, 09 Nov 2023 11:31:55",
-         "title" : "European Team Chess Championship 2023 starts in Budva, Montenegro"
-      },
-      {
          "description" : "Recruitment of meritorious sports persons in the department of posts in the cadres of postal assistant, sorting assistant, postman, mail guard and multi tasking staff.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-4th-tamil-nadu-im-norm-tournament/",
          "pubDate" : "Wed, 08 Nov 2023 10:03:57",
          "title" : "Live games link for 4th Tamil Nadu IM norm tournament"
-      },
-      {
-         "description" : "In the November 7 edition of Titled Tuesday, GM Magnus Carlsen finally joined the list of players to win both tournaments on a single day, becoming the sixth player to pull off the feat. After a come-from-behind early win, where Carlsen was only t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-7-2023",
-         "pubDate" : "Wed, 08 Nov 2023 09:24:54",
-         "title" : "Magnus Secures The Sweep"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
@@ -1336,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2705",
          "pubDate" : "Sat, 28 Oct 2023 12:50:38 +0000",
          "title" : "Jos&eacute; Cubas and Thalia Landeiro win 2023 Pan American Chess Esports Finals"
-      },
-      {
-         "description" : "At a time when Europe was blessed with an extraordinary efflorescence of giant personalities - Metternich and Talleyrand in politics, Beethoven and Schiller in the arts, Nelson and Wellington in warfare - Napoleon Bonaparte, the supreme warrior, and Goethe, the pinnacle of European culture, met face to face. In fact, they did so twice in 1808, in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/napoleon-and-goethe-touchstone-of-genius/",
-         "pubDate" : "Sat, 28 Oct 2023 05:27:19",
-         "title" : "Napoleon and Goethe: touchstone of genius"
       }
    ]
 }
