@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the London Chess Classic will take place on December 1-10 as a 10-player single round-robin with a classical time control. The event will feature nine Super Grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American Hans Niemann, whose sensational victory over the then world champion Magnus Carlsen sent the chess world into turmoil.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-preview",
+         "pubDate" : "Sat, 18 Nov 2023 12:00:00",
+         "title" : "The London Chess Classic is back!"
+      },
+      {
+         "description" : "U18 Open: IM ILAMPARTHI continues his impressive run with a draw against the top seed and high-rated Russian Grand Master A R MURZIN, Volodar, and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-4-report-of-world-youth-chess-championship-italy-2023/",
+         "pubDate" : "Sat, 18 Nov 2023 11:14:21",
+         "title" : "Round 4 report of World Youth Chess Championship, Italy 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2750",
+         "pubDate" : "Sat, 18 Nov 2023 10:21:58 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2023: Day 4 Recap"
+      },
+      {
          "description" : "In the diagram position, Black has just started to neutralize the strong bishop b3 with ...Be6. But Boris Spassky strongly objected - how about you?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Strike like Spassky"
       },
       {
-         "description" : "After six played rounds at the European Team Chess Championship 2023 in Budva, Montenegro, France emerged as the sole leader of the Women's section, while Germany and England co-lead in the Open tournament. Today's top board match in the Open section between Germany and Romania finished in a tie after intense fights. GM Vincent Keymer (GER, 2721) prevailed against GM Richard Rapport (ROU, 2748) on the first board, but GM Liviu-Dieter Nisipeanu (ROU, 2591) scored against GM Dmitrij Kollars (GER, []",
+         "description" : "After six played rounds at the European Team Chess Championship 2023 in Budva, Montenegro, France emerged as the sole leader of the Women's section, while Germany and England co-lead in the Open tournament. Yesterday's top board match in the Open section between Germany and Romania finished in a tie after intense fights. GM Vincent Keymer (GER, 2721) prevailed against GM Richard Rapport (ROU, 2748) on the first board, but GM Liviu-Dieter Nisipeanu (ROU, 2591) scored against GM Dmitrij Kollars (GER, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/etcc2023-england-joins-germany-in-the-lead-of-the-open-section-france-emerges-on-the-top-of-the-womens-event/",
@@ -458,14 +482,6 @@ news_feed (
          "title" : "ECU Congress & ECU General Assembly 2023"
       },
       {
-         "description" : "The 2023 Saint Louis Rapid and Blitz kicked off on Monday with the first three rounds of rapid action, as the Grand Chess Tour makes its fourth stop of the year. After the first day of play, wildcard GM Le Quang Liem leads the field with 5.0/6, with GMs Alireza Firouzja and Ray Robson tied for second with 4.0/6. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-1-wildcard-le-quang-liem-takes-sole-lead",
-         "pubDate" : "Wed, 15 Nov 2023 09:22:22",
-         "title" : "St. Louis Rapid and Blitz, Day 1: Wildcard Le Quang Liem takes sole lead"
-      },
-      {
          "description" : "Four rounds have been already played at the European Team Chess Championship 2023 and there is a three-way tie for the top of both Open and Women's events. No team remained perfect in the tournament, and Germany, Armenia and Poland score 7 match points (each) to share the top of the Open section, while France, Azerbaijan and Germany lead the Women's championship with the same score. The top-board match of the Open section between 3rd-seeded Germany and 11th-seeded Poland finished []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2729",
          "pubDate" : "Wed, 08 Nov 2023 10:49:01 +0000",
          "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
-      },
-      {
-         "description" : "The link for the tournament is: https://live.tamilchess.com/4th-im-norm-kodaikanal/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-4th-tamil-nadu-im-norm-tournament/",
-         "pubDate" : "Wed, 08 Nov 2023 10:03:57",
-         "title" : "Live games link for 4th Tamil Nadu IM norm tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
