@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after going 5-3-1 in the first nine blitz rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.17<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-mvl-17-i%E2%80%99m-fighting-2nd-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/D99hl5HAruQ.jpg?itok=TDmIVSPn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-mvl-17-i%E2%80%99m-fighting-2nd-d4-stlrapidblitz",
+         "pubDate" : "Sat, 18 Nov 2023 01:48:46",
+         "title" : "Firouzja: With MVL at 17, I'm Fighting for 2nd | D4 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after going 4-3-2 in the first nine blitz rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.17<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-today-i-did-silly-things-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nSdwBvoYYWw.jpg?itok=_X3grdcA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-today-i-did-silly-things-d4-stlrapidblitz",
+         "pubDate" : "Sat, 18 Nov 2023 01:48:46",
+         "title" : "Caruana: Today, I Did Silly Things | D4 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after going 6-1-2 in the first nine blitz rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.17<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-blitz-mistakes-and-brilliancies-happen-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LyY6aWfity4.jpg?itok=00XI6V_B\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-blitz-mistakes-and-brilliancies-happen-d4-stlrapidblitz",
+         "pubDate" : "Sat, 18 Nov 2023 01:48:46",
+         "title" : "MVL: In Blitz, Mistakes and Brilliancies Happen | D4 #STLRapidBlitz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 4. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-important-firouzja-world-championship-or-rating-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8SNQpDAmRn0.jpg?itok=pcWb0SM9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
          "pubDate" : "Fri, 17 Nov 2023 21:32:01",
          "title" : "Chess: England crush Netherlands at Euro teams and move into joint lead"
+      },
+      {
+         "description" : "ChessKid Stars, IM Alice Lee and FM Tani Adewumi, defeated the Harvard Chess Club, represented by co-presidents WGM Jennifer Yu and FM Chris Shen, in the first-ever Harvard vs. ChessKid match. Starting off with a three-game winning streak, the p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-harvard-vs-chesskid",
+         "pubDate" : "Fri, 17 Nov 2023 20:02:24",
+         "title" : "ChessKid Stars Defeat Harvard in 1st-Ever Match"
       },
       {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
@@ -168,30 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/time-control-style-strategy-stlrapidblitz",
          "pubDate" : "Fri, 17 Nov 2023 01:47:45",
          "title" : "Time Control Style & Strategy | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.18<br /> GrandChessTour.org BLITZ ROUND ROBIN | 5 Min. Incr. 2 Sec. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-day-5-grandchesstour",
-         "pubDate" : "Fri, 17 Nov 2023 01:47:45",
-         "title" : "2023 Saint Louis Rapid & Blitz: Day 5 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after going 1-1-1 in the final three rapid rounds of the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.16<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-i%E2%80%99ve-caught-blitz-i-my-chances-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xpR70iC9UAw.jpg?itok=qQfz7b50\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-i%E2%80%99ve-caught-blitz-i-my-chances-d3-stlrapidblitz",
-         "pubDate" : "Fri, 17 Nov 2023 01:47:45",
-         "title" : "Firouzja: I've Caught Up Before in Blitz; I Like My Chances | D3 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-never-checks-standings-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qymZKZBF-Dw.jpg?itok=SxRwzxDg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-never-checks-standings-stlrapidblitz",
-         "pubDate" : "Thu, 16 Nov 2023 22:47:19",
-         "title" : "Nepomniachtchi Never Checks the Standings | #STLRapidBlitz"
       },
       {
          "description" : "Baskaran Adhiban had quite a rough start in the FIDE Grand Swiss, but that did not prevent him from returning to his trademark creative style in round six against Eduardo Iturrizaga. We don't want to give too many spoilers, but Paul Morphy would have been proud! In Game of the Week #594, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-november-7-2023",
          "pubDate" : "Wed, 08 Nov 2023 09:24:54",
          "title" : "Magnus Secures The Sweep"
-      },
-      {
-         "description" : "FIDE has announced the venue for the 2023 FIDE World Rapid and Blitz Championships. The world governing body of chess confirmed the traditional Christmas event will take place in Samarkand, Uzbekistan, from December 26 to 30, with a $1 million p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-announces-world-rapid-and-blitz-championships-eight-weeks-before-it-starts",
-         "pubDate" : "Wed, 08 Nov 2023 06:04:00",
-         "title" : "FIDE Announces World Rapid And Blitz In Uzbekistan"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
