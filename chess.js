@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, I'm looking at calculation and what's reasonable for a mere human being without excessive genuflection to our silicon lords and masters. One thing that the silicon brings us is a totally unprejudiced \"eye\", but seeing far enough in difficult positions over the board is something any competitive player needs to develop properly. | Pictured: Vidit Gujrathi | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-206",
+         "pubDate" : "Sun, 19 Nov 2023 20:00:00",
+         "title" : "Jon Speelman: Calculation without excessive genuflection"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 152nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/november-1973-1998-on-cover.html",
          "pubDate" : "Thu, 16 Nov 2023 16:35:00",
          "title" : "November 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "The second day of rapid started off slow with ten straight draws, before an explosive final round left GM Ray Robson at the top of the standings after an important win over GM Alireza Firouzja. Heading into the final day of rapid, Robson leads with 8.0/12, while GMs Maxime Vachier Lagrave, Anish Giri, and Le Quang Liem trail closely behind with 7.0/12. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-2-robson-sole-leader",
-         "pubDate" : "Thu, 16 Nov 2023 16:30:00",
-         "title" : "St. Louis Rapid and Blitz, Day 2: Robson sole leader"
       },
       {
          "description" : "",
@@ -1352,14 +1352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2708",
          "pubDate" : "Sun, 29 Oct 2023 22:19:34",
          "title" : "From Morphy to Praggnanandhaa - 165 years of chess history in Round 5 of FIDE Grand Swiss"
-      },
-      {
-         "description" : "You might think that in the seven years I've been running a monthly series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016), there would have been several posts about chess clubs. I went back nearly five years and couldn't find a single example. This video, from <I>ChessBase India</I>, might well be the first. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/kAyhA1iFFrs?si=AOqMUKy4ppmzCPK5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>The Most Amazing ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/an-amazing-chess-club.html",
-         "pubDate" : "Sun, 29 Oct 2023 16:37:00",
-         "title" : "An 'Amazing Chess Club'?"
       }
    ]
 }
