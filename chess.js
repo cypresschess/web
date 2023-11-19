@@ -790,7 +790,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-deep-sengupta-and-sayantan-das-finish-1-2-in-france/articleshow/105129568.cms",
-         "pubDate" : "Fri, 10 Nov 2023 14:11:14 +0000",
+         "pubDate" : "Fri, 10 Nov 2023 14:11:14",
          "title" : "Indian Grandmasters Deep and Sayantan finish 1-2 in France"
       },
       {
@@ -926,7 +926,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-am-glad-that-i-kept-persisting-vidit-gujrathi/articleshow/105055642.cms",
-         "pubDate" : "Wed, 08 Nov 2023 03:43:21 +0000",
+         "pubDate" : "Wed, 08 Nov 2023 03:43:21",
          "title" : "I am glad that I kept persisting: Vidit Gujrathi"
       },
       {
