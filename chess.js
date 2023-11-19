@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 152nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-151-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 19 Nov 2023 15:00:00",
+         "title" : "Understanding before Moving 152: Chess history in a nutshell (34)"
+      },
+      {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Sun, 19 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "The round-7 clash of co-leaders between England and Germany ended drawn in the open section of the European Team Championship, which allowed Serbia to join them in the lead thanks to a 2&frac12;-1&frac12; victory over Romania - Alexey Sarana beat Bogdan-Daniel Deac in the one decisive game of the match. Meanwhile, Bulgaria grabbed the sole lead in the women's section, as they inflicted France's first loss of the event. | Pictured: Serbia's Alexandr Predke | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r7",
+         "pubDate" : "Sun, 19 Nov 2023 14:20:00",
+         "title" : "Euro Teams: Serbia beat Romania to join the lead"
+      },
+      {
+         "description" : " IM Junta Ikeda has won the 2023 Vikings Weekender with a score of 4.5/5. He defeated Roger Farrell in the final round to grab outright 1st, and relegate Farrell into a tie for 3rd place. Harry Press had a chance to catch Ikeda with a final round win over FM Fred Litchfield, but a tough round 4 draw against Farrell made it difficult to lift for a final round win. Instead the game was drawn, which was enough for Press to take outright 2nd on 4. Third place was shared between Farrell, Litchfield and Willis Lo, who won his final round game to finish in the prize money. The Minor (Under 1600) was won by Masaki Horikawa on 4.5/5. He defeated Shriya Karthik on the top board, who went into the fina",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-2.html",
+         "pubDate" : "Sun, 19 Nov 2023 12:56:00",
+         "title" : "2023 Vikings Weekender - Day 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,6 +162,14 @@ news_feed (
          "title" : "Nakamura Scores 69/79 To Claim Back-To-Back Bullet Brawl Titles"
       },
       {
+         "description" : "The 13th edition of the London Chess Classic will take place on December 1-10 as a 10-player single round-robin with a classical time control. The event will feature nine Super Grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American Hans Niemann, whose sensational victory over the then world champion Magnus Carlsen sent the chess world into turmoil.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-preview",
+         "pubDate" : "Sat, 18 Nov 2023 18:35:00",
+         "title" : "The London Chess Classic is back!"
+      },
+      {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,28 +202,12 @@ news_feed (
          "title" : "Max Euwe: master of the empty square"
       },
       {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Sat, 18 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
-      },
-      {
          "description" : " This years Vikings Weekender fells like a bit of a throwback to the 1980s. Due to venue constraints the tournaments (Open and Under 1600) are only 5 rounds, with 3 on the Saturday and 2 on the Sunday. As a result, both events are already pretty cut-throat affairs, with a single loss leaving players with a very tough assignment if they hope to take 1st place. In the Open section, Roger Farrell and Harry Press lead with 3/3. Farrell beat FM Michael Kethro in the evening game, while top seed IM Junta Ikeda drew with FM Fred Litchfield. Press and Farrell are paired in round 4, with the winner looking good to win the overall event. Of course Ikeda and Litchfield cam overtake them, but either (or",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-1.html",
          "pubDate" : "Sat, 18 Nov 2023 13:10:00",
          "title" : "2023 Vikings Weekender - Day 1"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic will take place on December 1-10 as a 10-player single round-robin with a classical time control. The event will feature nine Super Grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American Hans Niemann, whose sensational victory over the then world champion Magnus Carlsen sent the chess world into turmoil.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-preview",
-         "pubDate" : "Sat, 18 Nov 2023 12:00:00",
-         "title" : "The London Chess Classic is back!"
       },
       {
          "description" : "Maxime Vachier-Lagrave took the sole lead after the first day of blitz in Saint Louis, thanks to a fantastic 7/9 performance to give him a total score of 17/27. Trailing with 15 points each are Fabiano Caruana and Ian Nepomniachtchi, with nine more games of blitz to be played on Saturday. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
@@ -394,14 +418,6 @@ news_feed (
          "title" : "St. Louis Rapid and Blitz, Day 2: Robson sole leader"
       },
       {
-         "description" : "Three more games to go, and the score between humans vs. Fritz 19 is now 1.5 to 1.5, after Robert Ris conquered the aggressive bull. Svitlana Demchenko's opponent is the turtle, an endgame aficionado. This animal is considered one of the more challenging Fritz 19 characters, and difficult to break. In the Sicilian Kan Variation, the Canadian WIM cannot really advance, until a material imbalance shows up out of nowhere! But things aren't getting easier ...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-demchenko-vs-fritz-19-the-endgame-pro-strong-club-player",
-         "pubDate" : "Thu, 16 Nov 2023 13:00:00",
-         "title" : "Svitlana Demchenko vs. Fritz 19 - The Endgame Pro (Strong Club Player)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -456,14 +472,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-vizianagaram-andhra-pradesh-16-17-dec-2023/",
          "pubDate" : "Thu, 16 Nov 2023 10:38:53",
          "title" : "Senior National Arbiter Seminar & Exam at Vizianagaram Andhra Pradesh 16-17 Dec 2023"
-      },
-      {
-         "description" : "Dirk Jan ten Geuzendam, author, organiser, commentator, chess book collector and editor-in-chief of the renowned chess magazine \"New in Chess\", has conducted numerous interviews with top players over the last four decades. When Sagar Shah, founder and director of ChessBase India, recently visited Holland, he changed roles and interviewed the experienced interviewer. This led to an entertaining conversation about chess books and memories of meeting players such as Kasparov, Karpov, Tal, Anand and many others.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-books-and-chess-stories-sagar-shah-interviews-dirk-jan-ten-geuzendam",
-         "pubDate" : "Thu, 16 Nov 2023 10:31:29",
-         "title" : "The amazing book collection of Dirk Jan ten Geuzendam: A true chess connoisseur - an interview with Sagar Shah"
       },
       {
          "description" : "Chess.com is excited to announce the newest addition to our lineup of athlete chess bots, the Spanish tennis phenom Carlos Alcaraz. You can challenge the young prodigy on our Play Computer page.&#38;nbsp; But beware: Alcaraz will bring to the che...",
