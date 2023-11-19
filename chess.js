@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-sacrifices-rook-2023-saint-louis-rapid-blitz-shorts-stlrapidblitz-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3PtwsjJo07w.jpg?itok=YxM2n_jD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-sacrifices-rook-2023-saint-louis-rapid-blitz-shorts-stlrapidblitz-grandchesstour",
+         "pubDate" : "Sat, 18 Nov 2023 22:49:39",
+         "title" : "Fabi Sacrifices the ROOK | 2023 Saint Louis Rapid & Blitz | #shorts #stlrapidblitz #grandchesstour"
+      },
+      {
+         "description" : "The final game is upon us, and Polina Karelina has to win against the timid mouse character. If not, Fritz 19 won the battle against the humans, since the engine leads with 3:2. The Woman Candidate Master of the Bahamas has a FIDE rating of 1839, but is brave enough to fight the strong club player level! Luckily, the cowardly opponent is the weakest animal of Fritz 19. But on this difficulty level, it is a mighty mouse!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polina-karelina-vs-fritz-19-the-timid-strong-club-player",
+         "pubDate" : "Sat, 18 Nov 2023 21:31:08",
+         "title" : "Polina Karelina vs. Fritz 19 - The Timid (Strong Club Player)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-standings-after-day-one-blitz-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A6Hpm25dRAI.jpg?itok=0BrSu_QF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-standings-after-day-one-blitz-shorts",
+         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
+         "title" : "2023 Saint Louis Rapid & Blitz | Standings After Day One of Blitz | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-vs-liem-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vGCNsvMZ_Vw.jpg?itok=qAQFwALs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-vs-liem-shorts",
+         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
+         "title" : "2023 Saint Louis Rapid & Blitz | Fabi vs Liem | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-its-blunder-alert-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MMOjGjuYl10.jpg?itok=qh00x8Rv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-its-blunder-alert-shorts",
+         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
+         "title" : "2023 Saint Louis Rapid & Blitz | \"It's a Blunder Alert!\" | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-nepo-misses-important-move-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3PtwsjJo07w.jpg?itok=YxM2n_jD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-nepo-misses-important-move-shorts",
+         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
+         "title" : "2023 Saint Louis Rapid & Blitz | Nepo Misses an Important Move | #shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-nepo-brings-back-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/V5-yhZfTjkA.jpg?itok=aCK6Xow8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-nepo-brings-back-shorts",
+         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
+         "title" : "2023 Saint Louis Rapid & Blitz | Nepo brings is back! | #shorts"
+      },
+      {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-4-mvl-sole-leader",
          "pubDate" : "Sat, 18 Nov 2023 16:10:00",
          "title" : "St. Louis Rapid and Blitz, Day 4: MVL climbs to sole first place"
+      },
+      {
+         "description" : "GM Fabiano Caruana won the 2023 Saint Louis Rapid &#38;amp; Blitz by half a point after securing a draw with second-placed GM Maxime Vachier-Lagrave in the final round. Caruana&#39;s 6/9 score on Saturday allowed him to overtake Vachier-Lagrave, whose 3.5...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-5-fabiano-caruana-wins",
+         "pubDate" : "Sat, 18 Nov 2023 15:59:24",
+         "title" : "Caruana Wins Saint Louis Rapid & Blitz After Miracle Hold: Flash Report"
       },
       {
          "description" : "Does lightning strike twice? For some players, apparently so. But perhaps you need the aura of a chess legend to be able to achieve this. Magnus Carlsen plays another beautiful game and there is plenty of pattern recognition at work here, as well as some training in calculation! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -138,14 +202,6 @@ news_feed (
          "title" : "Most Important to Firouzja: World Championship or Rating? | #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 4. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-good-position-qualify-candidates-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iIwX8alyXzo.jpg?itok=6On40U_5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-good-position-qualify-candidates-stlrapidblitz",
-         "pubDate" : "Fri, 17 Nov 2023 22:48:45",
-         "title" : "Giri: In a Good Position to Qualify for Candidates | #STLRapidBlitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -250,44 +306,12 @@ news_feed (
          "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-how-does-anish-giri-win-time-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2lL3uCHR1ow.jpg?itok=1RcYedAQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-how-does-anish-giri-win-time-shorts",
-         "pubDate" : "Fri, 17 Nov 2023 07:48:08",
-         "title" : "2023 Saint Louis Rapid & Blitz | \"How Does Anish Giri Win? On Time!\" | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-ray-robson-makes-crucial-move-1-second-left-clock-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ch_w8DDVl0I.jpg?itok=SGRXCrTr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-ray-robson-makes-crucial-move-1-second-left-clock-shorts",
-         "pubDate" : "Fri, 17 Nov 2023 07:48:08",
-         "title" : "2023 Saint Louis Rapid & Blitz | Ray Robson Makes Crucial Move With 1 Second Left on Clock |#shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-sevian-knocks-firouzja-down-leaderboards-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wKAqmuvMI4o.jpg?itok=pF7UfpUM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-sevian-knocks-firouzja-down-leaderboards-shorts",
-         "pubDate" : "Fri, 17 Nov 2023 07:48:08",
-         "title" : "2023 Saint Louis Rapid & Blitz | Sevian Knocks Firouzja Down The Leaderboards | #shorts"
-      },
-      {
          "description" : "GM Ray Robson leads the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 11/18 in the rapid segment. 3/6 was enough for Robson to maintain the lead on Thursday, but GM Fabiano Caruana, who scored 4/6 on day three, looms one point shy of the lead, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-3",
          "pubDate" : "Fri, 17 Nov 2023 01:59:00",
          "title" : "Caruana Comeback As Robson Wins Rapid"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Grand Chess Tour features classical, rapid, and blitz time controls. The Saint Louis Rapid &amp; Blitz players share how they adjust between those lengths before the start of the 2023 tournament. This aired during Day 3. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-control-style-strategy-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/time-control-style-strategy-stlrapidblitz",
-         "pubDate" : "Fri, 17 Nov 2023 01:47:45",
-         "title" : "Time Control Style & Strategy | #STLRapidBlitz"
       },
       {
          "description" : "Baskaran Adhiban had quite a rough start in the FIDE Grand Swiss, but that did not prevent him from returning to his trademark creative style in round six against Eduardo Iturrizaga. We don't want to give too many spoilers, but Paul Morphy would have been proud! In Game of the Week #594, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -408,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2023-r5",
          "pubDate" : "Thu, 16 Nov 2023 02:30:00",
          "title" : "Euro Teams: Germany in the sole lead"
-      },
-      {
-         "description" : "It can happen so quickly. Yesterday Vincent Keymer was the second best 18-year-old chess player in the world, today he is the world's best 19-year old - today, 15 November 2023, Keymer is celebrating his 19th birthday. As befits a chess professional, at the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-turns-19",
-         "pubDate" : "Wed, 15 Nov 2023 20:43:53",
-         "title" : "Congratulations! Vincent Keymer turns 19"
       },
       {
          "description" : "",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/where-has-shaun-gone.html",
          "pubDate" : "Thu, 09 Nov 2023 13:34:00",
          "title" : "Where has Shaun gone?"
-      },
-      {
-         "description" : "IM Polina Shuvalova and WGM Priyanka Nutakki earned their seats in the Julius Baer Women&#39;s Speed Chess Championship 2023 after emerging on top of a two-day qualifier, which was a 14-round Swiss followed by a double-elimination knockout. The main...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-qualifier-shuvalova-priyanka-win",
-         "pubDate" : "Thu, 09 Nov 2023 13:19:00",
-         "title" : "Shuvalova, Priyanka Qualify For Julius Baer WSCC 2023"
       },
       {
          "description" : "Recruitment of meritorious sports persons in the department of posts in the cadres of postal assistant, sorting assistant, postman, mail guard and multi tasking staff.",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2707",
          "pubDate" : "Sun, 29 Oct 2023 11:01:06 +0000",
          "title" : "FIDE Arbiters' Commission releases the list of arbiters for green, blue, red, and yellow panels"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2706",
-         "pubDate" : "Sat, 28 Oct 2023 22:08:43 +0000",
-         "title" : "Four slow Slavs in Round 4 of FIDE Grand Swiss"
       }
    ]
 }
