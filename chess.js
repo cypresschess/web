@@ -134,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2750",
-         "pubDate" : "Sat, 18 Nov 2023 10:21:58 +0000",
+         "pubDate" : "Sat, 18 Nov 2023 10:21:58",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 4 Recap"
       },
       {
@@ -206,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2749",
-         "pubDate" : "Fri, 17 Nov 2023 21:35:48 +0000",
+         "pubDate" : "Fri, 17 Nov 2023 21:35:48",
          "title" : "Chess, choices, and change: The Hector Guifarro story"
       },
       {
@@ -238,7 +238,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2748",
-         "pubDate" : "Fri, 17 Nov 2023 14:48:26 +0000",
+         "pubDate" : "Fri, 17 Nov 2023 14:48:26",
          "title" : "FIDE World Rapid and Blitz Championships 2023: Information for players "
       },
       {
@@ -286,7 +286,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2746",
-         "pubDate" : "Fri, 17 Nov 2023 11:04:54 +0000",
+         "pubDate" : "Fri, 17 Nov 2023 11:04:54",
          "title" : "Close race after four rounds at World Youth Chess Championship 2023"
       },
       {
@@ -302,7 +302,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2747",
-         "pubDate" : "Fri, 17 Nov 2023 09:26:36 +0000",
+         "pubDate" : "Fri, 17 Nov 2023 09:26:36",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
       },
       {
@@ -358,7 +358,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2745",
-         "pubDate" : "Thu, 16 Nov 2023 12:22:54 +0000",
+         "pubDate" : "Thu, 16 Nov 2023 12:22:54",
          "title" : "ETCC 2023: Germany forges ahead in Open, Azerbaijan and France co-lead women's event"
       },
       {
@@ -390,7 +390,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2744",
-         "pubDate" : "Thu, 16 Nov 2023 10:50:38 +0000",
+         "pubDate" : "Thu, 16 Nov 2023 10:50:38",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 2 Recap"
       },
       {
@@ -438,7 +438,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2743",
-         "pubDate" : "Wed, 15 Nov 2023 20:00:58 +0000",
+         "pubDate" : "Wed, 15 Nov 2023 20:00:58",
          "title" : "WSCC 2023: Hou Yifan, Harika, Lagno and Kosteniuk advance to semis"
       },
       {
@@ -470,7 +470,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2741",
-         "pubDate" : "Wed, 15 Nov 2023 11:26:58 +0000",
+         "pubDate" : "Wed, 15 Nov 2023 11:26:58",
          "title" : "Chess4Peace, a project for women from Ukraine, launched in Poland"
       },
       {
@@ -478,7 +478,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2742",
-         "pubDate" : "Wed, 15 Nov 2023 10:45:29 +0000",
+         "pubDate" : "Wed, 15 Nov 2023 10:45:29",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 1 Recap"
       },
       {
@@ -558,7 +558,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2740",
-         "pubDate" : "Tue, 14 Nov 2023 13:34:41 +0000",
+         "pubDate" : "Tue, 14 Nov 2023 13:34:41",
          "title" : "FIDE partners with Safe Sport International for Safeguarding Framework"
       },
       {
@@ -566,7 +566,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2739",
-         "pubDate" : "Tue, 14 Nov 2023 11:09:17 +0000",
+         "pubDate" : "Tue, 14 Nov 2023 11:09:17",
          "title" : "FIDE Director for Chess Development visits Namibia"
       },
       {
@@ -614,7 +614,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2738",
-         "pubDate" : "Mon, 13 Nov 2023 21:57:48 +0000",
+         "pubDate" : "Mon, 13 Nov 2023 21:57:48",
          "title" : "World Youth Chess Championship kicks off in Montesilvano, Italy"
       },
       {
@@ -630,7 +630,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2737",
-         "pubDate" : "Mon, 13 Nov 2023 17:14:25 +0000",
+         "pubDate" : "Mon, 13 Nov 2023 17:14:25",
          "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
       },
       {
@@ -686,7 +686,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2736",
-         "pubDate" : "Sun, 12 Nov 2023 13:55:06 +0000",
+         "pubDate" : "Sun, 12 Nov 2023 13:55:06",
          "title" : "FIDE Trainer Awards 2023 - Call for nominations"
       },
       {
@@ -710,7 +710,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2735",
-         "pubDate" : "Sat, 11 Nov 2023 21:07:33 +0000",
+         "pubDate" : "Sat, 11 Nov 2023 21:07:33",
          "title" : "2023 European Team Championship kicks off in Budva, Montenegro"
       },
       {
@@ -758,7 +758,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2734",
-         "pubDate" : "Fri, 10 Nov 2023 22:37:42 +0000",
+         "pubDate" : "Fri, 10 Nov 2023 22:37:42",
          "title" : "Winners crowned at World Amateurs Chess Championship 2023"
       },
       {
@@ -782,7 +782,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2733",
-         "pubDate" : "Fri, 10 Nov 2023 16:01:26 +0000",
+         "pubDate" : "Fri, 10 Nov 2023 16:01:26",
          "title" : "ACP Prize established to support young players"
       },
       {
@@ -798,7 +798,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2732",
-         "pubDate" : "Fri, 10 Nov 2023 11:44:49 +0000",
+         "pubDate" : "Fri, 10 Nov 2023 11:44:49",
          "title" : "FIDE World Amateur Championship 2023: Round 8 recap"
       },
       {
@@ -894,7 +894,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2731",
-         "pubDate" : "Wed, 08 Nov 2023 16:48:21 +0000",
+         "pubDate" : "Wed, 08 Nov 2023 16:48:21",
          "title" : "Argentine Championship 2023: Peralta wins fifth title"
       },
       {
@@ -910,7 +910,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2730",
-         "pubDate" : "Wed, 08 Nov 2023 11:29:22 +0000",
+         "pubDate" : "Wed, 08 Nov 2023 11:29:22",
          "title" : "2023 World Amateur Championship: Leaderboards taking shape"
       },
       {
@@ -918,7 +918,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2729",
-         "pubDate" : "Wed, 08 Nov 2023 10:49:01 +0000",
+         "pubDate" : "Wed, 08 Nov 2023 10:49:01",
          "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
       },
       {
@@ -934,7 +934,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2728",
-         "pubDate" : "Tue, 07 Nov 2023 23:08:43 +0000",
+         "pubDate" : "Tue, 07 Nov 2023 23:08:43",
          "title" : "EDU Commission announces its 12th Preparation of Teachers course"
       },
       {
@@ -942,7 +942,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2727",
-         "pubDate" : "Tue, 07 Nov 2023 11:39:28 +0000",
+         "pubDate" : "Tue, 07 Nov 2023 11:39:28",
          "title" : "2023 World Amateur Championship crosses halfway mark"
       },
       {
@@ -958,7 +958,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2726",
-         "pubDate" : "Mon, 06 Nov 2023 13:38:15 +0000",
+         "pubDate" : "Mon, 06 Nov 2023 13:38:15",
          "title" : "Hard-fought title wins at World Senior Championship 2023"
       },
       {
@@ -974,7 +974,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2724",
-         "pubDate" : "Mon, 06 Nov 2023 10:48:32 +0000",
+         "pubDate" : "Mon, 06 Nov 2023 10:48:32",
          "title" : "Deputy Chair of FIDE Management Board visits India"
       },
       {
@@ -982,7 +982,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2723",
-         "pubDate" : "Mon, 06 Nov 2023 09:51:44 +0000",
+         "pubDate" : "Mon, 06 Nov 2023 09:51:44",
          "title" : "Intense Round 4 at 2023 World Amateur Championship in Muscat"
       },
       {
@@ -990,7 +990,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2725",
-         "pubDate" : "Mon, 06 Nov 2023 09:34:51 +0000",
+         "pubDate" : "Mon, 06 Nov 2023 09:34:51",
          "title" : "Robert Huebner turns 75"
       },
       {
@@ -1006,7 +1006,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2722",
-         "pubDate" : "Sun, 05 Nov 2023 22:51:49 +0000",
+         "pubDate" : "Sun, 05 Nov 2023 22:51:49",
          "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
       },
       {
@@ -1046,7 +1046,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2631",
-         "pubDate" : "Sun, 05 Nov 2023 13:30:51 +0000",
+         "pubDate" : "Sun, 05 Nov 2023 13:30:51",
          "title" : "The deadline for submitting 2028 Chess Olympiad bid approaching"
       },
       {
@@ -1054,7 +1054,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2721",
-         "pubDate" : "Sun, 05 Nov 2023 12:59:45 +0000",
+         "pubDate" : "Sun, 05 Nov 2023 12:59:45",
          "title" : "FIDE Executive Director Victor Bologan visits East African counties"
       },
       {
@@ -1086,7 +1086,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2720",
-         "pubDate" : "Sun, 05 Nov 2023 08:42:34 +0000",
+         "pubDate" : "Sun, 05 Nov 2023 08:42:34",
          "title" : "A thrilling Round 3 at World Amateur Chess Championship 2023 "
       },
       {
@@ -1094,7 +1094,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2719",
-         "pubDate" : "Sat, 04 Nov 2023 23:34:23 +0000",
+         "pubDate" : "Sat, 04 Nov 2023 23:34:23",
          "title" : "FIDE Grand Swiss: A trio of leaders after Round 10; Vaishali qualifies for Candidates"
       },
       {
@@ -1110,7 +1110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2718",
-         "pubDate" : "Fri, 03 Nov 2023 22:29:48 +0000",
+         "pubDate" : "Fri, 03 Nov 2023 22:29:48",
          "title" : "Gunpowder fireworks in Round 9 of FIDE Grand Swiss"
       },
       {
@@ -1150,7 +1150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2716",
-         "pubDate" : "Thu, 02 Nov 2023 22:54:43 +0000",
+         "pubDate" : "Thu, 02 Nov 2023 22:54:43",
          "title" : "Caruana misses a Tal-like combination, but still wins in Round 8 of FIDE Grand Swiss"
       },
       {
@@ -1166,7 +1166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2715",
-         "pubDate" : "Thu, 02 Nov 2023 19:03:10 +0000",
+         "pubDate" : "Thu, 02 Nov 2023 19:03:10",
          "title" : "FIDE World Amateur Championship 2023 kicks off in Muscat, Oman"
       },
       {
@@ -1174,7 +1174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2717",
-         "pubDate" : "Thu, 02 Nov 2023 17:48:06 +0000",
+         "pubDate" : "Thu, 02 Nov 2023 17:48:06",
          "title" : "FIDE November 2023 rating list published"
       },
       {
@@ -1198,7 +1198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2714",
-         "pubDate" : "Thu, 02 Nov 2023 00:18:57 +0000",
+         "pubDate" : "Thu, 02 Nov 2023 00:18:57",
          "title" : "Nakamura invokes Fischer's spirit in Round 7 of FIDE Grand Swiss"
       },
       {
@@ -1206,7 +1206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2713",
-         "pubDate" : "Wed, 01 Nov 2023 16:45:20 +0000",
+         "pubDate" : "Wed, 01 Nov 2023 16:45:20",
          "title" : "FIDE Infinite Chess project for children with ASD keeps growing"
       },
       {
@@ -1262,7 +1262,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2712",
-         "pubDate" : "Tue, 31 Oct 2023 18:10:18 +0000",
+         "pubDate" : "Tue, 31 Oct 2023 18:10:18",
          "title" : "World Senior Championship 2023 passes midpoint"
       },
       {
@@ -1270,7 +1270,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2711",
-         "pubDate" : "Tue, 31 Oct 2023 12:15:52 +0000",
+         "pubDate" : "Tue, 31 Oct 2023 12:15:52",
          "title" : "World Amateur Chess Championship 2023 set to commence in Oman"
       },
       {
@@ -1278,7 +1278,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2710",
-         "pubDate" : "Tue, 31 Oct 2023 11:27:23 +0000",
+         "pubDate" : "Tue, 31 Oct 2023 11:27:23",
          "title" : "FIDE approves new regulations for Affiliated Members"
       },
       {
@@ -1302,7 +1302,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2709",
-         "pubDate" : "Mon, 30 Oct 2023 23:47:03 +0000",
+         "pubDate" : "Mon, 30 Oct 2023 23:47:03",
          "title" : "Storms on and off the board in Round 6 of FIDE Grand Swiss "
       },
       {
@@ -1326,7 +1326,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2708",
-         "pubDate" : "Sun, 29 Oct 2023 22:19:34 +0000",
+         "pubDate" : "Sun, 29 Oct 2023 22:19:34",
          "title" : "From Morphy to Praggnanandhaa - 165 years of chess history in Round 5 of FIDE Grand Swiss"
       },
       {
@@ -1342,7 +1342,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2707",
-         "pubDate" : "Sun, 29 Oct 2023 11:01:06 +0000",
+         "pubDate" : "Sun, 29 Oct 2023 11:01:06",
          "title" : "FIDE Arbiters' Commission releases the list of arbiters for green, blue, red, and yellow panels"
       }
    ]
