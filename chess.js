@@ -1344,14 +1344,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-unveils-the-first-ever-chess-map-a-geographical-mast/",
          "pubDate" : "Mon, 30 Oct 2023 09:52:39",
          "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2708",
-         "pubDate" : "Sun, 29 Oct 2023 22:19:34",
-         "title" : "From Morphy to Praggnanandhaa - 165 years of chess history in Round 5 of FIDE Grand Swiss"
       }
    ]
 }
